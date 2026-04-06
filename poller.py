@@ -293,7 +293,7 @@ def main():
                 else:
                     stats["alerts_skipped"] += 1
             else:
-                print(f"  [scorer] Below threshold ({score}% < 50%) — no alert.")
+                print(f"  [scorer] Below threshold ({score}% < 65%) — no alert.")
                 stats["alerts_skipped"] += 1
 
         if stats["alerts_sent"] > 0:
