@@ -1,30 +1,25 @@
-# Greenhouse Job Board Tokens
-# One company slug per line. Lines starting with # are ignored.
-# Add or remove companies freely — no code changes needed.
+# Greenhouse Job Board Tokens — Tech & Fintech
+# Curated for: Java/Python backend, distributed systems, cloud/AWS, fintech/banking, AI/ML
+# One slug per line. Lines starting with # are ignored.
+# Source: verified from boards.greenhouse.io URLs found across job postings & repos
+# -----------------------------------------------------------------------
 
-# === Fintech / Payments ===
-stripe
-coinbase
-plaid
-affirm
-robinhood
-chime
-brex
-mercury
-ramp
-marqeta
-adyen
-square
-klarna
-paysafe
-payoneer
-moderntreasury
-unit
-lithic
-synctera
-paylocity
+# === AI / LLM COMPANIES ===
+anthropic
+cohere
+weightsandbiases
+anyscale
+modal
+gleanwork
+scale
+together
+deepgram
+forethought
+instabase
+greptile
+cursor
 
-# === Big Tech / Cloud ===
+# === BIG TECH ADJACENT / CLOUD INFRA ===
 databricks
 snowflake
 confluent
@@ -40,35 +35,60 @@ sendgrid
 segment
 mixpanel
 amplitude
+braze
+klaviyo
+iterable
+sendbird
+cribl
+cockroachdb
+yugabyte
+benchling
+axiom
 
-# === Infrastructure / DevOps / Security ===
-hashicorp
-pagerduty
+# === DEVOPS / OBSERVABILITY / SECURITY ===
 datadog
+pagerduty
 newrelic
-sumo-logic
+sentry
+grafana
 lacework
 wiz
 snyk
-1password
-crowdstrike
-sentinelone
 okta
-auth0
 teleport
-vultr
+abnormalsecurity
+drata
+expel
+automox
+cybereason
+huntress
+TRMLabs
 
-# === AI / ML ===
-scale
-huggingface
-cohere
-weights-and-biases
-langchain
-anyscale
-modal
-together
+# === DATA ENGINEERING / ANALYTICS ===
+airbyte
+fivetran
+dbtlabs
+prefect
+hightouch
+hex
+greatexpectations
+lightdash
 
-# === SaaS / Enterprise ===
+# === DEVELOPER TOOLS / PLATFORMS ===
+github
+gitlab
+postman
+vercel
+netlify
+render
+fly
+circleci
+dagger
+clerk
+contentful
+contentstack
+
+# === SAAS / PRODUCTIVITY ===
 notion
 figma
 miro
@@ -76,30 +96,162 @@ linear
 retool
 airtable
 zapier
-make
-vercel
-netlify
-render
-railway
-fly
+clickup
+intercom
+dialpad
+calendly
+fellow
+grammarly
+doximity
+dropbox
+duolingo
+coursera
+classpass
+calm
 
-# === Healthcare Tech ===
-oscar
-cityblock
-collective-health
-hinge-health
-tempus
+# === PAYMENTS & MONEY MOVEMENT ===
+stripe
+adyen
+marqeta
+moderntreasury
+payoneer
+paylocity
+remitly
+wise
+q2ebanking
+paymentus
+tabapay
 
-# === Other High-Signal Tech ===
-github
-gitlab
-atlassian
-postman
-sentry
-grafana
-anchore
-dbt-labs
-prefect
-airbyte
-fivetran
-greatexpectations
+# === FINTECH — CONFIRMED GREENHOUSE ===
+branch
+flex
+joinforage
+finfare
+spade
+public
+mesamember
+alloy
+altruist
+ramp
+gusto
+moneylion
+humaninterest
+brex
+mercury
+nextinsurance
+floqast
+expensify
+tipalti
+melio
+bill
+
+# === BANKING-AS-A-SERVICE / EMBEDDED FINANCE ===
+unit
+lithic
+synctera
+column
+treasuryprime
+parafin
+
+# === LENDING / CREDIT ===
+upstart
+lendingclub
+oportun
+hometap
+fundbox
+bluevine
+clearco
+
+# === IDENTITY / COMPLIANCE / FRAUD ===
+sardine
+socure
+persona
+middesk
+hummingbird
+unit21
+sift
+chainalysis
+onfido
+jumio
+trulioo
+
+# === PAYROLL / HR TECH ===
+rippling
+justworks
+lattice
+deel
+remotecom
+pinwheel
+argyle
+truework
+paycom
+paycor
+hibob
+
+# === CRYPTO / BLOCKCHAIN ===
+coinbase
+anchorage
+bitgo
+fireblocks
+moonpay
+blockdaemon
+figment
+gemini
+paxos
+jumptrading
+
+# === INVESTING / WEALTH TECH ===
+wealthfront
+betterment
+robinhood
+acorns
+carta
+angellist
+
+# === INSURTECH ===
+lemonade
+hippo
+root
+embroker
+
+# === NEOBANKS / CONSUMER FINTECH ===
+chime
+sofi
+dave
+brigit
+albert
+greenlight
+current
+
+# === MARKETPLACE / E-COMMERCE TECH ===
+instacart
+faire
+fetch
+airbnb
+lyft
+flexport
+flexe
+godaddy
+golinks
+
+# === ENTERPRISE / B2B SAAS ===
+hubspot
+asana
+braintrust
+fullstory
+everlaw
+descript
+formlabs
+freshpaint
+ivalua
+juicebox
+instabase
+helpscout
+liveblocks
+honeybook
+
+# === EDTECH / OTHER TECH ===
+duolingo
+coursera
+codesmith
+codecademy
