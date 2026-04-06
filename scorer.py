@@ -17,7 +17,7 @@ from typing import Optional
 
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 MODEL = "claude-sonnet-4-20250514"
-SCORE_THRESHOLD = 50        # only alert if score >= this
+SCORE_THRESHOLD = 65        # only alert if score >= this
 MAX_RETRIES = 2
 RETRY_DELAY = 5             # seconds
 
