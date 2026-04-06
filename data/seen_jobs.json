@@ -10261,7 +10261,7 @@
   },
   "7618184003": {
     "first_seen": "2026-04-06T02:02:32.214220+00:00",
-    "updated_at": "2026-04-06T11:45:48-04:00",
+    "updated_at": "2026-04-06T17:46:20-04:00",
     "title": "Senior Sales Engineer, Enterprise",
     "company": "fivetran"
   },
@@ -13729,13 +13729,13 @@
   },
   "7527531": {
     "first_seen": "2026-04-06T08:10:17.846346+00:00",
-    "updated_at": "2026-03-23T12:57:28-04:00",
+    "updated_at": "2026-04-06T17:46:16-04:00",
     "title": "Senior Manager, Web Development",
     "company": "contentful"
   },
   "7536259": {
     "first_seen": "2026-04-06T08:10:17.846378+00:00",
-    "updated_at": "2026-03-23T12:57:10-04:00",
+    "updated_at": "2026-04-06T17:46:16-04:00",
     "title": "Senior Manager, Web Development",
     "company": "contentful"
   },
@@ -20308,5 +20308,23 @@
     "updated_at": "2026-04-06T17:12:45-04:00",
     "title": "Staff Backend Product Software Engineer, Commerce Platform",
     "company": "dropbox"
+  },
+  "7301401": {
+    "first_seen": "2026-04-06T22:04:18.980514+00:00",
+    "updated_at": "2026-04-06T17:58:58-04:00",
+    "title": "Software Engineer (L3)",
+    "company": "twilio"
+  },
+  "7782805": {
+    "first_seen": "2026-04-06T22:04:18.980663+00:00",
+    "updated_at": "2026-04-06T18:00:59-04:00",
+    "title": "Staff Software Engineer (L4) Data Platform",
+    "company": "twilio"
+  },
+  "5850263004": {
+    "first_seen": "2026-04-06T22:04:27.788760+00:00",
+    "updated_at": "2026-04-06T17:53:17-04:00",
+    "title": "Vercel Development Representative - APAC",
+    "company": "vercel"
   }
 }

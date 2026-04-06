@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 22:04 UTC
+
+### 🆕 Software Engineer (L3)
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7301401)
+🕐 Updated: `2026-04-06T17:58:58-04:00` &nbsp;|&nbsp; ID: `7301401`
+
+---
+### 🆕 Staff Software Engineer (L4) Data Platform
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7782805)
+🕐 Updated: `2026-04-06T18:00:59-04:00` &nbsp;|&nbsp; ID: `7782805`
+
+---
+### 🆕 Vercel Development Representative - APAC
+**vercel** · Sales Non-QCR
+📍 Remote - Australia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5850263004)
+🕐 Updated: `2026-04-06T17:53:17-04:00` &nbsp;|&nbsp; ID: `5850263004`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7618184003)
+🕐 Updated: `2026-04-06T17:46:20-04:00` &nbsp;|&nbsp; ID: `7618184003`
+
+---
+### 🔄 Senior Manager, Web Development
+**contentful** · Marketing
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7527531)
+🕐 Updated: `2026-04-06T17:46:16-04:00` &nbsp;|&nbsp; ID: `7527531`
+
+---
+### 🔄 Senior Manager, Web Development
+**contentful** · Marketing
+📍 New York City, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7536259)
+🕐 Updated: `2026-04-06T17:46:16-04:00` &nbsp;|&nbsp; ID: `7536259`
+
+---
+
 ## 📅 Run: 2026-04-06 21:33 UTC
 
 ### 🆕 Tech Admin (P2) GTM Systems
