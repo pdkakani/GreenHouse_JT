@@ -2,6 +2,81 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 21:33 UTC
+
+### 🆕 Tech Admin (P2) GTM Systems
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-06T17:23:42-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🆕 Partner Marketing Manager, Cloud - NAMER
+**datadog** · Partner Marketing
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7779207/?gh_jid=7779207)
+🕐 Updated: `2026-04-06T17:11:35-04:00` &nbsp;|&nbsp; ID: `7779207`
+
+---
+### 🆕 Staff Backend Product Software Engineer, Commerce Platform
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7759731?gh_jid=7759731)
+🕐 Updated: `2026-04-06T17:12:46-04:00` &nbsp;|&nbsp; ID: `7759731`
+
+---
+### 🆕 Staff Backend Product Software Engineer, Commerce Platform
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7759728?gh_jid=7759728)
+🕐 Updated: `2026-04-06T17:12:47-04:00` &nbsp;|&nbsp; ID: `7759728`
+
+---
+### 🆕 Staff Backend Product Software Engineer, Commerce Platform
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - Mexico &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7759733?gh_jid=7759733)
+🕐 Updated: `2026-04-06T17:12:45-04:00` &nbsp;|&nbsp; ID: `7759733`
+
+---
+### 🔄 MBA Intern - Technical Program Management (TPM)
+**databricks** · University Recruiting
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8399537002)
+🕐 Updated: `2026-04-06T17:32:38-04:00` &nbsp;|&nbsp; ID: `8399537002`
+
+---
+### 🔄 Senior Solutions Architect
+**postman** · Customer Engineering
+📍 New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/6524363003)
+🕐 Updated: `2026-04-06T17:18:48-04:00` &nbsp;|&nbsp; ID: `6524363003`
+
+---
+### 🔄 Staff Software Engineer, SMB
+**sofi** · Engineering
+📍 WA - Seattle  &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7658595003?gh_jid=7658595003)
+🕐 Updated: `2026-04-06T17:28:09-04:00` &nbsp;|&nbsp; ID: `7658595003`
+
+---
+### 🔄 Off Platform Channel Sales Executive
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7595169)
+🕐 Updated: `2026-04-06T17:21:17-04:00` &nbsp;|&nbsp; ID: `7595169`
+
+---
+### 🔄 Sales Planner, Off-Platform
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7719512)
+🕐 Updated: `2026-04-06T17:02:30-04:00` &nbsp;|&nbsp; ID: `7719512`
+
+---
+### 🔄 Applied Scientist- Pricing, Dynamic Pricing & Offer Selection
+**lyft** · Core Systems & Platforms
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8403370002?gh_jid=8403370002)
+🕐 Updated: `2026-04-06T17:11:10-04:00` &nbsp;|&nbsp; ID: `8403370002`
+
+---
+### 🔄 Applied Scientist- Pricing, Dynamic Pricing & Offer Selection
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8402813002?gh_jid=8402813002)
+🕐 Updated: `2026-04-06T17:11:09-04:00` &nbsp;|&nbsp; ID: `8402813002`
+
+---
+
 ## 📅 Run: 2026-04-06 20:55 UTC
 
 ### 🆕 Infrastructure Software Engineer
