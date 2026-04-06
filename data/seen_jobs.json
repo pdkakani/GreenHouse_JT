@@ -1447,7 +1447,7 @@
   },
   "7739523": {
     "first_seen": "2026-04-06T02:02:04.307696+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-06T19:03:44-04:00",
     "title": "Staff Software Engineer (Policies Platform - Identity)",
     "company": "coinbase"
   },
@@ -7075,7 +7075,7 @@
   },
   "7750751": {
     "first_seen": "2026-04-06T02:02:16.922393+00:00",
-    "updated_at": "2026-04-01T14:20:47-04:00",
+    "updated_at": "2026-04-06T19:25:31-04:00",
     "title": "Senior Product Solutions Architect - Logs",
     "company": "datadog"
   },
@@ -10777,7 +10777,7 @@
   },
   "5161882008": {
     "first_seen": "2026-04-06T08:09:59.885368+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-06T19:10:00-04:00",
     "title": "IT Systems Engineer, Enterprise SaaS",
     "company": "anthropic"
   },
@@ -20350,5 +20350,17 @@
     "updated_at": "2026-04-06T18:41:35-04:00",
     "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
     "company": "coinbase"
+  },
+  "8480551002": {
+    "first_seen": "2026-04-06T23:30:27.456849+00:00",
+    "updated_at": "2026-04-06T19:00:21-04:00",
+    "title": "Intermediate Backend Engineer, SSCS: AI Governance",
+    "company": "gitlab"
+  },
+  "8480565002": {
+    "first_seen": "2026-04-06T23:30:27.456879+00:00",
+    "updated_at": "2026-04-06T19:24:19-04:00",
+    "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
+    "company": "gitlab"
   }
 }

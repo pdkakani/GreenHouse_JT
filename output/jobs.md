@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 23:30 UTC
+
+### 🆕 Intermediate Backend Engineer, SSCS: AI Governance
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480551002)
+🕐 Updated: `2026-04-06T19:00:21-04:00` &nbsp;|&nbsp; ID: `8480551002`
+
+---
+### 🆕 Intermediate Backend Engineer,  SSCS: Supply Chain
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480565002)
+🕐 Updated: `2026-04-06T19:24:19-04:00` &nbsp;|&nbsp; ID: `8480565002`
+
+---
+### 🔄 IT Systems Engineer, Enterprise SaaS
+**anthropic** · Security
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5161882008)
+🕐 Updated: `2026-04-06T19:10:00-04:00` &nbsp;|&nbsp; ID: `5161882008`
+
+---
+### 🔄 Senior Product Solutions Architect - Logs
+**datadog** · Product Solutions Architecture
+📍 Boston, Massachusetts, USA; New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7750751/?gh_jid=7750751)
+🕐 Updated: `2026-04-06T19:25:31-04:00` &nbsp;|&nbsp; ID: `7750751`
+
+---
+### 🔄 Staff Software Engineer (Policies Platform - Identity)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7739523?gh_jid=7739523)
+🕐 Updated: `2026-04-06T19:03:44-04:00` &nbsp;|&nbsp; ID: `7739523`
+
+---
+
 ## 📅 Run: 2026-04-06 22:56 UTC
 
 ### 🆕 Enterprise Solutions Engineer
