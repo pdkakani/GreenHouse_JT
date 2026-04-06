@@ -2,6 +2,189 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 20:04 UTC
+
+### 🆕 Software Engineer (L3) Infrastructure
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7767260)
+🕐 Updated: `2026-04-06T15:51:43-04:00` &nbsp;|&nbsp; ID: `7767260`
+
+---
+### 🆕 Senior Analytics Engineer
+**mixpanel** · Internal Analysis
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7782662)
+🕐 Updated: `2026-04-06T15:58:49-04:00` &nbsp;|&nbsp; ID: `7782662`
+
+---
+### 🆕 Senior Software Engineer (Channels)
+**iterable** · Engineering
+📍 Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7766310)
+🕐 Updated: `2026-04-06T15:33:07-04:00` &nbsp;|&nbsp; ID: `7766310`
+
+---
+### 🆕 Senior Software Engineer - Data Platform
+**abnormalsecurity** · Platform & Infrastructure
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/6507659003?gh_jid=6507659003)
+🕐 Updated: `2026-04-06T15:24:42-04:00` &nbsp;|&nbsp; ID: `6507659003`
+
+---
+### 🆕 Senior Software Engineer, Data Platform
+**abnormalsecurity** · Platform & Infrastructure
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/6530466003?gh_jid=6530466003)
+🕐 Updated: `2026-04-06T15:24:43-04:00` &nbsp;|&nbsp; ID: `6530466003`
+
+---
+### 🆕 Software Engineer 2 - Insider Risk
+**abnormalsecurity** · Behavioral Security Products
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7637315003?gh_jid=7637315003)
+🕐 Updated: `2026-04-06T15:25:06-04:00` &nbsp;|&nbsp; ID: `7637315003`
+
+---
+### 🆕 Software Engineer 2 - Insider Risk
+**abnormalsecurity** · Behavioral Security Products
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7636366003?gh_jid=7636366003)
+🕐 Updated: `2026-04-06T15:25:05-04:00` &nbsp;|&nbsp; ID: `7636366003`
+
+---
+### 🆕 Solutions Architect, SMB
+**stripe** · 1150 Solutions Architecture
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7361440)
+🕐 Updated: `2026-04-06T15:50:07-04:00` &nbsp;|&nbsp; ID: `7361440`
+
+---
+### 🆕 Senior Software Engineer - AI Enablement
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5850044004)
+🕐 Updated: `2026-04-06T15:43:59-04:00` &nbsp;|&nbsp; ID: `5850044004`
+
+---
+### 🆕 Senior Engineering Manager, ASPL
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7767092)
+🕐 Updated: `2026-04-06T16:02:55-04:00` &nbsp;|&nbsp; ID: `7767092`
+
+---
+### 🔄 Product Solutions Architect - LLM Observability
+**datadog** · Product Solutions Architecture
+📍 Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7627531/?gh_jid=7627531)
+🕐 Updated: `2026-04-06T15:27:00-04:00` &nbsp;|&nbsp; ID: `7627531`
+
+---
+### 🔄 Software Engineer, Data
+**airtable** · Data
+📍 San Francisco, CA; Austin, TX; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8124953002)
+🕐 Updated: `2026-04-06T15:42:37-04:00` &nbsp;|&nbsp; ID: `8124953002`
+
+---
+### 🔄 Backend Product Software Engineer, Payments
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - Poland &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7642218?gh_jid=7642218)
+🕐 Updated: `2026-04-06T15:34:18-04:00` &nbsp;|&nbsp; ID: `7642218`
+
+---
+### 🔄 Data Engineer
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - Mexico &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739553?gh_jid=7739553)
+🕐 Updated: `2026-04-06T15:34:24-04:00` &nbsp;|&nbsp; ID: `7739553`
+
+---
+### 🔄 Data Scientist
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7762004?gh_jid=7762004)
+🕐 Updated: `2026-04-06T15:34:35-04:00` &nbsp;|&nbsp; ID: `7762004`
+
+---
+### 🔄 Data Scientist
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - Mexico &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7762009?gh_jid=7762009)
+🕐 Updated: `2026-04-06T15:34:35-04:00` &nbsp;|&nbsp; ID: `7762009`
+
+---
+### 🔄 Data Scientist
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7762007?gh_jid=7762007)
+🕐 Updated: `2026-04-06T15:34:35-04:00` &nbsp;|&nbsp; ID: `7762007`
+
+---
+### 🔄 Principal Engineer, Identity & Engagement
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739556?gh_jid=7739556)
+🕐 Updated: `2026-04-06T15:34:26-04:00` &nbsp;|&nbsp; ID: `7739556`
+
+---
+### 🔄 Principal Engineer, Identity & Engagement
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739559?gh_jid=7739559)
+🕐 Updated: `2026-04-06T15:34:26-04:00` &nbsp;|&nbsp; ID: `7739559`
+
+---
+### 🔄 Principal Software Engineer, Corporate AI
+**dropbox** · CorpEng (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7537004?gh_jid=7537004)
+🕐 Updated: `2026-04-06T15:34:13-04:00` &nbsp;|&nbsp; ID: `7537004`
+
+---
+### 🔄 Principal Software Engineer, Corporate AI
+**dropbox** · CorpEng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7537001?gh_jid=7537001)
+🕐 Updated: `2026-04-06T15:34:13-04:00` &nbsp;|&nbsp; ID: `7537001`
+
+---
+### 🔄 Senior Data Scientist, AI Products
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7729764?gh_jid=7729764)
+🕐 Updated: `2026-04-06T15:34:22-04:00` &nbsp;|&nbsp; ID: `7729764`
+
+---
+### 🔄 Senior Data Scientist, AI Products
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7729761?gh_jid=7729761)
+🕐 Updated: `2026-04-06T15:34:22-04:00` &nbsp;|&nbsp; ID: `7729761`
+
+---
+### 🔄 Staff Data Engineer
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - Mexico &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739568?gh_jid=7739568)
+🕐 Updated: `2026-04-06T15:34:27-04:00` &nbsp;|&nbsp; ID: `7739568`
+
+---
+### 🔄 Engineering Manager, Issuing
+**stripe** · 8590 BaaS - Eng
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7760378)
+🕐 Updated: `2026-04-06T15:27:36-04:00` &nbsp;|&nbsp; ID: `7760378`
+
+---
+### 🔄 Software Engineer
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7010192)
+🕐 Updated: `2026-04-06T15:22:02-04:00` &nbsp;|&nbsp; ID: `7010192`
+
+---
+### 🔄 Android Engineer
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7776330?t=gh_src=&gh_jid=7776330)
+🕐 Updated: `2026-04-06T15:59:01-04:00` &nbsp;|&nbsp; ID: `7776330`
+
+---
+### 🔄 Staff Machine Learning Engineer, Agentic
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714)
+🕐 Updated: `2026-04-06T16:03:22-04:00` &nbsp;|&nbsp; ID: `7676714`
+
+---
+### 🔄 Product Manager, Advanced AI & Risk Data Solutions
+**sofi** · Risk Management
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7644238003?gh_jid=7644238003)
+🕐 Updated: `2026-04-06T16:02:11-04:00` &nbsp;|&nbsp; ID: `7644238003`
+
+---
+### 🔄 Group Tech Lead, Adoption Engineering
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7662620?gh_jid=7662620)
+🕐 Updated: `2026-04-06T15:27:15-04:00` &nbsp;|&nbsp; ID: `7662620`
+
+---
+
 ## 📅 Run: 2026-04-06 19:20 UTC
 
 ### 🆕 Solutions Architect, Retail 
