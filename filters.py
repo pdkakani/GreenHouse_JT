@@ -112,8 +112,8 @@ INCLUDE_KEYWORDS = [
     "coder",
     # Roles
     "backend", "back-end", "back end",
-    "frontend", "front-end", "front end",
-    "fullstack", "full-stack", "full stack",
+    # "frontend", "front-end", "front end",
+    # "fullstack", "full-stack", "full stack",
     "software",
     "infrastructure",
     "platform",
@@ -122,37 +122,37 @@ INCLUDE_KEYWORDS = [
     "sre", "site reliability",
     "systems",
     # Data
-    "data engineer", "data scientist", "data analyst",
-    "analytics", "analyst",
-    "machine learning", " ml ", "mlops",
-    "artificial intelligence", " ai ",
-    "deep learning",
-    "nlp",
-    "llm",
+    # "data engineer", "data scientist", "data analyst",
+    # "analytics", "analyst",
+    # "machine learning", " ml ", "mlops",
+    # "artificial intelligence", " ai ",
+    # "deep learning",
+    # "nlp",
+    # "llm",
     # Security
-    "security", "appsec", "devsecops", "infosec",
-    "penetration", "pentesting",
-    "soc analyst", "siem",
-    "cryptography",
+    # "security", "appsec", "devsecops", "infosec",
+    # "penetration", "pentesting",
+    # "soc analyst", "siem",
+    # "cryptography",
     # Architecture
     "architect",
     "solutions architect",
     "technical",
     # Mobile
-    "mobile", "ios", "android",
-    "react native", "flutter",
+    # "mobile", "ios", "android",
+    # "react native", "flutter",
     # Quality
-    "qa ", " qa", "quality assurance",
-    "test engineer", "sdet", "automation engineer",
+    # "qa ", " qa", "quality assurance",
+    # "test engineer", "sdet", "automation engineer",
     # Product/Program (technical lean)
     "product manager", "technical program", "engineering manager",
     "scrum master", "agile coach",
     # Networking / Infra
-    "network", "networking",
-    "embedded", "firmware",
-    "kernel", "driver",
-    "database", " dba",
-    "database administrator",
+    # "network", "networking",
+    # "embedded", "firmware",
+    # "kernel", "driver",
+    # "database", " dba",
+    # "database administrator",
     # Cloud / tooling
     "kubernetes", "docker", "terraform",
     "aws", "gcp", "azure",
@@ -166,15 +166,15 @@ INCLUDE_KEYWORDS = [
     "operating system",
     # IT / Support (technical)
     " it ", "information technology",
-    "sysadmin", "system administrator",
-    "helpdesk", "help desk",
-    "technical support",
+    # "sysadmin", "system administrator",
+    # "helpdesk", "help desk",
+    # "technical support",
     # BI / Data Viz
-    "bi engineer", "business intelligence",
-    "data warehouse", "etl",
+    # "bi engineer", "business intelligence",
+    # "data warehouse", "etl",
     # Research
-    "research engineer", "research scientist",
-    "applied scientist",
+    # "research engineer", "research scientist",
+    # "applied scientist",
 ]
 
 # Compile once — match against title + department combined
