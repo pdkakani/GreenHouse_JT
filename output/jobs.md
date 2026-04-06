@@ -2,6 +2,219 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 16:29 UTC
+
+### 🆕 Business Development Representative
+**databricks** · Sales Development
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423158002)
+🕐 Updated: `2026-04-06T12:28:23-04:00` &nbsp;|&nbsp; ID: `8423158002`
+
+---
+### 🆕 Business Development Representative
+**databricks** · Sales Development
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423167002)
+🕐 Updated: `2026-04-06T11:57:36-04:00` &nbsp;|&nbsp; ID: `8423167002`
+
+---
+### 🆕 Software Engineer II - Identity & Access Management
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660502003)
+🕐 Updated: `2026-04-06T12:23:46-04:00` &nbsp;|&nbsp; ID: `7660502003`
+
+---
+### 🆕 L1 Technical Support Engineer
+**abnormalsecurity** · L1 Technical Support
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/6590187003?gh_jid=6590187003)
+🕐 Updated: `2026-04-06T12:08:56-04:00` &nbsp;|&nbsp; ID: `6590187003`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Atlanta, Georgia, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782195)
+🕐 Updated: `2026-04-06T12:28:29-04:00` &nbsp;|&nbsp; ID: `7782195`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Tampa, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782181)
+🕐 Updated: `2026-04-06T12:28:30-04:00` &nbsp;|&nbsp; ID: `7782181`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Orlando, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782161)
+🕐 Updated: `2026-04-06T12:28:31-04:00` &nbsp;|&nbsp; ID: `7782161`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Raleigh, North Carolina, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782201)
+🕐 Updated: `2026-04-06T12:28:28-04:00` &nbsp;|&nbsp; ID: `7782201`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782199)
+🕐 Updated: `2026-04-06T12:28:28-04:00` &nbsp;|&nbsp; ID: `7782199`
+
+---
+### 🔄 Customer Solutions Engineer - US East Coast Remote
+**fastly** · Cloud Engineering - COR
+📍 Atlanta, GA; Boston, MA; Nashville, TN; New York City, NY; Richmond, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7616993)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7616993`
+
+---
+### 🔄 Customer Support Engineer - US Remote
+**fastly** · Service Delivery - CSE
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7696571)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7696571`
+
+---
+### 🔄 Data Engineer
+**fastly** · Business Analytics
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7716833)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7716833`
+
+---
+### 🔄 Director, Engineering - Platform Trust & Growth
+**fastly** · Core Systems Engineering
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7394685)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7394685`
+
+---
+### 🔄 Finance Systems Analyst
+**fastly** · Finance Systems
+📍 Denver, CO; New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7744225)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7744225`
+
+---
+### 🔄 Global People Partner, Senior Director - PECTO (Product, Engineering, Technology)
+**fastly** · Human Resources
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7729239)
+🕐 Updated: `2026-04-06T12:03:06-04:00` &nbsp;|&nbsp; ID: `7729239`
+
+---
+### 🔄 Manager, Datacenter Infrastructure 
+**fastly** · Global Network Infrastructure
+📍 Denver, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7696017)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7696017`
+
+---
+### 🔄 Mission Control Engineer - US Remote
+**fastly** · Service Delivery - CSE
+📍 Denver, CO; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7700627)
+🕐 Updated: `2026-04-06T12:03:06-04:00` &nbsp;|&nbsp; ID: `7700627`
+
+---
+### 🔄 Principal Engineer - Release Engineering
+**fastly** · Platform Engineering
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7685198)
+🕐 Updated: `2026-04-06T12:03:06-04:00` &nbsp;|&nbsp; ID: `7685198`
+
+---
+### 🔄 Senior Customer Solutions Engineer
+**fastly** · Cloud Engineering - COR
+📍 Denver, CO; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7733190)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7733190`
+
+---
+### 🔄 Senior Customer Solutions Engineer, Streaming Media - Mandarin Speaking 
+**fastly** · Cloud Engineering - COR
+📍 Albuquerque, NM; Austin, TX; Boise, ID; Cheyenne, WY; Chicago, IL; Dallas, TX; Denver, CO; Des Moines, IA; Detroit, MI; Houston, TX; Indianapolis, IN; Las Vegas, NV; Los Angeles, CA; Milwaukee, WI; Minneapolis, MN; Oklahoma City, OK; Phoenix, AZ; Portland, OR; Sacramento, CA; Salt Lake City, UT; San Diego, CA; San Francisco, CA; San Jose, CA; Seattle, WA; St. Louis, MO; Wichita, KS &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7663819)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7663819`
+
+---
+### 🔄 Senior Customer Support Engineer - US West
+**fastly** · Service Delivery - CSE
+📍 Denver, CO; Los Angeles, CA; Portland, OR; San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7718295)
+🕐 Updated: `2026-04-06T12:03:06-04:00` &nbsp;|&nbsp; ID: `7718295`
+
+---
+### 🔄 Senior Principal Engineer - Platform Engineering
+**fastly** · Platform Engineering
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7636291)
+🕐 Updated: `2026-04-06T12:03:06-04:00` &nbsp;|&nbsp; ID: `7636291`
+
+---
+### 🔄 Senior Technical Product Manager - Security (DDoS)
+**fastly** · Product Management
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7595492)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7595492`
+
+---
+### 🔄 Senior Technical Product Manager - Security (WAF)
+**fastly** · Product Management
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7595490)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7595490`
+
+---
+### 🔄 Senior Technical Support Engineer - (Japanese speaking)
+**fastly** · Service Delivery - CSE
+📍 Australia (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7445398)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7445398`
+
+---
+### 🔄 Solutions Architect
+**fastly** · Solution Engineering
+📍 Billings, MT; Boise, ID; Cheyenne, WY; Denver, CO; Los Angeles, CA; Portland, OR; Sacramento, CA; Salt Lake City, UT; San Diego, CA; San Francisco, CA; San Jose, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7664680)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7664680`
+
+---
+### 🔄 Staff Engineer - API Services
+**fastly** · Core Systems Engineering
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7595468)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7595468`
+
+---
+### 🔄 Staff Engineer - PKI Systems
+**fastly** · Network and Platform
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7586879)
+🕐 Updated: `2026-04-06T12:03:06-04:00` &nbsp;|&nbsp; ID: `7586879`
+
+---
+### 🔄 Staff Engineer, Traffic Management Systems
+**fastly** · Content Delivery Systems
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7729197)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7729197`
+
+---
+### 🔄 Systems Engineer, Identity and Access Management
+**fastly** · Information Technology
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7669557)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7669557`
+
+---
+### 🔄 Senior Software Engineer - SecEng
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7636106003)
+🕐 Updated: `2026-04-06T11:45:43-04:00` &nbsp;|&nbsp; ID: `7636106003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7618184003)
+🕐 Updated: `2026-04-06T11:45:48-04:00` &nbsp;|&nbsp; ID: `7618184003`
+
+---
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 New York City, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7774018)
+🕐 Updated: `2026-04-06T12:24:06-04:00` &nbsp;|&nbsp; ID: `7774018`
+
+---
+### 🔄 Solutions Engineer, Bridge
+**stripe** · 8589 Bridge - S&M
+📍 NYC &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7434912)
+🕐 Updated: `2026-04-06T12:18:34-04:00` &nbsp;|&nbsp; ID: `7434912`
+
+---
+### 🔄 Engineering Apprentice, Connect Program
+**airbnb** · Apprenticeship
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7773917?gh_jid=7773917)
+🕐 Updated: `2026-04-06T11:47:51-04:00` &nbsp;|&nbsp; ID: `7773917`
+
+---
+
 ## 📅 Run: 2026-04-06 15:40 UTC
 
 ### 🆕 Technical Account Manager
