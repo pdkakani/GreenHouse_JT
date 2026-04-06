@@ -2539,8 +2539,8 @@
   },
   "7587151": {
     "first_seen": "2026-04-06T02:02:05.039411+00:00",
-    "updated_at": "2026-04-03T13:35:17-04:00",
-    "title": "Staff Product Manager, Money",
+    "updated_at": "2026-04-06T13:32:28-04:00",
+    "title": "Staff Product Manager, Banking",
     "company": "robinhood"
   },
   "7615745": {
@@ -5065,13 +5065,13 @@
   },
   "7554568": {
     "first_seen": "2026-04-06T02:02:14.596304+00:00",
-    "updated_at": "2026-03-23T10:24:39-04:00",
+    "updated_at": "2026-04-06T14:06:43-04:00",
     "title": "Senior Solutions Architect - Enterprise Expand East",
     "company": "elastic"
   },
   "7560861": {
     "first_seen": "2026-04-06T02:02:14.596329+00:00",
-    "updated_at": "2026-03-23T10:24:38-04:00",
+    "updated_at": "2026-04-06T14:06:43-04:00",
     "title": "Senior Solutions Architect - Enterprise Expand East",
     "company": "elastic"
   },
@@ -5575,7 +5575,7 @@
   },
   "7523911": {
     "first_seen": "2026-04-06T02:02:14.875574+00:00",
-    "updated_at": "2026-04-06T12:41:26-04:00",
+    "updated_at": "2026-04-06T13:50:13-04:00",
     "title": "Software Engineer 3",
     "company": "mongodb"
   },
@@ -5797,7 +5797,7 @@
   },
   "7636291": {
     "first_seen": "2026-04-06T02:02:15.575343+00:00",
-    "updated_at": "2026-04-06T12:03:06-04:00",
+    "updated_at": "2026-04-06T12:03:52-04:00",
     "title": "Senior Principal Engineer - Platform Engineering",
     "company": "fastly"
   },
@@ -10123,7 +10123,7 @@
   },
   "6664139003": {
     "first_seen": "2026-04-06T02:02:32.211565+00:00",
-    "updated_at": "2026-03-26T20:24:26-04:00",
+    "updated_at": "2026-04-06T13:32:26-04:00",
     "title": "Principal Software Engineer - AI Tooling & Adoption",
     "company": "fivetran"
   },
@@ -10333,7 +10333,7 @@
   },
   "7663240003": {
     "first_seen": "2026-04-06T02:02:32.214911+00:00",
-    "updated_at": "2026-03-23T02:37:23-04:00",
+    "updated_at": "2026-04-06T13:32:45-04:00",
     "title": "Senior Software Engineer - Databases",
     "company": "fivetran"
   },
@@ -10351,19 +10351,19 @@
   },
   "7483663003": {
     "first_seen": "2026-04-06T02:02:32.215124+00:00",
-    "updated_at": "2026-03-26T20:32:45-04:00",
+    "updated_at": "2026-04-06T13:32:29-04:00",
     "title": "Senior Staff Software Engineer - Binary Log Data Replication",
     "company": "fivetran"
   },
   "7393532003": {
     "first_seen": "2026-04-06T02:02:32.215165+00:00",
-    "updated_at": "2026-03-26T20:32:21-04:00",
+    "updated_at": "2026-04-06T13:32:29-04:00",
     "title": "Senior Staff Software Engineer - Binary Log Data Replication",
     "company": "fivetran"
   },
   "7537470003": {
     "first_seen": "2026-04-06T02:02:32.215206+00:00",
-    "updated_at": "2026-03-26T20:10:53-04:00",
+    "updated_at": "2026-04-06T13:32:36-04:00",
     "title": "Senior Staff Software Engineer - Performance Engineering",
     "company": "fivetran"
   },
@@ -10399,7 +10399,7 @@
   },
   "7686505003": {
     "first_seen": "2026-04-06T02:02:32.215537+00:00",
-    "updated_at": "2026-04-02T13:39:27-04:00",
+    "updated_at": "2026-04-06T13:32:50-04:00",
     "title": "Software Engineer III",
     "company": "fivetran"
   },
@@ -10417,7 +10417,7 @@
   },
   "7651403003": {
     "first_seen": "2026-04-06T02:02:32.215615+00:00",
-    "updated_at": "2026-03-31T19:46:05-04:00",
+    "updated_at": "2026-04-06T13:32:42-04:00",
     "title": "Sr. Principle AI Systems Architect",
     "company": "fivetran"
   },
@@ -10441,19 +10441,19 @@
   },
   "6598497003": {
     "first_seen": "2026-04-06T02:02:32.215789+00:00",
-    "updated_at": "2026-03-26T20:14:39-04:00",
+    "updated_at": "2026-04-06T13:32:23-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran"
   },
   "7546711003": {
     "first_seen": "2026-04-06T02:02:32.215806+00:00",
-    "updated_at": "2026-03-26T20:12:02-04:00",
+    "updated_at": "2026-04-06T13:32:34-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran"
   },
   "7535213003": {
     "first_seen": "2026-04-06T02:02:32.215840+00:00",
-    "updated_at": "2026-03-26T20:11:42-04:00",
+    "updated_at": "2026-04-06T13:32:34-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran"
   },
@@ -10465,13 +10465,13 @@
   },
   "7549451003": {
     "first_seen": "2026-04-06T02:02:32.215920+00:00",
-    "updated_at": "2026-03-26T20:43:16-04:00",
+    "updated_at": "2026-04-06T13:32:31-04:00",
     "title": "Staff Software Engineer - ETL Platform",
     "company": "fivetran"
   },
   "7487101003": {
     "first_seen": "2026-04-06T02:02:32.215938+00:00",
-    "updated_at": "2026-03-26T20:38:03-04:00",
+    "updated_at": "2026-04-06T13:32:31-04:00",
     "title": "Staff Software Engineer - ETL Platform",
     "company": "fivetran"
   },
@@ -14551,13 +14551,13 @@
   },
   "7421153": {
     "first_seen": "2026-04-06T08:10:22.003128+00:00",
-    "updated_at": "2026-04-03T13:01:35-04:00",
+    "updated_at": "2026-04-06T14:02:04-04:00",
     "title": "Staff Fullstack Software Engineer, Growth Monetization",
     "company": "dropbox"
   },
   "7421150": {
     "first_seen": "2026-04-06T08:10:22.003154+00:00",
-    "updated_at": "2026-04-03T13:01:35-04:00",
+    "updated_at": "2026-04-06T14:02:04-04:00",
     "title": "Staff Fullstack Software Engineer, Growth Monetization",
     "company": "dropbox"
   },
@@ -19255,7 +19255,7 @@
   },
   "4660016006": {
     "first_seen": "2026-04-06T08:10:44.238719+00:00",
-    "updated_at": "2026-03-24T12:21:16-04:00",
+    "updated_at": "2026-04-06T13:36:38-04:00",
     "title": "Senior Software Engineer, Test",
     "company": "everlaw"
   },
@@ -19969,13 +19969,13 @@
   },
   "7344930": {
     "first_seen": "2026-04-06T14:51:05.080219+00:00",
-    "updated_at": "2026-04-06T10:48:26-04:00",
+    "updated_at": "2026-04-06T14:01:45-04:00",
     "title": "Principal Software Engineer, Core Sharing & Collaboration",
     "company": "dropbox"
   },
   "7344925": {
     "first_seen": "2026-04-06T14:51:05.080253+00:00",
-    "updated_at": "2026-04-06T10:48:20-04:00",
+    "updated_at": "2026-04-06T14:01:45-04:00",
     "title": "Principal Software Engineer, Core Sharing & Collaboration",
     "company": "dropbox"
   },
@@ -20023,7 +20023,7 @@
   },
   "7773917": {
     "first_seen": "2026-04-06T15:40:46.653426+00:00",
-    "updated_at": "2026-04-06T11:47:51-04:00",
+    "updated_at": "2026-04-06T13:52:22-04:00",
     "title": "Engineering Apprentice, Connect Program",
     "company": "airbnb"
   },
@@ -20110,5 +20110,47 @@
     "updated_at": "2026-04-06T13:12:47-04:00",
     "title": "Senior Engineering Manager, AI Teammates Platform",
     "company": "asana"
+  },
+  "5704320004": {
+    "first_seen": "2026-04-06T18:10:42.664110+00:00",
+    "updated_at": "2026-04-06T14:08:03-04:00",
+    "title": "Software Engineer, Agent",
+    "company": "vercel"
+  },
+  "7768859": {
+    "first_seen": "2026-04-06T18:10:44.543687+00:00",
+    "updated_at": "2026-04-06T14:01:14-04:00",
+    "title": "Customer Systems Administrator",
+    "company": "dropbox"
+  },
+  "7768860": {
+    "first_seen": "2026-04-06T18:10:44.543714+00:00",
+    "updated_at": "2026-04-06T14:01:15-04:00",
+    "title": "Customer Systems Administrator",
+    "company": "dropbox"
+  },
+  "7743051": {
+    "first_seen": "2026-04-06T18:10:45.351369+00:00",
+    "updated_at": "2026-04-06T13:29:14-04:00",
+    "title": "Principal Software Engineer",
+    "company": "marqeta"
+  },
+  "7743101": {
+    "first_seen": "2026-04-06T18:10:45.351435+00:00",
+    "updated_at": "2026-04-06T13:41:30-04:00",
+    "title": "Production Support Engineer II",
+    "company": "marqeta"
+  },
+  "7138952": {
+    "first_seen": "2026-04-06T18:10:46.863127+00:00",
+    "updated_at": "2026-04-06T13:52:00-04:00",
+    "title": "Senior Principal Product Manager, AI Enabled Workforce",
+    "company": "gusto"
+  },
+  "7729019": {
+    "first_seen": "2026-04-06T18:10:52.788864+00:00",
+    "updated_at": "2026-04-06T13:55:22-04:00",
+    "title": "Senior Software Engineer, Storage Platform",
+    "company": "robinhood"
   }
 }

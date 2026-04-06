@@ -2,6 +2,189 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 18:11 UTC
+
+### 🆕 Software Engineer, Agent
+**vercel** · Engineering
+📍 Hybrid - San Francisco, New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5704320004)
+🕐 Updated: `2026-04-06T14:08:03-04:00` &nbsp;|&nbsp; ID: `5704320004`
+
+---
+### 🆕 Customer Systems Administrator
+**dropbox** · GTM Technology Operations (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7768859?gh_jid=7768859)
+🕐 Updated: `2026-04-06T14:01:14-04:00` &nbsp;|&nbsp; ID: `7768859`
+
+---
+### 🆕 Customer Systems Administrator
+**dropbox** · GTM Technology Operations (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7768860?gh_jid=7768860)
+🕐 Updated: `2026-04-06T14:01:15-04:00` &nbsp;|&nbsp; ID: `7768860`
+
+---
+### 🆕 Principal Software Engineer
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743051)
+🕐 Updated: `2026-04-06T13:29:14-04:00` &nbsp;|&nbsp; ID: `7743051`
+
+---
+### 🆕 Production Support Engineer II
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743101)
+🕐 Updated: `2026-04-06T13:41:30-04:00` &nbsp;|&nbsp; ID: `7743101`
+
+---
+### 🆕 Senior Principal Product Manager, AI Enabled Workforce
+**gusto** · Product Management
+📍 Denver, CO;San Francisco, CA;New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7138952)
+🕐 Updated: `2026-04-06T13:52:00-04:00` &nbsp;|&nbsp; ID: `7138952`
+
+---
+### 🆕 Senior Software Engineer, Storage Platform
+**robinhood** · ENG Infrastructure
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019)
+🕐 Updated: `2026-04-06T13:55:22-04:00` &nbsp;|&nbsp; ID: `7729019`
+
+---
+### 🔄 Senior Solutions Architect - Enterprise Expand East
+**elastic** · SA - AMER - Enterprise East
+📍 Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7554568&gh_jid=7554568)
+🕐 Updated: `2026-04-06T14:06:43-04:00` &nbsp;|&nbsp; ID: `7554568`
+
+---
+### 🔄 Senior Solutions Architect - Enterprise Expand East
+**elastic** · SA - AMER - Enterprise East
+📍 North Carolina, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7560861&gh_jid=7560861)
+🕐 Updated: `2026-04-06T14:06:43-04:00` &nbsp;|&nbsp; ID: `7560861`
+
+---
+### 🔄 Software Engineer 3
+**mongodb** · PTO Atlas Search
+📍 Palo Alto; Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523911)
+🕐 Updated: `2026-04-06T13:50:13-04:00` &nbsp;|&nbsp; ID: `7523911`
+
+---
+### 🔄 Senior Principal Engineer - Platform Engineering
+**fastly** · Platform Engineering
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7636291)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7636291`
+
+---
+### 🔄 Principal Software Engineer - AI Tooling & Adoption
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6664139003)
+🕐 Updated: `2026-04-06T13:32:26-04:00` &nbsp;|&nbsp; ID: `6664139003`
+
+---
+### 🔄 Senior Software Engineer - Databases
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7663240003)
+🕐 Updated: `2026-04-06T13:32:45-04:00` &nbsp;|&nbsp; ID: `7663240003`
+
+---
+### 🔄 Senior Staff Software Engineer - Binary Log Data Replication
+**fivetran** · Engineering Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7483663003)
+🕐 Updated: `2026-04-06T13:32:29-04:00` &nbsp;|&nbsp; ID: `7483663003`
+
+---
+### 🔄 Senior Staff Software Engineer - Binary Log Data Replication
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7393532003)
+🕐 Updated: `2026-04-06T13:32:29-04:00` &nbsp;|&nbsp; ID: `7393532003`
+
+---
+### 🔄 Senior Staff Software Engineer - Performance Engineering
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7537470003)
+🕐 Updated: `2026-04-06T13:32:36-04:00` &nbsp;|&nbsp; ID: `7537470003`
+
+---
+### 🔄 Software Engineer III
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7686505003)
+🕐 Updated: `2026-04-06T13:32:50-04:00` &nbsp;|&nbsp; ID: `7686505003`
+
+---
+### 🔄 Sr. Principle AI Systems Architect
+**fivetran** · Business Intelligence Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7651403003)
+🕐 Updated: `2026-04-06T13:32:42-04:00` &nbsp;|&nbsp; ID: `7651403003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7535213003)
+🕐 Updated: `2026-04-06T13:32:34-04:00` &nbsp;|&nbsp; ID: `7535213003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6598497003)
+🕐 Updated: `2026-04-06T13:32:23-04:00` &nbsp;|&nbsp; ID: `6598497003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7546711003)
+🕐 Updated: `2026-04-06T13:32:34-04:00` &nbsp;|&nbsp; ID: `7546711003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7487101003)
+🕐 Updated: `2026-04-06T13:32:31-04:00` &nbsp;|&nbsp; ID: `7487101003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7549451003)
+🕐 Updated: `2026-04-06T13:32:31-04:00` &nbsp;|&nbsp; ID: `7549451003`
+
+---
+### 🔄 Principal Software Engineer, Core Sharing & Collaboration
+**dropbox** · Eng - Maintain Customer Trust (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7344930?gh_jid=7344930)
+🕐 Updated: `2026-04-06T14:01:45-04:00` &nbsp;|&nbsp; ID: `7344930`
+
+---
+### 🔄 Principal Software Engineer, Core Sharing & Collaboration
+**dropbox** · Eng - Maintain Customer Trust (Sub Team)
+📍 Remote - US: All locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7344925?gh_jid=7344925)
+🕐 Updated: `2026-04-06T14:01:45-04:00` &nbsp;|&nbsp; ID: `7344925`
+
+---
+### 🔄 Staff Fullstack Software Engineer, Growth Monetization
+**dropbox** · Eng - Growth (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7421150?gh_jid=7421150)
+🕐 Updated: `2026-04-06T14:02:04-04:00` &nbsp;|&nbsp; ID: `7421150`
+
+---
+### 🔄 Staff Fullstack Software Engineer, Growth Monetization
+**dropbox** · Eng - Growth (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7421153?gh_jid=7421153)
+🕐 Updated: `2026-04-06T14:02:04-04:00` &nbsp;|&nbsp; ID: `7421153`
+
+---
+### 🔄 Staff Product Manager, Banking
+**robinhood** · Money Product Division
+📍 Menlo Park, CA; New York, NY; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151)
+🕐 Updated: `2026-04-06T13:32:28-04:00` &nbsp;|&nbsp; ID: `7587151`
+
+---
+### 🔄 Engineering Apprentice, Connect Program
+**airbnb** · Apprenticeship
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7773917?gh_jid=7773917)
+🕐 Updated: `2026-04-06T13:52:22-04:00` &nbsp;|&nbsp; ID: `7773917`
+
+---
+### 🔄 Senior Software Engineer, Test
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4660016006)
+🕐 Updated: `2026-04-06T13:36:38-04:00` &nbsp;|&nbsp; ID: `4660016006`
+
+---
+
 ## 📅 Run: 2026-04-06 17:26 UTC
 
 ### 🆕 Infrastructure Engineer, Pre-training
