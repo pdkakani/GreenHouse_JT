@@ -2,6 +2,147 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 19:20 UTC
+
+### 🆕 Solutions Architect, Retail 
+**databricks** · Field Engineering
+📍 Remote - Ohio &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6049142002)
+🕐 Updated: `2026-02-19T14:47:26-05:00` &nbsp;|&nbsp; ID: `6049142002`
+
+---
+### 🆕 Business Development Representative
+**braze** · Sales
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7782451?gh_jid=7782451)
+🕐 Updated: `2026-04-06T14:28:32-04:00` &nbsp;|&nbsp; ID: `7782451`
+
+---
+### 🆕 Business Development Representative
+**braze** · Sales
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7782462?gh_jid=7782462)
+🕐 Updated: `2026-04-06T14:28:33-04:00` &nbsp;|&nbsp; ID: `7782462`
+
+---
+### 🆕 Senior Manager, Privacy Architect
+**airbnb** · Legal
+📍 United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7782533?gh_jid=7782533)
+🕐 Updated: `2026-04-06T15:06:55-04:00` &nbsp;|&nbsp; ID: `7782533`
+
+---
+### 🔄 Senior Solutions Architect - Enterprise Expand East
+**elastic** · SA - AMER - Enterprise East
+📍 Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7554568&gh_jid=7554568)
+🕐 Updated: `2026-04-06T14:16:10-04:00` &nbsp;|&nbsp; ID: `7554568`
+
+---
+### 🔄 Senior Solutions Architect - Enterprise Expand East
+**elastic** · SA - AMER - Enterprise East
+📍 North Carolina, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7560861&gh_jid=7560861)
+🕐 Updated: `2026-04-06T14:16:10-04:00` &nbsp;|&nbsp; ID: `7560861`
+
+---
+### 🔄 Technical Revenue Accounting Manager
+**twilio** · Accounting
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7616765)
+🕐 Updated: `2026-04-06T15:18:03-04:00` &nbsp;|&nbsp; ID: `7616765`
+
+---
+### 🔄 Head of Corporate Development
+**klaviyo** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7634631003)
+🕐 Updated: `2026-04-06T15:16:02-04:00` &nbsp;|&nbsp; ID: `7634631003`
+
+---
+### 🔄 Sales Development Representative, Bellevue
+**okta** · Sales Development-310
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7013711?gh_jid=7013711)
+🕐 Updated: `2026-04-06T14:55:09-04:00` &nbsp;|&nbsp; ID: `7013711`
+
+---
+### 🔄 Sales Development Representative, West
+**okta** · Sales Development-310
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572)
+🕐 Updated: `2026-04-06T14:53:07-04:00` &nbsp;|&nbsp; ID: `7013572`
+
+---
+### 🔄 IT Enterprise Applications Engineer, Zuora/NetSuite
+**gitlab** · Enterprise Applications
+📍 Remote, Bangalore &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8465346002)
+🕐 Updated: `2026-04-06T14:49:04-04:00` &nbsp;|&nbsp; ID: `8465346002`
+
+---
+### 🔄 Manager, Infrastructure Security (USA)
+**gitlab** · Product Security
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8468166002)
+🕐 Updated: `2026-04-06T15:15:29-04:00` &nbsp;|&nbsp; ID: `8468166002`
+
+---
+### 🔄 Software Engineer, Agent
+**vercel** · Engineering
+📍 Hybrid - San Francisco, New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5704320004)
+🕐 Updated: `2026-04-06T15:12:22-04:00` &nbsp;|&nbsp; ID: `5704320004`
+
+---
+### 🔄 Web Developer
+**airtable** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8416915002)
+🕐 Updated: `2026-04-06T15:16:04-04:00` &nbsp;|&nbsp; ID: `8416915002`
+
+---
+### 🔄 Backend Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7235875)
+🕐 Updated: `2026-04-06T14:44:05-04:00` &nbsp;|&nbsp; ID: `7235875`
+
+---
+### 🔄 Engineering Manager, Issuing
+**stripe** · 8590 BaaS - Eng
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7760378)
+🕐 Updated: `2026-04-06T15:15:30-04:00` &nbsp;|&nbsp; ID: `7760378`
+
+---
+### 🔄 Production Support Engineer II
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743101)
+🕐 Updated: `2026-04-06T14:15:41-04:00` &nbsp;|&nbsp; ID: `7743101`
+
+---
+### 🔄 IT Support Specialist
+**oportun** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4674665005)
+🕐 Updated: `2026-04-06T14:31:08-04:00` &nbsp;|&nbsp; ID: `4674665005`
+
+---
+### 🔄 Senior Product Manager, Growth
+**robinhood** · Growth Acquisitions
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7592180?t=gh_src=&gh_jid=7592180)
+🕐 Updated: `2026-04-06T14:23:30-04:00` &nbsp;|&nbsp; ID: `7592180`
+
+---
+### 🔄 Senior Software Engineer, Capacity & Efficiency 
+**robinhood** · ENG Technical Assurance
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489675?t=gh_src=&gh_jid=7489675)
+🕐 Updated: `2026-04-06T14:17:36-04:00` &nbsp;|&nbsp; ID: `7489675`
+
+---
+### 🔄 Staff Technical Program Manager
+**robinhood** · ENG Technical Assurance
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577)
+🕐 Updated: `2026-04-06T14:17:38-04:00` &nbsp;|&nbsp; ID: `7739577`
+
+---
+### 🔄 Principal Product Manager, Invest
+**sofi** · Product Management
+📍 CA - San Francisco, WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7671174003?gh_jid=7671174003)
+🕐 Updated: `2026-04-06T14:47:09-04:00` &nbsp;|&nbsp; ID: `7671174003`
+
+---
+### 🔄 Senior Engineering Manager, AI Agents
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7454232?gh_jid=7454232)
+🕐 Updated: `2026-04-06T14:44:45-04:00` &nbsp;|&nbsp; ID: `7454232`
+
+---
+
 ## 📅 Run: 2026-04-06 18:11 UTC
 
 ### 🆕 Software Engineer, Agent

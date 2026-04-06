@@ -109,7 +109,7 @@
   },
   "7235875": {
     "first_seen": "2026-04-06T02:02:03.706608+00:00",
-    "updated_at": "2026-04-01T15:14:53-04:00",
+    "updated_at": "2026-04-06T14:44:05-04:00",
     "title": "Backend Engineer, Privy",
     "company": "stripe"
   },
@@ -187,7 +187,7 @@
   },
   "7760378": {
     "first_seen": "2026-04-06T02:02:03.708192+00:00",
-    "updated_at": "2026-04-01T19:09:47-04:00",
+    "updated_at": "2026-04-06T15:15:30-04:00",
     "title": "Engineering Manager, Issuing",
     "company": "stripe"
   },
@@ -2419,7 +2419,7 @@
   },
   "7592180": {
     "first_seen": "2026-04-06T02:02:05.038336+00:00",
-    "updated_at": "2026-04-03T13:35:18-04:00",
+    "updated_at": "2026-04-06T14:23:30-04:00",
     "title": "Senior Product Manager, Growth",
     "company": "robinhood"
   },
@@ -2449,7 +2449,7 @@
   },
   "7489675": {
     "first_seen": "2026-04-06T02:02:05.038680+00:00",
-    "updated_at": "2026-04-03T03:06:17-04:00",
+    "updated_at": "2026-04-06T14:17:36-04:00",
     "title": "Senior Software Engineer, Capacity & Efficiency ",
     "company": "robinhood"
   },
@@ -2581,7 +2581,7 @@
   },
   "7739577": {
     "first_seen": "2026-04-06T02:02:05.039700+00:00",
-    "updated_at": "2026-04-03T03:08:07-04:00",
+    "updated_at": "2026-04-06T14:17:38-04:00",
     "title": "Staff Technical Program Manager",
     "company": "robinhood"
   },
@@ -5065,13 +5065,13 @@
   },
   "7554568": {
     "first_seen": "2026-04-06T02:02:14.596304+00:00",
-    "updated_at": "2026-04-06T14:06:43-04:00",
+    "updated_at": "2026-04-06T14:16:10-04:00",
     "title": "Senior Solutions Architect - Enterprise Expand East",
     "company": "elastic"
   },
   "7560861": {
     "first_seen": "2026-04-06T02:02:14.596329+00:00",
-    "updated_at": "2026-04-06T14:06:43-04:00",
+    "updated_at": "2026-04-06T14:16:10-04:00",
     "title": "Senior Solutions Architect - Enterprise Expand East",
     "company": "elastic"
   },
@@ -6265,7 +6265,7 @@
   },
   "7616765": {
     "first_seen": "2026-04-06T02:02:15.737232+00:00",
-    "updated_at": "2026-04-06T13:16:50-04:00",
+    "updated_at": "2026-04-06T15:18:03-04:00",
     "title": "Technical Revenue Accounting Manager",
     "company": "twilio"
   },
@@ -7555,7 +7555,7 @@
   },
   "7013711": {
     "first_seen": "2026-04-06T02:02:22.606842+00:00",
-    "updated_at": "2026-04-02T15:26:20-04:00",
+    "updated_at": "2026-04-06T14:55:09-04:00",
     "title": "Sales Development Representative, Bellevue",
     "company": "okta"
   },
@@ -7573,7 +7573,7 @@
   },
   "7013572": {
     "first_seen": "2026-04-06T02:02:22.606923+00:00",
-    "updated_at": "2026-03-25T12:24:34-04:00",
+    "updated_at": "2026-04-06T14:53:07-04:00",
     "title": "Sales Development Representative, West",
     "company": "okta"
   },
@@ -8419,7 +8419,7 @@
   },
   "8416915002": {
     "first_seen": "2026-04-06T02:02:24.753865+00:00",
-    "updated_at": "2026-03-27T15:33:08-04:00",
+    "updated_at": "2026-04-06T15:16:04-04:00",
     "title": "Web Developer",
     "company": "airtable"
   },
@@ -9451,7 +9451,7 @@
   },
   "8465346002": {
     "first_seen": "2026-04-06T02:02:26.676916+00:00",
-    "updated_at": "2026-04-03T16:11:30-04:00",
+    "updated_at": "2026-04-06T14:49:04-04:00",
     "title": "IT Enterprise Applications Engineer, Zuora/NetSuite",
     "company": "gitlab"
   },
@@ -9469,7 +9469,7 @@
   },
   "8468166002": {
     "first_seen": "2026-04-06T02:02:26.677568+00:00",
-    "updated_at": "2026-04-03T19:02:19-04:00",
+    "updated_at": "2026-04-06T15:15:29-04:00",
     "title": "Manager, Infrastructure Security (USA)",
     "company": "gitlab"
   },
@@ -12355,7 +12355,7 @@
   },
   "7634631003": {
     "first_seen": "2026-04-06T08:10:08.966363+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-06T15:16:02-04:00",
     "title": "Head of Corporate Development",
     "company": "klaviyo"
   },
@@ -15817,7 +15817,7 @@
   },
   "4674665005": {
     "first_seen": "2026-04-06T08:10:28.875645+00:00",
-    "updated_at": "2026-03-18T15:49:50-04:00",
+    "updated_at": "2026-04-06T14:31:08-04:00",
     "title": "IT Support Specialist",
     "company": "oportun"
   },
@@ -17179,7 +17179,7 @@
   },
   "7671174003": {
     "first_seen": "2026-04-06T08:10:40.188994+00:00",
-    "updated_at": "2026-03-27T12:17:35-04:00",
+    "updated_at": "2026-04-06T14:47:09-04:00",
     "title": "Principal Product Manager, Invest",
     "company": "sofi"
   },
@@ -20107,13 +20107,13 @@
   },
   "7454232": {
     "first_seen": "2026-04-06T17:26:19.282558+00:00",
-    "updated_at": "2026-04-06T13:12:47-04:00",
-    "title": "Senior Engineering Manager, AI Teammates Platform",
+    "updated_at": "2026-04-06T14:44:45-04:00",
+    "title": "Senior Engineering Manager, AI Agents",
     "company": "asana"
   },
   "5704320004": {
     "first_seen": "2026-04-06T18:10:42.664110+00:00",
-    "updated_at": "2026-04-06T14:08:03-04:00",
+    "updated_at": "2026-04-06T15:12:22-04:00",
     "title": "Software Engineer, Agent",
     "company": "vercel"
   },
@@ -20137,7 +20137,7 @@
   },
   "7743101": {
     "first_seen": "2026-04-06T18:10:45.351435+00:00",
-    "updated_at": "2026-04-06T13:41:30-04:00",
+    "updated_at": "2026-04-06T14:15:41-04:00",
     "title": "Production Support Engineer II",
     "company": "marqeta"
   },
@@ -20152,5 +20152,29 @@
     "updated_at": "2026-04-06T13:55:22-04:00",
     "title": "Senior Software Engineer, Storage Platform",
     "company": "robinhood"
+  },
+  "6049142002": {
+    "first_seen": "2026-04-06T19:19:03.517426+00:00",
+    "updated_at": "2026-02-19T14:47:26-05:00",
+    "title": "Solutions Architect, Retail ",
+    "company": "databricks"
+  },
+  "7782451": {
+    "first_seen": "2026-04-06T19:19:07.134573+00:00",
+    "updated_at": "2026-04-06T14:28:32-04:00",
+    "title": "Business Development Representative",
+    "company": "braze"
+  },
+  "7782462": {
+    "first_seen": "2026-04-06T19:19:07.134599+00:00",
+    "updated_at": "2026-04-06T14:28:33-04:00",
+    "title": "Business Development Representative",
+    "company": "braze"
+  },
+  "7782533": {
+    "first_seen": "2026-04-06T19:20:08.641367+00:00",
+    "updated_at": "2026-04-06T15:06:55-04:00",
+    "title": "Senior Manager, Privacy Architect",
+    "company": "airbnb"
   }
 }
