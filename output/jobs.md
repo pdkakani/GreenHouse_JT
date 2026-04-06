@@ -2,6 +2,75 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 20:55 UTC
+
+### 🆕 Infrastructure Software Engineer
+**dropbox** · EPD
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/6330388?gh_jid=6330388)
+🕐 Updated: `2026-04-06T16:36:36-04:00` &nbsp;|&nbsp; ID: `6330388`
+
+---
+### 🆕 Infrastructure Software Engineer
+**dropbox** · EPD
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/6330390?gh_jid=6330390)
+🕐 Updated: `2026-04-06T16:36:55-04:00` &nbsp;|&nbsp; ID: `6330390`
+
+---
+### 🆕 Site Reliability Engineer
+**alloy** · Infrastructure and Security
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8494881002&gh_jid=8494881002)
+🕐 Updated: `2026-04-06T16:48:56-04:00` &nbsp;|&nbsp; ID: `8494881002`
+
+---
+### 🆕 Engineering Manager, International
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539771?t=gh_src=&gh_jid=7539771)
+🕐 Updated: `2026-04-06T16:15:54-04:00` &nbsp;|&nbsp; ID: `7539771`
+
+---
+### 🆕 Software Engineer, Credit Risk Platform
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219793002?gh_jid=8219793002)
+🕐 Updated: `2026-04-06T16:44:36-04:00` &nbsp;|&nbsp; ID: `8219793002`
+
+---
+### 🆕 Staff Software Engineer, Authorization
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7782308?gh_jid=7782308)
+🕐 Updated: `2026-04-06T16:23:00-04:00` &nbsp;|&nbsp; ID: `7782308`
+
+---
+### 🆕 Software Engineer, Server
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8492315002?gh_jid=8492315002)
+🕐 Updated: `2026-04-06T16:06:32-04:00` &nbsp;|&nbsp; ID: `8492315002`
+
+---
+### 🔄 Technical Account Manager
+**twilio** · Service Operations
+📍 Remote - Colombia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7602725)
+🕐 Updated: `2026-04-06T16:33:33-04:00` &nbsp;|&nbsp; ID: `7602725`
+
+---
+### 🔄 Content Engineer
+**vercel** · Marketing
+📍 Hybrid - San Francisco, New York City, Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5820658004)
+🕐 Updated: `2026-04-06T16:12:51-04:00` &nbsp;|&nbsp; ID: `5820658004`
+
+---
+### 🔄 Senior Product Manager, Consumer Growth
+**classpass** · Product & Design
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.playlist.com/careers/opportunities/4655289006?gh_jid=4655289006)
+🕐 Updated: `2026-04-06T16:53:11-04:00` &nbsp;|&nbsp; ID: `4655289006`
+
+---
+### 🔄 Senior Product Manager, Social & Community
+**classpass** · Product & Design
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.playlist.com/careers/opportunities/4655307006?gh_jid=4655307006)
+🕐 Updated: `2026-04-06T16:53:11-04:00` &nbsp;|&nbsp; ID: `4655307006`
+
+---
+
 ## 📅 Run: 2026-04-06 20:04 UTC
 
 ### 🆕 Software Engineer (L3) Infrastructure
