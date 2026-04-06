@@ -1,0 +1,40 @@
+Pushpak Kakani
+Buffalo, NY, 14221 | kakani.pushpak@gmail.com | (602)295-7017
+
+SUMMARY
+Software Engineer with 6+ years of experience in system design and development of large-scale distributed systems and microservices architectures, specializing in fintech and banking domains, with hands-on experience building end-to-end Generative AI and LLM-based automation pipelines.
+
+SKILLS AND CERTIFICATIONS
+Languages: Java, Python, SQL, HCL (HashiCorp Configuration Language), Shell Scripting (Bash)
+Architecture and Design: Object-Oriented Analysis & Design (OOA/OOD), Event-Driven Architecture (Apache Kafka), Service Oriented Architecture (SOA) Framework, API Design (REST/Open API), OpenAPI 3
+Frameworks and libraries: Spring Boot, Micronaut, Hibernate, Resilience4j
+Cloud and DevOps: AWS (EC2, ECS, Fargate, Lambda, S3, SQS, CloudWatch, Firehose), Azure DevOps, Docker, Terraform, GitLab CI/CD, Jenkins, Git, SonarQube, Kubernetes
+Monitoring and Observability: Prometheus, Grafana, Splunk
+Testing and Quality Assurance: Unit Testing (JUnit, Mockito), Integration Testing, Test Automation (Selenium)
+Databases: MySQL, PostgreSQL, DynamoDB, Redis
+Certifications and AI: AWS Certified Cloud Practitioner, LLM Agent Pipelines
+
+WORK EXPERIENCE
+
+Software Engineer, DNB Bank ASA (Tata Consultancy Services), Oslo, Norway — Dec 2021 – Jun 2025
+- Designed, developed, and maintained 7+ Java Spring Boot microservices within a suite of 25+ services in the Shared Service Layer, following a contract-first API design approach (Open API 3) to expose consumer-friendly RESTful APIs to web and mobile banking clients, abstracting underlying mainframe backend systems via IBM z/OS Connect.
+- Eliminated manual cache management overhead by 70–80% and reduced customer-impacting ticket volume by ~95% by engineering a Kafka-driven event-processor microservice replacing TTL-based expiry with automated real-time Redis cache invalidation.
+- Optimized AWS infrastructure by migrating from EC2-ECS to Fargate and automated CI/CD workflows using GitLab, achieving ~20% monthly cost reduction and ~25% faster deployments.
+- Accelerated critical issue resolution by ~30% by engineering a Terraform-provisioned log streaming pipeline (CloudWatch → Firehose → S3 → SQS → Splunk).
+- Onboarded and mentored a new engineer as dotted-line lead, enabling production-ready contributions within their first sprint.
+
+Software Engineer, Tata Research Development and Design Centre, Pune, India — Sept 2018 – Dec 2021
+- Strengthened microservice fault tolerance by implementing Resilience4j circuit breakers and bulkheads, isolating thread pools and preventing cascading failures from slow downstream backend APIs.
+- Eliminated redundant authorization microservice by identifying 85% code overlap and migrating 12 dependent microservices to a centralized authorization source, reducing codebase by ~8000 lines.
+- Standardized code quality by integrating Spotless auto-formatter with Maven, reducing code review overhead by ~30%.
+- Centralized dependency governance across 25+ microservices by architecting a shared dependency service and standardized GitLab repository template.
+
+PERSONAL PROJECTS
+
+AI-Powered Job Application Automation Platform | Python, Claude AI, Gmail API, OpenPyXL
+- Built an end-to-end LLM agent pipeline ingesting LinkedIn job alerts via Gmail, using Claude AI for role-specific keyword extraction, resume tailoring, and personalized cover letter generation, reducing application prep from 2+ hours to 8 minutes.
+- Deployed on AWS Lambda as a fully automated daily workflow processing 10-20 job listings per run with structured output written to Excel via OpenPyXL.
+
+EDUCATION
+University at Buffalo, The State University of New York — MS Computer and Information Sciences, GPA 3.8/4.0 (May 2026)
+Amravati University — BE Information Technology, CGPA 7.9/10 (Jun 2018)

@@ -21,6 +21,8 @@ from typing import Optional
 
 from filters import is_usa_location, is_software_role
 from state import load_state, save_state, is_seen, get_updated_at, record_job
+from scorer import score_job, should_alert
+from notifier import send_slack_alert, send_run_summary
 
 # ---------------------------------------------------------------------------
 # Config
@@ -192,6 +194,8 @@ def main():
         "jobs_skipped_title": 0,
         "jobs_new": 0,
         "jobs_updated": 0,
+        "alerts_sent": 0,
+        "alerts_skipped": 0,
     }
 
     new_jobs = []
@@ -240,10 +244,11 @@ def main():
             # --- Passed all filters ---
             enriched = {
                 **job,
-                "company": board,  # use board token as company name; title lookup below
+                "company": board,
                 "_location": location,
                 "_department": department,
                 "_url": extract_job_url(job),
+                "_tag": tag,
             }
 
             # Try to get nicer company name from metadata
@@ -267,6 +272,33 @@ def main():
     # Persist updated state
     save_state(state)
 
+    # --- Score & alert for new/updated jobs ---
+    all_fresh_jobs = new_jobs + updated_jobs
+    if all_fresh_jobs:
+        print(f"\n[scorer] Scoring {len(all_fresh_jobs)} new/updated job(s) against resume...")
+        for job in all_fresh_jobs:
+            job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
+            print(f"  → {job_label} ...", end=" ", flush=True)
+            score_result = score_job(job)
+            if score_result is None:
+                print("scoring failed, skipping.")
+                stats["alerts_skipped"] += 1
+                continue
+            score = score_result["score"]
+            print(f"score={score}%")
+            if should_alert(score):
+                sent = send_slack_alert(job, score_result)
+                if sent:
+                    stats["alerts_sent"] += 1
+                else:
+                    stats["alerts_skipped"] += 1
+            else:
+                print(f"  [scorer] Below threshold ({score}% < 50%) — no alert.")
+                stats["alerts_skipped"] += 1
+
+        if stats["alerts_sent"] > 0:
+            send_run_summary(stats)
+
     # Write output only if there's something new
     if new_jobs or updated_jobs:
         write_output(new_jobs, updated_jobs)
@@ -286,6 +318,8 @@ def main():
     print(f"  Skipped (title)   : {stats['jobs_skipped_title']}")
     print(f"  New jobs found    : {stats['jobs_new']} 🆕")
     print(f"  Updated jobs      : {stats['jobs_updated']} 🔄")
+    print(f"  Slack alerts sent : {stats['alerts_sent']} 🔔")
+    print(f"  Below threshold   : {stats['alerts_skipped']}")
     print(f"  Elapsed           : {elapsed:.1f}s")
     print(f"{'='*60}\n")
 

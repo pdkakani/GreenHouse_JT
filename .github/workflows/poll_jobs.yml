@@ -50,6 +50,9 @@ jobs:
       # 5. Run the poller
       # -----------------------------------------------------------------------
       - name: Run job poller
+        env:
+          CL_API_KEY: ${{ secrets.CL_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python poller.py
 
       # -----------------------------------------------------------------------
