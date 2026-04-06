@@ -2,6 +2,87 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 13:59 UTC
+
+### 🆕 Principal, Technical Program Management (Research & Development)
+**twilio** · Program Management (Project, Program, Agile, Technical)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7707970)
+🕐 Updated: `2026-04-06T09:20:27-04:00` &nbsp;|&nbsp; ID: `7707970`
+
+---
+### 🆕 Senior Principal, Technical Program Management (Research & Development)
+**twilio** · Program Management (Project, Program, Agile, Technical)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7707977)
+🕐 Updated: `2026-04-06T09:11:57-04:00` &nbsp;|&nbsp; ID: `7707977`
+
+---
+### 🆕 Senior Product Manager - Platform
+**mixpanel** · Product
+📍 San Francisco, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7779504)
+🕐 Updated: `2026-04-06T08:56:16-04:00` &nbsp;|&nbsp; ID: `7779504`
+
+---
+### 🆕 Technical Partner Manager - Networks
+**stripe** · 3510 CBO Admin
+📍 US-Remote; US-Chicago; US-Atlanta; Canada-Toronto &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7543679)
+🕐 Updated: `2026-04-06T09:17:14-04:00` &nbsp;|&nbsp; ID: `7543679`
+
+---
+### 🔄 Staff Machine Learning Engineer (L4)
+**twilio** · IT
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7716287)
+🕐 Updated: `2026-04-06T09:37:27-04:00` &nbsp;|&nbsp; ID: `7716287`
+
+---
+### 🔄 Staff Software Engineer (L4)
+**twilio** · IT
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7714237)
+🕐 Updated: `2026-04-06T09:33:42-04:00` &nbsp;|&nbsp; ID: `7714237`
+
+---
+### 🔄 Account Executive, Startup Platforms (Existing Business)
+**stripe** · 1652 Platforms - Account Executives (NA)
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7339700)
+🕐 Updated: `2026-04-06T09:13:33-04:00` &nbsp;|&nbsp; ID: `7339700`
+
+---
+### 🔄 Principal Machine Learning Engineer
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7370621)
+🕐 Updated: `2026-04-06T09:24:58-04:00` &nbsp;|&nbsp; ID: `7370621`
+
+---
+### 🔄 Principal Software Engineer, Machine Learning Simulations 
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7489128)
+🕐 Updated: `2026-04-06T09:24:58-04:00` &nbsp;|&nbsp; ID: `7489128`
+
+---
+### 🔄 Principal Software Engineer, Personal Loans
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7727764)
+🕐 Updated: `2026-04-06T09:24:58-04:00` &nbsp;|&nbsp; ID: `7727764`
+
+---
+### 🔄 Senior Engineering Manager, Core Pricing
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7720903)
+🕐 Updated: `2026-04-06T09:24:58-04:00` &nbsp;|&nbsp; ID: `7720903`
+
+---
+### 🔄 Senior Manager, Database Engineering
+**upstart** · Data Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7384661)
+🕐 Updated: `2026-04-06T09:24:58-04:00` &nbsp;|&nbsp; ID: `7384661`
+
+---
+### 🔄 Sr. Software Engineer, Personal Loans Engineering
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7594776)
+🕐 Updated: `2026-04-06T09:24:58-04:00` &nbsp;|&nbsp; ID: `7594776`
+
+---
+
 ## 📅 Run: 2026-04-06 12:37 UTC
 
 ### 🔄 Business Systems Analyst 2

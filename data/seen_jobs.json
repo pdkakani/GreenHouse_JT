@@ -31,7 +31,7 @@
   },
   "7339700": {
     "first_seen": "2026-04-06T02:02:03.705931+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-06T09:13:33-04:00",
     "title": "Account Executive, Startup Platforms (Existing Business)",
     "company": "stripe"
   },
@@ -6229,13 +6229,13 @@
   },
   "7716287": {
     "first_seen": "2026-04-06T02:02:15.736771+00:00",
-    "updated_at": "2026-03-30T14:54:00-04:00",
+    "updated_at": "2026-04-06T09:37:27-04:00",
     "title": "Staff Machine Learning Engineer (L4)",
     "company": "twilio"
   },
   "7714237": {
     "first_seen": "2026-04-06T02:02:15.736786+00:00",
-    "updated_at": "2026-04-03T10:23:57-04:00",
+    "updated_at": "2026-04-06T09:33:42-04:00",
     "title": "Staff Software Engineer (L4)",
     "company": "twilio"
   },
@@ -15607,7 +15607,7 @@
   },
   "7370621": {
     "first_seen": "2026-04-06T08:10:28.569343+00:00",
-    "updated_at": "2026-03-30T19:48:03-04:00",
+    "updated_at": "2026-04-06T09:24:58-04:00",
     "title": "Principal Machine Learning Engineer",
     "company": "upstart"
   },
@@ -15667,13 +15667,13 @@
   },
   "7489128": {
     "first_seen": "2026-04-06T08:10:28.569555+00:00",
-    "updated_at": "2026-03-25T15:33:09-04:00",
+    "updated_at": "2026-04-06T09:24:58-04:00",
     "title": "Principal Software Engineer, Machine Learning Simulations ",
     "company": "upstart"
   },
   "7727764": {
     "first_seen": "2026-04-06T08:10:28.569573+00:00",
-    "updated_at": "2026-04-02T15:40:13-04:00",
+    "updated_at": "2026-04-06T09:24:58-04:00",
     "title": "Principal Software Engineer, Personal Loans",
     "company": "upstart"
   },
@@ -15685,7 +15685,7 @@
   },
   "7720903": {
     "first_seen": "2026-04-06T08:10:28.569764+00:00",
-    "updated_at": "2026-04-02T15:24:36-04:00",
+    "updated_at": "2026-04-06T09:24:58-04:00",
     "title": "Senior Engineering Manager, Core Pricing",
     "company": "upstart"
   },
@@ -15727,7 +15727,7 @@
   },
   "7384661": {
     "first_seen": "2026-04-06T08:10:28.570019+00:00",
-    "updated_at": "2026-03-25T15:33:09-04:00",
+    "updated_at": "2026-04-06T09:24:58-04:00",
     "title": "Senior Manager, Database Engineering",
     "company": "upstart"
   },
@@ -15805,7 +15805,7 @@
   },
   "7594776": {
     "first_seen": "2026-04-06T08:10:28.570442+00:00",
-    "updated_at": "2026-03-26T11:03:02-04:00",
+    "updated_at": "2026-04-06T09:24:58-04:00",
     "title": "Sr. Software Engineer, Personal Loans Engineering",
     "company": "upstart"
   },
@@ -19936,5 +19936,29 @@
     "updated_at": "2026-04-01T17:53:44-04:00",
     "title": "Sales Development Representative",
     "company": "ivalua"
+  },
+  "7707970": {
+    "first_seen": "2026-04-06T13:58:14.730026+00:00",
+    "updated_at": "2026-04-06T09:20:27-04:00",
+    "title": "Principal, Technical Program Management (Research & Development)",
+    "company": "twilio"
+  },
+  "7707977": {
+    "first_seen": "2026-04-06T13:58:14.730281+00:00",
+    "updated_at": "2026-04-06T09:11:57-04:00",
+    "title": "Senior Principal, Technical Program Management (Research & Development)",
+    "company": "twilio"
+  },
+  "7779504": {
+    "first_seen": "2026-04-06T13:58:15.087623+00:00",
+    "updated_at": "2026-04-06T08:56:16-04:00",
+    "title": "Senior Product Manager - Platform",
+    "company": "mixpanel"
+  },
+  "7543679": {
+    "first_seen": "2026-04-06T13:58:30.344704+00:00",
+    "updated_at": "2026-04-06T09:17:14-04:00",
+    "title": "Technical Partner Manager - Networks",
+    "company": "stripe"
   }
 }
