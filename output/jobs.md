@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 12:37 UTC
+
+### 🔄 Business Systems Analyst 2
+**twilio** · Services
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7254399)
+🕐 Updated: `2026-04-06T07:51:51-04:00` &nbsp;|&nbsp; ID: `7254399`
+
+---
+### 🔄 Product Manager, Advanced AI & Risk Data Solutions
+**sofi** · Risk Management
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7644238003?gh_jid=7644238003)
+🕐 Updated: `2026-04-06T08:32:27-04:00` &nbsp;|&nbsp; ID: `7644238003`
+
+---
+
 ## 📅 Run: 2026-04-06 08:15 UTC
 
 ### 🆕 Analytics Data Engineer
