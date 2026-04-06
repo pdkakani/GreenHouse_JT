@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 22:56 UTC
+
+### 🆕 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Boston, Massachusetts; New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691477003)
+🕐 Updated: `2026-04-06T18:40:33-04:00` &nbsp;|&nbsp; ID: `7691477003`
+
+---
+### 🆕 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691486003)
+🕐 Updated: `2026-04-06T18:31:39-04:00` &nbsp;|&nbsp; ID: `7691486003`
+
+---
+### 🆕 Enterprise Solutions Engineer, LATAM
+**postman** · Sales
+📍 Miami, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691496003)
+🕐 Updated: `2026-04-06T18:42:28-04:00` &nbsp;|&nbsp; ID: `7691496003`
+
+---
+### 🆕 Senior Analytics Engineer (Platform - Financial Analytics)
+**coinbase** · Data Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521)
+🕐 Updated: `2026-04-06T18:41:35-04:00` &nbsp;|&nbsp; ID: `7736521`
+
+---
+### 🔄 Product Solutions Architect - Product Analytics and Experimentation
+**datadog** · Product Solutions Architecture
+📍 Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7732699/?gh_jid=7732699)
+🕐 Updated: `2026-04-06T18:35:20-04:00` &nbsp;|&nbsp; ID: `7732699`
+
+---
+### 🔄 Product Manager, Advanced AI & Risk Data Solutions
+**sofi** · Risk Management
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7644238003?gh_jid=7644238003)
+🕐 Updated: `2026-04-06T18:47:00-04:00` &nbsp;|&nbsp; ID: `7644238003`
+
+---
+### 🔄 Staff Software Engineer, FoodStorm
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7361224)
+🕐 Updated: `2026-04-06T18:53:54-04:00` &nbsp;|&nbsp; ID: `7361224`
+
+---
+
 ## 📅 Run: 2026-04-06 22:04 UTC
 
 ### 🆕 Software Engineer (L3)
