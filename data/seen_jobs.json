@@ -5143,7 +5143,7 @@
   },
   "7674976": {
     "first_seen": "2026-04-06T02:02:14.596865+00:00",
-    "updated_at": "2026-03-16T15:57:26-04:00",
+    "updated_at": "2026-04-06T11:08:02-04:00",
     "title": "Sr. Director, IT - AI Innovation and Services",
     "company": "elastic"
   },
@@ -7741,8 +7741,8 @@
   },
   "7728933": {
     "first_seen": "2026-04-06T02:02:22.609891+00:00",
-    "updated_at": "2026-03-23T15:50:52-04:00",
-    "title": "Senior Solutions Engineer, Okta",
+    "updated_at": "2026-04-06T11:16:00-04:00",
+    "title": "Senior Solutions Engineer, Strategic",
     "company": "okta"
   },
   "7728942": {
@@ -10189,49 +10189,49 @@
   },
   "7524547003": {
     "first_seen": "2026-04-06T02:02:32.213581+00:00",
-    "updated_at": "2026-03-24T16:18:46-04:00",
+    "updated_at": "2026-04-06T11:16:31-04:00",
     "title": "Senior Product Manager, Data & Integrations",
     "company": "fivetran"
   },
   "7524543003": {
     "first_seen": "2026-04-06T02:02:32.213617+00:00",
-    "updated_at": "2026-03-24T16:18:27-04:00",
+    "updated_at": "2026-04-06T11:16:31-04:00",
     "title": "Senior Product Manager, Data & Integrations",
     "company": "fivetran"
   },
   "7547715003": {
     "first_seen": "2026-04-06T02:02:32.213646+00:00",
-    "updated_at": "2026-03-25T16:40:32-04:00",
+    "updated_at": "2026-04-06T11:16:34-04:00",
     "title": "Senior Product Manager, Enterprise Platform",
     "company": "fivetran"
   },
   "7535819003": {
     "first_seen": "2026-04-06T02:02:32.213681+00:00",
-    "updated_at": "2026-03-23T02:33:41-04:00",
+    "updated_at": "2026-04-06T11:16:34-04:00",
     "title": "Senior Product Manager, Enterprise Platform",
     "company": "fivetran"
   },
   "6648548003": {
     "first_seen": "2026-04-06T02:02:32.213710+00:00",
-    "updated_at": "2026-03-25T16:29:15-04:00",
+    "updated_at": "2026-04-06T11:16:29-04:00",
     "title": "Senior Product Manager, Observability & Monitoring",
     "company": "fivetran"
   },
   "6645141003": {
     "first_seen": "2026-04-06T02:02:32.213746+00:00",
-    "updated_at": "2026-03-25T16:28:51-04:00",
+    "updated_at": "2026-04-06T11:16:29-04:00",
     "title": "Senior Product Manager, Observability & Monitoring",
     "company": "fivetran"
   },
   "6666499003": {
     "first_seen": "2026-04-06T02:02:32.213775+00:00",
-    "updated_at": "2026-03-24T16:19:45-04:00",
+    "updated_at": "2026-04-06T11:16:31-04:00",
     "title": "Senior Product Manager, Reverse ETL",
     "company": "fivetran"
   },
   "6648720003": {
     "first_seen": "2026-04-06T02:02:32.213810+00:00",
-    "updated_at": "2026-03-24T16:19:06-04:00",
+    "updated_at": "2026-04-06T11:16:31-04:00",
     "title": "Senior Product Manager, Reverse ETL",
     "company": "fivetran"
   },
@@ -10423,7 +10423,7 @@
   },
   "7644168003": {
     "first_seen": "2026-04-06T02:02:32.215649+00:00",
-    "updated_at": "2026-03-24T16:20:10-04:00",
+    "updated_at": "2026-04-06T11:16:31-04:00",
     "title": "Staff Product Manager, Reverse ETL",
     "company": "fivetran"
   },
@@ -15799,8 +15799,8 @@
   },
   "7506498": {
     "first_seen": "2026-04-06T08:10:28.570414+00:00",
-    "updated_at": "2026-04-03T17:46:26-04:00",
-    "title": "Sr. Capital Markets Manager ",
+    "updated_at": "2026-04-06T10:51:30-04:00",
+    "title": "Senior Capital Markets Manager ",
     "company": "upstart"
   },
   "7594776": {
@@ -19984,5 +19984,53 @@
     "updated_at": "2026-04-06T10:23:11-04:00",
     "title": "Staff Product Designer - Financial Tools and Infrastructure",
     "company": "coinbase"
+  },
+  "5842463004": {
+    "first_seen": "2026-04-06T15:40:23.225805+00:00",
+    "updated_at": "2026-04-06T11:01:11-04:00",
+    "title": "Technical Account Manager",
+    "company": "hightouch"
+  },
+  "5842464004": {
+    "first_seen": "2026-04-06T15:40:23.225830+00:00",
+    "updated_at": "2026-04-06T11:01:02-04:00",
+    "title": "Technical Account Manager",
+    "company": "hightouch"
+  },
+  "8493679002": {
+    "first_seen": "2026-04-06T15:40:25.460362+00:00",
+    "updated_at": "2026-04-06T11:34:57-04:00",
+    "title": "Field CTO, Public Sector",
+    "company": "gitlab"
+  },
+  "7739556": {
+    "first_seen": "2026-04-06T15:40:29.713282+00:00",
+    "updated_at": "2026-04-06T10:51:44-04:00",
+    "title": "Principal Engineer, Identity & Engagement",
+    "company": "dropbox"
+  },
+  "7739559": {
+    "first_seen": "2026-04-06T15:40:29.713311+00:00",
+    "updated_at": "2026-04-06T10:52:24-04:00",
+    "title": "Principal Engineer, Identity & Engagement",
+    "company": "dropbox"
+  },
+  "4681666005": {
+    "first_seen": "2026-04-06T15:40:31.853069+00:00",
+    "updated_at": "2026-04-06T11:31:34-04:00",
+    "title": "Senior Software Engineer, Backend",
+    "company": "flex"
+  },
+  "7773917": {
+    "first_seen": "2026-04-06T15:40:46.653426+00:00",
+    "updated_at": "2026-04-06T10:57:22-04:00",
+    "title": "Engineering Apprentice, Connect Program",
+    "company": "airbnb"
+  },
+  "7781698": {
+    "first_seen": "2026-04-06T15:40:48.510760+00:00",
+    "updated_at": "2026-04-06T11:14:56-04:00",
+    "title": "Senior Software Engineer, AI Teammates Experience",
+    "company": "asana"
   }
 }

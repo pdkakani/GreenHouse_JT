@@ -2,6 +2,129 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-06 15:40 UTC
+
+### 🆕 Technical Account Manager
+**hightouch** · Customer Success
+📍 Remote (Australia) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5842463004)
+🕐 Updated: `2026-04-06T11:01:11-04:00` &nbsp;|&nbsp; ID: `5842463004`
+
+---
+### 🆕 Technical Account Manager
+**hightouch** · Customer Success
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5842464004)
+🕐 Updated: `2026-04-06T11:01:02-04:00` &nbsp;|&nbsp; ID: `5842464004`
+
+---
+### 🆕 Field CTO, Public Sector
+**gitlab** · Solutions Architecture - PubSec
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8493679002)
+🕐 Updated: `2026-04-06T11:34:57-04:00` &nbsp;|&nbsp; ID: `8493679002`
+
+---
+### 🆕 Principal Engineer, Identity & Engagement
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739556?gh_jid=7739556)
+🕐 Updated: `2026-04-06T10:51:44-04:00` &nbsp;|&nbsp; ID: `7739556`
+
+---
+### 🆕 Principal Engineer, Identity & Engagement
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739559?gh_jid=7739559)
+🕐 Updated: `2026-04-06T10:52:24-04:00` &nbsp;|&nbsp; ID: `7739559`
+
+---
+### 🆕 Senior Software Engineer, Backend
+**flex** · Engineering
+📍 New York, New York, United States; Remote (U.S.) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4681666005)
+🕐 Updated: `2026-04-06T11:31:34-04:00` &nbsp;|&nbsp; ID: `4681666005`
+
+---
+### 🆕 Engineering Apprentice, Connect Program
+**airbnb** · Apprenticeship
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7773917?gh_jid=7773917)
+🕐 Updated: `2026-04-06T10:57:22-04:00` &nbsp;|&nbsp; ID: `7773917`
+
+---
+### 🆕 Senior Software Engineer, AI Teammates Experience
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7781698?gh_jid=7781698)
+🕐 Updated: `2026-04-06T11:14:56-04:00` &nbsp;|&nbsp; ID: `7781698`
+
+---
+### 🔄 Sr. Director, IT - AI Innovation and Services
+**elastic** · IT
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7674976&gh_jid=7674976)
+🕐 Updated: `2026-04-06T11:08:02-04:00` &nbsp;|&nbsp; ID: `7674976`
+
+---
+### 🔄 Senior Solutions Engineer, Strategic
+**okta** · SE Field-321
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7728933?gh_jid=7728933)
+🕐 Updated: `2026-04-06T11:16:00-04:00` &nbsp;|&nbsp; ID: `7728933`
+
+---
+### 🔄 Senior Product Manager, Data & Integrations
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7524547003)
+🕐 Updated: `2026-04-06T11:16:31-04:00` &nbsp;|&nbsp; ID: `7524547003`
+
+---
+### 🔄 Senior Product Manager, Data & Integrations
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7524543003)
+🕐 Updated: `2026-04-06T11:16:31-04:00` &nbsp;|&nbsp; ID: `7524543003`
+
+---
+### 🔄 Senior Product Manager, Enterprise Platform
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7535819003)
+🕐 Updated: `2026-04-06T11:16:34-04:00` &nbsp;|&nbsp; ID: `7535819003`
+
+---
+### 🔄 Senior Product Manager, Enterprise Platform
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7547715003)
+🕐 Updated: `2026-04-06T11:16:34-04:00` &nbsp;|&nbsp; ID: `7547715003`
+
+---
+### 🔄 Senior Product Manager, Observability & Monitoring
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6645141003)
+🕐 Updated: `2026-04-06T11:16:29-04:00` &nbsp;|&nbsp; ID: `6645141003`
+
+---
+### 🔄 Senior Product Manager, Observability & Monitoring
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6648548003)
+🕐 Updated: `2026-04-06T11:16:29-04:00` &nbsp;|&nbsp; ID: `6648548003`
+
+---
+### 🔄 Senior Product Manager, Reverse ETL
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6666499003)
+🕐 Updated: `2026-04-06T11:16:31-04:00` &nbsp;|&nbsp; ID: `6666499003`
+
+---
+### 🔄 Senior Product Manager, Reverse ETL
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6648720003)
+🕐 Updated: `2026-04-06T11:16:31-04:00` &nbsp;|&nbsp; ID: `6648720003`
+
+---
+### 🔄 Staff Product Manager, Reverse ETL
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7644168003)
+🕐 Updated: `2026-04-06T11:16:31-04:00` &nbsp;|&nbsp; ID: `7644168003`
+
+---
+### 🔄 Senior Capital Markets Manager 
+**upstart** · Capital Markets Front Office
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7506498)
+🕐 Updated: `2026-04-06T10:51:30-04:00` &nbsp;|&nbsp; ID: `7506498`
+
+---
+
 ## 📅 Run: 2026-04-06 14:51 UTC
 
 ### 🆕 Senior Sales Development Representative - Mid-Market 
