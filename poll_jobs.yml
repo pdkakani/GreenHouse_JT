@@ -1,0 +1,72 @@
+name: Greenhouse Job Poller
+
+on:
+  schedule:
+    # Every 15 minutes (GitHub's minimum granularity)
+    - cron: "*/15 * * * *"
+  workflow_dispatch:  # Allow manual trigger from Actions UI
+
+permissions:
+  contents: write  # needed to commit state + output back to repo
+
+jobs:
+  poll:
+    name: Poll & Filter Jobs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # hard cap — should finish in ~2-3 min normally
+
+    steps:
+      # -----------------------------------------------------------------------
+      # 1. Checkout with full history so git push works cleanly
+      # -----------------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # -----------------------------------------------------------------------
+      # 2. Set up Python
+      # -----------------------------------------------------------------------
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # -----------------------------------------------------------------------
+      # 3. Install dependencies
+      # -----------------------------------------------------------------------
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # -----------------------------------------------------------------------
+      # 4. Ensure data/ and output/ directories exist
+      # -----------------------------------------------------------------------
+      - name: Ensure directories exist
+        run: |
+          mkdir -p data output
+
+      # -----------------------------------------------------------------------
+      # 5. Run the poller
+      # -----------------------------------------------------------------------
+      - name: Run job poller
+        run: python poller.py
+
+      # -----------------------------------------------------------------------
+      # 6. Commit state + output if anything changed
+      # -----------------------------------------------------------------------
+      - name: Commit updated state and output
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/seen_jobs.json output/jobs.md || true
+
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "Nothing changed — skipping commit."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "chore: job poll ${TIMESTAMP}"
+            git push
+          fi

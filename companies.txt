@@ -1,0 +1,105 @@
+# Greenhouse Job Board Tokens
+# One company slug per line. Lines starting with # are ignored.
+# Add or remove companies freely — no code changes needed.
+
+# === Fintech / Payments ===
+stripe
+coinbase
+plaid
+affirm
+robinhood
+chime
+brex
+mercury
+ramp
+marqeta
+adyen
+square
+klarna
+paysafe
+payoneer
+moderntreasury
+unit
+lithic
+synctera
+paylocity
+
+# === Big Tech / Cloud ===
+databricks
+snowflake
+confluent
+hashicorp
+elastic
+mongodb
+redis
+digitalocean
+cloudflare
+fastly
+twilio
+sendgrid
+segment
+mixpanel
+amplitude
+
+# === Infrastructure / DevOps / Security ===
+hashicorp
+pagerduty
+datadog
+newrelic
+sumo-logic
+lacework
+wiz
+snyk
+1password
+crowdstrike
+sentinelone
+okta
+auth0
+teleport
+vultr
+
+# === AI / ML ===
+scale
+huggingface
+cohere
+weights-and-biases
+langchain
+anyscale
+modal
+together
+
+# === SaaS / Enterprise ===
+notion
+figma
+miro
+linear
+retool
+airtable
+zapier
+make
+vercel
+netlify
+render
+railway
+fly
+
+# === Healthcare Tech ===
+oscar
+cityblock
+collective-health
+hinge-health
+tempus
+
+# === Other High-Signal Tech ===
+github
+gitlab
+atlassian
+postman
+sentry
+grafana
+anchore
+dbt-labs
+prefect
+airbyte
+fivetran
+greatexpectations
