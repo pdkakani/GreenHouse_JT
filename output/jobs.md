@@ -2,6 +2,141 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 08:10 UTC
+
+### 🔄 Executive Assistant
+**fastly** · Finance Systems
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7761853)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7761853`
+
+---
+### 🔄 Mission Control Engineer - US Remote
+**fastly** · Service Delivery - CSE
+📍 Denver, CO; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7700627)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7700627`
+
+---
+### 🔄 Principal Engineer - Release Engineering
+**fastly** · Platform Engineering
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7685198)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7685198`
+
+---
+### 🔄 Senior Customer Support Engineer - US West
+**fastly** · Service Delivery - CSE
+📍 Denver, CO; Los Angeles, CA; Portland, OR; San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7718295)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7718295`
+
+---
+### 🔄 Senior Engineer - Data Reliability
+**fastly** · Core Systems Engineering
+📍 Denver, CO; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7629729)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7629729`
+
+---
+### 🔄 Engineering Manager, Amplify Engineering
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7478012003)
+🕐 Updated: `2026-04-07T03:01:49-04:00` &nbsp;|&nbsp; ID: `7478012003`
+
+---
+### 🔄 Engineering Manager, Customer Agent
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453448003)
+🕐 Updated: `2026-04-07T03:01:45-04:00` &nbsp;|&nbsp; ID: `7453448003`
+
+---
+### 🔄 Engineering Manager - Data Automation
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7570250003)
+🕐 Updated: `2026-04-07T03:02:14-04:00` &nbsp;|&nbsp; ID: `7570250003`
+
+---
+### 🔄 Engineering Manager, Events
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453449003)
+🕐 Updated: `2026-04-07T03:01:46-04:00` &nbsp;|&nbsp; ID: `7453449003`
+
+---
+### 🔄 Engineering Manager, Flow Insights & Management
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7546307003)
+🕐 Updated: `2026-04-07T03:01:55-04:00` &nbsp;|&nbsp; ID: `7546307003`
+
+---
+### 🔄 Engineering Manager, Profile Traits 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7574911003)
+🕐 Updated: `2026-04-07T03:02:19-04:00` &nbsp;|&nbsp; ID: `7574911003`
+
+---
+### 🔄 Senior AI Engineer
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7668048003)
+🕐 Updated: `2026-04-07T03:02:41-04:00` &nbsp;|&nbsp; ID: `7668048003`
+
+---
+### 🔄 Senior AI Engineer
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003)
+🕐 Updated: `2026-04-07T03:01:44-04:00` &nbsp;|&nbsp; ID: `7502768003`
+
+---
+### 🔄 Software Engineer II, Data Automation 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453478003)
+🕐 Updated: `2026-04-07T03:01:47-04:00` &nbsp;|&nbsp; ID: `7453478003`
+
+---
+### 🔄 Software Engineer II - Data Management and Governance (DMG)
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7568455003)
+🕐 Updated: `2026-04-07T03:02:07-04:00` &nbsp;|&nbsp; ID: `7568455003`
+
+---
+### 🔄 Software Engineer II - Editors
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7528839003)
+🕐 Updated: `2026-04-07T03:01:53-04:00` &nbsp;|&nbsp; ID: `7528839003`
+
+---
+### 🔄 Software Engineer II - Groups
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7568453003)
+🕐 Updated: `2026-04-07T03:02:05-04:00` &nbsp;|&nbsp; ID: `7568453003`
+
+---
+### 🔄 Software Engineer II - Identity & Access Management
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660502003)
+🕐 Updated: `2026-04-07T03:02:37-04:00` &nbsp;|&nbsp; ID: `7660502003`
+
+---
+### 🔄 Software Engineer II - Integrations 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453479003)
+🕐 Updated: `2026-04-07T03:01:48-04:00` &nbsp;|&nbsp; ID: `7453479003`
+
+---
+### 🔄 Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597051003)
+🕐 Updated: `2026-04-07T03:02:19-04:00` &nbsp;|&nbsp; ID: `7597051003`
+
+---
+### 🔄 Sr. Manager, Orchestrate
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7647696003)
+🕐 Updated: `2026-04-07T03:02:34-04:00` &nbsp;|&nbsp; ID: `7647696003`
+
+---
+### 🔄 Sr. Principle AI Systems Architect
+**fivetran** · Business Intelligence Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7651403003)
+🕐 Updated: `2026-04-07T03:16:33-04:00` &nbsp;|&nbsp; ID: `7651403003`
+
+---
+
 ## 📅 Run: 2026-04-07 05:27 UTC
 
 ### 🆕 Solutions Architect, Retail - CPG
