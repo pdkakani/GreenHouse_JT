@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 09:19 UTC
+
+### 🆕 Frontend Product Software Engineer, Web DX
+**dropbox** · Developer Platform (Sub Team)
+📍 Remote - Poland &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7784019?gh_jid=7784019)
+🕐 Updated: `2026-04-07T04:26:48-04:00` &nbsp;|&nbsp; ID: `7784019`
+
+---
+
 ## 📅 Run: 2026-04-07 08:10 UTC
 
 ### 🔄 Executive Assistant
