@@ -2,6 +2,93 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 10:33 UTC
+
+### 🆕 Staff Machine Learning Engineer (L4)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520997)
+🕐 Updated: `2026-04-07T06:12:53-04:00` &nbsp;|&nbsp; ID: `7520997`
+
+---
+### 🆕 Sr. Technical Customer Success Manager (12mth Fixed Term Contract)
+**amplitude** · Customer Success Management
+📍 Remote - Germany &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8496177002)
+🕐 Updated: `2026-04-07T05:58:38-04:00` &nbsp;|&nbsp; ID: `8496177002`
+
+---
+### 🆕 Solutions Architect - ANZ
+**gitlab** · SA
+📍 Remote, Australia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8494593002)
+🕐 Updated: `2026-04-07T05:33:04-04:00` &nbsp;|&nbsp; ID: `8494593002`
+
+---
+### 🔄 Director of Engineering, Dynamic Platform
+**fireblocks** · R&D
+📍 Miami, Florida, United States; New York; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4662147006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4662147006`
+
+---
+### 🔄 Incident Response Engineer (Pacific time)
+**fireblocks** · R&D
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4664533006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4664533006`
+
+---
+### 🔄 Mobile Engineer
+**fireblocks** · R&D
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4626033006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4626033006`
+
+---
+### 🔄 Mobile Engineer
+**fireblocks** · R&D
+📍 Miami, Florida, United States; New York; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4626035006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4626035006`
+
+---
+### 🔄 Sales Engineer, Banking
+**fireblocks** · Sales
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4658119006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4658119006`
+
+---
+### 🔄 Senior Blockchain Engineer
+**fireblocks** · R&D
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4601513006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4601513006`
+
+---
+### 🔄 Senior Full Stack Engineer
+**fireblocks** · R&D
+📍 Miami, Florida, United States; New York; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4626023006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4626023006`
+
+---
+### 🔄 Senior Product Manager, Fireblocks Trust Company
+**fireblocks** · Corporate Strategy
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4615233006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4615233006`
+
+---
+### 🔄 Site Reliability Engineer
+**fireblocks** · Trust Company
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4656035006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4656035006`
+
+---
+### 🔄 Site Reliability Engineer (SRE) (Pacific time)
+**fireblocks** · R&D
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fireblocks/jobs/4619316006)
+🕐 Updated: `2026-04-07T05:42:14-04:00` &nbsp;|&nbsp; ID: `4619316006`
+
+---
+### 🔄 Principal Product Manager - Partner Platform Integrations
+**godaddy** · Product Management
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7536533003)
+🕐 Updated: `2026-04-07T06:31:29-04:00` &nbsp;|&nbsp; ID: `7536533003`
+
+---
+
 ## 📅 Run: 2026-04-07 09:19 UTC
 
 ### 🆕 Frontend Product Software Engineer, Web DX
