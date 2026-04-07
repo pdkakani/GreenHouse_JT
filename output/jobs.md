@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 22:58 UTC
+
+### 🆕 Engineering Manager - Identity and Access Management (IAM)
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002)
+🕐 Updated: `2026-04-07T18:16:33-04:00` &nbsp;|&nbsp; ID: `8298018002`
+
+---
+### 🆕 Retail Sales Manager, International
+**instacart** · Retail Business Development
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7789182)
+🕐 Updated: `2026-04-07T18:19:09-04:00` &nbsp;|&nbsp; ID: `7789182`
+
+---
+### 🔄 Software Engineer
+**stripe** · Tech
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-07T18:35:54-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🔄 Activation Sales Development Representative I
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7144697)
+🕐 Updated: `2026-04-07T18:56:51-04:00` &nbsp;|&nbsp; ID: `7144697`
+
+---
+### 🔄 Retention Sales Development Representative II
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7712406)
+🕐 Updated: `2026-04-07T18:56:51-04:00` &nbsp;|&nbsp; ID: `7712406`
+
+---
+### 🔄 Senior Software Engineer, Ads
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7341203)
+🕐 Updated: `2026-04-07T18:46:55-04:00` &nbsp;|&nbsp; ID: `7341203`
+
+---
+### 🔄 Senior Software Engineer, Data Governance & Foundations
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776249)
+🕐 Updated: `2026-04-07T18:46:55-04:00` &nbsp;|&nbsp; ID: `7776249`
+
+---
+### 🔄 Senior Software Engineer II, Core Experience
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7171162)
+🕐 Updated: `2026-04-07T18:46:55-04:00` &nbsp;|&nbsp; ID: `7171162`
+
+---
+### 🔄 Senior Software Engineer II, Data Platform
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7171161)
+🕐 Updated: `2026-04-07T18:46:54-04:00` &nbsp;|&nbsp; ID: `7171161`
+
+---
+### 🔄 Senior Software Engineer II, Storage
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7564947)
+🕐 Updated: `2026-04-07T18:46:55-04:00` &nbsp;|&nbsp; ID: `7564947`
+
+---
+
 ## 📅 Run: 2026-04-07 22:07 UTC
 
 ### 🆕 Product Manager, Claude Growth (Monetization) 

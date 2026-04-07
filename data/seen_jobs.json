@@ -17617,7 +17617,7 @@
   },
   "7144697": {
     "first_seen": "2026-04-06T08:10:42.103635+00:00",
-    "updated_at": "2026-03-31T03:39:31-04:00",
+    "updated_at": "2026-04-07T18:56:51-04:00",
     "title": "Activation Sales Development Representative I",
     "company": "instacart"
   },
@@ -17737,7 +17737,7 @@
   },
   "7712406": {
     "first_seen": "2026-04-06T08:10:42.105086+00:00",
-    "updated_at": "2026-03-31T03:39:38-04:00",
+    "updated_at": "2026-04-07T18:56:51-04:00",
     "title": "Retention Sales Development Representative II",
     "company": "instacart"
   },
@@ -17869,7 +17869,7 @@
   },
   "7341203": {
     "first_seen": "2026-04-06T08:10:42.106381+00:00",
-    "updated_at": "2026-03-31T10:38:27-04:00",
+    "updated_at": "2026-04-07T18:46:55-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart"
   },
@@ -17881,7 +17881,7 @@
   },
   "7776249": {
     "first_seen": "2026-04-06T08:10:42.106415+00:00",
-    "updated_at": "2026-04-02T16:09:10-04:00",
+    "updated_at": "2026-04-07T18:46:55-04:00",
     "title": "Senior Software Engineer, Data Governance & Foundations",
     "company": "instacart"
   },
@@ -17899,13 +17899,13 @@
   },
   "7171162": {
     "first_seen": "2026-04-06T08:10:42.106480+00:00",
-    "updated_at": "2026-03-31T10:38:27-04:00",
+    "updated_at": "2026-04-07T18:46:55-04:00",
     "title": "Senior Software Engineer II, Core Experience",
     "company": "instacart"
   },
   "7171161": {
     "first_seen": "2026-04-06T08:10:42.106498+00:00",
-    "updated_at": "2026-03-31T10:38:27-04:00",
+    "updated_at": "2026-04-07T18:46:54-04:00",
     "title": "Senior Software Engineer II, Data Platform",
     "company": "instacart"
   },
@@ -17917,7 +17917,7 @@
   },
   "7564947": {
     "first_seen": "2026-04-06T08:10:42.106532+00:00",
-    "updated_at": "2026-03-31T10:38:27-04:00",
+    "updated_at": "2026-04-07T18:46:55-04:00",
     "title": "Senior Software Engineer II, Storage",
     "company": "instacart"
   },
@@ -20791,7 +20791,7 @@
   },
   "7788088": {
     "first_seen": "2026-04-07T21:29:48.233686+00:00",
-    "updated_at": "2026-04-07T16:41:50-04:00",
+    "updated_at": "2026-04-07T18:35:54-04:00",
     "title": "Software Engineer",
     "company": "stripe"
   },
@@ -20812,5 +20812,17 @@
     "updated_at": "2026-04-07T17:49:04-04:00",
     "title": "Senior Data Scientist, Predict",
     "company": "alloy"
+  },
+  "8298018002": {
+    "first_seen": "2026-04-07T22:57:38.397721+00:00",
+    "updated_at": "2026-04-07T18:16:33-04:00",
+    "title": "Engineering Manager - Identity and Access Management (IAM)",
+    "company": "databricks"
+  },
+  "7789182": {
+    "first_seen": "2026-04-07T22:58:06.942965+00:00",
+    "updated_at": "2026-04-07T18:19:09-04:00",
+    "title": "Retail Sales Manager, International",
+    "company": "instacart"
   }
 }
