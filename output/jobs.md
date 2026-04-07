@@ -2,6 +2,141 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 18:56 UTC
+
+### 🆕 Staff Product Manager, Media
+**fastly** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7781876)
+🕐 Updated: `2026-04-07T13:59:33-04:00` &nbsp;|&nbsp; ID: `7781876`
+
+---
+### 🆕 Staff Product Manager, Metacognition
+**fastly** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7781874)
+🕐 Updated: `2026-04-07T13:57:51-04:00` &nbsp;|&nbsp; ID: `7781874`
+
+---
+### 🆕 Associate Product Manager, Billing
+**klaviyo** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7615553003)
+🕐 Updated: `2026-04-07T13:59:21-04:00` &nbsp;|&nbsp; ID: `7615553003`
+
+---
+### 🆕 Sales Development Representative (Boston)
+**datadog** · Sales Development
+📍 Boston, Massachusetts, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571)
+🕐 Updated: `2026-04-07T13:59:03-04:00` &nbsp;|&nbsp; ID: `6741571`
+
+---
+### 🆕 Senior Site Reliability Engineer, Tenant Services: Geo
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8490453002)
+🕐 Updated: `2026-04-07T14:39:20-04:00` &nbsp;|&nbsp; ID: `8490453002`
+
+---
+### 🆕 Software Engineer
+**airtable** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8495850002)
+🕐 Updated: `2026-04-07T14:39:38-04:00` &nbsp;|&nbsp; ID: `8495850002`
+
+---
+### 🆕 Engineering Manager, Agent Experience
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542965?t=gh_src=&gh_jid=7542965)
+🕐 Updated: `2026-04-07T14:10:50-04:00` &nbsp;|&nbsp; ID: `7542965`
+
+---
+### 🆕 Software Engineer Guest & Host (Listing) 
+**airbnb** · Software Engineering
+📍 Remote, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7783175?gh_jid=7783175)
+🕐 Updated: `2026-04-07T14:01:48-04:00` &nbsp;|&nbsp; ID: `7783175`
+
+---
+### 🔄 Network Engineer, Capacity and Efficiency
+**anthropic** · Compute
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5177143008)
+🕐 Updated: `2026-04-07T14:37:35-04:00` &nbsp;|&nbsp; ID: `5177143008`
+
+---
+### 🔄 Commercial Sales Engineer, US East
+**cribl** · Sales
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5746413004)
+🕐 Updated: `2026-04-07T14:31:56-04:00` &nbsp;|&nbsp; ID: `5746413004`
+
+---
+### 🔄 Sales Engineer, Federal
+**cribl** · Sales
+📍 Remote - Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5746411004)
+🕐 Updated: `2026-04-07T14:32:57-04:00` &nbsp;|&nbsp; ID: `5746411004`
+
+---
+### 🔄 Sales Engineering Manager, Central (Enterprise)
+**cribl** · Sales
+📍 Remote - Austin, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5848236004)
+🕐 Updated: `2026-04-07T14:29:40-04:00` &nbsp;|&nbsp; ID: `5848236004`
+
+---
+### 🔄 Sales Engineering Manager, Public Sector
+**cribl** · Sales
+📍 Remote - Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5832484004)
+🕐 Updated: `2026-04-07T14:33:58-04:00` &nbsp;|&nbsp; ID: `5832484004`
+
+---
+### 🔄 Sales Engineer, San Francisco (Enterprise)
+**cribl** · Sales
+📍 Remote - San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5745375004)
+🕐 Updated: `2026-04-07T14:35:05-04:00` &nbsp;|&nbsp; ID: `5745375004`
+
+---
+### 🔄 Sales Engineer, San Francisco/Seattle
+**cribl** · Sales
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5766285004)
+🕐 Updated: `2026-04-07T14:35:53-04:00` &nbsp;|&nbsp; ID: `5766285004`
+
+---
+### 🔄 Principal, Product Strategy 
+**okta** · HQ Engineering-625
+📍 Bellevue, Washington; San Francisco, California; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7609195?gh_jid=7609195)
+🕐 Updated: `2026-04-07T14:04:36-04:00` &nbsp;|&nbsp; ID: `7609195`
+
+---
+### 🔄 Software Engineer III
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7686505003)
+🕐 Updated: `2026-04-07T14:31:29-04:00` &nbsp;|&nbsp; ID: `7686505003`
+
+---
+### 🔄 Senior Full Stack Engineer (Frontend-Leaning), Scheduling
+**calendly** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8384943002)
+🕐 Updated: `2026-04-07T14:54:55-04:00` &nbsp;|&nbsp; ID: `8384943002`
+
+---
+### 🔄 Technical Support Engineer II
+**alloy** · Client Success & Solutions
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8489983002&gh_jid=8489983002)
+🕐 Updated: `2026-04-07T14:07:50-04:00` &nbsp;|&nbsp; ID: `8489983002`
+
+---
+### 🔄 Senior Capital Markets Manager 
+**upstart** · Capital Markets Front Office
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7506498)
+🕐 Updated: `2026-04-07T14:23:04-04:00` &nbsp;|&nbsp; ID: `7506498`
+
+---
+### 🔄 Senior Software Engineer, Knowledge Graph
+**airbnb** · Software Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7775934?gh_jid=7775934)
+🕐 Updated: `2026-04-07T14:47:55-04:00` &nbsp;|&nbsp; ID: `7775934`
+
+---
+### 🔄 Staff Software Engineer, Authorization
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7782308?gh_jid=7782308)
+🕐 Updated: `2026-04-07T14:51:53-04:00` &nbsp;|&nbsp; ID: `7782308`
+
+---
+
 ## 📅 Run: 2026-04-07 17:54 UTC
 
 ### 🆕 VP of Software

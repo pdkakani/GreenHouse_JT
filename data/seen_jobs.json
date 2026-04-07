@@ -7543,7 +7543,7 @@
   },
   "7609195": {
     "first_seen": "2026-04-06T02:02:22.605816+00:00",
-    "updated_at": "2026-04-02T14:58:50-04:00",
+    "updated_at": "2026-04-07T14:04:36-04:00",
     "title": "Principal, Product Strategy ",
     "company": "okta"
   },
@@ -10399,7 +10399,7 @@
   },
   "7686505003": {
     "first_seen": "2026-04-06T02:02:32.215537+00:00",
-    "updated_at": "2026-04-06T13:32:50-04:00",
+    "updated_at": "2026-04-07T14:31:29-04:00",
     "title": "Software Engineer III",
     "company": "fivetran"
   },
@@ -12985,7 +12985,7 @@
   },
   "5746413004": {
     "first_seen": "2026-04-06T08:10:11.253818+00:00",
-    "updated_at": "2026-04-01T21:15:37-04:00",
+    "updated_at": "2026-04-07T14:31:56-04:00",
     "title": "Commercial Sales Engineer, US East",
     "company": "cribl"
   },
@@ -13033,31 +13033,31 @@
   },
   "5746411004": {
     "first_seen": "2026-04-06T08:10:11.254944+00:00",
-    "updated_at": "2026-04-01T19:29:16-04:00",
+    "updated_at": "2026-04-07T14:32:57-04:00",
     "title": "Sales Engineer, Federal",
     "company": "cribl"
   },
   "5848236004": {
     "first_seen": "2026-04-06T08:10:11.254963+00:00",
-    "updated_at": "2026-04-03T12:21:21-04:00",
+    "updated_at": "2026-04-07T14:29:40-04:00",
     "title": "Sales Engineering Manager, Central (Enterprise)",
     "company": "cribl"
   },
   "5832484004": {
     "first_seen": "2026-04-06T08:10:11.254984+00:00",
-    "updated_at": "2026-03-30T20:09:38-04:00",
+    "updated_at": "2026-04-07T14:33:58-04:00",
     "title": "Sales Engineering Manager, Public Sector",
     "company": "cribl"
   },
   "5745375004": {
     "first_seen": "2026-04-06T08:10:11.255008+00:00",
-    "updated_at": "2026-03-30T20:09:39-04:00",
+    "updated_at": "2026-04-07T14:35:05-04:00",
     "title": "Sales Engineer, San Francisco (Enterprise)",
     "company": "cribl"
   },
   "5766285004": {
     "first_seen": "2026-04-06T08:10:11.255026+00:00",
-    "updated_at": "2026-03-30T20:09:38-04:00",
+    "updated_at": "2026-04-07T14:35:53-04:00",
     "title": "Sales Engineer, San Francisco/Seattle",
     "company": "cribl"
   },
@@ -14137,8 +14137,8 @@
   },
   "8384943002": {
     "first_seen": "2026-04-06T08:10:21.208248+00:00",
-    "updated_at": "2026-03-18T17:57:34-04:00",
-    "title": "Senior Full Stack Engineer, Scheduling",
+    "updated_at": "2026-04-07T14:54:55-04:00",
+    "title": "Senior Full Stack Engineer (Frontend-Leaning), Scheduling",
     "company": "calendly"
   },
   "8494187002": {
@@ -15067,7 +15067,7 @@
   },
   "8489983002": {
     "first_seen": "2026-04-06T08:10:25.624315+00:00",
-    "updated_at": "2026-04-07T13:48:04-04:00",
+    "updated_at": "2026-04-07T14:07:50-04:00",
     "title": "Technical Support Engineer II",
     "company": "alloy"
   },
@@ -15799,7 +15799,7 @@
   },
   "7506498": {
     "first_seen": "2026-04-06T08:10:28.570414+00:00",
-    "updated_at": "2026-04-06T10:51:30-04:00",
+    "updated_at": "2026-04-07T14:23:04-04:00",
     "title": "Senior Capital Markets Manager ",
     "company": "upstart"
   },
@@ -18421,7 +18421,7 @@
   },
   "7775934": {
     "first_seen": "2026-04-06T08:10:42.687647+00:00",
-    "updated_at": "2026-04-03T19:49:01-04:00",
+    "updated_at": "2026-04-07T14:47:55-04:00",
     "title": "Senior Software Engineer, Knowledge Graph",
     "company": "airbnb"
   },
@@ -20269,7 +20269,7 @@
   },
   "7782308": {
     "first_seen": "2026-04-06T20:55:46.344885+00:00",
-    "updated_at": "2026-04-06T16:23:00-04:00",
+    "updated_at": "2026-04-07T14:51:53-04:00",
     "title": "Staff Software Engineer, Authorization",
     "company": "airbnb"
   },
@@ -20419,7 +20419,7 @@
   },
   "5177143008": {
     "first_seen": "2026-04-07T14:14:22.389938+00:00",
-    "updated_at": "2026-04-07T09:52:56-04:00",
+    "updated_at": "2026-04-07T14:37:35-04:00",
     "title": "Network Engineer, Capacity and Efficiency",
     "company": "anthropic"
   },
@@ -20614,5 +20614,53 @@
     "updated_at": "2026-04-07T13:22:06-04:00",
     "title": "VP of Software",
     "company": "fellow"
+  },
+  "7781876": {
+    "first_seen": "2026-04-07T18:55:27.684388+00:00",
+    "updated_at": "2026-04-07T13:59:33-04:00",
+    "title": "Staff Product Manager, Media",
+    "company": "fastly"
+  },
+  "7781874": {
+    "first_seen": "2026-04-07T18:55:27.684422+00:00",
+    "updated_at": "2026-04-07T13:57:51-04:00",
+    "title": "Staff Product Manager, Metacognition",
+    "company": "fastly"
+  },
+  "7615553003": {
+    "first_seen": "2026-04-07T18:55:28.606946+00:00",
+    "updated_at": "2026-04-07T13:59:21-04:00",
+    "title": "Associate Product Manager, Billing",
+    "company": "klaviyo"
+  },
+  "6741571": {
+    "first_seen": "2026-04-07T18:55:29.403939+00:00",
+    "updated_at": "2026-04-07T13:59:03-04:00",
+    "title": "Sales Development Representative (Boston)",
+    "company": "datadog"
+  },
+  "8490453002": {
+    "first_seen": "2026-04-07T18:55:33.700050+00:00",
+    "updated_at": "2026-04-07T14:39:20-04:00",
+    "title": "Senior Site Reliability Engineer, Tenant Services: Geo",
+    "company": "gitlab"
+  },
+  "8495850002": {
+    "first_seen": "2026-04-07T18:55:35.038296+00:00",
+    "updated_at": "2026-04-07T14:39:38-04:00",
+    "title": "Software Engineer",
+    "company": "airtable"
+  },
+  "7542965": {
+    "first_seen": "2026-04-07T18:55:49.104687+00:00",
+    "updated_at": "2026-04-07T14:10:50-04:00",
+    "title": "Engineering Manager, Agent Experience",
+    "company": "robinhood"
+  },
+  "7783175": {
+    "first_seen": "2026-04-07T18:55:50.635418+00:00",
+    "updated_at": "2026-04-07T14:01:48-04:00",
+    "title": "Software Engineer Guest & Host (Listing) ",
+    "company": "airbnb"
   }
 }
