@@ -2,6 +2,63 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 05:27 UTC
+
+### 🆕 Solutions Architect, Retail - CPG
+**databricks** · Field Engineering
+📍 Central - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6649865002)
+🕐 Updated: `2026-02-19T14:47:26-05:00` &nbsp;|&nbsp; ID: `6649865002`
+
+---
+### 🆕 Engineering Manager, Strategies & Cortex
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246)
+🕐 Updated: `2026-04-06T23:53:46-04:00` &nbsp;|&nbsp; ID: `7489246`
+
+---
+### 🔄 Staff Engineer - PKI Systems
+**fastly** · Network and Platform
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7586879)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7586879`
+
+---
+### 🔄 Director, New Technologies Business Development
+**twilio** · Overlay/Specialist Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7701401)
+🕐 Updated: `2026-04-07T00:34:59-04:00` &nbsp;|&nbsp; ID: `7701401`
+
+---
+### 🔄 Software Engineer II - Identity & Access Management
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660502003)
+🕐 Updated: `2026-04-07T01:01:38-04:00` &nbsp;|&nbsp; ID: `7660502003`
+
+---
+### 🔄 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Boston, Massachusetts; New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691477003)
+🕐 Updated: `2026-04-06T23:43:06-04:00` &nbsp;|&nbsp; ID: `7691477003`
+
+---
+### 🔄 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691486003)
+🕐 Updated: `2026-04-06T23:43:41-04:00` &nbsp;|&nbsp; ID: `7691486003`
+
+---
+### 🔄 Enterprise Solutions Engineer, LATAM
+**postman** · Sales
+📍 Miami, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691496003)
+🕐 Updated: `2026-04-06T23:41:55-04:00` &nbsp;|&nbsp; ID: `7691496003`
+
+---
+### 🔄 Business Development Manager, Agentic Commerce
+**stripe** · 1650 AI GTM Strategy & Solutions
+📍 San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7524334)
+🕐 Updated: `2026-04-06T23:56:34-04:00` &nbsp;|&nbsp; ID: `7524334`
+
+---
+
 ## 📅 Run: 2026-04-07 03:30 UTC
 
 ### 🆕 VP, Business Development

@@ -115,7 +115,7 @@
   },
   "7524334": {
     "first_seen": "2026-04-06T02:02:03.706671+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-06T23:56:34-04:00",
     "title": "Business Development Manager, Agentic Commerce",
     "company": "stripe"
   },
@@ -5839,7 +5839,7 @@
   },
   "7586879": {
     "first_seen": "2026-04-06T02:02:15.575721+00:00",
-    "updated_at": "2026-04-06T12:03:06-04:00",
+    "updated_at": "2026-04-06T12:03:52-04:00",
     "title": "Staff Engineer - PKI Systems",
     "company": "fastly"
   },
@@ -5905,7 +5905,7 @@
   },
   "7701401": {
     "first_seen": "2026-04-06T02:02:15.733773+00:00",
-    "updated_at": "2026-04-06T13:16:51-04:00",
+    "updated_at": "2026-04-07T00:34:59-04:00",
     "title": "Director, New Technologies Business Development",
     "company": "twilio"
   },
@@ -20047,7 +20047,7 @@
   },
   "7660502003": {
     "first_seen": "2026-04-06T16:29:03.419914+00:00",
-    "updated_at": "2026-04-06T12:23:46-04:00",
+    "updated_at": "2026-04-07T01:01:38-04:00",
     "title": "Software Engineer II - Identity & Access Management",
     "company": "klaviyo"
   },
@@ -20329,19 +20329,19 @@
   },
   "7691477003": {
     "first_seen": "2026-04-06T22:55:43.450865+00:00",
-    "updated_at": "2026-04-06T18:40:33-04:00",
+    "updated_at": "2026-04-06T23:43:06-04:00",
     "title": "Enterprise Solutions Engineer",
     "company": "postman"
   },
   "7691486003": {
     "first_seen": "2026-04-06T22:55:43.450908+00:00",
-    "updated_at": "2026-04-06T18:31:39-04:00",
+    "updated_at": "2026-04-06T23:43:41-04:00",
     "title": "Enterprise Solutions Engineer",
     "company": "postman"
   },
   "7691496003": {
     "first_seen": "2026-04-06T22:55:43.450961+00:00",
-    "updated_at": "2026-04-06T18:42:28-04:00",
+    "updated_at": "2026-04-06T23:41:55-04:00",
     "title": "Enterprise Solutions Engineer, LATAM",
     "company": "postman"
   },
@@ -20374,5 +20374,17 @@
     "updated_at": "2026-04-06T21:32:42-04:00",
     "title": "Senior Staff Engineer, Loans Originations",
     "company": "sofi"
+  },
+  "6649865002": {
+    "first_seen": "2026-04-07T05:27:01.475084+00:00",
+    "updated_at": "2026-02-19T14:47:26-05:00",
+    "title": "Solutions Architect, Retail - CPG",
+    "company": "databricks"
+  },
+  "7489246": {
+    "first_seen": "2026-04-07T05:27:27.069605+00:00",
+    "updated_at": "2026-04-06T23:53:46-04:00",
+    "title": "Engineering Manager, Strategies & Cortex",
+    "company": "robinhood"
   }
 }
