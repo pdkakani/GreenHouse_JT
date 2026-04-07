@@ -2,6 +2,75 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 17:54 UTC
+
+### 🆕 VP of Software
+**fellow** · Hardware Research & Development
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://fellowproducts.com/pages/careers?gh_jid=5100473007)
+🕐 Updated: `2026-04-07T13:22:06-04:00` &nbsp;|&nbsp; ID: `5100473007`
+
+---
+### 🔄 Senior Data Product Manager, Product Telemetry
+**mongodb** · Data & Platform
+📍 New York City; Palo Alto; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7428476)
+🕐 Updated: `2026-04-07T13:30:31-04:00` &nbsp;|&nbsp; ID: `7428476`
+
+---
+### 🔄 Senior Analytics Engineer
+**mixpanel** · Internal Analysis
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7782662)
+🕐 Updated: `2026-04-07T13:00:21-04:00` &nbsp;|&nbsp; ID: `7782662`
+
+---
+### 🔄 Lead Product Manager
+**klaviyo** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7532498003)
+🕐 Updated: `2026-04-07T12:56:13-04:00` &nbsp;|&nbsp; ID: `7532498003`
+
+---
+### 🔄 Solutions Engineer, Auth0 (Eastern USA)
+**okta** · SE Field-321
+📍 Florida; Georgia; Michigan; New York, New York; Virginia; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7425892?gh_jid=7425892)
+🕐 Updated: `2026-04-07T13:32:23-04:00` &nbsp;|&nbsp; ID: `7425892`
+
+---
+### 🔄 Member of Technical Staff
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7687317)
+🕐 Updated: `2026-04-07T12:58:27-04:00` &nbsp;|&nbsp; ID: `7687317`
+
+---
+### 🔄 Technical Support Engineer II
+**alloy** · Client Success & Solutions
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8489983002&gh_jid=8489983002)
+🕐 Updated: `2026-04-07T13:48:04-04:00` &nbsp;|&nbsp; ID: `8489983002`
+
+---
+### 🔄 Android Engineer
+**robinhood** · Brokerage Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7747572?t=gh_src=&gh_jid=7747572)
+🕐 Updated: `2026-04-07T13:02:50-04:00` &nbsp;|&nbsp; ID: `7747572`
+
+---
+### 🔄 Product Manager, Money Movement
+**robinhood** · Customer Trust and Safety
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7747728?t=gh_src=&gh_jid=7747728)
+🕐 Updated: `2026-04-07T13:29:19-04:00` &nbsp;|&nbsp; ID: `7747728`
+
+---
+### 🔄 Staff Technical Program Manager
+**robinhood** · ENG Technical Assurance
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577)
+🕐 Updated: `2026-04-07T13:00:27-04:00` &nbsp;|&nbsp; ID: `7739577`
+
+---
+### 🔄 Staff Workday Engineer
+**robinhood** · Corporate Engineering Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729682?t=gh_src=&gh_jid=7729682)
+🕐 Updated: `2026-04-07T13:04:32-04:00` &nbsp;|&nbsp; ID: `7729682`
+
+---
+
 ## 📅 Run: 2026-04-07 16:52 UTC
 
 ### 🆕 Sr Software Engineer, Search Federation
