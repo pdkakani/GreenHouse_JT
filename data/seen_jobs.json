@@ -11035,7 +11035,7 @@
   },
   "5076477008": {
     "first_seen": "2026-04-06T08:09:59.887509+00:00",
-    "updated_at": "2026-04-03T12:07:47-04:00",
+    "updated_at": "2026-04-07T15:24:13-04:00",
     "title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
     "company": "anthropic"
   },
@@ -12181,26 +12181,26 @@
   },
   "7539948": {
     "first_seen": "2026-04-06T08:10:08.691522+00:00",
-    "updated_at": "2026-02-10T16:37:33-05:00",
-    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2026-04-07T15:49:32-04:00",
+    "title": "Senior Site Reliability Engineer II",
     "company": "braze"
   },
   "7602207": {
     "first_seen": "2026-04-06T08:10:08.691537+00:00",
-    "updated_at": "2026-02-10T16:37:33-05:00",
-    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2026-04-07T15:50:15-04:00",
+    "title": "Senior Site Reliability Engineer II",
     "company": "braze"
   },
   "7602205": {
     "first_seen": "2026-04-06T08:10:08.691549+00:00",
-    "updated_at": "2026-02-10T16:37:33-05:00",
-    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2026-04-07T15:50:06-04:00",
+    "title": "Senior Site Reliability Engineer II",
     "company": "braze"
   },
   "7602202": {
     "first_seen": "2026-04-06T08:10:08.691560+00:00",
-    "updated_at": "2026-02-10T16:37:33-05:00",
-    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2026-04-07T15:49:50-04:00",
+    "title": "Senior Site Reliability Engineer II",
     "company": "braze"
   },
   "7491514": {
@@ -15049,13 +15049,13 @@
   },
   "8483702002": {
     "first_seen": "2026-04-06T08:10:25.624242+00:00",
-    "updated_at": "2026-03-27T16:42:06-04:00",
+    "updated_at": "2026-04-07T15:48:33-04:00",
     "title": "Senior Solutions Architect",
     "company": "alloy"
   },
   "7628041002": {
     "first_seen": "2026-04-06T08:10:25.624256+00:00",
-    "updated_at": "2025-11-14T12:43:01-05:00",
+    "updated_at": "2026-04-07T15:49:11-04:00",
     "title": "Senior Solutions Architect - Transaction Monitoring",
     "company": "alloy"
   },
@@ -17299,7 +17299,7 @@
   },
   "7650381003": {
     "first_seen": "2026-04-06T08:10:40.190810+00:00",
-    "updated_at": "2026-03-30T12:43:27-04:00",
+    "updated_at": "2026-04-07T15:36:57-04:00",
     "title": "Senior Operations Infrastructure Lead, AI & Automation",
     "company": "sofi"
   },
@@ -17491,7 +17491,7 @@
   },
   "7452194003": {
     "first_seen": "2026-04-06T08:10:40.191532+00:00",
-    "updated_at": "2026-03-24T17:09:46-04:00",
+    "updated_at": "2026-04-07T15:17:11-04:00",
     "title": "Software Engineering Manager, Web Acquisition",
     "company": "sofi"
   },
@@ -18889,7 +18889,7 @@
   },
   "8421650002": {
     "first_seen": "2026-04-06T08:10:42.881505+00:00",
-    "updated_at": "2026-02-18T11:31:16-05:00",
+    "updated_at": "2026-04-07T15:46:13-04:00",
     "title": "Senior ML Software Engineer, Mapping",
     "company": "lyft"
   },
@@ -19939,13 +19939,13 @@
   },
   "7707970": {
     "first_seen": "2026-04-06T13:58:14.730026+00:00",
-    "updated_at": "2026-04-06T13:16:51-04:00",
+    "updated_at": "2026-04-07T15:47:55-04:00",
     "title": "Principal, Technical Program Management (Research & Development)",
     "company": "twilio"
   },
   "7707977": {
     "first_seen": "2026-04-06T13:58:14.730281+00:00",
-    "updated_at": "2026-04-06T13:16:51-04:00",
+    "updated_at": "2026-04-07T15:47:57-04:00",
     "title": "Senior Principal, Technical Program Management (Research & Development)",
     "company": "twilio"
   },
@@ -20647,7 +20647,7 @@
   },
   "8495850002": {
     "first_seen": "2026-04-07T18:55:35.038296+00:00",
-    "updated_at": "2026-04-07T14:39:38-04:00",
+    "updated_at": "2026-04-07T15:46:36-04:00",
     "title": "Software Engineer",
     "company": "airtable"
   },
@@ -20662,5 +20662,47 @@
     "updated_at": "2026-04-07T14:01:48-04:00",
     "title": "Software Engineer Guest & Host (Listing) ",
     "company": "airbnb"
+  },
+  "7782764": {
+    "first_seen": "2026-04-07T19:54:08.376931+00:00",
+    "updated_at": "2026-04-07T15:15:04-04:00",
+    "title": "Technical Writer",
+    "company": "fastly"
+  },
+  "8490477002": {
+    "first_seen": "2026-04-07T19:54:17.703115+00:00",
+    "updated_at": "2026-04-07T15:23:23-04:00",
+    "title": "Staff Backend Engineer, Developer Experience",
+    "company": "gitlab"
+  },
+  "5551686004": {
+    "first_seen": "2026-04-07T19:54:18.655654+00:00",
+    "updated_at": "2026-04-07T15:19:13-04:00",
+    "title": "Software Engineer, Data Infrastructure",
+    "company": "figma"
+  },
+  "7674544003": {
+    "first_seen": "2026-04-07T19:54:51.908487+00:00",
+    "updated_at": "2026-04-07T15:36:45-04:00",
+    "title": "Encompass Admin",
+    "company": "sofi"
+  },
+  "7666791003": {
+    "first_seen": "2026-04-07T19:54:51.908629+00:00",
+    "updated_at": "2026-04-07T15:18:18-04:00",
+    "title": "Full-stack Software Engineer, Member Growth ",
+    "company": "sofi"
+  },
+  "7595612003": {
+    "first_seen": "2026-04-07T19:54:51.911943+00:00",
+    "updated_at": "2026-04-07T15:33:07-04:00",
+    "title": "Staff Software Engineer, Loans Platform",
+    "company": "sofi"
+  },
+  "7786900": {
+    "first_seen": "2026-04-07T19:54:52.383392+00:00",
+    "updated_at": "2026-04-07T15:36:57-04:00",
+    "title": " Data Engineering Manager, Core Experience & Incentives",
+    "company": "instacart"
   }
 }

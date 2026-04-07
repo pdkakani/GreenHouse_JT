@@ -2,6 +2,129 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 19:55 UTC
+
+### 🆕 Technical Writer
+**fastly** · Product Experience
+📍 Denver, CO; New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7782764)
+🕐 Updated: `2026-04-07T15:15:04-04:00` &nbsp;|&nbsp; ID: `7782764`
+
+---
+### 🆕 Staff Backend Engineer, Developer Experience
+**gitlab** · Platforms Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8490477002)
+🕐 Updated: `2026-04-07T15:23:23-04:00` &nbsp;|&nbsp; ID: `8490477002`
+
+---
+### 🆕 Software Engineer, Data Infrastructure
+**figma** · Engineering
+📍 San Francisco, CA • New York, NY • United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004)
+🕐 Updated: `2026-04-07T15:19:13-04:00` &nbsp;|&nbsp; ID: `5551686004`
+
+---
+### 🆕 Encompass Admin
+**sofi** · Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7674544003?gh_jid=7674544003)
+🕐 Updated: `2026-04-07T15:36:45-04:00` &nbsp;|&nbsp; ID: `7674544003`
+
+---
+### 🆕 Full-stack Software Engineer, Member Growth 
+**sofi** · Engineering
+📍 WA - Seattle; CA - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7666791003?gh_jid=7666791003)
+🕐 Updated: `2026-04-07T15:18:18-04:00` &nbsp;|&nbsp; ID: `7666791003`
+
+---
+### 🆕 Staff Software Engineer, Loans Platform
+**sofi** · Engineering
+📍 WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7595612003?gh_jid=7595612003)
+🕐 Updated: `2026-04-07T15:33:07-04:00` &nbsp;|&nbsp; ID: `7595612003`
+
+---
+### 🆕  Data Engineering Manager, Core Experience & Incentives
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7786900)
+🕐 Updated: `2026-04-07T15:36:57-04:00` &nbsp;|&nbsp; ID: `7786900`
+
+---
+### 🔄 Research Engineer / Scientist, Frontier Red Team (Cyber)
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5076477008)
+🕐 Updated: `2026-04-07T15:24:13-04:00` &nbsp;|&nbsp; ID: `5076477008`
+
+---
+### 🔄 Principal, Technical Program Management (Research & Development)
+**twilio** · Program Management (Project, Program, Agile, Technical)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7707970)
+🕐 Updated: `2026-04-07T15:47:55-04:00` &nbsp;|&nbsp; ID: `7707970`
+
+---
+### 🔄 Senior Principal, Technical Program Management (Research & Development)
+**twilio** · Program Management (Project, Program, Agile, Technical)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7707977)
+🕐 Updated: `2026-04-07T15:47:57-04:00` &nbsp;|&nbsp; ID: `7707977`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7539948?gh_jid=7539948)
+🕐 Updated: `2026-04-07T15:49:32-04:00` &nbsp;|&nbsp; ID: `7539948`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7602205?gh_jid=7602205)
+🕐 Updated: `2026-04-07T15:50:06-04:00` &nbsp;|&nbsp; ID: `7602205`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7602207?gh_jid=7602207)
+🕐 Updated: `2026-04-07T15:50:15-04:00` &nbsp;|&nbsp; ID: `7602207`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7602202?gh_jid=7602202)
+🕐 Updated: `2026-04-07T15:49:50-04:00` &nbsp;|&nbsp; ID: `7602202`
+
+---
+### 🔄 Software Engineer
+**airtable** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8495850002)
+🕐 Updated: `2026-04-07T15:46:36-04:00` &nbsp;|&nbsp; ID: `8495850002`
+
+---
+### 🔄 Senior Solutions Architect
+**alloy** · Client Success & Solutions
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8483702002&gh_jid=8483702002)
+🕐 Updated: `2026-04-07T15:48:33-04:00` &nbsp;|&nbsp; ID: `8483702002`
+
+---
+### 🔄 Senior Solutions Architect - Transaction Monitoring
+**alloy** · Client Success & Solutions
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=7628041002&gh_jid=7628041002)
+🕐 Updated: `2026-04-07T15:49:11-04:00` &nbsp;|&nbsp; ID: `7628041002`
+
+---
+### 🔄 Senior Operations Infrastructure Lead, AI & Automation
+**sofi** · Ops PMO
+📍 FL - Jacksonville; NC - Charlotte; TX - Frisco; UT - Cottonwood Heights &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7650381003?gh_jid=7650381003)
+🕐 Updated: `2026-04-07T15:36:57-04:00` &nbsp;|&nbsp; ID: `7650381003`
+
+---
+### 🔄 Software Engineering Manager, Web Acquisition
+**sofi** · Engineering
+📍 CA - San Francisco HQ; WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7452194003?gh_jid=7452194003)
+🕐 Updated: `2026-04-07T15:17:11-04:00` &nbsp;|&nbsp; ID: `7452194003`
+
+---
+### 🔄 Senior ML Software Engineer, Mapping
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8421650002?gh_jid=8421650002)
+🕐 Updated: `2026-04-07T15:46:13-04:00` &nbsp;|&nbsp; ID: `8421650002`
+
+---
+
 ## 📅 Run: 2026-04-07 18:56 UTC
 
 ### 🆕 Staff Product Manager, Media
