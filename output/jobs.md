@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 11:37 UTC
+
+### 🆕 	Principal Software Engineer I / II - Query Engine, Database Internals - Elasticsearch
+**elastic** · 0000: Pipeline
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7784606&gh_jid=7784606)
+🕐 Updated: `2026-04-07T06:50:24-04:00` &nbsp;|&nbsp; ID: `7784606`
+
+---
+### 🔄 Engineering Manager, Claude for Financial Services
+**anthropic** · Engineering & Design - Product
+📍 New York City, NY; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5140492008)
+🕐 Updated: `2026-04-07T07:21:02-04:00` &nbsp;|&nbsp; ID: `5140492008`
+
+---
+### 🔄 Senior Backend Engineer (Ruby on Rails), Plan: Knowledge
+**gitlab** · DevOps Engineering
+📍 Remote, Americas; Remote, APAC; Remote, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8455304002)
+🕐 Updated: `2026-04-07T06:43:29-04:00` &nbsp;|&nbsp; ID: `8455304002`
+
+---
+
 ## 📅 Run: 2026-04-07 10:33 UTC
 
 ### 🆕 Staff Machine Learning Engineer (L4)

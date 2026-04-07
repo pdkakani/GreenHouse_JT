@@ -9625,7 +9625,7 @@
   },
   "8455304002": {
     "first_seen": "2026-04-06T02:02:26.679364+00:00",
-    "updated_at": "2026-03-11T11:47:53-04:00",
+    "updated_at": "2026-04-07T06:43:29-04:00",
     "title": "Senior Backend Engineer (Ruby on Rails), Plan: Knowledge",
     "company": "gitlab"
   },
@@ -10681,8 +10681,8 @@
   },
   "5140492008": {
     "first_seen": "2026-04-06T08:09:59.883463+00:00",
-    "updated_at": "2026-04-06T20:58:13-04:00",
-    "title": "Engineering Manager, Verticals \u2013 Financial Services ",
+    "updated_at": "2026-04-07T07:21:02-04:00",
+    "title": "Engineering Manager, Claude for Financial Services",
     "company": "anthropic"
   },
   "4980436008": {
@@ -20410,5 +20410,11 @@
     "updated_at": "2026-04-07T05:33:04-04:00",
     "title": "Solutions Architect - ANZ",
     "company": "gitlab"
+  },
+  "7784606": {
+    "first_seen": "2026-04-07T11:37:09.699659+00:00",
+    "updated_at": "2026-04-07T06:50:24-04:00",
+    "title": "\tPrincipal Software Engineer I / II - Query Engine, Database Internals - Elasticsearch",
+    "company": "elastic"
   }
 }
