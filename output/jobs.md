@@ -2,6 +2,189 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 15:47 UTC
+
+### 🆕 Senior Software Engineer - Data Security
+**abnormalsecurity** · Division Foundations
+📍 Remote - Canada; Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7692269003?gh_jid=7692269003)
+🕐 Updated: `2026-04-07T11:41:16-04:00` &nbsp;|&nbsp; ID: `7692269003`
+
+---
+### 🆕 Full Stack Software Engineer, Dash Experiences
+**dropbox** · Dash - Eng (Sub Team)
+📍 Remote - Mexico &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7569145?gh_jid=7569145)
+🕐 Updated: `2026-04-07T11:27:57-04:00` &nbsp;|&nbsp; ID: `7569145`
+
+---
+### 🆕 Hardware Systems Integration Intern (Summer 2026)
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7514061/apply/?gh_jid=7514061)
+🕐 Updated: `2026-04-07T10:45:25-04:00` &nbsp;|&nbsp; ID: `7514061`
+
+---
+### 🔄 Applications Engineer 2
+**twilio** · Sales Operations
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7646270)
+🕐 Updated: `2026-04-07T10:28:00-04:00` &nbsp;|&nbsp; ID: `7646270`
+
+---
+### 🔄 Business Systems Analyst 2
+**twilio** · Services
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7254399)
+🕐 Updated: `2026-04-07T10:31:21-04:00` &nbsp;|&nbsp; ID: `7254399`
+
+---
+### 🔄 Engineer, Identity & Access
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657991)
+🕐 Updated: `2026-04-07T10:27:32-04:00` &nbsp;|&nbsp; ID: `7657991`
+
+---
+### 🔄 Principal Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - Japan &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7452089)
+🕐 Updated: `2026-04-07T10:29:45-04:00` &nbsp;|&nbsp; ID: `7452089`
+
+---
+### 🔄 Senior Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622278)
+🕐 Updated: `2026-04-07T10:28:04-04:00` &nbsp;|&nbsp; ID: `7622278`
+
+---
+### 🔄 Senior Network Engineer
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: `2026-04-07T10:28:25-04:00` &nbsp;|&nbsp; ID: `7657993`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7662058)
+🕐 Updated: `2026-04-07T10:27:17-04:00` &nbsp;|&nbsp; ID: `7662058`
+
+---
+### 🔄 Senior Solutions Engineer 3
+**twilio** · Solutions Engineering
+📍 Remote - Australia; Remote - Japan; Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7511486)
+🕐 Updated: `2026-04-07T10:29:30-04:00` &nbsp;|&nbsp; ID: `7511486`
+
+---
+### 🔄 Staff Machine Learning Engineer (L4)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520997)
+🕐 Updated: `2026-04-07T10:29:20-04:00` &nbsp;|&nbsp; ID: `7520997`
+
+---
+### 🔄 Technical Support Engineer 2
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7658343)
+🕐 Updated: `2026-04-07T10:27:25-04:00` &nbsp;|&nbsp; ID: `7658343`
+
+---
+### 🔄 Technical Support Engineer 2 (Email Infra)
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7349692)
+🕐 Updated: `2026-04-07T10:31:17-04:00` &nbsp;|&nbsp; ID: `7349692`
+
+---
+### 🔄 Senior Technical Consultant, Okta
+**okta** · Professional Services-720
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7488049?gh_jid=7488049)
+🕐 Updated: `2026-04-07T11:38:49-04:00` &nbsp;|&nbsp; ID: `7488049`
+
+---
+### 🔄 Product Manager, Integrations
+**expel** · Product
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://expel.com/about/career-listing/8464852002?gh_jid=8464852002)
+🕐 Updated: `2026-04-07T10:25:17-04:00` &nbsp;|&nbsp; ID: `8464852002`
+
+---
+### 🔄 Staff Product Manager, Scheduling 
+**calendly** · Product
+📍 San Francisco (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8139892002)
+🕐 Updated: `2026-04-07T11:01:56-04:00` &nbsp;|&nbsp; ID: `8139892002`
+
+---
+### 🔄 AI Research Engineer, New PhD Graduate
+**duolingo** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8169815002`
+
+---
+### 🔄 Senior Android Engineer
+**duolingo** · Software Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8217266002`
+
+---
+### 🔄 Senior Android Engineer, App Builds
+**duolingo** · Software Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8453396002?gh_jid=8453396002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8453396002`
+
+---
+### 🔄 Senior Engineering Manager, New Initiatives
+**duolingo** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8385137002?gh_jid=8385137002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8385137002`
+
+---
+### 🔄 Senior Engineering Manager, Retention
+**duolingo** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8468556002?gh_jid=8468556002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8468556002`
+
+---
+### 🔄 Senior iOS Engineer, App Builds
+**duolingo** · Software Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8054750002`
+
+---
+### 🔄 Senior iOS Software Engineer
+**duolingo** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8318257002?gh_jid=8318257002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8318257002`
+
+---
+### 🔄 Senior Software Engineer, Chess
+**duolingo** · Software Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8445379002?gh_jid=8445379002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8445379002`
+
+---
+### 🔄 Staff Enterprise Engineer
+**duolingo** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8466009002?gh_jid=8466009002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8466009002`
+
+---
+### 🔄 Staff iOS Engineer, App Builds
+**duolingo** · Software Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8322733002`
+
+---
+### 🔄 Vice President, Business Development & Strategic Partnerships
+**flex** · Business Development
+📍 New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4681915005)
+🕐 Updated: `2026-04-07T10:36:53-04:00` &nbsp;|&nbsp; ID: `4681915005`
+
+---
+### 🔄 Analytics Lead, Safety & Customer Care
+**lyft** · Core Systems & Platforms
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8474709002?gh_jid=8474709002)
+🕐 Updated: `2026-04-07T10:46:12-04:00` &nbsp;|&nbsp; ID: `8474709002`
+
+---
+### 🔄 Analytics Lead, Safety & Customer Care
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8474660002?gh_jid=8474660002)
+🕐 Updated: `2026-04-07T10:45:53-04:00` &nbsp;|&nbsp; ID: `8474660002`
+
+---
+
 ## 📅 Run: 2026-04-07 14:15 UTC
 
 ### 🆕 Network Engineer, Capacity and Efficiency
