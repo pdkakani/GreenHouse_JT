@@ -2,6 +2,159 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 22:07 UTC
+
+### 🆕 Product Manager, Claude Growth (Monetization) 
+**anthropic** · Product Management, Support, & Operations
+📍 New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5153773008)
+🕐 Updated: `2026-04-07T17:58:19-04:00` &nbsp;|&nbsp; ID: `5153773008`
+
+---
+### 🆕 Senior Data Scientist, Predict
+**alloy** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8495229002&gh_jid=8495229002)
+🕐 Updated: `2026-04-07T17:49:04-04:00` &nbsp;|&nbsp; ID: `8495229002`
+
+---
+### 🔄 Solutions Architect
+**intercom** · Customer Success & Solutions
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7434876)
+🕐 Updated: `2026-04-07T17:39:40-04:00` &nbsp;|&nbsp; ID: `7434876`
+
+---
+### 🔄 Solutions Engineer
+**intercom** · Customer Success & Solutions
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6849119)
+🕐 Updated: `2026-04-07T17:36:23-04:00` &nbsp;|&nbsp; ID: `6849119`
+
+---
+### 🔄 Solutions Engineer
+**intercom** · Customer Success & Solutions
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7573187)
+🕐 Updated: `2026-04-07T17:36:37-04:00` &nbsp;|&nbsp; ID: `7573187`
+
+---
+### 🔄 Encompass Admin
+**sofi** · Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7674544003?gh_jid=7674544003)
+🕐 Updated: `2026-04-07T17:55:05-04:00` &nbsp;|&nbsp; ID: `7674544003`
+
+---
+### 🔄 Engineering Manager, Commercial Banking - Web
+**sofi** · Engineering
+📍 WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7663516003?gh_jid=7663516003)
+🕐 Updated: `2026-04-07T18:02:17-04:00` &nbsp;|&nbsp; ID: `7663516003`
+
+---
+### 🔄 Software Engineering Manager, Ads Manager
+**instacart** · Leadership (Engineering)
+📍 USA - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7607531)
+🕐 Updated: `2026-04-07T18:04:51-04:00` &nbsp;|&nbsp; ID: `7607531`
+
+---
+### 🔄 Engineering Apprentice, Connect Program
+**airbnb** · Apprenticeship
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7773917?gh_jid=7773917)
+🕐 Updated: `2026-04-07T18:06:22-04:00` &nbsp;|&nbsp; ID: `7773917`
+
+---
+### 🔄 Account Executive
+**descript** · Sales & Business Development
+📍 San Francisco, CA or Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7633072003?gh_jid=7633072003)
+🕐 Updated: `2026-04-07T17:42:20-04:00` &nbsp;|&nbsp; ID: `7633072003`
+
+---
+### 🔄 AI Growth Specialist (BDR)
+**descript** · Sales & Business Development
+📍 San Francisco, CA or Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7676250003?gh_jid=7676250003)
+🕐 Updated: `2026-04-07T17:43:48-04:00` &nbsp;|&nbsp; ID: `7676250003`
+
+---
+### 🔄 Director, Customer Success
+**descript** · Sales & Business Development
+📍 Remote | San Francisco, CA | Montreal, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7676239003?gh_jid=7676239003)
+🕐 Updated: `2026-04-07T17:44:19-04:00` &nbsp;|&nbsp; ID: `7676239003`
+
+---
+### 🔄 Director, Sales
+**descript** · Sales & Business Development
+📍 Remote | San Francisco, CA | Montreal, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7676257003?gh_jid=7676257003)
+🕐 Updated: `2026-04-07T17:45:32-04:00` &nbsp;|&nbsp; ID: `7676257003`
+
+---
+### 🔄 Engineering Manager, Agent
+**descript** · Engineering
+📍 San Francisco, CA | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7617845003?gh_jid=7617845003)
+🕐 Updated: `2026-04-07T17:50:04-04:00` &nbsp;|&nbsp; ID: `7617845003`
+
+---
+### 🔄 Engineering Manager, Narrative Editing
+**descript** · Engineering
+📍 San Francisco, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7621961003?gh_jid=7621961003)
+🕐 Updated: `2026-04-07T17:50:31-04:00` &nbsp;|&nbsp; ID: `7621961003`
+
+---
+### 🔄 Product Manager, AI Models
+**descript** · Product & Design
+📍 San Francisco, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/6576153003?gh_jid=6576153003)
+🕐 Updated: `2026-04-07T17:53:29-04:00` &nbsp;|&nbsp; ID: `6576153003`
+
+---
+### 🔄 Product Manager, API & Platform
+**descript** · Product & Design
+📍 San Francisco, CA or Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7606367003?gh_jid=7606367003)
+🕐 Updated: `2026-04-07T17:53:49-04:00` &nbsp;|&nbsp; ID: `7606367003`
+
+---
+### 🔄 Product Manager, Editor
+**descript** · Product & Design
+📍 San Francisco, CA or Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7413750003?gh_jid=7413750003)
+🕐 Updated: `2026-04-07T17:54:12-04:00` &nbsp;|&nbsp; ID: `7413750003`
+
+---
+### 🔄 Product Manager, Media Management
+**descript** · Product & Design
+📍 San Francisco, CA or Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7606369003?gh_jid=7606369003)
+🕐 Updated: `2026-04-07T17:53:07-04:00` &nbsp;|&nbsp; ID: `7606369003`
+
+---
+### 🔄 Senior Infrastructure Engineer
+**descript** · Engineering
+📍 Remote, San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7500000003?gh_jid=7500000003)
+🕐 Updated: `2026-04-07T17:51:21-04:00` &nbsp;|&nbsp; ID: `7500000003`
+
+---
+### 🔄 Senior Software Engineer, Agent 
+**descript** · Engineering
+📍 San Francisco, CA | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7499700003?gh_jid=7499700003)
+🕐 Updated: `2026-04-07T17:58:32-04:00` &nbsp;|&nbsp; ID: `7499700003`
+
+---
+### 🔄 Senior Software Engineer, AI Platform and Enablement
+**descript** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7580335003?gh_jid=7580335003)
+🕐 Updated: `2026-04-07T17:55:34-04:00` &nbsp;|&nbsp; ID: `7580335003`
+
+---
+### 🔄 Senior Software Engineer, Client Platform
+**descript** · Engineering
+📍 San Francisco, CA | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7668317003?gh_jid=7668317003)
+🕐 Updated: `2026-04-07T17:56:05-04:00` &nbsp;|&nbsp; ID: `7668317003`
+
+---
+### 🔄 Senior Software Engineer, Growth
+**descript** · Engineering
+📍 San Francisco, CA | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7683752003?gh_jid=7683752003)
+🕐 Updated: `2026-04-07T17:57:48-04:00` &nbsp;|&nbsp; ID: `7683752003`
+
+---
+### 🔄 Software Engineer, Editor 
+**descript** · Engineering
+📍 San Francisco, CA | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7449735003?gh_jid=7449735003)
+🕐 Updated: `2026-04-07T17:58:11-04:00` &nbsp;|&nbsp; ID: `7449735003`
+
+---
+
 ## 📅 Run: 2026-04-07 21:30 UTC
 
 ### 🆕 Capital Markets & Investor Relations 
