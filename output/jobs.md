@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 23:38 UTC
+
+### 🆕 Senior Product Manager, Trading
+**altruist** · Product
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5858814004?gh_jid=5858814004)
+🕐 Updated: `2026-04-07T19:32:15-04:00` &nbsp;|&nbsp; ID: `5858814004`
+
+---
+### 🆕 Staff Product Manager, Trading
+**altruist** · Product
+📍 Chicago, IL &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5858825004?gh_jid=5858825004)
+🕐 Updated: `2026-04-07T19:33:59-04:00` &nbsp;|&nbsp; ID: `5858825004`
+
+---
+### 🔄 Product Security Engineer
+**lattice** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8485286002)
+🕐 Updated: `2026-04-07T19:01:39-04:00` &nbsp;|&nbsp; ID: `8485286002`
+
+---
+
 ## 📅 Run: 2026-04-07 22:58 UTC
 
 ### 🆕 Engineering Manager - Identity and Access Management (IAM)
