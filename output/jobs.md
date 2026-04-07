@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 14:15 UTC
+
+### 🆕 Network Engineer, Capacity and Efficiency
+**anthropic** · Compute
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5177143008)
+🕐 Updated: `2026-04-07T09:52:56-04:00` &nbsp;|&nbsp; ID: `5177143008`
+
+---
+### 🆕 Senior Product Manager - Data Agent
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7785350/?gh_jid=7785350)
+🕐 Updated: `2026-04-07T10:05:04-04:00` &nbsp;|&nbsp; ID: `7785350`
+
+---
+### 🆕 Associate Technical Support Engineer
+**expel** · Customer Success
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://expel.com/about/career-listing/8483157002?gh_jid=8483157002)
+🕐 Updated: `2026-04-07T09:04:50-04:00` &nbsp;|&nbsp; ID: `8483157002`
+
+---
+### 🆕 Senior Infrastructure Software Engineer
+**dropbox** · EPD
+📍 Remote - Poland &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/6333181?gh_jid=6333181)
+🕐 Updated: `2026-04-07T09:27:50-04:00` &nbsp;|&nbsp; ID: `6333181`
+
+---
+### 🆕 Senior Infrastructure Software Engineer, DevFleet
+**dropbox** · Developer Platform (Sub Team)
+📍 Remote - Poland &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7749441?gh_jid=7749441)
+🕐 Updated: `2026-04-07T09:25:07-04:00` &nbsp;|&nbsp; ID: `7749441`
+
+---
+### 🆕 Research Scientist/Research Engineer | Deep Learning
+**jumptrading** · Front Office 
+📍 Chicago, New York, London &nbsp;|&nbsp; 🔗 [Apply Here](https://www.jumptrading.com/hr/job?gh_jid=6032511)
+🕐 Updated: `2026-04-07T10:13:41-04:00` &nbsp;|&nbsp; ID: `6032511`
+
+---
+### 🔄 Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7350846)
+🕐 Updated: `2026-04-07T09:03:09-04:00` &nbsp;|&nbsp; ID: `7350846`
+
+---
+
 ## 📅 Run: 2026-04-07 11:37 UTC
 
 ### 🆕 	Principal Software Engineer I / II - Query Engine, Database Internals - Elasticsearch

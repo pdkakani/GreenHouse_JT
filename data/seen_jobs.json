@@ -5971,7 +5971,7 @@
   },
   "7350846": {
     "first_seen": "2026-04-06T02:02:15.734874+00:00",
-    "updated_at": "2026-04-06T13:16:49-04:00",
+    "updated_at": "2026-04-07T09:03:09-04:00",
     "title": "Presales Engineer",
     "company": "twilio"
   },
@@ -20416,5 +20416,41 @@
     "updated_at": "2026-04-07T06:50:24-04:00",
     "title": "\tPrincipal Software Engineer I / II - Query Engine, Database Internals - Elasticsearch",
     "company": "elastic"
+  },
+  "5177143008": {
+    "first_seen": "2026-04-07T14:14:22.389938+00:00",
+    "updated_at": "2026-04-07T09:52:56-04:00",
+    "title": "Network Engineer, Capacity and Efficiency",
+    "company": "anthropic"
+  },
+  "7785350": {
+    "first_seen": "2026-04-07T14:14:28.156911+00:00",
+    "updated_at": "2026-04-07T10:05:04-04:00",
+    "title": "Senior Product Manager - Data Agent",
+    "company": "datadog"
+  },
+  "8483157002": {
+    "first_seen": "2026-04-07T14:14:29.762779+00:00",
+    "updated_at": "2026-04-07T09:04:50-04:00",
+    "title": "Associate Technical Support Engineer",
+    "company": "expel"
+  },
+  "6333181": {
+    "first_seen": "2026-04-07T14:14:36.806165+00:00",
+    "updated_at": "2026-04-07T09:27:50-04:00",
+    "title": "Senior Infrastructure Software Engineer",
+    "company": "dropbox"
+  },
+  "7749441": {
+    "first_seen": "2026-04-07T14:14:36.806194+00:00",
+    "updated_at": "2026-04-07T09:25:07-04:00",
+    "title": "Senior Infrastructure Software Engineer, DevFleet",
+    "company": "dropbox"
+  },
+  "6032511": {
+    "first_seen": "2026-04-07T14:14:50.621627+00:00",
+    "updated_at": "2026-04-07T10:13:41-04:00",
+    "title": "Research Scientist/Research Engineer | Deep Learning",
+    "company": "jumptrading"
   }
 }
