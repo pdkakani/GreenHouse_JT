@@ -157,7 +157,7 @@
   },
   "7657999": {
     "first_seen": "2026-04-06T02:02:03.708115+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-07T12:03:36-04:00",
     "title": "Engineering Manager, Agent Experience",
     "company": "stripe"
   },
@@ -2299,7 +2299,7 @@
   },
   "7729808": {
     "first_seen": "2026-04-06T02:02:05.036824+00:00",
-    "updated_at": "2026-03-30T21:10:20-04:00",
+    "updated_at": "2026-04-07T12:03:02-04:00",
     "title": "Fraud Investigations Analyst ",
     "company": "robinhood"
   },
@@ -3739,7 +3739,7 @@
   },
   "7687317": {
     "first_seen": "2026-04-06T02:02:09.747154+00:00",
-    "updated_at": "2026-03-06T11:33:07-05:00",
+    "updated_at": "2026-04-07T12:10:28-04:00",
     "title": "Member of Technical Staff",
     "company": "adyen"
   },
@@ -5137,8 +5137,8 @@
   },
   "7722032": {
     "first_seen": "2026-04-06T02:02:14.596776+00:00",
-    "updated_at": "2026-03-21T19:25:11-04:00",
-    "title": "Sr. Application Engineer, Automation Lead",
+    "updated_at": "2026-04-07T12:21:18-04:00",
+    "title": "Sr. AI Engineer, Application Engineering",
     "company": "elastic"
   },
   "7674976": {
@@ -5497,7 +5497,7 @@
   },
   "7645147": {
     "first_seen": "2026-04-06T02:02:14.874706+00:00",
-    "updated_at": "2026-04-06T12:41:26-04:00",
+    "updated_at": "2026-04-07T12:50:20-04:00",
     "title": "Senior Software Engineer, DBX",
     "company": "mongodb"
   },
@@ -8569,14 +8569,14 @@
   },
   "5430088004": {
     "first_seen": "2026-04-06T02:02:25.126762+00:00",
-    "updated_at": "2026-04-02T11:32:59-04:00",
-    "title": "Software Engineer, Accounts",
+    "updated_at": "2026-04-07T11:46:21-04:00",
+    "title": "Software Engineer, Backend",
     "company": "vercel"
   },
   "5431123004": {
     "first_seen": "2026-04-06T02:02:25.126777+00:00",
-    "updated_at": "2026-04-02T11:32:59-04:00",
-    "title": "Software Engineer, Accounts",
+    "updated_at": "2026-04-07T11:47:40-04:00",
+    "title": "Software Engineer, Backend",
     "company": "vercel"
   },
   "5798406004": {
@@ -12325,7 +12325,7 @@
   },
   "7453448003": {
     "first_seen": "2026-04-06T08:10:08.966029+00:00",
-    "updated_at": "2026-04-07T03:01:45-04:00",
+    "updated_at": "2026-04-07T12:30:55-04:00",
     "title": "Engineering Manager, Customer Agent",
     "company": "klaviyo"
   },
@@ -12457,7 +12457,7 @@
   },
   "7684381003": {
     "first_seen": "2026-04-06T08:10:08.967137+00:00",
-    "updated_at": "2026-04-04T01:01:40-04:00",
+    "updated_at": "2026-04-07T11:48:33-04:00",
     "title": "Manager, People Technology",
     "company": "klaviyo"
   },
@@ -13075,7 +13075,7 @@
   },
   "5650874004": {
     "first_seen": "2026-04-06T08:10:11.255073+00:00",
-    "updated_at": "2026-03-30T20:09:30-04:00",
+    "updated_at": "2026-04-07T12:36:44-04:00",
     "title": "Senior Software Engineer, Search Federation",
     "company": "cribl"
   },
@@ -13243,7 +13243,7 @@
   },
   "7595447003": {
     "first_seen": "2026-04-06T08:10:14.080535+00:00",
-    "updated_at": "2026-04-03T11:31:53-04:00",
+    "updated_at": "2026-04-07T12:11:20-04:00",
     "title": "Enterprise Sales Engineer",
     "company": "abnormalsecurity"
   },
@@ -20470,5 +20470,143 @@
     "updated_at": "2026-04-07T10:45:25-04:00",
     "title": "Hardware Systems Integration Intern (Summer 2026)",
     "company": "formlabs"
+  },
+  "5855181004": {
+    "first_seen": "2026-04-07T16:50:35.334583+00:00",
+    "updated_at": "2026-04-07T12:40:36-04:00",
+    "title": "Sr Software Engineer, Search Federation",
+    "company": "cribl"
+  },
+  "8489179002": {
+    "first_seen": "2026-04-07T16:50:39.393333+00:00",
+    "updated_at": "2026-04-07T12:07:39-04:00",
+    "title": "Engineering Manager, Infrastructure Platforms",
+    "company": "gitlab"
+  },
+  "7769764": {
+    "first_seen": "2026-04-07T16:50:44.793758+00:00",
+    "updated_at": "2026-04-07T11:59:06-04:00",
+    "title": "Staff Product Manager, AI Security, Data Access Governance and DLP",
+    "company": "dropbox"
+  },
+  "7692353003": {
+    "first_seen": "2026-04-07T16:50:54.840139+00:00",
+    "updated_at": "2026-04-07T11:54:34-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692415003": {
+    "first_seen": "2026-04-07T16:50:54.840168+00:00",
+    "updated_at": "2026-04-07T12:14:48-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692414003": {
+    "first_seen": "2026-04-07T16:50:54.840182+00:00",
+    "updated_at": "2026-04-07T12:13:31-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692413003": {
+    "first_seen": "2026-04-07T16:50:54.840199+00:00",
+    "updated_at": "2026-04-07T12:11:05-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692409003": {
+    "first_seen": "2026-04-07T16:50:54.840213+00:00",
+    "updated_at": "2026-04-07T12:10:03-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692346003": {
+    "first_seen": "2026-04-07T16:50:54.840225+00:00",
+    "updated_at": "2026-04-07T11:50:29-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692351003": {
+    "first_seen": "2026-04-07T16:50:54.840241+00:00",
+    "updated_at": "2026-04-07T11:53:01-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692357003": {
+    "first_seen": "2026-04-07T16:50:54.840256+00:00",
+    "updated_at": "2026-04-07T11:56:47-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692362003": {
+    "first_seen": "2026-04-07T16:50:54.840270+00:00",
+    "updated_at": "2026-04-07T11:56:48-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692367003": {
+    "first_seen": "2026-04-07T16:50:54.840281+00:00",
+    "updated_at": "2026-04-07T11:57:38-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692372003": {
+    "first_seen": "2026-04-07T16:50:54.840292+00:00",
+    "updated_at": "2026-04-07T11:59:37-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692374003": {
+    "first_seen": "2026-04-07T16:50:54.840303+00:00",
+    "updated_at": "2026-04-07T12:00:51-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692379003": {
+    "first_seen": "2026-04-07T16:50:54.840320+00:00",
+    "updated_at": "2026-04-07T12:02:00-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692387003": {
+    "first_seen": "2026-04-07T16:50:54.840333+00:00",
+    "updated_at": "2026-04-07T12:03:33-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692396003": {
+    "first_seen": "2026-04-07T16:50:54.840348+00:00",
+    "updated_at": "2026-04-07T12:04:33-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692398003": {
+    "first_seen": "2026-04-07T16:50:54.840360+00:00",
+    "updated_at": "2026-04-07T12:05:37-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692400003": {
+    "first_seen": "2026-04-07T16:50:54.840372+00:00",
+    "updated_at": "2026-04-07T12:07:00-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692403003": {
+    "first_seen": "2026-04-07T16:50:54.840385+00:00",
+    "updated_at": "2026-04-07T12:08:00-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692405003": {
+    "first_seen": "2026-04-07T16:50:54.840396+00:00",
+    "updated_at": "2026-04-07T12:08:57-04:00",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom"
+  },
+  "7692380003": {
+    "first_seen": "2026-04-07T16:50:58.292092+00:00",
+    "updated_at": "2026-04-07T12:13:05-04:00",
+    "title": "Principal Product Manager, Home Loans Infrastructure & Data",
+    "company": "sofi"
   }
 }

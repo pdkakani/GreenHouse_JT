@@ -2,6 +2,213 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 16:52 UTC
+
+### 🆕 Sr Software Engineer, Search Federation
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5855181004)
+🕐 Updated: `2026-04-07T12:40:36-04:00` &nbsp;|&nbsp; ID: `5855181004`
+
+---
+### 🆕 Engineering Manager, Infrastructure Platforms
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8489179002)
+🕐 Updated: `2026-04-07T12:07:39-04:00` &nbsp;|&nbsp; ID: `8489179002`
+
+---
+### 🆕 Staff Product Manager, AI Security, Data Access Governance and DLP
+**dropbox** · Dash - Product (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7769764?gh_jid=7769764)
+🕐 Updated: `2026-04-07T11:59:06-04:00` &nbsp;|&nbsp; ID: `7769764`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Western Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692353003)
+🕐 Updated: `2026-04-07T11:54:34-04:00` &nbsp;|&nbsp; ID: `7692353003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Africa &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692415003)
+🕐 Updated: `2026-04-07T12:14:48-04:00` &nbsp;|&nbsp; ID: `7692415003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692414003)
+🕐 Updated: `2026-04-07T12:13:31-04:00` &nbsp;|&nbsp; ID: `7692414003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Austria &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692413003)
+🕐 Updated: `2026-04-07T12:11:05-04:00` &nbsp;|&nbsp; ID: `7692413003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Germany &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692409003)
+🕐 Updated: `2026-04-07T12:10:03-04:00` &nbsp;|&nbsp; ID: `7692409003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692346003)
+🕐 Updated: `2026-04-07T11:50:29-04:00` &nbsp;|&nbsp; ID: `7692346003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Southern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692351003)
+🕐 Updated: `2026-04-07T11:53:01-04:00` &nbsp;|&nbsp; ID: `7692351003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Northern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692357003)
+🕐 Updated: `2026-04-07T11:56:47-04:00` &nbsp;|&nbsp; ID: `7692357003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Nordics &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692362003)
+🕐 Updated: `2026-04-07T11:56:48-04:00` &nbsp;|&nbsp; ID: `7692362003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-France &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692367003)
+🕐 Updated: `2026-04-07T11:57:38-04:00` &nbsp;|&nbsp; ID: `7692367003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-UK&I &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692372003)
+🕐 Updated: `2026-04-07T11:59:37-04:00` &nbsp;|&nbsp; ID: `7692372003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692374003)
+🕐 Updated: `2026-04-07T12:00:51-04:00` &nbsp;|&nbsp; ID: `7692374003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-South America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692379003)
+🕐 Updated: `2026-04-07T12:02:00-04:00` &nbsp;|&nbsp; ID: `7692379003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Iberia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692387003)
+🕐 Updated: `2026-04-07T12:03:33-04:00` &nbsp;|&nbsp; ID: `7692387003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Eastern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692396003)
+🕐 Updated: `2026-04-07T12:04:33-04:00` &nbsp;|&nbsp; ID: `7692396003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Brazil &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692398003)
+🕐 Updated: `2026-04-07T12:05:37-04:00` &nbsp;|&nbsp; ID: `7692398003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692400003)
+🕐 Updated: `2026-04-07T12:07:00-04:00` &nbsp;|&nbsp; ID: `7692400003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Nordics &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692403003)
+🕐 Updated: `2026-04-07T12:08:00-04:00` &nbsp;|&nbsp; ID: `7692403003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend
+📍 Remote-Netherlands &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7692405003)
+🕐 Updated: `2026-04-07T12:08:57-04:00` &nbsp;|&nbsp; ID: `7692405003`
+
+---
+### 🆕 Principal Product Manager, Home Loans Infrastructure & Data
+**sofi** · Product Management
+📍 WA - Seattle; CA - San Francisco    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692380003?gh_jid=7692380003)
+🕐 Updated: `2026-04-07T12:13:05-04:00` &nbsp;|&nbsp; ID: `7692380003`
+
+---
+### 🔄 Sr. AI Engineer, Application Engineering
+**elastic** · IT
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7722032&gh_jid=7722032)
+🕐 Updated: `2026-04-07T12:21:18-04:00` &nbsp;|&nbsp; ID: `7722032`
+
+---
+### 🔄 Senior Software Engineer, DBX
+**mongodb** · PTO Developer Experience ENG
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7645147)
+🕐 Updated: `2026-04-07T12:50:20-04:00` &nbsp;|&nbsp; ID: `7645147`
+
+---
+### 🔄 Engineering Manager, Customer Agent
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453448003)
+🕐 Updated: `2026-04-07T12:30:55-04:00` &nbsp;|&nbsp; ID: `7453448003`
+
+---
+### 🔄 Manager, People Technology
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7684381003)
+🕐 Updated: `2026-04-07T11:48:33-04:00` &nbsp;|&nbsp; ID: `7684381003`
+
+---
+### 🔄 Senior Software Engineer, Search Federation
+**cribl** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5650874004)
+🕐 Updated: `2026-04-07T12:36:44-04:00` &nbsp;|&nbsp; ID: `5650874004`
+
+---
+### 🔄 Enterprise Sales Engineer
+**abnormalsecurity** · Sales Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7595447003?gh_jid=7595447003)
+🕐 Updated: `2026-04-07T12:11:20-04:00` &nbsp;|&nbsp; ID: `7595447003`
+
+---
+### 🔄 Software Engineer, Backend
+**vercel** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5431123004)
+🕐 Updated: `2026-04-07T11:47:40-04:00` &nbsp;|&nbsp; ID: `5431123004`
+
+---
+### 🔄 Software Engineer, Backend
+**vercel** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5430088004)
+🕐 Updated: `2026-04-07T11:46:21-04:00` &nbsp;|&nbsp; ID: `5430088004`
+
+---
+### 🔄 Engineering Manager, Agent Experience
+**stripe** · 8116 Developer Platform - Eng
+📍 CA-Toronto &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657999)
+🕐 Updated: `2026-04-07T12:03:36-04:00` &nbsp;|&nbsp; ID: `7657999`
+
+---
+### 🔄 Member of Technical Staff
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7687317)
+🕐 Updated: `2026-04-07T12:10:28-04:00` &nbsp;|&nbsp; ID: `7687317`
+
+---
+### 🔄 Fraud Investigations Analyst 
+**robinhood** · Platforms Governance Division
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729808?t=gh_src=&gh_jid=7729808)
+🕐 Updated: `2026-04-07T12:03:02-04:00` &nbsp;|&nbsp; ID: `7729808`
+
+---
+
 ## 📅 Run: 2026-04-07 15:47 UTC
 
 ### 🆕 Senior Software Engineer - Data Security
