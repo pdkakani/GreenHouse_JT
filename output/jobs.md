@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 21:30 UTC
+
+### 🆕 Capital Markets & Investor Relations 
+**anthropic** · Finance
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5116167008)
+🕐 Updated: `2026-04-07T17:11:05-04:00` &nbsp;|&nbsp; ID: `5116167008`
+
+---
+### 🆕 Resident Solutions Architect - Digital Native Business 
+**databricks** · Professional Services Operations
+📍 Northeast - United States; Southeast - United States; West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002)
+🕐 Updated: `2026-04-07T17:20:43-04:00` &nbsp;|&nbsp; ID: `8488399002`
+
+---
+### 🆕 Software Engineer
+**stripe** · [TEST DEPARTMENT]
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-07T16:41:50-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🆕 Software Engineer
+**sofi** · Engineering
+📍 WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692745003?gh_jid=7692745003)
+🕐 Updated: `2026-04-07T16:47:36-04:00` &nbsp;|&nbsp; ID: `7692745003`
+
+---
+### 🔄 Software Engineer, (L2) CDP
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7602727)
+🕐 Updated: `2026-04-07T17:04:41-04:00` &nbsp;|&nbsp; ID: `7602727`
+
+---
+### 🔄 Senior Learning & Development Partner
+**mixpanel** · People & Culture
+📍 San Francisco, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7655682)
+🕐 Updated: `2026-04-07T17:13:41-04:00` &nbsp;|&nbsp; ID: `7655682`
+
+---
+### 🔄 Engineering Manager, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7729216)
+🕐 Updated: `2026-04-07T16:55:16-04:00` &nbsp;|&nbsp; ID: `7729216`
+
+---
+### 🔄 Lead Product Manager, Platform
+**flex** · Product
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4678164005)
+🕐 Updated: `2026-04-07T17:10:18-04:00` &nbsp;|&nbsp; ID: `4678164005`
+
+---
+### 🔄 Lead Product Manager, Platform
+**flex** · Product
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4678155005)
+🕐 Updated: `2026-04-07T17:06:36-04:00` &nbsp;|&nbsp; ID: `4678155005`
+
+---
+### 🔄 Lead Product Manager
+**carta** · Product
+📍 San Francisco, CA; Seattle, WA, New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/7548543003)
+🕐 Updated: `2026-04-07T17:00:27-04:00` &nbsp;|&nbsp; ID: `7548543003`
+
+---
+
 ## 📅 Run: 2026-04-07 20:44 UTC
 
 ### 🆕 Senior Software Engineer - Dev Accelerator
