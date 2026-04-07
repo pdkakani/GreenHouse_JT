@@ -10681,7 +10681,7 @@
   },
   "5140492008": {
     "first_seen": "2026-04-06T08:09:59.883463+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-06T20:58:13-04:00",
     "title": "Engineering Manager, Verticals \u2013 Financial Services ",
     "company": "anthropic"
   },
@@ -12325,7 +12325,7 @@
   },
   "7453448003": {
     "first_seen": "2026-04-06T08:10:08.966029+00:00",
-    "updated_at": "2026-04-04T04:03:02-04:00",
+    "updated_at": "2026-04-06T20:55:05-04:00",
     "title": "Engineering Manager, Customer Agent",
     "company": "klaviyo"
   },
@@ -20347,7 +20347,7 @@
   },
   "7736521": {
     "first_seen": "2026-04-06T22:56:03.828224+00:00",
-    "updated_at": "2026-04-06T18:41:35-04:00",
+    "updated_at": "2026-04-06T20:20:54-04:00",
     "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
     "company": "coinbase"
   },
@@ -20362,5 +20362,17 @@
     "updated_at": "2026-04-06T19:24:19-04:00",
     "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
     "company": "gitlab"
+  },
+  "4681915005": {
+    "first_seen": "2026-04-07T03:29:58.905757+00:00",
+    "updated_at": "2026-04-06T20:31:04-04:00",
+    "title": "VP, Business Development",
+    "company": "flex"
+  },
+  "7616170003": {
+    "first_seen": "2026-04-07T03:30:18.788820+00:00",
+    "updated_at": "2026-04-06T21:32:42-04:00",
+    "title": "Senior Staff Engineer, Loans Originations",
+    "company": "sofi"
   }
 }

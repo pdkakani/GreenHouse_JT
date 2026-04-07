@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 03:30 UTC
+
+### 🆕 VP, Business Development
+**flex** · Business Development
+📍 New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4681915005)
+🕐 Updated: `2026-04-06T20:31:04-04:00` &nbsp;|&nbsp; ID: `4681915005`
+
+---
+### 🆕 Senior Staff Engineer, Loans Originations
+**sofi** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7616170003?gh_jid=7616170003)
+🕐 Updated: `2026-04-06T21:32:42-04:00` &nbsp;|&nbsp; ID: `7616170003`
+
+---
+### 🔄 Engineering Manager, Verticals – Financial Services 
+**anthropic** · Engineering & Design - Product
+📍 New York City, NY; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5140492008)
+🕐 Updated: `2026-04-06T20:58:13-04:00` &nbsp;|&nbsp; ID: `5140492008`
+
+---
+### 🔄 Engineering Manager, Customer Agent
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453448003)
+🕐 Updated: `2026-04-06T20:55:05-04:00` &nbsp;|&nbsp; ID: `7453448003`
+
+---
+### 🔄 Senior Analytics Engineer (Platform - Financial Analytics)
+**coinbase** · Data Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521)
+🕐 Updated: `2026-04-06T20:20:54-04:00` &nbsp;|&nbsp; ID: `7736521`
+
+---
+
 ## 📅 Run: 2026-04-07 00:05 UTC
 
 ### 🔄 Senior Software Engineer, Growth
