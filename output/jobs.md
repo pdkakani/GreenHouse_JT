@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-07 00:05 UTC
+
+### 🔄 Senior Software Engineer, Growth
+**descript** · Engineering
+📍 San Francisco, CA | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7683752003?gh_jid=7683752003)
+🕐 Updated: `2026-04-06T19:45:59-04:00` &nbsp;|&nbsp; ID: `7683752003`
+
+---
+
 ## 📅 Run: 2026-04-06 23:30 UTC
 
 ### 🆕 Intermediate Backend Engineer, SSCS: AI Governance
