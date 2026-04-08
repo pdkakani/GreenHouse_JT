@@ -9751,8 +9751,8 @@
   },
   "8448283002": {
     "first_seen": "2026-04-06T02:02:26.680330+00:00",
-    "updated_at": "2026-03-23T12:28:17-04:00",
-    "title": "Staff Backend Engineer (AI), Verify",
+    "updated_at": "2026-04-08T09:16:55-04:00",
+    "title": "Staff Backend Engineer (Ruby on Rails/AI), Verify",
     "company": "gitlab"
   },
   "8463922002": {
@@ -10933,7 +10933,7 @@
   },
   "5125083008": {
     "first_seen": "2026-04-06T08:09:59.887029+00:00",
-    "updated_at": "2026-04-03T12:07:49-04:00",
+    "updated_at": "2026-04-08T09:53:40-04:00",
     "title": "Research Engineer, AI Observability",
     "company": "anthropic"
   },
@@ -12463,7 +12463,7 @@
   },
   "7641196003": {
     "first_seen": "2026-04-06T08:10:08.967269+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-08T09:16:09-04:00",
     "title": "Outbound Business Development Representative",
     "company": "klaviyo"
   },
@@ -20884,5 +20884,71 @@
     "updated_at": "2026-04-08T03:01:43-04:00",
     "title": "Engineering Manager - Platform (FinHub)",
     "company": "coinbase"
+  },
+  "7669366003": {
+    "first_seen": "2026-04-08T14:17:12.346956+00:00",
+    "updated_at": "2026-04-08T08:48:27-04:00",
+    "title": "Director of Engineering - Growth & Engagement",
+    "company": "klaviyo"
+  },
+  "7723988": {
+    "first_seen": "2026-04-08T14:17:13.133095+00:00",
+    "updated_at": "2026-04-08T08:50:08-04:00",
+    "title": "Senior Product Manager - Integrations & Ecosystem",
+    "company": "datadog"
+  },
+  "5179969008": {
+    "first_seen": "2026-04-08T14:17:15.232461+00:00",
+    "updated_at": "2026-04-08T09:58:41-04:00",
+    "title": "Software Engineer ",
+    "company": "automox"
+  },
+  "8488966002": {
+    "first_seen": "2026-04-08T14:17:16.387485+00:00",
+    "updated_at": "2026-04-08T09:51:45-04:00",
+    "title": "Senior Backend Engineer(Go), Continuous Delivery",
+    "company": "gitlab"
+  },
+  "8488961002": {
+    "first_seen": "2026-04-08T14:17:16.387923+00:00",
+    "updated_at": "2026-04-08T09:47:49-04:00",
+    "title": "Staff Backend Engineer (Go), Continuous Delivery",
+    "company": "gitlab"
+  },
+  "8497826002": {
+    "first_seen": "2026-04-08T14:17:18.030097+00:00",
+    "updated_at": "2026-04-08T09:05:22-04:00",
+    "title": "Technical Support Specialist",
+    "company": "airtable"
+  },
+  "7747178": {
+    "first_seen": "2026-04-08T14:17:22.134470+00:00",
+    "updated_at": "2026-04-08T10:01:41-04:00",
+    "title": "Engineering Program Manager, Infrastructure",
+    "company": "stripe"
+  },
+  "7608088003": {
+    "first_seen": "2026-04-08T14:17:29.365991+00:00",
+    "updated_at": "2026-04-08T09:50:27-04:00",
+    "title": "Senior Software Engineer, Crypto",
+    "company": "sofi"
+  },
+  "7731655": {
+    "first_seen": "2026-04-08T14:17:31.328559+00:00",
+    "updated_at": "2026-04-08T09:30:44-04:00",
+    "title": "Assembler",
+    "company": "formlabs"
+  },
+  "7731656": {
+    "first_seen": "2026-04-08T14:17:31.328596+00:00",
+    "updated_at": "2026-04-08T09:30:44-04:00",
+    "title": "Assembler",
+    "company": "formlabs"
+  },
+  "7731658": {
+    "first_seen": "2026-04-08T14:17:31.331245+00:00",
+    "updated_at": "2026-04-08T09:30:44-04:00",
+    "title": "Temp Assembly Technician",
+    "company": "formlabs"
   }
 }

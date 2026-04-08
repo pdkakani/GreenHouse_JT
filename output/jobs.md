@@ -2,6 +2,93 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 14:18 UTC
+
+### 🆕 Director of Engineering - Growth & Engagement
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7669366003)
+🕐 Updated: `2026-04-08T08:48:27-04:00` &nbsp;|&nbsp; ID: `7669366003`
+
+---
+### 🆕 Senior Product Manager - Integrations & Ecosystem
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7723988/?gh_jid=7723988)
+🕐 Updated: `2026-04-08T08:50:08-04:00` &nbsp;|&nbsp; ID: `7723988`
+
+---
+### 🆕 Software Engineer 
+**automox** · Software Engineering
+📍 Remote - Austin, TX - Denver, CO - Tampa, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/automox/jobs/5179969008)
+🕐 Updated: `2026-04-08T09:58:41-04:00` &nbsp;|&nbsp; ID: `5179969008`
+
+---
+### 🆕 Senior Backend Engineer(Go), Continuous Delivery
+**gitlab** · DevOps Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8488966002)
+🕐 Updated: `2026-04-08T09:51:45-04:00` &nbsp;|&nbsp; ID: `8488966002`
+
+---
+### 🆕 Staff Backend Engineer (Go), Continuous Delivery
+**gitlab** · DevOps Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8488961002)
+🕐 Updated: `2026-04-08T09:47:49-04:00` &nbsp;|&nbsp; ID: `8488961002`
+
+---
+### 🆕 Technical Support Specialist
+**airtable** · Customer Support
+📍 Remote - London, United Kingdom  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8497826002)
+🕐 Updated: `2026-04-08T09:05:22-04:00` &nbsp;|&nbsp; ID: `8497826002`
+
+---
+### 🆕 Engineering Program Manager, Infrastructure
+**stripe** · 8914 Core Tech Technical Program Management
+📍 Remote in the US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7747178)
+🕐 Updated: `2026-04-08T10:01:41-04:00` &nbsp;|&nbsp; ID: `7747178`
+
+---
+### 🆕 Senior Software Engineer, Crypto
+**sofi** · Engineering
+📍 CA - San Francisco; NY - New York City    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7608088003?gh_jid=7608088003)
+🕐 Updated: `2026-04-08T09:50:27-04:00` &nbsp;|&nbsp; ID: `7608088003`
+
+---
+### 🆕 Assembler
+**formlabs** · Hardware Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7731655/apply/?gh_jid=7731655)
+🕐 Updated: `2026-04-08T09:30:44-04:00` &nbsp;|&nbsp; ID: `7731655`
+
+---
+### 🆕 Assembler
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7731656/apply/?gh_jid=7731656)
+🕐 Updated: `2026-04-08T09:30:44-04:00` &nbsp;|&nbsp; ID: `7731656`
+
+---
+### 🆕 Temp Assembly Technician
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7731658/apply/?gh_jid=7731658)
+🕐 Updated: `2026-04-08T09:30:44-04:00` &nbsp;|&nbsp; ID: `7731658`
+
+---
+### 🔄 Research Engineer, AI Observability
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5125083008)
+🕐 Updated: `2026-04-08T09:53:40-04:00` &nbsp;|&nbsp; ID: `5125083008`
+
+---
+### 🔄 Outbound Business Development Representative
+**klaviyo** · Sales
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7641196003)
+🕐 Updated: `2026-04-08T09:16:09-04:00` &nbsp;|&nbsp; ID: `7641196003`
+
+---
+### 🔄 Staff Backend Engineer (Ruby on Rails/AI), Verify
+**gitlab** · DevOps Engineering
+📍 Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US; Remote, US-Southeast &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8448283002)
+🕐 Updated: `2026-04-08T09:16:55-04:00` &nbsp;|&nbsp; ID: `8448283002`
+
+---
+
 ## 📅 Run: 2026-04-08 07:15 UTC
 
 ### 🆕 Engineering Manager - Platform (FinHub)
