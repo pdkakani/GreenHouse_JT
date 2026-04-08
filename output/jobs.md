@@ -2,6 +2,147 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 23:33 UTC
+
+### 🆕 Sales Development Representative (Denver)
+**datadog** · Sales Development
+📍 Denver, Colorado, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624)
+🕐 Updated: `2026-04-08T18:59:20-04:00` &nbsp;|&nbsp; ID: `7137624`
+
+---
+### 🆕 Director, IT
+**figma** · Business Operations
+📍 San Francisco, CA • New York, NY • United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/figma/jobs/5850497004?gh_jid=5850497004)
+🕐 Updated: `2026-04-08T18:56:15-04:00` &nbsp;|&nbsp; ID: `5850497004`
+
+---
+### 🆕 Senior Full Stack Engineer, Hazel AI
+**altruist** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5874549004?gh_jid=5874549004)
+🕐 Updated: `2026-04-08T19:12:41-04:00` &nbsp;|&nbsp; ID: `5874549004`
+
+---
+### 🆕 Senior Technical Program Manager, Privacy
+**robinhood** · Privacy Division
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7773503?t=gh_src=&gh_jid=7773503)
+🕐 Updated: `2026-04-08T18:53:18-04:00` &nbsp;|&nbsp; ID: `7773503`
+
+---
+### 🔄 Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7350846)
+🕐 Updated: `2026-04-08T19:04:01-04:00` &nbsp;|&nbsp; ID: `7350846`
+
+---
+### 🔄 Manager, Solutions Engineering 
+**mixpanel** · Solution Engineering
+📍 San Francisco, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7513876)
+🕐 Updated: `2026-04-08T18:56:36-04:00` &nbsp;|&nbsp; ID: `7513876`
+
+---
+### 🔄 Manager, Solutions Engineering 
+**mixpanel** · Solution Engineering
+📍 New York City, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7746430)
+🕐 Updated: `2026-04-08T18:56:36-04:00` &nbsp;|&nbsp; ID: `7746430`
+
+---
+### 🔄 Director, Technical Accounting & Reporting
+**amplitude** · Accounting
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8466229002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8466229002`
+
+---
+### 🔄 Engineering Manager, Guides & Surveys
+**amplitude** · Engineering : Blades
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8453527002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8453527002`
+
+---
+### 🔄 Manager, AMER Technical Support
+**amplitude** · Engineering Sup
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8451094002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8451094002`
+
+---
+### 🔄 Principal Product Manager, AI - People & Places
+**amplitude** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8457963002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8457963002`
+
+---
+### 🔄 Senior Sales Engineer (Presales) - West
+**amplitude** · Solutions Consulting
+📍 Los Angeles, CA; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8466328002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8466328002`
+
+---
+### 🔄 Senior Software Engineer, Core Analytics
+**amplitude** · Engineering : Foundations
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8423428002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8423428002`
+
+---
+### 🔄 Senior Software Engineer,  Data Management 
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8445406002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8445406002`
+
+---
+### 🔄 Software Engineering Manager
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8493911002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8493911002`
+
+---
+### 🔄 Sr. Technical Customer Success Manager (12mth Fixed Term Contract)
+**amplitude** · Customer Success Management
+📍 Remote - Germany &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8496177002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8496177002`
+
+---
+### 🔄 Staff Frontend Engineer
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8330434002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8330434002`
+
+---
+### 🔄 Staff Software Engineer - Android DX
+**amplitude** · Engineering : Blades
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8407479002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8407479002`
+
+---
+### 🔄 Staff Software Engineer, Core Analytics
+**amplitude** · Engineering : Foundations
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8444770002)
+🕐 Updated: `2026-04-08T18:51:32-04:00` &nbsp;|&nbsp; ID: `8444770002`
+
+---
+### 🔄 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-04-08T18:57:26-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+### 🔄 Sr. Principal AI Systems Architect
+**fivetran** · Business Intelligence Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7651403003)
+🕐 Updated: `2026-04-08T18:52:52-04:00` &nbsp;|&nbsp; ID: `7651403003`
+
+---
+### 🔄 Software Engineer
+**stripe** · PERM
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-08T19:27:09-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🔄 Senior Back End Engineer, Hazel AI
+**altruist** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5692635004?gh_jid=5692635004)
+🕐 Updated: `2026-04-08T19:11:18-04:00` &nbsp;|&nbsp; ID: `5692635004`
+
+---
+
 ## 📅 Run: 2026-04-08 22:49 UTC
 
 ### 🆕 Developer Evangelist
