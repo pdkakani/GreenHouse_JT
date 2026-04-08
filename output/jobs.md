@@ -2,6 +2,195 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 15:57 UTC
+
+### 🆕 Engineering Manager - Search Management - Elasticsearch
+**elastic** · Platform - Elasticsearch
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769550&gh_jid=7769550)
+🕐 Updated: `2026-04-08T10:39:36-04:00` &nbsp;|&nbsp; ID: `7769550`
+
+---
+### 🆕 Engineering Manager,  AI Enablement
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660503003)
+🕐 Updated: `2026-04-08T11:46:25-04:00` &nbsp;|&nbsp; ID: `7660503003`
+
+---
+### 🆕 Sr Software Engineer - iOS
+**classpass** · Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.playlist.com/careers/opportunities/4644040006?gh_jid=4644040006)
+🕐 Updated: `2026-04-08T11:51:03-04:00` &nbsp;|&nbsp; ID: `4644040006`
+
+---
+### 🆕 Sales Development Representative
+**flex** · Revenue
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4645783005)
+🕐 Updated: `2026-04-08T10:29:56-04:00` &nbsp;|&nbsp; ID: `4645783005`
+
+---
+### 🆕 Salesforce Developer
+**mercury** · Sales Operations
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5857783004)
+🕐 Updated: `2026-04-08T11:03:59-04:00` &nbsp;|&nbsp; ID: `5857783004`
+
+---
+### 🆕 Senior Product Manager - API & Agentic Banking
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5867562004)
+🕐 Updated: `2026-04-08T10:31:56-04:00` &nbsp;|&nbsp; ID: `5867562004`
+
+---
+### 🆕 Senior Technical Program Manager
+**mercury** · Sales Operations
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5856800004)
+🕐 Updated: `2026-04-08T10:54:28-04:00` &nbsp;|&nbsp; ID: `5856800004`
+
+---
+### 🆕 Group Product Manager - Financial Engineering 
+**coinbase** · Program Management
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789404?gh_jid=7789404)
+🕐 Updated: `2026-04-08T10:20:06-04:00` &nbsp;|&nbsp; ID: `7789404`
+
+---
+### 🔄 Applications Engineer 2
+**twilio** · Sales Operations
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7646270)
+🕐 Updated: `2026-04-08T10:27:14-04:00` &nbsp;|&nbsp; ID: `7646270`
+
+---
+### 🔄 Business Systems Analyst 2
+**twilio** · Services
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7254399)
+🕐 Updated: `2026-04-08T10:31:34-04:00` &nbsp;|&nbsp; ID: `7254399`
+
+---
+### 🔄 Engineer, Identity & Access
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657991)
+🕐 Updated: `2026-04-08T10:26:49-04:00` &nbsp;|&nbsp; ID: `7657991`
+
+---
+### 🔄 Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - Ireland; Remote - Spain; Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7350846)
+🕐 Updated: `2026-04-08T10:57:50-04:00` &nbsp;|&nbsp; ID: `7350846`
+
+---
+### 🔄 Principal Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - Japan &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7452089)
+🕐 Updated: `2026-04-08T10:31:27-04:00` &nbsp;|&nbsp; ID: `7452089`
+
+---
+### 🔄 Senior Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622278)
+🕐 Updated: `2026-04-08T10:28:30-04:00` &nbsp;|&nbsp; ID: `7622278`
+
+---
+### 🔄 Senior Network Engineer
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: `2026-04-08T10:27:43-04:00` &nbsp;|&nbsp; ID: `7657993`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7662058)
+🕐 Updated: `2026-04-08T10:26:41-04:00` &nbsp;|&nbsp; ID: `7662058`
+
+---
+### 🔄 Senior Solutions Engineer 3
+**twilio** · Solutions Engineering
+📍 Remote - Australia; Remote - Japan; Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7511486)
+🕐 Updated: `2026-04-08T10:29:46-04:00` &nbsp;|&nbsp; ID: `7511486`
+
+---
+### 🔄 Senior Zendesk Business Systems Analyst
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7705692)
+🕐 Updated: `2026-04-08T10:26:00-04:00` &nbsp;|&nbsp; ID: `7705692`
+
+---
+### 🔄 Software Engineer (L3) Infrastructure
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7767260)
+🕐 Updated: `2026-04-08T10:26:33-04:00` &nbsp;|&nbsp; ID: `7767260`
+
+---
+### 🔄 Staff Machine Learning Engineer (L4)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520997)
+🕐 Updated: `2026-04-08T10:29:35-04:00` &nbsp;|&nbsp; ID: `7520997`
+
+---
+### 🔄 Staff Software Engineer (L4)
+**twilio** · IT
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7714237)
+🕐 Updated: `2026-04-08T10:24:52-04:00` &nbsp;|&nbsp; ID: `7714237`
+
+---
+### 🔄 Tech Admin (P2) GTM Systems
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-08T10:26:06-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🔄 Technical Support Engineer 2
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7658343)
+🕐 Updated: `2026-04-08T10:26:44-04:00` &nbsp;|&nbsp; ID: `7658343`
+
+---
+### 🔄 Technical Support Engineer 2 (Email Infra)
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7349692)
+🕐 Updated: `2026-04-08T10:31:19-04:00` &nbsp;|&nbsp; ID: `7349692`
+
+---
+### 🔄 Business Development Representative, Swedish Speaking
+**gitlab** · Sales Development
+📍 Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8472427002)
+🕐 Updated: `2026-04-08T11:23:04-04:00` &nbsp;|&nbsp; ID: `8472427002`
+
+---
+### 🔄 Software Engineer
+**stripe** · Tech
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-08T11:55:07-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🔄 Implementation Engineer
+**adyen** · Professional Services
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7105787)
+🕐 Updated: `2026-04-08T11:53:35-04:00` &nbsp;|&nbsp; ID: `7105787`
+
+---
+### 🔄 Senior Implementation Engineer
+**adyen** · Professional Services
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7134027)
+🕐 Updated: `2026-04-08T11:53:41-04:00` &nbsp;|&nbsp; ID: `7134027`
+
+---
+### 🔄 Director of Talent Development and Performance
+**flex** · People Ops
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4654930005)
+🕐 Updated: `2026-04-08T11:46:02-04:00` &nbsp;|&nbsp; ID: `4654930005`
+
+---
+### 🔄 Director of Talent Development and Performance
+**flex** · People Ops
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4678455005)
+🕐 Updated: `2026-04-08T11:46:02-04:00` &nbsp;|&nbsp; ID: `4678455005`
+
+---
+### 🔄 Senior Product Analytics Engineer
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8336548002?gh_jid=8336548002)
+🕐 Updated: `2026-04-08T10:49:39-04:00` &nbsp;|&nbsp; ID: `8336548002`
+
+---
+
 ## 📅 Run: 2026-04-08 14:18 UTC
 
 ### 🆕 Director of Engineering - Growth & Engagement
