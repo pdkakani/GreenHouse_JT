@@ -1,9 +1,8 @@
 """
 notifier.py — Slack webhook alerter for high-match jobs.
 
-Sends a richly formatted Slack message when a job scores >= threshold.
-Webhook URL is read from SLACK_WEBHOOK_URL environment variable
-(set as a GitHub Actions secret).
+Sends a Slack message when a job scores >= threshold.
+Webhook URL is read from SLACK_WEBHOOK_URL environment variable.
 """
 
 import os
@@ -31,13 +30,12 @@ def _score_emoji(score: int) -> str:
 
 
 def _score_bar(score: int) -> str:
-    """Visual progress bar for the score."""
     filled = round(score / 10)
     empty = 10 - filled
     return "█" * filled + "░" * empty
 
 
-def send_slack_alert(job: dict, score_result: dict) -> bool:
+def send_slack_alert(job: dict, score: int) -> bool:
     """
     Send a Slack alert for a high-match job.
     Returns True on success, False on failure.
@@ -46,10 +44,6 @@ def send_slack_alert(job: dict, score_result: dict) -> bool:
     if not webhook_url:
         print("  [slack] SLACK_WEBHOOK_URL not set — skipping alert.")
         return False
-
-    score = score_result.get("score", 0)
-    verdict = score_result.get("verdict", "")
-    reasons = score_result.get("reasons", [])
 
     title = job.get("title", "Unknown Title")
     company = job.get("company", "Unknown Company")
@@ -63,13 +57,8 @@ def send_slack_alert(job: dict, score_result: dict) -> bool:
     tag_label = "🆕 New" if tag == "NEW" else "🔄 Updated"
     emoji = _score_emoji(score)
     bar = _score_bar(score)
-
     dept_text = f" · {department}" if department else ""
 
-    # Format reasons as bullet points
-    reasons_text = "\n".join(f"• {r}" for r in reasons) if reasons else "• No details available"
-
-    # Build Slack Block Kit message
     blocks = [
         {
             "type": "header",
@@ -101,13 +90,6 @@ def send_slack_alert(job: dict, score_result: dict) -> bool:
             ],
         },
         {
-            "type": "section",
-            "text": {
-                "type": "mrkdwn",
-                "text": f"*Verdict:* _{verdict}_\n\n*Why it matches:*\n{reasons_text}",
-            },
-        },
-        {
             "type": "actions",
             "elements": [
                 {
@@ -131,7 +113,7 @@ def send_slack_alert(job: dict, score_result: dict) -> bool:
     ]
 
     payload = {
-        "text": f"{emoji} {score}% Match: {title} @ {company}",  # fallback for notifications
+        "text": f"{emoji} {score}% Match: {title} @ {company}",
         "blocks": blocks,
     }
 
@@ -154,10 +136,7 @@ def send_slack_alert(job: dict, score_result: dict) -> bool:
 
 
 def send_run_summary(stats: dict) -> bool:
-    """
-    Send a brief run summary to Slack.
-    Only sent if at least one alert was fired this run.
-    """
+    """Send a brief run summary to Slack."""
     webhook_url = _get_webhook_url()
     if not webhook_url:
         return False

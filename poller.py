@@ -10,10 +10,8 @@ Usage:
     python poller.py
 """
 
-import os
 import sys
 import time
-import json
 import requests
 from datetime import datetime, timezone
 from pathlib import Path
@@ -31,10 +29,10 @@ from notifier import send_slack_alert, send_run_summary
 COMPANIES_FILE = Path("companies.txt")
 OUTPUT_FILE = Path("output/jobs.md")
 API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true"
-REQUEST_TIMEOUT = 15        # seconds per API call
+REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
-RETRY_DELAY = 3             # seconds between retries
-MAX_JOBS_PER_COMPANY = 500  # safety cap — Greenhouse rarely exceeds this
+RETRY_DELAY = 3
+MAX_JOBS_PER_COMPANY = 500
 
 
 # ---------------------------------------------------------------------------
@@ -42,7 +40,6 @@ MAX_JOBS_PER_COMPANY = 500  # safety cap — Greenhouse rarely exceeds this
 # ---------------------------------------------------------------------------
 
 def load_companies() -> list[str]:
-    """Read companies.txt, skip blank lines and comments."""
     if not COMPANIES_FILE.exists():
         print(f"[ERROR] {COMPANIES_FILE} not found.")
         sys.exit(1)
@@ -55,7 +52,6 @@ def load_companies() -> list[str]:
 
 
 def fetch_jobs(board: str) -> Optional[list[dict]]:
-    """Fetch all jobs for a Greenhouse board token. Returns None on failure."""
     url = API_BASE.format(board=board)
     for attempt in range(1, RETRY_ATTEMPTS + 1):
         try:
@@ -64,7 +60,6 @@ def fetch_jobs(board: str) -> Optional[list[dict]]:
                 data = resp.json()
                 return data.get("jobs", [])
             elif resp.status_code == 404:
-                # Board doesn't exist or company uses different ATS
                 print(f"  [skip] {board}: 404 — board not found.")
                 return None
             else:
@@ -79,14 +74,11 @@ def fetch_jobs(board: str) -> Optional[list[dict]]:
 
 
 def extract_location(job: dict) -> str:
-    """Extract location string from a Greenhouse job object."""
-    # Greenhouse sometimes nests location under offices or has a top-level location
     loc = job.get("location", {})
     if isinstance(loc, dict):
         return loc.get("name", "")
     if isinstance(loc, str):
         return loc
-    # Fallback: check offices
     offices = job.get("offices", [])
     if offices:
         return offices[0].get("name", "")
@@ -94,7 +86,6 @@ def extract_location(job: dict) -> str:
 
 
 def extract_department(job: dict) -> str:
-    """Extract primary department name from a Greenhouse job object."""
     depts = job.get("departments", [])
     if depts:
         return depts[0].get("name", "")
@@ -102,13 +93,10 @@ def extract_department(job: dict) -> str:
 
 
 def extract_job_url(job: dict) -> str:
-    """Build the canonical job apply URL."""
-    # Greenhouse absolute_url is the reliable field
     return job.get("absolute_url", "")
 
 
 def format_job_entry(job: dict, tag: str = "NEW") -> str:
-    """Format a single job as a Markdown entry."""
     icon = "🆕" if tag == "NEW" else "🔄"
     title = job.get("title", "Unknown Title")
     company = job.get("company", "Unknown Company")
@@ -131,7 +119,6 @@ def format_job_entry(job: dict, tag: str = "NEW") -> str:
 
 
 def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
-    """Append new/updated jobs to output/jobs.md, newest first."""
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     all_entries = []
@@ -147,9 +134,8 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
         all_entries.append(header + entries)
 
     if not all_entries:
-        return  # nothing to write
+        return
 
-    # Prepend to file (newest first)
     existing = ""
     if OUTPUT_FILE.exists():
         existing = OUTPUT_FILE.read_text(encoding="utf-8")
@@ -159,7 +145,6 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
         "_Filtered: USA/Remote · Software & IT roles only_\n\n"
     )
 
-    # Strip old page header if present
     if existing.startswith("# 🌿"):
         existing = existing[existing.index("\n## "):] if "\n## " in existing else ""
 
@@ -217,43 +202,34 @@ def main():
             job_id = str(job.get("id", ""))
             updated_at = job.get("updated_at", "")
 
-            # --- Deduplication check ---
             if is_seen(state, job_id):
                 prev_updated = get_updated_at(state, job_id)
                 if prev_updated == updated_at:
                     stats["jobs_skipped_seen"] += 1
-                    continue  # identical, skip entirely
-                # updated_at changed → re-process as "updated"
+                    continue
                 tag = "UPDATED"
             else:
                 tag = "NEW"
 
-            # --- Location filter ---
             location = extract_location(job)
             if not is_usa_location(location):
                 stats["jobs_skipped_location"] += 1
                 continue
 
-            # --- Title / department filter ---
             title = job.get("title", "")
             department = extract_department(job)
             if not is_software_role(title, department):
                 stats["jobs_skipped_title"] += 1
                 continue
 
-            # --- Passed all filters ---
             enriched = {
                 **job,
-                "company": board,
+                "company": job.get("company", board),
                 "_location": location,
                 "_department": department,
                 "_url": extract_job_url(job),
                 "_tag": tag,
             }
-
-            # Try to get nicer company name from metadata
-            # (Greenhouse embeds it in some responses)
-            enriched["company"] = job.get("company", board)
 
             record_job(state, {
                 "id": job_id,
@@ -269,7 +245,6 @@ def main():
                 updated_jobs.append(enriched)
                 stats["jobs_updated"] += 1
 
-    # Persist updated state
     save_state(state)
 
     # --- Score & alert for new/updated jobs ---
@@ -279,15 +254,17 @@ def main():
         for job in all_fresh_jobs:
             job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
             print(f"  → {job_label} ...", end=" ", flush=True)
-            score_result = score_job(job)
-            if score_result is None:
+
+            score = score_job(job)
+            if score is None:
                 print("scoring failed, skipping.")
                 stats["alerts_skipped"] += 1
                 continue
-            score = score_result["score"]
+
             print(f"score={score}%")
+
             if should_alert(score):
-                sent = send_slack_alert(job, score_result)
+                sent = send_slack_alert(job, score)
                 if sent:
                     stats["alerts_sent"] += 1
                 else:
@@ -299,15 +276,14 @@ def main():
         if stats["alerts_sent"] > 0:
             send_run_summary(stats)
 
-    # Write output only if there's something new
     if new_jobs or updated_jobs:
         write_output(new_jobs, updated_jobs)
         print(f"\n[output] Written to {OUTPUT_FILE}")
     else:
         print("\n[output] No new or updated jobs — skipping file write.")
 
-    # Summary
     elapsed = (datetime.now(timezone.utc) - start).total_seconds()
+    stats["elapsed"] = int(elapsed)
     print(f"\n{'='*60}")
     print(f"SUMMARY")
     print(f"  Companies checked : {stats['companies_checked']} / {len(companies)}")
@@ -323,7 +299,6 @@ def main():
     print(f"  Elapsed           : {elapsed:.1f}s")
     print(f"{'='*60}\n")
 
-    # Exit code: 0 always (don't fail workflow on 0 new jobs)
     sys.exit(0)
 
 
