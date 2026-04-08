@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 04:08 UTC
+
+### 🆕 Sales Engineering Manager, Storage & Analysis
+**cribl** · Sales
+📍 Remote - San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5859649004)
+🕐 Updated: `2026-04-07T23:30:10-04:00` &nbsp;|&nbsp; ID: `5859649004`
+
+---
+### 🆕 Staff Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395)
+🕐 Updated: `2026-04-07T21:37:11-04:00` &nbsp;|&nbsp; ID: `7789395`
+
+---
+### 🔄 Director, Web Strategy and Engineering 
+**newrelic** · Marketing
+📍 Arlington, Virginia, USA; Atlanta, Georgia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Hartford, Connecticut, USA; Houston, Texas, USA; Jersey City, New Jersey, USA; Raleigh, North Carolina, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5153291008)
+🕐 Updated: `2026-04-07T21:42:56-04:00` &nbsp;|&nbsp; ID: `5153291008`
+
+---
+### 🔄 Senior Technical Program Manager, Product
+**lyft** · Central TPM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8433701002?gh_jid=8433701002)
+🕐 Updated: `2026-04-07T21:40:17-04:00` &nbsp;|&nbsp; ID: `8433701002`
+
+---
+
 ## 📅 Run: 2026-04-08 01:03 UTC
 
 ### 🆕 Senior Security Engineer
