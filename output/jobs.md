@@ -2,6 +2,723 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 22:49 UTC
+
+### 🆕 Developer Evangelist
+**twilio** · Marketing
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7579499)
+🕐 Updated: `2026-04-08T18:28:14-04:00` &nbsp;|&nbsp; ID: `7579499`
+
+---
+### 🆕 Forward Deployed Engineer, v0
+**vercel** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5872425004)
+🕐 Updated: `2026-04-08T18:27:49-04:00` &nbsp;|&nbsp; ID: `5872425004`
+
+---
+### 🆕 Senior Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7767161)
+🕐 Updated: `2026-04-08T18:01:16-04:00` &nbsp;|&nbsp; ID: `7767161`
+
+---
+### 🆕 Staff Full-Stack Engineer, Crypto
+**sofi** · Engineering
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7609472003?gh_jid=7609472003)
+🕐 Updated: `2026-04-08T18:17:57-04:00` &nbsp;|&nbsp; ID: `7609472003`
+
+---
+### 🔄 Research Engineer/Research Scientist, Pre-training
+**anthropic** · AI Research & Engineering
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4616971008)
+🕐 Updated: `2026-04-08T18:43:26-04:00` &nbsp;|&nbsp; ID: `4616971008`
+
+---
+### 🔄 Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - UK, Spain, Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7350846)
+🕐 Updated: `2026-04-08T18:00:03-04:00` &nbsp;|&nbsp; ID: `7350846`
+
+---
+### 🔄 Technical Video Content Creator
+**twilio** · Marketing
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520542)
+🕐 Updated: `2026-04-08T18:31:38-04:00` &nbsp;|&nbsp; ID: `7520542`
+
+---
+### 🔄 Enterprise Business Development Representative
+**contentful** · Sales
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7390097)
+🕐 Updated: `2026-04-08T17:59:33-04:00` &nbsp;|&nbsp; ID: `7390097`
+
+---
+### 🔄 Data Engineer
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8366850002?gh_jid=8366850002)
+🕐 Updated: `2026-04-08T18:03:38-04:00` &nbsp;|&nbsp; ID: `8366850002`
+
+---
+### 🔄 Engineering Manager, AI — Brex Assistant
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8393583002?gh_jid=8393583002)
+🕐 Updated: `2026-04-08T18:11:57-04:00` &nbsp;|&nbsp; ID: `8393583002`
+
+---
+### 🔄 Engineering Manager, AI — Brex Assistant
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8395068002?gh_jid=8395068002)
+🕐 Updated: `2026-04-08T18:12:13-04:00` &nbsp;|&nbsp; ID: `8395068002`
+
+---
+### 🔄 Engineering Manager, GTM Engineering 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8367549002?gh_jid=8367549002)
+🕐 Updated: `2026-04-08T18:04:16-04:00` &nbsp;|&nbsp; ID: `8367549002`
+
+---
+### 🔄 Engineering Manager, GTM Engineering 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8367552002?gh_jid=8367552002)
+🕐 Updated: `2026-04-08T18:04:28-04:00` &nbsp;|&nbsp; ID: `8367552002`
+
+---
+### 🔄 Engineering Manager, GTM Engineering 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339037002?gh_jid=8339037002)
+🕐 Updated: `2026-04-08T18:04:06-04:00` &nbsp;|&nbsp; ID: `8339037002`
+
+---
+### 🔄 Engineering Manager, Onboarding
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461598002?gh_jid=8461598002)
+🕐 Updated: `2026-04-08T18:06:18-04:00` &nbsp;|&nbsp; ID: `8461598002`
+
+---
+### 🔄 Engineering Manager, Onboarding
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461600002?gh_jid=8461600002)
+🕐 Updated: `2026-04-08T18:06:49-04:00` &nbsp;|&nbsp; ID: `8461600002`
+
+---
+### 🔄 Engineering Manager, Onboarding
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461599002?gh_jid=8461599002)
+🕐 Updated: `2026-04-08T18:06:28-04:00` &nbsp;|&nbsp; ID: `8461599002`
+
+---
+### 🔄 Engineering Manager, Salesforce
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339005002?gh_jid=8339005002)
+🕐 Updated: `2026-04-08T18:04:53-04:00` &nbsp;|&nbsp; ID: `8339005002`
+
+---
+### 🔄 Engineering Manager, Salesforce
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8367554002?gh_jid=8367554002)
+🕐 Updated: `2026-04-08T18:05:03-04:00` &nbsp;|&nbsp; ID: `8367554002`
+
+---
+### 🔄 Engineering Program Manager, AI
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8443296002?gh_jid=8443296002)
+🕐 Updated: `2026-04-08T18:16:58-04:00` &nbsp;|&nbsp; ID: `8443296002`
+
+---
+### 🔄 Engineering Program Manager, AI
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8443298002?gh_jid=8443298002)
+🕐 Updated: `2026-04-08T18:17:12-04:00` &nbsp;|&nbsp; ID: `8443298002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8426273002?gh_jid=8426273002)
+🕐 Updated: `2026-04-08T18:01:11-04:00` &nbsp;|&nbsp; ID: `8426273002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249658002?gh_jid=8249658002)
+🕐 Updated: `2026-04-08T18:00:28-04:00` &nbsp;|&nbsp; ID: `8249658002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249884002?gh_jid=8249884002)
+🕐 Updated: `2026-04-08T18:00:39-04:00` &nbsp;|&nbsp; ID: `8249884002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249885002?gh_jid=8249885002)
+🕐 Updated: `2026-04-08T18:00:50-04:00` &nbsp;|&nbsp; ID: `8249885002`
+
+---
+### 🔄 Senior Data Scientist, Finance 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7892186002?gh_jid=7892186002)
+🕐 Updated: `2026-04-08T18:01:56-04:00` &nbsp;|&nbsp; ID: `7892186002`
+
+---
+### 🔄 Senior Engineering Manager, Acquisition
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8299930002?gh_jid=8299930002)
+🕐 Updated: `2026-04-08T18:05:30-04:00` &nbsp;|&nbsp; ID: `8299930002`
+
+---
+### 🔄 Senior Engineering Manager, Acquisition
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8299931002?gh_jid=8299931002)
+🕐 Updated: `2026-04-08T18:05:40-04:00` &nbsp;|&nbsp; ID: `8299931002`
+
+---
+### 🔄 Senior Engineering Manager, Acquisition
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8299907002?gh_jid=8299907002)
+🕐 Updated: `2026-04-08T18:05:19-04:00` &nbsp;|&nbsp; ID: `8299907002`
+
+---
+### 🔄 Senior Engineering Manager, Activation
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8330492002?gh_jid=8330492002)
+🕐 Updated: `2026-04-08T18:07:20-04:00` &nbsp;|&nbsp; ID: `8330492002`
+
+---
+### 🔄 Senior Engineering Manager, Activation
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8330495002?gh_jid=8330495002)
+🕐 Updated: `2026-04-08T18:07:32-04:00` &nbsp;|&nbsp; ID: `8330495002`
+
+---
+### 🔄 Senior Engineering Manager, Activation
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8330487002?gh_jid=8330487002)
+🕐 Updated: `2026-04-08T18:07:04-04:00` &nbsp;|&nbsp; ID: `8330487002`
+
+---
+### 🔄 Senior GRC Lead
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8378840002?gh_jid=8378840002)
+🕐 Updated: `2026-04-08T18:01:39-04:00` &nbsp;|&nbsp; ID: `8378840002`
+
+---
+### 🔄 Senior GRC Lead
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8378792002?gh_jid=8378792002)
+🕐 Updated: `2026-04-08T18:01:29-04:00` &nbsp;|&nbsp; ID: `8378792002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339283002?gh_jid=8339283002)
+🕐 Updated: `2026-04-08T17:59:36-04:00` &nbsp;|&nbsp; ID: `8339283002`
+
+---
+### 🔄 Senior Software Engineer, AI - Brex Assistant
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8402322002?gh_jid=8402322002)
+🕐 Updated: `2026-04-08T18:19:37-04:00` &nbsp;|&nbsp; ID: `8402322002`
+
+---
+### 🔄 Senior Software Engineer, AI - Brex Assistant
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8402318002?gh_jid=8402318002)
+🕐 Updated: `2026-04-08T18:19:19-04:00` &nbsp;|&nbsp; ID: `8402318002`
+
+---
+### 🔄 Senior Software Engineer, AI — Ecosystem
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8440272002?gh_jid=8440272002)
+🕐 Updated: `2026-04-08T18:20:26-04:00` &nbsp;|&nbsp; ID: `8440272002`
+
+---
+### 🔄 Senior Software Engineer, AI — Ecosystem
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8440275002?gh_jid=8440275002)
+🕐 Updated: `2026-04-08T18:20:39-04:00` &nbsp;|&nbsp; ID: `8440275002`
+
+---
+### 🔄 Senior Software Engineer, AI - Simulation
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8442498002?gh_jid=8442498002)
+🕐 Updated: `2026-04-08T18:21:45-04:00` &nbsp;|&nbsp; ID: `8442498002`
+
+---
+### 🔄 Senior Software Engineer, AI - Simulation
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8442494002?gh_jid=8442494002)
+🕐 Updated: `2026-04-08T18:21:34-04:00` &nbsp;|&nbsp; ID: `8442494002`
+
+---
+### 🔄 Software Engineer, Backend
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592)
+🕐 Updated: `2026-04-08T18:25:58-04:00` &nbsp;|&nbsp; ID: `7263592`
+
+---
+### 🔄 Activation Sales Development Representative I
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7144697)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7144697`
+
+---
+### 🔄 AV Engineer (Contractor)
+**instacart** · IT
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7415809)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7415809`
+
+---
+### 🔄 Business Systems Analyst II - Order to Cash (O2C)
+**instacart** · Accounting & Finance
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7697668)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7697668`
+
+---
+### 🔄 Customer Success Manager
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7736004)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7736004`
+
+---
+### 🔄  Data Engineering Manager, Core Experience & Incentives
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7786900)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7786900`
+
+---
+### 🔄 Director, Pricing Strategy
+**instacart** · Retail Business Development
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7403549)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7403549`
+
+---
+### 🔄 Director, Pricing Strategy
+**instacart** · Retail Business Development
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7403551)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7403551`
+
+---
+### 🔄 Engineering Manager, FoodStorm
+**instacart** · Software Engineering
+📍 Australia - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7441852)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7441852`
+
+---
+### 🔄 Engineering Manager, Machine Learning (Caper)
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7759475)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7759475`
+
+---
+### 🔄 Manager, Customer Success
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7741181)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7741181`
+
+---
+### 🔄 Manager, Sales Development
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7612362)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7612362`
+
+---
+### 🔄 Off Platform Channel Sales Executive
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7595169)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7595169`
+
+---
+### 🔄 Pre-Sales Solutions Consultant
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7714121)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7714121`
+
+---
+### 🔄 Pre-Sales Solutions Consultant
+**instacart** · Business Development & Sales
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7714123)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7714123`
+
+---
+### 🔄 Principal Product Manager, Agentic Commerce
+**instacart** · Product Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7597064)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7597064`
+
+---
+### 🔄 Principal Product Manager, Agentic Commerce
+**instacart** · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7597066)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7597066`
+
+---
+### 🔄 Principal Product Manager, Consumer Innovation
+**instacart** · Product Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7561999)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7561999`
+
+---
+### 🔄 Principal Product Manager, Consumer Innovation
+**instacart** · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7562117)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7562117`
+
+---
+### 🔄 Retail Sales Manager, International
+**instacart** · Retail Business Development
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7789182)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7789182`
+
+---
+### 🔄 Retention Sales Development Representative II
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7712406)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7712406`
+
+---
+### 🔄 Sales Development Representative II - New York
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7706827)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7706827`
+
+---
+### 🔄 Sales Development Representative II - Toronto
+**instacart** · Ad Sales
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7706829)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7706829`
+
+---
+### 🔄 Sales Planner, Off-Platform
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7719512)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7719512`
+
+---
+### 🔄 Senior Analytics Engineer, Marketing
+**instacart** · Marketing 
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7754354)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7754354`
+
+---
+### 🔄 Senior Commercial Operations Associate - Eversight
+**instacart** · Business Development & Sales
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7713978)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7713978`
+
+---
+### 🔄 Senior Commercial Operations Associate - Eversight
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7713976)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7713976`
+
+---
+### 🔄 Senior Customer Success Associate
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7756870)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7756870`
+
+---
+### 🔄 Senior Design Program Manager II
+**instacart** · Technical Program Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7684391)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7684391`
+
+---
+### 🔄 Senior Engineering Manager, Software — Carrot Ads Platform
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7773787)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7773787`
+
+---
+### 🔄 Senior Machine Learning Engineer II, Ads Response Prediction
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776451)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7776451`
+
+---
+### 🔄 Senior Machine Learning Engineer II, Growth Modeling
+**instacart** · Machine Learning
+📍 USA - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7566001)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7566001`
+
+---
+### 🔄 Senior Machine Learning Engineer II, Search & Recommendations Ranking
+**instacart** · Machine Learning
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7565508)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7565508`
+
+---
+### 🔄 Senior Product Manager, Enterprise Picking & Tools
+**instacart** · Product Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7744296)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7744296`
+
+---
+### 🔄 Senior Product Manager, Enterprise Picking & Tools
+**instacart** · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7744298)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7744298`
+
+---
+### 🔄 Senior Product Manager, FoodStorm
+**instacart** · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7747789)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7747789`
+
+---
+### 🔄 Senior Product Manager, FoodStorm
+**instacart** · Product Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7747787)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7747787`
+
+---
+### 🔄 Senior Product Manager, FoodStorm (Australia)
+**instacart** · Product Management
+📍 Australia - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7644910)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7644910`
+
+---
+### 🔄 Senior Product Manager, Fraud & Trust
+**instacart** · Product Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769924)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7769924`
+
+---
+### 🔄 Senior Product Manager, Fraud & Trust
+**instacart** · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769926)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7769926`
+
+---
+### 🔄 Senior Site Reliability Engineer I
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6957204)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `6957204`
+
+---
+### 🔄 Senior Software Engineer, Ads
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7341203)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7341203`
+
+---
+### 🔄 Senior Software Engineer, Ads
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7232634)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7232634`
+
+---
+### 🔄 Senior Software Engineer, Core Experience
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7175500)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7175500`
+
+---
+### 🔄 Senior Software Engineer, Data Governance & Foundations
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776249)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7776249`
+
+---
+### 🔄 Senior Software Engineer II, Ads Data Solutions Engineering
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7271639)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7271639`
+
+---
+### 🔄 Senior Software Engineer II, Core Experience
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7171162)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7171162`
+
+---
+### 🔄 Senior Software Engineer II, Data Platform
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7171161)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7171161`
+
+---
+### 🔄 Senior Software Engineer II, Page Builder (Retailer Platform)
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769074)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7769074`
+
+---
+### 🔄 Senior Software Engineer II, Storage
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7564947)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7564947`
+
+---
+### 🔄 Senior Software Engineering Manager, Ads Solutions
+**instacart** · Leadership (Engineering)
+📍 USA - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7408933)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7408933`
+
+---
+### 🔄 Senior Software Engineer, Technical Search Visibility
+**instacart** · Marketing 
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7656204)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7656204`
+
+---
+### 🔄 Senior/Staff Design Program Manager
+**instacart** · Technical Program Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7673109)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7673109`
+
+---
+### 🔄 Senior Staff Machine Learning Engineer, Ads Quality
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6967732)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `6967732`
+
+---
+### 🔄 Senior Staff Machine Learning Engineer, Search & Discovery
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7723662)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7723662`
+
+---
+### 🔄 Senior Staff Software Engineer, Ads Infrastructure & Systems
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7066269)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7066269`
+
+---
+### 🔄 Senior Staff Software Engineer, Data Infrastructure
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7766600)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7766600`
+
+---
+### 🔄 Senior Staff Software Engineer, Data Infrastructure
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7766602)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7766602`
+
+---
+### 🔄 Senior Strategy & Planning Manager
+**instacart** · Retail Business Development
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7624679)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7624679`
+
+---
+### 🔄 Senior Strategy & Planning Manager
+**instacart** · Retail Business Development
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7624677)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7624677`
+
+---
+### 🔄 Senior Technical Project Manager
+**instacart** · People
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7674674)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7674674`
+
+---
+### 🔄 Senior Technical Project Manager
+**instacart** · People
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7674676)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7674676`
+
+---
+### 🔄 Software Engineering Manager, Ads Manager
+**instacart** · Leadership (Engineering)
+📍 USA - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7607531)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7607531`
+
+---
+### 🔄 Staff Android Engineer, Caper
+**instacart** · Mobile
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7671461)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7671461`
+
+---
+### 🔄 Staff Android Engineer, Caper
+**instacart** · Mobile
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7671463)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7671463`
+
+---
+### 🔄 Staff Product Design - Growth Design Language & Experience Systems
+**instacart** · Product Design
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7627450)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7627450`
+
+---
+### 🔄 Staff Product Design - Growth Design Language & Experience Systems
+**instacart** · Product Design
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7627311)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7627311`
+
+---
+### 🔄 Staff Software Engineer, Ads Data Platform
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7728839)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7728839`
+
+---
+### 🔄 Staff Software Engineer,  Data Governance & Foundations
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7778620)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7778620`
+
+---
+### 🔄 Staff Software Engineer, Data Governance & Foundations
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7778618)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7778618`
+
+---
+### 🔄 Staff Software Engineer, FoodStorm
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7361224)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7361224`
+
+---
+### 🔄 Staff Technical Project Manager, Global Expansion & M&A
+**instacart** · People
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7700300)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7700300`
+
+---
+### 🔄 Staff Technical Project Manager, Global Expansion & M&A
+**instacart** · People
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7700302)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7700302`
+
+---
+### 🔄 Strategic Partner Manager
+**instacart** · Retail Business Development
+📍 United States - Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6819435)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `6819435`
+
+---
+### 🔄 Strategic Partner Manager
+**instacart** · Retail Business Development
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6819437)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `6819437`
+
+---
+### 🔄 Product Manager
+**airbnb** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7724793?gh_jid=7724793)
+🕐 Updated: `2026-04-08T18:47:06-04:00` &nbsp;|&nbsp; ID: `7724793`
+
+---
+### 🔄 Software Engineer, Infrastructure
+**airbnb** · Software Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/6602436?gh_jid=6602436)
+🕐 Updated: `2026-04-08T18:02:33-04:00` &nbsp;|&nbsp; ID: `6602436`
+
+---
+### 🔄 Staff Software Engineer, API
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7066259?gh_jid=7066259)
+🕐 Updated: `2026-04-08T18:21:44-04:00` &nbsp;|&nbsp; ID: `7066259`
+
+---
+
 ## 📅 Run: 2026-04-08 22:00 UTC
 
 ### 🆕 Commercial SaaS Client Sales Executive
