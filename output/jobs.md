@@ -2,6 +2,57 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 20:24 UTC
+
+### 🆕 Enablement Business Partner, SDR (Sales Development Representatives)
+**twilio** · Sales
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7783164)
+🕐 Updated: `2026-04-08T15:58:06-04:00` &nbsp;|&nbsp; ID: `7783164`
+
+---
+### 🆕 Market Manager
+**airbnb** · Business Development
+📍 Seattle, United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7783179?gh_jid=7783179)
+🕐 Updated: `2026-04-08T15:58:50-04:00` &nbsp;|&nbsp; ID: `7783179`
+
+---
+### 🔄 Solutions Engineer, Auth0 (Eastern USA)
+**okta** · SE Field-321
+📍 Florida; Georgia; Michigan; New York, New York; Virginia; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7425892?gh_jid=7425892)
+🕐 Updated: `2026-04-08T15:58:40-04:00` &nbsp;|&nbsp; ID: `7425892`
+
+---
+### 🔄 Customer Success Engineer/Devops
+**postman** · Customer Experience & Services
+📍 Boston, Massachusetts; New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7501796003)
+🕐 Updated: `2026-04-08T15:50:47-04:00` &nbsp;|&nbsp; ID: `7501796003`
+
+---
+### 🔄 Senior Technical Accounting and Financial Reporting Associate
+**upstart** · Finance
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7673842)
+🕐 Updated: `2026-04-08T15:51:40-04:00` &nbsp;|&nbsp; ID: `7673842`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395)
+🕐 Updated: `2026-04-08T16:18:40-04:00` &nbsp;|&nbsp; ID: `7789395`
+
+---
+### 🔄 Senior Machine Learning Engineer II, Ads Response Prediction
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776451)
+🕐 Updated: `2026-04-08T15:43:14-04:00` &nbsp;|&nbsp; ID: `7776451`
+
+---
+### 🔄 Staff Product Manager, AI Discovery
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8425964002?gh_jid=8425964002)
+🕐 Updated: `2026-04-08T16:22:29-04:00` &nbsp;|&nbsp; ID: `8425964002`
+
+---
+
 ## 📅 Run: 2026-04-08 19:43 UTC
 
 ### 🆕 Software Engineer, Backend

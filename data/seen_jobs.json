@@ -7825,7 +7825,7 @@
   },
   "7425892": {
     "first_seen": "2026-04-06T02:02:22.610823+00:00",
-    "updated_at": "2026-04-07T13:32:23-04:00",
+    "updated_at": "2026-04-08T15:58:40-04:00",
     "title": "Solutions Engineer, Auth0 (Eastern USA)",
     "company": "okta"
   },
@@ -9859,8 +9859,8 @@
   },
   "7501796003": {
     "first_seen": "2026-04-06T02:02:31.107940+00:00",
-    "updated_at": "2026-04-01T16:53:50-04:00",
-    "title": "Customer Success Engineer",
+    "updated_at": "2026-04-08T15:50:47-04:00",
+    "title": "Customer Success Engineer/Devops",
     "company": "postman"
   },
   "7612557003": {
@@ -15787,7 +15787,7 @@
   },
   "7673842": {
     "first_seen": "2026-04-06T08:10:28.570381+00:00",
-    "updated_at": "2026-03-25T15:33:09-04:00",
+    "updated_at": "2026-04-08T15:51:40-04:00",
     "title": "Senior Technical Accounting and Financial Reporting Associate",
     "company": "upstart"
   },
@@ -17797,8 +17797,8 @@
   },
   "7776451": {
     "first_seen": "2026-04-06T08:10:42.105893+00:00",
-    "updated_at": "2026-04-02T17:52:22-04:00",
-    "title": "Senior Machine Learning Engineer II",
+    "updated_at": "2026-04-08T15:43:14-04:00",
+    "title": "Senior Machine Learning Engineer II, Ads Response Prediction",
     "company": "instacart"
   },
   "7566001": {
@@ -18139,7 +18139,7 @@
   },
   "8425964002": {
     "first_seen": "2026-04-06T08:10:42.279714+00:00",
-    "updated_at": "2026-03-10T16:15:09-04:00",
+    "updated_at": "2026-04-08T16:22:29-04:00",
     "title": "Staff Product Manager, AI Discovery",
     "company": "faire"
   },
@@ -20863,7 +20863,7 @@
   },
   "7789395": {
     "first_seen": "2026-04-08T04:08:26.239615+00:00",
-    "updated_at": "2026-04-08T02:31:37-04:00",
+    "updated_at": "2026-04-08T16:18:40-04:00",
     "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
     "company": "coinbase"
   },
@@ -21118,5 +21118,17 @@
     "updated_at": "2026-04-08T15:19:34-04:00",
     "title": "Senior Data Scientist, Borrow",
     "company": "sofi"
+  },
+  "7783164": {
+    "first_seen": "2026-04-08T20:22:54.369158+00:00",
+    "updated_at": "2026-04-08T15:58:06-04:00",
+    "title": "Enablement Business Partner, SDR (Sales Development Representatives)",
+    "company": "twilio"
+  },
+  "7783179": {
+    "first_seen": "2026-04-08T20:23:25.578580+00:00",
+    "updated_at": "2026-04-08T15:58:50-04:00",
+    "title": "Market Manager",
+    "company": "airbnb"
   }
 }
