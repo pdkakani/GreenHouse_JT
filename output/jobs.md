@@ -2,6 +2,531 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 19:43 UTC
+
+### 🆕 Software Engineer, Backend
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174757008)
+🕐 Updated: `2026-04-08T14:57:10-04:00` &nbsp;|&nbsp; ID: `5174757008`
+
+---
+### 🆕 Software Engineer, Full-stack
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174743008)
+🕐 Updated: `2026-04-08T14:58:35-04:00` &nbsp;|&nbsp; ID: `5174743008`
+
+---
+### 🆕 Software Engineer, Platform
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5157844008)
+🕐 Updated: `2026-04-08T14:05:44-04:00` &nbsp;|&nbsp; ID: `5157844008`
+
+---
+### 🆕 Staff+ Software Engineer, Backend
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174755008)
+🕐 Updated: `2026-04-08T14:57:22-04:00` &nbsp;|&nbsp; ID: `5174755008`
+
+---
+### 🆕 Staff+ Software Engineer, Full-stack
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174747008)
+🕐 Updated: `2026-04-08T14:57:51-04:00` &nbsp;|&nbsp; ID: `5174747008`
+
+---
+### 🆕 Staff Software Engineer in Test, PAM 
+**okta** · Engineering Quality-630
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7782588?gh_jid=7782588)
+🕐 Updated: `2026-04-08T15:25:21-04:00` &nbsp;|&nbsp; ID: `7782588`
+
+---
+### 🆕 Mid Market Business Development Representative
+**contentful** · Sales
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7792472)
+🕐 Updated: `2026-04-08T14:09:32-04:00` &nbsp;|&nbsp; ID: `7792472`
+
+---
+### 🆕 Senior Data Scientist, Borrow
+**sofi** · Engineering
+📍 CA - San Francisco; NY - New York City    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692954003?gh_jid=7692954003)
+🕐 Updated: `2026-04-08T15:19:34-04:00` &nbsp;|&nbsp; ID: `7692954003`
+
+---
+### 🔄 Manager, Applied AI Solutions Architecture - Partnerships
+**anthropic** · Sales
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5173031008)
+🕐 Updated: `2026-04-08T14:37:29-04:00` &nbsp;|&nbsp; ID: `5173031008`
+
+---
+### 🔄 Director, Customer Engineering
+**elastic** · Customer Architects - AMER Mgmt
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769905&gh_jid=7769905)
+🕐 Updated: `2026-04-08T14:21:34-04:00` &nbsp;|&nbsp; ID: `7769905`
+
+---
+### 🔄 2026 - Program Management & Strategic Initiatives Intern, NYC
+**mongodb** · Technical Support Operations
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7335926)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7335926`
+
+---
+### 🔄 Account Development Representative
+**mongodb** · Sales Development
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7311204)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7311204`
+
+---
+### 🔄 Account Development Representative
+**mongodb** · Sales Development
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7310506)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7310506`
+
+---
+### 🔄 AI Staff Developer Advocate
+**mongodb** · Developer Advocacy
+📍 California; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7673691)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7673691`
+
+---
+### 🔄 Cloud Operations Engineer
+**mongodb** · Cloud Operations
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7647255)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7647255`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+### 🔄 Inside Account Executive
+**mongodb** · Sales Development
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7695258)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7695258`
+
+---
+### 🔄 Manager, Sales Development
+**mongodb** · Sales Development
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7768655)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7768655`
+
+---
+### 🔄 Pre-Sales Solutions Architect
+**mongodb** · Solutions Consulting, Growth NA
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7458644)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7458644`
+
+---
+### 🔄 Pre-Sales Solutions Architect
+**mongodb** · Solutions Consulting
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7572007)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7572007`
+
+---
+### 🔄 Principal Research Scientist, Database Systems
+**mongodb** · PTO Research
+📍 New York City; Palo Alto &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6819978)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `6819978`
+
+---
+### 🔄 Principal Technologist
+**mongodb** · Strategic Developer Relations
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7476104)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7476104`
+
+---
+### 🔄 Regional Vice President, Sales Development, Americas
+**mongodb** · Sales Development
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7766076)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7766076`
+
+---
+### 🔄 Security Software Engineer, Infrastructure Security (Staff or Senior)
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; San Francisco; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727896)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7727896`
+
+---
+### 🔄 Senior Accountant, Technical Revenue
+**mongodb** · Finance & Accounting 
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7557741)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7557741`
+
+---
+### 🔄 Senior Business Analyst, Technical Services
+**mongodb** · Technical Support Operations
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6841436)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `6841436`
+
+---
+### 🔄 Senior Cloud Security Engineer
+**mongodb** · Enterprise Security 
+📍 New York City; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656727)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7656727`
+
+---
+### 🔄 Senior Data Product Manager, Internal GTM Data
+**mongodb** · Data & Platform
+📍 Austin; Boston; Chicago; New York City; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7187739)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7187739`
+
+---
+### 🔄 Senior Data Product Manager, Product Telemetry
+**mongodb** · Data & Platform
+📍 New York City; Palo Alto; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7428476)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7428476`
+
+---
+### 🔄 Senior Director, Data Product Management
+**mongodb** · Data & Platform
+📍 Austin; New York City; Palo Alto; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7705477)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7705477`
+
+---
+### 🔄 Senior Fullstack Engineer - Atlas Growth
+**mongodb** · PTO Developer Experience ENG
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7093030)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7093030`
+
+---
+### 🔄 Senior IAM & Security Engineer
+**mongodb** · Enterprise Security 
+📍 Atlanta; Boston; New York City; United States; Washington DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656721)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7656721`
+
+---
+### 🔄 Senior IT Product Manager for Internal AI
+**mongodb** · Internal AI
+📍 Palo Alto; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7372922)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7372922`
+
+---
+### 🔄 Senior Lead Engineer, Code Generation
+**mongodb** · PTO App Modernization ENG
+📍 California; Oregon; Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7616246)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7616246`
+
+---
+### 🔄 Senior Lead Engineer, Storage Execution (RSS)
+**mongodb** · PTO Durable TXs & Availability
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7723638)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7723638`
+
+---
+### 🔄 Senior Partner Solutions Architect
+**mongodb** · Solutions Consulting, Partners
+📍 Atlanta; Austin; Dallas; Florida; Miami &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7683484)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7683484`
+
+---
+### 🔄 Senior Pre-Sales Solutions Architect
+**mongodb** · Solutions Consulting
+📍 Boston &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7409331)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7409331`
+
+---
+### 🔄 Senior Pre-Sales Solutions Architect
+**mongodb** · Solutions Consulting, Growth NA
+📍 Los Angeles; San Diego &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7662801)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7662801`
+
+---
+### 🔄 Senior Pre-Sales Solutions Architect
+**mongodb** · Solutions Consulting, Growth NA
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7411098)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7411098`
+
+---
+### 🔄 Senior Product Manager
+**mongodb** · HR Tech
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7287364)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7287364`
+
+---
+### 🔄 Senior Product Manager - IT Go-to-Market AI
+**mongodb** · GTM Tech
+📍 New York City; Palo Alto &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7705474)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7705474`
+
+---
+### 🔄 Senior Product Manager, Security
+**mongodb** · PTO Identity and Access Management
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7554555)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7554555`
+
+---
+### 🔄 Senior Python Engineer
+**mongodb** · PTO Developer Experience ENG
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7742875)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7742875`
+
+---
+### 🔄 Senior Site Reliability Engineer,  Fleet Management
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; Boston; Chicago; Denver; Miami; New York City; San Francisco; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727873)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7727873`
+
+---
+### 🔄 Senior Software Engineer
+**mongodb** · PTO Developer Experience ENG
+📍 Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7648922)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7648922`
+
+---
+### 🔄 Senior Software Engineer, Atlas Clusters
+**mongodb** · PTO Atlas Data Services
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7736191)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7736191`
+
+---
+### 🔄 Senior Software Engineer, Atlas Clusters Security
+**mongodb** · PTO Atlas Data Services
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7644270)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7644270`
+
+---
+### 🔄 Senior Software Engineer, Atlas Stream Processing
+**mongodb** · PTO Stream Processing
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7744398)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7744398`
+
+---
+### 🔄 Senior Software Engineer, Data Migration & Code Generation
+**mongodb** · PTO App Modernization ENG
+📍 California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7449128)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7449128`
+
+---
+### 🔄 Senior Software Engineer, DBX
+**mongodb** · PTO Developer Experience ENG
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7645147)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7645147`
+
+---
+### 🔄 Senior Software Engineer - Frontend
+**mongodb** · PTO Developer Experience ENG
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7650472)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7650472`
+
+---
+### 🔄 Senior Software Engineer, MongoDB Server Clusters and Interfaces
+**mongodb** · PTO Clusters & Interfaces
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6749138)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `6749138`
+
+---
+### 🔄 Senior Solutions Architect (Pre-Sales)
+**mongodb** · Solutions Consulting, Growth NA
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7368165)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7368165`
+
+---
+### 🔄 Senior Staff Engineer, AMP
+**mongodb** · PTO App Modernization ENG
+📍 California; Oregon; Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7617019)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7617019`
+
+---
+### 🔄 Senior Staff Engineer, MongoDB Developer Productivity
+**mongodb** · PTO R&D Developer Productivity
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7672820)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7672820`
+
+---
+### 🔄 Senior Technical Program Manager, App Modernization
+**mongodb** · PTO App Modernization ENG
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523888)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7523888`
+
+---
+### 🔄 Senior Vice President, Solutions Architecture
+**mongodb** · Solutions Consulting, Leadership
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7640020)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7640020`
+
+---
+### 🔄 Site Reliability Engineer (Senior or Staff), Atlas
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; Boston; Chicago; New York City; Pittsburgh; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6984809)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `6984809`
+
+---
+### 🔄 Site Reliability Engineer (Senior or Staff), Infrastructure Security
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; San Francisco; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7758610)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7758610`
+
+---
+### 🔄 Site Reliability Engineer (Senior or Staff), Observability
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; Boston; Chicago; New York City; Pittsburgh; United States; Washington DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6711349)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `6711349`
+
+---
+### 🔄 Software Engineer 3
+**mongodb** · PTO Atlas Data Services
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7644278)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7644278`
+
+---
+### 🔄 Software Engineer 3
+**mongodb** · PTO Atlas Search
+📍 Palo Alto; Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523911)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7523911`
+
+---
+### 🔄  Software Engineer 3, Atlas Data Federation Customer Experience
+**mongodb** · PTO Atlas Data Services
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7551186)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7551186`
+
+---
+### 🔄 Software Engineer 3, Insights and Telemetry
+**mongodb** · PTO Customer Observability
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7571347)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7571347`
+
+---
+### 🔄 Software Engineer 3, Search Systems Replication & Routing
+**mongodb** · PTO Atlas Search
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7235322)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7235322`
+
+---
+### 🔄 Software Engineer, Code Generation
+**mongodb** · PTO App Modernization ENG
+📍 California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7311666)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7311666`
+
+---
+### 🔄 Software Engineer, Networking & Observability
+**mongodb** · PTO Clusters & Interfaces
+📍 New York City; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7672660)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7672660`
+
+---
+### 🔄 Staff Engineer, Data Migration
+**mongodb** · PTO App Modernization ENG
+📍 California; Oregon; Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523867)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7523867`
+
+---
+### 🔄 Staff Product Security Engineer, Cloud Security
+**mongodb** · Platform Security
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7728270)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7728270`
+
+---
+### 🔄 Staff Software Engineer, Networking & Observability
+**mongodb** · PTO Clusters & Interfaces
+📍 Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7264736)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7264736`
+
+---
+### 🔄 Staff Software Engineer, Query (Optimization)
+**mongodb** · PTO Query
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7602834)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7602834`
+
+---
+### 🔄 Staff Technical Program Manager
+**mongodb** · Internal AI
+📍 Palo Alto; San Francisco; Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7739531)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7739531`
+
+---
+### 🔄 Team Lead, Site Reliability Engineering - Fleet Management
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; Boston; Chicago; Denver; Miami; New York City; San Francisco; Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7650199)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7650199`
+
+---
+### 🔄 Team Lead, Site Reliability Engineering - Storage Layer Service
+**mongodb** · PTO Site Reliability Engineering
+📍 Boston; Charlotte; New York City; Philadelphia; Pittsburgh; Washington DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7743304`
+
+---
+### 🔄 Technical Program Manager, Site Reliability Engineering (Senior or Staff)
+**mongodb** · PTO Site Reliability Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7555631)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7555631`
+
+---
+### 🔄 Technical Services Engineer, 1st Shift
+**mongodb** · Technical Support AMER
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7711163)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7711163`
+
+---
+### 🔄 Staff Analytics Engineer
+**twilio** · Ops (Fraud, Compliance, Biz, Prod, Analyst)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7551660)
+🕐 Updated: `2026-04-08T15:27:11-04:00` &nbsp;|&nbsp; ID: `7551660`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7602207?gh_jid=7602207)
+🕐 Updated: `2026-04-08T14:46:47-04:00` &nbsp;|&nbsp; ID: `7602207`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7539948?gh_jid=7539948)
+🕐 Updated: `2026-04-08T14:46:47-04:00` &nbsp;|&nbsp; ID: `7539948`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7602202?gh_jid=7602202)
+🕐 Updated: `2026-04-08T14:46:47-04:00` &nbsp;|&nbsp; ID: `7602202`
+
+---
+### 🔄 Senior Site Reliability Engineer II
+**braze** · Engineering
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7602205?gh_jid=7602205)
+🕐 Updated: `2026-04-08T14:46:47-04:00` &nbsp;|&nbsp; ID: `7602205`
+
+---
+### 🔄 Security Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 SF, New York, Seattle, Dublin &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7776179)
+🕐 Updated: `2026-04-08T14:41:32-04:00` &nbsp;|&nbsp; ID: `7776179`
+
+---
+### 🔄 Software Engineer
+**stripe** · Tech
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-08T15:19:43-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🔄 Staff Technical Program Manager - Reliability Engineering
+**robinhood** · ENG Technical Assurance
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577)
+🕐 Updated: `2026-04-08T15:25:11-04:00` &nbsp;|&nbsp; ID: `7739577`
+
+---
+### 🔄 Strategic Finance Systems Lead
+**faire** · Finance
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8470694002?gh_jid=8470694002)
+🕐 Updated: `2026-04-08T14:40:32-04:00` &nbsp;|&nbsp; ID: `8470694002`
+
+---
+### 🔄 Engineering Apprentice, Connect Program
+**airbnb** · Apprenticeship
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7773917?gh_jid=7773917)
+🕐 Updated: `2026-04-08T14:46:15-04:00` &nbsp;|&nbsp; ID: `7773917`
+
+---
+### 🔄 Senior Technical Program Manager, Product
+**lyft** · Central TPM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8433701002?gh_jid=8433701002)
+🕐 Updated: `2026-04-08T14:10:38-04:00` &nbsp;|&nbsp; ID: `8433701002`
+
+---
+
 ## 📅 Run: 2026-04-08 18:04 UTC
 
 ### 🆕 Software Engineer, UI Platform
