@@ -22,8 +22,8 @@ RESUME_FILE = Path("resume.txt")
 _resume_cache: Optional[str] = None
 
 # Token budget — keep each call well under 1500 input tokens total
-MAX_DESCRIPTION_CHARS = 2000   # ~500 tokens, captures all key JD requirements
-MAX_RESUME_CHARS = 1500        # ~375 tokens, enough for skills + experience
+MAX_DESCRIPTION_CHARS = 3500   # captures all key JD requirements
+MAX_RESUME_CHARS = 4200        # enough for skills + experience
 
 
 def _load_resume() -> str:
