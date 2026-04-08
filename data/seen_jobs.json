@@ -1387,8 +1387,8 @@
   },
   "7769929": {
     "first_seen": "2026-04-06T02:02:04.307534+00:00",
-    "updated_at": "2026-04-01T17:54:39-04:00",
-    "title": "Staff Software Engineer",
+    "updated_at": "2026-04-08T13:55:47-04:00",
+    "title": "Staff Software Engineer, Backend - Platform (Overseer)",
     "company": "coinbase"
   },
   "7778684": {
@@ -5125,7 +5125,7 @@
   },
   "7602101": {
     "first_seen": "2026-04-06T02:02:14.596700+00:00",
-    "updated_at": "2026-03-24T06:47:19-04:00",
+    "updated_at": "2026-04-08T13:45:39-04:00",
     "title": "Software Engineer II - Python - Developer Tools - Search",
     "company": "elastic"
   },
@@ -10447,13 +10447,13 @@
   },
   "7546711003": {
     "first_seen": "2026-04-06T02:02:32.215806+00:00",
-    "updated_at": "2026-04-06T13:32:34-04:00",
+    "updated_at": "2026-04-08T13:31:41-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran"
   },
   "7535213003": {
     "first_seen": "2026-04-06T02:02:32.215840+00:00",
-    "updated_at": "2026-04-06T13:32:34-04:00",
+    "updated_at": "2026-04-08T13:31:41-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran"
   },
@@ -10465,13 +10465,13 @@
   },
   "7549451003": {
     "first_seen": "2026-04-06T02:02:32.215920+00:00",
-    "updated_at": "2026-04-06T13:32:31-04:00",
+    "updated_at": "2026-04-08T13:31:38-04:00",
     "title": "Staff Software Engineer - ETL Platform",
     "company": "fivetran"
   },
   "7487101003": {
     "first_seen": "2026-04-06T02:02:32.215938+00:00",
-    "updated_at": "2026-04-06T13:32:31-04:00",
+    "updated_at": "2026-04-08T13:31:38-04:00",
     "title": "Staff Software Engineer - ETL Platform",
     "company": "fivetran"
   },
@@ -11935,7 +11935,7 @@
   },
   "4549560005": {
     "first_seen": "2026-04-06T08:10:00.796076+00:00",
-    "updated_at": "2026-03-19T12:27:41-04:00",
+    "updated_at": "2026-04-08T13:02:24-04:00",
     "title": "Technical Enablement Manager",
     "company": "gleanwork"
   },
@@ -13561,7 +13561,7 @@
   },
   "5535187004": {
     "first_seen": "2026-04-06T08:10:15.723299+00:00",
-    "updated_at": "2026-03-09T12:08:11-04:00",
+    "updated_at": "2026-04-08T13:53:46-04:00",
     "title": "Mid-Market Solutions Engineer",
     "company": "hightouch"
   },
@@ -14857,13 +14857,13 @@
   },
   "4672217005": {
     "first_seen": "2026-04-06T08:10:24.781061+00:00",
-    "updated_at": "2026-03-16T15:32:32-04:00",
+    "updated_at": "2026-04-08T14:00:39-04:00",
     "title": "Manager, Strategic Partnerships",
     "company": "flex"
   },
   "4665567005": {
     "first_seen": "2026-04-06T08:10:24.781101+00:00",
-    "updated_at": "2026-03-16T15:32:32-04:00",
+    "updated_at": "2026-04-08T14:00:39-04:00",
     "title": "Manager, Strategic Partnerships",
     "company": "flex"
   },
@@ -14899,13 +14899,13 @@
   },
   "4647044005": {
     "first_seen": "2026-04-06T08:10:24.781741+00:00",
-    "updated_at": "2026-03-16T15:32:32-04:00",
+    "updated_at": "2026-04-08T14:00:39-04:00",
     "title": "Senior Manager, Partnerships Strategy & Operations",
     "company": "flex"
   },
   "4647045005": {
     "first_seen": "2026-04-06T08:10:24.781789+00:00",
-    "updated_at": "2026-03-16T15:32:32-04:00",
+    "updated_at": "2026-04-08T14:00:39-04:00",
     "title": "Senior Manager, Partnerships Strategy & Operations",
     "company": "flex"
   },
@@ -17599,7 +17599,7 @@
   },
   "7656419003": {
     "first_seen": "2026-04-06T08:10:40.192199+00:00",
-    "updated_at": "2026-03-20T10:52:13-04:00",
+    "updated_at": "2026-04-08T13:09:31-04:00",
     "title": "Staff Software Engineer, Protect",
     "company": "sofi"
   },
@@ -19159,7 +19159,7 @@
   },
   "7607510": {
     "first_seen": "2026-04-06T08:10:43.809773+00:00",
-    "updated_at": "2026-04-02T13:52:50-04:00",
+    "updated_at": "2026-04-08T12:59:11-04:00",
     "title": "Senior Solutions Architect",
     "company": "asana"
   },
@@ -19189,7 +19189,7 @@
   },
   "7066259": {
     "first_seen": "2026-04-06T08:10:43.810004+00:00",
-    "updated_at": "2026-04-02T13:52:36-04:00",
+    "updated_at": "2026-04-08T13:58:07-04:00",
     "title": "Staff Software Engineer, API",
     "company": "asana"
   },
@@ -19483,7 +19483,7 @@
   },
   "7733349": {
     "first_seen": "2026-04-06T08:10:44.624097+00:00",
-    "updated_at": "2026-03-19T08:58:56-04:00",
+    "updated_at": "2026-04-08T13:36:54-04:00",
     "title": "Manufacturing Automation Engineer",
     "company": "formlabs"
   },
@@ -20791,7 +20791,7 @@
   },
   "7788088": {
     "first_seen": "2026-04-07T21:29:48.233686+00:00",
-    "updated_at": "2026-04-08T11:55:07-04:00",
+    "updated_at": "2026-04-08T13:06:13-04:00",
     "title": "Software Engineer",
     "company": "stripe"
   },
@@ -21040,5 +21040,35 @@
     "updated_at": "2026-04-08T12:01:36-04:00",
     "title": "RD Technical Lead \u2013 3D Printers",
     "company": "formlabs"
+  },
+  "4673416008": {
+    "first_seen": "2026-04-08T18:03:03.596160+00:00",
+    "updated_at": "2026-04-08T13:05:31-04:00",
+    "title": "Software Engineer, UI Platform",
+    "company": "anthropic"
+  },
+  "5157847008": {
+    "first_seen": "2026-04-08T18:03:03.596481+00:00",
+    "updated_at": "2026-04-08T12:56:33-04:00",
+    "title": "Staff+ Software Engineer, Platform",
+    "company": "anthropic"
+  },
+  "4683059005": {
+    "first_seen": "2026-04-08T18:03:04.545863+00:00",
+    "updated_at": "2026-04-08T13:09:49-04:00",
+    "title": "Technical Enablement Manager",
+    "company": "gleanwork"
+  },
+  "7792912": {
+    "first_seen": "2026-04-08T18:03:16.092944+00:00",
+    "updated_at": "2026-04-08T13:40:55-04:00",
+    "title": "Mid Market Business Development Representative",
+    "company": "contentful"
+  },
+  "7789399": {
+    "first_seen": "2026-04-08T18:03:29.918479+00:00",
+    "updated_at": "2026-04-08T13:55:20-04:00",
+    "title": "Senior Software Engineer, Backend - Platform (Overseer)",
+    "company": "coinbase"
   }
 }

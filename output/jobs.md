@@ -2,6 +2,141 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 18:04 UTC
+
+### 🆕 Software Engineer, UI Platform
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4673416008)
+🕐 Updated: `2026-04-08T13:05:31-04:00` &nbsp;|&nbsp; ID: `4673416008`
+
+---
+### 🆕 Staff+ Software Engineer, Platform
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5157847008)
+🕐 Updated: `2026-04-08T12:56:33-04:00` &nbsp;|&nbsp; ID: `5157847008`
+
+---
+### 🆕 Technical Enablement Manager
+**gleanwork** · Sales
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4683059005)
+🕐 Updated: `2026-04-08T13:09:49-04:00` &nbsp;|&nbsp; ID: `4683059005`
+
+---
+### 🆕 Mid Market Business Development Representative
+**contentful** · Sales
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7792912)
+🕐 Updated: `2026-04-08T13:40:55-04:00` &nbsp;|&nbsp; ID: `7792912`
+
+---
+### 🆕 Senior Software Engineer, Backend - Platform (Overseer)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789399?gh_jid=7789399)
+🕐 Updated: `2026-04-08T13:55:20-04:00` &nbsp;|&nbsp; ID: `7789399`
+
+---
+### 🔄 Technical Enablement Manager
+**gleanwork** · Sales
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4549560005)
+🕐 Updated: `2026-04-08T13:02:24-04:00` &nbsp;|&nbsp; ID: `4549560005`
+
+---
+### 🔄 Software Engineer II - Python - Developer Tools - Search
+**elastic** · Enterprise Search - Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101)
+🕐 Updated: `2026-04-08T13:45:39-04:00` &nbsp;|&nbsp; ID: `7602101`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7535213003)
+🕐 Updated: `2026-04-08T13:31:41-04:00` &nbsp;|&nbsp; ID: `7535213003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7546711003)
+🕐 Updated: `2026-04-08T13:31:41-04:00` &nbsp;|&nbsp; ID: `7546711003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7549451003)
+🕐 Updated: `2026-04-08T13:31:38-04:00` &nbsp;|&nbsp; ID: `7549451003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7487101003)
+🕐 Updated: `2026-04-08T13:31:38-04:00` &nbsp;|&nbsp; ID: `7487101003`
+
+---
+### 🔄 Mid-Market Solutions Engineer
+**hightouch** · Sales
+📍 Remote (North America) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5535187004)
+🕐 Updated: `2026-04-08T13:53:46-04:00` &nbsp;|&nbsp; ID: `5535187004`
+
+---
+### 🔄 Software Engineer
+**stripe** · Tech
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-08T13:06:13-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🔄 Manager, Strategic Partnerships
+**flex** · Business Development
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4672217005)
+🕐 Updated: `2026-04-08T14:00:39-04:00` &nbsp;|&nbsp; ID: `4672217005`
+
+---
+### 🔄 Manager, Strategic Partnerships
+**flex** · Business Development
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4665567005)
+🕐 Updated: `2026-04-08T14:00:39-04:00` &nbsp;|&nbsp; ID: `4665567005`
+
+---
+### 🔄 Senior Manager, Partnerships Strategy & Operations
+**flex** · Business Development
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4647044005)
+🕐 Updated: `2026-04-08T14:00:39-04:00` &nbsp;|&nbsp; ID: `4647044005`
+
+---
+### 🔄 Senior Manager, Partnerships Strategy & Operations
+**flex** · Business Development
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4647045005)
+🕐 Updated: `2026-04-08T14:00:39-04:00` &nbsp;|&nbsp; ID: `4647045005`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (Overseer)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7769929?gh_jid=7769929)
+🕐 Updated: `2026-04-08T13:55:47-04:00` &nbsp;|&nbsp; ID: `7769929`
+
+---
+### 🔄 Staff Software Engineer, Protect
+**sofi** · Engineering
+📍 WA - Seattle  &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7656419003?gh_jid=7656419003)
+🕐 Updated: `2026-04-08T13:09:31-04:00` &nbsp;|&nbsp; ID: `7656419003`
+
+---
+### 🔄 Senior Solutions Architect
+**asana** · GTM Operations, Strategy & Field Readiness
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7607510?gh_jid=7607510)
+🕐 Updated: `2026-04-08T12:59:11-04:00` &nbsp;|&nbsp; ID: `7607510`
+
+---
+### 🔄 Staff Software Engineer, API
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7066259?gh_jid=7066259)
+🕐 Updated: `2026-04-08T13:58:07-04:00` &nbsp;|&nbsp; ID: `7066259`
+
+---
+### 🔄 Manufacturing Automation Engineer
+**formlabs** · Form Now
+📍 Billerica, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7733349/apply/?gh_jid=7733349)
+🕐 Updated: `2026-04-08T13:36:54-04:00` &nbsp;|&nbsp; ID: `7733349`
+
+---
+
 ## 📅 Run: 2026-04-08 16:59 UTC
 
 ### 🆕 Applications Engineer 2
