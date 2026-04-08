@@ -2,6 +2,129 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 01:03 UTC
+
+### 🆕 Senior Security Engineer
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003)
+🕐 Updated: `2026-04-07T19:45:59-04:00` &nbsp;|&nbsp; ID: `7655130003`
+
+---
+### 🆕 Senior Full-Stack Engineer, App Journey
+**chime** · AI & App Experience Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8485955002?gh_jid=8485955002)
+🕐 Updated: `2026-04-07T19:46:17-04:00` &nbsp;|&nbsp; ID: `8485955002`
+
+---
+### 🆕 Product Manager, Stays
+**airbnb** · Product Management
+📍 United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7767684?gh_jid=7767684)
+🕐 Updated: `2026-04-07T19:54:00-04:00` &nbsp;|&nbsp; ID: `7767684`
+
+---
+### 🔄 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Boston, Massachusetts; New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691477003)
+🕐 Updated: `2026-04-07T19:48:05-04:00` &nbsp;|&nbsp; ID: `7691477003`
+
+---
+### 🔄 Android Full Stack Engineer
+**robinhood** · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049)
+🕐 Updated: `2026-04-07T20:15:17-04:00` &nbsp;|&nbsp; ID: `7490049`
+
+---
+### 🔄 Director of Engineering, Trading Products
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7022496?t=gh_src=&gh_jid=7022496)
+🕐 Updated: `2026-04-07T20:15:18-04:00` &nbsp;|&nbsp; ID: `7022496`
+
+---
+### 🔄 Engineering Manager, Agent Experience
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542965?t=gh_src=&gh_jid=7542965)
+🕐 Updated: `2026-04-07T20:15:19-04:00` &nbsp;|&nbsp; ID: `7542965`
+
+---
+### 🔄 Engineering Manager, Financial Crimes 
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7512231?t=gh_src=&gh_jid=7512231)
+🕐 Updated: `2026-04-07T20:15:18-04:00` &nbsp;|&nbsp; ID: `7512231`
+
+---
+### 🔄 Engineering Manager, International
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539771?t=gh_src=&gh_jid=7539771)
+🕐 Updated: `2026-04-07T20:15:18-04:00` &nbsp;|&nbsp; ID: `7539771`
+
+---
+### 🔄 Engineering Manager, Legend
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489328?t=gh_src=&gh_jid=7489328)
+🕐 Updated: `2026-04-07T20:15:18-04:00` &nbsp;|&nbsp; ID: `7489328`
+
+---
+### 🔄 Engineering Manager, Strategies & Cortex
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246)
+🕐 Updated: `2026-04-07T20:15:18-04:00` &nbsp;|&nbsp; ID: `7489246`
+
+---
+### 🔄 Senior Android Engineer
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7412393?t=gh_src=&gh_jid=7412393)
+🕐 Updated: `2026-04-07T20:15:17-04:00` &nbsp;|&nbsp; ID: `7412393`
+
+---
+### 🔄 Senior Software Engineer, Agentic
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489731?t=gh_src=&gh_jid=7489731)
+🕐 Updated: `2026-04-07T20:15:17-04:00` &nbsp;|&nbsp; ID: `7489731`
+
+---
+### 🔄 Software Engineering Manager, Growth
+**robinhood** · ENG Growth
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695)
+🕐 Updated: `2026-04-07T20:15:17-04:00` &nbsp;|&nbsp; ID: `7489695`
+
+---
+### 🔄 Staff Software Engineer, Crypto Custody
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7470947?t=gh_src=&gh_jid=7470947)
+🕐 Updated: `2026-04-07T20:15:17-04:00` &nbsp;|&nbsp; ID: `7470947`
+
+---
+### 🔄 Staff Software Engineer, Web3
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950)
+🕐 Updated: `2026-04-07T20:15:18-04:00` &nbsp;|&nbsp; ID: `7489950`
+
+---
+### 🔄 Staff Technical Program Manager
+**robinhood** · Brokerage Division
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489212?t=gh_src=&gh_jid=7489212)
+🕐 Updated: `2026-04-07T20:15:18-04:00` &nbsp;|&nbsp; ID: `7489212`
+
+---
+### 🔄 Engineering Apprentice, Connect Program
+**airbnb** · Apprenticeship
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7773917?gh_jid=7773917)
+🕐 Updated: `2026-04-07T20:07:01-04:00` &nbsp;|&nbsp; ID: `7773917`
+
+---
+### 🔄 Software Engineer Guest & Host (Listing) 
+**airbnb** · Software Engineering
+📍 Remote, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7783175?gh_jid=7783175)
+🕐 Updated: `2026-04-07T20:40:17-04:00` &nbsp;|&nbsp; ID: `7783175`
+
+---
+### 🔄 Staff Software Engineer, Authorization
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7782308?gh_jid=7782308)
+🕐 Updated: `2026-04-07T20:29:26-04:00` &nbsp;|&nbsp; ID: `7782308`
+
+---
+
 ## 📅 Run: 2026-04-07 23:38 UTC
 
 ### 🆕 Senior Product Manager, Trading
