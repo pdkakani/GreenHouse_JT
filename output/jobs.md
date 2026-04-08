@@ -2,6 +2,99 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 21:08 UTC
+
+### 🆕 Senior Site Reliability Engineer
+**mongodb** · PTO Site Reliability Engineering
+📍 Boston; Miami; New York City; Pittsburgh; Raleigh; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+🕐 Updated: `2026-04-08T16:56:03-04:00` &nbsp;|&nbsp; ID: `7743366`
+
+---
+### 🆕 Staff Site Reliability Engineer, Fabric
+**mongodb** · PTO Site Reliability Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727920)
+🕐 Updated: `2026-04-08T16:29:36-04:00` &nbsp;|&nbsp; ID: `7727920`
+
+---
+### 🆕 Staff Backend Engineer, AST: Composition Analysis
+**gitlab** · Sec Engineering
+📍 Remote, Australia; Remote, Canada; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, New Zealand; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8478364002)
+🕐 Updated: `2026-04-08T17:07:14-04:00` &nbsp;|&nbsp; ID: `8478364002`
+
+---
+### 🆕 Product Manager, Data Platform
+**chime** · Growth Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8382253002?gh_jid=8382253002)
+🕐 Updated: `2026-04-08T17:01:19-04:00` &nbsp;|&nbsp; ID: `8382253002`
+
+---
+### 🔄 Model Quality Software Engineer, Claude Code
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5098025008)
+🕐 Updated: `2026-04-08T16:46:45-04:00` &nbsp;|&nbsp; ID: `5098025008`
+
+---
+### 🔄 Sales Engineering Manager, Storage & Analysis
+**cribl** · Sales
+📍 Remote - San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5859649004)
+🕐 Updated: `2026-04-08T16:33:15-04:00` &nbsp;|&nbsp; ID: `5859649004`
+
+---
+### 🔄 Product Manager, Figma Weave (New York, United States)
+**figma** · Weavy - Figma Weave
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/figma/jobs/5819866004?gh_jid=5819866004)
+🕐 Updated: `2026-04-08T16:26:35-04:00` &nbsp;|&nbsp; ID: `5819866004`
+
+---
+### 🔄 Enterprise Business Development Representative
+**adyen** · Sales
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7540718)
+🕐 Updated: `2026-04-08T16:57:02-04:00` &nbsp;|&nbsp; ID: `7540718`
+
+---
+### 🔄 Enterprise Business Development Representative
+**adyen** · Sales
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7540715)
+🕐 Updated: `2026-04-08T16:57:37-04:00` &nbsp;|&nbsp; ID: `7540715`
+
+---
+### 🔄 Senior Product Manager - API & Agentic Banking
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5867562004)
+🕐 Updated: `2026-04-08T16:27:23-04:00` &nbsp;|&nbsp; ID: `5867562004`
+
+---
+### 🔄 Senior Staff Machine Learning Platform Engineer
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8426105002?gh_jid=8426105002)
+🕐 Updated: `2026-04-08T16:47:59-04:00` &nbsp;|&nbsp; ID: `8426105002`
+
+---
+### 🔄 Staff Product Manager, Brand
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8425967002?gh_jid=8425967002)
+🕐 Updated: `2026-04-08T16:46:17-04:00` &nbsp;|&nbsp; ID: `8425967002`
+
+---
+### 🔄 Staff Product Manager, FinTech & Ops
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8284690002?gh_jid=8284690002)
+🕐 Updated: `2026-04-08T16:47:20-04:00` &nbsp;|&nbsp; ID: `8284690002`
+
+---
+### 🔄 Staff Product Manager, Pricing
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8462945002?gh_jid=8462945002)
+🕐 Updated: `2026-04-08T16:48:55-04:00` &nbsp;|&nbsp; ID: `8462945002`
+
+---
+### 🔄 Staff Product Manager, Search Algorithms
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8431976002?gh_jid=8431976002)
+🕐 Updated: `2026-04-08T16:49:23-04:00` &nbsp;|&nbsp; ID: `8431976002`
+
+---
+
 ## 📅 Run: 2026-04-08 20:24 UTC
 
 ### 🆕 Enablement Business Partner, SDR (Sales Development Representatives)

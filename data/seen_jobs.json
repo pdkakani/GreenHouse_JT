@@ -3673,13 +3673,13 @@
   },
   "7540718": {
     "first_seen": "2026-04-06T02:02:09.745898+00:00",
-    "updated_at": "2026-03-31T12:02:58-04:00",
+    "updated_at": "2026-04-08T16:57:02-04:00",
     "title": "Enterprise Business Development Representative",
     "company": "adyen"
   },
   "7540715": {
     "first_seen": "2026-04-06T02:02:09.745927+00:00",
-    "updated_at": "2026-03-31T12:02:31-04:00",
+    "updated_at": "2026-04-08T16:57:37-04:00",
     "title": "Enterprise Business Development Representative",
     "company": "adyen"
   },
@@ -8155,7 +8155,7 @@
   },
   "5819866004": {
     "first_seen": "2026-04-06T02:02:24.222607+00:00",
-    "updated_at": "2026-03-24T16:46:58-04:00",
+    "updated_at": "2026-04-08T16:26:35-04:00",
     "title": "Product Manager, Figma Weave (New York, United States)",
     "company": "figma"
   },
@@ -10837,7 +10837,7 @@
   },
   "5098025008": {
     "first_seen": "2026-04-06T08:09:59.886042+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-08T16:46:45-04:00",
     "title": "Model Quality Software Engineer, Claude Code",
     "company": "anthropic"
   },
@@ -18127,7 +18127,7 @@
   },
   "8426105002": {
     "first_seen": "2026-04-06T08:10:42.279627+00:00",
-    "updated_at": "2026-03-04T15:11:24-05:00",
+    "updated_at": "2026-04-08T16:47:59-04:00",
     "title": "Senior Staff Machine Learning Platform Engineer",
     "company": "faire"
   },
@@ -18145,25 +18145,25 @@
   },
   "8425967002": {
     "first_seen": "2026-04-06T08:10:42.279731+00:00",
-    "updated_at": "2026-03-10T16:15:22-04:00",
+    "updated_at": "2026-04-08T16:46:17-04:00",
     "title": "Staff Product Manager, Brand",
     "company": "faire"
   },
   "8284690002": {
     "first_seen": "2026-04-06T08:10:42.279747+00:00",
-    "updated_at": "2026-03-10T16:15:56-04:00",
+    "updated_at": "2026-04-08T16:47:20-04:00",
     "title": "Staff Product Manager, FinTech & Ops",
     "company": "faire"
   },
   "8462945002": {
     "first_seen": "2026-04-06T08:10:42.279763+00:00",
-    "updated_at": "2026-03-13T16:43:46-04:00",
+    "updated_at": "2026-04-08T16:48:55-04:00",
     "title": "Staff Product Manager, Pricing",
     "company": "faire"
   },
   "8431976002": {
     "first_seen": "2026-04-06T08:10:42.279779+00:00",
-    "updated_at": "2026-03-10T16:16:12-04:00",
+    "updated_at": "2026-04-08T16:49:23-04:00",
     "title": "Staff Product Manager, Search Algorithms",
     "company": "faire"
   },
@@ -20857,7 +20857,7 @@
   },
   "5859649004": {
     "first_seen": "2026-04-08T04:08:02.810871+00:00",
-    "updated_at": "2026-04-07T23:30:10-04:00",
+    "updated_at": "2026-04-08T16:33:15-04:00",
     "title": "Sales Engineering Manager, Storage & Analysis",
     "company": "cribl"
   },
@@ -20983,7 +20983,7 @@
   },
   "5867562004": {
     "first_seen": "2026-04-08T15:55:21.742949+00:00",
-    "updated_at": "2026-04-08T12:54:10-04:00",
+    "updated_at": "2026-04-08T16:27:23-04:00",
     "title": "Senior Product Manager - API & Agentic Banking",
     "company": "mercury"
   },
@@ -21130,5 +21130,29 @@
     "updated_at": "2026-04-08T15:58:50-04:00",
     "title": "Market Manager",
     "company": "airbnb"
+  },
+  "7743366": {
+    "first_seen": "2026-04-08T21:07:45.535046+00:00",
+    "updated_at": "2026-04-08T16:56:03-04:00",
+    "title": "Senior Site Reliability Engineer",
+    "company": "mongodb"
+  },
+  "7727920": {
+    "first_seen": "2026-04-08T21:07:45.536557+00:00",
+    "updated_at": "2026-04-08T16:29:36-04:00",
+    "title": "Staff Site Reliability Engineer, Fabric",
+    "company": "mongodb"
+  },
+  "8478364002": {
+    "first_seen": "2026-04-08T21:07:51.998910+00:00",
+    "updated_at": "2026-04-08T17:07:14-04:00",
+    "title": "Staff Backend Engineer, AST: Composition Analysis",
+    "company": "gitlab"
+  },
+  "8382253002": {
+    "first_seen": "2026-04-08T21:08:12.582810+00:00",
+    "updated_at": "2026-04-08T17:01:19-04:00",
+    "title": "Product Manager, Data Platform",
+    "company": "chime"
   }
 }
