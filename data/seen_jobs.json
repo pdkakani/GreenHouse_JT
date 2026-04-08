@@ -20863,7 +20863,7 @@
   },
   "7789395": {
     "first_seen": "2026-04-08T04:08:26.239615+00:00",
-    "updated_at": "2026-04-07T21:37:11-04:00",
+    "updated_at": "2026-04-08T02:31:37-04:00",
     "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
     "company": "coinbase"
   },
@@ -20878,5 +20878,11 @@
     "updated_at": "2026-04-08T01:05:50-04:00",
     "title": "Senior Software Engineer, Loans Platform",
     "company": "sofi"
+  },
+  "7790065": {
+    "first_seen": "2026-04-08T07:15:35.043841+00:00",
+    "updated_at": "2026-04-08T03:01:43-04:00",
+    "title": "Engineering Manager - Platform (FinHub)",
+    "company": "coinbase"
   }
 }

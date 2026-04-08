@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 07:15 UTC
+
+### 🆕 Engineering Manager - Platform (FinHub)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7790065?gh_jid=7790065)
+🕐 Updated: `2026-04-08T03:01:43-04:00` &nbsp;|&nbsp; ID: `7790065`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395)
+🕐 Updated: `2026-04-08T02:31:37-04:00` &nbsp;|&nbsp; ID: `7789395`
+
+---
+
 ## 📅 Run: 2026-04-08 05:57 UTC
 
 ### 🆕 Senior Software Engineer, Compensation
