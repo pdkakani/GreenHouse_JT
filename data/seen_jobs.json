@@ -2521,7 +2521,7 @@
   },
   "7489695": {
     "first_seen": "2026-04-06T02:02:05.039243+00:00",
-    "updated_at": "2026-04-07T20:15:17-04:00",
+    "updated_at": "2026-04-08T17:13:02-04:00",
     "title": "Software Engineering Manager, Growth",
     "company": "robinhood"
   },
@@ -2575,7 +2575,7 @@
   },
   "7489212": {
     "first_seen": "2026-04-06T02:02:05.039675+00:00",
-    "updated_at": "2026-04-07T20:15:18-04:00",
+    "updated_at": "2026-04-08T17:47:55-04:00",
     "title": "Staff Technical Program Manager",
     "company": "robinhood"
   },
@@ -3169,13 +3169,13 @@
   },
   "8339277002": {
     "first_seen": "2026-04-06T02:02:08.599912+00:00",
-    "updated_at": "2026-04-07T16:17:21-04:00",
+    "updated_at": "2026-04-08T17:59:25-04:00",
     "title": "Senior Security Operations Engineer ",
     "company": "brex"
   },
   "8339252002": {
     "first_seen": "2026-04-06T02:02:08.599941+00:00",
-    "updated_at": "2026-04-07T16:17:21-04:00",
+    "updated_at": "2026-04-08T17:59:13-04:00",
     "title": "Senior Security Operations Engineer ",
     "company": "brex"
   },
@@ -5971,7 +5971,7 @@
   },
   "7350846": {
     "first_seen": "2026-04-06T02:02:15.734874+00:00",
-    "updated_at": "2026-04-08T10:57:50-04:00",
+    "updated_at": "2026-04-08T17:58:13-04:00",
     "title": "Presales Engineer",
     "company": "twilio"
   },
@@ -6193,7 +6193,7 @@
   },
   "7724877": {
     "first_seen": "2026-04-06T02:02:15.736452+00:00",
-    "updated_at": "2026-04-06T13:16:51-04:00",
+    "updated_at": "2026-04-08T17:26:28-04:00",
     "title": "Software Engineer L3 Phone Numbers",
     "company": "twilio"
   },
@@ -11635,151 +11635,151 @@
   },
   "4547218005": {
     "first_seen": "2026-04-06T08:10:00.792636+00:00",
-    "updated_at": "2026-04-03T15:49:02-04:00",
+    "updated_at": "2026-04-08T17:21:39-04:00",
     "title": "Cloud Infrastructure Engineer",
     "company": "gleanwork"
   },
   "4520700005": {
     "first_seen": "2026-04-06T08:10:00.793135+00:00",
-    "updated_at": "2026-04-02T11:30:12-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Designated Technical Support Engineer",
     "company": "gleanwork"
   },
   "4520713005": {
     "first_seen": "2026-04-06T08:10:00.793154+00:00",
-    "updated_at": "2026-04-02T11:32:35-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Designated Technical Support Engineer",
     "company": "gleanwork"
   },
   "4520716005": {
     "first_seen": "2026-04-06T08:10:00.793171+00:00",
-    "updated_at": "2026-04-02T11:30:31-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Designated Technical Support Engineer",
     "company": "gleanwork"
   },
   "4659407005": {
     "first_seen": "2026-04-06T08:10:00.793538+00:00",
-    "updated_at": "2026-04-01T07:14:57-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Forward Deployed Product Manager",
     "company": "gleanwork"
   },
   "4651950005": {
     "first_seen": "2026-04-06T08:10:00.793559+00:00",
-    "updated_at": "2026-03-26T12:04:56-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Forward Deployed Product Manager",
     "company": "gleanwork"
   },
   "4659409005": {
     "first_seen": "2026-04-06T08:10:00.793581+00:00",
-    "updated_at": "2026-04-01T07:15:13-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Forward Deployed Product Manager",
     "company": "gleanwork"
   },
   "4659412005": {
     "first_seen": "2026-04-06T08:10:00.793605+00:00",
-    "updated_at": "2026-03-31T16:48:51-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Founding Forward Deployed Engineer",
     "company": "gleanwork"
   },
   "4651991005": {
     "first_seen": "2026-04-06T08:10:00.793628+00:00",
-    "updated_at": "2026-03-26T12:10:43-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Founding Forward Deployed Engineer",
     "company": "gleanwork"
   },
   "4651990005": {
     "first_seen": "2026-04-06T08:10:00.793657+00:00",
-    "updated_at": "2026-03-26T12:08:47-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Founding Forward Deployed Engineer",
     "company": "gleanwork"
   },
   "4654833005": {
     "first_seen": "2026-04-06T08:10:00.793882+00:00",
-    "updated_at": "2026-04-03T15:21:22-04:00",
+    "updated_at": "2026-04-08T17:21:42-04:00",
     "title": "Lead Site Reliability Engineer",
     "company": "gleanwork"
   },
   "4598386005": {
     "first_seen": "2026-04-06T08:10:00.793901+00:00",
-    "updated_at": "2026-04-03T15:39:16-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Lead Software Engineer, Product Backend",
     "company": "gleanwork"
   },
   "4605215005": {
     "first_seen": "2026-04-06T08:10:00.793925+00:00",
-    "updated_at": "2026-04-02T16:46:29-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Machine Learning Engineer, AI Assistant & Autonomous AI Agents",
     "company": "gleanwork"
   },
   "4501783005": {
     "first_seen": "2026-04-06T08:10:00.793949+00:00",
-    "updated_at": "2026-04-03T15:45:12-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Machine Learning Engineer, Infrastructure",
     "company": "gleanwork"
   },
   "4669417005": {
     "first_seen": "2026-04-06T08:10:00.793973+00:00",
-    "updated_at": "2026-04-03T15:28:22-04:00",
+    "updated_at": "2026-04-08T17:21:43-04:00",
     "title": "Machine Learning Engineer, LLM Evals & Observability ",
     "company": "gleanwork"
   },
   "4006735005": {
     "first_seen": "2026-04-06T08:10:00.793997+00:00",
-    "updated_at": "2026-04-01T19:39:57-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Machine Learning Engineer, Search Quality",
     "company": "gleanwork"
   },
   "4663045005": {
     "first_seen": "2026-04-06T08:10:00.794209+00:00",
-    "updated_at": "2026-04-01T13:48:00-04:00",
+    "updated_at": "2026-04-08T17:21:42-04:00",
     "title": "Partner Solutions Architect (Innovation Lab)",
     "company": "gleanwork"
   },
   "4007711005": {
     "first_seen": "2026-04-06T08:10:00.794377+00:00",
-    "updated_at": "2026-04-01T15:43:10-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Product Manager",
     "company": "gleanwork"
   },
   "4525297005": {
     "first_seen": "2026-04-06T08:10:00.794411+00:00",
-    "updated_at": "2026-04-01T15:46:22-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Product Manager, Agent Security & Governance",
     "company": "gleanwork"
   },
   "4525518005": {
     "first_seen": "2026-04-06T08:10:00.794437+00:00",
-    "updated_at": "2026-04-01T15:48:01-04:00",
+    "updated_at": "2026-04-08T17:21:39-04:00",
     "title": "Product Manager, AI Quality",
     "company": "gleanwork"
   },
   "4482380005": {
     "first_seen": "2026-04-06T08:10:00.794453+00:00",
-    "updated_at": "2026-04-01T15:53:04-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Product Manager, Connectors",
     "company": "gleanwork"
   },
   "4591195005": {
     "first_seen": "2026-04-06T08:10:00.794516+00:00",
-    "updated_at": "2026-03-16T13:26:47-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Public Sector Solutions Engineer (SLED)",
     "company": "gleanwork"
   },
   "4338812005": {
     "first_seen": "2026-04-06T08:10:00.794692+00:00",
-    "updated_at": "2026-04-02T14:38:34-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Sales Development Representative",
     "company": "gleanwork"
   },
   "4529774005": {
     "first_seen": "2026-04-06T08:10:00.794843+00:00",
-    "updated_at": "2026-04-03T15:53:01-04:00",
+    "updated_at": "2026-04-08T17:21:39-04:00",
     "title": "Security Engineer, Application Security",
     "company": "gleanwork"
   },
   "4650994005": {
     "first_seen": "2026-04-06T08:10:00.794859+00:00",
-    "updated_at": "2026-04-03T14:35:38-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Security Engineer, Cloud Security",
     "company": "gleanwork"
   },
@@ -11791,163 +11791,163 @@
   },
   "4657199005": {
     "first_seen": "2026-04-06T08:10:00.795262+00:00",
-    "updated_at": "2026-04-02T14:37:31-04:00",
+    "updated_at": "2026-04-08T17:21:42-04:00",
     "title": "Senior Technical Program Manager, Connectors",
     "company": "gleanwork"
   },
   "4628714005": {
     "first_seen": "2026-04-06T08:10:00.795282+00:00",
-    "updated_at": "2026-04-01T16:23:31-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Senior Technical Program Manager, Infrastructure",
     "company": "gleanwork"
   },
   "4628879005": {
     "first_seen": "2026-04-06T08:10:00.795302+00:00",
-    "updated_at": "2026-04-02T14:42:05-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Senior Technical Program Manager, Product",
     "company": "gleanwork"
   },
   "4616929005": {
     "first_seen": "2026-04-06T08:10:00.795337+00:00",
-    "updated_at": "2026-04-03T14:26:35-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Software Engineer, Agentic Runtime ",
     "company": "gleanwork"
   },
   "4605446005": {
     "first_seen": "2026-04-06T08:10:00.795363+00:00",
-    "updated_at": "2026-04-03T17:41:32-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Software Engineer, AI & Security",
     "company": "gleanwork"
   },
   "4581643005": {
     "first_seen": "2026-04-06T08:10:00.795378+00:00",
-    "updated_at": "2026-04-01T18:42:21-04:00",
+    "updated_at": "2026-04-08T17:21:39-04:00",
     "title": "Software Engineer, Backend",
     "company": "gleanwork"
   },
   "4675862005": {
     "first_seen": "2026-04-06T08:10:00.795413+00:00",
-    "updated_at": "2026-04-03T15:34:40-04:00",
+    "updated_at": "2026-04-08T17:21:43-04:00",
     "title": "Software Engineer, Billing & Revenue Platform",
     "company": "gleanwork"
   },
   "4638008005": {
     "first_seen": "2026-04-06T08:10:00.795457+00:00",
-    "updated_at": "2026-04-03T17:42:41-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Software Engineer, Context Platform",
     "company": "gleanwork"
   },
   "4637208005": {
     "first_seen": "2026-04-06T08:10:00.795472+00:00",
-    "updated_at": "2026-04-03T15:57:15-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Software Engineer, Data Foundations",
     "company": "gleanwork"
   },
   "4614706005": {
     "first_seen": "2026-04-06T08:10:00.795487+00:00",
-    "updated_at": "2026-04-02T16:59:32-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Software Engineer, Developer Productivity ",
     "company": "gleanwork"
   },
   "4006733005": {
     "first_seen": "2026-04-06T08:10:00.795502+00:00",
-    "updated_at": "2026-04-01T18:44:21-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Software Engineer, Frontend",
     "company": "gleanwork"
   },
   "4006734005": {
     "first_seen": "2026-04-06T08:10:00.795516+00:00",
-    "updated_at": "2026-04-01T18:45:48-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Software Engineer, Fullstack",
     "company": "gleanwork"
   },
   "4659229005": {
     "first_seen": "2026-04-06T08:10:00.795527+00:00",
-    "updated_at": "2026-04-03T15:26:27-04:00",
+    "updated_at": "2026-04-08T17:21:42-04:00",
     "title": "Software Engineer, Insights",
     "company": "gleanwork"
   },
   "4636739005": {
     "first_seen": "2026-04-06T08:10:00.795563+00:00",
-    "updated_at": "2026-04-03T14:39:06-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Software Engineer, Platform",
     "company": "gleanwork"
   },
   "4428090005": {
     "first_seen": "2026-04-06T08:10:00.795579+00:00",
-    "updated_at": "2026-04-03T15:43:48-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Software Engineer, Product Backend",
     "company": "gleanwork"
   },
   "4436194005": {
     "first_seen": "2026-04-06T08:10:00.795594+00:00",
-    "updated_at": "2026-04-03T15:43:13-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Software Engineer, Security",
     "company": "gleanwork"
   },
   "4592324005": {
     "first_seen": "2026-04-06T08:10:00.795610+00:00",
-    "updated_at": "2026-03-27T16:20:19-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Software Engineer, University Grad",
     "company": "gleanwork"
   },
   "4508312005": {
     "first_seen": "2026-04-06T08:10:00.795621+00:00",
-    "updated_at": "2026-03-31T16:34:31-04:00",
+    "updated_at": "2026-04-08T17:21:38-04:00",
     "title": "Solutions Architect ",
     "company": "gleanwork"
   },
   "4603423005": {
     "first_seen": "2026-04-06T08:10:00.795657+00:00",
-    "updated_at": "2026-03-16T18:14:26-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Solutions Engineer - Commercial (Texas)",
     "company": "gleanwork"
   },
   "4665150005": {
     "first_seen": "2026-04-06T08:10:00.795690+00:00",
-    "updated_at": "2026-03-31T11:45:12-04:00",
+    "updated_at": "2026-04-08T17:21:43-04:00",
     "title": "Sr. Cloud Partner Sales Manager ",
     "company": "gleanwork"
   },
   "4620264005": {
     "first_seen": "2026-04-06T08:10:00.795944+00:00",
-    "updated_at": "2026-04-01T18:57:17-04:00",
+    "updated_at": "2026-04-08T17:21:40-04:00",
     "title": "Strategic Solutions Engineer, East",
     "company": "gleanwork"
   },
   "4677083005": {
     "first_seen": "2026-04-06T08:10:00.795999+00:00",
-    "updated_at": "2026-04-03T15:36:22-04:00",
+    "updated_at": "2026-04-08T17:21:44-04:00",
     "title": "Tech Lead Manager, Agentic Runtime ",
     "company": "gleanwork"
   },
   "4673278005": {
     "first_seen": "2026-04-06T08:10:00.796030+00:00",
-    "updated_at": "2026-04-03T16:02:40-04:00",
+    "updated_at": "2026-04-08T17:21:43-04:00",
     "title": "Tech Lead Manager, Apps & App Infrastructure",
     "company": "gleanwork"
   },
   "4656233005": {
     "first_seen": "2026-04-06T08:10:00.796066+00:00",
-    "updated_at": "2026-04-03T15:23:09-04:00",
+    "updated_at": "2026-04-08T17:21:42-04:00",
     "title": "Tech Lead Manager, Billing & Insights",
     "company": "gleanwork"
   },
   "4549560005": {
     "first_seen": "2026-04-06T08:10:00.796076+00:00",
-    "updated_at": "2026-04-08T13:02:24-04:00",
+    "updated_at": "2026-04-08T17:21:39-04:00",
     "title": "Technical Enablement Manager",
     "company": "gleanwork"
   },
   "4656281005": {
     "first_seen": "2026-04-06T08:10:00.796092+00:00",
-    "updated_at": "2026-04-03T15:24:36-04:00",
+    "updated_at": "2026-04-08T17:21:42-04:00",
     "title": "Technical Lead, Billing & Revenue Platform",
     "company": "gleanwork"
   },
   "4627687005": {
     "first_seen": "2026-04-06T08:10:00.796108+00:00",
-    "updated_at": "2026-03-31T18:24:07-04:00",
+    "updated_at": "2026-04-08T17:21:41-04:00",
     "title": "Technical Recruiter (Contract)",
     "company": "gleanwork"
   },
@@ -13693,7 +13693,7 @@
   },
   "7390097": {
     "first_seen": "2026-04-06T08:10:17.845552+00:00",
-    "updated_at": "2026-03-23T14:11:42-04:00",
+    "updated_at": "2026-04-08T17:40:50-04:00",
     "title": "Enterprise Business Development Representative",
     "company": "contentful"
   },
@@ -18085,7 +18085,7 @@
   },
   "8439888002": {
     "first_seen": "2026-04-06T08:10:42.278294+00:00",
-    "updated_at": "2026-03-04T14:04:58-05:00",
+    "updated_at": "2026-04-08T17:37:45-04:00",
     "title": "IT Support Engineer",
     "company": "faire"
   },
@@ -18175,7 +18175,7 @@
   },
   "8414933002": {
     "first_seen": "2026-04-06T08:10:42.280042+00:00",
-    "updated_at": "2026-03-25T13:51:24-04:00",
+    "updated_at": "2026-04-08T17:25:41-04:00",
     "title": "Systems Administrator, Operations",
     "company": "faire"
   },
@@ -19189,7 +19189,7 @@
   },
   "7066259": {
     "first_seen": "2026-04-06T08:10:43.810004+00:00",
-    "updated_at": "2026-04-08T13:58:07-04:00",
+    "updated_at": "2026-04-08T17:59:04-04:00",
     "title": "Staff Software Engineer, API",
     "company": "asana"
   },
@@ -21055,7 +21055,7 @@
   },
   "4683059005": {
     "first_seen": "2026-04-08T18:03:04.545863+00:00",
-    "updated_at": "2026-04-08T13:09:49-04:00",
+    "updated_at": "2026-04-08T17:21:39-04:00",
     "title": "Technical Enablement Manager",
     "company": "gleanwork"
   },
@@ -21109,7 +21109,7 @@
   },
   "7792472": {
     "first_seen": "2026-04-08T19:39:36.088531+00:00",
-    "updated_at": "2026-04-08T14:09:32-04:00",
+    "updated_at": "2026-04-08T17:39:43-04:00",
     "title": "Mid Market Business Development Representative",
     "company": "contentful"
   },
@@ -21153,6 +21153,42 @@
     "first_seen": "2026-04-08T21:08:12.582810+00:00",
     "updated_at": "2026-04-08T17:01:19-04:00",
     "title": "Product Manager, Data Platform",
+    "company": "chime"
+  },
+  "8499380002": {
+    "first_seen": "2026-04-08T21:59:34.507116+00:00",
+    "updated_at": "2026-04-08T17:18:02-04:00",
+    "title": "Commercial SaaS Client Sales Executive",
+    "company": "brex"
+  },
+  "8499378002": {
+    "first_seen": "2026-04-08T21:59:34.507160+00:00",
+    "updated_at": "2026-04-08T17:18:03-04:00",
+    "title": "Commercial SaaS Client Sales Executive",
+    "company": "brex"
+  },
+  "8499382002": {
+    "first_seen": "2026-04-08T21:59:34.507185+00:00",
+    "updated_at": "2026-04-08T17:18:45-04:00",
+    "title": "Commercial SaaS Client Sales Executive",
+    "company": "brex"
+  },
+  "5873528004": {
+    "first_seen": "2026-04-08T21:59:35.526488+00:00",
+    "updated_at": "2026-04-08T17:36:17-04:00",
+    "title": "Engineering Manager, Treasury",
+    "company": "lithic"
+  },
+  "5873099004": {
+    "first_seen": "2026-04-08T21:59:35.526510+00:00",
+    "updated_at": "2026-04-08T17:35:45-04:00",
+    "title": "Engineering Manager, Treasury",
+    "company": "lithic"
+  },
+  "8219791002": {
+    "first_seen": "2026-04-08T21:59:41.924524+00:00",
+    "updated_at": "2026-04-08T17:55:05-04:00",
+    "title": "Product Manager, MyPay",
     "company": "chime"
   }
 }

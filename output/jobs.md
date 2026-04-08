@@ -2,6 +2,429 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-08 22:00 UTC
+
+### 🆕 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499380002?gh_jid=8499380002)
+🕐 Updated: `2026-04-08T17:18:02-04:00` &nbsp;|&nbsp; ID: `8499380002`
+
+---
+### 🆕 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499378002?gh_jid=8499378002)
+🕐 Updated: `2026-04-08T17:18:03-04:00` &nbsp;|&nbsp; ID: `8499378002`
+
+---
+### 🆕 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499382002?gh_jid=8499382002)
+🕐 Updated: `2026-04-08T17:18:45-04:00` &nbsp;|&nbsp; ID: `8499382002`
+
+---
+### 🆕 Engineering Manager, Treasury
+**lithic** · Engineering
+📍 Ontario, Canada; Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5873528004)
+🕐 Updated: `2026-04-08T17:36:17-04:00` &nbsp;|&nbsp; ID: `5873528004`
+
+---
+### 🆕 Engineering Manager, Treasury
+**lithic** · Engineering
+📍 Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5873099004)
+🕐 Updated: `2026-04-08T17:35:45-04:00` &nbsp;|&nbsp; ID: `5873099004`
+
+---
+### 🆕 Product Manager, MyPay
+**chime** · Growth Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219791002?gh_jid=8219791002)
+🕐 Updated: `2026-04-08T17:55:05-04:00` &nbsp;|&nbsp; ID: `8219791002`
+
+---
+### 🔄 Cloud Infrastructure Engineer
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4547218005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4547218005`
+
+---
+### 🔄 Designated Technical Support Engineer
+**gleanwork** · Support
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4520716005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4520716005`
+
+---
+### 🔄 Designated Technical Support Engineer
+**gleanwork** · Support
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4520700005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4520700005`
+
+---
+### 🔄 Designated Technical Support Engineer
+**gleanwork** · Support
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4520713005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4520713005`
+
+---
+### 🔄 Forward Deployed Product Manager
+**gleanwork** · Forward Deployment
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4659407005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4659407005`
+
+---
+### 🔄 Forward Deployed Product Manager
+**gleanwork** · Forward Deployment
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4659409005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4659409005`
+
+---
+### 🔄 Forward Deployed Product Manager
+**gleanwork** · Forward Deployment
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4651950005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4651950005`
+
+---
+### 🔄 Founding Forward Deployed Engineer
+**gleanwork** · Forward Deployment
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4651991005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4651991005`
+
+---
+### 🔄 Founding Forward Deployed Engineer
+**gleanwork** · Forward Deployment
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4659412005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4659412005`
+
+---
+### 🔄 Founding Forward Deployed Engineer
+**gleanwork** · Forward Deployment
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4651990005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4651990005`
+
+---
+### 🔄 Lead Site Reliability Engineer
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4654833005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4654833005`
+
+---
+### 🔄 Lead Software Engineer, Product Backend
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4598386005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4598386005`
+
+---
+### 🔄 Machine Learning Engineer, AI Assistant & Autonomous AI Agents
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4605215005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4605215005`
+
+---
+### 🔄 Machine Learning Engineer, Infrastructure
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4501783005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4501783005`
+
+---
+### 🔄 Machine Learning Engineer, LLM Evals & Observability 
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4669417005)
+🕐 Updated: `2026-04-08T17:21:43-04:00` &nbsp;|&nbsp; ID: `4669417005`
+
+---
+### 🔄 Machine Learning Engineer, Search Quality
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4006735005`
+
+---
+### 🔄 Partner Solutions Architect (Innovation Lab)
+**gleanwork** · Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4663045005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4663045005`
+
+---
+### 🔄 Product Manager
+**gleanwork** · Product
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4007711005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4007711005`
+
+---
+### 🔄 Product Manager, Agent Security & Governance
+**gleanwork** · Product
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4525297005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4525297005`
+
+---
+### 🔄 Product Manager, AI Quality
+**gleanwork** · Product
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4525518005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4525518005`
+
+---
+### 🔄 Product Manager, Connectors
+**gleanwork** · Product
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4482380005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4482380005`
+
+---
+### 🔄 Public Sector Solutions Engineer (SLED)
+**gleanwork** · Sales
+📍 Washington, DC OR Austin, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4591195005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4591195005`
+
+---
+### 🔄 Sales Development Representative
+**gleanwork** · Sales
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4338812005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4338812005`
+
+---
+### 🔄 Security Engineer, Application Security
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+### 🔄 Security Engineer, Cloud Security
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+### 🔄 Senior Technical Program Manager, Connectors
+**gleanwork** · Product
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4657199005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4657199005`
+
+---
+### 🔄 Senior Technical Program Manager, Infrastructure
+**gleanwork** · Product
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4628714005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4628714005`
+
+---
+### 🔄 Senior Technical Program Manager, Product
+**gleanwork** · Product
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4628879005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4628879005`
+
+---
+### 🔄 Software Engineer, Agentic Runtime 
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4616929005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4616929005`
+
+---
+### 🔄 Software Engineer, AI & Security
+**gleanwork** · Engineering
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4605446005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4605446005`
+
+---
+### 🔄 Software Engineer, Backend
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4581643005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4581643005`
+
+---
+### 🔄 Software Engineer, Billing & Revenue Platform
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4675862005)
+🕐 Updated: `2026-04-08T17:21:43-04:00` &nbsp;|&nbsp; ID: `4675862005`
+
+---
+### 🔄 Software Engineer, Context Platform
+**gleanwork** · Engineering
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4638008005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4638008005`
+
+---
+### 🔄 Software Engineer, Data Foundations
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4637208005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4637208005`
+
+---
+### 🔄 Software Engineer, Developer Productivity 
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4614706005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4614706005`
+
+---
+### 🔄 Software Engineer, Frontend
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4006733005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4006733005`
+
+---
+### 🔄 Software Engineer, Fullstack
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4006734005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4006734005`
+
+---
+### 🔄 Software Engineer, Insights
+**gleanwork** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4659229005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4659229005`
+
+---
+### 🔄 Software Engineer, Platform
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4636739005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4636739005`
+
+---
+### 🔄 Software Engineer, Product Backend
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4428090005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4428090005`
+
+---
+### 🔄 Software Engineer, Security
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4436194005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4436194005`
+
+---
+### 🔄 Software Engineer, University Grad
+**gleanwork** · University
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4592324005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4592324005`
+
+---
+### 🔄 Solutions Architect 
+**gleanwork** · Customer Outcomes
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4508312005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4508312005`
+
+---
+### 🔄 Solutions Engineer - Commercial (Texas)
+**gleanwork** · Sales
+📍 Austin, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4603423005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4603423005`
+
+---
+### 🔄 Sr. Cloud Partner Sales Manager 
+**gleanwork** · Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4665150005)
+🕐 Updated: `2026-04-08T17:21:43-04:00` &nbsp;|&nbsp; ID: `4665150005`
+
+---
+### 🔄 Strategic Solutions Engineer, East
+**gleanwork** · Sales
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4620264005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4620264005`
+
+---
+### 🔄 Tech Lead Manager, Agentic Runtime 
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4677083005)
+🕐 Updated: `2026-04-08T17:21:44-04:00` &nbsp;|&nbsp; ID: `4677083005`
+
+---
+### 🔄 Tech Lead Manager, Apps & App Infrastructure
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4673278005)
+🕐 Updated: `2026-04-08T17:21:43-04:00` &nbsp;|&nbsp; ID: `4673278005`
+
+---
+### 🔄 Tech Lead Manager, Billing & Insights
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4656233005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4656233005`
+
+---
+### 🔄 Technical Enablement Manager
+**gleanwork** · Sales
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4549560005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4549560005`
+
+---
+### 🔄 Technical Enablement Manager
+**gleanwork** · Sales
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4683059005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4683059005`
+
+---
+### 🔄 Technical Lead, Billing & Revenue Platform
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4656281005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4656281005`
+
+---
+### 🔄 Technical Recruiter (Contract)
+**gleanwork** · G&A
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4627687005)
+🕐 Updated: `2026-04-08T17:21:41-04:00` &nbsp;|&nbsp; ID: `4627687005`
+
+---
+### 🔄 Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7350846)
+🕐 Updated: `2026-04-08T17:58:13-04:00` &nbsp;|&nbsp; ID: `7350846`
+
+---
+### 🔄 Software Engineer L3 Phone Numbers
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7724877)
+🕐 Updated: `2026-04-08T17:26:28-04:00` &nbsp;|&nbsp; ID: `7724877`
+
+---
+### 🔄 Enterprise Business Development Representative
+**contentful** · Sales
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7390097)
+🕐 Updated: `2026-04-08T17:40:50-04:00` &nbsp;|&nbsp; ID: `7390097`
+
+---
+### 🔄 Mid Market Business Development Representative
+**contentful** · Sales
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7792472)
+🕐 Updated: `2026-04-08T17:39:43-04:00` &nbsp;|&nbsp; ID: `7792472`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339277002?gh_jid=8339277002)
+🕐 Updated: `2026-04-08T17:59:25-04:00` &nbsp;|&nbsp; ID: `8339277002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339252002?gh_jid=8339252002)
+🕐 Updated: `2026-04-08T17:59:13-04:00` &nbsp;|&nbsp; ID: `8339252002`
+
+---
+### 🔄 Software Engineering Manager, Growth
+**robinhood** · ENG Growth
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695)
+🕐 Updated: `2026-04-08T17:13:02-04:00` &nbsp;|&nbsp; ID: `7489695`
+
+---
+### 🔄 Staff Technical Program Manager
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489212?t=gh_src=&gh_jid=7489212)
+🕐 Updated: `2026-04-08T17:47:55-04:00` &nbsp;|&nbsp; ID: `7489212`
+
+---
+### 🔄 IT Support Engineer
+**faire** · Information Technology
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8439888002?gh_jid=8439888002)
+🕐 Updated: `2026-04-08T17:37:45-04:00` &nbsp;|&nbsp; ID: `8439888002`
+
+---
+### 🔄 Systems Administrator, Operations
+**faire** · Customer Support
+📍 New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8414933002?gh_jid=8414933002)
+🕐 Updated: `2026-04-08T17:25:41-04:00` &nbsp;|&nbsp; ID: `8414933002`
+
+---
+### 🔄 Staff Software Engineer, API
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7066259?gh_jid=7066259)
+🕐 Updated: `2026-04-08T17:59:04-04:00` &nbsp;|&nbsp; ID: `7066259`
+
+---
+
 ## 📅 Run: 2026-04-08 21:08 UTC
 
 ### 🆕 Senior Site Reliability Engineer
