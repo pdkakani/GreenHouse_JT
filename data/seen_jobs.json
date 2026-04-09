@@ -1183,7 +1183,7 @@
   },
   "7569402": {
     "first_seen": "2026-04-06T02:02:04.306804+00:00",
-    "updated_at": "2026-03-29T22:26:56-04:00",
+    "updated_at": "2026-04-09T04:10:39-04:00",
     "title": "Senior Software Engineer, Echo",
     "company": "coinbase"
   },
@@ -1219,7 +1219,7 @@
   },
   "7660227": {
     "first_seen": "2026-04-06T02:02:04.306961+00:00",
-    "updated_at": "2026-04-08T19:38:30-04:00",
+    "updated_at": "2026-04-09T03:04:05-04:00",
     "title": "Senior Software Engineer (Platform- Identity)",
     "company": "coinbase"
   },
@@ -21274,5 +21274,11 @@
     "updated_at": "2026-04-08T22:19:37-04:00",
     "title": "Software Engineer, Credit Line",
     "company": "chime"
+  },
+  "8025494002": {
+    "first_seen": "2026-04-09T08:17:28.285646+00:00",
+    "updated_at": "2026-04-09T04:17:01-04:00",
+    "title": "Senior Solutions Engineer",
+    "company": "databricks"
   }
 }

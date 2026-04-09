@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 08:18 UTC
+
+### 🆕 Senior Solutions Engineer
+**databricks** · Field Engineering - Other
+📍 Aarhus, Denmark; Remote - Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8025494002)
+🕐 Updated: `2026-04-09T04:17:01-04:00` &nbsp;|&nbsp; ID: `8025494002`
+
+---
+### 🔄 Senior Software Engineer, Echo
+**coinbase** · Engineering - Backend
+📍 Remote - UK &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7569402?gh_jid=7569402)
+🕐 Updated: `2026-04-09T04:10:39-04:00` &nbsp;|&nbsp; ID: `7569402`
+
+---
+### 🔄 Senior Software Engineer (Platform- Identity)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7660227?gh_jid=7660227)
+🕐 Updated: `2026-04-09T03:04:05-04:00` &nbsp;|&nbsp; ID: `7660227`
+
+---
+
 ## 📅 Run: 2026-04-09 05:28 UTC
 
 ### 🔄 Product Manager, Monetization
