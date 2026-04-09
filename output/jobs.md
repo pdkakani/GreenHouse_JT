@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 13:10 UTC
+
+### 🆕 Senior Backend Engineer (RoR), AST: Secret Detection
+**gitlab** · Sec Engineering
+📍 Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8432262002)
+🕐 Updated: `2026-04-09T09:05:21-04:00` &nbsp;|&nbsp; ID: `8432262002`
+
+---
+### 🆕 Senior Software Engineer, Platform
+**branch** · Engineering
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/branch/jobs/7512638003)
+🕐 Updated: `2026-04-09T08:34:27-04:00` &nbsp;|&nbsp; ID: `7512638003`
+
+---
+### 🆕 Senior Software Engineer, Platform (TipCalc)
+**branch** · Engineering
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/branch/jobs/7693385003)
+🕐 Updated: `2026-04-09T08:41:45-04:00` &nbsp;|&nbsp; ID: `7693385003`
+
+---
+### 🔄 Physical Security Manager
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7681903003)
+🕐 Updated: `2026-04-09T08:31:06-04:00` &nbsp;|&nbsp; ID: `7681903003`
+
+---
+
 ## 📅 Run: 2026-04-09 11:51 UTC
 
 ### 🆕 Senior Product Manager, Notifications

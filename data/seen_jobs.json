@@ -12499,7 +12499,7 @@
   },
   "7681903003": {
     "first_seen": "2026-04-06T08:10:08.967406+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-09T08:31:06-04:00",
     "title": "Physical Security Manager",
     "company": "klaviyo"
   },
@@ -21292,5 +21292,23 @@
     "updated_at": "2026-04-09T07:23:47-04:00",
     "title": "Senior Product Manager, Notifications",
     "company": "duolingo"
+  },
+  "8432262002": {
+    "first_seen": "2026-04-09T13:09:48.710514+00:00",
+    "updated_at": "2026-04-09T09:05:21-04:00",
+    "title": "Senior Backend Engineer (RoR), AST: Secret Detection",
+    "company": "gitlab"
+  },
+  "7512638003": {
+    "first_seen": "2026-04-09T13:09:54.080841+00:00",
+    "updated_at": "2026-04-09T08:34:27-04:00",
+    "title": "Senior Software Engineer, Platform",
+    "company": "branch"
+  },
+  "7693385003": {
+    "first_seen": "2026-04-09T13:09:54.080865+00:00",
+    "updated_at": "2026-04-09T08:41:45-04:00",
+    "title": "Senior Software Engineer, Platform (TipCalc)",
+    "company": "branch"
   }
 }
