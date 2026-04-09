@@ -2,6 +2,81 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 05:28 UTC
+
+### 🔄 Product Manager, Monetization
+**anthropic** · Product Management, Support, & Operations
+📍 New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5153773008)
+🕐 Updated: `2026-04-09T01:00:06-04:00` &nbsp;|&nbsp; ID: `5153773008`
+
+---
+### 🔄 Product Manager, Multi-Cloud Growth - Google
+**anthropic** · Product Management, Support, & Operations
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5153924008)
+🕐 Updated: `2026-04-09T00:36:20-04:00` &nbsp;|&nbsp; ID: `5153924008`
+
+---
+### 🔄 Director of Engineering - Growth & Engagement
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7669366003)
+🕐 Updated: `2026-04-09T01:02:38-04:00` &nbsp;|&nbsp; ID: `7669366003`
+
+---
+### 🔄 Engineering Manager,  AI Enablement
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660503003)
+🕐 Updated: `2026-04-09T01:02:38-04:00` &nbsp;|&nbsp; ID: `7660503003`
+
+---
+### 🔄 Senior Director, Business Development (New Verticals)
+**flex** · Business Development
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4627501005)
+🕐 Updated: `2026-04-09T00:28:18-04:00` &nbsp;|&nbsp; ID: `4627501005`
+
+---
+### 🔄 Senior Director, Business Development (New Verticals)
+**flex** · Business Development
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4627497005)
+🕐 Updated: `2026-04-09T00:28:18-04:00` &nbsp;|&nbsp; ID: `4627497005`
+
+---
+### 🔄 Vice President, Business Development & Strategic Partnerships
+**flex** · Business Development
+📍 New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4681915005)
+🕐 Updated: `2026-04-09T00:28:18-04:00` &nbsp;|&nbsp; ID: `4681915005`
+
+---
+### 🔄 Staff Product Manager, AI Discovery
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8425964002?gh_jid=8425964002)
+🕐 Updated: `2026-04-09T00:55:42-04:00` &nbsp;|&nbsp; ID: `8425964002`
+
+---
+### 🔄 Staff Product Manager, Brand
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8425967002?gh_jid=8425967002)
+🕐 Updated: `2026-04-09T00:55:24-04:00` &nbsp;|&nbsp; ID: `8425967002`
+
+---
+### 🔄 Staff Product Manager, FinTech & Ops
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8284690002?gh_jid=8284690002)
+🕐 Updated: `2026-04-09T00:56:26-04:00` &nbsp;|&nbsp; ID: `8284690002`
+
+---
+### 🔄 Staff Product Manager, Pricing
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8462945002?gh_jid=8462945002)
+🕐 Updated: `2026-04-09T00:56:45-04:00` &nbsp;|&nbsp; ID: `8462945002`
+
+---
+### 🔄 Staff Product Manager, Search Algorithms
+**faire** · Product
+📍 New York City, NY; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8431976002?gh_jid=8431976002)
+🕐 Updated: `2026-04-09T00:57:10-04:00` &nbsp;|&nbsp; ID: `8431976002`
+
+---
+
 ## 📅 Run: 2026-04-09 03:28 UTC
 
 ### 🆕 Senior Site Reliability Engineer (Resilience) - Platform Resilience
