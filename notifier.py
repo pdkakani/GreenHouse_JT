@@ -1,19 +1,17 @@
 """
 notifier.py — Slack webhook alerter for high-match jobs.
-
-Sends a Slack message when a job scores >= threshold.
-Webhook URL is read from SLACK_WEBHOOK_URL environment variable.
+Accepts a plain int score from scorer.py.
 """
 
 import os
 import json
 import requests
-from typing import Optional
+from typing import Union
 
 SLACK_TIMEOUT = 10
 
 
-def _get_webhook_url() -> Optional[str]:
+def _get_webhook_url():
     url = os.environ.get("SLACK_WEBHOOK_URL", "").strip()
     return url if url else None
 
@@ -23,7 +21,7 @@ def _score_emoji(score: int) -> str:
         return "🔥"
     elif score >= 70:
         return "🎯"
-    elif score >= 60:
+    elif score >= 65:
         return "✅"
     else:
         return "👀"
@@ -31,15 +29,11 @@ def _score_emoji(score: int) -> str:
 
 def _score_bar(score: int) -> str:
     filled = round(score / 10)
-    empty = 10 - filled
-    return "█" * filled + "░" * empty
+    return "█" * filled + "░" * (10 - filled)
 
 
 def send_slack_alert(job: dict, score: int) -> bool:
-    """
-    Send a Slack alert for a high-match job.
-    Returns True on success, False on failure.
-    """
+    """Send a Slack alert for a high-match job. score is a plain int."""
     webhook_url = _get_webhook_url()
     if not webhook_url:
         print("  [slack] SLACK_WEBHOOK_URL not set — skipping alert.")
@@ -51,10 +45,8 @@ def send_slack_alert(job: dict, score: int) -> bool:
     url = job.get("_url", "")
     job_id = job.get("id", "")
     updated_at = job.get("updated_at", "")
-    tag = job.get("_tag", "NEW")
     department = job.get("_department", "")
 
-    tag_label = "🆕 New" if tag == "NEW" else "🔄 Updated"
     emoji = _score_emoji(score)
     bar = _score_bar(score)
     dept_text = f" · {department}" if department else ""
@@ -71,22 +63,9 @@ def send_slack_alert(job: dict, score: int) -> bool:
         {
             "type": "section",
             "fields": [
-                {
-                    "type": "mrkdwn",
-                    "text": f"*Company*\n{company}{dept_text}",
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": f"*Location*\n{location}",
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": f"*Status*\n{tag_label}",
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": f"*Score*\n`{bar}` {score}/100",
-                },
+                {"type": "mrkdwn", "text": f"*Company*\n{company}{dept_text}"},
+                {"type": "mrkdwn", "text": f"*Location*\n{location}"},
+                {"type": "mrkdwn", "text": f"*Score*\n`{bar}` {score}/100"},
             ],
         },
         {
@@ -103,10 +82,7 @@ def send_slack_alert(job: dict, score: int) -> bool:
         {
             "type": "context",
             "elements": [
-                {
-                    "type": "mrkdwn",
-                    "text": f"Job ID: `{job_id}` · Updated: `{updated_at}`",
-                }
+                {"type": "mrkdwn", "text": f"Job ID: `{job_id}` · Updated: `{updated_at}`"}
             ],
         },
         {"type": "divider"},
@@ -136,7 +112,6 @@ def send_slack_alert(job: dict, score: int) -> bool:
 
 
 def send_run_summary(stats: dict) -> bool:
-    """Send a brief run summary to Slack."""
     webhook_url = _get_webhook_url()
     if not webhook_url:
         return False
@@ -147,7 +122,7 @@ def send_run_summary(stats: dict) -> bool:
             f"{stats.get('jobs_new', 0)} new · "
             f"{stats.get('jobs_updated', 0)} updated · "
             f"{stats.get('alerts_sent', 0)} alerts sent · "
-            f"{stats.get('elapsed', 0):.1f}s elapsed"
+            f"{stats.get('elapsed', 0)}s elapsed"
         )
     }
 

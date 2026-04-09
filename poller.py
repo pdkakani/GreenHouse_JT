@@ -1,13 +1,5 @@
 """
 poller.py — Main Greenhouse job polling script.
-
-Fetches jobs from Greenhouse public board APIs for all companies
-listed in companies.txt, filters by USA location and software/IT
-title, deduplicates against seen state, and writes results to
-output/jobs.md.
-
-Usage:
-    python poller.py
 """
 
 import sys
@@ -22,10 +14,6 @@ from state import load_state, save_state, is_seen, get_updated_at, record_job, w
 from scorer import score_job, should_alert
 from notifier import send_slack_alert, send_run_summary
 
-# ---------------------------------------------------------------------------
-# Config
-# ---------------------------------------------------------------------------
-
 COMPANIES_FILE = Path("companies.txt")
 OUTPUT_FILE = Path("output/jobs.md")
 API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true"
@@ -34,10 +22,6 @@ RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 MAX_JOBS_PER_COMPANY = 500
 
-
-# ---------------------------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------------------------
 
 def load_companies() -> list[str]:
     if not COMPANIES_FILE.exists():
@@ -57,8 +41,7 @@ def fetch_jobs(board: str) -> Optional[list[dict]]:
         try:
             resp = requests.get(url, timeout=REQUEST_TIMEOUT)
             if resp.status_code == 200:
-                data = resp.json()
-                return data.get("jobs", [])
+                return resp.json().get("jobs", [])
             elif resp.status_code == 404:
                 print(f"  [skip] {board}: 404 — board not found.")
                 return None
@@ -105,13 +88,15 @@ def format_job_entry(job: dict, tag: str = "NEW") -> str:
     job_id = job.get("id", "")
     updated_at = job.get("updated_at", "")
     department = job.get("_department", "")
+    score = job.get("_score")
 
     loc_display = f"📍 {location}" if location else "📍 Remote / Unspecified"
     dept_display = f" · {department}" if department else ""
+    score_display = f" · 🎯 {score}%" if score is not None else ""
 
     return (
         f"### {icon} {title}\n"
-        f"**{company}**{dept_display}\n"
+        f"**{company}**{dept_display}{score_display}\n"
         f"{loc_display} &nbsp;|&nbsp; 🔗 [Apply Here]({url})\n"
         f"🕐 Updated: `{updated_at}` &nbsp;|&nbsp; ID: `{job_id}`\n"
         f"\n---\n"
@@ -121,19 +106,15 @@ def format_job_entry(job: dict, tag: str = "NEW") -> str:
 def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    all_entries = []
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    header = f"\n## 📅 Run: {now_str}\n\n"
+    entries = ""
+    for job in new_jobs:
+        entries += format_job_entry(job, tag="NEW")
+    for job in updated_jobs:
+        entries += format_job_entry(job, tag="UPDATED")
 
-    if new_jobs or updated_jobs:
-        header = f"\n## 📅 Run: {now_str}\n\n"
-        entries = ""
-        for job in new_jobs:
-            entries += format_job_entry(job, tag="NEW")
-        for job in updated_jobs:
-            entries += format_job_entry(job, tag="UPDATED")
-        all_entries.append(header + entries)
-
-    if not all_entries:
+    if not entries:
         return
 
     existing = ""
@@ -148,15 +129,8 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
     if existing.startswith("# 🌿"):
         existing = existing[existing.index("\n## "):] if "\n## " in existing else ""
 
-    OUTPUT_FILE.write_text(
-        page_header + "".join(all_entries) + existing,
-        encoding="utf-8",
-    )
+    OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
 
-
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
 
 def main():
     start = datetime.now(timezone.utc)
@@ -207,7 +181,7 @@ def main():
                 if prev_updated == updated_at:
                     stats["jobs_skipped_seen"] += 1
                     continue
-                # updated_at changed — update state but DO NOT score or alert
+                # updated_at changed — update state, add to output, but never re-score
                 record_job(state, {
                     "id": job_id,
                     "updated_at": updated_at,
@@ -223,7 +197,7 @@ def main():
                     "_tag": "UPDATED",
                 })
                 stats["jobs_updated"] += 1
-                continue  # skip scoring for updated jobs
+                continue
 
             # Brand new job — run through filters
             location = extract_location(job)
@@ -259,7 +233,7 @@ def main():
     save_state(state)
 
     # --- Score & alert for NEW jobs only ---
-    # Filter out any job already alerted (extra safety net against duplicates)
+    # Skip any job already alerted (safety net against duplicates)
     jobs_to_score = [
         job for job in new_jobs
         if not was_alerted(state, str(job.get("id", "")))
@@ -272,20 +246,20 @@ def main():
             job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
             print(f"  → {job_label} ...", end=" ", flush=True)
 
-            score_result = score_job(job)
-            if score_result is None:
+            score = score_job(job)  # returns int or None
+            if score is None:
                 print("scoring failed, skipping.")
                 stats["alerts_skipped"] += 1
                 continue
 
-            score = score_result["score"]
             print(f"score={score}%")
+            job["_score"] = score  # attach score to job for output/md display
 
-            # Mark alerted regardless of score — never score this job again
+            # Mark as scored — never score this job again regardless of outcome
             mark_alerted(state, job_id)
 
             if should_alert(score):
-                sent = send_slack_alert(job, score_result)
+                sent = send_slack_alert(job, score)
                 if sent:
                     stats["alerts_sent"] += 1
                 else:
