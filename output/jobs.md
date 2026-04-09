@@ -2,6 +2,129 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 03:28 UTC
+
+### 🆕 Senior Site Reliability Engineer (Resilience) - Platform Resilience
+**elastic** · Platform - SRE
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7794016&gh_jid=7794016)
+🕐 Updated: `2026-04-08T21:00:57-04:00` &nbsp;|&nbsp; ID: `7794016`
+
+---
+### 🆕 iOS Engineer
+**robinhood** · ENG Infrastructure
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027)
+🕐 Updated: `2026-04-08T21:55:06-04:00` &nbsp;|&nbsp; ID: `7794027`
+
+---
+### 🆕 Software Engineer, Credit Line
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219795002?gh_jid=8219795002)
+🕐 Updated: `2026-04-08T22:19:37-04:00` &nbsp;|&nbsp; ID: `8219795002`
+
+---
+### 🔄 Engineering Manager, People Products
+**anthropic** · Engineering & Design - Product
+📍 Remote-Friendly (Travel Required) | San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5119478008)
+🕐 Updated: `2026-04-08T22:41:49-04:00` &nbsp;|&nbsp; ID: `5119478008`
+
+---
+### 🔄 Director, Technical Accounting & Reporting
+**amplitude** · Accounting
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8466229002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8466229002`
+
+---
+### 🔄 Engineering Manager, Guides & Surveys
+**amplitude** · Engineering : Blades
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8453527002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8453527002`
+
+---
+### 🔄 Manager, AMER Technical Support
+**amplitude** · Engineering : Sup
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8451094002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8451094002`
+
+---
+### 🔄 Principal Product Manager, AI - People & Places
+**amplitude** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8457963002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8457963002`
+
+---
+### 🔄 Senior Sales Engineer (Presales) - West
+**amplitude** · Solutions Consulting
+📍 Los Angeles, CA; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8466328002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8466328002`
+
+---
+### 🔄 Senior Software Engineer, Core Analytics
+**amplitude** · Engineering : Foundations
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8423428002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8423428002`
+
+---
+### 🔄 Senior Software Engineer,  Data Management 
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8445406002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8445406002`
+
+---
+### 🔄 Software Engineering Manager
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8493911002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8493911002`
+
+---
+### 🔄 Sr. Technical Customer Success Manager (12mth Fixed Term Contract)
+**amplitude** · Customer Success Management
+📍 Remote - Germany &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8496177002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8496177002`
+
+---
+### 🔄 Staff Frontend Engineer
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8330434002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8330434002`
+
+---
+### 🔄 Staff Software Engineer - Android DX
+**amplitude** · Engineering : Blades
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8407479002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8407479002`
+
+---
+### 🔄 Staff Software Engineer, Core Analytics
+**amplitude** · Engineering : Foundations
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8444770002)
+🕐 Updated: `2026-04-08T21:02:34-04:00` &nbsp;|&nbsp; ID: `8444770002`
+
+---
+### 🔄 Associate Product Manager, Billing
+**klaviyo** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7615553003)
+🕐 Updated: `2026-04-08T22:26:43-04:00` &nbsp;|&nbsp; ID: `7615553003`
+
+---
+### 🔄 Manager, People Technology (Workday)
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7684381003)
+🕐 Updated: `2026-04-08T20:45:54-04:00` &nbsp;|&nbsp; ID: `7684381003`
+
+---
+### 🔄 iOS Engineer
+**robinhood** · ENG Infrastructure
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980)
+🕐 Updated: `2026-04-08T22:03:01-04:00` &nbsp;|&nbsp; ID: `6674980`
+
+---
+### 🔄 Engineering Manager, Machine Learning (Caper)
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7759475)
+🕐 Updated: `2026-04-08T20:36:44-04:00` &nbsp;|&nbsp; ID: `7759475`
+
+---
+
 ## 📅 Run: 2026-04-09 00:04 UTC
 
 ### 🆕 Director, Product Specialists (Solutions Engineering)
