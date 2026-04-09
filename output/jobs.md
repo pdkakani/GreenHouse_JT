@@ -2,6 +2,87 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 18:39 UTC
+
+### 🆕 Senior Full-Stack Engineer, AI Financial Actions & Recommendations
+**sofi** · Engineering
+📍 WA - Seattle; CA - San Francisco HQ &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692934003?gh_jid=7692934003)
+🕐 Updated: `2026-04-09T14:29:38-04:00` &nbsp;|&nbsp; ID: `7692934003`
+
+---
+### 🔄 Associate Value Engineer
+**cribl** · Sales
+📍 Remote - Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5842387004)
+🕐 Updated: `2026-04-09T14:38:18-04:00` &nbsp;|&nbsp; ID: `5842387004`
+
+---
+### 🔄 Staff Product Designer, AI
+**okta** · BT Engineering Services-779
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7743611?gh_jid=7743611)
+🕐 Updated: `2026-04-09T14:03:43-04:00` &nbsp;|&nbsp; ID: `7743611`
+
+---
+### 🔄 Software Engineer II - Abnormal Data Platform
+**abnormalsecurity** · Abnormal Data Platform
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694258003?gh_jid=7694258003)
+🕐 Updated: `2026-04-09T14:08:44-04:00` &nbsp;|&nbsp; ID: `7694258003`
+
+---
+### 🔄 Senior Software Engineer, Platform
+**branch** · Engineering
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/branch/jobs/7693385003)
+🕐 Updated: `2026-04-09T14:16:27-04:00` &nbsp;|&nbsp; ID: `7693385003`
+
+---
+### 🔄 Staff Software Engineer - Tax Engineering
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773216?gh_jid=7773216)
+🕐 Updated: `2026-04-09T13:36:32-04:00` &nbsp;|&nbsp; ID: `7773216`
+
+---
+### 🔄 Activation Sales Development Representative I
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7144697)
+🕐 Updated: `2026-04-09T13:40:33-04:00` &nbsp;|&nbsp; ID: `7144697`
+
+---
+### 🔄 Retention Sales Development Representative II
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7712406)
+🕐 Updated: `2026-04-09T13:40:34-04:00` &nbsp;|&nbsp; ID: `7712406`
+
+---
+### 🔄 Senior Software Engineer, Ads
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7341203)
+🕐 Updated: `2026-04-09T14:06:39-04:00` &nbsp;|&nbsp; ID: `7341203`
+
+---
+### 🔄 Senior Software Engineer, Data Governance & Foundations
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776249)
+🕐 Updated: `2026-04-09T14:06:40-04:00` &nbsp;|&nbsp; ID: `7776249`
+
+---
+### 🔄 Senior Software Engineer II, Core Experience
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7171162)
+🕐 Updated: `2026-04-09T14:06:39-04:00` &nbsp;|&nbsp; ID: `7171162`
+
+---
+### 🔄 Senior Software Engineer II, Data Platform
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7171161)
+🕐 Updated: `2026-04-09T14:06:39-04:00` &nbsp;|&nbsp; ID: `7171161`
+
+---
+### 🔄 Senior Software Engineer II, Storage
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7564947)
+🕐 Updated: `2026-04-09T14:06:39-04:00` &nbsp;|&nbsp; ID: `7564947`
+
+---
+
 ## 📅 Run: 2026-04-09 17:37 UTC
 
 ### 🆕 Principal Machine Learning & Data Engineer 
