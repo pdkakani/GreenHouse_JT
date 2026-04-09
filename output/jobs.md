@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 00:04 UTC
+
+### 🆕 Director, Product Specialists (Solutions Engineering)
+**twilio** · Overlay/Specialist Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7705877)
+🕐 Updated: `2026-04-08T19:32:57-04:00` &nbsp;|&nbsp; ID: `7705877`
+
+---
+### 🆕 Senior Customer Support Engineer
+**vercel** · Customer Success Engineering
+📍 Remote - Japan &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5858553004)
+🕐 Updated: `2026-04-08T19:46:20-04:00` &nbsp;|&nbsp; ID: `5858553004`
+
+---
+### 🆕 Senior Product Manager, Stablecoins
+**marqeta** · Credit/Lending Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743057)
+🕐 Updated: `2026-04-08T19:43:56-04:00` &nbsp;|&nbsp; ID: `7743057`
+
+---
+### 🔄 Senior Software Engineer (Platform- Identity)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7660227?gh_jid=7660227)
+🕐 Updated: `2026-04-08T19:38:30-04:00` &nbsp;|&nbsp; ID: `7660227`
+
+---
+
 ## 📅 Run: 2026-04-08 23:33 UTC
 
 ### 🆕 Sales Development Representative (Denver)
