@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 09:46 UTC
+
+### 🆕 Senior Ceph Storage Engineer 
+**godaddy** · IT Ops
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=6690965003)
+🕐 Updated: `2026-04-09T05:44:44-04:00` &nbsp;|&nbsp; ID: `6690965003`
+
+---
+### 🔄 Principal Java Engineer II - Machine Learning - Elasticsearch
+**elastic** · Platform - Elasticsearch
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254)
+🕐 Updated: `2026-04-09T05:26:23-04:00` &nbsp;|&nbsp; ID: `7735254`
+
+---
+### 🔄 Senior Software Engineer, Echo
+**coinbase** · Engineering - Backend
+📍 Remote - UK &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7569402?gh_jid=7569402)
+🕐 Updated: `2026-04-09T04:18:32-04:00` &nbsp;|&nbsp; ID: `7569402`
+
+---
+
 ## 📅 Run: 2026-04-09 08:18 UTC
 
 ### 🆕 Senior Solutions Engineer

@@ -1183,7 +1183,7 @@
   },
   "7569402": {
     "first_seen": "2026-04-06T02:02:04.306804+00:00",
-    "updated_at": "2026-04-09T04:10:39-04:00",
+    "updated_at": "2026-04-09T04:18:32-04:00",
     "title": "Senior Software Engineer, Echo",
     "company": "coinbase"
   },
@@ -4975,8 +4975,8 @@
   },
   "7735254": {
     "first_seen": "2026-04-06T02:02:14.595305+00:00",
-    "updated_at": "2026-03-19T07:54:27-04:00",
-    "title": "Principal Software Engineer II - Machine Learning - Elasticsearch",
+    "updated_at": "2026-04-09T05:26:23-04:00",
+    "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "elastic"
   },
   "7590700": {
@@ -21280,5 +21280,11 @@
     "updated_at": "2026-04-09T04:17:01-04:00",
     "title": "Senior Solutions Engineer",
     "company": "databricks"
+  },
+  "6690965003": {
+    "first_seen": "2026-04-09T09:46:24.489469+00:00",
+    "updated_at": "2026-04-09T05:44:44-04:00",
+    "title": "Senior Ceph Storage Engineer ",
+    "company": "godaddy"
   }
 }
