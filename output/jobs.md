@@ -2,6 +2,81 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 20:43 UTC
+
+### 🆕 Senior Software Engineer - HSM
+**bitgo** · Engineering
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500948002)
+🕐 Updated: `2026-04-09T16:27:31-04:00` &nbsp;|&nbsp; ID: `8500948002`
+
+---
+### 🆕 Senior Software Engineer - HSM
+**bitgo** · Engineering
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500944002)
+🕐 Updated: `2026-04-09T16:25:27-04:00` &nbsp;|&nbsp; ID: `8500944002`
+
+---
+### 🆕 Senior Software Engineer - HSM
+**bitgo** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500943002)
+🕐 Updated: `2026-04-09T16:24:01-04:00` &nbsp;|&nbsp; ID: `8500943002`
+
+---
+### 🔄 Partner Marketing Manager, Cloud - NAMER
+**datadog** · Partner Marketing
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7779207/?gh_jid=7779207)
+🕐 Updated: `2026-04-09T16:18:40-04:00` &nbsp;|&nbsp; ID: `7779207`
+
+---
+### 🔄 Solutions Engineer, Okta 
+**okta** · SE Field-321
+📍 Arizona; Bellevue, Washington; Chicago, Illinois; Colorado; Nevada; Ohio; Oregon; Utah &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7550140?gh_jid=7550140)
+🕐 Updated: `2026-04-09T16:19:36-04:00` &nbsp;|&nbsp; ID: `7550140`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7618184003)
+🕐 Updated: `2026-04-09T16:41:09-04:00` &nbsp;|&nbsp; ID: `7618184003`
+
+---
+### 🔄 Staff Product Manager, Scheduling 
+**calendly** · Product
+📍 San Francisco (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8139892002)
+🕐 Updated: `2026-04-09T15:57:46-04:00` &nbsp;|&nbsp; ID: `8139892002`
+
+---
+### 🔄 Software Engineer
+**stripe** · PERM
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-09T16:12:00-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🔄 System Admin
+**tabapay** · Engineering 
+📍 Palo Alto, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://tabapay.com/careers.html?gh_jid=4638908006)
+🕐 Updated: `2026-04-09T15:57:19-04:00` &nbsp;|&nbsp; ID: `4638908006`
+
+---
+### 🔄 Senior Software Engineer - AI Engineering
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5850044004)
+🕐 Updated: `2026-04-09T16:31:41-04:00` &nbsp;|&nbsp; ID: `5850044004`
+
+---
+### 🔄 Director of Engineering, Catalog Content
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793600)
+🕐 Updated: `2026-04-09T16:08:21-04:00` &nbsp;|&nbsp; ID: `7793600`
+
+---
+### 🔄 Senior Machine Learning Engineer, Operations Research
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793089)
+🕐 Updated: `2026-04-09T16:14:14-04:00` &nbsp;|&nbsp; ID: `7793089`
+
+---
+
 ## 📅 Run: 2026-04-09 19:50 UTC
 
 ### 🆕 Product Manager II – Risk-Based Alerting (SIEM)
