@@ -2,6 +2,105 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 19:50 UTC
+
+### 🆕 Product Manager II – Risk-Based Alerting (SIEM)
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7800765/?gh_jid=7800765)
+🕐 Updated: `2026-04-09T14:55:18-04:00` &nbsp;|&nbsp; ID: `7800765`
+
+---
+### 🆕 Implementation Engineer
+**expel** · Customer Success
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://expel.com/about/career-listing/8499991002?gh_jid=8499991002)
+🕐 Updated: `2026-04-09T14:51:51-04:00` &nbsp;|&nbsp; ID: `8499991002`
+
+---
+### 🆕 Engineering Manager - Simple Trade
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773210?gh_jid=7773210)
+🕐 Updated: `2026-04-09T15:40:57-04:00` &nbsp;|&nbsp; ID: `7773210`
+
+---
+### 🆕 Director, Software Engineering
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793600)
+🕐 Updated: `2026-04-09T15:27:46-04:00` &nbsp;|&nbsp; ID: `7793600`
+
+---
+### 🔄 Open Source Program Developer
+**datadog** · Community
+📍 District of Columbia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Pennsylvania, USA, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7636202/?gh_jid=7636202)
+🕐 Updated: `2026-04-09T15:39:23-04:00` &nbsp;|&nbsp; ID: `7636202`
+
+---
+### 🔄 Open Source Program Developer
+**datadog** · Community
+📍 Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; The Netherlands, Remote; United Kingdom, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7721661/?gh_jid=7721661)
+🕐 Updated: `2026-04-09T15:39:54-04:00` &nbsp;|&nbsp; ID: `7721661`
+
+---
+### 🔄 Open Source Program Developer
+**datadog** · Community
+📍 Portugal, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7760903/?gh_jid=7760903)
+🕐 Updated: `2026-04-09T15:39:53-04:00` &nbsp;|&nbsp; ID: `7760903`
+
+---
+### 🔄 Senior Sales Development Representative - Mid-Market 
+**huntress** · Sales Development
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/6485855003)
+🕐 Updated: `2026-04-09T15:01:55-04:00` &nbsp;|&nbsp; ID: `6485855003`
+
+---
+### 🔄 DevOps Engineer
+**tabapay** · Engineering 
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://tabapay.com/careers.html?gh_jid=4598347006)
+🕐 Updated: `2026-04-09T15:46:47-04:00` &nbsp;|&nbsp; ID: `4598347006`
+
+---
+### 🔄 Technical Support Engineer II
+**alloy** · Client Success & Solutions
+📍 Denver, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8489983002&gh_jid=8489983002)
+🕐 Updated: `2026-04-09T15:30:35-04:00` &nbsp;|&nbsp; ID: `8489983002`
+
+---
+### 🔄 Engineering Manager - Tax Engineering
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773213?gh_jid=7773213)
+🕐 Updated: `2026-04-09T15:34:29-04:00` &nbsp;|&nbsp; ID: `7773213`
+
+---
+### 🔄 Staff Software Engineer - Tax Engineering
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773216?gh_jid=7773216)
+🕐 Updated: `2026-04-09T15:34:34-04:00` &nbsp;|&nbsp; ID: `7773216`
+
+---
+### 🔄 Technical Program Manager, Compliance 
+**coinbase** · Legal & Compliance
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7484240?gh_jid=7484240)
+🕐 Updated: `2026-04-09T15:48:30-04:00` &nbsp;|&nbsp; ID: `7484240`
+
+---
+### 🔄 Senior Engineering Manager, Builder Tools
+**sofi** · Engineering
+📍 WA - Seattle; CA - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7632109003?gh_jid=7632109003)
+🕐 Updated: `2026-04-09T15:47:15-04:00` &nbsp;|&nbsp; ID: `7632109003`
+
+---
+### 🔄 Staff Software Engineer, Money Movement
+**sofi** · Engineering
+📍 DE - Greenville; NY - New York City; CA - San Francisco; WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7575010003?gh_jid=7575010003)
+🕐 Updated: `2026-04-09T15:32:29-04:00` &nbsp;|&nbsp; ID: `7575010003`
+
+---
+### 🔄 Staff Software Engineer, FoodStorm
+**instacart** · Software Engineering
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7361224)
+🕐 Updated: `2026-04-09T15:39:42-04:00` &nbsp;|&nbsp; ID: `7361224`
+
+---
+
 ## 📅 Run: 2026-04-09 18:39 UTC
 
 ### 🆕 Senior Full-Stack Engineer, AI Financial Actions & Recommendations
