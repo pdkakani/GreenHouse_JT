@@ -877,7 +877,7 @@
   },
   "7484189": {
     "first_seen": "2026-04-06T02:02:04.304458+00:00",
-    "updated_at": "2026-03-29T22:26:54-04:00",
+    "updated_at": "2026-04-09T12:42:44-04:00",
     "title": "Product Manager II - Cash Balances ",
     "company": "coinbase"
   },
@@ -6397,7 +6397,7 @@
   },
   "8453527002": {
     "first_seen": "2026-04-06T02:02:16.343889+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-09T12:44:17-04:00",
     "title": "Engineering Manager, Guides & Surveys",
     "company": "amplitude"
   },
@@ -17863,7 +17863,7 @@
   },
   "7232634": {
     "first_seen": "2026-04-06T08:10:42.106363+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-09T13:28:14-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart"
   },
@@ -17875,7 +17875,7 @@
   },
   "7175500": {
     "first_seen": "2026-04-06T08:10:42.106397+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-09T13:28:14-04:00",
     "title": "Senior Software Engineer, Core Experience",
     "company": "instacart"
   },
@@ -17887,7 +17887,7 @@
   },
   "7271639": {
     "first_seen": "2026-04-06T08:10:42.106443+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-09T13:28:14-04:00",
     "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
     "company": "instacart"
   },
@@ -17911,7 +17911,7 @@
   },
   "7769074": {
     "first_seen": "2026-04-06T08:10:42.106514+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-09T13:28:14-04:00",
     "title": "Senior Software Engineer II, Page Builder (Retailer Platform)",
     "company": "instacart"
   },
@@ -19981,7 +19981,7 @@
   },
   "7586690": {
     "first_seen": "2026-04-06T14:51:16.019190+00:00",
-    "updated_at": "2026-04-06T10:23:11-04:00",
+    "updated_at": "2026-04-09T12:45:09-04:00",
     "title": "Staff Product Designer - Financial Tools and Infrastructure",
     "company": "coinbase"
   },
@@ -20431,7 +20431,7 @@
   },
   "8483157002": {
     "first_seen": "2026-04-07T14:14:29.762779+00:00",
-    "updated_at": "2026-04-07T09:04:50-04:00",
+    "updated_at": "2026-04-09T12:51:49-04:00",
     "title": "Associate Technical Support Engineer",
     "company": "expel"
   },
@@ -20899,7 +20899,7 @@
   },
   "5179969008": {
     "first_seen": "2026-04-08T14:17:15.232461+00:00",
-    "updated_at": "2026-04-08T09:58:41-04:00",
+    "updated_at": "2026-04-09T12:25:24-04:00",
     "title": "Software Engineer ",
     "company": "automox"
   },
@@ -21103,7 +21103,7 @@
   },
   "7782588": {
     "first_seen": "2026-04-08T19:39:33.024315+00:00",
-    "updated_at": "2026-04-08T15:25:21-04:00",
+    "updated_at": "2026-04-09T12:22:46-04:00",
     "title": "Staff Software Engineer in Test, PAM ",
     "company": "okta"
   },
@@ -21325,7 +21325,7 @@
   },
   "7689233003": {
     "first_seen": "2026-04-09T14:59:39.892686+00:00",
-    "updated_at": "2026-04-09T09:10:57-04:00",
+    "updated_at": "2026-04-09T12:34:12-04:00",
     "title": "Senior Sales Development Representative - Ireland",
     "company": "huntress"
   },
@@ -21361,14 +21361,122 @@
   },
   "5842387004": {
     "first_seen": "2026-04-09T16:21:15.938863+00:00",
-    "updated_at": "2026-04-09T12:18:22-04:00",
+    "updated_at": "2026-04-09T12:49:01-04:00",
     "title": "Associate Value Engineer",
     "company": "cribl"
   },
   "8495235002": {
     "first_seen": "2026-04-09T16:21:22.832315+00:00",
-    "updated_at": "2026-04-09T12:20:07-04:00",
+    "updated_at": "2026-04-09T12:25:34-04:00",
     "title": "Senior Site Reliability Engineer",
     "company": "calendly"
+  },
+  "7155492": {
+    "first_seen": "2026-04-09T17:35:55.420543+00:00",
+    "updated_at": "2026-04-09T12:38:50-04:00",
+    "title": "Principal Machine Learning & Data Engineer ",
+    "company": "twilio"
+  },
+  "7066029": {
+    "first_seen": "2026-04-09T17:35:55.420825+00:00",
+    "updated_at": "2026-04-09T12:38:14-04:00",
+    "title": "Senior Manager, Machine Learning",
+    "company": "twilio"
+  },
+  "7563810003": {
+    "first_seen": "2026-04-09T17:35:56.795824+00:00",
+    "updated_at": "2026-04-09T13:12:29-04:00",
+    "title": "Software Engineer - Advanced Reporting",
+    "company": "klaviyo"
+  },
+  "7695144003": {
+    "first_seen": "2026-04-09T17:35:56.795870+00:00",
+    "updated_at": "2026-04-09T13:18:04-04:00",
+    "title": "Software Engineer II - Billing",
+    "company": "klaviyo"
+  },
+  "7694258003": {
+    "first_seen": "2026-04-09T17:36:00.060470+00:00",
+    "updated_at": "2026-04-09T13:35:23-04:00",
+    "title": "Software Engineer II - Behavioral Security Products",
+    "company": "abnormalsecurity"
+  },
+  "8500214002": {
+    "first_seen": "2026-04-09T17:36:03.900241+00:00",
+    "updated_at": "2026-04-09T13:14:27-04:00",
+    "title": "Support Engineer",
+    "company": "circleci"
+  },
+  "7789386": {
+    "first_seen": "2026-04-09T17:36:08.889211+00:00",
+    "updated_at": "2026-04-09T13:24:41-04:00",
+    "title": "Senior Data Scientist, AI Products",
+    "company": "dropbox"
+  },
+  "7789389": {
+    "first_seen": "2026-04-09T17:36:08.889259+00:00",
+    "updated_at": "2026-04-09T13:24:42-04:00",
+    "title": "Senior Data Scientist, AI Products",
+    "company": "dropbox"
+  },
+  "7120766": {
+    "first_seen": "2026-04-09T17:36:09.829563+00:00",
+    "updated_at": "2026-04-09T13:04:55-04:00",
+    "title": "Specialist Solutions Architect, Crypto & Stablecoins",
+    "company": "stripe"
+  },
+  "8390148002": {
+    "first_seen": "2026-04-09T17:36:14.343560+00:00",
+    "updated_at": "2026-04-09T12:39:46-04:00",
+    "title": "Senior Manager, Business Development (Embedded Finance)",
+    "company": "brex"
+  },
+  "7962890002": {
+    "first_seen": "2026-04-09T17:36:14.343604+00:00",
+    "updated_at": "2026-04-09T12:39:44-04:00",
+    "title": "Senior Manager, Business Development (Embedded Finance)",
+    "company": "brex"
+  },
+  "7773213": {
+    "first_seen": "2026-04-09T17:36:27.505055+00:00",
+    "updated_at": "2026-04-09T13:19:42-04:00",
+    "title": "Engineering Manager - Tax Engineering",
+    "company": "coinbase"
+  },
+  "7554499": {
+    "first_seen": "2026-04-09T17:36:27.506243+00:00",
+    "updated_at": "2026-04-09T12:58:41-04:00",
+    "title": "Senior Software Engineer, Backend - Platform (Payment Rails)",
+    "company": "coinbase"
+  },
+  "7773216": {
+    "first_seen": "2026-04-09T17:36:27.506370+00:00",
+    "updated_at": "2026-04-09T13:36:10-04:00",
+    "title": "Staff Software Engineer - Tax Engineering",
+    "company": "coinbase"
+  },
+  "8500571002": {
+    "first_seen": "2026-04-09T17:36:27.815022+00:00",
+    "updated_at": "2026-04-09T13:16:12-04:00",
+    "title": "Senior Software Engineer - Mobile (React Native)",
+    "company": "bitgo"
+  },
+  "8500566002": {
+    "first_seen": "2026-04-09T17:36:27.815050+00:00",
+    "updated_at": "2026-04-09T13:15:18-04:00",
+    "title": "Senior Software Engineer - Mobile (React Native)",
+    "company": "bitgo"
+  },
+  "8500552002": {
+    "first_seen": "2026-04-09T17:36:27.815102+00:00",
+    "updated_at": "2026-04-09T13:13:12-04:00",
+    "title": "Senior Software Engineer - Mobile (React Native)",
+    "company": "bitgo"
+  },
+  "7793089": {
+    "first_seen": "2026-04-09T17:36:31.786635+00:00",
+    "updated_at": "2026-04-09T13:10:11-04:00",
+    "title": "Senior Machine Learning Engineer",
+    "company": "instacart"
   }
 }

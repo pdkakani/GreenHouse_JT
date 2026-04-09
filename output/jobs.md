@@ -2,6 +2,195 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 17:37 UTC
+
+### 🆕 Principal Machine Learning & Data Engineer 
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7155492)
+🕐 Updated: `2026-04-09T12:38:50-04:00` &nbsp;|&nbsp; ID: `7155492`
+
+---
+### 🆕 Senior Manager, Machine Learning
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7066029)
+🕐 Updated: `2026-04-09T12:38:14-04:00` &nbsp;|&nbsp; ID: `7066029`
+
+---
+### 🆕 Software Engineer - Advanced Reporting
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7563810003)
+🕐 Updated: `2026-04-09T13:12:29-04:00` &nbsp;|&nbsp; ID: `7563810003`
+
+---
+### 🆕 Software Engineer II - Billing
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7695144003)
+🕐 Updated: `2026-04-09T13:18:04-04:00` &nbsp;|&nbsp; ID: `7695144003`
+
+---
+### 🆕 Software Engineer II - Behavioral Security Products
+**abnormalsecurity** · Behavioral Security Products
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694258003?gh_jid=7694258003)
+🕐 Updated: `2026-04-09T13:35:23-04:00` &nbsp;|&nbsp; ID: `7694258003`
+
+---
+### 🆕 Support Engineer
+**circleci** · Support Engineering
+📍 San Francisco, Toronto &nbsp;|&nbsp; 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8500214002/?gh_jid=8500214002)
+🕐 Updated: `2026-04-09T13:14:27-04:00` &nbsp;|&nbsp; ID: `8500214002`
+
+---
+### 🆕 Senior Data Scientist, AI Products
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7789386?gh_jid=7789386)
+🕐 Updated: `2026-04-09T13:24:41-04:00` &nbsp;|&nbsp; ID: `7789386`
+
+---
+### 🆕 Senior Data Scientist, AI Products
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7789389?gh_jid=7789389)
+🕐 Updated: `2026-04-09T13:24:42-04:00` &nbsp;|&nbsp; ID: `7789389`
+
+---
+### 🆕 Specialist Solutions Architect, Crypto & Stablecoins
+**stripe** · 1150 Solutions Architecture
+📍 US-NY &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7120766)
+🕐 Updated: `2026-04-09T13:04:55-04:00` &nbsp;|&nbsp; ID: `7120766`
+
+---
+### 🆕 Senior Manager, Business Development (Embedded Finance)
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8390148002?gh_jid=8390148002)
+🕐 Updated: `2026-04-09T12:39:46-04:00` &nbsp;|&nbsp; ID: `8390148002`
+
+---
+### 🆕 Senior Manager, Business Development (Embedded Finance)
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7962890002?gh_jid=7962890002)
+🕐 Updated: `2026-04-09T12:39:44-04:00` &nbsp;|&nbsp; ID: `7962890002`
+
+---
+### 🆕 Engineering Manager - Tax Engineering
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773213?gh_jid=7773213)
+🕐 Updated: `2026-04-09T13:19:42-04:00` &nbsp;|&nbsp; ID: `7773213`
+
+---
+### 🆕 Senior Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7554499?gh_jid=7554499)
+🕐 Updated: `2026-04-09T12:58:41-04:00` &nbsp;|&nbsp; ID: `7554499`
+
+---
+### 🆕 Staff Software Engineer - Tax Engineering
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773216?gh_jid=7773216)
+🕐 Updated: `2026-04-09T13:36:10-04:00` &nbsp;|&nbsp; ID: `7773216`
+
+---
+### 🆕 Senior Software Engineer - Mobile (React Native)
+**bitgo** · Engineering
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500571002)
+🕐 Updated: `2026-04-09T13:16:12-04:00` &nbsp;|&nbsp; ID: `8500571002`
+
+---
+### 🆕 Senior Software Engineer - Mobile (React Native)
+**bitgo** · Engineering
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500566002)
+🕐 Updated: `2026-04-09T13:15:18-04:00` &nbsp;|&nbsp; ID: `8500566002`
+
+---
+### 🆕 Senior Software Engineer - Mobile (React Native)
+**bitgo** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500552002)
+🕐 Updated: `2026-04-09T13:13:12-04:00` &nbsp;|&nbsp; ID: `8500552002`
+
+---
+### 🆕 Senior Machine Learning Engineer
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793089)
+🕐 Updated: `2026-04-09T13:10:11-04:00` &nbsp;|&nbsp; ID: `7793089`
+
+---
+### 🔄 Engineering Manager, Guides & Surveys
+**amplitude** · Engineering : Blades
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8453527002)
+🕐 Updated: `2026-04-09T12:44:17-04:00` &nbsp;|&nbsp; ID: `8453527002`
+
+---
+### 🔄 Associate Value Engineer
+**cribl** · Sales
+📍 Remote - Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5842387004)
+🕐 Updated: `2026-04-09T12:49:01-04:00` &nbsp;|&nbsp; ID: `5842387004`
+
+---
+### 🔄 Staff Software Engineer in Test, PAM 
+**okta** · Engineering Quality-630
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7782588?gh_jid=7782588)
+🕐 Updated: `2026-04-09T12:22:46-04:00` &nbsp;|&nbsp; ID: `7782588`
+
+---
+### 🔄 Associate Technical Support Engineer
+**expel** · Customer Success
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://expel.com/about/career-listing/8483157002?gh_jid=8483157002)
+🕐 Updated: `2026-04-09T12:51:49-04:00` &nbsp;|&nbsp; ID: `8483157002`
+
+---
+### 🔄 Software Engineer 
+**automox** · Software Engineering
+📍 Remote - Austin, TX - Denver, CO - Tampa, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/automox/jobs/5179969008)
+🕐 Updated: `2026-04-09T12:25:24-04:00` &nbsp;|&nbsp; ID: `5179969008`
+
+---
+### 🔄 Senior Sales Development Representative - Ireland
+**huntress** · Sales Development
+📍 Remote Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7689233003)
+🕐 Updated: `2026-04-09T12:34:12-04:00` &nbsp;|&nbsp; ID: `7689233003`
+
+---
+### 🔄 Senior Site Reliability Engineer
+**calendly** · Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8495235002)
+🕐 Updated: `2026-04-09T12:25:34-04:00` &nbsp;|&nbsp; ID: `8495235002`
+
+---
+### 🔄 Product Manager II - Cash Balances 
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7484189?gh_jid=7484189)
+🕐 Updated: `2026-04-09T12:42:44-04:00` &nbsp;|&nbsp; ID: `7484189`
+
+---
+### 🔄 Staff Product Designer - Financial Tools and Infrastructure
+**coinbase** · Design
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7586690?gh_jid=7586690)
+🕐 Updated: `2026-04-09T12:45:09-04:00` &nbsp;|&nbsp; ID: `7586690`
+
+---
+### 🔄 Senior Software Engineer, Ads
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7232634)
+🕐 Updated: `2026-04-09T13:28:14-04:00` &nbsp;|&nbsp; ID: `7232634`
+
+---
+### 🔄 Senior Software Engineer, Core Experience
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7175500)
+🕐 Updated: `2026-04-09T13:28:14-04:00` &nbsp;|&nbsp; ID: `7175500`
+
+---
+### 🔄 Senior Software Engineer II, Ads Data Solutions Engineering
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7271639)
+🕐 Updated: `2026-04-09T13:28:14-04:00` &nbsp;|&nbsp; ID: `7271639`
+
+---
+### 🔄 Senior Software Engineer II, Page Builder (Retailer Platform)
+**instacart** · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769074)
+🕐 Updated: `2026-04-09T13:28:14-04:00` &nbsp;|&nbsp; ID: `7769074`
+
+---
+
 ## 📅 Run: 2026-04-09 16:22 UTC
 
 ### 🆕 Senior Security Engineer, Incident Response
