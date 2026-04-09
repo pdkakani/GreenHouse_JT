@@ -6,7 +6,6 @@ Thread-safe enough for a single-process workflow runner.
 """
 
 import json
-import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Optional
@@ -34,7 +33,7 @@ def _save_raw(data: dict) -> None:
     tmp = STATE_FILE.with_suffix(".tmp")
     with tmp.open("w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, default=str)
-    tmp.replace(STATE_FILE)  # atomic on POSIX
+    tmp.replace(STATE_FILE)
 
 
 def load_state() -> dict:
@@ -72,6 +71,11 @@ def is_seen(state: dict, job_id: str) -> bool:
     return str(job_id) in state
 
 
+def was_alerted(state: dict, job_id: str) -> bool:
+    """Returns True if this job was already scored and alerted — never repeat."""
+    return state.get(str(job_id), {}).get("alerted", False)
+
+
 def get_updated_at(state: dict, job_id: str) -> Optional[str]:
     entry = state.get(str(job_id), {})
     return entry.get("updated_at")
@@ -86,4 +90,12 @@ def record_job(state: dict, job: dict) -> None:
         "updated_at": job.get("updated_at", ""),
         "title": job.get("title", ""),
         "company": job.get("company", ""),
+        "alerted": existing.get("alerted", False),  # preserve existing flag
     }
+
+
+def mark_alerted(state: dict, job_id: str) -> None:
+    """Mark a job as scored — prevents re-scoring even if updated_at changes."""
+    job_id = str(job_id)
+    if job_id in state:
+        state[job_id]["alerted"] = True

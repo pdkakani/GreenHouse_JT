@@ -18,7 +18,7 @@ from pathlib import Path
 from typing import Optional
 
 from filters import is_usa_location, is_software_role
-from state import load_state, save_state, is_seen, get_updated_at, record_job
+from state import load_state, save_state, is_seen, get_updated_at, record_job, was_alerted, mark_alerted
 from scorer import score_job, should_alert
 from notifier import send_slack_alert, send_run_summary
 
@@ -207,10 +207,25 @@ def main():
                 if prev_updated == updated_at:
                     stats["jobs_skipped_seen"] += 1
                     continue
-                tag = "UPDATED"
-            else:
-                tag = "NEW"
+                # updated_at changed — update state but DO NOT score or alert
+                record_job(state, {
+                    "id": job_id,
+                    "updated_at": updated_at,
+                    "title": job.get("title", ""),
+                    "company": job.get("company", board),
+                })
+                updated_jobs.append({
+                    **job,
+                    "company": job.get("company", board),
+                    "_location": extract_location(job),
+                    "_department": extract_department(job),
+                    "_url": extract_job_url(job),
+                    "_tag": "UPDATED",
+                })
+                stats["jobs_updated"] += 1
+                continue  # skip scoring for updated jobs
 
+            # Brand new job — run through filters
             location = extract_location(job)
             if not is_usa_location(location):
                 stats["jobs_skipped_location"] += 1
@@ -228,7 +243,7 @@ def main():
                 "_location": location,
                 "_department": department,
                 "_url": extract_job_url(job),
-                "_tag": tag,
+                "_tag": "NEW",
             }
 
             record_job(state, {
@@ -238,33 +253,39 @@ def main():
                 "company": enriched["company"],
             })
 
-            if tag == "NEW":
-                new_jobs.append(enriched)
-                stats["jobs_new"] += 1
-            else:
-                updated_jobs.append(enriched)
-                stats["jobs_updated"] += 1
+            new_jobs.append(enriched)
+            stats["jobs_new"] += 1
 
     save_state(state)
 
-    # --- Score & alert for new/updated jobs ---
-    all_fresh_jobs = new_jobs + updated_jobs
-    if all_fresh_jobs:
-        print(f"\n[scorer] Scoring {len(all_fresh_jobs)} new/updated job(s) against resume...")
-        for job in all_fresh_jobs:
+    # --- Score & alert for NEW jobs only ---
+    # Filter out any job already alerted (extra safety net against duplicates)
+    jobs_to_score = [
+        job for job in new_jobs
+        if not was_alerted(state, str(job.get("id", "")))
+    ]
+
+    if jobs_to_score:
+        print(f"\n[scorer] Scoring {len(jobs_to_score)} new job(s) against resume...")
+        for job in jobs_to_score:
+            job_id = str(job.get("id", ""))
             job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
             print(f"  → {job_label} ...", end=" ", flush=True)
 
-            score = score_job(job)
-            if score is None:
+            score_result = score_job(job)
+            if score_result is None:
                 print("scoring failed, skipping.")
                 stats["alerts_skipped"] += 1
                 continue
 
+            score = score_result["score"]
             print(f"score={score}%")
 
+            # Mark alerted regardless of score — never score this job again
+            mark_alerted(state, job_id)
+
             if should_alert(score):
-                sent = send_slack_alert(job, score)
+                sent = send_slack_alert(job, score_result)
                 if sent:
                     stats["alerts_sent"] += 1
                 else:
@@ -272,6 +293,9 @@ def main():
             else:
                 print(f"  [scorer] Below threshold ({score}% < 65%) — no alert.")
                 stats["alerts_skipped"] += 1
+
+        # Save state again to persist alerted flags
+        save_state(state)
 
         if stats["alerts_sent"] > 0:
             send_run_summary(stats)
