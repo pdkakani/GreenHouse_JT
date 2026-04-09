@@ -1285,7 +1285,7 @@
   },
   "7711287": {
     "first_seen": "2026-04-06T02:02:04.307205+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-09T12:03:54-04:00",
     "title": "Senior Staff Software Engineer, Data Platform",
     "company": "coinbase"
   },
@@ -2395,7 +2395,7 @@
   },
   "7473367": {
     "first_seen": "2026-04-06T02:02:05.037806+00:00",
-    "updated_at": "2026-04-03T03:05:48-04:00",
+    "updated_at": "2026-04-09T12:03:42-04:00",
     "title": "Senior Engineering Manager, Application and Product Security",
     "company": "robinhood"
   },
@@ -6181,8 +6181,8 @@
   },
   "7699251": {
     "first_seen": "2026-04-06T02:02:15.736434+00:00",
-    "updated_at": "2026-04-09T10:30:03-04:00",
-    "title": "Software Engineer (L2)",
+    "updated_at": "2026-04-09T11:09:23-04:00",
+    "title": "Software Engineer",
     "company": "twilio"
   },
   "7602727": {
@@ -8677,13 +8677,13 @@
   },
   "5065840004": {
     "first_seen": "2026-04-06T02:02:25.127415+00:00",
-    "updated_at": "2026-04-02T11:32:59-04:00",
+    "updated_at": "2026-04-09T11:31:55-04:00",
     "title": "Vercel Development Representative, Commercial",
     "company": "vercel"
   },
   "5815357004": {
     "first_seen": "2026-04-06T02:02:25.127469+00:00",
-    "updated_at": "2026-04-02T11:32:59-04:00",
+    "updated_at": "2026-04-09T11:28:54-04:00",
     "title": "Vercel Development Representative, Startups",
     "company": "vercel"
   },
@@ -12037,25 +12037,25 @@
   },
   "7614566": {
     "first_seen": "2026-04-06T08:10:08.690407+00:00",
-    "updated_at": "2026-02-25T12:01:31-05:00",
+    "updated_at": "2026-04-09T12:20:06-04:00",
     "title": "Lead Design Engineer",
     "company": "braze"
   },
   "7614563": {
     "first_seen": "2026-04-06T08:10:08.690422+00:00",
-    "updated_at": "2026-02-25T12:01:31-05:00",
+    "updated_at": "2026-04-09T12:19:54-04:00",
     "title": "Lead Design Engineer",
     "company": "braze"
   },
   "7614562": {
     "first_seen": "2026-04-06T08:10:08.690448+00:00",
-    "updated_at": "2026-02-25T12:01:30-05:00",
+    "updated_at": "2026-04-09T12:19:37-04:00",
     "title": "Lead Design Engineer",
     "company": "braze"
   },
   "7592334": {
     "first_seen": "2026-04-06T08:10:08.690465+00:00",
-    "updated_at": "2026-02-25T12:01:30-05:00",
+    "updated_at": "2026-04-09T12:19:05-04:00",
     "title": "Lead Design Engineer",
     "company": "braze"
   },
@@ -19987,13 +19987,13 @@
   },
   "5842463004": {
     "first_seen": "2026-04-06T15:40:23.225805+00:00",
-    "updated_at": "2026-04-06T11:01:11-04:00",
+    "updated_at": "2026-04-09T11:39:23-04:00",
     "title": "Technical Account Manager",
     "company": "hightouch"
   },
   "5842464004": {
     "first_seen": "2026-04-06T15:40:23.225830+00:00",
-    "updated_at": "2026-04-06T11:01:02-04:00",
+    "updated_at": "2026-04-09T11:40:33-04:00",
     "title": "Technical Account Manager",
     "company": "hightouch"
   },
@@ -21346,5 +21346,29 @@
     "updated_at": "2026-04-09T09:41:36-04:00",
     "title": "Mechanical Engineering Manager",
     "company": "formlabs"
+  },
+  "8026632002": {
+    "first_seen": "2026-04-09T16:21:10.947489+00:00",
+    "updated_at": "2026-04-09T12:11:02-04:00",
+    "title": "Senior Security Engineer, Incident Response",
+    "company": "databricks"
+  },
+  "7783095": {
+    "first_seen": "2026-04-09T16:21:15.560633+00:00",
+    "updated_at": "2026-04-09T11:49:59-04:00",
+    "title": "Software Engineer II",
+    "company": "iterable"
+  },
+  "5842387004": {
+    "first_seen": "2026-04-09T16:21:15.938863+00:00",
+    "updated_at": "2026-04-09T12:18:22-04:00",
+    "title": "Associate Value Engineer",
+    "company": "cribl"
+  },
+  "8495235002": {
+    "first_seen": "2026-04-09T16:21:22.832315+00:00",
+    "updated_at": "2026-04-09T12:20:07-04:00",
+    "title": "Senior Site Reliability Engineer",
+    "company": "calendly"
   }
 }

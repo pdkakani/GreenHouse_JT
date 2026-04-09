@@ -2,6 +2,99 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 16:22 UTC
+
+### 🆕 Senior Security Engineer, Incident Response
+**databricks** · Security
+📍 Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Remote - Denmark; Remote - France; Remote - Germany; Remote - Italy; Remote - Spain; Remote - Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026632002)
+🕐 Updated: `2026-04-09T12:11:02-04:00` &nbsp;|&nbsp; ID: `8026632002`
+
+---
+### 🆕 Software Engineer II
+**iterable** · Engineering
+📍 Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7783095)
+🕐 Updated: `2026-04-09T11:49:59-04:00` &nbsp;|&nbsp; ID: `7783095`
+
+---
+### 🆕 Associate Value Engineer
+**cribl** · Sales
+📍 Remote - Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5842387004)
+🕐 Updated: `2026-04-09T12:18:22-04:00` &nbsp;|&nbsp; ID: `5842387004`
+
+---
+### 🆕 Senior Site Reliability Engineer
+**calendly** · Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8495235002)
+🕐 Updated: `2026-04-09T12:20:07-04:00` &nbsp;|&nbsp; ID: `8495235002`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Estonia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7699251)
+🕐 Updated: `2026-04-09T11:09:23-04:00` &nbsp;|&nbsp; ID: `7699251`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7614563?gh_jid=7614563)
+🕐 Updated: `2026-04-09T12:19:54-04:00` &nbsp;|&nbsp; ID: `7614563`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7592334?gh_jid=7592334)
+🕐 Updated: `2026-04-09T12:19:05-04:00` &nbsp;|&nbsp; ID: `7592334`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7614566?gh_jid=7614566)
+🕐 Updated: `2026-04-09T12:20:06-04:00` &nbsp;|&nbsp; ID: `7614566`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7614562?gh_jid=7614562)
+🕐 Updated: `2026-04-09T12:19:37-04:00` &nbsp;|&nbsp; ID: `7614562`
+
+---
+### 🔄 Technical Account Manager
+**hightouch** · Customer Success
+📍 Remote (Australia) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5842463004)
+🕐 Updated: `2026-04-09T11:39:23-04:00` &nbsp;|&nbsp; ID: `5842463004`
+
+---
+### 🔄 Technical Account Manager
+**hightouch** · Customer Success
+📍 Remote (APJ) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5842464004)
+🕐 Updated: `2026-04-09T11:40:33-04:00` &nbsp;|&nbsp; ID: `5842464004`
+
+---
+### 🔄 Vercel Development Representative, Commercial
+**vercel** · Sales Non-QCR
+📍 Hybrid - San Francisco, New York City, Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5065840004)
+🕐 Updated: `2026-04-09T11:31:55-04:00` &nbsp;|&nbsp; ID: `5065840004`
+
+---
+### 🔄 Vercel Development Representative, Startups
+**vercel** · Sales Non-QCR
+📍 Hybrid - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/vercel/jobs/5815357004)
+🕐 Updated: `2026-04-09T11:28:54-04:00` &nbsp;|&nbsp; ID: `5815357004`
+
+---
+### 🔄 Senior Staff Software Engineer, Data Platform
+**coinbase** · Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7711287?gh_jid=7711287)
+🕐 Updated: `2026-04-09T12:03:54-04:00` &nbsp;|&nbsp; ID: `7711287`
+
+---
+### 🔄 Senior Engineering Manager, Application and Product Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7473367?t=gh_src=&gh_jid=7473367)
+🕐 Updated: `2026-04-09T12:03:42-04:00` &nbsp;|&nbsp; ID: `7473367`
+
+---
+
 ## 📅 Run: 2026-04-09 15:00 UTC
 
 ### 🆕 Delivery Solutions Architect
