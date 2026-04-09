@@ -775,9 +775,10 @@
   },
   "7616000": {
     "first_seen": "2026-04-06T02:02:04.303011+00:00",
-    "updated_at": "2026-03-29T22:26:55-04:00",
+    "updated_at": "2026-04-09T16:41:27-04:00",
     "title": "Consumer L&D SME Trainer Lead Analyst",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7694499": {
     "first_seen": "2026-04-06T02:02:04.303415+00:00",
@@ -817,15 +818,17 @@
   },
   "7650637": {
     "first_seen": "2026-04-06T02:02:04.303682+00:00",
-    "updated_at": "2026-03-29T22:27:01-04:00",
+    "updated_at": "2026-04-09T18:51:13-04:00",
     "title": "Engineering Manager (Institutional - Custody, Prime Onchain Wallet)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7571814": {
     "first_seen": "2026-04-06T02:02:04.303692+00:00",
-    "updated_at": "2026-03-29T22:26:57-04:00",
+    "updated_at": "2026-04-09T18:51:11-04:00",
     "title": "Engineering Manager (Institutional - Foundations, Onboarding & Growth)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7731934": {
     "first_seen": "2026-04-06T02:02:04.303701+00:00",
@@ -943,9 +946,10 @@
   },
   "7550415": {
     "first_seen": "2026-04-06T02:02:04.305478+00:00",
-    "updated_at": "2026-03-29T22:26:55-04:00",
+    "updated_at": "2026-04-09T16:30:59-04:00",
     "title": "Senior Counsel, Security and Technology",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7729941": {
     "first_seen": "2026-04-06T02:02:04.305524+00:00",
@@ -997,9 +1001,10 @@
   },
   "7604203": {
     "first_seen": "2026-04-06T02:02:04.306037+00:00",
-    "updated_at": "2026-03-29T22:26:59-04:00",
+    "updated_at": "2026-04-09T19:46:34-04:00",
     "title": "Senior Machine Learning Platform Engineer (Platform)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7729252": {
     "first_seen": "2026-04-06T02:02:04.306084+00:00",
@@ -1219,9 +1224,10 @@
   },
   "7660227": {
     "first_seen": "2026-04-06T02:02:04.306961+00:00",
-    "updated_at": "2026-04-09T03:04:05-04:00",
+    "updated_at": "2026-04-09T19:41:30-04:00",
     "title": "Senior Software Engineer (Platform- Identity)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7760164": {
     "first_seen": "2026-04-06T02:02:04.306984+00:00",
@@ -1321,9 +1327,10 @@
   },
   "7584070": {
     "first_seen": "2026-04-06T02:02:04.307305+00:00",
-    "updated_at": "2026-03-29T22:26:52-04:00",
+    "updated_at": "2026-04-09T17:37:16-04:00",
     "title": "Software Engineer, Full Stack (EAA)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "6233713": {
     "first_seen": "2026-04-06T02:02:04.307314+00:00",
@@ -1405,9 +1412,10 @@
   },
   "7589139": {
     "first_seen": "2026-04-06T02:02:04.307580+00:00",
-    "updated_at": "2026-04-09T09:33:41-04:00",
+    "updated_at": "2026-04-09T17:41:01-04:00",
     "title": "Staff Software Engineer, Backend (Consumer - International)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7659458": {
     "first_seen": "2026-04-06T02:02:04.307594+00:00",
@@ -1471,15 +1479,17 @@
   },
   "7140861": {
     "first_seen": "2026-04-06T02:02:04.308035+00:00",
-    "updated_at": "2026-03-29T22:26:43-04:00",
+    "updated_at": "2026-04-09T04:29:45-04:00",
     "title": "Transaction Monitoring Compliance QA Analyst IV",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7516383": {
     "first_seen": "2026-04-06T02:02:04.308073+00:00",
-    "updated_at": "2026-03-29T22:26:54-04:00",
+    "updated_at": "2026-04-08T23:56:05-04:00",
     "title": "Transaction Monitoring Lead Analyst",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7669394": {
     "first_seen": "2026-04-06T02:02:04.308122+00:00",
@@ -2377,9 +2387,10 @@
   },
   "7412037": {
     "first_seen": "2026-04-06T02:02:05.037677+00:00",
-    "updated_at": "2026-04-03T03:05:32-04:00",
+    "updated_at": "2026-04-06T16:03:15-04:00",
     "title": "Senior Data Scientist, Fraud ",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7596426": {
     "first_seen": "2026-04-06T02:02:05.037703+00:00",
@@ -2635,21 +2646,24 @@
   },
   "8416920002": {
     "first_seen": "2026-04-06T02:02:05.416018+00:00",
-    "updated_at": "2026-03-18T15:27:46-04:00",
+    "updated_at": "2026-04-08T01:03:16-04:00",
     "title": "Lead Analyst, Security",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8403069002": {
     "first_seen": "2026-04-06T02:02:05.416036+00:00",
-    "updated_at": "2026-03-18T15:27:40-04:00",
+    "updated_at": "2026-04-08T01:03:11-04:00",
     "title": "Lead Data Analyst",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8462910002": {
     "first_seen": "2026-04-06T02:02:05.416062+00:00",
-    "updated_at": "2026-03-19T14:03:02-04:00",
+    "updated_at": "2026-04-08T01:03:48-04:00",
     "title": "Lead Data Analyst, Growth Science",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8414978002": {
     "first_seen": "2026-04-06T02:02:05.416126+00:00",
@@ -2689,9 +2703,10 @@
   },
   "8451791002": {
     "first_seen": "2026-04-06T02:02:05.416650+00:00",
-    "updated_at": "2026-03-18T15:28:30-04:00",
+    "updated_at": "2026-04-08T01:03:37-04:00",
     "title": "Senior Analyst, AML Governance & Advisory",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8373535002": {
     "first_seen": "2026-04-06T02:02:05.416687+00:00",
@@ -2731,15 +2746,17 @@
   },
   "8484048002": {
     "first_seen": "2026-04-06T02:02:05.416897+00:00",
-    "updated_at": "2026-04-02T15:57:32-04:00",
+    "updated_at": "2026-04-06T14:43:46-04:00",
     "title": "Senior Manager, Data Analytics",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8443192002": {
     "first_seen": "2026-04-06T02:02:05.416935+00:00",
-    "updated_at": "2026-03-18T15:28:27-04:00",
+    "updated_at": "2026-04-08T01:03:36-04:00",
     "title": "Senior Manager, Marketing Analytics",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8121830002": {
     "first_seen": "2026-04-06T02:02:05.416967+00:00",
@@ -2815,15 +2832,17 @@
   },
   "8403065002": {
     "first_seen": "2026-04-06T02:02:05.417532+00:00",
-    "updated_at": "2026-03-18T15:27:43-04:00",
+    "updated_at": "2026-04-08T01:03:09-04:00",
     "title": "Staff Data Analyst",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8488275002": {
     "first_seen": "2026-04-06T02:02:05.417761+00:00",
-    "updated_at": "2026-04-03T18:44:46-04:00",
+    "updated_at": "2026-04-08T01:04:15-04:00",
     "title": "Strategy Manager, Networks",
-    "company": "chime"
+    "company": "chime",
+    "alerted": false
   },
   "8466934002": {
     "first_seen": "2026-04-06T02:02:08.591742+00:00",
@@ -2845,27 +2864,31 @@
   },
   "8463702002": {
     "first_seen": "2026-04-06T02:02:08.591841+00:00",
-    "updated_at": "2026-03-27T16:39:36-04:00",
+    "updated_at": "2026-04-08T18:02:23-04:00",
     "title": "Data Analyst II",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8463696002": {
     "first_seen": "2026-04-06T02:02:08.591865+00:00",
-    "updated_at": "2026-03-27T16:39:36-04:00",
+    "updated_at": "2026-04-08T18:02:14-04:00",
     "title": "Data Analyst II",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8463699002": {
     "first_seen": "2026-04-06T02:02:08.591919+00:00",
-    "updated_at": "2026-03-27T16:39:36-04:00",
+    "updated_at": "2026-04-08T18:03:09-04:00",
     "title": "Data Analyst III",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8463704002": {
     "first_seen": "2026-04-06T02:02:08.591938+00:00",
-    "updated_at": "2026-03-27T16:39:36-04:00",
+    "updated_at": "2026-04-08T18:03:20-04:00",
     "title": "Data Analyst III",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8366850002": {
     "first_seen": "2026-04-06T02:02:08.591960+00:00",
@@ -2947,27 +2970,31 @@
   },
   "7844195002": {
     "first_seen": "2026-04-06T02:02:08.593363+00:00",
-    "updated_at": "2026-03-27T16:39:29-04:00",
+    "updated_at": "2026-04-07T16:17:17-04:00",
     "title": "Enterprise Account Executive, Embedded Finance",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8134354002": {
     "first_seen": "2026-04-06T02:02:08.593417+00:00",
-    "updated_at": "2026-03-27T16:39:29-04:00",
+    "updated_at": "2026-04-07T16:51:54-04:00",
     "title": "Enterprise Account Executive, Embedded Finance",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8478372002": {
     "first_seen": "2026-04-06T02:02:08.594266+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-09T17:25:11-04:00",
     "title": "Frontend Engineer II",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8478385002": {
     "first_seen": "2026-04-06T02:02:08.594289+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-09T17:25:20-04:00",
     "title": "Frontend Engineer II",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8438581002": {
     "first_seen": "2026-04-06T02:02:08.594314+00:00",
@@ -3139,27 +3166,31 @@
   },
   "8485388002": {
     "first_seen": "2026-04-06T02:02:08.599715+00:00",
-    "updated_at": "2026-03-30T13:00:45-04:00",
+    "updated_at": "2026-04-07T16:17:28-04:00",
     "title": "Senior Revenue Operations Analyst",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8485386002": {
     "first_seen": "2026-04-06T02:02:08.599763+00:00",
-    "updated_at": "2026-03-30T13:00:26-04:00",
+    "updated_at": "2026-04-07T16:17:25-04:00",
     "title": "Senior Revenue Operations Analyst",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8485385002": {
     "first_seen": "2026-04-06T02:02:08.599812+00:00",
-    "updated_at": "2026-03-30T13:00:10-04:00",
+    "updated_at": "2026-04-07T16:17:25-04:00",
     "title": "Senior Revenue Operations Analyst",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8485352002": {
     "first_seen": "2026-04-06T02:02:08.599857+00:00",
-    "updated_at": "2026-03-30T12:59:59-04:00",
+    "updated_at": "2026-04-07T16:17:25-04:00",
     "title": "Senior Revenue Operations Analyst",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8339283002": {
     "first_seen": "2026-04-06T02:02:08.599885+00:00",
@@ -3217,51 +3248,59 @@
   },
   "8472635002": {
     "first_seen": "2026-04-06T02:02:08.600178+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-09T17:02:26-04:00",
     "title": "Senior Software Engineer, Full Stack",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8472633002": {
     "first_seen": "2026-04-06T02:02:08.600273+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-09T17:01:54-04:00",
     "title": "Senior Software Engineer, Full Stack",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8472634002": {
     "first_seen": "2026-04-06T02:02:08.600299+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-09T17:02:05-04:00",
     "title": "Senior Software Engineer, Full Stack",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8465003002": {
     "first_seen": "2026-04-06T02:02:08.600325+00:00",
-    "updated_at": "2026-04-07T16:17:24-04:00",
+    "updated_at": "2026-04-09T16:59:02-04:00",
     "title": "Senior Software Engineer, Product ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8461333002": {
     "first_seen": "2026-04-06T02:02:08.600351+00:00",
-    "updated_at": "2026-04-07T16:17:24-04:00",
+    "updated_at": "2026-04-09T16:58:44-04:00",
     "title": "Senior Software Engineer, Product ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8461469002": {
     "first_seen": "2026-04-06T02:02:08.600380+00:00",
-    "updated_at": "2026-04-07T16:17:24-04:00",
+    "updated_at": "2026-04-09T16:58:53-04:00",
     "title": "Senior Software Engineer, Product ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8430182002": {
     "first_seen": "2026-04-06T02:02:08.600447+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-09T16:57:34-04:00",
     "title": "Senior Software Engineer, Product Data Platform",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8430197002": {
     "first_seen": "2026-04-06T02:02:08.600474+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-09T16:57:54-04:00",
     "title": "Senior Software Engineer, Product Data Platform",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8432615002": {
     "first_seen": "2026-04-06T02:02:08.600543+00:00",
@@ -3361,123 +3400,143 @@
   },
   "5820682004": {
     "first_seen": "2026-04-06T02:02:08.884290+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Account Development Manager",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5841980004": {
     "first_seen": "2026-04-06T02:02:08.885022+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Sales Development Manager",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5841970004": {
     "first_seen": "2026-04-06T02:02:08.885043+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Sales Development Representative",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5841978004": {
     "first_seen": "2026-04-06T02:02:08.885068+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Sales Development Representative - New Grad",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5847980004": {
     "first_seen": "2026-04-06T02:02:08.885138+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Analyst - Compensation & People Analytics",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5769808004": {
     "first_seen": "2026-04-06T02:02:08.885159+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Analytics Engineer",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5520964004": {
     "first_seen": "2026-04-06T02:02:08.885240+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Backend Engineer - Product",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5799320004": {
     "first_seen": "2026-04-06T02:02:08.885396+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
-    "title": "Senior Data Scientist - Cards and Credit",
-    "company": "mercury"
+    "updated_at": "2026-04-09T18:37:42-04:00",
+    "title": "Senior Data Scientist - Banking",
+    "company": "mercury",
+    "alerted": false
   },
   "5644822004": {
     "first_seen": "2026-04-06T02:02:08.885416+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Engineering Manager - Banking",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5848405004": {
     "first_seen": "2026-04-06T02:02:08.885436+00:00",
-    "updated_at": "2026-04-03T14:29:40-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Engineering Manager - Release Engineering",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5701708004": {
     "first_seen": "2026-04-06T02:02:08.885456+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Engineering Manager - Risk",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5493086004": {
     "first_seen": "2026-04-06T02:02:08.885564+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Full-Stack Engineer",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5832466004": {
     "first_seen": "2026-04-06T02:02:08.885584+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Infrastructure Engineer",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5639559004": {
     "first_seen": "2026-04-06T02:02:08.885697+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Machine Learning Engineer",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5820684004": {
     "first_seen": "2026-04-06T02:02:08.885735+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Manager - Account Development",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5836114004": {
     "first_seen": "2026-04-06T02:02:08.885862+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Manager - BSA/AML & Sanctions Modeling and Analytics",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5843845004": {
     "first_seen": "2026-04-06T02:02:08.885976+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Product Designer \u2013 Mobile",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5832762004": {
     "first_seen": "2026-04-06T02:02:08.885997+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Product Manager - Ledger",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5791111004": {
     "first_seen": "2026-04-06T02:02:08.886109+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Software Engineer - Banking Integration Platform",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5803347004": {
     "first_seen": "2026-04-06T02:02:08.886129+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Software Engineer - Domestic Wires",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5684047004": {
     "first_seen": "2026-04-06T02:02:08.886149+00:00",
@@ -3487,33 +3546,38 @@
   },
   "5765913004": {
     "first_seen": "2026-04-06T02:02:08.886168+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Software Engineer - Risk (AI & Automation)",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5832775004": {
     "first_seen": "2026-04-06T02:02:08.886290+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Technical Recruiter - Engineering",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5267749004": {
     "first_seen": "2026-04-06T02:02:08.886348+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Software Engineer - Product",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5821334004": {
     "first_seen": "2026-04-06T02:02:08.886367+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Staff Product Manager - Risk Onboarding",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5847987004": {
     "first_seen": "2026-04-06T02:02:08.886475+00:00",
-    "updated_at": "2026-04-02T18:29:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Staff Software Engineer - Fraud",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "7743054": {
     "first_seen": "2026-04-06T02:02:09.255296+00:00",
@@ -3715,15 +3779,17 @@
   },
   "7457287": {
     "first_seen": "2026-04-06T02:02:09.746463+00:00",
-    "updated_at": "2026-03-16T18:42:22-04:00",
-    "title": "Head of Product Analytics, Customer Experience",
-    "company": "adyen"
+    "updated_at": "2026-04-08T03:26:34-04:00",
+    "title": "Head of Data, Customer Experience",
+    "company": "adyen",
+    "alerted": false
   },
   "7724022": {
     "first_seen": "2026-04-06T02:02:09.746498+00:00",
-    "updated_at": "2026-03-16T18:42:27-04:00",
-    "title": "Head of Product Analytics, Customer Experience",
-    "company": "adyen"
+    "updated_at": "2026-04-08T03:26:42-04:00",
+    "title": "Head of Data, Customer Experience",
+    "company": "adyen",
+    "alerted": false
   },
   "7105787": {
     "first_seen": "2026-04-06T02:02:09.746736+00:00",
@@ -3895,9 +3961,10 @@
   },
   "7340530": {
     "first_seen": "2026-04-06T02:02:11.888435+00:00",
-    "updated_at": "2026-03-31T11:57:56-04:00",
+    "updated_at": "2026-04-06T09:28:19-04:00",
     "title": "Senior Operations Data Analyst",
-    "company": "payoneer"
+    "company": "payoneer",
+    "alerted": false
   },
   "5836309004": {
     "first_seen": "2026-04-06T02:02:12.230146+00:00",
@@ -3943,21 +4010,24 @@
   },
   "8335860002": {
     "first_seen": "2026-04-06T02:02:14.059197+00:00",
-    "updated_at": "2026-03-26T01:19:40-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8099751002": {
     "first_seen": "2026-04-06T02:02:14.059248+00:00",
-    "updated_at": "2026-02-25T12:18:49-05:00",
+    "updated_at": "2026-04-09T16:51:11-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8415203002": {
     "first_seen": "2026-04-06T02:02:14.059348+00:00",
-    "updated_at": "2026-03-26T01:20:13-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8336976002": {
     "first_seen": "2026-04-06T02:02:14.059480+00:00",
@@ -3967,27 +4037,31 @@
   },
   "8423165002": {
     "first_seen": "2026-04-06T02:02:14.059576+00:00",
-    "updated_at": "2026-02-27T15:08:48-05:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
     "title": "Business Development Representative",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8459910002": {
     "first_seen": "2026-04-06T02:02:14.059618+00:00",
-    "updated_at": "2026-03-13T13:48:02-04:00",
+    "updated_at": "2026-04-09T16:51:31-04:00",
     "title": "Business Development Representative (French Speaking)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8207910002": {
     "first_seen": "2026-04-06T02:02:14.060340+00:00",
-    "updated_at": "2026-02-25T13:46:15-05:00",
+    "updated_at": "2026-04-09T16:51:18-04:00",
     "title": "Databricks Enterprise Lead Security Architect -   Principal IT Software Engineer",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8368003002": {
     "first_seen": "2026-04-06T02:02:14.060426+00:00",
-    "updated_at": "2026-02-25T14:13:12-05:00",
+    "updated_at": "2026-04-09T16:51:23-04:00",
     "title": "Delivery Solutions Architect",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8219393002": {
     "first_seen": "2026-04-06T02:02:14.060577+00:00",
@@ -3997,21 +4071,24 @@
   },
   "8457249002": {
     "first_seen": "2026-04-06T02:02:14.060646+00:00",
-    "updated_at": "2026-03-18T17:02:58-04:00",
+    "updated_at": "2026-04-09T16:51:31-04:00",
     "title": "Delivery Solutions Architect - Communications, Media, Entertainment and Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8385234002": {
     "first_seen": "2026-04-06T02:02:14.060667+00:00",
-    "updated_at": "2026-02-25T14:18:21-05:00",
+    "updated_at": "2026-04-09T16:51:25-04:00",
     "title": "Delivery Solutions Architect - Digital Native Business",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8385230002": {
     "first_seen": "2026-04-06T02:02:14.060715+00:00",
-    "updated_at": "2026-02-25T14:18:14-05:00",
+    "updated_at": "2026-04-09T16:51:25-04:00",
     "title": "Delivery Solutions Architect - Digital Native Business",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8399469002": {
     "first_seen": "2026-04-06T02:02:14.060763+00:00",
@@ -4021,45 +4098,52 @@
   },
   "8233904002": {
     "first_seen": "2026-04-06T02:02:14.060798+00:00",
-    "updated_at": "2026-02-25T13:50:46-05:00",
+    "updated_at": "2026-04-09T16:51:19-04:00",
     "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8289850002": {
     "first_seen": "2026-04-06T02:02:14.060835+00:00",
-    "updated_at": "2026-03-18T13:58:07-04:00",
+    "updated_at": "2026-04-09T16:51:20-04:00",
     "title": "Delivery Solutions Architect - Public Sector ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8289852002": {
     "first_seen": "2026-04-06T02:02:14.060892+00:00",
-    "updated_at": "2026-04-02T17:55:52-04:00",
+    "updated_at": "2026-04-09T16:51:20-04:00",
     "title": "Delivery Solutions Architect - Public Sector ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8295772002": {
     "first_seen": "2026-04-06T02:02:14.061006+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Director, Engineering Governance- Bellevue, WA",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8295622002": {
     "first_seen": "2026-04-06T02:02:14.061042+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Director, Engineering Governance- Mountain View, CA",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8482366002": {
     "first_seen": "2026-04-06T02:02:14.061397+00:00",
-    "updated_at": "2026-04-03T10:55:04-04:00",
+    "updated_at": "2026-04-09T16:51:33-04:00",
     "title": "Director, Financial Systems (Anaplan)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8479034002": {
     "first_seen": "2026-04-06T02:02:14.061708+00:00",
-    "updated_at": "2026-03-30T07:50:45-04:00",
+    "updated_at": "2026-04-09T16:51:33-04:00",
     "title": "Director, Sales Development",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8422918002": {
     "first_seen": "2026-04-06T02:02:14.062159+00:00",
@@ -4069,825 +4153,962 @@
   },
   "6736119002": {
     "first_seen": "2026-04-06T02:02:14.062196+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:07-04:00",
     "title": "Engineering Manager - Compute Infra",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8472398002": {
     "first_seen": "2026-04-06T02:02:14.062223+00:00",
-    "updated_at": "2026-03-20T18:57:06-04:00",
+    "updated_at": "2026-04-09T16:51:32-04:00",
     "title": "Engineering Manager - Databricks SQL Control Plane",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8190108002": {
     "first_seen": "2026-04-06T02:02:14.062272+00:00",
-    "updated_at": "2026-02-25T13:42:49-05:00",
+    "updated_at": "2026-04-09T16:51:17-04:00",
     "title": "Engineering Manager - Notebook Dataplane",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8467083002": {
     "first_seen": "2026-04-06T02:02:14.062309+00:00",
-    "updated_at": "2026-03-17T19:31:09-04:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Engineering Manager - Pipelines Engine",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8324875002": {
     "first_seen": "2026-04-06T02:02:14.062346+00:00",
-    "updated_at": "2026-03-06T14:35:06-05:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Engineering Manager - Streaming",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8013809002": {
     "first_seen": "2026-04-06T02:02:14.062372+00:00",
-    "updated_at": "2026-04-07T16:26:50-04:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Engineering Manager - UI Platform",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8192404002": {
     "first_seen": "2026-04-06T02:02:14.063688+00:00",
-    "updated_at": "2026-04-02T11:56:23-04:00",
+    "updated_at": "2026-04-09T16:51:17-04:00",
     "title": "Executive IT Support",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8435970002": {
     "first_seen": "2026-04-06T02:02:14.063715+00:00",
-    "updated_at": "2026-03-24T18:16:52-04:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Federal Senior Security Assurance Engineer",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8306218002": {
     "first_seen": "2026-04-06T02:02:14.063764+00:00",
-    "updated_at": "2026-02-25T13:56:45-05:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Field CTO - America Industries",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8168394002": {
     "first_seen": "2026-04-06T02:02:14.063803+00:00",
-    "updated_at": "2026-02-25T13:41:06-05:00",
+    "updated_at": "2026-04-09T16:51:17-04:00",
     "title": "Finance Data & Systems Manager",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8414474002": {
     "first_seen": "2026-04-06T02:02:14.064067+00:00",
-    "updated_at": "2026-03-30T13:41:57-04:00",
+    "updated_at": "2026-04-09T16:51:26-04:00",
     "title": "Financial Analyst",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8337357002": {
     "first_seen": "2026-04-06T02:02:14.064651+00:00",
-    "updated_at": "2026-02-25T14:00:35-05:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Global GTM Enablement Leader (Marketing)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8223325002": {
     "first_seen": "2026-04-06T02:02:14.064690+00:00",
-    "updated_at": "2026-02-25T13:50:06-05:00",
+    "updated_at": "2026-04-09T16:51:19-04:00",
     "title": " Global Head of Technical Scale and Strategy (Field Engineering)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7293607002": {
     "first_seen": "2026-04-06T02:02:14.064907+00:00",
-    "updated_at": "2026-02-25T12:15:52-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Head of Corporate Engineering",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8073329002": {
     "first_seen": "2026-04-06T02:02:14.065101+00:00",
-    "updated_at": "2026-03-08T21:13:21-04:00",
+    "updated_at": "2026-04-09T16:51:15-04:00",
     "title": "Lead Adoption Architect",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8423972002": {
     "first_seen": "2026-04-06T02:02:14.065129+00:00",
-    "updated_at": "2026-03-10T12:56:29-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Lead Adoption Architect - Agent Bricks ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8466731002": {
     "first_seen": "2026-04-06T02:02:14.065240+00:00",
-    "updated_at": "2026-04-01T03:40:12-04:00",
+    "updated_at": "2026-04-09T16:51:32-04:00",
     "title": "Learning Product Manager Lead",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8291077002": {
     "first_seen": "2026-04-06T02:02:14.065360+00:00",
-    "updated_at": "2026-02-25T13:55:25-05:00",
+    "updated_at": "2026-04-09T16:51:20-04:00",
     "title": "Manager, Field Engineering",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8374096002": {
     "first_seen": "2026-04-06T02:02:14.065491+00:00",
-    "updated_at": "2026-02-25T14:15:05-05:00",
+    "updated_at": "2026-04-09T16:51:24-04:00",
     "title": "Manager, Field Engineering Italy",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8458032002": {
     "first_seen": "2026-04-06T02:02:14.065577+00:00",
-    "updated_at": "2026-04-03T16:07:57-04:00",
+    "updated_at": "2026-04-09T16:51:31-04:00",
     "title": "Manager, Field Engineering - Strategic Digital Native Business",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8074772002": {
     "first_seen": "2026-04-06T02:02:14.065752+00:00",
-    "updated_at": "2026-02-25T12:27:09-05:00",
+    "updated_at": "2026-04-09T16:51:15-04:00",
     "title": "Manager, Sales Development",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8399537002": {
     "first_seen": "2026-04-06T02:02:14.066184+00:00",
-    "updated_at": "2026-04-06T17:32:38-04:00",
+    "updated_at": "2026-04-09T16:51:25-04:00",
     "title": "MBA Intern - Technical Program Management (TPM)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8412993002": {
     "first_seen": "2026-04-06T02:02:14.066999+00:00",
-    "updated_at": "2026-03-09T18:50:42-04:00",
+    "updated_at": "2026-04-09T16:51:26-04:00",
     "title": "Partner Development Representative - Azure",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8435968002": {
     "first_seen": "2026-04-06T02:02:14.067046+00:00",
-    "updated_at": "2026-03-03T14:49:38-05:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Partner Enablement Technical Lead",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8337427002": {
     "first_seen": "2026-04-06T02:02:14.067102+00:00",
-    "updated_at": "2026-02-25T14:01:37-05:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Partner Sales Director",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7011263002": {
     "first_seen": "2026-04-06T02:02:14.067232+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "PhD GenAI Research Scientist Intern",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8456277002": {
     "first_seen": "2026-04-06T02:02:14.067287+00:00",
-    "updated_at": "2026-03-11T18:33:27-04:00",
+    "updated_at": "2026-04-09T16:51:31-04:00",
     "title": "Principal Data Scientist",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8400563002": {
     "first_seen": "2026-04-06T02:02:14.067380+00:00",
-    "updated_at": "2026-02-26T14:41:33-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Principal Engineer, Authentication",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8400559002": {
     "first_seen": "2026-04-06T02:02:14.067427+00:00",
-    "updated_at": "2026-02-26T14:41:33-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Principal Engineer, Authentication",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8334738002": {
     "first_seen": "2026-04-06T02:02:14.067459+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Principal Engineer, Compute Fleet Management",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274488002": {
     "first_seen": "2026-04-06T02:02:14.067498+00:00",
-    "updated_at": "2026-02-26T14:41:33-05:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Principal Engineer - Privacy",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8224828002": {
     "first_seen": "2026-04-06T02:02:14.067534+00:00",
-    "updated_at": "2026-02-26T14:41:33-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Principal Engineer - Privacy",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274624002": {
     "first_seen": "2026-04-06T02:02:14.067574+00:00",
-    "updated_at": "2026-02-26T14:41:33-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Principal Engineer - Privacy",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274619002": {
     "first_seen": "2026-04-06T02:02:14.067597+00:00",
-    "updated_at": "2026-02-26T14:41:33-05:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Principal Engineer - Privacy",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8487145002": {
     "first_seen": "2026-04-06T02:02:14.067783+00:00",
-    "updated_at": "2026-04-03T16:40:22-04:00",
+    "updated_at": "2026-04-09T16:51:33-04:00",
     "title": "Product Marketing Director, AI",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8026646002": {
     "first_seen": "2026-04-06T02:02:14.067803+00:00",
-    "updated_at": "2026-02-25T12:24:29-05:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Product Security Engineer",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8071850002": {
     "first_seen": "2026-04-06T02:02:14.067856+00:00",
-    "updated_at": "2026-03-12T14:12:47-04:00",
+    "updated_at": "2026-04-09T16:51:15-04:00",
     "title": "Program Manager, Talent & Leadership Development (AI-Enabled Learning)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461163002": {
     "first_seen": "2026-04-06T02:02:14.068050+00:00",
-    "updated_at": "2026-04-03T17:05:40-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461245002": {
     "first_seen": "2026-04-06T02:02:14.068075+00:00",
-    "updated_at": "2026-04-03T17:10:53-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461243002": {
     "first_seen": "2026-04-06T02:02:14.068125+00:00",
-    "updated_at": "2026-04-03T17:10:03-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461251002": {
     "first_seen": "2026-04-06T02:02:14.068162+00:00",
-    "updated_at": "2026-04-03T17:10:52-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461241002": {
     "first_seen": "2026-04-06T02:02:14.068184+00:00",
-    "updated_at": "2026-04-03T17:10:02-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461239002": {
     "first_seen": "2026-04-06T02:02:14.068206+00:00",
-    "updated_at": "2026-04-03T17:10:00-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461226002": {
     "first_seen": "2026-04-06T02:02:14.068230+00:00",
-    "updated_at": "2026-04-03T17:09:59-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461222002": {
     "first_seen": "2026-04-06T02:02:14.068253+00:00",
-    "updated_at": "2026-04-03T17:09:58-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461220002": {
     "first_seen": "2026-04-06T02:02:14.068277+00:00",
-    "updated_at": "2026-04-03T17:09:57-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461219002": {
     "first_seen": "2026-04-06T02:02:14.068298+00:00",
-    "updated_at": "2026-04-03T17:09:56-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461218002": {
     "first_seen": "2026-04-06T02:02:14.068325+00:00",
-    "updated_at": "2026-04-03T17:07:31-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461193002": {
     "first_seen": "2026-04-06T02:02:14.068348+00:00",
-    "updated_at": "2026-04-03T17:06:59-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461168002": {
     "first_seen": "2026-04-06T02:02:14.068372+00:00",
-    "updated_at": "2026-04-03T17:06:33-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461258002": {
     "first_seen": "2026-04-06T02:02:14.068403+00:00",
-    "updated_at": "2026-04-03T17:06:04-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8341311002": {
     "first_seen": "2026-04-06T02:02:14.068423+00:00",
-    "updated_at": "2026-04-03T17:10:58-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Communications, Media, Entertainment & Games",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461327002": {
     "first_seen": "2026-04-06T02:02:14.068444+00:00",
-    "updated_at": "2026-04-03T17:49:17-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8456948002": {
     "first_seen": "2026-04-06T02:02:14.068498+00:00",
-    "updated_at": "2026-04-03T17:47:42-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8456969002": {
     "first_seen": "2026-04-06T02:02:14.068520+00:00",
-    "updated_at": "2026-04-03T17:48:20-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461326002": {
     "first_seen": "2026-04-06T02:02:14.068550+00:00",
-    "updated_at": "2026-04-03T17:48:46-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8456966002": {
     "first_seen": "2026-04-06T02:02:14.068574+00:00",
-    "updated_at": "2026-04-03T17:48:06-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461330002": {
     "first_seen": "2026-04-06T02:02:14.068597+00:00",
-    "updated_at": "2026-04-03T17:50:40-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8456965002": {
     "first_seen": "2026-04-06T02:02:14.068622+00:00",
-    "updated_at": "2026-04-03T17:47:55-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461328002": {
     "first_seen": "2026-04-06T02:02:14.068655+00:00",
-    "updated_at": "2026-04-03T17:50:06-04:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Resident Solutions Architect - Financial Services",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494142002": {
     "first_seen": "2026-04-06T02:02:14.068679+00:00",
-    "updated_at": "2026-04-03T17:37:19-04:00",
+    "updated_at": "2026-04-09T16:51:24-04:00",
     "title": "Resident Solutions Architect - Healthcare & Life Sciences",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494146002": {
     "first_seen": "2026-04-06T02:02:14.068727+00:00",
-    "updated_at": "2026-04-03T17:38:58-04:00",
+    "updated_at": "2026-04-09T16:51:24-04:00",
     "title": "Resident Solutions Architect - Healthcare & Life Sciences",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494145002": {
     "first_seen": "2026-04-06T02:02:14.068748+00:00",
-    "updated_at": "2026-04-03T17:38:28-04:00",
+    "updated_at": "2026-04-09T16:51:24-04:00",
     "title": "Resident Solutions Architect - Healthcare & Life Sciences",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8371312002": {
     "first_seen": "2026-04-06T02:02:14.068772+00:00",
-    "updated_at": "2026-04-03T17:36:47-04:00",
+    "updated_at": "2026-04-09T16:51:24-04:00",
     "title": "Resident Solutions Architect - Healthcare & Life Sciences",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494144002": {
     "first_seen": "2026-04-06T02:02:14.068797+00:00",
-    "updated_at": "2026-04-03T17:38:01-04:00",
+    "updated_at": "2026-04-09T16:51:24-04:00",
     "title": "Resident Solutions Architect - Healthcare & Life Sciences",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494143002": {
     "first_seen": "2026-04-06T02:02:14.068820+00:00",
-    "updated_at": "2026-04-03T17:37:41-04:00",
+    "updated_at": "2026-04-09T16:51:24-04:00",
     "title": "Resident Solutions Architect - Healthcare & Life Sciences",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494156002": {
     "first_seen": "2026-04-06T02:02:14.068843+00:00",
-    "updated_at": "2026-04-03T17:46:43-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Manufacturing",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8341313002": {
     "first_seen": "2026-04-06T02:02:14.068868+00:00",
-    "updated_at": "2026-04-03T17:44:23-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Manufacturing",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494154002": {
     "first_seen": "2026-04-06T02:02:14.068919+00:00",
-    "updated_at": "2026-04-03T17:46:09-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Resident Solutions Architect - Manufacturing",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494107002": {
     "first_seen": "2026-04-06T02:02:14.068993+00:00",
-    "updated_at": "2026-04-03T17:26:17-04:00",
+    "updated_at": "2026-04-09T16:51:23-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8461321002": {
     "first_seen": "2026-04-06T02:02:14.069016+00:00",
-    "updated_at": "2026-04-03T17:34:06-04:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494128002": {
     "first_seen": "2026-04-06T02:02:14.069047+00:00",
-    "updated_at": "2026-04-03T17:29:27-04:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494130002": {
     "first_seen": "2026-04-06T02:02:14.069072+00:00",
-    "updated_at": "2026-04-03T17:35:33-04:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494137002": {
     "first_seen": "2026-04-06T02:02:14.069092+00:00",
-    "updated_at": "2026-04-03T17:35:03-04:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8356289002": {
     "first_seen": "2026-04-06T02:02:14.069114+00:00",
-    "updated_at": "2026-04-03T17:25:59-04:00",
+    "updated_at": "2026-04-09T16:51:23-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8456973002": {
     "first_seen": "2026-04-06T02:02:14.069139+00:00",
-    "updated_at": "2026-04-03T17:35:18-04:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8456975002": {
     "first_seen": "2026-04-06T02:02:14.069165+00:00",
-    "updated_at": "2026-04-03T17:32:10-04:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8423296002": {
     "first_seen": "2026-04-06T02:02:14.069219+00:00",
-    "updated_at": "2026-04-03T16:28:59-04:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8494147002": {
     "first_seen": "2026-04-06T02:02:14.069240+00:00",
-    "updated_at": "2026-04-03T17:41:31-04:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
     "title": "Resident Solutions Architect - Public Sector",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7859597002": {
     "first_seen": "2026-04-06T02:02:14.069562+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:12-04:00",
     "title": "Senior Applied AI Engineer \u2013 ML for Systems & Infrastructure",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8490282002": {
     "first_seen": "2026-04-06T02:02:14.069929+00:00",
-    "updated_at": "2026-04-02T12:04:59-04:00",
+    "updated_at": "2026-04-09T16:51:34-04:00",
     "title": "Senior Engineering Manager, AI Runtime",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7987658002": {
     "first_seen": "2026-04-06T02:02:14.069969+00:00",
-    "updated_at": "2026-03-11T18:30:09-04:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Senior Engineering Manager for Workspace Platform",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8374884002": {
     "first_seen": "2026-04-06T02:02:14.069996+00:00",
-    "updated_at": "2026-04-02T11:43:12-04:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Senior Engineering Manager - Trust and Safety",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8180690002": {
     "first_seen": "2026-04-06T02:02:14.070031+00:00",
-    "updated_at": "2026-04-02T11:43:12-04:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Senior Engineering Manager - Trust and Safety",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8374883002": {
     "first_seen": "2026-04-06T02:02:14.070052+00:00",
-    "updated_at": "2026-04-02T11:43:12-04:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Senior Engineering Manager - Trust and Safety",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8297797002": {
     "first_seen": "2026-04-06T02:02:14.070085+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Senior GenAI Research Engineer - Optimization and Kernels",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6954585002": {
     "first_seen": "2026-04-06T02:02:14.070163+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Senior Machine Learning Engineer - GenAI Platform ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8301830002": {
     "first_seen": "2026-04-06T02:02:14.070277+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Senior Manager, Identity & Access Management (IAM)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7641390002": {
     "first_seen": "2026-04-06T02:02:14.070340+00:00",
-    "updated_at": "2026-02-25T12:17:20-05:00",
+    "updated_at": "2026-04-09T16:51:11-04:00",
     "title": "Senior Manager, Infrastructure Data Science",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7734812002": {
     "first_seen": "2026-04-06T02:02:14.070376+00:00",
-    "updated_at": "2026-02-25T12:17:20-05:00",
+    "updated_at": "2026-04-09T16:51:11-04:00",
     "title": "Senior Manager, Infrastructure Data Science",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8026634002": {
     "first_seen": "2026-04-06T02:02:14.070417+00:00",
-    "updated_at": "2026-03-02T13:40:08-05:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Senior Manager, Product Security",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8148273002": {
     "first_seen": "2026-04-06T02:02:14.070451+00:00",
-    "updated_at": "2026-03-02T13:40:28-05:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Senior Manager, Product Security",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8286103002": {
     "first_seen": "2026-04-06T02:02:14.070492+00:00",
-    "updated_at": "2026-03-25T12:13:55-04:00",
+    "updated_at": "2026-04-09T16:51:18-04:00",
     "title": "Senior Organizational Development Manager",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8298108002": {
     "first_seen": "2026-04-06T02:02:14.070545+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
     "title": "Senior Product Operation Analyst",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8183195002": {
     "first_seen": "2026-04-06T02:02:14.070633+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer  - Application Traffic team",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "4799387002": {
     "first_seen": "2026-04-06T02:02:14.070658+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer - Backend",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6779084002": {
     "first_seen": "2026-04-06T02:02:14.070703+00:00",
-    "updated_at": "2026-03-09T13:39:23-04:00",
+    "updated_at": "2026-04-09T16:51:08-04:00",
     "title": "Senior Software Engineer - Backend",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6544435002": {
     "first_seen": "2026-04-06T02:02:14.070763+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer - Backend",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8233899002": {
     "first_seen": "2026-04-06T02:02:14.070841+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer (Backend) - AI/ML Environments",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "5048461002": {
     "first_seen": "2026-04-06T02:02:14.070881+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer - Database Engine Internals",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6544383002": {
     "first_seen": "2026-04-06T02:02:14.070914+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer - Database Engine Internals",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6936994002": {
     "first_seen": "2026-04-06T02:02:14.070992+00:00",
-    "updated_at": "2026-03-20T19:38:19-04:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Senior Software Engineer - Distributed Data Systems",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6544325002": {
     "first_seen": "2026-04-06T02:02:14.071025+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer - Distributed Data Systems",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "4513122002": {
     "first_seen": "2026-04-06T02:02:14.071068+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer - Distributed Data Systems",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6544403002": {
     "first_seen": "2026-04-06T02:02:14.071088+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Senior Software Engineer - Fullstack",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "5445641002": {
     "first_seen": "2026-04-06T02:02:14.071133+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Senior Software Engineer - Fullstack",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7898766002": {
     "first_seen": "2026-04-06T02:02:14.071225+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Senior Software Engineer - Fullstack",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7849869002": {
     "first_seen": "2026-04-06T02:02:14.071248+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Senior Software Engineer - Fullstack, Assistant",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8211634002": {
     "first_seen": "2026-04-06T02:02:14.071263+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:18-04:00",
     "title": "Senior Software Engineer - Fullstack (NYC)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6318503002": {
     "first_seen": "2026-04-06T02:02:14.071302+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Senior Software Engineer - Infrastructure and Tools",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8211648002": {
     "first_seen": "2026-04-06T02:02:14.071358+00:00",
-    "updated_at": "2026-03-30T13:55:58-04:00",
+    "updated_at": "2026-04-09T16:51:15-04:00",
     "title": "Senior Software Engineer, Model Serving",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8027404002": {
     "first_seen": "2026-04-06T02:02:14.071401+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Senior Software Engineer  - Money Team",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274459002": {
     "first_seen": "2026-04-06T02:02:14.071494+00:00",
-    "updated_at": "2026-03-25T13:30:24-04:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Senior Software Engineer - Security ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8239195002": {
     "first_seen": "2026-04-06T02:02:14.071656+00:00",
-    "updated_at": "2026-02-25T13:52:13-05:00",
+    "updated_at": "2026-04-09T16:51:19-04:00",
     "title": "Senior Solutions Engineer",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7807722002": {
     "first_seen": "2026-04-06T02:02:14.071720+00:00",
-    "updated_at": "2026-03-30T19:39:55-04:00",
+    "updated_at": "2026-04-09T16:51:11-04:00",
     "title": "Senior Staff Software Engineer - App and Partner Ecosystem",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7934466002": {
     "first_seen": "2026-04-06T02:02:14.071889+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Senior Staff Software Engineer - Enzyme",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274557002": {
     "first_seen": "2026-04-06T02:02:14.071917+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Senior Staff Software Engineer - IAM",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274563002": {
     "first_seen": "2026-04-06T02:02:14.071955+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Senior Staff Software Engineer - IAM",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8493002002": {
     "first_seen": "2026-04-06T02:02:14.072005+00:00",
-    "updated_at": "2026-04-02T17:46:24-04:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
     "title": "Senior Staff Software Engineer - Lakeflow Pipelines Datasets",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274908002": {
     "first_seen": "2026-04-06T02:02:14.072078+00:00",
-    "updated_at": "2026-02-26T14:40:25-05:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Senior Staff Software Engineer - Security Infrastructure",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7274902002": {
     "first_seen": "2026-04-06T02:02:14.072113+00:00",
-    "updated_at": "2026-02-26T14:40:25-05:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Senior Staff Software Engineer - Security Infrastructure",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7995113002": {
     "first_seen": "2026-04-06T02:02:14.072303+00:00",
-    "updated_at": "2026-02-25T12:22:06-05:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Senior Supportability Product Specialist, Supportability and Support Platforms",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7902935002": {
     "first_seen": "2026-04-06T02:02:14.072414+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Senior Technical Solutions Engineer, Platform",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8202670002": {
     "first_seen": "2026-04-06T02:02:14.072719+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:18-04:00",
     "title": "Software Engineer - GenAI inference ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8434341002": {
     "first_seen": "2026-04-06T02:02:14.072785+00:00",
-    "updated_at": "2026-03-31T16:46:04-04:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Solutions Architect",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8196833002": {
     "first_seen": "2026-04-06T02:02:14.072845+00:00",
-    "updated_at": "2026-02-25T13:45:06-05:00",
+    "updated_at": "2026-04-09T16:51:17-04:00",
     "title": "Solutions Architect",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8243219002": {
     "first_seen": "2026-04-06T02:02:14.072887+00:00",
-    "updated_at": "2026-02-25T13:52:39-05:00",
+    "updated_at": "2026-04-09T16:51:19-04:00",
     "title": "Solutions Architect",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8368209002": {
     "first_seen": "2026-04-06T02:02:14.072938+00:00",
-    "updated_at": "2026-02-25T14:13:33-05:00",
+    "updated_at": "2026-04-09T16:51:23-04:00",
     "title": "Solutions Architect",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8472735002": {
     "first_seen": "2026-04-06T02:02:14.072964+00:00",
-    "updated_at": "2026-03-21T00:01:19-04:00",
+    "updated_at": "2026-04-09T16:51:22-04:00",
     "title": "Solutions Architect (Adelaide)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6117719002": {
     "first_seen": "2026-04-06T02:02:14.073011+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Solutions Architect - Digital Native Business",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8434467002": {
     "first_seen": "2026-04-06T02:02:14.073048+00:00",
-    "updated_at": "2026-02-25T23:43:32-05:00",
+    "updated_at": "2026-04-09T16:51:28-04:00",
     "title": "Solutions Architect - Digital Native Business, Strategic",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8227356002": {
     "first_seen": "2026-04-06T02:02:14.073058+00:00",
-    "updated_at": "2026-02-25T13:50:31-05:00",
+    "updated_at": "2026-04-09T16:51:19-04:00",
     "title": "Solutions Architect - Digital Native Business, Strategic",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6328361002": {
     "first_seen": "2026-04-06T02:02:14.073068+00:00",
-    "updated_at": "2026-02-24T14:54:59-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Solutions Architect - Emerging Enterprise",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6328388002": {
     "first_seen": "2026-04-06T02:02:14.073079+00:00",
-    "updated_at": "2026-03-17T16:24:45-04:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Solutions Architect - Emerging Enterprise (Startups) ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8231231002": {
     "first_seen": "2026-04-06T02:02:14.073104+00:00",
-    "updated_at": "2026-03-02T19:57:49-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8085877002": {
     "first_seen": "2026-04-06T02:02:14.073117+00:00",
-    "updated_at": "2026-03-02T19:57:22-05:00",
+    "updated_at": "2026-04-09T16:51:05-04:00",
     "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6545547002": {
     "first_seen": "2026-04-06T02:02:14.073137+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
     "title": "Solutions Architect - Manufacturing",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8320126002": {
     "first_seen": "2026-04-06T02:02:14.073211+00:00",
@@ -5179,15 +5400,17 @@
   },
   "7760222": {
     "first_seen": "2026-04-06T02:02:14.868401+00:00",
-    "updated_at": "2026-04-02T14:22:03-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Business Operations & Strategy Associate",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7760225": {
     "first_seen": "2026-04-06T02:02:14.868462+00:00",
-    "updated_at": "2026-04-01T15:28:26-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Business Operations & Strategy Associate",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7647255": {
     "first_seen": "2026-04-06T02:02:14.868583+00:00",
@@ -5203,9 +5426,10 @@
   },
   "7566136": {
     "first_seen": "2026-04-06T02:02:14.869160+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Director, Identity & Security Product Management",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7656724": {
     "first_seen": "2026-04-06T02:02:14.870535+00:00",
@@ -5251,9 +5475,10 @@
   },
   "7774143": {
     "first_seen": "2026-04-06T02:02:14.871163+00:00",
-    "updated_at": "2026-04-03T15:01:41-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Principal, Strategic AI Partnerships",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7476104": {
     "first_seen": "2026-04-06T02:02:14.871208+00:00",
@@ -5269,15 +5494,17 @@
   },
   "7128879": {
     "first_seen": "2026-04-06T02:02:14.871288+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Product Pricing & Monetization Strategy Senior Analyst",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7523751": {
     "first_seen": "2026-04-06T02:02:14.871347+00:00",
-    "updated_at": "2026-04-01T14:56:47-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Product Pricing & Monetization Strategy Senior Analyst",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7766076": {
     "first_seen": "2026-04-06T02:02:14.871837+00:00",
@@ -5305,9 +5532,10 @@
   },
   "7743704": {
     "first_seen": "2026-04-06T02:02:14.872275+00:00",
-    "updated_at": "2026-04-01T21:57:06-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Senior Analyst, GTM Operations",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "6841436": {
     "first_seen": "2026-04-06T02:02:14.872320+00:00",
@@ -5323,15 +5551,17 @@
   },
   "7696633": {
     "first_seen": "2026-04-06T02:02:14.872608+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Senior Data Analyst",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7532424": {
     "first_seen": "2026-04-06T02:02:14.872626+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Senior Data Analyst II, Growth",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7187739": {
     "first_seen": "2026-04-06T02:02:14.872667+00:00",
@@ -5353,15 +5583,17 @@
   },
   "7767289": {
     "first_seen": "2026-04-06T02:02:14.873136+00:00",
-    "updated_at": "2026-04-01T11:41:02-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Senior Financial Analyst",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7550357": {
     "first_seen": "2026-04-06T02:02:14.873165+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Senior Financial Analyst",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7093030": {
     "first_seen": "2026-04-06T02:02:14.873188+00:00",
@@ -5377,9 +5609,10 @@
   },
   "7711453": {
     "first_seen": "2026-04-06T02:02:14.873254+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Senior IRM Analyst",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7372922": {
     "first_seen": "2026-04-06T02:02:14.873290+00:00",
@@ -5401,9 +5634,10 @@
   },
   "7760217": {
     "first_seen": "2026-04-06T02:02:14.873454+00:00",
-    "updated_at": "2026-04-03T10:19:45-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Senior Manager, Business Operations",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7683484": {
     "first_seen": "2026-04-06T02:02:14.873876+00:00",
@@ -5623,9 +5857,10 @@
   },
   "7280132": {
     "first_seen": "2026-04-06T02:02:14.876289+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Staff Research Scientist, Voyage AI",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7718555": {
     "first_seen": "2026-04-06T02:02:14.876306+00:00",
@@ -5653,9 +5888,10 @@
   },
   "7695474": {
     "first_seen": "2026-04-06T02:02:14.876710+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Strategic Finance Analyst",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7650199": {
     "first_seen": "2026-04-06T02:02:14.876760+00:00",
@@ -5683,9 +5919,10 @@
   },
   "7664046": {
     "first_seen": "2026-04-06T02:02:14.877008+00:00",
-    "updated_at": "2026-04-01T10:21:32-04:00",
+    "updated_at": "2026-04-08T14:55:08-04:00",
     "title": "Vice President, Financial Planning & Analysis - Product & Technology",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7582021": {
     "first_seen": "2026-04-06T02:02:15.436645+00:00",
@@ -5725,9 +5962,10 @@
   },
   "7683626": {
     "first_seen": "2026-04-06T02:02:15.574304+00:00",
-    "updated_at": "2026-03-20T18:07:12-04:00",
+    "updated_at": "2026-04-06T12:03:52-04:00",
     "title": "Executive Planning & Operations Analyst",
-    "company": "fastly"
+    "company": "fastly",
+    "alerted": false
   },
   "7744225": {
     "first_seen": "2026-04-06T02:02:15.574332+00:00",
@@ -5755,9 +5993,10 @@
   },
   "7555010": {
     "first_seen": "2026-04-06T02:02:15.574691+00:00",
-    "updated_at": "2026-03-30T12:29:34-04:00",
+    "updated_at": "2026-04-06T12:03:52-04:00",
     "title": "Partner Strategy & Operations Sr. Analyst",
-    "company": "fastly"
+    "company": "fastly",
+    "alerted": false
   },
   "7685198": {
     "first_seen": "2026-04-06T02:02:15.574727+00:00",
@@ -5791,9 +6030,10 @@
   },
   "7524430": {
     "first_seen": "2026-04-06T02:02:15.575299+00:00",
-    "updated_at": "2026-03-20T18:07:12-04:00",
+    "updated_at": "2026-04-06T12:03:52-04:00",
     "title": "Senior Financial Analyst -  Strategic Finance",
-    "company": "fastly"
+    "company": "fastly",
+    "alerted": false
   },
   "7636291": {
     "first_seen": "2026-04-06T02:02:15.575343+00:00",
@@ -5857,9 +6097,10 @@
   },
   "7748959": {
     "first_seen": "2026-04-06T02:02:15.733388+00:00",
-    "updated_at": "2026-03-26T16:36:59-04:00",
+    "updated_at": "2026-04-06T13:16:52-04:00",
     "title": "Analyst Relations Intern",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7229383": {
     "first_seen": "2026-04-06T02:02:15.733412+00:00",
@@ -5917,9 +6158,10 @@
   },
   "7761267": {
     "first_seen": "2026-04-06T02:02:15.734088+00:00",
-    "updated_at": "2026-04-03T10:26:32-04:00",
+    "updated_at": "2026-04-09T10:28:16-04:00",
     "title": "Fraud Specialist",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7360572": {
     "first_seen": "2026-04-06T02:02:15.734221+00:00",
@@ -5935,15 +6177,17 @@
   },
   "7736720": {
     "first_seen": "2026-04-06T02:02:15.734309+00:00",
-    "updated_at": "2026-03-24T18:20:42-04:00",
+    "updated_at": "2026-04-08T18:29:14-04:00",
     "title": "Marketing Analytics Automation & Enablement Manager",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7622280": {
     "first_seen": "2026-04-06T02:02:15.734408+00:00",
-    "updated_at": "2026-04-03T10:25:37-04:00",
+    "updated_at": "2026-04-09T10:34:39-04:00",
     "title": "MDM Data Specialist",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7645948": {
     "first_seen": "2026-04-06T02:02:15.734690+00:00",
@@ -6013,9 +6257,10 @@
   },
   "7599044": {
     "first_seen": "2026-04-06T02:02:15.735261+00:00",
-    "updated_at": "2026-04-03T10:30:44-04:00",
+    "updated_at": "2026-04-09T10:35:29-04:00",
     "title": "Security Compliance & Regulatory Affairs Analyst",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7643551": {
     "first_seen": "2026-04-06T02:02:15.735336+00:00",
@@ -6043,9 +6288,10 @@
   },
   "7669898": {
     "first_seen": "2026-04-06T02:02:15.735522+00:00",
-    "updated_at": "2026-03-24T18:20:42-04:00",
+    "updated_at": "2026-04-06T13:16:50-04:00",
     "title": "Senior Manager of Offensive Security",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7708025": {
     "first_seen": "2026-04-06T02:02:15.735547+00:00",
@@ -6205,9 +6451,10 @@
   },
   "7736722": {
     "first_seen": "2026-04-06T02:02:15.736497+00:00",
-    "updated_at": "2026-04-03T10:26:07-04:00",
+    "updated_at": "2026-04-09T10:26:48-04:00",
     "title": "Sr. Analyst, Strategic Measurement",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7374339": {
     "first_seen": "2026-04-06T02:02:15.736691+00:00",
@@ -6319,15 +6566,17 @@
   },
   "7688669": {
     "first_seen": "2026-04-06T02:02:15.737386+00:00",
-    "updated_at": "2026-04-03T10:24:11-04:00",
+    "updated_at": "2026-04-09T12:34:02-04:00",
     "title": "Total Rewards Analyst - LATAM",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7736718": {
     "first_seen": "2026-04-06T02:02:15.737475+00:00",
-    "updated_at": "2026-03-24T18:20:42-04:00",
+    "updated_at": "2026-04-08T18:32:14-04:00",
     "title": "Web Analytics & Insights Manager",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7769314": {
     "first_seen": "2026-04-06T02:02:16.149319+00:00",
@@ -6355,9 +6604,10 @@
   },
   "7568212": {
     "first_seen": "2026-04-06T02:02:16.150377+00:00",
-    "updated_at": "2026-03-24T12:16:56-04:00",
+    "updated_at": "2026-04-08T18:57:05-04:00",
     "title": "Senior Digital Programs Manager",
-    "company": "mixpanel"
+    "company": "mixpanel",
+    "alerted": false
   },
   "7776048": {
     "first_seen": "2026-04-06T02:02:16.150402+00:00",
@@ -6523,9 +6773,10 @@
   },
   "5815418004": {
     "first_seen": "2026-04-06T02:02:16.651573+00:00",
-    "updated_at": "2026-03-10T09:37:26-04:00",
-    "title": "Senior Manager, Security Engineering",
-    "company": "pagerduty"
+    "updated_at": "2026-04-07T13:13:48-04:00",
+    "title": "Senior Manager, Application Security ",
+    "company": "pagerduty",
+    "alerted": false
   },
   "7183013": {
     "first_seen": "2026-04-06T02:02:16.912163+00:00",
@@ -7381,9 +7632,10 @@
   },
   "5168251008": {
     "first_seen": "2026-04-06T02:02:21.022404+00:00",
-    "updated_at": "2026-04-02T16:15:10-04:00",
+    "updated_at": "2026-04-09T19:31:53-04:00",
     "title": "Senior Financial Analyst",
-    "company": "newrelic"
+    "company": "newrelic",
+    "alerted": false
   },
   "4991658008": {
     "first_seen": "2026-04-06T02:02:21.022693+00:00",
@@ -9781,9 +10033,10 @@
   },
   "8425775002": {
     "first_seen": "2026-04-06T02:02:26.680502+00:00",
-    "updated_at": "2026-03-06T16:19:38-05:00",
+    "updated_at": "2026-04-09T15:53:35-04:00",
     "title": "Staff Product Designer, Security & Compliance",
-    "company": "gitlab"
+    "company": "gitlab",
+    "alerted": false
   },
   "8332463002": {
     "first_seen": "2026-04-06T02:02:26.680517+00:00",
@@ -10069,21 +10322,24 @@
   },
   "7626166003": {
     "first_seen": "2026-04-06T02:02:32.210149+00:00",
-    "updated_at": "2026-03-24T18:01:41-04:00",
+    "updated_at": "2026-04-09T19:03:19-04:00",
     "title": "Customer Support Engineer",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7679244003": {
     "first_seen": "2026-04-06T02:02:32.210195+00:00",
-    "updated_at": "2026-03-25T14:45:35-04:00",
+    "updated_at": "2026-04-09T19:03:19-04:00",
     "title": "Customer Support Engineer",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7625836003": {
     "first_seen": "2026-04-06T02:02:32.210241+00:00",
-    "updated_at": "2026-03-24T18:01:37-04:00",
+    "updated_at": "2026-04-09T19:03:17-04:00",
     "title": "Customer Support Engineer III",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7659471003": {
     "first_seen": "2026-04-06T02:02:32.210569+00:00",
@@ -10093,9 +10349,10 @@
   },
   "7674622003": {
     "first_seen": "2026-04-06T02:02:32.211021+00:00",
-    "updated_at": "2026-03-24T17:33:14-04:00",
+    "updated_at": "2026-04-09T19:03:35-04:00",
     "title": "Marketing Insights Analyst",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7676570003": {
     "first_seen": "2026-04-06T02:02:32.211331+00:00",
@@ -10117,15 +10374,17 @@
   },
   "7656004003": {
     "first_seen": "2026-04-06T02:02:32.211493+00:00",
-    "updated_at": "2026-03-31T19:46:08-04:00",
+    "updated_at": "2026-04-07T03:16:35-04:00",
     "title": "Principal Product Designer",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "6664139003": {
     "first_seen": "2026-04-06T02:02:32.211565+00:00",
-    "updated_at": "2026-04-06T13:32:26-04:00",
+    "updated_at": "2026-04-09T19:02:56-04:00",
     "title": "Principal Software Engineer - AI Tooling & Adoption",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7559177003": {
     "first_seen": "2026-04-06T02:02:32.211587+00:00",
@@ -10183,9 +10442,10 @@
   },
   "7583474003": {
     "first_seen": "2026-04-06T02:02:32.213388+00:00",
-    "updated_at": "2026-04-01T13:16:21-04:00",
+    "updated_at": "2026-04-09T11:50:16-04:00",
     "title": "Senior Marketing Data Analyst",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7524547003": {
     "first_seen": "2026-04-06T02:02:32.213581+00:00",
@@ -10351,45 +10611,52 @@
   },
   "7483663003": {
     "first_seen": "2026-04-06T02:02:32.215124+00:00",
-    "updated_at": "2026-04-06T13:32:29-04:00",
+    "updated_at": "2026-04-09T19:02:58-04:00",
     "title": "Senior Staff Software Engineer - Binary Log Data Replication",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7393532003": {
     "first_seen": "2026-04-06T02:02:32.215165+00:00",
-    "updated_at": "2026-04-06T13:32:29-04:00",
+    "updated_at": "2026-04-09T19:02:58-04:00",
     "title": "Senior Staff Software Engineer - Binary Log Data Replication",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7537470003": {
     "first_seen": "2026-04-06T02:02:32.215206+00:00",
-    "updated_at": "2026-04-06T13:32:36-04:00",
+    "updated_at": "2026-04-09T19:03:09-04:00",
     "title": "Senior Staff Software Engineer - Performance Engineering",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7661577003": {
     "first_seen": "2026-04-06T02:02:32.215299+00:00",
-    "updated_at": "2026-03-23T18:49:25-04:00",
+    "updated_at": "2026-04-09T19:03:24-04:00",
     "title": "Senior Technical Product Marketing Manager",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7649908003": {
     "first_seen": "2026-04-06T02:02:32.215334+00:00",
-    "updated_at": "2026-03-23T18:49:00-04:00",
+    "updated_at": "2026-04-09T19:03:24-04:00",
     "title": "Senior Technical Product Marketing Manager",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7660891003": {
     "first_seen": "2026-04-06T02:02:32.215431+00:00",
-    "updated_at": "2026-03-31T11:26:38-04:00",
+    "updated_at": "2026-04-09T13:46:00-04:00",
     "title": "Senior Web Analytics & Operations Manager",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7685331003": {
     "first_seen": "2026-04-06T02:02:32.215471+00:00",
-    "updated_at": "2026-03-31T12:50:30-04:00",
+    "updated_at": "2026-04-09T13:46:00-04:00",
     "title": "Senior Web Analytics & Operations Manager",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7683699003": {
     "first_seen": "2026-04-06T02:02:32.215508+00:00",
@@ -10441,21 +10708,24 @@
   },
   "6598497003": {
     "first_seen": "2026-04-06T02:02:32.215789+00:00",
-    "updated_at": "2026-04-06T13:32:23-04:00",
+    "updated_at": "2026-04-09T19:02:50-04:00",
     "title": "Staff Software Engineer",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7546711003": {
     "first_seen": "2026-04-06T02:02:32.215806+00:00",
-    "updated_at": "2026-04-08T13:31:41-04:00",
+    "updated_at": "2026-04-09T19:03:06-04:00",
     "title": "Staff Software Engineer",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7535213003": {
     "first_seen": "2026-04-06T02:02:32.215840+00:00",
-    "updated_at": "2026-04-08T13:31:41-04:00",
+    "updated_at": "2026-04-09T19:03:06-04:00",
     "title": "Staff Software Engineer",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7686700003": {
     "first_seen": "2026-04-06T02:02:32.215887+00:00",
@@ -10465,15 +10735,17 @@
   },
   "7549451003": {
     "first_seen": "2026-04-06T02:02:32.215920+00:00",
-    "updated_at": "2026-04-08T13:31:38-04:00",
+    "updated_at": "2026-04-09T19:03:04-04:00",
     "title": "Staff Software Engineer - ETL Platform",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7487101003": {
     "first_seen": "2026-04-06T02:02:32.215938+00:00",
-    "updated_at": "2026-04-08T13:31:38-04:00",
+    "updated_at": "2026-04-09T19:03:04-04:00",
     "title": "Staff Software Engineer - ETL Platform",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7663580003": {
     "first_seen": "2026-04-06T02:02:32.216063+00:00",
@@ -10879,9 +11151,10 @@
   },
   "4949108008": {
     "first_seen": "2026-04-06T08:09:59.886590+00:00",
-    "updated_at": "2026-04-03T12:07:50-04:00",
+    "updated_at": "2026-04-09T17:39:07-04:00",
     "title": "Privacy Research Engineer, Safeguards",
-    "company": "anthropic"
+    "company": "anthropic",
+    "alerted": false
   },
   "5152817008": {
     "first_seen": "2026-04-06T08:09:59.886645+00:00",
@@ -11491,9 +11764,10 @@
   },
   "5017903008": {
     "first_seen": "2026-04-06T08:09:59.890838+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-09T18:47:25-04:00",
     "title": "Technical Deployment, Applied AI",
-    "company": "anthropic"
+    "company": "anthropic",
+    "alerted": false
   },
   "5140239008": {
     "first_seen": "2026-04-06T08:09:59.890896+00:00",
@@ -12793,9 +13067,10 @@
   },
   "7607705003": {
     "first_seen": "2026-04-06T08:10:08.969338+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-09T17:30:50-04:00",
     "title": "Sr. Financial Analyst - Corp Planning & Systems",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7669343003": {
     "first_seen": "2026-04-06T08:10:08.969354+00:00",
@@ -12961,9 +13236,10 @@
   },
   "7769902": {
     "first_seen": "2026-04-06T08:10:10.871441+00:00",
-    "updated_at": "2026-04-01T14:39:59-04:00",
+    "updated_at": "2026-04-09T17:00:34-04:00",
     "title": "Senior Strategic Business Development Representative",
-    "company": "iterable"
+    "company": "iterable",
+    "alerted": false
   },
   "7491993": {
     "first_seen": "2026-04-06T08:10:10.871717+00:00",
@@ -14167,9 +14443,10 @@
   },
   "8450989002": {
     "first_seen": "2026-04-06T08:10:21.208394+00:00",
-    "updated_at": "2026-03-18T17:57:34-04:00",
+    "updated_at": "2026-04-09T19:15:59-04:00",
     "title": "Staff Product Manager, New Products",
-    "company": "calendly"
+    "company": "calendly",
+    "alerted": false
   },
   "8139892002": {
     "first_seen": "2026-04-06T08:10:21.208412+00:00",
@@ -15169,21 +15446,24 @@
   },
   "5802382004": {
     "first_seen": "2026-04-06T08:10:25.780122+00:00",
-    "updated_at": "2026-02-14T11:20:20-05:00",
+    "updated_at": "2026-04-09T17:48:59-04:00",
     "title": "Senior Product Manager, Trading",
-    "company": "altruist"
+    "company": "altruist",
+    "alerted": false
   },
   "5802373004": {
     "first_seen": "2026-04-06T08:10:25.780137+00:00",
-    "updated_at": "2026-02-14T11:20:20-05:00",
+    "updated_at": "2026-04-09T17:48:59-04:00",
     "title": "Senior Product Manager, Trading",
-    "company": "altruist"
+    "company": "altruist",
+    "alerted": false
   },
   "5802384004": {
     "first_seen": "2026-04-06T08:10:25.780157+00:00",
-    "updated_at": "2026-02-14T11:20:20-05:00",
+    "updated_at": "2026-04-09T17:48:59-04:00",
     "title": "Senior Product Manager, Trading",
-    "company": "altruist"
+    "company": "altruist",
+    "alerted": false
   },
   "5823576004": {
     "first_seen": "2026-04-06T08:10:25.780205+00:00",
@@ -15343,9 +15623,10 @@
   },
   "7235291": {
     "first_seen": "2026-04-06T08:10:26.090903+00:00",
-    "updated_at": "2026-04-02T18:01:57-04:00",
+    "updated_at": "2026-04-09T16:57:49-04:00",
     "title": "Principal Product Manager, Tax Platform",
-    "company": "gusto"
+    "company": "gusto",
+    "alerted": false
   },
   "6447954": {
     "first_seen": "2026-04-06T08:10:26.090919+00:00",
@@ -17677,9 +17958,10 @@
   },
   "7612362": {
     "first_seen": "2026-04-06T08:10:42.104746+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-09T19:18:02-04:00",
     "title": "Manager, Sales Development",
-    "company": "instacart"
+    "company": "instacart",
+    "alerted": false
   },
   "7595169": {
     "first_seen": "2026-04-06T08:10:42.104764+00:00",
@@ -18073,15 +18355,17 @@
   },
   "6819437": {
     "first_seen": "2026-04-06T08:10:42.107386+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-09T18:03:30-04:00",
     "title": "Strategic Partner Manager",
-    "company": "instacart"
+    "company": "instacart",
+    "alerted": false
   },
   "6819435": {
     "first_seen": "2026-04-06T08:10:42.107422+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-09T18:03:30-04:00",
     "title": "Strategic Partner Manager",
-    "company": "instacart"
+    "company": "instacart",
+    "alerted": false
   },
   "8439888002": {
     "first_seen": "2026-04-06T08:10:42.278294+00:00",
@@ -18781,9 +19065,10 @@
   },
   "8318645002": {
     "first_seen": "2026-04-06T08:10:42.880241+00:00",
-    "updated_at": "2025-12-18T12:35:40-05:00",
+    "updated_at": "2026-04-09T17:10:32-04:00",
     "title": "Group Product Manager, Core Rider",
-    "company": "lyft"
+    "company": "lyft",
+    "alerted": false
   },
   "8490440002": {
     "first_seen": "2026-04-06T08:10:42.880258+00:00",
@@ -19063,63 +19348,73 @@
   },
   "7441441": {
     "first_seen": "2026-04-06T08:10:43.808086+00:00",
-    "updated_at": "2026-04-02T13:52:44-04:00",
+    "updated_at": "2026-04-09T16:50:13-04:00",
     "title": "Corporate Security Engineer",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7542202": {
     "first_seen": "2026-04-06T08:10:43.808381+00:00",
-    "updated_at": "2026-04-02T13:52:46-04:00",
+    "updated_at": "2026-04-09T16:50:15-04:00",
     "title": "Engineering Manager, Reference Anything",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7542185": {
     "first_seen": "2026-04-06T08:10:43.808398+00:00",
-    "updated_at": "2026-04-02T13:52:46-04:00",
+    "updated_at": "2026-04-09T16:50:15-04:00",
     "title": "Engineering Manager, Track Anything",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7662620": {
     "first_seen": "2026-04-06T08:10:43.808590+00:00",
-    "updated_at": "2026-04-06T15:27:15-04:00",
+    "updated_at": "2026-04-09T16:50:20-04:00",
     "title": "Group Tech Lead, Adoption Engineering",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7718738": {
     "first_seen": "2026-04-06T08:10:43.808665+00:00",
-    "updated_at": "2026-04-02T13:52:53-04:00",
+    "updated_at": "2026-04-09T16:50:21-04:00",
     "title": "Head of Engineering, Core Product & Collaborative Work Management",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "5745634": {
     "first_seen": "2026-04-06T08:10:43.808846+00:00",
-    "updated_at": "2026-04-02T13:52:28-04:00",
+    "updated_at": "2026-04-09T16:49:59-04:00",
     "title": "Inbound Sales Development Representative",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "6806085": {
     "first_seen": "2026-04-06T08:10:43.808859+00:00",
-    "updated_at": "2026-04-02T13:52:34-04:00",
+    "updated_at": "2026-04-09T16:50:05-04:00",
     "title": "iOS Engineer",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7615659": {
     "first_seen": "2026-04-06T08:10:43.809031+00:00",
-    "updated_at": "2026-04-02T13:52:50-04:00",
+    "updated_at": "2026-04-09T16:50:19-04:00",
     "title": "Principal Security Engineer",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7517442": {
     "first_seen": "2026-04-06T08:10:43.809331+00:00",
-    "updated_at": "2026-04-02T13:52:46-04:00",
+    "updated_at": "2026-04-09T16:50:14-04:00",
     "title": "Sales Development Manager",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7565961": {
     "first_seen": "2026-04-06T08:10:43.809541+00:00",
-    "updated_at": "2026-04-02T13:52:47-04:00",
+    "updated_at": "2026-04-09T16:50:16-04:00",
     "title": "Senior Engineering Manager, Security",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7392230": {
     "first_seen": "2026-04-06T08:10:43.809623+00:00",
@@ -19135,63 +19430,73 @@
   },
   "7370275": {
     "first_seen": "2026-04-06T08:10:43.809690+00:00",
-    "updated_at": "2026-04-06T13:14:45-04:00",
+    "updated_at": "2026-04-09T16:50:11-04:00",
     "title": "Senior Software Engineer, AI Product Frameworks",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7773378": {
     "first_seen": "2026-04-06T08:10:43.809711+00:00",
-    "updated_at": "2026-04-02T13:52:33-04:00",
+    "updated_at": "2026-04-09T16:50:04-04:00",
     "title": "Senior Software Engineer, AI Studio",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7565315": {
     "first_seen": "2026-04-06T08:10:43.809727+00:00",
-    "updated_at": "2026-04-02T13:52:47-04:00",
+    "updated_at": "2026-04-09T16:50:16-04:00",
     "title": "Senior Software Engineer, Infrastructure Security",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "6791159": {
     "first_seen": "2026-04-06T08:10:43.809753+00:00",
-    "updated_at": "2026-04-02T13:52:32-04:00",
+    "updated_at": "2026-04-09T16:50:03-04:00",
     "title": "Senior Software Engineer, Product",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7607510": {
     "first_seen": "2026-04-06T08:10:43.809773+00:00",
-    "updated_at": "2026-04-08T12:59:11-04:00",
+    "updated_at": "2026-04-09T16:50:18-04:00",
     "title": "Senior Solutions Architect",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7595104": {
     "first_seen": "2026-04-06T08:10:43.809794+00:00",
-    "updated_at": "2026-04-02T13:52:38-04:00",
+    "updated_at": "2026-04-09T16:50:08-04:00",
     "title": "Software Engineer, CI/CD",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7299272": {
     "first_seen": "2026-04-06T08:10:43.809804+00:00",
-    "updated_at": "2026-04-02T13:52:37-04:00",
+    "updated_at": "2026-04-09T16:50:07-04:00",
     "title": "Software Engineer, CI/CD",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7394807": {
     "first_seen": "2026-04-06T08:10:43.809954+00:00",
-    "updated_at": "2026-04-02T13:52:37-04:00",
+    "updated_at": "2026-04-09T16:50:07-04:00",
     "title": "Staff Engineer - CI/CD",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7773469": {
     "first_seen": "2026-04-06T08:10:43.809991+00:00",
-    "updated_at": "2026-04-02T13:52:47-04:00",
+    "updated_at": "2026-04-09T16:50:16-04:00",
     "title": "Staff Software Engineer, AI Studio",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "7066259": {
     "first_seen": "2026-04-06T08:10:43.810004+00:00",
-    "updated_at": "2026-04-08T18:21:44-04:00",
+    "updated_at": "2026-04-09T16:50:07-04:00",
     "title": "Staff Software Engineer, API",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "4605984006": {
     "first_seen": "2026-04-06T08:10:44.237790+00:00",
@@ -20029,21 +20334,24 @@
   },
   "7781698": {
     "first_seen": "2026-04-06T15:40:48.510760+00:00",
-    "updated_at": "2026-04-06T11:14:56-04:00",
+    "updated_at": "2026-04-09T16:50:04-04:00",
     "title": "Senior Software Engineer, AI Teammates Experience",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "8423158002": {
     "first_seen": "2026-04-06T16:29:00.335701+00:00",
-    "updated_at": "2026-04-06T12:28:23-04:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
     "title": "Business Development Representative",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "8423167002": {
     "first_seen": "2026-04-06T16:29:00.335734+00:00",
-    "updated_at": "2026-04-06T11:57:36-04:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
     "title": "Business Development Representative",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7660502003": {
     "first_seen": "2026-04-06T16:29:03.419914+00:00",
@@ -20107,9 +20415,10 @@
   },
   "7454232": {
     "first_seen": "2026-04-06T17:26:19.282558+00:00",
-    "updated_at": "2026-04-06T14:44:45-04:00",
+    "updated_at": "2026-04-09T16:50:13-04:00",
     "title": "Senior Engineering Manager, AI Agents",
-    "company": "asana"
+    "company": "asana",
+    "alerted": false
   },
   "5704320004": {
     "first_seen": "2026-04-06T18:10:42.664110+00:00",
@@ -20227,9 +20536,10 @@
   },
   "5850044004": {
     "first_seen": "2026-04-06T20:04:12.234660+00:00",
-    "updated_at": "2026-04-09T16:31:41-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Software Engineer - AI Engineering",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "7767092": {
     "first_seen": "2026-04-06T20:04:13.215424+00:00",
@@ -20737,9 +21047,10 @@
   },
   "4668565006": {
     "first_seen": "2026-04-07T20:40:36.014617+00:00",
-    "updated_at": "2026-04-07T16:35:03-04:00",
+    "updated_at": "2026-04-09T16:58:14-04:00",
     "title": "Sr Software Engineer - Android",
-    "company": "classpass"
+    "company": "classpass",
+    "alerted": false
   },
   "5857174004": {
     "first_seen": "2026-04-07T20:40:40.954282+00:00",
@@ -20785,9 +21096,10 @@
   },
   "8488399002": {
     "first_seen": "2026-04-07T21:29:35.655482+00:00",
-    "updated_at": "2026-04-07T17:20:43-04:00",
+    "updated_at": "2026-04-09T16:51:33-04:00",
     "title": "Resident Solutions Architect - Digital Native Business ",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7788088": {
     "first_seen": "2026-04-07T21:29:48.233686+00:00",
@@ -20803,9 +21115,10 @@
   },
   "5153773008": {
     "first_seen": "2026-04-07T22:06:00.260549+00:00",
-    "updated_at": "2026-04-09T01:00:06-04:00",
+    "updated_at": "2026-04-09T17:39:01-04:00",
     "title": "Product Manager, Monetization",
-    "company": "anthropic"
+    "company": "anthropic",
+    "alerted": false
   },
   "8495229002": {
     "first_seen": "2026-04-07T22:06:17.309222+00:00",
@@ -20815,9 +21128,10 @@
   },
   "8298018002": {
     "first_seen": "2026-04-07T22:57:38.397721+00:00",
-    "updated_at": "2026-04-07T18:16:33-04:00",
+    "updated_at": "2026-04-09T16:51:09-04:00",
     "title": "Engineering Manager - Identity and Access Management (IAM)",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7789182": {
     "first_seen": "2026-04-07T22:58:06.942965+00:00",
@@ -20827,9 +21141,10 @@
   },
   "5858814004": {
     "first_seen": "2026-04-07T23:37:46.644042+00:00",
-    "updated_at": "2026-04-07T19:32:15-04:00",
+    "updated_at": "2026-04-09T17:48:59-04:00",
     "title": "Senior Product Manager, Trading",
-    "company": "altruist"
+    "company": "altruist",
+    "alerted": false
   },
   "5858825004": {
     "first_seen": "2026-04-07T23:37:46.644121+00:00",
@@ -20977,21 +21292,24 @@
   },
   "5857783004": {
     "first_seen": "2026-04-08T15:55:21.742548+00:00",
-    "updated_at": "2026-04-08T11:03:59-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Salesforce Developer",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5867562004": {
     "first_seen": "2026-04-08T15:55:21.742949+00:00",
-    "updated_at": "2026-04-08T16:27:23-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Product Manager - API & Agentic Banking",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "5856800004": {
     "first_seen": "2026-04-08T15:55:21.743047+00:00",
-    "updated_at": "2026-04-08T10:54:28-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "Senior Technical Program Manager",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "7789404": {
     "first_seen": "2026-04-08T15:55:27.464982+00:00",
@@ -21115,9 +21433,10 @@
   },
   "7692954003": {
     "first_seen": "2026-04-08T19:39:49.981702+00:00",
-    "updated_at": "2026-04-08T15:19:34-04:00",
+    "updated_at": "2026-04-09T17:02:38-04:00",
     "title": "Senior Data Scientist, Borrow",
-    "company": "sofi"
+    "company": "sofi",
+    "alerted": false
   },
   "7783164": {
     "first_seen": "2026-04-08T20:22:54.369158+00:00",
@@ -21277,9 +21596,10 @@
   },
   "8025494002": {
     "first_seen": "2026-04-09T08:17:28.285646+00:00",
-    "updated_at": "2026-04-09T04:17:01-04:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Senior Solutions Engineer",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "6690965003": {
     "first_seen": "2026-04-09T09:46:24.489469+00:00",
@@ -21313,9 +21633,10 @@
   },
   "8441894002": {
     "first_seen": "2026-04-09T14:59:34.368905+00:00",
-    "updated_at": "2026-04-09T10:26:53-04:00",
+    "updated_at": "2026-04-09T16:51:30-04:00",
     "title": "Delivery Solutions Architect",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7694827003": {
     "first_seen": "2026-04-09T14:59:36.938372+00:00",
@@ -21331,9 +21652,10 @@
   },
   "5888354004": {
     "first_seen": "2026-04-09T14:59:51.034831+00:00",
-    "updated_at": "2026-04-09T10:52:06-04:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
     "title": "AI Solutions Architect",
-    "company": "mercury"
+    "company": "mercury",
+    "alerted": false
   },
   "7797361": {
     "first_seen": "2026-04-09T15:00:02.607790+00:00",
@@ -21349,9 +21671,10 @@
   },
   "8026632002": {
     "first_seen": "2026-04-09T16:21:10.947489+00:00",
-    "updated_at": "2026-04-09T12:11:02-04:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
     "title": "Senior Security Engineer, Incident Response",
-    "company": "databricks"
+    "company": "databricks",
+    "alerted": false
   },
   "7783095": {
     "first_seen": "2026-04-09T16:21:15.560633+00:00",
@@ -21526,5 +21849,96 @@
     "updated_at": "2026-04-09T16:24:01-04:00",
     "title": "Senior Software Engineer - HSM",
     "company": "bitgo"
+  },
+  "4006925005": {
+    "first_seen": "2026-04-09T23:52:33.149757+00:00",
+    "updated_at": "2026-04-09T18:36:24-04:00",
+    "title": "Sales Development Representative",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "7683325": {
+    "first_seen": "2026-04-09T23:52:35.646001+00:00",
+    "updated_at": "2026-04-09T18:19:47-04:00",
+    "title": "Principal Presales Engineer, Product Specialist",
+    "company": "twilio",
+    "alerted": true
+  },
+  "8474904002": {
+    "first_seen": "2026-04-09T23:52:39.541176+00:00",
+    "updated_at": "2026-04-09T19:45:25-04:00",
+    "title": "SMB Solutions Architect",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8501051002": {
+    "first_seen": "2026-04-09T23:52:44.660612+00:00",
+    "updated_at": "2026-04-09T17:33:58-04:00",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "brex",
+    "alerted": true
+  },
+  "8501052002": {
+    "first_seen": "2026-04-09T23:52:44.660648+00:00",
+    "updated_at": "2026-04-09T17:33:59-04:00",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "brex",
+    "alerted": true
+  },
+  "8501025002": {
+    "first_seen": "2026-04-09T23:52:44.660673+00:00",
+    "updated_at": "2026-04-09T17:33:58-04:00",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "brex",
+    "alerted": true
+  },
+  "8497063002": {
+    "first_seen": "2026-04-09T23:52:47.489796+00:00",
+    "updated_at": "2026-04-09T19:18:07-04:00",
+    "title": "Business Development Representative",
+    "company": "lattice",
+    "alerted": true
+  },
+  "8500989002": {
+    "first_seen": "2026-04-09T23:52:53.868590+00:00",
+    "updated_at": "2026-04-09T16:50:04-04:00",
+    "title": "Senior Infrastructure Engineer",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8500994002": {
+    "first_seen": "2026-04-09T23:52:53.868648+00:00",
+    "updated_at": "2026-04-09T16:51:54-04:00",
+    "title": "Senior Infrastructure Engineer",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8500987002": {
+    "first_seen": "2026-04-09T23:52:53.868682+00:00",
+    "updated_at": "2026-04-09T16:49:23-04:00",
+    "title": "Senior Infrastructure Engineer",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "7688387003": {
+    "first_seen": "2026-04-09T23:52:59.177781+00:00",
+    "updated_at": "2026-04-09T19:09:22-04:00",
+    "title": "Staff Full-Stack Engineer, Account Creation",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7793661": {
+    "first_seen": "2026-04-09T23:53:01.924402+00:00",
+    "updated_at": "2026-04-09T17:47:06-04:00",
+    "title": "Senior Detection Engineer",
+    "company": "instacart",
+    "alerted": true
+  },
+  "7712903": {
+    "first_seen": "2026-04-09T23:53:02.294284+00:00",
+    "updated_at": "2026-04-09T18:59:08-04:00",
+    "title": "Engineering Manager, Listings Product",
+    "company": "airbnb",
+    "alerted": true
   }
 }

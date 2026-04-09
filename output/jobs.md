@@ -2,6 +2,2025 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-09 23:53 UTC
+
+### 🆕 Sales Development Representative
+**gleanwork** · Sales · 🎯 8%
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4006925005)
+🕐 Updated: `2026-04-09T18:36:24-04:00` &nbsp;|&nbsp; ID: `4006925005`
+
+---
+### 🆕 Principal Presales Engineer, Product Specialist
+**twilio** · Solutions Engineering · 🎯 35%
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7683325)
+🕐 Updated: `2026-04-09T18:19:47-04:00` &nbsp;|&nbsp; ID: `7683325`
+
+---
+### 🆕 SMB Solutions Architect
+**gitlab** · SA · 🎯 35%
+📍 Remote, North America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8474904002)
+🕐 Updated: `2026-04-09T19:45:25-04:00` &nbsp;|&nbsp; ID: `8474904002`
+
+---
+### 🆕 Senior Software Engineer, Frontend
+**brex** · Engineering · 🎯 15%
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501051002?gh_jid=8501051002)
+🕐 Updated: `2026-04-09T17:33:58-04:00` &nbsp;|&nbsp; ID: `8501051002`
+
+---
+### 🆕 Senior Software Engineer, Frontend
+**brex** · Engineering · 🎯 15%
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501052002?gh_jid=8501052002)
+🕐 Updated: `2026-04-09T17:33:59-04:00` &nbsp;|&nbsp; ID: `8501052002`
+
+---
+### 🆕 Senior Software Engineer, Frontend
+**brex** · Engineering · 🎯 15%
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501025002?gh_jid=8501025002)
+🕐 Updated: `2026-04-09T17:33:58-04:00` &nbsp;|&nbsp; ID: `8501025002`
+
+---
+### 🆕 Business Development Representative
+**lattice** · Sales Development · 🎯 5%
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8497063002)
+🕐 Updated: `2026-04-09T19:18:07-04:00` &nbsp;|&nbsp; ID: `8497063002`
+
+---
+### 🆕 Senior Infrastructure Engineer
+**bitgo** · Engineering · 🎯 72%
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500989002)
+🕐 Updated: `2026-04-09T16:50:04-04:00` &nbsp;|&nbsp; ID: `8500989002`
+
+---
+### 🆕 Senior Infrastructure Engineer
+**bitgo** · Engineering · 🎯 72%
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500994002)
+🕐 Updated: `2026-04-09T16:51:54-04:00` &nbsp;|&nbsp; ID: `8500994002`
+
+---
+### 🆕 Senior Infrastructure Engineer
+**bitgo** · Engineering · 🎯 72%
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500987002)
+🕐 Updated: `2026-04-09T16:49:23-04:00` &nbsp;|&nbsp; ID: `8500987002`
+
+---
+### 🆕 Staff Full-Stack Engineer, Account Creation
+**sofi** · Engineering · 🎯 78%
+📍 CA - San Francisco HQ &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7688387003?gh_jid=7688387003)
+🕐 Updated: `2026-04-09T19:09:22-04:00` &nbsp;|&nbsp; ID: `7688387003`
+
+---
+### 🆕 Senior Detection Engineer
+**instacart** · Security · 🎯 15%
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793661)
+🕐 Updated: `2026-04-09T17:47:06-04:00` &nbsp;|&nbsp; ID: `7793661`
+
+---
+### 🆕 Engineering Manager, Listings Product
+**airbnb** · Software Engineering · 🎯 25%
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7712903?gh_jid=7712903)
+🕐 Updated: `2026-04-09T18:59:08-04:00` &nbsp;|&nbsp; ID: `7712903`
+
+---
+### 🔄 Privacy Research Engineer, Safeguards
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4949108008)
+🕐 Updated: `2026-04-09T17:39:07-04:00` &nbsp;|&nbsp; ID: `4949108008`
+
+---
+### 🔄 Product Manager, Monetization
+**anthropic** · Product Management, Support, & Operations
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5153773008)
+🕐 Updated: `2026-04-09T17:39:01-04:00` &nbsp;|&nbsp; ID: `5153773008`
+
+---
+### 🔄 Technical Deployment, Applied AI
+**anthropic** · Sales
+📍 Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5017903008)
+🕐 Updated: `2026-04-09T18:47:25-04:00` &nbsp;|&nbsp; ID: `5017903008`
+
+---
+### 🔄 AI Engineer - FDE (Forward Deployed Engineer)
+**databricks** · Professional Services Operations
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8335860002`
+
+---
+### 🔄 AI Engineer - FDE (Forward Deployed Engineer)
+**databricks** · Professional Services Operations
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002)
+🕐 Updated: `2026-04-09T16:51:11-04:00` &nbsp;|&nbsp; ID: `8099751002`
+
+---
+### 🔄 AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
+**databricks** · Professional Services Operations
+📍 Maryland; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8415203002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8415203002`
+
+---
+### 🔄 Business Development Representative
+**databricks** · Sales Development
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423167002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8423167002`
+
+---
+### 🔄 Business Development Representative
+**databricks** · Sales Development
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423158002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8423158002`
+
+---
+### 🔄 Business Development Representative
+**databricks** · Sales Development
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8423165002`
+
+---
+### 🔄 Business Development Representative (French Speaking)
+**databricks** · Sales Development
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8459910002)
+🕐 Updated: `2026-04-09T16:51:31-04:00` &nbsp;|&nbsp; ID: `8459910002`
+
+---
+### 🔄 Databricks Enterprise Lead Security Architect -   Principal IT Software Engineer
+**databricks** · Infrastructure
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8207910002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8207910002`
+
+---
+### 🔄 Delivery Solutions Architect
+**databricks** · Delivery Solutions Architects
+📍 Finland; Remote - Denmark; Stockholm, Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002)
+🕐 Updated: `2026-04-09T16:51:30-04:00` &nbsp;|&nbsp; ID: `8441894002`
+
+---
+### 🔄 Delivery Solutions Architect
+**databricks** · Delivery Solutions Architects
+📍 Remote - Italy &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8368003002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8368003002`
+
+---
+### 🔄 Delivery Solutions Architect - Communications, Media, Entertainment and Games
+**databricks** · Delivery Solutions Architects
+📍 Remote - California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8457249002)
+🕐 Updated: `2026-04-09T16:51:31-04:00` &nbsp;|&nbsp; ID: `8457249002`
+
+---
+### 🔄 Delivery Solutions Architect - Digital Native Business
+**databricks** · Delivery Solutions Architects
+📍 Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8385230002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8385230002`
+
+---
+### 🔄 Delivery Solutions Architect - Digital Native Business
+**databricks** · Delivery Solutions Architects
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8385234002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8385234002`
+
+---
+### 🔄 Delivery Solutions Architect - Healthcare & Life Sciences
+**databricks** · Delivery Solutions Architects
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8233904002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8233904002`
+
+---
+### 🔄 Delivery Solutions Architect - Public Sector 
+**databricks** · Delivery Solutions Architects
+📍 New Jersey; Remote - New York; Remote - Pennsylvania; Remote - Washington D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8289852002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8289852002`
+
+---
+### 🔄 Delivery Solutions Architect - Public Sector 
+**databricks** · Delivery Solutions Architects
+📍 West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8289850002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8289850002`
+
+---
+### 🔄 Director, Engineering Governance- Bellevue, WA
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8295772002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8295772002`
+
+---
+### 🔄 Director, Engineering Governance- Mountain View, CA
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8295622002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8295622002`
+
+---
+### 🔄 Director, Financial Systems (Anaplan)
+**databricks** · Finance
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8482366002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8482366002`
+
+---
+### 🔄 Director, Sales Development
+**databricks** · Sales Development
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8479034002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8479034002`
+
+---
+### 🔄 Engineering Manager - Compute Infra
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6736119002)
+🕐 Updated: `2026-04-09T16:51:07-04:00` &nbsp;|&nbsp; ID: `6736119002`
+
+---
+### 🔄 Engineering Manager - Databricks SQL Control Plane
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8472398002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8472398002`
+
+---
+### 🔄 Engineering Manager - Identity and Access Management (IAM)
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `8298018002`
+
+---
+### 🔄 Engineering Manager - Notebook Dataplane
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8190108002`
+
+---
+### 🔄 Engineering Manager - Pipelines Engine
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8467083002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `8467083002`
+
+---
+### 🔄 Engineering Manager - Streaming
+**databricks** · Executive Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `8324875002`
+
+---
+### 🔄 Engineering Manager - UI Platform
+**databricks** · Executive Engineering - Pipeline
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8013809002`
+
+---
+### 🔄 Executive IT Support
+**databricks** · Infrastructure
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8192404002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8192404002`
+
+---
+### 🔄 Federal Senior Security Assurance Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8435970002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8435970002`
+
+---
+### 🔄 Field CTO - America Industries
+**databricks** · Field Engineering - FE Direct Regulated
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8306218002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8306218002`
+
+---
+### 🔄 Finance Data & Systems Manager
+**databricks** · Finance
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8168394002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8168394002`
+
+---
+### 🔄 Financial Analyst
+**databricks** · Finance
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8414474002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8414474002`
+
+---
+### 🔄 Global GTM Enablement Leader (Marketing)
+**databricks** · Field Engineering - Enablement
+📍 United States; West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8337357002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8337357002`
+
+---
+### 🔄  Global Head of Technical Scale and Strategy (Field Engineering)
+**databricks** · Exec Field Engineering - Indirect
+📍 San Francisco, California; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8223325002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8223325002`
+
+---
+### 🔄 Head of Corporate Engineering
+**databricks** · Exec IT
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7293607002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7293607002`
+
+---
+### 🔄 Lead Adoption Architect
+**databricks** ·  Field Engineering - Indirect
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8073329002)
+🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8073329002`
+
+---
+### 🔄 Lead Adoption Architect - Agent Bricks 
+**databricks** ·  Field Engineering - Indirect
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423972002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8423972002`
+
+---
+### 🔄 Learning Product Manager Lead
+**databricks** · Education & Training
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8466731002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8466731002`
+
+---
+### 🔄 Manager, Field Engineering
+**databricks** · Field Engineering - FE Direct Regulated
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8291077002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8291077002`
+
+---
+### 🔄 Manager, Field Engineering Italy
+**databricks** · Field Engineering - Other
+📍 Remote - Italy &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8374096002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8374096002`
+
+---
+### 🔄 Manager, Field Engineering - Strategic Digital Native Business
+**databricks** · Field Engineering - FE Direct Emerging
+📍 Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8458032002)
+🕐 Updated: `2026-04-09T16:51:31-04:00` &nbsp;|&nbsp; ID: `8458032002`
+
+---
+### 🔄 Manager, Sales Development
+**databricks** · Sales Development
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8074772002)
+🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8074772002`
+
+---
+### 🔄 MBA Intern - Technical Program Management (TPM)
+**databricks** · University Recruiting
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8399537002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8399537002`
+
+---
+### 🔄 Partner Development Representative - Azure
+**databricks** · Sales Development
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8412993002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8412993002`
+
+---
+### 🔄 Partner Enablement Technical Lead
+**databricks** · Field Engineering - Enablement
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8435968002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8435968002`
+
+---
+### 🔄 Partner Sales Director
+**databricks** · Business Development
+📍 Chicago, Illinois; New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8337427002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8337427002`
+
+---
+### 🔄 PhD GenAI Research Scientist Intern
+**databricks** · University Recruiting
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7011263002`
+
+---
+### 🔄 Principal Data Scientist
+**databricks** · Engineering
+📍 Remote - California; San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456277002)
+🕐 Updated: `2026-04-09T16:51:31-04:00` &nbsp;|&nbsp; ID: `8456277002`
+
+---
+### 🔄 Principal Engineer, Authentication
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8400559002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `8400559002`
+
+---
+### 🔄 Principal Engineer, Authentication
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8400563002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `8400563002`
+
+---
+### 🔄 Principal Engineer, Compute Fleet Management
+**databricks** · Executive Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8334738002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `8334738002`
+
+---
+### 🔄 Principal Engineer - Privacy
+**databricks** · Engineering - Pipeline
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7274624002`
+
+---
+### 🔄 Principal Engineer - Privacy
+**databricks** · Engineering - Pipeline
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7274619002`
+
+---
+### 🔄 Principal Engineer - Privacy
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `8224828002`
+
+---
+### 🔄 Principal Engineer - Privacy
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7274488002`
+
+---
+### 🔄 Product Marketing Director, AI
+**databricks** · Marketing
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487145002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8487145002`
+
+---
+### 🔄 Product Security Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8026646002`
+
+---
+### 🔄 Program Manager, Talent & Leadership Development (AI-Enabled Learning)
+**databricks** · People
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8071850002)
+🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8071850002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461258002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461245002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461245002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461243002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461241002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461193002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Atlanta, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461239002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461226002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461163002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Boston, Massachusetts &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461222002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461220002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461218002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Austin, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461219002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Los Angeles, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461168002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8461251002`
+
+---
+### 🔄 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8341311002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8341311002`
+
+---
+### 🔄 Resident Solutions Architect - Digital Native Business 
+**databricks** · Professional Services Operations
+📍 Northeast - United States; Southeast - United States; West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8488399002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461326002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8461326002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456969002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8456969002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456965002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8456965002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Boston, Massachusetts &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456966002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8456966002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Austin, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461327002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8461327002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461330002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8461330002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Charlotte, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461328002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8461328002`
+
+---
+### 🔄 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Atlanta, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456948002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8456948002`
+
+---
+### 🔄 Resident Solutions Architect - Healthcare & Life Sciences
+**databricks** · Professional Services Operations
+📍 Austin, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8494145002`
+
+---
+### 🔄 Resident Solutions Architect - Healthcare & Life Sciences
+**databricks** · Professional Services Operations
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8371312002`
+
+---
+### 🔄 Resident Solutions Architect - Healthcare & Life Sciences
+**databricks** · Professional Services Operations
+📍 Atlanta, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8494146002`
+
+---
+### 🔄 Resident Solutions Architect - Healthcare & Life Sciences
+**databricks** · Professional Services Operations
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8494144002`
+
+---
+### 🔄 Resident Solutions Architect - Healthcare & Life Sciences
+**databricks** · Professional Services Operations
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8494143002`
+
+---
+### 🔄 Resident Solutions Architect - Healthcare & Life Sciences
+**databricks** · Professional Services Operations
+📍 Boston, Massachusetts &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8494142002`
+
+---
+### 🔄 Resident Solutions Architect - Manufacturing
+**databricks** · Professional Services Operations
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8494156002`
+
+---
+### 🔄 Resident Solutions Architect - Manufacturing
+**databricks** · Professional Services Operations
+📍 Boston, Massachusetts &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8494154002`
+
+---
+### 🔄 Resident Solutions Architect - Manufacturing
+**databricks** · Professional Services Operations
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8341313002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461321002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8461321002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494130002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8494130002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Atlanta, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494147002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8494147002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Austin, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494137002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8494137002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Virginia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494107002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8494107002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Boston, Massachusetts &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456973002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8456973002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494128002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8494128002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8356289002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8356289002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456975002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8456975002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Central - United States; Northeast - United States; Southeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423296002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8423296002`
+
+---
+### 🔄 Senior Applied AI Engineer – ML for Systems & Infrastructure
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002)
+🕐 Updated: `2026-04-09T16:51:12-04:00` &nbsp;|&nbsp; ID: `7859597002`
+
+---
+### 🔄 Senior Engineering Manager, AI Runtime
+**databricks** · Engineering
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8490282002)
+🕐 Updated: `2026-04-09T16:51:34-04:00` &nbsp;|&nbsp; ID: `8490282002`
+
+---
+### 🔄 Senior Engineering Manager for Workspace Platform
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7987658002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `7987658002`
+
+---
+### 🔄 Senior Engineering Manager - Trust and Safety
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `8180690002`
+
+---
+### 🔄 Senior Engineering Manager - Trust and Safety
+**databricks** · Engineering - Pipeline
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8374883002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `8374883002`
+
+---
+### 🔄 Senior Engineering Manager - Trust and Safety
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8374884002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `8374884002`
+
+---
+### 🔄 Senior GenAI Research Engineer - Optimization and Kernels
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8297797002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `8297797002`
+
+---
+### 🔄 Senior Machine Learning Engineer - GenAI Platform 
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `6954585002`
+
+---
+### 🔄 Senior Manager, Identity & Access Management (IAM)
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8301830002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8301830002`
+
+---
+### 🔄 Senior Manager, Infrastructure Data Science
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002)
+🕐 Updated: `2026-04-09T16:51:11-04:00` &nbsp;|&nbsp; ID: `7734812002`
+
+---
+### 🔄 Senior Manager, Infrastructure Data Science
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002)
+🕐 Updated: `2026-04-09T16:51:11-04:00` &nbsp;|&nbsp; ID: `7641390002`
+
+---
+### 🔄 Senior Manager, Product Security
+**databricks** · Security
+📍 Remote - Netherlands &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8026634002`
+
+---
+### 🔄 Senior Manager, Product Security
+**databricks** · Security
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8148273002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8148273002`
+
+---
+### 🔄 Senior Organizational Development Manager
+**databricks** · People
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8286103002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8286103002`
+
+---
+### 🔄 Senior Product Operation Analyst
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8298108002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8298108002`
+
+---
+### 🔄 Senior Security Engineer, Incident Response
+**databricks** · Security
+📍 Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Remote - Denmark; Remote - France; Remote - Germany; Remote - Italy; Remote - Spain; Remote - Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026632002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8026632002`
+
+---
+### 🔄 Senior Software Engineer  - Application Traffic team
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `8183195002`
+
+---
+### 🔄 Senior Software Engineer - Backend
+**databricks** · Engineering
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002)
+🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `6779084002`
+
+---
+### 🔄 Senior Software Engineer - Backend
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `4799387002`
+
+---
+### 🔄 Senior Software Engineer - Backend
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6544435002`
+
+---
+### 🔄 Senior Software Engineer (Backend) - AI/ML Environments
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `8233899002`
+
+---
+### 🔄 Senior Software Engineer - Database Engine Internals
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6544383002`
+
+---
+### 🔄 Senior Software Engineer - Database Engine Internals
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `5048461002`
+
+---
+### 🔄 Senior Software Engineer - Distributed Data Systems
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `4513122002`
+
+---
+### 🔄 Senior Software Engineer - Distributed Data Systems
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6544325002`
+
+---
+### 🔄 Senior Software Engineer - Distributed Data Systems
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `6936994002`
+
+---
+### 🔄 Senior Software Engineer - Fullstack
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `7898766002`
+
+---
+### 🔄 Senior Software Engineer - Fullstack
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `5445641002`
+
+---
+### 🔄 Senior Software Engineer - Fullstack
+**databricks** · Engineering - Pipeline
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6544403002`
+
+---
+### 🔄 Senior Software Engineer - Fullstack, Assistant
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7849869002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `7849869002`
+
+---
+### 🔄 Senior Software Engineer - Fullstack (NYC)
+**databricks** · Engineering
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211634002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8211634002`
+
+---
+### 🔄 Senior Software Engineer - Infrastructure and Tools
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6318503002`
+
+---
+### 🔄 Senior Software Engineer, Model Serving
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002)
+🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8211648002`
+
+---
+### 🔄 Senior Software Engineer  - Money Team
+**databricks** · Exec Engineering
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8027404002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8027404002`
+
+---
+### 🔄 Senior Software Engineer - Security 
+**databricks** · Executive Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7274459002`
+
+---
+### 🔄 Senior Solutions Engineer
+**databricks** · Field Engineering - Other
+📍 Aarhus, Denmark; Remote - Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8025494002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8025494002`
+
+---
+### 🔄 Senior Solutions Engineer
+**databricks** · Field Engineering - Other
+📍 Remote - Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8239195002`
+
+---
+### 🔄 Senior Staff Software Engineer - App and Partner Ecosystem
+**databricks** · Engineering
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002)
+🕐 Updated: `2026-04-09T16:51:11-04:00` &nbsp;|&nbsp; ID: `7807722002`
+
+---
+### 🔄 Senior Staff Software Engineer - Enzyme
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7934466002`
+
+---
+### 🔄 Senior Staff Software Engineer - IAM
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7274563002`
+
+---
+### 🔄 Senior Staff Software Engineer - IAM
+**databricks** · Executive Engineering - Pipeline
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7274557002`
+
+---
+### 🔄 Senior Staff Software Engineer - Lakeflow Pipelines Datasets
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `8493002002`
+
+---
+### 🔄 Senior Staff Software Engineer - Security Infrastructure
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7274908002`
+
+---
+### 🔄 Senior Staff Software Engineer - Security Infrastructure
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7274902002`
+
+---
+### 🔄 Senior Supportability Product Specialist, Supportability and Support Platforms
+**databricks** · Support
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7995113002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `7995113002`
+
+---
+### 🔄 Senior Technical Solutions Engineer, Platform
+**databricks** · Support
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7902935002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `7902935002`
+
+---
+### 🔄 Software Engineer - GenAI inference 
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8202670002`
+
+---
+### 🔄 Solutions Architect
+**databricks** · Field Engineering - FE Direct Regulated
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8434341002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8434341002`
+
+---
+### 🔄 Solutions Architect
+**databricks** · Field Engineering - Other
+📍 Remote - Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8368209002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8368209002`
+
+---
+### 🔄 Solutions Architect
+**databricks** · Field Engineering - FE Direct Regulated
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8243219002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8243219002`
+
+---
+### 🔄 Solutions Architect
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8196833002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8196833002`
+
+---
+### 🔄 Solutions Architect (Adelaide)
+**databricks** · Field Engineering - Other
+📍 Remote - Australia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8472735002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8472735002`
+
+---
+### 🔄 Solutions Architect - Digital Native Business
+**databricks** · Field Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6117719002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6117719002`
+
+---
+### 🔄 Solutions Architect - Digital Native Business, Strategic
+**databricks** · Field Engineering - FE Direct Emerging
+📍 Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8434467002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8434467002`
+
+---
+### 🔄 Solutions Architect - Digital Native Business, Strategic
+**databricks** · Field Engineering - FE Direct Emerging
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8227356002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8227356002`
+
+---
+### 🔄 Solutions Architect - Emerging Enterprise
+**databricks** · Field Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6328361002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6328361002`
+
+---
+### 🔄 Solutions Architect - Emerging Enterprise (Startups) 
+**databricks** · Field Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6328388002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6328388002`
+
+---
+### 🔄 Solutions Architect - Healthcare/Life Sciences Team (HLS)
+**databricks** · Field Engineering
+📍 Remote - California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8231231002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `8231231002`
+
+---
+### 🔄 Solutions Architect - Healthcare/Life Sciences Team (HLS)
+**databricks** · Field Engineering
+📍 Remote - Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8085877002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `8085877002`
+
+---
+### 🔄 Solutions Architect - Manufacturing
+**databricks** · Field Engineering
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6545547002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6545547002`
+
+---
+### 🔄 Business Operations & Strategy Associate
+**mongodb** · Biz Ops, Analytics & Data Science
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7760225)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7760225`
+
+---
+### 🔄 Business Operations & Strategy Associate
+**mongodb** · Biz Ops, Analytics & Data Science
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7760222)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7760222`
+
+---
+### 🔄 Director, Identity & Security Product Management
+**mongodb** · PTO Identity and Access Management
+📍 New York City; Palo Alto; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7566136)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7566136`
+
+---
+### 🔄 Principal, Strategic AI Partnerships
+**mongodb** · Partner Programs
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7774143)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7774143`
+
+---
+### 🔄 Product Pricing & Monetization Strategy Senior Analyst
+**mongodb** · PTO Product Management
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523751)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7523751`
+
+---
+### 🔄 Product Pricing & Monetization Strategy Senior Analyst
+**mongodb** · PTO Product Management
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7128879)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7128879`
+
+---
+### 🔄 Senior Analyst, GTM Operations
+**mongodb** · GTM Operations
+📍 Austin; Boston; Chicago; Dallas; Los Angeles; New York City; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7743704)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7743704`
+
+---
+### 🔄 Senior Data Analyst
+**mongodb** · Biz Ops, Analytics & Data Science
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7696633)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7696633`
+
+---
+### 🔄 Senior Data Analyst II, Growth
+**mongodb** · Analytics-Marketing
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7532424)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7532424`
+
+---
+### 🔄 Senior Financial Analyst
+**mongodb** · FP&A
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7767289)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7767289`
+
+---
+### 🔄 Senior Financial Analyst
+**mongodb** · FP&A
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7550357)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7550357`
+
+---
+### 🔄 Senior IRM Analyst
+**mongodb** · Govt Risk Compliance (GRC)
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7711453)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7711453`
+
+---
+### 🔄 Senior Manager, Business Operations
+**mongodb** · Biz Ops, Analytics & Data Science
+📍 Austin; New York City; Palo Alto; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7760217)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7760217`
+
+---
+### 🔄 Staff Research Scientist, Voyage AI
+**mongodb** · PTO Voyage AI
+📍 Palo Alto; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7280132)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7280132`
+
+---
+### 🔄 Strategic Finance Analyst
+**mongodb** · FP&A
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7695474)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7695474`
+
+---
+### 🔄 Vice President, Financial Planning & Analysis - Product & Technology
+**mongodb** · Biz Ops, Analytics & Data Science
+📍 Austin; New York City; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7664046)
+🕐 Updated: `2026-04-08T14:55:08-04:00` &nbsp;|&nbsp; ID: `7664046`
+
+---
+### 🔄 Executive Planning & Operations Analyst
+**fastly** · Product Operations
+📍 Denver, CO; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7683626)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7683626`
+
+---
+### 🔄 Partner Strategy & Operations Sr. Analyst
+**fastly** · Sales Ops & Enablement
+📍 Denver, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7555010)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7555010`
+
+---
+### 🔄 Senior Financial Analyst -  Strategic Finance
+**fastly** · CFO
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7524430)
+🕐 Updated: `2026-04-06T12:03:52-04:00` &nbsp;|&nbsp; ID: `7524430`
+
+---
+### 🔄 Analyst Relations Intern
+**twilio** · Students
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7748959)
+🕐 Updated: `2026-04-06T13:16:52-04:00` &nbsp;|&nbsp; ID: `7748959`
+
+---
+### 🔄 Fraud Specialist
+**twilio** · Ops (Fraud, Compliance, Biz, Prod, Analyst)
+📍 Remote - Estonia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7761267)
+🕐 Updated: `2026-04-09T10:28:16-04:00` &nbsp;|&nbsp; ID: `7761267`
+
+---
+### 🔄 Marketing Analytics Automation & Enablement Manager
+**twilio** · Marketing
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7736720)
+🕐 Updated: `2026-04-08T18:29:14-04:00` &nbsp;|&nbsp; ID: `7736720`
+
+---
+### 🔄 MDM Data Specialist
+**twilio** · Business Intelligence
+📍 Remote - Colombia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622280)
+🕐 Updated: `2026-04-09T10:34:39-04:00` &nbsp;|&nbsp; ID: `7622280`
+
+---
+### 🔄 Security Compliance & Regulatory Affairs Analyst
+**twilio** · Security
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7599044)
+🕐 Updated: `2026-04-09T10:35:29-04:00` &nbsp;|&nbsp; ID: `7599044`
+
+---
+### 🔄 Senior Manager of Offensive Security
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7669898)
+🕐 Updated: `2026-04-06T13:16:50-04:00` &nbsp;|&nbsp; ID: `7669898`
+
+---
+### 🔄 Sr. Analyst, Strategic Measurement
+**twilio** · Marketing
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7736722)
+🕐 Updated: `2026-04-09T10:26:48-04:00` &nbsp;|&nbsp; ID: `7736722`
+
+---
+### 🔄 Total Rewards Analyst - LATAM
+**twilio** · People Team
+📍 Remote - Colombia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7688669)
+🕐 Updated: `2026-04-09T12:34:02-04:00` &nbsp;|&nbsp; ID: `7688669`
+
+---
+### 🔄 Web Analytics & Insights Manager
+**twilio** · Marketing
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7736718)
+🕐 Updated: `2026-04-08T18:32:14-04:00` &nbsp;|&nbsp; ID: `7736718`
+
+---
+### 🔄 Senior Digital Programs Manager
+**mixpanel** · Customer Success
+📍 New York City, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7568212)
+🕐 Updated: `2026-04-08T18:57:05-04:00` &nbsp;|&nbsp; ID: `7568212`
+
+---
+### 🔄 Sr. Financial Analyst - Corp Planning & Systems
+**klaviyo** · Finance & Accounting
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7607705003)
+🕐 Updated: `2026-04-09T17:30:50-04:00` &nbsp;|&nbsp; ID: `7607705003`
+
+---
+### 🔄 Senior Strategic Business Development Representative
+**iterable** · Sales
+📍 Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7769902)
+🕐 Updated: `2026-04-09T17:00:34-04:00` &nbsp;|&nbsp; ID: `7769902`
+
+---
+### 🔄 Senior Manager, Application Security 
+**pagerduty** · Security
+📍 Atlanta &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/pagerduty/jobs/5815418004)
+🕐 Updated: `2026-04-07T13:13:48-04:00` &nbsp;|&nbsp; ID: `5815418004`
+
+---
+### 🔄 Senior Financial Analyst
+**newrelic** · Finance
+📍 Portland, Oregon, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5168251008)
+🕐 Updated: `2026-04-09T19:31:53-04:00` &nbsp;|&nbsp; ID: `5168251008`
+
+---
+### 🔄 Customer Support Engineer
+**fivetran** · Customer Support Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7626166003)
+🕐 Updated: `2026-04-09T19:03:19-04:00` &nbsp;|&nbsp; ID: `7626166003`
+
+---
+### 🔄 Customer Support Engineer
+**fivetran** · Customer Support Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7679244003)
+🕐 Updated: `2026-04-09T19:03:19-04:00` &nbsp;|&nbsp; ID: `7679244003`
+
+---
+### 🔄 Customer Support Engineer III
+**fivetran** · Customer Support Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7625836003)
+🕐 Updated: `2026-04-09T19:03:17-04:00` &nbsp;|&nbsp; ID: `7625836003`
+
+---
+### 🔄 Marketing Insights Analyst
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7674622003)
+🕐 Updated: `2026-04-09T19:03:35-04:00` &nbsp;|&nbsp; ID: `7674622003`
+
+---
+### 🔄 Principal Product Designer
+**fivetran** · Business Intelligence Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7656004003)
+🕐 Updated: `2026-04-07T03:16:35-04:00` &nbsp;|&nbsp; ID: `7656004003`
+
+---
+### 🔄 Principal Software Engineer - AI Tooling & Adoption
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6664139003)
+🕐 Updated: `2026-04-09T19:02:56-04:00` &nbsp;|&nbsp; ID: `6664139003`
+
+---
+### 🔄 Senior Marketing Data Analyst
+**fivetran** · Analytics Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7583474003)
+🕐 Updated: `2026-04-09T11:50:16-04:00` &nbsp;|&nbsp; ID: `7583474003`
+
+---
+### 🔄 Senior Staff Software Engineer - Binary Log Data Replication
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7393532003)
+🕐 Updated: `2026-04-09T19:02:58-04:00` &nbsp;|&nbsp; ID: `7393532003`
+
+---
+### 🔄 Senior Staff Software Engineer - Binary Log Data Replication
+**fivetran** · Engineering Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7483663003)
+🕐 Updated: `2026-04-09T19:02:58-04:00` &nbsp;|&nbsp; ID: `7483663003`
+
+---
+### 🔄 Senior Staff Software Engineer - Performance Engineering
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7537470003)
+🕐 Updated: `2026-04-09T19:03:09-04:00` &nbsp;|&nbsp; ID: `7537470003`
+
+---
+### 🔄 Senior Technical Product Marketing Manager
+**fivetran** · Marketing Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7661577003)
+🕐 Updated: `2026-04-09T19:03:24-04:00` &nbsp;|&nbsp; ID: `7661577003`
+
+---
+### 🔄 Senior Technical Product Marketing Manager
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7649908003)
+🕐 Updated: `2026-04-09T19:03:24-04:00` &nbsp;|&nbsp; ID: `7649908003`
+
+---
+### 🔄 Senior Web Analytics & Operations Manager
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7685331003)
+🕐 Updated: `2026-04-09T13:46:00-04:00` &nbsp;|&nbsp; ID: `7685331003`
+
+---
+### 🔄 Senior Web Analytics & Operations Manager
+**fivetran** · Marketing Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7660891003)
+🕐 Updated: `2026-04-09T13:46:00-04:00` &nbsp;|&nbsp; ID: `7660891003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7546711003)
+🕐 Updated: `2026-04-09T19:03:06-04:00` &nbsp;|&nbsp; ID: `7546711003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6598497003)
+🕐 Updated: `2026-04-09T19:02:50-04:00` &nbsp;|&nbsp; ID: `6598497003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7535213003)
+🕐 Updated: `2026-04-09T19:03:06-04:00` &nbsp;|&nbsp; ID: `7535213003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7487101003)
+🕐 Updated: `2026-04-09T19:03:04-04:00` &nbsp;|&nbsp; ID: `7487101003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7549451003)
+🕐 Updated: `2026-04-09T19:03:04-04:00` &nbsp;|&nbsp; ID: `7549451003`
+
+---
+### 🔄 Staff Product Designer, Security & Compliance
+**gitlab** · Product Design
+📍 Remote, Americas; Remote, Ireland; Remote, Netherlands &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8425775002)
+🕐 Updated: `2026-04-09T15:53:35-04:00` &nbsp;|&nbsp; ID: `8425775002`
+
+---
+### 🔄 Staff Product Manager, New Products
+**calendly** · Product
+📍 San Francisco (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8450989002)
+🕐 Updated: `2026-04-09T19:15:59-04:00` &nbsp;|&nbsp; ID: `8450989002`
+
+---
+### 🔄 Sr Software Engineer - Android
+**classpass** · Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.playlist.com/careers/opportunities/4668565006?gh_jid=4668565006)
+🕐 Updated: `2026-04-09T16:58:14-04:00` &nbsp;|&nbsp; ID: `4668565006`
+
+---
+### 🔄 Head of Data, Customer Experience
+**adyen** · Product Management
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7457287)
+🕐 Updated: `2026-04-08T03:26:34-04:00` &nbsp;|&nbsp; ID: `7457287`
+
+---
+### 🔄 Head of Data, Customer Experience
+**adyen** · Product Management
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7724022)
+🕐 Updated: `2026-04-08T03:26:42-04:00` &nbsp;|&nbsp; ID: `7724022`
+
+---
+### 🔄 Senior Operations Data Analyst
+**payoneer** · OPS CJ Enablement
+📍 New York, US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.payoneer.com/careers/position/7340530/?gh_jid=7340530)
+🕐 Updated: `2026-04-06T09:28:19-04:00` &nbsp;|&nbsp; ID: `7340530`
+
+---
+### 🔄 Senior Product Manager, Trading
+**altruist** · Product
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5858814004?gh_jid=5858814004)
+🕐 Updated: `2026-04-09T17:48:59-04:00` &nbsp;|&nbsp; ID: `5858814004`
+
+---
+### 🔄 Senior Product Manager, Trading
+**altruist** · Product
+📍 Dallas, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5802384004?gh_jid=5802384004)
+🕐 Updated: `2026-04-09T17:48:59-04:00` &nbsp;|&nbsp; ID: `5802384004`
+
+---
+### 🔄 Senior Product Manager, Trading
+**altruist** · Product
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5802373004?gh_jid=5802373004)
+🕐 Updated: `2026-04-09T17:48:59-04:00` &nbsp;|&nbsp; ID: `5802373004`
+
+---
+### 🔄 Senior Product Manager, Trading
+**altruist** · Product
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5802382004?gh_jid=5802382004)
+🕐 Updated: `2026-04-09T17:48:59-04:00` &nbsp;|&nbsp; ID: `5802382004`
+
+---
+### 🔄 Principal Product Manager, Tax Platform
+**gusto** · Product Management
+📍 Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7235291)
+🕐 Updated: `2026-04-09T16:57:49-04:00` &nbsp;|&nbsp; ID: `7235291`
+
+---
+### 🔄 Data Analyst II
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463696002?gh_jid=8463696002)
+🕐 Updated: `2026-04-08T18:02:14-04:00` &nbsp;|&nbsp; ID: `8463696002`
+
+---
+### 🔄 Data Analyst II
+**brex** · Finance
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463702002?gh_jid=8463702002)
+🕐 Updated: `2026-04-08T18:02:23-04:00` &nbsp;|&nbsp; ID: `8463702002`
+
+---
+### 🔄 Data Analyst III
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463699002?gh_jid=8463699002)
+🕐 Updated: `2026-04-08T18:03:09-04:00` &nbsp;|&nbsp; ID: `8463699002`
+
+---
+### 🔄 Data Analyst III
+**brex** · Finance
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463704002?gh_jid=8463704002)
+🕐 Updated: `2026-04-08T18:03:20-04:00` &nbsp;|&nbsp; ID: `8463704002`
+
+---
+### 🔄 Enterprise Account Executive, Embedded Finance
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7844195002?gh_jid=7844195002)
+🕐 Updated: `2026-04-07T16:17:17-04:00` &nbsp;|&nbsp; ID: `7844195002`
+
+---
+### 🔄 Enterprise Account Executive, Embedded Finance
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8134354002?gh_jid=8134354002)
+🕐 Updated: `2026-04-07T16:51:54-04:00` &nbsp;|&nbsp; ID: `8134354002`
+
+---
+### 🔄 Frontend Engineer II
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8478372002?gh_jid=8478372002)
+🕐 Updated: `2026-04-09T17:25:11-04:00` &nbsp;|&nbsp; ID: `8478372002`
+
+---
+### 🔄 Frontend Engineer II
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8478385002?gh_jid=8478385002)
+🕐 Updated: `2026-04-09T17:25:20-04:00` &nbsp;|&nbsp; ID: `8478385002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485352002?gh_jid=8485352002)
+🕐 Updated: `2026-04-07T16:17:25-04:00` &nbsp;|&nbsp; ID: `8485352002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485385002?gh_jid=8485385002)
+🕐 Updated: `2026-04-07T16:17:25-04:00` &nbsp;|&nbsp; ID: `8485385002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485386002?gh_jid=8485386002)
+🕐 Updated: `2026-04-07T16:17:25-04:00` &nbsp;|&nbsp; ID: `8485386002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 Salt Lake City, Utah, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485388002?gh_jid=8485388002)
+🕐 Updated: `2026-04-07T16:17:28-04:00` &nbsp;|&nbsp; ID: `8485388002`
+
+---
+### 🔄 Senior Software Engineer, Full Stack
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8472634002?gh_jid=8472634002)
+🕐 Updated: `2026-04-09T17:02:05-04:00` &nbsp;|&nbsp; ID: `8472634002`
+
+---
+### 🔄 Senior Software Engineer, Full Stack
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8472635002?gh_jid=8472635002)
+🕐 Updated: `2026-04-09T17:02:26-04:00` &nbsp;|&nbsp; ID: `8472635002`
+
+---
+### 🔄 Senior Software Engineer, Full Stack
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8472633002?gh_jid=8472633002)
+🕐 Updated: `2026-04-09T17:01:54-04:00` &nbsp;|&nbsp; ID: `8472633002`
+
+---
+### 🔄 Senior Software Engineer, Product 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461333002?gh_jid=8461333002)
+🕐 Updated: `2026-04-09T16:58:44-04:00` &nbsp;|&nbsp; ID: `8461333002`
+
+---
+### 🔄 Senior Software Engineer, Product 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8465003002?gh_jid=8465003002)
+🕐 Updated: `2026-04-09T16:59:02-04:00` &nbsp;|&nbsp; ID: `8465003002`
+
+---
+### 🔄 Senior Software Engineer, Product 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461469002?gh_jid=8461469002)
+🕐 Updated: `2026-04-09T16:58:53-04:00` &nbsp;|&nbsp; ID: `8461469002`
+
+---
+### 🔄 Senior Software Engineer, Product Data Platform
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8430182002?gh_jid=8430182002)
+🕐 Updated: `2026-04-09T16:57:34-04:00` &nbsp;|&nbsp; ID: `8430182002`
+
+---
+### 🔄 Senior Software Engineer, Product Data Platform
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8430197002?gh_jid=8430197002)
+🕐 Updated: `2026-04-09T16:57:54-04:00` &nbsp;|&nbsp; ID: `8430197002`
+
+---
+### 🔄 Account Development Manager
+**mercury** · Relationship Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5820682004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5820682004`
+
+---
+### 🔄 AI Solutions Architect
+**mercury** · Support Operations & Strategy
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5888354004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5888354004`
+
+---
+### 🔄 Sales Development Manager
+**mercury** · Sales Development
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5841980004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5841980004`
+
+---
+### 🔄 Sales Development Representative
+**mercury** · Sales Development
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5841970004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5841970004`
+
+---
+### 🔄 Sales Development Representative - New Grad
+**mercury** · Sales Development
+📍 New York, NY or San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5841978004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5841978004`
+
+---
+### 🔄 Salesforce Developer
+**mercury** · Sales Operations
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5857783004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5857783004`
+
+---
+### 🔄 Senior Analyst - Compensation & People Analytics
+**mercury** · Compensation
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5847980004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5847980004`
+
+---
+### 🔄 Senior Analytics Engineer
+**mercury** · Data Science
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5769808004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5769808004`
+
+---
+### 🔄 Senior Backend Engineer - Product
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5520964004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5520964004`
+
+---
+### 🔄 Senior Data Scientist - Banking
+**mercury** · Data Science
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5799320004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5799320004`
+
+---
+### 🔄 Senior Engineering Manager - Banking
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5644822004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5644822004`
+
+---
+### 🔄 Senior Engineering Manager - Release Engineering
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5848405004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5848405004`
+
+---
+### 🔄 Senior Engineering Manager - Risk
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5701708004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5701708004`
+
+---
+### 🔄 Senior Full-Stack Engineer
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5493086004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5493086004`
+
+---
+### 🔄 Senior Infrastructure Engineer
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5832466004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5832466004`
+
+---
+### 🔄 Senior Machine Learning Engineer
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5639559004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5639559004`
+
+---
+### 🔄 Senior Manager - Account Development
+**mercury** · Relationship Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5820684004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5820684004`
+
+---
+### 🔄 Senior Manager - BSA/AML & Sanctions Modeling and Analytics
+**mercury** · Compliance Management Systems
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5836114004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5836114004`
+
+---
+### 🔄 Senior Product Designer – Mobile
+**mercury** · Product Design
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5843845004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5843845004`
+
+---
+### 🔄 Senior Product Manager - API & Agentic Banking
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5867562004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5867562004`
+
+---
+### 🔄 Senior Product Manager - Ledger
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5832762004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5832762004`
+
+---
+### 🔄 Senior Software Engineer - AI Engineering
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5850044004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5850044004`
+
+---
+### 🔄 Senior Software Engineer - Banking Integration Platform
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5791111004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5791111004`
+
+---
+### 🔄 Senior Software Engineer - Domestic Wires
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5803347004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5803347004`
+
+---
+### 🔄 Senior Software Engineer - Risk (AI & Automation)
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5765913004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5765913004`
+
+---
+### 🔄 Senior Technical Program Manager
+**mercury** · Sales Operations
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5856800004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5856800004`
+
+---
+### 🔄 Senior Technical Recruiter - Engineering
+**mercury** · Recruiter
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5832775004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5832775004`
+
+---
+### 🔄 Software Engineer - Product
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5267749004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5267749004`
+
+---
+### 🔄 Staff Product Manager - Risk Onboarding
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5821334004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5821334004`
+
+---
+### 🔄 Staff Software Engineer - Fraud
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5847987004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5847987004`
+
+---
+### 🔄 Consumer L&D SME Trainer Lead Analyst
+**coinbase** · Customer Experience
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7616000?gh_jid=7616000)
+🕐 Updated: `2026-04-09T16:41:27-04:00` &nbsp;|&nbsp; ID: `7616000`
+
+---
+### 🔄 Engineering Manager (Institutional - Custody, Prime Onchain Wallet)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7650637?gh_jid=7650637)
+🕐 Updated: `2026-04-09T18:51:13-04:00` &nbsp;|&nbsp; ID: `7650637`
+
+---
+### 🔄 Engineering Manager (Institutional - Foundations, Onboarding & Growth)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7571814?gh_jid=7571814)
+🕐 Updated: `2026-04-09T18:51:11-04:00` &nbsp;|&nbsp; ID: `7571814`
+
+---
+### 🔄 Senior Counsel, Security and Technology
+**coinbase** · Legal & Compliance
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7550415?gh_jid=7550415)
+🕐 Updated: `2026-04-09T16:30:59-04:00` &nbsp;|&nbsp; ID: `7550415`
+
+---
+### 🔄 Senior Machine Learning Platform Engineer (Platform)
+**coinbase** · Machine Learning
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203)
+🕐 Updated: `2026-04-09T19:46:34-04:00` &nbsp;|&nbsp; ID: `7604203`
+
+---
+### 🔄 Senior Software Engineer (Platform- Identity)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7660227?gh_jid=7660227)
+🕐 Updated: `2026-04-09T19:41:30-04:00` &nbsp;|&nbsp; ID: `7660227`
+
+---
+### 🔄 Software Engineer, Full Stack (EAA)
+**coinbase** · Engineering - Backend
+📍 Remote - Brazil &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7584070?gh_jid=7584070)
+🕐 Updated: `2026-04-09T17:37:16-04:00` &nbsp;|&nbsp; ID: `7584070`
+
+---
+### 🔄 Staff Software Engineer, Backend (Consumer - International)
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7589139?gh_jid=7589139)
+🕐 Updated: `2026-04-09T17:41:01-04:00` &nbsp;|&nbsp; ID: `7589139`
+
+---
+### 🔄 Transaction Monitoring Compliance QA Analyst IV
+**coinbase** · Customer Experience
+📍 Remote - UK &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7140861?gh_jid=7140861)
+🕐 Updated: `2026-04-09T04:29:45-04:00` &nbsp;|&nbsp; ID: `7140861`
+
+---
+### 🔄 Transaction Monitoring Lead Analyst
+**coinbase** · Customer Experience
+📍 Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7516383?gh_jid=7516383)
+🕐 Updated: `2026-04-08T23:56:05-04:00` &nbsp;|&nbsp; ID: `7516383`
+
+---
+### 🔄 Senior Data Scientist, Fraud 
+**robinhood** · ENG Data Science
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037)
+🕐 Updated: `2026-04-06T16:03:15-04:00` &nbsp;|&nbsp; ID: `7412037`
+
+---
+### 🔄 Lead Analyst, Security
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8416920002?gh_jid=8416920002)
+🕐 Updated: `2026-04-08T01:03:16-04:00` &nbsp;|&nbsp; ID: `8416920002`
+
+---
+### 🔄 Lead Data Analyst
+**chime** · Finance
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8403069002?gh_jid=8403069002)
+🕐 Updated: `2026-04-08T01:03:11-04:00` &nbsp;|&nbsp; ID: `8403069002`
+
+---
+### 🔄 Lead Data Analyst, Growth Science
+**chime** · Data Analytics
+📍 New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002)
+🕐 Updated: `2026-04-08T01:03:48-04:00` &nbsp;|&nbsp; ID: `8462910002`
+
+---
+### 🔄 Senior Analyst, AML Governance & Advisory
+**chime** · Risk
+📍 Chicago, IL, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8451791002?gh_jid=8451791002)
+🕐 Updated: `2026-04-08T01:03:37-04:00` &nbsp;|&nbsp; ID: `8451791002`
+
+---
+### 🔄 Senior Manager, Data Analytics
+**chime** · Data Analytics
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8484048002?gh_jid=8484048002)
+🕐 Updated: `2026-04-06T14:43:46-04:00` &nbsp;|&nbsp; ID: `8484048002`
+
+---
+### 🔄 Senior Manager, Marketing Analytics
+**chime** · Data Analytics
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8443192002?gh_jid=8443192002)
+🕐 Updated: `2026-04-08T01:03:36-04:00` &nbsp;|&nbsp; ID: `8443192002`
+
+---
+### 🔄 Staff Data Analyst
+**chime** · Finance
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8403065002?gh_jid=8403065002)
+🕐 Updated: `2026-04-08T01:03:09-04:00` &nbsp;|&nbsp; ID: `8403065002`
+
+---
+### 🔄 Strategy Manager, Networks
+**chime** · General Management
+📍 New York, NY, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8488275002?gh_jid=8488275002)
+🕐 Updated: `2026-04-08T01:04:15-04:00` &nbsp;|&nbsp; ID: `8488275002`
+
+---
+### 🔄 Senior Data Scientist, Borrow
+**sofi** · Data Science
+📍 CA - San Francisco; NY - New York City    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692954003?gh_jid=7692954003)
+🕐 Updated: `2026-04-09T17:02:38-04:00` &nbsp;|&nbsp; ID: `7692954003`
+
+---
+### 🔄 Manager, Sales Development
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7612362)
+🕐 Updated: `2026-04-09T19:18:02-04:00` &nbsp;|&nbsp; ID: `7612362`
+
+---
+### 🔄 Strategic Partner Manager
+**instacart** · Retail Business Development
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6819437)
+🕐 Updated: `2026-04-09T18:03:30-04:00` &nbsp;|&nbsp; ID: `6819437`
+
+---
+### 🔄 Strategic Partner Manager
+**instacart** · Retail Business Development
+📍 United States - Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6819435)
+🕐 Updated: `2026-04-09T18:03:30-04:00` &nbsp;|&nbsp; ID: `6819435`
+
+---
+### 🔄 Group Product Manager, Core Rider
+**lyft** · Rider
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8318645002?gh_jid=8318645002)
+🕐 Updated: `2026-04-09T17:10:32-04:00` &nbsp;|&nbsp; ID: `8318645002`
+
+---
+### 🔄 Corporate Security Engineer
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7441441?gh_jid=7441441)
+🕐 Updated: `2026-04-09T16:50:13-04:00` &nbsp;|&nbsp; ID: `7441441`
+
+---
+### 🔄 Engineering Manager, Reference Anything
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7542202?gh_jid=7542202)
+🕐 Updated: `2026-04-09T16:50:15-04:00` &nbsp;|&nbsp; ID: `7542202`
+
+---
+### 🔄 Engineering Manager, Track Anything
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7542185?gh_jid=7542185)
+🕐 Updated: `2026-04-09T16:50:15-04:00` &nbsp;|&nbsp; ID: `7542185`
+
+---
+### 🔄 Group Tech Lead, Adoption Engineering
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7662620?gh_jid=7662620)
+🕐 Updated: `2026-04-09T16:50:20-04:00` &nbsp;|&nbsp; ID: `7662620`
+
+---
+### 🔄 Head of Engineering, Core Product & Collaborative Work Management
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7718738?gh_jid=7718738)
+🕐 Updated: `2026-04-09T16:50:21-04:00` &nbsp;|&nbsp; ID: `7718738`
+
+---
+### 🔄 Inbound Sales Development Representative
+**asana** · GTM Operations, Strategy & Field Readiness
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/5745634?gh_jid=5745634)
+🕐 Updated: `2026-04-09T16:49:59-04:00` &nbsp;|&nbsp; ID: `5745634`
+
+---
+### 🔄 iOS Engineer
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/6806085?gh_jid=6806085)
+🕐 Updated: `2026-04-09T16:50:05-04:00` &nbsp;|&nbsp; ID: `6806085`
+
+---
+### 🔄 Principal Security Engineer
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7615659?gh_jid=7615659)
+🕐 Updated: `2026-04-09T16:50:19-04:00` &nbsp;|&nbsp; ID: `7615659`
+
+---
+### 🔄 Sales Development Manager
+**asana** · GTM Operations, Strategy & Field Readiness
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7517442?gh_jid=7517442)
+🕐 Updated: `2026-04-09T16:50:14-04:00` &nbsp;|&nbsp; ID: `7517442`
+
+---
+### 🔄 Senior Engineering Manager, AI Agents
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7454232?gh_jid=7454232)
+🕐 Updated: `2026-04-09T16:50:13-04:00` &nbsp;|&nbsp; ID: `7454232`
+
+---
+### 🔄 Senior Engineering Manager, Security
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7565961?gh_jid=7565961)
+🕐 Updated: `2026-04-09T16:50:16-04:00` &nbsp;|&nbsp; ID: `7565961`
+
+---
+### 🔄 Senior Software Engineer, AI Product Frameworks
+**asana** · Infrastructure Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7370275?gh_jid=7370275)
+🕐 Updated: `2026-04-09T16:50:11-04:00` &nbsp;|&nbsp; ID: `7370275`
+
+---
+### 🔄 Senior Software Engineer, AI Studio
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7773378?gh_jid=7773378)
+🕐 Updated: `2026-04-09T16:50:04-04:00` &nbsp;|&nbsp; ID: `7773378`
+
+---
+### 🔄 Senior Software Engineer, AI Teammates Experience
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7781698?gh_jid=7781698)
+🕐 Updated: `2026-04-09T16:50:04-04:00` &nbsp;|&nbsp; ID: `7781698`
+
+---
+### 🔄 Senior Software Engineer, Infrastructure Security
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7565315?gh_jid=7565315)
+🕐 Updated: `2026-04-09T16:50:16-04:00` &nbsp;|&nbsp; ID: `7565315`
+
+---
+### 🔄 Senior Software Engineer, Product
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/6791159?gh_jid=6791159)
+🕐 Updated: `2026-04-09T16:50:03-04:00` &nbsp;|&nbsp; ID: `6791159`
+
+---
+### 🔄 Senior Solutions Architect
+**asana** · GTM Operations, Strategy & Field Readiness
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7607510?gh_jid=7607510)
+🕐 Updated: `2026-04-09T16:50:18-04:00` &nbsp;|&nbsp; ID: `7607510`
+
+---
+### 🔄 Software Engineer, CI/CD
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7595104?gh_jid=7595104)
+🕐 Updated: `2026-04-09T16:50:08-04:00` &nbsp;|&nbsp; ID: `7595104`
+
+---
+### 🔄 Software Engineer, CI/CD
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7299272?gh_jid=7299272)
+🕐 Updated: `2026-04-09T16:50:07-04:00` &nbsp;|&nbsp; ID: `7299272`
+
+---
+### 🔄 Staff Engineer - CI/CD
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7394807?gh_jid=7394807)
+🕐 Updated: `2026-04-09T16:50:07-04:00` &nbsp;|&nbsp; ID: `7394807`
+
+---
+### 🔄 Staff Software Engineer, AI Studio
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7773469?gh_jid=7773469)
+🕐 Updated: `2026-04-09T16:50:16-04:00` &nbsp;|&nbsp; ID: `7773469`
+
+---
+### 🔄 Staff Software Engineer, API
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7066259?gh_jid=7066259)
+🕐 Updated: `2026-04-09T16:50:07-04:00` &nbsp;|&nbsp; ID: `7066259`
+
+---
+
 ## 📅 Run: 2026-04-09 20:43 UTC
 
 ### 🆕 Senior Software Engineer - HSM
