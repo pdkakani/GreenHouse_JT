@@ -3714,9 +3714,10 @@
   },
   "7684222": {
     "first_seen": "2026-04-06T02:02:09.744983+00:00",
-    "updated_at": "2026-03-05T16:48:41-05:00",
+    "updated_at": "2026-04-10T01:35:03-04:00",
     "title": "CI/CD Engineer, Mobile",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7703237": {
     "first_seen": "2026-04-06T02:02:09.745060+00:00",
@@ -3780,9 +3781,10 @@
   },
   "7684215": {
     "first_seen": "2026-04-06T02:02:09.745460+00:00",
-    "updated_at": "2026-03-20T14:28:05-04:00",
+    "updated_at": "2026-04-10T01:35:00-04:00",
     "title": "Engineering Manager, CI/CD",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7518752": {
     "first_seen": "2026-04-06T02:02:09.745470+00:00",
@@ -21731,9 +21733,10 @@
   },
   "7694827003": {
     "first_seen": "2026-04-09T14:59:36.938372+00:00",
-    "updated_at": "2026-04-09T09:39:17-04:00",
+    "updated_at": "2026-04-10T01:02:10-04:00",
     "title": "Software Engineer II, Growth",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7689233003": {
     "first_seen": "2026-04-09T14:59:39.892686+00:00",
@@ -21799,15 +21802,17 @@
   },
   "7563810003": {
     "first_seen": "2026-04-09T17:35:56.795824+00:00",
-    "updated_at": "2026-04-09T13:12:29-04:00",
+    "updated_at": "2026-04-10T01:02:09-04:00",
     "title": "Software Engineer - Advanced Reporting",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7695144003": {
     "first_seen": "2026-04-09T17:35:56.795870+00:00",
-    "updated_at": "2026-04-09T13:18:04-04:00",
+    "updated_at": "2026-04-10T01:02:11-04:00",
     "title": "Software Engineer II - Billing",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7694258003": {
     "first_seen": "2026-04-09T17:36:00.060470+00:00",
@@ -22070,6 +22075,13 @@
     "updated_at": "2026-04-09T21:33:48-04:00",
     "title": "Staff Applied AI Scientist",
     "company": "gusto",
+    "alerted": true
+  },
+  "7789425": {
+    "first_seen": "2026-04-10T06:29:47.454079+00:00",
+    "updated_at": "2026-04-10T01:36:51-04:00",
+    "title": "Software Engineer (L2)",
+    "company": "twilio",
     "alerted": true
   }
 }

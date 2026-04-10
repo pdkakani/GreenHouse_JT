@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 06:30 UTC
+
+### 🆕 Software Engineer (L2)
+**twilio** · Engineering · 🎯 72%
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7789425)
+🕐 Updated: `2026-04-10T01:36:51-04:00` &nbsp;|&nbsp; ID: `7789425`
+
+---
+### 🔄 Software Engineer - Advanced Reporting
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7563810003)
+🕐 Updated: `2026-04-10T01:02:09-04:00` &nbsp;|&nbsp; ID: `7563810003`
+
+---
+### 🔄 Software Engineer II - Billing
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7695144003)
+🕐 Updated: `2026-04-10T01:02:11-04:00` &nbsp;|&nbsp; ID: `7695144003`
+
+---
+### 🔄 Software Engineer II, Growth
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7694827003)
+🕐 Updated: `2026-04-10T01:02:10-04:00` &nbsp;|&nbsp; ID: `7694827003`
+
+---
+### 🔄 CI/CD Engineer, Mobile
+**adyen** · Infrastructure
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7684222)
+🕐 Updated: `2026-04-10T01:35:03-04:00` &nbsp;|&nbsp; ID: `7684222`
+
+---
+### 🔄 Engineering Manager, CI/CD
+**adyen** · Infrastructure
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7684215)
+🕐 Updated: `2026-04-10T01:35:00-04:00` &nbsp;|&nbsp; ID: `7684215`
+
+---
+
 ## 📅 Run: 2026-04-10 04:47 UTC
 
 ### 🔄 Software Engineer II - Abnormal Data Platform
