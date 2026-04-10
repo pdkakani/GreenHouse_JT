@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 19:54 UTC
+
+### 🆕 Delivery Solutions Architect - Financial Services
+**databricks** · Delivery Solutions Architects · 🎯 42%
+📍 Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8442976002)
+🕐 Updated: `2026-04-10T15:19:31-04:00` &nbsp;|&nbsp; ID: `8442976002`
+
+---
+### 🆕 Staff Product Manager, Growth
+**flexport** · Global Brand · 🎯 15%
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7808634?gh_jid=7808634)
+🕐 Updated: `2026-04-10T15:53:51-04:00` &nbsp;|&nbsp; ID: `7808634`
+
+---
+### 🔄 Insider Risk Investigator - Technical & Human Intelligence
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5182430008)
+🕐 Updated: `2026-04-10T15:18:55-04:00` &nbsp;|&nbsp; ID: `5182430008`
+
+---
+### 🔄 Support Engineer
+**circleci** · Support Engineering
+📍 San Francisco, Toronto &nbsp;|&nbsp; 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8500214002/?gh_jid=8500214002)
+🕐 Updated: `2026-04-10T15:33:55-04:00` &nbsp;|&nbsp; ID: `8500214002`
+
+---
+
 ## 📅 Run: 2026-04-10 19:11 UTC
 
 ### 🆕 Software Engineer 3

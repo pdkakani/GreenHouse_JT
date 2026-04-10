@@ -22042,9 +22042,10 @@
   },
   "8500214002": {
     "first_seen": "2026-04-09T17:36:03.900241+00:00",
-    "updated_at": "2026-04-09T13:14:27-04:00",
+    "updated_at": "2026-04-10T15:33:55-04:00",
     "title": "Support Engineer",
-    "company": "circleci"
+    "company": "circleci",
+    "alerted": false
   },
   "7789386": {
     "first_seen": "2026-04-09T17:36:08.889211+00:00",
@@ -22307,7 +22308,7 @@
   },
   "5182430008": {
     "first_seen": "2026-04-10T08:08:57.651031+00:00",
-    "updated_at": "2026-04-10T02:42:59-04:00",
+    "updated_at": "2026-04-10T15:18:55-04:00",
     "title": "Insider Risk Investigator - Technical & Human Intelligence",
     "company": "anthropic",
     "alerted": true
@@ -22709,6 +22710,20 @@
     "updated_at": "2026-04-10T14:32:47-04:00",
     "title": "Senior Software Engineer, AI Infrastructure",
     "company": "robinhood",
+    "alerted": true
+  },
+  "8442976002": {
+    "first_seen": "2026-04-10T19:53:58.811864+00:00",
+    "updated_at": "2026-04-10T15:19:31-04:00",
+    "title": "Delivery Solutions Architect - Financial Services",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7808634": {
+    "first_seen": "2026-04-10T19:54:31.141812+00:00",
+    "updated_at": "2026-04-10T15:53:51-04:00",
+    "title": "Staff Product Manager, Growth",
+    "company": "flexport",
     "alerted": true
   }
 }
