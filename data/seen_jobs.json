@@ -2644,9 +2644,10 @@
   },
   "7754299": {
     "first_seen": "2026-04-06T02:02:05.039476+00:00",
-    "updated_at": "2026-04-03T03:08:10-04:00",
+    "updated_at": "2026-04-10T13:32:02-04:00",
     "title": "Staff Security Engineer, Application Security",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7470947": {
     "first_seen": "2026-04-06T02:02:05.039571+00:00",
@@ -3687,9 +3688,10 @@
   },
   "7627716": {
     "first_seen": "2026-04-06T02:02:09.255772+00:00",
-    "updated_at": "2026-04-03T09:32:06-04:00",
+    "updated_at": "2026-04-10T13:19:11-04:00",
     "title": "Senior Manager, Software Engineering - Risk, Fraud and Disputes",
-    "company": "marqeta"
+    "company": "marqeta",
+    "alerted": false
   },
   "7644999": {
     "first_seen": "2026-04-06T02:02:09.255863+00:00",
@@ -6283,9 +6285,10 @@
   },
   "7701401": {
     "first_seen": "2026-04-06T02:02:15.733773+00:00",
-    "updated_at": "2026-04-07T00:34:59-04:00",
+    "updated_at": "2026-04-10T13:28:13-04:00",
     "title": "Director, New Technologies Business Development",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7657991": {
     "first_seen": "2026-04-06T02:02:15.733901+00:00",
@@ -18330,9 +18333,10 @@
   },
   "7684391": {
     "first_seen": "2026-04-06T08:10:42.105757+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-10T13:08:44-04:00",
     "title": "Senior Design Program Manager II",
-    "company": "instacart"
+    "company": "instacart",
+    "alerted": false
   },
   "7773787": {
     "first_seen": "2026-04-06T08:10:42.105865+00:00",
@@ -18480,9 +18484,10 @@
   },
   "7673109": {
     "first_seen": "2026-04-06T08:10:42.106594+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-10T13:08:44-04:00",
     "title": "Senior/Staff Design Program Manager",
-    "company": "instacart"
+    "company": "instacart",
+    "alerted": false
   },
   "6967732": {
     "first_seen": "2026-04-06T08:10:42.106625+00:00",
@@ -22562,7 +22567,7 @@
   },
   "8500155002": {
     "first_seen": "2026-04-10T15:05:26.495623+00:00",
-    "updated_at": "2026-04-10T10:17:43-04:00",
+    "updated_at": "2026-04-10T13:44:33-04:00",
     "title": "Solutions Engineer Associate",
     "company": "alloy",
     "alerted": true
@@ -22606,6 +22611,48 @@
     "first_seen": "2026-04-10T17:06:40.034087+00:00",
     "updated_at": "2026-04-10T13:04:42-04:00",
     "title": "Technical Customer Success Manager",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "5183021008": {
+    "first_seen": "2026-04-10T18:00:19.781232+00:00",
+    "updated_at": "2026-04-10T13:22:25-04:00",
+    "title": "Finance Systems, Head of AI & Innovation",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808171": {
+    "first_seen": "2026-04-10T18:01:10.504337+00:00",
+    "updated_at": "2026-04-10T13:21:01-04:00",
+    "title": "Senior Software Engineer, API Enablement",
+    "company": "upstart",
+    "alerted": true
+  },
+  "7805145": {
+    "first_seen": "2026-04-10T18:01:19.745871+00:00",
+    "updated_at": "2026-04-10T13:50:51-04:00",
+    "title": "Senior Software Engineer, Streaming Platform",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "8414654002": {
+    "first_seen": "2026-04-10T18:01:20.968611+00:00",
+    "updated_at": "2026-04-10T13:19:01-04:00",
+    "title": "Senior Python Core Engineer",
+    "company": "chime",
+    "alerted": true
+  },
+  "7647827003": {
+    "first_seen": "2026-04-10T18:01:26.274491+00:00",
+    "updated_at": "2026-04-10T13:25:17-04:00",
+    "title": "Senior Engineering Manager, Member AI Features",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7755758": {
+    "first_seen": "2026-04-10T18:01:27.488904+00:00",
+    "updated_at": "2026-04-10T13:45:09-04:00",
+    "title": " Senior Machine Learning Engineer, Payments",
     "company": "airbnb",
     "alerted": true
   }

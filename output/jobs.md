@@ -2,6 +2,81 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 18:01 UTC
+
+### 🆕 Finance Systems, Head of AI & Innovation
+**anthropic** · Finance · 🎯 28%
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183021008)
+🕐 Updated: `2026-04-10T13:22:25-04:00` &nbsp;|&nbsp; ID: `5183021008`
+
+---
+### 🆕 Senior Software Engineer, API Enablement
+**upstart** · Engineering · 🎯 78%
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7808171)
+🕐 Updated: `2026-04-10T13:21:01-04:00` &nbsp;|&nbsp; ID: `7808171`
+
+---
+### 🆕 Senior Software Engineer, Streaming Platform
+**robinhood** · ENG Data and AI Platform Division · 🎯 78%
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7805145?t=gh_src=&gh_jid=7805145)
+🕐 Updated: `2026-04-10T13:50:51-04:00` &nbsp;|&nbsp; ID: `7805145`
+
+---
+### 🆕 Senior Python Core Engineer
+**chime** · Engineering Services · 🎯 35%
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8414654002?gh_jid=8414654002)
+🕐 Updated: `2026-04-10T13:19:01-04:00` &nbsp;|&nbsp; ID: `8414654002`
+
+---
+### 🆕 Senior Engineering Manager, Member AI Features
+**sofi** · Engineering · 🎯 28%
+📍 CA - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7647827003?gh_jid=7647827003)
+🕐 Updated: `2026-04-10T13:25:17-04:00` &nbsp;|&nbsp; ID: `7647827003`
+
+---
+### 🆕  Senior Machine Learning Engineer, Payments
+**airbnb** · Software Engineering · 🎯 35%
+📍 Remote-USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7755758?gh_jid=7755758)
+🕐 Updated: `2026-04-10T13:45:09-04:00` &nbsp;|&nbsp; ID: `7755758`
+
+---
+### 🔄 Director, New Technologies Business Development
+**twilio** · Overlay/Specialist Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7701401)
+🕐 Updated: `2026-04-10T13:28:13-04:00` &nbsp;|&nbsp; ID: `7701401`
+
+---
+### 🔄 Senior Manager, Software Engineering - Risk, Fraud and Disputes
+**marqeta** · Risk, Fraud, Disputes Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7627716)
+🕐 Updated: `2026-04-10T13:19:11-04:00` &nbsp;|&nbsp; ID: `7627716`
+
+---
+### 🔄 Solutions Engineer Associate
+**alloy** · Client Success & Solutions
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8500155002&gh_jid=8500155002)
+🕐 Updated: `2026-04-10T13:44:33-04:00` &nbsp;|&nbsp; ID: `8500155002`
+
+---
+### 🔄 Staff Security Engineer, Application Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299)
+🕐 Updated: `2026-04-10T13:32:02-04:00` &nbsp;|&nbsp; ID: `7754299`
+
+---
+### 🔄 Senior Design Program Manager II
+**instacart** · Technical Program Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7684391)
+🕐 Updated: `2026-04-10T13:08:44-04:00` &nbsp;|&nbsp; ID: `7684391`
+
+---
+### 🔄 Senior/Staff Design Program Manager
+**instacart** · Technical Program Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7673109)
+🕐 Updated: `2026-04-10T13:08:44-04:00` &nbsp;|&nbsp; ID: `7673109`
+
+---
+
 ## 📅 Run: 2026-04-10 17:06 UTC
 
 ### 🆕 Senior Software Engineer, Growth
