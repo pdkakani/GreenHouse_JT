@@ -3716,119 +3716,136 @@
   },
   "7684222": {
     "first_seen": "2026-04-06T02:02:09.744983+00:00",
-    "updated_at": "2026-04-10T01:35:03-04:00",
+    "updated_at": "2026-04-10T04:49:18-04:00",
     "title": "CI/CD Engineer, Mobile",
     "company": "adyen",
     "alerted": false
   },
   "7703237": {
     "first_seen": "2026-04-06T02:02:09.745060+00:00",
-    "updated_at": "2026-03-11T11:58:42-04:00",
+    "updated_at": "2026-04-10T04:47:37-04:00",
     "title": "Commercial Lead - Agentic Commerce",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7696699": {
     "first_seen": "2026-04-06T02:02:09.745124+00:00",
-    "updated_at": "2026-03-11T11:58:42-04:00",
+    "updated_at": "2026-04-10T04:49:23-04:00",
     "title": "Commercial Lead - Agentic Commerce",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7585767": {
     "first_seen": "2026-04-06T02:02:09.745202+00:00",
-    "updated_at": "2026-03-20T16:59:13-04:00",
+    "updated_at": "2026-04-10T04:49:26-04:00",
     "title": "Commercial Partnerships Manager, Private Equity and Venture Capital",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7557998": {
     "first_seen": "2026-04-06T02:02:09.745254+00:00",
-    "updated_at": "2026-03-22T12:54:29-04:00",
+    "updated_at": "2026-04-10T04:47:32-04:00",
     "title": "Compliance Officer, Card Network Specialist",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7612832": {
     "first_seen": "2026-04-06T02:02:09.745296+00:00",
-    "updated_at": "2026-03-06T15:14:01-05:00",
+    "updated_at": "2026-04-10T04:49:59-04:00",
     "title": "Credit Risk Analyst",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7419377": {
     "first_seen": "2026-04-06T02:02:09.745414+00:00",
-    "updated_at": "2026-04-03T17:59:15-04:00",
+    "updated_at": "2026-04-10T04:49:29-04:00",
     "title": "Engineering Director, Developer Experience",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7736567": {
     "first_seen": "2026-04-06T02:02:09.745426+00:00",
-    "updated_at": "2026-04-03T17:59:17-04:00",
+    "updated_at": "2026-04-10T04:49:56-04:00",
     "title": " Engineering Director, Developer Platform",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7592081": {
     "first_seen": "2026-04-06T02:02:09.745434+00:00",
-    "updated_at": "2026-04-03T18:01:18-04:00",
+    "updated_at": "2026-04-10T04:49:31-04:00",
     "title": "Engineering Manager",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7622019": {
     "first_seen": "2026-04-06T02:02:09.745442+00:00",
-    "updated_at": "2026-04-03T18:01:17-04:00",
+    "updated_at": "2026-04-10T04:49:31-04:00",
     "title": "Engineering Manager, Bank Accounts US",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7746425": {
     "first_seen": "2026-04-06T02:02:09.745452+00:00",
-    "updated_at": "2026-04-01T01:14:35-04:00",
+    "updated_at": "2026-04-10T04:49:18-04:00",
     "title": "Engineering Manager, Capital",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7684215": {
     "first_seen": "2026-04-06T02:02:09.745460+00:00",
-    "updated_at": "2026-04-10T01:35:00-04:00",
+    "updated_at": "2026-04-10T04:49:23-04:00",
     "title": "Engineering Manager, CI/CD",
     "company": "adyen",
     "alerted": false
   },
   "7518752": {
     "first_seen": "2026-04-06T02:02:09.745470+00:00",
-    "updated_at": "2026-04-03T18:00:44-04:00",
+    "updated_at": "2026-04-10T04:49:13-04:00",
     "title": "Engineering Manager, Developer Observability",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7255277": {
     "first_seen": "2026-04-06T02:02:09.745501+00:00",
-    "updated_at": "2026-04-01T01:15:35-04:00",
+    "updated_at": "2026-04-10T04:47:20-04:00",
     "title": "Engineering Manager, Issuing",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "6826555": {
     "first_seen": "2026-04-06T02:02:09.745523+00:00",
-    "updated_at": "2026-04-03T18:00:50-04:00",
+    "updated_at": "2026-04-10T04:49:18-04:00",
     "title": "Engineering Manager - Onboarding Experience",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "6762031": {
     "first_seen": "2026-04-06T02:02:09.745725+00:00",
-    "updated_at": "2026-02-18T11:42:24-05:00",
+    "updated_at": "2026-04-10T04:49:08-04:00",
     "title": "Enterprise Account Manager, Adyen for Platforms",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "6762044": {
     "first_seen": "2026-04-06T02:02:09.745780+00:00",
-    "updated_at": "2026-01-26T05:16:32-05:00",
+    "updated_at": "2026-04-10T04:48:53-04:00",
     "title": "Enterprise Account Manager, Adyen for Platforms ",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7540718": {
     "first_seen": "2026-04-06T02:02:09.745898+00:00",
-    "updated_at": "2026-04-08T16:57:02-04:00",
+    "updated_at": "2026-04-10T04:49:23-04:00",
     "title": "Enterprise Business Development Representative",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7540715": {
     "first_seen": "2026-04-06T02:02:09.745927+00:00",
-    "updated_at": "2026-04-08T16:57:37-04:00",
+    "updated_at": "2026-04-10T04:49:23-04:00",
     "title": "Enterprise Business Development Representative",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7645880": {
     "first_seen": "2026-04-06T02:02:09.746099+00:00",
@@ -3838,59 +3855,66 @@
   },
   "7340570": {
     "first_seen": "2026-04-06T02:02:09.746189+00:00",
-    "updated_at": "2026-01-26T05:16:32-05:00",
+    "updated_at": "2026-04-10T04:49:29-04:00",
     "title": "Group Product Manager, Adyen Uplift",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7491192": {
     "first_seen": "2026-04-06T02:02:09.746206+00:00",
-    "updated_at": "2026-03-31T13:04:24-04:00",
+    "updated_at": "2026-04-10T04:49:20-04:00",
     "title": "Group Product Manager, Customer Interfaces",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "6755224": {
     "first_seen": "2026-04-06T02:02:09.746301+00:00",
-    "updated_at": "2026-03-01T03:08:32-05:00",
+    "updated_at": "2026-04-10T04:49:56-04:00",
     "title": "Head of Developer Advocacy ",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7283103": {
     "first_seen": "2026-04-06T02:02:09.746324+00:00",
-    "updated_at": "2026-03-01T03:08:33-05:00",
+    "updated_at": "2026-04-10T04:47:20-04:00",
     "title": "Head of Developer Relations",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7457287": {
     "first_seen": "2026-04-06T02:02:09.746463+00:00",
-    "updated_at": "2026-04-08T03:26:34-04:00",
+    "updated_at": "2026-04-10T04:49:28-04:00",
     "title": "Head of Data, Customer Experience",
     "company": "adyen",
     "alerted": false
   },
   "7724022": {
     "first_seen": "2026-04-06T02:02:09.746498+00:00",
-    "updated_at": "2026-04-08T03:26:42-04:00",
+    "updated_at": "2026-04-10T04:49:15-04:00",
     "title": "Head of Data, Customer Experience",
     "company": "adyen",
     "alerted": false
   },
   "7105787": {
     "first_seen": "2026-04-06T02:02:09.746736+00:00",
-    "updated_at": "2026-04-08T11:53:35-04:00",
+    "updated_at": "2026-04-10T04:49:17-04:00",
     "title": "Implementation Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7532705": {
     "first_seen": "2026-04-06T02:02:09.746766+00:00",
-    "updated_at": "2026-03-13T15:51:18-04:00",
+    "updated_at": "2026-04-10T04:48:31-04:00",
     "title": "Implementation Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7687317": {
     "first_seen": "2026-04-06T02:02:09.747154+00:00",
-    "updated_at": "2026-04-07T12:58:27-04:00",
+    "updated_at": "2026-04-10T04:49:09-04:00",
     "title": "Member of Technical Staff",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7432107": {
     "first_seen": "2026-04-06T02:02:09.747316+00:00",
@@ -3900,135 +3924,157 @@
   },
   "7506567": {
     "first_seen": "2026-04-06T02:02:09.747374+00:00",
-    "updated_at": "2026-02-09T17:01:26-05:00",
+    "updated_at": "2026-04-10T04:49:56-04:00",
     "title": "Payments Risk Operations Analyst",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7537219": {
     "first_seen": "2026-04-06T02:02:09.747518+00:00",
-    "updated_at": "2026-03-20T11:30:30-04:00",
+    "updated_at": "2026-04-10T04:49:14-04:00",
     "title": "Principal Product Manager - Banking",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7347356": {
     "first_seen": "2026-04-06T02:02:09.747642+00:00",
-    "updated_at": "2026-03-05T16:57:53-05:00",
+    "updated_at": "2026-04-10T04:47:39-04:00",
     "title": "Product Support Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7607495": {
     "first_seen": "2026-04-06T02:02:09.748047+00:00",
-    "updated_at": "2026-03-18T14:48:38-04:00",
+    "updated_at": "2026-04-10T04:49:20-04:00",
     "title": "Senior Business Data Analyst",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "6978743": {
     "first_seen": "2026-04-06T02:02:09.748175+00:00",
-    "updated_at": "2026-04-03T16:05:29-04:00",
+    "updated_at": "2026-04-10T04:49:58-04:00",
     "title": " Senior Compliance Officer, Card Network Specialist",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "6762012": {
     "first_seen": "2026-04-06T02:02:09.748610+00:00",
-    "updated_at": "2026-01-26T05:16:32-05:00",
+    "updated_at": "2026-04-10T04:47:38-04:00",
     "title": "Senior Enterprise Account Manager, Adyen for Platforms ",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7701227": {
     "first_seen": "2026-04-06T02:02:09.748708+00:00",
-    "updated_at": "2026-03-18T15:14:10-04:00",
+    "updated_at": "2026-04-10T04:49:31-04:00",
     "title": "Senior Implementation Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7134027": {
     "first_seen": "2026-04-06T02:02:09.748742+00:00",
-    "updated_at": "2026-04-08T11:53:41-04:00",
+    "updated_at": "2026-04-10T04:47:25-04:00",
     "title": "Senior Implementation Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7571698": {
     "first_seen": "2026-04-06T02:02:09.749028+00:00",
-    "updated_at": "2026-02-02T10:41:34-05:00",
+    "updated_at": "2026-04-10T04:49:18-04:00",
     "title": "Senior Product Manager - Payments",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7419756": {
     "first_seen": "2026-04-06T02:02:09.749072+00:00",
-    "updated_at": "2026-04-03T18:50:21-04:00",
+    "updated_at": "2026-04-10T04:49:13-04:00",
     "title": "Senior Product Marketing Manager, Platform and Financial Services ",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7622124": {
     "first_seen": "2026-04-06T02:02:09.749162+00:00",
-    "updated_at": "2026-04-04T00:23:06-04:00",
+    "updated_at": "2026-04-10T04:47:20-04:00",
     "title": "Senior Software Engineer (Java) - Bank Accounts ",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7389865": {
     "first_seen": "2026-04-06T02:02:09.749185+00:00",
-    "updated_at": "2026-01-30T18:09:34-05:00",
+    "updated_at": "2026-04-10T04:49:15-04:00",
     "title": "Senior Software Engineer (Java) - Banking Network",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7407270": {
     "first_seen": "2026-04-06T02:02:09.749200+00:00",
-    "updated_at": "2026-01-30T18:11:00-05:00",
+    "updated_at": "2026-04-10T04:49:30-04:00",
     "title": "Senior Software Engineer (Java) - Bank Payments",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7389857": {
     "first_seen": "2026-04-06T02:02:09.749216+00:00",
-    "updated_at": "2026-03-19T11:12:21-04:00",
+    "updated_at": "2026-04-10T04:49:21-04:00",
     "title": "Senior Software Engineer (Java) - Capital",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7779456": {
     "first_seen": "2026-04-06T02:02:09.749250+00:00",
-    "updated_at": "2026-04-04T00:27:36-04:00",
+    "updated_at": "2026-04-10T04:47:22-04:00",
     "title": "Senior Software Engineer (Java) - Pricing",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7467255": {
     "first_seen": "2026-04-06T02:02:09.749289+00:00",
-    "updated_at": "2026-03-11T13:48:55-04:00",
+    "updated_at": "2026-04-10T04:49:27-04:00",
     "title": "Senior Technical Recruiter",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7010192": {
     "first_seen": "2026-04-06T02:02:09.749394+00:00",
-    "updated_at": "2026-04-06T15:22:02-04:00",
+    "updated_at": "2026-04-10T04:51:48-04:00",
     "title": "Software Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "6897762": {
     "first_seen": "2026-04-06T02:02:09.749440+00:00",
-    "updated_at": "2026-04-03T18:00:03-04:00",
+    "updated_at": "2026-04-10T04:49:24-04:00",
     "title": "Staff Engineer - Financial Products",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7585595": {
     "first_seen": "2026-04-06T02:02:09.749457+00:00",
-    "updated_at": "2026-04-03T18:00:02-04:00",
+    "updated_at": "2026-04-10T04:49:23-04:00",
     "title": "Staff Engineer - Financial Products",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7585586": {
     "first_seen": "2026-04-06T02:02:09.749474+00:00",
-    "updated_at": "2026-04-03T17:59:43-04:00",
+    "updated_at": "2026-04-10T04:49:23-04:00",
     "title": " Staff Engineer - Lending",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7589512": {
     "first_seen": "2026-04-06T02:02:09.749521+00:00",
-    "updated_at": "2026-03-11T08:53:58-04:00",
+    "updated_at": "2026-04-10T04:49:26-04:00",
     "title": "Storage Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7350483": {
     "first_seen": "2026-04-06T02:02:09.749944+00:00",
-    "updated_at": "2026-03-05T16:57:15-05:00",
+    "updated_at": "2026-04-10T04:49:23-04:00",
     "title": "Technical Support Engineer",
-    "company": "adyen"
+    "company": "adyen",
+    "alerted": false
   },
   "7155059": {
     "first_seen": "2026-04-06T02:02:11.886994+00:00",

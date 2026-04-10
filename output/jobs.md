@@ -2,6 +2,309 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 09:38 UTC
+
+### 🔄 CI/CD Engineer, Mobile
+**adyen** · Infrastructure
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7684222)
+🕐 Updated: `2026-04-10T04:49:18-04:00` &nbsp;|&nbsp; ID: `7684222`
+
+---
+### 🔄 Commercial Lead - Agentic Commerce
+**adyen** · Commercial Business Development
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7696699)
+🕐 Updated: `2026-04-10T04:49:23-04:00` &nbsp;|&nbsp; ID: `7696699`
+
+---
+### 🔄 Commercial Lead - Agentic Commerce
+**adyen** · Commercial Business Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7703237)
+🕐 Updated: `2026-04-10T04:47:37-04:00` &nbsp;|&nbsp; ID: `7703237`
+
+---
+### 🔄 Commercial Partnerships Manager, Private Equity and Venture Capital
+**adyen** · Partnerships
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7585767)
+🕐 Updated: `2026-04-10T04:49:26-04:00` &nbsp;|&nbsp; ID: `7585767`
+
+---
+### 🔄 Compliance Officer, Card Network Specialist
+**adyen** · Compliance
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7557998)
+🕐 Updated: `2026-04-10T04:47:32-04:00` &nbsp;|&nbsp; ID: `7557998`
+
+---
+### 🔄 Credit Risk Analyst
+**adyen** · Merchant Operations
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7612832)
+🕐 Updated: `2026-04-10T04:49:59-04:00` &nbsp;|&nbsp; ID: `7612832`
+
+---
+### 🔄 Engineering Director, Developer Experience
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7419377)
+🕐 Updated: `2026-04-10T04:49:29-04:00` &nbsp;|&nbsp; ID: `7419377`
+
+---
+### 🔄  Engineering Director, Developer Platform
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7736567)
+🕐 Updated: `2026-04-10T04:49:56-04:00` &nbsp;|&nbsp; ID: `7736567`
+
+---
+### 🔄 Engineering Manager
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7592081)
+🕐 Updated: `2026-04-10T04:49:31-04:00` &nbsp;|&nbsp; ID: `7592081`
+
+---
+### 🔄 Engineering Manager, Bank Accounts US
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7622019)
+🕐 Updated: `2026-04-10T04:49:31-04:00` &nbsp;|&nbsp; ID: `7622019`
+
+---
+### 🔄 Engineering Manager, Capital
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7746425)
+🕐 Updated: `2026-04-10T04:49:18-04:00` &nbsp;|&nbsp; ID: `7746425`
+
+---
+### 🔄 Engineering Manager, CI/CD
+**adyen** · Infrastructure
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7684215)
+🕐 Updated: `2026-04-10T04:49:23-04:00` &nbsp;|&nbsp; ID: `7684215`
+
+---
+### 🔄 Engineering Manager, Developer Observability
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7518752)
+🕐 Updated: `2026-04-10T04:49:13-04:00` &nbsp;|&nbsp; ID: `7518752`
+
+---
+### 🔄 Engineering Manager, Issuing
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7255277)
+🕐 Updated: `2026-04-10T04:47:20-04:00` &nbsp;|&nbsp; ID: `7255277`
+
+---
+### 🔄 Engineering Manager - Onboarding Experience
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6826555)
+🕐 Updated: `2026-04-10T04:49:18-04:00` &nbsp;|&nbsp; ID: `6826555`
+
+---
+### 🔄 Enterprise Account Manager, Adyen for Platforms
+**adyen** · Account Management
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6762031)
+🕐 Updated: `2026-04-10T04:49:08-04:00` &nbsp;|&nbsp; ID: `6762031`
+
+---
+### 🔄 Enterprise Account Manager, Adyen for Platforms 
+**adyen** · Account Management
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6762044)
+🕐 Updated: `2026-04-10T04:48:53-04:00` &nbsp;|&nbsp; ID: `6762044`
+
+---
+### 🔄 Enterprise Business Development Representative
+**adyen** · Sales
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7540718)
+🕐 Updated: `2026-04-10T04:49:23-04:00` &nbsp;|&nbsp; ID: `7540718`
+
+---
+### 🔄 Enterprise Business Development Representative
+**adyen** · Sales
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7540715)
+🕐 Updated: `2026-04-10T04:49:23-04:00` &nbsp;|&nbsp; ID: `7540715`
+
+---
+### 🔄 Group Product Manager, Adyen Uplift
+**adyen** · Product Management
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7340570)
+🕐 Updated: `2026-04-10T04:49:29-04:00` &nbsp;|&nbsp; ID: `7340570`
+
+---
+### 🔄 Group Product Manager, Customer Interfaces
+**adyen** · Product Management
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7491192)
+🕐 Updated: `2026-04-10T04:49:20-04:00` &nbsp;|&nbsp; ID: `7491192`
+
+---
+### 🔄 Head of Data, Customer Experience
+**adyen** · Product Management
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7724022)
+🕐 Updated: `2026-04-10T04:49:15-04:00` &nbsp;|&nbsp; ID: `7724022`
+
+---
+### 🔄 Head of Data, Customer Experience
+**adyen** · Product Management
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7457287)
+🕐 Updated: `2026-04-10T04:49:28-04:00` &nbsp;|&nbsp; ID: `7457287`
+
+---
+### 🔄 Head of Developer Advocacy 
+**adyen** · Development
+📍 Chicago; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6755224)
+🕐 Updated: `2026-04-10T04:49:56-04:00` &nbsp;|&nbsp; ID: `6755224`
+
+---
+### 🔄 Head of Developer Relations
+**adyen** · Development
+📍 Chicago; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7283103)
+🕐 Updated: `2026-04-10T04:47:20-04:00` &nbsp;|&nbsp; ID: `7283103`
+
+---
+### 🔄 Implementation Engineer
+**adyen** · Professional Services
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7105787)
+🕐 Updated: `2026-04-10T04:49:17-04:00` &nbsp;|&nbsp; ID: `7105787`
+
+---
+### 🔄 Implementation Engineer
+**adyen** · Professional Services
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7532705)
+🕐 Updated: `2026-04-10T04:48:31-04:00` &nbsp;|&nbsp; ID: `7532705`
+
+---
+### 🔄 Member of Technical Staff
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7687317)
+🕐 Updated: `2026-04-10T04:49:09-04:00` &nbsp;|&nbsp; ID: `7687317`
+
+---
+### 🔄 Payments Risk Operations Analyst
+**adyen** · Merchant Operations
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7506567)
+🕐 Updated: `2026-04-10T04:49:56-04:00` &nbsp;|&nbsp; ID: `7506567`
+
+---
+### 🔄 Principal Product Manager - Banking
+**adyen** · Product Management
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7537219)
+🕐 Updated: `2026-04-10T04:49:14-04:00` &nbsp;|&nbsp; ID: `7537219`
+
+---
+### 🔄 Product Support Engineer
+**adyen** · Support
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7347356)
+🕐 Updated: `2026-04-10T04:47:39-04:00` &nbsp;|&nbsp; ID: `7347356`
+
+---
+### 🔄 Senior Business Data Analyst
+**adyen** · Data Analytics
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7607495)
+🕐 Updated: `2026-04-10T04:49:20-04:00` &nbsp;|&nbsp; ID: `7607495`
+
+---
+### 🔄  Senior Compliance Officer, Card Network Specialist
+**adyen** · Compliance
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6978743)
+🕐 Updated: `2026-04-10T04:49:58-04:00` &nbsp;|&nbsp; ID: `6978743`
+
+---
+### 🔄 Senior Enterprise Account Manager, Adyen for Platforms 
+**adyen** · Account Management
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6762012)
+🕐 Updated: `2026-04-10T04:47:38-04:00` &nbsp;|&nbsp; ID: `6762012`
+
+---
+### 🔄 Senior Implementation Engineer
+**adyen** · Professional Services
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7701227)
+🕐 Updated: `2026-04-10T04:49:31-04:00` &nbsp;|&nbsp; ID: `7701227`
+
+---
+### 🔄 Senior Implementation Engineer
+**adyen** · Professional Services
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7134027)
+🕐 Updated: `2026-04-10T04:47:25-04:00` &nbsp;|&nbsp; ID: `7134027`
+
+---
+### 🔄 Senior Product Manager - Payments
+**adyen** · Product Management
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7571698)
+🕐 Updated: `2026-04-10T04:49:18-04:00` &nbsp;|&nbsp; ID: `7571698`
+
+---
+### 🔄 Senior Product Marketing Manager, Platform and Financial Services 
+**adyen** · Marketing
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7419756)
+🕐 Updated: `2026-04-10T04:49:13-04:00` &nbsp;|&nbsp; ID: `7419756`
+
+---
+### 🔄 Senior Software Engineer (Java) - Bank Accounts 
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7622124)
+🕐 Updated: `2026-04-10T04:47:20-04:00` &nbsp;|&nbsp; ID: `7622124`
+
+---
+### 🔄 Senior Software Engineer (Java) - Banking Network
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7389865)
+🕐 Updated: `2026-04-10T04:49:15-04:00` &nbsp;|&nbsp; ID: `7389865`
+
+---
+### 🔄 Senior Software Engineer (Java) - Bank Payments
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7407270)
+🕐 Updated: `2026-04-10T04:49:30-04:00` &nbsp;|&nbsp; ID: `7407270`
+
+---
+### 🔄 Senior Software Engineer (Java) - Capital
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7389857)
+🕐 Updated: `2026-04-10T04:49:21-04:00` &nbsp;|&nbsp; ID: `7389857`
+
+---
+### 🔄 Senior Software Engineer (Java) - Pricing
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7779456)
+🕐 Updated: `2026-04-10T04:47:22-04:00` &nbsp;|&nbsp; ID: `7779456`
+
+---
+### 🔄 Senior Technical Recruiter
+**adyen** · Human Resources
+📍 Chicago; San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7467255)
+🕐 Updated: `2026-04-10T04:49:27-04:00` &nbsp;|&nbsp; ID: `7467255`
+
+---
+### 🔄 Software Engineer
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7010192)
+🕐 Updated: `2026-04-10T04:51:48-04:00` &nbsp;|&nbsp; ID: `7010192`
+
+---
+### 🔄 Staff Engineer - Financial Products
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6897762)
+🕐 Updated: `2026-04-10T04:49:24-04:00` &nbsp;|&nbsp; ID: `6897762`
+
+---
+### 🔄 Staff Engineer - Financial Products
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7585595)
+🕐 Updated: `2026-04-10T04:49:23-04:00` &nbsp;|&nbsp; ID: `7585595`
+
+---
+### 🔄  Staff Engineer - Lending
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7585586)
+🕐 Updated: `2026-04-10T04:49:23-04:00` &nbsp;|&nbsp; ID: `7585586`
+
+---
+### 🔄 Storage Engineer
+**adyen** · Infrastructure
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7589512)
+🕐 Updated: `2026-04-10T04:49:26-04:00` &nbsp;|&nbsp; ID: `7589512`
+
+---
+### 🔄 Technical Support Engineer
+**adyen** · Support
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7350483)
+🕐 Updated: `2026-04-10T04:49:23-04:00` &nbsp;|&nbsp; ID: `7350483`
+
+---
+
 ## 📅 Run: 2026-04-10 08:09 UTC
 
 ### 🆕 Insider Risk Investigator - Technical & Human Intelligence
