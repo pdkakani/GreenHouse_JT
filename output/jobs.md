@@ -2,6 +2,183 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 11:32 UTC
+
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 72%
+📍 Remote-EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696207003)
+🕐 Updated: `2026-04-10T07:23:24-04:00` &nbsp;|&nbsp; ID: `7696207003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696205003)
+🕐 Updated: `2026-04-10T07:22:33-04:00` &nbsp;|&nbsp; ID: `7696205003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Iberia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696203003)
+🕐 Updated: `2026-04-10T07:21:39-04:00` &nbsp;|&nbsp; ID: `7696203003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-LATAM &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696200003)
+🕐 Updated: `2026-04-10T07:21:38-04:00` &nbsp;|&nbsp; ID: `7696200003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Eastern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696208003)
+🕐 Updated: `2026-04-10T07:28:24-04:00` &nbsp;|&nbsp; ID: `7696208003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Northern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696209003)
+🕐 Updated: `2026-04-10T07:28:24-04:00` &nbsp;|&nbsp; ID: `7696209003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-UK&I &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696199003)
+🕐 Updated: `2026-04-10T07:21:38-04:00` &nbsp;|&nbsp; ID: `7696199003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Southern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696214003)
+🕐 Updated: `2026-04-10T07:30:46-04:00` &nbsp;|&nbsp; ID: `7696214003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Western Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696212003)
+🕐 Updated: `2026-04-10T07:28:22-04:00` &nbsp;|&nbsp; ID: `7696212003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 28%
+📍 Remote-Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696185003)
+🕐 Updated: `2026-04-10T07:08:49-04:00` &nbsp;|&nbsp; ID: `7696185003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Southeast Asia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696166003)
+🕐 Updated: `2026-04-10T06:54:25-04:00` &nbsp;|&nbsp; ID: `7696166003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 28%
+📍 Remote-Northeast Asia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696167003)
+🕐 Updated: `2026-04-10T06:55:47-04:00` &nbsp;|&nbsp; ID: `7696167003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 22%
+📍 Remote-EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696168003)
+🕐 Updated: `2026-04-10T06:57:19-04:00` &nbsp;|&nbsp; ID: `7696168003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Southern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696170003)
+🕐 Updated: `2026-04-10T07:00:28-04:00` &nbsp;|&nbsp; ID: `7696170003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Northern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696172003)
+🕐 Updated: `2026-04-10T07:00:29-04:00` &nbsp;|&nbsp; ID: `7696172003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Nordics &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696173003)
+🕐 Updated: `2026-04-10T07:02:11-04:00` &nbsp;|&nbsp; ID: `7696173003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-France &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696174003)
+🕐 Updated: `2026-04-10T07:02:12-04:00` &nbsp;|&nbsp; ID: `7696174003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-UK&I &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696175003)
+🕐 Updated: `2026-04-10T07:04:08-04:00` &nbsp;|&nbsp; ID: `7696175003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696176003)
+🕐 Updated: `2026-04-10T07:04:09-04:00` &nbsp;|&nbsp; ID: `7696176003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-South America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696178003)
+🕐 Updated: `2026-04-10T07:05:31-04:00` &nbsp;|&nbsp; ID: `7696178003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Iberia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696179003)
+🕐 Updated: `2026-04-10T07:05:33-04:00` &nbsp;|&nbsp; ID: `7696179003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 22%
+📍 Remote-Eastern Europe &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696180003)
+🕐 Updated: `2026-04-10T07:07:35-04:00` &nbsp;|&nbsp; ID: `7696180003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 35%
+📍 Remote-Brazil &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696184003)
+🕐 Updated: `2026-04-10T07:07:36-04:00` &nbsp;|&nbsp; ID: `7696184003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Nordics &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696188003)
+🕐 Updated: `2026-04-10T07:10:06-04:00` &nbsp;|&nbsp; ID: `7696188003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 22%
+📍 Remote-Netherlands &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696189003)
+🕐 Updated: `2026-04-10T07:11:10-04:00` &nbsp;|&nbsp; ID: `7696189003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Germany &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696191003)
+🕐 Updated: `2026-04-10T07:12:09-04:00` &nbsp;|&nbsp; ID: `7696191003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 28%
+📍 Remote-Austria &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696193003)
+🕐 Updated: `2026-04-10T07:14:32-04:00` &nbsp;|&nbsp; ID: `7696193003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 28%
+📍 Remote-APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696194003)
+🕐 Updated: `2026-04-10T07:14:32-04:00` &nbsp;|&nbsp; ID: `7696194003`
+
+---
+### 🆕 Senior Backend Engineer (Elixir)
+**remotecom** · Product Engineering Backend · 🎯 25%
+📍 Remote-Africa &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696195003)
+🕐 Updated: `2026-04-10T07:14:33-04:00` &nbsp;|&nbsp; ID: `7696195003`
+
+---
+
 ## 📅 Run: 2026-04-10 09:38 UTC
 
 ### 🔄 CI/CD Engineer, Mobile
