@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 21:04 UTC
+
+### 🆕 Senior Staff Engineer, Quote-to-Cash
+**mongodb** · GTM Tech · 🎯 22%
+📍 New York City; Palo Alto &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7778985)
+🕐 Updated: `2026-04-10T16:39:12-04:00` &nbsp;|&nbsp; ID: `7778985`
+
+---
+### 🆕 Product Manager II - AI & Data Security
+**datadog** · Product Management · 🎯 15%
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7808839/?gh_jid=7808839)
+🕐 Updated: `2026-04-10T16:56:45-04:00` &nbsp;|&nbsp; ID: `7808839`
+
+---
+### 🆕 Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization
+**fivetran** · Sales Department · 🎯 72%
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7676567003)
+🕐 Updated: `2026-04-10T16:45:11-04:00` &nbsp;|&nbsp; ID: `7676567003`
+
+---
+### 🔄 Staff Analytics Engineer
+**twilio** · Ops (Fraud, Compliance, Biz, Prod, Analyst)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7551660)
+🕐 Updated: `2026-04-10T16:33:25-04:00` &nbsp;|&nbsp; ID: `7551660`
+
+---
+### 🔄 Firmware Engineer 
+**fellow** · Firmware
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://fellowproducts.com/pages/careers?gh_jid=4948947007)
+🕐 Updated: `2026-04-10T16:48:36-04:00` &nbsp;|&nbsp; ID: `4948947007`
+
+---
+### 🔄 Software Engineer, Member AI Features
+**sofi** · Engineering
+📍 CA - San Francisco  &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7645856003?gh_jid=7645856003)
+🕐 Updated: `2026-04-10T17:00:46-04:00` &nbsp;|&nbsp; ID: `7645856003`
+
+---
+
 ## 📅 Run: 2026-04-10 20:29 UTC
 
 ### 🆕 Data Center Engineer II
