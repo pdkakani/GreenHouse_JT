@@ -2,6 +2,63 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 21:53 UTC
+
+### 🆕 Product Manager, API Growth
+**anthropic** · Product Management, Support, & Operations · 🎯 15%
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5181852008)
+🕐 Updated: `2026-04-10T17:46:17-04:00` &nbsp;|&nbsp; ID: `5181852008`
+
+---
+### 🆕 Engineering Manager, Experimentation Infrastructure
+**airbnb** · Software Engineering · 🎯 35%
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7707946?gh_jid=7707946)
+🕐 Updated: `2026-04-10T17:42:59-04:00` &nbsp;|&nbsp; ID: `7707946`
+
+---
+### 🔄 Technical Enablement Manager
+**gleanwork** · Sales
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4683059005)
+🕐 Updated: `2026-04-10T17:26:19-04:00` &nbsp;|&nbsp; ID: `4683059005`
+
+---
+### 🔄 Technical Enablement Manager
+**gleanwork** · Sales
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4549560005)
+🕐 Updated: `2026-04-10T17:25:52-04:00` &nbsp;|&nbsp; ID: `4549560005`
+
+---
+### 🔄 Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7676567003)
+🕐 Updated: `2026-04-10T17:25:08-04:00` &nbsp;|&nbsp; ID: `7676567003`
+
+---
+### 🔄 Backend Engineer, Developer Experience & Product Platform 
+**stripe** · 8551 OAP - Eng
+📍 Toronto Canada, San Francisco, Remote in US, Remote in Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7292520)
+🕐 Updated: `2026-04-10T17:06:39-04:00` &nbsp;|&nbsp; ID: `7292520`
+
+---
+### 🔄 Senior Engineering Manager, Member AI Features
+**sofi** · Engineering
+📍 CA - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7647827003?gh_jid=7647827003)
+🕐 Updated: `2026-04-10T17:47:35-04:00` &nbsp;|&nbsp; ID: `7647827003`
+
+---
+### 🔄 Senior Frontend Engineer: Crypto & Money
+**sofi** · Engineering
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7601518003?gh_jid=7601518003)
+🕐 Updated: `2026-04-10T17:34:12-04:00` &nbsp;|&nbsp; ID: `7601518003`
+
+---
+### 🔄 Senior Product Manager, Project & Task Experience
+**asana** · Product Management
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7392230?gh_jid=7392230)
+🕐 Updated: `2026-04-10T17:24:52-04:00` &nbsp;|&nbsp; ID: `7392230`
+
+---
+
 ## 📅 Run: 2026-04-10 21:04 UTC
 
 ### 🆕 Senior Staff Engineer, Quote-to-Cash
