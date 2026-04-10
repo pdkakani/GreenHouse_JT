@@ -13634,9 +13634,10 @@
   },
   "7659302003": {
     "first_seen": "2026-04-06T08:10:14.079999+00:00",
-    "updated_at": "2026-04-03T11:31:53-04:00",
+    "updated_at": "2026-04-10T08:14:28-04:00",
     "title": "AI Product Engineer",
-    "company": "abnormalsecurity"
+    "company": "abnormalsecurity",
+    "alerted": false
   },
   "7448308003": {
     "first_seen": "2026-04-06T08:10:14.080033+00:00",
@@ -22340,6 +22341,34 @@
     "first_seen": "2026-04-10T11:31:58.131629+00:00",
     "updated_at": "2026-04-10T07:14:33-04:00",
     "title": "Senior Backend Engineer (Elixir)",
+    "company": "remotecom",
+    "alerted": true
+  },
+  "7696216003": {
+    "first_seen": "2026-04-10T12:34:05.505978+00:00",
+    "updated_at": "2026-04-10T07:32:52-04:00",
+    "title": "Senior Backend Engineer",
+    "company": "remotecom",
+    "alerted": true
+  },
+  "7696219003": {
+    "first_seen": "2026-04-10T12:34:05.506007+00:00",
+    "updated_at": "2026-04-10T07:33:50-04:00",
+    "title": "Senior Backend Engineer",
+    "company": "remotecom",
+    "alerted": true
+  },
+  "7696218003": {
+    "first_seen": "2026-04-10T12:34:05.506025+00:00",
+    "updated_at": "2026-04-10T07:32:54-04:00",
+    "title": "Senior Backend Engineer",
+    "company": "remotecom",
+    "alerted": true
+  },
+  "7696217003": {
+    "first_seen": "2026-04-10T12:34:05.506044+00:00",
+    "updated_at": "2026-04-10T07:32:53-04:00",
+    "title": "Senior Backend Engineer",
     "company": "remotecom",
     "alerted": true
   }

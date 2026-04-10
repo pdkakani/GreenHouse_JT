@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 12:34 UTC
+
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 72%
+📍 Remote-APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696216003)
+🕐 Updated: `2026-04-10T07:32:52-04:00` &nbsp;|&nbsp; ID: `7696216003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-UK&I &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696219003)
+🕐 Updated: `2026-04-10T07:33:50-04:00` &nbsp;|&nbsp; ID: `7696219003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Southeast Asia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696218003)
+🕐 Updated: `2026-04-10T07:32:54-04:00` &nbsp;|&nbsp; ID: `7696218003`
+
+---
+### 🆕 Senior Backend Engineer
+**remotecom** · Product Engineering Backend · 🎯 42%
+📍 Remote-Northeast Asia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/remotecom/jobs/7696217003)
+🕐 Updated: `2026-04-10T07:32:53-04:00` &nbsp;|&nbsp; ID: `7696217003`
+
+---
+### 🔄 AI Product Engineer
+**abnormalsecurity** · R&D AI Transformation
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7659302003?gh_jid=7659302003)
+🕐 Updated: `2026-04-10T08:14:28-04:00` &nbsp;|&nbsp; ID: `7659302003`
+
+---
+
 ## 📅 Run: 2026-04-10 11:32 UTC
 
 ### 🆕 Senior Backend Engineer
