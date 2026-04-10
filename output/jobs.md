@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 08:09 UTC
+
+### 🆕 Insider Risk Investigator - Technical & Human Intelligence
+**anthropic** · Security · 🎯 15%
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5182430008)
+🕐 Updated: `2026-04-10T02:42:59-04:00` &nbsp;|&nbsp; ID: `5182430008`
+
+---
+### 🔄 Director, Customer Engineering
+**elastic** · Customer Architects - AMER Mgmt
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769905&gh_jid=7769905)
+🕐 Updated: `2026-04-10T03:21:19-04:00` &nbsp;|&nbsp; ID: `7769905`
+
+---
+### 🔄 Senior Machine Learning Engineer, Agentic
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213)
+🕐 Updated: `2026-04-10T03:05:19-04:00` &nbsp;|&nbsp; ID: `7121213`
+
+---
+### 🔄 Senior Web Infrastructure Engineer 
+**robinhood** · ENG Infrastructure
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542970?t=gh_src=&gh_jid=7542970)
+🕐 Updated: `2026-04-10T03:05:24-04:00` &nbsp;|&nbsp; ID: `7542970`
+
+---
+
 ## 📅 Run: 2026-04-10 06:30 UTC
 
 ### 🆕 Software Engineer (L2)

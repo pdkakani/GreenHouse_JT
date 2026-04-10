@@ -2497,9 +2497,10 @@
   },
   "7121213": {
     "first_seen": "2026-04-06T02:02:05.037951+00:00",
-    "updated_at": "2026-04-03T03:05:17-04:00",
+    "updated_at": "2026-04-10T03:05:19-04:00",
     "title": "Senior Machine Learning Engineer, Agentic",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7551173": {
     "first_seen": "2026-04-06T02:02:05.038118+00:00",
@@ -2569,9 +2570,10 @@
   },
   "7542970": {
     "first_seen": "2026-04-06T02:02:05.038938+00:00",
-    "updated_at": "2026-04-03T03:06:56-04:00",
+    "updated_at": "2026-04-10T03:05:24-04:00",
     "title": "Senior Web Infrastructure Engineer ",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7728367": {
     "first_seen": "2026-04-06T02:02:05.038980+00:00",
@@ -5211,9 +5213,10 @@
   },
   "7769905": {
     "first_seen": "2026-04-06T02:02:14.592703+00:00",
-    "updated_at": "2026-04-08T14:21:34-04:00",
+    "updated_at": "2026-04-10T03:21:19-04:00",
     "title": "Director, Customer Engineering",
-    "company": "elastic"
+    "company": "elastic",
+    "alerted": false
   },
   "7520115": {
     "first_seen": "2026-04-06T02:02:14.592756+00:00",
@@ -22082,6 +22085,13 @@
     "updated_at": "2026-04-10T01:36:51-04:00",
     "title": "Software Engineer (L2)",
     "company": "twilio",
+    "alerted": true
+  },
+  "5182430008": {
+    "first_seen": "2026-04-10T08:08:57.651031+00:00",
+    "updated_at": "2026-04-10T02:42:59-04:00",
+    "title": "Insider Risk Investigator - Technical & Human Intelligence",
+    "company": "anthropic",
     "alerted": true
   }
 }
