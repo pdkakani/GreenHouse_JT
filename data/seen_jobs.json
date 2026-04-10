@@ -22761,7 +22761,7 @@
   },
   "7676567003": {
     "first_seen": "2026-04-10T21:04:19.333538+00:00",
-    "updated_at": "2026-04-10T17:25:08-04:00",
+    "updated_at": "2026-04-10T18:01:33-04:00",
     "title": "Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization",
     "company": "fivetran",
     "alerted": true
@@ -22778,6 +22778,27 @@
     "updated_at": "2026-04-10T17:42:59-04:00",
     "title": "Engineering Manager, Experimentation Infrastructure",
     "company": "airbnb",
+    "alerted": true
+  },
+  "5183006008": {
+    "first_seen": "2026-04-10T22:30:35.440742+00:00",
+    "updated_at": "2026-04-10T18:11:33-04:00",
+    "title": "Senior Product Manager, Education Labs",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8502969002": {
+    "first_seen": "2026-04-10T22:30:36.945651+00:00",
+    "updated_at": "2026-04-10T18:01:14-04:00",
+    "title": "Engineering Manager, Spark Connect",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7687952003": {
+    "first_seen": "2026-04-10T22:31:00.804575+00:00",
+    "updated_at": "2026-04-10T18:04:45-04:00",
+    "title": "Frontend Engineer, Money",
+    "company": "sofi",
     "alerted": true
   }
 }

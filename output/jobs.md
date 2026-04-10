@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 22:31 UTC
+
+### 🆕 Senior Product Manager, Education Labs
+**anthropic** · AI Research & Engineering · 🎯 15%
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183006008)
+🕐 Updated: `2026-04-10T18:11:33-04:00` &nbsp;|&nbsp; ID: `5183006008`
+
+---
+### 🆕 Engineering Manager, Spark Connect
+**databricks** · Engineering · 🎯 28%
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8502969002)
+🕐 Updated: `2026-04-10T18:01:14-04:00` &nbsp;|&nbsp; ID: `8502969002`
+
+---
+### 🆕 Frontend Engineer, Money
+**sofi** · Engineering · 🎯 15%
+📍 WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7687952003?gh_jid=7687952003)
+🕐 Updated: `2026-04-10T18:04:45-04:00` &nbsp;|&nbsp; ID: `7687952003`
+
+---
+### 🔄 Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7676567003)
+🕐 Updated: `2026-04-10T18:01:33-04:00` &nbsp;|&nbsp; ID: `7676567003`
+
+---
+
 ## 📅 Run: 2026-04-10 21:53 UTC
 
 ### 🆕 Product Manager, API Growth
