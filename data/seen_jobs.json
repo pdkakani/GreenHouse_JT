@@ -5259,7 +5259,7 @@
   },
   "7769905": {
     "first_seen": "2026-04-06T02:02:14.592703+00:00",
-    "updated_at": "2026-04-10T03:21:19-04:00",
+    "updated_at": "2026-04-10T08:59:10-04:00",
     "title": "Director, Customer Engineering",
     "company": "elastic",
     "alerted": false
@@ -7193,9 +7193,10 @@
   },
   "7607164": {
     "first_seen": "2026-04-06T02:02:16.918618+00:00",
-    "updated_at": "2026-04-01T14:20:47-04:00",
+    "updated_at": "2026-04-10T09:16:34-04:00",
     "title": "Manager, Sales Development - Denver",
-    "company": "datadog"
+    "company": "datadog",
+    "alerted": false
   },
   "7491922": {
     "first_seen": "2026-04-06T02:02:16.919156+00:00",
@@ -13869,9 +13870,10 @@
   },
   "7621198003": {
     "first_seen": "2026-04-06T08:10:14.797847+00:00",
-    "updated_at": "2026-02-12T14:47:42-05:00",
+    "updated_at": "2026-04-10T08:40:20-04:00",
     "title": "Channel Sales Engineer III",
-    "company": "huntress"
+    "company": "huntress",
+    "alerted": false
   },
   "7601472003": {
     "first_seen": "2026-04-06T08:10:14.797901+00:00",
@@ -17636,15 +17638,17 @@
   },
   "7575386003": {
     "first_seen": "2026-04-06T08:10:40.189100+00:00",
-    "updated_at": "2026-03-26T13:09:03-04:00",
+    "updated_at": "2026-04-10T10:02:32-04:00",
     "title": "Principal Software Engineer, Loans Originations",
-    "company": "sofi"
+    "company": "sofi",
+    "alerted": false
   },
   "7575382003": {
     "first_seen": "2026-04-06T08:10:40.189116+00:00",
-    "updated_at": "2026-03-20T10:51:36-04:00",
+    "updated_at": "2026-04-10T10:02:27-04:00",
     "title": "Principal Software Engineer, Loans Platform",
-    "company": "sofi"
+    "company": "sofi",
+    "alerted": false
   },
   "7644238003": {
     "first_seen": "2026-04-06T08:10:40.189186+00:00",
@@ -22370,6 +22374,20 @@
     "updated_at": "2026-04-10T07:32:53-04:00",
     "title": "Senior Backend Engineer",
     "company": "remotecom",
+    "alerted": true
+  },
+  "7682351003": {
+    "first_seen": "2026-04-10T14:02:44.265733+00:00",
+    "updated_at": "2026-04-10T09:40:57-04:00",
+    "title": "Lead Product Manager, Groups Platform ",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "5891430004": {
+    "first_seen": "2026-04-10T14:02:44.755519+00:00",
+    "updated_at": "2026-04-10T09:48:46-04:00",
+    "title": "Senior Value Engineer",
+    "company": "cribl",
     "alerted": true
   }
 }

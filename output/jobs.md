@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 14:03 UTC
+
+### 🆕 Lead Product Manager, Groups Platform 
+**klaviyo** · Product · 🎯 8%
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7682351003)
+🕐 Updated: `2026-04-10T09:40:57-04:00` &nbsp;|&nbsp; ID: `7682351003`
+
+---
+### 🆕 Senior Value Engineer
+**cribl** · Sales · 🎯 28%
+📍 Remote - Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5891430004)
+🕐 Updated: `2026-04-10T09:48:46-04:00` &nbsp;|&nbsp; ID: `5891430004`
+
+---
+### 🔄 Director, Customer Engineering
+**elastic** · Customer Architects - AMER Mgmt
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769905&gh_jid=7769905)
+🕐 Updated: `2026-04-10T08:59:10-04:00` &nbsp;|&nbsp; ID: `7769905`
+
+---
+### 🔄 Manager, Sales Development - Denver
+**datadog** · Sales Development
+📍 Denver, Colorado, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7607164/?gh_jid=7607164)
+🕐 Updated: `2026-04-10T09:16:34-04:00` &nbsp;|&nbsp; ID: `7607164`
+
+---
+### 🔄 Channel Sales Engineer III
+**huntress** · Sales Engineering
+📍 United States of America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7621198003)
+🕐 Updated: `2026-04-10T08:40:20-04:00` &nbsp;|&nbsp; ID: `7621198003`
+
+---
+### 🔄 Principal Software Engineer, Loans Originations
+**sofi** · Engineering
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7575386003?gh_jid=7575386003)
+🕐 Updated: `2026-04-10T10:02:32-04:00` &nbsp;|&nbsp; ID: `7575386003`
+
+---
+### 🔄 Principal Software Engineer, Loans Platform
+**sofi** · Engineering
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7575382003?gh_jid=7575382003)
+🕐 Updated: `2026-04-10T10:02:27-04:00` &nbsp;|&nbsp; ID: `7575382003`
+
+---
+
 ## 📅 Run: 2026-04-10 12:34 UTC
 
 ### 🆕 Senior Backend Engineer
