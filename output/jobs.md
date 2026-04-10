@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 20:29 UTC
+
+### 🆕 Data Center Engineer II
+**adyen** · Infrastructure · 🎯 15%
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7791168)
+🕐 Updated: `2026-04-10T16:04:35-04:00` &nbsp;|&nbsp; ID: `7791168`
+
+---
+### 🔄 Staff Product Security Engineer, Cloud Security
+**mongodb** · Platform Security
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7728270)
+🕐 Updated: `2026-04-10T16:00:16-04:00` &nbsp;|&nbsp; ID: `7728270`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, United Kingdom, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7628248003)
+🕐 Updated: `2026-04-10T16:01:26-04:00` &nbsp;|&nbsp; ID: `7628248003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Ireland, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7622758003)
+🕐 Updated: `2026-04-10T16:01:26-04:00` &nbsp;|&nbsp; ID: `7622758003`
+
+---
+### 🔄 Senior Staff Program Manager
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7620909003)
+🕐 Updated: `2026-04-10T16:01:29-04:00` &nbsp;|&nbsp; ID: `7620909003`
+
+---
+### 🔄 Senior Solutions Engineer
+**circleci** · Field Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8092604002/?gh_jid=8092604002)
+🕐 Updated: `2026-04-10T16:02:52-04:00` &nbsp;|&nbsp; ID: `8092604002`
+
+---
+### 🔄 Senior Processor Implementation Manager
+**chime** · Platform Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8479805002?gh_jid=8479805002)
+🕐 Updated: `2026-04-10T16:01:41-04:00` &nbsp;|&nbsp; ID: `8479805002`
+
+---
+
 ## 📅 Run: 2026-04-10 19:54 UTC
 
 ### 🆕 Delivery Solutions Architect - Financial Services
