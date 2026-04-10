@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 01:57 UTC
+
+### 🆕 Anthropic Fellows Program — AI Safety
+**anthropic** · AI Research & Engineering · 🎯 35%
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183044008)
+🕐 Updated: `2026-04-09T20:29:35-04:00` &nbsp;|&nbsp; ID: `5183044008`
+
+---
+### 🆕 Anthropic Fellows Program — ML Systems & Performance
+**anthropic** · AI Research & Engineering · 🎯 28%
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183051008)
+🕐 Updated: `2026-04-09T20:36:48-04:00` &nbsp;|&nbsp; ID: `5183051008`
+
+---
+### 🆕 Anthropic Fellows Program — Reinforcement Learning
+**anthropic** · AI Research & Engineering · 🎯 28%
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183052008)
+🕐 Updated: `2026-04-09T20:32:31-04:00` &nbsp;|&nbsp; ID: `5183052008`
+
+---
+### 🆕 Ecosystems Sales Manager - Scale
+**gitlab** · Alliances and Channel · 🎯 15%
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8491082002)
+🕐 Updated: `2026-04-09T20:30:52-04:00` &nbsp;|&nbsp; ID: `8491082002`
+
+---
+### 🆕 Staff Applied AI Scientist
+**gusto** · Engineering · 🎯 32%
+📍 Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7307124)
+🕐 Updated: `2026-04-09T21:33:48-04:00` &nbsp;|&nbsp; ID: `7307124`
+
+---
+### 🔄 Anthropic Fellows Program
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5023394008)
+🕐 Updated: `2026-04-09T20:29:49-04:00` &nbsp;|&nbsp; ID: `5023394008`
+
+---
+### 🔄 Anthropic Fellows Program — AI Security
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5030244008)
+🕐 Updated: `2026-04-09T20:30:04-04:00` &nbsp;|&nbsp; ID: `5030244008`
+
+---
+### 🔄 Data Scientist
+**mixpanel** · Internal Analysis
+📍 San Francisco, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7769314)
+🕐 Updated: `2026-04-09T21:05:06-04:00` &nbsp;|&nbsp; ID: `7769314`
+
+---
+### 🔄 Senior Analytics Engineer
+**mixpanel** · Internal Analysis
+📍 San Francisco, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7782662)
+🕐 Updated: `2026-04-09T21:05:15-04:00` &nbsp;|&nbsp; ID: `7782662`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395)
+🕐 Updated: `2026-04-09T20:24:17-04:00` &nbsp;|&nbsp; ID: `7789395`
+
+---
+
 ## 📅 Run: 2026-04-09 23:53 UTC
 
 ### 🆕 Sales Development Representative

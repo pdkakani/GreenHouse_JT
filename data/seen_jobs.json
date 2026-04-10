@@ -6580,9 +6580,10 @@
   },
   "7769314": {
     "first_seen": "2026-04-06T02:02:16.149319+00:00",
-    "updated_at": "2026-04-01T21:07:18-04:00",
+    "updated_at": "2026-04-09T21:05:06-04:00",
     "title": "Data Scientist",
-    "company": "mixpanel"
+    "company": "mixpanel",
+    "alerted": false
   },
   "7655682": {
     "first_seen": "2026-04-06T02:02:16.149396+00:00",
@@ -10773,15 +10774,17 @@
   },
   "5023394008": {
     "first_seen": "2026-04-06T08:09:59.881617+00:00",
-    "updated_at": "2026-04-03T12:07:45-04:00",
-    "title": "Anthropic AI Safety Fellow",
-    "company": "anthropic"
+    "updated_at": "2026-04-09T20:29:49-04:00",
+    "title": "Anthropic Fellows Program",
+    "company": "anthropic",
+    "alerted": false
   },
   "5030244008": {
     "first_seen": "2026-04-06T08:09:59.881669+00:00",
-    "updated_at": "2026-04-03T12:07:45-04:00",
-    "title": "Anthropic AI Security Fellow",
-    "company": "anthropic"
+    "updated_at": "2026-04-09T20:30:04-04:00",
+    "title": "Anthropic Fellows Program \u2014 AI Security",
+    "company": "anthropic",
+    "alerted": false
   },
   "4502508008": {
     "first_seen": "2026-04-06T08:09:59.881712+00:00",
@@ -20494,9 +20497,10 @@
   },
   "7782662": {
     "first_seen": "2026-04-06T20:03:43.070430+00:00",
-    "updated_at": "2026-04-07T13:00:21-04:00",
+    "updated_at": "2026-04-09T21:05:15-04:00",
     "title": "Senior Analytics Engineer",
-    "company": "mixpanel"
+    "company": "mixpanel",
+    "alerted": false
   },
   "7766310": {
     "first_seen": "2026-04-06T20:03:49.706480+00:00",
@@ -21178,9 +21182,10 @@
   },
   "7789395": {
     "first_seen": "2026-04-08T04:08:26.239615+00:00",
-    "updated_at": "2026-04-08T16:18:40-04:00",
+    "updated_at": "2026-04-09T20:24:17-04:00",
     "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "8494207002": {
     "first_seen": "2026-04-08T05:56:54.010844+00:00",
@@ -21939,6 +21944,41 @@
     "updated_at": "2026-04-09T18:59:08-04:00",
     "title": "Engineering Manager, Listings Product",
     "company": "airbnb",
+    "alerted": true
+  },
+  "5183044008": {
+    "first_seen": "2026-04-10T01:56:59.281533+00:00",
+    "updated_at": "2026-04-09T20:29:35-04:00",
+    "title": "Anthropic Fellows Program \u2014 AI Safety",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5183051008": {
+    "first_seen": "2026-04-10T01:56:59.281596+00:00",
+    "updated_at": "2026-04-09T20:36:48-04:00",
+    "title": "Anthropic Fellows Program \u2014 ML Systems & Performance",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5183052008": {
+    "first_seen": "2026-04-10T01:56:59.281655+00:00",
+    "updated_at": "2026-04-09T20:32:31-04:00",
+    "title": "Anthropic Fellows Program \u2014 Reinforcement Learning",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8491082002": {
+    "first_seen": "2026-04-10T01:57:05.929682+00:00",
+    "updated_at": "2026-04-09T20:30:52-04:00",
+    "title": "Ecosystems Sales Manager - Scale",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7307124": {
+    "first_seen": "2026-04-10T01:57:10.304431+00:00",
+    "updated_at": "2026-04-09T21:33:48-04:00",
+    "title": "Staff Applied AI Scientist",
+    "company": "gusto",
     "alerted": true
   }
 }
