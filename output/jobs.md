@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 23:20 UTC
+
+### 🆕 Senior Backend Engineer,  SSCS: Supply Chain
+**gitlab** · Sec Engineering · 🎯 32%
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480580002)
+🕐 Updated: `2026-04-10T19:00:02-04:00` &nbsp;|&nbsp; ID: `8480580002`
+
+---
+### 🆕 Staff Backend Engineer,  SSCS: Supply Chain
+**gitlab** · Sec Engineering · 🎯 72%
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480559002)
+🕐 Updated: `2026-04-10T19:10:10-04:00` &nbsp;|&nbsp; ID: `8480559002`
+
+---
+### 🆕 Data Platform Engineer
+**figma** · Engineering · 🎯 35%
+📍 San Francisco, CA • New York, NY • United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/figma/jobs/5840332004?gh_jid=5840332004)
+🕐 Updated: `2026-04-10T18:41:24-04:00` &nbsp;|&nbsp; ID: `5840332004`
+
+---
+### 🆕 Group Product Manager, Fraud 
+**marqeta** · Risk, Fraud, Disputes Product · 🎯 15%
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7777778)
+🕐 Updated: `2026-04-10T19:09:52-04:00` &nbsp;|&nbsp; ID: `7777778`
+
+---
+### 🔄 Product Marketing Director, AI
+**databricks** · Marketing
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487145002)
+🕐 Updated: `2026-04-10T19:01:15-04:00` &nbsp;|&nbsp; ID: `8487145002`
+
+---
+### 🔄 Senior Data Scientist, Finance 
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7892186002?gh_jid=7892186002)
+🕐 Updated: `2026-04-10T18:37:01-04:00` &nbsp;|&nbsp; ID: `7892186002`
+
+---
+### 🔄 Staff Machine Learning Engineer - Platform (Core AI Automation)
+**coinbase** · Machine Learning
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987)
+🕐 Updated: `2026-04-10T18:41:46-04:00` &nbsp;|&nbsp; ID: `7648987`
+
+---
+
 ## 📅 Run: 2026-04-10 22:31 UTC
 
 ### 🆕 Senior Product Manager, Education Labs
