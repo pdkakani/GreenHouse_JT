@@ -2,6 +2,285 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 15:05 UTC
+
+### 🆕 Senior Technical Architect, Okta
+**okta** · Professional Services-720 · 🎯 35%
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7488013?gh_jid=7488013)
+🕐 Updated: `2026-04-10T10:42:48-04:00` &nbsp;|&nbsp; ID: `7488013`
+
+---
+### 🆕 Vice President, Global Systems Integrators
+**okta** · Regional Alliances & GSI-027 · 🎯 8%
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7793061?gh_jid=7793061)
+🕐 Updated: `2026-04-10T10:55:00-04:00` &nbsp;|&nbsp; ID: `7793061`
+
+---
+### 🆕 Solutions Engineer Associate
+**alloy** · People · 🎯 72%
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8500155002&gh_jid=8500155002)
+🕐 Updated: `2026-04-10T10:17:43-04:00` &nbsp;|&nbsp; ID: `8500155002`
+
+---
+### 🆕 Senior Software Engineer - Data Platform
+**coinbase** · Engineering - Infrastructure · 🎯 72%
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7807664?gh_jid=7807664)
+🕐 Updated: `2026-04-10T11:04:04-04:00` &nbsp;|&nbsp; ID: `7807664`
+
+---
+### 🆕 Software Engineer, Instant Loans
+**chime** · Lending Engineering · 🎯 62%
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002)
+🕐 Updated: `2026-04-10T10:34:56-04:00` &nbsp;|&nbsp; ID: `8433840002`
+
+---
+### 🔄 Staff Product Security Engineer, Cloud Security
+**mongodb** · Platform Security
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7728270)
+🕐 Updated: `2026-04-10T10:30:08-04:00` &nbsp;|&nbsp; ID: `7728270`
+
+---
+### 🔄 Applications Engineer 2
+**twilio** · Sales Operations
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7646270)
+🕐 Updated: `2026-04-10T10:27:49-04:00` &nbsp;|&nbsp; ID: `7646270`
+
+---
+### 🔄 Business Systems Analyst 2
+**twilio** · Services
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7254399)
+🕐 Updated: `2026-04-10T10:35:51-04:00` &nbsp;|&nbsp; ID: `7254399`
+
+---
+### 🔄 Cloud Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7484699)
+🕐 Updated: `2026-04-10T10:34:12-04:00` &nbsp;|&nbsp; ID: `7484699`
+
+---
+### 🔄 Enablement Business Partner, SDR (Sales Development Representatives)
+**twilio** · Sales
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7783164)
+🕐 Updated: `2026-04-10T10:27:26-04:00` &nbsp;|&nbsp; ID: `7783164`
+
+---
+### 🔄 Engineer, Identity & Access
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657991)
+🕐 Updated: `2026-04-10T10:27:04-04:00` &nbsp;|&nbsp; ID: `7657991`
+
+---
+### 🔄 Fraud Specialist
+**twilio** · Ops (Fraud, Compliance, Biz, Prod, Analyst)
+📍 Remote - Estonia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7761267)
+🕐 Updated: `2026-04-10T10:27:36-04:00` &nbsp;|&nbsp; ID: `7761267`
+
+---
+### 🔄 MDM Data Specialist
+**twilio** · Business Intelligence
+📍 Remote - Colombia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622280)
+🕐 Updated: `2026-04-10T10:31:03-04:00` &nbsp;|&nbsp; ID: `7622280`
+
+---
+### 🔄 Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7350846)
+🕐 Updated: `2026-04-10T10:35:42-04:00` &nbsp;|&nbsp; ID: `7350846`
+
+---
+### 🔄 Principal Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - Japan &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7452089)
+🕐 Updated: `2026-04-10T10:35:31-04:00` &nbsp;|&nbsp; ID: `7452089`
+
+---
+### 🔄 Sales Development Representative
+**twilio** · Sales
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7662329)
+🕐 Updated: `2026-04-10T10:26:24-04:00` &nbsp;|&nbsp; ID: `7662329`
+
+---
+### 🔄 Security Compliance & Regulatory Affairs Analyst
+**twilio** · Security
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7599044)
+🕐 Updated: `2026-04-10T10:32:24-04:00` &nbsp;|&nbsp; ID: `7599044`
+
+---
+### 🔄 Senior Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622278)
+🕐 Updated: `2026-04-10T10:30:57-04:00` &nbsp;|&nbsp; ID: `7622278`
+
+---
+### 🔄 Senior Engineer, Security Automation
+**twilio** · Security
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7247707)
+🕐 Updated: `2026-04-10T10:35:47-04:00` &nbsp;|&nbsp; ID: `7247707`
+
+---
+### 🔄 Senior Network Engineer
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: `2026-04-10T10:28:24-04:00` &nbsp;|&nbsp; ID: `7657993`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7747554)
+🕐 Updated: `2026-04-10T10:24:29-04:00` &nbsp;|&nbsp; ID: `7747554`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7662058)
+🕐 Updated: `2026-04-10T10:26:36-04:00` &nbsp;|&nbsp; ID: `7662058`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - Spain &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7535345)
+🕐 Updated: `2026-04-10T10:30:04-04:00` &nbsp;|&nbsp; ID: `7535345`
+
+---
+### 🔄 Senior Software Engineer- Video Signalling 
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7394811)
+🕐 Updated: `2026-04-10T10:34:53-04:00` &nbsp;|&nbsp; ID: `7394811`
+
+---
+### 🔄 Senior Solutions Engineer 3
+**twilio** · Solutions Engineering
+📍 Remote - Australia; Remote - Japan; Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7511486)
+🕐 Updated: `2026-04-10T10:31:11-04:00` &nbsp;|&nbsp; ID: `7511486`
+
+---
+### 🔄 Senior Zendesk Business Systems Analyst
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7705692)
+🕐 Updated: `2026-04-10T10:24:56-04:00` &nbsp;|&nbsp; ID: `7705692`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Estonia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7699251)
+🕐 Updated: `2026-04-10T10:25:42-04:00` &nbsp;|&nbsp; ID: `7699251`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Estonia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7647708)
+🕐 Updated: `2026-04-10T10:26:43-04:00` &nbsp;|&nbsp; ID: `7647708`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7747550)
+🕐 Updated: `2026-04-10T10:24:06-04:00` &nbsp;|&nbsp; ID: `7747550`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7661922)
+🕐 Updated: `2026-04-10T10:26:27-04:00` &nbsp;|&nbsp; ID: `7661922`
+
+---
+### 🔄 Software Engineer (L2)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7789425)
+🕐 Updated: `2026-04-10T10:26:04-04:00` &nbsp;|&nbsp; ID: `7789425`
+
+---
+### 🔄 Software Engineer (L3) Infrastructure
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7767260)
+🕐 Updated: `2026-04-10T10:28:18-04:00` &nbsp;|&nbsp; ID: `7767260`
+
+---
+### 🔄 Sr. Analyst, Strategic Measurement
+**twilio** · Marketing
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7736722)
+🕐 Updated: `2026-04-10T10:25:22-04:00` &nbsp;|&nbsp; ID: `7736722`
+
+---
+### 🔄 Staff Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622285)
+🕐 Updated: `2026-04-10T10:31:15-04:00` &nbsp;|&nbsp; ID: `7622285`
+
+---
+### 🔄 Staff Machine Learning Engineer (L4)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520997)
+🕐 Updated: `2026-04-10T10:30:53-04:00` &nbsp;|&nbsp; ID: `7520997`
+
+---
+### 🔄 Staff Software Engineer (L4)
+**twilio** · IT
+📍 Remote - Colombia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7716279)
+🕐 Updated: `2026-04-10T10:24:41-04:00` &nbsp;|&nbsp; ID: `7716279`
+
+---
+### 🔄 Staff Software Engineer (L4)
+**twilio** · IT
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7714237)
+🕐 Updated: `2026-04-10T10:24:49-04:00` &nbsp;|&nbsp; ID: `7714237`
+
+---
+### 🔄 Tech Admin (P2) GTM Systems
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-10T10:26:47-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🔄 Technical Support Engineer 
+**twilio** · Customer Support
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7592249)
+🕐 Updated: `2026-04-10T10:28:50-04:00` &nbsp;|&nbsp; ID: `7592249`
+
+---
+### 🔄 Technical Support Engineer 2
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7658343)
+🕐 Updated: `2026-04-10T10:26:49-04:00` &nbsp;|&nbsp; ID: `7658343`
+
+---
+### 🔄 Technical Support Engineer 2 (Email Infra)
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7349692)
+🕐 Updated: `2026-04-10T10:35:26-04:00` &nbsp;|&nbsp; ID: `7349692`
+
+---
+### 🔄 Engineering Manager, Customer Agent
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453448003)
+🕐 Updated: `2026-04-10T11:00:46-04:00` &nbsp;|&nbsp; ID: `7453448003`
+
+---
+### 🔄 Lead Software Engineer - New Products
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7566577003)
+🕐 Updated: `2026-04-10T11:00:47-04:00` &nbsp;|&nbsp; ID: `7566577003`
+
+---
+### 🔄 Senior AI Engineer
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003)
+🕐 Updated: `2026-04-10T10:45:48-04:00` &nbsp;|&nbsp; ID: `7502768003`
+
+---
+### 🔄 Senior Full Stack Engineer - New Product
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548896003)
+🕐 Updated: `2026-04-10T10:45:48-04:00` &nbsp;|&nbsp; ID: `7548896003`
+
+---
+### 🔄 Principal Product Manager, Tax Credits
+**gusto** · Product Management
+📍 San Francisco, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7581996)
+🕐 Updated: `2026-04-10T10:46:08-04:00` &nbsp;|&nbsp; ID: `7581996`
+
+---
+
 ## 📅 Run: 2026-04-10 14:03 UTC
 
 ### 🆕 Lead Product Manager, Groups Platform 

@@ -5981,9 +5981,10 @@
   },
   "7728270": {
     "first_seen": "2026-04-06T02:02:14.876258+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-10T10:30:08-04:00",
     "title": "Staff Product Security Engineer, Cloud Security",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "7280132": {
     "first_seen": "2026-04-06T02:02:14.876289+00:00",
@@ -6246,9 +6247,10 @@
   },
   "7646270": {
     "first_seen": "2026-04-06T02:02:15.733474+00:00",
-    "updated_at": "2026-04-09T10:33:44-04:00",
+    "updated_at": "2026-04-10T10:27:49-04:00",
     "title": "Applications Engineer 2",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7292353": {
     "first_seen": "2026-04-06T02:02:15.733501+00:00",
@@ -6258,15 +6260,17 @@
   },
   "7254399": {
     "first_seen": "2026-04-06T02:02:15.733520+00:00",
-    "updated_at": "2026-04-09T10:39:39-04:00",
+    "updated_at": "2026-04-10T10:35:51-04:00",
     "title": "Business Systems Analyst 2",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7484699": {
     "first_seen": "2026-04-06T02:02:15.733530+00:00",
-    "updated_at": "2026-04-09T10:38:38-04:00",
+    "updated_at": "2026-04-10T10:34:12-04:00",
     "title": "Cloud Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7492664": {
     "first_seen": "2026-04-06T02:02:15.733591+00:00",
@@ -6282,13 +6286,14 @@
   },
   "7657991": {
     "first_seen": "2026-04-06T02:02:15.733901+00:00",
-    "updated_at": "2026-04-09T10:32:02-04:00",
+    "updated_at": "2026-04-10T10:27:04-04:00",
     "title": "Engineer, Identity & Access",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7761267": {
     "first_seen": "2026-04-06T02:02:15.734088+00:00",
-    "updated_at": "2026-04-09T10:28:16-04:00",
+    "updated_at": "2026-04-10T10:27:36-04:00",
     "title": "Fraud Specialist",
     "company": "twilio",
     "alerted": false
@@ -6314,7 +6319,7 @@
   },
   "7622280": {
     "first_seen": "2026-04-06T02:02:15.734408+00:00",
-    "updated_at": "2026-04-09T10:34:39-04:00",
+    "updated_at": "2026-04-10T10:31:03-04:00",
     "title": "MDM Data Specialist",
     "company": "twilio",
     "alerted": false
@@ -6345,9 +6350,10 @@
   },
   "7350846": {
     "first_seen": "2026-04-06T02:02:15.734874+00:00",
-    "updated_at": "2026-04-09T10:39:31-04:00",
+    "updated_at": "2026-04-10T10:35:42-04:00",
     "title": "Presales Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7721647": {
     "first_seen": "2026-04-06T02:02:15.734906+00:00",
@@ -6357,9 +6363,10 @@
   },
   "7452089": {
     "first_seen": "2026-04-06T02:02:15.734935+00:00",
-    "updated_at": "2026-04-09T10:39:06-04:00",
+    "updated_at": "2026-04-10T10:35:31-04:00",
     "title": "Principal Presales Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7650625": {
     "first_seen": "2026-04-06T02:02:15.734965+00:00",
@@ -6381,13 +6388,14 @@
   },
   "7662329": {
     "first_seen": "2026-04-06T02:02:15.735171+00:00",
-    "updated_at": "2026-04-09T10:30:36-04:00",
+    "updated_at": "2026-04-10T10:26:24-04:00",
     "title": "Sales Development Representative",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7599044": {
     "first_seen": "2026-04-06T02:02:15.735261+00:00",
-    "updated_at": "2026-04-09T10:35:29-04:00",
+    "updated_at": "2026-04-10T10:32:24-04:00",
     "title": "Security Compliance & Regulatory Affairs Analyst",
     "company": "twilio",
     "alerted": false
@@ -6400,15 +6408,17 @@
   },
   "7622278": {
     "first_seen": "2026-04-06T02:02:15.735394+00:00",
-    "updated_at": "2026-04-09T10:34:28-04:00",
+    "updated_at": "2026-04-10T10:30:57-04:00",
     "title": "Senior Engineer, Offensive Security",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7247707": {
     "first_seen": "2026-04-06T02:02:15.735410+00:00",
-    "updated_at": "2026-04-09T10:39:34-04:00",
+    "updated_at": "2026-04-10T10:35:47-04:00",
     "title": "Senior Engineer, Security Automation",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7474040": {
     "first_seen": "2026-04-06T02:02:15.735478+00:00",
@@ -6437,9 +6447,10 @@
   },
   "7657993": {
     "first_seen": "2026-04-06T02:02:15.735638+00:00",
-    "updated_at": "2026-04-09T10:34:53-04:00",
+    "updated_at": "2026-04-10T10:28:24-04:00",
     "title": "Senior Network Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7611862": {
     "first_seen": "2026-04-06T02:02:15.735719+00:00",
@@ -6455,9 +6466,10 @@
   },
   "7662058": {
     "first_seen": "2026-04-06T02:02:15.735838+00:00",
-    "updated_at": "2026-04-09T10:30:48-04:00",
+    "updated_at": "2026-04-10T10:26:36-04:00",
     "title": "Senior Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7595407": {
     "first_seen": "2026-04-06T02:02:15.735855+00:00",
@@ -6467,15 +6479,17 @@
   },
   "7535345": {
     "first_seen": "2026-04-06T02:02:15.735874+00:00",
-    "updated_at": "2026-04-09T10:37:02-04:00",
+    "updated_at": "2026-04-10T10:30:04-04:00",
     "title": "Senior Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7747554": {
     "first_seen": "2026-04-06T02:02:15.735899+00:00",
-    "updated_at": "2026-04-09T10:26:21-04:00",
+    "updated_at": "2026-04-10T10:24:29-04:00",
     "title": "Senior Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7738955": {
     "first_seen": "2026-04-06T02:02:15.735916+00:00",
@@ -6485,15 +6499,17 @@
   },
   "7394811": {
     "first_seen": "2026-04-06T02:02:15.735932+00:00",
-    "updated_at": "2026-04-09T10:39:01-04:00",
+    "updated_at": "2026-04-10T10:34:53-04:00",
     "title": "Senior Software Engineer- Video Signalling ",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7511486": {
     "first_seen": "2026-04-06T02:02:15.735958+00:00",
-    "updated_at": "2026-04-09T10:37:48-04:00",
+    "updated_at": "2026-04-10T10:31:11-04:00",
     "title": "Senior Solutions Engineer 3",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7360560": {
     "first_seen": "2026-04-06T02:02:15.736200+00:00",
@@ -6509,9 +6525,10 @@
   },
   "7705692": {
     "first_seen": "2026-04-06T02:02:15.736256+00:00",
-    "updated_at": "2026-04-09T10:29:04-04:00",
+    "updated_at": "2026-04-10T10:24:56-04:00",
     "title": "Senior Zendesk Business Systems Analyst",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7658259": {
     "first_seen": "2026-04-06T02:02:15.736366+00:00",
@@ -6521,21 +6538,24 @@
   },
   "7747550": {
     "first_seen": "2026-04-06T02:02:15.736375+00:00",
-    "updated_at": "2026-04-09T10:26:03-04:00",
+    "updated_at": "2026-04-10T10:24:06-04:00",
     "title": "Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7647708": {
     "first_seen": "2026-04-06T02:02:15.736386+00:00",
-    "updated_at": "2026-04-09T10:30:53-04:00",
+    "updated_at": "2026-04-10T10:26:43-04:00",
     "title": "Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7661922": {
     "first_seen": "2026-04-06T02:02:15.736395+00:00",
-    "updated_at": "2026-04-09T10:30:40-04:00",
+    "updated_at": "2026-04-10T10:26:27-04:00",
     "title": "Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7605743": {
     "first_seen": "2026-04-06T02:02:15.736405+00:00",
@@ -6557,9 +6577,10 @@
   },
   "7699251": {
     "first_seen": "2026-04-06T02:02:15.736434+00:00",
-    "updated_at": "2026-04-09T11:09:23-04:00",
+    "updated_at": "2026-04-10T10:25:42-04:00",
     "title": "Software Engineer",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7602727": {
     "first_seen": "2026-04-06T02:02:15.736443+00:00",
@@ -6581,7 +6602,7 @@
   },
   "7736722": {
     "first_seen": "2026-04-06T02:02:15.736497+00:00",
-    "updated_at": "2026-04-09T10:26:48-04:00",
+    "updated_at": "2026-04-10T10:25:22-04:00",
     "title": "Sr. Analyst, Strategic Measurement",
     "company": "twilio",
     "alerted": false
@@ -6600,9 +6621,10 @@
   },
   "7622285": {
     "first_seen": "2026-04-06T02:02:15.736755+00:00",
-    "updated_at": "2026-04-09T10:34:44-04:00",
+    "updated_at": "2026-04-10T10:31:15-04:00",
     "title": "Staff Engineer, Offensive Security",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7716287": {
     "first_seen": "2026-04-06T02:02:15.736771+00:00",
@@ -6612,15 +6634,17 @@
   },
   "7714237": {
     "first_seen": "2026-04-06T02:02:15.736786+00:00",
-    "updated_at": "2026-04-09T10:28:50-04:00",
+    "updated_at": "2026-04-10T10:24:49-04:00",
     "title": "Staff Software Engineer (L4)",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7716279": {
     "first_seen": "2026-04-06T02:02:15.736804+00:00",
-    "updated_at": "2026-04-09T10:25:50-04:00",
+    "updated_at": "2026-04-10T10:24:41-04:00",
     "title": "Staff Software Engineer (L4)",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7351031": {
     "first_seen": "2026-04-06T02:02:15.736819+00:00",
@@ -6648,21 +6672,24 @@
   },
   "7592249": {
     "first_seen": "2026-04-06T02:02:15.737241+00:00",
-    "updated_at": "2026-04-09T10:29:30-04:00",
+    "updated_at": "2026-04-10T10:28:50-04:00",
     "title": "Technical Support Engineer ",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7658343": {
     "first_seen": "2026-04-06T02:02:15.737251+00:00",
-    "updated_at": "2026-04-09T10:31:04-04:00",
+    "updated_at": "2026-04-10T10:26:49-04:00",
     "title": "Technical Support Engineer 2",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7349692": {
     "first_seen": "2026-04-06T02:02:15.737260+00:00",
-    "updated_at": "2026-04-09T10:39:18-04:00",
+    "updated_at": "2026-04-10T10:35:26-04:00",
     "title": "Technical Support Engineer 2 (Email Infra)",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7651788": {
     "first_seen": "2026-04-06T02:02:15.737272+00:00",
@@ -12733,9 +12760,10 @@
   },
   "7453448003": {
     "first_seen": "2026-04-06T08:10:08.966029+00:00",
-    "updated_at": "2026-04-07T12:30:55-04:00",
+    "updated_at": "2026-04-10T11:00:46-04:00",
     "title": "Engineering Manager, Customer Agent",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7570250003": {
     "first_seen": "2026-04-06T08:10:08.966038+00:00",
@@ -12811,9 +12839,10 @@
   },
   "7566577003": {
     "first_seen": "2026-04-06T08:10:08.966742+00:00",
-    "updated_at": "2026-04-04T04:03:07-04:00",
+    "updated_at": "2026-04-10T11:00:47-04:00",
     "title": "Lead Software Engineer - New Products",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7607862003": {
     "first_seen": "2026-04-06T08:10:08.966767+00:00",
@@ -12949,9 +12978,10 @@
   },
   "7502768003": {
     "first_seen": "2026-04-06T08:10:08.967896+00:00",
-    "updated_at": "2026-04-07T03:01:44-04:00",
+    "updated_at": "2026-04-10T10:45:48-04:00",
     "title": "Senior AI Engineer",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7668048003": {
     "first_seen": "2026-04-06T08:10:08.967911+00:00",
@@ -12991,9 +13021,10 @@
   },
   "7548896003": {
     "first_seen": "2026-04-06T08:10:08.968200+00:00",
-    "updated_at": "2026-04-06T03:02:22-04:00",
+    "updated_at": "2026-04-10T10:45:48-04:00",
     "title": "Senior Full Stack Engineer - New Product",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7517734003": {
     "first_seen": "2026-04-06T08:10:08.968217+00:00",
@@ -15753,9 +15784,10 @@
   },
   "7581996": {
     "first_seen": "2026-04-06T08:10:26.090865+00:00",
-    "updated_at": "2026-04-02T17:01:37-04:00",
+    "updated_at": "2026-04-10T10:46:08-04:00",
     "title": "Principal Product Manager, Tax Credits",
-    "company": "gusto"
+    "company": "gusto",
+    "alerted": false
   },
   "7235291": {
     "first_seen": "2026-04-06T08:10:26.090903+00:00",
@@ -20628,9 +20660,10 @@
   },
   "7767260": {
     "first_seen": "2026-04-06T20:03:42.414178+00:00",
-    "updated_at": "2026-04-09T10:28:53-04:00",
+    "updated_at": "2026-04-10T10:28:18-04:00",
     "title": "Software Engineer (L3) Infrastructure",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7782662": {
     "first_seen": "2026-04-06T20:03:43.070430+00:00",
@@ -20732,9 +20765,10 @@
   },
   "7781657": {
     "first_seen": "2026-04-06T21:32:46.996512+00:00",
-    "updated_at": "2026-04-09T10:27:42-04:00",
+    "updated_at": "2026-04-10T10:26:47-04:00",
     "title": "Tech Admin (P2) GTM Systems",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7779207": {
     "first_seen": "2026-04-06T21:32:49.214023+00:00",
@@ -20847,9 +20881,10 @@
   },
   "7520997": {
     "first_seen": "2026-04-07T10:32:47.918935+00:00",
-    "updated_at": "2026-04-09T10:37:40-04:00",
+    "updated_at": "2026-04-10T10:30:53-04:00",
     "title": "Staff Machine Learning Engineer (L4)",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "8496177002": {
     "first_seen": "2026-04-07T10:32:48.254671+00:00",
@@ -21587,9 +21622,10 @@
   },
   "7783164": {
     "first_seen": "2026-04-08T20:22:54.369158+00:00",
-    "updated_at": "2026-04-09T10:28:02-04:00",
+    "updated_at": "2026-04-10T10:27:26-04:00",
     "title": "Enablement Business Partner, SDR (Sales Development Representatives)",
-    "company": "twilio"
+    "company": "twilio",
+    "alerted": false
   },
   "7783179": {
     "first_seen": "2026-04-08T20:23:25.578580+00:00",
@@ -22133,7 +22169,7 @@
   },
   "7789425": {
     "first_seen": "2026-04-10T06:29:47.454079+00:00",
-    "updated_at": "2026-04-10T01:36:51-04:00",
+    "updated_at": "2026-04-10T10:26:04-04:00",
     "title": "Software Engineer (L2)",
     "company": "twilio",
     "alerted": true
@@ -22388,6 +22424,41 @@
     "updated_at": "2026-04-10T09:48:46-04:00",
     "title": "Senior Value Engineer",
     "company": "cribl",
+    "alerted": true
+  },
+  "7488013": {
+    "first_seen": "2026-04-10T15:05:18.157855+00:00",
+    "updated_at": "2026-04-10T10:42:48-04:00",
+    "title": "Senior Technical Architect, Okta",
+    "company": "okta",
+    "alerted": true
+  },
+  "7793061": {
+    "first_seen": "2026-04-10T15:05:18.160255+00:00",
+    "updated_at": "2026-04-10T10:55:00-04:00",
+    "title": "Vice President, Global Systems Integrators",
+    "company": "okta",
+    "alerted": true
+  },
+  "8500155002": {
+    "first_seen": "2026-04-10T15:05:26.495623+00:00",
+    "updated_at": "2026-04-10T10:17:43-04:00",
+    "title": "Solutions Engineer Associate",
+    "company": "alloy",
+    "alerted": true
+  },
+  "7807664": {
+    "first_seen": "2026-04-10T15:05:32.305677+00:00",
+    "updated_at": "2026-04-10T11:04:04-04:00",
+    "title": "Senior Software Engineer - Data Platform",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "8433840002": {
+    "first_seen": "2026-04-10T15:05:33.880731+00:00",
+    "updated_at": "2026-04-10T10:34:56-04:00",
+    "title": "Software Engineer, Instant Loans",
+    "company": "chime",
     "alerted": true
   }
 }
