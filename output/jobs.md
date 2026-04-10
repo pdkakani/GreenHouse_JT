@@ -2,6 +2,621 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 04:47 UTC
+
+### 🔄 Software Engineer II - Abnormal Data Platform
+**abnormalsecurity** · Behavioral Security Products
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694258003?gh_jid=7694258003)
+🕐 Updated: `2026-04-09T23:31:24-04:00` &nbsp;|&nbsp; ID: `7694258003`
+
+---
+### 🔄 Associate Manager - Client Platform
+**coinbase** · IT
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7683151?gh_jid=7683151)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7683151`
+
+---
+### 🔄 Base Senior Product Manager, Growth
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7736964?gh_jid=7736964)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7736964`
+
+---
+### 🔄 Base Senior Product Manager, Privacy
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7762279?gh_jid=7762279)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7762279`
+
+---
+### 🔄 Blockchain Security Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7701657?gh_jid=7701657)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7701657`
+
+---
+### 🔄 Consumer L&D SME Trainer Lead Analyst
+**coinbase** · Customer Experience
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7616000?gh_jid=7616000)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7616000`
+
+---
+### 🔄 CX Security Program Manager
+**coinbase** · Customer Experience
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7694499?gh_jid=7694499)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7694499`
+
+---
+### 🔄 Data Protection Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7728786?gh_jid=7728786)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7728786`
+
+---
+### 🔄 Engineering Manager
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7743959?gh_jid=7743959)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7743959`
+
+---
+### 🔄 Engineering Manager - Consumer (Coinbase Card)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7002974?gh_jid=7002974)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7002974`
+
+---
+### 🔄 Engineering Manager, Identity Frontend
+**coinbase** · Engineering - Frontend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7769397?gh_jid=7769397)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7769397`
+
+---
+### 🔄 Engineering Manager (Institutional - Custody, Prime Onchain Wallet)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7650637?gh_jid=7650637)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7650637`
+
+---
+### 🔄 Engineering Manager (Institutional - Foundations, Onboarding & Growth)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7571814?gh_jid=7571814)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7571814`
+
+---
+### 🔄 Engineering Manager - Platform (FinHub)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7790065?gh_jid=7790065)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7790065`
+
+---
+### 🔄 Engineering Manager (Platform - Identity)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7731934?gh_jid=7731934)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7731934`
+
+---
+### 🔄 Engineering Manager - Simple Trade
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773210?gh_jid=7773210)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7773210`
+
+---
+### 🔄 Engineering Manager - Tax Engineering
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773213?gh_jid=7773213)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7773213`
+
+---
+### 🔄 Group Product Manager - Financial Engineering 
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789404?gh_jid=7789404)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7789404`
+
+---
+### 🔄 Internal Audit Analyst
+**coinbase** · Finance & Accounting
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7683744?gh_jid=7683744)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7683744`
+
+---
+### 🔄 Internal Audit IT Associate Manager
+**coinbase** · Finance & Accounting
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7365422?gh_jid=7365422)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7365422`
+
+---
+### 🔄 Internal Audit IT Manager
+**coinbase** · Finance & Accounting
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7755116?gh_jid=7755116)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7755116`
+
+---
+### 🔄 Manager, Privacy
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7689525?gh_jid=7689525)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7689525`
+
+---
+### 🔄 Principal Software Engineer, AI Automation
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7728580?gh_jid=7728580)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7728580`
+
+---
+### 🔄 Product Manager II - Cash Balances 
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7484189?gh_jid=7484189)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7484189`
+
+---
+### 🔄 Product Manager II , Growth Activation 
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7361803?gh_jid=7361803)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7361803`
+
+---
+### 🔄 Product Manager II , Growth Engagement 
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7623211?gh_jid=7623211)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7623211`
+
+---
+### 🔄 Program Manager, Contracts & Analytics
+**coinbase** · Legal & Compliance
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7706215?gh_jid=7706215)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7706215`
+
+---
+### 🔄 Security Engineer, CorpSec
+**coinbase** · Engineering - Mobile
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7611268`
+
+---
+### 🔄 Senior Analyst, Security Compliance (SOX IT)
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7342506?gh_jid=7342506)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7342506`
+
+---
+### 🔄 Senior Analytics Engineer (Platform - Financial Analytics)
+**coinbase** · Data Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7736521`
+
+---
+### 🔄 Senior Blockchain Security Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7689521?gh_jid=7689521)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7689521`
+
+---
+### 🔄 Senior Counsel, Security and Technology
+**coinbase** · Legal & Compliance
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7550415?gh_jid=7550415)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7550415`
+
+---
+### 🔄 Senior Data Protection Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7729941?gh_jid=7729941)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7729941`
+
+---
+### 🔄 Senior Data Protection Engineer
+**coinbase** · Engineering - Security
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7592041?gh_jid=7592041)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7592041`
+
+---
+### 🔄 Senior Finance & Strategy Analyst, Consumer
+**coinbase** · Finance & Accounting
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7760206?gh_jid=7760206)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7760206`
+
+---
+### 🔄 Senior Machine Learning Platform Engineer (Platform)
+**coinbase** · Machine Learning
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7604203`
+
+---
+### 🔄 Senior Manager, Adversary Management
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7729252?gh_jid=7729252)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7729252`
+
+---
+### 🔄 Senior Manager, Internal Audit IT
+**coinbase** · Finance & Accounting
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7755119?gh_jid=7755119)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7755119`
+
+---
+### 🔄 Senior Manager, Strategic Operations
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7708267?gh_jid=7708267)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7708267`
+
+---
+### 🔄 Senior Offensive Security Engineer (IOT / Network Pentesting)
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7411772?gh_jid=7411772)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7411772`
+
+---
+### 🔄 Senior Product Manager, Enterprise Applications - Finance Systems
+**coinbase** · Enterprise Applications
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7404427?gh_jid=7404427)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7404427`
+
+---
+### 🔄 Senior Product Manager, Sign-up, Sign-in, and Recovery
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7679070?gh_jid=7679070)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7679070`
+
+---
+### 🔄 Senior Security Engineer, IAM
+**coinbase** · Engineering - Security
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7736805?gh_jid=7736805)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7736805`
+
+---
+### 🔄 Senior Site Reliability Engineer, Identity Platform
+**coinbase** · IT
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7516971?gh_jid=7516971)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7516971`
+
+---
+### 🔄 Senior Site Reliability Engineer, IT Infrastructure
+**coinbase** · IT
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7663545?gh_jid=7663545)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7663545`
+
+---
+### 🔄 Senior Software Engineer
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7769825?gh_jid=7769825)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7769825`
+
+---
+### 🔄 Senior Software Engineer, Backend (Consumer - Advanced Trading)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7591861`
+
+---
+### 🔄 Senior Software Engineer, Backend - Consumer Foundations
+**coinbase** · Engineering
+📍 Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7595047?gh_jid=7595047)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7595047`
+
+---
+### 🔄 Senior Software Engineer, Backend (Consumer - Growth & App Infra)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7565751?gh_jid=7565751)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7565751`
+
+---
+### 🔄 Senior Software Engineer, Backend (Consumer - International)
+**coinbase** · Engineering
+📍 Remote - Brazil &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7709773?gh_jid=7709773)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7709773`
+
+---
+### 🔄 Senior Software Engineer, Backend (Consumer - Retail Cash)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7739262?gh_jid=7739262)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7739262`
+
+---
+### 🔄 Senior Software Engineer, Backend (Institutional - Markets)
+**coinbase** · Engineering - Backend
+📍 Remote - Netherlands &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7565647?gh_jid=7565647)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7565647`
+
+---
+### 🔄 Senior Software Engineer, Backend - Platform (Core AI Automation)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7733653?gh_jid=7733653)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7733653`
+
+---
+### 🔄 Senior Software Engineer, Backend (Platform - Financial Eng) 
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7670920?gh_jid=7670920)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7670920`
+
+---
+### 🔄 Senior Software Engineer, Backend - Platform (Overseer)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789399?gh_jid=7789399)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7789399`
+
+---
+### 🔄 Senior Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7554499?gh_jid=7554499)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7554499`
+
+---
+### 🔄 Senior Software Engineer - Data Platform
+**coinbase** · Engineering - Infrastructure
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7728790?gh_jid=7728790)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7728790`
+
+---
+### 🔄 Senior Software Engineer, Developer (Money Movement - Risk) 
+**coinbase** · Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7707786?gh_jid=7707786)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7707786`
+
+---
+### 🔄 Senior Software Engineer, Developer (Payments) 
+**coinbase** · Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7746671?gh_jid=7746671)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7746671`
+
+---
+### 🔄 Senior Software Engineer (EAA)
+**coinbase** · Enterprise Applications
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7483221?gh_jid=7483221)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7483221`
+
+---
+### 🔄 Senior Software Engineer, Echo
+**coinbase** · Engineering - Backend
+📍 Remote - UK &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7569402?gh_jid=7569402)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7569402`
+
+---
+### 🔄 Senior Software Engineer, Frontend (Advanced Trade)
+**coinbase** · Engineering - Frontend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7755105?gh_jid=7755105)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7755105`
+
+---
+### 🔄 Senior Software Engineer, Fullstack (AI Advisor) 
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7604153?gh_jid=7604153)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7604153`
+
+---
+### 🔄 Senior Software Engineer, Infrastructure - Platform Compute
+**coinbase** · Engineering - Infrastructure
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7576764?gh_jid=7576764)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7576764`
+
+---
+### 🔄 Senior Software Engineer (Platform - AI Acceleration) 
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7697499?gh_jid=7697499)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7697499`
+
+---
+### 🔄 Senior Software Engineer (Platform- Identity)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7660227?gh_jid=7660227)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7660227`
+
+---
+### 🔄 Senior Solutions Architect
+**coinbase** · Institutional Sales, Trading, and Prime Services
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7702401?gh_jid=7702401)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7702401`
+
+---
+### 🔄 Senior Staff Software Engineer, Backend (Consumer - Financial Services and Loyalty)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7595294?gh_jid=7595294)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7595294`
+
+---
+### 🔄 Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra) 
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7227603?gh_jid=7227603)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7227603`
+
+---
+### 🔄 Senior Staff Software Engineer, Backend - Platform (Core Automation)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7580292`
+
+---
+### 🔄 Senior Staff Software Engineer, Backend - Risk Platform
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7573405?gh_jid=7573405)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7573405`
+
+---
+### 🔄 Senior Staff Software Engineer, Data Platform
+**coinbase** · Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7711287?gh_jid=7711287)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7711287`
+
+---
+### 🔄 Senior Staff Software Engineer, Solana Staking Protocol 
+**coinbase** · Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7684298?gh_jid=7684298)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7684298`
+
+---
+### 🔄 Site Reliability Engineer, IT Infrastructure
+**coinbase** · IT
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7559168?gh_jid=7559168)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7559168`
+
+---
+### 🔄 Software Engineer, Backend (Developer - Stablecoin) 
+**coinbase** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7758474?gh_jid=7758474)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7758474`
+
+---
+### 🔄 Software Engineer, Developer (Wallets and Onchain Tools) 
+**coinbase** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7673310?gh_jid=7673310)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7673310`
+
+---
+### 🔄 Software Engineer, DevSec
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7595352`
+
+---
+### 🔄 Software Engineer, Full Stack (EAA)
+**coinbase** · Engineering - Backend
+📍 Remote - Brazil &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7584070?gh_jid=7584070)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7584070`
+
+---
+### 🔄 Software Engineer - Full Stack (EAA - Compliance)
+**coinbase** · Enterprise Applications
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `6233713`
+
+---
+### 🔄 Software Engineer - Salesforce Platform (EAA)
+**coinbase** · Enterprise Applications
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7652048`
+
+---
+### 🔄 Staff Machine Learning Engineer - Platform (Core AI Automation)
+**coinbase** · Machine Learning
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7648987`
+
+---
+### 🔄 Staff Product Designer - Financial Tools and Infrastructure
+**coinbase** · Design
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7586690?gh_jid=7586690)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7586690`
+
+---
+### 🔄 Staff Security Engineer, IAM
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7763274?gh_jid=7763274)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7763274`
+
+---
+### 🔄 Staff Security Engineer, InfraSec
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7592075?gh_jid=7592075)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7592075`
+
+---
+### 🔄 Staff Software Engineer
+**coinbase** · Engineering
+📍 Remote - Canada; Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7606771?gh_jid=7606771)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7606771`
+
+---
+### 🔄 Staff Software Engineer, Backend (Consumer - Advanced Trading)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7778684?gh_jid=7778684)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7778684`
+
+---
+### 🔄 Staff Software Engineer, Backend (Consumer - Growth & App Infra)
+**coinbase** · Engineering - Backend
+📍 Remote - Canada; Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7015907?gh_jid=7015907)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7015907`
+
+---
+### 🔄 Staff Software Engineer, Backend (Consumer - International)
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7589139?gh_jid=7589139)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7589139`
+
+---
+### 🔄 Staff Software Engineer, Backend (Consumer- Retail Cash)
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7659458?gh_jid=7659458)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7659458`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (FinHub Tooling)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7744147?gh_jid=7744147)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7744147`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (Overseer)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7769929?gh_jid=7769929)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7769929`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7789395`
+
+---
+### 🔄 Staff Software Engineer, Frontend (Consumer - Advanced Trading)
+**coinbase** · Engineering - Frontend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7629141`
+
+---
+### 🔄 Staff Software Engineer, Frontend (Consumer -CB1,Growth)
+**coinbase** · Engineering - Frontend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7300575?gh_jid=7300575)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7300575`
+
+---
+### 🔄 Staff Software Engineer (Platform - Financial Engineering)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7685208?gh_jid=7685208)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7685208`
+
+---
+### 🔄 Staff Software Engineer - Tax Engineering
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773216?gh_jid=7773216)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7773216`
+
+---
+### 🔄 Technical Program Manager
+**coinbase** · Enterprise Applications
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7712294?gh_jid=7712294)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7712294`
+
+---
+### 🔄 Technical Program Manager, Compliance 
+**coinbase** · Legal & Compliance
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7484240?gh_jid=7484240)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7484240`
+
+---
+### 🔄 Technical Program Manager II
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7595357?gh_jid=7595357)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7595357`
+
+---
+### 🔄 Transaction Monitoring Compliance QA Analyst IV
+**coinbase** · Customer Experience
+📍 Remote - UK &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7140861?gh_jid=7140861)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7140861`
+
+---
+### 🔄 Transaction Monitoring Lead Analyst
+**coinbase** · Customer Experience
+📍 Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7516383?gh_jid=7516383)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7516383`
+
+---
+### 🔄 VP, Tech Risk and Controls (2LoD)
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7669394?gh_jid=7669394)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7669394`
+
+---
+
 ## 📅 Run: 2026-04-10 01:57 UTC
 
 ### 🆕 Anthropic Fellows Program — AI Safety

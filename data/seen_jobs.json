@@ -751,52 +751,59 @@
   },
   "7683151": {
     "first_seen": "2026-04-06T02:02:04.302209+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Associate Manager - Client Platform",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7736964": {
     "first_seen": "2026-04-06T02:02:04.302535+00:00",
-    "updated_at": "2026-03-29T22:27:00-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Base Senior Product Manager, Growth",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7762279": {
     "first_seen": "2026-04-06T02:02:04.302560+00:00",
-    "updated_at": "2026-03-30T16:06:26-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Base Senior Product Manager, Privacy",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7701657": {
     "first_seen": "2026-04-06T02:02:04.302623+00:00",
-    "updated_at": "2026-03-29T22:27:04-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Blockchain Security Engineer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7616000": {
     "first_seen": "2026-04-06T02:02:04.303011+00:00",
-    "updated_at": "2026-04-09T16:41:27-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Consumer L&D SME Trainer Lead Analyst",
     "company": "coinbase",
     "alerted": false
   },
   "7694499": {
     "first_seen": "2026-04-06T02:02:04.303415+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "CX Security Program Manager",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7728786": {
     "first_seen": "2026-04-06T02:02:04.303442+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Data Protection Engineer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7743959": {
     "first_seen": "2026-04-06T02:02:04.303643+00:00",
-    "updated_at": "2026-04-01T15:14:51-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7327070": {
     "first_seen": "2026-04-06T02:02:04.303653+00:00",
@@ -806,35 +813,38 @@
   },
   "7002974": {
     "first_seen": "2026-04-06T02:02:04.303663+00:00",
-    "updated_at": "2026-03-31T14:33:16-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager - Consumer (Coinbase Card)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7769397": {
     "first_seen": "2026-04-06T02:02:04.303673+00:00",
-    "updated_at": "2026-04-01T09:49:10-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager, Identity Frontend",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7650637": {
     "first_seen": "2026-04-06T02:02:04.303682+00:00",
-    "updated_at": "2026-04-09T18:51:13-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager (Institutional - Custody, Prime Onchain Wallet)",
     "company": "coinbase",
     "alerted": false
   },
   "7571814": {
     "first_seen": "2026-04-06T02:02:04.303692+00:00",
-    "updated_at": "2026-04-09T18:51:11-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager (Institutional - Foundations, Onboarding & Growth)",
     "company": "coinbase",
     "alerted": false
   },
   "7731934": {
     "first_seen": "2026-04-06T02:02:04.303701+00:00",
-    "updated_at": "2026-03-31T12:03:31-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager (Platform - Identity)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7676111": {
     "first_seen": "2026-04-06T02:02:04.303786+00:00",
@@ -844,33 +854,38 @@
   },
   "7683744": {
     "first_seen": "2026-04-06T02:02:04.304029+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Internal Audit Analyst",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7365422": {
     "first_seen": "2026-04-06T02:02:04.304053+00:00",
-    "updated_at": "2026-03-29T22:26:49-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Internal Audit IT Associate Manager",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7755116": {
     "first_seen": "2026-04-06T02:02:04.304078+00:00",
-    "updated_at": "2026-03-29T22:27:08-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Internal Audit IT Manager",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7689525": {
     "first_seen": "2026-04-06T02:02:04.304279+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Manager, Privacy",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7728580": {
     "first_seen": "2026-04-06T02:02:04.304437+00:00",
-    "updated_at": "2026-03-29T22:26:39-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Principal Software Engineer, AI Automation",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7558883": {
     "first_seen": "2026-04-06T02:02:04.304447+00:00",
@@ -880,21 +895,24 @@
   },
   "7484189": {
     "first_seen": "2026-04-06T02:02:04.304458+00:00",
-    "updated_at": "2026-04-09T12:42:44-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Product Manager II - Cash Balances ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7361803": {
     "first_seen": "2026-04-06T02:02:04.304468+00:00",
-    "updated_at": "2026-03-29T22:26:49-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Product Manager II , Growth Activation ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7623211": {
     "first_seen": "2026-04-06T02:02:04.304478+00:00",
-    "updated_at": "2026-03-29T22:27:00-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Product Manager II , Growth Engagement ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "6855533": {
     "first_seen": "2026-04-06T02:02:04.304494+00:00",
@@ -916,21 +934,24 @@
   },
   "7706215": {
     "first_seen": "2026-04-06T02:02:04.304708+00:00",
-    "updated_at": "2026-03-29T22:26:59-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Program Manager, Contracts & Analytics",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7611268": {
     "first_seen": "2026-04-06T02:02:04.304873+00:00",
-    "updated_at": "2026-03-29T22:27:00-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Security Engineer, CorpSec",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7342506": {
     "first_seen": "2026-04-06T02:02:04.305144+00:00",
-    "updated_at": "2026-03-29T22:26:48-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Analyst, Security Compliance (SOX IT)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7532597": {
     "first_seen": "2026-04-06T02:02:04.305161+00:00",
@@ -940,28 +961,31 @@
   },
   "7689521": {
     "first_seen": "2026-04-06T02:02:04.305250+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Blockchain Security Engineer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7550415": {
     "first_seen": "2026-04-06T02:02:04.305478+00:00",
-    "updated_at": "2026-04-09T16:30:59-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Counsel, Security and Technology",
     "company": "coinbase",
     "alerted": false
   },
   "7729941": {
     "first_seen": "2026-04-06T02:02:04.305524+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Data Protection Engineer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7592041": {
     "first_seen": "2026-04-06T02:02:04.305558+00:00",
-    "updated_at": "2026-03-29T22:26:59-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Data Protection Engineer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "6969295": {
     "first_seen": "2026-04-06T02:02:04.305576+00:00",
@@ -995,40 +1019,45 @@
   },
   "7760206": {
     "first_seen": "2026-04-06T02:02:04.305682+00:00",
-    "updated_at": "2026-03-29T22:27:10-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Finance & Strategy Analyst, Consumer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7604203": {
     "first_seen": "2026-04-06T02:02:04.306037+00:00",
-    "updated_at": "2026-04-09T19:46:34-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Machine Learning Platform Engineer (Platform)",
     "company": "coinbase",
     "alerted": false
   },
   "7729252": {
     "first_seen": "2026-04-06T02:02:04.306084+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Manager, Adversary Management",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7755119": {
     "first_seen": "2026-04-06T02:02:04.306189+00:00",
-    "updated_at": "2026-03-29T22:27:08-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Manager, Internal Audit IT",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7708267": {
     "first_seen": "2026-04-06T02:02:04.306237+00:00",
-    "updated_at": "2026-03-29T22:27:04-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Manager, Strategic Operations",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7404427": {
     "first_seen": "2026-04-06T02:02:04.306335+00:00",
-    "updated_at": "2026-03-29T22:26:51-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Product Manager, Enterprise Applications - Finance Systems",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7600266": {
     "first_seen": "2026-04-06T02:02:04.306355+00:00",
@@ -1038,9 +1067,10 @@
   },
   "7679070": {
     "first_seen": "2026-04-06T02:02:04.306373+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Product Manager, Sign-up, Sign-in, and Recovery",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7624672": {
     "first_seen": "2026-04-06T02:02:04.306395+00:00",
@@ -1050,27 +1080,31 @@
   },
   "7736805": {
     "first_seen": "2026-04-06T02:02:04.306411+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Security Engineer, IAM",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7516971": {
     "first_seen": "2026-04-06T02:02:04.306428+00:00",
-    "updated_at": "2026-03-29T22:26:54-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Site Reliability Engineer, Identity Platform",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7663545": {
     "first_seen": "2026-04-06T02:02:04.306444+00:00",
-    "updated_at": "2026-03-29T22:27:02-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Site Reliability Engineer, IT Infrastructure",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7769825": {
     "first_seen": "2026-04-06T02:02:04.306461+00:00",
-    "updated_at": "2026-04-01T17:53:37-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7573222": {
     "first_seen": "2026-04-06T02:02:04.306477+00:00",
@@ -1080,51 +1114,59 @@
   },
   "7591861": {
     "first_seen": "2026-04-06T02:02:04.306500+00:00",
-    "updated_at": "2026-03-29T22:26:58-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend (Consumer - Advanced Trading)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7595047": {
     "first_seen": "2026-04-06T02:02:04.306516+00:00",
-    "updated_at": "2026-03-30T23:00:14-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend - Consumer Foundations",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7565751": {
     "first_seen": "2026-04-06T02:02:04.306532+00:00",
-    "updated_at": "2026-03-29T22:26:56-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend (Consumer - Growth & App Infra)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7709773": {
     "first_seen": "2026-04-06T02:02:04.306548+00:00",
-    "updated_at": "2026-04-09T09:33:37-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend (Consumer - International)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7739262": {
     "first_seen": "2026-04-06T02:02:04.306565+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend (Consumer - Retail Cash)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7565647": {
     "first_seen": "2026-04-06T02:02:04.306580+00:00",
-    "updated_at": "2026-03-29T22:26:56-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend (Institutional - Markets)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7733653": {
     "first_seen": "2026-04-06T02:02:04.306597+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7670920": {
     "first_seen": "2026-04-06T02:02:04.306614+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend (Platform - Financial Eng) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7255761": {
     "first_seen": "2026-04-06T02:02:04.306631+00:00",
@@ -1146,21 +1188,24 @@
   },
   "7728790": {
     "first_seen": "2026-04-06T02:02:04.306681+00:00",
-    "updated_at": "2026-03-29T22:27:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer - Data Platform",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7707786": {
     "first_seen": "2026-04-06T02:02:04.306698+00:00",
-    "updated_at": "2026-03-29T22:27:04-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Developer (Money Movement - Risk) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7746671": {
     "first_seen": "2026-04-06T02:02:04.306715+00:00",
-    "updated_at": "2026-03-29T22:27:08-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Developer (Payments) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7724762": {
     "first_seen": "2026-04-06T02:02:04.306730+00:00",
@@ -1182,21 +1227,24 @@
   },
   "7483221": {
     "first_seen": "2026-04-06T02:02:04.306789+00:00",
-    "updated_at": "2026-03-29T22:26:54-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer (EAA)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7569402": {
     "first_seen": "2026-04-06T02:02:04.306804+00:00",
-    "updated_at": "2026-04-09T04:18:32-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Echo",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7755105": {
     "first_seen": "2026-04-06T02:02:04.306830+00:00",
-    "updated_at": "2026-03-29T22:27:08-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Frontend (Advanced Trade)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7395606": {
     "first_seen": "2026-04-06T02:02:04.306855+00:00",
@@ -1206,9 +1254,10 @@
   },
   "7604153": {
     "first_seen": "2026-04-06T02:02:04.306880+00:00",
-    "updated_at": "2026-04-01T11:35:09-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Fullstack (AI Advisor) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7701837": {
     "first_seen": "2026-04-06T02:02:04.306906+00:00",
@@ -1218,13 +1267,14 @@
   },
   "7576764": {
     "first_seen": "2026-04-06T02:02:04.306934+00:00",
-    "updated_at": "2026-03-29T22:26:57-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Infrastructure - Platform Compute",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7660227": {
     "first_seen": "2026-04-06T02:02:04.306961+00:00",
-    "updated_at": "2026-04-09T19:41:30-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer (Platform- Identity)",
     "company": "coinbase",
     "alerted": false
@@ -1243,9 +1293,10 @@
   },
   "7702401": {
     "first_seen": "2026-04-06T02:02:04.307020+00:00",
-    "updated_at": "2026-03-29T22:27:04-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Solutions Architect",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7173156": {
     "first_seen": "2026-04-06T02:02:04.307043+00:00",
@@ -1261,27 +1312,31 @@
   },
   "7595294": {
     "first_seen": "2026-04-06T02:02:04.307089+00:00",
-    "updated_at": "2026-03-29T22:26:40-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Staff Software Engineer, Backend (Consumer - Financial Services and Loyalty)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7227603": {
     "first_seen": "2026-04-06T02:02:04.307112+00:00",
-    "updated_at": "2026-03-29T22:26:45-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7580292": {
     "first_seen": "2026-04-06T02:02:04.307136+00:00",
-    "updated_at": "2026-03-29T22:26:45-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Staff Software Engineer, Backend - Platform (Core Automation)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7573405": {
     "first_seen": "2026-04-06T02:02:04.307159+00:00",
-    "updated_at": "2026-03-31T11:18:23-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Staff Software Engineer, Backend - Risk Platform",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7580176": {
     "first_seen": "2026-04-06T02:02:04.307183+00:00",
@@ -1291,52 +1346,59 @@
   },
   "7711287": {
     "first_seen": "2026-04-06T02:02:04.307205+00:00",
-    "updated_at": "2026-04-09T12:03:54-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Staff Software Engineer, Data Platform",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7684298": {
     "first_seen": "2026-04-06T02:02:04.307229+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Staff Software Engineer, Solana Staking Protocol ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7559168": {
     "first_seen": "2026-04-06T02:02:04.307268+00:00",
-    "updated_at": "2026-03-29T22:26:56-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Site Reliability Engineer, IT Infrastructure",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7758474": {
     "first_seen": "2026-04-06T02:02:04.307277+00:00",
-    "updated_at": "2026-04-01T12:48:13-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Software Engineer, Backend (Developer - Stablecoin) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7673310": {
     "first_seen": "2026-04-06T02:02:04.307286+00:00",
-    "updated_at": "2026-03-29T22:27:03-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Software Engineer, Developer (Wallets and Onchain Tools) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7595352": {
     "first_seen": "2026-04-06T02:02:04.307296+00:00",
-    "updated_at": "2026-03-29T22:26:59-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Software Engineer, DevSec",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7584070": {
     "first_seen": "2026-04-06T02:02:04.307305+00:00",
-    "updated_at": "2026-04-09T17:37:16-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Software Engineer, Full Stack (EAA)",
     "company": "coinbase",
     "alerted": false
   },
   "6233713": {
     "first_seen": "2026-04-06T02:02:04.307314+00:00",
-    "updated_at": "2026-03-29T22:26:35-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Software Engineer - Full Stack (EAA - Compliance)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7576813": {
     "first_seen": "2026-04-06T02:02:04.307323+00:00",
@@ -1346,9 +1408,10 @@
   },
   "7652048": {
     "first_seen": "2026-04-06T02:02:04.307333+00:00",
-    "updated_at": "2026-03-29T22:27:02-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Software Engineer - Salesforce Platform (EAA)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7676109": {
     "first_seen": "2026-04-06T02:02:04.307352+00:00",
@@ -1364,9 +1427,10 @@
   },
   "7648987": {
     "first_seen": "2026-04-06T02:02:04.307441+00:00",
-    "updated_at": "2026-04-03T03:03:41-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Machine Learning Engineer - Platform (Core AI Automation)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7624857": {
     "first_seen": "2026-04-06T02:02:04.307462+00:00",
@@ -1376,70 +1440,80 @@
   },
   "7763274": {
     "first_seen": "2026-04-06T02:02:04.307478+00:00",
-    "updated_at": "2026-04-06T13:03:18-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Security Engineer, IAM",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7592075": {
     "first_seen": "2026-04-06T02:02:04.307503+00:00",
-    "updated_at": "2026-03-29T22:26:58-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Security Engineer, InfraSec",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7606771": {
     "first_seen": "2026-04-06T02:02:04.307518+00:00",
-    "updated_at": "2026-03-29T22:27:00-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7769929": {
     "first_seen": "2026-04-06T02:02:04.307534+00:00",
-    "updated_at": "2026-04-08T13:55:47-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Backend - Platform (Overseer)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7778684": {
     "first_seen": "2026-04-06T02:02:04.307549+00:00",
-    "updated_at": "2026-04-03T14:22:04-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Backend (Consumer - Advanced Trading)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7015907": {
     "first_seen": "2026-04-06T02:02:04.307565+00:00",
-    "updated_at": "2026-03-29T22:26:42-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Backend (Consumer - Growth & App Infra)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7589139": {
     "first_seen": "2026-04-06T02:02:04.307580+00:00",
-    "updated_at": "2026-04-09T17:41:01-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Backend (Consumer - International)",
     "company": "coinbase",
     "alerted": false
   },
   "7659458": {
     "first_seen": "2026-04-06T02:02:04.307594+00:00",
-    "updated_at": "2026-03-29T22:27:02-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Backend (Consumer- Retail Cash)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7744147": {
     "first_seen": "2026-04-06T02:02:04.307610+00:00",
-    "updated_at": "2026-03-31T18:03:27-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Backend - Platform (FinHub Tooling)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7629141": {
     "first_seen": "2026-04-06T02:02:04.307631+00:00",
-    "updated_at": "2026-03-29T22:27:00-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Frontend (Consumer - Advanced Trading)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7300575": {
     "first_seen": "2026-04-06T02:02:04.307647+00:00",
-    "updated_at": "2026-03-29T22:26:46-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Frontend (Consumer -CB1,Growth)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7701990": {
     "first_seen": "2026-04-06T02:02:04.307663+00:00",
@@ -1449,9 +1523,10 @@
   },
   "7685208": {
     "first_seen": "2026-04-06T02:02:04.307680+00:00",
-    "updated_at": "2026-03-30T12:03:23-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer (Platform - Financial Engineering)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7739523": {
     "first_seen": "2026-04-06T02:02:04.307696+00:00",
@@ -1461,41 +1536,45 @@
   },
   "7712294": {
     "first_seen": "2026-04-06T02:02:04.307897+00:00",
-    "updated_at": "2026-03-29T22:27:04-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Technical Program Manager",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7484240": {
     "first_seen": "2026-04-06T02:02:04.307907+00:00",
-    "updated_at": "2026-04-09T15:48:30-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Technical Program Manager, Compliance ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7595357": {
     "first_seen": "2026-04-06T02:02:04.307917+00:00",
-    "updated_at": "2026-03-30T16:03:14-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Technical Program Manager II",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7140861": {
     "first_seen": "2026-04-06T02:02:04.308035+00:00",
-    "updated_at": "2026-04-09T04:29:45-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Transaction Monitoring Compliance QA Analyst IV",
     "company": "coinbase",
     "alerted": false
   },
   "7516383": {
     "first_seen": "2026-04-06T02:02:04.308073+00:00",
-    "updated_at": "2026-04-08T23:56:05-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Transaction Monitoring Lead Analyst",
     "company": "coinbase",
     "alerted": false
   },
   "7669394": {
     "first_seen": "2026-04-06T02:02:04.308122+00:00",
-    "updated_at": "2026-04-03T13:17:48-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "VP, Tech Risk and Controls (2LoD)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7666190003": {
     "first_seen": "2026-04-06T02:02:04.813139+00:00",
@@ -20289,9 +20368,10 @@
   },
   "7586690": {
     "first_seen": "2026-04-06T14:51:16.019190+00:00",
-    "updated_at": "2026-04-09T12:45:09-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Product Designer - Financial Tools and Infrastructure",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "5842463004": {
     "first_seen": "2026-04-06T15:40:23.225805+00:00",
@@ -20412,9 +20492,10 @@
   },
   "7411772": {
     "first_seen": "2026-04-06T17:26:14.568279+00:00",
-    "updated_at": "2026-04-06T13:00:47-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Offensive Security Engineer (IOT / Network Pentesting)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7454232": {
     "first_seen": "2026-04-06T17:26:19.282558+00:00",
@@ -20661,9 +20742,10 @@
   },
   "7736521": {
     "first_seen": "2026-04-06T22:56:03.828224+00:00",
-    "updated_at": "2026-04-06T20:20:54-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "8480551002": {
     "first_seen": "2026-04-06T23:30:27.456849+00:00",
@@ -21182,7 +21264,7 @@
   },
   "7789395": {
     "first_seen": "2026-04-08T04:08:26.239615+00:00",
-    "updated_at": "2026-04-09T20:24:17-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
     "company": "coinbase",
     "alerted": false
@@ -21201,9 +21283,10 @@
   },
   "7790065": {
     "first_seen": "2026-04-08T07:15:35.043841+00:00",
-    "updated_at": "2026-04-08T03:01:43-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager - Platform (FinHub)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7669366003": {
     "first_seen": "2026-04-08T14:17:12.346956+00:00",
@@ -21318,9 +21401,10 @@
   },
   "7789404": {
     "first_seen": "2026-04-08T15:55:27.464982+00:00",
-    "updated_at": "2026-04-08T12:48:40-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Group Product Manager - Financial Engineering ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7781652": {
     "first_seen": "2026-04-08T16:55:12.406740+00:00",
@@ -21342,9 +21426,10 @@
   },
   "7697499": {
     "first_seen": "2026-04-08T16:55:47.840349+00:00",
-    "updated_at": "2026-04-08T12:20:37-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer (Platform - AI Acceleration) ",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7580153003": {
     "first_seen": "2026-04-08T16:55:51.019247+00:00",
@@ -21390,9 +21475,10 @@
   },
   "7789399": {
     "first_seen": "2026-04-08T18:03:29.918479+00:00",
-    "updated_at": "2026-04-08T13:55:20-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend - Platform (Overseer)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "5174757008": {
     "first_seen": "2026-04-08T19:39:23.455857+00:00",
@@ -21725,9 +21811,10 @@
   },
   "7694258003": {
     "first_seen": "2026-04-09T17:36:00.060470+00:00",
-    "updated_at": "2026-04-09T14:08:44-04:00",
+    "updated_at": "2026-04-09T23:31:24-04:00",
     "title": "Software Engineer II - Abnormal Data Platform",
-    "company": "abnormalsecurity"
+    "company": "abnormalsecurity",
+    "alerted": false
   },
   "8500214002": {
     "first_seen": "2026-04-09T17:36:03.900241+00:00",
@@ -21767,21 +21854,24 @@
   },
   "7773213": {
     "first_seen": "2026-04-09T17:36:27.505055+00:00",
-    "updated_at": "2026-04-09T15:34:29-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager - Tax Engineering",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7554499": {
     "first_seen": "2026-04-09T17:36:27.506243+00:00",
-    "updated_at": "2026-04-09T12:58:41-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Software Engineer, Backend - Platform (Payment Rails)",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7773216": {
     "first_seen": "2026-04-09T17:36:27.506370+00:00",
-    "updated_at": "2026-04-09T15:34:34-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Staff Software Engineer - Tax Engineering",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "8500571002": {
     "first_seen": "2026-04-09T17:36:27.815022+00:00",
@@ -21827,9 +21917,10 @@
   },
   "7773210": {
     "first_seen": "2026-04-09T19:49:41.303975+00:00",
-    "updated_at": "2026-04-09T15:40:57-04:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager - Simple Trade",
-    "company": "coinbase"
+    "company": "coinbase",
+    "alerted": false
   },
   "7793600": {
     "first_seen": "2026-04-09T19:49:44.726140+00:00",
