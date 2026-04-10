@@ -2,6 +2,123 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-10 19:11 UTC
+
+### 🆕 Software Engineer 3
+**mongodb** · PTO Durable TXs & Availability · 🎯 72%
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779598)
+🕐 Updated: `2026-04-10T14:00:57-04:00` &nbsp;|&nbsp; ID: `7779598`
+
+---
+### 🆕 Software Engineer - Core Reporting
+**klaviyo** · Engineering · 🎯 72%
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7668047003)
+🕐 Updated: `2026-04-10T14:56:32-04:00` &nbsp;|&nbsp; ID: `7668047003`
+
+---
+### 🆕 Technical Architect, Go-to-Market
+**dropbox** · GTM Technology Operations (Sub Team) · 🎯 42%
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7775447?gh_jid=7775447)
+🕐 Updated: `2026-04-10T14:08:44-04:00` &nbsp;|&nbsp; ID: `7775447`
+
+---
+### 🆕 Technical Architect, Go-to-Market
+**dropbox** · GTM Technology Operations (Sub Team) · 🎯 42%
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7775446?gh_jid=7775446)
+🕐 Updated: `2026-04-10T14:08:43-04:00` &nbsp;|&nbsp; ID: `7775446`
+
+---
+### 🆕 Head of AI-Native Talent Systems
+**gusto** · People · 🎯 72%
+📍 Denver, CO;San Francisco, CA;New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7553088)
+🕐 Updated: `2026-04-10T14:13:28-04:00` &nbsp;|&nbsp; ID: `7553088`
+
+---
+### 🆕 Principal Technical Program Manager
+**upstart** · Engineering · 🎯 28%
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7773248)
+🕐 Updated: `2026-04-10T14:51:16-04:00` &nbsp;|&nbsp; ID: `7773248`
+
+---
+### 🆕 Senior Software Engineer, AI Infrastructure
+**robinhood** · ENG Data and AI Platform Division · 🎯 72%
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7782697?t=gh_src=&gh_jid=7782697)
+🕐 Updated: `2026-04-10T14:32:47-04:00` &nbsp;|&nbsp; ID: `7782697`
+
+---
+### 🔄 Partner Solutions Architect
+**gleanwork** · Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4663045005)
+🕐 Updated: `2026-04-10T14:10:01-04:00` &nbsp;|&nbsp; ID: `4663045005`
+
+---
+### 🔄 Business Development Representative - Nordics
+**gitlab** · Sales Development
+📍 Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8472427002)
+🕐 Updated: `2026-04-10T14:51:37-04:00` &nbsp;|&nbsp; ID: `8472427002`
+
+---
+### 🔄 Infrastructure Software Engineer
+**dropbox** · EPD
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/6330390?gh_jid=6330390)
+🕐 Updated: `2026-04-10T14:01:52-04:00` &nbsp;|&nbsp; ID: `6330390`
+
+---
+### 🔄 Infrastructure Software Engineer
+**dropbox** · EPD
+📍 Remote - Canada: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/6330388?gh_jid=6330388)
+🕐 Updated: `2026-04-10T14:01:26-04:00` &nbsp;|&nbsp; ID: `6330388`
+
+---
+### 🔄 Enterprise Account Manager, Adyen for Platforms 
+**adyen** · Account Management
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6762044)
+🕐 Updated: `2026-04-10T14:14:03-04:00` &nbsp;|&nbsp; ID: `6762044`
+
+---
+### 🔄 Senior Enterprise Account Manager, Adyen for Platforms 
+**adyen** · Account Management
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6762012)
+🕐 Updated: `2026-04-10T14:13:20-04:00` &nbsp;|&nbsp; ID: `6762012`
+
+---
+### 🔄 Enterprise Account Executive II, Embedded Finance
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7844195002?gh_jid=7844195002)
+🕐 Updated: `2026-04-10T14:23:48-04:00` &nbsp;|&nbsp; ID: `7844195002`
+
+---
+### 🔄 Enterprise Account Executive II, Embedded Finance
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8134354002?gh_jid=8134354002)
+🕐 Updated: `2026-04-10T14:24:00-04:00` &nbsp;|&nbsp; ID: `8134354002`
+
+---
+### 🔄 Engineering Manager, International
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539771?t=gh_src=&gh_jid=7539771)
+🕐 Updated: `2026-04-10T14:07:30-04:00` &nbsp;|&nbsp; ID: `7539771`
+
+---
+### 🔄 Short Term Planning Analyst
+**robinhood** · Customer Care
+📍 Chicago, IL; Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7728367?t=gh_src=&gh_jid=7728367)
+🕐 Updated: `2026-04-10T14:48:07-04:00` &nbsp;|&nbsp; ID: `7728367`
+
+---
+### 🔄 Senior Product Manager, Fraud & Trust
+**instacart** · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769926)
+🕐 Updated: `2026-04-10T14:57:36-04:00` &nbsp;|&nbsp; ID: `7769926`
+
+---
+### 🔄 Senior Product Manager, Fraud & Trust
+**instacart** · Product Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769924)
+🕐 Updated: `2026-04-10T14:57:36-04:00` &nbsp;|&nbsp; ID: `7769924`
+
+---
+
 ## 📅 Run: 2026-04-10 18:01 UTC
 
 ### 🆕 Finance Systems, Head of AI & Innovation

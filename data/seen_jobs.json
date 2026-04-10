@@ -2578,9 +2578,10 @@
   },
   "7728367": {
     "first_seen": "2026-04-06T02:02:05.038980+00:00",
-    "updated_at": "2026-04-01T16:03:27-04:00",
+    "updated_at": "2026-04-10T14:48:07-04:00",
     "title": "Short Term Planning Analyst",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7170008": {
     "first_seen": "2026-04-06T02:02:05.039082+00:00",
@@ -3053,15 +3054,15 @@
   },
   "7844195002": {
     "first_seen": "2026-04-06T02:02:08.593363+00:00",
-    "updated_at": "2026-04-07T16:17:17-04:00",
-    "title": "Enterprise Account Executive, Embedded Finance",
+    "updated_at": "2026-04-10T14:23:48-04:00",
+    "title": "Enterprise Account Executive II, Embedded Finance",
     "company": "brex",
     "alerted": false
   },
   "8134354002": {
     "first_seen": "2026-04-06T02:02:08.593417+00:00",
-    "updated_at": "2026-04-07T16:51:54-04:00",
-    "title": "Enterprise Account Executive, Embedded Finance",
+    "updated_at": "2026-04-10T14:24:00-04:00",
+    "title": "Enterprise Account Executive II, Embedded Finance",
     "company": "brex",
     "alerted": false
   },
@@ -3831,7 +3832,7 @@
   },
   "6762044": {
     "first_seen": "2026-04-06T02:02:09.745780+00:00",
-    "updated_at": "2026-04-10T04:48:53-04:00",
+    "updated_at": "2026-04-10T14:14:03-04:00",
     "title": "Enterprise Account Manager, Adyen for Platforms ",
     "company": "adyen",
     "alerted": false
@@ -3962,7 +3963,7 @@
   },
   "6762012": {
     "first_seen": "2026-04-06T02:02:09.748610+00:00",
-    "updated_at": "2026-04-10T04:47:38-04:00",
+    "updated_at": "2026-04-10T14:13:20-04:00",
     "title": "Senior Enterprise Account Manager, Adyen for Platforms ",
     "company": "adyen",
     "alerted": false
@@ -9762,9 +9763,10 @@
   },
   "8472427002": {
     "first_seen": "2026-04-06T02:02:26.674474+00:00",
-    "updated_at": "2026-04-08T11:23:04-04:00",
-    "title": "Business Development Representative, Swedish Speaking",
-    "company": "gitlab"
+    "updated_at": "2026-04-10T14:51:37-04:00",
+    "title": "Business Development Representative - Nordics",
+    "company": "gitlab",
+    "alerted": false
   },
   "8471192002": {
     "first_seen": "2026-04-06T02:02:26.675482+00:00",
@@ -12204,9 +12206,10 @@
   },
   "4663045005": {
     "first_seen": "2026-04-06T08:10:00.794209+00:00",
-    "updated_at": "2026-04-08T17:21:42-04:00",
-    "title": "Partner Solutions Architect (Innovation Lab)",
-    "company": "gleanwork"
+    "updated_at": "2026-04-10T14:10:01-04:00",
+    "title": "Partner Solutions Architect",
+    "company": "gleanwork",
+    "alerted": false
   },
   "4007711005": {
     "first_seen": "2026-04-06T08:10:00.794377+00:00",
@@ -18394,15 +18397,17 @@
   },
   "7769926": {
     "first_seen": "2026-04-06T08:10:42.106277+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-10T14:57:36-04:00",
     "title": "Senior Product Manager, Fraud & Trust",
-    "company": "instacart"
+    "company": "instacart",
+    "alerted": false
   },
   "7769924": {
     "first_seen": "2026-04-06T08:10:42.106295+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-10T14:57:36-04:00",
     "title": "Senior Product Manager, Fraud & Trust",
-    "company": "instacart"
+    "company": "instacart",
+    "alerted": false
   },
   "6957204": {
     "first_seen": "2026-04-06T08:10:42.106347+00:00",
@@ -20830,14 +20835,14 @@
   },
   "6330388": {
     "first_seen": "2026-04-06T20:55:23.740666+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
+    "updated_at": "2026-04-10T14:01:26-04:00",
     "title": "Infrastructure Software Engineer",
     "company": "dropbox",
     "alerted": false
   },
   "6330390": {
     "first_seen": "2026-04-06T20:55:23.740701+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
+    "updated_at": "2026-04-10T14:01:52-04:00",
     "title": "Infrastructure Software Engineer",
     "company": "dropbox",
     "alerted": false
@@ -20850,9 +20855,10 @@
   },
   "7539771": {
     "first_seen": "2026-04-06T20:55:42.285273+00:00",
-    "updated_at": "2026-04-07T20:15:18-04:00",
+    "updated_at": "2026-04-10T14:07:30-04:00",
     "title": "Engineering Manager, International",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "8219793002": {
     "first_seen": "2026-04-06T20:55:44.832338+00:00",
@@ -22654,6 +22660,55 @@
     "updated_at": "2026-04-10T13:45:09-04:00",
     "title": " Senior Machine Learning Engineer, Payments",
     "company": "airbnb",
+    "alerted": true
+  },
+  "7779598": {
+    "first_seen": "2026-04-10T19:10:57.854125+00:00",
+    "updated_at": "2026-04-10T14:00:57-04:00",
+    "title": "Software Engineer 3",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7668047003": {
+    "first_seen": "2026-04-10T19:10:59.698028+00:00",
+    "updated_at": "2026-04-10T14:56:32-04:00",
+    "title": "Software Engineer - Core Reporting",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7775447": {
+    "first_seen": "2026-04-10T19:11:04.750554+00:00",
+    "updated_at": "2026-04-10T14:08:44-04:00",
+    "title": "Technical Architect, Go-to-Market",
+    "company": "dropbox",
+    "alerted": true
+  },
+  "7775446": {
+    "first_seen": "2026-04-10T19:11:04.750582+00:00",
+    "updated_at": "2026-04-10T14:08:43-04:00",
+    "title": "Technical Architect, Go-to-Market",
+    "company": "dropbox",
+    "alerted": true
+  },
+  "7553088": {
+    "first_seen": "2026-04-10T19:11:09.056922+00:00",
+    "updated_at": "2026-04-10T14:13:28-04:00",
+    "title": "Head of AI-Native Talent Systems",
+    "company": "gusto",
+    "alerted": true
+  },
+  "7773248": {
+    "first_seen": "2026-04-10T19:11:10.398907+00:00",
+    "updated_at": "2026-04-10T14:51:16-04:00",
+    "title": "Principal Technical Program Manager",
+    "company": "upstart",
+    "alerted": true
+  },
+  "7782697": {
+    "first_seen": "2026-04-10T19:11:29.546917+00:00",
+    "updated_at": "2026-04-10T14:32:47-04:00",
+    "title": "Senior Software Engineer, AI Infrastructure",
+    "company": "robinhood",
     "alerted": true
   }
 }
