@@ -2,6 +2,555 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 19:55 UTC
+
+### 🔄 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499378002?gh_jid=8499378002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8499378002`
+
+---
+### 🔄 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499380002?gh_jid=8499380002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8499380002`
+
+---
+### 🔄 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499382002?gh_jid=8499382002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8499382002`
+
+---
+### 🔄 Data Analyst II
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463696002?gh_jid=8463696002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8463696002`
+
+---
+### 🔄 Data Analyst II
+**brex** · Finance
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463702002?gh_jid=8463702002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8463702002`
+
+---
+### 🔄 Data Analyst III
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463699002?gh_jid=8463699002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8463699002`
+
+---
+### 🔄 Data Analyst III
+**brex** · Finance
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8463704002?gh_jid=8463704002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8463704002`
+
+---
+### 🔄 Data Engineer
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8366850002?gh_jid=8366850002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8366850002`
+
+---
+### 🔄 Engineering Manager, AI — Brex Assistant
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8393583002?gh_jid=8393583002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8393583002`
+
+---
+### 🔄 Engineering Manager, AI — Brex Assistant
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8395068002?gh_jid=8395068002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8395068002`
+
+---
+### 🔄 Engineering Manager, GTM Engineering 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8367549002?gh_jid=8367549002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8367549002`
+
+---
+### 🔄 Engineering Manager, GTM Engineering 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339037002?gh_jid=8339037002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8339037002`
+
+---
+### 🔄 Engineering Manager, GTM Engineering 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8367552002?gh_jid=8367552002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8367552002`
+
+---
+### 🔄 Engineering Manager, Onboarding
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461600002?gh_jid=8461600002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8461600002`
+
+---
+### 🔄 Engineering Manager, Onboarding
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461599002?gh_jid=8461599002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8461599002`
+
+---
+### 🔄 Engineering Manager, Onboarding
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461598002?gh_jid=8461598002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8461598002`
+
+---
+### 🔄 Engineering Manager, Salesforce
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8367554002?gh_jid=8367554002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8367554002`
+
+---
+### 🔄 Engineering Manager, Salesforce
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339005002?gh_jid=8339005002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8339005002`
+
+---
+### 🔄 Engineering Program Manager, AI
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8443296002?gh_jid=8443296002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8443296002`
+
+---
+### 🔄 Engineering Program Manager, AI
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8443298002?gh_jid=8443298002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8443298002`
+
+---
+### 🔄 Enterprise Account Executive II, Embedded Finance
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7844195002?gh_jid=7844195002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `7844195002`
+
+---
+### 🔄 Enterprise Account Executive II, Embedded Finance
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8134354002?gh_jid=8134354002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8134354002`
+
+---
+### 🔄 Frontend Engineer II
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8478372002?gh_jid=8478372002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8478372002`
+
+---
+### 🔄 Frontend Engineer II
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8478385002?gh_jid=8478385002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8478385002`
+
+---
+### 🔄 Group Product Manager
+**brex** · Product
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8438582002?gh_jid=8438582002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8438582002`
+
+---
+### 🔄 Group Product Manager
+**brex** · Product
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8438580002?gh_jid=8438580002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8438580002`
+
+---
+### 🔄 Group Product Manager
+**brex** · Product
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8438581002?gh_jid=8438581002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8438581002`
+
+---
+### 🔄 Manager, Sales Development
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8475632002?gh_jid=8475632002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8475632002`
+
+---
+### 🔄 Manager, Sales Development
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8477508002?gh_jid=8477508002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8477508002`
+
+---
+### 🔄 Manager, Sales Development
+**brex** · Sales
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8477485002?gh_jid=8477485002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8477485002`
+
+---
+### 🔄 Manager, Sales Development
+**brex** · Sales
+📍 Salt Lake City, Utah, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8477492002?gh_jid=8477492002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8477492002`
+
+---
+### 🔄 Outbound Sales Development Representative
+**brex** · Sales
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8159838002?gh_jid=8159838002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8159838002`
+
+---
+### 🔄 Outbound Sales Development Representative
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8007648002?gh_jid=8007648002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8007648002`
+
+---
+### 🔄 Outbound Sales Development Representative
+**brex** · Sales
+📍 Salt Lake City, Utah, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8007563002?gh_jid=8007563002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8007563002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249884002?gh_jid=8249884002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8249884002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249658002?gh_jid=8249658002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8249658002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8426273002?gh_jid=8426273002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8426273002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249885002?gh_jid=8249885002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8249885002`
+
+---
+### 🔄 Senior Data Scientist, Finance 
+**brex** · Finance
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7892186002?gh_jid=7892186002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `7892186002`
+
+---
+### 🔄 Senior Engineering Manager, Acquisition
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8299931002?gh_jid=8299931002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8299931002`
+
+---
+### 🔄 Senior Engineering Manager, Acquisition
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8299907002?gh_jid=8299907002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8299907002`
+
+---
+### 🔄 Senior Engineering Manager, Acquisition
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8299930002?gh_jid=8299930002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8299930002`
+
+---
+### 🔄 Senior Engineering Manager, Activation
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8330495002?gh_jid=8330495002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8330495002`
+
+---
+### 🔄 Senior Engineering Manager, Activation
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8330487002?gh_jid=8330487002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8330487002`
+
+---
+### 🔄 Senior Engineering Manager, Activation
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8330492002?gh_jid=8330492002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8330492002`
+
+---
+### 🔄 Senior GRC Lead
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8378840002?gh_jid=8378840002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8378840002`
+
+---
+### 🔄 Senior GRC Lead
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8378792002?gh_jid=8378792002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8378792002`
+
+---
+### 🔄 Senior Manager, Business Development (Embedded Finance)
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8390148002?gh_jid=8390148002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8390148002`
+
+---
+### 🔄 Senior Manager, Business Development (Embedded Finance)
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7962890002?gh_jid=7962890002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `7962890002`
+
+---
+### 🔄 Senior Manager, Sales Development
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8487903002?gh_jid=8487903002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8487903002`
+
+---
+### 🔄 Senior Manager, Sales Development
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8487905002?gh_jid=8487905002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8487905002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485386002?gh_jid=8485386002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8485386002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485385002?gh_jid=8485385002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8485385002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 Salt Lake City, Utah, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485388002?gh_jid=8485388002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8485388002`
+
+---
+### 🔄 Senior Revenue Operations Analyst
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8485352002?gh_jid=8485352002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8485352002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339277002?gh_jid=8339277002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8339277002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339283002?gh_jid=8339283002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8339283002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339252002?gh_jid=8339252002)
+🕐 Updated: `2026-04-11T15:46:01-04:00` &nbsp;|&nbsp; ID: `8339252002`
+
+---
+### 🔄 Senior Software Engineer, AI - Brex Assistant
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8402322002?gh_jid=8402322002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8402322002`
+
+---
+### 🔄 Senior Software Engineer, AI - Brex Assistant
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8402318002?gh_jid=8402318002)
+🕐 Updated: `2026-04-11T15:46:02-04:00` &nbsp;|&nbsp; ID: `8402318002`
+
+---
+### 🔄 Senior Software Engineer, AI — Ecosystem
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8440272002?gh_jid=8440272002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8440272002`
+
+---
+### 🔄 Senior Software Engineer, AI — Ecosystem
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8440275002?gh_jid=8440275002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8440275002`
+
+---
+### 🔄 Senior Software Engineer, AI - Simulation
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8442494002?gh_jid=8442494002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8442494002`
+
+---
+### 🔄 Senior Software Engineer, AI - Simulation
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8442498002?gh_jid=8442498002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8442498002`
+
+---
+### 🔄 Senior Software Engineer, Frontend
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501052002?gh_jid=8501052002)
+🕐 Updated: `2026-04-11T15:47:25-04:00` &nbsp;|&nbsp; ID: `8501052002`
+
+---
+### 🔄 Senior Software Engineer, Frontend
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501025002?gh_jid=8501025002)
+🕐 Updated: `2026-04-11T15:47:01-04:00` &nbsp;|&nbsp; ID: `8501025002`
+
+---
+### 🔄 Senior Software Engineer, Frontend
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501051002?gh_jid=8501051002)
+🕐 Updated: `2026-04-11T15:47:13-04:00` &nbsp;|&nbsp; ID: `8501051002`
+
+---
+### 🔄 Senior Software Engineer, Full Stack
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8472634002?gh_jid=8472634002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8472634002`
+
+---
+### 🔄 Senior Software Engineer, Full Stack
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8472635002?gh_jid=8472635002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8472635002`
+
+---
+### 🔄 Senior Software Engineer, Full Stack
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8472633002?gh_jid=8472633002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8472633002`
+
+---
+### 🔄 Senior Software Engineer, Product 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461333002?gh_jid=8461333002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8461333002`
+
+---
+### 🔄 Senior Software Engineer, Product 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8461469002?gh_jid=8461469002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8461469002`
+
+---
+### 🔄 Senior Software Engineer, Product 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8465003002?gh_jid=8465003002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8465003002`
+
+---
+### 🔄 Senior Software Engineer, Product Data Platform
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8430197002?gh_jid=8430197002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8430197002`
+
+---
+### 🔄 Senior Software Engineer, Product Data Platform
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8430182002?gh_jid=8430182002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8430182002`
+
+---
+### 🔄 Senior Technical Recruiter
+**brex** · People
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8432615002?gh_jid=8432615002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8432615002`
+
+---
+### 🔄 Senior Technical Recruiter
+**brex** · People
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8432614002?gh_jid=8432614002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8432614002`
+
+---
+### 🔄 Senior Technical Recruiter
+**brex** · People
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8428989002?gh_jid=8428989002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8428989002`
+
+---
+### 🔄 Senior Technical Sourcer
+**brex** · People
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8434451002?gh_jid=8434451002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8434451002`
+
+---
+### 🔄 Senior Technical Sourcer
+**brex** · People
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8434446002?gh_jid=8434446002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8434446002`
+
+---
+### 🔄 Senior Technical Sourcer
+**brex** · People
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8434450002?gh_jid=8434450002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8434450002`
+
+---
+### 🔄 Software Engineer II, Product 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8318332002?gh_jid=8318332002)
+🕐 Updated: `2026-04-11T15:45:58-04:00` &nbsp;|&nbsp; ID: `8318332002`
+
+---
+### 🔄 Software Engineer II, Product 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8318331002?gh_jid=8318331002)
+🕐 Updated: `2026-04-11T15:45:58-04:00` &nbsp;|&nbsp; ID: `8318331002`
+
+---
+### 🔄 Software Engineer II, Product 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8318333002?gh_jid=8318333002)
+🕐 Updated: `2026-04-11T15:45:58-04:00` &nbsp;|&nbsp; ID: `8318333002`
+
+---
+### 🔄 Software Engineer, Intern
+**brex** · Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8434389002?gh_jid=8434389002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8434389002`
+
+---
+### 🔄 Staff Product Manager
+**brex** · Product
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8432698002?gh_jid=8432698002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8432698002`
+
+---
+### 🔄 Staff Product Manager
+**brex** · Product
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8432703002?gh_jid=8432703002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8432703002`
+
+---
+### 🔄 Staff Product Manager
+**brex** · Product
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8432702002?gh_jid=8432702002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8432702002`
+
+---
+### 🔄 Staff Product Manager, Growth
+**brex** · Product
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8436528002?gh_jid=8436528002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8436528002`
+
+---
+### 🔄 Staff Product Manager, Growth
+**brex** · Product
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8436530002?gh_jid=8436530002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8436530002`
+
+---
+### 🔄 Staff Product Manager, Growth
+**brex** · Product
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8436527002?gh_jid=8436527002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8436527002`
+
+---
+
 ## 📅 Run: 2026-04-11 18:35 UTC
 
 ### 🔄 Staff Product Manager, Scheduling 

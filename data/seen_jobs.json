@@ -2950,264 +2950,297 @@
   },
   "8463702002": {
     "first_seen": "2026-04-06T02:02:08.591841+00:00",
-    "updated_at": "2026-04-08T18:02:23-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Data Analyst II",
     "company": "brex",
     "alerted": false
   },
   "8463696002": {
     "first_seen": "2026-04-06T02:02:08.591865+00:00",
-    "updated_at": "2026-04-08T18:02:14-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Data Analyst II",
     "company": "brex",
     "alerted": false
   },
   "8463699002": {
     "first_seen": "2026-04-06T02:02:08.591919+00:00",
-    "updated_at": "2026-04-08T18:03:09-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Data Analyst III",
     "company": "brex",
     "alerted": false
   },
   "8463704002": {
     "first_seen": "2026-04-06T02:02:08.591938+00:00",
-    "updated_at": "2026-04-08T18:03:20-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Data Analyst III",
     "company": "brex",
     "alerted": false
   },
   "8366850002": {
     "first_seen": "2026-04-06T02:02:08.591960+00:00",
-    "updated_at": "2026-04-08T18:03:38-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Data Engineer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8393583002": {
     "first_seen": "2026-04-06T02:02:08.592881+00:00",
-    "updated_at": "2026-04-08T18:11:57-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Engineering Manager, AI \u2014 Brex Assistant",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8395068002": {
     "first_seen": "2026-04-06T02:02:08.592902+00:00",
-    "updated_at": "2026-04-08T18:12:13-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Engineering Manager, AI \u2014 Brex Assistant",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8367552002": {
     "first_seen": "2026-04-06T02:02:08.592922+00:00",
-    "updated_at": "2026-04-08T18:04:28-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Engineering Manager, GTM Engineering ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8339037002": {
     "first_seen": "2026-04-06T02:02:08.592980+00:00",
-    "updated_at": "2026-04-08T18:04:06-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Engineering Manager, GTM Engineering ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8367549002": {
     "first_seen": "2026-04-06T02:02:08.592998+00:00",
-    "updated_at": "2026-04-08T18:04:16-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Engineering Manager, GTM Engineering ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8461600002": {
     "first_seen": "2026-04-06T02:02:08.593057+00:00",
-    "updated_at": "2026-04-08T18:06:49-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Engineering Manager, Onboarding",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8461599002": {
     "first_seen": "2026-04-06T02:02:08.593075+00:00",
-    "updated_at": "2026-04-08T18:06:28-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Engineering Manager, Onboarding",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8461598002": {
     "first_seen": "2026-04-06T02:02:08.593094+00:00",
-    "updated_at": "2026-04-08T18:06:18-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Engineering Manager, Onboarding",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8367554002": {
     "first_seen": "2026-04-06T02:02:08.593112+00:00",
-    "updated_at": "2026-04-08T18:05:03-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Engineering Manager, Salesforce",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8339005002": {
     "first_seen": "2026-04-06T02:02:08.593133+00:00",
-    "updated_at": "2026-04-08T18:04:53-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Engineering Manager, Salesforce",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8443296002": {
     "first_seen": "2026-04-06T02:02:08.593155+00:00",
-    "updated_at": "2026-04-08T18:16:58-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Engineering Program Manager, AI",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8443298002": {
     "first_seen": "2026-04-06T02:02:08.593173+00:00",
-    "updated_at": "2026-04-08T18:17:12-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Engineering Program Manager, AI",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "7844195002": {
     "first_seen": "2026-04-06T02:02:08.593363+00:00",
-    "updated_at": "2026-04-10T14:23:48-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Enterprise Account Executive II, Embedded Finance",
     "company": "brex",
     "alerted": false
   },
   "8134354002": {
     "first_seen": "2026-04-06T02:02:08.593417+00:00",
-    "updated_at": "2026-04-10T14:24:00-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Enterprise Account Executive II, Embedded Finance",
     "company": "brex",
     "alerted": false
   },
   "8478372002": {
     "first_seen": "2026-04-06T02:02:08.594266+00:00",
-    "updated_at": "2026-04-09T17:25:11-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Frontend Engineer II",
     "company": "brex",
     "alerted": false
   },
   "8478385002": {
     "first_seen": "2026-04-06T02:02:08.594289+00:00",
-    "updated_at": "2026-04-09T17:25:20-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Frontend Engineer II",
     "company": "brex",
     "alerted": false
   },
   "8438581002": {
     "first_seen": "2026-04-06T02:02:08.594314+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Group Product Manager",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8438580002": {
     "first_seen": "2026-04-06T02:02:08.594381+00:00",
-    "updated_at": "2026-04-07T16:17:23-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Group Product Manager",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8438582002": {
     "first_seen": "2026-04-06T02:02:08.594407+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Group Product Manager",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8477485002": {
     "first_seen": "2026-04-06T02:02:08.594664+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Manager, Sales Development",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8477508002": {
     "first_seen": "2026-04-06T02:02:08.594737+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Manager, Sales Development",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8477492002": {
     "first_seen": "2026-04-06T02:02:08.594787+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Manager, Sales Development",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8475632002": {
     "first_seen": "2026-04-06T02:02:08.594825+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Manager, Sales Development",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8007648002": {
     "first_seen": "2026-04-06T02:02:08.595450+00:00",
-    "updated_at": "2026-04-07T16:17:18-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Outbound Sales Development Representative",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8159838002": {
     "first_seen": "2026-04-06T02:02:08.595528+00:00",
-    "updated_at": "2026-04-07T16:17:18-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Outbound Sales Development Representative",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8007563002": {
     "first_seen": "2026-04-06T02:02:08.595575+00:00",
-    "updated_at": "2026-04-07T16:17:18-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Outbound Sales Development Representative",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8249658002": {
     "first_seen": "2026-04-06T02:02:08.596789+00:00",
-    "updated_at": "2026-04-08T18:00:28-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Application Security Engineer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8426273002": {
     "first_seen": "2026-04-06T02:02:08.596817+00:00",
-    "updated_at": "2026-04-08T18:01:11-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Application Security Engineer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8249885002": {
     "first_seen": "2026-04-06T02:02:08.596855+00:00",
-    "updated_at": "2026-04-08T18:00:50-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Application Security Engineer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8249884002": {
     "first_seen": "2026-04-06T02:02:08.596895+00:00",
-    "updated_at": "2026-04-08T18:00:39-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Application Security Engineer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "7892186002": {
     "first_seen": "2026-04-06T02:02:08.596968+00:00",
-    "updated_at": "2026-04-10T18:37:01-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Senior Data Scientist, Finance ",
     "company": "brex",
     "alerted": false
   },
   "8299907002": {
     "first_seen": "2026-04-06T02:02:08.597346+00:00",
-    "updated_at": "2026-04-08T18:05:19-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Senior Engineering Manager, Acquisition",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8299930002": {
     "first_seen": "2026-04-06T02:02:08.597372+00:00",
-    "updated_at": "2026-04-08T18:05:30-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Senior Engineering Manager, Acquisition",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8299931002": {
     "first_seen": "2026-04-06T02:02:08.597435+00:00",
-    "updated_at": "2026-04-08T18:05:40-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Senior Engineering Manager, Acquisition",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8330495002": {
     "first_seen": "2026-04-06T02:02:08.597461+00:00",
-    "updated_at": "2026-04-08T18:07:32-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Engineering Manager, Activation",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8330487002": {
     "first_seen": "2026-04-06T02:02:08.597496+00:00",
-    "updated_at": "2026-04-08T18:07:04-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Engineering Manager, Activation",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8330492002": {
     "first_seen": "2026-04-06T02:02:08.597522+00:00",
-    "updated_at": "2026-04-08T18:07:20-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Engineering Manager, Activation",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8184122002": {
     "first_seen": "2026-04-06T02:02:08.597584+00:00",
@@ -3229,261 +3262,290 @@
   },
   "8378792002": {
     "first_seen": "2026-04-06T02:02:08.597847+00:00",
-    "updated_at": "2026-04-08T18:01:29-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Senior GRC Lead",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8378840002": {
     "first_seen": "2026-04-06T02:02:08.597882+00:00",
-    "updated_at": "2026-04-08T18:01:39-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Senior GRC Lead",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8487903002": {
     "first_seen": "2026-04-06T02:02:08.598934+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Manager, Sales Development",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8487905002": {
     "first_seen": "2026-04-06T02:02:08.598976+00:00",
-    "updated_at": "2026-04-07T16:17:26-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Manager, Sales Development",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8485388002": {
     "first_seen": "2026-04-06T02:02:08.599715+00:00",
-    "updated_at": "2026-04-07T16:17:28-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Revenue Operations Analyst",
     "company": "brex",
     "alerted": false
   },
   "8485386002": {
     "first_seen": "2026-04-06T02:02:08.599763+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Revenue Operations Analyst",
     "company": "brex",
     "alerted": false
   },
   "8485385002": {
     "first_seen": "2026-04-06T02:02:08.599812+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Revenue Operations Analyst",
     "company": "brex",
     "alerted": false
   },
   "8485352002": {
     "first_seen": "2026-04-06T02:02:08.599857+00:00",
-    "updated_at": "2026-04-07T16:17:25-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Revenue Operations Analyst",
     "company": "brex",
     "alerted": false
   },
   "8339283002": {
     "first_seen": "2026-04-06T02:02:08.599885+00:00",
-    "updated_at": "2026-04-08T17:59:36-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Security Operations Engineer ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8339277002": {
     "first_seen": "2026-04-06T02:02:08.599912+00:00",
-    "updated_at": "2026-04-08T17:59:25-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Senior Security Operations Engineer ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8339252002": {
     "first_seen": "2026-04-06T02:02:08.599941+00:00",
-    "updated_at": "2026-04-08T17:59:13-04:00",
+    "updated_at": "2026-04-11T15:46:01-04:00",
     "title": "Senior Security Operations Engineer ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8402322002": {
     "first_seen": "2026-04-06T02:02:08.600005+00:00",
-    "updated_at": "2026-04-08T18:19:37-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Senior Software Engineer, AI - Brex Assistant",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8402318002": {
     "first_seen": "2026-04-06T02:02:08.600035+00:00",
-    "updated_at": "2026-04-08T18:19:19-04:00",
+    "updated_at": "2026-04-11T15:46:02-04:00",
     "title": "Senior Software Engineer, AI - Brex Assistant",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8440275002": {
     "first_seen": "2026-04-06T02:02:08.600064+00:00",
-    "updated_at": "2026-04-08T18:20:39-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Software Engineer, AI \u2014 Ecosystem",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8440272002": {
     "first_seen": "2026-04-06T02:02:08.600094+00:00",
-    "updated_at": "2026-04-08T18:20:26-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Software Engineer, AI \u2014 Ecosystem",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8442498002": {
     "first_seen": "2026-04-06T02:02:08.600120+00:00",
-    "updated_at": "2026-04-08T18:21:45-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Software Engineer, AI - Simulation",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8442494002": {
     "first_seen": "2026-04-06T02:02:08.600149+00:00",
-    "updated_at": "2026-04-08T18:21:34-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Software Engineer, AI - Simulation",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8472635002": {
     "first_seen": "2026-04-06T02:02:08.600178+00:00",
-    "updated_at": "2026-04-09T17:02:26-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Software Engineer, Full Stack",
     "company": "brex",
     "alerted": false
   },
   "8472633002": {
     "first_seen": "2026-04-06T02:02:08.600273+00:00",
-    "updated_at": "2026-04-09T17:01:54-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Software Engineer, Full Stack",
     "company": "brex",
     "alerted": false
   },
   "8472634002": {
     "first_seen": "2026-04-06T02:02:08.600299+00:00",
-    "updated_at": "2026-04-09T17:02:05-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Senior Software Engineer, Full Stack",
     "company": "brex",
     "alerted": false
   },
   "8465003002": {
     "first_seen": "2026-04-06T02:02:08.600325+00:00",
-    "updated_at": "2026-04-09T16:59:02-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Senior Software Engineer, Product ",
     "company": "brex",
     "alerted": false
   },
   "8461333002": {
     "first_seen": "2026-04-06T02:02:08.600351+00:00",
-    "updated_at": "2026-04-09T16:58:44-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Senior Software Engineer, Product ",
     "company": "brex",
     "alerted": false
   },
   "8461469002": {
     "first_seen": "2026-04-06T02:02:08.600380+00:00",
-    "updated_at": "2026-04-09T16:58:53-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Senior Software Engineer, Product ",
     "company": "brex",
     "alerted": false
   },
   "8430182002": {
     "first_seen": "2026-04-06T02:02:08.600447+00:00",
-    "updated_at": "2026-04-09T16:57:34-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Software Engineer, Product Data Platform",
     "company": "brex",
     "alerted": false
   },
   "8430197002": {
     "first_seen": "2026-04-06T02:02:08.600474+00:00",
-    "updated_at": "2026-04-09T16:57:54-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Software Engineer, Product Data Platform",
     "company": "brex",
     "alerted": false
   },
   "8432615002": {
     "first_seen": "2026-04-06T02:02:08.600543+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Technical Recruiter",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8432614002": {
     "first_seen": "2026-04-06T02:02:08.600569+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Technical Recruiter",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8428989002": {
     "first_seen": "2026-04-06T02:02:08.600599+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Technical Recruiter",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8434446002": {
     "first_seen": "2026-04-06T02:02:08.600629+00:00",
-    "updated_at": "2026-04-07T16:17:23-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Technical Sourcer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8434450002": {
     "first_seen": "2026-04-06T02:02:08.600655+00:00",
-    "updated_at": "2026-04-07T16:17:23-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Technical Sourcer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8434451002": {
     "first_seen": "2026-04-06T02:02:08.600682+00:00",
-    "updated_at": "2026-04-07T16:17:24-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Senior Technical Sourcer",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8318331002": {
     "first_seen": "2026-04-06T02:02:08.600827+00:00",
-    "updated_at": "2026-04-07T16:17:17-04:00",
+    "updated_at": "2026-04-11T15:45:58-04:00",
     "title": "Software Engineer II, Product ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8318333002": {
     "first_seen": "2026-04-06T02:02:08.600848+00:00",
-    "updated_at": "2026-04-07T16:17:17-04:00",
+    "updated_at": "2026-04-11T15:45:58-04:00",
     "title": "Software Engineer II, Product ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8318332002": {
     "first_seen": "2026-04-06T02:02:08.600900+00:00",
-    "updated_at": "2026-04-07T16:17:17-04:00",
+    "updated_at": "2026-04-11T15:45:58-04:00",
     "title": "Software Engineer II, Product ",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8434389002": {
     "first_seen": "2026-04-06T02:02:08.600911+00:00",
-    "updated_at": "2026-04-07T16:17:24-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Software Engineer, Intern",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8432703002": {
     "first_seen": "2026-04-06T02:02:08.601217+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Staff Product Manager",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8432702002": {
     "first_seen": "2026-04-06T02:02:08.601281+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Staff Product Manager",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8432698002": {
     "first_seen": "2026-04-06T02:02:08.601310+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Staff Product Manager",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8436527002": {
     "first_seen": "2026-04-06T02:02:08.601376+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Staff Product Manager, Growth",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8436528002": {
     "first_seen": "2026-04-06T02:02:08.601401+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Staff Product Manager, Growth",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8436530002": {
     "first_seen": "2026-04-06T02:02:08.601427+00:00",
-    "updated_at": "2026-04-07T16:17:22-04:00",
+    "updated_at": "2026-04-11T15:46:03-04:00",
     "title": "Staff Product Manager, Growth",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "5820682004": {
     "first_seen": "2026-04-06T02:02:08.884290+00:00",
@@ -21846,21 +21908,24 @@
   },
   "8499380002": {
     "first_seen": "2026-04-08T21:59:34.507116+00:00",
-    "updated_at": "2026-04-08T17:18:02-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Commercial SaaS Client Sales Executive",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8499378002": {
     "first_seen": "2026-04-08T21:59:34.507160+00:00",
-    "updated_at": "2026-04-08T17:18:03-04:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
     "title": "Commercial SaaS Client Sales Executive",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "8499382002": {
     "first_seen": "2026-04-08T21:59:34.507185+00:00",
-    "updated_at": "2026-04-08T17:18:45-04:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
     "title": "Commercial SaaS Client Sales Executive",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "5873528004": {
     "first_seen": "2026-04-08T21:59:35.526488+00:00",
@@ -22131,15 +22196,17 @@
   },
   "8390148002": {
     "first_seen": "2026-04-09T17:36:14.343560+00:00",
-    "updated_at": "2026-04-09T12:39:46-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Senior Manager, Business Development (Embedded Finance)",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "7962890002": {
     "first_seen": "2026-04-09T17:36:14.343604+00:00",
-    "updated_at": "2026-04-09T12:39:44-04:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
     "title": "Senior Manager, Business Development (Embedded Finance)",
-    "company": "brex"
+    "company": "brex",
+    "alerted": false
   },
   "7773213": {
     "first_seen": "2026-04-09T17:36:27.505055+00:00",
@@ -22258,21 +22325,21 @@
   },
   "8501051002": {
     "first_seen": "2026-04-09T23:52:44.660612+00:00",
-    "updated_at": "2026-04-09T17:33:58-04:00",
+    "updated_at": "2026-04-11T15:47:13-04:00",
     "title": "Senior Software Engineer, Frontend",
     "company": "brex",
     "alerted": true
   },
   "8501052002": {
     "first_seen": "2026-04-09T23:52:44.660648+00:00",
-    "updated_at": "2026-04-09T17:33:59-04:00",
+    "updated_at": "2026-04-11T15:47:25-04:00",
     "title": "Senior Software Engineer, Frontend",
     "company": "brex",
     "alerted": true
   },
   "8501025002": {
     "first_seen": "2026-04-09T23:52:44.660673+00:00",
-    "updated_at": "2026-04-09T17:33:58-04:00",
+    "updated_at": "2026-04-11T15:47:01-04:00",
     "title": "Senior Software Engineer, Frontend",
     "company": "brex",
     "alerted": true
