@@ -2,6 +2,123 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 08:36 UTC
+
+### 🔄 Senior Staff Software Engineer - App and Partner Ecosystem
+**databricks** · Engineering
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002)
+🕐 Updated: `2026-04-11T04:14:08-04:00` &nbsp;|&nbsp; ID: `7807722002`
+
+---
+### 🔄 Developer Evangelist
+**twilio** · Marketing
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7579499)
+🕐 Updated: `2026-04-11T04:03:57-04:00` &nbsp;|&nbsp; ID: `7579499`
+
+---
+### 🔄 Senior Full Stack Engineer - New Product
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548896003)
+🕐 Updated: `2026-04-11T03:47:31-04:00` &nbsp;|&nbsp; ID: `7548896003`
+
+---
+### 🔄 Senior Software Engineer - Analytics Data Engineering
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003)
+🕐 Updated: `2026-04-11T03:47:35-04:00` &nbsp;|&nbsp; ID: `7564587003`
+
+---
+### 🔄 Senior Software Engineer, Asynchronous Processing
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453456003)
+🕐 Updated: `2026-04-11T03:47:24-04:00` &nbsp;|&nbsp; ID: `7453456003`
+
+---
+### 🔄 Senior Software Engineer - Devx 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548895003)
+🕐 Updated: `2026-04-11T03:47:30-04:00` &nbsp;|&nbsp; ID: `7548895003`
+
+---
+### 🔄 Senior Software Engineer - Email Platforms
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453443003)
+🕐 Updated: `2026-04-11T03:47:20-04:00` &nbsp;|&nbsp; ID: `7453443003`
+
+---
+### 🔄 Senior Software Engineer - Product Recommendations 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660745003)
+🕐 Updated: `2026-04-11T03:48:09-04:00` &nbsp;|&nbsp; ID: `7660745003`
+
+---
+### 🔄 Senior Software Engineer - Profiles, Identity, Consent 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7652764003)
+🕐 Updated: `2026-04-11T03:48:02-04:00` &nbsp;|&nbsp; ID: `7652764003`
+
+---
+### 🔄 Senior Software Engineer - Profiles, Lists and Segments
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597868003)
+🕐 Updated: `2026-04-11T03:47:47-04:00` &nbsp;|&nbsp; ID: `7597868003`
+
+---
+### 🔄 Software Engineer - Advanced Reporting
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7563810003)
+🕐 Updated: `2026-04-11T03:47:34-04:00` &nbsp;|&nbsp; ID: `7563810003`
+
+---
+### 🔄 Software Engineer - Core Reporting
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7668047003)
+🕐 Updated: `2026-04-11T03:48:11-04:00` &nbsp;|&nbsp; ID: `7668047003`
+
+---
+### 🔄 Software Engineer II, Data Automation 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453478003)
+🕐 Updated: `2026-04-11T03:47:26-04:00` &nbsp;|&nbsp; ID: `7453478003`
+
+---
+### 🔄 Software Engineer II - Data Management and Governance (DMG)
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7568455003)
+🕐 Updated: `2026-04-11T03:47:40-04:00` &nbsp;|&nbsp; ID: `7568455003`
+
+---
+### 🔄 Software Engineer II - Editors
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7528839003)
+🕐 Updated: `2026-04-11T03:47:29-04:00` &nbsp;|&nbsp; ID: `7528839003`
+
+---
+### 🔄 Software Engineer II - Groups
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7568453003)
+🕐 Updated: `2026-04-11T03:47:38-04:00` &nbsp;|&nbsp; ID: `7568453003`
+
+---
+### 🔄 Software Engineer II - Integrations 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453479003)
+🕐 Updated: `2026-04-11T03:47:27-04:00` &nbsp;|&nbsp; ID: `7453479003`
+
+---
+### 🔄 Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597051003)
+🕐 Updated: `2026-04-11T03:47:45-04:00` &nbsp;|&nbsp; ID: `7597051003`
+
+---
+### 🔄 Senior Software Engineer, Streaming Platform
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7805145?t=gh_src=&gh_jid=7805145)
+🕐 Updated: `2026-04-11T03:52:45-04:00` &nbsp;|&nbsp; ID: `7805145`
+
+---
+
 ## 📅 Run: 2026-04-11 07:46 UTC
 
 ### 🔄 Quantitative Engineering Intern - Summer 2026

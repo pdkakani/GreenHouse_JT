@@ -5087,7 +5087,7 @@
   },
   "7807722002": {
     "first_seen": "2026-04-06T02:02:14.071720+00:00",
-    "updated_at": "2026-04-09T16:51:11-04:00",
+    "updated_at": "2026-04-11T04:14:08-04:00",
     "title": "Senior Staff Software Engineer - App and Partner Ecosystem",
     "company": "databricks",
     "alerted": false
@@ -13069,7 +13069,7 @@
   },
   "7548896003": {
     "first_seen": "2026-04-06T08:10:08.968200+00:00",
-    "updated_at": "2026-04-10T10:45:48-04:00",
+    "updated_at": "2026-04-11T03:47:31-04:00",
     "title": "Senior Full Stack Engineer - New Product",
     "company": "klaviyo",
     "alerted": false
@@ -13136,15 +13136,17 @@
   },
   "7564587003": {
     "first_seen": "2026-04-06T08:10:08.968757+00:00",
-    "updated_at": "2026-04-06T03:02:23-04:00",
+    "updated_at": "2026-04-11T03:47:35-04:00",
     "title": "Senior Software Engineer - Analytics Data Engineering",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7453456003": {
     "first_seen": "2026-04-06T08:10:08.968770+00:00",
-    "updated_at": "2026-04-06T03:02:19-04:00",
+    "updated_at": "2026-04-11T03:47:24-04:00",
     "title": "Senior Software Engineer, Asynchronous Processing",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7646799003": {
     "first_seen": "2026-04-06T08:10:08.968783+00:00",
@@ -13154,33 +13156,38 @@
   },
   "7548895003": {
     "first_seen": "2026-04-06T08:10:08.968797+00:00",
-    "updated_at": "2026-04-06T03:02:21-04:00",
+    "updated_at": "2026-04-11T03:47:30-04:00",
     "title": "Senior Software Engineer - Devx ",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7453443003": {
     "first_seen": "2026-04-06T08:10:08.968810+00:00",
-    "updated_at": "2026-04-06T03:02:17-04:00",
+    "updated_at": "2026-04-11T03:47:20-04:00",
     "title": "Senior Software Engineer - Email Platforms",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7660745003": {
     "first_seen": "2026-04-06T08:10:08.968842+00:00",
-    "updated_at": "2026-04-06T03:02:34-04:00",
+    "updated_at": "2026-04-11T03:48:09-04:00",
     "title": "Senior Software Engineer - Product Recommendations ",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7652764003": {
     "first_seen": "2026-04-06T08:10:08.968856+00:00",
-    "updated_at": "2026-04-06T03:02:31-04:00",
+    "updated_at": "2026-04-11T03:48:02-04:00",
     "title": "Senior Software Engineer - Profiles, Identity, Consent ",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7597868003": {
     "first_seen": "2026-04-06T08:10:08.968869+00:00",
-    "updated_at": "2026-04-06T03:02:27-04:00",
+    "updated_at": "2026-04-11T03:47:47-04:00",
     "title": "Senior Software Engineer - Profiles, Lists and Segments",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7636106003": {
     "first_seen": "2026-04-06T08:10:08.968893+00:00",
@@ -13214,21 +13221,24 @@
   },
   "7453478003": {
     "first_seen": "2026-04-06T08:10:08.969017+00:00",
-    "updated_at": "2026-04-07T03:01:47-04:00",
+    "updated_at": "2026-04-11T03:47:26-04:00",
     "title": "Software Engineer II, Data Automation ",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7568455003": {
     "first_seen": "2026-04-06T08:10:08.969027+00:00",
-    "updated_at": "2026-04-07T03:02:07-04:00",
+    "updated_at": "2026-04-11T03:47:40-04:00",
     "title": "Software Engineer II - Data Management and Governance (DMG)",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7528839003": {
     "first_seen": "2026-04-06T08:10:08.969037+00:00",
-    "updated_at": "2026-04-07T03:01:53-04:00",
+    "updated_at": "2026-04-11T03:47:29-04:00",
     "title": "Software Engineer II - Editors",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7660127003": {
     "first_seen": "2026-04-06T08:10:08.969046+00:00",
@@ -13244,9 +13254,10 @@
   },
   "7568453003": {
     "first_seen": "2026-04-06T08:10:08.969066+00:00",
-    "updated_at": "2026-04-07T03:02:05-04:00",
+    "updated_at": "2026-04-11T03:47:38-04:00",
     "title": "Software Engineer II - Groups",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7677358003": {
     "first_seen": "2026-04-06T08:10:08.969075+00:00",
@@ -13256,15 +13267,17 @@
   },
   "7453479003": {
     "first_seen": "2026-04-06T08:10:08.969096+00:00",
-    "updated_at": "2026-04-07T03:01:48-04:00",
+    "updated_at": "2026-04-11T03:47:27-04:00",
     "title": "Software Engineer II - Integrations ",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7597051003": {
     "first_seen": "2026-04-06T08:10:08.969106+00:00",
-    "updated_at": "2026-04-07T03:02:19-04:00",
+    "updated_at": "2026-04-11T03:47:45-04:00",
     "title": "Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth",
-    "company": "klaviyo"
+    "company": "klaviyo",
+    "alerted": false
   },
   "7651321003": {
     "first_seen": "2026-04-06T08:10:08.969126+00:00",
@@ -21835,7 +21848,7 @@
   },
   "7579499": {
     "first_seen": "2026-04-08T22:48:03.955745+00:00",
-    "updated_at": "2026-04-10T11:27:05-04:00",
+    "updated_at": "2026-04-11T04:03:57-04:00",
     "title": "Developer Evangelist",
     "company": "twilio",
     "alerted": false
@@ -22036,7 +22049,7 @@
   },
   "7563810003": {
     "first_seen": "2026-04-09T17:35:56.795824+00:00",
-    "updated_at": "2026-04-10T01:02:09-04:00",
+    "updated_at": "2026-04-11T03:47:34-04:00",
     "title": "Software Engineer - Advanced Reporting",
     "company": "klaviyo",
     "alerted": false
@@ -22652,7 +22665,7 @@
   },
   "7805145": {
     "first_seen": "2026-04-10T18:01:19.745871+00:00",
-    "updated_at": "2026-04-10T13:50:51-04:00",
+    "updated_at": "2026-04-11T03:52:45-04:00",
     "title": "Senior Software Engineer, Streaming Platform",
     "company": "robinhood",
     "alerted": true
@@ -22687,7 +22700,7 @@
   },
   "7668047003": {
     "first_seen": "2026-04-10T19:10:59.698028+00:00",
-    "updated_at": "2026-04-11T01:02:18-04:00",
+    "updated_at": "2026-04-11T03:48:11-04:00",
     "title": "Software Engineer - Core Reporting",
     "company": "klaviyo",
     "alerted": true
