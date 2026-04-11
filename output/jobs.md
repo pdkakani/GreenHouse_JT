@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 11:53 UTC
+
+### 🆕 Technical Partner Manager, EMEA Payment Methods
+**stripe** · 3515 Partner Engineering and Operations · 🎯 28%
+📍 Ireland-Dublin, UK-London, Ireland-remote, UK-remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7779294)
+🕐 Updated: `2026-04-11T07:51:07-04:00` &nbsp;|&nbsp; ID: `7779294`
+
+---
+
 ## 📅 Run: 2026-04-11 11:26 UTC
 
 ### 🔄 Customer Support Engineer

@@ -22891,5 +22891,12 @@
     "title": "Staff Backend Engineer, SSCS: AI Governance",
     "company": "gitlab",
     "alerted": true
+  },
+  "7779294": {
+    "first_seen": "2026-04-11T11:53:07.875971+00:00",
+    "updated_at": "2026-04-11T07:51:07-04:00",
+    "title": "Technical Partner Manager, EMEA Payment Methods",
+    "company": "stripe",
+    "alerted": true
   }
 }
