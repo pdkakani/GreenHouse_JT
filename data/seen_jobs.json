@@ -10524,66 +10524,70 @@
   },
   "7626166003": {
     "first_seen": "2026-04-06T02:02:32.210149+00:00",
-    "updated_at": "2026-04-09T19:03:19-04:00",
+    "updated_at": "2026-04-11T07:04:12-04:00",
     "title": "Customer Support Engineer",
     "company": "fivetran",
     "alerted": false
   },
   "7679244003": {
     "first_seen": "2026-04-06T02:02:32.210195+00:00",
-    "updated_at": "2026-04-09T19:03:19-04:00",
+    "updated_at": "2026-04-11T07:04:12-04:00",
     "title": "Customer Support Engineer",
     "company": "fivetran",
     "alerted": false
   },
   "7625836003": {
     "first_seen": "2026-04-06T02:02:32.210241+00:00",
-    "updated_at": "2026-04-09T19:03:17-04:00",
+    "updated_at": "2026-04-11T07:04:09-04:00",
     "title": "Customer Support Engineer III",
     "company": "fivetran",
     "alerted": false
   },
   "7659471003": {
     "first_seen": "2026-04-06T02:02:32.210569+00:00",
-    "updated_at": "2026-03-24T22:03:00-04:00",
+    "updated_at": "2026-04-11T07:05:14-04:00",
     "title": "Ing\u00e9nieur Commercial Senior, Entreprise / Senior Sales Engineer, Enterprise",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7674622003": {
     "first_seen": "2026-04-06T02:02:32.211021+00:00",
-    "updated_at": "2026-04-09T19:03:35-04:00",
+    "updated_at": "2026-04-11T07:07:03-04:00",
     "title": "Marketing Insights Analyst",
     "company": "fivetran",
     "alerted": false
   },
   "7676570003": {
     "first_seen": "2026-04-06T02:02:32.211331+00:00",
-    "updated_at": "2026-04-01T03:17:01-04:00",
+    "updated_at": "2026-04-11T07:07:20-04:00",
     "title": "Order Management Analyst",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7662344003": {
     "first_seen": "2026-04-06T02:02:32.211385+00:00",
-    "updated_at": "2026-03-23T02:37:10-04:00",
+    "updated_at": "2026-04-11T07:05:39-04:00",
     "title": "Order Management Senior Analyst",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7672364003": {
     "first_seen": "2026-04-06T02:02:32.211430+00:00",
-    "updated_at": "2026-03-23T02:37:10-04:00",
+    "updated_at": "2026-04-11T07:05:39-04:00",
     "title": "Order Management Senior Analyst",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7656004003": {
     "first_seen": "2026-04-06T02:02:32.211493+00:00",
-    "updated_at": "2026-04-07T03:16:35-04:00",
+    "updated_at": "2026-04-11T07:05:06-04:00",
     "title": "Principal Product Designer",
     "company": "fivetran",
     "alerted": false
   },
   "6664139003": {
     "first_seen": "2026-04-06T02:02:32.211565+00:00",
-    "updated_at": "2026-04-09T19:02:56-04:00",
+    "updated_at": "2026-04-11T07:02:33-04:00",
     "title": "Principal Software Engineer - AI Tooling & Adoption",
     "company": "fivetran",
     "alerted": false
@@ -10602,9 +10606,10 @@
   },
   "7584938003": {
     "first_seen": "2026-04-06T02:02:32.212891+00:00",
-    "updated_at": "2026-03-24T15:54:19-04:00",
+    "updated_at": "2026-04-11T07:03:29-04:00",
     "title": "Senior Deal Desk Analyst",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7682152003": {
     "first_seen": "2026-04-06T02:02:32.212930+00:00",
@@ -10614,106 +10619,122 @@
   },
   "6689996003": {
     "first_seen": "2026-04-06T02:02:32.213096+00:00",
-    "updated_at": "2026-03-24T14:57:25-04:00",
+    "updated_at": "2026-04-11T07:02:38-04:00",
     "title": "Senior Financial Analyst, GTM",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "6936060003": {
     "first_seen": "2026-04-06T02:02:32.213135+00:00",
-    "updated_at": "2026-03-24T14:57:36-04:00",
+    "updated_at": "2026-04-11T07:02:38-04:00",
     "title": "Senior Financial Analyst, GTM",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7687102003": {
     "first_seen": "2026-04-06T02:02:32.213223+00:00",
-    "updated_at": "2026-04-01T18:26:41-04:00",
+    "updated_at": "2026-04-11T07:06:45-04:00",
     "title": "Senior Manager, Enterprise Sales Engineering",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7687100003": {
     "first_seen": "2026-04-06T02:02:32.213266+00:00",
-    "updated_at": "2026-04-01T18:30:39-04:00",
+    "updated_at": "2026-04-11T07:06:45-04:00",
     "title": "Senior Manager, Enterprise Sales Engineering",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7675061003": {
     "first_seen": "2026-04-06T02:02:32.213308+00:00",
-    "updated_at": "2026-03-30T10:12:55-04:00",
+    "updated_at": "2026-04-11T07:06:45-04:00",
     "title": "Senior Manager, Enterprise Sales Engineering",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7583474003": {
     "first_seen": "2026-04-06T02:02:32.213388+00:00",
-    "updated_at": "2026-04-09T11:50:16-04:00",
+    "updated_at": "2026-04-11T07:02:57-04:00",
     "title": "Senior Marketing Data Analyst",
     "company": "fivetran",
     "alerted": false
   },
   "7524547003": {
     "first_seen": "2026-04-06T02:02:32.213581+00:00",
-    "updated_at": "2026-04-06T11:16:31-04:00",
+    "updated_at": "2026-04-11T07:02:30-04:00",
     "title": "Senior Product Manager, Data & Integrations",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7524543003": {
     "first_seen": "2026-04-06T02:02:32.213617+00:00",
-    "updated_at": "2026-04-06T11:16:31-04:00",
+    "updated_at": "2026-04-11T07:02:30-04:00",
     "title": "Senior Product Manager, Data & Integrations",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7547715003": {
     "first_seen": "2026-04-06T02:02:32.213646+00:00",
-    "updated_at": "2026-04-06T11:16:34-04:00",
+    "updated_at": "2026-04-11T07:03:19-04:00",
     "title": "Senior Product Manager, Enterprise Platform",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7535819003": {
     "first_seen": "2026-04-06T02:02:32.213681+00:00",
-    "updated_at": "2026-04-06T11:16:34-04:00",
+    "updated_at": "2026-04-11T07:03:19-04:00",
     "title": "Senior Product Manager, Enterprise Platform",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "6648548003": {
     "first_seen": "2026-04-06T02:02:32.213710+00:00",
-    "updated_at": "2026-04-06T11:16:29-04:00",
+    "updated_at": "2026-04-11T07:02:27-04:00",
     "title": "Senior Product Manager, Observability & Monitoring",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "6645141003": {
     "first_seen": "2026-04-06T02:02:32.213746+00:00",
-    "updated_at": "2026-04-06T11:16:29-04:00",
+    "updated_at": "2026-04-11T07:02:27-04:00",
     "title": "Senior Product Manager, Observability & Monitoring",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "6666499003": {
     "first_seen": "2026-04-06T02:02:32.213775+00:00",
-    "updated_at": "2026-04-06T11:16:31-04:00",
+    "updated_at": "2026-04-11T07:02:30-04:00",
     "title": "Senior Product Manager, Reverse ETL",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "6648720003": {
     "first_seen": "2026-04-06T02:02:32.213810+00:00",
-    "updated_at": "2026-04-06T11:16:31-04:00",
+    "updated_at": "2026-04-11T07:02:30-04:00",
     "title": "Senior Product Manager, Reverse ETL",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7664184003": {
     "first_seen": "2026-04-06T02:02:32.214092+00:00",
-    "updated_at": "2026-03-24T22:03:09-04:00",
+    "updated_at": "2026-04-11T07:06:05-04:00",
     "title": "Senior Sales Engineer, Commercial Expansion",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7659473003": {
     "first_seen": "2026-04-06T02:02:32.214127+00:00",
-    "updated_at": "2026-03-24T22:03:02-04:00",
+    "updated_at": "2026-04-11T07:05:16-04:00",
     "title": "Senior Sales Engineer, Commercial Expansion",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7671188003": {
     "first_seen": "2026-04-06T02:02:32.214149+00:00",
-    "updated_at": "2026-03-25T07:38:22-04:00",
+    "updated_at": "2026-04-11T07:06:48-04:00",
     "title": "Senior Sales Engineer, Enterprise",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7627018003": {
     "first_seen": "2026-04-06T02:02:32.214185+00:00",
@@ -10723,9 +10744,10 @@
   },
   "7618184003": {
     "first_seen": "2026-04-06T02:02:32.214220+00:00",
-    "updated_at": "2026-04-09T16:41:09-04:00",
+    "updated_at": "2026-04-11T07:04:00-04:00",
     "title": "Senior Sales Engineer, Enterprise",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7626828003": {
     "first_seen": "2026-04-06T02:02:32.214255+00:00",
@@ -10741,7 +10763,7 @@
   },
   "7628248003": {
     "first_seen": "2026-04-06T02:02:32.214311+00:00",
-    "updated_at": "2026-04-10T16:01:26-04:00",
+    "updated_at": "2026-04-11T07:04:03-04:00",
     "title": "Senior Sales Engineer, Enterprise",
     "company": "fivetran",
     "alerted": false
@@ -10754,34 +10776,38 @@
   },
   "7674292003": {
     "first_seen": "2026-04-06T02:02:32.214381+00:00",
-    "updated_at": "2026-04-01T15:32:17-04:00",
+    "updated_at": "2026-04-11T07:06:52-04:00",
     "title": "Senior Sales Engineer, Enterprise",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7622758003": {
     "first_seen": "2026-04-06T02:02:32.214403+00:00",
-    "updated_at": "2026-04-10T16:01:26-04:00",
+    "updated_at": "2026-04-11T07:04:03-04:00",
     "title": "Senior Sales Engineer, Enterprise",
     "company": "fivetran",
     "alerted": false
   },
   "7493989003": {
     "first_seen": "2026-04-06T02:02:32.214436+00:00",
-    "updated_at": "2026-03-26T20:03:42-04:00",
+    "updated_at": "2026-04-11T07:03:00-04:00",
     "title": "Senior Sales Engineer, Enterprise",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7660857003": {
     "first_seen": "2026-04-06T02:02:32.214468+00:00",
-    "updated_at": "2026-03-26T20:04:37-04:00",
+    "updated_at": "2026-04-11T07:03:00-04:00",
     "title": "Senior Sales Engineer, Enterprise",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7660850003": {
     "first_seen": "2026-04-06T02:02:32.214507+00:00",
-    "updated_at": "2026-03-26T20:04:07-04:00",
+    "updated_at": "2026-04-11T07:03:00-04:00",
     "title": "Senior Sales Engineer, Enterprise",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7581688003": {
     "first_seen": "2026-04-06T02:02:32.214581+00:00",
@@ -10797,68 +10823,70 @@
   },
   "7663240003": {
     "first_seen": "2026-04-06T02:02:32.214911+00:00",
-    "updated_at": "2026-04-06T13:32:45-04:00",
+    "updated_at": "2026-04-11T07:05:52-04:00",
     "title": "Senior Software Engineer - Databases",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7620909003": {
     "first_seen": "2026-04-06T02:02:32.215014+00:00",
-    "updated_at": "2026-04-10T16:01:29-04:00",
+    "updated_at": "2026-04-11T07:04:06-04:00",
     "title": "Senior Staff Program Manager",
     "company": "fivetran",
     "alerted": false
   },
   "7486167003": {
     "first_seen": "2026-04-06T02:02:32.215089+00:00",
-    "updated_at": "2026-03-24T14:36:42-04:00",
+    "updated_at": "2026-04-11T07:02:49-04:00",
     "title": "Senior Staff Site Reliability Engineer",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7483663003": {
     "first_seen": "2026-04-06T02:02:32.215124+00:00",
-    "updated_at": "2026-04-09T19:02:58-04:00",
+    "updated_at": "2026-04-11T07:02:41-04:00",
     "title": "Senior Staff Software Engineer - Binary Log Data Replication",
     "company": "fivetran",
     "alerted": false
   },
   "7393532003": {
     "first_seen": "2026-04-06T02:02:32.215165+00:00",
-    "updated_at": "2026-04-09T19:02:58-04:00",
+    "updated_at": "2026-04-11T07:02:41-04:00",
     "title": "Senior Staff Software Engineer - Binary Log Data Replication",
     "company": "fivetran",
     "alerted": false
   },
   "7537470003": {
     "first_seen": "2026-04-06T02:02:32.215206+00:00",
-    "updated_at": "2026-04-09T19:03:09-04:00",
+    "updated_at": "2026-04-11T07:03:24-04:00",
     "title": "Senior Staff Software Engineer - Performance Engineering",
     "company": "fivetran",
     "alerted": false
   },
   "7661577003": {
     "first_seen": "2026-04-06T02:02:32.215299+00:00",
-    "updated_at": "2026-04-09T19:03:24-04:00",
+    "updated_at": "2026-04-11T07:04:43-04:00",
     "title": "Senior Technical Product Marketing Manager",
     "company": "fivetran",
     "alerted": false
   },
   "7649908003": {
     "first_seen": "2026-04-06T02:02:32.215334+00:00",
-    "updated_at": "2026-04-09T19:03:24-04:00",
+    "updated_at": "2026-04-11T07:04:43-04:00",
     "title": "Senior Technical Product Marketing Manager",
     "company": "fivetran",
     "alerted": false
   },
   "7660891003": {
     "first_seen": "2026-04-06T02:02:32.215431+00:00",
-    "updated_at": "2026-04-09T13:46:00-04:00",
+    "updated_at": "2026-04-11T07:05:50-04:00",
     "title": "Senior Web Analytics & Operations Manager",
     "company": "fivetran",
     "alerted": false
   },
   "7685331003": {
     "first_seen": "2026-04-06T02:02:32.215471+00:00",
-    "updated_at": "2026-04-09T13:46:00-04:00",
+    "updated_at": "2026-04-11T07:05:50-04:00",
     "title": "Senior Web Analytics & Operations Manager",
     "company": "fivetran",
     "alerted": false
@@ -10877,27 +10905,31 @@
   },
   "7653328003": {
     "first_seen": "2026-04-06T02:02:32.215555+00:00",
-    "updated_at": "2026-03-23T07:37:38-04:00",
+    "updated_at": "2026-04-11T07:05:04-04:00",
     "title": "Solution Architect, Networking - EMEA Hours",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7653324003": {
     "first_seen": "2026-04-06T02:02:32.215573+00:00",
-    "updated_at": "2026-03-23T02:36:04-04:00",
+    "updated_at": "2026-04-11T07:04:48-04:00",
     "title": "Solution Architect, Networking- US hours",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7651403003": {
     "first_seen": "2026-04-06T02:02:32.215615+00:00",
-    "updated_at": "2026-04-08T18:52:52-04:00",
+    "updated_at": "2026-04-11T07:04:56-04:00",
     "title": "Sr. Principal AI Systems Architect",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7644168003": {
     "first_seen": "2026-04-06T02:02:32.215649+00:00",
-    "updated_at": "2026-04-06T11:16:31-04:00",
+    "updated_at": "2026-04-11T07:02:30-04:00",
     "title": "Staff Product Manager, Reverse ETL",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7634514003": {
     "first_seen": "2026-04-06T02:02:32.215726+00:00",
@@ -10913,21 +10945,21 @@
   },
   "6598497003": {
     "first_seen": "2026-04-06T02:02:32.215789+00:00",
-    "updated_at": "2026-04-09T19:02:50-04:00",
+    "updated_at": "2026-04-11T07:02:23-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran",
     "alerted": false
   },
   "7546711003": {
     "first_seen": "2026-04-06T02:02:32.215806+00:00",
-    "updated_at": "2026-04-09T19:03:06-04:00",
+    "updated_at": "2026-04-11T07:03:21-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran",
     "alerted": false
   },
   "7535213003": {
     "first_seen": "2026-04-06T02:02:32.215840+00:00",
-    "updated_at": "2026-04-09T19:03:06-04:00",
+    "updated_at": "2026-04-11T07:03:21-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran",
     "alerted": false
@@ -10940,23 +10972,24 @@
   },
   "7549451003": {
     "first_seen": "2026-04-06T02:02:32.215920+00:00",
-    "updated_at": "2026-04-09T19:03:04-04:00",
+    "updated_at": "2026-04-11T07:02:54-04:00",
     "title": "Staff Software Engineer - ETL Platform",
     "company": "fivetran",
     "alerted": false
   },
   "7487101003": {
     "first_seen": "2026-04-06T02:02:32.215938+00:00",
-    "updated_at": "2026-04-09T19:03:04-04:00",
+    "updated_at": "2026-04-11T07:02:54-04:00",
     "title": "Staff Software Engineer - ETL Platform",
     "company": "fivetran",
     "alerted": false
   },
   "7663580003": {
     "first_seen": "2026-04-06T02:02:32.216063+00:00",
-    "updated_at": "2026-03-31T15:11:54-04:00",
+    "updated_at": "2026-04-11T07:06:00-04:00",
     "title": "Strategic Finance Analyst",
-    "company": "fivetran"
+    "company": "fivetran",
+    "alerted": false
   },
   "7616793003": {
     "first_seen": "2026-04-06T02:02:32.216239+00:00",
@@ -22777,7 +22810,7 @@
   },
   "7676567003": {
     "first_seen": "2026-04-10T21:04:19.333538+00:00",
-    "updated_at": "2026-04-10T18:01:33-04:00",
+    "updated_at": "2026-04-11T07:07:12-04:00",
     "title": "Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization",
     "company": "fivetran",
     "alerted": true

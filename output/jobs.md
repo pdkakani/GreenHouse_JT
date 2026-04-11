@@ -2,6 +2,345 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 11:26 UTC
+
+### 🔄 Customer Support Engineer
+**fivetran** · Customer Support Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7679244003)
+🕐 Updated: `2026-04-11T07:04:12-04:00` &nbsp;|&nbsp; ID: `7679244003`
+
+---
+### 🔄 Customer Support Engineer
+**fivetran** · Customer Support Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7626166003)
+🕐 Updated: `2026-04-11T07:04:12-04:00` &nbsp;|&nbsp; ID: `7626166003`
+
+---
+### 🔄 Customer Support Engineer III
+**fivetran** · Customer Support Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7625836003)
+🕐 Updated: `2026-04-11T07:04:09-04:00` &nbsp;|&nbsp; ID: `7625836003`
+
+---
+### 🔄 Ingénieur Commercial Senior, Entreprise / Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 CAN - Remote - Quebec &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7659471003)
+🕐 Updated: `2026-04-11T07:05:14-04:00` &nbsp;|&nbsp; ID: `7659471003`
+
+---
+### 🔄 Marketing Insights Analyst
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7674622003)
+🕐 Updated: `2026-04-11T07:07:03-04:00` &nbsp;|&nbsp; ID: `7674622003`
+
+---
+### 🔄 Order Management Analyst
+**fivetran** · Finance Department
+📍 Remote, India, APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7676570003)
+🕐 Updated: `2026-04-11T07:07:20-04:00` &nbsp;|&nbsp; ID: `7676570003`
+
+---
+### 🔄 Order Management Senior Analyst
+**fivetran** · Finance Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7672364003)
+🕐 Updated: `2026-04-11T07:05:39-04:00` &nbsp;|&nbsp; ID: `7672364003`
+
+---
+### 🔄 Order Management Senior Analyst
+**fivetran** · Finance Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7662344003)
+🕐 Updated: `2026-04-11T07:05:39-04:00` &nbsp;|&nbsp; ID: `7662344003`
+
+---
+### 🔄 Principal Product Designer
+**fivetran** · Business Intelligence Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7656004003)
+🕐 Updated: `2026-04-11T07:05:06-04:00` &nbsp;|&nbsp; ID: `7656004003`
+
+---
+### 🔄 Principal Software Engineer - AI Tooling & Adoption
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6664139003)
+🕐 Updated: `2026-04-11T07:02:33-04:00` &nbsp;|&nbsp; ID: `6664139003`
+
+---
+### 🔄 Senior Deal Desk Analyst
+**fivetran** · Sales Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7584938003)
+🕐 Updated: `2026-04-11T07:03:29-04:00` &nbsp;|&nbsp; ID: `7584938003`
+
+---
+### 🔄 Senior Financial Analyst, GTM
+**fivetran** · Finance Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6689996003)
+🕐 Updated: `2026-04-11T07:02:38-04:00` &nbsp;|&nbsp; ID: `6689996003`
+
+---
+### 🔄 Senior Financial Analyst, GTM
+**fivetran** · Finance Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6936060003)
+🕐 Updated: `2026-04-11T07:02:38-04:00` &nbsp;|&nbsp; ID: `6936060003`
+
+---
+### 🔄 Senior Manager, Enterprise Sales Engineering
+**fivetran** · Sales Department
+📍 Remote, United Kingdom, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7687102003)
+🕐 Updated: `2026-04-11T07:06:45-04:00` &nbsp;|&nbsp; ID: `7687102003`
+
+---
+### 🔄 Senior Manager, Enterprise Sales Engineering
+**fivetran** · Sales Department
+📍 Remote, France, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7675061003)
+🕐 Updated: `2026-04-11T07:06:45-04:00` &nbsp;|&nbsp; ID: `7675061003`
+
+---
+### 🔄 Senior Manager, Enterprise Sales Engineering
+**fivetran** · Sales Department
+📍 Remote, Ireland, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7687100003)
+🕐 Updated: `2026-04-11T07:06:45-04:00` &nbsp;|&nbsp; ID: `7687100003`
+
+---
+### 🔄 Senior Marketing Data Analyst
+**fivetran** · Analytics Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7583474003)
+🕐 Updated: `2026-04-11T07:02:57-04:00` &nbsp;|&nbsp; ID: `7583474003`
+
+---
+### 🔄 Senior Product Manager, Data & Integrations
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7524543003)
+🕐 Updated: `2026-04-11T07:02:30-04:00` &nbsp;|&nbsp; ID: `7524543003`
+
+---
+### 🔄 Senior Product Manager, Data & Integrations
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7524547003)
+🕐 Updated: `2026-04-11T07:02:30-04:00` &nbsp;|&nbsp; ID: `7524547003`
+
+---
+### 🔄 Senior Product Manager, Enterprise Platform
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7535819003)
+🕐 Updated: `2026-04-11T07:03:19-04:00` &nbsp;|&nbsp; ID: `7535819003`
+
+---
+### 🔄 Senior Product Manager, Enterprise Platform
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7547715003)
+🕐 Updated: `2026-04-11T07:03:19-04:00` &nbsp;|&nbsp; ID: `7547715003`
+
+---
+### 🔄 Senior Product Manager, Observability & Monitoring
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6645141003)
+🕐 Updated: `2026-04-11T07:02:27-04:00` &nbsp;|&nbsp; ID: `6645141003`
+
+---
+### 🔄 Senior Product Manager, Observability & Monitoring
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6648548003)
+🕐 Updated: `2026-04-11T07:02:27-04:00` &nbsp;|&nbsp; ID: `6648548003`
+
+---
+### 🔄 Senior Product Manager, Reverse ETL
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6648720003)
+🕐 Updated: `2026-04-11T07:02:30-04:00` &nbsp;|&nbsp; ID: `6648720003`
+
+---
+### 🔄 Senior Product Manager, Reverse ETL
+**fivetran** · Product Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6666499003)
+🕐 Updated: `2026-04-11T07:02:30-04:00` &nbsp;|&nbsp; ID: `6666499003`
+
+---
+### 🔄 Senior Sales Engineer, Commercial Expansion
+**fivetran** · Sales Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7659473003)
+🕐 Updated: `2026-04-11T07:05:16-04:00` &nbsp;|&nbsp; ID: `7659473003`
+
+---
+### 🔄 Senior Sales Engineer, Commercial Expansion
+**fivetran** · Sales Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7664184003)
+🕐 Updated: `2026-04-11T07:06:05-04:00` &nbsp;|&nbsp; ID: `7664184003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Florida, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7660857003)
+🕐 Updated: `2026-04-11T07:03:00-04:00` &nbsp;|&nbsp; ID: `7660857003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, United Kingdom, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7628248003)
+🕐 Updated: `2026-04-11T07:04:03-04:00` &nbsp;|&nbsp; ID: `7628248003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Ireland, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7622758003)
+🕐 Updated: `2026-04-11T07:04:03-04:00` &nbsp;|&nbsp; ID: `7622758003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Georgia, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7660850003)
+🕐 Updated: `2026-04-11T07:03:00-04:00` &nbsp;|&nbsp; ID: `7660850003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Illinois, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7493989003)
+🕐 Updated: `2026-04-11T07:03:00-04:00` &nbsp;|&nbsp; ID: `7493989003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7674292003)
+🕐 Updated: `2026-04-11T07:06:52-04:00` &nbsp;|&nbsp; ID: `7674292003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7618184003)
+🕐 Updated: `2026-04-11T07:04:00-04:00` &nbsp;|&nbsp; ID: `7618184003`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Singapore, APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7671188003)
+🕐 Updated: `2026-04-11T07:06:48-04:00` &nbsp;|&nbsp; ID: `7671188003`
+
+---
+### 🔄 Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7676567003)
+🕐 Updated: `2026-04-11T07:07:12-04:00` &nbsp;|&nbsp; ID: `7676567003`
+
+---
+### 🔄 Senior Software Engineer - Databases
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7663240003)
+🕐 Updated: `2026-04-11T07:05:52-04:00` &nbsp;|&nbsp; ID: `7663240003`
+
+---
+### 🔄 Senior Staff Program Manager
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7620909003)
+🕐 Updated: `2026-04-11T07:04:06-04:00` &nbsp;|&nbsp; ID: `7620909003`
+
+---
+### 🔄 Senior Staff Site Reliability Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7486167003)
+🕐 Updated: `2026-04-11T07:02:49-04:00` &nbsp;|&nbsp; ID: `7486167003`
+
+---
+### 🔄 Senior Staff Software Engineer - Binary Log Data Replication
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7393532003)
+🕐 Updated: `2026-04-11T07:02:41-04:00` &nbsp;|&nbsp; ID: `7393532003`
+
+---
+### 🔄 Senior Staff Software Engineer - Binary Log Data Replication
+**fivetran** · Engineering Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7483663003)
+🕐 Updated: `2026-04-11T07:02:41-04:00` &nbsp;|&nbsp; ID: `7483663003`
+
+---
+### 🔄 Senior Staff Software Engineer - Performance Engineering
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7537470003)
+🕐 Updated: `2026-04-11T07:03:24-04:00` &nbsp;|&nbsp; ID: `7537470003`
+
+---
+### 🔄 Senior Technical Product Marketing Manager
+**fivetran** · Marketing Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7661577003)
+🕐 Updated: `2026-04-11T07:04:43-04:00` &nbsp;|&nbsp; ID: `7661577003`
+
+---
+### 🔄 Senior Technical Product Marketing Manager
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7649908003)
+🕐 Updated: `2026-04-11T07:04:43-04:00` &nbsp;|&nbsp; ID: `7649908003`
+
+---
+### 🔄 Senior Web Analytics & Operations Manager
+**fivetran** · Marketing Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7660891003)
+🕐 Updated: `2026-04-11T07:05:50-04:00` &nbsp;|&nbsp; ID: `7660891003`
+
+---
+### 🔄 Senior Web Analytics & Operations Manager
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7685331003)
+🕐 Updated: `2026-04-11T07:05:50-04:00` &nbsp;|&nbsp; ID: `7685331003`
+
+---
+### 🔄 Solution Architect, Networking - EMEA Hours
+**fivetran** · Customer Solutions Group Department
+📍 Remote, India, APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7653328003)
+🕐 Updated: `2026-04-11T07:05:04-04:00` &nbsp;|&nbsp; ID: `7653328003`
+
+---
+### 🔄 Solution Architect, Networking- US hours
+**fivetran** · Customer Solutions Group Department
+📍 Remote, India, APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7653324003)
+🕐 Updated: `2026-04-11T07:04:48-04:00` &nbsp;|&nbsp; ID: `7653324003`
+
+---
+### 🔄 Sr. Principal AI Systems Architect
+**fivetran** · Business Intelligence Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7651403003)
+🕐 Updated: `2026-04-11T07:04:56-04:00` &nbsp;|&nbsp; ID: `7651403003`
+
+---
+### 🔄 Staff Product Manager, Reverse ETL
+**fivetran** · Product Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7644168003)
+🕐 Updated: `2026-04-11T07:02:30-04:00` &nbsp;|&nbsp; ID: `7644168003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=6598497003)
+🕐 Updated: `2026-04-11T07:02:23-04:00` &nbsp;|&nbsp; ID: `6598497003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7546711003)
+🕐 Updated: `2026-04-11T07:03:21-04:00` &nbsp;|&nbsp; ID: `7546711003`
+
+---
+### 🔄 Staff Software Engineer
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7535213003)
+🕐 Updated: `2026-04-11T07:03:21-04:00` &nbsp;|&nbsp; ID: `7535213003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7487101003)
+🕐 Updated: `2026-04-11T07:02:54-04:00` &nbsp;|&nbsp; ID: `7487101003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7549451003)
+🕐 Updated: `2026-04-11T07:02:54-04:00` &nbsp;|&nbsp; ID: `7549451003`
+
+---
+### 🔄 Strategic Finance Analyst
+**fivetran** · Finance Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7663580003)
+🕐 Updated: `2026-04-11T07:06:00-04:00` &nbsp;|&nbsp; ID: `7663580003`
+
+---
+
 ## 📅 Run: 2026-04-11 08:36 UTC
 
 ### 🔄 Senior Staff Software Engineer - App and Partner Ecosystem
