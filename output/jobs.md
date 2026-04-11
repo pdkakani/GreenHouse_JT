@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 07:46 UTC
+
+### 🔄 Quantitative Engineering Intern - Summer 2026
+**altruist** · Engineering
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5601805004?gh_jid=5601805004)
+🕐 Updated: `2026-04-11T03:31:50-04:00` &nbsp;|&nbsp; ID: `5601805004`
+
+---
+
 ## 📅 Run: 2026-04-11 05:47 UTC
 
 ### 🔄 Lead Product Manager, Groups Platform 
