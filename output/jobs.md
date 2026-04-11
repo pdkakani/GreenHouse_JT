@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 05:47 UTC
+
+### 🔄 Lead Product Manager, Groups Platform 
+**klaviyo** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7682351003)
+🕐 Updated: `2026-04-11T01:02:17-04:00` &nbsp;|&nbsp; ID: `7682351003`
+
+---
+### 🔄 Senior Software Engineer, Growth
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7696724003)
+🕐 Updated: `2026-04-11T01:02:17-04:00` &nbsp;|&nbsp; ID: `7696724003`
+
+---
+### 🔄 Software Engineer - Core Reporting
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7668047003)
+🕐 Updated: `2026-04-11T01:02:18-04:00` &nbsp;|&nbsp; ID: `7668047003`
+
+---
+
 ## 📅 Run: 2026-04-11 02:25 UTC
 
 ### 🆕 Senior Backend Engineer, SSCS: AI Governance
