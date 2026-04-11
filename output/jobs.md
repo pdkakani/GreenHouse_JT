@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 20:58 UTC
+
+### 🔄 Technical Deployment, Applied AI
+**anthropic** · Sales
+📍 Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5017903008)
+🕐 Updated: `2026-04-11T16:51:15-04:00` &nbsp;|&nbsp; ID: `5017903008`
+
+---
+
 ## 📅 Run: 2026-04-11 19:55 UTC
 
 ### 🔄 Commercial SaaS Client Sales Executive
