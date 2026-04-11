@@ -14414,9 +14414,10 @@
   },
   "7668120003": {
     "first_seen": "2026-04-06T08:10:17.989112+00:00",
-    "updated_at": "2026-04-04T09:21:02-04:00",
+    "updated_at": "2026-04-10T19:59:36-04:00",
     "title": "Sr. Solutions Architect - DXP",
-    "company": "contentstack"
+    "company": "contentstack",
+    "alerted": false
   },
   "7297051": {
     "first_seen": "2026-04-06T08:10:20.867967+00:00",
@@ -22804,7 +22805,7 @@
   },
   "8480580002": {
     "first_seen": "2026-04-10T23:19:49.053344+00:00",
-    "updated_at": "2026-04-10T19:00:02-04:00",
+    "updated_at": "2026-04-10T20:41:05-04:00",
     "title": "Senior Backend Engineer,  SSCS: Supply Chain",
     "company": "gitlab",
     "alerted": true
@@ -22828,6 +22829,20 @@
     "updated_at": "2026-04-10T19:09:52-04:00",
     "title": "Group Product Manager, Fraud ",
     "company": "marqeta",
+    "alerted": true
+  },
+  "8480544002": {
+    "first_seen": "2026-04-11T02:24:57.945328+00:00",
+    "updated_at": "2026-04-10T20:59:01-04:00",
+    "title": "Senior Backend Engineer, SSCS: AI Governance",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8480531002": {
+    "first_seen": "2026-04-11T02:24:57.945812+00:00",
+    "updated_at": "2026-04-10T21:07:53-04:00",
+    "title": "Staff Backend Engineer, SSCS: AI Governance",
+    "company": "gitlab",
     "alerted": true
   }
 }

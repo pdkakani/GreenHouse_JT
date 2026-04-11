@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-11 02:25 UTC
+
+### 🆕 Senior Backend Engineer, SSCS: AI Governance
+**gitlab** · Sec Engineering · 🎯 78%
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480544002)
+🕐 Updated: `2026-04-10T20:59:01-04:00` &nbsp;|&nbsp; ID: `8480544002`
+
+---
+### 🆕 Staff Backend Engineer, SSCS: AI Governance
+**gitlab** · Sec Engineering · 🎯 78%
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480531002)
+🕐 Updated: `2026-04-10T21:07:53-04:00` &nbsp;|&nbsp; ID: `8480531002`
+
+---
+### 🔄 Senior Backend Engineer,  SSCS: Supply Chain
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480580002)
+🕐 Updated: `2026-04-10T20:41:05-04:00` &nbsp;|&nbsp; ID: `8480580002`
+
+---
+### 🔄 Sr. Solutions Architect - DXP
+**contentstack** · Sales
+📍 Remote - EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://ats.comparably.com/api/v1/gh/contentstack/jobs/7668120003?gh_jid=7668120003)
+🕐 Updated: `2026-04-10T19:59:36-04:00` &nbsp;|&nbsp; ID: `7668120003`
+
+---
+
 ## 📅 Run: 2026-04-10 23:20 UTC
 
 ### 🆕 Senior Backend Engineer,  SSCS: Supply Chain
