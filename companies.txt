@@ -7,7 +7,7 @@
 # === AI / LLM COMPANIES ===
 anthropic
 cohere
-weightsandbiases
+wandb                  # fixed: was weightsandbiases
 anyscale
 modal
 gleanwork
@@ -16,14 +16,14 @@ together
 deepgram
 forethought
 instabase
-greptile
-cursor
+# greptile             # uses Ashby, not Greenhouse
+# cursor               # uses Ashby, not Greenhouse
 
 # === BIG TECH ADJACENT / CLOUD INFRA ===
 databricks
 snowflake
 confluent
-hashicorp
+# hashicorp            # acquired by IBM, board may be closed
 elastic
 mongodb
 redis
@@ -31,7 +31,7 @@ digitalocean
 cloudflare
 fastly
 twilio
-sendgrid
+# sendgrid             # acquired by Twilio, board closed
 segment
 mixpanel
 amplitude
@@ -62,12 +62,12 @@ expel
 automox
 cybereason
 huntress
-TRMLabs
+trmlabs                # fixed: was TRMLabs (case)
 
 # === DATA ENGINEERING / ANALYTICS ===
 airbyte
 fivetran
-dbtlabs
+dbt-labs               # fixed: was dbtlabs
 prefect
 hightouch
 hex
@@ -75,24 +75,24 @@ greatexpectations
 lightdash
 
 # === DEVELOPER TOOLS / PLATFORMS ===
-github
+# github               # uses Lever, not Greenhouse
 gitlab
 postman
-vercel
-netlify
-render
-fly
+# vercel               # uses Lever, not Greenhouse
+# netlify              # uses Lever, not Greenhouse
+# render               # uses Lever, not Greenhouse
+# fly                  # uses Lever, not Greenhouse
 circleci
-dagger
+# dagger               # uses Lever, not Greenhouse
 clerk
 contentful
 contentstack
 
 # === SAAS / PRODUCTIVITY ===
-notion
-figma
+# notion               # uses Lever, not Greenhouse
+# figma                # uses Lever, not Greenhouse
 miro
-linear
+# linear               # uses Lever, not Greenhouse
 retool
 airtable
 zapier
@@ -103,10 +103,10 @@ calendly
 fellow
 grammarly
 doximity
-dropbox
+# dropbox              # uses Workday, not Greenhouse
 duolingo
 coursera
-classpass
+# classpass            # acquired by Mindbody, board closed
 calm
 
 # === PAYMENTS & MONEY MOVEMENT ===
@@ -125,11 +125,11 @@ tabapay
 # === FINTECH — CONFIRMED GREENHOUSE ===
 branch
 flex
-joinforage
+forage                 # fixed: was joinforage
 finfare
 spade
 public
-mesamember
+# mesamember           # unverified slug
 alloy
 altruist
 ramp
@@ -180,7 +180,7 @@ rippling
 justworks
 lattice
 deel
-remotecom
+remote                 # fixed: was remotecom
 pinwheel
 argyle
 truework
@@ -198,7 +198,7 @@ blockdaemon
 figment
 gemini
 paxos
-jumptrading
+# jumptrading          # private board, no public Greenhouse
 
 # === INVESTING / WEALTH TECH ===
 wealthfront
@@ -231,7 +231,7 @@ airbnb
 lyft
 flexport
 flexe
-godaddy
+# godaddy              # uses Workday, not Greenhouse
 golinks
 
 # === ENTERPRISE / B2B SAAS ===
@@ -247,7 +247,7 @@ ivalua
 juicebox
 instabase
 helpscout
-liveblocks
+# liveblocks           # uses Ashby, not Greenhouse
 honeybook
 
 # === EDTECH / OTHER TECH ===

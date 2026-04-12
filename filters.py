@@ -24,6 +24,13 @@ USA_INCLUDE_PATTERNS = [
     r"us.*remote",
     r"anywhere in the us",
     r"work from anywhere",  # typically US-only for US companies
+    r"north america",
+    r"americas",
+    r"\bglobal\b",       # US companies posting globally still hire in US
+    r"\bworldwide\b",
+    r"\bhybrid\b",       # hybrid with no location = likely US company
+    r"\bon.?site\b",     # on-site / onsite with no country = US default
+    r"\bflexible\b",
     # common state names / abbreviations
     r"\bca\b", r"california",
     r"\bny\b", r"new york",
@@ -137,7 +144,10 @@ INCLUDE_KEYWORDS = [
     # Architecture
     "architect",
     "solutions architect",
-    "technical",
+    # "technical" removed — too broad (matches Technical Recruiter, Writer, TAM)
+    "technical program",
+    "technical lead",
+    "tech lead",
     # Mobile
     # "mobile", "ios", "android",
     # "react native", "flutter",
@@ -145,7 +155,7 @@ INCLUDE_KEYWORDS = [
     # "qa ", " qa", "quality assurance",
     # "test engineer", "sdet", "automation engineer",
     # Product/Program (technical lean)
-    "product manager", "technical program", "engineering manager",
+    "product manager", "engineering manager",
     "scrum master", "agile coach",
     # Networking / Infra
     # "network", "networking",
@@ -160,12 +170,13 @@ INCLUDE_KEYWORDS = [
     "api", "saas", "paas",
     "distributed systems",
     "microservices",
-    "blockchain",
+    # "blockchain",
     "fintech",
     "compiler",
     "operating system",
     # IT / Support (technical)
-    " it ", "information technology",
+    "information technology",
+    # " it " replaced with _IT_RE below — space-padding misses leading/trailing IT
     # "sysadmin", "system administrator",
     # "helpdesk", "help desk",
     # "technical support",
@@ -183,10 +194,13 @@ _INCLUDE_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Separate word-boundary pattern for standalone "IT" — re.escape blocks \b
+_IT_RE = re.compile(r"\bIT\b", re.IGNORECASE)
+
 
 def is_software_role(title: str, department: str = "") -> bool:
     """
     Returns True if the job title or department suggests a software/IT role.
     """
     combined = f"{title} {department}"
-    return bool(_INCLUDE_RE.search(combined))
+    return bool(_INCLUDE_RE.search(combined) or _IT_RE.search(combined))
