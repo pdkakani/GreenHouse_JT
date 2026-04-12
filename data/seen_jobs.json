@@ -2371,15 +2371,17 @@
   },
   "7512231": {
     "first_seen": "2026-04-06T02:02:05.036205+00:00",
-    "updated_at": "2026-04-07T20:15:18-04:00",
+    "updated_at": "2026-04-12T03:06:25-04:00",
     "title": "Engineering Manager, Financial Crimes ",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7489328": {
     "first_seen": "2026-04-06T02:02:05.036224+00:00",
-    "updated_at": "2026-04-07T20:15:18-04:00",
+    "updated_at": "2026-04-12T03:05:41-04:00",
     "title": "Engineering Manager, Legend",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7759805": {
     "first_seen": "2026-04-06T02:02:05.036733+00:00",
@@ -2395,9 +2397,10 @@
   },
   "7697791": {
     "first_seen": "2026-04-06T02:02:05.036936+00:00",
-    "updated_at": "2026-04-03T03:07:34-04:00",
+    "updated_at": "2026-04-12T03:06:52-04:00",
     "title": "Insider Threat Investigator",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "6674980": {
     "first_seen": "2026-04-06T02:02:05.037028+00:00",
@@ -2425,9 +2428,10 @@
   },
   "7551178": {
     "first_seen": "2026-04-06T02:02:05.037364+00:00",
-    "updated_at": "2026-04-03T03:07:03-04:00",
+    "updated_at": "2026-04-12T03:06:33-04:00",
     "title": "People Systems Manager",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7536920": {
     "first_seen": "2026-04-06T02:02:05.037507+00:00",
@@ -2443,9 +2447,10 @@
   },
   "7697725": {
     "first_seen": "2026-04-06T02:02:05.037559+00:00",
-    "updated_at": "2026-04-03T03:07:28-04:00",
+    "updated_at": "2026-04-12T03:06:48-04:00",
     "title": "Security Engineer, Detection & Response",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7346630": {
     "first_seen": "2026-04-06T02:02:05.037601+00:00",
@@ -2530,9 +2535,10 @@
   },
   "7676724": {
     "first_seen": "2026-04-06T02:02:05.038562+00:00",
-    "updated_at": "2026-04-03T03:07:25-04:00",
+    "updated_at": "2026-04-12T03:06:46-04:00",
     "title": "Senior Security GRC Analyst",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7489731": {
     "first_seen": "2026-04-06T02:02:05.038657+00:00",
@@ -2616,9 +2622,10 @@
   },
   "7489695": {
     "first_seen": "2026-04-06T02:02:05.039243+00:00",
-    "updated_at": "2026-04-08T17:13:02-04:00",
+    "updated_at": "2026-04-12T03:06:03-04:00",
     "title": "Software Engineering Manager, Growth",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7676714": {
     "first_seen": "2026-04-06T02:02:05.039272+00:00",
@@ -2640,9 +2647,10 @@
   },
   "7615745": {
     "first_seen": "2026-04-06T02:02:05.039436+00:00",
-    "updated_at": "2026-04-03T03:07:13-04:00",
+    "updated_at": "2026-04-12T03:06:42-04:00",
     "title": "Staff Security Analyst, Threat Intelligence",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7754299": {
     "first_seen": "2026-04-06T02:02:05.039476+00:00",
@@ -2653,9 +2661,10 @@
   },
   "7470947": {
     "first_seen": "2026-04-06T02:02:05.039571+00:00",
-    "updated_at": "2026-04-07T20:15:17-04:00",
+    "updated_at": "2026-04-12T03:05:05-04:00",
     "title": "Staff Software Engineer, Crypto Custody",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7489755": {
     "first_seen": "2026-04-06T02:02:05.039595+00:00",
@@ -2665,15 +2674,17 @@
   },
   "7489950": {
     "first_seen": "2026-04-06T02:02:05.039620+00:00",
-    "updated_at": "2026-04-07T20:15:18-04:00",
+    "updated_at": "2026-04-12T03:06:18-04:00",
     "title": "Staff Software Engineer, Web3",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7489212": {
     "first_seen": "2026-04-06T02:02:05.039675+00:00",
-    "updated_at": "2026-04-08T17:47:55-04:00",
+    "updated_at": "2026-04-12T03:05:22-04:00",
     "title": "Staff Technical Program Manager",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7739577": {
     "first_seen": "2026-04-06T02:02:05.039700+00:00",
@@ -21111,9 +21122,10 @@
   },
   "7489246": {
     "first_seen": "2026-04-07T05:27:27.069605+00:00",
-    "updated_at": "2026-04-07T20:15:18-04:00",
+    "updated_at": "2026-04-12T03:05:32-04:00",
     "title": "Engineering Manager, Strategies & Cortex",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7784019": {
     "first_seen": "2026-04-07T09:19:34.337164+00:00",

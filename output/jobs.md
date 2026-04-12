@@ -2,6 +2,81 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-12 08:01 UTC
+
+### 🔄 Engineering Manager, Financial Crimes 
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7512231?t=gh_src=&gh_jid=7512231)
+🕐 Updated: `2026-04-12T03:06:25-04:00` &nbsp;|&nbsp; ID: `7512231`
+
+---
+### 🔄 Engineering Manager, Legend
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489328?t=gh_src=&gh_jid=7489328)
+🕐 Updated: `2026-04-12T03:05:41-04:00` &nbsp;|&nbsp; ID: `7489328`
+
+---
+### 🔄 Engineering Manager, Strategies & Cortex
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246)
+🕐 Updated: `2026-04-12T03:05:32-04:00` &nbsp;|&nbsp; ID: `7489246`
+
+---
+### 🔄 Insider Threat Investigator
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697791?t=gh_src=&gh_jid=7697791)
+🕐 Updated: `2026-04-12T03:06:52-04:00` &nbsp;|&nbsp; ID: `7697791`
+
+---
+### 🔄 People Systems Manager
+**robinhood** · Corporate Engineering Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7551178?t=gh_src=&gh_jid=7551178)
+🕐 Updated: `2026-04-12T03:06:33-04:00` &nbsp;|&nbsp; ID: `7551178`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-04-12T03:06:48-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+### 🔄 Senior Security GRC Analyst
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7676724?t=gh_src=&gh_jid=7676724)
+🕐 Updated: `2026-04-12T03:06:46-04:00` &nbsp;|&nbsp; ID: `7676724`
+
+---
+### 🔄 Software Engineering Manager, Growth
+**robinhood** · ENG Growth
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695)
+🕐 Updated: `2026-04-12T03:06:03-04:00` &nbsp;|&nbsp; ID: `7489695`
+
+---
+### 🔄 Staff Security Analyst, Threat Intelligence
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7615745?t=gh_src=&gh_jid=7615745)
+🕐 Updated: `2026-04-12T03:06:42-04:00` &nbsp;|&nbsp; ID: `7615745`
+
+---
+### 🔄 Staff Software Engineer, Crypto Custody
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7470947?t=gh_src=&gh_jid=7470947)
+🕐 Updated: `2026-04-12T03:05:05-04:00` &nbsp;|&nbsp; ID: `7470947`
+
+---
+### 🔄 Staff Software Engineer, Web3
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950)
+🕐 Updated: `2026-04-12T03:06:18-04:00` &nbsp;|&nbsp; ID: `7489950`
+
+---
+### 🔄 Staff Technical Program Manager
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489212?t=gh_src=&gh_jid=7489212)
+🕐 Updated: `2026-04-12T03:05:22-04:00` &nbsp;|&nbsp; ID: `7489212`
+
+---
+
 ## 📅 Run: 2026-04-11 20:58 UTC
 
 ### 🔄 Technical Deployment, Applied AI
