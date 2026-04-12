@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-12 20:29 UTC
+
+### 🆕 Senior Software Engineer, Reputation
+**airbnb** · Software Engineering · 🎯 72%
+📍 Remote-USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7775710?gh_jid=7775710)
+🕐 Updated: `2026-04-12T16:00:02-04:00` &nbsp;|&nbsp; ID: `7775710`
+
+---
+
 ## 📅 Run: 2026-04-12 19:51 UTC
 
 ### 🆕 Head of Technical Alliances and Developer Ecosystem
