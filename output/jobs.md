@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-12 19:51 UTC
+
+### 🆕 Head of Technical Alliances and Developer Ecosystem
+**cribl** · 🎯 15%
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5874322004)
+🕐 Updated: `2026-04-12T15:48:26-04:00` &nbsp;|&nbsp; ID: `5874322004`
+
+---
+
 ## 📅 Run: 2026-04-12 08:01 UTC
 
 ### 🔄 Engineering Manager, Financial Crimes 
