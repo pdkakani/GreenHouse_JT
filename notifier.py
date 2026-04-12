@@ -6,7 +6,6 @@ Accepts a plain int score from scorer.py.
 import os
 import json
 import requests
-from typing import Union
 
 SLACK_TIMEOUT = 10
 

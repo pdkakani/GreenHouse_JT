@@ -52,9 +52,9 @@ USA_INCLUDE_PATTERNS = [
 NON_USA_PATTERNS = [
     r"\buk\b", r"united kingdom", r"england", r"london",
     r"\beu\b", r"europe", r"european union",
-    r"canada", r"\bca\b(?!.*\bca\b)",  # careful with CA
+    r"canada",  # \bca\b removed — "CA" alone is also California; canada word is sufficient
     r"australia", r"\bau\b",
-    r"india", r"\bin\b",
+    r"india",  # \bin\b removed — matches preposition "in" (e.g. "Remote in USA")
     r"germany", r"berlin", r"munich",
     r"france", r"paris",
     r"netherlands", r"amsterdam",

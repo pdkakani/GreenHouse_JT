@@ -3,6 +3,7 @@ poller.py — Main Greenhouse job polling script.
 """
 
 import sys
+import os
 import time
 import requests
 from datetime import datetime, timezone
@@ -132,11 +133,22 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
     OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
 
 
+
+def _validate_env() -> None:
+    """Fail fast if required environment variables are missing."""
+    if not os.environ.get("CL_API_KEY", "").strip():
+        print("[ERROR] Missing required env var: CL_API_KEY (Anthropic API key for resume scoring)")
+        sys.exit(1)
+    if not os.environ.get("SLACK_WEBHOOK_URL", "").strip():
+        print("[warn] SLACK_WEBHOOK_URL not set — Slack alerts will be skipped.")
+
 def main():
     start = datetime.now(timezone.utc)
     print(f"\n{'='*60}")
     print(f"Greenhouse Job Poller — {start.strftime('%Y-%m-%d %H:%M:%S UTC')}")
     print(f"{'='*60}")
+
+    _validate_env()
 
     companies = load_companies()
     print(f"[info] Loaded {len(companies)} companies from {COMPANIES_FILE}")
@@ -248,7 +260,8 @@ def main():
 
             score = score_job(job)  # returns int or None
             if score is None:
-                print("scoring failed, skipping.")
+                print("scoring failed — marking to avoid infinite retry.")
+                mark_alerted(state, job_id)   # Bug fix: prevent re-scoring every run
                 stats["alerts_skipped"] += 1
                 continue
 
@@ -271,7 +284,8 @@ def main():
         # Save state again to persist alerted flags
         save_state(state)
 
-        if stats["alerts_sent"] > 0:
+        # Send summary when any new jobs were found, not just when alerts fired
+        if stats["jobs_new"] > 0 or stats["alerts_sent"] > 0:
             send_run_summary(stats)
 
     if new_jobs or updated_jobs:
