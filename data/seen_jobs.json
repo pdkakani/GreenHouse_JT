@@ -1,16 +1,4 @@
 {
-  "8480551002": {
-    "first_seen": "2026-04-06T23:30:27.456849+00:00",
-    "updated_at": "2026-04-06T19:00:21-04:00",
-    "title": "Intermediate Backend Engineer, SSCS: AI Governance",
-    "company": "gitlab"
-  },
-  "8480565002": {
-    "first_seen": "2026-04-06T23:30:27.456879+00:00",
-    "updated_at": "2026-04-06T19:24:19-04:00",
-    "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
-    "company": "gitlab"
-  },
   "4681915005": {
     "first_seen": "2026-04-07T03:29:58.905757+00:00",
     "updated_at": "2026-04-09T00:28:18-04:00",
@@ -128,9 +116,10 @@
   },
   "5855181004": {
     "first_seen": "2026-04-07T16:50:35.334583+00:00",
-    "updated_at": "2026-04-07T12:40:36-04:00",
+    "updated_at": "2026-04-13T19:16:51-04:00",
     "title": "Sr Software Engineer, Search Federation",
-    "company": "cribl"
+    "company": "cribl",
+    "alerted": false
   },
   "8489179002": {
     "first_seen": "2026-04-07T16:50:39.393333+00:00",
@@ -1287,21 +1276,21 @@
   },
   "8500989002": {
     "first_seen": "2026-04-09T23:52:53.868590+00:00",
-    "updated_at": "2026-04-09T16:50:04-04:00",
+    "updated_at": "2026-04-13T19:32:02-04:00",
     "title": "Senior Infrastructure Engineer",
     "company": "bitgo",
     "alerted": true
   },
   "8500994002": {
     "first_seen": "2026-04-09T23:52:53.868648+00:00",
-    "updated_at": "2026-04-09T16:51:54-04:00",
+    "updated_at": "2026-04-13T19:32:36-04:00",
     "title": "Senior Infrastructure Engineer",
     "company": "bitgo",
     "alerted": true
   },
   "8500987002": {
     "first_seen": "2026-04-09T23:52:53.868682+00:00",
-    "updated_at": "2026-04-09T16:49:23-04:00",
+    "updated_at": "2026-04-13T19:31:44-04:00",
     "title": "Senior Infrastructure Engineer",
     "company": "bitgo",
     "alerted": true
@@ -12347,8 +12336,8 @@
   },
   "4501783005": {
     "first_seen": "2026-04-13T09:17:49.773842+00:00",
-    "updated_at": "2026-04-08T17:21:38-04:00",
-    "title": "Machine Learning Engineer, Infrastructure",
+    "updated_at": "2026-04-13T19:38:54-04:00",
+    "title": "Software Engineer, AI Infrastructure",
     "company": "gleanwork",
     "alerted": true
   },
@@ -13299,7 +13288,7 @@
   },
   "7688488003": {
     "first_seen": "2026-04-13T09:17:52.542656+00:00",
-    "updated_at": "2026-04-04T01:01:45-04:00",
+    "updated_at": "2026-04-13T19:16:09-04:00",
     "title": "Senior Product Manager, AI and Workplace Automation",
     "company": "klaviyo",
     "alerted": true
@@ -13817,7 +13806,7 @@
   },
   "5650874004": {
     "first_seen": "2026-04-13T09:17:52.872521+00:00",
-    "updated_at": "2026-04-07T12:36:44-04:00",
+    "updated_at": "2026-04-13T19:16:51-04:00",
     "title": "Senior Software Engineer, Search Federation",
     "company": "cribl",
     "alerted": true
@@ -20446,21 +20435,21 @@
   },
   "7812346": {
     "first_seen": "2026-04-13T21:08:49.444548+00:00",
-    "updated_at": "2026-04-13T17:03:58-04:00",
+    "updated_at": "2026-04-13T19:50:45-04:00",
     "title": "Product Manager IC-02",
     "company": "stripe",
     "alerted": true
   },
   "7808471": {
     "first_seen": "2026-04-13T21:08:49.446201+00:00",
-    "updated_at": "2026-04-13T17:04:11-04:00",
+    "updated_at": "2026-04-13T19:28:18-04:00",
     "title": "Software Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7812279": {
     "first_seen": "2026-04-13T21:08:49.446345+00:00",
-    "updated_at": "2026-04-13T16:57:33-04:00",
+    "updated_at": "2026-04-13T19:47:01-04:00",
     "title": "Software Engineer L2",
     "company": "stripe",
     "alerted": true
@@ -20617,6 +20606,41 @@
     "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
     "company": "coinbase",
+    "alerted": true
+  },
+  "7788968": {
+    "first_seen": "2026-04-13T23:58:15.444959+00:00",
+    "updated_at": "2026-04-13T19:13:29-04:00",
+    "title": "Manager, Solutions Architecture",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7789427": {
+    "first_seen": "2026-04-13T23:58:16.708964+00:00",
+    "updated_at": "2026-04-13T19:50:41-04:00",
+    "title": "Senior Software Engineer",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7171180": {
+    "first_seen": "2026-04-13T23:58:16.709251+00:00",
+    "updated_at": "2026-04-13T19:55:53-04:00",
+    "title": "Staff Product Manager - Core Commerce Platform",
+    "company": "twilio",
+    "alerted": true
+  },
+  "8480551002": {
+    "first_seen": "2026-04-13T23:58:28.206449+00:00",
+    "updated_at": "2026-04-06T19:00:21-04:00",
+    "title": "Intermediate Backend Engineer, SSCS: AI Governance",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8480565002": {
+    "first_seen": "2026-04-13T23:58:28.206479+00:00",
+    "updated_at": "2026-04-06T19:24:19-04:00",
+    "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
+    "company": "gitlab",
     "alerted": true
   }
 }

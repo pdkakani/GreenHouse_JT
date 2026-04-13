@@ -2,6 +2,99 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 23:58 UTC
+
+### 🆕 Manager, Solutions Architecture
+**mongodb** · Solutions Consulting, Growth NA
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7788968)
+🕐 Updated: `2026-04-13T19:13:29-04:00` &nbsp;|&nbsp; ID: `7788968`
+
+---
+### 🆕 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7789427)
+🕐 Updated: `2026-04-13T19:50:41-04:00` &nbsp;|&nbsp; ID: `7789427`
+
+---
+### 🆕 Staff Product Manager - Core Commerce Platform
+**twilio** · Product Management
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7171180)
+🕐 Updated: `2026-04-13T19:55:53-04:00` &nbsp;|&nbsp; ID: `7171180`
+
+---
+### 🆕 Intermediate Backend Engineer, SSCS: AI Governance
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480551002)
+🕐 Updated: `2026-04-06T19:00:21-04:00` &nbsp;|&nbsp; ID: `8480551002`
+
+---
+### 🆕 Intermediate Backend Engineer,  SSCS: Supply Chain
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480565002)
+🕐 Updated: `2026-04-06T19:24:19-04:00` &nbsp;|&nbsp; ID: `8480565002`
+
+---
+### 🔄 Software Engineer, AI Infrastructure
+**gleanwork** · Engineering
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4501783005)
+🕐 Updated: `2026-04-13T19:38:54-04:00` &nbsp;|&nbsp; ID: `4501783005`
+
+---
+### 🔄 Senior Product Manager, AI and Workplace Automation
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7688488003)
+🕐 Updated: `2026-04-13T19:16:09-04:00` &nbsp;|&nbsp; ID: `7688488003`
+
+---
+### 🔄 Senior Software Engineer, Search Federation
+**cribl** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5650874004)
+🕐 Updated: `2026-04-13T19:16:51-04:00` &nbsp;|&nbsp; ID: `5650874004`
+
+---
+### 🔄 Sr Software Engineer, Search Federation
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5855181004)
+🕐 Updated: `2026-04-13T19:16:51-04:00` &nbsp;|&nbsp; ID: `5855181004`
+
+---
+### 🔄 Product Manager IC-02
+**stripe** · PERM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812346)
+🕐 Updated: `2026-04-13T19:50:45-04:00` &nbsp;|&nbsp; ID: `7812346`
+
+---
+### 🔄 Software Engineer
+**stripe** · PERM
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7808471)
+🕐 Updated: `2026-04-13T19:28:18-04:00` &nbsp;|&nbsp; ID: `7808471`
+
+---
+### 🔄 Software Engineer L2
+**stripe** · PERM
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812279)
+🕐 Updated: `2026-04-13T19:47:01-04:00` &nbsp;|&nbsp; ID: `7812279`
+
+---
+### 🔄 Senior Infrastructure Engineer
+**bitgo** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500989002)
+🕐 Updated: `2026-04-13T19:32:02-04:00` &nbsp;|&nbsp; ID: `8500989002`
+
+---
+### 🔄 Senior Infrastructure Engineer
+**bitgo** · Engineering
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500994002)
+🕐 Updated: `2026-04-13T19:32:36-04:00` &nbsp;|&nbsp; ID: `8500994002`
+
+---
+### 🔄 Senior Infrastructure Engineer
+**bitgo** · Engineering
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500987002)
+🕐 Updated: `2026-04-13T19:31:44-04:00` &nbsp;|&nbsp; ID: `8500987002`
+
+---
+
 ## 📅 Run: 2026-04-13 23:02 UTC
 
 ### 🆕 Finance Systems Engineer, Revenue
