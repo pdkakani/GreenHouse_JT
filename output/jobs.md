@@ -2,6 +2,99 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 19:07 UTC
+
+### 🆕 Solutions Architect - Public Sector (LEAPS) 
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320126002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8320126002`
+
+---
+### 🆕 Senior Technical Program Manager
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5725448004)
+🕐 Updated: `2026-04-13T13:57:16-04:00` &nbsp;|&nbsp; ID: `5725448004`
+
+---
+### 🆕 Customer Success Engineer
+**gitlab** · Customer Success
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8498481002)
+🕐 Updated: `2026-04-13T15:03:25-04:00` &nbsp;|&nbsp; ID: `8498481002`
+
+---
+### 🆕 Production Support Engineer II
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743101)
+🕐 Updated: `2026-04-13T12:48:07-04:00` &nbsp;|&nbsp; ID: `7743101`
+
+---
+### 🆕 Corporate Development & Partnerships Deal Lead
+**gusto** · Finance & BizOps
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/6348898)
+🕐 Updated: `2026-04-13T14:36:13-04:00` &nbsp;|&nbsp; ID: `6348898`
+
+---
+### 🆕 Senior Principal Product Manager, AI Enabled Workforce
+**gusto** · Product Management
+📍 Denver, CO;San Francisco, CA;New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7138952)
+🕐 Updated: `2026-04-06T13:52:00-04:00` &nbsp;|&nbsp; ID: `7138952`
+
+---
+### 🆕 Senior Software Engineer, Analytics
+**lattice** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8489530002)
+🕐 Updated: `2026-04-13T14:19:14-04:00` &nbsp;|&nbsp; ID: `8489530002`
+
+---
+### 🆕 Senior Software Engineer, Storage Platform
+**robinhood** · ENG Infrastructure
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019)
+🕐 Updated: `2026-04-06T13:55:22-04:00` &nbsp;|&nbsp; ID: `7729019`
+
+---
+### 🆕 Staff Android Engineer, Guest & Host 
+**airbnb** · Software Engineering
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7681159?gh_jid=7681159)
+🕐 Updated: `2026-04-13T13:58:28-04:00` &nbsp;|&nbsp; ID: `7681159`
+
+---
+### 🆕 Electrical Engineering Intern (Fall 2026)
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7811941/apply/?gh_jid=7811941)
+🕐 Updated: `2026-04-13T14:57:21-04:00` &nbsp;|&nbsp; ID: `7811941`
+
+---
+### 🔄 Technical Enablement Manager
+**gleanwork** · Sales
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4683059005)
+🕐 Updated: `2026-04-13T13:58:28-04:00` &nbsp;|&nbsp; ID: `4683059005`
+
+---
+### 🔄 Senior Security Engineer, Incident Response
+**databricks** · Security
+📍 Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Remote - Denmark; Remote - France; Remote - Germany; Remote - Italy; Remote - Spain; Remote - Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026632002)
+🕐 Updated: `2026-04-13T14:07:39-04:00` &nbsp;|&nbsp; ID: `8026632002`
+
+---
+### 🔄 Sales Development Representative, West
+**okta** · Sales Development-310
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572)
+🕐 Updated: `2026-04-13T14:07:04-04:00` &nbsp;|&nbsp; ID: `7013572`
+
+---
+### 🔄 Senior Product Manager
+**abnormalsecurity** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7551356003?gh_jid=7551356003)
+🕐 Updated: `2026-04-13T14:22:59-04:00` &nbsp;|&nbsp; ID: `7551356003`
+
+---
+### 🔄 Mechanical Engineering Intern (Fall 2026)
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7683667/apply/?gh_jid=7683667)
+🕐 Updated: `2026-04-13T14:30:46-04:00` &nbsp;|&nbsp; ID: `7683667`
+
+---
+
 ## 📅 Run: 2026-04-13 17:56 UTC
 
 ### 🆕 Infrastructure Engineer, Pre-training

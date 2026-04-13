@@ -1,49 +1,4 @@
 {
-  "5704320004": {
-    "first_seen": "2026-04-06T18:10:42.664110+00:00",
-    "updated_at": "2026-04-06T15:12:22-04:00",
-    "title": "Software Engineer, Agent",
-    "company": "vercel"
-  },
-  "7768859": {
-    "first_seen": "2026-04-06T18:10:44.543687+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Customer Systems Administrator",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7768860": {
-    "first_seen": "2026-04-06T18:10:44.543714+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Customer Systems Administrator",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7743051": {
-    "first_seen": "2026-04-06T18:10:45.351369+00:00",
-    "updated_at": "2026-04-06T13:29:14-04:00",
-    "title": "Principal Software Engineer",
-    "company": "marqeta"
-  },
-  "7743101": {
-    "first_seen": "2026-04-06T18:10:45.351435+00:00",
-    "updated_at": "2026-04-13T12:48:07-04:00",
-    "title": "Production Support Engineer II",
-    "company": "marqeta",
-    "alerted": false
-  },
-  "7138952": {
-    "first_seen": "2026-04-06T18:10:46.863127+00:00",
-    "updated_at": "2026-04-06T13:52:00-04:00",
-    "title": "Senior Principal Product Manager, AI Enabled Workforce",
-    "company": "gusto"
-  },
-  "7729019": {
-    "first_seen": "2026-04-06T18:10:52.788864+00:00",
-    "updated_at": "2026-04-06T13:55:22-04:00",
-    "title": "Senior Software Engineer, Storage Platform",
-    "company": "robinhood"
-  },
   "6049142002": {
     "first_seen": "2026-04-06T19:19:03.517426+00:00",
     "updated_at": "2026-02-19T14:47:26-05:00",
@@ -983,7 +938,7 @@
   },
   "4683059005": {
     "first_seen": "2026-04-08T18:03:04.545863+00:00",
-    "updated_at": "2026-04-10T17:26:19-04:00",
+    "updated_at": "2026-04-13T13:58:28-04:00",
     "title": "Technical Enablement Manager",
     "company": "gleanwork",
     "alerted": false
@@ -1295,7 +1250,7 @@
   },
   "8026632002": {
     "first_seen": "2026-04-09T16:21:10.947489+00:00",
-    "updated_at": "2026-04-09T16:51:14-04:00",
+    "updated_at": "2026-04-13T14:07:39-04:00",
     "title": "Senior Security Engineer, Incident Response",
     "company": "databricks",
     "alerted": false
@@ -7161,7 +7116,7 @@
   },
   "7013572": {
     "first_seen": "2026-04-13T07:24:55.925135+00:00",
-    "updated_at": "2026-04-06T14:53:07-04:00",
+    "updated_at": "2026-04-13T14:07:04-04:00",
     "title": "Sales Development Representative, West",
     "company": "okta",
     "alerted": true
@@ -14329,7 +14284,7 @@
   },
   "7551356003": {
     "first_seen": "2026-04-13T09:17:54.487556+00:00",
-    "updated_at": "2026-04-03T11:31:53-04:00",
+    "updated_at": "2026-04-13T14:22:59-04:00",
     "title": "Senior Product Manager",
     "company": "abnormalsecurity",
     "alerted": true
@@ -19754,7 +19709,7 @@
   },
   "7683667": {
     "first_seen": "2026-04-13T09:18:10.909788+00:00",
-    "updated_at": "2026-03-24T11:32:42-04:00",
+    "updated_at": "2026-04-13T14:30:46-04:00",
     "title": "Mechanical Engineering Intern (Fall 2026)",
     "company": "formlabs",
     "alerted": true
@@ -20443,6 +20398,76 @@
     "updated_at": "2026-04-09T16:50:13-04:00",
     "title": "Senior Engineering Manager, AI Agents",
     "company": "asana",
+    "alerted": true
+  },
+  "8320126002": {
+    "first_seen": "2026-04-13T19:07:23.864718+00:00",
+    "updated_at": "2026-04-09T16:51:21-04:00",
+    "title": "Solutions Architect - Public Sector (LEAPS) ",
+    "company": "databricks",
+    "alerted": true
+  },
+  "5725448004": {
+    "first_seen": "2026-04-13T19:07:27.850159+00:00",
+    "updated_at": "2026-04-13T13:57:16-04:00",
+    "title": "Senior Technical Program Manager",
+    "company": "cribl",
+    "alerted": true
+  },
+  "8498481002": {
+    "first_seen": "2026-04-13T19:07:30.976373+00:00",
+    "updated_at": "2026-04-13T15:03:25-04:00",
+    "title": "Customer Success Engineer",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7743101": {
+    "first_seen": "2026-04-13T19:07:33.340458+00:00",
+    "updated_at": "2026-04-13T12:48:07-04:00",
+    "title": "Production Support Engineer II",
+    "company": "marqeta",
+    "alerted": true
+  },
+  "6348898": {
+    "first_seen": "2026-04-13T19:07:34.944001+00:00",
+    "updated_at": "2026-04-13T14:36:13-04:00",
+    "title": "Corporate Development & Partnerships Deal Lead",
+    "company": "gusto",
+    "alerted": true
+  },
+  "7138952": {
+    "first_seen": "2026-04-13T19:07:34.945589+00:00",
+    "updated_at": "2026-04-06T13:52:00-04:00",
+    "title": "Senior Principal Product Manager, AI Enabled Workforce",
+    "company": "gusto",
+    "alerted": true
+  },
+  "8489530002": {
+    "first_seen": "2026-04-13T19:07:38.210892+00:00",
+    "updated_at": "2026-04-13T14:19:14-04:00",
+    "title": "Senior Software Engineer, Analytics",
+    "company": "lattice",
+    "alerted": true
+  },
+  "7729019": {
+    "first_seen": "2026-04-13T19:07:40.000561+00:00",
+    "updated_at": "2026-04-06T13:55:22-04:00",
+    "title": "Senior Software Engineer, Storage Platform",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "7681159": {
+    "first_seen": "2026-04-13T19:07:41.767460+00:00",
+    "updated_at": "2026-04-13T13:58:28-04:00",
+    "title": "Staff Android Engineer, Guest & Host ",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7811941": {
+    "first_seen": "2026-04-13T19:07:42.855514+00:00",
+    "updated_at": "2026-04-13T14:57:21-04:00",
+    "title": "Electrical Engineering Intern (Fall 2026)",
+    "company": "formlabs",
     "alerted": true
   }
 }
