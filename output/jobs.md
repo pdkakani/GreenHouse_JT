@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 14:06 UTC
+
+### 🆕 Principal, Technical Program Management (Research & Development)
+**twilio** · Program Management (Project, Program, Agile, Technical)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7707970)
+🕐 Updated: `2026-04-10T11:27:07-04:00` &nbsp;|&nbsp; ID: `7707970`
+
+---
+### 🆕 Senior Principal, Technical Program Management (Research & Development)
+**twilio** · Program Management (Project, Program, Agile, Technical)
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7707977)
+🕐 Updated: `2026-04-10T11:27:07-04:00` &nbsp;|&nbsp; ID: `7707977`
+
+---
+### 🆕 Senior Product Manager - Platform
+**mixpanel** · Product
+📍 San Francisco, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7779504)
+🕐 Updated: `2026-04-06T08:56:16-04:00` &nbsp;|&nbsp; ID: `7779504`
+
+---
+### 🆕 Software Engineer 2
+**abnormalsecurity** · Division Foundations
+📍 Hybrid - Bangalore, India &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694696003?gh_jid=7694696003)
+🕐 Updated: `2026-04-13T09:13:26-04:00` &nbsp;|&nbsp; ID: `7694696003`
+
+---
+### 🔄 Engineering Manager, Vertical AI Products
+**anthropic** · Engineering & Design - Product
+📍 New York City, NY; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5140492008)
+🕐 Updated: `2026-04-13T08:23:36-04:00` &nbsp;|&nbsp; ID: `5140492008`
+
+---
+### 🔄 GTM Strategy & Operations Senior Associate - Sales Development & AI
+**datadog** · Sales Strategy
+📍 Boston, Massachusetts, USA; New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7745775/?gh_jid=7745775)
+🕐 Updated: `2026-04-13T09:36:11-04:00` &nbsp;|&nbsp; ID: `7745775`
+
+---
+### 🔄 Software Engineer II - Backend 
+**abnormalsecurity** · R&D
+📍 Hybrid - Bangalore, India &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/6592675003?gh_jid=6592675003)
+🕐 Updated: `2026-04-13T09:17:00-04:00` &nbsp;|&nbsp; ID: `6592675003`
+
+---
+### 🔄 Manager, Solutions Architects - West
+**gitlab** · SA
+📍 Remote, North America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8451971002)
+🕐 Updated: `2026-04-13T09:37:20-04:00` &nbsp;|&nbsp; ID: `8451971002`
+
+---
+### 🔄 Senior Data Protection Engineer
+**coinbase** · Engineering - Security
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7592041?gh_jid=7592041)
+🕐 Updated: `2026-04-13T10:02:17-04:00` &nbsp;|&nbsp; ID: `7592041`
+
+---
+### 🔄 Senior Security Engineer, IAM
+**coinbase** · Engineering - Security
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7736805?gh_jid=7736805)
+🕐 Updated: `2026-04-13T10:01:16-04:00` &nbsp;|&nbsp; ID: `7736805`
+
+---
+
 ## 📅 Run: 2026-04-13 12:10 UTC
 
 ### 🆕 VP,  Developer Adoption
