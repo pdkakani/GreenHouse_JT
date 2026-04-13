@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 12:10 UTC
+
+### 🆕 VP,  Developer Adoption
+**cloudflare** · Developer Relations
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/6589672?gh_jid=6589672)
+🕐 Updated: `2026-02-10T09:48:38-05:00` &nbsp;|&nbsp; ID: `6589672`
+
+---
+### 🆕 Senior Site Reliability Engineer
+**adyen** · Infrastructure
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7597726)
+🕐 Updated: `2026-04-13T08:02:38-04:00` &nbsp;|&nbsp; ID: `7597726`
+
+---
+### 🔄 Software Engineer, Full-stack
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174743008)
+🕐 Updated: `2026-04-13T07:57:06-04:00` &nbsp;|&nbsp; ID: `5174743008`
+
+---
+### 🔄 Staff+ Software Engineer, Full-stack
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174747008)
+🕐 Updated: `2026-04-13T07:56:22-04:00` &nbsp;|&nbsp; ID: `5174747008`
+
+---
+
 ## 📅 Run: 2026-04-13 11:01 UTC
 
 ### 🆕 Vice President of Product Management, Cloudflare One

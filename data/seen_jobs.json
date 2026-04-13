@@ -1191,7 +1191,7 @@
   },
   "5174743008": {
     "first_seen": "2026-04-08T19:39:23.455896+00:00",
-    "updated_at": "2026-04-12T22:35:28-04:00",
+    "updated_at": "2026-04-13T07:57:06-04:00",
     "title": "Software Engineer, Full-stack",
     "company": "anthropic",
     "alerted": false
@@ -1211,7 +1211,7 @@
   },
   "5174747008": {
     "first_seen": "2026-04-08T19:39:23.456183+00:00",
-    "updated_at": "2026-04-12T22:34:53-04:00",
+    "updated_at": "2026-04-13T07:56:22-04:00",
     "title": "Staff+ Software Engineer, Full-stack",
     "company": "anthropic",
     "alerted": false
@@ -20321,6 +20321,20 @@
     "updated_at": "2026-04-07T03:46:28-04:00",
     "title": "Virtual Solutions Engineer, Lisbon ",
     "company": "cloudflare",
+    "alerted": true
+  },
+  "6589672": {
+    "first_seen": "2026-04-13T12:10:10.703949+00:00",
+    "updated_at": "2026-02-10T09:48:38-05:00",
+    "title": "VP,  Developer Adoption",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7597726": {
+    "first_seen": "2026-04-13T12:10:21.762394+00:00",
+    "updated_at": "2026-04-13T08:02:38-04:00",
+    "title": "Senior Site Reliability Engineer",
+    "company": "adyen",
     "alerted": true
   }
 }
