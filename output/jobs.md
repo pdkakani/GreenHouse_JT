@@ -2,6 +2,213 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 20:13 UTC
+
+### 🆕 Business Systems Analyst Intern (Summer 2026)
+**cloudflare** · Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7812290?gh_jid=7812290)
+🕐 Updated: `2026-04-13T15:33:11-04:00` &nbsp;|&nbsp; ID: `7812290`
+
+---
+### 🆕 Software Engineer (L3) Infrastructure
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7767260)
+🕐 Updated: `2026-04-13T10:27:22-04:00` &nbsp;|&nbsp; ID: `7767260`
+
+---
+### 🆕 Senior Analytics Engineer
+**mixpanel** · Internal Analysis
+📍 San Francisco, US (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7782662)
+🕐 Updated: `2026-04-09T21:05:15-04:00` &nbsp;|&nbsp; ID: `7782662`
+
+---
+### 🆕 Business Development Representative
+**braze** · Sales
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7782462?gh_jid=7782462)
+🕐 Updated: `2026-04-06T14:28:33-04:00` &nbsp;|&nbsp; ID: `7782462`
+
+---
+### 🆕 Business Development Representative
+**braze** · Sales
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7782451?gh_jid=7782451)
+🕐 Updated: `2026-04-06T14:28:32-04:00` &nbsp;|&nbsp; ID: `7782451`
+
+---
+### 🆕 Senior Software Engineer (Channels)
+**iterable** · Engineering
+📍 Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7766310)
+🕐 Updated: `2026-04-06T15:33:07-04:00` &nbsp;|&nbsp; ID: `7766310`
+
+---
+### 🆕 Sales Development Representative
+**abnormalsecurity** · Sales Development
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694149003?gh_jid=7694149003)
+🕐 Updated: `2026-04-13T16:04:21-04:00` &nbsp;|&nbsp; ID: `7694149003`
+
+---
+### 🆕 Senior Software Engineer - Data Platform
+**abnormalsecurity** · Platform & Infrastructure
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/6507659003?gh_jid=6507659003)
+🕐 Updated: `2026-04-06T15:24:42-04:00` &nbsp;|&nbsp; ID: `6507659003`
+
+---
+### 🆕 Senior Software Engineer, Data Platform
+**abnormalsecurity** · Platform & Infrastructure
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/6530466003?gh_jid=6530466003)
+🕐 Updated: `2026-04-06T15:24:43-04:00` &nbsp;|&nbsp; ID: `6530466003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Connecticut, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7698945003)
+🕐 Updated: `2026-04-13T15:27:12-04:00` &nbsp;|&nbsp; ID: `7698945003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Florida, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7698943003)
+🕐 Updated: `2026-04-13T15:28:36-04:00` &nbsp;|&nbsp; ID: `7698943003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, New Jersey, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7698941003)
+🕐 Updated: `2026-04-13T15:28:14-04:00` &nbsp;|&nbsp; ID: `7698941003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Georgia, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7698942003)
+🕐 Updated: `2026-04-13T15:28:24-04:00` &nbsp;|&nbsp; ID: `7698942003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, New York, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7698940003)
+🕐 Updated: `2026-04-13T15:28:04-04:00` &nbsp;|&nbsp; ID: `7698940003`
+
+---
+### 🆕 Solutions Architect, SMB
+**stripe** · 1150 Solutions Architecture
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7361440)
+🕐 Updated: `2026-04-13T11:24:15-04:00` &nbsp;|&nbsp; ID: `7361440`
+
+---
+### 🆕 Senior Software Engineer - AI Engineering
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5850044004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5850044004`
+
+---
+### 🆕 Principal Software Engineer, Cash Line
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7531113)
+🕐 Updated: `2026-04-13T15:13:16-04:00` &nbsp;|&nbsp; ID: `7531113`
+
+---
+### 🆕 Senior Engineering Manager, ASPL
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7767092)
+🕐 Updated: `2026-04-08T12:26:00-04:00` &nbsp;|&nbsp; ID: `7767092`
+
+---
+### 🆕 Senior Software Engineer, Cash Line
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7531105)
+🕐 Updated: `2026-04-13T15:13:09-04:00` &nbsp;|&nbsp; ID: `7531105`
+
+---
+### 🆕 Senior Partnerships Lead, Platform
+**airbnb** · Partnerships
+📍 United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7812272?gh_jid=7812272)
+🕐 Updated: `2026-04-13T15:27:32-04:00` &nbsp;|&nbsp; ID: `7812272`
+
+---
+### 🆕 Senior Privacy Architect Manager
+**airbnb** · Legal
+📍 United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7782533?gh_jid=7782533)
+🕐 Updated: `2026-04-13T15:55:48-04:00` &nbsp;|&nbsp; ID: `7782533`
+
+---
+### 🆕 Hardware Reliability Engineering Intern (Fall 2026)
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7812501/apply/?gh_jid=7812501)
+🕐 Updated: `2026-04-13T16:05:34-04:00` &nbsp;|&nbsp; ID: `7812501`
+
+---
+### 🆕 Mechanical Engineering - Reliability Intern (Fall 2026)
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7812511/apply/?gh_jid=7812511)
+🕐 Updated: `2026-04-13T16:05:52-04:00` &nbsp;|&nbsp; ID: `7812511`
+
+---
+### 🆕 Test Engineering Intern (Fall 2026)
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874)
+🕐 Updated: `2026-04-13T16:06:18-04:00` &nbsp;|&nbsp; ID: `7773874`
+
+---
+### 🔄 Software Engineer, Backend
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174757008)
+🕐 Updated: `2026-04-13T15:28:33-04:00` &nbsp;|&nbsp; ID: `5174757008`
+
+---
+### 🔄 Software Engineer, Full-stack
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5174743008)
+🕐 Updated: `2026-04-13T15:26:52-04:00` &nbsp;|&nbsp; ID: `5174743008`
+
+---
+### 🔄 Software Engineer, Platform
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5157844008)
+🕐 Updated: `2026-04-13T15:31:27-04:00` &nbsp;|&nbsp; ID: `5157844008`
+
+---
+### 🔄 Director, Customer Engineering
+**elastic** · Customer Architects - AMER Mgmt
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769905&gh_jid=7769905)
+🕐 Updated: `2026-04-13T15:44:14-04:00` &nbsp;|&nbsp; ID: `7769905`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - Spain &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7535345)
+🕐 Updated: `2026-04-13T15:17:58-04:00` &nbsp;|&nbsp; ID: `7535345`
+
+---
+### 🔄 Strategic Solutions Engineer
+**okta** · SE Field-321
+📍 Bellevue, Washington; Oregon; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7535277?gh_jid=7535277)
+🕐 Updated: `2026-04-13T15:17:17-04:00` &nbsp;|&nbsp; ID: `7535277`
+
+---
+### 🔄 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7618184003)
+🕐 Updated: `2026-04-13T15:27:55-04:00` &nbsp;|&nbsp; ID: `7618184003`
+
+---
+### 🔄 Program Manager, Revenue Systems
+**dialpad** · 525 - Sales Ops
+📍 Austin, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8438536002)
+🕐 Updated: `2026-04-13T15:31:40-04:00` &nbsp;|&nbsp; ID: `8438536002`
+
+---
+### 🔄 Senior Site Reliability Engineer
+**alloy** · Infrastructure and Security
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8494881002&gh_jid=8494881002)
+🕐 Updated: `2026-04-13T15:08:31-04:00` &nbsp;|&nbsp; ID: `8494881002`
+
+---
+### 🔄 Business Development Representative
+**lattice** · Sales Development
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8497063002)
+🕐 Updated: `2026-04-13T15:32:58-04:00` &nbsp;|&nbsp; ID: `8497063002`
+
+---
+
 ## 📅 Run: 2026-04-13 19:07 UTC
 
 ### 🆕 Solutions Architect - Public Sector (LEAPS) 
