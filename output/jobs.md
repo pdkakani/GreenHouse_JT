@@ -2,6 +2,225 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 22:01 UTC
+
+### 🆕 Tech Admin (P2) GTM Systems
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-13T10:26:30-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🆕 Partner Marketing Manager, Cloud - NAMER
+**datadog** · Partner Marketing
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7779207/?gh_jid=7779207)
+🕐 Updated: `2026-04-09T16:18:40-04:00` &nbsp;|&nbsp; ID: `7779207`
+
+---
+### 🆕 Director, Learning and Development - Operations
+**sofi** · Ops Training Strategy
+📍 UT - Cottonwood Heights; FL - Jacksonville &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7593041003?gh_jid=7593041003)
+🕐 Updated: `2026-04-13T17:27:47-04:00` &nbsp;|&nbsp; ID: `7593041003`
+
+---
+### 🆕 Software Engineer, Guest & Host
+**airbnb** · Software Engineering
+📍 Remote, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7812843?gh_jid=7812843)
+🕐 Updated: `2026-04-13T17:23:30-04:00` &nbsp;|&nbsp; ID: `7812843`
+
+---
+### 🔄 Anthropic Fellows Program
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5023394008)
+🕐 Updated: `2026-04-13T17:54:52-04:00` &nbsp;|&nbsp; ID: `5023394008`
+
+---
+### 🔄 Anthropic Fellows Program — AI Safety
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183044008)
+🕐 Updated: `2026-04-13T17:55:43-04:00` &nbsp;|&nbsp; ID: `5183044008`
+
+---
+### 🔄 Anthropic Fellows Program — AI Security
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5030244008)
+🕐 Updated: `2026-04-13T17:56:05-04:00` &nbsp;|&nbsp; ID: `5030244008`
+
+---
+### 🔄 Anthropic Fellows Program — ML Systems & Performance
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183051008)
+🕐 Updated: `2026-04-13T17:56:34-04:00` &nbsp;|&nbsp; ID: `5183051008`
+
+---
+### 🔄 Anthropic Fellows Program — Reinforcement Learning
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183052008)
+🕐 Updated: `2026-04-13T17:57:40-04:00` &nbsp;|&nbsp; ID: `5183052008`
+
+---
+### 🔄 Product Designer
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5152817008)
+🕐 Updated: `2026-04-13T17:14:02-04:00` &nbsp;|&nbsp; ID: `5152817008`
+
+---
+### 🔄 Solutions Architect, Applied AI (State and Local Government, West)
+**anthropic** · Sales
+📍 San Francisco, CA | New York City, NY | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5140403008)
+🕐 Updated: `2026-04-13T17:40:04-04:00` &nbsp;|&nbsp; ID: `5140403008`
+
+---
+### 🔄 Senior Full Stack Engineer
+**calendly** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8384943002)
+🕐 Updated: `2026-04-13T17:43:15-04:00` &nbsp;|&nbsp; ID: `8384943002`
+
+---
+### 🔄 Principal Site Reliability Engineer
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7611130)
+🕐 Updated: `2026-04-13T17:38:28-04:00` &nbsp;|&nbsp; ID: `7611130`
+
+---
+### 🔄 Senior Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7554499?gh_jid=7554499)
+🕐 Updated: `2026-04-13T17:07:18-04:00` &nbsp;|&nbsp; ID: `7554499`
+
+---
+### 🔄 Senior Software Engineer - Data Platform
+**coinbase** · Engineering - Infrastructure
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7807664?gh_jid=7807664)
+🕐 Updated: `2026-04-13T17:11:29-04:00` &nbsp;|&nbsp; ID: `7807664`
+
+---
+### 🔄 Staff Software Engineer - Tax Engineering
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773216?gh_jid=7773216)
+🕐 Updated: `2026-04-13T17:16:28-04:00` &nbsp;|&nbsp; ID: `7773216`
+
+---
+### 🔄 Corporate Security Engineer
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7441441?gh_jid=7441441)
+🕐 Updated: `2026-04-13T17:21:42-04:00` &nbsp;|&nbsp; ID: `7441441`
+
+---
+### 🔄 Engineering Manager, Reference Anything
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7542202?gh_jid=7542202)
+🕐 Updated: `2026-04-13T17:21:44-04:00` &nbsp;|&nbsp; ID: `7542202`
+
+---
+### 🔄 Engineering Manager, Track Anything
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7542185?gh_jid=7542185)
+🕐 Updated: `2026-04-13T17:21:44-04:00` &nbsp;|&nbsp; ID: `7542185`
+
+---
+### 🔄 Group Tech Lead, Adoption Engineering
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7662620?gh_jid=7662620)
+🕐 Updated: `2026-04-13T17:21:47-04:00` &nbsp;|&nbsp; ID: `7662620`
+
+---
+### 🔄 Head of Engineering, Core Product & Collaborative Work Management
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7718738?gh_jid=7718738)
+🕐 Updated: `2026-04-13T17:21:48-04:00` &nbsp;|&nbsp; ID: `7718738`
+
+---
+### 🔄 iOS Engineer
+**asana** · Product Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/6806085?gh_jid=6806085)
+🕐 Updated: `2026-04-13T17:21:36-04:00` &nbsp;|&nbsp; ID: `6806085`
+
+---
+### 🔄 Principal Security Engineer
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7615659?gh_jid=7615659)
+🕐 Updated: `2026-04-13T17:21:46-04:00` &nbsp;|&nbsp; ID: `7615659`
+
+---
+### 🔄 Senior Engineering Manager, AI Agents
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7454232?gh_jid=7454232)
+🕐 Updated: `2026-04-13T17:21:42-04:00` &nbsp;|&nbsp; ID: `7454232`
+
+---
+### 🔄 Senior Engineering Manager, Security
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7565961?gh_jid=7565961)
+🕐 Updated: `2026-04-13T17:21:44-04:00` &nbsp;|&nbsp; ID: `7565961`
+
+---
+### 🔄 Senior Product Manager, Project & Task Experience
+**asana** · Product Management
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7392230?gh_jid=7392230)
+🕐 Updated: `2026-04-13T17:21:41-04:00` &nbsp;|&nbsp; ID: `7392230`
+
+---
+### 🔄 Senior Software Engineer, AI Product Frameworks
+**asana** · Infrastructure Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7370275?gh_jid=7370275)
+🕐 Updated: `2026-04-13T17:21:41-04:00` &nbsp;|&nbsp; ID: `7370275`
+
+---
+### 🔄 Senior Software Engineer, AI Studio
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7773378?gh_jid=7773378)
+🕐 Updated: `2026-04-13T17:21:35-04:00` &nbsp;|&nbsp; ID: `7773378`
+
+---
+### 🔄 Senior Software Engineer, AI Teammates Experience
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7781698?gh_jid=7781698)
+🕐 Updated: `2026-04-13T17:21:35-04:00` &nbsp;|&nbsp; ID: `7781698`
+
+---
+### 🔄 Senior Software Engineer, Infrastructure Security
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7565315?gh_jid=7565315)
+🕐 Updated: `2026-04-13T17:21:44-04:00` &nbsp;|&nbsp; ID: `7565315`
+
+---
+### 🔄 Senior Software Engineer, Product
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/6791159?gh_jid=6791159)
+🕐 Updated: `2026-04-13T17:21:35-04:00` &nbsp;|&nbsp; ID: `6791159`
+
+---
+### 🔄 Senior Solutions Architect
+**asana** · GTM Operations, Strategy & Field Readiness
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7607510?gh_jid=7607510)
+🕐 Updated: `2026-04-13T17:21:46-04:00` &nbsp;|&nbsp; ID: `7607510`
+
+---
+### 🔄 Software Engineer, CI/CD
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7595104?gh_jid=7595104)
+🕐 Updated: `2026-04-13T17:21:38-04:00` &nbsp;|&nbsp; ID: `7595104`
+
+---
+### 🔄 Software Engineer, CI/CD
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7299272?gh_jid=7299272)
+🕐 Updated: `2026-04-13T17:21:38-04:00` &nbsp;|&nbsp; ID: `7299272`
+
+---
+### 🔄 Staff Engineer - CI/CD
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7394807?gh_jid=7394807)
+🕐 Updated: `2026-04-13T17:21:37-04:00` &nbsp;|&nbsp; ID: `7394807`
+
+---
+### 🔄 Staff Software Engineer, AI Studio
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7773469?gh_jid=7773469)
+🕐 Updated: `2026-04-13T17:21:44-04:00` &nbsp;|&nbsp; ID: `7773469`
+
+---
+
 ## 📅 Run: 2026-04-13 21:09 UTC
 
 ### 🆕 Solutions Architect, Retail 
