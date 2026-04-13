@@ -1,83 +1,4 @@
 {
-  "6485855003": {
-    "first_seen": "2026-04-06T14:51:02.137224+00:00",
-    "updated_at": "2026-04-09T15:01:55-04:00",
-    "title": "Senior Sales Development Representative - Mid-Market ",
-    "company": "huntress"
-  },
-  "7344930": {
-    "first_seen": "2026-04-06T14:51:05.080219+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Principal Software Engineer, Core Sharing & Collaboration",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7344925": {
-    "first_seen": "2026-04-06T14:51:05.080253+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Principal Software Engineer, Core Sharing & Collaboration",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7586690": {
-    "first_seen": "2026-04-06T14:51:16.019190+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Staff Product Designer - Financial Tools and Infrastructure",
-    "company": "coinbase",
-    "alerted": false
-  },
-  "5842463004": {
-    "first_seen": "2026-04-06T15:40:23.225805+00:00",
-    "updated_at": "2026-04-09T11:39:23-04:00",
-    "title": "Technical Account Manager",
-    "company": "hightouch"
-  },
-  "5842464004": {
-    "first_seen": "2026-04-06T15:40:23.225830+00:00",
-    "updated_at": "2026-04-09T11:40:33-04:00",
-    "title": "Technical Account Manager",
-    "company": "hightouch"
-  },
-  "8493679002": {
-    "first_seen": "2026-04-06T15:40:25.460362+00:00",
-    "updated_at": "2026-04-06T11:34:57-04:00",
-    "title": "Field CTO, Public Sector",
-    "company": "gitlab"
-  },
-  "7739556": {
-    "first_seen": "2026-04-06T15:40:29.713282+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Principal Engineer, Identity & Engagement",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7739559": {
-    "first_seen": "2026-04-06T15:40:29.713311+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Principal Engineer, Identity & Engagement",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "4681666005": {
-    "first_seen": "2026-04-06T15:40:31.853069+00:00",
-    "updated_at": "2026-04-06T11:31:34-04:00",
-    "title": "Senior Software Engineer, Backend",
-    "company": "flex"
-  },
-  "7773917": {
-    "first_seen": "2026-04-06T15:40:46.653426+00:00",
-    "updated_at": "2026-04-10T12:39:35-04:00",
-    "title": "Engineering Apprentice, Connect Program",
-    "company": "airbnb",
-    "alerted": false
-  },
-  "7781698": {
-    "first_seen": "2026-04-06T15:40:48.510760+00:00",
-    "updated_at": "2026-04-09T16:50:04-04:00",
-    "title": "Senior Software Engineer, AI Teammates Experience",
-    "company": "asana",
-    "alerted": false
-  },
   "8423158002": {
     "first_seen": "2026-04-06T16:29:00.335701+00:00",
     "updated_at": "2026-04-09T16:51:27-04:00",
@@ -230,7 +151,7 @@
   },
   "7767260": {
     "first_seen": "2026-04-06T20:03:42.414178+00:00",
-    "updated_at": "2026-04-10T11:27:09-04:00",
+    "updated_at": "2026-04-13T10:27:22-04:00",
     "title": "Software Engineer (L3) Infrastructure",
     "company": "twilio",
     "alerted": false
@@ -274,9 +195,10 @@
   },
   "7361440": {
     "first_seen": "2026-04-06T20:04:05.800128+00:00",
-    "updated_at": "2026-04-06T15:50:07-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Solutions Architect, SMB",
-    "company": "stripe"
+    "company": "stripe",
+    "alerted": false
   },
   "5850044004": {
     "first_seen": "2026-04-06T20:04:12.234660+00:00",
@@ -338,7 +260,7 @@
   },
   "7781657": {
     "first_seen": "2026-04-06T21:32:46.996512+00:00",
-    "updated_at": "2026-04-10T11:27:09-04:00",
+    "updated_at": "2026-04-13T10:26:30-04:00",
     "title": "Tech Admin (P2) GTM Systems",
     "company": "twilio",
     "alerted": false
@@ -378,7 +300,7 @@
   },
   "7782805": {
     "first_seen": "2026-04-06T22:04:18.980663+00:00",
-    "updated_at": "2026-04-10T11:27:09-04:00",
+    "updated_at": "2026-04-13T10:25:46-04:00",
     "title": "Staff Software Engineer (L4) Data Platform",
     "company": "twilio",
     "alerted": false
@@ -459,7 +381,7 @@
   },
   "7520997": {
     "first_seen": "2026-04-07T10:32:47.918935+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:34:30-04:00",
     "title": "Staff Machine Learning Engineer (L4)",
     "company": "twilio",
     "alerted": false
@@ -862,9 +784,10 @@
   },
   "7788088": {
     "first_seen": "2026-04-07T21:29:48.233686+00:00",
-    "updated_at": "2026-04-09T16:12:00-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Software Engineer",
-    "company": "stripe"
+    "company": "stripe",
+    "alerted": false
   },
   "7692745003": {
     "first_seen": "2026-04-07T21:29:55.555076+00:00",
@@ -999,9 +922,10 @@
   },
   "7747178": {
     "first_seen": "2026-04-08T14:17:22.134470+00:00",
-    "updated_at": "2026-04-08T10:01:41-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Program Manager, Infrastructure",
-    "company": "stripe"
+    "company": "stripe",
+    "alerted": false
   },
   "7608088003": {
     "first_seen": "2026-04-08T14:17:29.365991+00:00",
@@ -1094,9 +1018,10 @@
   },
   "7762570": {
     "first_seen": "2026-04-08T16:55:31.792172+00:00",
-    "updated_at": "2026-04-08T12:16:30-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Core Events",
-    "company": "stripe"
+    "company": "stripe",
+    "alerted": false
   },
   "7697499": {
     "first_seen": "2026-04-08T16:55:47.840349+00:00",
@@ -1211,7 +1136,7 @@
   },
   "7783164": {
     "first_seen": "2026-04-08T20:22:54.369158+00:00",
-    "updated_at": "2026-04-10T11:27:09-04:00",
+    "updated_at": "2026-04-13T10:26:57-04:00",
     "title": "Enablement Business Partner, SDR (Sales Development Representatives)",
     "company": "twilio",
     "alerted": false
@@ -1287,7 +1212,7 @@
   },
   "7579499": {
     "first_seen": "2026-04-08T22:48:03.955745+00:00",
-    "updated_at": "2026-04-11T04:03:57-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Developer Evangelist",
     "company": "twilio",
     "alerted": false
@@ -1336,7 +1261,7 @@
   },
   "7705877": {
     "first_seen": "2026-04-09T00:03:28.841191+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Director, Product Specialists (Solutions Engineering)",
     "company": "twilio",
     "alerted": false
@@ -1474,14 +1399,14 @@
   },
   "7155492": {
     "first_seen": "2026-04-09T17:35:55.420543+00:00",
-    "updated_at": "2026-04-10T11:27:03-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Principal Machine Learning & Data Engineer ",
     "company": "twilio",
     "alerted": false
   },
   "7066029": {
     "first_seen": "2026-04-09T17:35:55.420825+00:00",
-    "updated_at": "2026-04-10T11:27:03-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Senior Manager, Machine Learning",
     "company": "twilio",
     "alerted": false
@@ -1530,9 +1455,10 @@
   },
   "7120766": {
     "first_seen": "2026-04-09T17:36:09.829563+00:00",
-    "updated_at": "2026-04-09T13:04:55-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Specialist Solutions Architect, Crypto & Stablecoins",
-    "company": "stripe"
+    "company": "stripe",
+    "alerted": false
   },
   "8390148002": {
     "first_seen": "2026-04-09T17:36:14.343560+00:00",
@@ -1770,7 +1696,7 @@
   },
   "7789425": {
     "first_seen": "2026-04-10T06:29:47.454079+00:00",
-    "updated_at": "2026-04-10T11:27:09-04:00",
+    "updated_at": "2026-04-13T10:26:04-04:00",
     "title": "Software Engineer (L2)",
     "company": "twilio",
     "alerted": true
@@ -2302,7 +2228,7 @@
   },
   "7779294": {
     "first_seen": "2026-04-11T11:53:07.875971+00:00",
-    "updated_at": "2026-04-11T07:51:07-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Technical Partner Manager, EMEA Payment Methods",
     "company": "stripe",
     "alerted": true
@@ -4073,7 +3999,7 @@
   },
   "4582767006": {
     "first_seen": "2026-04-12T21:50:20.651837+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Senior Director, AI",
     "company": "fireblocks",
     "alerted": true
@@ -5858,357 +5784,357 @@
   },
   "7229383": {
     "first_seen": "2026-04-13T07:24:53.660372+00:00",
-    "updated_at": "2026-04-10T11:27:03-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Android Engineer - P3 - Security + Identity",
     "company": "twilio",
     "alerted": true
   },
   "7646270": {
     "first_seen": "2026-04-13T07:24:53.660418+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:31:43-04:00",
     "title": "Applications Engineer 2",
     "company": "twilio",
     "alerted": true
   },
   "7254399": {
     "first_seen": "2026-04-13T07:24:53.660435+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:35:58-04:00",
     "title": "Business Systems Analyst 2",
     "company": "twilio",
     "alerted": true
   },
   "7484699": {
     "first_seen": "2026-04-13T07:24:53.660445+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:35:27-04:00",
     "title": "Cloud Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7657991": {
     "first_seen": "2026-04-13T07:24:53.660638+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:31:23-04:00",
     "title": "Engineer, Identity & Access",
     "company": "twilio",
     "alerted": true
   },
   "7360572": {
     "first_seen": "2026-04-13T07:24:53.660845+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": " Lead Consultant / Engineer - Zuora Billings and Revenue",
     "company": "twilio",
     "alerted": true
   },
   "7702644": {
     "first_seen": "2026-04-13T07:24:53.660863+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Machine Learning Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7645948": {
     "first_seen": "2026-04-13T07:24:53.661050+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Partner Solutions Architect",
     "company": "twilio",
     "alerted": true
   },
   "7659831": {
     "first_seen": "2026-04-13T07:24:53.661064+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Partner Solutions Architect",
     "company": "twilio",
     "alerted": true
   },
   "7659776": {
     "first_seen": "2026-04-13T07:24:53.661077+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Partner Solutions Architect",
     "company": "twilio",
     "alerted": true
   },
   "7350846": {
     "first_seen": "2026-04-13T07:24:53.661121+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:35:53-04:00",
     "title": "Presales Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7452089": {
     "first_seen": "2026-04-13T07:24:53.661141+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:34:16-04:00",
     "title": "Principal Presales Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7650625": {
     "first_seen": "2026-04-13T07:24:53.661160+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Principal Presales Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7671815": {
     "first_seen": "2026-04-13T07:24:53.661215+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Product Engineer (Backend)",
     "company": "twilio",
     "alerted": true
   },
   "7481689": {
     "first_seen": "2026-04-13T07:24:53.661244+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Sales Development Representative",
     "company": "twilio",
     "alerted": true
   },
   "7662329": {
     "first_seen": "2026-04-13T07:24:53.661260+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:30:21-04:00",
     "title": "Sales Development Representative",
     "company": "twilio",
     "alerted": true
   },
   "7643551": {
     "first_seen": "2026-04-13T07:24:53.661408+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Senior Business Systems Analyst",
     "company": "twilio",
     "alerted": true
   },
   "7622278": {
     "first_seen": "2026-04-13T07:24:53.661422+00:00",
-    "updated_at": "2026-04-10T11:27:05-04:00",
+    "updated_at": "2026-04-13T10:29:25-04:00",
     "title": "Senior Engineer, Offensive Security",
     "company": "twilio",
     "alerted": true
   },
   "7247707": {
     "first_seen": "2026-04-13T07:24:53.661434+00:00",
-    "updated_at": "2026-04-10T11:27:03-04:00",
+    "updated_at": "2026-04-13T10:35:44-04:00",
     "title": "Senior Engineer, Security Automation",
     "company": "twilio",
     "alerted": true
   },
   "7474040": {
     "first_seen": "2026-04-13T07:24:53.661475+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Senior Infrastructure Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7657993": {
     "first_seen": "2026-04-13T07:24:53.661518+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:32:13-04:00",
     "title": "Senior Network Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7611862": {
     "first_seen": "2026-04-13T07:24:53.661564+00:00",
-    "updated_at": "2026-04-10T11:27:05-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Senior Principal Pre-sales Engineer, Product Specialist",
     "company": "twilio",
     "alerted": true
   },
   "7296100": {
     "first_seen": "2026-04-13T07:24:53.661578+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Senior Product Manager - Enterprise AI",
     "company": "twilio",
     "alerted": true
   },
   "7747554": {
     "first_seen": "2026-04-13T07:24:53.661671+00:00",
-    "updated_at": "2026-04-13T06:03:56-04:00",
+    "updated_at": "2026-04-13T10:25:46-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7662058": {
     "first_seen": "2026-04-13T07:24:53.661686+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:30:48-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7595407": {
     "first_seen": "2026-04-13T07:24:53.661699+00:00",
-    "updated_at": "2026-04-10T11:27:05-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7535345": {
     "first_seen": "2026-04-13T07:24:53.661711+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:33:36-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7394811": {
     "first_seen": "2026-04-13T07:24:53.661723+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:35:05-04:00",
     "title": "Senior Software Engineer- Video Signalling ",
     "company": "twilio",
     "alerted": true
   },
   "7511486": {
     "first_seen": "2026-04-13T07:24:53.661739+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:34:46-04:00",
     "title": "Senior Solutions Engineer 3",
     "company": "twilio",
     "alerted": true
   },
   "7360560": {
     "first_seen": "2026-04-13T07:24:53.661896+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Senior Technical Consultant - Zuora Billings",
     "company": "twilio",
     "alerted": true
   },
   "7743247": {
     "first_seen": "2026-04-13T07:24:53.661912+00:00",
-    "updated_at": "2026-04-10T11:27:08-04:00",
+    "updated_at": "2026-04-13T10:25:46-04:00",
     "title": "Senior Value Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7705692": {
     "first_seen": "2026-04-13T07:24:53.661933+00:00",
-    "updated_at": "2026-04-10T11:27:08-04:00",
+    "updated_at": "2026-04-13T10:28:39-04:00",
     "title": "Senior Zendesk Business Systems Analyst",
     "company": "twilio",
     "alerted": true
   },
   "7658259": {
     "first_seen": "2026-04-13T07:24:53.661964+00:00",
-    "updated_at": "2026-04-10T11:27:03-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Software Architect, Reliability Engineering",
     "company": "twilio",
     "alerted": true
   },
   "7605743": {
     "first_seen": "2026-04-13T07:24:53.661973+00:00",
-    "updated_at": "2026-04-10T11:27:05-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7699251": {
     "first_seen": "2026-04-13T07:24:53.661984+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
+    "updated_at": "2026-04-13T10:29:21-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7661922": {
     "first_seen": "2026-04-13T07:24:53.661993+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:30:44-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7647708": {
     "first_seen": "2026-04-13T07:24:53.662003+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:31:12-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7747550": {
     "first_seen": "2026-04-13T07:24:53.662012+00:00",
-    "updated_at": "2026-04-13T06:03:53-04:00",
+    "updated_at": "2026-04-13T10:25:46-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7602727": {
     "first_seen": "2026-04-13T07:24:53.662022+00:00",
-    "updated_at": "2026-04-10T11:27:05-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Software Engineer, (L2) CDP",
     "company": "twilio",
     "alerted": true
   },
   "7724877": {
     "first_seen": "2026-04-13T07:24:53.662033+00:00",
-    "updated_at": "2026-04-10T11:27:08-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Software Engineer L3 Phone Numbers",
     "company": "twilio",
     "alerted": true
   },
   "7137503": {
     "first_seen": "2026-04-13T07:24:53.662047+00:00",
-    "updated_at": "2026-04-10T11:27:03-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Solution Architect - Zuora",
     "company": "twilio",
     "alerted": true
   },
   "7374339": {
     "first_seen": "2026-04-13T07:24:53.662150+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Sr Manager, Solutions Engineering",
     "company": "twilio",
     "alerted": true
   },
   "7551660": {
     "first_seen": "2026-04-13T07:24:53.662186+00:00",
-    "updated_at": "2026-04-10T16:33:25-04:00",
+    "updated_at": "2026-04-13T10:25:44-04:00",
     "title": "Staff Analytics Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7622285": {
     "first_seen": "2026-04-13T07:24:53.662198+00:00",
-    "updated_at": "2026-04-10T11:27:06-04:00",
+    "updated_at": "2026-04-13T10:29:32-04:00",
     "title": "Staff Engineer, Offensive Security",
     "company": "twilio",
     "alerted": true
   },
   "7716287": {
     "first_seen": "2026-04-13T07:24:53.662219+00:00",
-    "updated_at": "2026-04-10T11:27:08-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Staff Machine Learning Engineer (L4)",
     "company": "twilio",
     "alerted": true
   },
   "7714237": {
     "first_seen": "2026-04-13T07:24:53.662231+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
+    "updated_at": "2026-04-13T10:28:31-04:00",
     "title": "Staff Software Engineer (L4)",
     "company": "twilio",
     "alerted": true
   },
   "7716279": {
     "first_seen": "2026-04-13T07:24:53.662245+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
+    "updated_at": "2026-04-13T10:28:15-04:00",
     "title": "Staff Software Engineer (L4)",
     "company": "twilio",
     "alerted": true
   },
   "7351031": {
     "first_seen": "2026-04-13T07:24:53.662258+00:00",
-    "updated_at": "2026-04-13T01:36:03-04:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
     "title": "Staff Software Engineer - LLM / AI Agents",
     "company": "twilio",
     "alerted": true
   },
   "7592249": {
     "first_seen": "2026-04-13T07:24:53.662547+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:27:57-04:00",
     "title": "Technical Support Engineer ",
     "company": "twilio",
     "alerted": true
   },
   "7349692": {
     "first_seen": "2026-04-13T07:24:53.662566+00:00",
-    "updated_at": "2026-04-10T11:27:04-04:00",
+    "updated_at": "2026-04-13T10:35:37-04:00",
     "title": "Technical Support Engineer 2 (Email Infra)",
     "company": "twilio",
     "alerted": true
   },
   "7748961": {
     "first_seen": "2026-04-13T07:24:53.662616+00:00",
-    "updated_at": "2026-04-10T11:27:08-04:00",
+    "updated_at": "2026-04-13T10:25:46-04:00",
     "title": "Technical Video Content Intern, Developer Ecosystem",
     "company": "twilio",
     "alerted": true
@@ -7139,28 +7065,28 @@
   },
   "5160027008": {
     "first_seen": "2026-04-13T07:24:55.149712+00:00",
-    "updated_at": "2026-03-20T14:29:38-04:00",
+    "updated_at": "2026-04-13T11:25:59-04:00",
     "title": "Director, Marketing Engineering & AI",
     "company": "newrelic",
     "alerted": true
   },
   "5065498008": {
     "first_seen": "2026-04-13T07:24:55.149765+00:00",
-    "updated_at": "2026-03-02T12:40:00-05:00",
+    "updated_at": "2026-04-13T11:25:59-04:00",
     "title": "Director, Strategic Cloud Partnerships ",
     "company": "newrelic",
     "alerted": true
   },
   "5153291008": {
     "first_seen": "2026-04-13T07:24:55.149903+00:00",
-    "updated_at": "2026-04-07T21:42:56-04:00",
+    "updated_at": "2026-04-13T11:25:59-04:00",
     "title": "Director, Web Strategy and Engineering ",
     "company": "newrelic",
     "alerted": true
   },
   "5153292008": {
     "first_seen": "2026-04-13T07:24:55.149993+00:00",
-    "updated_at": "2026-03-26T18:12:08-04:00",
+    "updated_at": "2026-04-13T11:25:59-04:00",
     "title": "Growth Web Engineer ",
     "company": "newrelic",
     "alerted": true
@@ -7370,8 +7296,8 @@
   },
   "7558508": {
     "first_seen": "2026-04-13T07:24:55.925990+00:00",
-    "updated_at": "2026-03-23T15:50:52-04:00",
-    "title": "Senior Developer Content Advocate",
+    "updated_at": "2026-04-13T10:39:18-04:00",
+    "title": "Senior Developer Content Advocate, Social & Community (Auth0)",
     "company": "okta",
     "alerted": true
   },
@@ -8889,672 +8815,672 @@
   },
   "7218796": {
     "first_seen": "2026-04-13T07:24:58.797691+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Account Executive, Enterprise Platforms (New Business)",
     "company": "stripe",
     "alerted": true
   },
   "7576967": {
     "first_seen": "2026-04-13T07:24:58.797840+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Account Executive, Platforms (Existing Business)",
     "company": "stripe",
     "alerted": true
   },
   "7577015": {
     "first_seen": "2026-04-13T07:24:58.797877+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Account Executive, Platforms (Grower)",
     "company": "stripe",
     "alerted": true
   },
   "7728365": {
     "first_seen": "2026-04-13T07:24:58.798178+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Account Executive, Product Sales - Capital",
     "company": "stripe",
     "alerted": true
   },
   "7339700": {
     "first_seen": "2026-04-13T07:24:58.798364+00:00",
-    "updated_at": "2026-04-06T09:13:33-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Account Executive, Startup Platforms (Existing Business)",
     "company": "stripe",
     "alerted": true
   },
   "7286376": {
     "first_seen": "2026-04-13T07:24:58.798561+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "AI/ML Engineering Manager, Payment Intelligence",
     "company": "stripe",
     "alerted": true
   },
   "7550154": {
     "first_seen": "2026-04-13T07:24:58.798647+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Android Engineer, Terminal Developer Productivity",
     "company": "stripe",
     "alerted": true
   },
   "7778627": {
     "first_seen": "2026-04-13T07:24:58.798669+00:00",
-    "updated_at": "2026-04-03T13:57:58-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Android Engineer, Terminal Global Payments",
     "company": "stripe",
     "alerted": true
   },
   "7557403": {
     "first_seen": "2026-04-13T07:24:58.798695+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Android Engineer, Terminal OS Platform",
     "company": "stripe",
     "alerted": true
   },
   "7737241": {
     "first_seen": "2026-04-13T07:24:58.798784+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend / API Engineer, Billing",
     "company": "stripe",
     "alerted": true
   },
   "6176758": {
     "first_seen": "2026-04-13T07:24:58.798791+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend/API Engineer, Money as a Service",
     "company": "stripe",
     "alerted": true
   },
   "7579264": {
     "first_seen": "2026-04-13T07:24:58.798820+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend / API Engineer, Privacy Products",
     "company": "stripe",
     "alerted": true
   },
   "6567253": {
     "first_seen": "2026-04-13T07:24:58.798868+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend Engineer, Core Tech, Canada",
     "company": "stripe",
     "alerted": true
   },
   "6042172": {
     "first_seen": "2026-04-13T07:24:58.798889+00:00",
-    "updated_at": "2026-04-03T13:43:29-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend Engineer, Core Technology",
     "company": "stripe",
     "alerted": true
   },
   "7292520": {
     "first_seen": "2026-04-13T07:24:58.798920+00:00",
-    "updated_at": "2026-04-10T17:06:39-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend Engineer, Developer Experience & Product Platform ",
     "company": "stripe",
     "alerted": true
   },
   "6163230": {
     "first_seen": "2026-04-13T07:24:58.798933+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend Engineer, Payments and Risk",
     "company": "stripe",
     "alerted": true
   },
   "7232592": {
     "first_seen": "2026-04-13T07:24:58.798940+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend Engineer, Payments and Risk",
     "company": "stripe",
     "alerted": true
   },
   "7235875": {
     "first_seen": "2026-04-13T07:24:58.798949+00:00",
-    "updated_at": "2026-04-07T16:12:00-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Backend Engineer, Privy",
     "company": "stripe",
     "alerted": true
   },
   "7524334": {
     "first_seen": "2026-04-13T07:24:58.799050+00:00",
-    "updated_at": "2026-04-08T11:55:53-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Business Development Manager, Agentic Commerce",
     "company": "stripe",
     "alerted": true
   },
   "7551322": {
     "first_seen": "2026-04-13T07:24:58.799137+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Capital & Liquidity Risk Lead",
     "company": "stripe",
     "alerted": true
   },
   "7736482": {
     "first_seen": "2026-04-13T07:24:58.799490+00:00",
-    "updated_at": "2026-04-03T15:22:45-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Corporate Network Engineering Manager",
     "company": "stripe",
     "alerted": true
   },
   "7144975": {
     "first_seen": "2026-04-13T07:24:58.799910+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Design Engineer, Presence",
     "company": "stripe",
     "alerted": true
   },
   "7657999": {
     "first_seen": "2026-04-13T07:24:58.799975+00:00",
-    "updated_at": "2026-04-07T12:03:36-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Agent Experience",
     "company": "stripe",
     "alerted": true
   },
   "7334661": {
     "first_seen": "2026-04-13T07:24:58.799987+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Agentic Commerce",
     "company": "stripe",
     "alerted": true
   },
   "7762324": {
     "first_seen": "2026-04-13T07:24:58.799997+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Connect",
     "company": "stripe",
     "alerted": true
   },
   "7736943": {
     "first_seen": "2026-04-13T07:24:58.800036+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Developer Productivity AI",
     "company": "stripe",
     "alerted": true
   },
   "7540048": {
     "first_seen": "2026-04-13T07:24:58.800053+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, GPTN Integrations ",
     "company": "stripe",
     "alerted": true
   },
   "7760378": {
     "first_seen": "2026-04-13T07:24:58.800065+00:00",
-    "updated_at": "2026-04-06T15:27:36-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Issuing",
     "company": "stripe",
     "alerted": true
   },
   "7747391": {
     "first_seen": "2026-04-13T07:24:58.800102+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager of Managers, Data Platform",
     "company": "stripe",
     "alerted": true
   },
   "7663636": {
     "first_seen": "2026-04-13T07:24:58.800112+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Payments API",
     "company": "stripe",
     "alerted": true
   },
   "7729216": {
     "first_seen": "2026-04-13T07:24:58.800123+00:00",
-    "updated_at": "2026-04-07T16:55:16-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Manager, Privy",
     "company": "stripe",
     "alerted": true
   },
   "7739260": {
     "first_seen": "2026-04-13T07:24:58.800169+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Engineering Program Manager, Tech GRC",
     "company": "stripe",
     "alerted": true
   },
   "7779497": {
     "first_seen": "2026-04-13T07:24:58.800316+00:00",
-    "updated_at": "2026-04-04T06:15:13-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Enterprise Solutions Architecture Manager, AMER",
     "company": "stripe",
     "alerted": true
   },
   "7722641": {
     "first_seen": "2026-04-13T07:24:58.800409+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "EU Market Development, Climate",
     "company": "stripe",
     "alerted": true
   },
   "7230452": {
     "first_seen": "2026-04-13T07:24:58.800913+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Forward Deployed Engineer, Privy",
     "company": "stripe",
     "alerted": true
   },
   "7671038": {
     "first_seen": "2026-04-13T07:24:58.800934+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Forward Deployed Engineer, Professional Services",
     "company": "stripe",
     "alerted": true
   },
   "7656562": {
     "first_seen": "2026-04-13T07:24:58.801009+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Frontend Engineer, Privy",
     "company": "stripe",
     "alerted": true
   },
   "6447175": {
     "first_seen": "2026-04-13T07:24:58.801141+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Full Stack Engineer, Link",
     "company": "stripe",
     "alerted": true
   },
   "7091959": {
     "first_seen": "2026-04-13T07:24:58.801169+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Fullstack Engineer, Privy",
     "company": "stripe",
     "alerted": true
   },
   "7375436": {
     "first_seen": "2026-04-13T07:24:58.801491+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Head of Industry Pursuits, Enterprise Platforms (New Business)",
     "company": "stripe",
     "alerted": true
   },
   "7765976": {
     "first_seen": "2026-04-13T07:24:58.801620+00:00",
-    "updated_at": "2026-04-02T17:31:45-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "HRIS Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7462961": {
     "first_seen": "2026-04-13T07:24:58.801721+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Infrastructure Engineer, Privy",
     "company": "stripe",
     "alerted": true
   },
   "7773831": {
     "first_seen": "2026-04-13T07:24:58.802104+00:00",
-    "updated_at": "2026-04-03T11:57:18-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Learning Architect",
     "company": "stripe",
     "alerted": true
   },
   "7079044": {
     "first_seen": "2026-04-13T07:24:58.802176+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Machine Learning Engineer, Payments ML Accelerator",
     "company": "stripe",
     "alerted": true
   },
   "7629052": {
     "first_seen": "2026-04-13T07:24:58.802210+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Machine Learning Engineer, Stripe Assistant ",
     "company": "stripe",
     "alerted": true
   },
   "7702181": {
     "first_seen": "2026-04-13T07:24:58.802264+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Manager, Sales Development",
     "company": "stripe",
     "alerted": true
   },
   "7249573": {
     "first_seen": "2026-04-13T07:24:58.802991+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Partner Development Manager, Financial Partnership Capabilities ",
     "company": "stripe",
     "alerted": true
   },
   "7697675": {
     "first_seen": "2026-04-13T07:24:58.803017+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Partner Development Manager, Global Networks",
     "company": "stripe",
     "alerted": true
   },
   "7697672": {
     "first_seen": "2026-04-13T07:24:58.803057+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Partner Development Manager, Strategic Partnerships",
     "company": "stripe",
     "alerted": true
   },
   "7607761": {
     "first_seen": "2026-04-13T07:24:58.803072+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Partner Solutions Architect - AWS",
     "company": "stripe",
     "alerted": true
   },
   "7411434": {
     "first_seen": "2026-04-13T07:24:58.803091+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Partner Solutions Architect - Consulting Partners",
     "company": "stripe",
     "alerted": true
   },
   "7594204": {
     "first_seen": "2026-04-13T07:24:58.803387+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "People Process Optimization Specialist",
     "company": "stripe",
     "alerted": true
   },
   "7603763": {
     "first_seen": "2026-04-13T07:24:58.803441+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "People Process Optimization Team Lead",
     "company": "stripe",
     "alerted": true
   },
   "7216664": {
     "first_seen": "2026-04-13T07:24:58.803522+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "PhD Machine Learning Engineer, Intern",
     "company": "stripe",
     "alerted": true
   },
   "7216668": {
     "first_seen": "2026-04-13T07:24:58.803555+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "PhD Machine Learning Engineer, New Grad",
     "company": "stripe",
     "alerted": true
   },
   "7561053": {
     "first_seen": "2026-04-13T07:24:58.803772+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, Banking as a Service",
     "company": "stripe",
     "alerted": true
   },
   "7561551": {
     "first_seen": "2026-04-13T07:24:58.803808+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, Commerce Systems",
     "company": "stripe",
     "alerted": true
   },
   "7392697": {
     "first_seen": "2026-04-13T07:24:58.803834+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, Link Consumer Product",
     "company": "stripe",
     "alerted": true
   },
   "7517535": {
     "first_seen": "2026-04-13T07:24:58.803894+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, ML Foundations and GenAI",
     "company": "stripe",
     "alerted": true
   },
   "7737124": {
     "first_seen": "2026-04-13T07:24:58.803917+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager: New Grad Accelerator",
     "company": "stripe",
     "alerted": true
   },
   "7176530": {
     "first_seen": "2026-04-13T07:24:58.803937+00:00",
-    "updated_at": "2026-04-01T16:30:37-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, Payments",
     "company": "stripe",
     "alerted": true
   },
   "7580706": {
     "first_seen": "2026-04-13T07:24:58.803945+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, Payments Intelligence",
     "company": "stripe",
     "alerted": true
   },
   "6651889": {
     "first_seen": "2026-04-13T07:24:58.803985+00:00",
-    "updated_at": "2026-04-02T14:04:02-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, Stripe Infrastructure",
     "company": "stripe",
     "alerted": true
   },
   "7397265": {
     "first_seen": "2026-04-13T07:24:58.804013+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Manager, Terminal Device Expansion",
     "company": "stripe",
     "alerted": true
   },
   "7391537": {
     "first_seen": "2026-04-13T07:24:58.804426+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Product Sales Manager, Capital",
     "company": "stripe",
     "alerted": true
   },
   "7739207": {
     "first_seen": "2026-04-13T07:24:58.805186+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Sales Compensation Analytics & Systems Specialist",
     "company": "stripe",
     "alerted": true
   },
   "6570253": {
     "first_seen": "2026-04-13T07:24:58.805204+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Sales Development Representative",
     "company": "stripe",
     "alerted": true
   },
   "7375100": {
     "first_seen": "2026-04-13T07:24:58.805313+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Sales Manager, Platforms (Existing Business)",
     "company": "stripe",
     "alerted": true
   },
   "7736171": {
     "first_seen": "2026-04-13T07:24:58.805352+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "SDK Engineer (React/React Native), Privy",
     "company": "stripe",
     "alerted": true
   },
   "7776179": {
     "first_seen": "2026-04-13T07:24:58.805430+00:00",
-    "updated_at": "2026-04-08T14:41:32-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Security Engineer, Bridge",
     "company": "stripe",
     "alerted": true
   },
   "7477571": {
     "first_seen": "2026-04-13T07:24:58.805460+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Security Engineer, New Grad ",
     "company": "stripe",
     "alerted": true
   },
   "7551324": {
     "first_seen": "2026-04-13T07:24:58.805477+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Senior Debt Capital Markets Specialist, Treasury-Finance",
     "company": "stripe",
     "alerted": true
   },
   "7277110": {
     "first_seen": "2026-04-13T07:24:58.805735+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Software Engineer, Bridge",
     "company": "stripe",
     "alerted": true
   },
   "7210115": {
     "first_seen": "2026-04-13T07:24:58.805882+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Software Engineer, Intern (Summer)",
     "company": "stripe",
     "alerted": true
   },
   "7746033": {
     "first_seen": "2026-04-13T07:24:58.805905+00:00",
-    "updated_at": "2026-04-03T16:27:58-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Software Engineer, Machine Learning Infrastructure",
     "company": "stripe",
     "alerted": true
   },
   "7761694": {
     "first_seen": "2026-04-13T07:24:58.805954+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Software Engineer, Product Security Data Platforms",
     "company": "stripe",
     "alerted": true
   },
   "7507904": {
     "first_seen": "2026-04-13T07:24:58.805992+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Software Engineer - Smart Contract, Bridge",
     "company": "stripe",
     "alerted": true
   },
   "7434912": {
     "first_seen": "2026-04-13T07:24:58.806096+00:00",
-    "updated_at": "2026-04-06T12:18:34-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Solutions Engineer, Bridge",
     "company": "stripe",
     "alerted": true
   },
   "7380371": {
     "first_seen": "2026-04-13T07:24:58.806148+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Specialist Solutions Architect, Money Management",
     "company": "stripe",
     "alerted": true
   },
   "7377591": {
     "first_seen": "2026-04-13T07:24:58.806167+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Specialist Solutions Architect, Payments",
     "company": "stripe",
     "alerted": true
   },
   "7377593": {
     "first_seen": "2026-04-13T07:24:58.806182+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Specialist Solutions Architect, Payments",
     "company": "stripe",
     "alerted": true
   },
   "7365914": {
     "first_seen": "2026-04-13T07:24:58.806197+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Specialist Solutions Architect, Radar (Fraud/Risk)",
     "company": "stripe",
     "alerted": true
   },
   "7369269": {
     "first_seen": "2026-04-13T07:24:58.806254+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Engineer, Account Engineering",
     "company": "stripe",
     "alerted": true
   },
   "7280343": {
     "first_seen": "2026-04-13T07:24:58.806308+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Engineer, Experimental Projects",
     "company": "stripe",
     "alerted": true
   },
   "7416957": {
     "first_seen": "2026-04-13T07:24:58.806334+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Engineer, Payments",
     "company": "stripe",
     "alerted": true
   },
   "7600571": {
     "first_seen": "2026-04-13T07:24:58.806366+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Engineer, Workflow Engine",
     "company": "stripe",
     "alerted": true
   },
   "7568987": {
     "first_seen": "2026-04-13T07:24:58.806441+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Product Manager, Orchestration Lead",
     "company": "stripe",
     "alerted": true
   },
   "7550590": {
     "first_seen": "2026-04-13T07:24:58.806478+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Product Manager, Stripe Apps and Extensibility Platform",
     "company": "stripe",
     "alerted": true
   },
   "7767063": {
     "first_seen": "2026-04-13T07:24:58.806506+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Software Engineer, Stream Compute",
     "company": "stripe",
     "alerted": true
   },
   "7705412": {
     "first_seen": "2026-04-13T07:24:58.806526+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Staff Software Engineer, Terminal Developer Productivity",
     "company": "stripe",
     "alerted": true
   },
   "7719602": {
     "first_seen": "2026-04-13T07:24:58.807251+00:00",
-    "updated_at": "2026-04-03T17:54:56-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Technical Partner Manager, AMER Banks",
     "company": "stripe",
     "alerted": true
   },
   "7778643": {
     "first_seen": "2026-04-13T07:24:58.807286+00:00",
-    "updated_at": "2026-04-03T13:44:43-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Technical Program Manager,  Extensibility Programs",
     "company": "stripe",
     "alerted": true
   },
   "7417090": {
     "first_seen": "2026-04-13T07:24:58.807320+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Technical Program Manager,  Identity and Access Management Programs",
     "company": "stripe",
     "alerted": true
   },
   "6932491": {
     "first_seen": "2026-04-13T07:24:58.807339+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Technical Program Manager, Payments Experiences",
     "company": "stripe",
     "alerted": true
   },
   "7685855": {
     "first_seen": "2026-04-13T07:24:58.807349+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Technical Program Manager, Risk",
     "company": "stripe",
     "alerted": true
   },
   "7377101": {
     "first_seen": "2026-04-13T07:24:58.807392+00:00",
-    "updated_at": "2026-04-01T11:46:05-04:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
     "title": "Technical Solutions Engineer",
     "company": "stripe",
     "alerted": true
@@ -17023,63 +16949,63 @@
   },
   "4662147006": {
     "first_seen": "2026-04-13T09:18:07.243781+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Director of Engineering, Dynamic Platform",
     "company": "fireblocks",
     "alerted": true
   },
   "4664533006": {
     "first_seen": "2026-04-13T09:18:07.243892+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Incident Response Engineer (Pacific time)",
     "company": "fireblocks",
     "alerted": true
   },
   "4626035006": {
     "first_seen": "2026-04-13T09:18:07.243935+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Mobile Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4626033006": {
     "first_seen": "2026-04-13T09:18:07.243951+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Mobile Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4658119006": {
     "first_seen": "2026-04-13T09:18:07.244168+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Sales Engineer, Banking",
     "company": "fireblocks",
     "alerted": true
   },
   "4601513006": {
     "first_seen": "2026-04-13T09:18:07.244407+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Senior Blockchain Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4615233006": {
     "first_seen": "2026-04-13T09:18:07.244843+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Senior Product Manager, Fireblocks Trust Company",
     "company": "fireblocks",
     "alerted": true
   },
   "4656035006": {
     "first_seen": "2026-04-13T09:18:07.245006+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Site Reliability Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4619316006": {
     "first_seen": "2026-04-13T09:18:07.245017+00:00",
-    "updated_at": "2026-04-07T05:42:14-04:00",
+    "updated_at": "2026-04-13T10:37:43-04:00",
     "title": "Site Reliability Engineer (SRE) (Pacific time)",
     "company": "fireblocks",
     "alerted": true
@@ -18311,15 +18237,15 @@
   },
   "7627311": {
     "first_seen": "2026-04-13T09:18:09.439377+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
-    "title": "Staff Product Design - Growth Design Language & Experience Systems",
+    "updated_at": "2026-04-13T10:28:33-04:00",
+    "title": "Staff Product Designer - Consumer Growth",
     "company": "instacart",
     "alerted": true
   },
   "7627450": {
     "first_seen": "2026-04-13T09:18:09.439423+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
-    "title": "Staff Product Design - Growth Design Language & Experience Systems",
+    "updated_at": "2026-04-13T10:29:23-04:00",
+    "title": "Staff Product Designer - Consumer Growth",
     "company": "instacart",
     "alerted": true
   },
@@ -20313,14 +20239,14 @@
   },
   "7707970": {
     "first_seen": "2026-04-13T14:06:27.191983+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Principal, Technical Program Management (Research & Development)",
     "company": "twilio",
     "alerted": true
   },
   "7707977": {
     "first_seen": "2026-04-13T14:06:27.192286+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
+    "updated_at": "2026-04-13T10:25:45-04:00",
     "title": "Senior Principal, Technical Program Management (Research & Development)",
     "company": "twilio",
     "alerted": true
@@ -20337,6 +20263,111 @@
     "updated_at": "2026-04-13T09:13:26-04:00",
     "title": "Software Engineer 2",
     "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "3668333": {
+    "first_seen": "2026-04-13T15:44:03.389424+00:00",
+    "updated_at": "2026-04-13T10:54:07-04:00",
+    "title": "Sales Development Representative - Public Sector - Arlington, VA (On-Site)",
+    "company": "elastic",
+    "alerted": true
+  },
+  "7579269": {
+    "first_seen": "2026-04-13T15:44:04.117618+00:00",
+    "updated_at": "2026-04-03T13:04:38-04:00",
+    "title": "Vulnerability Management Engineer",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7481282": {
+    "first_seen": "2026-04-13T15:44:04.117656+00:00",
+    "updated_at": "2026-03-03T10:42:48-05:00",
+    "title": "Workday Functional Specialist",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7651276003": {
+    "first_seen": "2026-04-13T15:44:05.085540+00:00",
+    "updated_at": "2026-04-13T10:42:13-04:00",
+    "title": "Engineering Manager - Conversational AI Platform",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7807783": {
+    "first_seen": "2026-04-13T15:44:05.882007+00:00",
+    "updated_at": "2026-04-13T10:49:08-04:00",
+    "title": "Services Architect 3 - Denver",
+    "company": "datadog",
+    "alerted": true
+  },
+  "7807760": {
+    "first_seen": "2026-04-13T15:44:05.882043+00:00",
+    "updated_at": "2026-04-13T10:49:23-04:00",
+    "title": "Services Architect 3 - New York",
+    "company": "datadog",
+    "alerted": true
+  },
+  "7615384": {
+    "first_seen": "2026-04-13T15:44:06.613961+00:00",
+    "updated_at": "2026-04-13T10:59:33-04:00",
+    "title": "DevOps Data Engineer",
+    "company": "okta",
+    "alerted": true
+  },
+  "6485855003": {
+    "first_seen": "2026-04-13T15:44:07.319834+00:00",
+    "updated_at": "2026-04-09T15:01:55-04:00",
+    "title": "Senior Sales Development Representative - Mid-Market ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "8493679002": {
+    "first_seen": "2026-04-13T15:44:08.167600+00:00",
+    "updated_at": "2026-04-06T11:34:57-04:00",
+    "title": "Field CTO, Public Sector",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "4681666005": {
+    "first_seen": "2026-04-13T15:44:12.477329+00:00",
+    "updated_at": "2026-04-06T11:31:34-04:00",
+    "title": "Senior Software Engineer, Backend",
+    "company": "flex",
+    "alerted": true
+  },
+  "7778592": {
+    "first_seen": "2026-04-13T15:44:18.649955+00:00",
+    "updated_at": "2026-04-13T10:56:19-04:00",
+    "title": "Engineering Template ",
+    "company": "upstart",
+    "alerted": true
+  },
+  "7779161": {
+    "first_seen": "2026-04-13T15:44:18.650642+00:00",
+    "updated_at": "2026-04-13T10:55:23-04:00",
+    "title": "Software Engineer, Borrower Experience ",
+    "company": "upstart",
+    "alerted": true
+  },
+  "7586690": {
+    "first_seen": "2026-04-13T15:44:25.760525+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Staff Product Designer - Financial Tools and Infrastructure",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7773917": {
+    "first_seen": "2026-04-13T15:44:30.169521+00:00",
+    "updated_at": "2026-04-10T12:39:35-04:00",
+    "title": "Engineering Apprentice, Connect Program",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7781698": {
+    "first_seen": "2026-04-13T15:44:30.651946+00:00",
+    "updated_at": "2026-04-09T16:50:04-04:00",
+    "title": "Senior Software Engineer, AI Teammates Experience",
+    "company": "asana",
     "alerted": true
   }
 }
