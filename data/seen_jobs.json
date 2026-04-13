@@ -6045,7 +6045,7 @@
   },
   "7747554": {
     "first_seen": "2026-04-13T07:24:53.661671+00:00",
-    "updated_at": "2026-04-10T11:27:08-04:00",
+    "updated_at": "2026-04-13T06:03:56-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
@@ -6143,7 +6143,7 @@
   },
   "7747550": {
     "first_seen": "2026-04-13T07:24:53.662012+00:00",
-    "updated_at": "2026-04-10T11:27:08-04:00",
+    "updated_at": "2026-04-13T06:03:53-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
@@ -20307,6 +20307,20 @@
     "updated_at": "2026-04-01T17:53:44-04:00",
     "title": "Sales Development Representative",
     "company": "ivalua",
+    "alerted": true
+  },
+  "7630417": {
+    "first_seen": "2026-04-13T11:00:37.520386+00:00",
+    "updated_at": "2026-02-25T10:59:07-05:00",
+    "title": "Vice President of Product Management, Cloudflare One",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "6934200": {
+    "first_seen": "2026-04-13T11:00:37.520420+00:00",
+    "updated_at": "2026-04-07T03:46:28-04:00",
+    "title": "Virtual Solutions Engineer, Lisbon ",
+    "company": "cloudflare",
     "alerted": true
   }
 }

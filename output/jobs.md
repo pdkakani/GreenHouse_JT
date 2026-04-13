@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 11:01 UTC
+
+### 🆕 Vice President of Product Management, Cloudflare One
+**cloudflare** · Product
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7630417?gh_jid=7630417)
+🕐 Updated: `2026-02-25T10:59:07-05:00` &nbsp;|&nbsp; ID: `7630417`
+
+---
+### 🆕 Virtual Solutions Engineer, Lisbon 
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/6934200?gh_jid=6934200)
+🕐 Updated: `2026-04-07T03:46:28-04:00` &nbsp;|&nbsp; ID: `6934200`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7747554)
+🕐 Updated: `2026-04-13T06:03:56-04:00` &nbsp;|&nbsp; ID: `7747554`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7747550)
+🕐 Updated: `2026-04-13T06:03:53-04:00` &nbsp;|&nbsp; ID: `7747550`
+
+---
+
 ## 📅 Run: 2026-04-13 09:20 UTC
 
 ### 🆕 Anthropic Fellows Program
