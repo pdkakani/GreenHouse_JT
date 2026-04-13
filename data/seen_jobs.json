@@ -1,30 +1,4 @@
 {
-  "4973067008": {
-    "first_seen": "2026-04-06T17:25:47.284010+00:00",
-    "updated_at": "2026-04-06T13:01:31-04:00",
-    "title": "Infrastructure Engineer, Pre-training",
-    "company": "anthropic"
-  },
-  "8495119002": {
-    "first_seen": "2026-04-06T17:26:02.099397+00:00",
-    "updated_at": "2026-04-06T12:41:58-04:00",
-    "title": "Senior Full Stack Engineer, Support Engineering",
-    "company": "calendly"
-  },
-  "7411772": {
-    "first_seen": "2026-04-06T17:26:14.568279+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Senior Offensive Security Engineer (IOT / Network Pentesting)",
-    "company": "coinbase",
-    "alerted": false
-  },
-  "7454232": {
-    "first_seen": "2026-04-06T17:26:19.282558+00:00",
-    "updated_at": "2026-04-09T16:50:13-04:00",
-    "title": "Senior Engineering Manager, AI Agents",
-    "company": "asana",
-    "alerted": false
-  },
   "5704320004": {
     "first_seen": "2026-04-06T18:10:42.664110+00:00",
     "updated_at": "2026-04-06T15:12:22-04:00",
@@ -53,9 +27,10 @@
   },
   "7743101": {
     "first_seen": "2026-04-06T18:10:45.351435+00:00",
-    "updated_at": "2026-04-06T14:15:41-04:00",
+    "updated_at": "2026-04-13T12:48:07-04:00",
     "title": "Production Support Engineer II",
-    "company": "marqeta"
+    "company": "marqeta",
+    "alerted": false
   },
   "7138952": {
     "first_seen": "2026-04-06T18:10:46.863127+00:00",
@@ -570,9 +545,10 @@
   },
   "6741571": {
     "first_seen": "2026-04-07T18:55:29.403939+00:00",
-    "updated_at": "2026-04-07T13:59:03-04:00",
+    "updated_at": "2026-04-13T13:18:45-04:00",
     "title": "Sales Development Representative (Boston)",
-    "company": "datadog"
+    "company": "datadog",
+    "alerted": false
   },
   "8490453002": {
     "first_seen": "2026-04-07T18:55:33.700050+00:00",
@@ -1061,9 +1037,10 @@
   },
   "7782588": {
     "first_seen": "2026-04-08T19:39:33.024315+00:00",
-    "updated_at": "2026-04-09T12:22:46-04:00",
+    "updated_at": "2026-04-13T13:30:34-04:00",
     "title": "Staff Software Engineer in Test, PAM ",
-    "company": "okta"
+    "company": "okta",
+    "alerted": false
   },
   "7792472": {
     "first_seen": "2026-04-08T19:39:36.088531+00:00",
@@ -1598,8 +1575,8 @@
   },
   "7712903": {
     "first_seen": "2026-04-09T23:53:02.294284+00:00",
-    "updated_at": "2026-04-09T18:59:08-04:00",
-    "title": "Engineering Manager, Listings Product",
+    "updated_at": "2026-04-13T13:46:10-04:00",
+    "title": "Engineering Manager, Listings Products",
     "company": "airbnb",
     "alerted": true
   },
@@ -9228,8 +9205,8 @@
   },
   "7375100": {
     "first_seen": "2026-04-13T07:24:58.805313+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
-    "title": "Sales Manager, Platforms (Existing Business)",
+    "updated_at": "2026-04-13T12:53:37-04:00",
+    "title": "Enterprise Platforms Sales Manager (Existing Business)",
     "company": "stripe",
     "alerted": true
   },
@@ -19154,7 +19131,7 @@
   },
   "8332302002": {
     "first_seen": "2026-04-13T09:18:09.939287+00:00",
-    "updated_at": "2025-12-26T12:57:29-05:00",
+    "updated_at": "2026-04-13T13:11:15-04:00",
     "title": "Staff Software Engineer, Cloud Security",
     "company": "lyft",
     "alerted": true
@@ -20382,6 +20359,90 @@
     "updated_at": "2026-04-13T12:43:13-04:00",
     "title": "Business Development Representative, Emerging AI Products ",
     "company": "intercom",
+    "alerted": true
+  },
+  "4973067008": {
+    "first_seen": "2026-04-13T17:55:29.115350+00:00",
+    "updated_at": "2026-04-06T13:01:31-04:00",
+    "title": "Infrastructure Engineer, Pre-training",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7694788003": {
+    "first_seen": "2026-04-13T17:55:34.025084+00:00",
+    "updated_at": "2026-04-13T13:40:38-04:00",
+    "title": "Product Owner, GTM Sales Systems",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "4944097008": {
+    "first_seen": "2026-04-13T17:55:35.702154+00:00",
+    "updated_at": "2026-04-13T13:10:46-04:00",
+    "title": "Principal Software Engineer - Developer Platform",
+    "company": "newrelic",
+    "alerted": true
+  },
+  "8495119002": {
+    "first_seen": "2026-04-13T17:55:41.216812+00:00",
+    "updated_at": "2026-04-06T12:41:58-04:00",
+    "title": "Senior Full Stack Engineer, Support Engineering",
+    "company": "calendly",
+    "alerted": true
+  },
+  "7812189": {
+    "first_seen": "2026-04-13T17:55:45.003885+00:00",
+    "updated_at": "2026-04-13T13:47:08-04:00",
+    "title": "Engineering Manager, Compliance Data and Evidence Engine",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7731850": {
+    "first_seen": "2026-04-13T17:55:45.246461+00:00",
+    "updated_at": "2026-04-13T13:18:59-04:00",
+    "title": "AV / IT Engineer",
+    "company": "adyen",
+    "alerted": true
+  },
+  "4684410005": {
+    "first_seen": "2026-04-13T17:55:46.889197+00:00",
+    "updated_at": "2026-04-13T13:12:16-04:00",
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "company": "flex",
+    "alerted": true
+  },
+  "7411772": {
+    "first_seen": "2026-04-13T17:55:54.485661+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Senior Offensive Security Engineer (IOT / Network Pentesting)",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "4218079009": {
+    "first_seen": "2026-04-13T17:55:58.712141+00:00",
+    "updated_at": "2026-04-13T12:54:09-04:00",
+    "title": "Director of Business Development & Employee Benefits",
+    "company": "fetch",
+    "alerted": true
+  },
+  "7808870": {
+    "first_seen": "2026-04-13T17:55:58.951991+00:00",
+    "updated_at": "2026-04-13T13:26:23-04:00",
+    "title": "Data Engineering Manager, Communication & Connectivity Data",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7740288": {
+    "first_seen": "2026-04-13T17:55:59.358791+00:00",
+    "updated_at": "2026-04-13T13:46:04-04:00",
+    "title": "Staff Product Manager",
+    "company": "flexport",
+    "alerted": true
+  },
+  "7454232": {
+    "first_seen": "2026-04-13T17:55:59.970631+00:00",
+    "updated_at": "2026-04-09T16:50:13-04:00",
+    "title": "Senior Engineering Manager, AI Agents",
+    "company": "asana",
     "alerted": true
   }
 }

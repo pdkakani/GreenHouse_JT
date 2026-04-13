@@ -2,6 +2,117 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 17:56 UTC
+
+### 🆕 Infrastructure Engineer, Pre-training
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)
+🕐 Updated: `2026-04-06T13:01:31-04:00` &nbsp;|&nbsp; ID: `4973067008`
+
+---
+### 🆕 Product Owner, GTM Sales Systems
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7694788003)
+🕐 Updated: `2026-04-13T13:40:38-04:00` &nbsp;|&nbsp; ID: `7694788003`
+
+---
+### 🆕 Principal Software Engineer - Developer Platform
+**newrelic** · Telemetry Data Platform
+📍 Portland, Oregon, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/4944097008)
+🕐 Updated: `2026-04-13T13:10:46-04:00` &nbsp;|&nbsp; ID: `4944097008`
+
+---
+### 🆕 Senior Full Stack Engineer, Support Engineering
+**calendly** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8495119002)
+🕐 Updated: `2026-04-06T12:41:58-04:00` &nbsp;|&nbsp; ID: `8495119002`
+
+---
+### 🆕 Engineering Manager, Compliance Data and Evidence Engine
+**stripe** · 8126 Developer Infrastructure
+📍 Seattle, San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812189)
+🕐 Updated: `2026-04-13T13:47:08-04:00` &nbsp;|&nbsp; ID: `7812189`
+
+---
+### 🆕 AV / IT Engineer
+**adyen** · Infrastructure
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7731850)
+🕐 Updated: `2026-04-13T13:18:59-04:00` &nbsp;|&nbsp; ID: `7731850`
+
+---
+### 🆕 Senior Software Development Engineer in Test (SDET)
+**flex** · Engineering
+📍 Remote (U.S.) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4684410005)
+🕐 Updated: `2026-04-13T13:12:16-04:00` &nbsp;|&nbsp; ID: `4684410005`
+
+---
+### 🆕 Senior Offensive Security Engineer (IOT / Network Pentesting)
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7411772?gh_jid=7411772)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7411772`
+
+---
+### 🆕 Director of Business Development & Employee Benefits
+**fetch** · Partnerships
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fetch/jobs/4218079009)
+🕐 Updated: `2026-04-13T12:54:09-04:00` &nbsp;|&nbsp; ID: `4218079009`
+
+---
+### 🆕 Data Engineering Manager, Communication & Connectivity Data
+**airbnb** · Software Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7808870?gh_jid=7808870)
+🕐 Updated: `2026-04-13T13:26:23-04:00` &nbsp;|&nbsp; ID: `7808870`
+
+---
+### 🆕 Staff Product Manager
+**flexport** · Product Management
+📍 Bellevue, Washington, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7740288?gh_jid=7740288)
+🕐 Updated: `2026-04-13T13:46:04-04:00` &nbsp;|&nbsp; ID: `7740288`
+
+---
+### 🆕 Senior Engineering Manager, AI Agents
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7454232?gh_jid=7454232)
+🕐 Updated: `2026-04-09T16:50:13-04:00` &nbsp;|&nbsp; ID: `7454232`
+
+---
+### 🔄 Sales Development Representative (Boston)
+**datadog** · Sales Development
+📍 Boston, Massachusetts, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571)
+🕐 Updated: `2026-04-13T13:18:45-04:00` &nbsp;|&nbsp; ID: `6741571`
+
+---
+### 🔄 Staff Software Engineer in Test, PAM 
+**okta** · Engineering Quality-630
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7782588?gh_jid=7782588)
+🕐 Updated: `2026-04-13T13:30:34-04:00` &nbsp;|&nbsp; ID: `7782588`
+
+---
+### 🔄 Enterprise Platforms Sales Manager (Existing Business)
+**stripe** · 1170 GEO Sales HQ (NA)
+📍 US-SF &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7375100)
+🕐 Updated: `2026-04-13T12:53:37-04:00` &nbsp;|&nbsp; ID: `7375100`
+
+---
+### 🔄 Production Support Engineer II
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743101)
+🕐 Updated: `2026-04-13T12:48:07-04:00` &nbsp;|&nbsp; ID: `7743101`
+
+---
+### 🔄 Engineering Manager, Listings Products
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7712903?gh_jid=7712903)
+🕐 Updated: `2026-04-13T13:46:10-04:00` &nbsp;|&nbsp; ID: `7712903`
+
+---
+### 🔄 Staff Software Engineer, Cloud Security
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8332302002?gh_jid=8332302002)
+🕐 Updated: `2026-04-13T13:11:15-04:00` &nbsp;|&nbsp; ID: `8332302002`
+
+---
+
 ## 📅 Run: 2026-04-13 16:47 UTC
 
 ### 🆕 Business Development Representative
