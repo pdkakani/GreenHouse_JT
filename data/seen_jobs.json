@@ -1,48 +1,4 @@
 {
-  "7301401": {
-    "first_seen": "2026-04-06T22:04:18.980514+00:00",
-    "updated_at": "2026-04-06T17:58:58-04:00",
-    "title": "Software Engineer (L3)",
-    "company": "twilio"
-  },
-  "7782805": {
-    "first_seen": "2026-04-06T22:04:18.980663+00:00",
-    "updated_at": "2026-04-13T10:25:46-04:00",
-    "title": "Staff Software Engineer (L4) Data Platform",
-    "company": "twilio",
-    "alerted": false
-  },
-  "5850263004": {
-    "first_seen": "2026-04-06T22:04:27.788760+00:00",
-    "updated_at": "2026-04-06T17:53:17-04:00",
-    "title": "Vercel Development Representative - APAC",
-    "company": "vercel"
-  },
-  "7691477003": {
-    "first_seen": "2026-04-06T22:55:43.450865+00:00",
-    "updated_at": "2026-04-07T19:48:05-04:00",
-    "title": "Enterprise Solutions Engineer",
-    "company": "postman"
-  },
-  "7691486003": {
-    "first_seen": "2026-04-06T22:55:43.450908+00:00",
-    "updated_at": "2026-04-06T23:43:41-04:00",
-    "title": "Enterprise Solutions Engineer",
-    "company": "postman"
-  },
-  "7691496003": {
-    "first_seen": "2026-04-06T22:55:43.450961+00:00",
-    "updated_at": "2026-04-06T23:41:55-04:00",
-    "title": "Enterprise Solutions Engineer, LATAM",
-    "company": "postman"
-  },
-  "7736521": {
-    "first_seen": "2026-04-06T22:56:03.828224+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
-    "company": "coinbase",
-    "alerted": false
-  },
   "8480551002": {
     "first_seen": "2026-04-06T23:30:27.456849+00:00",
     "updated_at": "2026-04-06T19:00:21-04:00",
@@ -63,9 +19,10 @@
   },
   "7616170003": {
     "first_seen": "2026-04-07T03:30:18.788820+00:00",
-    "updated_at": "2026-04-06T21:32:42-04:00",
+    "updated_at": "2026-04-13T18:37:02-04:00",
     "title": "Senior Staff Engineer, Loans Originations",
-    "company": "sofi"
+    "company": "sofi",
+    "alerted": false
   },
   "6649865002": {
     "first_seen": "2026-04-07T05:27:01.475084+00:00",
@@ -95,9 +52,10 @@
   },
   "8496177002": {
     "first_seen": "2026-04-07T10:32:48.254671+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Sr. Technical Customer Success Manager (12mth Fixed Term Contract)",
-    "company": "amplitude"
+    "company": "amplitude",
+    "alerted": false
   },
   "8494593002": {
     "first_seen": "2026-04-07T10:32:54.767412+00:00",
@@ -5907,70 +5865,70 @@
   },
   "8453527002": {
     "first_seen": "2026-04-13T07:24:53.943414+00:00",
-    "updated_at": "2026-04-09T12:44:17-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Engineering Manager, Guides & Surveys",
     "company": "amplitude",
     "alerted": true
   },
   "8451094002": {
     "first_seen": "2026-04-13T07:24:53.943823+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Manager, AMER Technical Support",
     "company": "amplitude",
     "alerted": true
   },
   "8457963002": {
     "first_seen": "2026-04-13T07:24:53.943860+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Principal Product Manager, AI - People & Places",
     "company": "amplitude",
     "alerted": true
   },
   "8466328002": {
     "first_seen": "2026-04-13T07:24:53.944026+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Senior Sales Engineer (Presales) - West",
     "company": "amplitude",
     "alerted": true
   },
   "8423428002": {
     "first_seen": "2026-04-13T07:24:53.944043+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Senior Software Engineer, Core Analytics",
     "company": "amplitude",
     "alerted": true
   },
   "8445406002": {
     "first_seen": "2026-04-13T07:24:53.944061+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Senior Software Engineer,  Data Management ",
     "company": "amplitude",
     "alerted": true
   },
   "8493911002": {
     "first_seen": "2026-04-13T07:24:53.944075+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Software Engineering Manager",
     "company": "amplitude",
     "alerted": true
   },
   "8330434002": {
     "first_seen": "2026-04-13T07:24:53.944171+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Staff Frontend Engineer",
     "company": "amplitude",
     "alerted": true
   },
   "8407479002": {
     "first_seen": "2026-04-13T07:24:53.944217+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Staff Software Engineer - Android DX",
     "company": "amplitude",
     "alerted": true
   },
   "8444770002": {
     "first_seen": "2026-04-13T07:24:53.944236+00:00",
-    "updated_at": "2026-04-08T21:02:34-04:00",
+    "updated_at": "2026-04-13T18:24:26-04:00",
     "title": "Staff Software Engineer, Core Analytics",
     "company": "amplitude",
     "alerted": true
@@ -10212,7 +10170,7 @@
   },
   "7743959": {
     "first_seen": "2026-04-13T07:25:04.757391+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-13T18:18:07-04:00",
     "title": "Engineering Manager",
     "company": "coinbase",
     "alerted": true
@@ -10247,7 +10205,7 @@
   },
   "7731934": {
     "first_seen": "2026-04-13T07:25:04.757463+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-13T18:18:04-04:00",
     "title": "Engineering Manager (Platform - Identity)",
     "company": "coinbase",
     "alerted": true
@@ -10933,8 +10891,8 @@
   },
   "7542970": {
     "first_seen": "2026-04-13T07:25:05.495019+00:00",
-    "updated_at": "2026-04-10T03:05:24-04:00",
-    "title": "Senior Web Infrastructure Engineer ",
+    "updated_at": "2026-04-13T18:32:17-04:00",
+    "title": "Senior Web Infrastructure Developer ",
     "company": "robinhood",
     "alerted": true
   },
@@ -13299,7 +13257,7 @@
   },
   "7548896003": {
     "first_seen": "2026-04-13T09:17:52.542350+00:00",
-    "updated_at": "2026-04-11T03:47:31-04:00",
+    "updated_at": "2026-04-13T18:46:37-04:00",
     "title": "Senior Full Stack Engineer - New Product",
     "company": "klaviyo",
     "alerted": true
@@ -13376,14 +13334,14 @@
   },
   "7564587003": {
     "first_seen": "2026-04-13T09:17:52.542837+00:00",
-    "updated_at": "2026-04-11T03:47:35-04:00",
+    "updated_at": "2026-04-13T18:46:38-04:00",
     "title": "Senior Software Engineer - Analytics Data Engineering",
     "company": "klaviyo",
     "alerted": true
   },
   "7453456003": {
     "first_seen": "2026-04-13T09:17:52.542850+00:00",
-    "updated_at": "2026-04-11T03:47:24-04:00",
+    "updated_at": "2026-04-13T18:46:34-04:00",
     "title": "Senior Software Engineer, Asynchronous Processing",
     "company": "klaviyo",
     "alerted": true
@@ -13397,21 +13355,21 @@
   },
   "7548895003": {
     "first_seen": "2026-04-13T09:17:52.542876+00:00",
-    "updated_at": "2026-04-11T03:47:30-04:00",
+    "updated_at": "2026-04-13T18:46:36-04:00",
     "title": "Senior Software Engineer - Devx ",
     "company": "klaviyo",
     "alerted": true
   },
   "7453443003": {
     "first_seen": "2026-04-13T09:17:52.542889+00:00",
-    "updated_at": "2026-04-11T03:47:20-04:00",
+    "updated_at": "2026-04-13T18:46:31-04:00",
     "title": "Senior Software Engineer - Email Platforms",
     "company": "klaviyo",
     "alerted": true
   },
   "7660745003": {
     "first_seen": "2026-04-13T09:17:52.542924+00:00",
-    "updated_at": "2026-04-11T03:48:09-04:00",
+    "updated_at": "2026-04-13T18:46:52-04:00",
     "title": "Senior Software Engineer - Product Recommendations ",
     "company": "klaviyo",
     "alerted": true
@@ -13425,7 +13383,7 @@
   },
   "7597868003": {
     "first_seen": "2026-04-13T09:17:52.542951+00:00",
-    "updated_at": "2026-04-11T03:47:47-04:00",
+    "updated_at": "2026-04-13T18:46:42-04:00",
     "title": "Senior Software Engineer - Profiles, Lists and Segments",
     "company": "klaviyo",
     "alerted": true
@@ -14993,7 +14951,7 @@
   },
   "8450989002": {
     "first_seen": "2026-04-13T09:17:59.924811+00:00",
-    "updated_at": "2026-04-09T19:15:59-04:00",
+    "updated_at": "2026-04-13T18:39:37-04:00",
     "title": "Staff Product Manager, New Products",
     "company": "calendly",
     "alerted": true
@@ -19172,14 +19130,14 @@
   },
   "4594939006": {
     "first_seen": "2026-04-13T09:18:10.692759+00:00",
-    "updated_at": "2026-03-04T12:42:29-05:00",
+    "updated_at": "2026-04-13T18:18:53-04:00",
     "title": "Senior Software Engineer, Platform Observability",
     "company": "everlaw",
     "alerted": true
   },
   "4626218006": {
     "first_seen": "2026-04-13T09:18:10.692789+00:00",
-    "updated_at": "2026-02-02T17:35:44-05:00",
+    "updated_at": "2026-04-13T18:21:35-04:00",
     "title": "Senior Software Engineer - Release Engineering",
     "company": "everlaw",
     "alerted": true
@@ -20610,6 +20568,55 @@
     "updated_at": "2026-04-13T17:23:30-04:00",
     "title": "Software Engineer, Guest & Host",
     "company": "airbnb",
+    "alerted": true
+  },
+  "5186669008": {
+    "first_seen": "2026-04-13T23:01:51.420067+00:00",
+    "updated_at": "2026-04-13T18:21:58-04:00",
+    "title": "Finance Systems Engineer, Revenue",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7782805": {
+    "first_seen": "2026-04-13T23:01:53.953430+00:00",
+    "updated_at": "2026-04-13T10:25:46-04:00",
+    "title": "Staff Software Engineer (L4) Data Platform",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7691486003": {
+    "first_seen": "2026-04-13T23:01:59.509136+00:00",
+    "updated_at": "2026-04-06T23:43:41-04:00",
+    "title": "Enterprise Solutions Engineer",
+    "company": "postman",
+    "alerted": true
+  },
+  "7691477003": {
+    "first_seen": "2026-04-13T23:01:59.509184+00:00",
+    "updated_at": "2026-04-07T19:48:05-04:00",
+    "title": "Enterprise Solutions Engineer",
+    "company": "postman",
+    "alerted": true
+  },
+  "7691496003": {
+    "first_seen": "2026-04-13T23:01:59.509237+00:00",
+    "updated_at": "2026-04-06T23:41:55-04:00",
+    "title": "Enterprise Solutions Engineer, LATAM",
+    "company": "postman",
+    "alerted": true
+  },
+  "8504765002": {
+    "first_seen": "2026-04-13T23:02:00.662259+00:00",
+    "updated_at": "2026-04-13T18:34:49-04:00",
+    "title": "Senior Site Reliability Engineer",
+    "company": "calendly",
+    "alerted": true
+  },
+  "7736521": {
+    "first_seen": "2026-04-13T23:02:07.996831+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
+    "company": "coinbase",
     "alerted": true
   }
 }

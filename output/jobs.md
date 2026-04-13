@@ -2,6 +2,201 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 23:02 UTC
+
+### 🆕 Finance Systems Engineer, Revenue
+**anthropic** · Finance
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5186669008)
+🕐 Updated: `2026-04-13T18:21:58-04:00` &nbsp;|&nbsp; ID: `5186669008`
+
+---
+### 🆕 Staff Software Engineer (L4) Data Platform
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7782805)
+🕐 Updated: `2026-04-13T10:25:46-04:00` &nbsp;|&nbsp; ID: `7782805`
+
+---
+### 🆕 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691486003)
+🕐 Updated: `2026-04-06T23:43:41-04:00` &nbsp;|&nbsp; ID: `7691486003`
+
+---
+### 🆕 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Boston, Massachusetts; New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691477003)
+🕐 Updated: `2026-04-07T19:48:05-04:00` &nbsp;|&nbsp; ID: `7691477003`
+
+---
+### 🆕 Enterprise Solutions Engineer, LATAM
+**postman** · Sales
+📍 Miami, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691496003)
+🕐 Updated: `2026-04-06T23:41:55-04:00` &nbsp;|&nbsp; ID: `7691496003`
+
+---
+### 🆕 Senior Site Reliability Engineer
+**calendly** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8504765002)
+🕐 Updated: `2026-04-13T18:34:49-04:00` &nbsp;|&nbsp; ID: `8504765002`
+
+---
+### 🆕 Senior Analytics Engineer (Platform - Financial Analytics)
+**coinbase** · Data Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7736521`
+
+---
+### 🔄 Engineering Manager, Guides & Surveys
+**amplitude** · Engineering : Blades
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8453527002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8453527002`
+
+---
+### 🔄 Manager, AMER Technical Support
+**amplitude** · Engineering : Sup
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8451094002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8451094002`
+
+---
+### 🔄 Principal Product Manager, AI - People & Places
+**amplitude** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8457963002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8457963002`
+
+---
+### 🔄 Senior Sales Engineer (Presales) - West
+**amplitude** · Solutions Consulting
+📍 Los Angeles, CA; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8466328002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8466328002`
+
+---
+### 🔄 Senior Software Engineer, Core Analytics
+**amplitude** · Engineering : Foundations
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8423428002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8423428002`
+
+---
+### 🔄 Senior Software Engineer,  Data Management 
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8445406002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8445406002`
+
+---
+### 🔄 Software Engineering Manager
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8493911002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8493911002`
+
+---
+### 🔄 Sr. Technical Customer Success Manager (12mth Fixed Term Contract)
+**amplitude** · Customer Success Management
+📍 Remote - Germany &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8496177002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8496177002`
+
+---
+### 🔄 Staff Frontend Engineer
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8330434002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8330434002`
+
+---
+### 🔄 Staff Software Engineer - Android DX
+**amplitude** · Engineering : Blades
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8407479002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8407479002`
+
+---
+### 🔄 Staff Software Engineer, Core Analytics
+**amplitude** · Engineering : Foundations
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8444770002)
+🕐 Updated: `2026-04-13T18:24:26-04:00` &nbsp;|&nbsp; ID: `8444770002`
+
+---
+### 🔄 Senior Full Stack Engineer - New Product
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548896003)
+🕐 Updated: `2026-04-13T18:46:37-04:00` &nbsp;|&nbsp; ID: `7548896003`
+
+---
+### 🔄 Senior Software Engineer - Analytics Data Engineering
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003)
+🕐 Updated: `2026-04-13T18:46:38-04:00` &nbsp;|&nbsp; ID: `7564587003`
+
+---
+### 🔄 Senior Software Engineer, Asynchronous Processing
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453456003)
+🕐 Updated: `2026-04-13T18:46:34-04:00` &nbsp;|&nbsp; ID: `7453456003`
+
+---
+### 🔄 Senior Software Engineer - Devx 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548895003)
+🕐 Updated: `2026-04-13T18:46:36-04:00` &nbsp;|&nbsp; ID: `7548895003`
+
+---
+### 🔄 Senior Software Engineer - Email Platforms
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453443003)
+🕐 Updated: `2026-04-13T18:46:31-04:00` &nbsp;|&nbsp; ID: `7453443003`
+
+---
+### 🔄 Senior Software Engineer - Product Recommendations 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660745003)
+🕐 Updated: `2026-04-13T18:46:52-04:00` &nbsp;|&nbsp; ID: `7660745003`
+
+---
+### 🔄 Senior Software Engineer - Profiles, Lists and Segments
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597868003)
+🕐 Updated: `2026-04-13T18:46:42-04:00` &nbsp;|&nbsp; ID: `7597868003`
+
+---
+### 🔄 Staff Product Manager, New Products
+**calendly** · Product
+📍 San Francisco (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8450989002)
+🕐 Updated: `2026-04-13T18:39:37-04:00` &nbsp;|&nbsp; ID: `8450989002`
+
+---
+### 🔄 Engineering Manager
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7743959?gh_jid=7743959)
+🕐 Updated: `2026-04-13T18:18:07-04:00` &nbsp;|&nbsp; ID: `7743959`
+
+---
+### 🔄 Engineering Manager (Platform - Identity)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7731934?gh_jid=7731934)
+🕐 Updated: `2026-04-13T18:18:04-04:00` &nbsp;|&nbsp; ID: `7731934`
+
+---
+### 🔄 Senior Web Infrastructure Developer 
+**robinhood** · ENG Infrastructure
+📍 Toronto, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542970?t=gh_src=&gh_jid=7542970)
+🕐 Updated: `2026-04-13T18:32:17-04:00` &nbsp;|&nbsp; ID: `7542970`
+
+---
+### 🔄 Senior Staff Engineer, Loans Originations
+**sofi** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7616170003?gh_jid=7616170003)
+🕐 Updated: `2026-04-13T18:37:02-04:00` &nbsp;|&nbsp; ID: `7616170003`
+
+---
+### 🔄 Senior Software Engineer, Platform Observability
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4594939006)
+🕐 Updated: `2026-04-13T18:18:53-04:00` &nbsp;|&nbsp; ID: `4594939006`
+
+---
+### 🔄 Senior Software Engineer - Release Engineering
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4626218006)
+🕐 Updated: `2026-04-13T18:21:35-04:00` &nbsp;|&nbsp; ID: `4626218006`
+
+---
+
 ## 📅 Run: 2026-04-13 22:01 UTC
 
 ### 🆕 Tech Admin (P2) GTM Systems
