@@ -2,6 +2,99 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 16:47 UTC
+
+### 🆕 Business Development Representative
+**databricks** · Sales Development
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423167002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8423167002`
+
+---
+### 🆕 Business Development Representative
+**databricks** · Sales Development
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423158002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8423158002`
+
+---
+### 🆕 Workday Integration Specialist
+**cloudflare** · Information Technology
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7481431?gh_jid=7481431)
+🕐 Updated: `2026-02-06T10:04:45-05:00` &nbsp;|&nbsp; ID: `7481431`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Raleigh, North Carolina, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782201)
+🕐 Updated: `2026-04-06T12:28:28-04:00` &nbsp;|&nbsp; ID: `7782201`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Atlanta, Georgia, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782195)
+🕐 Updated: `2026-04-06T12:28:29-04:00` &nbsp;|&nbsp; ID: `7782195`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782199)
+🕐 Updated: `2026-04-06T12:28:28-04:00` &nbsp;|&nbsp; ID: `7782199`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Tampa, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782181)
+🕐 Updated: `2026-04-06T12:28:30-04:00` &nbsp;|&nbsp; ID: `7782181`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Orlando, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782161)
+🕐 Updated: `2026-04-06T12:28:31-04:00` &nbsp;|&nbsp; ID: `7782161`
+
+---
+### 🆕 Business Development Representative
+**intercom** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7807496)
+🕐 Updated: `2026-04-13T12:43:38-04:00` &nbsp;|&nbsp; ID: `7807496`
+
+---
+### 🆕 Business Development Representative, Emerging AI Products 
+**intercom** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7807509)
+🕐 Updated: `2026-04-13T12:43:13-04:00` &nbsp;|&nbsp; ID: `7807509`
+
+---
+### 🔄 Team Lead, Site Reliability Engineering - Storage Layer Service
+**mongodb** · PTO Site Reliability Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+🕐 Updated: `2026-04-13T12:42:34-04:00` &nbsp;|&nbsp; ID: `7743304`
+
+---
+### 🔄 Senior Solutions Engineer, Enterprise Accounts - Charlotte or Raleigh, NC
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7782508?gh_jid=7782508)
+🕐 Updated: `2026-04-13T12:32:30-04:00` &nbsp;|&nbsp; ID: `7782508`
+
+---
+### 🔄 Senior Solutions Engineer, Enterprise Accounts - Miami
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7778956?gh_jid=7778956)
+🕐 Updated: `2026-04-13T12:31:27-04:00` &nbsp;|&nbsp; ID: `7778956`
+
+---
+### 🔄 Senior Program Manager, Account Management Strategy & Operations
+**carta** · Business Systems
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/7614162003)
+🕐 Updated: `2026-04-13T12:45:58-04:00` &nbsp;|&nbsp; ID: `7614162003`
+
+---
+### 🔄 Senior Manager, Pricing
+**flexe** · Network Development
+📍 Seattle, Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flexe/jobs/4650858006)
+🕐 Updated: `2026-04-13T12:21:36-04:00` &nbsp;|&nbsp; ID: `4650858006`
+
+---
+
 ## 📅 Run: 2026-04-13 15:44 UTC
 
 ### 🆕 Sales Development Representative - Public Sector - Arlington, VA (On-Site)

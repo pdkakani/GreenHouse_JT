@@ -1,60 +1,4 @@
 {
-  "8423158002": {
-    "first_seen": "2026-04-06T16:29:00.335701+00:00",
-    "updated_at": "2026-04-09T16:51:27-04:00",
-    "title": "Business Development Representative",
-    "company": "databricks",
-    "alerted": false
-  },
-  "8423167002": {
-    "first_seen": "2026-04-06T16:29:00.335734+00:00",
-    "updated_at": "2026-04-09T16:51:27-04:00",
-    "title": "Business Development Representative",
-    "company": "databricks",
-    "alerted": false
-  },
-  "7660502003": {
-    "first_seen": "2026-04-06T16:29:03.419914+00:00",
-    "updated_at": "2026-04-07T03:02:37-04:00",
-    "title": "Software Engineer II - Identity & Access Management",
-    "company": "klaviyo"
-  },
-  "6590187003": {
-    "first_seen": "2026-04-06T16:29:06.668187+00:00",
-    "updated_at": "2026-04-06T12:08:56-04:00",
-    "title": "L1 Technical Support Engineer",
-    "company": "abnormalsecurity"
-  },
-  "7782195": {
-    "first_seen": "2026-04-06T16:29:12.660649+00:00",
-    "updated_at": "2026-04-06T12:28:29-04:00",
-    "title": "Security Engineer (Application Security)",
-    "company": "contentful"
-  },
-  "7782181": {
-    "first_seen": "2026-04-06T16:29:12.660688+00:00",
-    "updated_at": "2026-04-06T12:28:30-04:00",
-    "title": "Security Engineer (Application Security)",
-    "company": "contentful"
-  },
-  "7782161": {
-    "first_seen": "2026-04-06T16:29:12.660743+00:00",
-    "updated_at": "2026-04-06T12:28:31-04:00",
-    "title": "Security Engineer (Application Security)",
-    "company": "contentful"
-  },
-  "7782201": {
-    "first_seen": "2026-04-06T16:29:12.660775+00:00",
-    "updated_at": "2026-04-06T12:28:28-04:00",
-    "title": "Security Engineer (Application Security)",
-    "company": "contentful"
-  },
-  "7782199": {
-    "first_seen": "2026-04-06T16:29:12.660817+00:00",
-    "updated_at": "2026-04-06T12:28:28-04:00",
-    "title": "Security Engineer (Application Security)",
-    "company": "contentful"
-  },
   "4973067008": {
     "first_seen": "2026-04-06T17:25:47.284010+00:00",
     "updated_at": "2026-04-06T13:01:31-04:00",
@@ -3355,8 +3299,8 @@
   },
   "7778956": {
     "first_seen": "2026-04-12T21:49:54.485957+00:00",
-    "updated_at": "2026-04-06T13:40:40-04:00",
-    "title": "Senior Solutions Engineer - Miami, FL",
+    "updated_at": "2026-04-13T12:31:27-04:00",
+    "title": "Senior Solutions Engineer, Enterprise Accounts - Miami",
     "company": "cloudflare",
     "alerted": true
   },
@@ -3369,8 +3313,8 @@
   },
   "7782508": {
     "first_seen": "2026-04-12T21:49:54.486075+00:00",
-    "updated_at": "2026-04-07T18:13:46-04:00",
-    "title": "Senior Solutions Engineer - NC",
+    "updated_at": "2026-04-13T12:32:30-04:00",
+    "title": "Senior Solutions Engineer, Enterprise Accounts - Charlotte or Raleigh, NC",
     "company": "cloudflare",
     "alerted": true
   },
@@ -5637,7 +5581,7 @@
   },
   "7743304": {
     "first_seen": "2026-04-13T07:24:52.854574+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-13T12:42:34-04:00",
     "title": "Team Lead, Site Reliability Engineering - Storage Layer Service",
     "company": "mongodb",
     "alerted": true
@@ -17243,7 +17187,7 @@
   },
   "7614162003": {
     "first_seen": "2026-04-13T09:18:08.200709+00:00",
-    "updated_at": "2026-04-03T18:15:50-04:00",
+    "updated_at": "2026-04-13T12:45:58-04:00",
     "title": "Senior Program Manager, Account Management Strategy & Operations",
     "company": "carta",
     "alerted": true
@@ -19266,7 +19210,7 @@
   },
   "4650858006": {
     "first_seen": "2026-04-13T09:18:10.145842+00:00",
-    "updated_at": "2026-02-03T17:13:16-05:00",
+    "updated_at": "2026-04-13T12:21:36-04:00",
     "title": "Senior Manager, Pricing",
     "company": "flexe",
     "alerted": true
@@ -20368,6 +20312,76 @@
     "updated_at": "2026-04-09T16:50:04-04:00",
     "title": "Senior Software Engineer, AI Teammates Experience",
     "company": "asana",
+    "alerted": true
+  },
+  "8423167002": {
+    "first_seen": "2026-04-13T16:46:46.576705+00:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
+    "title": "Business Development Representative",
+    "company": "databricks",
+    "alerted": true
+  },
+  "8423158002": {
+    "first_seen": "2026-04-13T16:46:46.576772+00:00",
+    "updated_at": "2026-04-09T16:51:27-04:00",
+    "title": "Business Development Representative",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7481431": {
+    "first_seen": "2026-04-13T16:46:48.073525+00:00",
+    "updated_at": "2026-02-06T10:04:45-05:00",
+    "title": "Workday Integration Specialist",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7782201": {
+    "first_seen": "2026-04-13T16:47:02.446095+00:00",
+    "updated_at": "2026-04-06T12:28:28-04:00",
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "alerted": true
+  },
+  "7782195": {
+    "first_seen": "2026-04-13T16:47:02.446136+00:00",
+    "updated_at": "2026-04-06T12:28:29-04:00",
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "alerted": true
+  },
+  "7782199": {
+    "first_seen": "2026-04-13T16:47:02.446194+00:00",
+    "updated_at": "2026-04-06T12:28:28-04:00",
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "alerted": true
+  },
+  "7782181": {
+    "first_seen": "2026-04-13T16:47:02.446228+00:00",
+    "updated_at": "2026-04-06T12:28:30-04:00",
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "alerted": true
+  },
+  "7782161": {
+    "first_seen": "2026-04-13T16:47:02.446262+00:00",
+    "updated_at": "2026-04-06T12:28:31-04:00",
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "alerted": true
+  },
+  "7807496": {
+    "first_seen": "2026-04-13T16:47:03.573653+00:00",
+    "updated_at": "2026-04-13T12:43:38-04:00",
+    "title": "Business Development Representative",
+    "company": "intercom",
+    "alerted": true
+  },
+  "7807509": {
+    "first_seen": "2026-04-13T16:47:03.573687+00:00",
+    "updated_at": "2026-04-13T12:43:13-04:00",
+    "title": "Business Development Representative, Emerging AI Products ",
+    "company": "intercom",
     "alerted": true
   }
 }
