@@ -2,6 +2,177 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-13 21:09 UTC
+
+### 🆕 Solutions Architect, Retail 
+**databricks** · Field Engineering
+📍 Remote - Ohio &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6049142002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6049142002`
+
+---
+### 🆕 Engineering Manager, Compliance Data and Evidence Engine
+**stripe** · 8126 Developer Infrastructure
+📍 Seattle, San Francisco  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812785)
+🕐 Updated: `2026-04-13T16:23:36-04:00` &nbsp;|&nbsp; ID: `7812785`
+
+---
+### 🆕 Product Manager IC-02
+**stripe** · PERM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812346)
+🕐 Updated: `2026-04-13T17:03:58-04:00` &nbsp;|&nbsp; ID: `7812346`
+
+---
+### 🆕 Software Engineer
+**stripe** · PERM
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7808471)
+🕐 Updated: `2026-04-13T17:04:11-04:00` &nbsp;|&nbsp; ID: `7808471`
+
+---
+### 🆕 Software Engineer L2
+**stripe** · PERM
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812279)
+🕐 Updated: `2026-04-13T16:57:33-04:00` &nbsp;|&nbsp; ID: `7812279`
+
+---
+### 🆕 Senior Site Reliability Engineer
+**alloy** · Infrastructure and Security
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8494881002&gh_jid=8494881002)
+🕐 Updated: `2026-04-13T15:08:31-04:00` &nbsp;|&nbsp; ID: `8494881002`
+
+---
+### 🆕 Manager, Account Development
+**justworks** · Sales
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7781298?gh_jid=7781298)
+🕐 Updated: `2026-04-13T16:54:01-04:00` &nbsp;|&nbsp; ID: `7781298`
+
+---
+### 🆕 Engineering Manager, International
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539771?t=gh_src=&gh_jid=7539771)
+🕐 Updated: `2026-04-10T14:07:30-04:00` &nbsp;|&nbsp; ID: `7539771`
+
+---
+### 🆕 Software Engineer, Credit Risk Platform
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219793002?gh_jid=8219793002)
+🕐 Updated: `2026-04-08T01:02:47-04:00` &nbsp;|&nbsp; ID: `8219793002`
+
+---
+### 🆕 Sr Software Engineer, Data Foundations
+**sofi** · Engineering
+📍 CA - San Francisco; WA - Seattle; UT - Cottonwood Heights &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7695839003?gh_jid=7695839003)
+🕐 Updated: `2026-04-13T17:01:42-04:00` &nbsp;|&nbsp; ID: `7695839003`
+
+---
+### 🆕 Staff Software Engineer, Authorization
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7782308?gh_jid=7782308)
+🕐 Updated: `2026-04-07T20:29:26-04:00` &nbsp;|&nbsp; ID: `7782308`
+
+---
+### 🆕 Software Engineer, Server
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8492315002?gh_jid=8492315002)
+🕐 Updated: `2026-04-06T16:06:32-04:00` &nbsp;|&nbsp; ID: `8492315002`
+
+---
+### 🆕 Senior 3D Printing R&D Engineer
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7812848/apply/?gh_jid=7812848)
+🕐 Updated: `2026-04-13T16:56:31-04:00` &nbsp;|&nbsp; ID: `7812848`
+
+---
+### 🆕 Senior 3D Printing R&D Engineer
+**formlabs** · Hardware Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7812846/apply/?gh_jid=7812846)
+🕐 Updated: `2026-04-13T16:55:00-04:00` &nbsp;|&nbsp; ID: `7812846`
+
+---
+### 🆕 Senior Product Design Engineer
+**formlabs** · Hardware Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7812850/apply/?gh_jid=7812850)
+🕐 Updated: `2026-04-13T16:57:39-04:00` &nbsp;|&nbsp; ID: `7812850`
+
+---
+### 🆕 Senior Product Design Engineer
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7812849/apply/?gh_jid=7812849)
+🕐 Updated: `2026-04-13T16:57:08-04:00` &nbsp;|&nbsp; ID: `7812849`
+
+---
+### 🔄 Assistant General Counsel, Capital Markets Legal
+**upstart** · Legal Group
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7668588)
+🕐 Updated: `2026-04-13T16:54:52-04:00` &nbsp;|&nbsp; ID: `7668588`
+
+---
+### 🔄 Lead Product Manager
+**gemini** · Engineering
+📍 New York, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768460&gh_jid=7768460)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7768460`
+
+---
+### 🔄 Principal Data Engineer
+**gemini** · Data
+📍 New York, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7350506&gh_jid=7350506)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7350506`
+
+---
+### 🔄 Security Engineering Intern (Summer 2026)
+**gemini** · Information Security
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7360337&gh_jid=7360337)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7360337`
+
+---
+### 🔄 Senior Ledger Operations Engineer
+**gemini** · Operations
+📍 New York, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7743191&gh_jid=7743191)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7743191`
+
+---
+### 🔄 Senior Software Engineering Manager, Credit Card
+**gemini** · Credit Card
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7762866&gh_jid=7762866)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7762866`
+
+---
+### 🔄 Senior Software Engineer, Risk Engineering
+**gemini** · Risk - Engineering
+📍 New York, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768456&gh_jid=7768456)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7768456`
+
+---
+### 🔄 Software Engineering Manager, Risk Engineering
+**gemini** · Risk - Engineering
+📍 New York, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768446&gh_jid=7768446)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7768446`
+
+---
+### 🔄 Staff Data Engineer
+**gemini** · Data
+📍 New York, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7651740&gh_jid=7651740)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7651740`
+
+---
+### 🔄 Staff Enterprise Infrastructure Engineer
+**gemini** · Operations
+📍 Tempe, Arizona &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7743177&gh_jid=7743177)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7743177`
+
+---
+### 🔄 Staff Security Engineer, Threat Detection & Response
+**gemini** · Threat Detection & Response
+📍 New York, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7746479&gh_jid=7746479)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7746479`
+
+---
+### 🔄 Staff Software Engineer, Trading Systems (Frontend)
+**gemini** · Trading Systems
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7647319&gh_jid=7647319)
+🕐 Updated: `2026-04-13T16:58:45-04:00` &nbsp;|&nbsp; ID: `7647319`
+
+---
+
 ## 📅 Run: 2026-04-13 20:13 UTC
 
 ### 🆕 Business Systems Analyst Intern (Summer 2026)

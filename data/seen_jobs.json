@@ -1,50 +1,4 @@
 {
-  "6330388": {
-    "first_seen": "2026-04-06T20:55:23.740666+00:00",
-    "updated_at": "2026-04-10T14:01:26-04:00",
-    "title": "Infrastructure Software Engineer",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "6330390": {
-    "first_seen": "2026-04-06T20:55:23.740701+00:00",
-    "updated_at": "2026-04-10T14:01:52-04:00",
-    "title": "Infrastructure Software Engineer",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "8494881002": {
-    "first_seen": "2026-04-06T20:55:29.595341+00:00",
-    "updated_at": "2026-04-13T15:08:31-04:00",
-    "title": "Senior Site Reliability Engineer",
-    "company": "alloy",
-    "alerted": false
-  },
-  "7539771": {
-    "first_seen": "2026-04-06T20:55:42.285273+00:00",
-    "updated_at": "2026-04-10T14:07:30-04:00",
-    "title": "Engineering Manager, International",
-    "company": "robinhood",
-    "alerted": false
-  },
-  "8219793002": {
-    "first_seen": "2026-04-06T20:55:44.832338+00:00",
-    "updated_at": "2026-04-08T01:02:47-04:00",
-    "title": "Software Engineer, Credit Risk Platform",
-    "company": "chime"
-  },
-  "7782308": {
-    "first_seen": "2026-04-06T20:55:46.344885+00:00",
-    "updated_at": "2026-04-07T20:29:26-04:00",
-    "title": "Staff Software Engineer, Authorization",
-    "company": "airbnb"
-  },
-  "8492315002": {
-    "first_seen": "2026-04-06T20:55:46.504100+00:00",
-    "updated_at": "2026-04-06T16:06:32-04:00",
-    "title": "Software Engineer, Server",
-    "company": "lyft"
-  },
   "7781657": {
     "first_seen": "2026-04-06T21:32:46.996512+00:00",
     "updated_at": "2026-04-13T10:26:30-04:00",
@@ -16165,7 +16119,7 @@
   },
   "7668588": {
     "first_seen": "2026-04-13T09:18:04.641924+00:00",
-    "updated_at": "2026-03-25T15:33:09-04:00",
+    "updated_at": "2026-04-13T16:54:52-04:00",
     "title": "Assistant General Counsel, Capital Markets Legal",
     "company": "upstart",
     "alerted": true
@@ -16802,77 +16756,77 @@
   },
   "7768460": {
     "first_seen": "2026-04-13T09:18:07.631577+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Lead Product Manager",
     "company": "gemini",
     "alerted": true
   },
   "7350506": {
     "first_seen": "2026-04-13T09:18:07.631648+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Principal Data Engineer",
     "company": "gemini",
     "alerted": true
   },
   "7360337": {
     "first_seen": "2026-04-13T09:18:07.631698+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Security Engineering Intern (Summer 2026)",
     "company": "gemini",
     "alerted": true
   },
   "7743191": {
     "first_seen": "2026-04-13T09:18:07.631732+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Senior Ledger Operations Engineer",
     "company": "gemini",
     "alerted": true
   },
   "7762866": {
     "first_seen": "2026-04-13T09:18:07.631748+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Senior Software Engineering Manager, Credit Card",
     "company": "gemini",
     "alerted": true
   },
   "7768456": {
     "first_seen": "2026-04-13T09:18:07.631772+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Senior Software Engineer, Risk Engineering",
     "company": "gemini",
     "alerted": true
   },
   "7768446": {
     "first_seen": "2026-04-13T09:18:07.631814+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Software Engineering Manager, Risk Engineering",
     "company": "gemini",
     "alerted": true
   },
   "7651740": {
     "first_seen": "2026-04-13T09:18:07.631842+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Staff Data Engineer",
     "company": "gemini",
     "alerted": true
   },
   "7743177": {
     "first_seen": "2026-04-13T09:18:07.631868+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Staff Enterprise Infrastructure Engineer",
     "company": "gemini",
     "alerted": true
   },
   "7746479": {
     "first_seen": "2026-04-13T09:18:07.631896+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Staff Security Engineer, Threat Detection & Response",
     "company": "gemini",
     "alerted": true
   },
   "7647319": {
     "first_seen": "2026-04-13T09:18:07.631910+00:00",
-    "updated_at": "2026-04-02T10:20:55-04:00",
+    "updated_at": "2026-04-13T16:58:45-04:00",
     "title": "Staff Software Engineer, Trading Systems (Frontend)",
     "company": "gemini",
     "alerted": true
@@ -20549,6 +20503,118 @@
     "first_seen": "2026-04-13T20:12:56.476961+00:00",
     "updated_at": "2026-04-13T16:06:18-04:00",
     "title": "Test Engineering Intern (Fall 2026)",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "6049142002": {
+    "first_seen": "2026-04-13T21:08:38.082239+00:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
+    "title": "Solutions Architect, Retail ",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7812785": {
+    "first_seen": "2026-04-13T21:08:49.441339+00:00",
+    "updated_at": "2026-04-13T16:23:36-04:00",
+    "title": "Engineering Manager, Compliance Data and Evidence Engine",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7812346": {
+    "first_seen": "2026-04-13T21:08:49.444548+00:00",
+    "updated_at": "2026-04-13T17:03:58-04:00",
+    "title": "Product Manager IC-02",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7808471": {
+    "first_seen": "2026-04-13T21:08:49.446201+00:00",
+    "updated_at": "2026-04-13T17:04:11-04:00",
+    "title": "Software Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7812279": {
+    "first_seen": "2026-04-13T21:08:49.446345+00:00",
+    "updated_at": "2026-04-13T16:57:33-04:00",
+    "title": "Software Engineer L2",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8494881002": {
+    "first_seen": "2026-04-13T21:08:50.749957+00:00",
+    "updated_at": "2026-04-13T15:08:31-04:00",
+    "title": "Senior Site Reliability Engineer",
+    "company": "alloy",
+    "alerted": true
+  },
+  "7781298": {
+    "first_seen": "2026-04-13T21:08:56.427363+00:00",
+    "updated_at": "2026-04-13T16:54:01-04:00",
+    "title": "Manager, Account Development",
+    "company": "justworks",
+    "alerted": true
+  },
+  "7539771": {
+    "first_seen": "2026-04-13T21:08:58.002215+00:00",
+    "updated_at": "2026-04-10T14:07:30-04:00",
+    "title": "Engineering Manager, International",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "8219793002": {
+    "first_seen": "2026-04-13T21:08:58.561700+00:00",
+    "updated_at": "2026-04-08T01:02:47-04:00",
+    "title": "Software Engineer, Credit Risk Platform",
+    "company": "chime",
+    "alerted": true
+  },
+  "7695839003": {
+    "first_seen": "2026-04-13T21:08:58.717836+00:00",
+    "updated_at": "2026-04-13T17:01:42-04:00",
+    "title": "Sr Software Engineer, Data Foundations",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7782308": {
+    "first_seen": "2026-04-13T21:08:59.487379+00:00",
+    "updated_at": "2026-04-07T20:29:26-04:00",
+    "title": "Staff Software Engineer, Authorization",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "8492315002": {
+    "first_seen": "2026-04-13T21:08:59.594512+00:00",
+    "updated_at": "2026-04-06T16:06:32-04:00",
+    "title": "Software Engineer, Server",
+    "company": "lyft",
+    "alerted": true
+  },
+  "7812848": {
+    "first_seen": "2026-04-13T21:09:00.965386+00:00",
+    "updated_at": "2026-04-13T16:56:31-04:00",
+    "title": "Senior 3D Printing R&D Engineer",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7812846": {
+    "first_seen": "2026-04-13T21:09:00.965428+00:00",
+    "updated_at": "2026-04-13T16:55:00-04:00",
+    "title": "Senior 3D Printing R&D Engineer",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7812850": {
+    "first_seen": "2026-04-13T21:09:00.965670+00:00",
+    "updated_at": "2026-04-13T16:57:39-04:00",
+    "title": "Senior Product Design Engineer",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7812849": {
+    "first_seen": "2026-04-13T21:09:00.965704+00:00",
+    "updated_at": "2026-04-13T16:57:08-04:00",
+    "title": "Senior Product Design Engineer",
     "company": "formlabs",
     "alerted": true
   }
