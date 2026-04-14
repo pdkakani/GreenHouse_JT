@@ -2,6 +2,249 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 19:26 UTC
+
+### 🆕 Technical Program Management, Alignment 
+**anthropic** · Technical Program Management 
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5187208008)
+🕐 Updated: `2026-04-14T15:16:50-04:00` &nbsp;|&nbsp; ID: `5187208008`
+
+---
+### 🆕 Staff Product Manager, Media
+**fastly** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7781876)
+🕐 Updated: `2026-04-07T13:59:33-04:00` &nbsp;|&nbsp; ID: `7781876`
+
+---
+### 🆕 Staff Product Manager, Metacognition
+**fastly** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7781874)
+🕐 Updated: `2026-04-07T13:57:51-04:00` &nbsp;|&nbsp; ID: `7781874`
+
+---
+### 🆕 Staff Product Manager - Portfolio and Partnerships
+**fastly** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7815384)
+🕐 Updated: `2026-04-14T15:02:00-04:00` &nbsp;|&nbsp; ID: `7815384`
+
+---
+### 🆕 Solutions Engineer
+**mixpanel** · Solution Engineering
+📍 San Francisco, US (Hybrid)  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7800289)
+🕐 Updated: `2026-04-14T14:44:59-04:00` &nbsp;|&nbsp; ID: `7800289`
+
+---
+### 🆕 Solutions Engineer
+**mixpanel** · Solution Engineering
+📍 New York, US (Hybrid)  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7815692)
+🕐 Updated: `2026-04-14T14:45:01-04:00` &nbsp;|&nbsp; ID: `7815692`
+
+---
+### 🆕 Staff Security Engineer
+**amplitude** · Engineering : Security
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8506550002)
+🕐 Updated: `2026-04-14T14:28:13-04:00` &nbsp;|&nbsp; ID: `8506550002`
+
+---
+### 🆕 Engineering Manager, Platform Engineering
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7788980?gh_jid=7788980)
+🕐 Updated: `2026-04-14T15:21:55-04:00` &nbsp;|&nbsp; ID: `7788980`
+
+---
+### 🆕 Associate Product Manager, Billing
+**klaviyo** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7615553003)
+🕐 Updated: `2026-04-08T22:26:43-04:00` &nbsp;|&nbsp; ID: `7615553003`
+
+---
+### 🆕 Sales Development Representative (Boston)
+**datadog** · Sales Development
+📍 Boston, Massachusetts, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571)
+🕐 Updated: `2026-04-13T13:18:45-04:00` &nbsp;|&nbsp; ID: `6741571`
+
+---
+### 🆕 Director of Pricing
+**gitlab** · Platforms
+📍 Remote, Canada; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8500092002)
+🕐 Updated: `2026-04-14T14:48:14-04:00` &nbsp;|&nbsp; ID: `8500092002`
+
+---
+### 🆕 Senior Site Reliability Engineer, Tenant Services: Geo
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8490453002)
+🕐 Updated: `2026-04-07T14:39:20-04:00` &nbsp;|&nbsp; ID: `8490453002`
+
+---
+### 🆕 Business Development Representative
+**jumio** · 225 - Inside Sales
+📍 USA (remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/jumio/jobs/4680598005)
+🕐 Updated: `2026-04-14T15:25:18-04:00` &nbsp;|&nbsp; ID: `4680598005`
+
+---
+### 🆕 Engineering Manager - Tax Platform
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7815723?gh_jid=7815723)
+🕐 Updated: `2026-04-14T14:18:23-04:00` &nbsp;|&nbsp; ID: `7815723`
+
+---
+### 🆕 Engineering Manager, Agent Experience
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542965?t=gh_src=&gh_jid=7542965)
+🕐 Updated: `2026-04-13T23:22:46-04:00` &nbsp;|&nbsp; ID: `7542965`
+
+---
+### 🆕 Software Backend Engineer, Credit Cards & Banking Platform
+**robinhood** · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7022255?t=gh_src=&gh_jid=7022255)
+🕐 Updated: `2026-04-14T14:01:43-04:00` &nbsp;|&nbsp; ID: `7022255`
+
+---
+### 🔄 Design Engineer, Web
+**anthropic** · Marketing & Brand
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5116525008)
+🕐 Updated: `2026-04-14T14:08:50-04:00` &nbsp;|&nbsp; ID: `5116525008`
+
+---
+### 🔄 Senior Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622278)
+🕐 Updated: `2026-04-14T15:18:05-04:00` &nbsp;|&nbsp; ID: `7622278`
+
+---
+### 🔄 Support Engineer
+**circleci** · Support Engineering
+📍 San Francisco, Toronto &nbsp;|&nbsp; 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8500214002/?gh_jid=8500214002)
+🕐 Updated: `2026-04-14T14:20:13-04:00` &nbsp;|&nbsp; ID: `8500214002`
+
+---
+### 🔄 Engineering Manager, Compliance Data and Evidence Engine
+**stripe** · 8126 Developer Infrastructure
+📍 Seattle, San Francisco  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812785)
+🕐 Updated: `2026-04-14T14:50:56-04:00` &nbsp;|&nbsp; ID: `7812785`
+
+---
+### 🔄 Director of Talent Development and Performance
+**flex** · People Ops
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4654930005)
+🕐 Updated: `2026-04-14T14:18:57-04:00` &nbsp;|&nbsp; ID: `4654930005`
+
+---
+### 🔄 Director of Talent Development and Performance
+**flex** · People Ops
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4678455005)
+🕐 Updated: `2026-04-14T14:18:57-04:00` &nbsp;|&nbsp; ID: `4678455005`
+
+---
+### 🔄 Manager, Strategic Partnerships
+**flex** · Business Development
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4665567005)
+🕐 Updated: `2026-04-14T14:12:46-04:00` &nbsp;|&nbsp; ID: `4665567005`
+
+---
+### 🔄 Manager, Strategic Partnerships
+**flex** · Business Development
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4672217005)
+🕐 Updated: `2026-04-14T14:12:46-04:00` &nbsp;|&nbsp; ID: `4672217005`
+
+---
+### 🔄 Senior Director, Business Development (New Verticals)
+**flex** · Business Development
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4627501005)
+🕐 Updated: `2026-04-14T14:11:27-04:00` &nbsp;|&nbsp; ID: `4627501005`
+
+---
+### 🔄 Senior Director, Business Development (New Verticals)
+**flex** · Business Development
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4627497005)
+🕐 Updated: `2026-04-14T14:11:27-04:00` &nbsp;|&nbsp; ID: `4627497005`
+
+---
+### 🔄 Senior Engineering Manager, Payments
+**flex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4659405005)
+🕐 Updated: `2026-04-14T14:10:49-04:00` &nbsp;|&nbsp; ID: `4659405005`
+
+---
+### 🔄 Senior Manager, Partnerships Strategy & Operations
+**flex** · Business Development
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4647045005)
+🕐 Updated: `2026-04-14T14:12:46-04:00` &nbsp;|&nbsp; ID: `4647045005`
+
+---
+### 🔄 Senior Manager, Partnerships Strategy & Operations
+**flex** · Business Development
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4647044005)
+🕐 Updated: `2026-04-14T14:12:46-04:00` &nbsp;|&nbsp; ID: `4647044005`
+
+---
+### 🔄 Senior Software Engineer, Fullstack
+**flex** · Engineering
+📍 New York, New York, United States; Remote; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4641215005)
+🕐 Updated: `2026-04-14T14:25:16-04:00` &nbsp;|&nbsp; ID: `4641215005`
+
+---
+### 🔄 Vice President, Business Development & Strategic Partnerships
+**flex** · Business Development
+📍 New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4681915005)
+🕐 Updated: `2026-04-14T14:11:27-04:00` &nbsp;|&nbsp; ID: `4681915005`
+
+---
+### 🔄 Senior Solutions Architect - Transaction Monitoring
+**alloy** · Client Success & Solutions
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=7628041002&gh_jid=7628041002)
+🕐 Updated: `2026-04-14T14:10:50-04:00` &nbsp;|&nbsp; ID: `7628041002`
+
+---
+### 🔄 Lead Counsel, Capital Markets
+**upstart** · Legal Group
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7673689)
+🕐 Updated: `2026-04-14T15:09:09-04:00` &nbsp;|&nbsp; ID: `7673689`
+
+---
+### 🔄 Senior Software Engineer, Analytics
+**lattice** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8489530002)
+🕐 Updated: `2026-04-14T15:05:57-04:00` &nbsp;|&nbsp; ID: `8489530002`
+
+---
+### 🔄 Senior Software Engineer, Compensation
+**lattice** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8494207002)
+🕐 Updated: `2026-04-14T15:22:48-04:00` &nbsp;|&nbsp; ID: `8494207002`
+
+---
+### 🔄 Engineering Manager - Simple Trade
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773213?gh_jid=7773213)
+🕐 Updated: `2026-04-14T14:13:57-04:00` &nbsp;|&nbsp; ID: `7773213`
+
+---
+### 🔄 Senior Staff Software Engineer, Backend - Platform (Core Automation)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292)
+🕐 Updated: `2026-04-14T15:10:51-04:00` &nbsp;|&nbsp; ID: `7580292`
+
+---
+### 🔄 Android Full Stack Engineer, Credit Cards & Banking
+**robinhood** · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049)
+🕐 Updated: `2026-04-14T15:03:09-04:00` &nbsp;|&nbsp; ID: `7490049`
+
+---
+### 🔄 Staff Product Manager, International
+**robinhood** · International Product Management
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7812801?t=gh_src=&gh_jid=7812801)
+🕐 Updated: `2026-04-14T14:18:57-04:00` &nbsp;|&nbsp; ID: `7812801`
+
+---
+### 🔄 Business Development Manager, Private Equity Partners
+**carta** · Business Development
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/7489895003)
+🕐 Updated: `2026-04-14T14:01:15-04:00` &nbsp;|&nbsp; ID: `7489895003`
+
+---
+
 ## 📅 Run: 2026-04-14 18:00 UTC
 
 ### 🆕 Research Operations, Discovery

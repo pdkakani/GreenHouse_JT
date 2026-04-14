@@ -1,54 +1,4 @@
 {
-  "7781876": {
-    "first_seen": "2026-04-07T18:55:27.684388+00:00",
-    "updated_at": "2026-04-07T13:59:33-04:00",
-    "title": "Staff Product Manager, Media",
-    "company": "fastly"
-  },
-  "7781874": {
-    "first_seen": "2026-04-07T18:55:27.684422+00:00",
-    "updated_at": "2026-04-07T13:57:51-04:00",
-    "title": "Staff Product Manager, Metacognition",
-    "company": "fastly"
-  },
-  "7615553003": {
-    "first_seen": "2026-04-07T18:55:28.606946+00:00",
-    "updated_at": "2026-04-08T22:26:43-04:00",
-    "title": "Associate Product Manager, Billing",
-    "company": "klaviyo"
-  },
-  "6741571": {
-    "first_seen": "2026-04-07T18:55:29.403939+00:00",
-    "updated_at": "2026-04-13T13:18:45-04:00",
-    "title": "Sales Development Representative (Boston)",
-    "company": "datadog",
-    "alerted": false
-  },
-  "8490453002": {
-    "first_seen": "2026-04-07T18:55:33.700050+00:00",
-    "updated_at": "2026-04-07T14:39:20-04:00",
-    "title": "Senior Site Reliability Engineer, Tenant Services: Geo",
-    "company": "gitlab"
-  },
-  "8495850002": {
-    "first_seen": "2026-04-07T18:55:35.038296+00:00",
-    "updated_at": "2026-04-07T15:46:36-04:00",
-    "title": "Software Engineer",
-    "company": "airtable"
-  },
-  "7542965": {
-    "first_seen": "2026-04-07T18:55:49.104687+00:00",
-    "updated_at": "2026-04-13T23:22:46-04:00",
-    "title": "Engineering Manager, Agent Experience",
-    "company": "robinhood",
-    "alerted": false
-  },
-  "7783175": {
-    "first_seen": "2026-04-07T18:55:50.635418+00:00",
-    "updated_at": "2026-04-07T20:40:17-04:00",
-    "title": "Software Engineer Guest & Host (Listing) ",
-    "company": "airbnb"
-  },
   "7782764": {
     "first_seen": "2026-04-07T19:54:08.376931+00:00",
     "updated_at": "2026-04-07T15:15:04-04:00",
@@ -262,9 +212,10 @@
   },
   "8494207002": {
     "first_seen": "2026-04-08T05:56:54.010844+00:00",
-    "updated_at": "2026-04-08T01:24:49-04:00",
+    "updated_at": "2026-04-14T15:22:48-04:00",
     "title": "Senior Software Engineer, Compensation",
-    "company": "lattice"
+    "company": "lattice",
+    "alerted": false
   },
   "7616001003": {
     "first_seen": "2026-04-08T05:56:58.315407+00:00",
@@ -833,7 +784,7 @@
   },
   "8500214002": {
     "first_seen": "2026-04-09T17:36:03.900241+00:00",
-    "updated_at": "2026-04-10T15:33:55-04:00",
+    "updated_at": "2026-04-14T14:20:13-04:00",
     "title": "Support Engineer",
     "company": "circleci",
     "alerted": false
@@ -875,8 +826,8 @@
   },
   "7773213": {
     "first_seen": "2026-04-09T17:36:27.505055+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Engineering Manager - Tax Engineering",
+    "updated_at": "2026-04-14T14:13:57-04:00",
+    "title": "Engineering Manager - Simple Trade",
     "company": "coinbase",
     "alerted": false
   },
@@ -5302,7 +5253,7 @@
   },
   "7622278": {
     "first_seen": "2026-04-13T07:24:53.661422+00:00",
-    "updated_at": "2026-04-14T10:25:49-04:00",
+    "updated_at": "2026-04-14T15:18:05-04:00",
     "title": "Senior Engineer, Offensive Security",
     "company": "twilio",
     "alerted": true
@@ -10216,7 +10167,7 @@
   },
   "7580292": {
     "first_seen": "2026-04-13T07:25:04.759461+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T15:10:51-04:00",
     "title": "Senior Staff Software Engineer, Backend - Platform (Core Automation)",
     "company": "coinbase",
     "alerted": true
@@ -10433,8 +10384,8 @@
   },
   "7490049": {
     "first_seen": "2026-04-13T07:25:05.491833+00:00",
-    "updated_at": "2026-04-07T20:15:17-04:00",
-    "title": "Android Full Stack Engineer",
+    "updated_at": "2026-04-14T15:03:09-04:00",
+    "title": "Android Full Stack Engineer, Credit Cards & Banking",
     "company": "robinhood",
     "alerted": true
   },
@@ -10965,7 +10916,7 @@
   },
   "5116525008": {
     "first_seen": "2026-04-13T09:17:49.239954+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-14T14:08:50-04:00",
     "title": "Design Engineer, Web",
     "company": "anthropic",
     "alerted": true
@@ -15011,14 +14962,14 @@
   },
   "4654930005": {
     "first_seen": "2026-04-13T09:18:01.824935+00:00",
-    "updated_at": "2026-04-08T11:46:02-04:00",
+    "updated_at": "2026-04-14T14:18:57-04:00",
     "title": "Director of Talent Development and Performance",
     "company": "flex",
     "alerted": true
   },
   "4678455005": {
     "first_seen": "2026-04-13T09:18:01.824967+00:00",
-    "updated_at": "2026-04-08T11:46:02-04:00",
+    "updated_at": "2026-04-14T14:18:57-04:00",
     "title": "Director of Talent Development and Performance",
     "company": "flex",
     "alerted": true
@@ -15046,14 +14997,14 @@
   },
   "4672217005": {
     "first_seen": "2026-04-13T09:18:01.825673+00:00",
-    "updated_at": "2026-04-08T14:00:39-04:00",
+    "updated_at": "2026-04-14T14:12:46-04:00",
     "title": "Manager, Strategic Partnerships",
     "company": "flex",
     "alerted": true
   },
   "4665567005": {
     "first_seen": "2026-04-13T09:18:01.825714+00:00",
-    "updated_at": "2026-04-08T14:00:39-04:00",
+    "updated_at": "2026-04-14T14:12:46-04:00",
     "title": "Manager, Strategic Partnerships",
     "company": "flex",
     "alerted": true
@@ -15067,21 +15018,21 @@
   },
   "4627497005": {
     "first_seen": "2026-04-13T09:18:01.825945+00:00",
-    "updated_at": "2026-04-09T00:28:18-04:00",
+    "updated_at": "2026-04-14T14:11:27-04:00",
     "title": "Senior Director, Business Development (New Verticals)",
     "company": "flex",
     "alerted": true
   },
   "4627501005": {
     "first_seen": "2026-04-13T09:18:01.825978+00:00",
-    "updated_at": "2026-04-09T00:28:18-04:00",
+    "updated_at": "2026-04-14T14:11:27-04:00",
     "title": "Senior Director, Business Development (New Verticals)",
     "company": "flex",
     "alerted": true
   },
   "4659405005": {
     "first_seen": "2026-04-13T09:18:01.826196+00:00",
-    "updated_at": "2026-03-16T15:32:32-04:00",
+    "updated_at": "2026-04-14T14:10:49-04:00",
     "title": "Senior Engineering Manager, Payments",
     "company": "flex",
     "alerted": true
@@ -15095,14 +15046,14 @@
   },
   "4647045005": {
     "first_seen": "2026-04-13T09:18:01.826334+00:00",
-    "updated_at": "2026-04-08T14:00:39-04:00",
+    "updated_at": "2026-04-14T14:12:46-04:00",
     "title": "Senior Manager, Partnerships Strategy & Operations",
     "company": "flex",
     "alerted": true
   },
   "4647044005": {
     "first_seen": "2026-04-13T09:18:01.826380+00:00",
-    "updated_at": "2026-04-08T14:00:39-04:00",
+    "updated_at": "2026-04-14T14:12:46-04:00",
     "title": "Senior Manager, Partnerships Strategy & Operations",
     "company": "flex",
     "alerted": true
@@ -15144,7 +15095,7 @@
   },
   "4641215005": {
     "first_seen": "2026-04-13T09:18:01.826708+00:00",
-    "updated_at": "2026-03-16T15:32:32-04:00",
+    "updated_at": "2026-04-14T14:25:16-04:00",
     "title": "Senior Software Engineer, Fullstack",
     "company": "flex",
     "alerted": true
@@ -15228,7 +15179,7 @@
   },
   "7628041002": {
     "first_seen": "2026-04-13T09:18:02.223592+00:00",
-    "updated_at": "2026-04-07T15:49:11-04:00",
+    "updated_at": "2026-04-14T14:10:50-04:00",
     "title": "Senior Solutions Architect - Transaction Monitoring",
     "company": "alloy",
     "alerted": true
@@ -15942,8 +15893,8 @@
   },
   "7673689": {
     "first_seen": "2026-04-13T09:18:04.643104+00:00",
-    "updated_at": "2026-03-30T13:01:44-04:00",
-    "title": "Senior Legal Counsel, Capital Markets",
+    "updated_at": "2026-04-14T15:09:09-04:00",
+    "title": "Lead Counsel, Capital Markets",
     "company": "upstart",
     "alerted": true
   },
@@ -16600,7 +16551,7 @@
   },
   "7489895003": {
     "first_seen": "2026-04-13T09:18:08.199242+00:00",
-    "updated_at": "2026-03-04T19:01:52-05:00",
+    "updated_at": "2026-04-14T14:01:15-04:00",
     "title": "Business Development Manager, Private Equity Partners",
     "company": "carta",
     "alerted": true
@@ -19967,7 +19918,7 @@
   },
   "8489530002": {
     "first_seen": "2026-04-13T19:07:38.210892+00:00",
-    "updated_at": "2026-04-13T14:19:14-04:00",
+    "updated_at": "2026-04-14T15:05:57-04:00",
     "title": "Senior Software Engineer, Analytics",
     "company": "lattice",
     "alerted": true
@@ -20170,7 +20121,7 @@
   },
   "7812785": {
     "first_seen": "2026-04-13T21:08:49.441339+00:00",
-    "updated_at": "2026-04-13T16:23:36-04:00",
+    "updated_at": "2026-04-14T14:50:56-04:00",
     "title": "Engineering Manager, Compliance Data and Evidence Engine",
     "company": "stripe",
     "alerted": true
@@ -20394,7 +20345,7 @@
   },
   "4681915005": {
     "first_seen": "2026-04-14T05:17:17.005005+00:00",
-    "updated_at": "2026-04-09T00:28:18-04:00",
+    "updated_at": "2026-04-14T14:11:27-04:00",
     "title": "Vice President, Business Development & Strategic Partnerships",
     "company": "flex",
     "alerted": true
@@ -20653,8 +20604,8 @@
   },
   "7812801": {
     "first_seen": "2026-04-14T18:00:35.583274+00:00",
-    "updated_at": "2026-04-14T12:56:43-04:00",
-    "title": "Staff Product Manager, International Brokerage & Crypto",
+    "updated_at": "2026-04-14T14:18:57-04:00",
+    "title": "Staff Product Manager, International",
     "company": "robinhood",
     "alerted": true
   },
@@ -20691,6 +20642,118 @@
     "updated_at": "2026-04-14T13:00:03-04:00",
     "title": "Data Science Manager, Machine Learning - Lyft Ads",
     "company": "lyft",
+    "alerted": true
+  },
+  "5187208008": {
+    "first_seen": "2026-04-14T19:25:57.163932+00:00",
+    "updated_at": "2026-04-14T15:16:50-04:00",
+    "title": "Technical Program Management, Alignment ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7781876": {
+    "first_seen": "2026-04-14T19:26:06.328773+00:00",
+    "updated_at": "2026-04-07T13:59:33-04:00",
+    "title": "Staff Product Manager, Media",
+    "company": "fastly",
+    "alerted": true
+  },
+  "7781874": {
+    "first_seen": "2026-04-14T19:26:06.328802+00:00",
+    "updated_at": "2026-04-07T13:57:51-04:00",
+    "title": "Staff Product Manager, Metacognition",
+    "company": "fastly",
+    "alerted": true
+  },
+  "7815384": {
+    "first_seen": "2026-04-14T19:26:06.328817+00:00",
+    "updated_at": "2026-04-14T15:02:00-04:00",
+    "title": "Staff Product Manager - Portfolio and Partnerships",
+    "company": "fastly",
+    "alerted": true
+  },
+  "7800289": {
+    "first_seen": "2026-04-14T19:26:06.884772+00:00",
+    "updated_at": "2026-04-14T14:44:59-04:00",
+    "title": "Solutions Engineer",
+    "company": "mixpanel",
+    "alerted": true
+  },
+  "7815692": {
+    "first_seen": "2026-04-14T19:26:06.884804+00:00",
+    "updated_at": "2026-04-14T14:45:01-04:00",
+    "title": "Solutions Engineer",
+    "company": "mixpanel",
+    "alerted": true
+  },
+  "8506550002": {
+    "first_seen": "2026-04-14T19:26:07.122276+00:00",
+    "updated_at": "2026-04-14T14:28:13-04:00",
+    "title": "Staff Security Engineer",
+    "company": "amplitude",
+    "alerted": true
+  },
+  "7788980": {
+    "first_seen": "2026-04-14T19:26:07.284057+00:00",
+    "updated_at": "2026-04-14T15:21:55-04:00",
+    "title": "Engineering Manager, Platform Engineering",
+    "company": "braze",
+    "alerted": true
+  },
+  "7615553003": {
+    "first_seen": "2026-04-14T19:26:07.622957+00:00",
+    "updated_at": "2026-04-08T22:26:43-04:00",
+    "title": "Associate Product Manager, Billing",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "6741571": {
+    "first_seen": "2026-04-14T19:26:08.882278+00:00",
+    "updated_at": "2026-04-13T13:18:45-04:00",
+    "title": "Sales Development Representative (Boston)",
+    "company": "datadog",
+    "alerted": true
+  },
+  "8500092002": {
+    "first_seen": "2026-04-14T19:26:19.502134+00:00",
+    "updated_at": "2026-04-14T14:48:14-04:00",
+    "title": "Director of Pricing",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8490453002": {
+    "first_seen": "2026-04-14T19:26:19.503875+00:00",
+    "updated_at": "2026-04-07T14:39:20-04:00",
+    "title": "Senior Site Reliability Engineer, Tenant Services: Geo",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "4680598005": {
+    "first_seen": "2026-04-14T19:26:31.778151+00:00",
+    "updated_at": "2026-04-14T15:25:18-04:00",
+    "title": "Business Development Representative",
+    "company": "jumio",
+    "alerted": true
+  },
+  "7815723": {
+    "first_seen": "2026-04-14T19:26:33.349664+00:00",
+    "updated_at": "2026-04-14T14:18:23-04:00",
+    "title": "Engineering Manager - Tax Platform",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7542965": {
+    "first_seen": "2026-04-14T19:26:34.694451+00:00",
+    "updated_at": "2026-04-13T23:22:46-04:00",
+    "title": "Engineering Manager, Agent Experience",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "7022255": {
+    "first_seen": "2026-04-14T19:26:34.695808+00:00",
+    "updated_at": "2026-04-14T14:01:43-04:00",
+    "title": "Software Backend Engineer, Credit Cards & Banking Platform",
+    "company": "robinhood",
     "alerted": true
   }
 }
