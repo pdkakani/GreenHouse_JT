@@ -2,6 +2,195 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 21:27 UTC
+
+### 🆕 Site Reliability Engineer 3
+**mongodb** · PTO Site Reliability Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7145126)
+🕐 Updated: `2026-04-14T17:03:14-04:00` &nbsp;|&nbsp; ID: `7145126`
+
+---
+### 🆕 Solutions Engineer, Alliances
+**okta** · SE Field CTO-322
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7555425?gh_jid=7555425)
+🕐 Updated: `2026-04-14T16:50:46-04:00` &nbsp;|&nbsp; ID: `7555425`
+
+---
+### 🆕 Senior Software Engineer - Dev Accelerator
+**abnormalsecurity** · Multi-Product Platform
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7691539003?gh_jid=7691539003)
+🕐 Updated: `2026-04-07T16:18:53-04:00` &nbsp;|&nbsp; ID: `7691539003`
+
+---
+### 🆕 Senior Software Engineer - Dev Accelerator
+**abnormalsecurity** · Multi-Product Platform
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7691537003?gh_jid=7691537003)
+🕐 Updated: `2026-04-07T16:18:52-04:00` &nbsp;|&nbsp; ID: `7691537003`
+
+---
+### 🆕 Software Engineer 2 - Dev Accelerator
+**abnormalsecurity** · Multi-Product Platform
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7691518003?gh_jid=7691518003)
+🕐 Updated: `2026-04-07T16:19:05-04:00` &nbsp;|&nbsp; ID: `7691518003`
+
+---
+### 🆕 Software Engineer 2 - Dev Accelerator
+**abnormalsecurity** · Multi-Product Platform
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7691520003?gh_jid=7691520003)
+🕐 Updated: `2026-04-07T16:19:06-04:00` &nbsp;|&nbsp; ID: `7691520003`
+
+---
+### 🆕 Product Lead, Agentic Ads Platform
+**hightouch** · Product
+📍 SF, NY, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5970143004)
+🕐 Updated: `2026-04-14T16:59:06-04:00` &nbsp;|&nbsp; ID: `5970143004`
+
+---
+### 🆕 Director of Engineering, Security Risk Management
+**gitlab** · Sec Engineering
+📍 Remote, Canada; Remote, EMEA; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8195921002)
+🕐 Updated: `2026-04-07T16:12:20-04:00` &nbsp;|&nbsp; ID: `8195921002`
+
+---
+### 🆕 Security Automation Engineer
+**calendly** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8506905002)
+🕐 Updated: `2026-04-14T16:48:48-04:00` &nbsp;|&nbsp; ID: `8506905002`
+
+---
+### 🆕 Chief Product Officer 
+**fellow** · Hardware Research & Development
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://fellowproducts.com/pages/careers?gh_jid=5034777007)
+🕐 Updated: `2026-04-14T16:48:35-04:00` &nbsp;|&nbsp; ID: `5034777007`
+
+---
+### 🆕 Junior IT Support Engineer
+**altruist** · Engineering
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5857174004?gh_jid=5857174004)
+🕐 Updated: `2026-04-07T16:20:46-04:00` &nbsp;|&nbsp; ID: `5857174004`
+
+---
+### 🆕 Senior Recruiter, General Engineering
+**robinhood** · Talent Acquisition
+📍 Chicago, IL; Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7811977?t=gh_src=&gh_jid=7811977)
+🕐 Updated: `2026-04-14T16:45:44-04:00` &nbsp;|&nbsp; ID: `7811977`
+
+---
+### 🆕 Senior Software Engineer
+**sofi** · Engineering
+📍 WA - Seattle ; WA - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692735003?gh_jid=7692735003)
+🕐 Updated: `2026-04-07T16:36:19-04:00` &nbsp;|&nbsp; ID: `7692735003`
+
+---
+### 🆕 Senior Software Engineer
+**sofi** · Engineering
+📍 WA - Seattle ; - WA - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692729003?gh_jid=7692729003)
+🕐 Updated: `2026-04-07T16:30:30-04:00` &nbsp;|&nbsp; ID: `7692729003`
+
+---
+### 🆕 Software Engineer
+**sofi** · Engineering
+📍 WA - Seattle ; WA - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692731003?gh_jid=7692731003)
+🕐 Updated: `2026-04-07T16:33:00-04:00` &nbsp;|&nbsp; ID: `7692731003`
+
+---
+### 🆕 Senior Software Engineer, Marketplace
+**lyft** · Core Systems & Platforms
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8492244002?gh_jid=8492244002)
+🕐 Updated: `2026-04-07T16:05:46-04:00` &nbsp;|&nbsp; ID: `8492244002`
+
+---
+### 🆕 Senior Software Engineer, Marketplace
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8490442002?gh_jid=8490442002)
+🕐 Updated: `2026-04-07T16:05:15-04:00` &nbsp;|&nbsp; ID: `8490442002`
+
+---
+### 🔄 GRC Engineering Manager
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4980335008)
+🕐 Updated: `2026-04-14T17:10:23-04:00` &nbsp;|&nbsp; ID: `4980335008`
+
+---
+### 🔄 Salesforce Technical Administrator
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-14T17:18:11-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🔄 Senior Software Engineer - Analytics Data Engineering
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003)
+🕐 Updated: `2026-04-14T17:01:15-04:00` &nbsp;|&nbsp; ID: `7564587003`
+
+---
+### 🔄 Director, Product Management - Next Gen Platform
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743054)
+🕐 Updated: `2026-04-14T17:06:22-04:00` &nbsp;|&nbsp; ID: `7743054`
+
+---
+### 🔄 Group Product Manager, Fraud 
+**marqeta** · Risk, Fraud, Disputes Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7777778)
+🕐 Updated: `2026-04-14T17:07:04-04:00` &nbsp;|&nbsp; ID: `7777778`
+
+---
+### 🔄 Manager, Software Engineering - Data Infrastructure
+**marqeta** · ML, AI, Data Platform
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7747306)
+🕐 Updated: `2026-04-14T17:04:45-04:00` &nbsp;|&nbsp; ID: `7747306`
+
+---
+### 🔄 Production Support Engineer II
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743101)
+🕐 Updated: `2026-04-14T17:06:50-04:00` &nbsp;|&nbsp; ID: `7743101`
+
+---
+### 🔄 Senior Manager, Platform Engineering
+**marqeta** · Infrastructure
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7723772)
+🕐 Updated: `2026-04-14T17:06:11-04:00` &nbsp;|&nbsp; ID: `7723772`
+
+---
+### 🔄 Senior Manager, Software Engineering - Risk, Fraud and Disputes
+**marqeta** · Risk, Fraud, Disputes Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7627716)
+🕐 Updated: `2026-04-14T17:05:42-04:00` &nbsp;|&nbsp; ID: `7627716`
+
+---
+### 🔄 Senior Production Support Engineer - EU / UK
+**marqeta** · Core Product
+📍 Remote, UK &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7644999)
+🕐 Updated: `2026-04-14T17:05:48-04:00` &nbsp;|&nbsp; ID: `7644999`
+
+---
+### 🔄 Senior Product Manager, Stablecoins
+**marqeta** · Credit/Lending Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7743057)
+🕐 Updated: `2026-04-14T17:06:24-04:00` &nbsp;|&nbsp; ID: `7743057`
+
+---
+### 🔄 Senior Product Manager, Tokenization
+**marqeta** · Core Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7711098)
+🕐 Updated: `2026-04-14T17:06:08-04:00` &nbsp;|&nbsp; ID: `7711098`
+
+---
+### 🔄 Staff Software Engineer, Frontend (Consumer -CB1,Growth)
+**coinbase** · Engineering - Frontend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7300575?gh_jid=7300575)
+🕐 Updated: `2026-04-14T17:13:27-04:00` &nbsp;|&nbsp; ID: `7300575`
+
+---
+### 🔄 Staff Product Manager, International
+**robinhood** · International Product Management
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7812801?t=gh_src=&gh_jid=7812801)
+🕐 Updated: `2026-04-14T16:48:01-04:00` &nbsp;|&nbsp; ID: `7812801`
+
+---
+
 ## 📅 Run: 2026-04-14 20:30 UTC
 
 ### 🆕 Sales Development Representative - Public Sector

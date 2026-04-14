@@ -1,77 +1,4 @@
 {
-  "7691539003": {
-    "first_seen": "2026-04-07T20:40:29.329249+00:00",
-    "updated_at": "2026-04-07T16:18:53-04:00",
-    "title": "Senior Software Engineer - Dev Accelerator",
-    "company": "abnormalsecurity"
-  },
-  "7691537003": {
-    "first_seen": "2026-04-07T20:40:29.329277+00:00",
-    "updated_at": "2026-04-07T16:18:52-04:00",
-    "title": "Senior Software Engineer - Dev Accelerator",
-    "company": "abnormalsecurity"
-  },
-  "7691518003": {
-    "first_seen": "2026-04-07T20:40:29.329356+00:00",
-    "updated_at": "2026-04-07T16:19:05-04:00",
-    "title": "Software Engineer 2 - Dev Accelerator",
-    "company": "abnormalsecurity"
-  },
-  "7691520003": {
-    "first_seen": "2026-04-07T20:40:29.329366+00:00",
-    "updated_at": "2026-04-07T16:19:06-04:00",
-    "title": "Software Engineer 2 - Dev Accelerator",
-    "company": "abnormalsecurity"
-  },
-  "8195921002": {
-    "first_seen": "2026-04-07T20:40:31.715637+00:00",
-    "updated_at": "2026-04-07T16:12:20-04:00",
-    "title": "Director of Engineering, Security Risk Management",
-    "company": "gitlab"
-  },
-  "4668565006": {
-    "first_seen": "2026-04-07T20:40:36.014617+00:00",
-    "updated_at": "2026-04-10T11:22:54-04:00",
-    "title": "Sr Software Engineer - Android",
-    "company": "classpass",
-    "alerted": false
-  },
-  "5857174004": {
-    "first_seen": "2026-04-07T20:40:40.954282+00:00",
-    "updated_at": "2026-04-07T16:20:46-04:00",
-    "title": "Junior IT Support Engineer",
-    "company": "altruist"
-  },
-  "7692729003": {
-    "first_seen": "2026-04-07T20:40:54.179200+00:00",
-    "updated_at": "2026-04-07T16:30:30-04:00",
-    "title": "Senior Software Engineer",
-    "company": "sofi"
-  },
-  "7692735003": {
-    "first_seen": "2026-04-07T20:40:54.179234+00:00",
-    "updated_at": "2026-04-07T16:36:19-04:00",
-    "title": "Senior Software Engineer",
-    "company": "sofi"
-  },
-  "7692731003": {
-    "first_seen": "2026-04-07T20:40:54.179383+00:00",
-    "updated_at": "2026-04-07T16:33:00-04:00",
-    "title": "Software Engineer",
-    "company": "sofi"
-  },
-  "8490442002": {
-    "first_seen": "2026-04-07T20:40:55.814984+00:00",
-    "updated_at": "2026-04-07T16:05:15-04:00",
-    "title": "Senior Software Engineer, Marketplace",
-    "company": "lyft"
-  },
-  "8492244002": {
-    "first_seen": "2026-04-07T20:40:55.815011+00:00",
-    "updated_at": "2026-04-07T16:05:46-04:00",
-    "title": "Senior Software Engineer, Marketplace",
-    "company": "lyft"
-  },
   "5116167008": {
     "first_seen": "2026-04-07T21:29:34.078795+00:00",
     "updated_at": "2026-04-07T17:11:05-04:00",
@@ -583,9 +510,10 @@
   },
   "7743057": {
     "first_seen": "2026-04-09T00:03:49.706676+00:00",
-    "updated_at": "2026-04-08T19:43:56-04:00",
+    "updated_at": "2026-04-14T17:06:24-04:00",
     "title": "Senior Product Manager, Stablecoins",
-    "company": "marqeta"
+    "company": "marqeta",
+    "alerted": false
   },
   "7794016": {
     "first_seen": "2026-04-09T03:27:27.574274+00:00",
@@ -1516,7 +1444,7 @@
   },
   "7777778": {
     "first_seen": "2026-04-10T23:19:57.526324+00:00",
-    "updated_at": "2026-04-10T19:09:52-04:00",
+    "updated_at": "2026-04-14T17:07:04-04:00",
     "title": "Group Product Manager, Fraud ",
     "company": "marqeta",
     "alerted": true
@@ -9069,42 +8997,42 @@
   },
   "7743054": {
     "first_seen": "2026-04-13T07:24:59.015018+00:00",
-    "updated_at": "2026-04-02T21:20:49-04:00",
+    "updated_at": "2026-04-14T17:06:22-04:00",
     "title": "Director, Product Management - Next Gen Platform",
     "company": "marqeta",
     "alerted": true
   },
   "7747306": {
     "first_seen": "2026-04-13T07:24:59.015201+00:00",
-    "updated_at": "2026-04-02T21:19:26-04:00",
+    "updated_at": "2026-04-14T17:04:45-04:00",
     "title": "Manager, Software Engineering - Data Infrastructure",
     "company": "marqeta",
     "alerted": true
   },
   "7723772": {
     "first_seen": "2026-04-13T07:24:59.015435+00:00",
-    "updated_at": "2026-04-03T08:46:54-04:00",
+    "updated_at": "2026-04-14T17:06:11-04:00",
     "title": "Senior Manager, Platform Engineering",
     "company": "marqeta",
     "alerted": true
   },
   "7627716": {
     "first_seen": "2026-04-13T07:24:59.015481+00:00",
-    "updated_at": "2026-04-10T13:19:11-04:00",
+    "updated_at": "2026-04-14T17:05:42-04:00",
     "title": "Senior Manager, Software Engineering - Risk, Fraud and Disputes",
     "company": "marqeta",
     "alerted": true
   },
   "7644999": {
     "first_seen": "2026-04-13T07:24:59.015570+00:00",
-    "updated_at": "2026-04-02T21:20:14-04:00",
+    "updated_at": "2026-04-14T17:05:48-04:00",
     "title": "Senior Production Support Engineer - EU / UK",
     "company": "marqeta",
     "alerted": true
   },
   "7711098": {
     "first_seen": "2026-04-13T07:24:59.015622+00:00",
-    "updated_at": "2026-04-02T21:20:32-04:00",
+    "updated_at": "2026-04-14T17:06:08-04:00",
     "title": "Senior Product Manager, Tokenization",
     "company": "marqeta",
     "alerted": true
@@ -10273,7 +10201,7 @@
   },
   "7300575": {
     "first_seen": "2026-04-13T07:25:04.759848+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T17:13:27-04:00",
     "title": "Staff Software Engineer, Frontend (Consumer -CB1,Growth)",
     "company": "coinbase",
     "alerted": true
@@ -11015,8 +10943,8 @@
   },
   "4980335008": {
     "first_seen": "2026-04-13T09:17:49.241878+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
-    "title": "GRC Automation Engineering Lead ",
+    "updated_at": "2026-04-14T17:10:23-04:00",
+    "title": "GRC Engineering Manager",
     "company": "anthropic",
     "alerted": true
   },
@@ -12975,7 +12903,7 @@
   },
   "7564587003": {
     "first_seen": "2026-04-13T09:17:52.542837+00:00",
-    "updated_at": "2026-04-13T18:46:38-04:00",
+    "updated_at": "2026-04-14T17:01:15-04:00",
     "title": "Senior Software Engineer - Analytics Data Engineering",
     "company": "klaviyo",
     "alerted": true
@@ -19856,7 +19784,7 @@
   },
   "7743101": {
     "first_seen": "2026-04-13T19:07:33.340458+00:00",
-    "updated_at": "2026-04-13T12:48:07-04:00",
+    "updated_at": "2026-04-14T17:06:50-04:00",
     "title": "Production Support Engineer II",
     "company": "marqeta",
     "alerted": true
@@ -20185,8 +20113,8 @@
   },
   "7781657": {
     "first_seen": "2026-04-13T22:01:29.249345+00:00",
-    "updated_at": "2026-04-14T11:32:43-04:00",
-    "title": "Tech Admin (P2) GTM Systems",
+    "updated_at": "2026-04-14T17:18:11-04:00",
+    "title": "Salesforce Technical Administrator",
     "company": "twilio",
     "alerted": true
   },
@@ -20563,7 +20491,7 @@
   },
   "7812801": {
     "first_seen": "2026-04-14T18:00:35.583274+00:00",
-    "updated_at": "2026-04-14T14:18:57-04:00",
+    "updated_at": "2026-04-14T16:48:01-04:00",
     "title": "Staff Product Manager, International",
     "company": "robinhood",
     "alerted": true
@@ -20797,6 +20725,125 @@
     "updated_at": "2026-04-08T18:24:40-04:00",
     "title": " Data Engineering Manager, Core Experience & Incentives",
     "company": "instacart",
+    "alerted": true
+  },
+  "7145126": {
+    "first_seen": "2026-04-14T21:26:50.270989+00:00",
+    "updated_at": "2026-04-14T17:03:14-04:00",
+    "title": "Site Reliability Engineer 3",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7555425": {
+    "first_seen": "2026-04-14T21:26:53.242874+00:00",
+    "updated_at": "2026-04-14T16:50:46-04:00",
+    "title": "Solutions Engineer, Alliances",
+    "company": "okta",
+    "alerted": true
+  },
+  "7691539003": {
+    "first_seen": "2026-04-14T21:26:53.406419+00:00",
+    "updated_at": "2026-04-07T16:18:53-04:00",
+    "title": "Senior Software Engineer - Dev Accelerator",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "7691537003": {
+    "first_seen": "2026-04-14T21:26:53.406444+00:00",
+    "updated_at": "2026-04-07T16:18:52-04:00",
+    "title": "Senior Software Engineer - Dev Accelerator",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "7691518003": {
+    "first_seen": "2026-04-14T21:26:53.406466+00:00",
+    "updated_at": "2026-04-07T16:19:05-04:00",
+    "title": "Software Engineer 2 - Dev Accelerator",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "7691520003": {
+    "first_seen": "2026-04-14T21:26:53.406477+00:00",
+    "updated_at": "2026-04-07T16:19:06-04:00",
+    "title": "Software Engineer 2 - Dev Accelerator",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "5970143004": {
+    "first_seen": "2026-04-14T21:26:54.373778+00:00",
+    "updated_at": "2026-04-14T16:59:06-04:00",
+    "title": "Product Lead, Agentic Ads Platform",
+    "company": "hightouch",
+    "alerted": true
+  },
+  "8195921002": {
+    "first_seen": "2026-04-14T21:26:54.732204+00:00",
+    "updated_at": "2026-04-07T16:12:20-04:00",
+    "title": "Director of Engineering, Security Risk Management",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8506905002": {
+    "first_seen": "2026-04-14T21:26:55.863647+00:00",
+    "updated_at": "2026-04-14T16:48:48-04:00",
+    "title": "Security Automation Engineer",
+    "company": "calendly",
+    "alerted": true
+  },
+  "5034777007": {
+    "first_seen": "2026-04-14T21:26:55.947206+00:00",
+    "updated_at": "2026-04-14T16:48:35-04:00",
+    "title": "Chief Product Officer ",
+    "company": "fellow",
+    "alerted": true
+  },
+  "5857174004": {
+    "first_seen": "2026-04-14T21:26:58.114833+00:00",
+    "updated_at": "2026-04-07T16:20:46-04:00",
+    "title": "Junior IT Support Engineer",
+    "company": "altruist",
+    "alerted": true
+  },
+  "7811977": {
+    "first_seen": "2026-04-14T21:27:09.342015+00:00",
+    "updated_at": "2026-04-14T16:45:44-04:00",
+    "title": "Senior Recruiter, General Engineering",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "7692735003": {
+    "first_seen": "2026-04-14T21:27:18.018919+00:00",
+    "updated_at": "2026-04-07T16:36:19-04:00",
+    "title": "Senior Software Engineer",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7692729003": {
+    "first_seen": "2026-04-14T21:27:18.018978+00:00",
+    "updated_at": "2026-04-07T16:30:30-04:00",
+    "title": "Senior Software Engineer",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7692731003": {
+    "first_seen": "2026-04-14T21:27:18.019131+00:00",
+    "updated_at": "2026-04-07T16:33:00-04:00",
+    "title": "Software Engineer",
+    "company": "sofi",
+    "alerted": true
+  },
+  "8492244002": {
+    "first_seen": "2026-04-14T21:27:18.917188+00:00",
+    "updated_at": "2026-04-07T16:05:46-04:00",
+    "title": "Senior Software Engineer, Marketplace",
+    "company": "lyft",
+    "alerted": true
+  },
+  "8490442002": {
+    "first_seen": "2026-04-14T21:27:18.917214+00:00",
+    "updated_at": "2026-04-07T16:05:15-04:00",
+    "title": "Senior Software Engineer, Marketplace",
+    "company": "lyft",
     "alerted": true
   }
 }
