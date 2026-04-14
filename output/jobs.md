@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 11:19 UTC
+
+### 🆕 Staff Machine Learning Engineer (L4)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520997)
+🕐 Updated: `2026-04-13T10:34:30-04:00` &nbsp;|&nbsp; ID: `7520997`
+
+---
+### 🆕 Solutions Architect - ANZ
+**gitlab** · SA
+📍 Remote, Australia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8494593002)
+🕐 Updated: `2026-04-07T05:33:04-04:00` &nbsp;|&nbsp; ID: `8494593002`
+
+---
+
 ## 📅 Run: 2026-04-14 10:11 UTC
 
 ### 🆕 Full-Stack Software Engineer, Reinforcement Learning

@@ -1,24 +1,4 @@
 {
-  "7520997": {
-    "first_seen": "2026-04-07T10:32:47.918935+00:00",
-    "updated_at": "2026-04-13T10:34:30-04:00",
-    "title": "Staff Machine Learning Engineer (L4)",
-    "company": "twilio",
-    "alerted": false
-  },
-  "8496177002": {
-    "first_seen": "2026-04-07T10:32:48.254671+00:00",
-    "updated_at": "2026-04-13T18:24:26-04:00",
-    "title": "Sr. Technical Customer Success Manager (12mth Fixed Term Contract)",
-    "company": "amplitude",
-    "alerted": false
-  },
-  "8494593002": {
-    "first_seen": "2026-04-07T10:32:54.767412+00:00",
-    "updated_at": "2026-04-07T05:33:04-04:00",
-    "title": "Solutions Architect - ANZ",
-    "company": "gitlab"
-  },
   "7784606": {
     "first_seen": "2026-04-07T11:37:09.699659+00:00",
     "updated_at": "2026-04-07T06:50:24-04:00",
@@ -20666,6 +20646,20 @@
     "first_seen": "2026-04-14T10:11:30.155584+00:00",
     "updated_at": "2026-04-14T05:43:30-04:00",
     "title": "Senior Backend Engineer (C), Tenant Scale: Git",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7520997": {
+    "first_seen": "2026-04-14T11:19:27.769527+00:00",
+    "updated_at": "2026-04-13T10:34:30-04:00",
+    "title": "Staff Machine Learning Engineer (L4)",
+    "company": "twilio",
+    "alerted": true
+  },
+  "8494593002": {
+    "first_seen": "2026-04-14T11:19:32.861861+00:00",
+    "updated_at": "2026-04-07T05:33:04-04:00",
+    "title": "Solutions Architect - ANZ",
     "company": "gitlab",
     "alerted": true
   }
