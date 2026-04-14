@@ -1,42 +1,4 @@
 {
-  "5177143008": {
-    "first_seen": "2026-04-07T14:14:22.389938+00:00",
-    "updated_at": "2026-04-07T14:37:35-04:00",
-    "title": "Network Engineer, Capacity and Efficiency",
-    "company": "anthropic"
-  },
-  "7785350": {
-    "first_seen": "2026-04-07T14:14:28.156911+00:00",
-    "updated_at": "2026-04-07T10:05:04-04:00",
-    "title": "Senior Product Manager - Data Agent",
-    "company": "datadog"
-  },
-  "8483157002": {
-    "first_seen": "2026-04-07T14:14:29.762779+00:00",
-    "updated_at": "2026-04-09T12:51:49-04:00",
-    "title": "Associate Technical Support Engineer",
-    "company": "expel"
-  },
-  "6333181": {
-    "first_seen": "2026-04-07T14:14:36.806165+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Senior Infrastructure Software Engineer",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7749441": {
-    "first_seen": "2026-04-07T14:14:36.806194+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Senior Infrastructure Software Engineer, DevFleet",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "6032511": {
-    "first_seen": "2026-04-07T14:14:50.621627+00:00",
-    "updated_at": "2026-04-07T10:13:41-04:00",
-    "title": "Research Scientist/Research Engineer | Deep Learning",
-    "company": "jumptrading"
-  },
   "7692269003": {
     "first_seen": "2026-04-07T15:45:49.914494+00:00",
     "updated_at": "2026-04-07T11:41:16-04:00",
@@ -458,7 +420,7 @@
   },
   "7789395": {
     "first_seen": "2026-04-08T04:08:26.239615+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T11:03:13-04:00",
     "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
     "company": "coinbase",
     "alerted": false
@@ -749,9 +711,10 @@
   },
   "7743366": {
     "first_seen": "2026-04-08T21:07:45.535046+00:00",
-    "updated_at": "2026-04-08T16:56:03-04:00",
-    "title": "Senior Site Reliability Engineer",
-    "company": "mongodb"
+    "updated_at": "2026-04-14T10:59:35-04:00",
+    "title": "Senior Site Reliability Engineer, Storage Layer Services (SLS)",
+    "company": "mongodb",
+    "alerted": false
   },
   "7727920": {
     "first_seen": "2026-04-08T21:07:45.536557+00:00",
@@ -1084,7 +1047,7 @@
   },
   "7554499": {
     "first_seen": "2026-04-09T17:36:27.506243+00:00",
-    "updated_at": "2026-04-13T17:07:18-04:00",
+    "updated_at": "2026-04-14T11:03:07-04:00",
     "title": "Senior Software Engineer, Backend - Platform (Payment Rails)",
     "company": "coinbase",
     "alerted": false
@@ -1717,7 +1680,7 @@
   },
   "7808634": {
     "first_seen": "2026-04-10T19:54:31.141812+00:00",
-    "updated_at": "2026-04-10T15:53:51-04:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Staff Product Manager, Growth",
     "company": "flexport",
     "alerted": true
@@ -3215,7 +3178,7 @@
   },
   "7505582": {
     "first_seen": "2026-04-12T21:49:54.487075+00:00",
-    "updated_at": "2026-03-05T18:29:20-05:00",
+    "updated_at": "2026-04-14T10:21:48-04:00",
     "title": "Solutions Architect, AI/Cloudflare Developer Platform ",
     "company": "cloudflare",
     "alerted": true
@@ -4160,70 +4123,70 @@
   },
   "8494107002": {
     "first_seen": "2026-04-13T07:24:52.348079+00:00",
-    "updated_at": "2026-04-09T16:51:23-04:00",
+    "updated_at": "2026-04-14T11:13:02-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8461321002": {
     "first_seen": "2026-04-13T07:24:52.348102+00:00",
-    "updated_at": "2026-04-09T16:51:28-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8423296002": {
     "first_seen": "2026-04-13T07:24:52.348157+00:00",
-    "updated_at": "2026-04-09T16:51:27-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8494147002": {
     "first_seen": "2026-04-13T07:24:52.348176+00:00",
-    "updated_at": "2026-04-09T16:51:27-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8456973002": {
     "first_seen": "2026-04-13T07:24:52.348234+00:00",
-    "updated_at": "2026-04-09T16:51:27-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8494137002": {
     "first_seen": "2026-04-13T07:24:52.348251+00:00",
-    "updated_at": "2026-04-09T16:51:28-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8494130002": {
     "first_seen": "2026-04-13T07:24:52.348275+00:00",
-    "updated_at": "2026-04-09T16:51:28-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8356289002": {
     "first_seen": "2026-04-13T07:24:52.348296+00:00",
-    "updated_at": "2026-04-09T16:51:23-04:00",
+    "updated_at": "2026-04-14T11:13:02-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8494128002": {
     "first_seen": "2026-04-13T07:24:52.348315+00:00",
-    "updated_at": "2026-04-09T16:51:27-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
   },
   "8456975002": {
     "first_seen": "2026-04-13T07:24:52.348353+00:00",
-    "updated_at": "2026-04-09T16:51:28-04:00",
+    "updated_at": "2026-04-14T11:13:06-04:00",
     "title": "Resident Solutions Architect - Public Sector",
     "company": "databricks",
     "alerted": true
@@ -5392,14 +5355,14 @@
   },
   "7646270": {
     "first_seen": "2026-04-13T07:24:53.660418+00:00",
-    "updated_at": "2026-04-13T10:31:43-04:00",
+    "updated_at": "2026-04-14T10:26:21-04:00",
     "title": "Applications Engineer 2",
     "company": "twilio",
     "alerted": true
   },
   "7254399": {
     "first_seen": "2026-04-13T07:24:53.660435+00:00",
-    "updated_at": "2026-04-13T10:35:58-04:00",
+    "updated_at": "2026-04-14T10:28:33-04:00",
     "title": "Business Systems Analyst 2",
     "company": "twilio",
     "alerted": true
@@ -5413,7 +5376,7 @@
   },
   "7657991": {
     "first_seen": "2026-04-13T07:24:53.660638+00:00",
-    "updated_at": "2026-04-13T10:31:23-04:00",
+    "updated_at": "2026-04-14T10:26:16-04:00",
     "title": "Engineer, Identity & Access",
     "company": "twilio",
     "alerted": true
@@ -5462,7 +5425,7 @@
   },
   "7452089": {
     "first_seen": "2026-04-13T07:24:53.661141+00:00",
-    "updated_at": "2026-04-13T10:34:16-04:00",
+    "updated_at": "2026-04-14T10:27:30-04:00",
     "title": "Principal Presales Engineer",
     "company": "twilio",
     "alerted": true
@@ -5504,7 +5467,7 @@
   },
   "7622278": {
     "first_seen": "2026-04-13T07:24:53.661422+00:00",
-    "updated_at": "2026-04-13T10:29:25-04:00",
+    "updated_at": "2026-04-14T10:25:49-04:00",
     "title": "Senior Engineer, Offensive Security",
     "company": "twilio",
     "alerted": true
@@ -5525,7 +5488,7 @@
   },
   "7657993": {
     "first_seen": "2026-04-13T07:24:53.661518+00:00",
-    "updated_at": "2026-04-13T10:32:13-04:00",
+    "updated_at": "2026-04-14T10:26:40-04:00",
     "title": "Senior Network Engineer",
     "company": "twilio",
     "alerted": true
@@ -5553,7 +5516,7 @@
   },
   "7662058": {
     "first_seen": "2026-04-13T07:24:53.661686+00:00",
-    "updated_at": "2026-04-13T10:30:48-04:00",
+    "updated_at": "2026-04-14T10:26:05-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
@@ -5581,7 +5544,7 @@
   },
   "7511486": {
     "first_seen": "2026-04-13T07:24:53.661739+00:00",
-    "updated_at": "2026-04-13T10:34:46-04:00",
+    "updated_at": "2026-04-14T10:27:41-04:00",
     "title": "Senior Solutions Engineer 3",
     "company": "twilio",
     "alerted": true
@@ -5728,7 +5691,7 @@
   },
   "7349692": {
     "first_seen": "2026-04-13T07:24:53.662566+00:00",
-    "updated_at": "2026-04-13T10:35:37-04:00",
+    "updated_at": "2026-04-14T10:28:20-04:00",
     "title": "Technical Support Engineer 2 (Email Infra)",
     "company": "twilio",
     "alerted": true
@@ -11972,7 +11935,7 @@
   },
   "5057258008": {
     "first_seen": "2026-04-13T09:17:49.248441+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-14T10:24:30-04:00",
     "title": "Solutions Architect, Applied AI (Startups)",
     "company": "anthropic",
     "alerted": true
@@ -12567,70 +12530,70 @@
   },
   "7733261": {
     "first_seen": "2026-04-13T09:17:52.325892+00:00",
-    "updated_at": "2026-03-20T18:34:19-04:00",
+    "updated_at": "2026-04-14T10:49:38-04:00",
     "title": "AV Associate",
     "company": "braze",
     "alerted": true
   },
   "7684743": {
     "first_seen": "2026-04-13T09:17:52.327021+00:00",
-    "updated_at": "2026-03-19T10:22:30-04:00",
+    "updated_at": "2026-04-14T10:54:37-04:00",
     "title": "IT Associate",
     "company": "braze",
     "alerted": true
   },
   "7614562": {
     "first_seen": "2026-04-13T09:17:52.327045+00:00",
-    "updated_at": "2026-04-09T12:19:37-04:00",
+    "updated_at": "2026-04-14T10:55:33-04:00",
     "title": "Lead Design Engineer",
     "company": "braze",
     "alerted": true
   },
   "7614566": {
     "first_seen": "2026-04-13T09:17:52.327062+00:00",
-    "updated_at": "2026-04-09T12:20:06-04:00",
+    "updated_at": "2026-04-14T10:55:58-04:00",
     "title": "Lead Design Engineer",
     "company": "braze",
     "alerted": true
   },
   "7614563": {
     "first_seen": "2026-04-13T09:17:52.327076+00:00",
-    "updated_at": "2026-04-09T12:19:54-04:00",
+    "updated_at": "2026-04-14T10:55:45-04:00",
     "title": "Lead Design Engineer",
     "company": "braze",
     "alerted": true
   },
   "7592334": {
     "first_seen": "2026-04-13T09:17:52.327092+00:00",
-    "updated_at": "2026-04-09T12:19:05-04:00",
+    "updated_at": "2026-04-14T10:55:21-04:00",
     "title": "Lead Design Engineer",
     "company": "braze",
     "alerted": true
   },
   "7579242": {
     "first_seen": "2026-04-13T09:17:52.327180+00:00",
-    "updated_at": "2026-03-25T15:17:12-04:00",
+    "updated_at": "2026-04-14T10:59:56-04:00",
     "title": "Lead System Administrator",
     "company": "braze",
     "alerted": true
   },
   "7606798": {
     "first_seen": "2026-04-13T09:17:52.327203+00:00",
-    "updated_at": "2026-03-25T15:17:12-04:00",
+    "updated_at": "2026-04-14T11:00:21-04:00",
     "title": "Lead System Administrator",
     "company": "braze",
     "alerted": true
   },
   "7606803": {
     "first_seen": "2026-04-13T09:17:52.327257+00:00",
-    "updated_at": "2026-03-25T15:17:12-04:00",
+    "updated_at": "2026-04-14T11:00:34-04:00",
     "title": "Lead System Administrator",
     "company": "braze",
     "alerted": true
   },
   "7579328": {
     "first_seen": "2026-04-13T09:17:52.327280+00:00",
-    "updated_at": "2026-03-25T15:17:12-04:00",
+    "updated_at": "2026-04-14T11:00:09-04:00",
     "title": "Lead System Administrator",
     "company": "braze",
     "alerted": true
@@ -12679,28 +12642,28 @@
   },
   "7397718": {
     "first_seen": "2026-04-13T09:17:52.327961+00:00",
-    "updated_at": "2026-03-25T15:17:01-04:00",
+    "updated_at": "2026-04-14T10:57:49-04:00",
     "title": "Senior Engineering Manager",
     "company": "braze",
     "alerted": true
   },
   "7397719": {
     "first_seen": "2026-04-13T09:17:52.327975+00:00",
-    "updated_at": "2026-03-25T15:17:01-04:00",
+    "updated_at": "2026-04-14T10:58:02-04:00",
     "title": "Senior Engineering Manager",
     "company": "braze",
     "alerted": true
   },
   "7391623": {
     "first_seen": "2026-04-13T09:17:52.327989+00:00",
-    "updated_at": "2026-03-25T15:17:01-04:00",
+    "updated_at": "2026-04-14T10:57:12-04:00",
     "title": "Senior Engineering Manager",
     "company": "braze",
     "alerted": true
   },
   "7397714": {
     "first_seen": "2026-04-13T09:17:52.328001+00:00",
-    "updated_at": "2026-03-25T15:17:01-04:00",
+    "updated_at": "2026-04-14T10:57:32-04:00",
     "title": "Senior Engineering Manager",
     "company": "braze",
     "alerted": true
@@ -12749,21 +12712,21 @@
   },
   "7491510": {
     "first_seen": "2026-04-13T09:17:52.328342+00:00",
-    "updated_at": "2026-03-25T15:17:04-04:00",
+    "updated_at": "2026-04-14T11:04:55-04:00",
     "title": "Senior Site Reliability Engineer, Currents",
     "company": "braze",
     "alerted": true
   },
   "7491514": {
     "first_seen": "2026-04-13T09:17:52.328356+00:00",
-    "updated_at": "2026-03-25T15:17:04-04:00",
+    "updated_at": "2026-04-14T11:05:16-04:00",
     "title": "Senior Site Reliability Engineer, Currents",
     "company": "braze",
     "alerted": true
   },
   "7491488": {
     "first_seen": "2026-04-13T09:17:52.328372+00:00",
-    "updated_at": "2026-03-25T15:17:04-04:00",
+    "updated_at": "2026-04-14T11:04:40-04:00",
     "title": "Senior Site Reliability Engineer, Currents",
     "company": "braze",
     "alerted": true
@@ -12798,28 +12761,28 @@
   },
   "7365359": {
     "first_seen": "2026-04-13T09:17:52.328458+00:00",
-    "updated_at": "2026-03-25T15:16:52-04:00",
+    "updated_at": "2026-04-14T11:11:33-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
   },
   "7374370": {
     "first_seen": "2026-04-13T09:17:52.328484+00:00",
-    "updated_at": "2026-03-25T15:16:52-04:00",
+    "updated_at": "2026-04-14T11:13:04-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
   },
   "7374363": {
     "first_seen": "2026-04-13T09:17:52.328496+00:00",
-    "updated_at": "2026-03-25T15:16:52-04:00",
+    "updated_at": "2026-04-14T11:11:58-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
   },
   "7374361": {
     "first_seen": "2026-04-13T09:17:52.328508+00:00",
-    "updated_at": "2026-03-25T15:16:52-04:00",
+    "updated_at": "2026-04-14T11:12:08-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
@@ -13029,35 +12992,35 @@
   },
   "7620392003": {
     "first_seen": "2026-04-13T09:17:52.541132+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-14T10:16:06-04:00",
     "title": " Lead Solutions Engineer, Large Enterprise ",
     "company": "klaviyo",
     "alerted": true
   },
   "7617848003": {
     "first_seen": "2026-04-13T09:17:52.541149+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-14T10:16:06-04:00",
     "title": "Lead Solutions Engineer, Large Enterprise",
     "company": "klaviyo",
     "alerted": true
   },
   "7620394003": {
     "first_seen": "2026-04-13T09:17:52.541167+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-14T10:16:06-04:00",
     "title": "Lead Solutions Engineer, Large Enterprise ",
     "company": "klaviyo",
     "alerted": true
   },
   "7620390003": {
     "first_seen": "2026-04-13T09:17:52.541184+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-14T10:16:06-04:00",
     "title": "Lead Solutions Engineer, Large Enterprise ",
     "company": "klaviyo",
     "alerted": true
   },
   "7620395003": {
     "first_seen": "2026-04-13T09:17:52.541201+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-14T10:16:06-04:00",
     "title": "Lead Solutions Engineer, Large Enterprise ",
     "company": "klaviyo",
     "alerted": true
@@ -18825,7 +18788,7 @@
   },
   "5850324": {
     "first_seen": "2026-04-13T09:18:10.058761+00:00",
-    "updated_at": "2026-03-30T11:23:17-04:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Inbound Sales Development Representative - New Grad",
     "company": "flexport",
     "alerted": true
@@ -18839,28 +18802,28 @@
   },
   "7711666": {
     "first_seen": "2026-04-13T09:18:10.059889+00:00",
-    "updated_at": "2026-03-30T11:23:17-04:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Senior Credit Analyst, Capital Portfolio Analytics",
     "company": "flexport",
     "alerted": true
   },
   "7740282": {
     "first_seen": "2026-04-13T09:18:10.060529+00:00",
-    "updated_at": "2026-03-30T15:24:32-04:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Senior Product Manager",
     "company": "flexport",
     "alerted": true
   },
   "7449436": {
     "first_seen": "2026-04-13T09:18:10.060606+00:00",
-    "updated_at": "2026-03-30T11:23:17-04:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Senior Software Engineer, Backend",
     "company": "flexport",
     "alerted": true
   },
   "7362870": {
     "first_seen": "2026-04-13T09:18:10.060941+00:00",
-    "updated_at": "2026-03-30T11:23:17-04:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Sr Credit Analyst, Capital Portfolio Analytics",
     "company": "flexport",
     "alerted": true
@@ -18895,7 +18858,7 @@
   },
   "7662620": {
     "first_seen": "2026-04-13T09:18:10.437251+00:00",
-    "updated_at": "2026-04-13T17:21:47-04:00",
+    "updated_at": "2026-04-14T11:38:57-04:00",
     "title": "Group Tech Lead, Adoption Engineering",
     "company": "asana",
     "alerted": true
@@ -20113,7 +20076,7 @@
   },
   "7740288": {
     "first_seen": "2026-04-13T17:55:59.358791+00:00",
-    "updated_at": "2026-04-13T13:46:04-04:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Staff Product Manager",
     "company": "flexport",
     "alerted": true
@@ -20218,14 +20181,14 @@
   },
   "7782462": {
     "first_seen": "2026-04-13T20:12:39.433107+00:00",
-    "updated_at": "2026-04-06T14:28:33-04:00",
+    "updated_at": "2026-04-14T10:53:31-04:00",
     "title": "Business Development Representative",
     "company": "braze",
     "alerted": true
   },
   "7782451": {
     "first_seen": "2026-04-13T20:12:39.433132+00:00",
-    "updated_at": "2026-04-06T14:28:32-04:00",
+    "updated_at": "2026-04-14T10:53:12-04:00",
     "title": "Business Development Representative",
     "company": "braze",
     "alerted": true
@@ -20477,7 +20440,7 @@
   },
   "7781657": {
     "first_seen": "2026-04-13T22:01:29.249345+00:00",
-    "updated_at": "2026-04-13T10:26:30-04:00",
+    "updated_at": "2026-04-14T11:32:43-04:00",
     "title": "Tech Admin (P2) GTM Systems",
     "company": "twilio",
     "alerted": true
@@ -20645,7 +20608,7 @@
   },
   "7520997": {
     "first_seen": "2026-04-14T11:19:27.769527+00:00",
-    "updated_at": "2026-04-13T10:34:30-04:00",
+    "updated_at": "2026-04-14T10:27:34-04:00",
     "title": "Staff Machine Learning Engineer (L4)",
     "company": "twilio",
     "alerted": true
@@ -20680,7 +20643,7 @@
   },
   "7807739": {
     "first_seen": "2026-04-14T14:13:23.310075+00:00",
-    "updated_at": "2026-04-14T09:44:18-04:00",
+    "updated_at": "2026-04-14T10:24:52-04:00",
     "title": "Technical Administrator 2",
     "company": "twilio",
     "alerted": true
@@ -20697,6 +20660,62 @@
     "updated_at": "2026-04-14T09:59:22-04:00",
     "title": "Engineering Manager, HADR",
     "company": "stripe",
+    "alerted": true
+  },
+  "5177143008": {
+    "first_seen": "2026-04-14T15:41:03.382336+00:00",
+    "updated_at": "2026-04-07T14:37:35-04:00",
+    "title": "Network Engineer, Capacity and Efficiency",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7694223003": {
+    "first_seen": "2026-04-14T15:41:07.459994+00:00",
+    "updated_at": "2026-04-14T11:28:58-04:00",
+    "title": "Software Engineer II - Amplify Demos",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7641350003": {
+    "first_seen": "2026-04-14T15:41:07.460022+00:00",
+    "updated_at": "2026-04-14T11:40:25-04:00",
+    "title": "Software Engineer II Devx",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7785350": {
+    "first_seen": "2026-04-14T15:41:10.555216+00:00",
+    "updated_at": "2026-04-07T10:05:04-04:00",
+    "title": "Senior Product Manager - Data Agent",
+    "company": "datadog",
+    "alerted": true
+  },
+  "8502372002": {
+    "first_seen": "2026-04-14T15:41:13.396555+00:00",
+    "updated_at": "2026-04-14T10:59:41-04:00",
+    "title": "Product Design Manager, Platforms, Plan, and Analytics ",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "5969193004": {
+    "first_seen": "2026-04-14T15:41:17.389570+00:00",
+    "updated_at": "2026-04-14T10:52:55-04:00",
+    "title": "Senior Software Engineer - Stability",
+    "company": "mercury",
+    "alerted": true
+  },
+  "7812130": {
+    "first_seen": "2026-04-14T15:41:18.332142+00:00",
+    "updated_at": "2026-04-14T10:48:27-04:00",
+    "title": "Senior Data Platform Engineer",
+    "company": "upstart",
+    "alerted": true
+  },
+  "7812407": {
+    "first_seen": "2026-04-14T15:41:20.714285+00:00",
+    "updated_at": "2026-04-14T10:50:51-04:00",
+    "title": "Senior Software Engineer - Data Platform ",
+    "company": "coinbase",
     "alerted": true
   }
 }

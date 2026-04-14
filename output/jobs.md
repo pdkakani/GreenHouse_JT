@@ -2,6 +2,435 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 15:41 UTC
+
+### 🆕 Network Engineer, Capacity and Efficiency
+**anthropic** · Compute
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5177143008)
+🕐 Updated: `2026-04-07T14:37:35-04:00` &nbsp;|&nbsp; ID: `5177143008`
+
+---
+### 🆕 Software Engineer II - Amplify Demos
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7694223003)
+🕐 Updated: `2026-04-14T11:28:58-04:00` &nbsp;|&nbsp; ID: `7694223003`
+
+---
+### 🆕 Software Engineer II Devx
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7641350003)
+🕐 Updated: `2026-04-14T11:40:25-04:00` &nbsp;|&nbsp; ID: `7641350003`
+
+---
+### 🆕 Senior Product Manager - Data Agent
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7785350/?gh_jid=7785350)
+🕐 Updated: `2026-04-07T10:05:04-04:00` &nbsp;|&nbsp; ID: `7785350`
+
+---
+### 🆕 Product Design Manager, Platforms, Plan, and Analytics 
+**gitlab** · Product Design
+📍 Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8502372002)
+🕐 Updated: `2026-04-14T10:59:41-04:00` &nbsp;|&nbsp; ID: `8502372002`
+
+---
+### 🆕 Senior Software Engineer - Stability
+**mercury** · Software Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5969193004)
+🕐 Updated: `2026-04-14T10:52:55-04:00` &nbsp;|&nbsp; ID: `5969193004`
+
+---
+### 🆕 Senior Data Platform Engineer
+**upstart** · Data Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7812130)
+🕐 Updated: `2026-04-14T10:48:27-04:00` &nbsp;|&nbsp; ID: `7812130`
+
+---
+### 🆕 Senior Software Engineer - Data Platform 
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407)
+🕐 Updated: `2026-04-14T10:50:51-04:00` &nbsp;|&nbsp; ID: `7812407`
+
+---
+### 🔄 Solutions Architect, Applied AI (Startups)
+**anthropic** · Sales
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5057258008)
+🕐 Updated: `2026-04-14T10:24:30-04:00` &nbsp;|&nbsp; ID: `5057258008`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8356289002)
+🕐 Updated: `2026-04-14T11:13:02-04:00` &nbsp;|&nbsp; ID: `8356289002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461321002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8461321002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494130002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8494130002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494128002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8494128002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Austin, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494137002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8494137002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Boston, Massachusetts &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456973002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8456973002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8456975002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8456975002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Virginia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494107002)
+🕐 Updated: `2026-04-14T11:13:02-04:00` &nbsp;|&nbsp; ID: `8494107002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Atlanta, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494147002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8494147002`
+
+---
+### 🔄 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Central - United States; Northeast - United States; Southeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423296002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8423296002`
+
+---
+### 🔄 Senior Site Reliability Engineer, Storage Layer Services (SLS)
+**mongodb** · PTO Site Reliability Engineering
+📍 Boston; Miami; New York City; Pittsburgh; Raleigh; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+🕐 Updated: `2026-04-14T10:59:35-04:00` &nbsp;|&nbsp; ID: `7743366`
+
+---
+### 🔄 Solutions Architect, AI/Cloudflare Developer Platform 
+**cloudflare** · Developer Relations
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7505582?gh_jid=7505582)
+🕐 Updated: `2026-04-14T10:21:48-04:00` &nbsp;|&nbsp; ID: `7505582`
+
+---
+### 🔄 Applications Engineer 2
+**twilio** · Sales Operations
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7646270)
+🕐 Updated: `2026-04-14T10:26:21-04:00` &nbsp;|&nbsp; ID: `7646270`
+
+---
+### 🔄 Business Systems Analyst 2
+**twilio** · Services
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7254399)
+🕐 Updated: `2026-04-14T10:28:33-04:00` &nbsp;|&nbsp; ID: `7254399`
+
+---
+### 🔄 Engineer, Identity & Access
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657991)
+🕐 Updated: `2026-04-14T10:26:16-04:00` &nbsp;|&nbsp; ID: `7657991`
+
+---
+### 🔄 Principal Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - Japan &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7452089)
+🕐 Updated: `2026-04-14T10:27:30-04:00` &nbsp;|&nbsp; ID: `7452089`
+
+---
+### 🔄 Senior Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622278)
+🕐 Updated: `2026-04-14T10:25:49-04:00` &nbsp;|&nbsp; ID: `7622278`
+
+---
+### 🔄 Senior Network Engineer
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: `2026-04-14T10:26:40-04:00` &nbsp;|&nbsp; ID: `7657993`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7662058)
+🕐 Updated: `2026-04-14T10:26:05-04:00` &nbsp;|&nbsp; ID: `7662058`
+
+---
+### 🔄 Senior Solutions Engineer 3
+**twilio** · Solutions Engineering
+📍 Remote - Australia; Remote - Japan; Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7511486)
+🕐 Updated: `2026-04-14T10:27:41-04:00` &nbsp;|&nbsp; ID: `7511486`
+
+---
+### 🔄 Staff Machine Learning Engineer (L4)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520997)
+🕐 Updated: `2026-04-14T10:27:34-04:00` &nbsp;|&nbsp; ID: `7520997`
+
+---
+### 🔄 Tech Admin (P2) GTM Systems
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-14T11:32:43-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🔄 Technical Administrator 2
+**twilio** · Solutions Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7807739)
+🕐 Updated: `2026-04-14T10:24:52-04:00` &nbsp;|&nbsp; ID: `7807739`
+
+---
+### 🔄 Technical Support Engineer 2 (Email Infra)
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7349692)
+🕐 Updated: `2026-04-14T10:28:20-04:00` &nbsp;|&nbsp; ID: `7349692`
+
+---
+### 🔄 AV Associate
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7733261?gh_jid=7733261)
+🕐 Updated: `2026-04-14T10:49:38-04:00` &nbsp;|&nbsp; ID: `7733261`
+
+---
+### 🔄 Business Development Representative
+**braze** · Sales
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7782451?gh_jid=7782451)
+🕐 Updated: `2026-04-14T10:53:12-04:00` &nbsp;|&nbsp; ID: `7782451`
+
+---
+### 🔄 Business Development Representative
+**braze** · Sales
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7782462?gh_jid=7782462)
+🕐 Updated: `2026-04-14T10:53:31-04:00` &nbsp;|&nbsp; ID: `7782462`
+
+---
+### 🔄 IT Associate
+**braze** · Engineering
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7684743?gh_jid=7684743)
+🕐 Updated: `2026-04-14T10:54:37-04:00` &nbsp;|&nbsp; ID: `7684743`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7592334?gh_jid=7592334)
+🕐 Updated: `2026-04-14T10:55:21-04:00` &nbsp;|&nbsp; ID: `7592334`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7614562?gh_jid=7614562)
+🕐 Updated: `2026-04-14T10:55:33-04:00` &nbsp;|&nbsp; ID: `7614562`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7614563?gh_jid=7614563)
+🕐 Updated: `2026-04-14T10:55:45-04:00` &nbsp;|&nbsp; ID: `7614563`
+
+---
+### 🔄 Lead Design Engineer
+**braze** · Product
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7614566?gh_jid=7614566)
+🕐 Updated: `2026-04-14T10:55:58-04:00` &nbsp;|&nbsp; ID: `7614566`
+
+---
+### 🔄 Lead System Administrator
+**braze** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7606803?gh_jid=7606803)
+🕐 Updated: `2026-04-14T11:00:34-04:00` &nbsp;|&nbsp; ID: `7606803`
+
+---
+### 🔄 Lead System Administrator
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7606798?gh_jid=7606798)
+🕐 Updated: `2026-04-14T11:00:21-04:00` &nbsp;|&nbsp; ID: `7606798`
+
+---
+### 🔄 Lead System Administrator
+**braze** · Engineering
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7579328?gh_jid=7579328)
+🕐 Updated: `2026-04-14T11:00:09-04:00` &nbsp;|&nbsp; ID: `7579328`
+
+---
+### 🔄 Lead System Administrator
+**braze** · Engineering
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7579242?gh_jid=7579242)
+🕐 Updated: `2026-04-14T10:59:56-04:00` &nbsp;|&nbsp; ID: `7579242`
+
+---
+### 🔄 Senior Engineering Manager
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7391623?gh_jid=7391623)
+🕐 Updated: `2026-04-14T10:57:12-04:00` &nbsp;|&nbsp; ID: `7391623`
+
+---
+### 🔄 Senior Engineering Manager
+**braze** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7397719?gh_jid=7397719)
+🕐 Updated: `2026-04-14T10:58:02-04:00` &nbsp;|&nbsp; ID: `7397719`
+
+---
+### 🔄 Senior Engineering Manager
+**braze** · Engineering
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7397718?gh_jid=7397718)
+🕐 Updated: `2026-04-14T10:57:49-04:00` &nbsp;|&nbsp; ID: `7397718`
+
+---
+### 🔄 Senior Engineering Manager
+**braze** · Engineering
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7397714?gh_jid=7397714)
+🕐 Updated: `2026-04-14T10:57:32-04:00` &nbsp;|&nbsp; ID: `7397714`
+
+---
+### 🔄 Senior Site Reliability Engineer, Currents
+**braze** · Engineering
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7491510?gh_jid=7491510)
+🕐 Updated: `2026-04-14T11:04:55-04:00` &nbsp;|&nbsp; ID: `7491510`
+
+---
+### 🔄 Senior Site Reliability Engineer, Currents
+**braze** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7491514?gh_jid=7491514)
+🕐 Updated: `2026-04-14T11:05:16-04:00` &nbsp;|&nbsp; ID: `7491514`
+
+---
+### 🔄 Senior Site Reliability Engineer, Currents
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7491488?gh_jid=7491488)
+🕐 Updated: `2026-04-14T11:04:40-04:00` &nbsp;|&nbsp; ID: `7491488`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7365359?gh_jid=7365359)
+🕐 Updated: `2026-04-14T11:11:33-04:00` &nbsp;|&nbsp; ID: `7365359`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7374370?gh_jid=7374370)
+🕐 Updated: `2026-04-14T11:13:04-04:00` &nbsp;|&nbsp; ID: `7374370`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7374363?gh_jid=7374363)
+🕐 Updated: `2026-04-14T11:11:58-04:00` &nbsp;|&nbsp; ID: `7374363`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7374361?gh_jid=7374361)
+🕐 Updated: `2026-04-14T11:12:08-04:00` &nbsp;|&nbsp; ID: `7374361`
+
+---
+### 🔄  Lead Solutions Engineer, Large Enterprise 
+**klaviyo** · Sales
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7620392003)
+🕐 Updated: `2026-04-14T10:16:06-04:00` &nbsp;|&nbsp; ID: `7620392003`
+
+---
+### 🔄 Lead Solutions Engineer, Large Enterprise
+**klaviyo** · Sales
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7617848003)
+🕐 Updated: `2026-04-14T10:16:06-04:00` &nbsp;|&nbsp; ID: `7617848003`
+
+---
+### 🔄 Lead Solutions Engineer, Large Enterprise 
+**klaviyo** · Sales
+📍 Denver, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7620390003)
+🕐 Updated: `2026-04-14T10:16:06-04:00` &nbsp;|&nbsp; ID: `7620390003`
+
+---
+### 🔄 Lead Solutions Engineer, Large Enterprise 
+**klaviyo** · Sales
+📍 Chicago, IL &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7620394003)
+🕐 Updated: `2026-04-14T10:16:06-04:00` &nbsp;|&nbsp; ID: `7620394003`
+
+---
+### 🔄 Lead Solutions Engineer, Large Enterprise 
+**klaviyo** · Sales
+📍 Austin, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7620395003)
+🕐 Updated: `2026-04-14T10:16:06-04:00` &nbsp;|&nbsp; ID: `7620395003`
+
+---
+### 🔄 Senior Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7554499?gh_jid=7554499)
+🕐 Updated: `2026-04-14T11:03:07-04:00` &nbsp;|&nbsp; ID: `7554499`
+
+---
+### 🔄 Staff Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395)
+🕐 Updated: `2026-04-14T11:03:13-04:00` &nbsp;|&nbsp; ID: `7789395`
+
+---
+### 🔄 Inbound Sales Development Representative - New Grad
+**flexport** · Sales
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/5850324?gh_jid=5850324)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `5850324`
+
+---
+### 🔄 Senior Credit Analyst, Capital Portfolio Analytics
+**flexport** · Capital
+📍 New York City, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7711666?gh_jid=7711666)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `7711666`
+
+---
+### 🔄 Senior Product Manager
+**flexport** · Product Management
+📍 Bellevue, Washington, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7740282?gh_jid=7740282)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `7740282`
+
+---
+### 🔄 Senior Software Engineer, Backend
+**flexport** · Engineering, Platform Infrastructure
+📍 Bellevue, Washington, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7449436?gh_jid=7449436)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `7449436`
+
+---
+### 🔄 Sr Credit Analyst, Capital Portfolio Analytics
+**flexport** · Capital
+📍 Dallas, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7362870?gh_jid=7362870)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `7362870`
+
+---
+### 🔄 Staff Product Manager
+**flexport** · Product Management
+📍 Bellevue, Washington, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7740288?gh_jid=7740288)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `7740288`
+
+---
+### 🔄 Staff Product Manager, Growth
+**flexport** · Global Brand
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7808634?gh_jid=7808634)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `7808634`
+
+---
+### 🔄 Group Tech Lead, Adoption Engineering
+**asana** · Product Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7662620?gh_jid=7662620)
+🕐 Updated: `2026-04-14T11:38:57-04:00` &nbsp;|&nbsp; ID: `7662620`
+
+---
+
 ## 📅 Run: 2026-04-14 14:13 UTC
 
 ### 🆕 Solutions Architect, Retail - CPG
