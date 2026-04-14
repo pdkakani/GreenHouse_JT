@@ -1,46 +1,4 @@
 {
-  "7782764": {
-    "first_seen": "2026-04-07T19:54:08.376931+00:00",
-    "updated_at": "2026-04-07T15:15:04-04:00",
-    "title": "Technical Writer",
-    "company": "fastly"
-  },
-  "8490477002": {
-    "first_seen": "2026-04-07T19:54:17.703115+00:00",
-    "updated_at": "2026-04-07T15:23:23-04:00",
-    "title": "Staff Backend Engineer, Developer Experience",
-    "company": "gitlab"
-  },
-  "5551686004": {
-    "first_seen": "2026-04-07T19:54:18.655654+00:00",
-    "updated_at": "2026-04-07T15:19:13-04:00",
-    "title": "Software Engineer, Data Infrastructure",
-    "company": "figma"
-  },
-  "7674544003": {
-    "first_seen": "2026-04-07T19:54:51.908487+00:00",
-    "updated_at": "2026-04-07T17:55:05-04:00",
-    "title": "Encompass Admin",
-    "company": "sofi"
-  },
-  "7666791003": {
-    "first_seen": "2026-04-07T19:54:51.908629+00:00",
-    "updated_at": "2026-04-07T15:18:18-04:00",
-    "title": "Full-stack Software Engineer, Member Growth ",
-    "company": "sofi"
-  },
-  "7595612003": {
-    "first_seen": "2026-04-07T19:54:51.911943+00:00",
-    "updated_at": "2026-04-07T15:33:07-04:00",
-    "title": "Staff Software Engineer, Loans Platform",
-    "company": "sofi"
-  },
-  "7786900": {
-    "first_seen": "2026-04-07T19:54:52.383392+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
-    "title": " Data Engineering Manager, Core Experience & Incentives",
-    "company": "instacart"
-  },
   "7691539003": {
     "first_seen": "2026-04-07T20:40:29.329249+00:00",
     "updated_at": "2026-04-07T16:18:53-04:00",
@@ -497,16 +455,17 @@
   },
   "7743366": {
     "first_seen": "2026-04-08T21:07:45.535046+00:00",
-    "updated_at": "2026-04-14T10:59:35-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Site Reliability Engineer, Storage Layer Services (SLS)",
     "company": "mongodb",
     "alerted": false
   },
   "7727920": {
     "first_seen": "2026-04-08T21:07:45.536557+00:00",
-    "updated_at": "2026-04-08T16:29:36-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Staff Site Reliability Engineer, Fabric",
-    "company": "mongodb"
+    "company": "mongodb",
+    "alerted": false
   },
   "8478364002": {
     "first_seen": "2026-04-08T21:07:51.998910+00:00",
@@ -1389,7 +1348,7 @@
   },
   "8414654002": {
     "first_seen": "2026-04-10T18:01:20.968611+00:00",
-    "updated_at": "2026-04-10T13:19:01-04:00",
+    "updated_at": "2026-04-14T16:00:02-04:00",
     "title": "Senior Python Core Engineer",
     "company": "chime",
     "alerted": true
@@ -1410,7 +1369,7 @@
   },
   "7779598": {
     "first_seen": "2026-04-10T19:10:57.854125+00:00",
-    "updated_at": "2026-04-10T14:00:57-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Software Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -1480,7 +1439,7 @@
   },
   "7778985": {
     "first_seen": "2026-04-10T21:04:09.369702+00:00",
-    "updated_at": "2026-04-10T16:39:12-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Staff Engineer, Quote-to-Cash",
     "company": "mongodb",
     "alerted": true
@@ -3076,56 +3035,56 @@
   },
   "7551646": {
     "first_seen": "2026-04-12T21:49:55.823873+00:00",
-    "updated_at": "2026-03-18T22:04:05-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "APAC Manager, Support Engineering",
     "company": "mixpanel",
     "alerted": true
   },
   "7512001": {
     "first_seen": "2026-04-12T21:49:55.823934+00:00",
-    "updated_at": "2026-04-08T18:55:57-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Customer Success Architect",
     "company": "mixpanel",
     "alerted": true
   },
   "7506821": {
     "first_seen": "2026-04-12T21:49:55.823968+00:00",
-    "updated_at": "2026-04-08T18:55:38-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Customer Success Architect ",
     "company": "mixpanel",
     "alerted": true
   },
   "7052292": {
     "first_seen": "2026-04-12T21:49:55.824124+00:00",
-    "updated_at": "2026-04-08T18:56:19-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Manager, Solutions Engineering ",
     "company": "mixpanel",
     "alerted": true
   },
   "7407407": {
     "first_seen": "2026-04-12T21:49:55.824687+00:00",
-    "updated_at": "2026-04-08T18:57:25-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Senior Solutions Engineer",
     "company": "mixpanel",
     "alerted": true
   },
   "7512192": {
     "first_seen": "2026-04-12T21:49:55.824717+00:00",
-    "updated_at": "2026-04-08T18:58:08-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Solutions Engineer ",
     "company": "mixpanel",
     "alerted": true
   },
   "7511872": {
     "first_seen": "2026-04-12T21:49:55.824746+00:00",
-    "updated_at": "2026-04-08T18:57:45-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Solutions Engineer ",
     "company": "mixpanel",
     "alerted": true
   },
   "7650541": {
     "first_seen": "2026-04-12T21:49:55.824772+00:00",
-    "updated_at": "2026-03-18T22:04:05-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Support Engineer II ",
     "company": "mixpanel",
     "alerted": true
@@ -4581,119 +4540,119 @@
   },
   "7310506": {
     "first_seen": "2026-04-13T07:24:52.846102+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Account Development Representative",
     "company": "mongodb",
     "alerted": true
   },
   "7311204": {
     "first_seen": "2026-04-13T07:24:52.846132+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Account Development Representative",
     "company": "mongodb",
     "alerted": true
   },
   "7673691": {
     "first_seen": "2026-04-13T07:24:52.846235+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "AI Staff Developer Advocate",
     "company": "mongodb",
     "alerted": true
   },
   "7647255": {
     "first_seen": "2026-04-13T07:24:52.846555+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Cloud Operations Engineer",
     "company": "mongodb",
     "alerted": true
   },
   "7656724": {
     "first_seen": "2026-04-13T07:24:52.848118+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
   },
   "7695258": {
     "first_seen": "2026-04-13T07:24:52.848150+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Inside Account Executive",
     "company": "mongodb",
     "alerted": true
   },
   "7768655": {
     "first_seen": "2026-04-13T07:24:52.848385+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Manager, Sales Development",
     "company": "mongodb",
     "alerted": true
   },
   "7458644": {
     "first_seen": "2026-04-13T07:24:52.848590+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Pre-Sales Solutions Architect",
     "company": "mongodb",
     "alerted": true
   },
   "7572007": {
     "first_seen": "2026-04-13T07:24:52.848609+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Pre-Sales Solutions Architect",
     "company": "mongodb",
     "alerted": true
   },
   "6819978": {
     "first_seen": "2026-04-13T07:24:52.848660+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Principal Research Scientist, Database Systems",
     "company": "mongodb",
     "alerted": true
   },
   "7476104": {
     "first_seen": "2026-04-13T07:24:52.848775+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Principal Technologist",
     "company": "mongodb",
     "alerted": true
   },
   "7766076": {
     "first_seen": "2026-04-13T07:24:52.849187+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Regional Vice President, Sales Development, Americas",
     "company": "mongodb",
     "alerted": true
   },
   "7727896": {
     "first_seen": "2026-04-13T07:24:52.849434+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
     "company": "mongodb",
     "alerted": true
   },
   "7656727": {
     "first_seen": "2026-04-13T07:24:52.849815+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Cloud Security Engineer",
     "company": "mongodb",
     "alerted": true
   },
   "7187739": {
     "first_seen": "2026-04-13T07:24:52.850139+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Data Product Manager, Internal GTM Data",
     "company": "mongodb",
     "alerted": true
   },
   "7428476": {
     "first_seen": "2026-04-13T07:24:52.850169+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Data Product Manager, Product Telemetry",
     "company": "mongodb",
     "alerted": true
   },
   "7705477": {
     "first_seen": "2026-04-13T07:24:52.850238+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Director, Data Product Management",
     "company": "mongodb",
     "alerted": true
@@ -4707,133 +4666,133 @@
   },
   "7656721": {
     "first_seen": "2026-04-13T07:24:52.850649+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior IAM & Security Engineer",
     "company": "mongodb",
     "alerted": true
   },
   "7372922": {
     "first_seen": "2026-04-13T07:24:52.850724+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior IT Product Manager for Internal AI",
     "company": "mongodb",
     "alerted": true
   },
   "7616246": {
     "first_seen": "2026-04-13T07:24:52.850776+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Lead Engineer, Code Generation",
     "company": "mongodb",
     "alerted": true
   },
   "7723638": {
     "first_seen": "2026-04-13T07:24:52.850824+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Lead Engineer, Storage Execution (RSS)",
     "company": "mongodb",
     "alerted": true
   },
   "7683484": {
     "first_seen": "2026-04-13T07:24:52.851173+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Partner Solutions Architect",
     "company": "mongodb",
     "alerted": true
   },
   "7662801": {
     "first_seen": "2026-04-13T07:24:52.851222+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Pre-Sales Solutions Architect",
     "company": "mongodb",
     "alerted": true
   },
   "7411098": {
     "first_seen": "2026-04-13T07:24:52.851276+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Pre-Sales Solutions Architect",
     "company": "mongodb",
     "alerted": true
   },
   "7409331": {
     "first_seen": "2026-04-13T07:24:52.851295+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Pre-Sales Solutions Architect",
     "company": "mongodb",
     "alerted": true
   },
   "7287364": {
     "first_seen": "2026-04-13T07:24:52.851312+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Product Manager",
     "company": "mongodb",
     "alerted": true
   },
   "7705474": {
     "first_seen": "2026-04-13T07:24:52.851415+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Product Manager - IT Go-to-Market AI",
     "company": "mongodb",
     "alerted": true
   },
   "7554555": {
     "first_seen": "2026-04-13T07:24:52.851449+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Product Manager, Security",
     "company": "mongodb",
     "alerted": true
   },
   "7742875": {
     "first_seen": "2026-04-13T07:24:52.851719+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Python Engineer",
     "company": "mongodb",
     "alerted": true
   },
   "7727873": {
     "first_seen": "2026-04-13T07:24:52.851846+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Site Reliability Engineer,  Fleet Management",
     "company": "mongodb",
     "alerted": true
   },
   "7648922": {
     "first_seen": "2026-04-13T07:24:52.851875+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Software Engineer",
     "company": "mongodb",
     "alerted": true
   },
   "7736191": {
     "first_seen": "2026-04-13T07:24:52.851930+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Software Engineer, Atlas Clusters",
     "company": "mongodb",
     "alerted": true
   },
   "7644270": {
     "first_seen": "2026-04-13T07:24:52.851946+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Software Engineer, Atlas Clusters Security",
     "company": "mongodb",
     "alerted": true
   },
   "7744398": {
     "first_seen": "2026-04-13T07:24:52.851961+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Software Engineer, Atlas Stream Processing",
     "company": "mongodb",
     "alerted": true
   },
   "7449128": {
     "first_seen": "2026-04-13T07:24:52.852040+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Software Engineer, Data Migration & Code Generation",
     "company": "mongodb",
     "alerted": true
   },
   "7650472": {
     "first_seen": "2026-04-13T07:24:52.852099+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Software Engineer - Frontend",
     "company": "mongodb",
     "alerted": true
@@ -4847,49 +4806,49 @@
   },
   "7368165": {
     "first_seen": "2026-04-13T07:24:52.852343+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Solutions Architect (Pre-Sales)",
     "company": "mongodb",
     "alerted": true
   },
   "7617019": {
     "first_seen": "2026-04-13T07:24:52.852440+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Staff Engineer, AMP",
     "company": "mongodb",
     "alerted": true
   },
   "7672820": {
     "first_seen": "2026-04-13T07:24:52.852483+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Staff Engineer, MongoDB Developer Productivity",
     "company": "mongodb",
     "alerted": true
   },
   "7523888": {
     "first_seen": "2026-04-13T07:24:52.852780+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Technical Program Manager, App Modernization",
     "company": "mongodb",
     "alerted": true
   },
   "7640020": {
     "first_seen": "2026-04-13T07:24:52.852820+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Senior Vice President, Solutions Architecture",
     "company": "mongodb",
     "alerted": true
   },
   "6984809": {
     "first_seen": "2026-04-13T07:24:52.852855+00:00",
-    "updated_at": "2026-04-14T09:33:29-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Site Reliability Engineer (Senior or Staff), Atlas",
     "company": "mongodb",
     "alerted": true
   },
   "7758610": {
     "first_seen": "2026-04-13T07:24:52.852881+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
     "company": "mongodb",
     "alerted": true
@@ -4910,7 +4869,7 @@
   },
   "7551186": {
     "first_seen": "2026-04-13T07:24:52.853187+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": " Software Engineer 3, Atlas Data Federation Customer Experience",
     "company": "mongodb",
     "alerted": true
@@ -4924,28 +4883,28 @@
   },
   "7235322": {
     "first_seen": "2026-04-13T07:24:52.853266+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Software Engineer 3, Search Systems Replication & Routing",
     "company": "mongodb",
     "alerted": true
   },
   "7311666": {
     "first_seen": "2026-04-13T07:24:52.853305+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Software Engineer, Code Generation",
     "company": "mongodb",
     "alerted": true
   },
   "7672660": {
     "first_seen": "2026-04-13T07:24:52.853358+00:00",
-    "updated_at": "2026-04-10T11:30:10-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Software Engineer, Networking & Observability",
     "company": "mongodb",
     "alerted": true
   },
   "7523867": {
     "first_seen": "2026-04-13T07:24:52.853804+00:00",
-    "updated_at": "2026-04-14T13:00:27-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Staff Engineer, Data Migration",
     "company": "mongodb",
     "alerted": true
@@ -4959,42 +4918,42 @@
   },
   "7264736": {
     "first_seen": "2026-04-13T07:24:52.854129+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Staff Software Engineer, Networking & Observability",
     "company": "mongodb",
     "alerted": true
   },
   "7602834": {
     "first_seen": "2026-04-13T07:24:52.854234+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Staff Software Engineer, Query (Optimization)",
     "company": "mongodb",
     "alerted": true
   },
   "7739531": {
     "first_seen": "2026-04-13T07:24:52.854278+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Staff Technical Program Manager",
     "company": "mongodb",
     "alerted": true
   },
   "7650199": {
     "first_seen": "2026-04-13T07:24:52.854513+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Team Lead, Site Reliability Engineering - Fleet Management",
     "company": "mongodb",
     "alerted": true
   },
   "7743304": {
     "first_seen": "2026-04-13T07:24:52.854574+00:00",
-    "updated_at": "2026-04-13T12:42:34-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Team Lead, Site Reliability Engineering - Storage Layer Service",
     "company": "mongodb",
     "alerted": true
   },
   "7555631": {
     "first_seen": "2026-04-13T07:24:52.854586+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
     "title": "Technical Program Manager, Site Reliability Engineering (Senior or Staff)",
     "company": "mongodb",
     "alerted": true
@@ -5491,42 +5450,42 @@
   },
   "7746430": {
     "first_seen": "2026-04-13T07:24:53.866210+00:00",
-    "updated_at": "2026-04-08T18:56:36-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Manager, Solutions Engineering ",
     "company": "mixpanel",
     "alerted": true
   },
   "7513876": {
     "first_seen": "2026-04-13T07:24:53.866249+00:00",
-    "updated_at": "2026-04-08T18:56:36-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Manager, Solutions Engineering ",
     "company": "mixpanel",
     "alerted": true
   },
   "7776048": {
     "first_seen": "2026-04-13T07:24:53.866761+00:00",
-    "updated_at": "2026-04-02T15:47:13-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Senior Engineering Manager, Data",
     "company": "mixpanel",
     "alerted": true
   },
   "7776072": {
     "first_seen": "2026-04-13T07:24:53.866784+00:00",
-    "updated_at": "2026-04-02T14:56:48-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Senior Engineering Manager, Product Platform",
     "company": "mixpanel",
     "alerted": true
   },
   "7655682": {
     "first_seen": "2026-04-13T07:24:53.866811+00:00",
-    "updated_at": "2026-04-07T17:13:41-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Senior Learning & Development Partner",
     "company": "mixpanel",
     "alerted": true
   },
   "7739518": {
     "first_seen": "2026-04-13T07:24:53.867020+00:00",
-    "updated_at": "2026-03-24T12:39:00-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Senior Technical Program Manager",
     "company": "mixpanel",
     "alerted": true
@@ -9908,7 +9867,7 @@
   },
   "7728580": {
     "first_seen": "2026-04-13T07:25:04.757982+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T15:53:51-04:00",
     "title": "Principal Software Engineer, AI Automation",
     "company": "coinbase",
     "alerted": true
@@ -10167,7 +10126,7 @@
   },
   "7580292": {
     "first_seen": "2026-04-13T07:25:04.759461+00:00",
-    "updated_at": "2026-04-14T15:10:51-04:00",
+    "updated_at": "2026-04-14T15:31:38-04:00",
     "title": "Senior Staff Software Engineer, Backend - Platform (Core Automation)",
     "company": "coinbase",
     "alerted": true
@@ -15893,8 +15852,8 @@
   },
   "7673689": {
     "first_seen": "2026-04-13T09:18:04.643104+00:00",
-    "updated_at": "2026-04-14T15:09:09-04:00",
-    "title": "Lead Counsel, Capital Markets",
+    "updated_at": "2026-04-14T15:28:38-04:00",
+    "title": "Lead Legal Counsel, Capital Markets",
     "company": "upstart",
     "alerted": true
   },
@@ -16187,7 +16146,7 @@
   },
   "7733611": {
     "first_seen": "2026-04-13T09:18:06.163258+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-14T15:28:45-04:00",
     "title": "Software Engineer, Frontend",
     "company": "justworks",
     "alerted": true
@@ -19603,7 +19562,7 @@
   },
   "7779504": {
     "first_seen": "2026-04-13T14:06:27.422365+00:00",
-    "updated_at": "2026-04-06T08:56:16-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Senior Product Manager - Platform",
     "company": "mixpanel",
     "alerted": true
@@ -19960,7 +19919,7 @@
   },
   "7782662": {
     "first_seen": "2026-04-13T20:12:39.211743+00:00",
-    "updated_at": "2026-04-09T21:05:15-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Senior Analytics Engineer",
     "company": "mixpanel",
     "alerted": true
@@ -20303,7 +20262,7 @@
   },
   "7788968": {
     "first_seen": "2026-04-13T23:58:15.444959+00:00",
-    "updated_at": "2026-04-13T19:13:29-04:00",
+    "updated_at": "2026-04-14T15:55:33-04:00",
     "title": "Manager, Solutions Architecture",
     "company": "mongodb",
     "alerted": true
@@ -20317,7 +20276,7 @@
   },
   "7171180": {
     "first_seen": "2026-04-13T23:58:16.709251+00:00",
-    "updated_at": "2026-04-13T19:55:53-04:00",
+    "updated_at": "2026-04-14T16:17:46-04:00",
     "title": "Staff Product Manager - Core Commerce Platform",
     "company": "twilio",
     "alerted": true
@@ -20674,14 +20633,14 @@
   },
   "7800289": {
     "first_seen": "2026-04-14T19:26:06.884772+00:00",
-    "updated_at": "2026-04-14T14:44:59-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Solutions Engineer",
     "company": "mixpanel",
     "alerted": true
   },
   "7815692": {
     "first_seen": "2026-04-14T19:26:06.884804+00:00",
-    "updated_at": "2026-04-14T14:45:01-04:00",
+    "updated_at": "2026-04-14T15:51:24-04:00",
     "title": "Solutions Engineer",
     "company": "mixpanel",
     "alerted": true
@@ -20754,6 +20713,90 @@
     "updated_at": "2026-04-14T14:01:43-04:00",
     "title": "Software Backend Engineer, Credit Cards & Banking Platform",
     "company": "robinhood",
+    "alerted": true
+  },
+  "7815950": {
+    "first_seen": "2026-04-14T20:29:49.224684+00:00",
+    "updated_at": "2026-04-14T15:45:31-04:00",
+    "title": "Sales Development Representative - Public Sector",
+    "company": "elastic",
+    "alerted": true
+  },
+  "7701166003": {
+    "first_seen": "2026-04-14T20:29:56.044491+00:00",
+    "updated_at": "2026-04-14T16:22:52-04:00",
+    "title": "Senior Sales Engineer, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7701169003": {
+    "first_seen": "2026-04-14T20:29:56.044535+00:00",
+    "updated_at": "2026-04-14T16:22:51-04:00",
+    "title": "Senior Sales Engineer, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7691288003": {
+    "first_seen": "2026-04-14T20:29:56.044567+00:00",
+    "updated_at": "2026-04-14T16:22:53-04:00",
+    "title": "Senior Sales Engineer, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7701170003": {
+    "first_seen": "2026-04-14T20:29:56.044598+00:00",
+    "updated_at": "2026-04-14T16:22:51-04:00",
+    "title": "Senior Sales Engineer, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "8490477002": {
+    "first_seen": "2026-04-14T20:29:57.171157+00:00",
+    "updated_at": "2026-04-07T15:23:23-04:00",
+    "title": "Staff Backend Engineer, Developer Experience",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "4673305006": {
+    "first_seen": "2026-04-14T20:30:04.899753+00:00",
+    "updated_at": "2026-04-14T16:24:22-04:00",
+    "title": "Application Analyst ",
+    "company": "tabapay",
+    "alerted": true
+  },
+  "4673299006": {
+    "first_seen": "2026-04-14T20:30:04.899978+00:00",
+    "updated_at": "2026-04-14T16:16:34-04:00",
+    "title": "Project Manager, Software Engineering ",
+    "company": "tabapay",
+    "alerted": true
+  },
+  "7674544003": {
+    "first_seen": "2026-04-14T20:30:25.398561+00:00",
+    "updated_at": "2026-04-07T17:55:05-04:00",
+    "title": "Encompass Admin",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7644234003": {
+    "first_seen": "2026-04-14T20:30:25.400419+00:00",
+    "updated_at": "2026-04-14T16:04:53-04:00",
+    "title": "Risk Data AI/ML Engineer",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7595612003": {
+    "first_seen": "2026-04-14T20:30:25.402485+00:00",
+    "updated_at": "2026-04-07T15:33:07-04:00",
+    "title": "Staff Software Engineer, Loans Platform",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7786900": {
+    "first_seen": "2026-04-14T20:30:26.321959+00:00",
+    "updated_at": "2026-04-08T18:24:40-04:00",
+    "title": " Data Engineering Manager, Core Experience & Incentives",
+    "company": "instacart",
     "alerted": true
   }
 }
