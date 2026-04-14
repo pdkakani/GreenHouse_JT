@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 02:45 UTC
+
+### 🔄 Anthropic Fellows Program
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5023394008)
+🕐 Updated: `2026-04-13T21:44:58-04:00` &nbsp;|&nbsp; ID: `5023394008`
+
+---
+### 🔄 Anthropic Fellows Program — ML Systems & Performance
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183051008)
+🕐 Updated: `2026-04-13T21:45:25-04:00` &nbsp;|&nbsp; ID: `5183051008`
+
+---
+### 🔄 Finance Systems Engineer, Revenue
+**anthropic** · Finance
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5186669008)
+🕐 Updated: `2026-04-13T20:55:31-04:00` &nbsp;|&nbsp; ID: `5186669008`
+
+---
+### 🔄 UI Software Engineer, Claude.ai Consumer Product 
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5026097008)
+🕐 Updated: `2026-04-13T20:12:27-04:00` &nbsp;|&nbsp; ID: `5026097008`
+
+---
+### 🔄 Manager, Solutions Engineering (iGaming & Web3)
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7767865?gh_jid=7767865)
+🕐 Updated: `2026-04-13T21:43:16-04:00` &nbsp;|&nbsp; ID: `7767865`
+
+---
+### 🔄 Senior AI Engineer
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7688488003)
+🕐 Updated: `2026-04-13T22:19:02-04:00` &nbsp;|&nbsp; ID: `7688488003`
+
+---
+### 🔄 Product Manager IC-02
+**stripe** · PERM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812346)
+🕐 Updated: `2026-04-13T20:42:17-04:00` &nbsp;|&nbsp; ID: `7812346`
+
+---
+### 🔄 Software Engineer
+**stripe** · PERM
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7808471)
+🕐 Updated: `2026-04-13T20:44:12-04:00` &nbsp;|&nbsp; ID: `7808471`
+
+---
+### 🔄 Software Engineer L2
+**stripe** · PERM
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812279)
+🕐 Updated: `2026-04-13T20:00:35-04:00` &nbsp;|&nbsp; ID: `7812279`
+
+---
+### 🔄 Software Engineer, Automation Platform
+**airbnb** · Software Engineering
+📍 Remote, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7812843?gh_jid=7812843)
+🕐 Updated: `2026-04-13T21:36:44-04:00` &nbsp;|&nbsp; ID: `7812843`
+
+---
+
 ## 📅 Run: 2026-04-13 23:58 UTC
 
 ### 🆕 Manager, Solutions Architecture
