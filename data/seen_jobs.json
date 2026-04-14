@@ -1,17 +1,4 @@
 {
-  "4681915005": {
-    "first_seen": "2026-04-07T03:29:58.905757+00:00",
-    "updated_at": "2026-04-09T00:28:18-04:00",
-    "title": "Vice President, Business Development & Strategic Partnerships",
-    "company": "flex"
-  },
-  "7616170003": {
-    "first_seen": "2026-04-07T03:30:18.788820+00:00",
-    "updated_at": "2026-04-13T18:37:02-04:00",
-    "title": "Senior Staff Engineer, Loans Originations",
-    "company": "sofi",
-    "alerted": false
-  },
   "6649865002": {
     "first_seen": "2026-04-07T05:27:01.475084+00:00",
     "updated_at": "2026-02-19T14:47:26-05:00",
@@ -20,7 +7,7 @@
   },
   "7489246": {
     "first_seen": "2026-04-07T05:27:27.069605+00:00",
-    "updated_at": "2026-04-12T03:05:32-04:00",
+    "updated_at": "2026-04-13T23:21:39-04:00",
     "title": "Engineering Manager, Strategies & Cortex",
     "company": "robinhood",
     "alerted": false
@@ -299,9 +286,10 @@
   },
   "7542965": {
     "first_seen": "2026-04-07T18:55:49.104687+00:00",
-    "updated_at": "2026-04-07T20:15:19-04:00",
+    "updated_at": "2026-04-13T23:22:46-04:00",
     "title": "Engineering Manager, Agent Experience",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7783175": {
     "first_seen": "2026-04-07T18:55:50.635418+00:00",
@@ -912,14 +900,15 @@
   },
   "7773503": {
     "first_seen": "2026-04-08T23:33:10.238019+00:00",
-    "updated_at": "2026-04-08T18:53:18-04:00",
+    "updated_at": "2026-04-13T23:24:08-04:00",
     "title": "Senior Technical Program Manager, Privacy",
-    "company": "robinhood"
+    "company": "robinhood",
+    "alerted": false
   },
   "7705877": {
     "first_seen": "2026-04-09T00:03:28.841191+00:00",
-    "updated_at": "2026-04-13T10:25:45-04:00",
-    "title": "Director, Product Specialists (Solutions Engineering)",
+    "updated_at": "2026-04-14T01:03:16-04:00",
+    "title": "Director of North America, Pre-Sales Platform Specialists",
     "company": "twilio",
     "alerted": false
   },
@@ -1689,7 +1678,7 @@
   },
   "7805145": {
     "first_seen": "2026-04-10T18:01:19.745871+00:00",
-    "updated_at": "2026-04-11T03:52:45-04:00",
+    "updated_at": "2026-04-13T23:24:21-04:00",
     "title": "Senior Software Engineer, Streaming Platform",
     "company": "robinhood",
     "alerted": true
@@ -1759,7 +1748,7 @@
   },
   "7782697": {
     "first_seen": "2026-04-10T19:11:29.546917+00:00",
-    "updated_at": "2026-04-10T14:32:47-04:00",
+    "updated_at": "2026-04-13T23:24:13-04:00",
     "title": "Senior Software Engineer, AI Infrastructure",
     "company": "robinhood",
     "alerted": true
@@ -2641,8 +2630,8 @@
   },
   "7518811": {
     "first_seen": "2026-04-12T21:49:54.483000+00:00",
-    "updated_at": "2026-02-06T10:04:45-05:00",
-    "title": "Senior CloudFlare One GTM Specialist, India",
+    "updated_at": "2026-04-14T00:43:14-04:00",
+    "title": "Senior Cloudflare One GTM Specialist, India",
     "company": "cloudflare",
     "alerted": true
   },
@@ -10705,14 +10694,14 @@
   },
   "7603848": {
     "first_seen": "2026-04-13T07:25:05.492655+00:00",
-    "updated_at": "2026-04-03T03:07:10-04:00",
+    "updated_at": "2026-04-13T23:22:56-04:00",
     "title": "Engineering Manager, Capacity and Efficiency",
     "company": "robinhood",
     "alerted": true
   },
   "7512231": {
     "first_seen": "2026-04-13T07:25:05.492702+00:00",
-    "updated_at": "2026-04-12T03:06:25-04:00",
+    "updated_at": "2026-04-13T23:22:41-04:00",
     "title": "Engineering Manager, Financial Crimes ",
     "company": "robinhood",
     "alerted": true
@@ -10754,7 +10743,7 @@
   },
   "7551178": {
     "first_seen": "2026-04-13T07:25:05.493473+00:00",
-    "updated_at": "2026-04-12T03:06:33-04:00",
+    "updated_at": "2026-04-13T23:22:51-04:00",
     "title": "People Systems Manager",
     "company": "robinhood",
     "alerted": true
@@ -10775,7 +10764,7 @@
   },
   "7697725": {
     "first_seen": "2026-04-13T07:25:05.493715+00:00",
-    "updated_at": "2026-04-12T03:06:48-04:00",
+    "updated_at": "2026-04-13T23:23:18-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "alerted": true
@@ -10796,14 +10785,14 @@
   },
   "7178427": {
     "first_seen": "2026-04-13T07:25:05.493813+00:00",
-    "updated_at": "2026-04-03T03:05:26-04:00",
+    "updated_at": "2026-04-13T23:21:15-04:00",
     "title": "Senior Cloud Security Engineer",
     "company": "robinhood",
     "alerted": true
   },
   "7473367": {
     "first_seen": "2026-04-13T07:25:05.494007+00:00",
-    "updated_at": "2026-04-10T11:33:25-04:00",
+    "updated_at": "2026-04-13T23:21:33-04:00",
     "title": "Senior Engineering Manager, Application and Product Security",
     "company": "robinhood",
     "alerted": true
@@ -10817,7 +10806,7 @@
   },
   "7121213": {
     "first_seen": "2026-04-13T07:25:05.494130+00:00",
-    "updated_at": "2026-04-10T03:05:19-04:00",
+    "updated_at": "2026-04-13T23:21:05-04:00",
     "title": "Senior Machine Learning Engineer, Agentic",
     "company": "robinhood",
     "alerted": true
@@ -10831,28 +10820,28 @@
   },
   "7707158": {
     "first_seen": "2026-04-13T07:25:05.494534+00:00",
-    "updated_at": "2026-04-03T03:07:30-04:00",
+    "updated_at": "2026-04-13T23:23:20-04:00",
     "title": "Senior Product Manager, Security AI",
     "company": "robinhood",
     "alerted": true
   },
   "7728174": {
     "first_seen": "2026-04-13T07:25:05.494649+00:00",
-    "updated_at": "2026-04-13T03:05:13-04:00",
+    "updated_at": "2026-04-13T23:23:28-04:00",
     "title": "Senior Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "alerted": true
   },
   "7489731": {
     "first_seen": "2026-04-13T07:25:05.494794+00:00",
-    "updated_at": "2026-04-07T20:15:17-04:00",
+    "updated_at": "2026-04-13T23:22:18-04:00",
     "title": "Senior Software Engineer, Agentic",
     "company": "robinhood",
     "alerted": true
   },
   "7489675": {
     "first_seen": "2026-04-13T07:25:05.494816+00:00",
-    "updated_at": "2026-04-06T14:17:36-04:00",
+    "updated_at": "2026-04-13T23:22:03-04:00",
     "title": "Senior Software Engineer, Capacity & Efficiency ",
     "company": "robinhood",
     "alerted": true
@@ -10873,14 +10862,14 @@
   },
   "7729014": {
     "first_seen": "2026-04-13T07:25:05.494962+00:00",
-    "updated_at": "2026-04-03T03:07:41-04:00",
+    "updated_at": "2026-04-13T23:23:30-04:00",
     "title": "Senior Staff Software Engineer, Data Platform",
     "company": "robinhood",
     "alerted": true
   },
   "7542970": {
     "first_seen": "2026-04-13T07:25:05.495019+00:00",
-    "updated_at": "2026-04-13T18:32:17-04:00",
+    "updated_at": "2026-04-13T23:22:48-04:00",
     "title": "Senior Web Infrastructure Developer ",
     "company": "robinhood",
     "alerted": true
@@ -10894,21 +10883,21 @@
   },
   "7489695": {
     "first_seen": "2026-04-13T07:25:05.495228+00:00",
-    "updated_at": "2026-04-12T03:06:03-04:00",
+    "updated_at": "2026-04-13T23:22:07-04:00",
     "title": "Software Engineering Manager, Growth",
     "company": "robinhood",
     "alerted": true
   },
   "7676714": {
     "first_seen": "2026-04-13T07:25:05.495318+00:00",
-    "updated_at": "2026-04-06T16:03:22-04:00",
+    "updated_at": "2026-04-13T23:23:10-04:00",
     "title": "Staff Machine Learning Engineer, Agentic",
     "company": "robinhood",
     "alerted": true
   },
   "7460167": {
     "first_seen": "2026-04-13T07:25:05.495368+00:00",
-    "updated_at": "2026-04-03T03:05:44-04:00",
+    "updated_at": "2026-04-13T23:21:29-04:00",
     "title": "Staff Offensive Security Engineer",
     "company": "robinhood",
     "alerted": true
@@ -10922,28 +10911,28 @@
   },
   "7754299": {
     "first_seen": "2026-04-13T07:25:05.495573+00:00",
-    "updated_at": "2026-04-10T13:32:02-04:00",
+    "updated_at": "2026-04-13T23:23:58-04:00",
     "title": "Staff Security Engineer, Application Security",
     "company": "robinhood",
     "alerted": true
   },
   "7470947": {
     "first_seen": "2026-04-13T07:25:05.495681+00:00",
-    "updated_at": "2026-04-12T03:05:05-04:00",
+    "updated_at": "2026-04-13T23:30:04-04:00",
     "title": "Staff Software Engineer, Crypto Custody",
     "company": "robinhood",
     "alerted": true
   },
   "7489755": {
     "first_seen": "2026-04-13T07:25:05.495704+00:00",
-    "updated_at": "2026-04-03T03:06:41-04:00",
+    "updated_at": "2026-04-13T23:22:31-04:00",
     "title": "Staff Software Engineer, Streaming Infrastructure",
     "company": "robinhood",
     "alerted": true
   },
   "7489950": {
     "first_seen": "2026-04-13T07:25:05.495735+00:00",
-    "updated_at": "2026-04-12T03:06:18-04:00",
+    "updated_at": "2026-04-13T23:22:37-04:00",
     "title": "Staff Software Engineer, Web3",
     "company": "robinhood",
     "alerted": true
@@ -10957,14 +10946,14 @@
   },
   "7739577": {
     "first_seen": "2026-04-13T07:25:05.495827+00:00",
-    "updated_at": "2026-04-08T15:25:11-04:00",
+    "updated_at": "2026-04-13T23:23:55-04:00",
     "title": "Staff Technical Program Manager - Reliability Engineering",
     "company": "robinhood",
     "alerted": true
   },
   "7729682": {
     "first_seen": "2026-04-13T07:25:05.495874+00:00",
-    "updated_at": "2026-04-13T03:05:32-04:00",
+    "updated_at": "2026-04-13T23:23:50-04:00",
     "title": "Staff Workday Engineer",
     "company": "robinhood",
     "alerted": true
@@ -19945,7 +19934,7 @@
   },
   "7651276003": {
     "first_seen": "2026-04-13T15:44:05.085540+00:00",
-    "updated_at": "2026-04-13T10:42:13-04:00",
+    "updated_at": "2026-04-14T01:02:27-04:00",
     "title": "Engineering Manager - Conversational AI Platform",
     "company": "klaviyo",
     "alerted": true
@@ -20106,7 +20095,7 @@
   },
   "7694788003": {
     "first_seen": "2026-04-13T17:55:34.025084+00:00",
-    "updated_at": "2026-04-13T13:40:38-04:00",
+    "updated_at": "2026-04-14T01:02:27-04:00",
     "title": "Product Owner, GTM Sales Systems",
     "company": "klaviyo",
     "alerted": true
@@ -20232,7 +20221,7 @@
   },
   "7729019": {
     "first_seen": "2026-04-13T19:07:40.000561+00:00",
-    "updated_at": "2026-04-06T13:55:22-04:00",
+    "updated_at": "2026-04-13T23:23:32-04:00",
     "title": "Senior Software Engineer, Storage Platform",
     "company": "robinhood",
     "alerted": true
@@ -20641,6 +20630,27 @@
     "updated_at": "2026-04-06T19:24:19-04:00",
     "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
     "company": "gitlab",
+    "alerted": true
+  },
+  "5186518008": {
+    "first_seen": "2026-04-14T05:17:03.665949+00:00",
+    "updated_at": "2026-04-14T00:35:09-04:00",
+    "title": "Commercial Counsel, Compute & Infrastructure",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "4681915005": {
+    "first_seen": "2026-04-14T05:17:17.005005+00:00",
+    "updated_at": "2026-04-09T00:28:18-04:00",
+    "title": "Vice President, Business Development & Strategic Partnerships",
+    "company": "flex",
+    "alerted": true
+  },
+  "7616170003": {
+    "first_seen": "2026-04-14T05:17:23.114828+00:00",
+    "updated_at": "2026-04-13T18:37:02-04:00",
+    "title": "Senior Staff Engineer, Loans Originations",
+    "company": "sofi",
     "alerted": true
   }
 }
