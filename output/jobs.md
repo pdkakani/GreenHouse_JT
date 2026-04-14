@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 10:11 UTC
+
+### 🆕 Full-Stack Software Engineer, Reinforcement Learning
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5186067008)
+🕐 Updated: `2026-04-14T06:09:04-04:00` &nbsp;|&nbsp; ID: `5186067008`
+
+---
+### 🆕 Intermediate Backend Engineer (C), Tenant Scale: Git 
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8497793002)
+🕐 Updated: `2026-04-14T06:01:32-04:00` &nbsp;|&nbsp; ID: `8497793002`
+
+---
+### 🆕 Senior Backend Engineer (C), Tenant Scale: Git
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8497791002)
+🕐 Updated: `2026-04-14T05:43:30-04:00` &nbsp;|&nbsp; ID: `8497791002`
+
+---
+### 🔄 Engineering Manager, Vertical AI Products (Multiple Roles) 
+**anthropic** · Engineering & Design - Product
+📍 New York City, NY; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5140492008)
+🕐 Updated: `2026-04-14T05:51:49-04:00` &nbsp;|&nbsp; ID: `5140492008`
+
+---
+
 ## 📅 Run: 2026-04-14 07:06 UTC
 
 ### 🆕 Engineering Manager, Strategies & Cortex

@@ -1,10 +1,4 @@
 {
-  "7784019": {
-    "first_seen": "2026-04-07T09:19:34.337164+00:00",
-    "updated_at": "2026-04-07T04:26:48-04:00",
-    "title": "Frontend Product Software Engineer, Web DX",
-    "company": "dropbox"
-  },
   "7520997": {
     "first_seen": "2026-04-07T10:32:47.918935+00:00",
     "updated_at": "2026-04-13T10:34:30-04:00",
@@ -11234,8 +11228,8 @@
   },
   "5140492008": {
     "first_seen": "2026-04-13T09:17:49.240305+00:00",
-    "updated_at": "2026-04-13T08:23:36-04:00",
-    "title": "Engineering Manager, Vertical AI Products",
+    "updated_at": "2026-04-14T05:51:49-04:00",
+    "title": "Engineering Manager, Vertical AI Products (Multiple Roles) ",
     "company": "anthropic",
     "alerted": true
   },
@@ -20652,6 +20646,27 @@
     "updated_at": "2026-04-14T02:25:25-04:00",
     "title": "Principal Software Engineer, Member Growth",
     "company": "sofi",
+    "alerted": true
+  },
+  "5186067008": {
+    "first_seen": "2026-04-14T10:11:11.277974+00:00",
+    "updated_at": "2026-04-14T06:09:04-04:00",
+    "title": "Full-Stack Software Engineer, Reinforcement Learning",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8497793002": {
+    "first_seen": "2026-04-14T10:11:30.154389+00:00",
+    "updated_at": "2026-04-14T06:01:32-04:00",
+    "title": "Intermediate Backend Engineer (C), Tenant Scale: Git ",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8497791002": {
+    "first_seen": "2026-04-14T10:11:30.155584+00:00",
+    "updated_at": "2026-04-14T05:43:30-04:00",
+    "title": "Senior Backend Engineer (C), Tenant Scale: Git",
+    "company": "gitlab",
     "alerted": true
   }
 }
