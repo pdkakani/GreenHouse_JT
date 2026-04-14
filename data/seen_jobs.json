@@ -1,17 +1,4 @@
 {
-  "6649865002": {
-    "first_seen": "2026-04-07T05:27:01.475084+00:00",
-    "updated_at": "2026-02-19T14:47:26-05:00",
-    "title": "Solutions Architect, Retail - CPG",
-    "company": "databricks"
-  },
-  "7489246": {
-    "first_seen": "2026-04-07T05:27:27.069605+00:00",
-    "updated_at": "2026-04-13T23:21:39-04:00",
-    "title": "Engineering Manager, Strategies & Cortex",
-    "company": "robinhood",
-    "alerted": false
-  },
   "7784019": {
     "first_seen": "2026-04-07T09:19:34.337164+00:00",
     "updated_at": "2026-04-07T04:26:48-04:00",
@@ -20650,6 +20637,20 @@
     "first_seen": "2026-04-14T05:17:23.114828+00:00",
     "updated_at": "2026-04-13T18:37:02-04:00",
     "title": "Senior Staff Engineer, Loans Originations",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7489246": {
+    "first_seen": "2026-04-14T07:06:28.447203+00:00",
+    "updated_at": "2026-04-13T23:21:39-04:00",
+    "title": "Engineering Manager, Strategies & Cortex",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "7688391003": {
+    "first_seen": "2026-04-14T07:06:30.555436+00:00",
+    "updated_at": "2026-04-14T02:25:25-04:00",
+    "title": "Principal Software Engineer, Member Growth",
     "company": "sofi",
     "alerted": true
   }

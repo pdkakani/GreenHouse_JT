@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 07:06 UTC
+
+### 🆕 Engineering Manager, Strategies & Cortex
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246)
+🕐 Updated: `2026-04-13T23:21:39-04:00` &nbsp;|&nbsp; ID: `7489246`
+
+---
+### 🆕 Principal Software Engineer, Member Growth
+**sofi** · Engineering
+📍 CA - San Francisco HQ &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7688391003?gh_jid=7688391003)
+🕐 Updated: `2026-04-14T02:25:25-04:00` &nbsp;|&nbsp; ID: `7688391003`
+
+---
+
 ## 📅 Run: 2026-04-14 05:17 UTC
 
 ### 🆕 Commercial Counsel, Compute & Infrastructure
