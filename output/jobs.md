@@ -2,6 +2,219 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 23:04 UTC
+
+### 🆕 Engineering Manager - Identity and Access Management (IAM)
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `8298018002`
+
+---
+### 🆕 Senior Software Engineer, Data Platform
+**gusto** · Engineering
+📍 Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7357569)
+🕐 Updated: `2026-04-14T18:10:59-04:00` &nbsp;|&nbsp; ID: `7357569`
+
+---
+### 🆕 Retail Sales Manager, International
+**instacart** · Retail Business Development
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7789182)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7789182`
+
+---
+### 🆕 Staff Systems Engineer, BizTech
+**airbnb** · Software Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7093737?gh_jid=7093737)
+🕐 Updated: `2026-04-14T18:51:45-04:00` &nbsp;|&nbsp; ID: `7093737`
+
+---
+### 🔄 Product Manager, API Growth
+**anthropic** · Product Management, Support, & Operations
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5181852008)
+🕐 Updated: `2026-04-14T18:38:21-04:00` &nbsp;|&nbsp; ID: `5181852008`
+
+---
+### 🔄 Senior People Systems Analyst
+**braze** · People
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7586077?gh_jid=7586077)
+🕐 Updated: `2026-04-14T18:55:12-04:00` &nbsp;|&nbsp; ID: `7586077`
+
+---
+### 🔄 Senior People Systems Analyst
+**braze** · People
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7579497?gh_jid=7579497)
+🕐 Updated: `2026-04-14T18:55:00-04:00` &nbsp;|&nbsp; ID: `7579497`
+
+---
+### 🔄 Backend Engineer (Chicago)
+**chime** · General Engineering
+📍 Chicago, IL, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8376910002?gh_jid=8376910002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8376910002`
+
+---
+### 🔄 Engineering Manager, Data Platform
+**chime** · Data Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8477424002?gh_jid=8477424002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8477424002`
+
+---
+### 🔄 Group Product Manager, Platform
+**chime** · Growth Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8393494002?gh_jid=8393494002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8393494002`
+
+---
+### 🔄 Lead IT Support Technician
+**chime** · Information Technology
+📍 New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8414978002?gh_jid=8414978002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8414978002`
+
+---
+### 🔄 Mobile Full-Stack Engineer, Multiplayer
+**chime** · Spending, Saving, & Investing Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8457578002?gh_jid=8457578002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8457578002`
+
+---
+### 🔄 Mobile Software Engineer, Cross Platform
+**chime** · Spending, Saving, & Investing Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8433838002?gh_jid=8433838002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8433838002`
+
+---
+### 🔄 People Development Partner
+**chime** · People
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8185502002?gh_jid=8185502002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8185502002`
+
+---
+### 🔄 Product Manager, Data Platform
+**chime** · Growth Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8382253002?gh_jid=8382253002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8382253002`
+
+---
+### 🔄 Product Manager, MyPay
+**chime** · Growth Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219791002?gh_jid=8219791002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8219791002`
+
+---
+### 🔄 Product Manager, Support Agent
+**chime** · Trust and Safety Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8416978002?gh_jid=8416978002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8416978002`
+
+---
+### 🔄 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+### 🔄 Senior Application Security Engineer
+**chime** · Security
+📍 Remote, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8373535002?gh_jid=8373535002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8373535002`
+
+---
+### 🔄 Senior Frontend Engineer, Design Systems
+**chime** · AI & App Experience Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8375225002?gh_jid=8375225002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8375225002`
+
+---
+### 🔄 Senior Full-Stack Engineer, App Journey
+**chime** · AI & App Experience Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8485955002?gh_jid=8485955002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8485955002`
+
+---
+### 🔄 Senior Full-Stack Engineer, Multiplayer
+**chime** · Spending, Saving, & Investing Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8112504002?gh_jid=8112504002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8112504002`
+
+---
+### 🔄 Senior IAM Engineer
+**chime** · Information Technology
+📍 New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8389281002?gh_jid=8389281002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8389281002`
+
+---
+### 🔄 Senior Offensive Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8121830002?gh_jid=8121830002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8121830002`
+
+---
+### 🔄 Senior Processor Implementation Manager
+**chime** · Platform Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8479805002?gh_jid=8479805002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8479805002`
+
+---
+### 🔄 Senior Python Core Engineer
+**chime** · Engineering Services
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8414654002?gh_jid=8414654002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8414654002`
+
+---
+### 🔄 Senior Software Engineer (Chicago)
+**chime** · General Engineering
+📍 Chicago, IL, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8400999002?gh_jid=8400999002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8400999002`
+
+---
+### 🔄 Senior Software Engineer, Data Platform
+**chime** · Data Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8457138002?gh_jid=8457138002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8457138002`
+
+---
+### 🔄 Senior Software Engineer, Deposits & Insights
+**chime** · Spending, Saving, & Investing Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8322458002?gh_jid=8322458002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8322458002`
+
+---
+### 🔄 Senior Software Engineer, Secure Cards
+**chime** · Spending, Saving, & Investing Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8322470002?gh_jid=8322470002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8322470002`
+
+---
+### 🔄 Software Engineer, Credit Line
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219795002?gh_jid=8219795002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8219795002`
+
+---
+### 🔄 Software Engineer, Credit Risk Platform
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219793002?gh_jid=8219793002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8219793002`
+
+---
+### 🔄 Software Engineer, Financial Platform
+**chime** · Platform Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8183064002?gh_jid=8183064002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8183064002`
+
+---
+### 🔄 Software Engineer, Growth - Paid Ads & Acquisition
+**chime** · Growth Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8466472002?gh_jid=8466472002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8466472002`
+
+---
+### 🔄 Software Engineer, Instant Loans
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8433840002`
+
+---
+
 ## 📅 Run: 2026-04-14 22:11 UTC
 
 ### 🆕 Capital Markets & Investor Relations 
