@@ -1,23 +1,4 @@
 {
-  "7692269003": {
-    "first_seen": "2026-04-07T15:45:49.914494+00:00",
-    "updated_at": "2026-04-07T11:41:16-04:00",
-    "title": "Senior Software Engineer - Data Security",
-    "company": "abnormalsecurity"
-  },
-  "7569145": {
-    "first_seen": "2026-04-07T15:45:55.053026+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Full Stack Software Engineer, Dash Experiences",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7514061": {
-    "first_seen": "2026-04-07T15:46:10.536550+00:00",
-    "updated_at": "2026-04-07T10:45:25-04:00",
-    "title": "Hardware Systems Integration Intern (Summer 2026)",
-    "company": "formlabs"
-  },
   "5855181004": {
     "first_seen": "2026-04-07T16:50:35.334583+00:00",
     "updated_at": "2026-04-13T19:16:51-04:00",
@@ -20678,7 +20659,7 @@
   },
   "7641350003": {
     "first_seen": "2026-04-14T15:41:07.460022+00:00",
-    "updated_at": "2026-04-14T11:40:25-04:00",
+    "updated_at": "2026-04-14T11:46:58-04:00",
     "title": "Software Engineer II Devx",
     "company": "klaviyo",
     "alerted": true
@@ -20716,6 +20697,55 @@
     "updated_at": "2026-04-14T10:50:51-04:00",
     "title": "Senior Software Engineer - Data Platform ",
     "company": "coinbase",
+    "alerted": true
+  },
+  "8487325002": {
+    "first_seen": "2026-04-14T16:45:29.592977+00:00",
+    "updated_at": "2026-04-14T12:21:12-04:00",
+    "title": "Executive Assistant",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7692269003": {
+    "first_seen": "2026-04-14T16:45:34.647338+00:00",
+    "updated_at": "2026-04-07T11:41:16-04:00",
+    "title": "Senior Software Engineer - Data Security",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "8506276002": {
+    "first_seen": "2026-04-14T16:45:53.252812+00:00",
+    "updated_at": "2026-04-14T12:27:52-04:00",
+    "title": "Senior Infrastructure Engineer",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8506279002": {
+    "first_seen": "2026-04-14T16:45:53.252844+00:00",
+    "updated_at": "2026-04-14T12:28:51-04:00",
+    "title": "Senior Infrastructure Engineer",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8506270002": {
+    "first_seen": "2026-04-14T16:45:53.252908+00:00",
+    "updated_at": "2026-04-14T12:26:59-04:00",
+    "title": "Senior Infrastructure Engineer",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "7808872": {
+    "first_seen": "2026-04-14T16:45:54.175512+00:00",
+    "updated_at": "2026-04-14T12:06:09-04:00",
+    "title": "Sr. Engineering Manager, SRE",
+    "company": "betterment",
+    "alerted": true
+  },
+  "7514061": {
+    "first_seen": "2026-04-14T16:45:59.876460+00:00",
+    "updated_at": "2026-04-07T10:45:25-04:00",
+    "title": "Hardware Systems Integration Intern (Summer 2026)",
+    "company": "formlabs",
     "alerted": true
   }
 }

@@ -2,6 +2,57 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 16:46 UTC
+
+### 🆕 Executive Assistant
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487325002)
+🕐 Updated: `2026-04-14T12:21:12-04:00` &nbsp;|&nbsp; ID: `8487325002`
+
+---
+### 🆕 Senior Software Engineer - Data Security
+**abnormalsecurity** · Division Foundations
+📍 Remote - Canada; Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7692269003?gh_jid=7692269003)
+🕐 Updated: `2026-04-07T11:41:16-04:00` &nbsp;|&nbsp; ID: `7692269003`
+
+---
+### 🆕 Senior Infrastructure Engineer
+**bitgo** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8506276002)
+🕐 Updated: `2026-04-14T12:27:52-04:00` &nbsp;|&nbsp; ID: `8506276002`
+
+---
+### 🆕 Senior Infrastructure Engineer
+**bitgo** · Engineering
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8506279002)
+🕐 Updated: `2026-04-14T12:28:51-04:00` &nbsp;|&nbsp; ID: `8506279002`
+
+---
+### 🆕 Senior Infrastructure Engineer
+**bitgo** · Engineering
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8506270002)
+🕐 Updated: `2026-04-14T12:26:59-04:00` &nbsp;|&nbsp; ID: `8506270002`
+
+---
+### 🆕 Sr. Engineering Manager, SRE
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7808872&gh_jid=7808872)
+🕐 Updated: `2026-04-14T12:06:09-04:00` &nbsp;|&nbsp; ID: `7808872`
+
+---
+### 🆕 Hardware Systems Integration Intern (Summer 2026)
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7514061/apply/?gh_jid=7514061)
+🕐 Updated: `2026-04-07T10:45:25-04:00` &nbsp;|&nbsp; ID: `7514061`
+
+---
+### 🔄 Software Engineer II Devx
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7641350003)
+🕐 Updated: `2026-04-14T11:46:58-04:00` &nbsp;|&nbsp; ID: `7641350003`
+
+---
+
 ## 📅 Run: 2026-04-14 15:41 UTC
 
 ### 🆕 Network Engineer, Capacity and Efficiency
