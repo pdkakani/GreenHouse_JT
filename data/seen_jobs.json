@@ -1,43 +1,4 @@
 {
-  "5116167008": {
-    "first_seen": "2026-04-07T21:29:34.078795+00:00",
-    "updated_at": "2026-04-07T17:11:05-04:00",
-    "title": "Capital Markets & Investor Relations ",
-    "company": "anthropic"
-  },
-  "8488399002": {
-    "first_seen": "2026-04-07T21:29:35.655482+00:00",
-    "updated_at": "2026-04-09T16:51:33-04:00",
-    "title": "Resident Solutions Architect - Digital Native Business ",
-    "company": "databricks",
-    "alerted": false
-  },
-  "7788088": {
-    "first_seen": "2026-04-07T21:29:48.233686+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
-    "title": "Software Engineer",
-    "company": "stripe",
-    "alerted": false
-  },
-  "7692745003": {
-    "first_seen": "2026-04-07T21:29:55.555076+00:00",
-    "updated_at": "2026-04-07T16:47:36-04:00",
-    "title": "Software Engineer",
-    "company": "sofi"
-  },
-  "5153773008": {
-    "first_seen": "2026-04-07T22:06:00.260549+00:00",
-    "updated_at": "2026-04-09T17:39:01-04:00",
-    "title": "Product Manager, Monetization",
-    "company": "anthropic",
-    "alerted": false
-  },
-  "8495229002": {
-    "first_seen": "2026-04-07T22:06:17.309222+00:00",
-    "updated_at": "2026-04-07T17:49:04-04:00",
-    "title": "Senior Data Scientist, Predict",
-    "company": "alloy"
-  },
   "8298018002": {
     "first_seen": "2026-04-07T22:57:38.397721+00:00",
     "updated_at": "2026-04-09T16:51:09-04:00",
@@ -84,9 +45,10 @@
   },
   "5859649004": {
     "first_seen": "2026-04-08T04:08:02.810871+00:00",
-    "updated_at": "2026-04-08T16:33:15-04:00",
+    "updated_at": "2026-04-14T18:08:24-04:00",
     "title": "Sales Engineering Manager, Storage & Analysis",
-    "company": "cribl"
+    "company": "cribl",
+    "alerted": false
   },
   "7789395": {
     "first_seen": "2026-04-08T04:08:26.239615+00:00",
@@ -4552,7 +4514,7 @@
   },
   "7727896": {
     "first_seen": "2026-04-13T07:24:52.849434+00:00",
-    "updated_at": "2026-04-14T15:48:55-04:00",
+    "updated_at": "2026-04-14T17:26:48-04:00",
     "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
     "company": "mongodb",
     "alerted": true
@@ -4776,7 +4738,7 @@
   },
   "7758610": {
     "first_seen": "2026-04-13T07:24:52.852881+00:00",
-    "updated_at": "2026-04-14T15:48:55-04:00",
+    "updated_at": "2026-04-14T17:27:14-04:00",
     "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
     "company": "mongodb",
     "alerted": true
@@ -8108,7 +8070,7 @@
   },
   "7557403": {
     "first_seen": "2026-04-13T07:24:58.798695+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
+    "updated_at": "2026-04-14T17:51:03-04:00",
     "title": "Android Engineer, Terminal OS Platform",
     "company": "stripe",
     "alerted": true
@@ -9746,7 +9708,7 @@
   },
   "7002974": {
     "first_seen": "2026-04-13T07:25:04.757415+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T17:42:18-04:00",
     "title": "Engineering Manager - Consumer (Coinbase Card)",
     "company": "coinbase",
     "alerted": true
@@ -9928,7 +9890,7 @@
   },
   "7591861": {
     "first_seen": "2026-04-13T07:25:04.759164+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T17:44:40-04:00",
     "title": "Senior Software Engineer, Backend (Consumer - Advanced Trading)",
     "company": "coinbase",
     "alerted": true
@@ -10173,7 +10135,7 @@
   },
   "7659458": {
     "first_seen": "2026-04-13T07:25:04.759791+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T17:43:36-04:00",
     "title": "Staff Software Engineer, Backend (Consumer- Retail Cash)",
     "company": "coinbase",
     "alerted": true
@@ -10194,14 +10156,14 @@
   },
   "7629141": {
     "first_seen": "2026-04-13T07:25:04.759835+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-14T17:38:32-04:00",
     "title": "Staff Software Engineer, Frontend (Consumer - Advanced Trading)",
     "company": "coinbase",
     "alerted": true
   },
   "7300575": {
     "first_seen": "2026-04-13T07:25:04.759848+00:00",
-    "updated_at": "2026-04-14T17:13:27-04:00",
+    "updated_at": "2026-04-14T17:42:31-04:00",
     "title": "Staff Software Engineer, Frontend (Consumer -CB1,Growth)",
     "company": "coinbase",
     "alerted": true
@@ -20540,7 +20502,7 @@
   },
   "7781876": {
     "first_seen": "2026-04-14T19:26:06.328773+00:00",
-    "updated_at": "2026-04-07T13:59:33-04:00",
+    "updated_at": "2026-04-14T17:26:54-04:00",
     "title": "Staff Product Manager, Media",
     "company": "fastly",
     "alerted": true
@@ -20631,7 +20593,7 @@
   },
   "7542965": {
     "first_seen": "2026-04-14T19:26:34.694451+00:00",
-    "updated_at": "2026-04-13T23:22:46-04:00",
+    "updated_at": "2026-04-14T17:32:31-04:00",
     "title": "Engineering Manager, Agent Experience",
     "company": "robinhood",
     "alerted": true
@@ -20844,6 +20806,48 @@
     "updated_at": "2026-04-07T16:05:15-04:00",
     "title": "Senior Software Engineer, Marketplace",
     "company": "lyft",
+    "alerted": true
+  },
+  "5116167008": {
+    "first_seen": "2026-04-14T22:10:30.394728+00:00",
+    "updated_at": "2026-04-07T17:11:05-04:00",
+    "title": "Capital Markets & Investor Relations ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5153773008": {
+    "first_seen": "2026-04-14T22:10:30.398921+00:00",
+    "updated_at": "2026-04-09T17:39:01-04:00",
+    "title": "Product Manager, Monetization",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8488399002": {
+    "first_seen": "2026-04-14T22:10:31.699692+00:00",
+    "updated_at": "2026-04-09T16:51:33-04:00",
+    "title": "Resident Solutions Architect - Digital Native Business ",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7788088": {
+    "first_seen": "2026-04-14T22:10:45.064269+00:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
+    "title": "Software Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8495229002": {
+    "first_seen": "2026-04-14T22:10:50.305653+00:00",
+    "updated_at": "2026-04-07T17:49:04-04:00",
+    "title": "Senior Data Scientist, Predict",
+    "company": "alloy",
+    "alerted": true
+  },
+  "7692745003": {
+    "first_seen": "2026-04-14T22:10:55.689280+00:00",
+    "updated_at": "2026-04-07T16:47:36-04:00",
+    "title": "Software Engineer",
+    "company": "sofi",
     "alerted": true
   }
 }

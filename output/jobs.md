@@ -2,6 +2,111 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 22:11 UTC
+
+### 🆕 Capital Markets & Investor Relations 
+**anthropic** · Finance
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5116167008)
+🕐 Updated: `2026-04-07T17:11:05-04:00` &nbsp;|&nbsp; ID: `5116167008`
+
+---
+### 🆕 Product Manager, Monetization
+**anthropic** · Product Management, Support, & Operations
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5153773008)
+🕐 Updated: `2026-04-09T17:39:01-04:00` &nbsp;|&nbsp; ID: `5153773008`
+
+---
+### 🆕 Resident Solutions Architect - Digital Native Business 
+**databricks** · Professional Services Operations
+📍 Northeast - United States; Southeast - United States; West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8488399002`
+
+---
+### 🆕 Software Engineer
+**stripe** · PERM
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-13T11:24:15-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🆕 Senior Data Scientist, Predict
+**alloy** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8495229002&gh_jid=8495229002)
+🕐 Updated: `2026-04-07T17:49:04-04:00` &nbsp;|&nbsp; ID: `8495229002`
+
+---
+### 🆕 Software Engineer
+**sofi** · Engineering
+📍 WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692745003?gh_jid=7692745003)
+🕐 Updated: `2026-04-07T16:47:36-04:00` &nbsp;|&nbsp; ID: `7692745003`
+
+---
+### 🔄 Security Software Engineer, Infrastructure Security (Staff or Senior)
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; New York City; San Francisco; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727896)
+🕐 Updated: `2026-04-14T17:26:48-04:00` &nbsp;|&nbsp; ID: `7727896`
+
+---
+### 🔄 Site Reliability Engineer (Senior or Staff), Infrastructure Security
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; New York City; San Francisco; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7758610)
+🕐 Updated: `2026-04-14T17:27:14-04:00` &nbsp;|&nbsp; ID: `7758610`
+
+---
+### 🔄 Staff Product Manager, Media
+**fastly** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7781876)
+🕐 Updated: `2026-04-14T17:26:54-04:00` &nbsp;|&nbsp; ID: `7781876`
+
+---
+### 🔄 Sales Engineering Manager, Storage & Analysis
+**cribl** · Sales
+📍 Remote - San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5859649004)
+🕐 Updated: `2026-04-14T18:08:24-04:00` &nbsp;|&nbsp; ID: `5859649004`
+
+---
+### 🔄 Android Engineer, Terminal OS Platform
+**stripe** · 8512 Terminal - Eng
+📍 San Francisco, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7557403)
+🕐 Updated: `2026-04-14T17:51:03-04:00` &nbsp;|&nbsp; ID: `7557403`
+
+---
+### 🔄 Engineering Manager - Consumer (Coinbase Card)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7002974?gh_jid=7002974)
+🕐 Updated: `2026-04-14T17:42:18-04:00` &nbsp;|&nbsp; ID: `7002974`
+
+---
+### 🔄 Senior Software Engineer, Backend (Consumer - Advanced Trading)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861)
+🕐 Updated: `2026-04-14T17:44:40-04:00` &nbsp;|&nbsp; ID: `7591861`
+
+---
+### 🔄 Staff Software Engineer, Backend (Consumer- Retail Cash)
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7659458?gh_jid=7659458)
+🕐 Updated: `2026-04-14T17:43:36-04:00` &nbsp;|&nbsp; ID: `7659458`
+
+---
+### 🔄 Staff Software Engineer, Frontend (Consumer - Advanced Trading)
+**coinbase** · Engineering - Frontend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141)
+🕐 Updated: `2026-04-14T17:38:32-04:00` &nbsp;|&nbsp; ID: `7629141`
+
+---
+### 🔄 Staff Software Engineer, Frontend (Consumer -CB1,Growth)
+**coinbase** · Engineering - Frontend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7300575?gh_jid=7300575)
+🕐 Updated: `2026-04-14T17:42:31-04:00` &nbsp;|&nbsp; ID: `7300575`
+
+---
+### 🔄 Engineering Manager, Agent Experience
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542965?t=gh_src=&gh_jid=7542965)
+🕐 Updated: `2026-04-14T17:32:31-04:00` &nbsp;|&nbsp; ID: `7542965`
+
+---
+
 ## 📅 Run: 2026-04-14 21:27 UTC
 
 ### 🆕 Site Reliability Engineer 3
