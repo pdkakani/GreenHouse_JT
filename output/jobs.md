@@ -2,6 +2,123 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 18:00 UTC
+
+### 🆕 Research Operations, Discovery
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5188237008)
+🕐 Updated: `2026-04-14T13:01:12-04:00` &nbsp;|&nbsp; ID: `5188237008`
+
+---
+### 🆕 Solutions Architect - Financial Services (Insurance)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Georgia; Massachusetts; New Jersey; New York; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8502987002)
+🕐 Updated: `2026-04-14T12:53:32-04:00` &nbsp;|&nbsp; ID: `8502987002`
+
+---
+### 🆕 Sr Software Engineer, Search Federation
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5855181004)
+🕐 Updated: `2026-04-13T19:16:51-04:00` &nbsp;|&nbsp; ID: `5855181004`
+
+---
+### 🆕 Senior Cloud Security Engineer - K8s
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616)
+🕐 Updated: `2026-04-14T13:34:08-04:00` &nbsp;|&nbsp; ID: `7815616`
+
+---
+### 🆕 Engineering Manager, Infrastructure Platforms
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8489179002)
+🕐 Updated: `2026-04-07T12:07:39-04:00` &nbsp;|&nbsp; ID: `8489179002`
+
+---
+### 🆕 Software Engineer, Product Backend (4-8 YOE)
+**airtable** · Engineering
+📍 San Francisco, CA; New York, NY; Remote - US (Seattle, WA only) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8397515002)
+🕐 Updated: `2026-04-14T13:03:31-04:00` &nbsp;|&nbsp; ID: `8397515002`
+
+---
+### 🆕 VP of Software
+**fellow** · Hardware Research & Development
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://fellowproducts.com/pages/careers?gh_jid=5100473007)
+🕐 Updated: `2026-04-07T13:22:06-04:00` &nbsp;|&nbsp; ID: `5100473007`
+
+---
+### 🆕 Staff Product Manager, International Brokerage & Crypto
+**robinhood** · International Product Management
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7812801?t=gh_src=&gh_jid=7812801)
+🕐 Updated: `2026-04-14T12:56:43-04:00` &nbsp;|&nbsp; ID: `7812801`
+
+---
+### 🆕 Principal Product Manager, Home Loans Infrastructure & Data
+**sofi** · Product Management
+📍 WA - Seattle; CA - San Francisco    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692380003?gh_jid=7692380003)
+🕐 Updated: `2026-04-07T12:13:05-04:00` &nbsp;|&nbsp; ID: `7692380003`
+
+---
+### 🆕 Principal Product Manager, Real-Time Payments Platform
+**sofi** · Product Management
+📍 WA - Seattle; CA - San Francisco    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7697158003?gh_jid=7697158003)
+🕐 Updated: `2026-04-14T13:50:23-04:00` &nbsp;|&nbsp; ID: `7697158003`
+
+---
+### 🆕 Analytics Lead, Market Insights
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503985002?gh_jid=8503985002)
+🕐 Updated: `2026-04-14T12:53:57-04:00` &nbsp;|&nbsp; ID: `8503985002`
+
+---
+### 🆕 Data Science Manager, Machine Learning - Lyft Ads
+**lyft** · Core Systems & Platforms
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8504137002?gh_jid=8504137002)
+🕐 Updated: `2026-04-14T13:00:04-04:00` &nbsp;|&nbsp; ID: `8504137002`
+
+---
+### 🆕 Data Science Manager, Machine Learning - Lyft Ads
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503999002?gh_jid=8503999002)
+🕐 Updated: `2026-04-14T13:00:03-04:00` &nbsp;|&nbsp; ID: `8503999002`
+
+---
+### 🔄 Executive Assistant
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487325002)
+🕐 Updated: `2026-04-14T13:11:30-04:00` &nbsp;|&nbsp; ID: `8487325002`
+
+---
+### 🔄 Staff Engineer, Data Migration
+**mongodb** · PTO App Modernization ENG
+📍 California; Oregon; Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523867)
+🕐 Updated: `2026-04-14T13:00:27-04:00` &nbsp;|&nbsp; ID: `7523867`
+
+---
+### 🔄 Senior Technical Program Manager
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5725448004)
+🕐 Updated: `2026-04-14T12:58:43-04:00` &nbsp;|&nbsp; ID: `5725448004`
+
+---
+### 🔄 Staff Software Engineer, Developer Productivity - Rails
+**gusto** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7674057)
+🕐 Updated: `2026-04-14T13:55:53-04:00` &nbsp;|&nbsp; ID: `7674057`
+
+---
+### 🔄 Senior Engineering Manager, Member AI Features
+**sofi** · Engineering
+📍 CA - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7647827003?gh_jid=7647827003)
+🕐 Updated: `2026-04-14T13:55:24-04:00` &nbsp;|&nbsp; ID: `7647827003`
+
+---
+### 🔄 Senior Android Software Engineer, Quality Platform
+**airbnb** · Software Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/6602436?gh_jid=6602436)
+🕐 Updated: `2026-04-14T13:44:38-04:00` &nbsp;|&nbsp; ID: `6602436`
+
+---
+
 ## 📅 Run: 2026-04-14 16:46 UTC
 
 ### 🆕 Executive Assistant

@@ -1,150 +1,4 @@
 {
-  "5855181004": {
-    "first_seen": "2026-04-07T16:50:35.334583+00:00",
-    "updated_at": "2026-04-13T19:16:51-04:00",
-    "title": "Sr Software Engineer, Search Federation",
-    "company": "cribl",
-    "alerted": false
-  },
-  "8489179002": {
-    "first_seen": "2026-04-07T16:50:39.393333+00:00",
-    "updated_at": "2026-04-07T12:07:39-04:00",
-    "title": "Engineering Manager, Infrastructure Platforms",
-    "company": "gitlab"
-  },
-  "7769764": {
-    "first_seen": "2026-04-07T16:50:44.793758+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Staff Product Manager, AI Security, Data Access Governance and DLP",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7692353003": {
-    "first_seen": "2026-04-07T16:50:54.840139+00:00",
-    "updated_at": "2026-04-07T11:54:34-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692415003": {
-    "first_seen": "2026-04-07T16:50:54.840168+00:00",
-    "updated_at": "2026-04-07T12:14:48-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692414003": {
-    "first_seen": "2026-04-07T16:50:54.840182+00:00",
-    "updated_at": "2026-04-07T12:13:31-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692413003": {
-    "first_seen": "2026-04-07T16:50:54.840199+00:00",
-    "updated_at": "2026-04-07T12:11:05-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692409003": {
-    "first_seen": "2026-04-07T16:50:54.840213+00:00",
-    "updated_at": "2026-04-07T12:10:03-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692346003": {
-    "first_seen": "2026-04-07T16:50:54.840225+00:00",
-    "updated_at": "2026-04-07T11:50:29-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692351003": {
-    "first_seen": "2026-04-07T16:50:54.840241+00:00",
-    "updated_at": "2026-04-07T11:53:01-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692357003": {
-    "first_seen": "2026-04-07T16:50:54.840256+00:00",
-    "updated_at": "2026-04-07T11:56:47-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692362003": {
-    "first_seen": "2026-04-07T16:50:54.840270+00:00",
-    "updated_at": "2026-04-07T11:56:48-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692367003": {
-    "first_seen": "2026-04-07T16:50:54.840281+00:00",
-    "updated_at": "2026-04-07T11:57:38-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692372003": {
-    "first_seen": "2026-04-07T16:50:54.840292+00:00",
-    "updated_at": "2026-04-07T11:59:37-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692374003": {
-    "first_seen": "2026-04-07T16:50:54.840303+00:00",
-    "updated_at": "2026-04-07T12:00:51-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692379003": {
-    "first_seen": "2026-04-07T16:50:54.840320+00:00",
-    "updated_at": "2026-04-07T12:02:00-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692387003": {
-    "first_seen": "2026-04-07T16:50:54.840333+00:00",
-    "updated_at": "2026-04-07T12:03:33-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692396003": {
-    "first_seen": "2026-04-07T16:50:54.840348+00:00",
-    "updated_at": "2026-04-07T12:04:33-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692398003": {
-    "first_seen": "2026-04-07T16:50:54.840360+00:00",
-    "updated_at": "2026-04-07T12:05:37-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692400003": {
-    "first_seen": "2026-04-07T16:50:54.840372+00:00",
-    "updated_at": "2026-04-07T12:07:00-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692403003": {
-    "first_seen": "2026-04-07T16:50:54.840385+00:00",
-    "updated_at": "2026-04-07T12:08:00-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692405003": {
-    "first_seen": "2026-04-07T16:50:54.840396+00:00",
-    "updated_at": "2026-04-07T12:08:57-04:00",
-    "title": "Senior Backend Engineer (Elixir)",
-    "company": "remotecom"
-  },
-  "7692380003": {
-    "first_seen": "2026-04-07T16:50:58.292092+00:00",
-    "updated_at": "2026-04-07T12:13:05-04:00",
-    "title": "Principal Product Manager, Home Loans Infrastructure & Data",
-    "company": "sofi"
-  },
-  "5100473007": {
-    "first_seen": "2026-04-07T17:53:57.492206+00:00",
-    "updated_at": "2026-04-07T13:22:06-04:00",
-    "title": "VP of Software",
-    "company": "fellow"
-  },
   "7781876": {
     "first_seen": "2026-04-07T18:55:27.684388+00:00",
     "updated_at": "2026-04-07T13:59:33-04:00",
@@ -1591,7 +1445,7 @@
   },
   "7647827003": {
     "first_seen": "2026-04-10T18:01:26.274491+00:00",
-    "updated_at": "2026-04-10T17:47:35-04:00",
+    "updated_at": "2026-04-14T13:55:24-04:00",
     "title": "Senior Engineering Manager, Member AI Features",
     "company": "sofi",
     "alerted": true
@@ -5140,7 +4994,7 @@
   },
   "7523867": {
     "first_seen": "2026-04-13T07:24:52.853804+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T13:00:27-04:00",
     "title": "Staff Engineer, Data Migration",
     "company": "mongodb",
     "alerted": true
@@ -15808,7 +15662,7 @@
   },
   "7674057": {
     "first_seen": "2026-04-13T09:18:02.525649+00:00",
-    "updated_at": "2026-04-03T15:07:43-04:00",
+    "updated_at": "2026-04-14T13:55:53-04:00",
     "title": "Staff Software Engineer, Developer Productivity - Rails",
     "company": "gusto",
     "alerted": true
@@ -18258,8 +18112,8 @@
   },
   "6602436": {
     "first_seen": "2026-04-13T09:18:09.791992+00:00",
-    "updated_at": "2026-04-08T18:02:33-04:00",
-    "title": "Software Engineer, Infrastructure",
+    "updated_at": "2026-04-14T13:44:38-04:00",
+    "title": "Senior Android Software Engineer, Quality Platform",
     "company": "airbnb",
     "alerted": true
   },
@@ -20078,7 +19932,7 @@
   },
   "5725448004": {
     "first_seen": "2026-04-13T19:07:27.850159+00:00",
-    "updated_at": "2026-04-13T13:57:16-04:00",
+    "updated_at": "2026-04-14T12:58:43-04:00",
     "title": "Senior Technical Program Manager",
     "company": "cribl",
     "alerted": true
@@ -20701,7 +20555,7 @@
   },
   "8487325002": {
     "first_seen": "2026-04-14T16:45:29.592977+00:00",
-    "updated_at": "2026-04-14T12:21:12-04:00",
+    "updated_at": "2026-04-14T13:11:30-04:00",
     "title": "Executive Assistant",
     "company": "databricks",
     "alerted": true
@@ -20746,6 +20600,97 @@
     "updated_at": "2026-04-07T10:45:25-04:00",
     "title": "Hardware Systems Integration Intern (Summer 2026)",
     "company": "formlabs",
+    "alerted": true
+  },
+  "5188237008": {
+    "first_seen": "2026-04-14T17:59:57.001517+00:00",
+    "updated_at": "2026-04-14T13:01:12-04:00",
+    "title": "Research Operations, Discovery",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8502987002": {
+    "first_seen": "2026-04-14T17:59:58.523814+00:00",
+    "updated_at": "2026-04-14T12:53:32-04:00",
+    "title": "Solutions Architect - Financial Services (Insurance)",
+    "company": "databricks",
+    "alerted": true
+  },
+  "5855181004": {
+    "first_seen": "2026-04-14T18:00:03.812478+00:00",
+    "updated_at": "2026-04-13T19:16:51-04:00",
+    "title": "Sr Software Engineer, Search Federation",
+    "company": "cribl",
+    "alerted": true
+  },
+  "7815616": {
+    "first_seen": "2026-04-14T18:00:04.514802+00:00",
+    "updated_at": "2026-04-14T13:34:08-04:00",
+    "title": "Senior Cloud Security Engineer - K8s",
+    "company": "datadog",
+    "alerted": true
+  },
+  "8489179002": {
+    "first_seen": "2026-04-14T18:00:07.999814+00:00",
+    "updated_at": "2026-04-07T12:07:39-04:00",
+    "title": "Engineering Manager, Infrastructure Platforms",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8397515002": {
+    "first_seen": "2026-04-14T18:00:09.111750+00:00",
+    "updated_at": "2026-04-14T13:03:31-04:00",
+    "title": "Software Engineer, Product Backend (4-8 YOE)",
+    "company": "airtable",
+    "alerted": true
+  },
+  "5100473007": {
+    "first_seen": "2026-04-14T18:00:09.893582+00:00",
+    "updated_at": "2026-04-07T13:22:06-04:00",
+    "title": "VP of Software",
+    "company": "fellow",
+    "alerted": true
+  },
+  "7812801": {
+    "first_seen": "2026-04-14T18:00:35.583274+00:00",
+    "updated_at": "2026-04-14T12:56:43-04:00",
+    "title": "Staff Product Manager, International Brokerage & Crypto",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "7692380003": {
+    "first_seen": "2026-04-14T18:00:37.544613+00:00",
+    "updated_at": "2026-04-07T12:13:05-04:00",
+    "title": "Principal Product Manager, Home Loans Infrastructure & Data",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7697158003": {
+    "first_seen": "2026-04-14T18:00:37.544653+00:00",
+    "updated_at": "2026-04-14T13:50:23-04:00",
+    "title": "Principal Product Manager, Real-Time Payments Platform",
+    "company": "sofi",
+    "alerted": true
+  },
+  "8503985002": {
+    "first_seen": "2026-04-14T18:00:39.124986+00:00",
+    "updated_at": "2026-04-14T12:53:57-04:00",
+    "title": "Analytics Lead, Market Insights",
+    "company": "lyft",
+    "alerted": true
+  },
+  "8504137002": {
+    "first_seen": "2026-04-14T18:00:39.125455+00:00",
+    "updated_at": "2026-04-14T13:00:04-04:00",
+    "title": "Data Science Manager, Machine Learning - Lyft Ads",
+    "company": "lyft",
+    "alerted": true
+  },
+  "8503999002": {
+    "first_seen": "2026-04-14T18:00:39.125487+00:00",
+    "updated_at": "2026-04-14T13:00:03-04:00",
+    "title": "Data Science Manager, Machine Learning - Lyft Ads",
+    "company": "lyft",
     "alerted": true
   }
 }
