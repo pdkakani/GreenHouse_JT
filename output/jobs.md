@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 12:12 UTC
+
+### 🆕 	Principal Software Engineer I / II - Query Engine, Database Internals - Elasticsearch
+**elastic** · 0000: Pipeline
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7784606&gh_jid=7784606)
+🕐 Updated: `2026-04-07T06:50:24-04:00` &nbsp;|&nbsp; ID: `7784606`
+
+---
+### 🔄 Staff Product Manager, Mobile 
+**calendly** · Product
+📍 San Francisco (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8171767002)
+🕐 Updated: `2026-04-14T08:04:49-04:00` &nbsp;|&nbsp; ID: `8171767002`
+
+---
+
 ## 📅 Run: 2026-04-14 11:19 UTC
 
 ### 🆕 Staff Machine Learning Engineer (L4)
