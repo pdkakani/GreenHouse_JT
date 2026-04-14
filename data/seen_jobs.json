@@ -3600,7 +3600,7 @@
   },
   "4582767006": {
     "first_seen": "2026-04-12T21:50:20.651837+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Senior Director, AI",
     "company": "fireblocks",
     "alerted": true
@@ -5133,7 +5133,7 @@
   },
   "6984809": {
     "first_seen": "2026-04-13T07:24:52.852855+00:00",
-    "updated_at": "2026-04-08T14:55:08-04:00",
+    "updated_at": "2026-04-14T09:33:29-04:00",
     "title": "Site Reliability Engineer (Senior or Staff), Atlas",
     "company": "mongodb",
     "alerted": true
@@ -14884,7 +14884,7 @@
   },
   "8450989002": {
     "first_seen": "2026-04-13T09:17:59.924811+00:00",
-    "updated_at": "2026-04-13T18:39:37-04:00",
+    "updated_at": "2026-04-14T08:38:31-04:00",
     "title": "Staff Product Manager, New Products",
     "company": "calendly",
     "alerted": true
@@ -16550,63 +16550,63 @@
   },
   "4662147006": {
     "first_seen": "2026-04-13T09:18:07.243781+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Director of Engineering, Dynamic Platform",
     "company": "fireblocks",
     "alerted": true
   },
   "4664533006": {
     "first_seen": "2026-04-13T09:18:07.243892+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Incident Response Engineer (Pacific time)",
     "company": "fireblocks",
     "alerted": true
   },
   "4626035006": {
     "first_seen": "2026-04-13T09:18:07.243935+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Mobile Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4626033006": {
     "first_seen": "2026-04-13T09:18:07.243951+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Mobile Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4658119006": {
     "first_seen": "2026-04-13T09:18:07.244168+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Sales Engineer, Banking",
     "company": "fireblocks",
     "alerted": true
   },
   "4601513006": {
     "first_seen": "2026-04-13T09:18:07.244407+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Senior Blockchain Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4615233006": {
     "first_seen": "2026-04-13T09:18:07.244843+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Senior Product Manager, Fireblocks Trust Company",
     "company": "fireblocks",
     "alerted": true
   },
   "4656035006": {
     "first_seen": "2026-04-13T09:18:07.245006+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Site Reliability Engineer",
     "company": "fireblocks",
     "alerted": true
   },
   "4619316006": {
     "first_seen": "2026-04-13T09:18:07.245017+00:00",
-    "updated_at": "2026-04-13T10:37:43-04:00",
+    "updated_at": "2026-04-14T09:30:00-04:00",
     "title": "Site Reliability Engineer (SRE) (Pacific time)",
     "company": "fireblocks",
     "alerted": true
@@ -20204,7 +20204,7 @@
   },
   "7767260": {
     "first_seen": "2026-04-13T20:12:39.066521+00:00",
-    "updated_at": "2026-04-13T10:27:22-04:00",
+    "updated_at": "2026-04-14T09:50:38-04:00",
     "title": "Software Engineer (L3) Infrastructure",
     "company": "twilio",
     "alerted": true
@@ -20662,6 +20662,41 @@
     "updated_at": "2026-04-07T06:50:24-04:00",
     "title": "\tPrincipal Software Engineer I / II - Query Engine, Database Internals - Elasticsearch",
     "company": "elastic",
+    "alerted": true
+  },
+  "6649865002": {
+    "first_seen": "2026-04-14T14:13:20.633641+00:00",
+    "updated_at": "2026-04-09T16:51:06-04:00",
+    "title": "Solutions Architect, Retail - CPG",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7734838": {
+    "first_seen": "2026-04-14T14:13:23.084447+00:00",
+    "updated_at": "2026-04-14T09:14:10-04:00",
+    "title": "Territory Solutions Engineer, SSA",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7807739": {
+    "first_seen": "2026-04-14T14:13:23.310075+00:00",
+    "updated_at": "2026-04-14T09:44:18-04:00",
+    "title": "Technical Administrator 2",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7241636": {
+    "first_seen": "2026-04-14T14:13:31.601020+00:00",
+    "updated_at": "2026-04-14T08:53:21-04:00",
+    "title": "Design Manager, Web Presence",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7657997": {
+    "first_seen": "2026-04-14T14:13:31.601168+00:00",
+    "updated_at": "2026-04-14T09:59:22-04:00",
+    "title": "Engineering Manager, HADR",
+    "company": "stripe",
     "alerted": true
   }
 }

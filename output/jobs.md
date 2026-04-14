@@ -2,6 +2,117 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-14 14:13 UTC
+
+### 🆕 Solutions Architect, Retail - CPG
+**databricks** · Field Engineering
+📍 Central - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6649865002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6649865002`
+
+---
+### 🆕 Territory Solutions Engineer, SSA
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7734838?gh_jid=7734838)
+🕐 Updated: `2026-04-14T09:14:10-04:00` &nbsp;|&nbsp; ID: `7734838`
+
+---
+### 🆕 Technical Administrator 2
+**twilio** · Solutions Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7807739)
+🕐 Updated: `2026-04-14T09:44:18-04:00` &nbsp;|&nbsp; ID: `7807739`
+
+---
+### 🆕 Design Manager, Web Presence
+**stripe** · 8813 Web Presence & Platform
+📍 US / Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7241636)
+🕐 Updated: `2026-04-14T08:53:21-04:00` &nbsp;|&nbsp; ID: `7241636`
+
+---
+### 🆕 Engineering Manager, HADR
+**stripe** · 8126 Developer Infrastructure
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657997)
+🕐 Updated: `2026-04-14T09:59:22-04:00` &nbsp;|&nbsp; ID: `7657997`
+
+---
+### 🔄 Site Reliability Engineer (Senior or Staff), Atlas
+**mongodb** · PTO Site Reliability Engineering
+📍 Austin; Boston; Chicago; New York City; Pittsburgh; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6984809)
+🕐 Updated: `2026-04-14T09:33:29-04:00` &nbsp;|&nbsp; ID: `6984809`
+
+---
+### 🔄 Software Engineer (L3) Infrastructure
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7767260)
+🕐 Updated: `2026-04-14T09:50:38-04:00` &nbsp;|&nbsp; ID: `7767260`
+
+---
+### 🔄 Staff Product Manager, New Products
+**calendly** · Product
+📍 San Francisco (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8450989002)
+🕐 Updated: `2026-04-14T08:38:31-04:00` &nbsp;|&nbsp; ID: `8450989002`
+
+---
+### 🔄 Director of Engineering, Dynamic Platform
+**fireblocks** · R&D
+📍 Miami, Florida, United States; New York; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4662147006?gh_jid=4662147006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4662147006`
+
+---
+### 🔄 Incident Response Engineer (Pacific time)
+**fireblocks** · R&D
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4664533006`
+
+---
+### 🔄 Mobile Engineer
+**fireblocks** · R&D
+📍 Miami, Florida, United States; New York; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4626035006?gh_jid=4626035006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4626035006`
+
+---
+### 🔄 Mobile Engineer
+**fireblocks** · R&D
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4626033006?gh_jid=4626033006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4626033006`
+
+---
+### 🔄 Sales Engineer, Banking
+**fireblocks** · Sales
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4658119006?gh_jid=4658119006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4658119006`
+
+---
+### 🔄 Senior Blockchain Engineer
+**fireblocks** · R&D
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4601513006?gh_jid=4601513006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4601513006`
+
+---
+### 🔄 Senior Director, AI
+**fireblocks** · Security & IT
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4582767006?gh_jid=4582767006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4582767006`
+
+---
+### 🔄 Senior Product Manager, Fireblocks Trust Company
+**fireblocks** · Corporate Strategy
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4615233006?gh_jid=4615233006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4615233006`
+
+---
+### 🔄 Site Reliability Engineer
+**fireblocks** · Trust Company
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4656035006?gh_jid=4656035006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4656035006`
+
+---
+### 🔄 Site Reliability Engineer (SRE) (Pacific time)
+**fireblocks** · R&D
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4619316006?gh_jid=4619316006)
+🕐 Updated: `2026-04-14T09:30:00-04:00` &nbsp;|&nbsp; ID: `4619316006`
+
+---
+
 ## 📅 Run: 2026-04-14 12:12 UTC
 
 ### 🆕 	Principal Software Engineer I / II - Query Engine, Database Internals - Elasticsearch
