@@ -2,6 +2,87 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 05:13 UTC
+
+### 🆕 Principal, Product Manager - AI / LLM
+**twilio** · Product Management
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7619420)
+🕐 Updated: `2026-04-15T00:19:43-04:00` &nbsp;|&nbsp; ID: `7619420`
+
+---
+### 🆕 Sales Engineering Manager, Storage & Analysis
+**cribl** · Sales
+📍 Remote - San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5859649004)
+🕐 Updated: `2026-04-14T18:08:24-04:00` &nbsp;|&nbsp; ID: `5859649004`
+
+---
+### 🆕 Senior Product Manager, Gusto Pro Workflows
+**gusto** · Product Management
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7673980)
+🕐 Updated: `2026-04-14T23:36:18-04:00` &nbsp;|&nbsp; ID: `7673980`
+
+---
+### 🆕 Senior Product Manager, HR Labs
+**gusto** · Product Management
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7759823)
+🕐 Updated: `2026-04-15T00:03:41-04:00` &nbsp;|&nbsp; ID: `7759823`
+
+---
+### 🆕 Staff Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395)
+🕐 Updated: `2026-04-14T11:03:13-04:00` &nbsp;|&nbsp; ID: `7789395`
+
+---
+### 🔄 Software Engineer II Devx
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7641350003)
+🕐 Updated: `2026-04-15T01:02:23-04:00` &nbsp;|&nbsp; ID: `7641350003`
+
+---
+### 🔄 Engineering Director, Developer Experience
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7419377)
+🕐 Updated: `2026-04-14T22:50:29-04:00` &nbsp;|&nbsp; ID: `7419377`
+
+---
+### 🔄  Engineering Director, Developer Platform
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7736567)
+🕐 Updated: `2026-04-14T22:50:30-04:00` &nbsp;|&nbsp; ID: `7736567`
+
+---
+### 🔄 Engineering Manager
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7592081)
+🕐 Updated: `2026-04-14T22:50:46-04:00` &nbsp;|&nbsp; ID: `7592081`
+
+---
+### 🔄 Engineering Manager, Bank Accounts US
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7622019)
+🕐 Updated: `2026-04-14T22:50:47-04:00` &nbsp;|&nbsp; ID: `7622019`
+
+---
+### 🔄 Engineering Manager, Developer Observability
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7518752)
+🕐 Updated: `2026-04-14T22:51:04-04:00` &nbsp;|&nbsp; ID: `7518752`
+
+---
+### 🔄 Staff Engineer - Financial Products
+**adyen** · Development
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6897762)
+🕐 Updated: `2026-04-14T22:51:24-04:00` &nbsp;|&nbsp; ID: `6897762`
+
+---
+### 🔄 Staff Engineer - Financial Products
+**adyen** · Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7585595)
+🕐 Updated: `2026-04-14T22:51:23-04:00` &nbsp;|&nbsp; ID: `7585595`
+
+---
+
 ## 📅 Run: 2026-04-15 02:43 UTC
 
 ### 🆕 Manager, Solutions Engineering

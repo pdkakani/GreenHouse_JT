@@ -1,18 +1,4 @@
 {
-  "5859649004": {
-    "first_seen": "2026-04-08T04:08:02.810871+00:00",
-    "updated_at": "2026-04-14T18:08:24-04:00",
-    "title": "Sales Engineering Manager, Storage & Analysis",
-    "company": "cribl",
-    "alerted": false
-  },
-  "7789395": {
-    "first_seen": "2026-04-08T04:08:26.239615+00:00",
-    "updated_at": "2026-04-14T11:03:13-04:00",
-    "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
-    "company": "coinbase",
-    "alerted": false
-  },
   "8494207002": {
     "first_seen": "2026-04-08T05:56:54.010844+00:00",
     "updated_at": "2026-04-14T15:22:48-04:00",
@@ -8673,28 +8659,28 @@
   },
   "7419377": {
     "first_seen": "2026-04-13T07:24:58.940367+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
+    "updated_at": "2026-04-14T22:50:29-04:00",
     "title": "Engineering Director, Developer Experience",
     "company": "adyen",
     "alerted": true
   },
   "7736567": {
     "first_seen": "2026-04-13T07:24:58.940379+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
+    "updated_at": "2026-04-14T22:50:30-04:00",
     "title": " Engineering Director, Developer Platform",
     "company": "adyen",
     "alerted": true
   },
   "7592081": {
     "first_seen": "2026-04-13T07:24:58.940388+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
+    "updated_at": "2026-04-14T22:50:46-04:00",
     "title": "Engineering Manager",
     "company": "adyen",
     "alerted": true
   },
   "7622019": {
     "first_seen": "2026-04-13T07:24:58.940421+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
+    "updated_at": "2026-04-14T22:50:47-04:00",
     "title": "Engineering Manager, Bank Accounts US",
     "company": "adyen",
     "alerted": true
@@ -8715,7 +8701,7 @@
   },
   "7518752": {
     "first_seen": "2026-04-13T07:24:58.940453+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
+    "updated_at": "2026-04-14T22:51:04-04:00",
     "title": "Engineering Manager, Developer Observability",
     "company": "adyen",
     "alerted": true
@@ -8883,14 +8869,14 @@
   },
   "6897762": {
     "first_seen": "2026-04-13T07:24:58.943512+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
+    "updated_at": "2026-04-14T22:51:24-04:00",
     "title": "Staff Engineer - Financial Products",
     "company": "adyen",
     "alerted": true
   },
   "7585595": {
     "first_seen": "2026-04-13T07:24:58.943527+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
+    "updated_at": "2026-04-14T22:51:23-04:00",
     "title": "Staff Engineer - Financial Products",
     "company": "adyen",
     "alerted": true
@@ -20272,7 +20258,7 @@
   },
   "7641350003": {
     "first_seen": "2026-04-14T15:41:07.460022+00:00",
-    "updated_at": "2026-04-14T11:46:58-04:00",
+    "updated_at": "2026-04-15T01:02:23-04:00",
     "title": "Software Engineer II Devx",
     "company": "klaviyo",
     "alerted": true
@@ -20954,6 +20940,41 @@
     "updated_at": "2026-04-14T20:38:12-04:00",
     "title": "Senior Frontend Engineer, Guest & Host",
     "company": "airbnb",
+    "alerted": true
+  },
+  "7619420": {
+    "first_seen": "2026-04-15T05:12:59.543931+00:00",
+    "updated_at": "2026-04-15T00:19:43-04:00",
+    "title": "Principal, Product Manager - AI / LLM",
+    "company": "twilio",
+    "alerted": true
+  },
+  "5859649004": {
+    "first_seen": "2026-04-15T05:13:00.876862+00:00",
+    "updated_at": "2026-04-14T18:08:24-04:00",
+    "title": "Sales Engineering Manager, Storage & Analysis",
+    "company": "cribl",
+    "alerted": true
+  },
+  "7673980": {
+    "first_seen": "2026-04-15T05:13:11.016846+00:00",
+    "updated_at": "2026-04-14T23:36:18-04:00",
+    "title": "Senior Product Manager, Gusto Pro Workflows",
+    "company": "gusto",
+    "alerted": true
+  },
+  "7759823": {
+    "first_seen": "2026-04-15T05:13:11.016870+00:00",
+    "updated_at": "2026-04-15T00:03:41-04:00",
+    "title": "Senior Product Manager, HR Labs",
+    "company": "gusto",
+    "alerted": true
+  },
+  "7789395": {
+    "first_seen": "2026-04-15T05:13:16.428569+00:00",
+    "updated_at": "2026-04-14T11:03:13-04:00",
+    "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
+    "company": "coinbase",
     "alerted": true
   }
 }
