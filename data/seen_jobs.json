@@ -1,17 +1,4 @@
 {
-  "8494207002": {
-    "first_seen": "2026-04-08T05:56:54.010844+00:00",
-    "updated_at": "2026-04-14T15:22:48-04:00",
-    "title": "Senior Software Engineer, Compensation",
-    "company": "lattice",
-    "alerted": false
-  },
-  "7616001003": {
-    "first_seen": "2026-04-08T05:56:58.315407+00:00",
-    "updated_at": "2026-04-08T01:05:50-04:00",
-    "title": "Senior Software Engineer, Loans Platform",
-    "company": "sofi"
-  },
   "7790065": {
     "first_seen": "2026-04-08T07:15:35.043841+00:00",
     "updated_at": "2026-04-10T00:41:31-04:00",
@@ -20975,6 +20962,27 @@
     "updated_at": "2026-04-14T11:03:13-04:00",
     "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
     "company": "coinbase",
+    "alerted": true
+  },
+  "8507632002": {
+    "first_seen": "2026-04-15T07:02:55.726675+00:00",
+    "updated_at": "2026-04-15T02:26:34-04:00",
+    "title": "Senior Solutions Architect - West ",
+    "company": "expel",
+    "alerted": true
+  },
+  "8494207002": {
+    "first_seen": "2026-04-15T07:03:16.036065+00:00",
+    "updated_at": "2026-04-14T15:22:48-04:00",
+    "title": "Senior Software Engineer, Compensation",
+    "company": "lattice",
+    "alerted": true
+  },
+  "7616001003": {
+    "first_seen": "2026-04-15T07:03:20.944459+00:00",
+    "updated_at": "2026-04-08T01:05:50-04:00",
+    "title": "Senior Software Engineer, Loans Platform",
+    "company": "sofi",
     "alerted": true
   }
 }

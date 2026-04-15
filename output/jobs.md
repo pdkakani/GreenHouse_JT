@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 07:03 UTC
+
+### 🆕 Senior Solutions Architect - West 
+**expel** · Sales
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://expel.com/about/career-listing/8507632002?gh_jid=8507632002)
+🕐 Updated: `2026-04-15T02:26:34-04:00` &nbsp;|&nbsp; ID: `8507632002`
+
+---
+### 🆕 Senior Software Engineer, Compensation
+**lattice** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8494207002)
+🕐 Updated: `2026-04-14T15:22:48-04:00` &nbsp;|&nbsp; ID: `8494207002`
+
+---
+### 🆕 Senior Software Engineer, Loans Platform
+**sofi** · Engineering
+📍 WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7616001003?gh_jid=7616001003)
+🕐 Updated: `2026-04-08T01:05:50-04:00` &nbsp;|&nbsp; ID: `7616001003`
+
+---
+
 ## 📅 Run: 2026-04-15 05:13 UTC
 
 ### 🆕 Principal, Product Manager - AI / LLM
