@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 08:54 UTC
+
+### 🆕 Engineering Manager - Platform (FinHub)
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7790065?gh_jid=7790065)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7790065`
+
+---
+### 🔄 Senior Recruiter, General Engineering
+**robinhood** · Talent Acquisition
+📍 Chicago, IL; Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7811977?t=gh_src=&gh_jid=7811977)
+🕐 Updated: `2026-04-15T03:03:16-04:00` &nbsp;|&nbsp; ID: `7811977`
+
+---
+### 🔄 Staff Product Manager, International
+**robinhood** · International Product Management
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7812801?t=gh_src=&gh_jid=7812801)
+🕐 Updated: `2026-04-15T03:03:22-04:00` &nbsp;|&nbsp; ID: `7812801`
+
+---
+
 ## 📅 Run: 2026-04-15 07:03 UTC
 
 ### 🆕 Senior Solutions Architect - West 

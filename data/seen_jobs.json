@@ -1,11 +1,4 @@
 {
-  "7790065": {
-    "first_seen": "2026-04-08T07:15:35.043841+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Engineering Manager - Platform (FinHub)",
-    "company": "coinbase",
-    "alerted": false
-  },
   "7669366003": {
     "first_seen": "2026-04-08T14:17:12.346956+00:00",
     "updated_at": "2026-04-09T01:02:38-04:00",
@@ -20385,7 +20378,7 @@
   },
   "7812801": {
     "first_seen": "2026-04-14T18:00:35.583274+00:00",
-    "updated_at": "2026-04-14T16:48:01-04:00",
+    "updated_at": "2026-04-15T03:03:22-04:00",
     "title": "Staff Product Manager, International",
     "company": "robinhood",
     "alerted": true
@@ -20700,7 +20693,7 @@
   },
   "7811977": {
     "first_seen": "2026-04-14T21:27:09.342015+00:00",
-    "updated_at": "2026-04-14T16:45:44-04:00",
+    "updated_at": "2026-04-15T03:03:16-04:00",
     "title": "Senior Recruiter, General Engineering",
     "company": "robinhood",
     "alerted": true
@@ -20983,6 +20976,13 @@
     "updated_at": "2026-04-08T01:05:50-04:00",
     "title": "Senior Software Engineer, Loans Platform",
     "company": "sofi",
+    "alerted": true
+  },
+  "7790065": {
+    "first_seen": "2026-04-15T08:53:58.491668+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Engineering Manager - Platform (FinHub)",
+    "company": "coinbase",
     "alerted": true
   }
 }
