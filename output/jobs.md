@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 10:12 UTC
+
+### 🔄 Engineering Manager, Gitlab Delivery: Upgrades
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8463917002)
+🕐 Updated: `2026-04-15T05:13:56-04:00` &nbsp;|&nbsp; ID: `8463917002`
+
+---
+### 🔄 Intermediate Backend Engineer, Gitlab Delivery: Upgrades
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8463951002)
+🕐 Updated: `2026-04-15T05:25:48-04:00` &nbsp;|&nbsp; ID: `8463951002`
+
+---
+### 🔄 Senior Backend Engineer, Gitlab Delivery: Upgrades
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8463933002)
+🕐 Updated: `2026-04-15T05:24:12-04:00` &nbsp;|&nbsp; ID: `8463933002`
+
+---
+
 ## 📅 Run: 2026-04-15 08:54 UTC
 
 ### 🆕 Engineering Manager - Platform (FinHub)
