@@ -2,6 +2,75 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 14:04 UTC
+
+### 🆕 Software Engineer II - Analytics Data Engineering
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003)
+🕐 Updated: `2026-04-15T09:27:39-04:00` &nbsp;|&nbsp; ID: `7669291003`
+
+---
+### 🆕 Partner Solutions Architect (LATAM)
+**datadog** · Channels & Alliances
+📍 Chile, Remote; Sao Paulo, Brazil &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7776476/?gh_jid=7776476)
+🕐 Updated: `2026-04-15T09:55:42-04:00` &nbsp;|&nbsp; ID: `7776476`
+
+---
+### 🆕 Senior Application Security Engineer
+**branch** · Security
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/branch/jobs/7701734003)
+🕐 Updated: `2026-04-15T08:46:05-04:00` &nbsp;|&nbsp; ID: `7701734003`
+
+---
+### 🔄 Delivery Solutions Architect
+**databricks** · Delivery Solutions Architects
+📍 Finland; Remote - Denmark; Stockholm, Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002)
+🕐 Updated: `2026-04-15T08:34:07-04:00` &nbsp;|&nbsp; ID: `8441894002`
+
+---
+### 🔄 Manager, People Technology (Workday)
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7684381003)
+🕐 Updated: `2026-04-15T08:32:11-04:00` &nbsp;|&nbsp; ID: `7684381003`
+
+---
+### 🔄 Open Source Program Developer
+**datadog** · Community
+📍 District of Columbia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Pennsylvania, USA, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7636202/?gh_jid=7636202)
+🕐 Updated: `2026-04-15T08:14:17-04:00` &nbsp;|&nbsp; ID: `7636202`
+
+---
+### 🔄 Open Source Program Developer
+**datadog** · Community
+📍 Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; The Netherlands, Remote; United Kingdom, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7721661/?gh_jid=7721661)
+🕐 Updated: `2026-04-15T08:14:31-04:00` &nbsp;|&nbsp; ID: `7721661`
+
+---
+### 🔄 Open Source Program Developer
+**datadog** · Community
+📍 Portugal, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7760903/?gh_jid=7760903)
+🕐 Updated: `2026-04-15T08:14:30-04:00` &nbsp;|&nbsp; ID: `7760903`
+
+---
+### 🔄 Senior Engineering Manager, Data Streaming Services (Auth0)
+**okta** · SW Eng - Infrastructure-672
+📍 Chicago, Illinois; New York, New York; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7719329?gh_jid=7719329)
+🕐 Updated: `2026-04-15T08:39:26-04:00` &nbsp;|&nbsp; ID: `7719329`
+
+---
+### 🔄 Sales Engineer III - Microsoft Security
+**huntress** · Sales Engineering
+📍 United States of America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7621198003)
+🕐 Updated: `2026-04-15T08:53:04-04:00` &nbsp;|&nbsp; ID: `7621198003`
+
+---
+### 🔄 Senior Backend Engineer, Gitlab Delivery: Upgrades
+**gitlab** · Platforms Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8463933002)
+🕐 Updated: `2026-04-15T09:23:10-04:00` &nbsp;|&nbsp; ID: `8463933002`
+
+---
+
 ## 📅 Run: 2026-04-15 11:16 UTC
 
 ### 🆕 Lead Sales Engineer, Enterprise

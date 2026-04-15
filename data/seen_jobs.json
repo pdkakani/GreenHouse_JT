@@ -459,7 +459,7 @@
   },
   "8441894002": {
     "first_seen": "2026-04-09T14:59:34.368905+00:00",
-    "updated_at": "2026-04-09T16:51:30-04:00",
+    "updated_at": "2026-04-15T08:34:07-04:00",
     "title": "Delivery Solutions Architect",
     "company": "databricks",
     "alerted": false
@@ -5657,21 +5657,21 @@
   },
   "7721661": {
     "first_seen": "2026-04-13T07:24:54.950910+00:00",
-    "updated_at": "2026-04-09T15:39:54-04:00",
+    "updated_at": "2026-04-15T08:14:31-04:00",
     "title": "Open Source Program Developer",
     "company": "datadog",
     "alerted": true
   },
   "7760903": {
     "first_seen": "2026-04-13T07:24:54.950943+00:00",
-    "updated_at": "2026-04-09T15:39:53-04:00",
+    "updated_at": "2026-04-15T08:14:30-04:00",
     "title": "Open Source Program Developer",
     "company": "datadog",
     "alerted": true
   },
   "7636202": {
     "first_seen": "2026-04-13T07:24:54.951027+00:00",
-    "updated_at": "2026-04-09T15:39:23-04:00",
+    "updated_at": "2026-04-15T08:14:17-04:00",
     "title": "Open Source Program Developer",
     "company": "datadog",
     "alerted": true
@@ -6427,8 +6427,8 @@
   },
   "7719329": {
     "first_seen": "2026-04-13T07:24:55.926142+00:00",
-    "updated_at": "2026-03-30T19:32:53-04:00",
-    "title": "Senior Engineering Manager, Data Platform (Auth0)",
+    "updated_at": "2026-04-15T08:39:26-04:00",
+    "title": "Senior Engineering Manager, Data Streaming Services (Auth0)",
     "company": "okta",
     "alerted": true
   },
@@ -7386,7 +7386,7 @@
   },
   "8463933002": {
     "first_seen": "2026-04-13T07:24:57.165280+00:00",
-    "updated_at": "2026-04-15T05:24:12-04:00",
+    "updated_at": "2026-04-15T09:23:10-04:00",
     "title": "Senior Backend Engineer, Gitlab Delivery: Upgrades",
     "company": "gitlab",
     "alerted": true
@@ -12587,7 +12587,7 @@
   },
   "7684381003": {
     "first_seen": "2026-04-13T09:17:52.541429+00:00",
-    "updated_at": "2026-04-08T20:45:54-04:00",
+    "updated_at": "2026-04-15T08:32:11-04:00",
     "title": "Manager, People Technology (Workday)",
     "company": "klaviyo",
     "alerted": true
@@ -13686,8 +13686,8 @@
   },
   "7621198003": {
     "first_seen": "2026-04-13T09:17:57.649346+00:00",
-    "updated_at": "2026-04-10T08:40:20-04:00",
-    "title": "Channel Sales Engineer III",
+    "updated_at": "2026-04-15T08:53:04-04:00",
+    "title": "Sales Engineer III - Microsoft Security",
     "company": "huntress",
     "alerted": true
   },
@@ -20990,6 +20990,27 @@
     "updated_at": "2026-04-15T06:53:42-04:00",
     "title": "Lead Sales Engineer, Enterprise",
     "company": "fivetran",
+    "alerted": true
+  },
+  "7669291003": {
+    "first_seen": "2026-04-15T14:04:17.903116+00:00",
+    "updated_at": "2026-04-15T09:27:39-04:00",
+    "title": "Software Engineer II - Analytics Data Engineering",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7776476": {
+    "first_seen": "2026-04-15T14:04:18.740626+00:00",
+    "updated_at": "2026-04-15T09:55:42-04:00",
+    "title": "Partner Solutions Architect (LATAM)",
+    "company": "datadog",
+    "alerted": true
+  },
+  "7701734003": {
+    "first_seen": "2026-04-15T14:04:24.381670+00:00",
+    "updated_at": "2026-04-15T08:46:05-04:00",
+    "title": "Senior Application Security Engineer",
+    "company": "branch",
     "alerted": true
   }
 }
