@@ -2,6 +2,99 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 02:43 UTC
+
+### 🆕 Manager, Solutions Engineering
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7795083?gh_jid=7795083)
+🕐 Updated: `2026-04-14T21:18:28-04:00` &nbsp;|&nbsp; ID: `7795083`
+
+---
+### 🆕 Senior Solution Architect, Enterprise
+**fivetran** · Customer Solutions Group Department
+📍 Remote, North Carolina, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7695864003)
+🕐 Updated: `2026-04-14T20:51:41-04:00` &nbsp;|&nbsp; ID: `7695864003`
+
+---
+### 🆕 Senior Solution Architect, Enterprise
+**fivetran** · Customer Solutions Group Department
+📍 Remote, New York, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7701407003)
+🕐 Updated: `2026-04-14T21:20:16-04:00` &nbsp;|&nbsp; ID: `7701407003`
+
+---
+### 🆕 Solution Architect, Enterprise
+**fivetran** · Customer Solutions Group Department
+📍 Remote, New York, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7701413003)
+🕐 Updated: `2026-04-14T21:44:35-04:00` &nbsp;|&nbsp; ID: `7701413003`
+
+---
+### 🆕 Solution Architect, Enterprise
+**fivetran** · Customer Solutions Group Department
+📍 Remote, Texas, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7695862003)
+🕐 Updated: `2026-04-14T21:44:34-04:00` &nbsp;|&nbsp; ID: `7695862003`
+
+---
+### 🆕 Solution Architect, Enterprise
+**fivetran** · Customer Solutions Group Department
+📍 Remote, New Jersey, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7701415003)
+🕐 Updated: `2026-04-14T21:44:36-04:00` &nbsp;|&nbsp; ID: `7701415003`
+
+---
+### 🆕 Senior Full-Stack Engineer, App Journey
+**chime** · AI & App Experience Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8485955002?gh_jid=8485955002)
+🕐 Updated: `2026-04-14T18:41:13-04:00` &nbsp;|&nbsp; ID: `8485955002`
+
+---
+### 🆕 Software Engineer, MyPay
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002)
+🕐 Updated: `2026-04-14T21:28:31-04:00` &nbsp;|&nbsp; ID: `8499450002`
+
+---
+### 🆕 Product Manager, Stays
+**airbnb** · Product Management
+📍 United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7767684?gh_jid=7767684)
+🕐 Updated: `2026-04-07T19:54:00-04:00` &nbsp;|&nbsp; ID: `7767684`
+
+---
+### 🆕 Senior Frontend Engineer, Guest & Host
+**airbnb** · Software Engineering
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7747832?gh_jid=7747832)
+🕐 Updated: `2026-04-14T20:38:12-04:00` &nbsp;|&nbsp; ID: `7747832`
+
+---
+### 🔄 Technical Architect
+**braze** · Customer Experience
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7733087?gh_jid=7733087)
+🕐 Updated: `2026-04-14T20:14:54-04:00` &nbsp;|&nbsp; ID: `7733087`
+
+---
+### 🔄 Technical Architect
+**braze** · Customer Experience
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7684277?gh_jid=7684277)
+🕐 Updated: `2026-04-14T20:14:10-04:00` &nbsp;|&nbsp; ID: `7684277`
+
+---
+### 🔄 Technical Architect
+**braze** · Customer Experience
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7733083?gh_jid=7733083)
+🕐 Updated: `2026-04-14T20:14:27-04:00` &nbsp;|&nbsp; ID: `7733083`
+
+---
+### 🔄 Technical Architect
+**braze** · Customer Experience
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7733084?gh_jid=7733084)
+🕐 Updated: `2026-04-14T20:14:40-04:00` &nbsp;|&nbsp; ID: `7733084`
+
+---
+### 🔄 AI Product Engineer
+**abnormalsecurity** · R&D AI Transformation
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7659302003?gh_jid=7659302003)
+🕐 Updated: `2026-04-14T22:37:05-04:00` &nbsp;|&nbsp; ID: `7659302003`
+
+---
+
 ## 📅 Run: 2026-04-14 23:58 UTC
 
 ### 🆕 Data Center Electrical Engineer

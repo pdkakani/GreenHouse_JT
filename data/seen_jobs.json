@@ -1,23 +1,4 @@
 {
-  "7655130003": {
-    "first_seen": "2026-04-08T01:03:00.745306+00:00",
-    "updated_at": "2026-04-07T19:45:59-04:00",
-    "title": "Senior Security Engineer",
-    "company": "abnormalsecurity"
-  },
-  "8485955002": {
-    "first_seen": "2026-04-08T01:03:11.903356+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
-    "title": "Senior Full-Stack Engineer, App Journey",
-    "company": "chime",
-    "alerted": false
-  },
-  "7767684": {
-    "first_seen": "2026-04-08T01:03:12.749148+00:00",
-    "updated_at": "2026-04-07T19:54:00-04:00",
-    "title": "Product Manager, Stays",
-    "company": "airbnb"
-  },
   "5859649004": {
     "first_seen": "2026-04-08T04:08:02.810871+00:00",
     "updated_at": "2026-04-14T18:08:24-04:00",
@@ -12402,28 +12383,28 @@
   },
   "7733087": {
     "first_seen": "2026-04-13T09:17:52.328609+00:00",
-    "updated_at": "2026-03-18T15:06:48-04:00",
+    "updated_at": "2026-04-14T20:14:54-04:00",
     "title": "Technical Architect",
     "company": "braze",
     "alerted": true
   },
   "7684277": {
     "first_seen": "2026-04-13T09:17:52.328624+00:00",
-    "updated_at": "2026-03-18T15:06:46-04:00",
+    "updated_at": "2026-04-14T20:14:10-04:00",
     "title": "Technical Architect",
     "company": "braze",
     "alerted": true
   },
   "7733083": {
     "first_seen": "2026-04-13T09:17:52.328643+00:00",
-    "updated_at": "2026-03-18T15:06:46-04:00",
+    "updated_at": "2026-04-14T20:14:27-04:00",
     "title": "Technical Architect",
     "company": "braze",
     "alerted": true
   },
   "7733084": {
     "first_seen": "2026-04-13T09:17:52.328657+00:00",
-    "updated_at": "2026-03-18T15:06:47-04:00",
+    "updated_at": "2026-04-14T20:14:40-04:00",
     "title": "Technical Architect",
     "company": "braze",
     "alerted": true
@@ -13501,7 +13482,7 @@
   },
   "7659302003": {
     "first_seen": "2026-04-13T09:17:54.485988+00:00",
-    "updated_at": "2026-04-10T08:14:28-04:00",
+    "updated_at": "2026-04-14T22:37:05-04:00",
     "title": "AI Product Engineer",
     "company": "abnormalsecurity",
     "alerted": true
@@ -20902,6 +20883,76 @@
     "first_seen": "2026-04-14T23:58:29.726885+00:00",
     "updated_at": "2026-04-14T19:28:02-04:00",
     "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7795083": {
+    "first_seen": "2026-04-15T02:43:12.811280+00:00",
+    "updated_at": "2026-04-14T21:18:28-04:00",
+    "title": "Manager, Solutions Engineering",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7695864003": {
+    "first_seen": "2026-04-15T02:43:15.984243+00:00",
+    "updated_at": "2026-04-14T20:51:41-04:00",
+    "title": "Senior Solution Architect, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7701407003": {
+    "first_seen": "2026-04-15T02:43:15.984289+00:00",
+    "updated_at": "2026-04-14T21:20:16-04:00",
+    "title": "Senior Solution Architect, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7701413003": {
+    "first_seen": "2026-04-15T02:43:15.984713+00:00",
+    "updated_at": "2026-04-14T21:44:35-04:00",
+    "title": "Solution Architect, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7695862003": {
+    "first_seen": "2026-04-15T02:43:15.984741+00:00",
+    "updated_at": "2026-04-14T21:44:34-04:00",
+    "title": "Solution Architect, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7701415003": {
+    "first_seen": "2026-04-15T02:43:15.984767+00:00",
+    "updated_at": "2026-04-14T21:44:36-04:00",
+    "title": "Solution Architect, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "8485955002": {
+    "first_seen": "2026-04-15T02:43:24.093506+00:00",
+    "updated_at": "2026-04-14T18:41:13-04:00",
+    "title": "Senior Full-Stack Engineer, App Journey",
+    "company": "chime",
+    "alerted": true
+  },
+  "8499450002": {
+    "first_seen": "2026-04-15T02:43:24.093751+00:00",
+    "updated_at": "2026-04-14T21:28:31-04:00",
+    "title": "Software Engineer, MyPay",
+    "company": "chime",
+    "alerted": true
+  },
+  "7767684": {
+    "first_seen": "2026-04-15T02:43:25.019549+00:00",
+    "updated_at": "2026-04-07T19:54:00-04:00",
+    "title": "Product Manager, Stays",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7747832": {
+    "first_seen": "2026-04-15T02:43:25.020054+00:00",
+    "updated_at": "2026-04-14T20:38:12-04:00",
+    "title": "Senior Frontend Engineer, Guest & Host",
     "company": "airbnb",
     "alerted": true
   }
