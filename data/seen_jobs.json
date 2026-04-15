@@ -1,59 +1,4 @@
 {
-  "5174757008": {
-    "first_seen": "2026-04-08T19:39:23.455857+00:00",
-    "updated_at": "2026-04-13T15:28:33-04:00",
-    "title": "Software Engineer, Backend",
-    "company": "anthropic",
-    "alerted": false
-  },
-  "5174743008": {
-    "first_seen": "2026-04-08T19:39:23.455896+00:00",
-    "updated_at": "2026-04-13T15:26:52-04:00",
-    "title": "Software Engineer, Full-stack",
-    "company": "anthropic",
-    "alerted": false
-  },
-  "5157844008": {
-    "first_seen": "2026-04-08T19:39:23.455917+00:00",
-    "updated_at": "2026-04-13T15:31:27-04:00",
-    "title": "Software Engineer, Platform",
-    "company": "anthropic",
-    "alerted": false
-  },
-  "5174755008": {
-    "first_seen": "2026-04-08T19:39:23.456159+00:00",
-    "updated_at": "2026-04-12T22:23:11-04:00",
-    "title": "Staff+ Software Engineer, Backend",
-    "company": "anthropic",
-    "alerted": false
-  },
-  "5174747008": {
-    "first_seen": "2026-04-08T19:39:23.456183+00:00",
-    "updated_at": "2026-04-13T07:56:22-04:00",
-    "title": "Staff+ Software Engineer, Full-stack",
-    "company": "anthropic",
-    "alerted": false
-  },
-  "7782588": {
-    "first_seen": "2026-04-08T19:39:33.024315+00:00",
-    "updated_at": "2026-04-13T13:30:34-04:00",
-    "title": "Staff Software Engineer in Test, PAM ",
-    "company": "okta",
-    "alerted": false
-  },
-  "7792472": {
-    "first_seen": "2026-04-08T19:39:36.088531+00:00",
-    "updated_at": "2026-04-08T17:39:43-04:00",
-    "title": "Mid Market Business Development Representative",
-    "company": "contentful"
-  },
-  "7692954003": {
-    "first_seen": "2026-04-08T19:39:49.981702+00:00",
-    "updated_at": "2026-04-09T17:02:38-04:00",
-    "title": "Senior Data Scientist, Borrow",
-    "company": "sofi",
-    "alerted": false
-  },
   "7783164": {
     "first_seen": "2026-04-08T20:22:54.369158+00:00",
     "updated_at": "2026-04-15T10:26:51-04:00",
@@ -90,7 +35,7 @@
   },
   "8382253002": {
     "first_seen": "2026-04-08T21:08:12.582810+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Product Manager, Data Platform",
     "company": "chime",
     "alerted": false
@@ -130,7 +75,7 @@
   },
   "8219791002": {
     "first_seen": "2026-04-08T21:59:41.924524+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Product Manager, MyPay",
     "company": "chime",
     "alerted": false
@@ -219,7 +164,7 @@
   },
   "8219795002": {
     "first_seen": "2026-04-09T03:27:48.329264+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Software Engineer, Credit Line",
     "company": "chime",
     "alerted": false
@@ -911,7 +856,7 @@
   },
   "8433840002": {
     "first_seen": "2026-04-10T15:05:33.880731+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Software Engineer, Instant Loans",
     "company": "chime",
     "alerted": true
@@ -967,7 +912,7 @@
   },
   "8414654002": {
     "first_seen": "2026-04-10T18:01:20.968611+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Python Core Engineer",
     "company": "chime",
     "alerted": true
@@ -10256,140 +10201,140 @@
   },
   "8477424002": {
     "first_seen": "2026-04-13T07:25:06.005790+00:00",
-    "updated_at": "2026-04-15T12:54:35-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Engineering Manager, Data Platform",
     "company": "chime",
     "alerted": true
   },
   "8393494002": {
     "first_seen": "2026-04-13T07:25:06.005834+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Group Product Manager, Platform",
     "company": "chime",
     "alerted": true
   },
   "8414978002": {
     "first_seen": "2026-04-13T07:25:06.005985+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Lead IT Support Technician",
     "company": "chime",
     "alerted": true
   },
   "8457578002": {
     "first_seen": "2026-04-13T07:25:06.006008+00:00",
-    "updated_at": "2026-04-15T12:57:09-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Mobile Full-Stack Engineer, Multiplayer",
     "company": "chime",
     "alerted": true
   },
   "8433838002": {
     "first_seen": "2026-04-13T07:25:06.006026+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Mobile Software Engineer, Cross Platform",
     "company": "chime",
     "alerted": true
   },
   "8185502002": {
     "first_seen": "2026-04-13T07:25:06.006106+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "People Development Partner",
     "company": "chime",
     "alerted": true
   },
   "8416978002": {
     "first_seen": "2026-04-13T07:25:06.006195+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Product Manager, Support Agent",
     "company": "chime",
     "alerted": true
   },
   "8141068002": {
     "first_seen": "2026-04-13T07:25:06.006217+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Product Security Engineer",
     "company": "chime",
     "alerted": true
   },
   "8373535002": {
     "first_seen": "2026-04-13T07:25:06.006438+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Application Security Engineer",
     "company": "chime",
     "alerted": true
   },
   "8375225002": {
     "first_seen": "2026-04-13T07:25:06.006609+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Frontend Engineer, Design Systems",
     "company": "chime",
     "alerted": true
   },
   "8112504002": {
     "first_seen": "2026-04-13T07:25:06.006636+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Full-Stack Engineer, Multiplayer",
     "company": "chime",
     "alerted": true
   },
   "8389281002": {
     "first_seen": "2026-04-13T07:25:06.006653+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior IAM Engineer",
     "company": "chime",
     "alerted": true
   },
   "8121830002": {
     "first_seen": "2026-04-13T07:25:06.006777+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Offensive Security Engineer",
     "company": "chime",
     "alerted": true
   },
   "8479805002": {
     "first_seen": "2026-04-13T07:25:06.006835+00:00",
-    "updated_at": "2026-04-15T13:01:24-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Processor Implementation Manager",
     "company": "chime",
     "alerted": true
   },
   "8400999002": {
     "first_seen": "2026-04-13T07:25:06.006880+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Software Engineer (Chicago)",
     "company": "chime",
     "alerted": true
   },
   "8457138002": {
     "first_seen": "2026-04-13T07:25:06.006898+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Software Engineer, Data Platform",
     "company": "chime",
     "alerted": true
   },
   "8322458002": {
     "first_seen": "2026-04-13T07:25:06.006916+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Software Engineer, Deposits & Insights",
     "company": "chime",
     "alerted": true
   },
   "8322470002": {
     "first_seen": "2026-04-13T07:25:06.006934+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Software Engineer, Secure Cards",
     "company": "chime",
     "alerted": true
   },
   "8183064002": {
     "first_seen": "2026-04-13T07:25:06.006982+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Software Engineer, Financial Platform",
     "company": "chime",
     "alerted": true
   },
   "8466472002": {
     "first_seen": "2026-04-13T07:25:06.006997+00:00",
-    "updated_at": "2026-04-15T12:59:55-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Software Engineer, Growth - Paid Ads & Acquisition",
     "company": "chime",
     "alerted": true
@@ -13119,7 +13064,7 @@
   },
   "5687321004": {
     "first_seen": "2026-04-13T09:17:52.872747+00:00",
-    "updated_at": "2026-03-30T20:09:41-04:00",
+    "updated_at": "2026-04-15T15:48:41-04:00",
     "title": "Staff Front End Engineer, Data Visualization",
     "company": "cribl",
     "alerted": true
@@ -15394,7 +15339,7 @@
   },
   "6708637": {
     "first_seen": "2026-04-13T09:18:04.642672+00:00",
-    "updated_at": "2026-03-31T13:59:11-04:00",
+    "updated_at": "2026-04-15T15:19:34-04:00",
     "title": "Principal Software Engineer, Capital Marketplace",
     "company": "upstart",
     "alerted": true
@@ -16213,7 +16158,7 @@
   },
   "7571439003": {
     "first_seen": "2026-04-13T09:18:08.917257+00:00",
-    "updated_at": "2026-04-15T12:32:12-04:00",
+    "updated_at": "2026-04-15T15:11:02-04:00",
     "title": "AI Software Engineer Manager, Risk Engineering",
     "company": "sofi",
     "alerted": true
@@ -18075,7 +18020,7 @@
   },
   "8459156002": {
     "first_seen": "2026-04-13T09:18:09.938911+00:00",
-    "updated_at": "2026-03-12T17:00:47-04:00",
+    "updated_at": "2026-04-15T15:14:45-04:00",
     "title": "Senior Software Engineer, Autonomous Vehicle",
     "company": "lyft",
     "alerted": true
@@ -19265,8 +19210,8 @@
   },
   "7778592": {
     "first_seen": "2026-04-13T15:44:18.649955+00:00",
-    "updated_at": "2026-04-13T10:56:19-04:00",
-    "title": "Engineering Template ",
+    "updated_at": "2026-04-15T15:17:09-04:00",
+    "title": "Senior Software Engineer, Borrower Experience",
     "company": "upstart",
     "alerted": true
   },
@@ -19720,7 +19665,7 @@
   },
   "7812279": {
     "first_seen": "2026-04-13T21:08:49.446345+00:00",
-    "updated_at": "2026-04-13T20:00:35-04:00",
+    "updated_at": "2026-04-15T15:23:17-04:00",
     "title": "Software Engineer L2",
     "company": "stripe",
     "alerted": true
@@ -19748,7 +19693,7 @@
   },
   "8219793002": {
     "first_seen": "2026-04-13T21:08:58.561700+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Software Engineer, Credit Risk Platform",
     "company": "chime",
     "alerted": true
@@ -20700,14 +20645,14 @@
   },
   "8485955002": {
     "first_seen": "2026-04-15T02:43:24.093506+00:00",
-    "updated_at": "2026-04-15T13:02:08-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Senior Full-Stack Engineer, App Journey",
     "company": "chime",
     "alerted": true
   },
   "8499450002": {
     "first_seen": "2026-04-15T02:43:24.093751+00:00",
-    "updated_at": "2026-04-15T13:01:20-04:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
     "title": "Software Engineer, MyPay",
     "company": "chime",
     "alerted": true
@@ -21162,8 +21107,8 @@
   },
   "8508895002": {
     "first_seen": "2026-04-15T19:06:43.227083+00:00",
-    "updated_at": "2026-04-15T14:29:48-04:00",
-    "title": "Full Stack Engineer, Contacts ",
+    "updated_at": "2026-04-15T15:49:24-04:00",
+    "title": "Full Stack Engineer, Contacts",
     "company": "calendly",
     "alerted": true
   },
@@ -21176,7 +21121,7 @@
   },
   "7819120": {
     "first_seen": "2026-04-15T19:06:50.939781+00:00",
-    "updated_at": "2026-04-15T14:55:34-04:00",
+    "updated_at": "2026-04-15T15:33:45-04:00",
     "title": "Director of Engineering, Upstart Bank",
     "company": "upstart",
     "alerted": true
@@ -21193,6 +21138,97 @@
     "updated_at": "2026-04-15T15:00:27-04:00",
     "title": "Capital Markets Transactions Manager",
     "company": "sofi",
+    "alerted": true
+  },
+  "5110532008": {
+    "first_seen": "2026-04-15T20:09:24.912276+00:00",
+    "updated_at": "2026-04-15T15:57:31-04:00",
+    "title": "Senior Software Engineer, Systems\u00a0",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5174757008": {
+    "first_seen": "2026-04-15T20:09:24.912412+00:00",
+    "updated_at": "2026-04-13T15:28:33-04:00",
+    "title": "Software Engineer, Backend",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5174743008": {
+    "first_seen": "2026-04-15T20:09:24.912458+00:00",
+    "updated_at": "2026-04-13T15:26:52-04:00",
+    "title": "Software Engineer, Full-stack",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5157844008": {
+    "first_seen": "2026-04-15T20:09:24.912489+00:00",
+    "updated_at": "2026-04-13T15:31:27-04:00",
+    "title": "Software Engineer, Platform",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5174755008": {
+    "first_seen": "2026-04-15T20:09:24.912700+00:00",
+    "updated_at": "2026-04-12T22:23:11-04:00",
+    "title": "Staff+ Software Engineer, Backend",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5174747008": {
+    "first_seen": "2026-04-15T20:09:24.912734+00:00",
+    "updated_at": "2026-04-13T07:56:22-04:00",
+    "title": "Staff+ Software Engineer, Full-stack",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5139910008": {
+    "first_seen": "2026-04-15T20:09:24.912794+00:00",
+    "updated_at": "2026-04-15T15:57:22-04:00",
+    "title": "Staff+ Software Engineer, Observability",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5108817008": {
+    "first_seen": "2026-04-15T20:09:24.912837+00:00",
+    "updated_at": "2026-04-15T15:57:29-04:00",
+    "title": "Staff+ Software Engineer, Systems",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7782588": {
+    "first_seen": "2026-04-15T20:09:30.814824+00:00",
+    "updated_at": "2026-04-13T13:30:34-04:00",
+    "title": "Staff Software Engineer in Test, PAM ",
+    "company": "okta",
+    "alerted": true
+  },
+  "7792472": {
+    "first_seen": "2026-04-15T20:09:32.769691+00:00",
+    "updated_at": "2026-04-08T17:39:43-04:00",
+    "title": "Mid Market Business Development Representative",
+    "company": "contentful",
+    "alerted": true
+  },
+  "8478204002": {
+    "first_seen": "2026-04-15T20:09:52.939130+00:00",
+    "updated_at": "2026-04-15T16:07:35-04:00",
+    "title": "Product Manager, AI & App Experience",
+    "company": "chime",
+    "alerted": true
+  },
+  "7453202": {
+    "first_seen": "2026-04-15T20:09:54.659619+00:00",
+    "updated_at": "2026-04-15T15:51:53-04:00",
+    "title": "Senior iOS Software Engineer, Quality Platform",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "8508873002": {
+    "first_seen": "2026-04-15T20:09:54.801084+00:00",
+    "updated_at": "2026-04-15T15:14:49-04:00",
+    "title": "Staff Technical Program Manager, M&A",
+    "company": "lyft",
     "alerted": true
   }
 }
