@@ -2,6 +2,63 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 23:58 UTC
+
+### 🆕 Senior Full Stack Engineer, Hazel AI
+**altruist** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5874549004?gh_jid=5874549004)
+🕐 Updated: `2026-04-08T19:12:41-04:00` &nbsp;|&nbsp; ID: `5874549004`
+
+---
+### 🆕 Senior Salesforce Developer
+**humaninterest** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7747268)
+🕐 Updated: `2026-04-15T19:39:28-04:00` &nbsp;|&nbsp; ID: `7747268`
+
+---
+### 🆕 Senior Technical Program Manager, Privacy
+**robinhood** · Privacy Division
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7773503?t=gh_src=&gh_jid=7773503)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7773503`
+
+---
+### 🔄 Staff IT Security Engineer
+**amplitude** · Engineering : Security
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8506550002)
+🕐 Updated: `2026-04-15T19:02:32-04:00` &nbsp;|&nbsp; ID: `8506550002`
+
+---
+### 🔄 Engineering Manager, HADR
+**stripe** · 8126 Developer Infrastructure
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657997)
+🕐 Updated: `2026-04-15T19:02:14-04:00` &nbsp;|&nbsp; ID: `7657997`
+
+---
+### 🔄 Systems Engineering Manager
+**gusto** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7665279)
+🕐 Updated: `2026-04-15T19:43:38-04:00` &nbsp;|&nbsp; ID: `7665279`
+
+---
+### 🔄 Staff Software Engineer, AI   
+**lattice** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8458025002)
+🕐 Updated: `2026-04-15T19:11:59-04:00` &nbsp;|&nbsp; ID: `8458025002`
+
+---
+### 🔄 Senior Software Engineer, Fullstack (AI Advisor) 
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7604153?gh_jid=7604153)
+🕐 Updated: `2026-04-15T19:18:41-04:00` &nbsp;|&nbsp; ID: `7604153`
+
+---
+### 🔄 Staff Technical Program Manager, Mergers & Acquisition
+**lyft** · Central TPM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508873002?gh_jid=8508873002)
+🕐 Updated: `2026-04-15T19:31:50-04:00` &nbsp;|&nbsp; ID: `8508873002`
+
+---
+
 ## 📅 Run: 2026-04-15 23:02 UTC
 
 ### 🆕 Backend Engineer, Forward Deployed Engineering

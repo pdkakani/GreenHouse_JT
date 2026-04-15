@@ -1,29 +1,4 @@
 {
-  "7137624": {
-    "first_seen": "2026-04-08T23:32:54.674044+00:00",
-    "updated_at": "2026-04-08T18:59:20-04:00",
-    "title": "Sales Development Representative (Denver)",
-    "company": "datadog"
-  },
-  "5850497004": {
-    "first_seen": "2026-04-08T23:33:01.471462+00:00",
-    "updated_at": "2026-04-08T18:56:15-04:00",
-    "title": "Director, IT",
-    "company": "figma"
-  },
-  "5874549004": {
-    "first_seen": "2026-04-08T23:33:05.509282+00:00",
-    "updated_at": "2026-04-08T19:12:41-04:00",
-    "title": "Senior Full Stack Engineer, Hazel AI",
-    "company": "altruist"
-  },
-  "7773503": {
-    "first_seen": "2026-04-08T23:33:10.238019+00:00",
-    "updated_at": "2026-04-15T13:08:39-04:00",
-    "title": "Senior Technical Program Manager, Privacy",
-    "company": "robinhood",
-    "alerted": false
-  },
   "7705877": {
     "first_seen": "2026-04-09T00:03:28.841191+00:00",
     "updated_at": "2026-04-14T01:03:16-04:00",
@@ -9542,7 +9517,7 @@
   },
   "7604153": {
     "first_seen": "2026-04-13T07:25:04.759341+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-15T19:18:41-04:00",
     "title": "Senior Software Engineer, Fullstack (AI Advisor) ",
     "company": "coinbase",
     "alerted": true
@@ -14820,8 +14795,8 @@
   },
   "7665279": {
     "first_seen": "2026-04-13T09:18:02.522658+00:00",
-    "updated_at": "2026-04-15T17:21:51-04:00",
-    "title": "Application Systems Engineering Manager",
+    "updated_at": "2026-04-15T19:43:38-04:00",
+    "title": "Systems Engineering Manager",
     "company": "gusto",
     "alerted": true
   },
@@ -15639,7 +15614,7 @@
   },
   "8458025002": {
     "first_seen": "2026-04-13T09:18:06.245103+00:00",
-    "updated_at": "2026-03-18T16:33:21-04:00",
+    "updated_at": "2026-04-15T19:11:59-04:00",
     "title": "Staff Software Engineer, AI   ",
     "company": "lattice",
     "alerted": true
@@ -19860,7 +19835,7 @@
   },
   "7657997": {
     "first_seen": "2026-04-14T14:13:31.601168+00:00",
-    "updated_at": "2026-04-15T10:17:19-04:00",
+    "updated_at": "2026-04-15T19:02:14-04:00",
     "title": "Engineering Manager, HADR",
     "company": "stripe",
     "alerted": true
@@ -20105,7 +20080,7 @@
   },
   "8506550002": {
     "first_seen": "2026-04-14T19:26:07.122276+00:00",
-    "updated_at": "2026-04-15T17:47:54-04:00",
+    "updated_at": "2026-04-15T19:02:32-04:00",
     "title": "Staff IT Security Engineer",
     "company": "amplitude",
     "alerted": true
@@ -21120,8 +21095,8 @@
   },
   "8508873002": {
     "first_seen": "2026-04-15T20:09:54.801084+00:00",
-    "updated_at": "2026-04-15T15:14:49-04:00",
-    "title": "Staff Technical Program Manager, M&A",
+    "updated_at": "2026-04-15T19:31:50-04:00",
+    "title": "Staff Technical Program Manager, Mergers & Acquisition",
     "company": "lyft",
     "alerted": true
   },
@@ -21284,6 +21259,27 @@
     "updated_at": "2026-04-15T18:45:46-04:00",
     "title": "Account Development Executive",
     "company": "justworks",
+    "alerted": true
+  },
+  "5874549004": {
+    "first_seen": "2026-04-15T23:58:36.448988+00:00",
+    "updated_at": "2026-04-08T19:12:41-04:00",
+    "title": "Senior Full Stack Engineer, Hazel AI",
+    "company": "altruist",
+    "alerted": true
+  },
+  "7747268": {
+    "first_seen": "2026-04-15T23:58:36.948906+00:00",
+    "updated_at": "2026-04-15T19:39:28-04:00",
+    "title": "Senior Salesforce Developer",
+    "company": "humaninterest",
+    "alerted": true
+  },
+  "7773503": {
+    "first_seen": "2026-04-15T23:58:43.388349+00:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
+    "title": "Senior Technical Program Manager, Privacy",
+    "company": "robinhood",
     "alerted": true
   }
 }
