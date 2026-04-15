@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 11:16 UTC
+
+### 🆕 Lead Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Australia, APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7699321003)
+🕐 Updated: `2026-04-15T06:53:42-04:00` &nbsp;|&nbsp; ID: `7699321003`
+
+---
+### 🔄 Research Engineer, AI Observability
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5125083008)
+🕐 Updated: `2026-04-15T06:40:26-04:00` &nbsp;|&nbsp; ID: `5125083008`
+
+---
+### 🔄 Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+**mongodb** · PTO Site Reliability Engineering
+📍 Boston; Miami; New York City; Pittsburgh; Raleigh; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+🕐 Updated: `2026-04-15T06:41:17-04:00` &nbsp;|&nbsp; ID: `7743366`
+
+---
+
 ## 📅 Run: 2026-04-15 10:12 UTC
 
 ### 🔄 Engineering Manager, Gitlab Delivery: Upgrades

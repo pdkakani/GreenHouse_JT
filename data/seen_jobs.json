@@ -266,8 +266,8 @@
   },
   "7743366": {
     "first_seen": "2026-04-08T21:07:45.535046+00:00",
-    "updated_at": "2026-04-14T15:48:55-04:00",
-    "title": "Senior Site Reliability Engineer, Storage Layer Services (SLS)",
+    "updated_at": "2026-04-15T06:41:17-04:00",
+    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
     "company": "mongodb",
     "alerted": false
   },
@@ -11068,7 +11068,7 @@
   },
   "5125083008": {
     "first_seen": "2026-04-13T09:17:49.245300+00:00",
-    "updated_at": "2026-04-08T09:53:40-04:00",
+    "updated_at": "2026-04-15T06:40:26-04:00",
     "title": "Research Engineer, AI Observability",
     "company": "anthropic",
     "alerted": true
@@ -20983,6 +20983,13 @@
     "updated_at": "2026-04-10T00:41:31-04:00",
     "title": "Engineering Manager - Platform (FinHub)",
     "company": "coinbase",
+    "alerted": true
+  },
+  "7699321003": {
+    "first_seen": "2026-04-15T11:16:41.759129+00:00",
+    "updated_at": "2026-04-15T06:53:42-04:00",
+    "title": "Lead Sales Engineer, Enterprise",
+    "company": "fivetran",
     "alerted": true
   }
 }
