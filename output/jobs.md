@@ -2,6 +2,135 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 22:04 UTC
+
+### 🆕 Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+**mongodb** · PTO Site Reliability Engineering
+📍 Boston; Miami; New York City; Pittsburgh; Raleigh; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+🕐 Updated: `2026-04-15T06:41:17-04:00` &nbsp;|&nbsp; ID: `7743366`
+
+---
+### 🆕 Staff Engineer, Code Generation
+**mongodb** · Product & Technology
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7210817)
+🕐 Updated: `2026-04-15T17:07:53-04:00` &nbsp;|&nbsp; ID: `7210817`
+
+---
+### 🆕 Staff Site Reliability Engineer, Fabric
+**mongodb** · PTO Site Reliability Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727920)
+🕐 Updated: `2026-04-14T15:48:55-04:00` &nbsp;|&nbsp; ID: `7727920`
+
+---
+### 🆕 Staff Backend Engineer, AST: Composition Analysis
+**gitlab** · Sec Engineering
+📍 Remote, Australia; Remote, Canada; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, New Zealand; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8478364002)
+🕐 Updated: `2026-04-15T11:53:18-04:00` &nbsp;|&nbsp; ID: `8478364002`
+
+---
+### 🆕 Commercial Lead - Financial Products
+**adyen** · Commercial Business Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7819584)
+🕐 Updated: `2026-04-15T17:26:42-04:00` &nbsp;|&nbsp; ID: `7819584`
+
+---
+### 🆕 Commercial Lead - Financial Products
+**adyen** · Commercial Business Development
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7673540)
+🕐 Updated: `2026-04-15T17:26:41-04:00` &nbsp;|&nbsp; ID: `7673540`
+
+---
+### 🆕 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499382002?gh_jid=8499382002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8499382002`
+
+---
+### 🆕 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499380002?gh_jid=8499380002)
+🕐 Updated: `2026-04-11T15:46:04-04:00` &nbsp;|&nbsp; ID: `8499380002`
+
+---
+### 🆕 Commercial SaaS Client Sales Executive
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8499378002?gh_jid=8499378002)
+🕐 Updated: `2026-04-11T15:46:05-04:00` &nbsp;|&nbsp; ID: `8499378002`
+
+---
+### 🆕 Engineering Manager, Treasury
+**lithic** · Engineering
+📍 Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5873099004)
+🕐 Updated: `2026-04-08T17:35:45-04:00` &nbsp;|&nbsp; ID: `5873099004`
+
+---
+### 🆕 Engineering Manager, Treasury
+**lithic** · Engineering
+📍 Ontario, Canada; Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5873528004)
+🕐 Updated: `2026-04-08T17:36:17-04:00` &nbsp;|&nbsp; ID: `5873528004`
+
+---
+### 🆕 Senior Software Engineer, Data Platform
+**lithic** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5833301004)
+🕐 Updated: `2026-04-15T17:24:42-04:00` &nbsp;|&nbsp; ID: `5833301004`
+
+---
+### 🆕 Product Manager, Data Platform
+**chime** · Growth Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8382253002?gh_jid=8382253002)
+🕐 Updated: `2026-04-15T16:07:31-04:00` &nbsp;|&nbsp; ID: `8382253002`
+
+---
+### 🆕 Product Manager, MyPay
+**chime** · Growth Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219791002?gh_jid=8219791002)
+🕐 Updated: `2026-04-15T16:07:31-04:00` &nbsp;|&nbsp; ID: `8219791002`
+
+---
+### 🆕 Senior Software Engineer, Cloud Networking
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7609564?gh_jid=7609564)
+🕐 Updated: `2026-04-15T17:55:30-04:00` &nbsp;|&nbsp; ID: `7609564`
+
+---
+### 🆕 Autonomous Vehicle Business Development Manager
+**lyft** · Workforce Programs
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508269002?gh_jid=8508269002)
+🕐 Updated: `2026-04-15T17:21:11-04:00` &nbsp;|&nbsp; ID: `8508269002`
+
+---
+### 🔄 Product Designer, Claude Code
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5104689008)
+🕐 Updated: `2026-04-15T17:37:45-04:00` &nbsp;|&nbsp; ID: `5104689008`
+
+---
+### 🔄 Staff IT Security Engineer
+**amplitude** · Engineering : Security
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8506550002)
+🕐 Updated: `2026-04-15T17:47:54-04:00` &nbsp;|&nbsp; ID: `8506550002`
+
+---
+### 🔄 Application Systems Engineering Manager
+**gusto** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7665279)
+🕐 Updated: `2026-04-15T17:21:51-04:00` &nbsp;|&nbsp; ID: `7665279`
+
+---
+### 🔄 Senior Machine Learning Platform Engineer (Platform)
+**coinbase** · Machine Learning
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203)
+🕐 Updated: `2026-04-15T17:28:49-04:00` &nbsp;|&nbsp; ID: `7604203`
+
+---
+### 🔄 Capital Markets Transactions Manager
+**sofi** · Capital Markets
+📍 NY- New York, SF- San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7702058003?gh_jid=7702058003)
+🕐 Updated: `2026-04-15T17:49:45-04:00` &nbsp;|&nbsp; ID: `7702058003`
+
+---
+
 ## 📅 Run: 2026-04-15 21:06 UTC
 
 ### 🆕 Industry Lead Solutions Architect - Financial Services

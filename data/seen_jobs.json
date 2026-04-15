@@ -1,72 +1,4 @@
 {
-  "7743366": {
-    "first_seen": "2026-04-08T21:07:45.535046+00:00",
-    "updated_at": "2026-04-15T06:41:17-04:00",
-    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
-    "company": "mongodb",
-    "alerted": false
-  },
-  "7727920": {
-    "first_seen": "2026-04-08T21:07:45.536557+00:00",
-    "updated_at": "2026-04-14T15:48:55-04:00",
-    "title": "Staff Site Reliability Engineer, Fabric",
-    "company": "mongodb",
-    "alerted": false
-  },
-  "8478364002": {
-    "first_seen": "2026-04-08T21:07:51.998910+00:00",
-    "updated_at": "2026-04-15T11:53:18-04:00",
-    "title": "Staff Backend Engineer, AST: Composition Analysis",
-    "company": "gitlab",
-    "alerted": false
-  },
-  "8382253002": {
-    "first_seen": "2026-04-08T21:08:12.582810+00:00",
-    "updated_at": "2026-04-15T16:07:31-04:00",
-    "title": "Product Manager, Data Platform",
-    "company": "chime",
-    "alerted": false
-  },
-  "8499380002": {
-    "first_seen": "2026-04-08T21:59:34.507116+00:00",
-    "updated_at": "2026-04-11T15:46:04-04:00",
-    "title": "Commercial SaaS Client Sales Executive",
-    "company": "brex",
-    "alerted": false
-  },
-  "8499378002": {
-    "first_seen": "2026-04-08T21:59:34.507160+00:00",
-    "updated_at": "2026-04-11T15:46:05-04:00",
-    "title": "Commercial SaaS Client Sales Executive",
-    "company": "brex",
-    "alerted": false
-  },
-  "8499382002": {
-    "first_seen": "2026-04-08T21:59:34.507185+00:00",
-    "updated_at": "2026-04-11T15:46:04-04:00",
-    "title": "Commercial SaaS Client Sales Executive",
-    "company": "brex",
-    "alerted": false
-  },
-  "5873528004": {
-    "first_seen": "2026-04-08T21:59:35.526488+00:00",
-    "updated_at": "2026-04-08T17:36:17-04:00",
-    "title": "Engineering Manager, Treasury",
-    "company": "lithic"
-  },
-  "5873099004": {
-    "first_seen": "2026-04-08T21:59:35.526510+00:00",
-    "updated_at": "2026-04-08T17:35:45-04:00",
-    "title": "Engineering Manager, Treasury",
-    "company": "lithic"
-  },
-  "8219791002": {
-    "first_seen": "2026-04-08T21:59:41.924524+00:00",
-    "updated_at": "2026-04-15T16:07:31-04:00",
-    "title": "Product Manager, MyPay",
-    "company": "chime",
-    "alerted": false
-  },
   "7579499": {
     "first_seen": "2026-04-08T22:48:03.955745+00:00",
     "updated_at": "2026-04-13T10:25:44-04:00",
@@ -9481,7 +9413,7 @@
   },
   "7604203": {
     "first_seen": "2026-04-13T07:25:04.758862+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-15T17:28:49-04:00",
     "title": "Senior Machine Learning Platform Engineer (Platform)",
     "company": "coinbase",
     "alerted": true
@@ -10755,7 +10687,7 @@
   },
   "5104689008": {
     "first_seen": "2026-04-13T09:17:49.244759+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-15T17:37:45-04:00",
     "title": "Product Designer, Claude Code",
     "company": "anthropic",
     "alerted": true
@@ -14913,7 +14845,7 @@
   },
   "7665279": {
     "first_seen": "2026-04-13T09:18:02.522658+00:00",
-    "updated_at": "2026-03-27T17:08:59-04:00",
+    "updated_at": "2026-04-15T17:21:51-04:00",
     "title": "Application Systems Engineering Manager",
     "company": "gusto",
     "alerted": true
@@ -20198,8 +20130,8 @@
   },
   "8506550002": {
     "first_seen": "2026-04-14T19:26:07.122276+00:00",
-    "updated_at": "2026-04-14T14:28:13-04:00",
-    "title": "Staff Security Engineer",
+    "updated_at": "2026-04-15T17:47:54-04:00",
+    "title": "Staff IT Security Engineer",
     "company": "amplitude",
     "alerted": true
   },
@@ -21122,7 +21054,7 @@
   },
   "7702058003": {
     "first_seen": "2026-04-15T19:07:03.665323+00:00",
-    "updated_at": "2026-04-15T15:00:27-04:00",
+    "updated_at": "2026-04-15T17:49:45-04:00",
     "title": "Capital Markets Transactions Manager",
     "company": "sofi",
     "alerted": true
@@ -21237,6 +21169,118 @@
     "updated_at": "2026-04-15T16:52:06-04:00",
     "title": "Senior Software Engineer, Upstart Bank",
     "company": "upstart",
+    "alerted": true
+  },
+  "7743366": {
+    "first_seen": "2026-04-15T22:04:00.280787+00:00",
+    "updated_at": "2026-04-15T06:41:17-04:00",
+    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7210817": {
+    "first_seen": "2026-04-15T22:04:00.281669+00:00",
+    "updated_at": "2026-04-15T17:07:53-04:00",
+    "title": "Staff Engineer, Code Generation",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7727920": {
+    "first_seen": "2026-04-15T22:04:00.281837+00:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
+    "title": "Staff Site Reliability Engineer, Fabric",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "8478364002": {
+    "first_seen": "2026-04-15T22:04:12.387719+00:00",
+    "updated_at": "2026-04-15T11:53:18-04:00",
+    "title": "Staff Backend Engineer, AST: Composition Analysis",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7819584": {
+    "first_seen": "2026-04-15T22:04:16.782780+00:00",
+    "updated_at": "2026-04-15T17:26:42-04:00",
+    "title": "Commercial Lead - Financial Products",
+    "company": "adyen",
+    "alerted": true
+  },
+  "7673540": {
+    "first_seen": "2026-04-15T22:04:16.782834+00:00",
+    "updated_at": "2026-04-15T17:26:41-04:00",
+    "title": "Commercial Lead - Financial Products",
+    "company": "adyen",
+    "alerted": true
+  },
+  "8499382002": {
+    "first_seen": "2026-04-15T22:04:26.459722+00:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
+    "title": "Commercial SaaS Client Sales Executive",
+    "company": "brex",
+    "alerted": true
+  },
+  "8499380002": {
+    "first_seen": "2026-04-15T22:04:26.459761+00:00",
+    "updated_at": "2026-04-11T15:46:04-04:00",
+    "title": "Commercial SaaS Client Sales Executive",
+    "company": "brex",
+    "alerted": true
+  },
+  "8499378002": {
+    "first_seen": "2026-04-15T22:04:26.459790+00:00",
+    "updated_at": "2026-04-11T15:46:05-04:00",
+    "title": "Commercial SaaS Client Sales Executive",
+    "company": "brex",
+    "alerted": true
+  },
+  "5873099004": {
+    "first_seen": "2026-04-15T22:04:27.810982+00:00",
+    "updated_at": "2026-04-08T17:35:45-04:00",
+    "title": "Engineering Manager, Treasury",
+    "company": "lithic",
+    "alerted": true
+  },
+  "5873528004": {
+    "first_seen": "2026-04-15T22:04:27.811024+00:00",
+    "updated_at": "2026-04-08T17:36:17-04:00",
+    "title": "Engineering Manager, Treasury",
+    "company": "lithic",
+    "alerted": true
+  },
+  "5833301004": {
+    "first_seen": "2026-04-15T22:04:27.811184+00:00",
+    "updated_at": "2026-04-15T17:24:42-04:00",
+    "title": "Senior Software Engineer, Data Platform",
+    "company": "lithic",
+    "alerted": true
+  },
+  "8382253002": {
+    "first_seen": "2026-04-15T22:04:39.482835+00:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
+    "title": "Product Manager, Data Platform",
+    "company": "chime",
+    "alerted": true
+  },
+  "8219791002": {
+    "first_seen": "2026-04-15T22:04:39.482865+00:00",
+    "updated_at": "2026-04-15T16:07:31-04:00",
+    "title": "Product Manager, MyPay",
+    "company": "chime",
+    "alerted": true
+  },
+  "7609564": {
+    "first_seen": "2026-04-15T22:04:41.176258+00:00",
+    "updated_at": "2026-04-15T17:55:30-04:00",
+    "title": "Senior Software Engineer, Cloud Networking",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "8508269002": {
+    "first_seen": "2026-04-15T22:04:41.357288+00:00",
+    "updated_at": "2026-04-15T17:21:11-04:00",
+    "title": "Autonomous Vehicle Business Development Manager",
+    "company": "lyft",
     "alerted": true
   }
 }
