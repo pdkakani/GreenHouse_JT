@@ -2,6 +2,111 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 21:06 UTC
+
+### 🆕 Industry Lead Solutions Architect - Financial Services
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002)
+🕐 Updated: `2026-04-15T16:27:29-04:00` &nbsp;|&nbsp; ID: `8480642002`
+
+---
+### 🆕 Enablement Business Partner, SDR (Sales Development Representatives)
+**twilio** · Sales
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7783164)
+🕐 Updated: `2026-04-15T10:26:51-04:00` &nbsp;|&nbsp; ID: `7783164`
+
+---
+### 🆕 Senior Software Engineer, Upstart Bank
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7819438)
+🕐 Updated: `2026-04-15T16:52:06-04:00` &nbsp;|&nbsp; ID: `7819438`
+
+---
+### 🔄 IBM Principal Specialist
+**mongodb** · Cloud OEM
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7818435)
+🕐 Updated: `2026-04-15T16:50:03-04:00` &nbsp;|&nbsp; ID: `7818435`
+
+---
+### 🔄 Staff AI Platform Engineer, Corporate AI Systems
+**cribl** · IT & Security
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5970177004)
+🕐 Updated: `2026-04-15T16:18:08-04:00` &nbsp;|&nbsp; ID: `5970177004`
+
+---
+### 🔄 Staff Software Engineer, C021 Security
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5818197004)
+🕐 Updated: `2026-04-15T16:51:20-04:00` &nbsp;|&nbsp; ID: `5818197004`
+
+---
+### 🔄 AI Product Engineer
+**abnormalsecurity** · R&D AI Transformation
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7659302003?gh_jid=7659302003)
+🕐 Updated: `2026-04-15T16:51:22-04:00` &nbsp;|&nbsp; ID: `7659302003`
+
+---
+### 🔄 Senior Backend Engineer, Analytics Instrumentation (Golang)
+**gitlab** · Data Engineering
+📍 Remote, Americas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8451512002)
+🕐 Updated: `2026-04-15T16:46:17-04:00` &nbsp;|&nbsp; ID: `8451512002`
+
+---
+### 🔄 Business Development Representative
+**contentful** · Sales
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7390097)
+🕐 Updated: `2026-04-15T17:00:37-04:00` &nbsp;|&nbsp; ID: `7390097`
+
+---
+### 🔄 Software Engineer, Borrower Experience 
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7779161)
+🕐 Updated: `2026-04-15T16:21:10-04:00` &nbsp;|&nbsp; ID: `7779161`
+
+---
+### 🔄 Sr. Software Engineer, Backend
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7220419&gh_jid=7220419)
+🕐 Updated: `2026-04-15T16:41:45-04:00` &nbsp;|&nbsp; ID: `7220419`
+
+---
+### 🔄 Product Manager, AI & App Experience
+**chime** · AI & App Experience Product
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8478204002?gh_jid=8478204002)
+🕐 Updated: `2026-04-15T16:25:50-04:00` &nbsp;|&nbsp; ID: `8478204002`
+
+---
+### 🔄 Senior Processor Implementation Manager
+**chime** · Platform Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8479805002?gh_jid=8479805002)
+🕐 Updated: `2026-04-15T16:44:06-04:00` &nbsp;|&nbsp; ID: `8479805002`
+
+---
+### 🔄 Senior Python Core Engineer
+**chime** · Engineering Services
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8414654002?gh_jid=8414654002)
+🕐 Updated: `2026-04-15T16:47:04-04:00` &nbsp;|&nbsp; ID: `8414654002`
+
+---
+### 🔄 Software Engineer, Financial Platform
+**chime** · Platform Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8183064002?gh_jid=8183064002)
+🕐 Updated: `2026-04-15T16:43:24-04:00` &nbsp;|&nbsp; ID: `8183064002`
+
+---
+### 🔄 Software Engineer, Loans Originations
+**sofi** · Engineering
+📍 WA - Seattle  &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7701303003?gh_jid=7701303003)
+🕐 Updated: `2026-04-15T16:40:24-04:00` &nbsp;|&nbsp; ID: `7701303003`
+
+---
+### 🔄 Senior Software Engineer, Reputation
+**airbnb** · Software Engineering
+📍 Remote-USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7775710?gh_jid=7775710)
+🕐 Updated: `2026-04-15T16:34:12-04:00` &nbsp;|&nbsp; ID: `7775710`
+
+---
+
 ## 📅 Run: 2026-04-15 20:09 UTC
 
 ### 🆕 Senior Software Engineer, Systems 

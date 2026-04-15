@@ -1,17 +1,4 @@
 {
-  "7783164": {
-    "first_seen": "2026-04-08T20:22:54.369158+00:00",
-    "updated_at": "2026-04-15T10:26:51-04:00",
-    "title": "Enablement Business Partner, SDR (Sales Development Representatives)",
-    "company": "twilio",
-    "alerted": false
-  },
-  "7783179": {
-    "first_seen": "2026-04-08T20:23:25.578580+00:00",
-    "updated_at": "2026-04-08T15:58:50-04:00",
-    "title": "Market Manager",
-    "company": "airbnb"
-  },
   "7743366": {
     "first_seen": "2026-04-08T21:07:45.535046+00:00",
     "updated_at": "2026-04-15T06:41:17-04:00",
@@ -912,7 +899,7 @@
   },
   "8414654002": {
     "first_seen": "2026-04-10T18:01:20.968611+00:00",
-    "updated_at": "2026-04-15T16:07:31-04:00",
+    "updated_at": "2026-04-15T16:47:04-04:00",
     "title": "Senior Python Core Engineer",
     "company": "chime",
     "alerted": true
@@ -1115,7 +1102,7 @@
   },
   "7775710": {
     "first_seen": "2026-04-12T20:29:01.724067+00:00",
-    "updated_at": "2026-04-12T16:00:02-04:00",
+    "updated_at": "2026-04-15T16:34:12-04:00",
     "title": "Senior Software Engineer, Reputation",
     "company": "airbnb",
     "alerted": true
@@ -7121,7 +7108,7 @@
   },
   "8451512002": {
     "first_seen": "2026-04-13T07:24:57.165256+00:00",
-    "updated_at": "2026-03-12T12:04:49-04:00",
+    "updated_at": "2026-04-15T16:46:17-04:00",
     "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
     "company": "gitlab",
     "alerted": true
@@ -10292,7 +10279,7 @@
   },
   "8479805002": {
     "first_seen": "2026-04-13T07:25:06.006835+00:00",
-    "updated_at": "2026-04-15T16:07:31-04:00",
+    "updated_at": "2026-04-15T16:44:06-04:00",
     "title": "Senior Processor Implementation Manager",
     "company": "chime",
     "alerted": true
@@ -10327,7 +10314,7 @@
   },
   "8183064002": {
     "first_seen": "2026-04-13T07:25:06.006982+00:00",
-    "updated_at": "2026-04-15T16:07:31-04:00",
+    "updated_at": "2026-04-15T16:43:24-04:00",
     "title": "Software Engineer, Financial Platform",
     "company": "chime",
     "alerted": true
@@ -13092,7 +13079,7 @@
   },
   "5818197004": {
     "first_seen": "2026-04-13T09:17:52.873007+00:00",
-    "updated_at": "2026-04-03T12:57:10-04:00",
+    "updated_at": "2026-04-15T16:51:20-04:00",
     "title": "Staff Software Engineer, C021 Security",
     "company": "cribl",
     "alerted": true
@@ -13197,7 +13184,7 @@
   },
   "7659302003": {
     "first_seen": "2026-04-13T09:17:54.485988+00:00",
-    "updated_at": "2026-04-14T22:37:05-04:00",
+    "updated_at": "2026-04-15T16:51:22-04:00",
     "title": "AI Product Engineer",
     "company": "abnormalsecurity",
     "alerted": true
@@ -13673,8 +13660,8 @@
   },
   "7390097": {
     "first_seen": "2026-04-13T09:17:59.075391+00:00",
-    "updated_at": "2026-04-08T17:59:33-04:00",
-    "title": "Enterprise Business Development Representative",
+    "updated_at": "2026-04-15T17:00:37-04:00",
+    "title": "Business Development Representative",
     "company": "contentful",
     "alerted": true
   },
@@ -16039,7 +16026,7 @@
   },
   "7220419": {
     "first_seen": "2026-04-13T09:18:07.875077+00:00",
-    "updated_at": "2026-02-11T16:09:19-05:00",
+    "updated_at": "2026-04-15T16:41:45-04:00",
     "title": "Sr. Software Engineer, Backend",
     "company": "betterment",
     "alerted": true
@@ -19217,7 +19204,7 @@
   },
   "7779161": {
     "first_seen": "2026-04-13T15:44:18.650642+00:00",
-    "updated_at": "2026-04-13T10:55:23-04:00",
+    "updated_at": "2026-04-15T16:21:10-04:00",
     "title": "Software Engineer, Borrower Experience ",
     "company": "upstart",
     "alerted": true
@@ -20582,7 +20569,7 @@
   },
   "7701303003": {
     "first_seen": "2026-04-14T23:58:29.036684+00:00",
-    "updated_at": "2026-04-14T19:53:22-04:00",
+    "updated_at": "2026-04-15T16:40:24-04:00",
     "title": "Software Engineer, Loans Originations",
     "company": "sofi",
     "alerted": true
@@ -20862,7 +20849,7 @@
   },
   "5970177004": {
     "first_seen": "2026-04-15T16:35:26.671251+00:00",
-    "updated_at": "2026-04-15T12:11:30-04:00",
+    "updated_at": "2026-04-15T16:18:08-04:00",
     "title": "Staff AI Platform Engineer, Corporate AI Systems",
     "company": "cribl",
     "alerted": true
@@ -20960,7 +20947,7 @@
   },
   "7818435": {
     "first_seen": "2026-04-15T17:46:38.451060+00:00",
-    "updated_at": "2026-04-15T13:34:55-04:00",
+    "updated_at": "2026-04-15T16:50:03-04:00",
     "title": "IBM Principal Specialist",
     "company": "mongodb",
     "alerted": true
@@ -21212,7 +21199,7 @@
   },
   "8478204002": {
     "first_seen": "2026-04-15T20:09:52.939130+00:00",
-    "updated_at": "2026-04-15T16:07:35-04:00",
+    "updated_at": "2026-04-15T16:25:50-04:00",
     "title": "Product Manager, AI & App Experience",
     "company": "chime",
     "alerted": true
@@ -21229,6 +21216,27 @@
     "updated_at": "2026-04-15T15:14:49-04:00",
     "title": "Staff Technical Program Manager, M&A",
     "company": "lyft",
+    "alerted": true
+  },
+  "8480642002": {
+    "first_seen": "2026-04-15T21:05:40.545375+00:00",
+    "updated_at": "2026-04-15T16:27:29-04:00",
+    "title": "Industry Lead Solutions Architect - Financial Services",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7783164": {
+    "first_seen": "2026-04-15T21:05:41.695851+00:00",
+    "updated_at": "2026-04-15T10:26:51-04:00",
+    "title": "Enablement Business Partner, SDR (Sales Development Representatives)",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7819438": {
+    "first_seen": "2026-04-15T21:05:58.921708+00:00",
+    "updated_at": "2026-04-15T16:52:06-04:00",
+    "title": "Senior Software Engineer, Upstart Bank",
+    "company": "upstart",
     "alerted": true
   }
 }
