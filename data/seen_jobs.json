@@ -1,49 +1,4 @@
 {
-  "7781652": {
-    "first_seen": "2026-04-08T16:55:12.406740+00:00",
-    "updated_at": "2026-04-09T10:27:27-04:00",
-    "title": "Applications Engineer 2",
-    "company": "twilio"
-  },
-  "4656120006": {
-    "first_seen": "2026-04-08T16:55:16.996438+00:00",
-    "updated_at": "2026-04-08T12:05:53-04:00",
-    "title": "Platform Software Engineer (Control Plane)",
-    "company": "yugabyte"
-  },
-  "7762570": {
-    "first_seen": "2026-04-08T16:55:31.792172+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
-    "title": "Engineering Manager, Core Events",
-    "company": "stripe",
-    "alerted": false
-  },
-  "7697499": {
-    "first_seen": "2026-04-08T16:55:47.840349+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Senior Software Engineer (Platform - AI Acceleration) ",
-    "company": "coinbase",
-    "alerted": false
-  },
-  "7580153003": {
-    "first_seen": "2026-04-08T16:55:51.019247+00:00",
-    "updated_at": "2026-04-10T11:23:16-04:00",
-    "title": "Principal Product Manager, Ads & Measurement",
-    "company": "sofi",
-    "alerted": false
-  },
-  "7792785": {
-    "first_seen": "2026-04-08T16:55:54.465319+00:00",
-    "updated_at": "2026-04-08T12:02:15-04:00",
-    "title": "RD Technical Lead \u2013 3D Printers",
-    "company": "formlabs"
-  },
-  "7792775": {
-    "first_seen": "2026-04-08T16:55:54.465355+00:00",
-    "updated_at": "2026-04-08T12:01:36-04:00",
-    "title": "RD Technical Lead \u2013 3D Printers",
-    "company": "formlabs"
-  },
   "4673416008": {
     "first_seen": "2026-04-08T18:03:03.596160+00:00",
     "updated_at": "2026-04-08T13:05:31-04:00",
@@ -58,7 +13,7 @@
   },
   "4683059005": {
     "first_seen": "2026-04-08T18:03:04.545863+00:00",
-    "updated_at": "2026-04-13T13:58:28-04:00",
+    "updated_at": "2026-04-15T13:20:19-04:00",
     "title": "Technical Enablement Manager",
     "company": "gleanwork",
     "alerted": false
@@ -257,7 +212,7 @@
   },
   "7773503": {
     "first_seen": "2026-04-08T23:33:10.238019+00:00",
-    "updated_at": "2026-04-13T23:24:08-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Technical Program Manager, Privacy",
     "company": "robinhood",
     "alerted": false
@@ -1037,7 +992,7 @@
   },
   "7805145": {
     "first_seen": "2026-04-10T18:01:19.745871+00:00",
-    "updated_at": "2026-04-13T23:24:21-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Software Engineer, Streaming Platform",
     "company": "robinhood",
     "alerted": true
@@ -1107,7 +1062,7 @@
   },
   "7782697": {
     "first_seen": "2026-04-10T19:11:29.546917+00:00",
-    "updated_at": "2026-04-13T23:24:13-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Software Engineer, AI Infrastructure",
     "company": "robinhood",
     "alerted": true
@@ -1730,7 +1685,7 @@
   },
   "7778849": {
     "first_seen": "2026-04-12T21:49:54.480740+00:00",
-    "updated_at": "2026-04-10T09:41:47-04:00",
+    "updated_at": "2026-04-15T12:41:19-04:00",
     "title": "Forward Deployed Engineer",
     "company": "cloudflare",
     "alerted": true
@@ -9374,7 +9329,7 @@
   },
   "5832762004": {
     "first_seen": "2026-04-13T07:25:00.571758+00:00",
-    "updated_at": "2026-04-09T18:37:42-04:00",
+    "updated_at": "2026-04-15T12:40:42-04:00",
     "title": "Senior Product Manager - Ledger",
     "company": "mercury",
     "alerted": true
@@ -10018,7 +9973,7 @@
   },
   "7776330": {
     "first_seen": "2026-04-13T07:25:05.491743+00:00",
-    "updated_at": "2026-04-06T15:59:01-04:00",
+    "updated_at": "2026-04-15T13:29:25-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "alerted": true
@@ -10032,42 +9987,42 @@
   },
   "7350823": {
     "first_seen": "2026-04-13T07:25:05.491794+00:00",
-    "updated_at": "2026-03-10T17:26:57-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "alerted": true
   },
   "7490049": {
     "first_seen": "2026-04-13T07:25:05.491833+00:00",
-    "updated_at": "2026-04-14T15:03:09-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Android Full Stack Engineer, Credit Cards & Banking",
     "company": "robinhood",
     "alerted": true
   },
   "7022496": {
     "first_seen": "2026-04-13T07:25:05.492622+00:00",
-    "updated_at": "2026-04-07T20:15:18-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Director of Engineering, Trading Products",
     "company": "robinhood",
     "alerted": true
   },
   "7603848": {
     "first_seen": "2026-04-13T07:25:05.492655+00:00",
-    "updated_at": "2026-04-13T23:22:56-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Engineering Manager, Capacity and Efficiency",
     "company": "robinhood",
     "alerted": true
   },
   "7512231": {
     "first_seen": "2026-04-13T07:25:05.492702+00:00",
-    "updated_at": "2026-04-13T23:22:41-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Engineering Manager, Financial Crimes ",
     "company": "robinhood",
     "alerted": true
   },
   "7489328": {
     "first_seen": "2026-04-13T07:25:05.492726+00:00",
-    "updated_at": "2026-04-12T03:05:41-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Engineering Manager, Legend",
     "company": "robinhood",
     "alerted": true
@@ -10123,49 +10078,49 @@
   },
   "7697725": {
     "first_seen": "2026-04-13T07:25:05.493715+00:00",
-    "updated_at": "2026-04-13T23:23:18-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "alerted": true
   },
   "7346630": {
     "first_seen": "2026-04-13T07:25:05.493762+00:00",
-    "updated_at": "2026-03-18T15:03:13-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Analytics Engineer, Corporate Strategy",
     "company": "robinhood",
     "alerted": true
   },
   "7412393": {
     "first_seen": "2026-04-13T07:25:05.493791+00:00",
-    "updated_at": "2026-04-07T20:15:17-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Android Engineer",
     "company": "robinhood",
     "alerted": true
   },
   "7178427": {
     "first_seen": "2026-04-13T07:25:05.493813+00:00",
-    "updated_at": "2026-04-13T23:21:15-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Cloud Security Engineer",
     "company": "robinhood",
     "alerted": true
   },
   "7473367": {
     "first_seen": "2026-04-13T07:25:05.494007+00:00",
-    "updated_at": "2026-04-13T23:21:33-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Engineering Manager, Application and Product Security",
     "company": "robinhood",
     "alerted": true
   },
   "6675127": {
     "first_seen": "2026-04-13T07:25:05.494094+00:00",
-    "updated_at": "2026-04-01T17:18:34-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior iOS Engineer",
     "company": "robinhood",
     "alerted": true
   },
   "7121213": {
     "first_seen": "2026-04-13T07:25:05.494130+00:00",
-    "updated_at": "2026-04-13T23:21:05-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Machine Learning Engineer, Agentic",
     "company": "robinhood",
     "alerted": true
@@ -10186,28 +10141,28 @@
   },
   "7728174": {
     "first_seen": "2026-04-13T07:25:05.494649+00:00",
-    "updated_at": "2026-04-13T23:23:28-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "alerted": true
   },
   "7489731": {
     "first_seen": "2026-04-13T07:25:05.494794+00:00",
-    "updated_at": "2026-04-13T23:22:18-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Software Engineer, Agentic",
     "company": "robinhood",
     "alerted": true
   },
   "7489675": {
     "first_seen": "2026-04-13T07:25:05.494816+00:00",
-    "updated_at": "2026-04-13T23:22:03-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Software Engineer, Capacity & Efficiency ",
     "company": "robinhood",
     "alerted": true
   },
   "4738660": {
     "first_seen": "2026-04-13T07:25:05.494890+00:00",
-    "updated_at": "2026-03-18T15:03:13-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Software Engineer, Data Engineering",
     "company": "robinhood",
     "alerted": true
@@ -10221,42 +10176,42 @@
   },
   "7729014": {
     "first_seen": "2026-04-13T07:25:05.494962+00:00",
-    "updated_at": "2026-04-13T23:23:30-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Staff Software Engineer, Data Platform",
     "company": "robinhood",
     "alerted": true
   },
   "7542970": {
     "first_seen": "2026-04-13T07:25:05.495019+00:00",
-    "updated_at": "2026-04-13T23:22:48-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Web Infrastructure Developer ",
     "company": "robinhood",
     "alerted": true
   },
   "7263592": {
     "first_seen": "2026-04-13T07:25:05.495181+00:00",
-    "updated_at": "2026-04-08T18:25:58-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Software Engineer, Backend",
     "company": "robinhood",
     "alerted": true
   },
   "7489695": {
     "first_seen": "2026-04-13T07:25:05.495228+00:00",
-    "updated_at": "2026-04-13T23:22:07-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Software Engineering Manager, Growth",
     "company": "robinhood",
     "alerted": true
   },
   "7676714": {
     "first_seen": "2026-04-13T07:25:05.495318+00:00",
-    "updated_at": "2026-04-13T23:23:10-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Machine Learning Engineer, Agentic",
     "company": "robinhood",
     "alerted": true
   },
   "7460167": {
     "first_seen": "2026-04-13T07:25:05.495368+00:00",
-    "updated_at": "2026-04-13T23:21:29-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Offensive Security Engineer",
     "company": "robinhood",
     "alerted": true
@@ -10270,56 +10225,56 @@
   },
   "7754299": {
     "first_seen": "2026-04-13T07:25:05.495573+00:00",
-    "updated_at": "2026-04-13T23:23:58-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Security Engineer, Application Security",
     "company": "robinhood",
     "alerted": true
   },
   "7470947": {
     "first_seen": "2026-04-13T07:25:05.495681+00:00",
-    "updated_at": "2026-04-13T23:30:04-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Software Engineer, Crypto Custody",
     "company": "robinhood",
     "alerted": true
   },
   "7489755": {
     "first_seen": "2026-04-13T07:25:05.495704+00:00",
-    "updated_at": "2026-04-13T23:22:31-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Software Engineer, Streaming Infrastructure",
     "company": "robinhood",
     "alerted": true
   },
   "7489950": {
     "first_seen": "2026-04-13T07:25:05.495735+00:00",
-    "updated_at": "2026-04-13T23:22:37-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Software Engineer, Web3",
     "company": "robinhood",
     "alerted": true
   },
   "7489212": {
     "first_seen": "2026-04-13T07:25:05.495801+00:00",
-    "updated_at": "2026-04-12T03:05:22-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Technical Program Manager",
     "company": "robinhood",
     "alerted": true
   },
   "7739577": {
     "first_seen": "2026-04-13T07:25:05.495827+00:00",
-    "updated_at": "2026-04-13T23:23:55-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Technical Program Manager - Reliability Engineering",
     "company": "robinhood",
     "alerted": true
   },
   "7729682": {
     "first_seen": "2026-04-13T07:25:05.495874+00:00",
-    "updated_at": "2026-04-13T23:23:50-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Staff Workday Engineer",
     "company": "robinhood",
     "alerted": true
   },
   "7543003": {
     "first_seen": "2026-04-13T07:25:05.496035+00:00",
-    "updated_at": "2026-03-18T15:02:49-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Web Engineer",
     "company": "robinhood",
     "alerted": true
@@ -10333,7 +10288,7 @@
   },
   "8477424002": {
     "first_seen": "2026-04-13T07:25:06.005790+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T12:54:35-04:00",
     "title": "Engineering Manager, Data Platform",
     "company": "chime",
     "alerted": true
@@ -10354,7 +10309,7 @@
   },
   "8457578002": {
     "first_seen": "2026-04-13T07:25:06.006008+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T12:57:09-04:00",
     "title": "Mobile Full-Stack Engineer, Multiplayer",
     "company": "chime",
     "alerted": true
@@ -10424,7 +10379,7 @@
   },
   "8479805002": {
     "first_seen": "2026-04-13T07:25:06.006835+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T13:01:24-04:00",
     "title": "Senior Processor Implementation Manager",
     "company": "chime",
     "alerted": true
@@ -10466,7 +10421,7 @@
   },
   "8466472002": {
     "first_seen": "2026-04-13T07:25:06.006997+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T12:59:55-04:00",
     "title": "Software Engineer, Growth - Paid Ads & Acquisition",
     "company": "chime",
     "alerted": true
@@ -11901,7 +11856,7 @@
   },
   "4620264005": {
     "first_seen": "2026-04-13T09:17:49.775902+00:00",
-    "updated_at": "2026-04-08T17:21:40-04:00",
+    "updated_at": "2026-04-15T13:25:10-04:00",
     "title": "Strategic Solutions Engineer, East",
     "company": "gleanwork",
     "alerted": true
@@ -14393,14 +14348,14 @@
   },
   "8483526002": {
     "first_seen": "2026-04-13T09:18:00.297587+00:00",
-    "updated_at": "2026-04-10T12:14:33-04:00",
+    "updated_at": "2026-04-15T13:28:21-04:00",
     "title": "Business Development and Partnerships Lead, LATAM",
     "company": "duolingo",
     "alerted": true
   },
   "8369239002": {
     "first_seen": "2026-04-13T09:18:00.297602+00:00",
-    "updated_at": "2026-04-01T10:40:16-04:00",
+    "updated_at": "2026-04-15T13:28:10-04:00",
     "title": "Business Development and Partnerships Lead, LATAM",
     "company": "duolingo",
     "alerted": true
@@ -15107,7 +15062,7 @@
   },
   "7354943": {
     "first_seen": "2026-04-13T09:18:02.524003+00:00",
-    "updated_at": "2026-04-15T12:26:57-04:00",
+    "updated_at": "2026-04-15T12:37:00-04:00",
     "title": "Principal Product Manager, Gusto Pro",
     "company": "gusto",
     "alerted": true
@@ -18481,7 +18436,7 @@
   },
   "4660016006": {
     "first_seen": "2026-04-13T09:18:10.692818+00:00",
-    "updated_at": "2026-04-15T12:23:10-04:00",
+    "updated_at": "2026-04-15T13:43:11-04:00",
     "title": "Senior Software Engineer, Test",
     "company": "everlaw",
     "alerted": true
@@ -19580,7 +19535,7 @@
   },
   "7729019": {
     "first_seen": "2026-04-13T19:07:40.000561+00:00",
-    "updated_at": "2026-04-13T23:23:32-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Senior Software Engineer, Storage Platform",
     "company": "robinhood",
     "alerted": true
@@ -19818,7 +19773,7 @@
   },
   "7539771": {
     "first_seen": "2026-04-13T21:08:58.002215+00:00",
-    "updated_at": "2026-04-10T14:07:30-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Engineering Manager, International",
     "company": "robinhood",
     "alerted": true
@@ -20014,7 +19969,7 @@
   },
   "7489246": {
     "first_seen": "2026-04-14T07:06:28.447203+00:00",
-    "updated_at": "2026-04-13T23:21:39-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Engineering Manager, Strategies & Cortex",
     "company": "robinhood",
     "alerted": true
@@ -20399,14 +20354,14 @@
   },
   "7542965": {
     "first_seen": "2026-04-14T19:26:34.694451+00:00",
-    "updated_at": "2026-04-14T17:32:31-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Engineering Manager, Agent Experience",
     "company": "robinhood",
     "alerted": true
   },
   "7022255": {
     "first_seen": "2026-04-14T19:26:34.695808+00:00",
-    "updated_at": "2026-04-14T14:01:43-04:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
     "title": "Software Backend Engineer, Credit Cards & Banking Platform",
     "company": "robinhood",
     "alerted": true
@@ -20742,15 +20697,15 @@
   },
   "7695864003": {
     "first_seen": "2026-04-15T02:43:15.984243+00:00",
-    "updated_at": "2026-04-14T20:51:41-04:00",
-    "title": "Senior Solution Architect, Enterprise",
+    "updated_at": "2026-04-15T12:46:48-04:00",
+    "title": "Senior Solution Architect, Enterprise - Eastern Time Zone",
     "company": "fivetran",
     "alerted": true
   },
   "7701407003": {
     "first_seen": "2026-04-15T02:43:15.984289+00:00",
-    "updated_at": "2026-04-14T21:20:16-04:00",
-    "title": "Senior Solution Architect, Enterprise",
+    "updated_at": "2026-04-15T12:47:26-04:00",
+    "title": "Senior Solution Architect, Enterprise - Eastern Time Zone",
     "company": "fivetran",
     "alerted": true
   },
@@ -20777,14 +20732,14 @@
   },
   "8485955002": {
     "first_seen": "2026-04-15T02:43:24.093506+00:00",
-    "updated_at": "2026-04-14T18:41:13-04:00",
+    "updated_at": "2026-04-15T13:02:08-04:00",
     "title": "Senior Full-Stack Engineer, App Journey",
     "company": "chime",
     "alerted": true
   },
   "8499450002": {
     "first_seen": "2026-04-15T02:43:24.093751+00:00",
-    "updated_at": "2026-04-14T21:28:31-04:00",
+    "updated_at": "2026-04-15T13:01:20-04:00",
     "title": "Software Engineer, MyPay",
     "company": "chime",
     "alerted": true
@@ -21029,7 +20984,7 @@
   },
   "5867562004": {
     "first_seen": "2026-04-15T16:35:34.869701+00:00",
-    "updated_at": "2026-04-09T18:37:42-04:00",
+    "updated_at": "2026-04-15T12:42:21-04:00",
     "title": "Senior Product Manager - API & Agentic Banking",
     "company": "mercury",
     "alerted": true
@@ -21071,7 +21026,7 @@
   },
   "4222028009": {
     "first_seen": "2026-04-15T16:35:53.287496+00:00",
-    "updated_at": "2026-04-15T11:43:53-04:00",
+    "updated_at": "2026-04-15T13:10:58-04:00",
     "title": "Business Development Associate",
     "company": "fetch",
     "alerted": true
@@ -21087,6 +21042,97 @@
     "first_seen": "2026-04-15T16:35:54.416415+00:00",
     "updated_at": "2026-04-15T12:19:11-04:00",
     "title": "Engineering Technician",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7818435": {
+    "first_seen": "2026-04-15T17:46:38.451060+00:00",
+    "updated_at": "2026-04-15T13:34:55-04:00",
+    "title": "IBM Principal Specialist",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7792868": {
+    "first_seen": "2026-04-15T17:46:39.879628+00:00",
+    "updated_at": "2026-04-15T13:20:00-04:00",
+    "title": "Senior Software Engineer",
+    "company": "iterable",
+    "alerted": true
+  },
+  "4656120006": {
+    "first_seen": "2026-04-15T17:46:40.411053+00:00",
+    "updated_at": "2026-04-08T12:05:53-04:00",
+    "title": "Platform Software Engineer (Control Plane)",
+    "company": "yugabyte",
+    "alerted": true
+  },
+  "7701410003": {
+    "first_seen": "2026-04-15T17:46:42.303354+00:00",
+    "updated_at": "2026-04-15T12:48:07-04:00",
+    "title": "Senior Solution Architect, Enterprise - Eastern Time Zone",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7762570": {
+    "first_seen": "2026-04-15T17:46:44.682473+00:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
+    "title": "Engineering Manager, Core Events",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7662763": {
+    "first_seen": "2026-04-15T17:46:44.906434+00:00",
+    "updated_at": "2026-04-15T12:38:47-04:00",
+    "title": "Director, Software Engineering - Credit",
+    "company": "marqeta",
+    "alerted": true
+  },
+  "7027020": {
+    "first_seen": "2026-04-15T17:46:46.139717+00:00",
+    "updated_at": "2026-04-15T12:54:59-04:00",
+    "title": "Principal Software Engineer - Pay Group Engineering",
+    "company": "gusto",
+    "alerted": true
+  },
+  "5817294004": {
+    "first_seen": "2026-04-15T17:46:46.474324+00:00",
+    "updated_at": "2026-04-15T12:47:40-04:00",
+    "title": "Senior Product Manager - Mission Control",
+    "company": "mercury",
+    "alerted": true
+  },
+  "7697499": {
+    "first_seen": "2026-04-15T17:46:51.496737+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Senior Software Engineer (Platform - AI Acceleration) ",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7813069": {
+    "first_seen": "2026-04-15T17:46:57.263016+00:00",
+    "updated_at": "2026-04-15T13:08:39-04:00",
+    "title": "Engineering Manager",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "7580153003": {
+    "first_seen": "2026-04-15T17:46:57.948634+00:00",
+    "updated_at": "2026-04-10T11:23:16-04:00",
+    "title": "Principal Product Manager, Ads & Measurement",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7792775": {
+    "first_seen": "2026-04-15T17:46:59.530288+00:00",
+    "updated_at": "2026-04-08T12:01:36-04:00",
+    "title": "RD Technical Lead \u2013 3D Printers",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7792785": {
+    "first_seen": "2026-04-15T17:46:59.530318+00:00",
+    "updated_at": "2026-04-08T12:02:15-04:00",
+    "title": "RD Technical Lead \u2013 3D Printers",
     "company": "formlabs",
     "alerted": true
   }

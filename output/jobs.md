@@ -2,6 +2,435 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 17:47 UTC
+
+### 🆕 IBM Principal Specialist
+**mongodb** · Cloud OEM
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7818435)
+🕐 Updated: `2026-04-15T13:34:55-04:00` &nbsp;|&nbsp; ID: `7818435`
+
+---
+### 🆕 Senior Software Engineer
+**iterable** · Engineering
+📍 Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7792868)
+🕐 Updated: `2026-04-15T13:20:00-04:00` &nbsp;|&nbsp; ID: `7792868`
+
+---
+### 🆕 Platform Software Engineer (Control Plane)
+**yugabyte** · Technology
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/yugabyte/jobs/4656120006)
+🕐 Updated: `2026-04-08T12:05:53-04:00` &nbsp;|&nbsp; ID: `4656120006`
+
+---
+### 🆕 Senior Solution Architect, Enterprise - Eastern Time Zone
+**fivetran** · Customer Solutions Group Department
+📍 Remote, New Jersey, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7701410003)
+🕐 Updated: `2026-04-15T12:48:07-04:00` &nbsp;|&nbsp; ID: `7701410003`
+
+---
+### 🆕 Engineering Manager, Core Events
+**stripe** · 8126 Developer Infrastructure
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7762570)
+🕐 Updated: `2026-04-13T11:24:15-04:00` &nbsp;|&nbsp; ID: `7762570`
+
+---
+### 🆕 Director, Software Engineering - Credit
+**marqeta** · Credit Engineering
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7662763)
+🕐 Updated: `2026-04-15T12:38:47-04:00` &nbsp;|&nbsp; ID: `7662763`
+
+---
+### 🆕 Principal Software Engineer - Pay Group Engineering
+**gusto** · Engineering
+📍 Denver, CO;San Francisco, CA;New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7027020)
+🕐 Updated: `2026-04-15T12:54:59-04:00` &nbsp;|&nbsp; ID: `7027020`
+
+---
+### 🆕 Senior Product Manager - Mission Control
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5817294004)
+🕐 Updated: `2026-04-15T12:47:40-04:00` &nbsp;|&nbsp; ID: `5817294004`
+
+---
+### 🆕 Senior Software Engineer (Platform - AI Acceleration) 
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7697499?gh_jid=7697499)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7697499`
+
+---
+### 🆕 Engineering Manager
+**robinhood** · Brokerage Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7813069?t=gh_src=&gh_jid=7813069)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7813069`
+
+---
+### 🆕 Principal Product Manager, Ads & Measurement
+**sofi** · Product
+📍 CA - San Francisco, WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7580153003?gh_jid=7580153003)
+🕐 Updated: `2026-04-10T11:23:16-04:00` &nbsp;|&nbsp; ID: `7580153003`
+
+---
+### 🆕 RD Technical Lead – 3D Printers
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7792775/apply/?gh_jid=7792775)
+🕐 Updated: `2026-04-08T12:01:36-04:00` &nbsp;|&nbsp; ID: `7792775`
+
+---
+### 🆕 RD Technical Lead – 3D Printers
+**formlabs** · Hardware Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7792785/apply/?gh_jid=7792785)
+🕐 Updated: `2026-04-08T12:02:15-04:00` &nbsp;|&nbsp; ID: `7792785`
+
+---
+### 🔄 Strategic Solutions Engineer, East
+**gleanwork** · Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4620264005)
+🕐 Updated: `2026-04-15T13:25:10-04:00` &nbsp;|&nbsp; ID: `4620264005`
+
+---
+### 🔄 Technical Enablement Manager
+**gleanwork** · Sales
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4683059005)
+🕐 Updated: `2026-04-15T13:20:19-04:00` &nbsp;|&nbsp; ID: `4683059005`
+
+---
+### 🔄 Forward Deployed Engineer
+**cloudflare** · Developer Relations
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7778849?gh_jid=7778849)
+🕐 Updated: `2026-04-15T12:41:19-04:00` &nbsp;|&nbsp; ID: `7778849`
+
+---
+### 🔄 Senior Solution Architect, Enterprise - Eastern Time Zone
+**fivetran** · Customer Solutions Group Department
+📍 Remote, Any, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7695864003)
+🕐 Updated: `2026-04-15T12:46:48-04:00` &nbsp;|&nbsp; ID: `7695864003`
+
+---
+### 🔄 Senior Solution Architect, Enterprise - Eastern Time Zone
+**fivetran** · Customer Solutions Group Department
+📍 Remote, New York, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7701407003)
+🕐 Updated: `2026-04-15T12:47:26-04:00` &nbsp;|&nbsp; ID: `7701407003`
+
+---
+### 🔄 Business Development and Partnerships Lead, LATAM
+**duolingo** · Business
+📍 Remote - Mexico City &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8369239002?gh_jid=8369239002)
+🕐 Updated: `2026-04-15T13:28:10-04:00` &nbsp;|&nbsp; ID: `8369239002`
+
+---
+### 🔄 Business Development and Partnerships Lead, LATAM
+**duolingo** · Business
+📍 Remote - Sao Paulo &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8483526002?gh_jid=8483526002)
+🕐 Updated: `2026-04-15T13:28:21-04:00` &nbsp;|&nbsp; ID: `8483526002`
+
+---
+### 🔄 Principal Product Manager, Gusto Pro
+**gusto** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7354943)
+🕐 Updated: `2026-04-15T12:37:00-04:00` &nbsp;|&nbsp; ID: `7354943`
+
+---
+### 🔄 Senior Product Manager - API & Agentic Banking
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5867562004)
+🕐 Updated: `2026-04-15T12:42:21-04:00` &nbsp;|&nbsp; ID: `5867562004`
+
+---
+### 🔄 Senior Product Manager - Ledger
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5832762004)
+🕐 Updated: `2026-04-15T12:40:42-04:00` &nbsp;|&nbsp; ID: `5832762004`
+
+---
+### 🔄 Android Engineer
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7776330?t=gh_src=&gh_jid=7776330)
+🕐 Updated: `2026-04-15T13:29:25-04:00` &nbsp;|&nbsp; ID: `7776330`
+
+---
+### 🔄 Android Engineer
+**robinhood** · ENG Infrastructure
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7350823`
+
+---
+### 🔄 Android Full Stack Engineer, Credit Cards & Banking
+**robinhood** · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7490049`
+
+---
+### 🔄 Director of Engineering, Trading Products
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7022496?t=gh_src=&gh_jid=7022496)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7022496`
+
+---
+### 🔄 Engineering Manager, Agent Experience
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542965?t=gh_src=&gh_jid=7542965)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7542965`
+
+---
+### 🔄 Engineering Manager, Capacity and Efficiency
+**robinhood** · ENG Technical Assurance
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7603848?t=gh_src=&gh_jid=7603848)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7603848`
+
+---
+### 🔄 Engineering Manager, Financial Crimes 
+**robinhood** · ENG Platforms
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7512231?t=gh_src=&gh_jid=7512231)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7512231`
+
+---
+### 🔄 Engineering Manager, International
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539771?t=gh_src=&gh_jid=7539771)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7539771`
+
+---
+### 🔄 Engineering Manager, Legend
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489328?t=gh_src=&gh_jid=7489328)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489328`
+
+---
+### 🔄 Engineering Manager, Strategies & Cortex
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489246`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+### 🔄 Senior Analytics Engineer, Corporate Strategy
+**robinhood** · ENG Data Science
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7346630?t=gh_src=&gh_jid=7346630)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7346630`
+
+---
+### 🔄 Senior Android Engineer
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7412393?t=gh_src=&gh_jid=7412393)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7412393`
+
+---
+### 🔄 Senior Cloud Security Engineer
+**robinhood** · Security Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7178427`
+
+---
+### 🔄 Senior Engineering Manager, Application and Product Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7473367?t=gh_src=&gh_jid=7473367)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7473367`
+
+---
+### 🔄 Senior iOS Engineer
+**robinhood** · ENG Infrastructure
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/6675127?t=gh_src=&gh_jid=6675127)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `6675127`
+
+---
+### 🔄 Senior Machine Learning Engineer, Agentic
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7121213`
+
+---
+### 🔄 Senior Security Engineer, AI Vulnerability Management
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7728174?t=gh_src=&gh_jid=7728174)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7728174`
+
+---
+### 🔄 Senior Software Engineer, Agentic
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489731?t=gh_src=&gh_jid=7489731)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489731`
+
+---
+### 🔄 Senior Software Engineer, AI Infrastructure
+**robinhood** · ENG Data and AI Platform Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7782697?t=gh_src=&gh_jid=7782697)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7782697`
+
+---
+### 🔄 Senior Software Engineer, Capacity & Efficiency 
+**robinhood** · ENG Technical Assurance
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489675?t=gh_src=&gh_jid=7489675)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489675`
+
+---
+### 🔄 Senior Software Engineer, Data Engineering
+**robinhood** · ENG Data Science
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `4738660`
+
+---
+### 🔄 Senior Software Engineer, Storage Platform
+**robinhood** · ENG Infrastructure
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7729019`
+
+---
+### 🔄 Senior Software Engineer, Streaming Platform
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7805145?t=gh_src=&gh_jid=7805145)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7805145`
+
+---
+### 🔄 Senior Staff Software Engineer, Data Platform
+**robinhood** · ENG Infrastructure
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729014?t=gh_src=&gh_jid=7729014)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7729014`
+
+---
+### 🔄 Senior Technical Program Manager, Privacy
+**robinhood** · Privacy Division
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7773503?t=gh_src=&gh_jid=7773503)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7773503`
+
+---
+### 🔄 Senior Web Infrastructure Developer 
+**robinhood** · ENG Infrastructure
+📍 Toronto, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542970?t=gh_src=&gh_jid=7542970)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7542970`
+
+---
+### 🔄 Software Backend Engineer, Credit Cards & Banking Platform
+**robinhood** · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7022255?t=gh_src=&gh_jid=7022255)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7022255`
+
+---
+### 🔄 Software Engineer, Backend
+**robinhood** · Brokerage Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7263592`
+
+---
+### 🔄 Software Engineering Manager, Growth
+**robinhood** · ENG Growth
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489695`
+
+---
+### 🔄 Staff Machine Learning Engineer, Agentic
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7676714`
+
+---
+### 🔄 Staff Offensive Security Engineer
+**robinhood** · Security Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7460167`
+
+---
+### 🔄 Staff Security Engineer, Application Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7754299`
+
+---
+### 🔄 Staff Software Engineer, Crypto Custody
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7470947?t=gh_src=&gh_jid=7470947)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7470947`
+
+---
+### 🔄 Staff Software Engineer, Streaming Infrastructure
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489755?t=gh_src=&gh_jid=7489755)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489755`
+
+---
+### 🔄 Staff Software Engineer, Web3
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489950`
+
+---
+### 🔄 Staff Technical Program Manager
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489212?t=gh_src=&gh_jid=7489212)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7489212`
+
+---
+### 🔄 Staff Technical Program Manager - Reliability Engineering
+**robinhood** · ENG Technical Assurance
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7739577`
+
+---
+### 🔄 Staff Workday Engineer
+**robinhood** · Corporate Engineering Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729682?t=gh_src=&gh_jid=7729682)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7729682`
+
+---
+### 🔄 Web Engineer
+**robinhood** · Futures Engineering
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7543003?t=gh_src=&gh_jid=7543003)
+🕐 Updated: `2026-04-15T13:08:39-04:00` &nbsp;|&nbsp; ID: `7543003`
+
+---
+### 🔄 Engineering Manager, Data Platform
+**chime** · Data Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8477424002?gh_jid=8477424002)
+🕐 Updated: `2026-04-15T12:54:35-04:00` &nbsp;|&nbsp; ID: `8477424002`
+
+---
+### 🔄 Mobile Full-Stack Engineer, Multiplayer
+**chime** · Spending, Saving, & Investing Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8457578002?gh_jid=8457578002)
+🕐 Updated: `2026-04-15T12:57:09-04:00` &nbsp;|&nbsp; ID: `8457578002`
+
+---
+### 🔄 Senior Full-Stack Engineer, App Journey
+**chime** · AI & App Experience Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8485955002?gh_jid=8485955002)
+🕐 Updated: `2026-04-15T13:02:08-04:00` &nbsp;|&nbsp; ID: `8485955002`
+
+---
+### 🔄 Senior Processor Implementation Manager
+**chime** · Platform Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8479805002?gh_jid=8479805002)
+🕐 Updated: `2026-04-15T13:01:24-04:00` &nbsp;|&nbsp; ID: `8479805002`
+
+---
+### 🔄 Software Engineer, Growth - Paid Ads & Acquisition
+**chime** · Growth Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8466472002?gh_jid=8466472002)
+🕐 Updated: `2026-04-15T12:59:55-04:00` &nbsp;|&nbsp; ID: `8466472002`
+
+---
+### 🔄 Software Engineer, MyPay
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002)
+🕐 Updated: `2026-04-15T13:01:20-04:00` &nbsp;|&nbsp; ID: `8499450002`
+
+---
+### 🔄 Business Development Associate
+**fetch** · Breeders
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fetch/jobs/4222028009)
+🕐 Updated: `2026-04-15T13:10:58-04:00` &nbsp;|&nbsp; ID: `4222028009`
+
+---
+### 🔄 Senior Software Engineer, Test
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4660016006)
+🕐 Updated: `2026-04-15T13:43:11-04:00` &nbsp;|&nbsp; ID: `4660016006`
+
+---
+
 ## 📅 Run: 2026-04-15 16:35 UTC
 
 ### 🆕 Program Manager, Talent & Leadership Development (AI-Enabled Learning)
