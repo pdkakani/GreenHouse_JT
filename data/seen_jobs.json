@@ -1,57 +1,4 @@
 {
-  "7769550": {
-    "first_seen": "2026-04-08T15:54:42.163207+00:00",
-    "updated_at": "2026-04-08T10:39:36-04:00",
-    "title": "Engineering Manager - Search Management - Elasticsearch",
-    "company": "elastic"
-  },
-  "7660503003": {
-    "first_seen": "2026-04-08T15:54:44.175484+00:00",
-    "updated_at": "2026-04-09T01:02:38-04:00",
-    "title": "Engineering Manager,  AI Enablement",
-    "company": "klaviyo"
-  },
-  "4644040006": {
-    "first_seen": "2026-04-08T15:55:18.168438+00:00",
-    "updated_at": "2026-04-10T11:22:34-04:00",
-    "title": "Sr Software Engineer - iOS",
-    "company": "classpass",
-    "alerted": false
-  },
-  "4645783005": {
-    "first_seen": "2026-04-08T15:55:20.074909+00:00",
-    "updated_at": "2026-04-08T10:29:56-04:00",
-    "title": "Sales Development Representative",
-    "company": "flex"
-  },
-  "5857783004": {
-    "first_seen": "2026-04-08T15:55:21.742548+00:00",
-    "updated_at": "2026-04-09T18:37:42-04:00",
-    "title": "Salesforce Developer",
-    "company": "mercury",
-    "alerted": false
-  },
-  "5867562004": {
-    "first_seen": "2026-04-08T15:55:21.742949+00:00",
-    "updated_at": "2026-04-09T18:37:42-04:00",
-    "title": "Senior Product Manager - API & Agentic Banking",
-    "company": "mercury",
-    "alerted": false
-  },
-  "5856800004": {
-    "first_seen": "2026-04-08T15:55:21.743047+00:00",
-    "updated_at": "2026-04-09T18:37:42-04:00",
-    "title": "Senior Technical Program Manager",
-    "company": "mercury",
-    "alerted": false
-  },
-  "7789404": {
-    "first_seen": "2026-04-08T15:55:27.464982+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Group Product Manager - Financial Engineering ",
-    "company": "coinbase",
-    "alerted": false
-  },
   "7781652": {
     "first_seen": "2026-04-08T16:55:12.406740+00:00",
     "updated_at": "2026-04-09T10:27:27-04:00",
@@ -213,9 +160,10 @@
   },
   "8478364002": {
     "first_seen": "2026-04-08T21:07:51.998910+00:00",
-    "updated_at": "2026-04-09T09:11:36-04:00",
+    "updated_at": "2026-04-15T11:53:18-04:00",
     "title": "Staff Backend Engineer, AST: Composition Analysis",
-    "company": "gitlab"
+    "company": "gitlab",
+    "alerted": false
   },
   "8382253002": {
     "first_seen": "2026-04-08T21:08:12.582810+00:00",
@@ -1278,7 +1226,7 @@
   },
   "8480531002": {
     "first_seen": "2026-04-11T02:24:57.945812+00:00",
-    "updated_at": "2026-04-10T21:07:53-04:00",
+    "updated_at": "2026-04-15T12:11:42-04:00",
     "title": "Staff Backend Engineer, SSCS: AI Governance",
     "company": "gitlab",
     "alerted": true
@@ -9839,7 +9787,7 @@
   },
   "7576764": {
     "first_seen": "2026-04-13T07:25:04.759356+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-15T12:33:45-04:00",
     "title": "Senior Software Engineer, Infrastructure - Platform Compute",
     "company": "coinbase",
     "alerted": true
@@ -15159,7 +15107,7 @@
   },
   "7354943": {
     "first_seen": "2026-04-13T09:18:02.524003+00:00",
-    "updated_at": "2026-04-02T00:21:39-04:00",
+    "updated_at": "2026-04-15T12:26:57-04:00",
     "title": "Principal Product Manager, Gusto Pro",
     "company": "gusto",
     "alerted": true
@@ -15880,7 +15828,7 @@
   },
   "6688851": {
     "first_seen": "2026-04-13T09:18:06.163214+00:00",
-    "updated_at": "2026-03-30T14:19:39-04:00",
+    "updated_at": "2026-04-15T12:34:38-04:00",
     "title": "Senior Software Engineer",
     "company": "justworks",
     "alerted": true
@@ -16342,7 +16290,7 @@
   },
   "7571439003": {
     "first_seen": "2026-04-13T09:18:08.917257+00:00",
-    "updated_at": "2026-03-20T10:51:35-04:00",
+    "updated_at": "2026-04-15T12:32:12-04:00",
     "title": "AI Software Engineer Manager, Risk Engineering",
     "company": "sofi",
     "alerted": true
@@ -18533,7 +18481,7 @@
   },
   "4660016006": {
     "first_seen": "2026-04-13T09:18:10.692818+00:00",
-    "updated_at": "2026-04-06T13:36:38-04:00",
+    "updated_at": "2026-04-15T12:23:10-04:00",
     "title": "Senior Software Engineer, Test",
     "company": "everlaw",
     "alerted": true
@@ -20381,15 +20329,15 @@
   },
   "7800289": {
     "first_seen": "2026-04-14T19:26:06.884772+00:00",
-    "updated_at": "2026-04-14T15:51:24-04:00",
-    "title": "Solutions Engineer",
+    "updated_at": "2026-04-15T12:09:36-04:00",
+    "title": "Solutions Engineer (pre-sales)",
     "company": "mixpanel",
     "alerted": true
   },
   "7815692": {
     "first_seen": "2026-04-14T19:26:06.884804+00:00",
-    "updated_at": "2026-04-14T15:51:24-04:00",
-    "title": "Solutions Engineer",
+    "updated_at": "2026-04-15T12:09:53-04:00",
+    "title": "Solutions Engineer (pre-sales)",
     "company": "mixpanel",
     "alerted": true
   },
@@ -20808,22 +20756,22 @@
   },
   "7701413003": {
     "first_seen": "2026-04-15T02:43:15.984713+00:00",
-    "updated_at": "2026-04-14T21:44:35-04:00",
-    "title": "Solution Architect, Enterprise",
+    "updated_at": "2026-04-15T12:31:10-04:00",
+    "title": "Solution Architect, Enterprise - Eastern Time Zone",
     "company": "fivetran",
     "alerted": true
   },
   "7695862003": {
     "first_seen": "2026-04-15T02:43:15.984741+00:00",
-    "updated_at": "2026-04-14T21:44:34-04:00",
-    "title": "Solution Architect, Enterprise",
+    "updated_at": "2026-04-15T12:30:51-04:00",
+    "title": "Solution Architect, Enterprise -  Eastern Time Zone",
     "company": "fivetran",
     "alerted": true
   },
   "7701415003": {
     "first_seen": "2026-04-15T02:43:15.984767+00:00",
-    "updated_at": "2026-04-14T21:44:36-04:00",
-    "title": "Solution Architect, Enterprise",
+    "updated_at": "2026-04-15T12:33:07-04:00",
+    "title": "Solution Architect, Enterprise - Eastern Time Zone ",
     "company": "fivetran",
     "alerted": true
   },
@@ -21020,6 +20968,125 @@
     "first_seen": "2026-04-15T15:22:56.667032+00:00",
     "updated_at": "2026-04-08T09:30:44-04:00",
     "title": "Temp Assembly Technician",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "8071850002": {
+    "first_seen": "2026-04-15T16:35:24.369893+00:00",
+    "updated_at": "2026-04-15T12:25:34-04:00",
+    "title": "Program Manager, Talent & Leadership Development (AI-Enabled Learning)",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7769550": {
+    "first_seen": "2026-04-15T16:35:24.723506+00:00",
+    "updated_at": "2026-04-08T10:39:36-04:00",
+    "title": "Engineering Manager - Search Management - Elasticsearch",
+    "company": "elastic",
+    "alerted": true
+  },
+  "7660503003": {
+    "first_seen": "2026-04-15T16:35:26.257074+00:00",
+    "updated_at": "2026-04-09T01:02:38-04:00",
+    "title": "Engineering Manager,  AI Enablement",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "5970177004": {
+    "first_seen": "2026-04-15T16:35:26.671251+00:00",
+    "updated_at": "2026-04-15T12:11:30-04:00",
+    "title": "Staff AI Platform Engineer, Corporate AI Systems",
+    "company": "cribl",
+    "alerted": true
+  },
+  "7815725": {
+    "first_seen": "2026-04-15T16:35:27.188283+00:00",
+    "updated_at": "2026-04-15T12:00:13-04:00",
+    "title": "Software Engineer II, Demo Engineering",
+    "company": "datadog",
+    "alerted": true
+  },
+  "4685259005": {
+    "first_seen": "2026-04-15T16:35:33.469600+00:00",
+    "updated_at": "2026-04-15T11:28:48-04:00",
+    "title": "Director, Analytics Engineer",
+    "company": "flex",
+    "alerted": true
+  },
+  "4645783005": {
+    "first_seen": "2026-04-15T16:35:33.470468+00:00",
+    "updated_at": "2026-04-08T10:29:56-04:00",
+    "title": "Sales Development Representative",
+    "company": "flex",
+    "alerted": true
+  },
+  "5857783004": {
+    "first_seen": "2026-04-15T16:35:34.868943+00:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
+    "title": "Salesforce Developer",
+    "company": "mercury",
+    "alerted": true
+  },
+  "5867562004": {
+    "first_seen": "2026-04-15T16:35:34.869701+00:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
+    "title": "Senior Product Manager - API & Agentic Banking",
+    "company": "mercury",
+    "alerted": true
+  },
+  "5856800004": {
+    "first_seen": "2026-04-15T16:35:34.869849+00:00",
+    "updated_at": "2026-04-09T18:37:42-04:00",
+    "title": "Senior Technical Program Manager",
+    "company": "mercury",
+    "alerted": true
+  },
+  "8463880002": {
+    "first_seen": "2026-04-15T16:35:37.229767+00:00",
+    "updated_at": "2026-04-15T12:02:43-04:00",
+    "title": "Software Engineer",
+    "company": "lattice",
+    "alerted": true
+  },
+  "7789404": {
+    "first_seen": "2026-04-15T16:35:37.886545+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Group Product Manager - Financial Engineering ",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7818752": {
+    "first_seen": "2026-04-15T16:35:47.875324+00:00",
+    "updated_at": "2026-04-15T12:16:18-04:00",
+    "title": "Engineering Manager, Detect & Respond",
+    "company": "betterment",
+    "alerted": true
+  },
+  "4222068009": {
+    "first_seen": "2026-04-15T16:35:53.287467+00:00",
+    "updated_at": "2026-04-15T11:52:57-04:00",
+    "title": "Account Manager, Business Development",
+    "company": "fetch",
+    "alerted": true
+  },
+  "4222028009": {
+    "first_seen": "2026-04-15T16:35:53.287496+00:00",
+    "updated_at": "2026-04-15T11:43:53-04:00",
+    "title": "Business Development Associate",
+    "company": "fetch",
+    "alerted": true
+  },
+  "7818759": {
+    "first_seen": "2026-04-15T16:35:54.416390+00:00",
+    "updated_at": "2026-04-15T12:17:34-04:00",
+    "title": "Engineering Technician",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7818763": {
+    "first_seen": "2026-04-15T16:35:54.416415+00:00",
+    "updated_at": "2026-04-15T12:19:11-04:00",
+    "title": "Engineering Technician",
     "company": "formlabs",
     "alerted": true
   }

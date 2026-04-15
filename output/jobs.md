@@ -2,6 +2,183 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 16:35 UTC
+
+### 🆕 Program Manager, Talent & Leadership Development (AI-Enabled Learning)
+**databricks** · People
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8071850002)
+🕐 Updated: `2026-04-15T12:25:34-04:00` &nbsp;|&nbsp; ID: `8071850002`
+
+---
+### 🆕 Engineering Manager - Search Management - Elasticsearch
+**elastic** · Platform - Elasticsearch
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769550&gh_jid=7769550)
+🕐 Updated: `2026-04-08T10:39:36-04:00` &nbsp;|&nbsp; ID: `7769550`
+
+---
+### 🆕 Engineering Manager,  AI Enablement
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660503003)
+🕐 Updated: `2026-04-09T01:02:38-04:00` &nbsp;|&nbsp; ID: `7660503003`
+
+---
+### 🆕 Staff AI Platform Engineer, Corporate AI Systems
+**cribl** · IT & Security
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5970177004)
+🕐 Updated: `2026-04-15T12:11:30-04:00` &nbsp;|&nbsp; ID: `5970177004`
+
+---
+### 🆕 Software Engineer II, Demo Engineering
+**datadog** · Community
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7815725/?gh_jid=7815725)
+🕐 Updated: `2026-04-15T12:00:13-04:00` &nbsp;|&nbsp; ID: `7815725`
+
+---
+### 🆕 Director, Analytics Engineer
+**flex** · Analytics
+📍 New York, New York, United States; Salt Lake City, Utah, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4685259005)
+🕐 Updated: `2026-04-15T11:28:48-04:00` &nbsp;|&nbsp; ID: `4685259005`
+
+---
+### 🆕 Sales Development Representative
+**flex** · Revenue
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4645783005)
+🕐 Updated: `2026-04-08T10:29:56-04:00` &nbsp;|&nbsp; ID: `4645783005`
+
+---
+### 🆕 Salesforce Developer
+**mercury** · Sales Operations
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5857783004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5857783004`
+
+---
+### 🆕 Senior Product Manager - API & Agentic Banking
+**mercury** · Product Management
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5867562004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5867562004`
+
+---
+### 🆕 Senior Technical Program Manager
+**mercury** · Sales Operations
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5856800004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5856800004`
+
+---
+### 🆕 Software Engineer
+**lattice** · Engineering
+📍 Canada - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8463880002)
+🕐 Updated: `2026-04-15T12:02:43-04:00` &nbsp;|&nbsp; ID: `8463880002`
+
+---
+### 🆕 Group Product Manager - Financial Engineering 
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789404?gh_jid=7789404)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7789404`
+
+---
+### 🆕 Engineering Manager, Detect & Respond
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7818752&gh_jid=7818752)
+🕐 Updated: `2026-04-15T12:16:18-04:00` &nbsp;|&nbsp; ID: `7818752`
+
+---
+### 🆕 Account Manager, Business Development
+**fetch** · Breeders
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fetch/jobs/4222068009)
+🕐 Updated: `2026-04-15T11:52:57-04:00` &nbsp;|&nbsp; ID: `4222068009`
+
+---
+### 🆕 Business Development Associate
+**fetch** · Breeders
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fetch/jobs/4222028009)
+🕐 Updated: `2026-04-15T11:43:53-04:00` &nbsp;|&nbsp; ID: `4222028009`
+
+---
+### 🆕 Engineering Technician
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7818759/apply/?gh_jid=7818759)
+🕐 Updated: `2026-04-15T12:17:34-04:00` &nbsp;|&nbsp; ID: `7818759`
+
+---
+### 🆕 Engineering Technician
+**formlabs** · Hardware Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7818763/apply/?gh_jid=7818763)
+🕐 Updated: `2026-04-15T12:19:11-04:00` &nbsp;|&nbsp; ID: `7818763`
+
+---
+### 🔄 Solutions Engineer (pre-sales)
+**mixpanel** · Solutions Engineering
+📍 San Francisco, US (Hybrid)  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7800289)
+🕐 Updated: `2026-04-15T12:09:36-04:00` &nbsp;|&nbsp; ID: `7800289`
+
+---
+### 🔄 Solutions Engineer (pre-sales)
+**mixpanel** · Solutions Engineering
+📍 New York, US (Hybrid)  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7815692)
+🕐 Updated: `2026-04-15T12:09:53-04:00` &nbsp;|&nbsp; ID: `7815692`
+
+---
+### 🔄 Solution Architect, Enterprise -  Eastern Time Zone
+**fivetran** · Customer Solutions Group Department
+📍 Remote, Any, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7695862003)
+🕐 Updated: `2026-04-15T12:30:51-04:00` &nbsp;|&nbsp; ID: `7695862003`
+
+---
+### 🔄 Solution Architect, Enterprise - Eastern Time Zone
+**fivetran** · Customer Solutions Group Department
+📍 Remote, New York, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7701413003)
+🕐 Updated: `2026-04-15T12:31:10-04:00` &nbsp;|&nbsp; ID: `7701413003`
+
+---
+### 🔄 Solution Architect, Enterprise - Eastern Time Zone 
+**fivetran** · Customer Solutions Group Department
+📍 Remote, New Jersey, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7701415003)
+🕐 Updated: `2026-04-15T12:33:07-04:00` &nbsp;|&nbsp; ID: `7701415003`
+
+---
+### 🔄 Staff Backend Engineer, AST: Composition Analysis
+**gitlab** · Sec Engineering
+📍 Remote, Australia; Remote, Canada; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, New Zealand; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8478364002)
+🕐 Updated: `2026-04-15T11:53:18-04:00` &nbsp;|&nbsp; ID: `8478364002`
+
+---
+### 🔄 Staff Backend Engineer, SSCS: AI Governance
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480531002)
+🕐 Updated: `2026-04-15T12:11:42-04:00` &nbsp;|&nbsp; ID: `8480531002`
+
+---
+### 🔄 Principal Product Manager, Gusto Pro
+**gusto** · Product Management
+📍 Denver, CO;San Francisco, CA;New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7354943)
+🕐 Updated: `2026-04-15T12:26:57-04:00` &nbsp;|&nbsp; ID: `7354943`
+
+---
+### 🔄 Senior Software Engineer
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/6688851?gh_jid=6688851)
+🕐 Updated: `2026-04-15T12:34:38-04:00` &nbsp;|&nbsp; ID: `6688851`
+
+---
+### 🔄 Senior Software Engineer, Infrastructure - Platform Compute
+**coinbase** · Engineering - Infrastructure
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7576764?gh_jid=7576764)
+🕐 Updated: `2026-04-15T12:33:45-04:00` &nbsp;|&nbsp; ID: `7576764`
+
+---
+### 🔄 AI Software Engineer Manager, Risk Engineering
+**sofi** · Risk 2LOD
+📍 CA - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7571439003?gh_jid=7571439003)
+🕐 Updated: `2026-04-15T12:32:12-04:00` &nbsp;|&nbsp; ID: `7571439003`
+
+---
+### 🔄 Senior Software Engineer, Test
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4660016006)
+🕐 Updated: `2026-04-15T12:23:10-04:00` &nbsp;|&nbsp; ID: `4660016006`
+
+---
+
 ## 📅 Run: 2026-04-15 15:23 UTC
 
 ### 🆕 Principal Partner Specialist
