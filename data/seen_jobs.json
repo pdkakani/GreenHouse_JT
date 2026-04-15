@@ -1,71 +1,4 @@
 {
-  "7669366003": {
-    "first_seen": "2026-04-08T14:17:12.346956+00:00",
-    "updated_at": "2026-04-09T01:02:38-04:00",
-    "title": "Director of Engineering - Growth & Engagement",
-    "company": "klaviyo"
-  },
-  "7723988": {
-    "first_seen": "2026-04-08T14:17:13.133095+00:00",
-    "updated_at": "2026-04-08T08:50:08-04:00",
-    "title": "Senior Product Manager - Integrations & Ecosystem",
-    "company": "datadog"
-  },
-  "5179969008": {
-    "first_seen": "2026-04-08T14:17:15.232461+00:00",
-    "updated_at": "2026-04-09T12:25:24-04:00",
-    "title": "Software Engineer ",
-    "company": "automox"
-  },
-  "8488966002": {
-    "first_seen": "2026-04-08T14:17:16.387485+00:00",
-    "updated_at": "2026-04-08T09:51:45-04:00",
-    "title": "Senior Backend Engineer(Go), Continuous Delivery",
-    "company": "gitlab"
-  },
-  "8488961002": {
-    "first_seen": "2026-04-08T14:17:16.387923+00:00",
-    "updated_at": "2026-04-08T09:47:49-04:00",
-    "title": "Staff Backend Engineer (Go), Continuous Delivery",
-    "company": "gitlab"
-  },
-  "8497826002": {
-    "first_seen": "2026-04-08T14:17:18.030097+00:00",
-    "updated_at": "2026-04-08T09:05:22-04:00",
-    "title": "Technical Support Specialist",
-    "company": "airtable"
-  },
-  "7747178": {
-    "first_seen": "2026-04-08T14:17:22.134470+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
-    "title": "Engineering Program Manager, Infrastructure",
-    "company": "stripe",
-    "alerted": false
-  },
-  "7608088003": {
-    "first_seen": "2026-04-08T14:17:29.365991+00:00",
-    "updated_at": "2026-04-08T09:50:27-04:00",
-    "title": "Senior Software Engineer, Crypto",
-    "company": "sofi"
-  },
-  "7731655": {
-    "first_seen": "2026-04-08T14:17:31.328559+00:00",
-    "updated_at": "2026-04-08T09:30:44-04:00",
-    "title": "Assembler",
-    "company": "formlabs"
-  },
-  "7731656": {
-    "first_seen": "2026-04-08T14:17:31.328596+00:00",
-    "updated_at": "2026-04-08T09:30:44-04:00",
-    "title": "Assembler",
-    "company": "formlabs"
-  },
-  "7731658": {
-    "first_seen": "2026-04-08T14:17:31.331245+00:00",
-    "updated_at": "2026-04-08T09:30:44-04:00",
-    "title": "Temp Assembly Technician",
-    "company": "formlabs"
-  },
   "7769550": {
     "first_seen": "2026-04-08T15:54:42.163207+00:00",
     "updated_at": "2026-04-08T10:39:36-04:00",
@@ -253,7 +186,7 @@
   },
   "7783164": {
     "first_seen": "2026-04-08T20:22:54.369158+00:00",
-    "updated_at": "2026-04-13T10:26:57-04:00",
+    "updated_at": "2026-04-15T10:26:51-04:00",
     "title": "Enablement Business Partner, SDR (Sales Development Representatives)",
     "company": "twilio",
     "alerted": false
@@ -2262,7 +2195,7 @@
   },
   "7746621": {
     "first_seen": "2026-04-12T21:49:54.485039+00:00",
-    "updated_at": "2026-03-27T14:53:50-04:00",
+    "updated_at": "2026-04-15T11:14:33-04:00",
     "title": " Senior Product Manager - Cloudflare One Appliance",
     "company": "cloudflare",
     "alerted": true
@@ -4915,28 +4848,28 @@
   },
   "7646270": {
     "first_seen": "2026-04-13T07:24:53.660418+00:00",
-    "updated_at": "2026-04-14T10:26:21-04:00",
+    "updated_at": "2026-04-15T10:29:54-04:00",
     "title": "Applications Engineer 2",
     "company": "twilio",
     "alerted": true
   },
   "7254399": {
     "first_seen": "2026-04-13T07:24:53.660435+00:00",
-    "updated_at": "2026-04-14T10:28:33-04:00",
+    "updated_at": "2026-04-15T10:34:24-04:00",
     "title": "Business Systems Analyst 2",
     "company": "twilio",
     "alerted": true
   },
   "7484699": {
     "first_seen": "2026-04-13T07:24:53.660445+00:00",
-    "updated_at": "2026-04-13T10:35:27-04:00",
+    "updated_at": "2026-04-15T10:33:42-04:00",
     "title": "Cloud Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7657991": {
     "first_seen": "2026-04-13T07:24:53.660638+00:00",
-    "updated_at": "2026-04-14T10:26:16-04:00",
+    "updated_at": "2026-04-15T10:29:41-04:00",
     "title": "Engineer, Identity & Access",
     "company": "twilio",
     "alerted": true
@@ -4978,14 +4911,14 @@
   },
   "7350846": {
     "first_seen": "2026-04-13T07:24:53.661121+00:00",
-    "updated_at": "2026-04-13T10:35:53-04:00",
+    "updated_at": "2026-04-15T10:34:14-04:00",
     "title": "Presales Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7452089": {
     "first_seen": "2026-04-13T07:24:53.661141+00:00",
-    "updated_at": "2026-04-14T10:27:30-04:00",
+    "updated_at": "2026-04-15T10:33:27-04:00",
     "title": "Principal Presales Engineer",
     "company": "twilio",
     "alerted": true
@@ -5013,7 +4946,7 @@
   },
   "7662329": {
     "first_seen": "2026-04-13T07:24:53.661260+00:00",
-    "updated_at": "2026-04-13T10:30:21-04:00",
+    "updated_at": "2026-04-15T10:29:07-04:00",
     "title": "Sales Development Representative",
     "company": "twilio",
     "alerted": true
@@ -5027,14 +4960,14 @@
   },
   "7622278": {
     "first_seen": "2026-04-13T07:24:53.661422+00:00",
-    "updated_at": "2026-04-14T15:18:05-04:00",
+    "updated_at": "2026-04-15T10:28:52-04:00",
     "title": "Senior Engineer, Offensive Security",
     "company": "twilio",
     "alerted": true
   },
   "7247707": {
     "first_seen": "2026-04-13T07:24:53.661434+00:00",
-    "updated_at": "2026-04-13T10:35:44-04:00",
+    "updated_at": "2026-04-15T10:34:28-04:00",
     "title": "Senior Engineer, Security Automation",
     "company": "twilio",
     "alerted": true
@@ -5048,7 +4981,7 @@
   },
   "7657993": {
     "first_seen": "2026-04-13T07:24:53.661518+00:00",
-    "updated_at": "2026-04-14T10:26:40-04:00",
+    "updated_at": "2026-04-15T10:30:15-04:00",
     "title": "Senior Network Engineer",
     "company": "twilio",
     "alerted": true
@@ -5069,14 +5002,14 @@
   },
   "7747554": {
     "first_seen": "2026-04-13T07:24:53.661671+00:00",
-    "updated_at": "2026-04-13T10:25:46-04:00",
+    "updated_at": "2026-04-15T10:25:34-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7662058": {
     "first_seen": "2026-04-13T07:24:53.661686+00:00",
-    "updated_at": "2026-04-14T10:26:05-04:00",
+    "updated_at": "2026-04-15T10:29:18-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
@@ -5090,21 +5023,21 @@
   },
   "7535345": {
     "first_seen": "2026-04-13T07:24:53.661711+00:00",
-    "updated_at": "2026-04-13T15:17:58-04:00",
+    "updated_at": "2026-04-15T10:31:04-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7394811": {
     "first_seen": "2026-04-13T07:24:53.661723+00:00",
-    "updated_at": "2026-04-13T10:35:05-04:00",
+    "updated_at": "2026-04-15T10:33:45-04:00",
     "title": "Senior Software Engineer- Video Signalling ",
     "company": "twilio",
     "alerted": true
   },
   "7511486": {
     "first_seen": "2026-04-13T07:24:53.661739+00:00",
-    "updated_at": "2026-04-14T10:27:41-04:00",
+    "updated_at": "2026-04-15T10:32:27-04:00",
     "title": "Senior Solutions Engineer 3",
     "company": "twilio",
     "alerted": true
@@ -5125,7 +5058,7 @@
   },
   "7705692": {
     "first_seen": "2026-04-13T07:24:53.661933+00:00",
-    "updated_at": "2026-04-13T10:28:39-04:00",
+    "updated_at": "2026-04-15T10:27:56-04:00",
     "title": "Senior Zendesk Business Systems Analyst",
     "company": "twilio",
     "alerted": true
@@ -5146,7 +5079,7 @@
   },
   "7699251": {
     "first_seen": "2026-04-13T07:24:53.661984+00:00",
-    "updated_at": "2026-04-13T10:29:21-04:00",
+    "updated_at": "2026-04-15T10:28:35-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
@@ -5160,14 +5093,14 @@
   },
   "7647708": {
     "first_seen": "2026-04-13T07:24:53.662003+00:00",
-    "updated_at": "2026-04-13T10:31:12-04:00",
+    "updated_at": "2026-04-15T10:29:21-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
   },
   "7747550": {
     "first_seen": "2026-04-13T07:24:53.662012+00:00",
-    "updated_at": "2026-04-13T10:25:46-04:00",
+    "updated_at": "2026-04-15T10:25:25-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "alerted": true
@@ -5209,7 +5142,7 @@
   },
   "7622285": {
     "first_seen": "2026-04-13T07:24:53.662198+00:00",
-    "updated_at": "2026-04-13T10:29:32-04:00",
+    "updated_at": "2026-04-15T10:28:54-04:00",
     "title": "Staff Engineer, Offensive Security",
     "company": "twilio",
     "alerted": true
@@ -5223,7 +5156,7 @@
   },
   "7714237": {
     "first_seen": "2026-04-13T07:24:53.662231+00:00",
-    "updated_at": "2026-04-13T10:28:31-04:00",
+    "updated_at": "2026-04-15T10:27:49-04:00",
     "title": "Staff Software Engineer (L4)",
     "company": "twilio",
     "alerted": true
@@ -5244,14 +5177,14 @@
   },
   "7592249": {
     "first_seen": "2026-04-13T07:24:53.662547+00:00",
-    "updated_at": "2026-04-13T10:27:57-04:00",
+    "updated_at": "2026-04-15T10:28:01-04:00",
     "title": "Technical Support Engineer ",
     "company": "twilio",
     "alerted": true
   },
   "7349692": {
     "first_seen": "2026-04-13T07:24:53.662566+00:00",
-    "updated_at": "2026-04-14T10:28:20-04:00",
+    "updated_at": "2026-04-15T10:34:00-04:00",
     "title": "Technical Support Engineer 2 (Email Infra)",
     "company": "twilio",
     "alerted": true
@@ -7281,7 +7214,7 @@
   },
   "8366595002": {
     "first_seen": "2026-04-13T07:24:57.164608+00:00",
-    "updated_at": "2026-03-06T16:19:38-05:00",
+    "updated_at": "2026-04-15T10:47:59-04:00",
     "title": "Principal Engineer, Infrastructure Platforms",
     "company": "gitlab",
     "alerted": true
@@ -15198,7 +15131,7 @@
   },
   "7557049": {
     "first_seen": "2026-04-13T09:18:02.523465+00:00",
-    "updated_at": "2026-03-19T14:56:20-04:00",
+    "updated_at": "2026-04-15T10:25:25-04:00",
     "title": "GTM Analytics Engineer",
     "company": "gusto",
     "alerted": true
@@ -19727,7 +19660,7 @@
   },
   "7767260": {
     "first_seen": "2026-04-13T20:12:39.066521+00:00",
-    "updated_at": "2026-04-14T09:50:38-04:00",
+    "updated_at": "2026-04-15T10:27:09-04:00",
     "title": "Software Engineer (L3) Infrastructure",
     "company": "twilio",
     "alerted": true
@@ -20000,7 +19933,7 @@
   },
   "7781657": {
     "first_seen": "2026-04-13T22:01:29.249345+00:00",
-    "updated_at": "2026-04-14T17:18:11-04:00",
+    "updated_at": "2026-04-15T10:26:22-04:00",
     "title": "Salesforce Technical Administrator",
     "company": "twilio",
     "alerted": true
@@ -20091,7 +20024,7 @@
   },
   "7171180": {
     "first_seen": "2026-04-13T23:58:16.709251+00:00",
-    "updated_at": "2026-04-14T16:17:46-04:00",
+    "updated_at": "2026-04-15T10:34:21-04:00",
     "title": "Staff Product Manager - Core Commerce Platform",
     "company": "twilio",
     "alerted": true
@@ -20168,7 +20101,7 @@
   },
   "7520997": {
     "first_seen": "2026-04-14T11:19:27.769527+00:00",
-    "updated_at": "2026-04-14T10:27:34-04:00",
+    "updated_at": "2026-04-15T10:32:13-04:00",
     "title": "Staff Machine Learning Engineer (L4)",
     "company": "twilio",
     "alerted": true
@@ -20203,7 +20136,7 @@
   },
   "7807739": {
     "first_seen": "2026-04-14T14:13:23.310075+00:00",
-    "updated_at": "2026-04-14T10:24:52-04:00",
+    "updated_at": "2026-04-15T10:26:36-04:00",
     "title": "Technical Administrator 2",
     "company": "twilio",
     "alerted": true
@@ -20217,7 +20150,7 @@
   },
   "7657997": {
     "first_seen": "2026-04-14T14:13:31.601168+00:00",
-    "updated_at": "2026-04-14T09:59:22-04:00",
+    "updated_at": "2026-04-15T10:17:19-04:00",
     "title": "Engineering Manager, HADR",
     "company": "stripe",
     "alerted": true
@@ -21011,6 +20944,83 @@
     "updated_at": "2026-04-15T08:46:05-04:00",
     "title": "Senior Application Security Engineer",
     "company": "branch",
+    "alerted": true
+  },
+  "7818327": {
+    "first_seen": "2026-04-15T15:22:26.592633+00:00",
+    "updated_at": "2026-04-15T10:19:02-04:00",
+    "title": "Principal Partner Specialist",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7669366003": {
+    "first_seen": "2026-04-15T15:22:29.065462+00:00",
+    "updated_at": "2026-04-09T01:02:38-04:00",
+    "title": "Director of Engineering - Growth & Engagement",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7723988": {
+    "first_seen": "2026-04-15T15:22:30.509942+00:00",
+    "updated_at": "2026-04-08T08:50:08-04:00",
+    "title": "Senior Product Manager - Integrations & Ecosystem",
+    "company": "datadog",
+    "alerted": true
+  },
+  "8488966002": {
+    "first_seen": "2026-04-15T15:22:35.011397+00:00",
+    "updated_at": "2026-04-08T09:51:45-04:00",
+    "title": "Senior Backend Engineer(Go), Continuous Delivery",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8488961002": {
+    "first_seen": "2026-04-15T15:22:35.012020+00:00",
+    "updated_at": "2026-04-08T09:47:49-04:00",
+    "title": "Staff Backend Engineer (Go), Continuous Delivery",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7747178": {
+    "first_seen": "2026-04-15T15:22:39.065127+00:00",
+    "updated_at": "2026-04-13T11:24:15-04:00",
+    "title": "Engineering Program Manager, Infrastructure",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7608088003": {
+    "first_seen": "2026-04-15T15:22:52.986403+00:00",
+    "updated_at": "2026-04-08T09:50:27-04:00",
+    "title": "Senior Software Engineer, Crypto",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7731655": {
+    "first_seen": "2026-04-15T15:22:56.664210+00:00",
+    "updated_at": "2026-04-08T09:30:44-04:00",
+    "title": "Assembler",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7731656": {
+    "first_seen": "2026-04-15T15:22:56.664255+00:00",
+    "updated_at": "2026-04-08T09:30:44-04:00",
+    "title": "Assembler",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7818514": {
+    "first_seen": "2026-04-15T15:22:56.664413+00:00",
+    "updated_at": "2026-04-15T10:55:43-04:00",
+    "title": "Customer Support Field Engineer",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7731658": {
+    "first_seen": "2026-04-15T15:22:56.667032+00:00",
+    "updated_at": "2026-04-08T09:30:44-04:00",
+    "title": "Temp Assembly Technician",
+    "company": "formlabs",
     "alerted": true
   }
 }
