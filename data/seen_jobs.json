@@ -1,36 +1,4 @@
 {
-  "4673416008": {
-    "first_seen": "2026-04-08T18:03:03.596160+00:00",
-    "updated_at": "2026-04-08T13:05:31-04:00",
-    "title": "Software Engineer, UI Platform",
-    "company": "anthropic"
-  },
-  "5157847008": {
-    "first_seen": "2026-04-08T18:03:03.596481+00:00",
-    "updated_at": "2026-04-08T12:56:33-04:00",
-    "title": "Staff+ Software Engineer, Platform",
-    "company": "anthropic"
-  },
-  "4683059005": {
-    "first_seen": "2026-04-08T18:03:04.545863+00:00",
-    "updated_at": "2026-04-15T13:20:19-04:00",
-    "title": "Technical Enablement Manager",
-    "company": "gleanwork",
-    "alerted": false
-  },
-  "7792912": {
-    "first_seen": "2026-04-08T18:03:16.092944+00:00",
-    "updated_at": "2026-04-08T13:40:55-04:00",
-    "title": "Mid Market Business Development Representative",
-    "company": "contentful"
-  },
-  "7789399": {
-    "first_seen": "2026-04-08T18:03:29.918479+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Senior Software Engineer, Backend - Platform (Overseer)",
-    "company": "coinbase",
-    "alerted": false
-  },
   "5174757008": {
     "first_seen": "2026-04-08T19:39:23.455857+00:00",
     "updated_at": "2026-04-13T15:28:33-04:00",
@@ -1853,7 +1821,7 @@
   },
   "7302849": {
     "first_seen": "2026-04-12T21:49:54.481906+00:00",
-    "updated_at": "2026-02-11T11:42:18-05:00",
+    "updated_at": "2026-04-15T14:42:14-04:00",
     "title": "Product Manager (Control Plane)",
     "company": "cloudflare",
     "alerted": true
@@ -3932,7 +3900,7 @@
   },
   "8227356002": {
     "first_seen": "2026-04-13T07:24:52.352459+00:00",
-    "updated_at": "2026-04-09T16:51:19-04:00",
+    "updated_at": "2026-04-15T14:43:22-04:00",
     "title": "Solutions Architect - Digital Native Business, Strategic",
     "company": "databricks",
     "alerted": true
@@ -4877,7 +4845,7 @@
   },
   "7474040": {
     "first_seen": "2026-04-13T07:24:53.661475+00:00",
-    "updated_at": "2026-04-13T10:25:43-04:00",
+    "updated_at": "2026-04-15T14:18:32-04:00",
     "title": "Senior Infrastructure Engineer",
     "company": "twilio",
     "alerted": true
@@ -5143,7 +5111,7 @@
   },
   "7773373": {
     "first_seen": "2026-04-13T07:24:53.867041+00:00",
-    "updated_at": "2026-04-01T17:31:54-04:00",
+    "updated_at": "2026-04-15T14:56:07-04:00",
     "title": "Software Engineer, Growth",
     "company": "mixpanel",
     "alerted": true
@@ -11695,8 +11663,8 @@
   },
   "4591195005": {
     "first_seen": "2026-04-13T09:17:49.774435+00:00",
-    "updated_at": "2026-04-08T17:21:40-04:00",
-    "title": "Public Sector Solutions Engineer (SLED)",
+    "updated_at": "2026-04-15T14:39:32-04:00",
+    "title": "Public Sector Solutions Engineer, SLED",
     "company": "gleanwork",
     "alerted": true
   },
@@ -11849,7 +11817,7 @@
   },
   "4665150005": {
     "first_seen": "2026-04-13T09:17:49.775573+00:00",
-    "updated_at": "2026-04-08T17:21:43-04:00",
+    "updated_at": "2026-04-15T14:33:02-04:00",
     "title": "Sr. Cloud Partner Sales Manager ",
     "company": "gleanwork",
     "alerted": true
@@ -13620,7 +13588,7 @@
   },
   "5535187004": {
     "first_seen": "2026-04-13T09:17:58.242420+00:00",
-    "updated_at": "2026-04-08T13:53:46-04:00",
+    "updated_at": "2026-04-15T15:05:10-04:00",
     "title": "Mid-Market Solutions Engineer",
     "company": "hightouch",
     "alerted": true
@@ -14572,14 +14540,14 @@
   },
   "4654930005": {
     "first_seen": "2026-04-13T09:18:01.824935+00:00",
-    "updated_at": "2026-04-14T14:18:57-04:00",
+    "updated_at": "2026-04-15T14:25:50-04:00",
     "title": "Director of Talent Development and Performance",
     "company": "flex",
     "alerted": true
   },
   "4678455005": {
     "first_seen": "2026-04-13T09:18:01.824967+00:00",
-    "updated_at": "2026-04-14T14:18:57-04:00",
+    "updated_at": "2026-04-15T14:25:50-04:00",
     "title": "Director of Talent Development and Performance",
     "company": "flex",
     "alerted": true
@@ -14642,7 +14610,7 @@
   },
   "4659405005": {
     "first_seen": "2026-04-13T09:18:01.826196+00:00",
-    "updated_at": "2026-04-14T14:10:49-04:00",
+    "updated_at": "2026-04-15T14:25:49-04:00",
     "title": "Senior Engineering Manager, Payments",
     "company": "flex",
     "alerted": true
@@ -21134,6 +21102,97 @@
     "updated_at": "2026-04-08T12:02:15-04:00",
     "title": "RD Technical Lead \u2013 3D Printers",
     "company": "formlabs",
+    "alerted": true
+  },
+  "4673416008": {
+    "first_seen": "2026-04-15T19:06:30.651463+00:00",
+    "updated_at": "2026-04-08T13:05:31-04:00",
+    "title": "Software Engineer, UI Platform",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5157847008": {
+    "first_seen": "2026-04-15T19:06:30.651710+00:00",
+    "updated_at": "2026-04-08T12:56:33-04:00",
+    "title": "Staff+ Software Engineer, Platform",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "4685389005": {
+    "first_seen": "2026-04-15T19:06:31.262923+00:00",
+    "updated_at": "2026-04-15T14:40:37-04:00",
+    "title": "Public Sector Solutions Engineer, SLED",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "7702128003": {
+    "first_seen": "2026-04-15T19:06:38.230674+00:00",
+    "updated_at": "2026-04-15T14:24:31-04:00",
+    "title": "Lead Product Manager, Developer Experience",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7702131003": {
+    "first_seen": "2026-04-15T19:06:38.230708+00:00",
+    "updated_at": "2026-04-15T14:25:36-04:00",
+    "title": "Lead Product Manager, Developer Experience",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7702118003": {
+    "first_seen": "2026-04-15T19:06:38.231643+00:00",
+    "updated_at": "2026-04-15T14:18:38-04:00",
+    "title": "Senior Lead Product Manager, Enterprise",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "3851927": {
+    "first_seen": "2026-04-15T19:06:39.092257+00:00",
+    "updated_at": "2026-04-15T14:48:36-04:00",
+    "title": "Senior Software Engineer - Distributed Systems",
+    "company": "datadog",
+    "alerted": true
+  },
+  "8489126002": {
+    "first_seen": "2026-04-15T19:06:41.937969+00:00",
+    "updated_at": "2026-04-15T14:12:29-04:00",
+    "title": "Principal Product Manager, Security - GTM",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8508895002": {
+    "first_seen": "2026-04-15T19:06:43.227083+00:00",
+    "updated_at": "2026-04-15T14:29:48-04:00",
+    "title": "Full Stack Engineer, Contacts ",
+    "company": "calendly",
+    "alerted": true
+  },
+  "7819059": {
+    "first_seen": "2026-04-15T19:06:43.949583+00:00",
+    "updated_at": "2026-04-15T14:12:39-04:00",
+    "title": "Staff Product Manager, Payments",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7819120": {
+    "first_seen": "2026-04-15T19:06:50.939781+00:00",
+    "updated_at": "2026-04-15T14:55:34-04:00",
+    "title": "Director of Engineering, Upstart Bank",
+    "company": "upstart",
+    "alerted": true
+  },
+  "7789399": {
+    "first_seen": "2026-04-15T19:07:01.695887+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Senior Software Engineer, Backend - Platform (Overseer)",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7702058003": {
+    "first_seen": "2026-04-15T19:07:03.665323+00:00",
+    "updated_at": "2026-04-15T15:00:27-04:00",
+    "title": "Capital Markets Transactions Manager",
+    "company": "sofi",
     "alerted": true
   }
 }

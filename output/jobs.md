@@ -2,6 +2,147 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 19:07 UTC
+
+### 🆕 Software Engineer, UI Platform
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4673416008)
+🕐 Updated: `2026-04-08T13:05:31-04:00` &nbsp;|&nbsp; ID: `4673416008`
+
+---
+### 🆕 Staff+ Software Engineer, Platform
+**anthropic** · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5157847008)
+🕐 Updated: `2026-04-08T12:56:33-04:00` &nbsp;|&nbsp; ID: `5157847008`
+
+---
+### 🆕 Public Sector Solutions Engineer, SLED
+**gleanwork** · Sales
+📍 Austin, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4685389005)
+🕐 Updated: `2026-04-15T14:40:37-04:00` &nbsp;|&nbsp; ID: `4685389005`
+
+---
+### 🆕 Lead Product Manager, Developer Experience
+**klaviyo** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7702128003)
+🕐 Updated: `2026-04-15T14:24:31-04:00` &nbsp;|&nbsp; ID: `7702128003`
+
+---
+### 🆕 Lead Product Manager, Developer Experience
+**klaviyo** · Product
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7702131003)
+🕐 Updated: `2026-04-15T14:25:36-04:00` &nbsp;|&nbsp; ID: `7702131003`
+
+---
+### 🆕 Senior Lead Product Manager, Enterprise
+**klaviyo** · Product
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7702118003)
+🕐 Updated: `2026-04-15T14:18:38-04:00` &nbsp;|&nbsp; ID: `7702118003`
+
+---
+### 🆕 Senior Software Engineer - Distributed Systems
+**datadog** · Dev Eng
+📍 Boston, Massachusetts, USA; New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927)
+🕐 Updated: `2026-04-15T14:48:36-04:00` &nbsp;|&nbsp; ID: `3851927`
+
+---
+### 🆕 Principal Product Manager, Security - GTM
+**gitlab** · Security & Compliance
+📍 Remote, Canada; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8489126002)
+🕐 Updated: `2026-04-15T14:12:29-04:00` &nbsp;|&nbsp; ID: `8489126002`
+
+---
+### 🆕 Full Stack Engineer, Contacts 
+**calendly** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8508895002)
+🕐 Updated: `2026-04-15T14:29:48-04:00` &nbsp;|&nbsp; ID: `8508895002`
+
+---
+### 🆕 Staff Product Manager, Payments
+**stripe** · 8552 PayIntel - PM
+📍 SF, SEA, NYC, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7819059)
+🕐 Updated: `2026-04-15T14:12:39-04:00` &nbsp;|&nbsp; ID: `7819059`
+
+---
+### 🆕 Director of Engineering, Upstart Bank
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7819120)
+🕐 Updated: `2026-04-15T14:55:34-04:00` &nbsp;|&nbsp; ID: `7819120`
+
+---
+### 🆕 Senior Software Engineer, Backend - Platform (Overseer)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7789399?gh_jid=7789399)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7789399`
+
+---
+### 🆕 Capital Markets Transactions Manager
+**sofi** · Capital Markets
+📍 NY- New York, SF- San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7702058003?gh_jid=7702058003)
+🕐 Updated: `2026-04-15T15:00:27-04:00` &nbsp;|&nbsp; ID: `7702058003`
+
+---
+### 🔄 Public Sector Solutions Engineer, SLED
+**gleanwork** · Sales
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4591195005)
+🕐 Updated: `2026-04-15T14:39:32-04:00` &nbsp;|&nbsp; ID: `4591195005`
+
+---
+### 🔄 Sr. Cloud Partner Sales Manager 
+**gleanwork** · Sales
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4665150005)
+🕐 Updated: `2026-04-15T14:33:02-04:00` &nbsp;|&nbsp; ID: `4665150005`
+
+---
+### 🔄 Solutions Architect - Digital Native Business, Strategic
+**databricks** · Field Engineering - FE Direct Emerging
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8227356002)
+🕐 Updated: `2026-04-15T14:43:22-04:00` &nbsp;|&nbsp; ID: `8227356002`
+
+---
+### 🔄 Product Manager (Control Plane)
+**cloudflare** · Product
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7302849?gh_jid=7302849)
+🕐 Updated: `2026-04-15T14:42:14-04:00` &nbsp;|&nbsp; ID: `7302849`
+
+---
+### 🔄 Senior Infrastructure Engineer
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7474040)
+🕐 Updated: `2026-04-15T14:18:32-04:00` &nbsp;|&nbsp; ID: `7474040`
+
+---
+### 🔄 Software Engineer, Growth
+**mixpanel** · Engineering
+📍 San Francisco, US (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7773373)
+🕐 Updated: `2026-04-15T14:56:07-04:00` &nbsp;|&nbsp; ID: `7773373`
+
+---
+### 🔄 Mid-Market Solutions Engineer
+**hightouch** · Sales
+📍 Remote (North America) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5535187004)
+🕐 Updated: `2026-04-15T15:05:10-04:00` &nbsp;|&nbsp; ID: `5535187004`
+
+---
+### 🔄 Director of Talent Development and Performance
+**flex** · People Ops
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4678455005)
+🕐 Updated: `2026-04-15T14:25:50-04:00` &nbsp;|&nbsp; ID: `4678455005`
+
+---
+### 🔄 Director of Talent Development and Performance
+**flex** · People Ops
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4654930005)
+🕐 Updated: `2026-04-15T14:25:50-04:00` &nbsp;|&nbsp; ID: `4654930005`
+
+---
+### 🔄 Senior Engineering Manager, Payments
+**flex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4659405005)
+🕐 Updated: `2026-04-15T14:25:49-04:00` &nbsp;|&nbsp; ID: `4659405005`
+
+---
+
 ## 📅 Run: 2026-04-15 17:47 UTC
 
 ### 🆕 IBM Principal Specialist
