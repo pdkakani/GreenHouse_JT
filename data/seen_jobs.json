@@ -1,29 +1,4 @@
 {
-  "7579499": {
-    "first_seen": "2026-04-08T22:48:03.955745+00:00",
-    "updated_at": "2026-04-13T10:25:44-04:00",
-    "title": "Developer Evangelist",
-    "company": "twilio",
-    "alerted": false
-  },
-  "5872425004": {
-    "first_seen": "2026-04-08T22:48:08.227390+00:00",
-    "updated_at": "2026-04-08T18:27:49-04:00",
-    "title": "Forward Deployed Engineer, v0",
-    "company": "vercel"
-  },
-  "7767161": {
-    "first_seen": "2026-04-08T22:48:14.414243+00:00",
-    "updated_at": "2026-04-08T18:01:16-04:00",
-    "title": "Senior Security Engineer",
-    "company": "upstart"
-  },
-  "7609472003": {
-    "first_seen": "2026-04-08T22:48:20.889670+00:00",
-    "updated_at": "2026-04-08T18:17:57-04:00",
-    "title": "Staff Full-Stack Engineer, Crypto",
-    "company": "sofi"
-  },
   "7137624": {
     "first_seen": "2026-04-08T23:32:54.674044+00:00",
     "updated_at": "2026-04-08T18:59:20-04:00",
@@ -761,7 +736,7 @@
   },
   "8500155002": {
     "first_seen": "2026-04-10T15:05:26.495623+00:00",
-    "updated_at": "2026-04-10T13:44:33-04:00",
+    "updated_at": "2026-04-15T18:38:49-04:00",
     "title": "Solutions Engineer Associate",
     "company": "alloy",
     "alerted": true
@@ -4975,7 +4950,7 @@
   },
   "7773373": {
     "first_seen": "2026-04-13T07:24:53.867041+00:00",
-    "updated_at": "2026-04-15T14:56:07-04:00",
+    "updated_at": "2026-04-15T18:14:22-04:00",
     "title": "Software Engineer, Growth",
     "company": "mixpanel",
     "alerted": true
@@ -7782,7 +7757,7 @@
   },
   "7736943": {
     "first_seen": "2026-04-13T07:24:58.800036+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
+    "updated_at": "2026-04-15T18:58:11-04:00",
     "title": "Engineering Manager, Developer Productivity AI",
     "company": "stripe",
     "alerted": true
@@ -7796,7 +7771,7 @@
   },
   "7760378": {
     "first_seen": "2026-04-13T07:24:58.800065+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
+    "updated_at": "2026-04-15T18:59:25-04:00",
     "title": "Engineering Manager, Issuing",
     "company": "stripe",
     "alerted": true
@@ -14628,7 +14603,7 @@
   },
   "8489983002": {
     "first_seen": "2026-04-13T09:18:02.223675+00:00",
-    "updated_at": "2026-04-09T15:30:35-04:00",
+    "updated_at": "2026-04-15T18:25:14-04:00",
     "title": "Technical Support Engineer II",
     "company": "alloy",
     "alerted": true
@@ -20907,7 +20882,7 @@
   },
   "7762570": {
     "first_seen": "2026-04-15T17:46:44.682473+00:00",
-    "updated_at": "2026-04-13T11:24:15-04:00",
+    "updated_at": "2026-04-15T18:57:48-04:00",
     "title": "Engineering Manager, Core Events",
     "company": "stripe",
     "alerted": true
@@ -21012,7 +20987,7 @@
   },
   "3851927": {
     "first_seen": "2026-04-15T19:06:39.092257+00:00",
-    "updated_at": "2026-04-15T14:48:36-04:00",
+    "updated_at": "2026-04-15T18:35:19-04:00",
     "title": "Senior Software Engineer - Distributed Systems",
     "company": "datadog",
     "alerted": true
@@ -21201,14 +21176,14 @@
   },
   "7819584": {
     "first_seen": "2026-04-15T22:04:16.782780+00:00",
-    "updated_at": "2026-04-15T17:26:42-04:00",
+    "updated_at": "2026-04-15T18:31:07-04:00",
     "title": "Commercial Lead - Financial Products",
     "company": "adyen",
     "alerted": true
   },
   "7673540": {
     "first_seen": "2026-04-15T22:04:16.782834+00:00",
-    "updated_at": "2026-04-15T17:26:41-04:00",
+    "updated_at": "2026-04-15T18:31:07-04:00",
     "title": "Commercial Lead - Financial Products",
     "company": "adyen",
     "alerted": true
@@ -21281,6 +21256,34 @@
     "updated_at": "2026-04-15T17:21:11-04:00",
     "title": "Autonomous Vehicle Business Development Manager",
     "company": "lyft",
+    "alerted": true
+  },
+  "7819618": {
+    "first_seen": "2026-04-15T23:01:44.980244+00:00",
+    "updated_at": "2026-04-15T18:10:56-04:00",
+    "title": "Backend Engineer, Forward Deployed Engineering",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8509359002": {
+    "first_seen": "2026-04-15T23:01:48.981762+00:00",
+    "updated_at": "2026-04-15T18:36:07-04:00",
+    "title": "Technical Support Engineer II",
+    "company": "alloy",
+    "alerted": true
+  },
+  "7767161": {
+    "first_seen": "2026-04-15T23:01:50.505343+00:00",
+    "updated_at": "2026-04-08T18:01:16-04:00",
+    "title": "Senior Security Engineer",
+    "company": "upstart",
+    "alerted": true
+  },
+  "7814842": {
+    "first_seen": "2026-04-15T23:01:52.263390+00:00",
+    "updated_at": "2026-04-15T18:45:46-04:00",
+    "title": "Account Development Executive",
+    "company": "justworks",
     "alerted": true
   }
 }

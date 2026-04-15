@@ -2,6 +2,87 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-15 23:02 UTC
+
+### 🆕 Backend Engineer, Forward Deployed Engineering
+**stripe** · 8412 Billing Products
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7819618)
+🕐 Updated: `2026-04-15T18:10:56-04:00` &nbsp;|&nbsp; ID: `7819618`
+
+---
+### 🆕 Technical Support Engineer II
+**alloy** · Client Success & Solutions
+📍 Denver, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8509359002&gh_jid=8509359002)
+🕐 Updated: `2026-04-15T18:36:07-04:00` &nbsp;|&nbsp; ID: `8509359002`
+
+---
+### 🆕 Senior Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7767161)
+🕐 Updated: `2026-04-08T18:01:16-04:00` &nbsp;|&nbsp; ID: `7767161`
+
+---
+### 🆕 Account Development Executive
+**justworks** · Sales
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7814842?gh_jid=7814842)
+🕐 Updated: `2026-04-15T18:45:46-04:00` &nbsp;|&nbsp; ID: `7814842`
+
+---
+### 🔄 Software Engineer, Growth
+**mixpanel** · Engineering
+📍 San Francisco, US (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7773373)
+🕐 Updated: `2026-04-15T18:14:22-04:00` &nbsp;|&nbsp; ID: `7773373`
+
+---
+### 🔄 Senior Software Engineer - Distributed Systems
+**datadog** · Dev Eng
+📍 Boston, Massachusetts, USA; New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927)
+🕐 Updated: `2026-04-15T18:35:19-04:00` &nbsp;|&nbsp; ID: `3851927`
+
+---
+### 🔄 Engineering Manager, Core Events
+**stripe** · 8126 Developer Infrastructure
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7762570)
+🕐 Updated: `2026-04-15T18:57:48-04:00` &nbsp;|&nbsp; ID: `7762570`
+
+---
+### 🔄 Engineering Manager, Developer Productivity AI
+**stripe** · 8126 Developer Infrastructure
+📍 US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7736943)
+🕐 Updated: `2026-04-15T18:58:11-04:00` &nbsp;|&nbsp; ID: `7736943`
+
+---
+### 🔄 Engineering Manager, Issuing
+**stripe** · 8590 BaaS - Eng
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7760378)
+🕐 Updated: `2026-04-15T18:59:25-04:00` &nbsp;|&nbsp; ID: `7760378`
+
+---
+### 🔄 Commercial Lead - Financial Products
+**adyen** · Commercial Business Development
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7819584)
+🕐 Updated: `2026-04-15T18:31:07-04:00` &nbsp;|&nbsp; ID: `7819584`
+
+---
+### 🔄 Commercial Lead - Financial Products
+**adyen** · Commercial Business Development
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7673540)
+🕐 Updated: `2026-04-15T18:31:07-04:00` &nbsp;|&nbsp; ID: `7673540`
+
+---
+### 🔄 Solutions Engineer Associate
+**alloy** · Client Success & Solutions
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8500155002&gh_jid=8500155002)
+🕐 Updated: `2026-04-15T18:38:49-04:00` &nbsp;|&nbsp; ID: `8500155002`
+
+---
+### 🔄 Technical Support Engineer II
+**alloy** · Client Success & Solutions
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8489983002&gh_jid=8489983002)
+🕐 Updated: `2026-04-15T18:25:14-04:00` &nbsp;|&nbsp; ID: `8489983002`
+
+---
+
 ## 📅 Run: 2026-04-15 22:04 UTC
 
 ### 🆕 Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
