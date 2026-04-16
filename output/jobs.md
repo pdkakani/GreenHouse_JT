@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 23:02 UTC
+
+### 🆕 Anthropic STEM Fellow
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5189848008)
+🕐 Updated: `2026-04-16T18:43:05-04:00` &nbsp;|&nbsp; ID: `5189848008`
+
+---
+### 🆕 Engineering Manager
+**calendly** · Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8510970002)
+🕐 Updated: `2026-04-16T18:21:32-04:00` &nbsp;|&nbsp; ID: `8510970002`
+
+---
+### 🆕 Staff Software Engineer, Payments / Risk
+**gusto** · Engineering
+📍 San Francisco, CA - Hybrid; New York, NY - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7822587)
+🕐 Updated: `2026-04-16T18:13:11-04:00` &nbsp;|&nbsp; ID: `7822587`
+
+---
+### 🆕 Software Engineer, Infrastructure
+**airbnb** · Software Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7822704?gh_jid=7822704)
+🕐 Updated: `2026-04-16T18:49:19-04:00` &nbsp;|&nbsp; ID: `7822704`
+
+---
+### 🔄 IBM Principal Specialist
+**mongodb** · Cloud OEM
+📍 Atlanta; Boston; Charlotte; Chicago; New York City; Philadelphia &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7818435)
+🕐 Updated: `2026-04-16T18:56:15-04:00` &nbsp;|&nbsp; ID: `7818435`
+
+---
+### 🔄 Salesforce Technical Administrator
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-16T18:39:07-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🔄 Software Engineer (L2)
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7188174)
+🕐 Updated: `2026-04-16T18:10:08-04:00` &nbsp;|&nbsp; ID: `7188174`
+
+---
+### 🔄 Customer Support Engineer II
+**fivetran** · Customer Support Department
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703497003)
+🕐 Updated: `2026-04-16T18:29:11-04:00` &nbsp;|&nbsp; ID: `7703497003`
+
+---
+### 🔄 Customer Support Engineer II
+**fivetran** · Customer Support Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7694917003)
+🕐 Updated: `2026-04-16T18:29:19-04:00` &nbsp;|&nbsp; ID: `7694917003`
+
+---
+### 🔄 Encompass Admin
+**sofi** · Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7674544003?gh_jid=7674544003)
+🕐 Updated: `2026-04-16T18:31:47-04:00` &nbsp;|&nbsp; ID: `7674544003`
+
+---
+
 ## 📅 Run: 2026-04-16 22:07 UTC
 
 ### 🆕 Software Engineer, Research Data Platform
