@@ -1,10 +1,4 @@
 {
-  "8409034002": {
-    "first_seen": "2026-04-09T11:50:54.019492+00:00",
-    "updated_at": "2026-04-09T07:23:47-04:00",
-    "title": "Senior Product Manager, Notifications",
-    "company": "duolingo"
-  },
   "8432262002": {
     "first_seen": "2026-04-09T13:09:48.710514+00:00",
     "updated_at": "2026-04-09T09:05:21-04:00",
@@ -21375,6 +21369,13 @@
     "updated_at": "2026-04-16T07:09:19-04:00",
     "title": "Engineering Manager - Vectorize",
     "company": "cloudflare",
+    "alerted": true
+  },
+  "8409034002": {
+    "first_seen": "2026-04-16T12:13:33.441616+00:00",
+    "updated_at": "2026-04-09T07:23:47-04:00",
+    "title": "Senior Product Manager, Notifications",
+    "company": "duolingo",
     "alerted": true
   }
 }

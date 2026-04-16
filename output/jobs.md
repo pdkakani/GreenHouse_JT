@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 12:13 UTC
+
+### 🆕 Senior Product Manager, Notifications
+**duolingo** · Product Management
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8409034002?gh_jid=8409034002)
+🕐 Updated: `2026-04-09T07:23:47-04:00` &nbsp;|&nbsp; ID: `8409034002`
+
+---
+
 ## 📅 Run: 2026-04-16 11:20 UTC
 
 ### 🆕 Engineering Manager - Vectorize
