@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 10:12 UTC
+
+### 🆕 Senior Engineer, Security Automation
+**twilio** · Security
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7206764)
+🕐 Updated: `2026-04-16T05:51:28-04:00` &nbsp;|&nbsp; ID: `7206764`
+
+---
+### 🆕 Senior Software Engineer, macOS Specialist
+**datadog** · Dev Eng
+📍 Portugal, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7820817/?gh_jid=7820817)
+🕐 Updated: `2026-04-16T06:07:15-04:00` &nbsp;|&nbsp; ID: `7820817`
+
+---
+### 🆕 Senior Software Engineer, macOS Specialist
+**datadog** · Dev Eng
+📍 Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; United Kingdom, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7820814/?gh_jid=7820814)
+🕐 Updated: `2026-04-16T06:06:25-04:00` &nbsp;|&nbsp; ID: `7820814`
+
+---
+### 🆕 Software Engineer 2
+**abnormalsecurity** · Platform & Infrastructure
+📍 Hybrid - Bangalore, India &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694704003?gh_jid=7694704003)
+🕐 Updated: `2026-04-16T05:23:30-04:00` &nbsp;|&nbsp; ID: `7694704003`
+
+---
+### 🆕 Software Engineer 2
+**abnormalsecurity** · Message Security Products
+📍 Hybrid - Bangalore, India &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694634003?gh_jid=7694634003)
+🕐 Updated: `2026-04-16T05:09:09-04:00` &nbsp;|&nbsp; ID: `7694634003`
+
+---
+### 🆕 Software Engineer 2
+**abnormalsecurity** · Message Security Products
+📍 Hybrid - Bangalore, India &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694628003?gh_jid=7694628003)
+🕐 Updated: `2026-04-16T05:00:19-04:00` &nbsp;|&nbsp; ID: `7694628003`
+
+---
+
 ## 📅 Run: 2026-04-16 08:55 UTC
 
 ### 🆕 Senior Solutions Engineer
