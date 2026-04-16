@@ -2,6 +2,897 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 15:57 UTC
+
+### 🆕 Delivery Solutions Architect
+**databricks** · Delivery Solutions Architects
+📍 Finland; Remote - Denmark; Stockholm, Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002)
+🕐 Updated: `2026-04-15T08:34:07-04:00` &nbsp;|&nbsp; ID: `8441894002`
+
+---
+### 🆕 Senior Manager, Developer Evangelism
+**twilio** · Marketing
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7805163)
+🕐 Updated: `2026-04-16T11:21:22-04:00` &nbsp;|&nbsp; ID: `7805163`
+
+---
+### 🆕 Staff, Product Manager
+**twilio** · Product Management
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7821526)
+🕐 Updated: `2026-04-16T11:55:01-04:00` &nbsp;|&nbsp; ID: `7821526`
+
+---
+### 🆕 Staff, Product Manager
+**twilio** · Product Management
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7818178)
+🕐 Updated: `2026-04-16T11:54:49-04:00` &nbsp;|&nbsp; ID: `7818178`
+
+---
+### 🆕 Software Engineer II, Growth
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7694827003)
+🕐 Updated: `2026-04-10T01:02:10-04:00` &nbsp;|&nbsp; ID: `7694827003`
+
+---
+### 🆕 AI Solutions Architect
+**mercury** · Support Operations & Strategy
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5888354004)
+🕐 Updated: `2026-04-09T18:37:42-04:00` &nbsp;|&nbsp; ID: `5888354004`
+
+---
+### 🆕 Senior DevOps Engineer
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7821447)
+🕐 Updated: `2026-04-16T11:23:11-04:00` &nbsp;|&nbsp; ID: `7821447`
+
+---
+### 🆕 Senior Engineering Manager - Machine Learning Data Enablement
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7653462)
+🕐 Updated: `2026-04-16T11:20:46-04:00` &nbsp;|&nbsp; ID: `7653462`
+
+---
+### 🆕 Senior Technical Program Manager, Enterprise
+**instacart** · Technical Program Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6932499)
+🕐 Updated: `2026-04-16T11:34:02-04:00` &nbsp;|&nbsp; ID: `6932499`
+
+---
+### 🆕 Mechanical Engineering Manager
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7797362/apply/?gh_jid=7797362)
+🕐 Updated: `2026-04-09T09:41:36-04:00` &nbsp;|&nbsp; ID: `7797362`
+
+---
+### 🆕 Mechanical Engineering Manager
+**formlabs** · Hardware Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7797361/apply/?gh_jid=7797361)
+🕐 Updated: `2026-04-09T09:40:55-04:00` &nbsp;|&nbsp; ID: `7797361`
+
+---
+### 🔄 Applications Engineer 2
+**twilio** · Sales Operations
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7646270)
+🕐 Updated: `2026-04-16T10:31:06-04:00` &nbsp;|&nbsp; ID: `7646270`
+
+---
+### 🔄 Business Systems Analyst 2
+**twilio** · Services
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7254399)
+🕐 Updated: `2026-04-16T10:35:59-04:00` &nbsp;|&nbsp; ID: `7254399`
+
+---
+### 🔄 Cloud Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7484699)
+🕐 Updated: `2026-04-16T10:35:36-04:00` &nbsp;|&nbsp; ID: `7484699`
+
+---
+### 🔄 Enablement Business Partner, SDR (Sales Development Representatives)
+**twilio** · Sales
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7783164)
+🕐 Updated: `2026-04-16T10:26:09-04:00` &nbsp;|&nbsp; ID: `7783164`
+
+---
+### 🔄 Engineer, Identity & Access
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657991)
+🕐 Updated: `2026-04-16T10:30:39-04:00` &nbsp;|&nbsp; ID: `7657991`
+
+---
+### 🔄 Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7350846)
+🕐 Updated: `2026-04-16T10:35:53-04:00` &nbsp;|&nbsp; ID: `7350846`
+
+---
+### 🔄 Principal Presales Engineer
+**twilio** · Solutions Engineering
+📍 Remote - Japan &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7452089)
+🕐 Updated: `2026-04-16T10:35:05-04:00` &nbsp;|&nbsp; ID: `7452089`
+
+---
+### 🔄 Sales Development Representative
+**twilio** · Sales
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7662329)
+🕐 Updated: `2026-04-16T10:29:25-04:00` &nbsp;|&nbsp; ID: `7662329`
+
+---
+### 🔄 Salesforce Technical Administrator
+**twilio** · Solutions Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781657)
+🕐 Updated: `2026-04-16T10:25:38-04:00` &nbsp;|&nbsp; ID: `7781657`
+
+---
+### 🔄 Senior Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622278)
+🕐 Updated: `2026-04-16T10:29:04-04:00` &nbsp;|&nbsp; ID: `7622278`
+
+---
+### 🔄 Senior Engineer, Security Automation
+**twilio** · Security
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7247707)
+🕐 Updated: `2026-04-16T10:36:07-04:00` &nbsp;|&nbsp; ID: `7247707`
+
+---
+### 🔄 Senior Engineer, Security Automation
+**twilio** · Security
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7206764)
+🕐 Updated: `2026-04-16T10:36:07-04:00` &nbsp;|&nbsp; ID: `7206764`
+
+---
+### 🔄 Senior Network Engineer
+**twilio** · IT
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: `2026-04-16T10:33:24-04:00` &nbsp;|&nbsp; ID: `7657993`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - Spain &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7535345)
+🕐 Updated: `2026-04-16T10:32:01-04:00` &nbsp;|&nbsp; ID: `7535345`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7662058)
+🕐 Updated: `2026-04-16T10:29:36-04:00` &nbsp;|&nbsp; ID: `7662058`
+
+---
+### 🔄 Senior Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7747554)
+🕐 Updated: `2026-04-16T10:24:57-04:00` &nbsp;|&nbsp; ID: `7747554`
+
+---
+### 🔄 Senior Software Engineer- Video Signalling 
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7394811)
+🕐 Updated: `2026-04-16T10:35:19-04:00` &nbsp;|&nbsp; ID: `7394811`
+
+---
+### 🔄 Senior Solutions Engineer 3
+**twilio** · Solutions Engineering
+📍 Remote - Australia; Remote - Japan; Remote - Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7511486)
+🕐 Updated: `2026-04-16T10:34:35-04:00` &nbsp;|&nbsp; ID: `7511486`
+
+---
+### 🔄 Senior Zendesk Business Systems Analyst
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7705692)
+🕐 Updated: `2026-04-16T10:27:54-04:00` &nbsp;|&nbsp; ID: `7705692`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7747550)
+🕐 Updated: `2026-04-16T10:24:48-04:00` &nbsp;|&nbsp; ID: `7747550`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Estonia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7699251)
+🕐 Updated: `2026-04-16T10:28:18-04:00` &nbsp;|&nbsp; ID: `7699251`
+
+---
+### 🔄 Software Engineer
+**twilio** · Engineering
+📍 Remote - Estonia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7647708)
+🕐 Updated: `2026-04-16T10:29:41-04:00` &nbsp;|&nbsp; ID: `7647708`
+
+---
+### 🔄 Software Engineer (L3) Infrastructure
+**twilio** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7767260)
+🕐 Updated: `2026-04-16T10:26:32-04:00` &nbsp;|&nbsp; ID: `7767260`
+
+---
+### 🔄 Staff Engineer, Offensive Security
+**twilio** · Security
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622285)
+🕐 Updated: `2026-04-16T10:29:14-04:00` &nbsp;|&nbsp; ID: `7622285`
+
+---
+### 🔄 Staff Machine Learning Engineer (L4)
+**twilio** · Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7520997)
+🕐 Updated: `2026-04-16T10:34:23-04:00` &nbsp;|&nbsp; ID: `7520997`
+
+---
+### 🔄 Staff Product Manager - Core Commerce Platform
+**twilio** · Product Management
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7171180)
+🕐 Updated: `2026-04-16T10:36:03-04:00` &nbsp;|&nbsp; ID: `7171180`
+
+---
+### 🔄 Staff Software Engineer (L4)
+**twilio** · IT
+📍 Remote - Colombia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7716279)
+🕐 Updated: `2026-04-16T10:27:44-04:00` &nbsp;|&nbsp; ID: `7716279`
+
+---
+### 🔄 Staff Software Engineer (L4)
+**twilio** · IT
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7714237)
+🕐 Updated: `2026-04-16T10:27:50-04:00` &nbsp;|&nbsp; ID: `7714237`
+
+---
+### 🔄 Technical Administrator 2
+**twilio** · Solutions Engineering
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7807739)
+🕐 Updated: `2026-04-16T10:25:55-04:00` &nbsp;|&nbsp; ID: `7807739`
+
+---
+### 🔄 Technical Support Engineer 2 (Email Infra)
+**twilio** · Customer Support
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7349692)
+🕐 Updated: `2026-04-16T10:35:42-04:00` &nbsp;|&nbsp; ID: `7349692`
+
+---
+### 🔄 Account Executive, Enterprise Platforms (New Business)
+**stripe** · 1652 Platforms - Account Executives (NA)
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7218796)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7218796`
+
+---
+### 🔄 Account Executive, Platforms (Existing Business)
+**stripe** · 1652 Platforms - Account Executives (NA)
+📍 US-SF-HQ &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7576967)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7576967`
+
+---
+### 🔄 Account Executive, Platforms (Grower)
+**stripe** · 1652 Platforms - Account Executives (NA)
+📍 US-SF, US-NYC &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7577015)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7577015`
+
+---
+### 🔄 Account Executive, Product Sales - Capital
+**stripe** · 1642 Product Sales - MaaS
+📍 SF, NYC, SEA, CHI &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7728365)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7728365`
+
+---
+### 🔄 Account Executive, Startup Platforms (Existing Business)
+**stripe** · 1652 Platforms - Account Executives (NA)
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7339700)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7339700`
+
+---
+### 🔄 AI/ML Engineering Manager, Payment Intelligence
+**stripe** · 8511 PayIntel - Eng
+📍 US-SF, US-NYC, US-SEA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7286376)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7286376`
+
+---
+### 🔄 Android Engineer, Terminal Developer Productivity
+**stripe** · 8512 Terminal - Eng
+📍 San Francisco, Seattle, Remote in US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7550154)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7550154`
+
+---
+### 🔄 Android Engineer, Terminal Global Payments
+**stripe** · 8512 Terminal - Eng
+📍 San Francisco, CA, Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7778627)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7778627`
+
+---
+### 🔄 Android Engineer, Terminal OS Platform
+**stripe** · 8512 Terminal - Eng
+📍 San Francisco, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7557403)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7557403`
+
+---
+### 🔄 Backend / API Engineer, Billing
+**stripe** · 9014 Metronome - R&D
+📍 San Francisco, Seattle, NYC, US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7737241)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7737241`
+
+---
+### 🔄 Backend/API Engineer, Money as a Service
+**stripe** · 8546 MMS Platform - Eng
+📍 US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6176758)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6176758`
+
+---
+### 🔄 Backend / API Engineer, Privacy Products
+**stripe** · 8613 Data Privacy
+📍 San Francisco, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7579264)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7579264`
+
+---
+### 🔄 Backend Engineer, Core Tech, Canada
+**stripe** · 8127 Core Infrastructure
+📍 Toronto, CAN-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6567253)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6567253`
+
+---
+### 🔄 Backend Engineer, Core Technology
+**stripe** · 8127 Core Infrastructure
+📍 US-Remote, Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6042172)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6042172`
+
+---
+### 🔄 Backend Engineer, Developer Experience & Product Platform 
+**stripe** · 8551 OAP - Eng
+📍 Toronto Canada, San Francisco, Remote in US, Remote in Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7292520)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7292520`
+
+---
+### 🔄 Backend Engineer, Payments and Risk
+**stripe** · 8582 Optimized Checkout - Eng
+📍 US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7232592)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7232592`
+
+---
+### 🔄 Backend Engineer, Payments and Risk
+**stripe** · 8560 Bank Connections - Eng
+📍 US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6163230)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6163230`
+
+---
+### 🔄 Backend Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7235875)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7235875`
+
+---
+### 🔄 Business Development Manager, Agentic Commerce
+**stripe** · 1650 AI GTM Strategy & Solutions
+📍 San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7524334)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7524334`
+
+---
+### 🔄 Capital & Liquidity Risk Lead
+**stripe** · 6410 Treasury Finance
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7551322)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7551322`
+
+---
+### 🔄 Corporate Network Engineering Manager
+**stripe** · 7313 CorpTech Corporate Engineering
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7736482)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7736482`
+
+---
+### 🔄 Design Engineer, Presence
+**stripe** · 8813 Web Presence & Platform
+📍 US, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7144975)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7144975`
+
+---
+### 🔄 Design Manager, Web Presence
+**stripe** · 8813 Web Presence & Platform
+📍 US / Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7241636)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7241636`
+
+---
+### 🔄 Engineering Manager, Agent Experience
+**stripe** · 8116 Developer Platform - Eng
+📍 CA-Toronto &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657999)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7657999`
+
+---
+### 🔄 Engineering Manager, Agentic Commerce
+**stripe** · 8510 Agentic Commerce
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7334661)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7334661`
+
+---
+### 🔄 Engineering Manager, Connect
+**stripe** · 8546 MMS Platform - Eng
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7762324)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7762324`
+
+---
+### 🔄 Engineering Manager, Core Events
+**stripe** · 8126 Developer Infrastructure
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7762570)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7762570`
+
+---
+### 🔄 Engineering Manager, Developer Productivity AI
+**stripe** · 8126 Developer Infrastructure
+📍 US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7736943)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7736943`
+
+---
+### 🔄 Engineering Manager, HADR
+**stripe** · 8126 Developer Infrastructure
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657997)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7657997`
+
+---
+### 🔄 Engineering Manager, Issuing
+**stripe** · 8590 BaaS - Eng
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7760378)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7760378`
+
+---
+### 🔄 Engineering Manager of Managers, Data Platform
+**stripe** · 8125 Core Compute
+📍 Seattle, San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7747391)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7747391`
+
+---
+### 🔄 Engineering Manager, Payments API
+**stripe** · 8582 Optimized Checkout - Eng
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7663636)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7663636`
+
+---
+### 🔄 Engineering Manager, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7729216)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7729216`
+
+---
+### 🔄 Engineering Program Manager, Infrastructure
+**stripe** · 8914 Core Tech Technical Program Management
+📍 Remote in the US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7747178)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7747178`
+
+---
+### 🔄 Engineering Program Manager, Tech GRC
+**stripe** · 8135 Compliance
+📍 SFO, US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7739260)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7739260`
+
+---
+### 🔄 Enterprise Platforms Sales Manager (Existing Business)
+**stripe** · 1170 GEO Sales HQ (NA)
+📍 US-SF &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7375100)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7375100`
+
+---
+### 🔄 Enterprise Solutions Architecture Manager, AMER
+**stripe** · 1150 Solutions Architecture
+📍 US-San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7779497)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7779497`
+
+---
+### 🔄 EU Market Development, Climate
+**stripe** · 6211 Frontier Climate
+📍 Brussels, Belgium OR London, United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7722641)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7722641`
+
+---
+### 🔄 Forward Deployed Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 New York Privy HQ &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7230452)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7230452`
+
+---
+### 🔄 Forward Deployed Engineer, Professional Services
+**stripe** · 1141 AMER Delivery
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7671038)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7671038`
+
+---
+### 🔄 Frontend Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7656562)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7656562`
+
+---
+### 🔄 Full Stack Engineer, Link
+**stripe** · 8560 Bank Connections - Eng
+📍 Toronto, Remote in Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6447175)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6447175`
+
+---
+### 🔄 Fullstack Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy, US-Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7091959)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7091959`
+
+---
+### 🔄 Head of Industry Pursuits, Enterprise Platforms (New Business)
+**stripe** · 1170 GEO Sales HQ (NA)
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7375436)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7375436`
+
+---
+### 🔄 HRIS Engineer
+**stripe** · 6513 People Systems & Solutions
+📍 Canada, US-Remote, Chicago, Atlanta &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7765976)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7765976`
+
+---
+### 🔄 Infrastructure Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7462961)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7462961`
+
+---
+### 🔄 Learning Architect
+**stripe** · 6540 Talent Development
+📍 SF or NYC &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7773831)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7773831`
+
+---
+### 🔄 Machine Learning Engineer, Payments ML Accelerator
+**stripe** · 7112 Data Science
+📍 Seattle; San Francisco; New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7079044)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7079044`
+
+---
+### 🔄 Machine Learning Engineer, Stripe Assistant 
+**stripe** · 8212 ML Foundations
+📍 Seattle; San Francisco; New York City; Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7629052)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7629052`
+
+---
+### 🔄 Manager, Sales Development
+**stripe** · 1130 Global Sales Development Mgrs
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7702181)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7702181`
+
+---
+### 🔄 Partner Development Manager, Financial Partnership Capabilities 
+**stripe** · 3511 Financial Services Partnerships
+📍 US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7249573)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7249573`
+
+---
+### 🔄 Partner Development Manager, Global Networks
+**stripe** · 3511 Financial Services Partnerships
+📍 US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7697675)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7697675`
+
+---
+### 🔄 Partner Development Manager, Strategic Partnerships
+**stripe** · 3513 Core Product Partnerships
+📍 US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7697672)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7697672`
+
+---
+### 🔄 Partner Solutions Architect - AWS
+**stripe** · 1160 Partner Solution Engineering
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7607761)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7607761`
+
+---
+### 🔄 Partner Solutions Architect - Consulting Partners
+**stripe** · 1160 Partner Solution Engineering
+📍 Chicago or Atlanta &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7411434)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7411434`
+
+---
+### 🔄 People Process Optimization Specialist
+**stripe** · 6513 People Systems & Solutions
+📍 USA Remote or office based &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7594204)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7594204`
+
+---
+### 🔄 People Process Optimization Team Lead
+**stripe** · 6513 People Systems & Solutions
+📍 US office based or remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7603763)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7603763`
+
+---
+### 🔄 PhD Machine Learning Engineer, Intern
+**stripe** · 5112 General University
+📍 San Francisco, New York City, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7216664)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7216664`
+
+---
+### 🔄 PhD Machine Learning Engineer, New Grad
+**stripe** · 5112 General University
+📍 San Francisco, New York City, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7216668)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7216668`
+
+---
+### 🔄 Product Manager, Banking as a Service
+**stripe** · 8256 BaaS - PM
+📍 Chicago / Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7561053)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7561053`
+
+---
+### 🔄 Product Manager, Commerce Systems
+**stripe** · 8121 Revenue Foundations
+📍 SF, SEA, NYC, US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7561551)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7561551`
+
+---
+### 🔄 Product Manager IC-02
+**stripe** · PERM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812346)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7812346`
+
+---
+### 🔄 Product Manager, Link Consumer Product
+**stripe** · 8570 Consumer Network - Eng
+📍 SF, SEA, NY, Remote-US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7392697)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7392697`
+
+---
+### 🔄 Product Manager: New Grad Accelerator
+**stripe** · 8557 Payments Admin
+📍 San Francisco, New York City, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7737124)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7737124`
+
+---
+### 🔄 Product Manager, Payments
+**stripe** · 8554 Payments Experiences - PM
+📍 SF, NY, SEA, Remote-US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7176530)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7176530`
+
+---
+### 🔄 Product Manager, Payments Intelligence
+**stripe** · 8256 BaaS - PM
+📍 US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7580706)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7580706`
+
+---
+### 🔄 Product Manager, Stripe Infrastructure
+**stripe** · 8915 Core Tech Product Management
+📍 Remote in the US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6651889)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6651889`
+
+---
+### 🔄 Product Manager, Terminal Device Expansion
+**stripe** · 8258 Terminal - PM
+📍 Seattle, San Francisco, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7397265)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7397265`
+
+---
+### 🔄 Product Sales Manager, Capital
+**stripe** · 1642 Product Sales - MaaS
+📍 NYC, SF &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7391537)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7391537`
+
+---
+### 🔄 Sales Compensation Analytics & Systems Specialist
+**stripe** · 6452 Sales Comp
+📍 CHI, SF, NYC &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7739207)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7739207`
+
+---
+### 🔄 Sales Development Representative
+**stripe** · 1132 AMER Sales Development Reps
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6570253)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6570253`
+
+---
+### 🔄 SDK Engineer (React/React Native), Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7736171)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7736171`
+
+---
+### 🔄 Security Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 SF, New York, Seattle, Dublin &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7776179)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7776179`
+
+---
+### 🔄 Security Engineer, New Grad 
+**stripe** · 5112 General University
+📍 Seattle, WA; San Francisco, CA; Toronto, CAN &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7477571)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7477571`
+
+---
+### 🔄 Senior Debt Capital Markets Specialist, Treasury-Finance
+**stripe** · 6410 Treasury Finance
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7551324)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7551324`
+
+---
+### 🔄 Software Engineer
+**stripe** · PERM
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7788088)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7788088`
+
+---
+### 🔄 Software Engineer
+**stripe** · PERM
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7808471)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7808471`
+
+---
+### 🔄 Software Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 San Francisco, NY, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7277110)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7277110`
+
+---
+### 🔄 Software Engineer, Intern (Summer)
+**stripe** · 5112 General University
+📍 San Francisco, Seattle, New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7210115)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7210115`
+
+---
+### 🔄 Software Engineer L2
+**stripe** · PERM
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812279)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7812279`
+
+---
+### 🔄 Software Engineer, Product Security Data Platforms
+**stripe** · 8711 Experimental Bets - Product
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7761694)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7761694`
+
+---
+### 🔄 Software Engineer - Smart Contract, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 San Francisco or New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7507904)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7507904`
+
+---
+### 🔄 Solutions Architect, SMB
+**stripe** · 1150 Solutions Architecture
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7361440)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7361440`
+
+---
+### 🔄 Solutions Engineer, Bridge
+**stripe** · 8589 Bridge - S&M
+📍 NYC &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7434912)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7434912`
+
+---
+### 🔄 Specialist Solutions Architect, Crypto & Stablecoins
+**stripe** · 1150 Solutions Architecture
+📍 US-NY &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7120766)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7120766`
+
+---
+### 🔄 Specialist Solutions Architect, Money Management
+**stripe** · 1150 Solutions Architecture
+📍 NY, SF, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7380371)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7380371`
+
+---
+### 🔄 Specialist Solutions Architect, Payments
+**stripe** · 1150 Solutions Architecture
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7377593)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7377593`
+
+---
+### 🔄 Specialist Solutions Architect, Payments
+**stripe** · 1150 Solutions Architecture
+📍 NY, SF, Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7377591)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7377591`
+
+---
+### 🔄 Specialist Solutions Architect, Radar (Fraud/Risk)
+**stripe** · 1150 Solutions Architecture
+📍 NY or SF &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7365914)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7365914`
+
+---
+### 🔄 Staff Engineer, Account Engineering
+**stripe** · 8514 Connect - Eng
+📍 NYC, SEA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7369269)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7369269`
+
+---
+### 🔄 Staff Engineer, Experimental Projects
+**stripe** · 5113 Experimental Bets - Core Tech
+📍 US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7280343)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7280343`
+
+---
+### 🔄 Staff Engineer, Payments
+**stripe** · 8556 LPM Core - Eng
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7416957)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7416957`
+
+---
+### 🔄 Staff Engineer, Workflow Engine
+**stripe** · 8186 Service Platform
+📍 Seattle, US-Remote, San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7600571)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7600571`
+
+---
+### 🔄 Staff Product Manager, Orchestration Lead
+**stripe** · 8555 Payments Globalization - PM
+📍 SF, NY, SEA, US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7568987)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7568987`
+
+---
+### 🔄 Staff Product Manager, Payments
+**stripe** · 8552 PayIntel - PM
+📍 SF, SEA, NYC, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7819059)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7819059`
+
+---
+### 🔄 Staff Product Manager, Stripe Apps and Extensibility Platform
+**stripe** · 8566 Developer Platform - PM
+📍 San Francisco, Seattle, NYC, Chicago, Toronto, US- Remote, Canada-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7550590)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7550590`
+
+---
+### 🔄 Staff Software Engineer, Stream Compute
+**stripe** · 8127 Core Infrastructure
+📍 San Francisco, Seattle, New York, Toronto  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7767063)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7767063`
+
+---
+### 🔄 Staff Software Engineer, Terminal Developer Productivity
+**stripe** · 8512 Terminal - Eng
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7705412)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7705412`
+
+---
+### 🔄 Technical Partner Manager, AMER Banks
+**stripe** · 3515 Partner Engineering and Operations
+📍 Chicago, US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7719602)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7719602`
+
+---
+### 🔄 Technical Partner Manager, EMEA Payment Methods
+**stripe** · 3515 Partner Engineering and Operations
+📍 Ireland-Dublin, UK-London, Ireland-remote, UK-remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7779294)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7779294`
+
+---
+### 🔄 Technical Program Manager,  Extensibility Programs
+**stripe** · 8414 MerchantXP - Eng
+📍 Remote in the US, Chicago, Atlanta &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7778643)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7778643`
+
+---
+### 🔄 Technical Program Manager,  Identity and Access Management Programs
+**stripe** · 8414 MerchantXP - Eng
+📍 Remote in the US, Chicago, Atlanta &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7417090)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7417090`
+
+---
+### 🔄 Technical Program Manager, Payments Experiences
+**stripe** · 8512 Terminal - Eng
+📍 Chicago, Remote in the US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6932491)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6932491`
+
+---
+### 🔄 Technical Program Manager, Risk
+**stripe** · 8259 Risk Tech Program Management & Other
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7685855)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7685855`
+
+---
+### 🔄 Technical Solutions Engineer
+**stripe** · 4150 Technical Support
+📍 CA-Remote-British Columbia &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7377101)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7377101`
+
+---
+### 🔄 Software Engineer, Monetization 
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7740261)
+🕐 Updated: `2026-04-16T10:35:23-04:00` &nbsp;|&nbsp; ID: `7740261`
+
+---
+### 🔄 Sr. IT Systems Engineer
+**betterment** · Internal Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7679122&gh_jid=7679122)
+🕐 Updated: `2026-04-16T11:40:23-04:00` &nbsp;|&nbsp; ID: `7679122`
+
+---
+
 ## 📅 Run: 2026-04-16 14:15 UTC
 
 ### 🆕 Senior Product Manager, Okta for AI Agents
