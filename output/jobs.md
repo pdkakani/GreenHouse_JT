@@ -2,6 +2,315 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 19:43 UTC
+
+### 🆕 Senior Specialist Solutions Architect - AI & ML Engineer
+**databricks** · Field Engineering - Other
+📍 Finland; Remote - Denmark; Stockholm, Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002)
+🕐 Updated: `2026-04-16T14:32:24-04:00` &nbsp;|&nbsp; ID: `8506063002`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703380003)
+🕐 Updated: `2026-04-16T15:31:32-04:00` &nbsp;|&nbsp; ID: `7703380003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Arizona, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703375003)
+🕐 Updated: `2026-04-16T15:31:31-04:00` &nbsp;|&nbsp; ID: `7703375003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Washington, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703387003)
+🕐 Updated: `2026-04-16T15:31:34-04:00` &nbsp;|&nbsp; ID: `7703387003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Oregon, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703385003)
+🕐 Updated: `2026-04-16T15:31:34-04:00` &nbsp;|&nbsp; ID: `7703385003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Nevada, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703383003)
+🕐 Updated: `2026-04-16T15:31:33-04:00` &nbsp;|&nbsp; ID: `7703383003`
+
+---
+### 🆕 People Solutions Program Manager
+**stripe** · 6513 People Systems & Solutions
+📍 US-Remote; US-Chicago; US-Atlanta; CA-Toronto &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7594208)
+🕐 Updated: `2026-04-16T15:33:38-04:00` &nbsp;|&nbsp; ID: `7594208`
+
+---
+### 🆕 Business Development Representative - FinTech (New York)
+**bitgo** · Sales
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8020124002)
+🕐 Updated: `2026-04-16T14:42:15-04:00` &nbsp;|&nbsp; ID: `8020124002`
+
+---
+### 🆕 Staff Product Manager, Cortex
+**robinhood** · Customer Care
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7821803?t=gh_src=&gh_jid=7821803)
+🕐 Updated: `2026-04-16T14:21:08-04:00` &nbsp;|&nbsp; ID: `7821803`
+
+---
+### 🆕 Senior Full-Stack Engineer, AI Financial Actions & Recommendations
+**sofi** · Engineering
+📍 WA - Seattle; CA - San Francisco HQ &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7692934003?gh_jid=7692934003)
+🕐 Updated: `2026-04-09T14:29:38-04:00` &nbsp;|&nbsp; ID: `7692934003`
+
+---
+### 🔄 Security Software Engineer, Detection & Response Platform
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4595463008)
+🕐 Updated: `2026-04-16T14:53:37-04:00` &nbsp;|&nbsp; ID: `4595463008`
+
+---
+### 🔄 Account Development Representative (Danish Speaking)
+**postman** · Sales
+📍 London, UK; Remote, UK &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7491395003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7491395003`
+
+---
+### 🔄 Account Development Representative (Dutch Speaking)
+**postman** · Sales
+📍 Remote, UK &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/6688721003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `6688721003`
+
+---
+### 🔄 Account Development Representative (Swedish Speaking)
+**postman** · Sales
+📍 London, UK; Remote, UK &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7491378003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7491378003`
+
+---
+### 🔄 Backend and System Engineer, Flows
+**postman** · Flows
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7485114003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7485114003`
+
+---
+### 🔄 Backend and System Engineer (nodeJS or Golang)  
+**postman** · Flows
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/6250410003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `6250410003`
+
+---
+### 🔄 Corporate Solutions Engineer, Nordics
+**postman** · Sales
+📍 Remote, Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7529471003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7529471003`
+
+---
+### 🔄 Customer Success Engineer/Devops
+**postman** · Customer Experience & Services
+📍 Boston, Massachusetts; New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7501796003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7501796003`
+
+---
+### 🔄 Engineering Manager, Liblab
+**postman** · Product Engineering
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7619842003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7619842003`
+
+---
+### 🔄 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Boston, Massachusetts; New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691477003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7691477003`
+
+---
+### 🔄 Enterprise Solutions Engineer
+**postman** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7529392003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7529392003`
+
+---
+### 🔄 Enterprise Solutions Engineer
+**postman** · Sales
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691486003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7691486003`
+
+---
+### 🔄 Enterprise Solutions Engineer, Italy
+**postman** · Sales
+📍 Remote, Italy &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7528350003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7528350003`
+
+---
+### 🔄 Enterprise Solutions Engineer, LATAM
+**postman** · Sales
+📍 Miami, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7691496003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7691496003`
+
+---
+### 🔄 Enterprise Solutions Engineer, Netherlands 
+**postman** · Sales
+📍 Remote, Netherlands &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7528372003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7528372003`
+
+---
+### 🔄 Field CTO
+**postman** · Field Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7389443003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7389443003`
+
+---
+### 🔄 Head of AI Platform Engineering
+**postman** · AI
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7452531003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7452531003`
+
+---
+### 🔄 Head of Forward Deployed Engineering
+**postman** · Leadership
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7568073003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7568073003`
+
+---
+### 🔄 Member of Technical Staff, AI Agent Development Lead
+**postman** · AI
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7452542003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7452542003`
+
+---
+### 🔄 Member of Technical Staff,  AI Platform & Architecture (Infrastructure)
+**postman** · AI
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7452534003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7452534003`
+
+---
+### 🔄 Member of Technical Staff, AI Reliability & Monitoring Engineering Lead
+**postman** · AI
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7452546003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7452546003`
+
+---
+### 🔄 Senior Backend Engineer, Cloud Platform
+**postman** · Platform Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7419694003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7419694003`
+
+---
+### 🔄 Senior Developer Advocate
+**postman** · Developer Relations
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7651740003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7651740003`
+
+---
+### 🔄 Senior Fullstack Engineer - Liblab
+**postman** · Product Engineering
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7607271003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7607271003`
+
+---
+### 🔄 Senior Manager, Solutions Engineering
+**postman** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/6999841003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `6999841003`
+
+---
+### 🔄 Senior Software Engineer, Ecosystem
+**postman** · Platform Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7627390003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7627390003`
+
+---
+### 🔄 Senior Software Engineer (Fullstack) - Ecosystems
+**postman** · Platform Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7574040003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7574040003`
+
+---
+### 🔄 Senior Solutions Architect
+**postman** · Customer Engineering
+📍 New York, New York, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/6524363003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `6524363003`
+
+---
+### 🔄 Software Engineer, Ecosystem
+**postman** · Platform Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7574033003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7574033003`
+
+---
+### 🔄 Sr. Engineer, Client Platform (UI Platform)
+**postman** · Platform Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7560532003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7560532003`
+
+---
+### 🔄 Staff Engineer, Desktop Platform
+**postman** · Platform Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7477263003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7477263003`
+
+---
+### 🔄 Strategic Solutions Engineering, Netherlands/Sweden/Denmark
+**postman** · Sales
+📍 Remote, Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7528077003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7528077003`
+
+---
+### 🔄  Manager, Security Engineering 
+**contentful** · Security
+📍 New York City, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7536576)
+🕐 Updated: `2026-04-16T15:30:25-04:00` &nbsp;|&nbsp; ID: `7536576`
+
+---
+### 🔄 Application Systems Engineering Manager
+**gusto** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7665279)
+🕐 Updated: `2026-04-16T15:26:45-04:00` &nbsp;|&nbsp; ID: `7665279`
+
+---
+### 🔄 Senior Software Engineer, Data Platform
+**lithic** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5833301004)
+🕐 Updated: `2026-04-16T15:37:47-04:00` &nbsp;|&nbsp; ID: `5833301004`
+
+---
+### 🔄 Product Manager II - Cash Balances 
+**coinbase** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7484189?gh_jid=7484189)
+🕐 Updated: `2026-04-16T15:37:15-04:00` &nbsp;|&nbsp; ID: `7484189`
+
+---
+### 🔄 Engineering Manager
+**robinhood** · Brokerage Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7813069?t=gh_src=&gh_jid=7813069)
+🕐 Updated: `2026-04-16T14:31:51-04:00` &nbsp;|&nbsp; ID: `7813069`
+
+---
+### 🔄 Senior Commercial Operations Associate - Eversight
+**instacart** · Business Development & Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7713976)
+🕐 Updated: `2026-04-16T15:11:44-04:00` &nbsp;|&nbsp; ID: `7713976`
+
+---
+### 🔄 Senior Commercial Operations Associate - Eversight
+**instacart** · Business Development & Sales
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7713978)
+🕐 Updated: `2026-04-16T15:11:44-04:00` &nbsp;|&nbsp; ID: `7713978`
+
+---
+### 🔄 Group Product Manager II, Pricing
+**lyft** · Marketplace Product
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8492202002?gh_jid=8492202002)
+🕐 Updated: `2026-04-16T15:10:38-04:00` &nbsp;|&nbsp; ID: `8492202002`
+
+---
+### 🔄 Group Product Manager II, Pricing
+**lyft** · Marketplace Product
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8490440002?gh_jid=8490440002)
+🕐 Updated: `2026-04-16T15:10:38-04:00` &nbsp;|&nbsp; ID: `8490440002`
+
+---
+
 ## 📅 Run: 2026-04-16 18:19 UTC
 
 ### 🆕 Principal Machine Learning & Data Engineer 
