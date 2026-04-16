@@ -2696,7 +2696,7 @@
   },
   "8337427002": {
     "first_seen": "2026-04-13T07:24:52.346263+00:00",
-    "updated_at": "2026-04-09T16:51:22-04:00",
+    "updated_at": "2026-04-16T17:56:28-04:00",
     "title": "Partner Sales Director",
     "company": "databricks",
     "alerted": true
@@ -4124,8 +4124,8 @@
   },
   "7696017": {
     "first_seen": "2026-04-13T07:24:53.554225+00:00",
-    "updated_at": "2026-04-06T12:03:52-04:00",
-    "title": "Manager, Datacenter Infrastructure ",
+    "updated_at": "2026-04-16T18:02:43-04:00",
+    "title": "Manager - Datacenter Infrastructure",
     "company": "fastly",
     "alerted": true
   },
@@ -8709,7 +8709,7 @@
   },
   "5841980004": {
     "first_seen": "2026-04-13T07:25:00.570556+00:00",
-    "updated_at": "2026-04-09T18:37:42-04:00",
+    "updated_at": "2026-04-16T17:49:40-04:00",
     "title": "Sales Development Manager",
     "company": "mercury",
     "alerted": true
@@ -19209,21 +19209,21 @@
   },
   "7812346": {
     "first_seen": "2026-04-13T21:08:49.444548+00:00",
-    "updated_at": "2026-04-16T11:05:52-04:00",
+    "updated_at": "2026-04-16T17:51:40-04:00",
     "title": "Product Manager IC-02",
     "company": "stripe",
     "alerted": true
   },
   "7808471": {
     "first_seen": "2026-04-13T21:08:49.446201+00:00",
-    "updated_at": "2026-04-16T11:05:52-04:00",
+    "updated_at": "2026-04-16T17:50:52-04:00",
     "title": "Software Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7812279": {
     "first_seen": "2026-04-13T21:08:49.446345+00:00",
-    "updated_at": "2026-04-16T11:05:52-04:00",
+    "updated_at": "2026-04-16T17:57:08-04:00",
     "title": "Software Engineer L2",
     "company": "stripe",
     "alerted": true
@@ -21547,14 +21547,14 @@
   },
   "7694917003": {
     "first_seen": "2026-04-16T21:27:56.613647+00:00",
-    "updated_at": "2026-04-16T17:08:41-04:00",
+    "updated_at": "2026-04-16T17:42:20-04:00",
     "title": "Customer Support Engineer II",
     "company": "fivetran",
     "alerted": true
   },
   "7703497003": {
     "first_seen": "2026-04-16T21:27:56.613698+00:00",
-    "updated_at": "2026-04-16T17:08:42-04:00",
+    "updated_at": "2026-04-16T17:42:45-04:00",
     "title": "Customer Support Engineer II",
     "company": "fivetran",
     "alerted": true
@@ -21606,6 +21606,20 @@
     "updated_at": "2026-04-16T17:27:45-04:00",
     "title": "Senior Data Scientist, Platform - Identity/Algorithms",
     "company": "airbnb",
+    "alerted": true
+  },
+  "5191226008": {
+    "first_seen": "2026-04-16T22:07:01.556094+00:00",
+    "updated_at": "2026-04-16T17:37:02-04:00",
+    "title": "Software Engineer, Research Data Platform",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7188174": {
+    "first_seen": "2026-04-16T22:07:03.772807+00:00",
+    "updated_at": "2026-04-16T18:02:25-04:00",
+    "title": "Software Engineer (L2)",
+    "company": "twilio",
     "alerted": true
   }
 }

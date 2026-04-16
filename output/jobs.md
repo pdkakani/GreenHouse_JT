@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 22:07 UTC
+
+### 🆕 Software Engineer, Research Data Platform
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5191226008)
+🕐 Updated: `2026-04-16T17:37:02-04:00` &nbsp;|&nbsp; ID: `5191226008`
+
+---
+### 🆕 Software Engineer (L2)
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7188174)
+🕐 Updated: `2026-04-16T18:02:25-04:00` &nbsp;|&nbsp; ID: `7188174`
+
+---
+### 🔄 Partner Sales Director
+**databricks** · Business Development
+📍 Chicago, Illinois; New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8337427002)
+🕐 Updated: `2026-04-16T17:56:28-04:00` &nbsp;|&nbsp; ID: `8337427002`
+
+---
+### 🔄 Manager - Datacenter Infrastructure
+**fastly** · Global Network Infrastructure
+📍 Denver, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7696017)
+🕐 Updated: `2026-04-16T18:02:43-04:00` &nbsp;|&nbsp; ID: `7696017`
+
+---
+### 🔄 Customer Support Engineer II
+**fivetran** · Customer Support Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7694917003)
+🕐 Updated: `2026-04-16T17:42:20-04:00` &nbsp;|&nbsp; ID: `7694917003`
+
+---
+### 🔄 Customer Support Engineer II
+**fivetran** · Customer Support Department
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703497003)
+🕐 Updated: `2026-04-16T17:42:45-04:00` &nbsp;|&nbsp; ID: `7703497003`
+
+---
+### 🔄 Product Manager IC-02
+**stripe** · PERM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812346)
+🕐 Updated: `2026-04-16T17:51:40-04:00` &nbsp;|&nbsp; ID: `7812346`
+
+---
+### 🔄 Software Engineer
+**stripe** · PERM
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7808471)
+🕐 Updated: `2026-04-16T17:50:52-04:00` &nbsp;|&nbsp; ID: `7808471`
+
+---
+### 🔄 Software Engineer L2
+**stripe** · PERM
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812279)
+🕐 Updated: `2026-04-16T17:57:08-04:00` &nbsp;|&nbsp; ID: `7812279`
+
+---
+### 🔄 Sales Development Manager
+**mercury** · Sales Development
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5841980004)
+🕐 Updated: `2026-04-16T17:49:40-04:00` &nbsp;|&nbsp; ID: `5841980004`
+
+---
+
 ## 📅 Run: 2026-04-16 21:28 UTC
 
 ### 🆕 Security Engineer
