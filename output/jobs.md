@@ -2,6 +2,285 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 17:14 UTC
+
+### 🆕 AI Enablement Lead, Talent & Leadership Development
+**databricks** · People
+📍 Remote - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8442287002)
+🕐 Updated: `2026-04-16T12:32:48-04:00` &nbsp;|&nbsp; ID: `8442287002`
+
+---
+### 🆕 Senior Security Engineer, Incident Response
+**databricks** · Security
+📍 Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Remote - Denmark; Remote - France; Remote - Germany; Remote - Italy; Remote - Spain; Remote - Sweden &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026632002)
+🕐 Updated: `2026-04-13T14:07:39-04:00` &nbsp;|&nbsp; ID: `8026632002`
+
+---
+### 🆕 Software Engineer II
+**iterable** · Engineering
+📍 Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7783095)
+🕐 Updated: `2026-04-09T11:49:59-04:00` &nbsp;|&nbsp; ID: `7783095`
+
+---
+### 🆕 Associate Value Engineer
+**cribl** · Sales
+📍 Remote - Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5842387004)
+🕐 Updated: `2026-04-09T14:38:18-04:00` &nbsp;|&nbsp; ID: `5842387004`
+
+---
+### 🆕 Senior Security Operations Engineer
+**cribl** · IT & Security
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5972600004)
+🕐 Updated: `2026-04-16T13:07:46-04:00` &nbsp;|&nbsp; ID: `5972600004`
+
+---
+### 🆕 CX Forward Deployed Engineer 
+**gitlab** · Customer Experience
+📍 Remote, Australia; Remote, Singapore &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8504801002)
+🕐 Updated: `2026-04-16T12:24:11-04:00` &nbsp;|&nbsp; ID: `8504801002`
+
+---
+### 🆕 Platform Operations Analyst
+**sofi** · Ops PMO
+📍 UT - Cottonwood Heights; CA - San Francisco HQ; VA - Reston; TX - Frisco    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7702206003?gh_jid=7702206003)
+🕐 Updated: `2026-04-16T13:12:35-04:00` &nbsp;|&nbsp; ID: `7702206003`
+
+---
+### 🔄 AI Enablement Lead, Talent & Leadership Development
+**databricks** · People
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8071850002)
+🕐 Updated: `2026-04-16T12:32:06-04:00` &nbsp;|&nbsp; ID: `8071850002`
+
+---
+### 🔄 Senior IAM & Security Engineer
+**mongodb** · Enterprise Security 
+📍 Atlanta; Boston; New York City; United States; Washington DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656721)
+🕐 Updated: `2026-04-16T13:10:15-04:00` &nbsp;|&nbsp; ID: `7656721`
+
+---
+### 🔄 Machine Learning Engineer
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7702644)
+🕐 Updated: `2026-04-16T13:03:11-04:00` &nbsp;|&nbsp; ID: `7702644`
+
+---
+### 🔄 Software Engineer, Data
+**airtable** · Data
+📍 San Francisco, CA; Austin, TX; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8124953002)
+🕐 Updated: `2026-04-16T12:40:35-04:00` &nbsp;|&nbsp; ID: `8124953002`
+
+---
+### 🔄 Senior Product Manager, Contractor Products
+**gusto** · Product Management
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7562102)
+🕐 Updated: `2026-04-16T12:18:20-04:00` &nbsp;|&nbsp; ID: `7562102`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249885002?gh_jid=8249885002)
+🕐 Updated: `2026-04-16T12:08:04-04:00` &nbsp;|&nbsp; ID: `8249885002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8426273002?gh_jid=8426273002)
+🕐 Updated: `2026-04-16T12:08:04-04:00` &nbsp;|&nbsp; ID: `8426273002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249658002?gh_jid=8249658002)
+🕐 Updated: `2026-04-16T12:08:04-04:00` &nbsp;|&nbsp; ID: `8249658002`
+
+---
+### 🔄 Senior Application Security Engineer
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8249884002?gh_jid=8249884002)
+🕐 Updated: `2026-04-16T12:08:04-04:00` &nbsp;|&nbsp; ID: `8249884002`
+
+---
+### 🔄 Senior GRC Lead
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8378840002?gh_jid=8378840002)
+🕐 Updated: `2026-04-16T12:09:51-04:00` &nbsp;|&nbsp; ID: `8378840002`
+
+---
+### 🔄 Senior GRC Lead
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8378792002?gh_jid=8378792002)
+🕐 Updated: `2026-04-16T12:09:51-04:00` &nbsp;|&nbsp; ID: `8378792002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339252002?gh_jid=8339252002)
+🕐 Updated: `2026-04-16T12:08:46-04:00` &nbsp;|&nbsp; ID: `8339252002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339283002?gh_jid=8339283002)
+🕐 Updated: `2026-04-16T12:08:46-04:00` &nbsp;|&nbsp; ID: `8339283002`
+
+---
+### 🔄 Senior Security Operations Engineer 
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8339277002?gh_jid=8339277002)
+🕐 Updated: `2026-04-16T12:08:46-04:00` &nbsp;|&nbsp; ID: `8339277002`
+
+---
+### 🔄 Senior Data Platform Engineer
+**upstart** · Data Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7812130)
+🕐 Updated: `2026-04-16T11:59:36-04:00` &nbsp;|&nbsp; ID: `7812130`
+
+---
+### 🔄 Account Development Executive
+**justworks** · Sales
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7814842?gh_jid=7814842)
+🕐 Updated: `2026-04-16T12:20:07-04:00` &nbsp;|&nbsp; ID: `7814842`
+
+---
+### 🔄 Account Development Executive (Miami, FL)
+**justworks** · Sales
+📍 Remote - U.S.A. &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7819796?gh_jid=7819796)
+🕐 Updated: `2026-04-16T12:20:17-04:00` &nbsp;|&nbsp; ID: `7819796`
+
+---
+### 🔄 Analytics Engineer 
+**betterment** · Data
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7279887&gh_jid=7279887)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7279887`
+
+---
+### 🔄 Business Development Representative 
+**betterment** · Betterment at Work
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=6209414&gh_jid=6209414)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `6209414`
+
+---
+### 🔄 Engineering Manager
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7187115&gh_jid=7187115)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7187115`
+
+---
+### 🔄 Engineering Manager, Detect & Respond
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7818752&gh_jid=7818752)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7818752`
+
+---
+### 🔄 Group Product Manager, Broker Dealer
+**betterment** · Product
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7746133&gh_jid=7746133)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7746133`
+
+---
+### 🔄 IT Support Technician
+**betterment** · Internal Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7678330&gh_jid=7678330)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7678330`
+
+---
+### 🔄 IT Systems Engineer 
+**betterment** · Internal Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7751371&gh_jid=7751371)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7751371`
+
+---
+### 🔄 Sr. Engineering Manager, Broker Dealer
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7603992&gh_jid=7603992)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7603992`
+
+---
+### 🔄 Sr. Engineering Manager, SRE
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7808872&gh_jid=7808872)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7808872`
+
+---
+### 🔄 Sr. IT Systems Engineer
+**betterment** · Internal Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7679122&gh_jid=7679122)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7679122`
+
+---
+### 🔄 Sr. Product Manager, Investor
+**betterment** · Product
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7536230&gh_jid=7536230)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7536230`
+
+---
+### 🔄 Sr. Product Security Engineer 
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7310464&gh_jid=7310464)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7310464`
+
+---
+### 🔄 Sr. Software Engineer
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7249056&gh_jid=7249056)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7249056`
+
+---
+### 🔄 Sr. Software Engineer, Backend
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7220419&gh_jid=7220419)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7220419`
+
+---
+### 🔄 Staff Engineer, Backend
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7391580&gh_jid=7391580)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7391580`
+
+---
+### 🔄 Staff Full Stack Software Engineer - Product Engineering
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7249044&gh_jid=7249044)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7249044`
+
+---
+### 🔄 Staff Mobile Engineer – Platform
+**betterment** · Engineering
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7611042&gh_jid=7611042)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7611042`
+
+---
+### 🔄 Technical Program Manager, Broker Dealer
+**betterment** · Product
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7723110&gh_jid=7723110)
+🕐 Updated: `2026-04-16T12:39:58-04:00` &nbsp;|&nbsp; ID: `7723110`
+
+---
+### 🔄 Product Manager, Crypto Trading
+**robinhood** · Crypto Product Management
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7536920?t=gh_src=&gh_jid=7536920)
+🕐 Updated: `2026-04-16T13:05:41-04:00` &nbsp;|&nbsp; ID: `7536920`
+
+---
+### 🔄 Staff Software Engineer, Crypto Custody
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7470947?t=gh_src=&gh_jid=7470947)
+🕐 Updated: `2026-04-16T13:05:29-04:00` &nbsp;|&nbsp; ID: `7470947`
+
+---
+### 🔄 Staff Software Engineer, Web3
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950)
+🕐 Updated: `2026-04-16T13:05:39-04:00` &nbsp;|&nbsp; ID: `7489950`
+
+---
+### 🔄 Staff Technical Program Manager
+**robinhood** · Crypto Engineering
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489212?t=gh_src=&gh_jid=7489212)
+🕐 Updated: `2026-04-16T13:05:31-04:00` &nbsp;|&nbsp; ID: `7489212`
+
+---
+
 ## 📅 Run: 2026-04-16 15:57 UTC
 
 ### 🆕 Delivery Solutions Architect

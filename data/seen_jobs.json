@@ -1,29 +1,4 @@
 {
-  "8026632002": {
-    "first_seen": "2026-04-09T16:21:10.947489+00:00",
-    "updated_at": "2026-04-13T14:07:39-04:00",
-    "title": "Senior Security Engineer, Incident Response",
-    "company": "databricks",
-    "alerted": false
-  },
-  "7783095": {
-    "first_seen": "2026-04-09T16:21:15.560633+00:00",
-    "updated_at": "2026-04-09T11:49:59-04:00",
-    "title": "Software Engineer II",
-    "company": "iterable"
-  },
-  "5842387004": {
-    "first_seen": "2026-04-09T16:21:15.938863+00:00",
-    "updated_at": "2026-04-09T14:38:18-04:00",
-    "title": "Associate Value Engineer",
-    "company": "cribl"
-  },
-  "8495235002": {
-    "first_seen": "2026-04-09T16:21:22.832315+00:00",
-    "updated_at": "2026-04-09T12:25:34-04:00",
-    "title": "Senior Site Reliability Engineer",
-    "company": "calendly"
-  },
   "7155492": {
     "first_seen": "2026-04-09T17:35:55.420543+00:00",
     "updated_at": "2026-04-13T10:25:43-04:00",
@@ -3984,7 +3959,7 @@
   },
   "7656721": {
     "first_seen": "2026-04-13T07:24:52.850649+00:00",
-    "updated_at": "2026-04-14T15:48:55-04:00",
+    "updated_at": "2026-04-16T13:10:15-04:00",
     "title": "Senior IAM & Security Engineer",
     "company": "mongodb",
     "alerted": true
@@ -4453,7 +4428,7 @@
   },
   "7702644": {
     "first_seen": "2026-04-13T07:24:53.660863+00:00",
-    "updated_at": "2026-04-13T10:25:45-04:00",
+    "updated_at": "2026-04-16T13:03:11-04:00",
     "title": "Machine Learning Engineer",
     "company": "twilio",
     "alerted": true
@@ -7400,7 +7375,7 @@
   },
   "8124953002": {
     "first_seen": "2026-04-13T07:24:57.733719+00:00",
-    "updated_at": "2026-04-06T15:42:37-04:00",
+    "updated_at": "2026-04-16T12:40:35-04:00",
     "title": "Software Engineer, Data",
     "company": "airtable",
     "alerted": true
@@ -8611,28 +8586,28 @@
   },
   "8249884002": {
     "first_seen": "2026-04-13T07:25:00.487430+00:00",
-    "updated_at": "2026-04-11T15:46:01-04:00",
+    "updated_at": "2026-04-16T12:08:04-04:00",
     "title": "Senior Application Security Engineer",
     "company": "brex",
     "alerted": true
   },
   "8249658002": {
     "first_seen": "2026-04-13T07:25:00.487469+00:00",
-    "updated_at": "2026-04-11T15:46:01-04:00",
+    "updated_at": "2026-04-16T12:08:04-04:00",
     "title": "Senior Application Security Engineer",
     "company": "brex",
     "alerted": true
   },
   "8426273002": {
     "first_seen": "2026-04-13T07:25:00.487493+00:00",
-    "updated_at": "2026-04-11T15:46:01-04:00",
+    "updated_at": "2026-04-16T12:08:04-04:00",
     "title": "Senior Application Security Engineer",
     "company": "brex",
     "alerted": true
   },
   "8249885002": {
     "first_seen": "2026-04-13T07:25:00.487578+00:00",
-    "updated_at": "2026-04-11T15:46:01-04:00",
+    "updated_at": "2026-04-16T12:08:04-04:00",
     "title": "Senior Application Security Engineer",
     "company": "brex",
     "alerted": true
@@ -8681,14 +8656,14 @@
   },
   "8378840002": {
     "first_seen": "2026-04-13T07:25:00.488340+00:00",
-    "updated_at": "2026-04-11T15:46:02-04:00",
+    "updated_at": "2026-04-16T12:09:51-04:00",
     "title": "Senior GRC Lead",
     "company": "brex",
     "alerted": true
   },
   "8378792002": {
     "first_seen": "2026-04-13T07:25:00.488371+00:00",
-    "updated_at": "2026-04-11T15:46:02-04:00",
+    "updated_at": "2026-04-16T12:09:51-04:00",
     "title": "Senior GRC Lead",
     "company": "brex",
     "alerted": true
@@ -8709,21 +8684,21 @@
   },
   "8339277002": {
     "first_seen": "2026-04-13T07:25:00.489626+00:00",
-    "updated_at": "2026-04-11T15:46:02-04:00",
+    "updated_at": "2026-04-16T12:08:46-04:00",
     "title": "Senior Security Operations Engineer ",
     "company": "brex",
     "alerted": true
   },
   "8339283002": {
     "first_seen": "2026-04-13T07:25:00.489710+00:00",
-    "updated_at": "2026-04-11T15:46:01-04:00",
+    "updated_at": "2026-04-16T12:08:46-04:00",
     "title": "Senior Security Operations Engineer ",
     "company": "brex",
     "alerted": true
   },
   "8339252002": {
     "first_seen": "2026-04-13T07:25:00.489748+00:00",
-    "updated_at": "2026-04-11T15:46:01-04:00",
+    "updated_at": "2026-04-16T12:08:46-04:00",
     "title": "Senior Security Operations Engineer ",
     "company": "brex",
     "alerted": true
@@ -9731,7 +9706,7 @@
   },
   "7536920": {
     "first_seen": "2026-04-13T07:25:05.493591+00:00",
-    "updated_at": "2026-04-03T13:35:15-04:00",
+    "updated_at": "2026-04-16T13:05:41-04:00",
     "title": "Product Manager, Crypto Trading",
     "company": "robinhood",
     "alerted": true
@@ -9899,7 +9874,7 @@
   },
   "7470947": {
     "first_seen": "2026-04-13T07:25:05.495681+00:00",
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-16T13:05:29-04:00",
     "title": "Staff Software Engineer, Crypto Custody",
     "company": "robinhood",
     "alerted": true
@@ -9913,14 +9888,14 @@
   },
   "7489950": {
     "first_seen": "2026-04-13T07:25:05.495735+00:00",
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-16T13:05:39-04:00",
     "title": "Staff Software Engineer, Web3",
     "company": "robinhood",
     "alerted": true
   },
   "7489212": {
     "first_seen": "2026-04-13T07:25:05.495801+00:00",
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-16T13:05:31-04:00",
     "title": "Staff Technical Program Manager",
     "company": "robinhood",
     "alerted": true
@@ -14799,7 +14774,7 @@
   },
   "7562102": {
     "first_seen": "2026-04-13T09:18:02.524995+00:00",
-    "updated_at": "2026-04-03T15:11:31-04:00",
+    "updated_at": "2026-04-16T12:18:20-04:00",
     "title": "Senior Product Manager, Contractor Products",
     "company": "gusto",
     "alerted": true
@@ -15716,112 +15691,112 @@
   },
   "7279887": {
     "first_seen": "2026-04-13T09:18:07.874119+00:00",
-    "updated_at": "2026-03-16T11:52:05-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Analytics Engineer ",
     "company": "betterment",
     "alerted": true
   },
   "6209414": {
     "first_seen": "2026-04-13T09:18:07.874165+00:00",
-    "updated_at": "2026-03-18T10:49:27-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Business Development Representative ",
     "company": "betterment",
     "alerted": true
   },
   "7187115": {
     "first_seen": "2026-04-13T09:18:07.874306+00:00",
-    "updated_at": "2026-04-02T14:03:15-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Engineering Manager",
     "company": "betterment",
     "alerted": true
   },
   "7746133": {
     "first_seen": "2026-04-13T09:18:07.874340+00:00",
-    "updated_at": "2026-04-01T13:16:25-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Group Product Manager, Broker Dealer",
     "company": "betterment",
     "alerted": true
   },
   "7678330": {
     "first_seen": "2026-04-13T09:18:07.874385+00:00",
-    "updated_at": "2026-03-06T11:29:39-05:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "IT Support Technician",
     "company": "betterment",
     "alerted": true
   },
   "7751371": {
     "first_seen": "2026-04-13T09:18:07.874417+00:00",
-    "updated_at": "2026-03-27T17:29:04-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "IT Systems Engineer ",
     "company": "betterment",
     "alerted": true
   },
   "7603992": {
     "first_seen": "2026-04-13T09:18:07.874659+00:00",
-    "updated_at": "2026-02-13T10:14:05-05:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Sr. Engineering Manager, Broker Dealer",
     "company": "betterment",
     "alerted": true
   },
   "7679122": {
     "first_seen": "2026-04-13T09:18:07.874693+00:00",
-    "updated_at": "2026-04-16T11:40:23-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Sr. IT Systems Engineer",
     "company": "betterment",
     "alerted": true
   },
   "7536230": {
     "first_seen": "2026-04-13T09:18:07.874970+00:00",
-    "updated_at": "2026-01-13T17:39:07-05:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Sr. Product Manager, Investor",
     "company": "betterment",
     "alerted": true
   },
   "7310464": {
     "first_seen": "2026-04-13T09:18:07.875011+00:00",
-    "updated_at": "2026-01-14T11:39:09-05:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Sr. Product Security Engineer ",
     "company": "betterment",
     "alerted": true
   },
   "7249056": {
     "first_seen": "2026-04-13T09:18:07.875044+00:00",
-    "updated_at": "2026-01-14T11:39:57-05:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Sr. Software Engineer",
     "company": "betterment",
     "alerted": true
   },
   "7220419": {
     "first_seen": "2026-04-13T09:18:07.875077+00:00",
-    "updated_at": "2026-04-15T16:41:45-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Sr. Software Engineer, Backend",
     "company": "betterment",
     "alerted": true
   },
   "7391580": {
     "first_seen": "2026-04-13T09:18:07.875111+00:00",
-    "updated_at": "2026-02-11T16:10:04-05:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Staff Engineer, Backend",
     "company": "betterment",
     "alerted": true
   },
   "7249044": {
     "first_seen": "2026-04-13T09:18:07.875150+00:00",
-    "updated_at": "2026-02-11T16:12:06-05:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Staff Full Stack Software Engineer - Product Engineering",
     "company": "betterment",
     "alerted": true
   },
   "7611042": {
     "first_seen": "2026-04-13T09:18:07.875189+00:00",
-    "updated_at": "2026-03-11T14:13:56-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Staff Mobile Engineer \u2013 Platform",
     "company": "betterment",
     "alerted": true
   },
   "7723110": {
     "first_seen": "2026-04-13T09:18:07.875279+00:00",
-    "updated_at": "2026-03-24T12:44:07-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Technical Program Manager, Broker Dealer",
     "company": "betterment",
     "alerted": true
@@ -19769,7 +19744,7 @@
   },
   "7812130": {
     "first_seen": "2026-04-14T15:41:18.332142+00:00",
-    "updated_at": "2026-04-14T10:48:27-04:00",
+    "updated_at": "2026-04-16T11:59:36-04:00",
     "title": "Senior Data Platform Engineer",
     "company": "upstart",
     "alerted": true
@@ -19818,7 +19793,7 @@
   },
   "7808872": {
     "first_seen": "2026-04-14T16:45:54.175512+00:00",
-    "updated_at": "2026-04-14T12:06:09-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Sr. Engineering Manager, SRE",
     "company": "betterment",
     "alerted": true
@@ -20595,8 +20570,8 @@
   },
   "8071850002": {
     "first_seen": "2026-04-15T16:35:24.369893+00:00",
-    "updated_at": "2026-04-15T12:25:34-04:00",
-    "title": "Program Manager, Talent & Leadership Development (AI-Enabled Learning)",
+    "updated_at": "2026-04-16T12:32:06-04:00",
+    "title": "AI Enablement Lead, Talent & Leadership Development",
     "company": "databricks",
     "alerted": true
   },
@@ -20679,7 +20654,7 @@
   },
   "7818752": {
     "first_seen": "2026-04-15T16:35:47.875324+00:00",
-    "updated_at": "2026-04-15T12:16:18-04:00",
+    "updated_at": "2026-04-16T12:39:58-04:00",
     "title": "Engineering Manager, Detect & Respond",
     "company": "betterment",
     "alerted": true
@@ -21141,7 +21116,7 @@
   },
   "7814842": {
     "first_seen": "2026-04-15T23:01:52.263390+00:00",
-    "updated_at": "2026-04-15T20:52:41-04:00",
+    "updated_at": "2026-04-16T12:20:07-04:00",
     "title": "Account Development Executive",
     "company": "justworks",
     "alerted": true
@@ -21197,7 +21172,7 @@
   },
   "7819796": {
     "first_seen": "2026-04-16T02:51:53.866862+00:00",
-    "updated_at": "2026-04-15T21:06:03-04:00",
+    "updated_at": "2026-04-16T12:20:17-04:00",
     "title": "Account Development Executive (Miami, FL)",
     "company": "justworks",
     "alerted": true
@@ -21431,6 +21406,55 @@
     "updated_at": "2026-04-09T09:40:55-04:00",
     "title": "Mechanical Engineering Manager",
     "company": "formlabs",
+    "alerted": true
+  },
+  "8442287002": {
+    "first_seen": "2026-04-16T17:13:30.467585+00:00",
+    "updated_at": "2026-04-16T12:32:48-04:00",
+    "title": "AI Enablement Lead, Talent & Leadership Development",
+    "company": "databricks",
+    "alerted": true
+  },
+  "8026632002": {
+    "first_seen": "2026-04-16T17:13:30.474743+00:00",
+    "updated_at": "2026-04-13T14:07:39-04:00",
+    "title": "Senior Security Engineer, Incident Response",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7783095": {
+    "first_seen": "2026-04-16T17:13:32.380879+00:00",
+    "updated_at": "2026-04-09T11:49:59-04:00",
+    "title": "Software Engineer II",
+    "company": "iterable",
+    "alerted": true
+  },
+  "5842387004": {
+    "first_seen": "2026-04-16T17:13:32.550955+00:00",
+    "updated_at": "2026-04-09T14:38:18-04:00",
+    "title": "Associate Value Engineer",
+    "company": "cribl",
+    "alerted": true
+  },
+  "5972600004": {
+    "first_seen": "2026-04-16T17:13:32.551893+00:00",
+    "updated_at": "2026-04-16T13:07:46-04:00",
+    "title": "Senior Security Operations Engineer",
+    "company": "cribl",
+    "alerted": true
+  },
+  "8504801002": {
+    "first_seen": "2026-04-16T17:13:35.794212+00:00",
+    "updated_at": "2026-04-16T12:24:11-04:00",
+    "title": "CX Forward Deployed Engineer ",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7702206003": {
+    "first_seen": "2026-04-16T17:13:57.799803+00:00",
+    "updated_at": "2026-04-16T13:12:35-04:00",
+    "title": "Platform Operations Analyst",
+    "company": "sofi",
     "alerted": true
   }
 }
