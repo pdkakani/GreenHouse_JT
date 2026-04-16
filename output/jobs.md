@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 11:20 UTC
+
+### 🆕 Engineering Manager - Vectorize
+**cloudflare** · Emerging Technology and Incubation
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7627622?gh_jid=7627622)
+🕐 Updated: `2026-04-16T07:09:19-04:00` &nbsp;|&nbsp; ID: `7627622`
+
+---
+### 🔄 Principal Java Engineer II - Machine Learning - Elasticsearch
+**elastic** · Platform - Elasticsearch
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254)
+🕐 Updated: `2026-04-16T06:54:58-04:00` &nbsp;|&nbsp; ID: `7735254`
+
+---
+### 🔄  Senior Product Manager - Cloudflare One Appliance
+**cloudflare** · Product
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7746621?gh_jid=7746621)
+🕐 Updated: `2026-04-16T06:21:35-04:00` &nbsp;|&nbsp; ID: `7746621`
+
+---
+### 🔄 Senior Product Manager, Cloudflare WAN
+**cloudflare** · Product
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7600080?gh_jid=7600080)
+🕐 Updated: `2026-04-16T06:21:04-04:00` &nbsp;|&nbsp; ID: `7600080`
+
+---
+
 ## 📅 Run: 2026-04-16 10:12 UTC
 
 ### 🆕 Senior Engineer, Security Automation

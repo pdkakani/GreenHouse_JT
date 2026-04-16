@@ -1828,14 +1828,14 @@
   },
   "7746621": {
     "first_seen": "2026-04-12T21:49:54.485039+00:00",
-    "updated_at": "2026-04-15T11:14:33-04:00",
+    "updated_at": "2026-04-16T06:21:35-04:00",
     "title": " Senior Product Manager - Cloudflare One Appliance",
     "company": "cloudflare",
     "alerted": true
   },
   "7600080": {
     "first_seen": "2026-04-12T21:49:54.485060+00:00",
-    "updated_at": "2026-03-19T15:12:58-04:00",
+    "updated_at": "2026-04-16T06:21:04-04:00",
     "title": "Senior Product Manager, Cloudflare WAN",
     "company": "cloudflare",
     "alerted": true
@@ -3746,7 +3746,7 @@
   },
   "7735254": {
     "first_seen": "2026-04-13T07:24:52.620477+00:00",
-    "updated_at": "2026-04-09T05:26:23-04:00",
+    "updated_at": "2026-04-16T06:54:58-04:00",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "elastic",
     "alerted": true
@@ -21368,6 +21368,13 @@
     "updated_at": "2026-04-16T05:00:19-04:00",
     "title": "Software Engineer 2",
     "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "7627622": {
+    "first_seen": "2026-04-16T11:19:56.598429+00:00",
+    "updated_at": "2026-04-16T07:09:19-04:00",
+    "title": "Engineering Manager - Vectorize",
+    "company": "cloudflare",
     "alerted": true
   }
 }
