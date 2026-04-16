@@ -1,11 +1,4 @@
 {
-  "8025494002": {
-    "first_seen": "2026-04-09T08:17:28.285646+00:00",
-    "updated_at": "2026-04-09T16:51:14-04:00",
-    "title": "Senior Solutions Engineer",
-    "company": "databricks",
-    "alerted": false
-  },
   "6690965003": {
     "first_seen": "2026-04-09T09:46:24.489469+00:00",
     "updated_at": "2026-04-09T05:44:44-04:00",
@@ -20566,7 +20559,7 @@
   },
   "7699321003": {
     "first_seen": "2026-04-15T11:16:41.759129+00:00",
-    "updated_at": "2026-04-15T06:53:42-04:00",
+    "updated_at": "2026-04-16T03:37:35-04:00",
     "title": "Lead Sales Engineer, Enterprise",
     "company": "fivetran",
     "alerted": true
@@ -21332,6 +21325,13 @@
     "updated_at": "2026-04-15T22:42:30-04:00",
     "title": "Software Engineer, Credit Line",
     "company": "chime",
+    "alerted": true
+  },
+  "8025494002": {
+    "first_seen": "2026-04-16T08:54:51.962311+00:00",
+    "updated_at": "2026-04-09T16:51:14-04:00",
+    "title": "Senior Solutions Engineer",
+    "company": "databricks",
     "alerted": true
   }
 }

@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 08:55 UTC
+
+### 🆕 Senior Solutions Engineer
+**databricks** · Field Engineering - Other
+📍 Aarhus, Denmark; Remote - Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8025494002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8025494002`
+
+---
+### 🔄 Lead Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Australia, APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7699321003)
+🕐 Updated: `2026-04-16T03:37:35-04:00` &nbsp;|&nbsp; ID: `7699321003`
+
+---
+
 ## 📅 Run: 2026-04-16 05:25 UTC
 
 ### 🆕 Senior Software Engineer - AI Platform (NYC)
