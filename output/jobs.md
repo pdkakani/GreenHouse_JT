@@ -2,6 +2,57 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 20:34 UTC
+
+### 🆕 AI Builder Resident
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7703400003)
+🕐 Updated: `2026-04-16T16:18:29-04:00` &nbsp;|&nbsp; ID: `7703400003`
+
+---
+### 🆕 Product Manager II – Risk-Based Alerting (SIEM)
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7800765/?gh_jid=7800765)
+🕐 Updated: `2026-04-09T14:55:18-04:00` &nbsp;|&nbsp; ID: `7800765`
+
+---
+### 🆕 Implementation Engineer
+**expel** · Customer Success
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://expel.com/about/career-listing/8499991002?gh_jid=8499991002)
+🕐 Updated: `2026-04-09T14:51:51-04:00` &nbsp;|&nbsp; ID: `8499991002`
+
+---
+### 🆕 Engineering Manager - Simple Trade
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773210?gh_jid=7773210)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7773210`
+
+---
+### 🆕 Director of Engineering, Catalog Content
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793600)
+🕐 Updated: `2026-04-09T16:08:21-04:00` &nbsp;|&nbsp; ID: `7793600`
+
+---
+### 🔄 Staff Product Manager - Core Commerce Platform
+**twilio** · Product Management
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7171180)
+🕐 Updated: `2026-04-16T16:14:54-04:00` &nbsp;|&nbsp; ID: `7171180`
+
+---
+### 🔄 Solutions Engineer (pre-sales)
+**mixpanel** · Solutions Engineering
+📍 San Francisco, US (Hybrid)  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7800289)
+🕐 Updated: `2026-04-16T16:30:12-04:00` &nbsp;|&nbsp; ID: `7800289`
+
+---
+### 🔄 Solutions Engineer (pre-sales)
+**mixpanel** · Solutions Engineering
+📍 New York, US (Hybrid)  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7815692)
+🕐 Updated: `2026-04-16T16:30:26-04:00` &nbsp;|&nbsp; ID: `7815692`
+
+---
+
 ## 📅 Run: 2026-04-16 19:43 UTC
 
 ### 🆕 Senior Specialist Solutions Architect - AI & ML Engineer

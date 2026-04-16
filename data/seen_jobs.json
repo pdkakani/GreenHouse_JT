@@ -1,29 +1,4 @@
 {
-  "7800765": {
-    "first_seen": "2026-04-09T19:49:29.791457+00:00",
-    "updated_at": "2026-04-09T14:55:18-04:00",
-    "title": "Product Manager II \u2013 Risk-Based Alerting (SIEM)",
-    "company": "datadog"
-  },
-  "8499991002": {
-    "first_seen": "2026-04-09T19:49:30.830494+00:00",
-    "updated_at": "2026-04-09T14:51:51-04:00",
-    "title": "Implementation Engineer",
-    "company": "expel"
-  },
-  "7773210": {
-    "first_seen": "2026-04-09T19:49:41.303975+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
-    "title": "Engineering Manager - Simple Trade",
-    "company": "coinbase",
-    "alerted": false
-  },
-  "7793600": {
-    "first_seen": "2026-04-09T19:49:44.726140+00:00",
-    "updated_at": "2026-04-09T16:08:21-04:00",
-    "title": "Director of Engineering, Catalog Content",
-    "company": "instacart"
-  },
   "8500948002": {
     "first_seen": "2026-04-09T20:43:06.544902+00:00",
     "updated_at": "2026-04-09T16:27:31-04:00",
@@ -19441,7 +19416,7 @@
   },
   "7171180": {
     "first_seen": "2026-04-13T23:58:16.709251+00:00",
-    "updated_at": "2026-04-16T10:36:03-04:00",
+    "updated_at": "2026-04-16T16:14:54-04:00",
     "title": "Staff Product Manager - Core Commerce Platform",
     "company": "twilio",
     "alerted": true
@@ -19798,14 +19773,14 @@
   },
   "7800289": {
     "first_seen": "2026-04-14T19:26:06.884772+00:00",
-    "updated_at": "2026-04-15T12:09:36-04:00",
+    "updated_at": "2026-04-16T16:30:12-04:00",
     "title": "Solutions Engineer (pre-sales)",
     "company": "mixpanel",
     "alerted": true
   },
   "7815692": {
     "first_seen": "2026-04-14T19:26:06.884804+00:00",
-    "updated_at": "2026-04-15T12:09:53-04:00",
+    "updated_at": "2026-04-16T16:30:26-04:00",
     "title": "Solutions Engineer (pre-sales)",
     "company": "mixpanel",
     "alerted": true
@@ -21544,6 +21519,41 @@
     "updated_at": "2026-04-09T14:29:38-04:00",
     "title": "Senior Full-Stack Engineer, AI Financial Actions & Recommendations",
     "company": "sofi",
+    "alerted": true
+  },
+  "7703400003": {
+    "first_seen": "2026-04-16T20:34:06.660892+00:00",
+    "updated_at": "2026-04-16T16:18:29-04:00",
+    "title": "AI Builder Resident",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7800765": {
+    "first_seen": "2026-04-16T20:34:07.413109+00:00",
+    "updated_at": "2026-04-09T14:55:18-04:00",
+    "title": "Product Manager II \u2013 Risk-Based Alerting (SIEM)",
+    "company": "datadog",
+    "alerted": true
+  },
+  "8499991002": {
+    "first_seen": "2026-04-16T20:34:08.593065+00:00",
+    "updated_at": "2026-04-09T14:51:51-04:00",
+    "title": "Implementation Engineer",
+    "company": "expel",
+    "alerted": true
+  },
+  "7773210": {
+    "first_seen": "2026-04-16T20:34:28.646627+00:00",
+    "updated_at": "2026-04-10T00:41:31-04:00",
+    "title": "Engineering Manager - Simple Trade",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7793600": {
+    "first_seen": "2026-04-16T20:34:33.867718+00:00",
+    "updated_at": "2026-04-09T16:08:21-04:00",
+    "title": "Director of Engineering, Catalog Content",
+    "company": "instacart",
     "alerted": true
   }
 }
