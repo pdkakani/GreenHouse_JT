@@ -2,6 +2,345 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 18:19 UTC
+
+### 🆕 Principal Machine Learning & Data Engineer 
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7155492)
+🕐 Updated: `2026-04-13T10:25:43-04:00` &nbsp;|&nbsp; ID: `7155492`
+
+---
+### 🆕 Senior Manager, Machine Learning
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7066029)
+🕐 Updated: `2026-04-13T10:25:43-04:00` &nbsp;|&nbsp; ID: `7066029`
+
+---
+### 🆕 Software Engineer - Advanced Reporting
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7563810003)
+🕐 Updated: `2026-04-11T03:47:34-04:00` &nbsp;|&nbsp; ID: `7563810003`
+
+---
+### 🆕 Software Engineer II - Billing
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7695144003)
+🕐 Updated: `2026-04-10T01:02:11-04:00` &nbsp;|&nbsp; ID: `7695144003`
+
+---
+### 🆕 Senior Product Manager, Okta for AI Agents
+**okta** · Spera PM-811
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7821769?gh_jid=7821769)
+🕐 Updated: `2026-04-16T13:19:14-04:00` &nbsp;|&nbsp; ID: `7821769`
+
+---
+### 🆕 Software Engineer II - Abnormal Data Platform
+**abnormalsecurity** · Behavioral Security Products
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7694258003?gh_jid=7694258003)
+🕐 Updated: `2026-04-09T23:31:24-04:00` &nbsp;|&nbsp; ID: `7694258003`
+
+---
+### 🆕 Business Development Representative - East 
+**gitlab** · Sales Development
+📍 Remote, North America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8497108002)
+🕐 Updated: `2026-04-16T13:41:59-04:00` &nbsp;|&nbsp; ID: `8497108002`
+
+---
+### 🆕 Support Engineer
+**circleci** · Support Engineering
+📍 San Francisco, Toronto &nbsp;|&nbsp; 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8500214002/?gh_jid=8500214002)
+🕐 Updated: `2026-04-14T14:20:13-04:00` &nbsp;|&nbsp; ID: `8500214002`
+
+---
+### 🆕 Specialist Solutions Architect, Crypto & Stablecoins
+**stripe** · 1150 Solutions Architecture
+📍 US-NY &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7120766)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7120766`
+
+---
+### 🆕 Staff Trust & Safety Engineer
+**altruist** · Legal and Compliance
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5972639004?gh_jid=5972639004)
+🕐 Updated: `2026-04-16T14:16:04-04:00` &nbsp;|&nbsp; ID: `5972639004`
+
+---
+### 🆕 Staff Trust & Safety Engineer
+**altruist** · Legal and Compliance
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5972783004?gh_jid=5972783004)
+🕐 Updated: `2026-04-16T14:16:03-04:00` &nbsp;|&nbsp; ID: `5972783004`
+
+---
+### 🆕 Data Engineer
+**brex** · Finance
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8510493002?gh_jid=8510493002)
+🕐 Updated: `2026-04-16T13:24:46-04:00` &nbsp;|&nbsp; ID: `8510493002`
+
+---
+### 🆕 Senior Manager, Business Development (Embedded Finance)
+**brex** · Sales
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8390148002?gh_jid=8390148002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `8390148002`
+
+---
+### 🆕 Senior Manager, Business Development (Embedded Finance)
+**brex** · Sales
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/7962890002?gh_jid=7962890002)
+🕐 Updated: `2026-04-11T15:45:59-04:00` &nbsp;|&nbsp; ID: `7962890002`
+
+---
+### 🆕 Engineering Manager - Simple Trade
+**coinbase** · Engineering - Managers
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773213?gh_jid=7773213)
+🕐 Updated: `2026-04-14T14:13:57-04:00` &nbsp;|&nbsp; ID: `7773213`
+
+---
+### 🆕 Senior Software Engineer, Backend - Platform (Payment Rails)
+**coinbase** · Engineering - Backend
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7554499?gh_jid=7554499)
+🕐 Updated: `2026-04-14T11:03:07-04:00` &nbsp;|&nbsp; ID: `7554499`
+
+---
+### 🆕 Staff Software Engineer - Tax Engineering
+**coinbase** · Engineering - Backend
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7773216?gh_jid=7773216)
+🕐 Updated: `2026-04-13T17:16:28-04:00` &nbsp;|&nbsp; ID: `7773216`
+
+---
+### 🆕 Senior Software Engineer - Mobile (React Native)
+**bitgo** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500552002)
+🕐 Updated: `2026-04-09T13:13:12-04:00` &nbsp;|&nbsp; ID: `8500552002`
+
+---
+### 🆕 Senior Software Engineer - Mobile (React Native)
+**bitgo** · Engineering
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500571002)
+🕐 Updated: `2026-04-09T13:16:12-04:00` &nbsp;|&nbsp; ID: `8500571002`
+
+---
+### 🆕 Senior Software Engineer - Mobile (React Native)
+**bitgo** · Engineering
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500566002)
+🕐 Updated: `2026-04-09T13:15:18-04:00` &nbsp;|&nbsp; ID: `8500566002`
+
+---
+### 🆕 Senior Machine Learning Engineer, Operations Research
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793089)
+🕐 Updated: `2026-04-09T16:14:14-04:00` &nbsp;|&nbsp; ID: `7793089`
+
+---
+### 🔄 Senior Product Manager, Okta for AI Agents
+**okta** · Spera PM-811
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7819280?gh_jid=7819280)
+🕐 Updated: `2026-04-16T13:17:55-04:00` &nbsp;|&nbsp; ID: `7819280`
+
+---
+### 🔄 Staff Software Engineer, Security Engineering
+**okta** · Security Engineering-695
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7714159?gh_jid=7714159)
+🕐 Updated: `2026-04-16T13:55:43-04:00` &nbsp;|&nbsp; ID: `7714159`
+
+---
+### 🔄 Account Development Executive
+**justworks** · Sales
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7814842?gh_jid=7814842)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7814842`
+
+---
+### 🔄 Account Development Executive (Miami, FL)
+**justworks** · Sales
+📍 Remote - U.S.A. &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7819796?gh_jid=7819796)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7819796`
+
+---
+### 🔄 Director, Strategy and Corporate Development
+**justworks** · Corporate & Finance
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7649563?gh_jid=7649563)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7649563`
+
+---
+### 🔄 Engineering Manager
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/6688843?gh_jid=6688843)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `6688843`
+
+---
+### 🔄 Engineering Manager, Advisors & Integrations
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7595432?gh_jid=7595432)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7595432`
+
+---
+### 🔄 Engineering Manager, International
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7595441?gh_jid=7595441)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7595441`
+
+---
+### 🔄 Engineering Manager, Workforce Payments
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7595419?gh_jid=7595419)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7595419`
+
+---
+### 🔄 Group Product Manager, Growth
+**justworks** · Product
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7202857?gh_jid=7202857)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7202857`
+
+---
+### 🔄 Group Product Manager, Internal Tools and Operations
+**justworks** · Product
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7425664?gh_jid=7425664)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7425664`
+
+---
+### 🔄 Manager, Account Development
+**justworks** · Sales
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7781298?gh_jid=7781298)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7781298`
+
+---
+### 🔄 Manager, Engineering Enablement
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7727638?gh_jid=7727638)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7727638`
+
+---
+### 🔄 People Systems Analyst
+**justworks** · People
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7583930?gh_jid=7583930)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7583930`
+
+---
+### 🔄 Product Manager, Core Services
+**justworks** · Product
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7425641?gh_jid=7425641)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7425641`
+
+---
+### 🔄 Sales Development Representative
+**justworks** · Sales
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/4923006?gh_jid=4923006)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `4923006`
+
+---
+### 🔄 Sales Development Representative (Tampa)
+**justworks** · Sales
+📍 Tampa, Florida &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/4925193?gh_jid=4925193)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `4925193`
+
+---
+### 🔄 Senior AI Operations Engineer
+**justworks** · IT
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7743119?gh_jid=7743119)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7743119`
+
+---
+### 🔄 Senior Business Systems Analyst (Workday)
+**justworks** · People
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/6983888?gh_jid=6983888)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `6983888`
+
+---
+### 🔄 Senior Business Systems Analyst (Workday)
+**justworks** · People
+📍 Remote - U.S.A. &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7550888?gh_jid=7550888)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7550888`
+
+---
+### 🔄 Senior Developer Experience Engineer
+**justworks** · Engineering
+📍 Mexico City, Mexico; New York, New York; Toronto, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7727631?gh_jid=7727631)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7727631`
+
+---
+### 🔄 Senior IT Engineer, Enterprise Systems
+**justworks** · IT
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7612811?gh_jid=7612811)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7612811`
+
+---
+### 🔄 Senior Product Manager, Benefits
+**justworks** · Product, Benefits
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7751751?gh_jid=7751751)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7751751`
+
+---
+### 🔄 Senior Product Manager, Payroll Systems
+**justworks** · Product
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7402303?gh_jid=7402303)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7402303`
+
+---
+### 🔄 Senior Product Manager, PayTax
+**justworks** · Product
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7386343?gh_jid=7386343)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7386343`
+
+---
+### 🔄 Senior Security Engineer 
+**justworks** · Security
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7294762?gh_jid=7294762)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7294762`
+
+---
+### 🔄 Senior Security Engineer (AI Security)
+**justworks** · Security
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7356444?gh_jid=7356444)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7356444`
+
+---
+### 🔄 Senior Software Engineer
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/6688851?gh_jid=6688851)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `6688851`
+
+---
+### 🔄 Software Engineer
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/6917404?gh_jid=6917404)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `6917404`
+
+---
+### 🔄 Software Engineer, Frontend
+**justworks** · Engineering
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7733611?gh_jid=7733611)
+🕐 Updated: `2026-04-16T13:37:41-04:00` &nbsp;|&nbsp; ID: `7733611`
+
+---
+### 🔄 Engineering Manager
+**robinhood** · Brokerage Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7813069?t=gh_src=&gh_jid=7813069)
+🕐 Updated: `2026-04-16T14:16:01-04:00` &nbsp;|&nbsp; ID: `7813069`
+
+---
+### 🔄 Product Manager, Money Movement
+**robinhood** · Customer Trust and Safety
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7747728?t=gh_src=&gh_jid=7747728)
+🕐 Updated: `2026-04-16T13:54:37-04:00` &nbsp;|&nbsp; ID: `7747728`
+
+---
+### 🔄 Staff Product Manager, Banking
+**robinhood** · Money Product Division
+📍 Menlo Park, CA; New York, NY; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151)
+🕐 Updated: `2026-04-16T13:37:19-04:00` &nbsp;|&nbsp; ID: `7587151`
+
+---
+### 🔄 Principal Product Manager, Consumer Innovation
+**instacart** · Product Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7561999)
+🕐 Updated: `2026-04-16T13:30:32-04:00` &nbsp;|&nbsp; ID: `7561999`
+
+---
+### 🔄 Principal Product Manager, Consumer Innovation
+**instacart** · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7562117)
+🕐 Updated: `2026-04-16T13:31:05-04:00` &nbsp;|&nbsp; ID: `7562117`
+
+---
+
 ## 📅 Run: 2026-04-16 17:14 UTC
 
 ### 🆕 AI Enablement Lead, Talent & Leadership Development

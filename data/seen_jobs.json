@@ -1,126 +1,4 @@
 {
-  "7155492": {
-    "first_seen": "2026-04-09T17:35:55.420543+00:00",
-    "updated_at": "2026-04-13T10:25:43-04:00",
-    "title": "Principal Machine Learning & Data Engineer ",
-    "company": "twilio",
-    "alerted": false
-  },
-  "7066029": {
-    "first_seen": "2026-04-09T17:35:55.420825+00:00",
-    "updated_at": "2026-04-13T10:25:43-04:00",
-    "title": "Senior Manager, Machine Learning",
-    "company": "twilio",
-    "alerted": false
-  },
-  "7563810003": {
-    "first_seen": "2026-04-09T17:35:56.795824+00:00",
-    "updated_at": "2026-04-11T03:47:34-04:00",
-    "title": "Software Engineer - Advanced Reporting",
-    "company": "klaviyo",
-    "alerted": false
-  },
-  "7695144003": {
-    "first_seen": "2026-04-09T17:35:56.795870+00:00",
-    "updated_at": "2026-04-10T01:02:11-04:00",
-    "title": "Software Engineer II - Billing",
-    "company": "klaviyo",
-    "alerted": false
-  },
-  "7694258003": {
-    "first_seen": "2026-04-09T17:36:00.060470+00:00",
-    "updated_at": "2026-04-09T23:31:24-04:00",
-    "title": "Software Engineer II - Abnormal Data Platform",
-    "company": "abnormalsecurity",
-    "alerted": false
-  },
-  "8500214002": {
-    "first_seen": "2026-04-09T17:36:03.900241+00:00",
-    "updated_at": "2026-04-14T14:20:13-04:00",
-    "title": "Support Engineer",
-    "company": "circleci",
-    "alerted": false
-  },
-  "7789386": {
-    "first_seen": "2026-04-09T17:36:08.889211+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Senior Data Scientist, AI Products",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7789389": {
-    "first_seen": "2026-04-09T17:36:08.889259+00:00",
-    "updated_at": "2026-04-10T12:45:13-04:00",
-    "title": "Senior Data Scientist, AI Products",
-    "company": "dropbox",
-    "alerted": false
-  },
-  "7120766": {
-    "first_seen": "2026-04-09T17:36:09.829563+00:00",
-    "updated_at": "2026-04-16T11:05:52-04:00",
-    "title": "Specialist Solutions Architect, Crypto & Stablecoins",
-    "company": "stripe",
-    "alerted": false
-  },
-  "8390148002": {
-    "first_seen": "2026-04-09T17:36:14.343560+00:00",
-    "updated_at": "2026-04-11T15:45:59-04:00",
-    "title": "Senior Manager, Business Development (Embedded Finance)",
-    "company": "brex",
-    "alerted": false
-  },
-  "7962890002": {
-    "first_seen": "2026-04-09T17:36:14.343604+00:00",
-    "updated_at": "2026-04-11T15:45:59-04:00",
-    "title": "Senior Manager, Business Development (Embedded Finance)",
-    "company": "brex",
-    "alerted": false
-  },
-  "7773213": {
-    "first_seen": "2026-04-09T17:36:27.505055+00:00",
-    "updated_at": "2026-04-14T14:13:57-04:00",
-    "title": "Engineering Manager - Simple Trade",
-    "company": "coinbase",
-    "alerted": false
-  },
-  "7554499": {
-    "first_seen": "2026-04-09T17:36:27.506243+00:00",
-    "updated_at": "2026-04-14T11:03:07-04:00",
-    "title": "Senior Software Engineer, Backend - Platform (Payment Rails)",
-    "company": "coinbase",
-    "alerted": false
-  },
-  "7773216": {
-    "first_seen": "2026-04-09T17:36:27.506370+00:00",
-    "updated_at": "2026-04-13T17:16:28-04:00",
-    "title": "Staff Software Engineer - Tax Engineering",
-    "company": "coinbase",
-    "alerted": false
-  },
-  "8500571002": {
-    "first_seen": "2026-04-09T17:36:27.815022+00:00",
-    "updated_at": "2026-04-09T13:16:12-04:00",
-    "title": "Senior Software Engineer - Mobile (React Native)",
-    "company": "bitgo"
-  },
-  "8500566002": {
-    "first_seen": "2026-04-09T17:36:27.815050+00:00",
-    "updated_at": "2026-04-09T13:15:18-04:00",
-    "title": "Senior Software Engineer - Mobile (React Native)",
-    "company": "bitgo"
-  },
-  "8500552002": {
-    "first_seen": "2026-04-09T17:36:27.815102+00:00",
-    "updated_at": "2026-04-09T13:13:12-04:00",
-    "title": "Senior Software Engineer - Mobile (React Native)",
-    "company": "bitgo"
-  },
-  "7793089": {
-    "first_seen": "2026-04-09T17:36:31.786635+00:00",
-    "updated_at": "2026-04-09T16:14:14-04:00",
-    "title": "Senior Machine Learning Engineer, Operations Research",
-    "company": "instacart"
-  },
   "7692934003": {
     "first_seen": "2026-04-09T18:38:50.113321+00:00",
     "updated_at": "2026-04-09T14:29:38-04:00",
@@ -6192,7 +6070,7 @@
   },
   "7714159": {
     "first_seen": "2026-04-13T07:24:55.931534+00:00",
-    "updated_at": "2026-03-23T15:50:52-04:00",
+    "updated_at": "2026-04-16T13:55:43-04:00",
     "title": "Staff Software Engineer, Security Engineering",
     "company": "okta",
     "alerted": true
@@ -9713,7 +9591,7 @@
   },
   "7747728": {
     "first_seen": "2026-04-13T07:25:05.493613+00:00",
-    "updated_at": "2026-04-07T13:29:19-04:00",
+    "updated_at": "2026-04-16T13:54:37-04:00",
     "title": "Product Manager, Money Movement",
     "company": "robinhood",
     "alerted": true
@@ -9860,7 +9738,7 @@
   },
   "7587151": {
     "first_seen": "2026-04-13T07:25:05.495472+00:00",
-    "updated_at": "2026-04-06T13:32:28-04:00",
+    "updated_at": "2026-04-16T13:37:19-04:00",
     "title": "Staff Product Manager, Banking",
     "company": "robinhood",
     "alerted": true
@@ -15271,175 +15149,175 @@
   },
   "7649563": {
     "first_seen": "2026-04-13T09:18:06.161489+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Director, Strategy and Corporate Development",
     "company": "justworks",
     "alerted": true
   },
   "6688843": {
     "first_seen": "2026-04-13T09:18:06.161511+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Engineering Manager",
     "company": "justworks",
     "alerted": true
   },
   "7595432": {
     "first_seen": "2026-04-13T09:18:06.161525+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Engineering Manager, Advisors & Integrations",
     "company": "justworks",
     "alerted": true
   },
   "7595441": {
     "first_seen": "2026-04-13T09:18:06.161557+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Engineering Manager, International",
     "company": "justworks",
     "alerted": true
   },
   "7595419": {
     "first_seen": "2026-04-13T09:18:06.161569+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Engineering Manager, Workforce Payments",
     "company": "justworks",
     "alerted": true
   },
   "7202857": {
     "first_seen": "2026-04-13T09:18:06.161586+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Group Product Manager, Growth",
     "company": "justworks",
     "alerted": true
   },
   "7425664": {
     "first_seen": "2026-04-13T09:18:06.161602+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Group Product Manager, Internal Tools and Operations",
     "company": "justworks",
     "alerted": true
   },
   "7727638": {
     "first_seen": "2026-04-13T09:18:06.162024+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Manager, Engineering Enablement",
     "company": "justworks",
     "alerted": true
   },
   "7583930": {
     "first_seen": "2026-04-13T09:18:06.162131+00:00",
-    "updated_at": "2026-04-02T12:33:28-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "People Systems Analyst",
     "company": "justworks",
     "alerted": true
   },
   "7425641": {
     "first_seen": "2026-04-13T09:18:06.162174+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Product Manager, Core Services",
     "company": "justworks",
     "alerted": true
   },
   "4923006": {
     "first_seen": "2026-04-13T09:18:06.162323+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Sales Development Representative",
     "company": "justworks",
     "alerted": true
   },
   "4925193": {
     "first_seen": "2026-04-13T09:18:06.162345+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Sales Development Representative (Tampa)",
     "company": "justworks",
     "alerted": true
   },
   "7743119": {
     "first_seen": "2026-04-13T09:18:06.162503+00:00",
-    "updated_at": "2026-04-01T13:26:51-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior AI Operations Engineer",
     "company": "justworks",
     "alerted": true
   },
   "6983888": {
     "first_seen": "2026-04-13T09:18:06.162684+00:00",
-    "updated_at": "2026-04-02T12:35:37-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Business Systems Analyst (Workday)",
     "company": "justworks",
     "alerted": true
   },
   "7550888": {
     "first_seen": "2026-04-13T09:18:06.162704+00:00",
-    "updated_at": "2026-04-02T10:11:53-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Business Systems Analyst (Workday)",
     "company": "justworks",
     "alerted": true
   },
   "7727631": {
     "first_seen": "2026-04-13T09:18:06.162734+00:00",
-    "updated_at": "2026-04-02T15:28:46-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Developer Experience Engineer",
     "company": "justworks",
     "alerted": true
   },
   "7612811": {
     "first_seen": "2026-04-13T09:18:06.162787+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior IT Engineer, Enterprise Systems",
     "company": "justworks",
     "alerted": true
   },
   "7751751": {
     "first_seen": "2026-04-13T09:18:06.163023+00:00",
-    "updated_at": "2026-03-31T09:48:58-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Product Manager, Benefits",
     "company": "justworks",
     "alerted": true
   },
   "7402303": {
     "first_seen": "2026-04-13T09:18:06.163039+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Product Manager, Payroll Systems",
     "company": "justworks",
     "alerted": true
   },
   "7386343": {
     "first_seen": "2026-04-13T09:18:06.163055+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Product Manager, PayTax",
     "company": "justworks",
     "alerted": true
   },
   "7294762": {
     "first_seen": "2026-04-13T09:18:06.163180+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Security Engineer ",
     "company": "justworks",
     "alerted": true
   },
   "7356444": {
     "first_seen": "2026-04-13T09:18:06.163199+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Security Engineer (AI Security)",
     "company": "justworks",
     "alerted": true
   },
   "6688851": {
     "first_seen": "2026-04-13T09:18:06.163214+00:00",
-    "updated_at": "2026-04-15T12:34:38-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Senior Software Engineer",
     "company": "justworks",
     "alerted": true
   },
   "6917404": {
     "first_seen": "2026-04-13T09:18:06.163246+00:00",
-    "updated_at": "2026-03-26T16:27:40-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Software Engineer",
     "company": "justworks",
     "alerted": true
   },
   "7733611": {
     "first_seen": "2026-04-13T09:18:06.163258+00:00",
-    "updated_at": "2026-04-14T15:28:45-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Software Engineer, Frontend",
     "company": "justworks",
     "alerted": true
@@ -16538,14 +16416,14 @@
   },
   "7561999": {
     "first_seen": "2026-04-13T09:18:09.437039+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-16T13:30:32-04:00",
     "title": "Principal Product Manager, Consumer Innovation",
     "company": "instacart",
     "alerted": true
   },
   "7562117": {
     "first_seen": "2026-04-13T09:18:09.437059+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-16T13:31:05-04:00",
     "title": "Principal Product Manager, Consumer Innovation",
     "company": "instacart",
     "alerted": true
@@ -19408,7 +19286,7 @@
   },
   "7781298": {
     "first_seen": "2026-04-13T21:08:56.427363+00:00",
-    "updated_at": "2026-04-13T16:54:01-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Manager, Account Development",
     "company": "justworks",
     "alerted": true
@@ -20752,7 +20630,7 @@
   },
   "7813069": {
     "first_seen": "2026-04-15T17:46:57.263016+00:00",
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-16T14:16:01-04:00",
     "title": "Engineering Manager",
     "company": "robinhood",
     "alerted": true
@@ -21116,7 +20994,7 @@
   },
   "7814842": {
     "first_seen": "2026-04-15T23:01:52.263390+00:00",
-    "updated_at": "2026-04-16T12:20:07-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Account Development Executive",
     "company": "justworks",
     "alerted": true
@@ -21172,7 +21050,7 @@
   },
   "7819796": {
     "first_seen": "2026-04-16T02:51:53.866862+00:00",
-    "updated_at": "2026-04-16T12:20:17-04:00",
+    "updated_at": "2026-04-16T13:37:41-04:00",
     "title": "Account Development Executive (Miami, FL)",
     "company": "justworks",
     "alerted": true
@@ -21298,7 +21176,7 @@
   },
   "7819280": {
     "first_seen": "2026-04-16T14:14:55.870983+00:00",
-    "updated_at": "2026-04-16T09:43:22-04:00",
+    "updated_at": "2026-04-16T13:17:55-04:00",
     "title": "Senior Product Manager, Okta for AI Agents",
     "company": "okta",
     "alerted": true
@@ -21455,6 +21333,153 @@
     "updated_at": "2026-04-16T13:12:35-04:00",
     "title": "Platform Operations Analyst",
     "company": "sofi",
+    "alerted": true
+  },
+  "7155492": {
+    "first_seen": "2026-04-16T18:18:22.451288+00:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
+    "title": "Principal Machine Learning & Data Engineer ",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7066029": {
+    "first_seen": "2026-04-16T18:18:22.451660+00:00",
+    "updated_at": "2026-04-13T10:25:43-04:00",
+    "title": "Senior Manager, Machine Learning",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7563810003": {
+    "first_seen": "2026-04-16T18:18:25.507731+00:00",
+    "updated_at": "2026-04-11T03:47:34-04:00",
+    "title": "Software Engineer - Advanced Reporting",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7695144003": {
+    "first_seen": "2026-04-16T18:18:25.507791+00:00",
+    "updated_at": "2026-04-10T01:02:11-04:00",
+    "title": "Software Engineer II - Billing",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7821769": {
+    "first_seen": "2026-04-16T18:18:32.960811+00:00",
+    "updated_at": "2026-04-16T13:19:14-04:00",
+    "title": "Senior Product Manager, Okta for AI Agents",
+    "company": "okta",
+    "alerted": true
+  },
+  "7694258003": {
+    "first_seen": "2026-04-16T18:18:33.169917+00:00",
+    "updated_at": "2026-04-09T23:31:24-04:00",
+    "title": "Software Engineer II - Abnormal Data Platform",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "8497108002": {
+    "first_seen": "2026-04-16T18:18:36.867094+00:00",
+    "updated_at": "2026-04-16T13:41:59-04:00",
+    "title": "Business Development Representative - East ",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8500214002": {
+    "first_seen": "2026-04-16T18:18:37.035870+00:00",
+    "updated_at": "2026-04-14T14:20:13-04:00",
+    "title": "Support Engineer",
+    "company": "circleci",
+    "alerted": true
+  },
+  "7120766": {
+    "first_seen": "2026-04-16T18:18:39.177840+00:00",
+    "updated_at": "2026-04-16T11:05:52-04:00",
+    "title": "Specialist Solutions Architect, Crypto & Stablecoins",
+    "company": "stripe",
+    "alerted": true
+  },
+  "5972639004": {
+    "first_seen": "2026-04-16T18:18:41.461545+00:00",
+    "updated_at": "2026-04-16T14:16:04-04:00",
+    "title": "Staff Trust & Safety Engineer",
+    "company": "altruist",
+    "alerted": true
+  },
+  "5972783004": {
+    "first_seen": "2026-04-16T18:18:41.461658+00:00",
+    "updated_at": "2026-04-16T14:16:03-04:00",
+    "title": "Staff Trust & Safety Engineer",
+    "company": "altruist",
+    "alerted": true
+  },
+  "8510493002": {
+    "first_seen": "2026-04-16T18:18:42.069100+00:00",
+    "updated_at": "2026-04-16T13:24:46-04:00",
+    "title": "Data Engineer",
+    "company": "brex",
+    "alerted": true
+  },
+  "8390148002": {
+    "first_seen": "2026-04-16T18:18:42.073633+00:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
+    "title": "Senior Manager, Business Development (Embedded Finance)",
+    "company": "brex",
+    "alerted": true
+  },
+  "7962890002": {
+    "first_seen": "2026-04-16T18:18:42.073676+00:00",
+    "updated_at": "2026-04-11T15:45:59-04:00",
+    "title": "Senior Manager, Business Development (Embedded Finance)",
+    "company": "brex",
+    "alerted": true
+  },
+  "7773213": {
+    "first_seen": "2026-04-16T18:18:50.538574+00:00",
+    "updated_at": "2026-04-14T14:13:57-04:00",
+    "title": "Engineering Manager - Simple Trade",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7554499": {
+    "first_seen": "2026-04-16T18:18:50.539937+00:00",
+    "updated_at": "2026-04-14T11:03:07-04:00",
+    "title": "Senior Software Engineer, Backend - Platform (Payment Rails)",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "7773216": {
+    "first_seen": "2026-04-16T18:18:50.540045+00:00",
+    "updated_at": "2026-04-13T17:16:28-04:00",
+    "title": "Staff Software Engineer - Tax Engineering",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "8500552002": {
+    "first_seen": "2026-04-16T18:18:50.697455+00:00",
+    "updated_at": "2026-04-09T13:13:12-04:00",
+    "title": "Senior Software Engineer - Mobile (React Native)",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8500571002": {
+    "first_seen": "2026-04-16T18:18:50.697540+00:00",
+    "updated_at": "2026-04-09T13:16:12-04:00",
+    "title": "Senior Software Engineer - Mobile (React Native)",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8500566002": {
+    "first_seen": "2026-04-16T18:18:50.697575+00:00",
+    "updated_at": "2026-04-09T13:15:18-04:00",
+    "title": "Senior Software Engineer - Mobile (React Native)",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "7793089": {
+    "first_seen": "2026-04-16T18:18:57.721977+00:00",
+    "updated_at": "2026-04-09T16:14:14-04:00",
+    "title": "Senior Machine Learning Engineer, Operations Research",
+    "company": "instacart",
     "alerted": true
   }
 }
