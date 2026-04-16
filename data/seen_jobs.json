@@ -1,95 +1,4 @@
 {
-  "4006925005": {
-    "first_seen": "2026-04-09T23:52:33.149757+00:00",
-    "updated_at": "2026-04-09T18:36:24-04:00",
-    "title": "Sales Development Representative",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "7683325": {
-    "first_seen": "2026-04-09T23:52:35.646001+00:00",
-    "updated_at": "2026-04-10T11:27:07-04:00",
-    "title": "Principal Presales Engineer, Product Specialist",
-    "company": "twilio",
-    "alerted": true
-  },
-  "8474904002": {
-    "first_seen": "2026-04-09T23:52:39.541176+00:00",
-    "updated_at": "2026-04-09T19:45:25-04:00",
-    "title": "SMB Solutions Architect",
-    "company": "gitlab",
-    "alerted": true
-  },
-  "8501051002": {
-    "first_seen": "2026-04-09T23:52:44.660612+00:00",
-    "updated_at": "2026-04-11T15:47:13-04:00",
-    "title": "Senior Software Engineer, Frontend",
-    "company": "brex",
-    "alerted": true
-  },
-  "8501052002": {
-    "first_seen": "2026-04-09T23:52:44.660648+00:00",
-    "updated_at": "2026-04-11T15:47:25-04:00",
-    "title": "Senior Software Engineer, Frontend",
-    "company": "brex",
-    "alerted": true
-  },
-  "8501025002": {
-    "first_seen": "2026-04-09T23:52:44.660673+00:00",
-    "updated_at": "2026-04-11T15:47:01-04:00",
-    "title": "Senior Software Engineer, Frontend",
-    "company": "brex",
-    "alerted": true
-  },
-  "8497063002": {
-    "first_seen": "2026-04-09T23:52:47.489796+00:00",
-    "updated_at": "2026-04-13T15:32:58-04:00",
-    "title": "Business Development Representative",
-    "company": "lattice",
-    "alerted": true
-  },
-  "8500989002": {
-    "first_seen": "2026-04-09T23:52:53.868590+00:00",
-    "updated_at": "2026-04-13T19:32:02-04:00",
-    "title": "Senior Infrastructure Engineer",
-    "company": "bitgo",
-    "alerted": true
-  },
-  "8500994002": {
-    "first_seen": "2026-04-09T23:52:53.868648+00:00",
-    "updated_at": "2026-04-13T19:32:36-04:00",
-    "title": "Senior Infrastructure Engineer",
-    "company": "bitgo",
-    "alerted": true
-  },
-  "8500987002": {
-    "first_seen": "2026-04-09T23:52:53.868682+00:00",
-    "updated_at": "2026-04-13T19:31:44-04:00",
-    "title": "Senior Infrastructure Engineer",
-    "company": "bitgo",
-    "alerted": true
-  },
-  "7688387003": {
-    "first_seen": "2026-04-09T23:52:59.177781+00:00",
-    "updated_at": "2026-04-09T19:09:22-04:00",
-    "title": "Staff Full-Stack Engineer, Account Creation",
-    "company": "sofi",
-    "alerted": true
-  },
-  "7793661": {
-    "first_seen": "2026-04-09T23:53:01.924402+00:00",
-    "updated_at": "2026-04-09T17:47:06-04:00",
-    "title": "Senior Detection Engineer",
-    "company": "instacart",
-    "alerted": true
-  },
-  "7712903": {
-    "first_seen": "2026-04-09T23:53:02.294284+00:00",
-    "updated_at": "2026-04-13T13:46:10-04:00",
-    "title": "Engineering Manager, Listings Products",
-    "company": "airbnb",
-    "alerted": true
-  },
   "5183044008": {
     "first_seen": "2026-04-10T01:56:59.281533+00:00",
     "updated_at": "2026-04-13T17:55:43-04:00",
@@ -379,7 +288,7 @@
   },
   "5891430004": {
     "first_seen": "2026-04-10T14:02:44.755519+00:00",
-    "updated_at": "2026-04-10T09:48:46-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Senior Value Engineer",
     "company": "cribl",
     "alerted": true
@@ -666,7 +575,7 @@
   },
   "5874322004": {
     "first_seen": "2026-04-12T19:51:21.782213+00:00",
-    "updated_at": "2026-04-12T15:48:26-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Head of Technical Alliances and Developer Ecosystem",
     "company": "cribl",
     "alerted": true
@@ -12475,14 +12384,14 @@
   },
   "5746413004": {
     "first_seen": "2026-04-13T09:17:52.870638+00:00",
-    "updated_at": "2026-04-07T14:31:56-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Commercial Sales Engineer, US East",
     "company": "cribl",
     "alerted": true
   },
   "5842537004": {
     "first_seen": "2026-04-13T09:17:52.870822+00:00",
-    "updated_at": "2026-04-01T21:18:23-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Customer Success Engineer, Federal",
     "company": "cribl",
     "alerted": true
@@ -12496,21 +12405,21 @@
   },
   "5825347004": {
     "first_seen": "2026-04-13T09:17:52.870870+00:00",
-    "updated_at": "2026-03-30T20:09:34-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Engineering Manager, Platform Products",
     "company": "cribl",
     "alerted": true
   },
   "5818194004": {
     "first_seen": "2026-04-13T09:17:52.870894+00:00",
-    "updated_at": "2026-03-30T20:09:40-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Engineering Manager, Stream Integrations",
     "company": "cribl",
     "alerted": true
   },
   "5838319004": {
     "first_seen": "2026-04-13T09:17:52.870935+00:00",
-    "updated_at": "2026-03-31T17:10:51-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Escalation Manager",
     "company": "cribl",
     "alerted": true
@@ -12524,7 +12433,7 @@
   },
   "5825529004": {
     "first_seen": "2026-04-13T09:17:52.872233+00:00",
-    "updated_at": "2026-03-30T20:09:42-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sales Development Representative - French Territory",
     "company": "cribl",
     "alerted": true
@@ -12538,42 +12447,42 @@
   },
   "5848236004": {
     "first_seen": "2026-04-13T09:17:52.872293+00:00",
-    "updated_at": "2026-04-07T14:29:40-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sales Engineering Manager, Central (Enterprise)",
     "company": "cribl",
     "alerted": true
   },
   "5832484004": {
     "first_seen": "2026-04-13T09:17:52.872324+00:00",
-    "updated_at": "2026-04-07T14:33:58-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sales Engineering Manager, Public Sector",
     "company": "cribl",
     "alerted": true
   },
   "5745375004": {
     "first_seen": "2026-04-13T09:17:52.872362+00:00",
-    "updated_at": "2026-04-07T14:35:05-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sales Engineer, San Francisco (Enterprise)",
     "company": "cribl",
     "alerted": true
   },
   "5766285004": {
     "first_seen": "2026-04-13T09:17:52.872391+00:00",
-    "updated_at": "2026-04-07T14:35:53-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sales Engineer, San Francisco/Seattle",
     "company": "cribl",
     "alerted": true
   },
   "5795356004": {
     "first_seen": "2026-04-13T09:17:52.872452+00:00",
-    "updated_at": "2026-03-30T20:09:35-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Senior Software Engineer, Developer Productivity",
     "company": "cribl",
     "alerted": true
   },
   "5734539004": {
     "first_seen": "2026-04-13T09:17:52.872498+00:00",
-    "updated_at": "2026-03-30T20:09:33-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Senior Software Engineer, Platform IAM",
     "company": "cribl",
     "alerted": true
@@ -12587,56 +12496,56 @@
   },
   "5819190004": {
     "first_seen": "2026-04-13T09:17:52.872546+00:00",
-    "updated_at": "2026-03-30T20:09:35-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Software Engineer, Stream Integrations",
     "company": "cribl",
     "alerted": true
   },
   "5819185004": {
     "first_seen": "2026-04-13T09:17:52.872570+00:00",
-    "updated_at": "2026-03-30T20:09:34-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Solutions Engineer, Germany",
     "company": "cribl",
     "alerted": true
   },
   "5780399004": {
     "first_seen": "2026-04-13T09:17:52.872650+00:00",
-    "updated_at": "2026-03-30T20:09:33-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sr Software Engineer, Search Discovery",
     "company": "cribl",
     "alerted": true
   },
   "5821426004": {
     "first_seen": "2026-04-13T09:17:52.872678+00:00",
-    "updated_at": "2026-03-30T20:09:39-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sr Software Engineer, Stream Integrations",
     "company": "cribl",
     "alerted": true
   },
   "5770224004": {
     "first_seen": "2026-04-13T09:17:52.872710+00:00",
-    "updated_at": "2026-03-30T20:09:43-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sr Staff Software Engineer, Developer Productivity",
     "company": "cribl",
     "alerted": true
   },
   "5687321004": {
     "first_seen": "2026-04-13T09:17:52.872747+00:00",
-    "updated_at": "2026-04-15T15:48:41-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Staff Front End Engineer, Data Visualization",
     "company": "cribl",
     "alerted": true
   },
   "5746408004": {
     "first_seen": "2026-04-13T09:17:52.872790+00:00",
-    "updated_at": "2026-03-30T20:09:42-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Staff Machine Learning Engineer, AI Researcher",
     "company": "cribl",
     "alerted": true
   },
   "5832483004": {
     "first_seen": "2026-04-13T09:17:52.872957+00:00",
-    "updated_at": "2026-03-30T20:09:37-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Staff Security & Compliance Engineer",
     "company": "cribl",
     "alerted": true
@@ -12650,28 +12559,28 @@
   },
   "5818197004": {
     "first_seen": "2026-04-13T09:17:52.873007+00:00",
-    "updated_at": "2026-04-15T16:51:20-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Staff Software Engineer, C021 Security",
     "company": "cribl",
     "alerted": true
   },
   "5776151004": {
     "first_seen": "2026-04-13T09:17:52.873036+00:00",
-    "updated_at": "2026-03-30T20:09:39-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Staff Software Engineer, Cribl AI",
     "company": "cribl",
     "alerted": true
   },
   "5503413004": {
     "first_seen": "2026-04-13T09:17:52.873081+00:00",
-    "updated_at": "2026-03-30T20:09:29-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Staff Technical Marketing Engineer",
     "company": "cribl",
     "alerted": true
   },
   "5807775004": {
     "first_seen": "2026-04-13T09:17:52.873111+00:00",
-    "updated_at": "2026-03-30T20:09:32-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Technical Support Engineer",
     "company": "cribl",
     "alerted": true
@@ -18964,7 +18873,7 @@
   },
   "5725448004": {
     "first_seen": "2026-04-13T19:07:27.850159+00:00",
-    "updated_at": "2026-04-14T12:58:43-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Senior Technical Program Manager",
     "company": "cribl",
     "alerted": true
@@ -19650,7 +19559,7 @@
   },
   "5855181004": {
     "first_seen": "2026-04-14T18:00:03.812478+00:00",
-    "updated_at": "2026-04-13T19:16:51-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sr Software Engineer, Search Federation",
     "company": "cribl",
     "alerted": true
@@ -20238,7 +20147,7 @@
   },
   "5859649004": {
     "first_seen": "2026-04-15T05:13:00.876862+00:00",
-    "updated_at": "2026-04-14T18:08:24-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Sales Engineering Manager, Storage & Analysis",
     "company": "cribl",
     "alerted": true
@@ -20420,7 +20329,7 @@
   },
   "5970177004": {
     "first_seen": "2026-04-15T16:35:26.671251+00:00",
-    "updated_at": "2026-04-15T16:18:08-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Staff AI Platform Engineer, Corporate AI Systems",
     "company": "cribl",
     "alerted": true
@@ -21260,14 +21169,14 @@
   },
   "5842387004": {
     "first_seen": "2026-04-16T17:13:32.550955+00:00",
-    "updated_at": "2026-04-09T14:38:18-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Associate Value Engineer",
     "company": "cribl",
     "alerted": true
   },
   "5972600004": {
     "first_seen": "2026-04-16T17:13:32.551893+00:00",
-    "updated_at": "2026-04-16T13:07:46-04:00",
+    "updated_at": "2026-04-16T19:38:52-04:00",
     "title": "Senior Security Operations Engineer",
     "company": "cribl",
     "alerted": true
@@ -21624,7 +21533,7 @@
   },
   "5189848008": {
     "first_seen": "2026-04-16T23:01:27.545549+00:00",
-    "updated_at": "2026-04-16T18:43:05-04:00",
+    "updated_at": "2026-04-16T19:23:36-04:00",
     "title": "Anthropic STEM Fellow",
     "company": "anthropic",
     "alerted": true
@@ -21647,6 +21556,104 @@
     "first_seen": "2026-04-16T23:02:04.181966+00:00",
     "updated_at": "2026-04-16T18:49:19-04:00",
     "title": "Software Engineer, Infrastructure",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "4006925005": {
+    "first_seen": "2026-04-16T23:56:52.359423+00:00",
+    "updated_at": "2026-04-09T18:36:24-04:00",
+    "title": "Sales Development Representative",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "7821487": {
+    "first_seen": "2026-04-16T23:56:57.926215+00:00",
+    "updated_at": "2026-04-16T19:17:28-04:00",
+    "title": "Senior Sales System Engineer 3",
+    "company": "twilio",
+    "alerted": true
+  },
+  "8474904002": {
+    "first_seen": "2026-04-16T23:57:03.761179+00:00",
+    "updated_at": "2026-04-09T19:45:25-04:00",
+    "title": "SMB Solutions Architect",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7657732": {
+    "first_seen": "2026-04-16T23:57:06.779405+00:00",
+    "updated_at": "2026-04-16T19:12:41-04:00",
+    "title": "Security Engineer, Bridge",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8501052002": {
+    "first_seen": "2026-04-16T23:57:16.795591+00:00",
+    "updated_at": "2026-04-11T15:47:25-04:00",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "brex",
+    "alerted": true
+  },
+  "8501051002": {
+    "first_seen": "2026-04-16T23:57:16.795626+00:00",
+    "updated_at": "2026-04-11T15:47:13-04:00",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "brex",
+    "alerted": true
+  },
+  "8501025002": {
+    "first_seen": "2026-04-16T23:57:16.795647+00:00",
+    "updated_at": "2026-04-11T15:47:01-04:00",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "brex",
+    "alerted": true
+  },
+  "8497063002": {
+    "first_seen": "2026-04-16T23:57:22.055818+00:00",
+    "updated_at": "2026-04-13T15:32:58-04:00",
+    "title": "Business Development Representative",
+    "company": "lattice",
+    "alerted": true
+  },
+  "7688387003": {
+    "first_seen": "2026-04-16T23:57:26.185554+00:00",
+    "updated_at": "2026-04-09T19:09:22-04:00",
+    "title": "Staff Full-Stack Engineer, Account Creation",
+    "company": "sofi",
+    "alerted": true
+  },
+  "7793661": {
+    "first_seen": "2026-04-16T23:57:27.015811+00:00",
+    "updated_at": "2026-04-09T17:47:06-04:00",
+    "title": "Senior Detection Engineer",
+    "company": "instacart",
+    "alerted": true
+  },
+  "7813002": {
+    "first_seen": "2026-04-16T23:57:27.015849+00:00",
+    "updated_at": "2026-04-16T19:20:40-04:00",
+    "title": "Senior Director, Enterprise Software and Growth",
+    "company": "instacart",
+    "alerted": true
+  },
+  "7813000": {
+    "first_seen": "2026-04-16T23:57:27.015877+00:00",
+    "updated_at": "2026-04-16T19:20:39-04:00",
+    "title": "Senior Director, Enterprise Software and Growth",
+    "company": "instacart",
+    "alerted": true
+  },
+  "7712903": {
+    "first_seen": "2026-04-16T23:57:27.558849+00:00",
+    "updated_at": "2026-04-13T13:46:10-04:00",
+    "title": "Engineering Manager, Listings Products",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7822751": {
+    "first_seen": "2026-04-16T23:57:27.559048+00:00",
+    "updated_at": "2026-04-16T19:25:16-04:00",
+    "title": "iOS Software Engineer, Host Pricing",
     "company": "airbnb",
     "alerted": true
   }

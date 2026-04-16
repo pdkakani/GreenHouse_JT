@@ -2,6 +2,291 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 23:57 UTC
+
+### 🆕 Sales Development Representative
+**gleanwork** · Sales
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4006925005)
+🕐 Updated: `2026-04-09T18:36:24-04:00` &nbsp;|&nbsp; ID: `4006925005`
+
+---
+### 🆕 Senior Sales System Engineer 3
+**twilio** · Sales Operations
+📍 Remote - Alberta, Canada (DNU) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7821487)
+🕐 Updated: `2026-04-16T19:17:28-04:00` &nbsp;|&nbsp; ID: `7821487`
+
+---
+### 🆕 SMB Solutions Architect
+**gitlab** · SA
+📍 Remote, North America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8474904002)
+🕐 Updated: `2026-04-09T19:45:25-04:00` &nbsp;|&nbsp; ID: `8474904002`
+
+---
+### 🆕 Security Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 San Francisco, New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657732)
+🕐 Updated: `2026-04-16T19:12:41-04:00` &nbsp;|&nbsp; ID: `7657732`
+
+---
+### 🆕 Senior Software Engineer, Frontend
+**brex** · Engineering
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501052002?gh_jid=8501052002)
+🕐 Updated: `2026-04-11T15:47:25-04:00` &nbsp;|&nbsp; ID: `8501052002`
+
+---
+### 🆕 Senior Software Engineer, Frontend
+**brex** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501051002?gh_jid=8501051002)
+🕐 Updated: `2026-04-11T15:47:13-04:00` &nbsp;|&nbsp; ID: `8501051002`
+
+---
+### 🆕 Senior Software Engineer, Frontend
+**brex** · Engineering
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8501025002?gh_jid=8501025002)
+🕐 Updated: `2026-04-11T15:47:01-04:00` &nbsp;|&nbsp; ID: `8501025002`
+
+---
+### 🆕 Business Development Representative
+**lattice** · Sales Development
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8497063002)
+🕐 Updated: `2026-04-13T15:32:58-04:00` &nbsp;|&nbsp; ID: `8497063002`
+
+---
+### 🆕 Staff Full-Stack Engineer, Account Creation
+**sofi** · Engineering
+📍 CA - San Francisco HQ &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7688387003?gh_jid=7688387003)
+🕐 Updated: `2026-04-09T19:09:22-04:00` &nbsp;|&nbsp; ID: `7688387003`
+
+---
+### 🆕 Senior Detection Engineer
+**instacart** · Security
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793661)
+🕐 Updated: `2026-04-09T17:47:06-04:00` &nbsp;|&nbsp; ID: `7793661`
+
+---
+### 🆕 Senior Director, Enterprise Software and Growth
+**instacart** · Leadership (Engineering)
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7813002)
+🕐 Updated: `2026-04-16T19:20:40-04:00` &nbsp;|&nbsp; ID: `7813002`
+
+---
+### 🆕 Senior Director, Enterprise Software and Growth
+**instacart** · Leadership (Engineering)
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7813000)
+🕐 Updated: `2026-04-16T19:20:39-04:00` &nbsp;|&nbsp; ID: `7813000`
+
+---
+### 🆕 Engineering Manager, Listings Products
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7712903?gh_jid=7712903)
+🕐 Updated: `2026-04-13T13:46:10-04:00` &nbsp;|&nbsp; ID: `7712903`
+
+---
+### 🆕 iOS Software Engineer, Host Pricing
+**airbnb** · Software Engineering
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7822751?gh_jid=7822751)
+🕐 Updated: `2026-04-16T19:25:16-04:00` &nbsp;|&nbsp; ID: `7822751`
+
+---
+### 🔄 Anthropic STEM Fellow
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5189848008)
+🕐 Updated: `2026-04-16T19:23:36-04:00` &nbsp;|&nbsp; ID: `5189848008`
+
+---
+### 🔄 Associate Value Engineer
+**cribl** · Sales
+📍 Remote - Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5842387004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5842387004`
+
+---
+### 🔄 Commercial Sales Engineer, US East
+**cribl** · Sales
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5746413004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5746413004`
+
+---
+### 🔄 Customer Success Engineer, Federal
+**cribl** · Customer Experience
+📍 Remote - Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5842537004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5842537004`
+
+---
+### 🔄 Engineering Manager, Platform Products
+**cribl** · Engineering
+📍 Remote - Poland &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5825347004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5825347004`
+
+---
+### 🔄 Engineering Manager, Stream Integrations
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5818194004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5818194004`
+
+---
+### 🔄 Escalation Manager
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5838319004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5838319004`
+
+---
+### 🔄 Head of Technical Alliances and Developer Ecosystem
+**cribl**
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5874322004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5874322004`
+
+---
+### 🔄 Sales Development Representative - French Territory
+**cribl** · Sales
+📍 Remote - United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5825529004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5825529004`
+
+---
+### 🔄 Sales Engineering Manager, Central (Enterprise)
+**cribl** · Sales
+📍 Remote - Austin, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5848236004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5848236004`
+
+---
+### 🔄 Sales Engineering Manager, Public Sector
+**cribl** · Sales
+📍 Remote - Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5832484004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5832484004`
+
+---
+### 🔄 Sales Engineering Manager, Storage & Analysis
+**cribl** · Sales
+📍 Remote - San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5859649004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5859649004`
+
+---
+### 🔄 Sales Engineer, San Francisco (Enterprise)
+**cribl** · Sales
+📍 Remote - San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5745375004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5745375004`
+
+---
+### 🔄 Sales Engineer, San Francisco/Seattle
+**cribl** · Sales
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5766285004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5766285004`
+
+---
+### 🔄 Senior Security Operations Engineer
+**cribl** · IT & Security
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5972600004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5972600004`
+
+---
+### 🔄 Senior Software Engineer, Developer Productivity
+**cribl** · Engineering
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5795356004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5795356004`
+
+---
+### 🔄 Senior Software Engineer, Platform IAM
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5734539004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5734539004`
+
+---
+### 🔄 Senior Technical Program Manager
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5725448004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5725448004`
+
+---
+### 🔄 Senior Value Engineer
+**cribl** · Sales
+📍 Remote - Denver, Colorado &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5891430004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5891430004`
+
+---
+### 🔄 Software Engineer, Stream Integrations
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5819190004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5819190004`
+
+---
+### 🔄 Solutions Engineer, Germany
+**cribl** · Sales
+📍 Remote - Germany &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5819185004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5819185004`
+
+---
+### 🔄 Sr Software Engineer, Search Discovery
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5780399004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5780399004`
+
+---
+### 🔄 Sr Software Engineer, Search Federation
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5855181004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5855181004`
+
+---
+### 🔄 Sr Software Engineer, Stream Integrations
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5821426004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5821426004`
+
+---
+### 🔄 Sr Staff Software Engineer, Developer Productivity
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5770224004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5770224004`
+
+---
+### 🔄 Staff AI Platform Engineer, Corporate AI Systems
+**cribl** · IT & Security
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5970177004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5970177004`
+
+---
+### 🔄 Staff Front End Engineer, Data Visualization
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5687321004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5687321004`
+
+---
+### 🔄 Staff Machine Learning Engineer, AI Researcher
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5746408004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5746408004`
+
+---
+### 🔄 Staff Security & Compliance Engineer
+**cribl** · IT & Security
+📍 Remote - Australia &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5832483004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5832483004`
+
+---
+### 🔄 Staff Software Engineer, C021 Security
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5818197004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5818197004`
+
+---
+### 🔄 Staff Software Engineer, Cribl AI
+**cribl** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5776151004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5776151004`
+
+---
+### 🔄 Staff Technical Marketing Engineer
+**cribl** · Marketing
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5503413004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5503413004`
+
+---
+### 🔄 Technical Support Engineer
+**cribl** · Support
+📍 Remote - Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5807775004)
+🕐 Updated: `2026-04-16T19:38:52-04:00` &nbsp;|&nbsp; ID: `5807775004`
+
+---
+
 ## 📅 Run: 2026-04-16 23:02 UTC
 
 ### 🆕 Anthropic STEM Fellow
