@@ -1,22 +1,4 @@
 {
-  "8432262002": {
-    "first_seen": "2026-04-09T13:09:48.710514+00:00",
-    "updated_at": "2026-04-09T09:05:21-04:00",
-    "title": "Senior Backend Engineer (RoR), AST: Secret Detection",
-    "company": "gitlab"
-  },
-  "7512638003": {
-    "first_seen": "2026-04-09T13:09:54.080841+00:00",
-    "updated_at": "2026-04-09T08:34:27-04:00",
-    "title": "Senior Software Engineer, Platform",
-    "company": "branch"
-  },
-  "7693385003": {
-    "first_seen": "2026-04-09T13:09:54.080865+00:00",
-    "updated_at": "2026-04-09T14:16:27-04:00",
-    "title": "Senior Software Engineer, Platform",
-    "company": "branch"
-  },
   "8441894002": {
     "first_seen": "2026-04-09T14:59:34.368905+00:00",
     "updated_at": "2026-04-15T08:34:07-04:00",
@@ -1563,14 +1545,14 @@
   },
   "7267426": {
     "first_seen": "2026-04-12T21:49:54.481821+00:00",
-    "updated_at": "2026-04-02T11:58:48-04:00",
+    "updated_at": "2026-04-16T09:08:35-04:00",
     "title": "Principal Systems Engineer, FL",
     "company": "cloudflare",
     "alerted": true
   },
   "7267394": {
     "first_seen": "2026-04-12T21:49:54.481833+00:00",
-    "updated_at": "2026-04-02T11:58:48-04:00",
+    "updated_at": "2026-04-16T09:08:35-04:00",
     "title": "Principal Systems Engineer, IPC",
     "company": "cloudflare",
     "alerted": true
@@ -2466,7 +2448,7 @@
   },
   "7648581": {
     "first_seen": "2026-04-12T21:49:56.357794+00:00",
-    "updated_at": "2026-03-12T13:47:03-04:00",
+    "updated_at": "2026-04-16T09:43:15-04:00",
     "title": "Android Engineer",
     "company": "iterable",
     "alerted": true
@@ -6715,7 +6697,7 @@
   },
   "8461323002": {
     "first_seen": "2026-04-13T07:24:57.163177+00:00",
-    "updated_at": "2026-03-23T17:39:37-04:00",
+    "updated_at": "2026-04-16T09:14:12-04:00",
     "title": "Director, Product Security Architecture ",
     "company": "gitlab",
     "alerted": true
@@ -6820,7 +6802,7 @@
   },
   "8468166002": {
     "first_seen": "2026-04-13T07:24:57.164137+00:00",
-    "updated_at": "2026-04-06T15:15:29-04:00",
+    "updated_at": "2026-04-16T09:13:30-04:00",
     "title": "Manager, Infrastructure Security (USA)",
     "company": "gitlab",
     "alerted": true
@@ -11958,14 +11940,14 @@
   },
   "7681864003": {
     "first_seen": "2026-04-13T09:17:52.540201+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-16T09:15:44-04:00",
     "title": "Director, Sales Technology Systems",
     "company": "klaviyo",
     "alerted": true
   },
   "7682368003": {
     "first_seen": "2026-04-13T09:17:52.540228+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-16T09:15:44-04:00",
     "title": "Director, Sales Technology Systems",
     "company": "klaviyo",
     "alerted": true
@@ -12217,7 +12199,7 @@
   },
   "7609292003": {
     "first_seen": "2026-04-13T09:17:52.541848+00:00",
-    "updated_at": "2026-03-31T14:31:29-04:00",
+    "updated_at": "2026-04-16T08:46:08-04:00",
     "title": "Procure-to-Pay Lead Systems Architect",
     "company": "klaviyo",
     "alerted": true
@@ -20743,15 +20725,15 @@
   },
   "4222068009": {
     "first_seen": "2026-04-15T16:35:53.287467+00:00",
-    "updated_at": "2026-04-15T11:52:57-04:00",
-    "title": "Account Manager, Business Development",
+    "updated_at": "2026-04-16T09:25:17-04:00",
+    "title": "Account Manager - Breeders",
     "company": "fetch",
     "alerted": true
   },
   "4222028009": {
     "first_seen": "2026-04-15T16:35:53.287496+00:00",
-    "updated_at": "2026-04-15T13:10:58-04:00",
-    "title": "Business Development Associate",
+    "updated_at": "2026-04-16T09:26:36-04:00",
+    "title": "Business Development Associate - Breeders",
     "company": "fetch",
     "alerted": true
   },
@@ -21261,14 +21243,14 @@
   },
   "8509230002": {
     "first_seen": "2026-04-16T05:25:10.099195+00:00",
-    "updated_at": "2026-04-15T23:20:29-04:00",
+    "updated_at": "2026-04-16T09:38:27-04:00",
     "title": "Senior Software Engineer - AI Platform (NYC)",
     "company": "databricks",
     "alerted": true
   },
   "8509096002": {
     "first_seen": "2026-04-16T05:25:10.099227+00:00",
-    "updated_at": "2026-04-15T23:20:31-04:00",
+    "updated_at": "2026-04-16T09:38:47-04:00",
     "title": "Senior Software Engineer - AI Product (NYC)",
     "company": "databricks",
     "alerted": true
@@ -21376,6 +21358,41 @@
     "updated_at": "2026-04-09T07:23:47-04:00",
     "title": "Senior Product Manager, Notifications",
     "company": "duolingo",
+    "alerted": true
+  },
+  "7819280": {
+    "first_seen": "2026-04-16T14:14:55.870983+00:00",
+    "updated_at": "2026-04-16T09:43:22-04:00",
+    "title": "Senior Product Manager, Okta for AI Agents",
+    "company": "okta",
+    "alerted": true
+  },
+  "7699319003": {
+    "first_seen": "2026-04-16T14:14:56.710690+00:00",
+    "updated_at": "2026-04-16T08:49:15-04:00",
+    "title": "Lead Sales Engineer, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "8432262002": {
+    "first_seen": "2026-04-16T14:14:57.299651+00:00",
+    "updated_at": "2026-04-09T09:05:21-04:00",
+    "title": "Senior Backend Engineer (RoR), AST: Secret Detection",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7693385003": {
+    "first_seen": "2026-04-16T14:15:15.797891+00:00",
+    "updated_at": "2026-04-09T14:16:27-04:00",
+    "title": "Senior Software Engineer, Platform",
+    "company": "branch",
+    "alerted": true
+  },
+  "7512638003": {
+    "first_seen": "2026-04-16T14:15:15.797915+00:00",
+    "updated_at": "2026-04-09T08:34:27-04:00",
+    "title": "Senior Software Engineer, Platform",
+    "company": "branch",
     "alerted": true
   }
 }

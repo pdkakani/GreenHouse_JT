@@ -2,6 +2,111 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 14:15 UTC
+
+### 🆕 Senior Product Manager, Okta for AI Agents
+**okta** · Spera PM-811
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7819280?gh_jid=7819280)
+🕐 Updated: `2026-04-16T09:43:22-04:00` &nbsp;|&nbsp; ID: `7819280`
+
+---
+### 🆕 Lead Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Singapore, APAC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7699319003)
+🕐 Updated: `2026-04-16T08:49:15-04:00` &nbsp;|&nbsp; ID: `7699319003`
+
+---
+### 🆕 Senior Backend Engineer (RoR), AST: Secret Detection
+**gitlab** · Sec Engineering
+📍 Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8432262002)
+🕐 Updated: `2026-04-09T09:05:21-04:00` &nbsp;|&nbsp; ID: `8432262002`
+
+---
+### 🆕 Senior Software Engineer, Platform
+**branch** · Engineering
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/branch/jobs/7693385003)
+🕐 Updated: `2026-04-09T14:16:27-04:00` &nbsp;|&nbsp; ID: `7693385003`
+
+---
+### 🆕 Senior Software Engineer, Platform
+**branch** · Engineering
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/branch/jobs/7512638003)
+🕐 Updated: `2026-04-09T08:34:27-04:00` &nbsp;|&nbsp; ID: `7512638003`
+
+---
+### 🔄 Senior Software Engineer - AI Platform (NYC)
+**databricks** · Engineering
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8509230002)
+🕐 Updated: `2026-04-16T09:38:27-04:00` &nbsp;|&nbsp; ID: `8509230002`
+
+---
+### 🔄 Senior Software Engineer - AI Product (NYC)
+**databricks** · Engineering
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8509096002)
+🕐 Updated: `2026-04-16T09:38:47-04:00` &nbsp;|&nbsp; ID: `8509096002`
+
+---
+### 🔄 Principal Systems Engineer, FL
+**cloudflare** · Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7267426?gh_jid=7267426)
+🕐 Updated: `2026-04-16T09:08:35-04:00` &nbsp;|&nbsp; ID: `7267426`
+
+---
+### 🔄 Principal Systems Engineer, IPC
+**cloudflare** · Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7267394?gh_jid=7267394)
+🕐 Updated: `2026-04-16T09:08:35-04:00` &nbsp;|&nbsp; ID: `7267394`
+
+---
+### 🔄 Director, Sales Technology Systems
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7681864003)
+🕐 Updated: `2026-04-16T09:15:44-04:00` &nbsp;|&nbsp; ID: `7681864003`
+
+---
+### 🔄 Director, Sales Technology Systems
+**klaviyo** · IT & Security
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7682368003)
+🕐 Updated: `2026-04-16T09:15:44-04:00` &nbsp;|&nbsp; ID: `7682368003`
+
+---
+### 🔄 Procure-to-Pay Lead Systems Architect
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7609292003)
+🕐 Updated: `2026-04-16T08:46:08-04:00` &nbsp;|&nbsp; ID: `7609292003`
+
+---
+### 🔄 Android Engineer
+**iterable** · Engineering
+📍 Hybrid - Lisbon, Portugal &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7648581)
+🕐 Updated: `2026-04-16T09:43:15-04:00` &nbsp;|&nbsp; ID: `7648581`
+
+---
+### 🔄 Director, Product Security Architecture 
+**gitlab** · Product Security
+📍 Remote, Canada; Remote, EMEA; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8461323002)
+🕐 Updated: `2026-04-16T09:14:12-04:00` &nbsp;|&nbsp; ID: `8461323002`
+
+---
+### 🔄 Manager, Infrastructure Security (USA)
+**gitlab** · Product Security
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8468166002)
+🕐 Updated: `2026-04-16T09:13:30-04:00` &nbsp;|&nbsp; ID: `8468166002`
+
+---
+### 🔄 Account Manager - Breeders
+**fetch** · Breeders
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fetch/jobs/4222068009)
+🕐 Updated: `2026-04-16T09:25:17-04:00` &nbsp;|&nbsp; ID: `4222068009`
+
+---
+### 🔄 Business Development Associate - Breeders
+**fetch** · Breeders
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/fetch/jobs/4222028009)
+🕐 Updated: `2026-04-16T09:26:36-04:00` &nbsp;|&nbsp; ID: `4222028009`
+
+---
+
 ## 📅 Run: 2026-04-16 12:13 UTC
 
 ### 🆕 Senior Product Manager, Notifications
