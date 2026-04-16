@@ -2,6 +2,63 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 05:25 UTC
+
+### 🆕 Senior Software Engineer - AI Platform (NYC)
+**databricks** · Engineering
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8509230002)
+🕐 Updated: `2026-04-15T23:20:29-04:00` &nbsp;|&nbsp; ID: `8509230002`
+
+---
+### 🆕 Senior Software Engineer - AI Product (NYC)
+**databricks** · Engineering
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8509096002)
+🕐 Updated: `2026-04-15T23:20:31-04:00` &nbsp;|&nbsp; ID: `8509096002`
+
+---
+### 🆕 Senior Site Reliability Engineer (Resilience) - Platform Resilience
+**elastic** · Platform - SRE
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7794016&gh_jid=7794016)
+🕐 Updated: `2026-04-08T21:00:57-04:00` &nbsp;|&nbsp; ID: `7794016`
+
+---
+### 🆕 Associate Solutions Engineer
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7817971?gh_jid=7817971)
+🕐 Updated: `2026-04-16T01:00:52-04:00` &nbsp;|&nbsp; ID: `7817971`
+
+---
+### 🆕 Associate Solutions Engineer
+**cloudflare** · Solution Engineering
+📍 Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7817923?gh_jid=7817923)
+🕐 Updated: `2026-04-16T01:00:51-04:00` &nbsp;|&nbsp; ID: `7817923`
+
+---
+### 🆕 Principal Engineer
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7811868)
+🕐 Updated: `2026-04-15T23:35:08-04:00` &nbsp;|&nbsp; ID: `7811868`
+
+---
+### 🆕 iOS Engineer
+**robinhood** · ENG Infrastructure
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027)
+🕐 Updated: `2026-04-08T21:55:06-04:00` &nbsp;|&nbsp; ID: `7794027`
+
+---
+### 🆕 Software Engineer, Credit Line
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8219795002?gh_jid=8219795002)
+🕐 Updated: `2026-04-15T22:42:30-04:00` &nbsp;|&nbsp; ID: `8219795002`
+
+---
+### 🔄 Senior Software Engineer - Fullstack (NYC)
+**databricks** · Engineering
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211634002)
+🕐 Updated: `2026-04-15T23:28:58-04:00` &nbsp;|&nbsp; ID: `8211634002`
+
+---
+
 ## 📅 Run: 2026-04-16 02:52 UTC
 
 ### 🆕 Director of North America, Pre-Sales Platform Specialists

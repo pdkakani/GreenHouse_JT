@@ -1,23 +1,4 @@
 {
-  "7794016": {
-    "first_seen": "2026-04-09T03:27:27.574274+00:00",
-    "updated_at": "2026-04-08T21:00:57-04:00",
-    "title": "Senior Site Reliability Engineer (Resilience) - Platform Resilience",
-    "company": "elastic"
-  },
-  "7794027": {
-    "first_seen": "2026-04-09T03:27:47.661884+00:00",
-    "updated_at": "2026-04-08T21:55:06-04:00",
-    "title": "iOS Engineer",
-    "company": "robinhood"
-  },
-  "8219795002": {
-    "first_seen": "2026-04-09T03:27:48.329264+00:00",
-    "updated_at": "2026-04-15T22:42:30-04:00",
-    "title": "Software Engineer, Credit Line",
-    "company": "chime",
-    "alerted": false
-  },
   "8025494002": {
     "first_seen": "2026-04-09T08:17:28.285646+00:00",
     "updated_at": "2026-04-09T16:51:14-04:00",
@@ -3540,7 +3521,7 @@
   },
   "8211634002": {
     "first_seen": "2026-04-13T07:24:52.350380+00:00",
-    "updated_at": "2026-04-09T16:51:18-04:00",
+    "updated_at": "2026-04-15T23:28:58-04:00",
     "title": "Senior Software Engineer - Fullstack (NYC)",
     "company": "databricks",
     "alerted": true
@@ -21295,6 +21276,62 @@
     "updated_at": "2026-04-15T21:06:03-04:00",
     "title": "Account Development Executive (Miami, FL)",
     "company": "justworks",
+    "alerted": true
+  },
+  "8509230002": {
+    "first_seen": "2026-04-16T05:25:10.099195+00:00",
+    "updated_at": "2026-04-15T23:20:29-04:00",
+    "title": "Senior Software Engineer - AI Platform (NYC)",
+    "company": "databricks",
+    "alerted": true
+  },
+  "8509096002": {
+    "first_seen": "2026-04-16T05:25:10.099227+00:00",
+    "updated_at": "2026-04-15T23:20:31-04:00",
+    "title": "Senior Software Engineer - AI Product (NYC)",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7794016": {
+    "first_seen": "2026-04-16T05:25:10.626610+00:00",
+    "updated_at": "2026-04-08T21:00:57-04:00",
+    "title": "Senior Site Reliability Engineer (Resilience) - Platform Resilience",
+    "company": "elastic",
+    "alerted": true
+  },
+  "7817971": {
+    "first_seen": "2026-04-16T05:25:11.512869+00:00",
+    "updated_at": "2026-04-16T01:00:52-04:00",
+    "title": "Associate Solutions Engineer",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7817923": {
+    "first_seen": "2026-04-16T05:25:11.512915+00:00",
+    "updated_at": "2026-04-16T01:00:51-04:00",
+    "title": "Associate Solutions Engineer",
+    "company": "cloudflare",
+    "alerted": true
+  },
+  "7811868": {
+    "first_seen": "2026-04-16T05:25:11.820277+00:00",
+    "updated_at": "2026-04-15T23:35:08-04:00",
+    "title": "Principal Engineer",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7794027": {
+    "first_seen": "2026-04-16T05:25:30.828212+00:00",
+    "updated_at": "2026-04-08T21:55:06-04:00",
+    "title": "iOS Engineer",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "8219795002": {
+    "first_seen": "2026-04-16T05:25:31.741894+00:00",
+    "updated_at": "2026-04-15T22:42:30-04:00",
+    "title": "Software Engineer, Credit Line",
+    "company": "chime",
     "alerted": true
   }
 }
