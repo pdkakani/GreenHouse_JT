@@ -2,6 +2,111 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-16 21:28 UTC
+
+### 🆕 Security Engineer
+**automox** · IT Operations
+📍 Remote - Austin, TX - Denver, CO - Tampa, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/automox/jobs/5145654008)
+🕐 Updated: `2026-04-16T16:45:16-04:00` &nbsp;|&nbsp; ID: `5145654008`
+
+---
+### 🆕 Customer Support Engineer II
+**fivetran** · Customer Support Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7694917003)
+🕐 Updated: `2026-04-16T17:08:41-04:00` &nbsp;|&nbsp; ID: `7694917003`
+
+---
+### 🆕 Customer Support Engineer II
+**fivetran** · Customer Support Department
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703497003)
+🕐 Updated: `2026-04-16T17:08:42-04:00` &nbsp;|&nbsp; ID: `7703497003`
+
+---
+### 🆕 Senior Sales Engineer, Enterprise
+**fivetran** · Sales Department
+📍 Remote, Texas, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703480003)
+🕐 Updated: `2026-04-16T16:47:46-04:00` &nbsp;|&nbsp; ID: `7703480003`
+
+---
+### 🆕 Manager, Sales Development
+**hightouch** · Sales
+📍 New York City, New York/ Denver, Colorado  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5972960004)
+🕐 Updated: `2026-04-16T17:04:21-04:00` &nbsp;|&nbsp; ID: `5972960004`
+
+---
+### 🆕 Manager, Sales Development
+**dialpad** · 540 - Sales Development
+📍 Austin, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8510696002)
+🕐 Updated: `2026-04-16T16:49:15-04:00` &nbsp;|&nbsp; ID: `8510696002`
+
+---
+### 🆕 Senior Software Engineer - HSM
+**bitgo** · Engineering
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500944002)
+🕐 Updated: `2026-04-09T16:25:27-04:00` &nbsp;|&nbsp; ID: `8500944002`
+
+---
+### 🆕 Senior Software Engineer - HSM
+**bitgo** · Engineering
+📍 New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500948002)
+🕐 Updated: `2026-04-09T16:27:31-04:00` &nbsp;|&nbsp; ID: `8500948002`
+
+---
+### 🆕 Senior Software Engineer - HSM
+**bitgo** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8500943002)
+🕐 Updated: `2026-04-09T16:24:01-04:00` &nbsp;|&nbsp; ID: `8500943002`
+
+---
+### 🆕 Senior Data Scientist, Platform - Identity/Algorithms
+**airbnb** · Data Science
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7526372?gh_jid=7526372)
+🕐 Updated: `2026-04-16T17:27:45-04:00` &nbsp;|&nbsp; ID: `7526372`
+
+---
+### 🔄 Executive Assistant
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487325002)
+🕐 Updated: `2026-04-16T17:06:01-04:00` &nbsp;|&nbsp; ID: `8487325002`
+
+---
+### 🔄 AI Builder Resident
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7703400003)
+🕐 Updated: `2026-04-16T17:27:39-04:00` &nbsp;|&nbsp; ID: `7703400003`
+
+---
+### 🔄 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-04-16T16:51:16-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+### 🔄 Head of Information Security
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8484047002)
+🕐 Updated: `2026-04-16T16:53:39-04:00` &nbsp;|&nbsp; ID: `8484047002`
+
+---
+### 🔄 Sales Engineer
+**sendbird** · Sales Engineering
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8472142002)
+🕐 Updated: `2026-04-16T16:55:28-04:00` &nbsp;|&nbsp; ID: `8472142002`
+
+---
+### 🔄 Solutions Architect - San Francisco
+**gitlab** · SA
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8474923002)
+🕐 Updated: `2026-04-16T17:22:17-04:00` &nbsp;|&nbsp; ID: `8474923002`
+
+---
+### 🔄 Group Product Manager, Onboarding
+**justworks** · Product
+📍 New York, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7202857?gh_jid=7202857)
+🕐 Updated: `2026-04-16T17:22:30-04:00` &nbsp;|&nbsp; ID: `7202857`
+
+---
+
 ## 📅 Run: 2026-04-16 20:34 UTC
 
 ### 🆕 AI Builder Resident

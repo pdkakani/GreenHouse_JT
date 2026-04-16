@@ -1,22 +1,4 @@
 {
-  "8500948002": {
-    "first_seen": "2026-04-09T20:43:06.544902+00:00",
-    "updated_at": "2026-04-09T16:27:31-04:00",
-    "title": "Senior Software Engineer - HSM",
-    "company": "bitgo"
-  },
-  "8500944002": {
-    "first_seen": "2026-04-09T20:43:06.544980+00:00",
-    "updated_at": "2026-04-09T16:25:27-04:00",
-    "title": "Senior Software Engineer - HSM",
-    "company": "bitgo"
-  },
-  "8500943002": {
-    "first_seen": "2026-04-09T20:43:06.545007+00:00",
-    "updated_at": "2026-04-09T16:24:01-04:00",
-    "title": "Senior Software Engineer - HSM",
-    "company": "bitgo"
-  },
   "4006925005": {
     "first_seen": "2026-04-09T23:52:33.149757+00:00",
     "updated_at": "2026-04-09T18:36:24-04:00",
@@ -2315,7 +2297,7 @@
   },
   "8484047002": {
     "first_seen": "2026-04-12T21:49:56.447865+00:00",
-    "updated_at": "2026-04-08T18:54:59-04:00",
+    "updated_at": "2026-04-16T16:53:39-04:00",
     "title": "Head of Information Security",
     "company": "sendbird",
     "alerted": true
@@ -6837,7 +6819,7 @@
   },
   "8474923002": {
     "first_seen": "2026-04-13T07:24:57.166169+00:00",
-    "updated_at": "2026-04-01T17:23:31-04:00",
+    "updated_at": "2026-04-16T17:22:17-04:00",
     "title": "Solutions Architect - San Francisco",
     "company": "gitlab",
     "alerted": true
@@ -12479,14 +12461,14 @@
   },
   "8487754002": {
     "first_seen": "2026-04-13T09:17:52.762327+00:00",
-    "updated_at": "2026-04-08T18:57:26-04:00",
+    "updated_at": "2026-04-16T16:51:16-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
     "alerted": true
   },
   "8472142002": {
     "first_seen": "2026-04-13T09:17:52.762591+00:00",
-    "updated_at": "2026-03-26T17:07:16-04:00",
+    "updated_at": "2026-04-16T16:55:28-04:00",
     "title": "Sales Engineer",
     "company": "sendbird",
     "alerted": true
@@ -15153,8 +15135,8 @@
   },
   "7202857": {
     "first_seen": "2026-04-13T09:18:06.161586+00:00",
-    "updated_at": "2026-04-16T13:37:41-04:00",
-    "title": "Group Product Manager, Growth",
+    "updated_at": "2026-04-16T17:22:30-04:00",
+    "title": "Group Product Manager, Onboarding",
     "company": "justworks",
     "alerted": true
   },
@@ -19605,7 +19587,7 @@
   },
   "8487325002": {
     "first_seen": "2026-04-14T16:45:29.592977+00:00",
-    "updated_at": "2026-04-14T13:11:30-04:00",
+    "updated_at": "2026-04-16T17:06:01-04:00",
     "title": "Executive Assistant",
     "company": "databricks",
     "alerted": true
@@ -21523,7 +21505,7 @@
   },
   "7703400003": {
     "first_seen": "2026-04-16T20:34:06.660892+00:00",
-    "updated_at": "2026-04-16T16:18:29-04:00",
+    "updated_at": "2026-04-16T17:27:39-04:00",
     "title": "AI Builder Resident",
     "company": "klaviyo",
     "alerted": true
@@ -21554,6 +21536,76 @@
     "updated_at": "2026-04-09T16:08:21-04:00",
     "title": "Director of Engineering, Catalog Content",
     "company": "instacart",
+    "alerted": true
+  },
+  "5145654008": {
+    "first_seen": "2026-04-16T21:27:55.690657+00:00",
+    "updated_at": "2026-04-16T16:45:16-04:00",
+    "title": "Security Engineer",
+    "company": "automox",
+    "alerted": true
+  },
+  "7694917003": {
+    "first_seen": "2026-04-16T21:27:56.613647+00:00",
+    "updated_at": "2026-04-16T17:08:41-04:00",
+    "title": "Customer Support Engineer II",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7703497003": {
+    "first_seen": "2026-04-16T21:27:56.613698+00:00",
+    "updated_at": "2026-04-16T17:08:42-04:00",
+    "title": "Customer Support Engineer II",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "7703480003": {
+    "first_seen": "2026-04-16T21:27:56.616469+00:00",
+    "updated_at": "2026-04-16T16:47:46-04:00",
+    "title": "Senior Sales Engineer, Enterprise",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "5972960004": {
+    "first_seen": "2026-04-16T21:27:56.984245+00:00",
+    "updated_at": "2026-04-16T17:04:21-04:00",
+    "title": "Manager, Sales Development",
+    "company": "hightouch",
+    "alerted": true
+  },
+  "8510696002": {
+    "first_seen": "2026-04-16T21:27:59.178522+00:00",
+    "updated_at": "2026-04-16T16:49:15-04:00",
+    "title": "Manager, Sales Development",
+    "company": "dialpad",
+    "alerted": true
+  },
+  "8500944002": {
+    "first_seen": "2026-04-16T21:28:15.291330+00:00",
+    "updated_at": "2026-04-09T16:25:27-04:00",
+    "title": "Senior Software Engineer - HSM",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8500948002": {
+    "first_seen": "2026-04-16T21:28:15.291364+00:00",
+    "updated_at": "2026-04-09T16:27:31-04:00",
+    "title": "Senior Software Engineer - HSM",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8500943002": {
+    "first_seen": "2026-04-16T21:28:15.291425+00:00",
+    "updated_at": "2026-04-09T16:24:01-04:00",
+    "title": "Senior Software Engineer - HSM",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "7526372": {
+    "first_seen": "2026-04-16T21:28:22.296554+00:00",
+    "updated_at": "2026-04-16T17:27:45-04:00",
+    "title": "Senior Data Scientist, Platform - Identity/Algorithms",
+    "company": "airbnb",
     "alerted": true
   }
 }
