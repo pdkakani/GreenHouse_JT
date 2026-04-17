@@ -1,18 +1,4 @@
 {
-  "8442976002": {
-    "first_seen": "2026-04-10T19:53:58.811864+00:00",
-    "updated_at": "2026-04-10T15:19:31-04:00",
-    "title": "Delivery Solutions Architect - Financial Services",
-    "company": "databricks",
-    "alerted": true
-  },
-  "7808634": {
-    "first_seen": "2026-04-10T19:54:31.141812+00:00",
-    "updated_at": "2026-04-14T11:07:06-04:00",
-    "title": "Staff Product Manager, Growth",
-    "company": "flexport",
-    "alerted": true
-  },
   "7791168": {
     "first_seen": "2026-04-10T20:29:22.046646+00:00",
     "updated_at": "2026-04-14T19:43:56-04:00",
@@ -4460,8 +4446,8 @@
   },
   "7449072": {
     "first_seen": "2026-04-13T07:24:54.951299+00:00",
-    "updated_at": "2026-04-01T14:20:47-04:00",
-    "title": "Premier Support Engineer 2",
+    "updated_at": "2026-04-17T15:46:37-04:00",
+    "title": "Technical Support Engineer 2, Premier - San Francisco",
     "company": "datadog",
     "alerted": true
   },
@@ -12699,8 +12685,8 @@
   },
   "7536576": {
     "first_seen": "2026-04-13T09:17:59.075627+00:00",
-    "updated_at": "2026-04-16T15:30:25-04:00",
-    "title": " Manager, Security Engineering ",
+    "updated_at": "2026-04-17T15:22:24-04:00",
+    "title": " Manager, Security Engineering (Enterprise systems) ",
     "company": "contentful",
     "alerted": true
   },
@@ -21085,7 +21071,7 @@
   },
   "5189848008": {
     "first_seen": "2026-04-16T23:01:27.545549+00:00",
-    "updated_at": "2026-04-17T14:49:47-04:00",
+    "updated_at": "2026-04-17T15:49:31-04:00",
     "title": "Anthropic STEM Fellow",
     "company": "anthropic",
     "alerted": true
@@ -21463,7 +21449,7 @@
   },
   "8414654002": {
     "first_seen": "2026-04-17T18:03:40.867133+00:00",
-    "updated_at": "2026-04-15T22:42:30-04:00",
+    "updated_at": "2026-04-17T15:43:28-04:00",
     "title": "Senior Python Core Engineer",
     "company": "chime",
     "alerted": true
@@ -21526,7 +21512,7 @@
   },
   "7699291003": {
     "first_seen": "2026-04-17T19:20:58.539572+00:00",
-    "updated_at": "2026-04-17T15:15:24-04:00",
+    "updated_at": "2026-04-17T15:25:28-04:00",
     "title": "Business Development Representative, Strategic Expansion",
     "company": "fivetran",
     "alerted": true
@@ -21564,6 +21550,34 @@
     "updated_at": "2026-04-17T15:10:09-04:00",
     "title": "Senior Software Engineer, Self-Serve Intelligence",
     "company": "lyft",
+    "alerted": true
+  },
+  "8442976002": {
+    "first_seen": "2026-04-17T20:08:00.656405+00:00",
+    "updated_at": "2026-04-10T15:19:31-04:00",
+    "title": "Delivery Solutions Architect - Financial Services",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7727964": {
+    "first_seen": "2026-04-17T20:08:01.129614+00:00",
+    "updated_at": "2026-04-17T16:05:15-04:00",
+    "title": "Site Reliability Engineer (Senior or Staff), Atlas",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "5972618004": {
+    "first_seen": "2026-04-17T20:08:02.498186+00:00",
+    "updated_at": "2026-04-17T15:49:36-04:00",
+    "title": "Sr Product Manager, Pipeline Generation Systems",
+    "company": "cribl",
+    "alerted": true
+  },
+  "7808634": {
+    "first_seen": "2026-04-17T20:08:15.434935+00:00",
+    "updated_at": "2026-04-14T11:07:06-04:00",
+    "title": "Staff Product Manager, Growth",
+    "company": "flexport",
     "alerted": true
   }
 }

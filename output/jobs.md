@@ -2,6 +2,63 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 20:08 UTC
+
+### 🆕 Delivery Solutions Architect - Financial Services
+**databricks** · Delivery Solutions Architects
+📍 Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8442976002)
+🕐 Updated: `2026-04-10T15:19:31-04:00` &nbsp;|&nbsp; ID: `8442976002`
+
+---
+### 🆕 Site Reliability Engineer (Senior or Staff), Atlas
+**mongodb** · PTO Site Reliability Engineering
+📍 New York City; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727964)
+🕐 Updated: `2026-04-17T16:05:15-04:00` &nbsp;|&nbsp; ID: `7727964`
+
+---
+### 🆕 Sr Product Manager, Pipeline Generation Systems
+**cribl** · IT & Security
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5972618004)
+🕐 Updated: `2026-04-17T15:49:36-04:00` &nbsp;|&nbsp; ID: `5972618004`
+
+---
+### 🆕 Staff Product Manager, Growth
+**flexport** · Global Brand
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7808634?gh_jid=7808634)
+🕐 Updated: `2026-04-14T11:07:06-04:00` &nbsp;|&nbsp; ID: `7808634`
+
+---
+### 🔄 Anthropic STEM Fellow
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5189848008)
+🕐 Updated: `2026-04-17T15:49:31-04:00` &nbsp;|&nbsp; ID: `5189848008`
+
+---
+### 🔄 Technical Support Engineer 2, Premier - San Francisco
+**datadog** · Support Engineering
+📍 San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072)
+🕐 Updated: `2026-04-17T15:46:37-04:00` &nbsp;|&nbsp; ID: `7449072`
+
+---
+### 🔄 Business Development Representative, Strategic Expansion
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7699291003)
+🕐 Updated: `2026-04-17T15:25:28-04:00` &nbsp;|&nbsp; ID: `7699291003`
+
+---
+### 🔄  Manager, Security Engineering (Enterprise systems) 
+**contentful** · Security
+📍 New York City, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7536576)
+🕐 Updated: `2026-04-17T15:22:24-04:00` &nbsp;|&nbsp; ID: `7536576`
+
+---
+### 🔄 Senior Python Core Engineer
+**chime** · Engineering Services
+📍 Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8414654002?gh_jid=8414654002)
+🕐 Updated: `2026-04-17T15:43:28-04:00` &nbsp;|&nbsp; ID: `8414654002`
+
+---
+
 ## 📅 Run: 2026-04-17 19:21 UTC
 
 ### 🆕 Software Engineer 3
