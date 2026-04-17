@@ -2,6 +2,93 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 02:28 UTC
+
+### 🆕 Anthropic Fellows Program — AI Safety
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183044008)
+🕐 Updated: `2026-04-13T17:55:43-04:00` &nbsp;|&nbsp; ID: `5183044008`
+
+---
+### 🆕 Anthropic Fellows Program — ML Systems & Performance
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183051008)
+🕐 Updated: `2026-04-13T21:45:25-04:00` &nbsp;|&nbsp; ID: `5183051008`
+
+---
+### 🆕 Anthropic Fellows Program — Reinforcement Learning
+**anthropic** · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183052008)
+🕐 Updated: `2026-04-13T17:57:40-04:00` &nbsp;|&nbsp; ID: `5183052008`
+
+---
+### 🆕 Senior Ecosystems Sales Manager, India
+**gitlab** · Alliances and Channel
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8491082002)
+🕐 Updated: `2026-04-16T20:25:24-04:00` &nbsp;|&nbsp; ID: `8491082002`
+
+---
+### 🆕 Senior Software Engineer, Monetization 
+**postman** · Platform Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7703523003)
+🕐 Updated: `2026-04-16T22:13:27-04:00` &nbsp;|&nbsp; ID: `7703523003`
+
+---
+### 🆕 Strategic Solutions Engineer
+**postman** · Sales
+📍 Remote, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7703334003)
+🕐 Updated: `2026-04-16T22:02:45-04:00` &nbsp;|&nbsp; ID: `7703334003`
+
+---
+### 🔄 Delivery Solutions Architect - Healthcare & Life Sciences
+**databricks** · Delivery Solutions Architects
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8233904002)
+🕐 Updated: `2026-04-16T20:26:59-04:00` &nbsp;|&nbsp; ID: `8233904002`
+
+---
+### 🔄 Engineering Manager, Issuing
+**lithic** · Engineering
+📍 Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5836309004)
+🕐 Updated: `2026-04-16T21:27:59-04:00` &nbsp;|&nbsp; ID: `5836309004`
+
+---
+### 🔄 Engineering Manager, Lithic Web
+**lithic** · Engineering
+📍 Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5817197004)
+🕐 Updated: `2026-04-16T21:14:33-04:00` &nbsp;|&nbsp; ID: `5817197004`
+
+---
+### 🔄 Engineering Manager, Program Services
+**lithic** · Engineering
+📍 Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5830207004)
+🕐 Updated: `2026-04-16T21:33:21-04:00` &nbsp;|&nbsp; ID: `5830207004`
+
+---
+### 🔄 Engineering Manager, Treasury
+**lithic** · Engineering
+📍 Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5873099004)
+🕐 Updated: `2026-04-16T21:17:15-04:00` &nbsp;|&nbsp; ID: `5873099004`
+
+---
+### 🔄 Engineering Manager, Treasury
+**lithic** · Engineering
+📍 Ontario, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5873528004)
+🕐 Updated: `2026-04-16T21:26:30-04:00` &nbsp;|&nbsp; ID: `5873528004`
+
+---
+### 🔄 Senior Software Engineer, Treasury
+**lithic** · Engineering
+📍 Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/5737189004)
+🕐 Updated: `2026-04-16T21:20:44-04:00` &nbsp;|&nbsp; ID: `5737189004`
+
+---
+### 🔄 Manager, Engineering - Guest & Host
+**airbnb** · Software Engineering
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7522011?gh_jid=7522011)
+🕐 Updated: `2026-04-16T20:27:20-04:00` &nbsp;|&nbsp; ID: `7522011`
+
+---
+
 ## 📅 Run: 2026-04-16 23:57 UTC
 
 ### 🆕 Sales Development Representative

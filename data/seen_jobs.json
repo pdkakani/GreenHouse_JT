@@ -1,39 +1,4 @@
 {
-  "5183044008": {
-    "first_seen": "2026-04-10T01:56:59.281533+00:00",
-    "updated_at": "2026-04-13T17:55:43-04:00",
-    "title": "Anthropic Fellows Program \u2014 AI Safety",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "5183051008": {
-    "first_seen": "2026-04-10T01:56:59.281596+00:00",
-    "updated_at": "2026-04-13T21:45:25-04:00",
-    "title": "Anthropic Fellows Program \u2014 ML Systems & Performance",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "5183052008": {
-    "first_seen": "2026-04-10T01:56:59.281655+00:00",
-    "updated_at": "2026-04-13T17:57:40-04:00",
-    "title": "Anthropic Fellows Program \u2014 Reinforcement Learning",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8491082002": {
-    "first_seen": "2026-04-10T01:57:05.929682+00:00",
-    "updated_at": "2026-04-09T20:30:52-04:00",
-    "title": "Ecosystems Sales Manager - Scale",
-    "company": "gitlab",
-    "alerted": true
-  },
-  "7307124": {
-    "first_seen": "2026-04-10T01:57:10.304431+00:00",
-    "updated_at": "2026-04-09T21:33:48-04:00",
-    "title": "Staff Applied AI Scientist",
-    "company": "gusto",
-    "alerted": true
-  },
   "7789425": {
     "first_seen": "2026-04-10T06:29:47.454079+00:00",
     "updated_at": "2026-04-13T10:26:04-04:00",
@@ -2416,7 +2381,7 @@
   },
   "8233904002": {
     "first_seen": "2026-04-13T07:24:52.339118+00:00",
-    "updated_at": "2026-04-09T16:51:19-04:00",
+    "updated_at": "2026-04-16T20:26:59-04:00",
     "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
     "company": "databricks",
     "alerted": true
@@ -8765,21 +8730,21 @@
   },
   "5836309004": {
     "first_seen": "2026-04-13T07:25:01.080576+00:00",
-    "updated_at": "2026-04-08T12:42:56-04:00",
+    "updated_at": "2026-04-16T21:27:59-04:00",
     "title": "Engineering Manager, Issuing",
     "company": "lithic",
     "alerted": true
   },
   "5817197004": {
     "first_seen": "2026-04-13T07:25:01.080600+00:00",
-    "updated_at": "2026-04-08T12:44:33-04:00",
+    "updated_at": "2026-04-16T21:14:33-04:00",
     "title": "Engineering Manager, Lithic Web",
     "company": "lithic",
     "alerted": true
   },
   "5830207004": {
     "first_seen": "2026-04-13T07:25:01.080633+00:00",
-    "updated_at": "2026-04-08T12:45:16-04:00",
+    "updated_at": "2026-04-16T21:33:21-04:00",
     "title": "Engineering Manager, Program Services",
     "company": "lithic",
     "alerted": true
@@ -8793,7 +8758,7 @@
   },
   "5737189004": {
     "first_seen": "2026-04-13T07:25:01.080851+00:00",
-    "updated_at": "2026-04-08T12:46:37-04:00",
+    "updated_at": "2026-04-16T21:20:44-04:00",
     "title": "Senior Software Engineer, Treasury",
     "company": "lithic",
     "alerted": true
@@ -16759,8 +16724,8 @@
   },
   "7522011": {
     "first_seen": "2026-04-13T09:18:09.788998+00:00",
-    "updated_at": "2026-03-04T15:06:15-05:00",
-    "title": "Engineering Manager, Client Products & Emerging Tech",
+    "updated_at": "2026-04-16T20:27:20-04:00",
+    "title": "Manager, Engineering - Guest & Host",
     "company": "airbnb",
     "alerted": true
   },
@@ -20784,14 +20749,14 @@
   },
   "5873099004": {
     "first_seen": "2026-04-15T22:04:27.810982+00:00",
-    "updated_at": "2026-04-08T17:35:45-04:00",
+    "updated_at": "2026-04-16T21:17:15-04:00",
     "title": "Engineering Manager, Treasury",
     "company": "lithic",
     "alerted": true
   },
   "5873528004": {
     "first_seen": "2026-04-15T22:04:27.811024+00:00",
-    "updated_at": "2026-04-08T17:36:17-04:00",
+    "updated_at": "2026-04-16T21:26:30-04:00",
     "title": "Engineering Manager, Treasury",
     "company": "lithic",
     "alerted": true
@@ -21655,6 +21620,48 @@
     "updated_at": "2026-04-16T19:25:16-04:00",
     "title": "iOS Software Engineer, Host Pricing",
     "company": "airbnb",
+    "alerted": true
+  },
+  "5183044008": {
+    "first_seen": "2026-04-17T02:28:22.604142+00:00",
+    "updated_at": "2026-04-13T17:55:43-04:00",
+    "title": "Anthropic Fellows Program \u2014 AI Safety",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5183051008": {
+    "first_seen": "2026-04-17T02:28:22.604209+00:00",
+    "updated_at": "2026-04-13T21:45:25-04:00",
+    "title": "Anthropic Fellows Program \u2014 ML Systems & Performance",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5183052008": {
+    "first_seen": "2026-04-17T02:28:22.604274+00:00",
+    "updated_at": "2026-04-13T17:57:40-04:00",
+    "title": "Anthropic Fellows Program \u2014 Reinforcement Learning",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8491082002": {
+    "first_seen": "2026-04-17T02:28:31.808692+00:00",
+    "updated_at": "2026-04-16T20:25:24-04:00",
+    "title": "Senior Ecosystems Sales Manager, India",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7703523003": {
+    "first_seen": "2026-04-17T02:28:31.954765+00:00",
+    "updated_at": "2026-04-16T22:13:27-04:00",
+    "title": "Senior Software Engineer, Monetization ",
+    "company": "postman",
+    "alerted": true
+  },
+  "7703334003": {
+    "first_seen": "2026-04-17T02:28:31.955042+00:00",
+    "updated_at": "2026-04-16T22:02:45-04:00",
+    "title": "Strategic Solutions Engineer",
+    "company": "postman",
     "alerted": true
   }
 }
