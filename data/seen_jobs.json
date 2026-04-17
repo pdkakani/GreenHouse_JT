@@ -1,11 +1,4 @@
 {
-  "5182430008": {
-    "first_seen": "2026-04-10T08:08:57.651031+00:00",
-    "updated_at": "2026-04-10T15:18:55-04:00",
-    "title": "Insider Risk Investigator - Technical & Human Intelligence",
-    "company": "anthropic",
-    "alerted": true
-  },
   "7696207003": {
     "first_seen": "2026-04-10T11:31:58.131194+00:00",
     "updated_at": "2026-04-10T07:23:24-04:00",
@@ -20273,7 +20266,7 @@
   },
   "7769550": {
     "first_seen": "2026-04-15T16:35:24.723506+00:00",
-    "updated_at": "2026-04-08T10:39:36-04:00",
+    "updated_at": "2026-04-17T03:25:15-04:00",
     "title": "Engineering Manager - Search Management - Elasticsearch",
     "company": "elastic",
     "alerted": true

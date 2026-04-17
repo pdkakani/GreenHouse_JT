@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 08:53 UTC
+
+### 🔄 Engineering Manager - Search Management - Elasticsearch
+**elastic** · Platform - Elasticsearch
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769550&gh_jid=7769550)
+🕐 Updated: `2026-04-17T03:25:15-04:00` &nbsp;|&nbsp; ID: `7769550`
+
+---
+
 ## 📅 Run: 2026-04-17 07:09 UTC
 
 ### 🔄 Associate Solutions Engineer
