@@ -2,6 +2,243 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 18:03 UTC
+
+### 🆕 Senior Software Engineer, Server Security
+**mongodb** · PTO Clusters & Interfaces
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7815677)
+🕐 Updated: `2026-04-17T13:44:36-04:00` &nbsp;|&nbsp; ID: `7815677`
+
+---
+### 🆕 Director, GTM Business Architecture
+**twilio** · Sales Operations
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7819432)
+🕐 Updated: `2026-04-17T13:16:05-04:00` &nbsp;|&nbsp; ID: `7819432`
+
+---
+### 🆕 Senior Software Engineer, API Enablement
+**upstart** · Engineering
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7808171)
+🕐 Updated: `2026-04-10T13:21:01-04:00` &nbsp;|&nbsp; ID: `7808171`
+
+---
+### 🆕 Senior Software Engineer, Streaming Platform
+**robinhood** · ENG Data and AI Platform Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7805145?t=gh_src=&gh_jid=7805145)
+🕐 Updated: `2026-04-17T03:08:27-04:00` &nbsp;|&nbsp; ID: `7805145`
+
+---
+### 🆕 Senior Python Core Engineer
+**chime** · Engineering Services
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8414654002?gh_jid=8414654002)
+🕐 Updated: `2026-04-15T22:42:30-04:00` &nbsp;|&nbsp; ID: `8414654002`
+
+---
+### 🆕 Capital Markets Associate
+**sofi** · Capital Markets
+📍 NY- New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7695791003?gh_jid=7695791003)
+🕐 Updated: `2026-04-10T12:46:12-04:00` &nbsp;|&nbsp; ID: `7695791003`
+
+---
+### 🆕 Senior Engineering Manager, Member AI Features
+**sofi** · Engineering
+📍 CA - San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7647827003?gh_jid=7647827003)
+🕐 Updated: `2026-04-14T13:55:24-04:00` &nbsp;|&nbsp; ID: `7647827003`
+
+---
+### 🆕 Senior Software Engineer, Cloud Platform
+**sofi** · Engineering
+📍 WA - Seattle  &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7695845003?gh_jid=7695845003)
+🕐 Updated: `2026-04-10T12:49:50-04:00` &nbsp;|&nbsp; ID: `7695845003`
+
+---
+### 🆕  Senior Machine Learning Engineer, Payments
+**airbnb** · Software Engineering
+📍 Remote-USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7755758?gh_jid=7755758)
+🕐 Updated: `2026-04-10T13:45:09-04:00` &nbsp;|&nbsp; ID: `7755758`
+
+---
+### 🔄 Solutions Engineer, Okta 
+**okta** · SE Field-321
+📍 Arizona; Bellevue, Washington; Chicago, Illinois; Colorado; Nevada; Ohio; Oregon; Utah &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7550140?gh_jid=7550140)
+🕐 Updated: `2026-04-17T14:01:39-04:00` &nbsp;|&nbsp; ID: `7550140`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7549451003)
+🕐 Updated: `2026-04-17T13:46:19-04:00` &nbsp;|&nbsp; ID: `7549451003`
+
+---
+### 🔄 Staff Software Engineer - ETL Platform
+**fivetran** · Engineering Department
+📍 USA - New York &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7487101003)
+🕐 Updated: `2026-04-17T13:46:19-04:00` &nbsp;|&nbsp; ID: `7487101003`
+
+---
+### 🔄 Senior Engineering Manager, Design
+**gitlab** · Technical Writing
+📍 Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8477658002)
+🕐 Updated: `2026-04-17T13:57:32-04:00` &nbsp;|&nbsp; ID: `8477658002`
+
+---
+### 🔄 Business Development Representative
+**intercom** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7807496)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7807496`
+
+---
+### 🔄 Business Development Representative
+**intercom** · Sales
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7297051)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7297051`
+
+---
+### 🔄 Business Development Representative, Emerging AI Products 
+**intercom** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7807509)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7807509`
+
+---
+### 🔄 Manager, Solutions Engineering (Mid-Market & Enterprise) 
+**intercom** · Customer Success & Solutions
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7644731)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7644731`
+
+---
+### 🔄 Manager, Solutions Engineering (Mid-Market & Enterprise) 
+**intercom** · Customer Success & Solutions
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7644940)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7644940`
+
+---
+### 🔄 Sales Development Coordinator (6 month FTC) 
+**intercom** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7546384)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7546384`
+
+---
+### 🔄 Sales Development Representative 
+**intercom** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7695468)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7695468`
+
+---
+### 🔄 Senior AI Deployment Architect
+**intercom** · Customer Success & Solutions
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7776018)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7776018`
+
+---
+### 🔄 Senior AI Deployment Architect
+**intercom** · Customer Success & Solutions
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7774407)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7774407`
+
+---
+### 🔄 Senior Manager, Forward Deployed Engineering
+**intercom** · R&D
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7763257)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7763257`
+
+---
+### 🔄 Solutions Architect
+**intercom** · Customer Success & Solutions
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7426411)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7426411`
+
+---
+### 🔄 Solutions Architect
+**intercom** · Customer Success & Solutions
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7434876)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7434876`
+
+---
+### 🔄 Solutions Engineer
+**intercom** · Customer Success & Solutions
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6849119)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `6849119`
+
+---
+### 🔄 Solutions Engineer
+**intercom** · Customer Success & Solutions
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7573187)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7573187`
+
+---
+### 🔄 Solutions Engineer - LATAM (Portuguese Speaking)
+**intercom** · Customer Success & Solutions
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7624926)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7624926`
+
+---
+### 🔄 Solutions Engineer - LATAM (Portuguese Speaking)
+**intercom** · Customer Success & Solutions
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7593406)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7593406`
+
+---
+### 🔄 Senior Android Engineer
+**duolingo** · Software Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002)
+🕐 Updated: `2026-04-17T13:48:23-04:00` &nbsp;|&nbsp; ID: `8217266002`
+
+---
+### 🔄 Staff Product Manager, International
+**robinhood** · International Product Management
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7812801?t=gh_src=&gh_jid=7812801)
+🕐 Updated: `2026-04-17T13:13:09-04:00` &nbsp;|&nbsp; ID: `7812801`
+
+---
+### 🔄 Principal Software Engineer, Loans Originations
+**sofi** · Engineering
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7575386003?gh_jid=7575386003)
+🕐 Updated: `2026-04-17T13:47:18-04:00` &nbsp;|&nbsp; ID: `7575386003`
+
+---
+### 🔄 Project Manager, Capital Markets
+**sofi** · Capital Markets
+📍 NY-New York, SF-San Francisco. TX-Frisco, FL-Jacksonville, DE-Greenville, UT-Cottonwood Heights, NC-Charlotte &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7704156003?gh_jid=7704156003)
+🕐 Updated: `2026-04-17T13:43:37-04:00` &nbsp;|&nbsp; ID: `7704156003`
+
+---
+### 🔄 Senior Software Engineer, Quality Engineering
+**airbnb** · Software Engineering
+📍 Brazil - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7380149?gh_jid=7380149)
+🕐 Updated: `2026-04-17T14:01:06-04:00` &nbsp;|&nbsp; ID: `7380149`
+
+---
+### 🔄 Product Manager, Matching & Fulfillment
+**lyft** · Marketplace Product
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8430532002?gh_jid=8430532002)
+🕐 Updated: `2026-04-17T13:10:49-04:00` &nbsp;|&nbsp; ID: `8430532002`
+
+---
+### 🔄 Product Manager, Matching & Fulfillment
+**lyft** · Marketplace Product
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8430067002?gh_jid=8430067002)
+🕐 Updated: `2026-04-17T13:10:49-04:00` &nbsp;|&nbsp; ID: `8430067002`
+
+---
+### 🔄 Senior Engineering Manager, Platform Engineering (Developer Experience)
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4615567006)
+🕐 Updated: `2026-04-17T13:17:55-04:00` &nbsp;|&nbsp; ID: `4615567006`
+
+---
+### 🔄 Senior Software Engineer, Platform Observability
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4594939006)
+🕐 Updated: `2026-04-17T13:23:07-04:00` &nbsp;|&nbsp; ID: `4594939006`
+
+---
+### 🔄 Senior Software Engineer - Release Engineering
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4626218006)
+🕐 Updated: `2026-04-17T13:25:43-04:00` &nbsp;|&nbsp; ID: `4626218006`
+
+---
+
 ## 📅 Run: 2026-04-17 17:06 UTC
 
 ### 🆕 Software Engineer 
