@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 05:15 UTC
+
+### 🆕 Legal Engineer
+**gitlab** · Legal
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8499587002)
+🕐 Updated: `2026-04-16T23:37:24-04:00` &nbsp;|&nbsp; ID: `8499587002`
+
+---
+### 🔄 Forward Deployed Engineer, Applied AI
+**anthropic** · Sales
+📍 Boston, MA; Chicago, IL; New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4985877008)
+🕐 Updated: `2026-04-16T22:50:55-04:00` &nbsp;|&nbsp; ID: `4985877008`
+
+---
+### 🔄 Senior Pre-Sales Solutions Architect
+**mongodb** · Solutions Consulting, Growth NA
+📍 Los Angeles; San Diego &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7662801)
+🕐 Updated: `2026-04-16T23:34:51-04:00` &nbsp;|&nbsp; ID: `7662801`
+
+---
+### 🔄 Engineering Manager, Customer Agent
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453448003)
+🕐 Updated: `2026-04-16T23:46:03-04:00` &nbsp;|&nbsp; ID: `7453448003`
+
+---
+### 🔄 Lead Software Engineer - New Products
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7566577003)
+🕐 Updated: `2026-04-16T23:23:20-04:00` &nbsp;|&nbsp; ID: `7566577003`
+
+---
+### 🔄 Senior AI Engineer
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003)
+🕐 Updated: `2026-04-16T23:45:58-04:00` &nbsp;|&nbsp; ID: `7502768003`
+
+---
+
 ## 📅 Run: 2026-04-17 02:28 UTC
 
 ### 🆕 Anthropic Fellows Program — AI Safety

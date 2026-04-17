@@ -3697,7 +3697,7 @@
   },
   "7662801": {
     "first_seen": "2026-04-13T07:24:52.851222+00:00",
-    "updated_at": "2026-04-14T15:48:55-04:00",
+    "updated_at": "2026-04-16T23:34:51-04:00",
     "title": "Senior Pre-Sales Solutions Architect",
     "company": "mongodb",
     "alerted": true
@@ -9990,7 +9990,7 @@
   },
   "4985877008": {
     "first_seen": "2026-04-13T09:17:49.241656+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-16T22:50:55-04:00",
     "title": "Forward Deployed Engineer, Applied AI",
     "company": "anthropic",
     "alerted": true
@@ -11614,7 +11614,7 @@
   },
   "7453448003": {
     "first_seen": "2026-04-13T09:17:52.540335+00:00",
-    "updated_at": "2026-04-10T11:00:46-04:00",
+    "updated_at": "2026-04-16T23:46:03-04:00",
     "title": "Engineering Manager, Customer Agent",
     "company": "klaviyo",
     "alerted": true
@@ -11705,7 +11705,7 @@
   },
   "7566577003": {
     "first_seen": "2026-04-13T09:17:52.541059+00:00",
-    "updated_at": "2026-04-10T11:00:47-04:00",
+    "updated_at": "2026-04-16T23:23:20-04:00",
     "title": "Lead Software Engineer - New Products",
     "company": "klaviyo",
     "alerted": true
@@ -11866,7 +11866,7 @@
   },
   "7502768003": {
     "first_seen": "2026-04-13T09:17:52.542067+00:00",
-    "updated_at": "2026-04-10T10:45:48-04:00",
+    "updated_at": "2026-04-16T23:45:58-04:00",
     "title": "Senior AI Engineer",
     "company": "klaviyo",
     "alerted": true
@@ -21662,6 +21662,13 @@
     "updated_at": "2026-04-16T22:02:45-04:00",
     "title": "Strategic Solutions Engineer",
     "company": "postman",
+    "alerted": true
+  },
+  "8499587002": {
+    "first_seen": "2026-04-17T05:15:28.530026+00:00",
+    "updated_at": "2026-04-16T23:37:24-04:00",
+    "title": "Legal Engineer",
+    "company": "gitlab",
     "alerted": true
   }
 }
