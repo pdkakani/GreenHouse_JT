@@ -2,6 +2,105 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 19:21 UTC
+
+### 🆕 Software Engineer 3
+**mongodb** · PTO Durable TXs & Availability
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779598)
+🕐 Updated: `2026-04-14T15:48:55-04:00` &nbsp;|&nbsp; ID: `7779598`
+
+---
+### 🆕 Software Engineer - Core Reporting
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7668047003)
+🕐 Updated: `2026-04-11T03:48:11-04:00` &nbsp;|&nbsp; ID: `7668047003`
+
+---
+### 🆕 Senior Manager, Sales Development
+**huntress** · Sales Development
+📍 United States of America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7704306003)
+🕐 Updated: `2026-04-17T14:53:23-04:00` &nbsp;|&nbsp; ID: `7704306003`
+
+---
+### 🆕 Business Development Representative, Strategic Expansion
+**fivetran** · Marketing Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7704663003)
+🕐 Updated: `2026-04-17T15:15:32-04:00` &nbsp;|&nbsp; ID: `7704663003`
+
+---
+### 🆕 Business Development Representative, Strategic Expansion
+**fivetran** · Marketing Department
+📍 Oakland, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7699291003)
+🕐 Updated: `2026-04-17T15:15:24-04:00` &nbsp;|&nbsp; ID: `7699291003`
+
+---
+### 🆕 Full Stack Engineer, Commerce
+**calendly** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8512146002)
+🕐 Updated: `2026-04-17T14:13:11-04:00` &nbsp;|&nbsp; ID: `8512146002`
+
+---
+### 🆕 Lead, Cloud & Security Operations Engineer
+**tabapay** · Compliance 
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://tabapay.com/careers.html?gh_jid=4674319006)
+🕐 Updated: `2026-04-17T14:26:03-04:00` &nbsp;|&nbsp; ID: `4674319006`
+
+---
+### 🆕 Head of AI-Native Talent Systems
+**gusto** · People
+📍 Denver, CO;San Francisco, CA;New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7553088)
+🕐 Updated: `2026-04-10T14:13:28-04:00` &nbsp;|&nbsp; ID: `7553088`
+
+---
+### 🆕 Senior Software Engineer, AI Infrastructure
+**robinhood** · ENG Data and AI Platform Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7782697?t=gh_src=&gh_jid=7782697)
+🕐 Updated: `2026-04-17T03:08:19-04:00` &nbsp;|&nbsp; ID: `7782697`
+
+---
+### 🆕 Senior Software Engineer, Self-Serve Intelligence
+**lyft** · Core Systems & Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508257002?gh_jid=8508257002)
+🕐 Updated: `2026-04-17T15:10:09-04:00` &nbsp;|&nbsp; ID: `8508257002`
+
+---
+### 🔄 Anthropic STEM Fellow
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5189848008)
+🕐 Updated: `2026-04-17T14:49:47-04:00` &nbsp;|&nbsp; ID: `5189848008`
+
+---
+### 🔄 AI Builder Resident
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7703400003)
+🕐 Updated: `2026-04-17T15:01:53-04:00` &nbsp;|&nbsp; ID: `7703400003`
+
+---
+### 🔄 Principal Software Engineer - Pay Group Engineering
+**gusto** · Engineering
+📍 Denver, CO;San Francisco, CA;New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7027020)
+🕐 Updated: `2026-04-17T14:21:52-04:00` &nbsp;|&nbsp; ID: `7027020`
+
+---
+### 🔄 Business Development Manager, Private Equity Partners
+**carta** · Business Development
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/7489895003)
+🕐 Updated: `2026-04-17T14:25:26-04:00` &nbsp;|&nbsp; ID: `7489895003`
+
+---
+### 🔄 Project Manager, Capital Markets
+**sofi** · Capital Markets
+📍 NY-New York, SF-San Francisco. TX-Frisco, FL-Jacksonville, DE-Greenville, UT-Cottonwood Heights, NC-Charlotte &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7704156003?gh_jid=7704156003)
+🕐 Updated: `2026-04-17T14:09:40-04:00` &nbsp;|&nbsp; ID: `7704156003`
+
+---
+### 🔄 Senior Machine Learning Engineer II, Ads Response Prediction
+**instacart** · Machine Learning
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776451)
+🕐 Updated: `2026-04-17T14:58:47-04:00` &nbsp;|&nbsp; ID: `7776451`
+
+---
+
 ## 📅 Run: 2026-04-17 18:03 UTC
 
 ### 🆕 Senior Software Engineer, Server Security
