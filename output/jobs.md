@@ -2,6 +2,105 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 17:06 UTC
+
+### 🆕 Software Engineer 
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7785202)
+🕐 Updated: `2026-04-17T12:48:40-04:00` &nbsp;|&nbsp; ID: `7785202`
+
+---
+### 🆕 Software Engineer (L3)
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7301401)
+🕐 Updated: `2026-04-17T12:17:50-04:00` &nbsp;|&nbsp; ID: `7301401`
+
+---
+### 🆕 Staff Software Engineer
+**twilio** · Engineering
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7234666)
+🕐 Updated: `2026-04-17T13:03:10-04:00` &nbsp;|&nbsp; ID: `7234666`
+
+---
+### 🆕 Senior Software Engineer, Growth
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7696724003)
+🕐 Updated: `2026-04-11T01:02:17-04:00` &nbsp;|&nbsp; ID: `7696724003`
+
+---
+### 🆕 Senior Analytics Engineer
+**okta** · Data & Insights-190
+📍 Bellevue, Washington; Chicago, Illinois; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7818510?gh_jid=7818510)
+🕐 Updated: `2026-04-17T12:08:19-04:00` &nbsp;|&nbsp; ID: `7818510`
+
+---
+### 🆕 Sales Development Representative, Portuguese Speaking
+**gitlab** · Sales Development
+📍 Remote, North America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8510311002)
+🕐 Updated: `2026-04-17T13:05:19-04:00` &nbsp;|&nbsp; ID: `8510311002`
+
+---
+### 🆕 People Business Partner Director, Engineering
+**brex** · People
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8512238002?gh_jid=8512238002)
+🕐 Updated: `2026-04-17T12:55:34-04:00` &nbsp;|&nbsp; ID: `8512238002`
+
+---
+### 🆕 Staff Technical Program Manager, Core Experience
+**instacart** · Technical Program Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7749567)
+🕐 Updated: `2026-04-17T12:06:22-04:00` &nbsp;|&nbsp; ID: `7749567`
+
+---
+### 🔄 Anthropic STEM Fellow
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5189848008)
+🕐 Updated: `2026-04-17T12:28:38-04:00` &nbsp;|&nbsp; ID: `5189848008`
+
+---
+### 🔄 Director of Engineering, AI
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7647697003)
+🕐 Updated: `2026-04-17T12:28:06-04:00` &nbsp;|&nbsp; ID: `7647697003`
+
+---
+### 🔄 Senior Software Engineer - Devx 
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548895003)
+🕐 Updated: `2026-04-17T13:01:02-04:00` &nbsp;|&nbsp; ID: `7548895003`
+
+---
+### 🔄 Software Engineer II Devx
+**klaviyo** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7641350003)
+🕐 Updated: `2026-04-17T12:01:20-04:00` &nbsp;|&nbsp; ID: `7641350003`
+
+---
+### 🔄 Senior Growth Web Engineer 
+**newrelic** · Marketing
+📍 Arlington, Virginia, USA; Atlanta, Georgia, USA; Austin, Texas, USA; Chicago, Illinois, USA; Hartford, Connecticut, USA; Jersey City, New Jersey, USA; Raleigh, North Carolina, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5153292008)
+🕐 Updated: `2026-04-17T12:55:52-04:00` &nbsp;|&nbsp; ID: `5153292008`
+
+---
+### 🔄 Sales Development Representative
+**stripe** · 1132 AMER Sales Development Reps
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6570253)
+🕐 Updated: `2026-04-17T12:50:32-04:00` &nbsp;|&nbsp; ID: `6570253`
+
+---
+### 🔄 Platform Operations Analyst
+**sofi** · Ops PMO
+📍 UT - Cottonwood Heights; CA - San Francisco HQ; VA - Reston; TX - Frisco    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7702206003?gh_jid=7702206003)
+🕐 Updated: `2026-04-17T12:46:59-04:00` &nbsp;|&nbsp; ID: `7702206003`
+
+---
+### 🔄 Project Manager, Capital Markets
+**sofi** · Capital Markets
+📍 NY-NewYork, SF-San Francisco. TX-Frisco, FL-Jacksonville, DE-Greenville, UT-Cottonwood Heights &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7704156003?gh_jid=7704156003)
+🕐 Updated: `2026-04-17T12:20:24-04:00` &nbsp;|&nbsp; ID: `7704156003`
+
+---
+
 ## 📅 Run: 2026-04-17 16:01 UTC
 
 ### 🆕 Pre-sales Manager, Field Engineering - Named Accounts

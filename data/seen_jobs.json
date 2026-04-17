@@ -1,11 +1,4 @@
 {
-  "7696724003": {
-    "first_seen": "2026-04-10T17:06:06.247738+00:00",
-    "updated_at": "2026-04-11T01:02:17-04:00",
-    "title": "Senior Software Engineer, Growth",
-    "company": "klaviyo",
-    "alerted": true
-  },
   "7695791003": {
     "first_seen": "2026-04-10T17:06:38.707077+00:00",
     "updated_at": "2026-04-10T12:46:12-04:00",
@@ -5097,8 +5090,8 @@
   },
   "5153292008": {
     "first_seen": "2026-04-13T07:24:55.149993+00:00",
-    "updated_at": "2026-04-13T11:25:59-04:00",
-    "title": "Growth Web Engineer ",
+    "updated_at": "2026-04-17T12:55:52-04:00",
+    "title": "Senior Growth Web Engineer ",
     "company": "newrelic",
     "alerted": true
   },
@@ -7288,7 +7281,7 @@
   },
   "6570253": {
     "first_seen": "2026-04-13T07:24:58.805204+00:00",
-    "updated_at": "2026-04-16T11:05:52-04:00",
+    "updated_at": "2026-04-17T12:50:32-04:00",
     "title": "Sales Development Representative",
     "company": "stripe",
     "alerted": true
@@ -11278,7 +11271,7 @@
   },
   "7647697003": {
     "first_seen": "2026-04-13T09:17:52.540163+00:00",
-    "updated_at": "2026-04-04T04:03:42-04:00",
+    "updated_at": "2026-04-17T12:28:06-04:00",
     "title": "Director of Engineering, AI",
     "company": "klaviyo",
     "alerted": true
@@ -11698,7 +11691,7 @@
   },
   "7548895003": {
     "first_seen": "2026-04-13T09:17:52.542876+00:00",
-    "updated_at": "2026-04-13T18:46:36-04:00",
+    "updated_at": "2026-04-17T13:01:02-04:00",
     "title": "Senior Software Engineer - Devx ",
     "company": "klaviyo",
     "alerted": true
@@ -19125,7 +19118,7 @@
   },
   "7641350003": {
     "first_seen": "2026-04-14T15:41:07.460022+00:00",
-    "updated_at": "2026-04-15T01:02:23-04:00",
+    "updated_at": "2026-04-17T12:01:20-04:00",
     "title": "Software Engineer II Devx",
     "company": "klaviyo",
     "alerted": true
@@ -20861,7 +20854,7 @@
   },
   "7702206003": {
     "first_seen": "2026-04-16T17:13:57.799803+00:00",
-    "updated_at": "2026-04-16T13:12:35-04:00",
+    "updated_at": "2026-04-17T12:46:59-04:00",
     "title": "Platform Operations Analyst",
     "company": "sofi",
     "alerted": true
@@ -21204,7 +21197,7 @@
   },
   "5189848008": {
     "first_seen": "2026-04-16T23:01:27.545549+00:00",
-    "updated_at": "2026-04-16T19:23:36-04:00",
+    "updated_at": "2026-04-17T12:28:38-04:00",
     "title": "Anthropic STEM Fellow",
     "company": "anthropic",
     "alerted": true
@@ -21435,7 +21428,7 @@
   },
   "7704156003": {
     "first_seen": "2026-04-17T14:58:03.214499+00:00",
-    "updated_at": "2026-04-17T10:30:43-04:00",
+    "updated_at": "2026-04-17T12:20:24-04:00",
     "title": "Project Manager, Capital Markets",
     "company": "sofi",
     "alerted": true
@@ -21494,6 +21487,62 @@
     "updated_at": "2026-04-15T22:42:30-04:00",
     "title": "Software Engineer, Instant Loans",
     "company": "chime",
+    "alerted": true
+  },
+  "7785202": {
+    "first_seen": "2026-04-17T17:06:15.863135+00:00",
+    "updated_at": "2026-04-17T12:48:40-04:00",
+    "title": "Software Engineer ",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7301401": {
+    "first_seen": "2026-04-17T17:06:15.863162+00:00",
+    "updated_at": "2026-04-17T12:17:50-04:00",
+    "title": "Software Engineer (L3)",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7234666": {
+    "first_seen": "2026-04-17T17:06:15.863232+00:00",
+    "updated_at": "2026-04-17T13:03:10-04:00",
+    "title": "Staff Software Engineer",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7696724003": {
+    "first_seen": "2026-04-17T17:06:16.633961+00:00",
+    "updated_at": "2026-04-11T01:02:17-04:00",
+    "title": "Senior Software Engineer, Growth",
+    "company": "klaviyo",
+    "alerted": true
+  },
+  "7818510": {
+    "first_seen": "2026-04-17T17:06:18.371415+00:00",
+    "updated_at": "2026-04-17T12:08:19-04:00",
+    "title": "Senior Analytics Engineer",
+    "company": "okta",
+    "alerted": true
+  },
+  "8510311002": {
+    "first_seen": "2026-04-17T17:06:20.035021+00:00",
+    "updated_at": "2026-04-17T13:05:19-04:00",
+    "title": "Sales Development Representative, Portuguese Speaking",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8512238002": {
+    "first_seen": "2026-04-17T17:06:26.689327+00:00",
+    "updated_at": "2026-04-17T12:55:34-04:00",
+    "title": "People Business Partner Director, Engineering",
+    "company": "brex",
+    "alerted": true
+  },
+  "7749567": {
+    "first_seen": "2026-04-17T17:06:37.520206+00:00",
+    "updated_at": "2026-04-17T12:06:22-04:00",
+    "title": "Staff Technical Program Manager, Core Experience",
+    "company": "instacart",
     "alerted": true
   }
 }
