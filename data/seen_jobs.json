@@ -1,32 +1,4 @@
 {
-  "7696216003": {
-    "first_seen": "2026-04-10T12:34:05.505978+00:00",
-    "updated_at": "2026-04-10T07:32:52-04:00",
-    "title": "Senior Backend Engineer",
-    "company": "remotecom",
-    "alerted": true
-  },
-  "7696219003": {
-    "first_seen": "2026-04-10T12:34:05.506007+00:00",
-    "updated_at": "2026-04-10T07:33:50-04:00",
-    "title": "Senior Backend Engineer",
-    "company": "remotecom",
-    "alerted": true
-  },
-  "7696218003": {
-    "first_seen": "2026-04-10T12:34:05.506025+00:00",
-    "updated_at": "2026-04-10T07:32:54-04:00",
-    "title": "Senior Backend Engineer",
-    "company": "remotecom",
-    "alerted": true
-  },
-  "7696217003": {
-    "first_seen": "2026-04-10T12:34:05.506044+00:00",
-    "updated_at": "2026-04-10T07:32:53-04:00",
-    "title": "Senior Backend Engineer",
-    "company": "remotecom",
-    "alerted": true
-  },
   "7682351003": {
     "first_seen": "2026-04-10T14:02:44.265733+00:00",
     "updated_at": "2026-04-11T01:02:17-04:00",
@@ -20735,14 +20707,14 @@
   },
   "7820817": {
     "first_seen": "2026-04-16T10:11:37.930019+00:00",
-    "updated_at": "2026-04-16T06:07:15-04:00",
+    "updated_at": "2026-04-17T09:02:30-04:00",
     "title": "Senior Software Engineer, macOS Specialist",
     "company": "datadog",
     "alerted": true
   },
   "7820814": {
     "first_seen": "2026-04-16T10:11:37.930060+00:00",
-    "updated_at": "2026-04-16T06:06:25-04:00",
+    "updated_at": "2026-04-17T09:02:29-04:00",
     "title": "Senior Software Engineer, macOS Specialist",
     "company": "datadog",
     "alerted": true
@@ -21162,7 +21134,7 @@
   },
   "7703400003": {
     "first_seen": "2026-04-16T20:34:06.660892+00:00",
-    "updated_at": "2026-04-16T17:27:39-04:00",
+    "updated_at": "2026-04-17T09:39:06-04:00",
     "title": "AI Builder Resident",
     "company": "klaviyo",
     "alerted": true
@@ -21459,6 +21431,34 @@
     "updated_at": "2026-04-17T05:05:28-04:00",
     "title": "Applications Engineer 2",
     "company": "twilio",
+    "alerted": true
+  },
+  "5191638008": {
+    "first_seen": "2026-04-17T13:57:59.417335+00:00",
+    "updated_at": "2026-04-17T09:45:54-04:00",
+    "title": "Cluster Deployment Engineer",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8499907002": {
+    "first_seen": "2026-04-17T13:58:05.338311+00:00",
+    "updated_at": "2026-04-17T08:33:04-04:00",
+    "title": "Professional Services Engineer - META",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8506618002": {
+    "first_seen": "2026-04-17T13:58:05.339478+00:00",
+    "updated_at": "2026-04-17T09:57:07-04:00",
+    "title": "Staff Technical Program Manager",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "4686049005": {
+    "first_seen": "2026-04-17T13:58:07.981268+00:00",
+    "updated_at": "2026-04-17T09:54:34-04:00",
+    "title": "Senior Platform Infrastructure Engineer ",
+    "company": "spade",
     "alerted": true
   }
 }

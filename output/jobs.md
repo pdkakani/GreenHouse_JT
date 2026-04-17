@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 13:58 UTC
+
+### 🆕 Cluster Deployment Engineer
+**anthropic** · Compute
+📍 Remote-Friendly, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5191638008)
+🕐 Updated: `2026-04-17T09:45:54-04:00` &nbsp;|&nbsp; ID: `5191638008`
+
+---
+### 🆕 Professional Services Engineer - META
+**gitlab** · Consulting Delivery
+📍 Remote, United Arab Emirates &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8499907002)
+🕐 Updated: `2026-04-17T08:33:04-04:00` &nbsp;|&nbsp; ID: `8499907002`
+
+---
+### 🆕 Staff Technical Program Manager
+**gitlab** · Office of the CTO
+📍 Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8506618002)
+🕐 Updated: `2026-04-17T09:57:07-04:00` &nbsp;|&nbsp; ID: `8506618002`
+
+---
+### 🆕 Senior Platform Infrastructure Engineer 
+**spade** · Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/spade/jobs/4686049005)
+🕐 Updated: `2026-04-17T09:54:34-04:00` &nbsp;|&nbsp; ID: `4686049005`
+
+---
+### 🔄 AI Builder Resident
+**klaviyo** · IT & Security
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7703400003)
+🕐 Updated: `2026-04-17T09:39:06-04:00` &nbsp;|&nbsp; ID: `7703400003`
+
+---
+### 🔄 Senior Software Engineer, macOS Specialist
+**datadog** · Dev Eng
+📍 Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; United Kingdom, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7820814/?gh_jid=7820814)
+🕐 Updated: `2026-04-17T09:02:29-04:00` &nbsp;|&nbsp; ID: `7820814`
+
+---
+### 🔄 Senior Software Engineer, macOS Specialist
+**datadog** · Dev Eng
+📍 Portugal, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7820817/?gh_jid=7820817)
+🕐 Updated: `2026-04-17T09:02:30-04:00` &nbsp;|&nbsp; ID: `7820817`
+
+---
+
 ## 📅 Run: 2026-04-17 10:09 UTC
 
 ### 🆕 Applications Engineer 2
