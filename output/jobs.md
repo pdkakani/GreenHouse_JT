@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 10:09 UTC
+
+### 🆕 Applications Engineer 2
+**twilio** · Sales Operations
+📍 Remote - India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781652)
+🕐 Updated: `2026-04-17T05:05:28-04:00` &nbsp;|&nbsp; ID: `7781652`
+
+---
+### 🔄 Customer Support Engineer II
+**fivetran** · Customer Support Department
+📍 Denver, Colorado, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7694917003)
+🕐 Updated: `2026-04-17T05:56:17-04:00` &nbsp;|&nbsp; ID: `7694917003`
+
+---
+
 ## 📅 Run: 2026-04-17 08:53 UTC
 
 ### 🔄 Engineering Manager - Search Management - Elasticsearch

@@ -21407,7 +21407,7 @@
   },
   "7694917003": {
     "first_seen": "2026-04-16T21:27:56.613647+00:00",
-    "updated_at": "2026-04-16T18:29:19-04:00",
+    "updated_at": "2026-04-17T05:56:17-04:00",
     "title": "Customer Support Engineer II",
     "company": "fivetran",
     "alerted": true
@@ -21655,6 +21655,13 @@
     "updated_at": "2026-04-16T23:37:24-04:00",
     "title": "Legal Engineer",
     "company": "gitlab",
+    "alerted": true
+  },
+  "7781652": {
+    "first_seen": "2026-04-17T10:09:22.752500+00:00",
+    "updated_at": "2026-04-17T05:05:28-04:00",
+    "title": "Applications Engineer 2",
+    "company": "twilio",
     "alerted": true
   }
 }
