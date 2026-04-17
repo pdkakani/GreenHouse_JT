@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 22:51 UTC
+
+### 🆕 Product Counsel, Claude Platform 
+**anthropic** · Legal
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5191775008)
+🕐 Updated: `2026-04-17T18:12:17-04:00` &nbsp;|&nbsp; ID: `5191775008`
+
+---
+### 🆕 Research Engineer, Safeguards Labs
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5191785008)
+🕐 Updated: `2026-04-17T18:47:06-04:00` &nbsp;|&nbsp; ID: `5191785008`
+
+---
+### 🆕 Senior Product Manager, Education Labs
+**anthropic** · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183006008)
+🕐 Updated: `2026-04-10T18:11:33-04:00` &nbsp;|&nbsp; ID: `5183006008`
+
+---
+### 🆕 Engineering Manager, Spark Connect
+**databricks** · Engineering
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8502969002)
+🕐 Updated: `2026-04-10T18:01:14-04:00` &nbsp;|&nbsp; ID: `8502969002`
+
+---
+### 🆕 Staff Software Engineer
+**amplitude** · Engineering : Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8512903002)
+🕐 Updated: `2026-04-17T18:44:47-04:00` &nbsp;|&nbsp; ID: `8512903002`
+
+---
+### 🔄 Principal Engineer
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7811868)
+🕐 Updated: `2026-04-17T18:31:41-04:00` &nbsp;|&nbsp; ID: `7811868`
+
+---
+### 🔄 Software Engineer, Product Backend (8+ YOE)
+**airtable** · Engineering
+📍 San Francisco, CA; Remote - US (Seattle, WA only) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8397618002)
+🕐 Updated: `2026-04-17T18:50:15-04:00` &nbsp;|&nbsp; ID: `8397618002`
+
+---
+
 ## 📅 Run: 2026-04-17 22:00 UTC
 
 ### 🆕 Product Manager, API Growth
