@@ -1,39 +1,4 @@
 {
-  "7488013": {
-    "first_seen": "2026-04-10T15:05:18.157855+00:00",
-    "updated_at": "2026-04-10T10:42:48-04:00",
-    "title": "Senior Technical Architect, Okta",
-    "company": "okta",
-    "alerted": true
-  },
-  "7793061": {
-    "first_seen": "2026-04-10T15:05:18.160255+00:00",
-    "updated_at": "2026-04-10T10:55:00-04:00",
-    "title": "Vice President, Global Systems Integrators",
-    "company": "okta",
-    "alerted": true
-  },
-  "8500155002": {
-    "first_seen": "2026-04-10T15:05:26.495623+00:00",
-    "updated_at": "2026-04-15T18:38:49-04:00",
-    "title": "Solutions Engineer Associate",
-    "company": "alloy",
-    "alerted": true
-  },
-  "7807664": {
-    "first_seen": "2026-04-10T15:05:32.305677+00:00",
-    "updated_at": "2026-04-13T17:11:29-04:00",
-    "title": "Senior Software Engineer - Data Platform",
-    "company": "coinbase",
-    "alerted": true
-  },
-  "8433840002": {
-    "first_seen": "2026-04-10T15:05:33.880731+00:00",
-    "updated_at": "2026-04-15T22:42:30-04:00",
-    "title": "Software Engineer, Instant Loans",
-    "company": "chime",
-    "alerted": true
-  },
   "7696724003": {
     "first_seen": "2026-04-10T17:06:06.247738+00:00",
     "updated_at": "2026-04-11T01:02:17-04:00",
@@ -4516,7 +4481,7 @@
   },
   "7696093": {
     "first_seen": "2026-04-13T07:24:54.949927+00:00",
-    "updated_at": "2026-04-01T14:20:47-04:00",
+    "updated_at": "2026-04-17T11:58:40-04:00",
     "title": "Manager I, Engineering - Core Analytics",
     "company": "datadog",
     "alerted": true
@@ -5650,7 +5615,7 @@
   },
   "7535277": {
     "first_seen": "2026-04-13T07:24:55.932193+00:00",
-    "updated_at": "2026-04-13T15:17:17-04:00",
+    "updated_at": "2026-04-17T11:58:44-04:00",
     "title": "Strategic Solutions Engineer",
     "company": "okta",
     "alerted": true
@@ -8590,7 +8555,7 @@
   },
   "7365422": {
     "first_seen": "2026-04-13T07:25:04.757722+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-17T11:33:08-04:00",
     "title": "Internal Audit IT Associate Manager",
     "company": "coinbase",
     "alerted": true
@@ -9465,7 +9430,7 @@
   },
   "8479805002": {
     "first_seen": "2026-04-13T07:25:06.006835+00:00",
-    "updated_at": "2026-04-15T22:42:30-04:00",
+    "updated_at": "2026-04-17T11:26:19-04:00",
     "title": "Senior Processor Implementation Manager",
     "company": "chime",
     "alerted": true
@@ -9500,7 +9465,7 @@
   },
   "8183064002": {
     "first_seen": "2026-04-13T07:25:06.006982+00:00",
-    "updated_at": "2026-04-15T22:42:30-04:00",
+    "updated_at": "2026-04-17T11:27:10-04:00",
     "title": "Software Engineer, Financial Platform",
     "company": "chime",
     "alerted": true
@@ -11243,28 +11208,28 @@
   },
   "7365359": {
     "first_seen": "2026-04-13T09:17:52.328458+00:00",
-    "updated_at": "2026-04-14T11:11:33-04:00",
+    "updated_at": "2026-04-17T11:01:44-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
   },
   "7374370": {
     "first_seen": "2026-04-13T09:17:52.328484+00:00",
-    "updated_at": "2026-04-14T11:13:04-04:00",
+    "updated_at": "2026-04-17T11:01:44-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
   },
   "7374363": {
     "first_seen": "2026-04-13T09:17:52.328496+00:00",
-    "updated_at": "2026-04-14T11:11:58-04:00",
+    "updated_at": "2026-04-17T11:01:44-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
   },
   "7374361": {
     "first_seen": "2026-04-13T09:17:52.328508+00:00",
-    "updated_at": "2026-04-14T11:12:08-04:00",
+    "updated_at": "2026-04-17T11:01:44-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "alerted": true
@@ -13091,7 +13056,7 @@
   },
   "7668120003": {
     "first_seen": "2026-04-13T09:17:59.155456+00:00",
-    "updated_at": "2026-04-10T19:59:36-04:00",
+    "updated_at": "2026-04-17T11:08:47-04:00",
     "title": "Sr. Solutions Architect - DXP",
     "company": "contentstack",
     "alerted": true
@@ -15345,7 +15310,7 @@
   },
   "7524353003": {
     "first_seen": "2026-04-13T09:18:08.917719+00:00",
-    "updated_at": "2026-03-23T15:02:31-04:00",
+    "updated_at": "2026-04-17T12:01:12-04:00",
     "title": "Capital Markets Senior Manager, Loan Platform Business",
     "company": "sofi",
     "alerted": true
@@ -20084,7 +20049,7 @@
   },
   "8463880002": {
     "first_seen": "2026-04-15T16:35:37.229767+00:00",
-    "updated_at": "2026-04-15T12:02:43-04:00",
+    "updated_at": "2026-04-17T11:36:18-04:00",
     "title": "Software Engineer",
     "company": "lattice",
     "alerted": true
@@ -21473,6 +21438,62 @@
     "updated_at": "2026-04-17T10:30:43-04:00",
     "title": "Project Manager, Capital Markets",
     "company": "sofi",
+    "alerted": true
+  },
+  "8506061002": {
+    "first_seen": "2026-04-17T16:01:28.034353+00:00",
+    "updated_at": "2026-04-17T11:28:10-04:00",
+    "title": "Pre-sales Manager, Field Engineering - Named Accounts",
+    "company": "databricks",
+    "alerted": true
+  },
+  "7821462": {
+    "first_seen": "2026-04-17T16:01:29.155479+00:00",
+    "updated_at": "2026-04-17T11:25:27-04:00",
+    "title": "Staff Engineer, AI Security",
+    "company": "twilio",
+    "alerted": true
+  },
+  "7488013": {
+    "first_seen": "2026-04-17T16:01:33.250672+00:00",
+    "updated_at": "2026-04-10T10:42:48-04:00",
+    "title": "Senior Technical Architect, Okta",
+    "company": "okta",
+    "alerted": true
+  },
+  "7793061": {
+    "first_seen": "2026-04-17T16:01:33.254118+00:00",
+    "updated_at": "2026-04-10T10:55:00-04:00",
+    "title": "Vice President, Global Systems Integrators",
+    "company": "okta",
+    "alerted": true
+  },
+  "7692552003": {
+    "first_seen": "2026-04-17T16:01:33.404803+00:00",
+    "updated_at": "2026-04-17T11:21:44-04:00",
+    "title": "Senior Software Engineer, Adaptive Classification Team",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "8500155002": {
+    "first_seen": "2026-04-17T16:01:42.235796+00:00",
+    "updated_at": "2026-04-15T18:38:49-04:00",
+    "title": "Solutions Engineer Associate",
+    "company": "alloy",
+    "alerted": true
+  },
+  "7807664": {
+    "first_seen": "2026-04-17T16:01:49.206265+00:00",
+    "updated_at": "2026-04-13T17:11:29-04:00",
+    "title": "Senior Software Engineer - Data Platform",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "8433840002": {
+    "first_seen": "2026-04-17T16:01:50.498862+00:00",
+    "updated_at": "2026-04-15T22:42:30-04:00",
+    "title": "Software Engineer, Instant Loans",
+    "company": "chime",
     "alerted": true
   }
 }

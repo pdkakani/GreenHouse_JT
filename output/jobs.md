@@ -2,6 +2,129 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 16:01 UTC
+
+### 🆕 Pre-sales Manager, Field Engineering - Named Accounts
+**databricks** · Field Engineering - Other
+📍 Remote - Denmark &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8506061002)
+🕐 Updated: `2026-04-17T11:28:10-04:00` &nbsp;|&nbsp; ID: `8506061002`
+
+---
+### 🆕 Staff Engineer, AI Security
+**twilio** · Security
+📍 Remote - Ireland &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7821462)
+🕐 Updated: `2026-04-17T11:25:27-04:00` &nbsp;|&nbsp; ID: `7821462`
+
+---
+### 🆕 Senior Technical Architect, Okta
+**okta** · Professional Services-720
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7488013?gh_jid=7488013)
+🕐 Updated: `2026-04-10T10:42:48-04:00` &nbsp;|&nbsp; ID: `7488013`
+
+---
+### 🆕 Vice President, Global Systems Integrators
+**okta** · Regional Alliances & GSI-027
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7793061?gh_jid=7793061)
+🕐 Updated: `2026-04-10T10:55:00-04:00` &nbsp;|&nbsp; ID: `7793061`
+
+---
+### 🆕 Senior Software Engineer, Adaptive Classification Team
+**abnormalsecurity** · Message Security Products
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7692552003?gh_jid=7692552003)
+🕐 Updated: `2026-04-17T11:21:44-04:00` &nbsp;|&nbsp; ID: `7692552003`
+
+---
+### 🆕 Solutions Engineer Associate
+**alloy** · Client Success & Solutions
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8500155002&gh_jid=8500155002)
+🕐 Updated: `2026-04-15T18:38:49-04:00` &nbsp;|&nbsp; ID: `8500155002`
+
+---
+### 🆕 Senior Software Engineer - Data Platform
+**coinbase** · Engineering - Infrastructure
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7807664?gh_jid=7807664)
+🕐 Updated: `2026-04-13T17:11:29-04:00` &nbsp;|&nbsp; ID: `7807664`
+
+---
+### 🆕 Software Engineer, Instant Loans
+**chime** · Lending Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002)
+🕐 Updated: `2026-04-15T22:42:30-04:00` &nbsp;|&nbsp; ID: `8433840002`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7374361?gh_jid=7374361)
+🕐 Updated: `2026-04-17T11:01:44-04:00` &nbsp;|&nbsp; ID: `7374361`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7374370?gh_jid=7374370)
+🕐 Updated: `2026-04-17T11:01:44-04:00` &nbsp;|&nbsp; ID: `7374370`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7374363?gh_jid=7374363)
+🕐 Updated: `2026-04-17T11:01:44-04:00` &nbsp;|&nbsp; ID: `7374363`
+
+---
+### 🔄 Senior Software Engineer I, Full-stack
+**braze** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7365359?gh_jid=7365359)
+🕐 Updated: `2026-04-17T11:01:44-04:00` &nbsp;|&nbsp; ID: `7365359`
+
+---
+### 🔄 Manager I, Engineering - Core Analytics
+**datadog** · Leadership
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7696093/?gh_jid=7696093)
+🕐 Updated: `2026-04-17T11:58:40-04:00` &nbsp;|&nbsp; ID: `7696093`
+
+---
+### 🔄 Strategic Solutions Engineer
+**okta** · SE Field-321
+📍 Bellevue, Washington; Oregon; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7535277?gh_jid=7535277)
+🕐 Updated: `2026-04-17T11:58:44-04:00` &nbsp;|&nbsp; ID: `7535277`
+
+---
+### 🔄 Sr. Solutions Architect - DXP
+**contentstack** · Sales
+📍 Remote - EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://ats.comparably.com/api/v1/gh/contentstack/jobs/7668120003?gh_jid=7668120003)
+🕐 Updated: `2026-04-17T11:08:47-04:00` &nbsp;|&nbsp; ID: `7668120003`
+
+---
+### 🔄 Software Engineer
+**lattice** · Engineering
+📍 Canada - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8463880002)
+🕐 Updated: `2026-04-17T11:36:18-04:00` &nbsp;|&nbsp; ID: `8463880002`
+
+---
+### 🔄 Internal Audit IT Associate Manager
+**coinbase** · Finance & Accounting
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7365422?gh_jid=7365422)
+🕐 Updated: `2026-04-17T11:33:08-04:00` &nbsp;|&nbsp; ID: `7365422`
+
+---
+### 🔄 Senior Processor Implementation Manager
+**chime** · Platform Engineering
+📍 New York, NY, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8479805002?gh_jid=8479805002)
+🕐 Updated: `2026-04-17T11:26:19-04:00` &nbsp;|&nbsp; ID: `8479805002`
+
+---
+### 🔄 Software Engineer, Financial Platform
+**chime** · Platform Engineering
+📍 New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8183064002?gh_jid=8183064002)
+🕐 Updated: `2026-04-17T11:27:10-04:00` &nbsp;|&nbsp; ID: `8183064002`
+
+---
+### 🔄 Capital Markets Senior Manager, Loan Platform Business
+**sofi** · Capital Markets
+📍 NY - New York City; CA - San Francisco; Frisco - TX &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7524353003?gh_jid=7524353003)
+🕐 Updated: `2026-04-17T12:01:12-04:00` &nbsp;|&nbsp; ID: `7524353003`
+
+---
+
 ## 📅 Run: 2026-04-17 14:58 UTC
 
 ### 🆕 Global Leader, Applied AI Architects, Beneficial Deployments
