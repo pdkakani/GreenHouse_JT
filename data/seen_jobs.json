@@ -1,11 +1,4 @@
 {
-  "7791168": {
-    "first_seen": "2026-04-10T20:29:22.046646+00:00",
-    "updated_at": "2026-04-14T19:43:56-04:00",
-    "title": "Data Center Engineer II",
-    "company": "adyen",
-    "alerted": true
-  },
   "7778985": {
     "first_seen": "2026-04-10T21:04:09.369702+00:00",
     "updated_at": "2026-04-14T15:48:55-04:00",
@@ -9395,7 +9388,7 @@
   },
   "4939815008": {
     "first_seen": "2026-04-13T09:17:49.238590+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-17T16:14:50-04:00",
     "title": "Business Development Representative",
     "company": "anthropic",
     "alerted": true
@@ -13154,7 +13147,7 @@
   },
   "8171767002": {
     "first_seen": "2026-04-13T09:17:59.924793+00:00",
-    "updated_at": "2026-04-14T08:04:49-04:00",
+    "updated_at": "2026-04-17T16:30:49-04:00",
     "title": "Staff Product Manager, Mobile ",
     "company": "calendly",
     "alerted": true
@@ -13994,7 +13987,7 @@
   },
   "7235291": {
     "first_seen": "2026-04-13T09:18:02.524075+00:00",
-    "updated_at": "2026-04-09T16:57:49-04:00",
+    "updated_at": "2026-04-17T16:55:57-04:00",
     "title": "Principal Product Manager, Tax Platform",
     "company": "gusto",
     "alerted": true
@@ -15772,7 +15765,7 @@
   },
   "7612362": {
     "first_seen": "2026-04-13T09:18:09.436851+00:00",
-    "updated_at": "2026-04-09T19:18:02-04:00",
+    "updated_at": "2026-04-17T17:01:02-04:00",
     "title": "Manager, Sales Development",
     "company": "instacart",
     "alerted": true
@@ -15975,7 +15968,7 @@
   },
   "7232634": {
     "first_seen": "2026-04-13T09:18:09.438644+00:00",
-    "updated_at": "2026-04-09T13:28:14-04:00",
+    "updated_at": "2026-04-17T16:53:23-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart",
     "alerted": true
@@ -15989,7 +15982,7 @@
   },
   "7175500": {
     "first_seen": "2026-04-13T09:18:09.438681+00:00",
-    "updated_at": "2026-04-09T13:28:14-04:00",
+    "updated_at": "2026-04-17T16:53:23-04:00",
     "title": "Senior Software Engineer, Core Experience",
     "company": "instacart",
     "alerted": true
@@ -16003,7 +15996,7 @@
   },
   "7271639": {
     "first_seen": "2026-04-13T09:18:09.438718+00:00",
-    "updated_at": "2026-04-09T13:28:14-04:00",
+    "updated_at": "2026-04-17T16:53:23-04:00",
     "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
     "company": "instacart",
     "alerted": true
@@ -16024,7 +16017,7 @@
   },
   "7769074": {
     "first_seen": "2026-04-13T09:18:09.438773+00:00",
-    "updated_at": "2026-04-09T13:28:14-04:00",
+    "updated_at": "2026-04-17T16:53:23-04:00",
     "title": "Senior Software Engineer II, Page Builder (Retailer Platform)",
     "company": "instacart",
     "alerted": true
@@ -17151,35 +17144,35 @@
   },
   "7441441": {
     "first_seen": "2026-04-13T09:18:10.436621+00:00",
-    "updated_at": "2026-04-13T17:21:42-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Corporate Security Engineer",
     "company": "asana",
     "alerted": true
   },
   "7542202": {
     "first_seen": "2026-04-13T09:18:10.436981+00:00",
-    "updated_at": "2026-04-13T17:21:44-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Engineering Manager, Reference Anything",
     "company": "asana",
     "alerted": true
   },
   "7542185": {
     "first_seen": "2026-04-13T09:18:10.437002+00:00",
-    "updated_at": "2026-04-13T17:21:44-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Engineering Manager, Track Anything",
     "company": "asana",
     "alerted": true
   },
   "7662620": {
     "first_seen": "2026-04-13T09:18:10.437251+00:00",
-    "updated_at": "2026-04-14T11:38:57-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Group Tech Lead, Adoption Engineering",
     "company": "asana",
     "alerted": true
   },
   "7718738": {
     "first_seen": "2026-04-13T09:18:10.437329+00:00",
-    "updated_at": "2026-04-13T17:21:48-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Head of Engineering, Core Product & Collaborative Work Management",
     "company": "asana",
     "alerted": true
@@ -17193,91 +17186,91 @@
   },
   "6806085": {
     "first_seen": "2026-04-13T09:18:10.437534+00:00",
-    "updated_at": "2026-04-13T17:21:36-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "iOS Engineer",
     "company": "asana",
     "alerted": true
   },
   "7615659": {
     "first_seen": "2026-04-13T09:18:10.437804+00:00",
-    "updated_at": "2026-04-13T17:21:46-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Principal Security Engineer",
     "company": "asana",
     "alerted": true
   },
   "7565961": {
     "first_seen": "2026-04-13T09:18:10.438310+00:00",
-    "updated_at": "2026-04-13T17:21:44-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Engineering Manager, Security",
     "company": "asana",
     "alerted": true
   },
   "7392230": {
     "first_seen": "2026-04-13T09:18:10.438397+00:00",
-    "updated_at": "2026-04-13T17:21:41-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Product Manager, Project & Task Experience",
     "company": "asana",
     "alerted": true
   },
   "7370275": {
     "first_seen": "2026-04-13T09:18:10.438449+00:00",
-    "updated_at": "2026-04-13T17:21:41-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Software Engineer, AI Product Frameworks",
     "company": "asana",
     "alerted": true
   },
   "7773378": {
     "first_seen": "2026-04-13T09:18:10.438488+00:00",
-    "updated_at": "2026-04-13T17:21:35-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Software Engineer, AI Studio",
     "company": "asana",
     "alerted": true
   },
   "7565315": {
     "first_seen": "2026-04-13T09:18:10.438505+00:00",
-    "updated_at": "2026-04-13T17:21:44-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Software Engineer, Infrastructure Security",
     "company": "asana",
     "alerted": true
   },
   "6791159": {
     "first_seen": "2026-04-13T09:18:10.438526+00:00",
-    "updated_at": "2026-04-13T17:21:35-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Software Engineer, Product",
     "company": "asana",
     "alerted": true
   },
   "7607510": {
     "first_seen": "2026-04-13T09:18:10.438552+00:00",
-    "updated_at": "2026-04-13T17:21:46-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Solutions Architect",
     "company": "asana",
     "alerted": true
   },
   "7299272": {
     "first_seen": "2026-04-13T09:18:10.438575+00:00",
-    "updated_at": "2026-04-13T17:21:38-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Software Engineer, CI/CD",
     "company": "asana",
     "alerted": true
   },
   "7595104": {
     "first_seen": "2026-04-13T09:18:10.438586+00:00",
-    "updated_at": "2026-04-13T17:21:38-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Software Engineer, CI/CD",
     "company": "asana",
     "alerted": true
   },
   "7394807": {
     "first_seen": "2026-04-13T09:18:10.438749+00:00",
-    "updated_at": "2026-04-13T17:21:37-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Staff Engineer - CI/CD",
     "company": "asana",
     "alerted": true
   },
   "7773469": {
     "first_seen": "2026-04-13T09:18:10.438787+00:00",
-    "updated_at": "2026-04-13T17:21:44-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Staff Software Engineer, AI Studio",
     "company": "asana",
     "alerted": true
@@ -18243,7 +18236,7 @@
   },
   "7781698": {
     "first_seen": "2026-04-13T15:44:30.651946+00:00",
-    "updated_at": "2026-04-13T17:21:35-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Software Engineer, AI Teammates Experience",
     "company": "asana",
     "alerted": true
@@ -18397,7 +18390,7 @@
   },
   "7454232": {
     "first_seen": "2026-04-13T17:55:59.970631+00:00",
-    "updated_at": "2026-04-13T17:21:42-04:00",
+    "updated_at": "2026-04-17T16:27:10-04:00",
     "title": "Senior Engineering Manager, AI Agents",
     "company": "asana",
     "alerted": true
@@ -20336,7 +20329,7 @@
   },
   "5833301004": {
     "first_seen": "2026-04-15T22:04:27.811184+00:00",
-    "updated_at": "2026-04-16T15:37:47-04:00",
+    "updated_at": "2026-04-17T16:29:49-04:00",
     "title": "Senior Software Engineer, Data Platform",
     "company": "lithic",
     "alerted": true
@@ -21407,7 +21400,7 @@
   },
   "8512238002": {
     "first_seen": "2026-04-17T17:06:26.689327+00:00",
-    "updated_at": "2026-04-17T12:55:34-04:00",
+    "updated_at": "2026-04-17T16:45:02-04:00",
     "title": "People Business Partner Director, Engineering",
     "company": "brex",
     "alerted": true
@@ -21449,7 +21442,7 @@
   },
   "8414654002": {
     "first_seen": "2026-04-17T18:03:40.867133+00:00",
-    "updated_at": "2026-04-17T15:43:28-04:00",
+    "updated_at": "2026-04-17T16:15:54-04:00",
     "title": "Senior Python Core Engineer",
     "company": "chime",
     "alerted": true
@@ -21578,6 +21571,20 @@
     "updated_at": "2026-04-14T11:07:06-04:00",
     "title": "Staff Product Manager, Growth",
     "company": "flexport",
+    "alerted": true
+  },
+  "5973782004": {
+    "first_seen": "2026-04-17T21:02:33.442505+00:00",
+    "updated_at": "2026-04-17T16:19:10-04:00",
+    "title": "Staff AI Security Engineer",
+    "company": "cribl",
+    "alerted": true
+  },
+  "7791168": {
+    "first_seen": "2026-04-17T21:02:45.204017+00:00",
+    "updated_at": "2026-04-14T19:43:56-04:00",
+    "title": "Data Center Engineer II",
+    "company": "adyen",
     "alerted": true
   }
 }
