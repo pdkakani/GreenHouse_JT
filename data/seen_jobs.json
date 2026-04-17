@@ -1,32 +1,4 @@
 {
-  "8480580002": {
-    "first_seen": "2026-04-10T23:19:49.053344+00:00",
-    "updated_at": "2026-04-10T20:41:05-04:00",
-    "title": "Senior Backend Engineer,  SSCS: Supply Chain",
-    "company": "gitlab",
-    "alerted": true
-  },
-  "8480559002": {
-    "first_seen": "2026-04-10T23:19:49.053787+00:00",
-    "updated_at": "2026-04-10T19:10:10-04:00",
-    "title": "Staff Backend Engineer,  SSCS: Supply Chain",
-    "company": "gitlab",
-    "alerted": true
-  },
-  "5840332004": {
-    "first_seen": "2026-04-10T23:19:52.326249+00:00",
-    "updated_at": "2026-04-10T18:41:24-04:00",
-    "title": "Data Platform Engineer",
-    "company": "figma",
-    "alerted": true
-  },
-  "7777778": {
-    "first_seen": "2026-04-10T23:19:57.526324+00:00",
-    "updated_at": "2026-04-14T17:07:04-04:00",
-    "title": "Group Product Manager, Fraud ",
-    "company": "marqeta",
-    "alerted": true
-  },
   "8480544002": {
     "first_seen": "2026-04-11T02:24:57.945328+00:00",
     "updated_at": "2026-04-10T20:59:01-04:00",
@@ -16304,8 +16276,8 @@
   },
   "7724793": {
     "first_seen": "2026-04-13T09:18:09.789982+00:00",
-    "updated_at": "2026-04-08T18:47:06-04:00",
-    "title": "Product Manager",
+    "updated_at": "2026-04-17T19:10:52-04:00",
+    "title": "Product Manager, Merchandising Platform",
     "company": "airbnb",
     "alerted": true
   },
@@ -21648,6 +21620,34 @@
     "updated_at": "2026-04-17T18:44:47-04:00",
     "title": "Staff Software Engineer",
     "company": "amplitude",
+    "alerted": true
+  },
+  "8480580002": {
+    "first_seen": "2026-04-17T23:33:57.733521+00:00",
+    "updated_at": "2026-04-10T20:41:05-04:00",
+    "title": "Senior Backend Engineer,  SSCS: Supply Chain",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8480559002": {
+    "first_seen": "2026-04-17T23:33:57.734141+00:00",
+    "updated_at": "2026-04-10T19:10:10-04:00",
+    "title": "Staff Backend Engineer,  SSCS: Supply Chain",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "7777778": {
+    "first_seen": "2026-04-17T23:33:59.709148+00:00",
+    "updated_at": "2026-04-14T17:07:04-04:00",
+    "title": "Group Product Manager, Fraud ",
+    "company": "marqeta",
+    "alerted": true
+  },
+  "7704803003": {
+    "first_seen": "2026-04-17T23:34:12.412652+00:00",
+    "updated_at": "2026-04-17T19:12:56-04:00",
+    "title": "Director, AI Platforms",
+    "company": "sofi",
     "alerted": true
   }
 }

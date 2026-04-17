@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 23:34 UTC
+
+### 🆕 Senior Backend Engineer,  SSCS: Supply Chain
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480580002)
+🕐 Updated: `2026-04-10T20:41:05-04:00` &nbsp;|&nbsp; ID: `8480580002`
+
+---
+### 🆕 Staff Backend Engineer,  SSCS: Supply Chain
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480559002)
+🕐 Updated: `2026-04-10T19:10:10-04:00` &nbsp;|&nbsp; ID: `8480559002`
+
+---
+### 🆕 Group Product Manager, Fraud 
+**marqeta** · Risk, Fraud, Disputes Product
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7777778)
+🕐 Updated: `2026-04-14T17:07:04-04:00` &nbsp;|&nbsp; ID: `7777778`
+
+---
+### 🆕 Director, AI Platforms
+**sofi** · Engineering
+📍 CA - San Francisco; WA - Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7704803003?gh_jid=7704803003)
+🕐 Updated: `2026-04-17T19:12:56-04:00` &nbsp;|&nbsp; ID: `7704803003`
+
+---
+### 🔄 Product Manager, Merchandising Platform
+**airbnb** · Product Management
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7724793?gh_jid=7724793)
+🕐 Updated: `2026-04-17T19:10:52-04:00` &nbsp;|&nbsp; ID: `7724793`
+
+---
+
 ## 📅 Run: 2026-04-17 22:51 UTC
 
 ### 🆕 Product Counsel, Claude Platform 
