@@ -1,39 +1,4 @@
 {
-  "7778985": {
-    "first_seen": "2026-04-10T21:04:09.369702+00:00",
-    "updated_at": "2026-04-14T15:48:55-04:00",
-    "title": "Senior Staff Engineer, Quote-to-Cash",
-    "company": "mongodb",
-    "alerted": true
-  },
-  "7808839": {
-    "first_seen": "2026-04-10T21:04:15.982602+00:00",
-    "updated_at": "2026-04-10T16:56:45-04:00",
-    "title": "Product Manager II - AI & Data Security",
-    "company": "datadog",
-    "alerted": true
-  },
-  "7676567003": {
-    "first_seen": "2026-04-10T21:04:19.333538+00:00",
-    "updated_at": "2026-04-11T07:07:12-04:00",
-    "title": "Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization",
-    "company": "fivetran",
-    "alerted": true
-  },
-  "5181852008": {
-    "first_seen": "2026-04-10T21:53:16.431048+00:00",
-    "updated_at": "2026-04-14T18:38:21-04:00",
-    "title": "Product Manager, API Growth",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7707946": {
-    "first_seen": "2026-04-10T21:53:40.493014+00:00",
-    "updated_at": "2026-04-10T17:42:59-04:00",
-    "title": "Engineering Manager, Experimentation Infrastructure",
-    "company": "airbnb",
-    "alerted": true
-  },
   "5183006008": {
     "first_seen": "2026-04-10T22:30:35.440742+00:00",
     "updated_at": "2026-04-10T18:11:33-04:00",
@@ -9304,7 +9269,7 @@
   },
   "8457138002": {
     "first_seen": "2026-04-13T07:25:06.006898+00:00",
-    "updated_at": "2026-04-15T22:42:30-04:00",
+    "updated_at": "2026-04-17T17:16:15-04:00",
     "title": "Senior Software Engineer, Data Platform",
     "company": "chime",
     "alerted": true
@@ -15702,7 +15667,7 @@
   },
   "7144697": {
     "first_seen": "2026-04-13T09:18:09.435889+00:00",
-    "updated_at": "2026-04-09T13:40:33-04:00",
+    "updated_at": "2026-04-17T17:09:02-04:00",
     "title": "Activation Sales Development Representative I",
     "company": "instacart",
     "alerted": true
@@ -15821,7 +15786,7 @@
   },
   "7712406": {
     "first_seen": "2026-04-13T09:18:09.437125+00:00",
-    "updated_at": "2026-04-09T13:40:34-04:00",
+    "updated_at": "2026-04-17T17:09:03-04:00",
     "title": "Retention Sales Development Representative II",
     "company": "instacart",
     "alerted": true
@@ -20721,7 +20686,7 @@
   },
   "7702206003": {
     "first_seen": "2026-04-16T17:13:57.799803+00:00",
-    "updated_at": "2026-04-17T12:46:59-04:00",
+    "updated_at": "2026-04-17T17:16:46-04:00",
     "title": "Platform Operations Analyst",
     "company": "sofi",
     "alerted": true
@@ -21585,6 +21550,90 @@
     "updated_at": "2026-04-14T19:43:56-04:00",
     "title": "Data Center Engineer II",
     "company": "adyen",
+    "alerted": true
+  },
+  "5181852008": {
+    "first_seen": "2026-04-17T21:59:51.586240+00:00",
+    "updated_at": "2026-04-14T18:38:21-04:00",
+    "title": "Product Manager, API Growth",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5192805008": {
+    "first_seen": "2026-04-17T21:59:51.588107+00:00",
+    "updated_at": "2026-04-17T17:39:14-04:00",
+    "title": "Solutions Architect, Applied AI (Commercial)",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7778985": {
+    "first_seen": "2026-04-17T21:59:54.549400+00:00",
+    "updated_at": "2026-04-14T15:48:55-04:00",
+    "title": "Senior Staff Engineer, Quote-to-Cash",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7808839": {
+    "first_seen": "2026-04-17T21:59:56.955979+00:00",
+    "updated_at": "2026-04-10T16:56:45-04:00",
+    "title": "Product Manager II - AI & Data Security",
+    "company": "datadog",
+    "alerted": true
+  },
+  "7676567003": {
+    "first_seen": "2026-04-17T21:59:58.719463+00:00",
+    "updated_at": "2026-04-11T07:07:12-04:00",
+    "title": "Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization",
+    "company": "fivetran",
+    "alerted": true
+  },
+  "8384241002": {
+    "first_seen": "2026-04-17T22:00:23.304267+00:00",
+    "updated_at": "2026-04-17T17:40:40-04:00",
+    "title": "Senior Software Engineer, GenAI Platform",
+    "company": "chime",
+    "alerted": true
+  },
+  "8227562002": {
+    "first_seen": "2026-04-17T22:00:24.095754+00:00",
+    "updated_at": "2026-04-17T17:58:33-04:00",
+    "title": "Senior Data Scientist / Machine Learning Engineer - Listing Quality",
+    "company": "faire",
+    "alerted": true
+  },
+  "7707946": {
+    "first_seen": "2026-04-17T22:00:24.438255+00:00",
+    "updated_at": "2026-04-10T17:42:59-04:00",
+    "title": "Engineering Manager, Experimentation Infrastructure",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7826679": {
+    "first_seen": "2026-04-17T22:00:24.439137+00:00",
+    "updated_at": "2026-04-17T17:11:47-04:00",
+    "title": "Principal Software Engineer, Performance",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7594971": {
+    "first_seen": "2026-04-17T22:00:24.439743+00:00",
+    "updated_at": "2026-04-17T17:44:28-04:00",
+    "title": "Senior Data Scientist, Platform (Algorithms/Trust)",
+    "company": "airbnb",
+    "alerted": true
+  },
+  "7827007": {
+    "first_seen": "2026-04-17T22:00:30.003358+00:00",
+    "updated_at": "2026-04-17T17:31:26-04:00",
+    "title": "Electrical Engineer",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "7827008": {
+    "first_seen": "2026-04-17T22:00:30.003391+00:00",
+    "updated_at": "2026-04-17T17:32:09-04:00",
+    "title": "Electrical Engineer",
+    "company": "formlabs",
     "alerted": true
   }
 }

@@ -2,6 +2,105 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-17 22:00 UTC
+
+### 🆕 Product Manager, API Growth
+**anthropic** · Product Management, Support, & Operations
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5181852008)
+🕐 Updated: `2026-04-14T18:38:21-04:00` &nbsp;|&nbsp; ID: `5181852008`
+
+---
+### 🆕 Solutions Architect, Applied AI (Commercial)
+**anthropic** · Sales
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5192805008)
+🕐 Updated: `2026-04-17T17:39:14-04:00` &nbsp;|&nbsp; ID: `5192805008`
+
+---
+### 🆕 Senior Staff Engineer, Quote-to-Cash
+**mongodb** · GTM Tech
+📍 New York City; Palo Alto &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7778985)
+🕐 Updated: `2026-04-14T15:48:55-04:00` &nbsp;|&nbsp; ID: `7778985`
+
+---
+### 🆕 Product Manager II - AI & Data Security
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7808839/?gh_jid=7808839)
+🕐 Updated: `2026-04-10T16:56:45-04:00` &nbsp;|&nbsp; ID: `7808839`
+
+---
+### 🆕 Senior Sales Engineering Specialist - Kubernetes, Docker & Containerization
+**fivetran** · Sales Department
+📍 Remote, California, United States, AMER &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7676567003)
+🕐 Updated: `2026-04-11T07:07:12-04:00` &nbsp;|&nbsp; ID: `7676567003`
+
+---
+### 🆕 Senior Software Engineer, GenAI Platform
+**chime** · AI & App Experience Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8384241002?gh_jid=8384241002)
+🕐 Updated: `2026-04-17T17:40:40-04:00` &nbsp;|&nbsp; ID: `8384241002`
+
+---
+### 🆕 Senior Data Scientist / Machine Learning Engineer - Listing Quality
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8227562002?gh_jid=8227562002)
+🕐 Updated: `2026-04-17T17:58:33-04:00` &nbsp;|&nbsp; ID: `8227562002`
+
+---
+### 🆕 Engineering Manager, Experimentation Infrastructure
+**airbnb** · Software Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7707946?gh_jid=7707946)
+🕐 Updated: `2026-04-10T17:42:59-04:00` &nbsp;|&nbsp; ID: `7707946`
+
+---
+### 🆕 Principal Software Engineer, Performance
+**airbnb** · Software Engineering
+📍 Remote-US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7826679?gh_jid=7826679)
+🕐 Updated: `2026-04-17T17:11:47-04:00` &nbsp;|&nbsp; ID: `7826679`
+
+---
+### 🆕 Senior Data Scientist, Platform (Algorithms/Trust)
+**airbnb** · Data Science
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7594971?gh_jid=7594971)
+🕐 Updated: `2026-04-17T17:44:28-04:00` &nbsp;|&nbsp; ID: `7594971`
+
+---
+### 🆕 Electrical Engineer
+**formlabs** · Hardware Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7827007/apply/?gh_jid=7827007)
+🕐 Updated: `2026-04-17T17:31:26-04:00` &nbsp;|&nbsp; ID: `7827007`
+
+---
+### 🆕 Electrical Engineer
+**formlabs** · Hardware Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/7827008/apply/?gh_jid=7827008)
+🕐 Updated: `2026-04-17T17:32:09-04:00` &nbsp;|&nbsp; ID: `7827008`
+
+---
+### 🔄 Senior Software Engineer, Data Platform
+**chime** · Data Engineering
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8457138002?gh_jid=8457138002)
+🕐 Updated: `2026-04-17T17:16:15-04:00` &nbsp;|&nbsp; ID: `8457138002`
+
+---
+### 🔄 Platform Operations Analyst
+**sofi** · Ops PMO
+📍 UT - Cottonwood Heights; CA - San Francisco HQ; VA - Reston; TX - Frisco    &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7702206003?gh_jid=7702206003)
+🕐 Updated: `2026-04-17T17:16:46-04:00` &nbsp;|&nbsp; ID: `7702206003`
+
+---
+### 🔄 Activation Sales Development Representative I
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7144697)
+🕐 Updated: `2026-04-17T17:09:02-04:00` &nbsp;|&nbsp; ID: `7144697`
+
+---
+### 🔄 Retention Sales Development Representative II
+**instacart** · Ad Sales
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7712406)
+🕐 Updated: `2026-04-17T17:09:03-04:00` &nbsp;|&nbsp; ID: `7712406`
+
+---
+
 ## 📅 Run: 2026-04-17 21:03 UTC
 
 ### 🆕 Staff AI Security Engineer
