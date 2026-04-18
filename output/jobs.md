@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 10:01 UTC
+
+### 🔄 Staff Product Manager, Cortex
+**robinhood** · Customer Care
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7821803?t=gh_src=&gh_jid=7821803)
+🕐 Updated: `2026-04-18T05:33:08-04:00` &nbsp;|&nbsp; ID: `7821803`
+
+---
+
 ## 📅 Run: 2026-04-18 08:02 UTC
 
 ### 🔄 Principal Software Engineer - Developer Platform
