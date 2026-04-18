@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 08:02 UTC
+
+### 🔄 Principal Software Engineer - Developer Platform
+**newrelic** · Telemetry Data Platform
+📍 Portland, Oregon, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/4944097008)
+🕐 Updated: `2026-04-18T03:00:23-04:00` &nbsp;|&nbsp; ID: `4944097008`
+
+---
+
 ## 📅 Run: 2026-04-18 07:00 UTC
 
 ### 🔄 Senior Offensive Security Engineer
