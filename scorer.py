@@ -1,11 +1,10 @@
 """
 scorer.py — Resume match scoring using Groq API (free tier).
 
-Model: llama-3.3-70b-versatile — best free model on Groq for reasoning tasks.
-Free tier: 14,400 requests/day — more than sufficient for job scoring.
-Cost: $0.00
-
-API key stored as GitHub secret: GROQ_API_KEY
+Model: llama-3.3-70b-versatile
+Full resume + full JD sent — no truncation.
+Structured 4-criteria prompt for accurate, consistent scoring.
+Cost: $0.00 (free tier)
 """
 
 import os
@@ -24,16 +23,13 @@ RETRY_DELAY = 5
 RESUME_FILE = Path("resume.txt")
 _resume_cache: Optional[str] = None
 
-MAX_RESUME_CHARS = 1500       # ~375 tokens
-MAX_DESCRIPTION_CHARS = 2000  # ~500 tokens
-
 
 def _load_resume() -> str:
     global _resume_cache
     if _resume_cache is None:
         if not RESUME_FILE.exists():
             raise FileNotFoundError(f"resume.txt not found at {RESUME_FILE.absolute()}")
-        _resume_cache = RESUME_FILE.read_text(encoding="utf-8").strip()[:MAX_RESUME_CHARS]
+        _resume_cache = RESUME_FILE.read_text(encoding="utf-8").strip()
     return _resume_cache
 
 
@@ -46,14 +42,28 @@ def _get_api_key() -> str:
 
 def _build_prompt(job_title: str, company: str, description: str) -> str:
     resume = _load_resume()
-    desc = description[:MAX_DESCRIPTION_CHARS]
-    return f"""Score how well this resume matches the job. Reply with a single integer from 0 to 100. Nothing else. No explanation.
+
+    return f"""You are a strict technical recruiter evaluating resume-to-job fit.
+
+Score this resume against the job using the 4 criteria below.
+Internally evaluate each criterion, then output ONLY a single integer from 0 to 100 as your final weighted score.
+Do not output anything else — no explanation, no breakdown, just the integer.
+
+SCORING CRITERIA (evaluate internally before giving final score):
+1. Technical skills match — languages, frameworks, tools, cloud (weight: 40%)
+2. Domain and industry fit — fintech, banking, distributed systems, microservices (weight: 25%)
+3. Seniority level match — junior/mid/senior/staff alignment (weight: 20%)
+4. Years of experience alignment — required vs actual (weight: 15%)
 
 RESUME:
 {resume}
 
-JOB: {job_title} at {company}
-{desc}"""
+JOB TITLE: {job_title}
+COMPANY: {company}
+JOB DESCRIPTION:
+{description}
+
+Final score (0-100 integer only):"""
 
 
 def score_job(job: dict) -> Optional[int]:
@@ -64,7 +74,7 @@ def score_job(job: dict) -> Optional[int]:
     description = _strip_html(content)
 
     if not description:
-        description = f"No description. Title: {title}"
+        description = f"No description available. Evaluate based on title only: {title}"
 
     prompt = _build_prompt(title, company, description)
 
@@ -76,8 +86,8 @@ def score_job(job: dict) -> Optional[int]:
     payload = {
         "model": MODEL,
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 5,        # a number 0-100 needs at most 3 tokens
-        "temperature": 0,       # deterministic — no randomness for scoring
+        "max_tokens": 20,       # enough for the number + any edge case whitespace
+        "temperature": 0,       # fully deterministic — same job always gets same score
     }
 
     for attempt in range(1, MAX_RETRIES + 1):
