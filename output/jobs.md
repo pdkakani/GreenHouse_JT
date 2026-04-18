@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 12:03 UTC
+
+### 🆕 Technical Partner Manager, EMEA Payment Methods
+**stripe** · 3515 Partner Engineering and Operations
+📍 Ireland-Dublin, UK-London, Ireland-remote, UK-remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7779294)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7779294`
+
+---
+
 ## 📅 Run: 2026-04-18 10:59 UTC
 
 ### 🔄 Engineering Manager - Search Management - Elasticsearch

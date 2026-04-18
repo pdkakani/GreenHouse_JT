@@ -1,11 +1,4 @@
 {
-  "7779294": {
-    "first_seen": "2026-04-11T11:53:07.875971+00:00",
-    "updated_at": "2026-04-16T11:05:52-04:00",
-    "title": "Technical Partner Manager, EMEA Payment Methods",
-    "company": "stripe",
-    "alerted": true
-  },
   "5874322004": {
     "first_seen": "2026-04-12T19:51:21.782213+00:00",
     "updated_at": "2026-04-16T19:38:52-04:00",
@@ -21676,6 +21669,13 @@
     "updated_at": "2026-04-17T21:16:08-04:00",
     "title": "Data Science Intern (Personalization & Recommender Systems)",
     "company": "faire",
+    "alerted": true
+  },
+  "7779294": {
+    "first_seen": "2026-04-18T12:03:15.200630+00:00",
+    "updated_at": "2026-04-16T11:05:52-04:00",
+    "title": "Technical Partner Manager, EMEA Payment Methods",
+    "company": "stripe",
     "alerted": true
   }
 }
