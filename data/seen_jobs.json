@@ -1,18 +1,4 @@
 {
-  "8480544002": {
-    "first_seen": "2026-04-11T02:24:57.945328+00:00",
-    "updated_at": "2026-04-10T20:59:01-04:00",
-    "title": "Senior Backend Engineer, SSCS: AI Governance",
-    "company": "gitlab",
-    "alerted": true
-  },
-  "8480531002": {
-    "first_seen": "2026-04-11T02:24:57.945812+00:00",
-    "updated_at": "2026-04-15T12:11:42-04:00",
-    "title": "Staff Backend Engineer, SSCS: AI Governance",
-    "company": "gitlab",
-    "alerted": true
-  },
   "7779294": {
     "first_seen": "2026-04-11T11:53:07.875971+00:00",
     "updated_at": "2026-04-16T11:05:52-04:00",
@@ -6574,7 +6560,7 @@
   },
   "8400388002": {
     "first_seen": "2026-04-13T07:24:57.733786+00:00",
-    "updated_at": "2026-03-27T15:33:08-04:00",
+    "updated_at": "2026-04-17T22:34:39-04:00",
     "title": "Software Engineer, Infrastructure (8+ YOE)",
     "company": "airtable",
     "alerted": true
@@ -21662,6 +21648,34 @@
     "updated_at": "2026-04-17T19:40:49-04:00",
     "title": "Product Manager, Guest Discovery and Homepage",
     "company": "airbnb",
+    "alerted": true
+  },
+  "5191437008": {
+    "first_seen": "2026-04-18T04:04:28.515451+00:00",
+    "updated_at": "2026-04-17T21:24:31-04:00",
+    "title": "Partner Business Systems & AI Operations Lead",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8480544002": {
+    "first_seen": "2026-04-18T04:04:39.943268+00:00",
+    "updated_at": "2026-04-10T20:59:01-04:00",
+    "title": "Senior Backend Engineer, SSCS: AI Governance",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8480531002": {
+    "first_seen": "2026-04-18T04:04:39.943883+00:00",
+    "updated_at": "2026-04-15T12:11:42-04:00",
+    "title": "Staff Backend Engineer, SSCS: AI Governance",
+    "company": "gitlab",
+    "alerted": true
+  },
+  "8512996002": {
+    "first_seen": "2026-04-18T04:04:54.745744+00:00",
+    "updated_at": "2026-04-17T21:16:08-04:00",
+    "title": "Data Science Intern (Personalization & Recommender Systems)",
+    "company": "faire",
     "alerted": true
   }
 }

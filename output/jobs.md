@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 04:04 UTC
+
+### 🆕 Partner Business Systems & AI Operations Lead
+**anthropic** · Sales
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5191437008)
+🕐 Updated: `2026-04-17T21:24:31-04:00` &nbsp;|&nbsp; ID: `5191437008`
+
+---
+### 🆕 Senior Backend Engineer, SSCS: AI Governance
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480544002)
+🕐 Updated: `2026-04-10T20:59:01-04:00` &nbsp;|&nbsp; ID: `8480544002`
+
+---
+### 🆕 Staff Backend Engineer, SSCS: AI Governance
+**gitlab** · Sec Engineering
+📍 Remote, India &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8480531002)
+🕐 Updated: `2026-04-15T12:11:42-04:00` &nbsp;|&nbsp; ID: `8480531002`
+
+---
+### 🆕 Data Science Intern (Personalization & Recommender Systems)
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8512996002?gh_jid=8512996002)
+🕐 Updated: `2026-04-17T21:16:08-04:00` &nbsp;|&nbsp; ID: `8512996002`
+
+---
+### 🔄 Software Engineer, Infrastructure (8+ YOE)
+**airtable** · Engineering
+📍 San Francisco, CA; New York, NY; Remote - US (Seattle, WA only) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8400388002)
+🕐 Updated: `2026-04-17T22:34:39-04:00` &nbsp;|&nbsp; ID: `8400388002`
+
+---
+
 ## 📅 Run: 2026-04-18 01:02 UTC
 
 ### 🆕 Staff Technical Program Manager
