@@ -9010,7 +9010,7 @@
   },
   "7542970": {
     "first_seen": "2026-04-13T07:25:05.495019+00:00",
-    "updated_at": "2026-04-17T03:06:56-04:00",
+    "updated_at": "2026-04-17T20:19:18-04:00",
     "title": "Senior Web Infrastructure Developer ",
     "company": "robinhood",
     "alerted": true
@@ -20651,7 +20651,7 @@
   },
   "7066029": {
     "first_seen": "2026-04-16T18:18:22.451660+00:00",
-    "updated_at": "2026-04-13T10:25:43-04:00",
+    "updated_at": "2026-04-17T20:42:09-04:00",
     "title": "Senior Manager, Machine Learning",
     "company": "twilio",
     "alerted": true
@@ -21648,6 +21648,20 @@
     "updated_at": "2026-04-17T19:12:56-04:00",
     "title": "Director, AI Platforms",
     "company": "sofi",
+    "alerted": true
+  },
+  "7826880": {
+    "first_seen": "2026-04-18T01:02:28.711649+00:00",
+    "updated_at": "2026-04-17T19:34:22-04:00",
+    "title": "Staff Technical Program Manager",
+    "company": "instacart",
+    "alerted": true
+  },
+  "7827238": {
+    "first_seen": "2026-04-18T01:02:29.005729+00:00",
+    "updated_at": "2026-04-17T19:40:49-04:00",
+    "title": "Product Manager, Guest Discovery and Homepage",
+    "company": "airbnb",
     "alerted": true
   }
 }

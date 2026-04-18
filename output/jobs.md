@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 01:02 UTC
+
+### 🆕 Staff Technical Program Manager
+**instacart** · Technical Program Management
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7826880)
+🕐 Updated: `2026-04-17T19:34:22-04:00` &nbsp;|&nbsp; ID: `7826880`
+
+---
+### 🆕 Product Manager, Guest Discovery and Homepage
+**airbnb** · Product Management
+📍 San Francisco CA, Los Angeles CA, New York NY &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7827238?gh_jid=7827238)
+🕐 Updated: `2026-04-17T19:40:49-04:00` &nbsp;|&nbsp; ID: `7827238`
+
+---
+### 🔄 Senior Manager, Machine Learning
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7066029)
+🕐 Updated: `2026-04-17T20:42:09-04:00` &nbsp;|&nbsp; ID: `7066029`
+
+---
+### 🔄 Senior Web Infrastructure Developer 
+**robinhood** · ENG Infrastructure
+📍 Toronto, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542970?t=gh_src=&gh_jid=7542970)
+🕐 Updated: `2026-04-17T20:19:18-04:00` &nbsp;|&nbsp; ID: `7542970`
+
+---
+
 ## 📅 Run: 2026-04-17 23:34 UTC
 
 ### 🆕 Senior Backend Engineer,  SSCS: Supply Chain
