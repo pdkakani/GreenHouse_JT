@@ -227,6 +227,8 @@ INCLUDE_KEYWORDS = [
     "devops", "dev ops", "dev-ops",
     "sre", "site reliability",
     "systems",
+    # Leadership
+    "tech lead", "technical lead",
     # Data
     "data engineer", "data scientist", "data analyst",
     "analytics", "analyst",
@@ -268,6 +270,8 @@ INCLUDE_KEYWORDS = [
     "microservices",
     "blockchain",
     "fintech",
+    "financial technology",
+    "banking technology",
     "compiler",
     "operating system",
     # IT / Support (technical)
