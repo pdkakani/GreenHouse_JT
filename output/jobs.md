@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 10:59 UTC
+
+### 🔄 Engineering Manager - Search Management - Elasticsearch
+**elastic** · Platform - Elasticsearch
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769550&gh_jid=7769550)
+🕐 Updated: `2026-04-18T06:43:11-04:00` &nbsp;|&nbsp; ID: `7769550`
+
+---
+
 ## 📅 Run: 2026-04-18 10:01 UTC
 
 ### 🔄 Staff Product Manager, Cortex
