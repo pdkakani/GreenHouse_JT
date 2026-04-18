@@ -1,38 +1,19 @@
-# Greenhouse Job Board Tokens — Tech & Fintech
-# Curated for: Java/Python backend, distributed systems, cloud/AWS, fintech/banking, AI/ML
-# One slug per line. Lines starting with # are ignored.
-# Source: verified from boards.greenhouse.io URLs found across job postings & repos
+# Greenhouse Job Board Tokens — verified working boards only
+# Last cleaned: April 2026 (based on live run output)
 # -----------------------------------------------------------------------
 
-# === AI / LLM COMPANIES ===
+# === AI / LLM ===
 anthropic
-cohere
-wandb                  # fixed: was weightsandbiases
-anyscale
-modal
 gleanwork
-scale
-together
-deepgram
-forethought
 instabase
-# greptile             # uses Ashby, not Greenhouse
-# cursor               # uses Ashby, not Greenhouse
 
-# === BIG TECH ADJACENT / CLOUD INFRA ===
+# === BIG TECH / CLOUD INFRA ===
 databricks
-snowflake
-confluent
-# hashicorp            # acquired by IBM, board may be closed
 elastic
 mongodb
-redis
-digitalocean
 cloudflare
 fastly
 twilio
-# sendgrid             # acquired by Twilio, board closed
-segment
 mixpanel
 amplitude
 braze
@@ -40,188 +21,98 @@ klaviyo
 iterable
 sendbird
 cribl
-cockroachdb
 yugabyte
-benchling
 axiom
 
 # === DEVOPS / OBSERVABILITY / SECURITY ===
 datadog
 pagerduty
 newrelic
-sentry
-grafana
-lacework
-wiz
-snyk
 okta
-teleport
 abnormalsecurity
-drata
 expel
 automox
 cybereason
 huntress
-trmlabs                # fixed: was TRMLabs (case)
 
 # === DATA ENGINEERING / ANALYTICS ===
-airbyte
 fivetran
-dbt-labs               # fixed: was dbtlabs
-prefect
 hightouch
-hex
-greatexpectations
-lightdash
 
 # === DEVELOPER TOOLS / PLATFORMS ===
-# github               # uses Lever, not Greenhouse
 gitlab
 postman
-# vercel               # uses Lever, not Greenhouse
-# netlify              # uses Lever, not Greenhouse
-# render               # uses Lever, not Greenhouse
-# fly                  # uses Lever, not Greenhouse
 circleci
-# dagger               # uses Lever, not Greenhouse
-clerk
 contentful
 contentstack
 
 # === SAAS / PRODUCTIVITY ===
-# notion               # uses Lever, not Greenhouse
-# figma                # uses Lever, not Greenhouse
-miro
-# linear               # uses Lever, not Greenhouse
-retool
 airtable
-zapier
-clickup
 intercom
 dialpad
 calendly
 fellow
-grammarly
 doximity
-# dropbox              # uses Workday, not Greenhouse
 duolingo
 coursera
-# classpass            # acquired by Mindbody, board closed
 calm
 
 # === PAYMENTS & MONEY MOVEMENT ===
 stripe
 adyen
 marqeta
-moderntreasury
 payoneer
-paylocity
-remitly
-wise
-q2ebanking
-paymentus
 tabapay
 
-# === FINTECH — CONFIRMED GREENHOUSE ===
+# === FINTECH ===
 branch
 flex
-forage                 # fixed: was joinforage
-finfare
 spade
 public
-# mesamember           # unverified slug
 alloy
 altruist
-ramp
 gusto
-moneylion
 humaninterest
 brex
 mercury
-nextinsurance
-floqast
-expensify
-tipalti
 melio
-bill
 
 # === BANKING-AS-A-SERVICE / EMBEDDED FINANCE ===
-unit
 lithic
-synctera
-column
 treasuryprime
-parafin
 
 # === LENDING / CREDIT ===
 upstart
-lendingclub
 oportun
 hometap
-fundbox
-bluevine
-clearco
 
 # === IDENTITY / COMPLIANCE / FRAUD ===
-sardine
-socure
-persona
-middesk
-hummingbird
-unit21
-sift
-chainalysis
-onfido
 jumio
-trulioo
 
 # === PAYROLL / HR TECH ===
-rippling
 justworks
 lattice
-deel
-remote                 # fixed: was remotecom
-pinwheel
-argyle
 truework
-paycom
-paycor
-hibob
 
 # === CRYPTO / BLOCKCHAIN ===
 coinbase
-anchorage
 bitgo
 fireblocks
-moonpay
-blockdaemon
 figment
 gemini
-paxos
-# jumptrading          # private board, no public Greenhouse
 
 # === INVESTING / WEALTH TECH ===
-wealthfront
 betterment
 robinhood
-acorns
 carta
-angellist
 
 # === INSURTECH ===
-lemonade
-hippo
 root
 embroker
 
 # === NEOBANKS / CONSUMER FINTECH ===
 chime
 sofi
-dave
-brigit
-albert
-greenlight
-current
 
 # === MARKETPLACE / E-COMMERCE TECH ===
 instacart
@@ -231,27 +122,12 @@ airbnb
 lyft
 flexport
 flexe
-# godaddy              # uses Workday, not Greenhouse
-golinks
 
 # === ENTERPRISE / B2B SAAS ===
 hubspot
 asana
-braintrust
-fullstory
 everlaw
 descript
 formlabs
-freshpaint
 ivalua
-juicebox
-instabase
-helpscout
-# liveblocks           # uses Ashby, not Greenhouse
 honeybook
-
-# === EDTECH / OTHER TECH ===
-duolingo
-coursera
-codesmith
-codecademy
