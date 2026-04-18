@@ -3,7 +3,6 @@ poller.py — Main Greenhouse job polling script.
 """
 
 import sys
-import os
 import time
 import requests
 from datetime import datetime, timezone
@@ -13,7 +12,7 @@ from typing import Optional
 from filters import is_usa_location, is_software_role
 from state import load_state, save_state, is_seen, get_updated_at, record_job, was_alerted, mark_alerted
 from scorer import score_job, should_alert
-from notifier import send_slack_alert, send_run_summary
+from notifier import send_slack_alert, send_run_summary, send_new_jobs_digest
 
 COMPANIES_FILE = Path("companies.txt")
 OUTPUT_FILE = Path("output/jobs.md")
@@ -133,22 +132,11 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
     OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
 
 
-
-def _validate_env() -> None:
-    """Fail fast if required environment variables are missing."""
-    if not os.environ.get("CL_API_KEY", "").strip():
-        print("[ERROR] Missing required env var: CL_API_KEY (Anthropic API key for resume scoring)")
-        sys.exit(1)
-    if not os.environ.get("SLACK_WEBHOOK_URL", "").strip():
-        print("[warn] SLACK_WEBHOOK_URL not set — Slack alerts will be skipped.")
-
 def main():
     start = datetime.now(timezone.utc)
     print(f"\n{'='*60}")
     print(f"Greenhouse Job Poller — {start.strftime('%Y-%m-%d %H:%M:%S UTC')}")
     print(f"{'='*60}")
-
-    _validate_env()
 
     companies = load_companies()
     print(f"[info] Loaded {len(companies)} companies from {COMPANIES_FILE}")
@@ -260,8 +248,7 @@ def main():
 
             score = score_job(job)  # returns int or None
             if score is None:
-                print("scoring failed — marking to avoid infinite retry.")
-                mark_alerted(state, job_id)   # Bug fix: prevent re-scoring every run
+                print("scoring failed, skipping.")
                 stats["alerts_skipped"] += 1
                 continue
 
@@ -284,9 +271,12 @@ def main():
         # Save state again to persist alerted flags
         save_state(state)
 
-        # Send summary when any new jobs were found, not just when alerts fired
-        if stats["jobs_new"] > 0 or stats["alerts_sent"] > 0:
+        if stats["alerts_sent"] > 0:
             send_run_summary(stats)
+
+    # Send full digest of all new jobs regardless of score
+    if new_jobs:
+        send_new_jobs_digest(new_jobs)
 
     if new_jobs or updated_jobs:
         write_output(new_jobs, updated_jobs)

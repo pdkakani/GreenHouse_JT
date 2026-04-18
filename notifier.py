@@ -6,6 +6,7 @@ Accepts a plain int score from scorer.py.
 import os
 import json
 import requests
+from typing import Union
 
 SLACK_TIMEOUT = 10
 
@@ -109,6 +110,73 @@ def send_slack_alert(job: dict, score: int) -> bool:
         print(f"  [slack] ❌ Request error: {e}")
         return False
 
+
+
+def send_new_jobs_digest(new_jobs: list[dict]) -> bool:
+    """
+    Send a single Slack message listing ALL new jobs found in a run.
+    Sent regardless of score — this is a full digest, not a match alert.
+    """
+    webhook_url = _get_webhook_url()
+    if not webhook_url or not new_jobs:
+        return False
+
+    blocks = [
+        {
+            "type": "header",
+            "text": {
+                "type": "plain_text",
+                "text": f"\U0001f195 {len(new_jobs)} New Job{'s' if len(new_jobs) != 1 else ''} Found",
+                "emoji": True,
+            },
+        },
+        {"type": "divider"},
+    ]
+
+    for job in new_jobs:
+        title = job.get("title", "Unknown Title")
+        company = job.get("company", "Unknown Company")
+        location = job.get("_location", "Remote / Unspecified")
+        url = job.get("_url", "")
+        score = job.get("_score")
+        score_text = f" · \U0001f3af {score}%" if score is not None else ""
+
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"*<{url}|{title}>*\n{company} · {location}{score_text}",
+            },
+            "accessory": {
+                "type": "button",
+                "text": {"type": "plain_text", "text": "Apply", "emoji": True},
+                "url": url,
+            },
+        })
+
+    blocks.append({"type": "divider"})
+
+    payload = {
+        "text": f"\U0001f195 {len(new_jobs)} new job(s) found",
+        "blocks": blocks,
+    }
+
+    try:
+        resp = requests.post(
+            webhook_url,
+            data=json.dumps(payload),
+            headers={"Content-Type": "application/json"},
+            timeout=SLACK_TIMEOUT,
+        )
+        if resp.status_code == 200:
+            print(f"  [slack] \u2705 New jobs digest sent ({len(new_jobs)} jobs)")
+            return True
+        else:
+            print(f"  [slack] \u274c Digest failed ({resp.status_code}): {resp.text[:100]}")
+            return False
+    except requests.exceptions.RequestException as e:
+        print(f"  [slack] \u274c Digest request error: {e}")
+        return False
 
 def send_run_summary(stats: dict) -> bool:
     webhook_url = _get_webhook_url()
