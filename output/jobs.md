@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 19:43 UTC
+
+### 🆕 Senior Manager, Platform Engineering - Secure Supply Chain
+**twilio** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7755317)
+🕐 Updated: `2026-04-18T15:23:09-04:00` &nbsp;|&nbsp; ID: `7755317`
+
+---
+
 ## 📅 Run: 2026-04-18 18:59 UTC
 
 ### 🔄 Partner Business Systems & AI Operations Lead

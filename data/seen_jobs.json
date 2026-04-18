@@ -21677,5 +21677,12 @@
     "title": "Technical Partner Manager, EMEA Payment Methods",
     "company": "stripe",
     "alerted": true
+  },
+  "7755317": {
+    "first_seen": "2026-04-18T19:42:50.227889+00:00",
+    "updated_at": "2026-04-18T15:23:09-04:00",
+    "title": "Senior Manager, Platform Engineering - Secure Supply Chain",
+    "company": "twilio",
+    "alerted": true
   }
 }
