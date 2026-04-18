@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 18:59 UTC
+
+### 🔄 Partner Business Systems & AI Operations Lead
+**anthropic** · Sales
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5191437008)
+🕐 Updated: `2026-04-18T14:07:10-04:00` &nbsp;|&nbsp; ID: `5191437008`
+
+---
+### 🔄 Staff Product Manager, New Products
+**calendly** · Product
+📍 San Francisco (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8450989002)
+🕐 Updated: `2026-04-18T14:39:28-04:00` &nbsp;|&nbsp; ID: `8450989002`
+
+---
+
 ## 📅 Run: 2026-04-18 12:03 UTC
 
 ### 🆕 Technical Partner Manager, EMEA Payment Methods
