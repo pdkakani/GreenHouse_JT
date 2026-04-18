@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-18 07:00 UTC
+
+### 🔄 Senior Offensive Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8121830002?gh_jid=8121830002)
+🕐 Updated: `2026-04-18T03:00:16-04:00` &nbsp;|&nbsp; ID: `8121830002`
+
+---
+
 ## 📅 Run: 2026-04-18 04:04 UTC
 
 ### 🆕 Partner Business Systems & AI Operations Lead
