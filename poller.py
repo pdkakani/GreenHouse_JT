@@ -197,6 +197,7 @@ def main():
                     "_tag": "UPDATED",
                 })
                 stats["jobs_updated"] += 1
+                stats["jobs_skipped_seen"] += 1  # also count as skipped — already processed
                 continue
 
             # Brand new job — run through filters
@@ -291,11 +292,14 @@ def main():
     print(f"  Companies checked : {stats['companies_checked']} / {len(companies)}")
     print(f"  Companies failed  : {stats['companies_failed']}")
     print(f"  Jobs fetched      : {stats['jobs_fetched']}")
-    print(f"  Skipped (seen)    : {stats['jobs_skipped_seen']}")
-    print(f"  Skipped (location): {stats['jobs_skipped_location']}")
-    print(f"  Skipped (title)   : {stats['jobs_skipped_title']}")
-    print(f"  New jobs found    : {stats['jobs_new']} 🆕")
-    print(f"  Updated jobs      : {stats['jobs_updated']} 🔄")
+    total_accounted = (stats['jobs_skipped_seen'] + stats['jobs_skipped_location'] +
+                       stats['jobs_skipped_title'] + stats['jobs_new'])
+    print(f"  Skipped (seen/updated): {stats['jobs_skipped_seen']}")
+    print(f"  Skipped (location)    : {stats['jobs_skipped_location']}")
+    print(f"  Skipped (title)       : {stats['jobs_skipped_title']}")
+    print(f"  New jobs found        : {stats['jobs_new']} 🆕")
+    print(f"  Updated jobs (in MD)  : {stats['jobs_updated']} 🔄")
+    print(f"  Accounted for         : {total_accounted} / {stats['jobs_fetched']} fetched")
     print(f"  Slack alerts sent : {stats['alerts_sent']} 🔔")
     print(f"  Below threshold   : {stats['alerts_skipped']}")
     print(f"  Elapsed           : {elapsed:.1f}s")
