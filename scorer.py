@@ -1,8 +1,11 @@
 """
-scorer.py — Resume match scoring using Claude API.
+scorer.py — Resume match scoring using Groq API (free tier).
 
-Uses claude-haiku (20x cheaper than Sonnet) with tight token limits.
-Estimated cost: ~$0.0003 per job scored (~$0.30 per 1000 jobs).
+Model: llama-3.3-70b-versatile — best free model on Groq for reasoning tasks.
+Free tier: 14,400 requests/day — more than sufficient for job scoring.
+Cost: $0.00
+
+API key stored as GitHub secret: GROQ_API_KEY
 """
 
 import os
@@ -12,8 +15,8 @@ import requests
 from pathlib import Path
 from typing import Optional
 
-ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-haiku-4-5-20251001"   # 20x cheaper than Sonnet, plenty for scoring
+GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+MODEL = "llama-3.3-70b-versatile"
 SCORE_THRESHOLD = 65
 MAX_RETRIES = 2
 RETRY_DELAY = 5
@@ -21,9 +24,8 @@ RETRY_DELAY = 5
 RESUME_FILE = Path("resume.txt")
 _resume_cache: Optional[str] = None
 
-# Token budget — keep each call well under 1500 input tokens total
-MAX_DESCRIPTION_CHARS = 3500   # captures all key JD requirements
-MAX_RESUME_CHARS = 4500        # enough for skills + experience
+MAX_RESUME_CHARS = 1500       # ~375 tokens
+MAX_DESCRIPTION_CHARS = 2000  # ~500 tokens
 
 
 def _load_resume() -> str:
@@ -36,16 +38,16 @@ def _load_resume() -> str:
 
 
 def _get_api_key() -> str:
-    key = os.environ.get("CL_API_KEY", "").strip()
+    key = os.environ.get("GROQ_API_KEY", "").strip()
     if not key:
-        raise EnvironmentError("CL_API_KEY environment variable is not set.")
+        raise EnvironmentError("GROQ_API_KEY environment variable is not set.")
     return key
 
 
 def _build_prompt(job_title: str, company: str, description: str) -> str:
     resume = _load_resume()
     desc = description[:MAX_DESCRIPTION_CHARS]
-    return f"""Score how well this resume matches the job. Reply with a single integer from 0 to 100. Nothing else.
+    return f"""Score how well this resume matches the job. Reply with a single integer from 0 to 100. Nothing else. No explanation.
 
 RESUME:
 {resume}
@@ -67,21 +69,21 @@ def score_job(job: dict) -> Optional[int]:
     prompt = _build_prompt(title, company, description)
 
     headers = {
-        "x-api-key": _get_api_key(),
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
+        "Authorization": f"Bearer {_get_api_key()}",
+        "Content-Type": "application/json",
     }
 
     payload = {
         "model": MODEL,
-        "max_tokens": 10,   # a number 0-100 needs at most 3 tokens
         "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": 5,        # a number 0-100 needs at most 3 tokens
+        "temperature": 0,       # deterministic — no randomness for scoring
     }
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.post(
-                ANTHROPIC_API_URL,
+                GROQ_API_URL,
                 headers=headers,
                 json=payload,
                 timeout=30,
@@ -89,11 +91,10 @@ def score_job(job: dict) -> Optional[int]:
 
             if resp.status_code == 200:
                 data = resp.json()
-                raw_text = data["content"][0]["text"].strip()
+                raw_text = data["choices"][0]["message"]["content"].strip()
                 usage = data.get("usage", {})
-                print(f"  [scorer] tokens: {usage.get('input_tokens','?')} in / {usage.get('output_tokens','?')} out")
+                print(f"  [scorer] tokens: {usage.get('prompt_tokens','?')} in / {usage.get('completion_tokens','?')} out")
 
-                # Extract first integer from response
                 match = re.search(r'\b(\d{1,3})\b', raw_text)
                 if match:
                     score = max(0, min(100, int(match.group(1))))
@@ -103,10 +104,11 @@ def score_job(job: dict) -> Optional[int]:
                     return None
 
             elif resp.status_code == 429:
-                print(f"  [scorer] Rate limited (attempt {attempt}), waiting {RETRY_DELAY*2}s...")
-                time.sleep(RETRY_DELAY * 2)
+                wait = RETRY_DELAY * 2
+                print(f"  [scorer] Rate limited (attempt {attempt}), waiting {wait}s...")
+                time.sleep(wait)
 
-            elif resp.status_code in (500, 529):
+            elif resp.status_code in (500, 503):
                 print(f"  [scorer] API overloaded (attempt {attempt}), waiting {RETRY_DELAY}s...")
                 time.sleep(RETRY_DELAY)
 
