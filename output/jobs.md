@@ -2,6 +2,8697 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-19 04:21 UTC
+
+### 🆕 Claude Evangelist, Applied AI (Startups)
+**anthropic** · Sales
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5116927008)
+🕐 Updated: `2026-04-01T10:49:08-04:00` &nbsp;|&nbsp; ID: `5116927008`
+
+---
+### 🆕 Product Operations Manager, Feedback Loops
+**anthropic** · Product Management, Support, & Operations
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5179882008)
+🕐 Updated: `2026-04-11T22:14:11-04:00` &nbsp;|&nbsp; ID: `5179882008`
+
+---
+### 🆕 Support Operations Specialist, AI Agent Management
+**anthropic** · Product Management, Support, & Operations
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5122119008)
+🕐 Updated: `2026-04-01T10:49:08-04:00` &nbsp;|&nbsp; ID: `5122119008`
+
+---
+### 🆕 Technical Deployment, Applied AI
+**anthropic** · Sales
+📍 Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5017903008)
+🕐 Updated: `2026-04-11T16:51:15-04:00` &nbsp;|&nbsp; ID: `5017903008`
+
+---
+### 🆕 Transformative AI Research Economist, Economic Research 
+**anthropic** · Public Policy
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5149802008)
+🕐 Updated: `2026-04-01T10:49:08-04:00` &nbsp;|&nbsp; ID: `5149802008`
+
+---
+### 🆕 AI Outcomes Manager, Central
+**gleanwork** · Customer Outcomes
+📍 Nashville, TN &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661912005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4661912005`
+
+---
+### 🆕 AI Outcomes Manager, Central
+**gleanwork** · Customer Outcomes
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661913005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4661913005`
+
+---
+### 🆕 AI Outcomes Manager, East
+**gleanwork** · Customer Outcomes
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661933005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4661933005`
+
+---
+### 🆕 AI Outcomes Manager, East
+**gleanwork** · Customer Outcomes
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661934005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4661934005`
+
+---
+### 🆕 AI Outcomes Manager, West
+**gleanwork** · Customer Outcomes
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661898005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4661898005`
+
+---
+### 🆕 AI Outcomes Manager, West
+**gleanwork** · Customer Outcomes
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661899005)
+🕐 Updated: `2026-04-08T17:21:42-04:00` &nbsp;|&nbsp; ID: `4661899005`
+
+---
+### 🆕 Manager, AI Outcomes 
+**gleanwork** · Customer Outcomes
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4612814005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4612814005`
+
+---
+### 🆕 Manager, AI Outcomes 
+**gleanwork** · Customer Outcomes
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4667085005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4667085005`
+
+---
+### 🆕 Manager, AI Outcomes 
+**gleanwork** · Customer Outcomes
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4585960005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4585960005`
+
+---
+### 🆕 Product Designer, AI Products
+**gleanwork** · Design
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4577381005)
+🕐 Updated: `2026-04-08T17:21:39-04:00` &nbsp;|&nbsp; ID: `4577381005`
+
+---
+### 🆕 Product Design Lead, AI Products
+**gleanwork** · Design
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4600865005)
+🕐 Updated: `2026-04-08T17:21:40-04:00` &nbsp;|&nbsp; ID: `4600865005`
+
+---
+### 🆕 Sales Development Manager
+**gleanwork** · Sales
+📍 Nashville, TN &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4498039005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4498039005`
+
+---
+### 🆕 Sales Development Representative
+**gleanwork** · Sales
+📍 Nashville, TN &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4486297005)
+🕐 Updated: `2026-04-13T15:54:25-04:00` &nbsp;|&nbsp; ID: `4486297005`
+
+---
+### 🆕 Technical Support Engineer
+**gleanwork** · Support
+📍 Nashville, TN &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4372145005)
+🕐 Updated: `2026-04-08T17:21:38-04:00` &nbsp;|&nbsp; ID: `4372145005`
+
+---
+### 🆕 Product Marketing Director, AI
+**databricks** · Marketing
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487145002)
+🕐 Updated: `2026-04-10T19:01:15-04:00` &nbsp;|&nbsp; ID: `8487145002`
+
+---
+### 🆕 Resident Solutions Architect - Communications, Media, Entertainment & Games
+**databricks** · Professional Services Operations
+📍 Philadelphia, Pennsylvania &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8494153002`
+
+---
+### 🆕 Resident Solutions Architect - Financial Services
+**databricks** · Professional Services Operations
+📍 Philadelphia, Pennsylvania &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461325002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8461325002`
+
+---
+### 🆕 Resident Solutions Architect - Healthcare & Life Sciences
+**databricks** · Professional Services Operations
+📍 Philadelphia, Pennsylvania &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8494148002`
+
+---
+### 🆕 Resident Solutions Architect - Manufacturing
+**databricks** · Professional Services Operations
+📍 Philadelphia, Pennsylvania &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8494155002`
+
+---
+### 🆕 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Maryland &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494108002)
+🕐 Updated: `2026-04-14T11:13:02-04:00` &nbsp;|&nbsp; ID: `8494108002`
+
+---
+### 🆕 Resident Solutions Architect - Public Sector
+**databricks** · Professional Services Operations
+📍 Philadelphia, Pennsylvania &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494149002)
+🕐 Updated: `2026-04-14T11:13:06-04:00` &nbsp;|&nbsp; ID: `8494149002`
+
+---
+### 🆕 Principal, Strategic AI Partnerships
+**mongodb** · Partner Programs
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7774143)
+🕐 Updated: `2026-04-15T11:10:15-04:00` &nbsp;|&nbsp; ID: `7774143`
+
+---
+### 🆕 Staff Research Scientist, Voyage AI
+**mongodb** · PTO Voyage AI
+📍 Palo Alto; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7280132)
+🕐 Updated: `2026-04-14T15:48:55-04:00` &nbsp;|&nbsp; ID: `7280132`
+
+---
+### 🆕 Principal I, Strategic AI Sales
+**braze** · Sales
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7728256?gh_jid=7728256)
+🕐 Updated: `2026-03-17T13:06:31-04:00` &nbsp;|&nbsp; ID: `7728256`
+
+---
+### 🆕 Principal I, Strategic AI Sales
+**braze** · Sales
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7728257?gh_jid=7728257)
+🕐 Updated: `2026-03-17T13:06:34-04:00` &nbsp;|&nbsp; ID: `7728257`
+
+---
+### 🆕 Principal I, Strategic AI Sales
+**braze** · Sales
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7700976?gh_jid=7700976)
+🕐 Updated: `2026-03-17T13:06:33-04:00` &nbsp;|&nbsp; ID: `7700976`
+
+---
+### 🆕 Principal I, Strategic AI Sales
+**braze** · Sales
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7728260?gh_jid=7728260)
+🕐 Updated: `2026-03-17T13:06:35-04:00` &nbsp;|&nbsp; ID: `7728260`
+
+---
+### 🆕 Senior AI Success Manager
+**braze** · Customer Experience
+📍 Austin &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7752250?gh_jid=7752250)
+🕐 Updated: `2026-04-09T03:01:33-04:00` &nbsp;|&nbsp; ID: `7752250`
+
+---
+### 🆕 Senior AI Success Manager
+**braze** · Customer Experience
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769085?gh_jid=7769085)
+🕐 Updated: `2026-04-09T03:01:33-04:00` &nbsp;|&nbsp; ID: `7769085`
+
+---
+### 🆕 Senior AI Success Manager
+**braze** · Customer Experience
+📍 Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769071?gh_jid=7769071)
+🕐 Updated: `2026-04-09T03:01:33-04:00` &nbsp;|&nbsp; ID: `7769071`
+
+---
+### 🆕 Senior AI Success Manager
+**braze** · Customer Experience
+📍 Denver &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769077?gh_jid=7769077)
+🕐 Updated: `2026-04-09T03:01:33-04:00` &nbsp;|&nbsp; ID: `7769077`
+
+---
+### 🆕 Head of Strategic Partnerships & AI Ecosystem
+**sendbird** · Sales
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8451923002)
+🕐 Updated: `2026-04-16T16:54:29-04:00` &nbsp;|&nbsp; ID: `8451923002`
+
+---
+### 🆕 Product Marketing Manager (AI-First, Full-Stack)
+**sendbird** · Product Marketing
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8445772002)
+🕐 Updated: `2026-04-16T16:52:51-04:00` &nbsp;|&nbsp; ID: `8445772002`
+
+---
+### 🆕 Global Operations Manager - AI Strategy
+**cribl** · People
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5844015004)
+🕐 Updated: `2026-04-17T16:50:09-04:00` &nbsp;|&nbsp; ID: `5844015004`
+
+---
+### 🆕 AI Research Scientist – Datadog AI Research (DAIR)
+**datadog** · Dev Eng
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669)
+🕐 Updated: `2026-04-01T14:20:47-04:00` &nbsp;|&nbsp; ID: `6572669`
+
+---
+### 🆕 Director of Product Management, AI Observability
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7798672/?gh_jid=7798672)
+🕐 Updated: `2026-04-09T11:37:22-04:00` &nbsp;|&nbsp; ID: `7798672`
+
+---
+### 🆕 Director of Product Management - Applied AI
+**datadog** · Product Management
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7616721/?gh_jid=7616721)
+🕐 Updated: `2026-04-01T14:20:47-04:00` &nbsp;|&nbsp; ID: `7616721`
+
+---
+### 🆕 Product Marketing Manager (Emerging Products / AI)
+**datadog** · Product Marketing
+📍 New York, New York, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7689452/?gh_jid=7689452)
+🕐 Updated: `2026-04-01T14:20:47-04:00` &nbsp;|&nbsp; ID: `7689452`
+
+---
+### 🆕 AI Content Operations Intern (Summer 2026)
+**okta** · Customer Acceleration-731
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7818807?gh_jid=7818807)
+🕐 Updated: `2026-04-17T13:50:10-04:00` &nbsp;|&nbsp; ID: `7818807`
+
+---
+### 🆕 Director, Product Management - Auth0 AI Products
+**okta** · Product Management-810
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7248867?gh_jid=7248867)
+🕐 Updated: `2026-03-23T15:50:52-04:00` &nbsp;|&nbsp; ID: `7248867`
+
+---
+### 🆕 Director, Product Management - Okta for AI Agents
+**okta** · Product Management-810
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7754379?gh_jid=7754379)
+🕐 Updated: `2026-04-17T10:33:34-04:00` &nbsp;|&nbsp; ID: `7754379`
+
+---
+### 🆕 AI Product Builder
+**abnormalsecurity** · Product
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7571858003?gh_jid=7571858003)
+🕐 Updated: `2026-04-16T17:53:32-04:00` &nbsp;|&nbsp; ID: `7571858003`
+
+---
+### 🆕 AI Operations, GTM
+**hightouch** · AI
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5823552004)
+🕐 Updated: `2026-03-11T14:22:50-04:00` &nbsp;|&nbsp; ID: `5823552004`
+
+---
+### 🆕 AI Strategy Consultant 
+**hightouch** · AI
+📍 Remote (North America) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5618829004)
+🕐 Updated: `2026-02-06T13:41:21-05:00` &nbsp;|&nbsp; ID: `5618829004`
+
+---
+### 🆕 Lead Product Marketing Manager, AI 
+**gitlab** · Product Marketing
+📍 Remote, Canada; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8472475002)
+🕐 Updated: `2026-03-31T16:53:55-04:00` &nbsp;|&nbsp; ID: `8472475002`
+
+---
+### 🆕 Senior Product Designer, AI
+**gitlab** · Product Design
+📍 Remote, Canada; Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8464608002)
+🕐 Updated: `2026-04-15T09:55:21-04:00` &nbsp;|&nbsp; ID: `8464608002`
+
+---
+### 🆕 Applied AI Scientist, Small Language Model and AI Training
+**postman** · AI
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7452539003)
+🕐 Updated: `2026-04-16T15:02:24-04:00` &nbsp;|&nbsp; ID: `7452539003`
+
+---
+### 🆕 Program Manager, AI Programs
+**airtable** · Marketing
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8382158002)
+🕐 Updated: `2026-03-27T15:33:08-04:00` &nbsp;|&nbsp; ID: `8382158002`
+
+---
+### 🆕 Senior Contracts Manager, Procurement and AI
+**airtable** · Legal
+📍 San Francisco, CA; New York, NY; Austin, TX; Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8350839002)
+🕐 Updated: `2026-03-27T15:33:08-04:00` &nbsp;|&nbsp; ID: `8350839002`
+
+---
+### 🆕 Account Executive, Emerging AI Products
+**intercom** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7603334)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7603334`
+
+---
+### 🆕 Account Executive, Emerging AI Products
+**intercom** · Sales
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7583124)
+🕐 Updated: `2026-04-17T13:44:12-04:00` &nbsp;|&nbsp; ID: `7583124`
+
+---
+### 🆕 AI Productivity Analyst
+**dialpad** · 240 - Product Management
+📍 Austin, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8462324002)
+🕐 Updated: `2026-04-09T09:10:00-04:00` &nbsp;|&nbsp; ID: `8462324002`
+
+---
+### 🆕 Head of Duolingo Academy (Leadership Development)
+**duolingo** · People
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8414252002?gh_jid=8414252002)
+🕐 Updated: `2026-03-25T13:49:26-04:00` &nbsp;|&nbsp; ID: `8414252002`
+
+---
+### 🆕 Platform Engineer II
+**duolingo** · Engineering
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8449895002?gh_jid=8449895002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8449895002`
+
+---
+### 🆕 Senior Android Engineer
+**duolingo** · Software Engineering
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8215862002?gh_jid=8215862002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8215862002`
+
+---
+### 🆕 Senior Engineering Manager, Retention
+**duolingo** · Engineering
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8468545002?gh_jid=8468545002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8468545002`
+
+---
+### 🆕 Senior iOS Software Engineer
+**duolingo** · Engineering
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8393272002?gh_jid=8393272002)
+🕐 Updated: `2026-04-07T10:18:29-04:00` &nbsp;|&nbsp; ID: `8393272002`
+
+---
+### 🆕 Senior Platform Engineer
+**duolingo** · Engineering
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8449936002?gh_jid=8449936002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8449936002`
+
+---
+### 🆕 Senior Platform Engineering Manager
+**duolingo** · Engineering
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8390632002?gh_jid=8390632002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8390632002`
+
+---
+### 🆕 Staff Enterprise Engineer
+**duolingo** · Engineering
+📍 Pittsburgh, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.duolingo.com/jobs/8465989002?gh_jid=8465989002)
+🕐 Updated: `2026-04-07T10:18:30-04:00` &nbsp;|&nbsp; ID: `8465989002`
+
+---
+### 🆕 Account Executive, AI Sales
+**stripe** · 1175 Enterprise - Account Executives (NA)
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7532733)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7532733`
+
+---
+### 🆕 Account Executive, AI Startups - Existing Business
+**stripe** · 1653 Startups - Account Executives (NA)
+📍 New York City  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7746909)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7746909`
+
+---
+### 🆕 Backend Engineer, Developer Experience & Product Platform 
+**stripe** · 8116 Developer Platform - Eng
+📍 SEA, SF &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7476555)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7476555`
+
+---
+### 🆕 Forward Deployed AI Accelerator, Marketing
+**stripe** · 2315 Marketing - Marketing Operations
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7747638)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7747638`
+
+---
+### 🆕 Forward Deployed AI Accelerator, Marketing
+**stripe** · 2315 Marketing - Marketing Operations
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7747640)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7747640`
+
+---
+### 🆕 Global Head of Specialist Solutions Architecture, Revenue
+**stripe** · 1150 Solutions Architecture
+📍 SF &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7523947)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7523947`
+
+---
+### 🆕 Head of Integrated Campaigns, Startups & AI
+**stripe** · 2323 Campaigns and Strategy
+📍 San Francisco, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7583815)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7583815`
+
+---
+### 🆕 Integrated Campaigns Manager, Startups & AI
+**stripe** · 2323 Campaigns and Strategy
+📍 San Francisco, New York, Seattle, Chicago, Remote in the US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7587812)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7587812`
+
+---
+### 🆕 Product Lead, AI
+**stripe** · 8552 PayIntel - PM
+📍 San Francisco, Seattle, New York, Chicago &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7655023)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7655023`
+
+---
+### 🆕 Senior Staff Software Engineer,  Developer Infrastructure 
+**stripe** · 8126 Developer Infrastructure
+📍 SEA, SF &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7409691)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7409691`
+
+---
+### 🆕 Sr Staff Engineer, Billing
+**stripe** · 8412 Billing Products
+📍 SF, SEA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6372750)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `6372750`
+
+---
+### 🆕 Treasury Finance AI and Quantitative Analytics
+**stripe** · 6410 Treasury Finance
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7793069)
+🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7793069`
+
+---
+### 🆕 Manager, CS AI Content
+**flex** · Customer Success
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4671770005)
+🕐 Updated: `2026-03-17T14:09:50-04:00` &nbsp;|&nbsp; ID: `4671770005`
+
+---
+### 🆕 Manager, CS AI Content
+**flex** · Customer Success
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4671785005)
+🕐 Updated: `2026-03-17T14:10:25-04:00` &nbsp;|&nbsp; ID: `4671785005`
+
+---
+### 🆕 Content Marketing Manager, Hazel AI
+**altruist** · Marketing
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5820319004?gh_jid=5820319004)
+🕐 Updated: `2026-03-24T20:54:03-04:00` &nbsp;|&nbsp; ID: `5820319004`
+
+---
+### 🆕 Lead Brand Designer, Hazel AI
+**altruist** · Marketing
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://altruist.com/join-altruist/5820089004?gh_jid=5820089004)
+🕐 Updated: `2026-03-22T13:33:33-04:00` &nbsp;|&nbsp; ID: `5820089004`
+
+---
+### 🆕 Principal Product Designer, CoreX AI
+**gusto** · Design
+📍 Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7640344)
+🕐 Updated: `2026-03-25T22:00:11-04:00` &nbsp;|&nbsp; ID: `7640344`
+
+---
+### 🆕 AI Enablement and Transformation Lead (HR)
+**humaninterest** · Human Resources
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7807932)
+🕐 Updated: `2026-04-13T17:52:46-04:00` &nbsp;|&nbsp; ID: `7807932`
+
+---
+### 🆕 Director of Product, Growth/AI
+**brex** · Product
+📍 New York, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8433461002?gh_jid=8433461002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8433461002`
+
+---
+### 🆕 Director of Product, Growth/AI
+**brex** · Product
+📍 Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8433470002?gh_jid=8433470002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8433470002`
+
+---
+### 🆕 Director of Product, Growth/AI
+**brex** · Product
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.brex.com/careers/8432707002?gh_jid=8432707002)
+🕐 Updated: `2026-04-11T15:46:03-04:00` &nbsp;|&nbsp; ID: `8432707002`
+
+---
+### 🆕 Senior Data Scientist, ML (Brokerage)
+**robinhood** · ENG Data Science
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186)
+🕐 Updated: `2026-04-17T03:06:03-04:00` &nbsp;|&nbsp; ID: `7482186`
+
+---
+### 🆕 Senior Data Scientist, ML (Incentives)
+**robinhood** · ENG Data Science
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426)
+🕐 Updated: `2026-04-17T03:07:02-04:00` &nbsp;|&nbsp; ID: `7596426`
+
+---
+### 🆕 Senior Product Designer, Trading AI
+**robinhood** · Brokerage Design
+📍 Menlo Park, CA; New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7812048?t=gh_src=&gh_jid=7812048)
+🕐 Updated: `2026-04-15T10:12:52-04:00` &nbsp;|&nbsp; ID: `7812048`
+
+---
+### 🆕 Director Organic Growth & AI Visibility
+**chime** · Growth Marketing
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8493663002?gh_jid=8493663002)
+🕐 Updated: `2026-04-15T22:42:30-04:00` &nbsp;|&nbsp; ID: `8493663002`
+
+---
+### 🆕 Security Product Lead – Product & AI Security
+**sofi** · Information Security
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City; TX - Frisco &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7700757003?gh_jid=7700757003)
+🕐 Updated: `2026-04-15T13:27:07-04:00` &nbsp;|&nbsp; ID: `7700757003`
+
+---
+### 🆕 Senior Manager Marketing Data Scientist, AI Enablement
+**sofi** · General Marketing
+📍 CA - San Francisco; NY - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7674010003?gh_jid=7674010003)
+🕐 Updated: `2026-03-30T20:47:11-04:00` &nbsp;|&nbsp; ID: `7674010003`
+
+---
+### 🆕 SOX Data Analytics & AI Manager
+**sofi** · Accounting
+📍 Cottonwood Heights, Utah, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://sofi.com/careers/job/7605742003?gh_jid=7605742003)
+🕐 Updated: `2026-03-20T10:51:44-04:00` &nbsp;|&nbsp; ID: `7605742003`
+
+---
+### 🆕 Ads AI Analyst 
+**instacart** · Commercial Excellence
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7658241)
+🕐 Updated: `2026-04-10T16:39:15-04:00` &nbsp;|&nbsp; ID: `7658241`
+
+---
+### 🆕 AI Automation Analyst 
+**instacart** · Commercial Excellence
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7495340)
+🕐 Updated: `2026-04-10T16:39:15-04:00` &nbsp;|&nbsp; ID: `7495340`
+
+---
+### 🆕 Senior Data Scientist II - AI for Analytics
+**instacart** · Data Science
+📍 Canada - Remote (ON, AB, BC, or NS Only) &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7779563)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7779563`
+
+---
+### 🆕 Senior Data Scientist II - AI for Analytics
+**instacart** · Data Science
+📍 United States - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7779561)
+🕐 Updated: `2026-04-08T18:24:40-04:00` &nbsp;|&nbsp; ID: `7779561`
+
+---
+### 🆕 Applied AI / ML Scientist - Ads Bidding
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8400765002?gh_jid=8400765002)
+🕐 Updated: `2026-04-08T10:41:32-04:00` &nbsp;|&nbsp; ID: `8400765002`
+
+---
+### 🆕 Applied AI / ML Scientist - Search Ads
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8400855002?gh_jid=8400855002)
+🕐 Updated: `2026-04-08T10:47:05-04:00` &nbsp;|&nbsp; ID: `8400855002`
+
+---
+### 🆕 Senior Applied AI/ML Scientist - Ads Bidding
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8398741002?gh_jid=8398741002)
+🕐 Updated: `2026-04-08T10:42:13-04:00` &nbsp;|&nbsp; ID: `8398741002`
+
+---
+### 🆕 Senior Applied AI/ML Scientist - Search
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/7934398002?gh_jid=7934398002)
+🕐 Updated: `2026-03-26T15:10:41-04:00` &nbsp;|&nbsp; ID: `7934398002`
+
+---
+### 🆕 Senior Applied AI/ML Scientist - Search Ads
+**faire** · Algorithms & Data
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8399389002?gh_jid=8399389002)
+🕐 Updated: `2026-04-08T10:48:01-04:00` &nbsp;|&nbsp; ID: `8399389002`
+
+---
+### 🆕 Senior Manager, Product & AI Policy
+**airbnb** · Public Policy
+📍 United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7782435?gh_jid=7782435)
+🕐 Updated: `2026-04-10T20:36:14-04:00` &nbsp;|&nbsp; ID: `7782435`
+
+---
+### 🆕 AI Transformation Strategist & Program Leader
+**lyft** · Central TPM
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8406676002?gh_jid=8406676002)
+🕐 Updated: `2026-03-04T18:47:18-05:00` &nbsp;|&nbsp; ID: `8406676002`
+
+---
+### 🆕 Senior Design Program Manager, Design Foundations & AI Transformation
+**lyft** · Central Design
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503978002?gh_jid=8503978002)
+🕐 Updated: `2026-04-13T15:01:52-04:00` &nbsp;|&nbsp; ID: `8503978002`
+
+---
+### 🆕 Senior Design Program Manager, Design Foundations & AI Transformation
+**lyft** · Central Design
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8504066002?gh_jid=8504066002)
+🕐 Updated: `2026-04-13T15:02:06-04:00` &nbsp;|&nbsp; ID: `8504066002`
+
+---
+### 🆕 Applied AI Engineer - AI Solutions
+**snorkelai** · 220 - Solutions PS
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5709067004)
+🕐 Updated: `2026-04-03T11:26:34-04:00` &nbsp;|&nbsp; ID: `5709067004`
+
+---
+### 🆕 Applied AI Engineer - Federal (TS Required)
+**snorkelai** · 220 - Solutions PS
+📍 United States (Remote); Washington, D.C. (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5721276004)
+🕐 Updated: `2026-04-03T11:26:34-04:00` &nbsp;|&nbsp; ID: `5721276004`
+
+---
+### 🆕 Engagement Manager, AI Solutions
+**snorkelai** · 220 - Solutions PS
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5775004004)
+🕐 Updated: `2026-04-03T11:26:34-04:00` &nbsp;|&nbsp; ID: `5775004004`
+
+---
+### 🆕 Forward Deployed Engineer - Data-as-a-Service
+**snorkelai** · 310 - DaaS FDE
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5689470004)
+🕐 Updated: `2026-04-17T13:35:42-04:00` &nbsp;|&nbsp; ID: `5689470004`
+
+---
+### 🆕 GTM Engineer
+**snorkelai** · 532 - Finance Ops
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5826835004)
+🕐 Updated: `2026-04-03T11:26:35-04:00` &nbsp;|&nbsp; ID: `5826835004`
+
+---
+### 🆕 Head of Forward-Deployed Engineering
+**snorkelai** · 310 - DaaS FDE
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5828338004)
+🕐 Updated: `2026-04-07T21:53:32-04:00` &nbsp;|&nbsp; ID: `5828338004`
+
+---
+### 🆕 Infrastructure Security Engineer
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5839660004)
+🕐 Updated: `2026-04-04T10:55:49-04:00` &nbsp;|&nbsp; ID: `5839660004`
+
+---
+### 🆕 IT Support Engineer
+**snorkelai** · 532 - Finance Ops
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5843358004)
+🕐 Updated: `2026-04-08T14:28:07-04:00` &nbsp;|&nbsp; ID: `5843358004`
+
+---
+### 🆕 Manager, Forward Deployed Engineering
+**snorkelai** · 310 - DaaS FDE
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5830807004)
+🕐 Updated: `2026-04-07T11:08:01-04:00` &nbsp;|&nbsp; ID: `5830807004`
+
+---
+### 🆕 Research Engineer – Training Infra
+**snorkelai** · 316 - Research
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5825066004)
+🕐 Updated: `2026-04-17T11:25:12-04:00` &nbsp;|&nbsp; ID: `5825066004`
+
+---
+### 🆕 Senior Product Manager – Platform
+**snorkelai** · 314 - Product
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5811231004)
+🕐 Updated: `2026-04-03T11:26:34-04:00` &nbsp;|&nbsp; ID: `5811231004`
+
+---
+### 🆕 Senior Software Engineer - AI Platform
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5971772004)
+🕐 Updated: `2026-04-17T12:11:15-04:00` &nbsp;|&nbsp; ID: `5971772004`
+
+---
+### 🆕 Senior Software Engineer - Developer Experience
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5844049004)
+🕐 Updated: `2026-04-04T10:56:34-04:00` &nbsp;|&nbsp; ID: `5844049004`
+
+---
+### 🆕 Senior Software Engineer - Expert Contributor Lifecycle
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5848145004)
+🕐 Updated: `2026-04-14T23:56:50-04:00` &nbsp;|&nbsp; ID: `5848145004`
+
+---
+### 🆕 Senior Software Engineer - Full Stack
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5842319004)
+🕐 Updated: `2026-04-16T17:49:05-04:00` &nbsp;|&nbsp; ID: `5842319004`
+
+---
+### 🆕 Software Engineer - Core Services
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5970324004)
+🕐 Updated: `2026-04-14T23:34:09-04:00` &nbsp;|&nbsp; ID: `5970324004`
+
+---
+### 🆕 Software Engineer in Test - Infrastructure
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5844047004)
+🕐 Updated: `2026-04-03T11:26:36-04:00` &nbsp;|&nbsp; ID: `5844047004`
+
+---
+### 🆕 Staff Applied AI Engineer - Pre-Sales
+**snorkelai** · 420 - Solutions Sales
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5831080004)
+🕐 Updated: `2026-04-14T17:07:38-04:00` &nbsp;|&nbsp; ID: `5831080004`
+
+---
+### 🆕 Technical Program Manager -  Research
+**snorkelai** · 410 - DaaS Delivery
+📍 San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5844508004)
+🕐 Updated: `2026-04-03T11:26:36-04:00` &nbsp;|&nbsp; ID: `5844508004`
+
+---
+### 🆕 AI Engineer- Gen AI/SWE- Weights & Biases
+**coreweave** · Marketing
+📍 Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA / Bellevue, WA / Remove - US &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4602115006&board=coreweave&gh_jid=4602115006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4602115006`
+
+---
+### 🆕 AI Native Account Executive
+**coreweave** · Global Field Organization
+📍 San Francisco, CA / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4647796006&board=coreweave&gh_jid=4647796006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4647796006`
+
+---
+### 🆕 AI Solutions Engineer, Post Sales Scale - W&B
+**coreweave** · Global Field Organization
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Philadelphia, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4651439006`
+
+---
+### 🆕 AI Solutions Engineer, Post Sales- W&B
+**coreweave** · Global Field Organization
+📍 Livingston, NJ / New York, NY / Philadelphia, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4651106006&board=coreweave&gh_jid=4651106006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4651106006`
+
+---
+### 🆕 AI Solutions Engineer, Pre-Sales- W&B
+**coreweave** · Global Field Organization
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Philadelphia, PA / San Francisco, CA / Washington, D.C &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4648208006&board=coreweave&gh_jid=4648208006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4648208006`
+
+---
+### 🆕 Bare Metal Support Engineer
+**coreweave** · Global Field Organization
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4560350006&board=coreweave&gh_jid=4560350006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4560350006`
+
+---
+### 🆕 Command Center Systems Engineer
+**coreweave** · Data Center - G&A
+📍 Kenilworth, NJ &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4674028006&board=coreweave&gh_jid=4674028006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4674028006`
+
+---
+### 🆕 Construction Cost Engineer
+**coreweave** · Data Center - G&A
+📍 Livingston, NJ &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4670558006&board=coreweave&gh_jid=4670558006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4670558006`
+
+---
+### 🆕 Corporate Development Associate
+**coreweave** · Corporate Development
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4660868006&board=coreweave&gh_jid=4660868006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4660868006`
+
+---
+### 🆕 Corporate Development Associate 
+**coreweave** · Corporate Development
+📍 New York, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4440958006&board=coreweave&gh_jid=4440958006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4440958006`
+
+---
+### 🆕 Director, Developer Relations
+**coreweave** · Marketing
+📍 Livingston, NJ / New York, NY / San Francisco, CA /Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4656231006&board=coreweave&gh_jid=4656231006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4656231006`
+
+---
+### 🆕 Director of Engineering, Media & Entertainment (M&E)
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4666156006&board=coreweave&gh_jid=4666156006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4666156006`
+
+---
+### 🆕 Director of Engineering, Security Products
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671387006&board=coreweave&gh_jid=4671387006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671387006`
+
+---
+### 🆕 Engineering Manager, Cloud Experience
+**coreweave** · Technology
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4644854006&board=coreweave&gh_jid=4644854006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4644854006`
+
+---
+### 🆕 Engineering Manager, Data Infrastructure
+**coreweave** · Information Technology
+📍 New York, NY/Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671519006&board=coreweave&gh_jid=4671519006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671519006`
+
+---
+### 🆕 Engineering Technical Program Manager - W&B Platform
+**coreweave** · Technology
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4610109006&board=coreweave&gh_jid=4610109006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4610109006`
+
+---
+### 🆕  Engineer, Kubernetes Core Interfaces
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4656273006&board=coreweave&gh_jid=4656273006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4656273006`
+
+---
+### 🆕 Executive Assistant - IT
+**coreweave** · Information Technology
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4662912006&board=coreweave&gh_jid=4662912006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4662912006`
+
+---
+### 🆕 Firmware Engineering Manager 
+**coreweave** · Technology
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4645496006&board=coreweave&gh_jid=4645496006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4645496006`
+
+---
+### 🆕 Firmware Engineer, SPX
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4615564006&board=coreweave&gh_jid=4615564006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4615564006`
+
+---
+### 🆕 Fleet Engineering Project Manager, Data Center
+**coreweave** · Technology
+📍 Dalton, GA / Marble, NC / Ellendale, ND &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4572080006&board=coreweave&gh_jid=4572080006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4572080006`
+
+---
+### 🆕 GPU Infrastructure Software Engineer
+**coreweave** · Technology
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4627287006&board=coreweave&gh_jid=4627287006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4627287006`
+
+---
+### 🆕 Hardware Engineer
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4644828006&board=coreweave&gh_jid=4644828006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4644828006`
+
+---
+### 🆕 Hardware Engineer, GPU & PCIe
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671471006&board=coreweave&gh_jid=4671471006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671471006`
+
+---
+### 🆕 Hardware Engineering Manager
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4657202006&board=coreweave&gh_jid=4657202006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4657202006`
+
+---
+### 🆕 Hardware Engineer - Liquid Cooling
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4617112006&board=coreweave&gh_jid=4617112006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4617112006`
+
+---
+### 🆕 HPC Engineer
+**coreweave** · Technology
+📍 New York, NY/ Bellevue, WA/ Sunnyvale, CA / Livingston, NJ &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4645664006&board=coreweave&gh_jid=4645664006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4645664006`
+
+---
+### 🆕 HPC Performance Engineer
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4601657006&board=coreweave&gh_jid=4601657006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4601657006`
+
+---
+### 🆕 IaaS Platform Technical Program Manager
+**coreweave** · Technology
+📍  Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4617135006&board=coreweave&gh_jid=4617135006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4617135006`
+
+---
+### 🆕 Infrastructure Operations Program Manager
+**coreweave** · Global Field Organization
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4644836006&board=coreweave&gh_jid=4644836006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4644836006`
+
+---
+### 🆕 Integration Engineer, People Technologies
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4670034006&board=coreweave&gh_jid=4670034006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4670034006`
+
+---
+### 🆕 IT Operations Specialist 
+**coreweave** · Information Technology
+📍 Dallas, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4664227006&board=coreweave&gh_jid=4664227006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4664227006`
+
+---
+### 🆕 Offensive Security Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4657803006&board=coreweave&gh_jid=4657803006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4657803006`
+
+---
+### 🆕 Operations Engineer, Fleet Reliability 
+**coreweave** · Technology
+📍  New York, NY /Plano, TX /  Bellevue, WA / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4617382006&board=coreweave&gh_jid=4617382006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4617382006`
+
+---
+### 🆕 Operations Engineer, HPC Networking
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4673462006`
+
+---
+### 🆕 Operations Engineering Manager, Fleet Reliability
+**coreweave** · Technology
+📍 Richmond, VA / Las Vegas, NV / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4553803006&board=coreweave&gh_jid=4553803006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4553803006`
+
+---
+### 🆕 People Business Partner - Product & Engineering
+**coreweave** · People
+📍 Livingston, NJ / New York, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4647106006&board=coreweave&gh_jid=4647106006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4647106006`
+
+---
+### 🆕 Principal, Data Center Development
+**coreweave** · Data Center - G&A
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Richmond, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4660956006&board=coreweave&gh_jid=4660956006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4660956006`
+
+---
+### 🆕 Principal Engineer, Cluster Orchestration
+**coreweave** · Technology
+📍 Bellevue, WA / Sunnyvale, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4658799006&board=coreweave&gh_jid=4658799006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4658799006`
+
+---
+### 🆕 Principal Engineer - Managed Databases
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4607747006&board=coreweave&gh_jid=4607747006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4607747006`
+
+---
+### 🆕 Principal Engineer - Observability
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4581198006&board=coreweave&gh_jid=4581198006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4581198006`
+
+---
+### 🆕 Principal Engineer - Perf and Benchmarking
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4627302006&board=coreweave&gh_jid=4627302006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4627302006`
+
+---
+### 🆕 Principal Engineer, Storage
+**coreweave** · Technology
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4646276006&board=coreweave&gh_jid=4646276006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4646276006`
+
+---
+### 🆕 Principal Product Manager, Developer Experience 
+**coreweave** · Technology
+📍 New York, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4645203006&board=coreweave&gh_jid=4645203006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4645203006`
+
+---
+### 🆕 Production Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4614153006&board=coreweave&gh_jid=4614153006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4614153006`
+
+---
+### 🆕 Production Engineer, Support tooling (Tooling and Frameworks)
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4617128006&board=coreweave&gh_jid=4617128006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4617128006`
+
+---
+### 🆕 Productivity Platforms Developer
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4670169006&board=coreweave&gh_jid=4670169006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4670169006`
+
+---
+### 🆕 Security Compliance - Technical Program Manager
+**coreweave** · Technology - G&A
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671723006&board=coreweave&gh_jid=4671723006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671723006`
+
+---
+### 🆕 Security Engineering Manager, Enterprise Security
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4650211006&board=coreweave&gh_jid=4650211006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4650211006`
+
+---
+### 🆕 Security Engineering Manager, Network Security
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4650207006&board=coreweave&gh_jid=4650207006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4650207006`
+
+---
+### 🆕 Security Programs - Technical Program Manager
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4556342006&board=coreweave&gh_jid=4556342006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4556342006`
+
+---
+### 🆕 Senior Associate, Energy Market Development
+**coreweave** · Strategic Financing
+📍 New York, NY / Bellevue, WA / Sunnyvale, CA / Livingston, NJ &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4652801006&board=coreweave&gh_jid=4652801006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4652801006`
+
+---
+### 🆕 Senior Business Systems Engineer- Data Center Systems
+**coreweave** · Information Technology
+📍 New York, NY / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4672787006&board=coreweave&gh_jid=4672787006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4672787006`
+
+---
+### 🆕 Senior Business Systems Engineer - GTM Systems 
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671896006&board=coreweave&gh_jid=4671896006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671896006`
+
+---
+### 🆕 Senior Business Systems Engineer – Supply Chain Systems
+**coreweave** · Information Technology
+📍 Livingston, NJ/New York, NY/Sunnyvale, CA/Bellevue, WA/Dallas, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4582453006&board=coreweave&gh_jid=4582453006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4582453006`
+
+---
+### 🆕 Senior Cloud Support Engineer
+**coreweave** · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4568136006&board=coreweave&gh_jid=4568136006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4568136006`
+
+---
+### 🆕 Senior Developer Relations Engineer - Marimo
+**coreweave** · Technology
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4665386006&board=coreweave&gh_jid=4665386006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4665386006`
+
+---
+### 🆕 Senior Electrical Engineer
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4606485006&board=coreweave&gh_jid=4606485006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4606485006`
+
+---
+### 🆕 Senior Engineer, Cilium CNI & Cloud Networking
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4653971006&board=coreweave&gh_jid=4653971006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4653971006`
+
+---
+### 🆕 Senior Engineer, Compute Services (Kubernetes, Bare Metal)
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4556808006&board=coreweave&gh_jid=4556808006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4556808006`
+
+---
+### 🆕 Senior Engineer, Core API - W&B 
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4658736006&board=coreweave&gh_jid=4658736006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4658736006`
+
+---
+### 🆕 Senior Engineer- Data Platforms
+**coreweave** · Technology
+📍 Bellevue, WA / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4562276006&board=coreweave&gh_jid=4562276006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4562276006`
+
+---
+### 🆕 Senior Engineering Manager, Data Engineering
+**coreweave** · Information Technology
+📍 Bellevue, WA/Sunnyvale, CA/New York, NY/Livingston, NJ &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4629116006&board=coreweave&gh_jid=4629116006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4629116006`
+
+---
+### 🆕 Senior Engineer, Network Observability
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4613074006&board=coreweave&gh_jid=4613074006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4613074006`
+
+---
+### 🆕 Senior Engineer, Storage Control Plane
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4611874006&board=coreweave&gh_jid=4611874006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4611874006`
+
+---
+### 🆕 Senior Firmware Engineer, OpenBMC
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4452431006&board=coreweave&gh_jid=4452431006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4452431006`
+
+---
+### 🆕 Senior Manager, Corporate Development Accounting
+**coreweave** · Finance
+📍 Sunnyvale, CA / New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4650820006&board=coreweave&gh_jid=4650820006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4650820006`
+
+---
+### 🆕 Senior Manager, Finance and Accounting Systems
+**coreweave** · Information Technology
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4655657006&board=coreweave&gh_jid=4655657006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4655657006`
+
+---
+### 🆕 Senior Manager, Operations Accounting Data Center Infrastructure
+**coreweave** · Finance
+📍 Dallas, TX  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4661606006&board=coreweave&gh_jid=4661606006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4661606006`
+
+---
+### 🆕 Senior Manager, Product Management, People Technology
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4652653006&board=coreweave&gh_jid=4652653006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4652653006`
+
+---
+### 🆕 Senior Network Engineer, Data Center
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Richmond, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4562279006&board=coreweave&gh_jid=4562279006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4562279006`
+
+---
+### 🆕 Senior Platform Engineer II, Compute Services
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4607559006&board=coreweave&gh_jid=4607559006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4607559006`
+
+---
+### 🆕 Senior Production Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4670172006&board=coreweave&gh_jid=4670172006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4670172006`
+
+---
+### 🆕 Senior Production Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4642562006&board=coreweave&gh_jid=4642562006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4642562006`
+
+---
+### 🆕 Senior Production Engineer, Tooling & Frameworks
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4638807006&board=coreweave&gh_jid=4638807006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4638807006`
+
+---
+### 🆕 Senior Product Manager, Compliance
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4673532006&board=coreweave&gh_jid=4673532006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4673532006`
+
+---
+### 🆕 Senior Product Manager, Data
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA/San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4649824006&board=coreweave&gh_jid=4649824006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4649824006`
+
+---
+### 🆕 Senior Product Manager, GTM
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4673536006&board=coreweave&gh_jid=4673536006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4673536006`
+
+---
+### 🆕 Senior Product Manager, Security & Infra 
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA/San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4652655006&board=coreweave&gh_jid=4652655006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4652655006`
+
+---
+### 🆕 Senior Security Engineer, Enterprise Security
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4653764006&board=coreweave&gh_jid=4653764006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4653764006`
+
+---
+### 🆕 Senior Security Engineer II, Vulnerability Management
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4650290006&board=coreweave&gh_jid=4650290006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4650290006`
+
+---
+### 🆕 Senior Security Engineer I, Vulnerability Management
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4654263006&board=coreweave&gh_jid=4654263006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4654263006`
+
+---
+### 🆕 Senior Security Engineer, SOAR
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4650308006&board=coreweave&gh_jid=4650308006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4650308006`
+
+---
+### 🆕 Senior Security Engineer, Threat Intelligence
+**coreweave** · Technology - G&A
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4669142006&board=coreweave&gh_jid=4669142006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4669142006`
+
+---
+### 🆕 Senior Security Production Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4569069006&board=coreweave&gh_jid=4569069006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4569069006`
+
+---
+### 🆕 Senior Site Reliability Engineer, Data Infrastructure
+**coreweave** · Information Technology
+📍 New York, NY / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671535006&board=coreweave&gh_jid=4671535006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671535006`
+
+---
+### 🆕 Senior Software Engineer, Applied AI
+**coreweave** · Information Technology
+📍 New York, NY/Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671525006&board=coreweave&gh_jid=4671525006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671525006`
+
+---
+### 🆕 Senior Software Engineer - Artifact Management
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4612039006&board=coreweave&gh_jid=4612039006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4612039006`
+
+---
+### 🆕 Senior Software Engineer, Box-Office
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4610724006&board=coreweave&gh_jid=4610724006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4610724006`
+
+---
+### 🆕 Senior Software Engineer, Cluster Orchestration 
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4666814006&board=coreweave&gh_jid=4666814006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4666814006`
+
+---
+### 🆕 Senior Software Engineer, Data Center Infrastructure Tooling
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4658311006&board=coreweave&gh_jid=4658311006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4658311006`
+
+---
+### 🆕 Senior Software Engineer - Data Infrastructure Services
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671479006&board=coreweave&gh_jid=4671479006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671479006`
+
+---
+### 🆕 Senior Software Engineer - Data Lake & BI
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4667495006&board=coreweave&gh_jid=4667495006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4667495006`
+
+---
+### 🆕 Senior Software Engineer (Full-Stack + Agentic AI)
+**coreweave** · Information Technology
+📍 Sunnyvale, CA/Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4622652006&board=coreweave&gh_jid=4622652006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4622652006`
+
+---
+### 🆕 Senior Software Engineer II, AI Workload Orchestration
+**coreweave** · Technology
+📍  Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4647595006&board=coreweave&gh_jid=4647595006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4647595006`
+
+---
+### 🆕 Senior Software Engineer II, Applied Training
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4647611006&board=coreweave&gh_jid=4647611006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4647611006`
+
+---
+### 🆕 Senior Software Engineer II, Inference
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4604832006&board=coreweave&gh_jid=4604832006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4604832006`
+
+---
+### 🆕 Senior Software Engineer I, Inference
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4647603006&board=coreweave&gh_jid=4647603006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4647603006`
+
+---
+### 🆕 Senior Software Engineer, Observability
+**coreweave** · Technology
+📍  New York, NY / Sunnyvale, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4554201006&board=coreweave&gh_jid=4554201006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4554201006`
+
+---
+### 🆕 Senior Software Engineer, Observability Insights
+**coreweave** · Technology
+📍 New York, NY / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4650163006&board=coreweave&gh_jid=4650163006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4650163006`
+
+---
+### 🆕 Senior Software Engineer, Sandboxes & Virtualization 
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4659153006&board=coreweave&gh_jid=4659153006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4659153006`
+
+---
+### 🆕 Senior Software Engineer, Security
+**coreweave** · Technology
+📍  Sunnyvale, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4651859006&board=coreweave&gh_jid=4651859006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4651859006`
+
+---
+### 🆕 Senior Software Engineer, Server Fleet Infrastructure
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4553828006&board=coreweave&gh_jid=4553828006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4553828006`
+
+---
+### 🆕 Senior Software Engineer, Storage Engineer
+**coreweave** · Technology
+📍 Livingston, NJ/ New York , NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4643524006&board=coreweave&gh_jid=4643524006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4643524006`
+
+---
+### 🆕 Senior Solutions Architect - Weights & Biases
+**coreweave** · Global Field Organization
+📍 Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4622845006&board=coreweave&gh_jid=4622845006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4622845006`
+
+---
+### 🆕 Senior Systems Engineer, M&A
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4638661006&board=coreweave&gh_jid=4638661006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4638661006`
+
+---
+### 🆕 Senior Systems Engineer, OS Automation
+**coreweave** · Technology
+📍 Livingston, NJ / New York City, NY/ Sunnyvale, CA/ Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4396057006&board=coreweave&gh_jid=4396057006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4396057006`
+
+---
+### 🆕 Software Enablement Specialist
+**coreweave** · Global Field Organization
+📍 Livingston, NJ / New York, NY / Philadelphia, PA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4662787006&board=coreweave&gh_jid=4662787006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4662787006`
+
+---
+### 🆕 Software Engineer - Data Infrastructure Services
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4671477006&board=coreweave&gh_jid=4671477006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4671477006`
+
+---
+### 🆕 Software Engineer II - Artifact Management
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4612803006&board=coreweave&gh_jid=4612803006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4612803006`
+
+---
+### 🆕 Software Engineer, Inference AI/ML
+**coreweave** · Technology
+📍  Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4609928006`
+
+---
+### 🆕 Software Engineer, Kubernetes
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4577764006&board=coreweave&gh_jid=4577764006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4577764006`
+
+---
+### 🆕 Software Engineer, Network Services
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4569274006&board=coreweave&gh_jid=4569274006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4569274006`
+
+---
+### 🆕 Software Engineer, Observability
+**coreweave** · Technology
+📍  New York, NY / Sunnyvale, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4587675006&board=coreweave&gh_jid=4587675006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4587675006`
+
+---
+### 🆕 Solutions Architect - HPC/AI/ML
+**coreweave** · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4412177006&board=coreweave&gh_jid=4412177006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4412177006`
+
+---
+### 🆕 Solutions Architect - Kubernetes
+**coreweave** · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4557835006&board=coreweave&gh_jid=4557835006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4557835006`
+
+---
+### 🆕 Solutions Architect- Networking
+**coreweave** · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA  &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4568528006&board=coreweave&gh_jid=4568528006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4568528006`
+
+---
+### 🆕 Solutions Architect - Security
+**coreweave** · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4568555006&board=coreweave&gh_jid=4568555006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4568555006`
+
+---
+### 🆕 Solutions Architect - Storage
+**coreweave** · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4568531006&board=coreweave&gh_jid=4568531006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4568531006`
+
+---
+### 🆕 Sr. Director of Product, Research and Training Infrastructure
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4665964006&board=coreweave&gh_jid=4665964006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4665964006`
+
+---
+### 🆕 Sr. Engineer, Storage
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4664429006&board=coreweave&gh_jid=4664429006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4664429006`
+
+---
+### 🆕 Sr GPU Infrastructure Software Engineer
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4627277006&board=coreweave&gh_jid=4627277006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4627277006`
+
+---
+### 🆕 Sr. Software Engineer - Perf and Benchmarking
+**coreweave** · Technology
+📍  Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4626698006&board=coreweave&gh_jid=4626698006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4626698006`
+
+---
+### 🆕 Sr. Technical Program Manager, Capacity Delivery
+**coreweave** · Supply Chain & Capacity Operations - G&A
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA/San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4654110006&board=coreweave&gh_jid=4654110006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4654110006`
+
+---
+### 🆕 Staff AI & Agents Growth Product Manager
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4638816006&board=coreweave&gh_jid=4638816006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4638816006`
+
+---
+### 🆕 Staff, Data Center Augmentation Engineer
+**coreweave** · Data Center - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA/Richmond, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4669527006&board=coreweave&gh_jid=4669527006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4669527006`
+
+---
+### 🆕 Staff Engineer, Data Services
+**coreweave** · Technology
+📍 Bellevue, WA / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4592097006&board=coreweave&gh_jid=4592097006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4592097006`
+
+---
+### 🆕 Staff Engineer, Storage Control Plane
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Dallas, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4669836006&board=coreweave&gh_jid=4669836006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4669836006`
+
+---
+### 🆕 Staff Engineer, Storage Engine
+**coreweave** · Technology
+📍  Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4612047006&board=coreweave&gh_jid=4612047006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4612047006`
+
+---
+### 🆕 Staff Engineer, Storage Engine 
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4663670006&board=coreweave&gh_jid=4663670006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4663670006`
+
+---
+### 🆕 Staff Frontend Engineer, DC Infrastructure Tooling
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4659095006&board=coreweave&gh_jid=4659095006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4659095006`
+
+---
+### 🆕 Staff Production Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4644302006&board=coreweave&gh_jid=4644302006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4644302006`
+
+---
+### 🆕 Staff Security Engineer, Network Security 
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4620164006&board=coreweave&gh_jid=4620164006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4620164006`
+
+---
+### 🆕 Staff Security Engineer, SOAR
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4663202006&board=coreweave&gh_jid=4663202006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4663202006`
+
+---
+### 🆕 Staff Security Engineer, Vulnerability Management
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4653130006&board=coreweave&gh_jid=4653130006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4653130006`
+
+---
+### 🆕 Staff Software Engineer- AI Workload Orchestration
+**coreweave** · Technology
+📍 Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4647586006&board=coreweave&gh_jid=4647586006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4647586006`
+
+---
+### 🆕 Staff Software Engineer, Applied Training
+**coreweave** · Technology
+📍  New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4647607006&board=coreweave&gh_jid=4647607006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4647607006`
+
+---
+### 🆕 Staff Software Engineer - Artifact Management
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4612032006&board=coreweave&gh_jid=4612032006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4612032006`
+
+---
+### 🆕 Staff Software Engineer, Cluster Orchestration
+**coreweave** · Technology
+📍 Bellevue, WA / Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4658801006&board=coreweave&gh_jid=4658801006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4658801006`
+
+---
+### 🆕 Staff Software Engineer, Compute Infrastructure
+**coreweave** · Technology
+📍 Manhattan, NY / Sunnyvale, CA / Bellevue, WA / Livingston, NJ &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4603505006&board=coreweave&gh_jid=4603505006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4603505006`
+
+---
+### 🆕 Staff Software Engineer, Observability
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4577361006&board=coreweave&gh_jid=4577361006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4577361006`
+
+---
+### 🆕 Staff Systems Engineer, Identity
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA /Dallas, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4668575006&board=coreweave&gh_jid=4668575006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4668575006`
+
+---
+### 🆕 Staff Thermal Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4651528006&board=coreweave&gh_jid=4651528006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4651528006`
+
+---
+### 🆕 Storage Reliability Engineer
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4661474006&board=coreweave&gh_jid=4661474006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4661474006`
+
+---
+### 🆕 Systems Engineer, Kernel
+**coreweave** · Technology
+📍  Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4599319006&board=coreweave&gh_jid=4599319006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4599319006`
+
+---
+### 🆕 Systems Engineer, People & Payroll Systems
+**coreweave** · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4644778006&board=coreweave&gh_jid=4644778006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4644778006`
+
+---
+### 🆕 Technical Program Manager (TPM) – SOX Compliance
+**coreweave** · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://coreweave.com/careers/job?4652337006&board=coreweave&gh_jid=4652337006)
+🕐 Updated: `2026-04-17T15:27:59-04:00` &nbsp;|&nbsp; ID: `4652337006`
+
+---
+### 🆕 Accounting Manager, Corporate Process and AI Execution
+**ripple** · Finance
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7768737?gh_jid=7768737)
+🕐 Updated: `2026-04-02T15:45:12-04:00` &nbsp;|&nbsp; ID: `7768737`
+
+---
+### 🆕 Business Development Senior Director - Capital Markets
+**ripple** · Business Development
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7572250?gh_jid=7572250)
+🕐 Updated: `2026-04-02T15:37:56-04:00` &nbsp;|&nbsp; ID: `7572250`
+
+---
+### 🆕 Director, Developer Relations
+**ripple** · RippleX
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7072348?gh_jid=7072348)
+🕐 Updated: `2026-04-02T15:33:27-04:00` &nbsp;|&nbsp; ID: `7072348`
+
+---
+### 🆕 Director of Developer Relations
+**ripple** · RippleX
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7072360?gh_jid=7072360)
+🕐 Updated: `2026-04-02T15:33:27-04:00` &nbsp;|&nbsp; ID: `7072360`
+
+---
+### 🆕 Director of Security Engineering
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7258869?gh_jid=7258869)
+🕐 Updated: `2026-04-02T15:34:06-04:00` &nbsp;|&nbsp; ID: `7258869`
+
+---
+### 🆕 Director, Technical Services
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7578057?gh_jid=7578057)
+🕐 Updated: `2026-04-02T15:38:08-04:00` &nbsp;|&nbsp; ID: `7578057`
+
+---
+### 🆕 Lead Product Manager, Platform Connectivity
+**ripple** · Product & Delivery
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7660698?gh_jid=7660698)
+🕐 Updated: `2026-04-15T13:46:38-04:00` &nbsp;|&nbsp; ID: `7660698`
+
+---
+### 🆕 Lead Technical Recruiter (Quant Engineering)
+**ripple** · Recruiting
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7647376?gh_jid=7647376)
+🕐 Updated: `2026-04-02T15:41:12-04:00` &nbsp;|&nbsp; ID: `7647376`
+
+---
+### 🆕 Manager, Software Engineering
+**ripple** · Engineering
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7661120?gh_jid=7661120)
+🕐 Updated: `2026-04-02T15:42:36-04:00` &nbsp;|&nbsp; ID: `7661120`
+
+---
+### 🆕 Manager, Software Engineering (AI Platform Engineering )
+**ripple** · Engineering
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7661155?gh_jid=7661155)
+🕐 Updated: `2026-04-02T15:42:38-04:00` &nbsp;|&nbsp; ID: `7661155`
+
+---
+### 🆕 Senior Full Stack Engineer, Marketing
+**ripple** · Marketing
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7382592?gh_jid=7382592)
+🕐 Updated: `2026-04-02T15:34:39-04:00` &nbsp;|&nbsp; ID: `7382592`
+
+---
+### 🆕 Senior Learning & Development Manager (Enterprise Capabilities)
+**ripple** · People Operations
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7683494?gh_jid=7683494)
+🕐 Updated: `2026-04-02T15:43:21-04:00` &nbsp;|&nbsp; ID: `7683494`
+
+---
+### 🆕 Senior Manager, Controllership Scalability & AI Execution
+**ripple** · Finance
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7669767?gh_jid=7669767)
+🕐 Updated: `2026-04-09T16:09:28-04:00` &nbsp;|&nbsp; ID: `7669767`
+
+---
+### 🆕 Senior Manager, Software Engineering
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7786549?gh_jid=7786549)
+🕐 Updated: `2026-04-07T15:07:37-04:00` &nbsp;|&nbsp; ID: `7786549`
+
+---
+### 🆕 Senior Software Engineer, C++
+**ripple** · Engineering
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7349733?gh_jid=7349733)
+🕐 Updated: `2026-04-02T17:43:24-04:00` &nbsp;|&nbsp; ID: `7349733`
+
+---
+### 🆕 Senior Software Engineer, C++ / Rust
+**ripple** · Engineering
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7664258?gh_jid=7664258)
+🕐 Updated: `2026-04-13T14:17:20-04:00` &nbsp;|&nbsp; ID: `7664258`
+
+---
+### 🆕 Senior Software Engineer, Financial Crimes
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7651906?gh_jid=7651906)
+🕐 Updated: `2026-04-02T15:41:43-04:00` &nbsp;|&nbsp; ID: `7651906`
+
+---
+### 🆕 Senior Software Engineer (Full Stack)
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7724653?gh_jid=7724653)
+🕐 Updated: `2026-04-02T15:43:52-04:00` &nbsp;|&nbsp; ID: `7724653`
+
+---
+### 🆕 Senior Software Engineer, Identity & Trust
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7664173?gh_jid=7664173)
+🕐 Updated: `2026-04-02T15:42:03-04:00` &nbsp;|&nbsp; ID: `7664173`
+
+---
+### 🆕 Senior Software Engineer, Infrastructure Engineer
+**ripple** · Engineering
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7595942?gh_jid=7595942)
+🕐 Updated: `2026-04-15T16:46:42-04:00` &nbsp;|&nbsp; ID: `7595942`
+
+---
+### 🆕 Senior Software Engineer, Platform
+**ripple** · Technical Operations
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/6938506?gh_jid=6938506)
+🕐 Updated: `2026-04-02T15:33:13-04:00` &nbsp;|&nbsp; ID: `6938506`
+
+---
+### 🆕 Senior Staff Engineer — Data Engineering & Architecture
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7724582?gh_jid=7724582)
+🕐 Updated: `2026-04-02T15:43:42-04:00` &nbsp;|&nbsp; ID: `7724582`
+
+---
+### 🆕 Senior Staff Partner Engineer
+**ripple** · Business Development
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7561581?gh_jid=7561581)
+🕐 Updated: `2026-04-02T15:37:40-04:00` &nbsp;|&nbsp; ID: `7561581`
+
+---
+### 🆕 Senior Staff Partner Engineer
+**ripple** · Business Development
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7561569?gh_jid=7561569)
+🕐 Updated: `2026-04-02T15:37:40-04:00` &nbsp;|&nbsp; ID: `7561569`
+
+---
+### 🆕 Senior Staff Technical Program Manager
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7258758?gh_jid=7258758)
+🕐 Updated: `2026-04-02T15:34:17-04:00` &nbsp;|&nbsp; ID: `7258758`
+
+---
+### 🆕  Software Engineer II, Data & AI 
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7654753?gh_jid=7654753)
+🕐 Updated: `2026-04-02T15:41:45-04:00` &nbsp;|&nbsp; ID: `7654753`
+
+---
+### 🆕 Software Engineer Intern, GTreasury (Summer 2026)
+**ripple** · Engineering
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7822192?gh_jid=7822192)
+🕐 Updated: `2026-04-16T16:04:00-04:00` &nbsp;|&nbsp; ID: `7822192`
+
+---
+### 🆕 Staff Data Scientist
+**ripple** · Engineering
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7791472?gh_jid=7791472)
+🕐 Updated: `2026-04-13T18:02:04-04:00` &nbsp;|&nbsp; ID: `7791472`
+
+---
+### 🆕 Staff Network Engineer
+**ripple** · Information Technology
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7713826?gh_jid=7713826)
+🕐 Updated: `2026-04-02T15:43:33-04:00` &nbsp;|&nbsp; ID: `7713826`
+
+---
+### 🆕 Staff Security Engineer, Secure Digital Asset Operations
+**ripple** · Engineering
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7604397?gh_jid=7604397)
+🕐 Updated: `2026-04-02T15:39:40-04:00` &nbsp;|&nbsp; ID: `7604397`
+
+---
+### 🆕 Staff Security Engineer, Secure Digital Asset Operations
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7525061?gh_jid=7525061)
+🕐 Updated: `2026-04-02T15:36:52-04:00` &nbsp;|&nbsp; ID: `7525061`
+
+---
+### 🆕 Staff Software Engineer, Customer Onboarding Platform
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7664371?gh_jid=7664371)
+🕐 Updated: `2026-04-02T15:41:53-04:00` &nbsp;|&nbsp; ID: `7664371`
+
+---
+### 🆕 Staff Software Engineer, Identity & Trust
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7664406?gh_jid=7664406)
+🕐 Updated: `2026-04-02T15:41:59-04:00` &nbsp;|&nbsp; ID: `7664406`
+
+---
+### 🆕 Staff Software Engineering
+**ripple** · Engineering
+📍 Chicago, Illinois, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7596202?gh_jid=7596202)
+🕐 Updated: `2026-04-16T15:23:36-04:00` &nbsp;|&nbsp; ID: `7596202`
+
+---
+### 🆕 VP, Corporate Development
+**ripple** · Corporate Development
+📍 New York, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7622908?gh_jid=7622908)
+🕐 Updated: `2026-04-02T15:40:45-04:00` &nbsp;|&nbsp; ID: `7622908`
+
+---
+### 🆕 VP, Corporate Development
+**ripple** · Corporate Development
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7622896?gh_jid=7622896)
+🕐 Updated: `2026-04-02T15:40:45-04:00` &nbsp;|&nbsp; ID: `7622896`
+
+---
+### 🆕 VP, Corporate Development
+**ripple** · Corporate Development
+📍 Miami, FL, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7622906?gh_jid=7622906)
+🕐 Updated: `2026-04-02T15:40:45-04:00` &nbsp;|&nbsp; ID: `7622906`
+
+---
+### 🆕 VP of Engineering, Payments
+**ripple** · Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7624480?gh_jid=7624480)
+🕐 Updated: `2026-04-02T15:40:49-04:00` &nbsp;|&nbsp; ID: `7624480`
+
+---
+### 🆕 Cloud Infrastructure Engineer 
+**alchemy** · Engineering
+📍 New York, New York, United States, San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/alchemy/jobs/4684687005)
+🕐 Updated: `2026-04-14T19:52:39-04:00` &nbsp;|&nbsp; ID: `4684687005`
+
+---
+### 🆕 Data Analytics Engineer 
+**alchemy** · Engineering
+📍 New York, New York, United States, San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/alchemy/jobs/4677021005)
+🕐 Updated: `2026-04-01T15:06:06-04:00` &nbsp;|&nbsp; ID: `4677021005`
+
+---
+### 🆕 Director of Engineering, Infrastructure & Platform 
+**alchemy** · Engineering
+📍 New York, New York, United States, San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/alchemy/jobs/4642174005)
+🕐 Updated: `2026-01-15T15:08:30-05:00` &nbsp;|&nbsp; ID: `4642174005`
+
+---
+### 🆕 Protocol Engineer
+**alchemy** · Engineering
+📍 New York, New York, United States, San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/alchemy/jobs/4020810005)
+🕐 Updated: `2026-02-05T14:50:14-05:00` &nbsp;|&nbsp; ID: `4020810005`
+
+---
+### 🆕 Software Engineer (Backend) - Distributed Systems 
+**alchemy** · Engineering
+📍 New York, NY,  San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/alchemy/jobs/4648515005)
+🕐 Updated: `2026-02-11T15:29:33-05:00` &nbsp;|&nbsp; ID: `4648515005`
+
+---
+### 🆕 Software Engineer - Solutions
+**alchemy** · Engineering
+📍 New York, New York, United States, San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/alchemy/jobs/4538329005)
+🕐 Updated: `2026-01-30T13:59:40-05:00` &nbsp;|&nbsp; ID: `4538329005`
+
+---
+### 🆕 Business Development Manager - Law Firms (FX/Payments)
+**convera** · Verticalized Businesses
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4784846101)
+🕐 Updated: `2026-03-02T09:32:41-05:00` &nbsp;|&nbsp; ID: `4784846101`
+
+---
+### 🆕 Convera USA LLC. in Denver, CO has opening for Senior Software Engineer
+**convera** · Cloud Infrastructure Engineering
+📍 Denver &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4585038101)
+🕐 Updated: `2025-10-24T01:08:51-04:00` &nbsp;|&nbsp; ID: `4585038101`
+
+---
+### 🆕 Convera USA LLC. in Denver, CO has opening for Senior Software Engineer.
+**convera** · Technology Operations & Support
+📍 Denver &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4585020101)
+🕐 Updated: `2025-10-24T01:08:51-04:00` &nbsp;|&nbsp; ID: `4585020101`
+
+---
+### 🆕 Lead Pre-Sales Engineer
+**convera** · Sales Engineering
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4749199101)
+🕐 Updated: `2026-03-16T14:21:03-04:00` &nbsp;|&nbsp; ID: `4749199101`
+
+---
+### 🆕 Senior Business Development Manager (B2B Hedging/Payments Solutions Exp. Required) 
+**convera** · Growth Payments
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4776864101)
+🕐 Updated: `2026-03-04T09:52:46-05:00` &nbsp;|&nbsp; ID: `4776864101`
+
+---
+### 🆕 Senior Business Development Manager (B2B Hedging/Payments Solutions Exp. Required) - West Palm Beach
+**convera** · Growth Payments
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4398662101)
+🕐 Updated: `2025-10-24T01:08:51-04:00` &nbsp;|&nbsp; ID: `4398662101`
+
+---
+### 🆕 Senior Business Development Manager - Chicago
+**convera** · Growth Payments
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4742417101)
+🕐 Updated: `2026-03-04T09:58:41-05:00` &nbsp;|&nbsp; ID: `4742417101`
+
+---
+### 🆕 Senior Business Development Manager - Cross - Border Payments, FX
+**convera** · Growth Payments
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4750059101)
+🕐 Updated: `2026-03-04T09:50:25-05:00` &nbsp;|&nbsp; ID: `4750059101`
+
+---
+### 🆕 Senior Business Development Manager - Cross - Border Payments, FX
+**convera** · Growth Payments
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4772566101)
+🕐 Updated: `2026-03-04T09:57:32-05:00` &nbsp;|&nbsp; ID: `4772566101`
+
+---
+### 🆕 Senior Business Development Manager (Financial Institutions)
+**convera** · Financial Institutions
+📍 Work From Home - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4782926101)
+🕐 Updated: `2026-04-13T11:18:21-04:00` &nbsp;|&nbsp; ID: `4782926101`
+
+---
+### 🆕 Senior Software Engineer with Convera USA LLC (Denver, CO)
+**convera** · Engineering Management
+📍 Denver &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4608562101)
+🕐 Updated: `2025-10-24T01:08:51-04:00` &nbsp;|&nbsp; ID: `4608562101`
+
+---
+### 🆕 AI Conversation Designer
+**checkr** · Operations
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7665238)
+🕐 Updated: `2026-03-24T13:07:58-04:00` &nbsp;|&nbsp; ID: `7665238`
+
+---
+### 🆕 Backend Software Engineer II
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7438937)
+🕐 Updated: `2026-03-16T18:28:58-04:00` &nbsp;|&nbsp; ID: `7438937`
+
+---
+### 🆕 Director of Platform Engineering
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7822652)
+🕐 Updated: `2026-04-16T18:01:02-04:00` &nbsp;|&nbsp; ID: `7822652`
+
+---
+### 🆕 Engineering Manager, Front End
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7781939)
+🕐 Updated: `2026-04-06T11:52:02-04:00` &nbsp;|&nbsp; ID: `7781939`
+
+---
+### 🆕 Engineering Manager, Growth & Experimentation
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7781949)
+🕐 Updated: `2026-04-06T11:52:03-04:00` &nbsp;|&nbsp; ID: `7781949`
+
+---
+### 🆕 Engineering Manager, Truework
+**checkr** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7798343)
+🕐 Updated: `2026-04-09T11:15:34-04:00` &nbsp;|&nbsp; ID: `7798343`
+
+---
+### 🆕 Engineering Manager, Verifications
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7812231)
+🕐 Updated: `2026-04-13T14:04:31-04:00` &nbsp;|&nbsp; ID: `7812231`
+
+---
+### 🆕 Enterprise Business Development Representative
+**checkr** · Sales
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7397708)
+🕐 Updated: `2026-03-26T20:27:01-04:00` &nbsp;|&nbsp; ID: `7397708`
+
+---
+### 🆕 Python Engineer, Truework
+**checkr** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7812221)
+🕐 Updated: `2026-04-13T13:59:13-04:00` &nbsp;|&nbsp; ID: `7812221`
+
+---
+### 🆕 Senior Database Reliability Engineer
+**checkr** · Engineering
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7714738)
+🕐 Updated: `2026-04-14T12:52:30-04:00` &nbsp;|&nbsp; ID: `7714738`
+
+---
+### 🆕 Senior Data Engineer
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7650448)
+🕐 Updated: `2026-04-15T18:46:44-04:00` &nbsp;|&nbsp; ID: `7650448`
+
+---
+### 🆕 Senior Manager Data Science, Revenue & Growth
+**checkr** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7773683)
+🕐 Updated: `2026-04-15T12:20:56-04:00` &nbsp;|&nbsp; ID: `7773683`
+
+---
+### 🆕 Senior Python Engineer, Truework 
+**checkr** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7812229)
+🕐 Updated: `2026-04-13T14:03:32-04:00` &nbsp;|&nbsp; ID: `7812229`
+
+---
+### 🆕 Senior Software Engineer, Criminal Screenings
+**checkr** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7733714)
+🕐 Updated: `2026-04-08T16:30:43-04:00` &nbsp;|&nbsp; ID: `7733714`
+
+---
+### 🆕 Senior Software Engineer, Trust
+**checkr** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7654395)
+🕐 Updated: `2026-03-20T10:25:58-04:00` &nbsp;|&nbsp; ID: `7654395`
+
+---
+### 🆕 Senior Software Engineer, Verifications
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7121198)
+🕐 Updated: `2026-04-08T16:30:19-04:00` &nbsp;|&nbsp; ID: `7121198`
+
+---
+### 🆕 Software Engineer II
+**checkr** · Engineering
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7296759)
+🕐 Updated: `2026-03-16T18:29:50-04:00` &nbsp;|&nbsp; ID: `7296759`
+
+---
+### 🆕 Software Engineer, Reliability
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7705523)
+🕐 Updated: `2026-04-09T05:57:33-04:00` &nbsp;|&nbsp; ID: `7705523`
+
+---
+### 🆕 Staff AI Solutions Engineer
+**checkr** · Information Technology
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7763351)
+🕐 Updated: `2026-04-03T14:32:21-04:00` &nbsp;|&nbsp; ID: `7763351`
+
+---
+### 🆕 Staff Applied AI Engineer
+**checkr** · Information Technology
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7779296)
+🕐 Updated: `2026-04-06T20:58:22-04:00` &nbsp;|&nbsp; ID: `7779296`
+
+---
+### 🆕 Staff Data Engineer
+**checkr** · Engineering
+📍 Denver, Colorado, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7391757)
+🕐 Updated: `2026-04-15T18:47:28-04:00` &nbsp;|&nbsp; ID: `7391757`
+
+---
+### 🆕 Support Engineer
+**checkr** · Operations
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7565771)
+🕐 Updated: `2026-02-26T17:55:17-05:00` &nbsp;|&nbsp; ID: `7565771`
+
+---
+### 🆕 AI Governance Analyst
+**purestorage** · IT
+📍 Lehi, Utah &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7746667)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7746667`
+
+---
+### 🆕 AI/HPC Pre-Sales Systems Engineer
+**purestorage** · Sales
+📍 Atlanta, Georgia; Austin, Texas; Chicago, Illinois; Dallas, Texas; New York, New York; Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7472241)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7472241`
+
+---
+### 🆕 Applied AI Engineer
+**purestorage** · Sales
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7644129)
+🕐 Updated: `2026-04-15T16:17:17-04:00` &nbsp;|&nbsp; ID: `7644129`
+
+---
+### 🆕 Consulting Field Solutions Architect, Cyber Resilience - Global/Strategics
+**purestorage** · Sales
+📍 New York, New York; Newark, New Jersey; Philadelphia, Pennsylvania; Remote, Connecticut &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7368728)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7368728`
+
+---
+### 🆕 Consulting Pre-Sales Systems Engineer, Global Strategics- Financials
+**purestorage** · Sales
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7363420)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7363420`
+
+---
+### 🆕 Corporate Pre-Sales Systems Engineer - Central/Northeast
+**purestorage** · Sales
+📍 Boston, Massachusetts; Chicago, Illinois; Dallas, Texas; New York, New York; Newark, New Jersey; Philadelphia, Pennsylvania &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7518320)
+🕐 Updated: `2026-04-13T15:18:08-04:00` &nbsp;|&nbsp; ID: `7518320`
+
+---
+### 🆕 Designated Support Engineer, Portworx
+**purestorage** · Services & Support
+📍 Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7651773)
+🕐 Updated: `2026-04-16T14:47:08-04:00` &nbsp;|&nbsp; ID: `7651773`
+
+---
+### 🆕 Director, Partner Program Infrastructure, Commercial Line of Business
+**purestorage** · Growth & Strategy
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7723173)
+🕐 Updated: `2026-04-09T11:03:51-04:00` &nbsp;|&nbsp; ID: `7723173`
+
+---
+### 🆕 Engineering Manager, DFM Firmware
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7714337)
+🕐 Updated: `2026-04-13T16:02:43-04:00` &nbsp;|&nbsp; ID: `7714337`
+
+---
+### 🆕 Hardware Design Engineer, Systems Engineering 
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7389787)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7389787`
+
+---
+### 🆕 Hardware Engineer, Hyperscale Line of Business
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7596268)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7596268`
+
+---
+### 🆕 Hardware Lead Engineer, Hyperscale Line of Business
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7609044)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7609044`
+
+---
+### 🆕 Hardware Validation Engineer
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7572486)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7572486`
+
+---
+### 🆕 IAM Operations Engineer
+**purestorage** · IT
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7706765)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7706765`
+
+---
+### 🆕  Linux Kernel Software Engineer - Systems Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/6676814)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `6676814`
+
+---
+### 🆕 Manager, Commercial Systems Engineering - Central North/Midwest
+**purestorage** · Sales
+📍 Chicago, Illinois; Kansas City, Kansas; Kansas City, Missouri; St. Louis, Missouri &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7724347)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7724347`
+
+---
+### 🆕 Manager, Data Center Site Services
+**purestorage** · Engineering
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7679606)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7679606`
+
+---
+### 🆕 Manager, Enterprise Systems Engineering - Florida
+**purestorage** · Sales
+📍 Miami, Florida; Orlando, Florida; Tampa, Florida &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7593437)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7593437`
+
+---
+### 🆕 Manager, Enterprise Systems Engineering - Southeast
+**purestorage** · Sales
+📍 Atlanta, Georgia; Charlotte, North Carolina; Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7704413)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7704413`
+
+---
+### 🆕 NVMe/SSD Qualification Engineer, Systems Engineering 
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7732117)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7732117`
+
+---
+### 🆕 PCIe Hardware Engineer, Systems
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7743302)
+🕐 Updated: `2026-04-16T13:42:08-04:00` &nbsp;|&nbsp; ID: `7743302`
+
+---
+### 🆕 PCIe Validation Architect (SSD)
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7554756)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7554756`
+
+---
+### 🆕 Platform Software Manager, Systems Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7252338)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7252338`
+
+---
+### 🆕 Pre-Sales System Engineer (Eastern Saudi Arabia)
+**purestorage** · Sales
+📍 Remote, Saudi Arabia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7648093)
+🕐 Updated: `2026-04-09T16:26:57-04:00` &nbsp;|&nbsp; ID: `7648093`
+
+---
+### 🆕 Pre-Sales Systems Engineer, Federal Civilian
+**purestorage** · Sales
+📍 Remote, Washington D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7586683)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7586683`
+
+---
+### 🆕 Pre-Sales Systems Engineer, SLED-NJ
+**purestorage** · Sales
+📍 Newark, New Jersey &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7776197)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7776197`
+
+---
+### 🆕 Principal Competitive Strategist
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7776743)
+🕐 Updated: `2026-04-07T22:57:00-04:00` &nbsp;|&nbsp; ID: `7776743`
+
+---
+### 🆕 Principal Full Stack Engineer, Digital Experience
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7376995)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7376995`
+
+---
+### 🆕 Principal Product Manager, AI – Commerce Platform
+**purestorage** · IT
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7712590)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7712590`
+
+---
+### 🆕 Product Quality Engineer
+**purestorage** · Supply Chain Operations
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7261014)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7261014`
+
+---
+### 🆕 Quality Systems Engineer, FlashArray
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7759948)
+🕐 Updated: `2026-04-13T19:34:21-04:00` &nbsp;|&nbsp; ID: `7759948`
+
+---
+### 🆕 Senior Business Development Manager, AI Native Ecosystems & Strategic Influence
+**purestorage** · Sales
+📍 Remote, California; Remote, New York; Remote, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7688316)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7688316`
+
+---
+### 🆕 Senior Firmware Engineer - PCIe, Systems Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7485500)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7485500`
+
+---
+### 🆕 Senior Flash Firmware Engineer, Systems Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/6624279)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `6624279`
+
+---
+### 🆕 Senior Hardware Design Engineer, Everpure Platform
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7420631)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7420631`
+
+---
+### 🆕 Senior Platform Embedded Software Engineer, Systems Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7340921)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7340921`
+
+---
+### 🆕 Senior Platform Networking Software Engineer, Systems Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7506262)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7506262`
+
+---
+### 🆕  Senior Platform Software Engineer, System Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7384706)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7384706`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Commercial - Bay Area
+**purestorage** · Sales
+📍 San Francisco, California; Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7546380)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7546380`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Commercial - Charlotte
+**purestorage** · Sales
+📍 Charlotte, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7453511)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7453511`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Commercial - Las Vegas
+**purestorage** · Sales
+📍 Las Vegas, Nevada &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7804449)
+🕐 Updated: `2026-04-10T08:10:33-04:00` &nbsp;|&nbsp; ID: `7804449`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Enterprise - Austin/Houston
+**purestorage** · Sales
+📍 Austin, Texas; Houston, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7644382)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7644382`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Enterprise - Cincinnati
+**purestorage** · Sales
+📍 Cincinnati, Ohio &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7809731)
+🕐 Updated: `2026-04-16T20:34:35-04:00` &nbsp;|&nbsp; ID: `7809731`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Enterprise - DC/MD/VA
+**purestorage** · Sales
+📍 Arlington, Virginia; Baltimore, Maryland; Remote, Washington D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7650062)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7650062`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Enterprise - San Diego
+**purestorage** · Sales
+📍 San Diego, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7816421)
+🕐 Updated: `2026-04-17T18:34:16-04:00` &nbsp;|&nbsp; ID: `7816421`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, Everpure Protect
+**purestorage** · Sales
+📍 New York, New York; Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7761477)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7761477`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, SLED-Chicago
+**purestorage** · Sales
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7701010)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7701010`
+
+---
+### 🆕 Senior Pre-Sales Systems Engineer, SLED-Raleigh
+**purestorage** · Sales
+📍 Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7745974)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7745974`
+
+---
+### 🆕 Senior Product Marketing Manager, Everpure Platform
+**purestorage** · Marketing
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7729265)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7729265`
+
+---
+### 🆕 Senior Quality Engineer, Hyperscale
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7327703)
+🕐 Updated: `2026-04-13T23:13:51-04:00` &nbsp;|&nbsp; ID: `7327703`
+
+---
+### 🆕 Senior Security Operations Manager, Detection Engineering & Incident Response
+**purestorage** · IT
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7377811)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7377811`
+
+---
+### 🆕 Senior Software Engineer, Datapath, Virtualization and Kubernetes
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7053658)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7053658`
+
+---
+### 🆕 Senior Software Engineer - Production Engineering
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7707470)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7707470`
+
+---
+### 🆕 Senior Storage Benchmarking Engineer
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7558893)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7558893`
+
+---
+### 🆕 Senior Technical Marketing Engineer, AI
+**purestorage** · Marketing
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7117974)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7117974`
+
+---
+### 🆕 Senior Technical Marketing Engineer, AI
+**purestorage** · Marketing
+📍 Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7389688)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7389688`
+
+---
+### 🆕 Services Solutions Engineer
+**purestorage** · Growth & Strategy
+📍 Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7741157)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7741157`
+
+---
+### 🆕 Signal Integrity Hardware Engineer, Everpure Platform
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7528412)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7528412`
+
+---
+### 🆕 Software Engineer
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7206456)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7206456`
+
+---
+### 🆕 Software Engineer
+**purestorage** · IT
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7681099)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7681099`
+
+---
+### 🆕 Software Engineer
+**purestorage** · IT
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7681034)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7681034`
+
+---
+### 🆕 Software Engineer, Hyperscale Line of Business
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7608922)
+🕐 Updated: `2026-04-10T17:56:44-04:00` &nbsp;|&nbsp; ID: `7608922`
+
+---
+### 🆕 Software Engineer Intern (Summer 2026)
+**purestorage** · University
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7258723)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7258723`
+
+---
+### 🆕 Software Infrastructure Engineer, Hardware
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7736016)
+🕐 Updated: `2026-04-16T15:51:25-04:00` &nbsp;|&nbsp; ID: `7736016`
+
+---
+### 🆕 Sr. NetDevOps Engineer
+**purestorage** · Engineering
+📍 Dallas, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7674789)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7674789`
+
+---
+### 🆕 Sr. SSD Firmware Architect
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7714281)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7714281`
+
+---
+### 🆕 Sr. Technical Marketing Engineer, Portworx
+**purestorage** · Marketing
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7353512)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7353512`
+
+---
+### 🆕 Sr Technical Program Manager, Hyperscale Operations  
+**purestorage** · Supply Chain Operations
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7689690)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7689690`
+
+---
+### 🆕 Staff Software Engineer, Hyperscale Build Infrastructure
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7652215)
+🕐 Updated: `2026-04-07T17:00:24-04:00` &nbsp;|&nbsp; ID: `7652215`
+
+---
+### 🆕 Strategic Sales Executive – AI Product Line
+**purestorage** · Growth & Strategy
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7301265)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7301265`
+
+---
+### 🆕 Technical Lead, Distributed Systems, Portworx
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7296073)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7296073`
+
+---
+### 🆕 Technical Program Manager, FlashArray
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/6895302)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `6895302`
+
+---
+### 🆕 Technical Program Manager, Performance Benchmarking
+**purestorage** · Engineering
+📍 Santa Clara, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7438716)
+🕐 Updated: `2026-04-09T19:48:39-04:00` &nbsp;|&nbsp; ID: `7438716`
+
+---
+### 🆕 Technical Services Engineer - Portworx
+**purestorage** · Services & Support
+📍 Raleigh, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7651630)
+🕐 Updated: `2026-04-16T15:48:10-04:00` &nbsp;|&nbsp; ID: `7651630`
+
+---
+### 🆕 AI Sales Engineer 
+**rubrik** · Sales Engineering
+📍 Chicago, IL &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096)
+🕐 Updated: `2026-04-15T09:25:44-04:00` &nbsp;|&nbsp; ID: `7472096`
+
+---
+### 🆕 Application Security Engineer
+**rubrik** · Information Security
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7616016?gh_jid=7616016)
+🕐 Updated: `2026-04-10T13:48:49-04:00` &nbsp;|&nbsp; ID: `7616016`
+
+---
+### 🆕 Customer Success Engineer (2nd shift: 12pm-9pm ET) - FedRAMP
+**rubrik** · Support
+📍 Morrisville, NC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7473144?gh_jid=7473144)
+🕐 Updated: `2026-04-10T13:48:46-04:00` &nbsp;|&nbsp; ID: `7473144`
+
+---
+### 🆕 Engineering Manager
+**rubrik** · Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7776333?gh_jid=7776333)
+🕐 Updated: `2026-04-10T13:48:52-04:00` &nbsp;|&nbsp; ID: `7776333`
+
+---
+### 🆕 Engineering Manager
+**rubrik** · Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7570191?gh_jid=7570191)
+🕐 Updated: `2026-04-10T13:48:47-04:00` &nbsp;|&nbsp; ID: `7570191`
+
+---
+### 🆕 Sales Development Representative
+**rubrik** · Sales
+📍 Austin (TX) Office &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.2146030?gh_jid=2146030)
+🕐 Updated: `2026-04-10T13:48:41-04:00` &nbsp;|&nbsp; ID: `2146030`
+
+---
+### 🆕 Sales Development Representative Intern
+**rubrik** · Sales
+📍 Austin (TX) Office &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7555478?gh_jid=7555478)
+🕐 Updated: `2026-04-10T13:48:47-04:00` &nbsp;|&nbsp; ID: `7555478`
+
+---
+### 🆕 Sales Engineer, Cloud Product Line Specialist
+**rubrik** · Sales Engineering
+📍 Western USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7523627?gh_jid=7523627)
+🕐 Updated: `2026-04-10T13:48:46-04:00` &nbsp;|&nbsp; ID: `7523627`
+
+---
+### 🆕 Sales Engineer, Cloud Product Specialist
+**rubrik** · Sales Engineering
+📍 Western USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7462898?gh_jid=7462898)
+🕐 Updated: `2026-04-17T13:35:01-04:00` &nbsp;|&nbsp; ID: `7462898`
+
+---
+### 🆕 Sales Engineering Manager, Cloud
+**rubrik** · Sales Engineering
+📍 East Coast United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7743401?gh_jid=7743401)
+🕐 Updated: `2026-04-10T18:14:14-04:00` &nbsp;|&nbsp; ID: `7743401`
+
+---
+### 🆕 Sales Engineering Manager, Cloud
+**rubrik** · Sales Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7655568?gh_jid=7655568)
+🕐 Updated: `2026-04-17T13:34:21-04:00` &nbsp;|&nbsp; ID: `7655568`
+
+---
+### 🆕 Senior Customer Success Engineer (Monday - Friday shift: 9am-6pm ET) - FedRAMP
+**rubrik** · Support
+📍 Morrisville, NC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.6894574?gh_jid=6894574)
+🕐 Updated: `2026-04-10T13:48:42-04:00` &nbsp;|&nbsp; ID: `6894574`
+
+---
+### 🆕 Senior Customer Success Engineer (Monday - Friday shift: 9am-6pm ET) - FedRAMP
+**rubrik** · Support
+📍 Morrisville, NC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7494096?gh_jid=7494096)
+🕐 Updated: `2026-04-10T13:48:46-04:00` &nbsp;|&nbsp; ID: `7494096`
+
+---
+### 🆕 Senior Data Engineering Analyst
+**rubrik** · Information Technology & Services
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7558752?gh_jid=7558752)
+🕐 Updated: `2026-04-10T13:48:47-04:00` &nbsp;|&nbsp; ID: `7558752`
+
+---
+### 🆕  Senior Software Engineer - API Infrastructure
+**rubrik** · Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7590492?gh_jid=7590492)
+🕐 Updated: `2026-04-10T13:48:48-04:00` &nbsp;|&nbsp; ID: `7590492`
+
+---
+### 🆕 Senior Software Engineer - Identity Infrastructure
+**rubrik** · Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7586173?gh_jid=7586173)
+🕐 Updated: `2026-04-10T13:48:48-04:00` &nbsp;|&nbsp; ID: `7586173`
+
+---
+### 🆕 Sr. GSI Global Solution Architect - Cognizant
+**rubrik** · Sales Engineering
+📍 USA - New Jersey &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7405650?gh_jid=7405650)
+🕐 Updated: `2026-04-10T13:48:44-04:00` &nbsp;|&nbsp; ID: `7405650`
+
+---
+### 🆕 Sr. GSI Global Solution Architect - Kyndryl / NTT Data
+**rubrik** · Sales Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7405671?gh_jid=7405671)
+🕐 Updated: `2026-04-10T13:48:44-04:00` &nbsp;|&nbsp; ID: `7405671`
+
+---
+### 🆕 Sr. Sales Engineer, Cloud PLS
+**rubrik** · Sales Engineering
+📍 Atlanta, GA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7463667?gh_jid=7463667)
+🕐 Updated: `2026-04-15T17:14:44-04:00` &nbsp;|&nbsp; ID: `7463667`
+
+---
+### 🆕 Sr. Sales Engineer, Cloud Product Line Specialist
+**rubrik** · Sales Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7463640?gh_jid=7463640)
+🕐 Updated: `2026-04-10T13:48:45-04:00` &nbsp;|&nbsp; ID: `7463640`
+
+---
+### 🆕 Sr. Sales Engineer, Cloud - Strategics
+**rubrik** · Sales Engineering
+📍 California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7462910?gh_jid=7462910)
+🕐 Updated: `2026-04-17T14:41:15-04:00` &nbsp;|&nbsp; ID: `7462910`
+
+---
+### 🆕 Sr. Sales Engineer, Federal
+**rubrik** · Sales Engineering
+📍 Washington, DC, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7375599?gh_jid=7375599)
+🕐 Updated: `2026-04-10T13:48:44-04:00` &nbsp;|&nbsp; ID: `7375599`
+
+---
+### 🆕 Sr. Sales Engineer - OH Enterprise
+**rubrik** · Sales Engineering
+📍 Columbus, OH &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7481324?gh_jid=7481324)
+🕐 Updated: `2026-04-10T13:48:46-04:00` &nbsp;|&nbsp; ID: `7481324`
+
+---
+### 🆕 Sr. Sales Engineer - Southwest, Healthcare
+**rubrik** · Sales Engineering
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7436682?gh_jid=7436682)
+🕐 Updated: `2026-04-10T13:48:45-04:00` &nbsp;|&nbsp; ID: `7436682`
+
+---
+### 🆕 Staff Platform Product Manager, Platform & Cloud Security
+**rubrik** · Product
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902)
+🕐 Updated: `2026-04-10T13:48:44-04:00` &nbsp;|&nbsp; ID: `7423902`
+
+---
+### 🆕 Android Software Engineer, Mobile Experience
+**dropbox** · Eng - Core Experience (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7469388?gh_jid=7469388)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7469388`
+
+---
+### 🆕 Data Scientist
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7762004?gh_jid=7762004)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7762004`
+
+---
+### 🆕 Full Stack Software Engineer, Dash Experiences
+**dropbox** · Dash - Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7569140?gh_jid=7569140)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7569140`
+
+---
+### 🆕 Principal Engineer, Identity & Engagement
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739556?gh_jid=7739556)
+🕐 Updated: `2026-04-13T08:34:30-04:00` &nbsp;|&nbsp; ID: `7739556`
+
+---
+### 🆕 Principal Software Engineer, Core Sharing & Collaboration
+**dropbox** · Eng - Maintain Customer Trust (Sub Team)
+📍 Remote - US: All locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7344925?gh_jid=7344925)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7344925`
+
+---
+### 🆕 Principal Software Engineer, Corporate AI
+**dropbox** · CorpEng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7537001?gh_jid=7537001)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7537001`
+
+---
+### 🆕 Product and Platform Partnerships, Business Development
+**dropbox** · Global Solutions - AMER (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7614716?gh_jid=7614716)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7614716`
+
+---
+### 🆕 Senior Data Science Manager, AI Products
+**dropbox** · Dash - Data Science (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7512374?gh_jid=7512374)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7512374`
+
+---
+### 🆕 Senior Data Scientist, AI Products
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7789386?gh_jid=7789386)
+🕐 Updated: `2026-04-15T09:33:37-04:00` &nbsp;|&nbsp; ID: `7789386`
+
+---
+### 🆕 Senior Data Scientist, AI Products
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7729761?gh_jid=7729761)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7729761`
+
+---
+### 🆕 Senior Data Scientist, Marketing
+**dropbox** · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7680911?gh_jid=7680911)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7680911`
+
+---
+### 🆕 Senior Engineering Manager, Core Media & Intelligence
+**dropbox** · Eng - Core Experience (Sub Team)
+📍 Remote - US: All locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7344918?gh_jid=7344918)
+🕐 Updated: `2026-04-13T16:31:10-04:00` &nbsp;|&nbsp; ID: `7344918`
+
+---
+### 🆕 Senior Full Stack Product Software Engineer
+**dropbox** · EPD
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7536346?gh_jid=7536346)
+🕐 Updated: `2026-04-13T14:30:26-04:00` &nbsp;|&nbsp; ID: `7536346`
+
+---
+### 🆕 Senior Fullstack Product Software Engineer, DocSend  
+**dropbox** · Eng - DocSend (Sub Team)
+📍 Remote - US: All locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7641557?gh_jid=7641557)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7641557`
+
+---
+### 🆕 Senior Fullstack Product Software Engineer, DocSend  
+**dropbox** · Eng - DocSend (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7641558?gh_jid=7641558)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7641558`
+
+---
+### 🆕 Staff Backend Product Software Engineer, Commerce Platform
+**dropbox** · Business Platform (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7759728?gh_jid=7759728)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7759728`
+
+---
+### 🆕 Staff Backend Product Software Engineer, Core
+**dropbox** · Eng - Teams and Collab (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7421121?gh_jid=7421121)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7421121`
+
+---
+### 🆕 Staff Data Engineer, Analytics Data Engineering
+**dropbox** · Analytics Data Engineering (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7595183?gh_jid=7595183)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7595183`
+
+---
+### 🆕 Staff Fullstack Product Software Engineer, Dash
+**dropbox** · Dash - Eng (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7551545?gh_jid=7551545)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7551545`
+
+---
+### 🆕 Staff Fullstack Software Engineer, Growth Monetization
+**dropbox** · Eng - Growth (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7421150?gh_jid=7421150)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7421150`
+
+---
+### 🆕 Staff Product Manager, AI Security, Data Access Governance and DLP
+**dropbox** · Dash - Product (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7769764?gh_jid=7769764)
+🕐 Updated: `2026-04-10T12:45:13-04:00` &nbsp;|&nbsp; ID: `7769764`
+
+---
+### 🆕 Technical Architect, Go-to-Market
+**dropbox** · GTM Technology Operations (Sub Team)
+📍 Remote - US: Select locations &nbsp;|&nbsp; 🔗 [Apply Here](https://jobs.dropbox.com/listing/7775446?gh_jid=7775446)
+🕐 Updated: `2026-04-10T14:08:43-04:00` &nbsp;|&nbsp; ID: `7775446`
+
+---
+### 🆕 Lead Product Security Engineer
+**dremio** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.dremio.com/careers/job-postings/?gh_jid=7690641003)
+🕐 Updated: `2026-04-08T04:25:11-04:00` &nbsp;|&nbsp; ID: `7690641003`
+
+---
+### 🆕 Application Security Engineer
+**starburst** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5119301008)
+🕐 Updated: `2026-04-08T09:35:06-04:00` &nbsp;|&nbsp; ID: `5119301008`
+
+---
+### 🆕 Customer Support Engineer
+**starburst** · Support
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5137911008)
+🕐 Updated: `2026-03-20T10:11:06-04:00` &nbsp;|&nbsp; ID: `5137911008`
+
+---
+### 🆕 Forward Deployed Engineer
+**starburst** · Presales
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5016295008)
+🕐 Updated: `2026-03-17T14:39:53-04:00` &nbsp;|&nbsp; ID: `5016295008`
+
+---
+### 🆕 Manager of Sales Development
+**starburst** · Sales Development
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/4972878008)
+🕐 Updated: `2026-03-17T11:31:53-04:00` &nbsp;|&nbsp; ID: `4972878008`
+
+---
+### 🆕 Sales Development Representative 
+**starburst** · Sales Development
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/4943246008)
+🕐 Updated: `2026-04-15T09:14:31-04:00` &nbsp;|&nbsp; ID: `4943246008`
+
+---
+### 🆕 Sales Development Representative Intern
+**starburst** · Sales Development
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5152379008)
+🕐 Updated: `2026-04-13T09:28:16-04:00` &nbsp;|&nbsp; ID: `5152379008`
+
+---
+### 🆕 Senior Product Manager - Insights Platform
+**starburst** · Product
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5138642008)
+🕐 Updated: `2026-03-16T09:07:39-04:00` &nbsp;|&nbsp; ID: `5138642008`
+
+---
+### 🆕 Software Engineering Intern
+**starburst** · Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5123053008)
+🕐 Updated: `2026-03-20T10:42:06-04:00` &nbsp;|&nbsp; ID: `5123053008`
+
+---
+### 🆕 Developer Educator
+**planetscale** · Marketing
+📍 San Francisco and/or US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/planetscale/jobs/4021848009)
+🕐 Updated: `2026-04-17T16:28:37-04:00` &nbsp;|&nbsp; ID: `4021848009`
+
+---
+### 🆕 Enterprise Support Engineer
+**planetscale** · Customer Engineering
+📍 Remote - NA, APAC, EMEA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/planetscale/jobs/4009926009)
+🕐 Updated: `2026-01-22T19:28:18-05:00` &nbsp;|&nbsp; ID: `4009926009`
+
+---
+### 🆕 Software Engineer - Infrastructure
+**planetscale** · Engineering
+📍 San Francisco Bay Area or Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/planetscale/jobs/4036240009)
+🕐 Updated: `2026-01-05T15:48:00-05:00` &nbsp;|&nbsp; ID: `4036240009`
+
+---
+### 🆕 Solutions Engineer
+**planetscale** · Sales
+📍 Remote - EMEA, Remote - NA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/planetscale/jobs/4052805009)
+🕐 Updated: `2026-02-23T16:56:59-05:00` &nbsp;|&nbsp; ID: `4052805009`
+
+---
+### 🆕 Technical Account Manager
+**planetscale** · Customer Engineering
+📍 Remote - North America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/planetscale/jobs/4146189009)
+🕐 Updated: `2026-02-23T16:39:33-05:00` &nbsp;|&nbsp; ID: `4146189009`
+
+---
+### 🆕 Senior Software Engineer (Remote)
+**imply** · Druid Query
+📍 Burlingame, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://imply.io/positions?gh_jid=6623406003)
+🕐 Updated: `2025-12-23T14:04:05-05:00` &nbsp;|&nbsp; ID: `6623406003`
+
+---
+### 🆕 Software Engineer (Remote)
+**imply** · Enterprise Services
+📍 Burlingame, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://imply.io/positions?gh_jid=7595374003)
+🕐 Updated: `2026-01-22T14:30:54-05:00` &nbsp;|&nbsp; ID: `7595374003`
+
+---
+### 🆕 Staff Software Engineer (Remote)
+**imply** · Platform Infrastructure
+📍 Burlingame, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://imply.io/positions?gh_jid=7532528003)
+🕐 Updated: `2025-12-23T14:04:05-05:00` &nbsp;|&nbsp; ID: `7532528003`
+
+---
+### 🆕 Staff Software Engineer (Remote)
+**imply** · Applications
+📍 Burlingame, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://imply.io/positions?gh_jid=6558076003)
+🕐 Updated: `2025-12-23T14:04:05-05:00` &nbsp;|&nbsp; ID: `6558076003`
+
+---
+### 🆕 Director, Engineering (Remote Eligible)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7751251)
+🕐 Updated: `2026-04-13T18:01:24-04:00` &nbsp;|&nbsp; ID: `7751251`
+
+---
+### 🆕 Director, GRC, Engineering (Remote Eligible)
+**smartsheet** · Engineering - Developers
+📍 Bellevue, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7699620)
+🕐 Updated: `2026-04-13T18:01:24-04:00` &nbsp;|&nbsp; ID: `7699620`
+
+---
+### 🆕 Manager, Engineering
+**smartsheet** · Engineering - Developers
+📍 Bellevue, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7766865)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7766865`
+
+---
+### 🆕 Manager, Engineering 
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, BULGARIA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7560195)
+🕐 Updated: `2026-04-13T18:01:22-04:00` &nbsp;|&nbsp; ID: `7560195`
+
+---
+### 🆕 Principal Product Manager – Monetization & Billing
+**smartsheet** · Engineering - Developers
+📍 Bellevue, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7822040)
+🕐 Updated: `2026-04-16T18:09:28-04:00` &nbsp;|&nbsp; ID: `7822040`
+
+---
+### 🆕 Professional Services Business Development Director
+**smartsheet** · PS Sales
+📍 Bellevue, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7812779)
+🕐 Updated: `2026-04-13T18:01:20-04:00` &nbsp;|&nbsp; ID: `7812779`
+
+---
+### 🆕 Professional Services Business Development Director
+**smartsheet** · PS Sales
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7630247)
+🕐 Updated: `2026-04-13T18:01:20-04:00` &nbsp;|&nbsp; ID: `7630247`
+
+---
+### 🆕 Sales Development Representative - East Coast 
+**smartsheet** · Sales Development
+📍 Boston, MA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7133255)
+🕐 Updated: `2026-04-13T18:01:20-04:00` &nbsp;|&nbsp; ID: `7133255`
+
+---
+### 🆕 Sales Development Representative - West Coast
+**smartsheet** · Sales Development
+📍 Bellevue, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/5403004)
+🕐 Updated: `2026-04-13T18:01:15-04:00` &nbsp;|&nbsp; ID: `5403004`
+
+---
+### 🆕 Senior Director, Field Engineering (Remote Eligible)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7798647)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7798647`
+
+---
+### 🆕 Senior Forward Deployed AI Engineer (Remote Eligible)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7798778)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7798778`
+
+---
+### 🆕 Senior Manager, Engineering - AI & Automation
+**smartsheet** · Engineering - Developers
+📍 Bellevue, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7822019)
+🕐 Updated: `2026-04-16T17:53:49-04:00` &nbsp;|&nbsp; ID: `7822019`
+
+---
+### 🆕 Senior Manager, Engineering - Enterprise Audit 
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, BULGARIA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/6806756)
+🕐 Updated: `2026-04-16T11:46:35-04:00` &nbsp;|&nbsp; ID: `6806756`
+
+---
+### 🆕 Senior Software Engineer II - Applied AI and Evaluations (Remote Eligible)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7782945)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7782945`
+
+---
+### 🆕 Senior Software Engineer, Platform Security (Remote from Bulgaria)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, BULGARIA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7388435)
+🕐 Updated: `2026-04-13T18:01:21-04:00` &nbsp;|&nbsp; ID: `7388435`
+
+---
+### 🆕 Software Engineer II, FedRamp (Remote Eligible)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7712828)
+🕐 Updated: `2026-04-13T18:01:24-04:00` &nbsp;|&nbsp; ID: `7712828`
+
+---
+### 🆕 Software Engineer II (Remote Eligible from Bulgaria)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, BULGARIA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/6366658)
+🕐 Updated: `2026-04-13T18:01:18-04:00` &nbsp;|&nbsp; ID: `6366658`
+
+---
+### 🆕 Software Engineer I - Secure Platform Operations (Remote Eligible)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7732551)
+🕐 Updated: `2026-04-13T18:01:24-04:00` &nbsp;|&nbsp; ID: `7732551`
+
+---
+### 🆕 Solutions Architect
+**smartsheet** · Consulting
+📍 -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7776527)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7776527`
+
+---
+### 🆕 Solutions Engineer Development Manager
+**smartsheet** · Solutions Engineering
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7782748)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7782748`
+
+---
+### 🆕 Solutions Engineer - Fed Gov
+**smartsheet** · Solutions Engineering
+📍  -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7774252)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7774252`
+
+---
+### 🆕 Sr. DevSecOps Engineer- Reliability & Security (Remote from Bulgaria)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, BULGARIA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7385653)
+🕐 Updated: `2026-04-13T18:01:21-04:00` &nbsp;|&nbsp; ID: `7385653`
+
+---
+### 🆕 Sr. Security Engineer 1 (Customer Trust) 
+**smartsheet** · Security
+📍 Bellevue, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7664912)
+🕐 Updated: `2026-04-13T18:01:23-04:00` &nbsp;|&nbsp; ID: `7664912`
+
+---
+### 🆕 Sr. Software Engineer  (Remote Eligible from Bulgaria)
+**smartsheet** · Engineering - Developers
+📍  -REMOTE, BULGARIA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7599444)
+🕐 Updated: `2026-04-13T18:01:18-04:00` &nbsp;|&nbsp; ID: `7599444`
+
+---
+### 🆕 Sr. Solutions Architect
+**smartsheet** · Consulting
+📍 -REMOTE, USA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7776535)
+🕐 Updated: `2026-04-13T18:01:25-04:00` &nbsp;|&nbsp; ID: `7776535`
+
+---
+### 🆕 Sr. Technical Program Manager (Remote from Bulgaria)
+**smartsheet** · Product
+📍  -REMOTE, BULGARIA- &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7672878)
+🕐 Updated: `2026-04-13T18:01:23-04:00` &nbsp;|&nbsp; ID: `7672878`
+
+---
+### 🆕 Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003)
+🕐 Updated: `2026-04-13T08:53:53-04:00` &nbsp;|&nbsp; ID: `7627647003`
+
+---
+### 🆕 Business Development Representative (SaaS Sales)
+**celonis** · Business Development
+📍 Raleigh, US, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627728003?gh_jid=7627728003)
+🕐 Updated: `2026-04-08T13:23:34-04:00` &nbsp;|&nbsp; ID: `7627728003`
+
+---
+### 🆕 Business Development Representative (SaaS Sales)
+**celonis** · Business Development
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627752003?gh_jid=7627752003)
+🕐 Updated: `2026-04-07T08:38:48-04:00` &nbsp;|&nbsp; ID: `7627752003`
+
+---
+### 🆕 Client Value Partner (CVP) - Financial Services Industry
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7614485003?gh_jid=7614485003)
+🕐 Updated: `2026-03-20T14:23:22-04:00` &nbsp;|&nbsp; ID: `7614485003`
+
+---
+### 🆕 Client Value Partner (CVP) - Oil & Gas Industry
+**celonis** · Value Engineering
+📍 Remote, US, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7478077003?gh_jid=7478077003)
+🕐 Updated: `2026-03-26T21:54:40-04:00` &nbsp;|&nbsp; ID: `7478077003`
+
+---
+### 🆕 Client Value Partner (CVP) - Public Sector
+**celonis** · Value Engineering
+📍 Remote, US, Virginia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7528112003?gh_jid=7528112003)
+🕐 Updated: `2026-04-08T15:43:20-04:00` &nbsp;|&nbsp; ID: `7528112003`
+
+---
+### 🆕 Client Value Partner (CVP) - Utilities & Energy Industry
+**celonis** · Value Engineering
+📍 Remote, US, Ohio &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7539033003?gh_jid=7539033003)
+🕐 Updated: `2026-03-17T18:53:24-04:00` &nbsp;|&nbsp; ID: `7539033003`
+
+---
+### 🆕 Client Value Partner (CVP) - Utilities & Energy Industry
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7545451003?gh_jid=7545451003)
+🕐 Updated: `2026-03-17T18:53:24-04:00` &nbsp;|&nbsp; ID: `7545451003`
+
+---
+### 🆕 Director, Value Engineering - Financial Services
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7507911003?gh_jid=7507911003)
+🕐 Updated: `2026-02-27T16:08:40-05:00` &nbsp;|&nbsp; ID: `7507911003`
+
+---
+### 🆕 Enterprise Architecture Director
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7665022003?gh_jid=7665022003)
+🕐 Updated: `2026-03-20T13:47:41-04:00` &nbsp;|&nbsp; ID: `7665022003`
+
+---
+### 🆕  Field CTO
+**celonis** · Value Engineering
+📍 Remote, US, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7643337003?gh_jid=7643337003)
+🕐 Updated: `2026-03-03T21:25:04-05:00` &nbsp;|&nbsp; ID: `7643337003`
+
+---
+### 🆕 Field CTO
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7631132003?gh_jid=7631132003)
+🕐 Updated: `2026-03-03T21:25:04-05:00` &nbsp;|&nbsp; ID: `7631132003`
+
+---
+### 🆕 Field CTO
+**celonis** · Value Engineering
+📍 Raleigh, US, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7643335003?gh_jid=7643335003)
+🕐 Updated: `2026-03-03T21:25:04-05:00` &nbsp;|&nbsp; ID: `7643335003`
+
+---
+### 🆕 Head of Industry - Banking 
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6313846003?gh_jid=6313846003)
+🕐 Updated: `2026-04-13T12:27:41-04:00` &nbsp;|&nbsp; ID: `6313846003`
+
+---
+### 🆕 Head of Industry - Retail & CPG
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6313860003?gh_jid=6313860003)
+🕐 Updated: `2026-02-27T09:51:57-05:00` &nbsp;|&nbsp; ID: `6313860003`
+
+---
+### 🆕 Lead AI Consultant
+**celonis** · Services
+📍 Raleigh, US, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6647584003?gh_jid=6647584003)
+🕐 Updated: `2026-04-14T12:29:20-04:00` &nbsp;|&nbsp; ID: `6647584003`
+
+---
+### 🆕 Principal Enterprise Architect
+**celonis** · Value Engineering
+📍 Raleigh, US, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6719678003?gh_jid=6719678003)
+🕐 Updated: `2026-02-27T09:51:57-05:00` &nbsp;|&nbsp; ID: `6719678003`
+
+---
+### 🆕 Principal Enterprise Architect
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/5950671003?gh_jid=5950671003)
+🕐 Updated: `2026-02-27T09:51:57-05:00` &nbsp;|&nbsp; ID: `5950671003`
+
+---
+### 🆕 Principal Enterprise Architect (Public Sector)
+**celonis** · Value Engineering
+📍 Remote, US, Washington DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7479313003?gh_jid=7479313003)
+🕐 Updated: `2026-04-14T13:28:09-04:00` &nbsp;|&nbsp; ID: `7479313003`
+
+---
+### 🆕 Principal Value Engineer - Insurance
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7142327003?gh_jid=7142327003)
+🕐 Updated: `2026-03-05T13:56:34-05:00` &nbsp;|&nbsp; ID: `7142327003`
+
+---
+### 🆕 Senior Customer Support Engineer
+**celonis** · Services
+📍 Remote, US, Washington DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7544809003?gh_jid=7544809003)
+🕐 Updated: `2026-04-08T13:58:41-04:00` &nbsp;|&nbsp; ID: `7544809003`
+
+---
+### 🆕 Senior Solutions Architect
+**celonis** · Services
+📍 Remote, US, Virginia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7672261003?gh_jid=7672261003)
+🕐 Updated: `2026-04-09T13:12:33-04:00` &nbsp;|&nbsp; ID: `7672261003`
+
+---
+### 🆕 Senior Value Engineer - Energy Industry
+**celonis** · Value Engineering
+📍 Remote, US, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7680930003?gh_jid=7680930003)
+🕐 Updated: `2026-04-15T20:46:37-04:00` &nbsp;|&nbsp; ID: `7680930003`
+
+---
+### 🆕 Senior Value Engineer - Energy Industry
+**celonis** · Value Engineering
+📍 Raleigh, US, North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7681051003?gh_jid=7681051003)
+🕐 Updated: `2026-04-15T20:46:01-04:00` &nbsp;|&nbsp; ID: `7681051003`
+
+---
+### 🆕 Senior Value Engineer - Energy Industry
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7620436003?gh_jid=7620436003)
+🕐 Updated: `2026-04-15T20:45:28-04:00` &nbsp;|&nbsp; ID: `7620436003`
+
+---
+### 🆕 Senior Value Engineer- Healthcare Distribution
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7620444003?gh_jid=7620444003)
+🕐 Updated: `2026-04-17T15:59:04-04:00` &nbsp;|&nbsp; ID: `7620444003`
+
+---
+### 🆕 Senior Value Engineer - Life Sciences
+**celonis** · Value Engineering
+📍 New York, US, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7633846003?gh_jid=7633846003)
+🕐 Updated: `2026-04-17T15:58:34-04:00` &nbsp;|&nbsp; ID: `7633846003`
+
+---
+### 🆕 Senior Value Engineer - Public Sector
+**celonis** · Value Engineering
+📍 Redwood City, US, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7662611003?gh_jid=7662611003)
+🕐 Updated: `2026-04-15T20:56:18-04:00` &nbsp;|&nbsp; ID: `7662611003`
+
+---
+### 🆕 Senior Value Engineer (Public Sector) - Sacramento, CA
+**celonis** · Value Engineering
+📍 Remote, US, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7688214003?gh_jid=7688214003)
+🕐 Updated: `2026-04-15T20:54:40-04:00` &nbsp;|&nbsp; ID: `7688214003`
+
+---
+### 🆕 Customer Centric Engineer
+**workato** · Product & Engineering
+📍 Palo Alto, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8445007002)
+🕐 Updated: `2026-04-05T00:36:18-04:00` &nbsp;|&nbsp; ID: `8445007002`
+
+---
+### 🆕 Director, Product Management (Data Orchestration and Insights)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8395437002)
+🕐 Updated: `2026-04-05T00:36:09-04:00` &nbsp;|&nbsp; ID: `8395437002`
+
+---
+### 🆕 Director, Product Management (Platform, Security & Enterprise Readiness)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8497003002)
+🕐 Updated: `2026-04-08T09:12:14-04:00` &nbsp;|&nbsp; ID: `8497003002`
+
+---
+### 🆕 Events Coordinator
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8371522002)
+🕐 Updated: `2026-04-05T00:37:15-04:00` &nbsp;|&nbsp; ID: `8371522002`
+
+---
+### 🆕 Forward Deployed Engineer
+**workato** · Product & Engineering
+📍 Boston, Massachusetts; New York, New York; Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8437707002)
+🕐 Updated: `2026-04-05T00:37:59-04:00` &nbsp;|&nbsp; ID: `8437707002`
+
+---
+### 🆕 Forward Deployed Engineer
+**workato** · Product & Engineering
+📍 Boston, Massachusetts; New York, New York; Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8437701002)
+🕐 Updated: `2026-04-05T00:37:55-04:00` &nbsp;|&nbsp; ID: `8437701002`
+
+---
+### 🆕 Intern, AI Engineering
+**workato** · Wolf 2 and AI Labs
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8492935002)
+🕐 Updated: `2026-04-09T23:12:52-04:00` &nbsp;|&nbsp; ID: `8492935002`
+
+---
+### 🆕 Outbound Sales Development Representative
+**workato** · Sales and Customer Success
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8465075002)
+🕐 Updated: `2026-04-05T02:05:29-04:00` &nbsp;|&nbsp; ID: `8465075002`
+
+---
+### 🆕 Senior AI Research Scientist
+**workato** · Wolf 2 and AI Labs
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8317830002)
+🕐 Updated: `2026-04-16T16:39:25-04:00` &nbsp;|&nbsp; ID: `8317830002`
+
+---
+### 🆕 Senior Developer Advocate
+**workato** · Wolf 2 and AI Labs
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8309732002)
+🕐 Updated: `2026-04-16T16:39:26-04:00` &nbsp;|&nbsp; ID: `8309732002`
+
+---
+### 🆕 Senior Infrastructure Engineer
+**workato** · Product & Engineering
+📍 Boston, Massachusetts; Charlotte, North Carolina; Denver, Colorado; New York, New York; Palo Alto, California; Portland, Oregon; Provo, Utah &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8480800002)
+🕐 Updated: `2026-04-05T00:33:05-04:00` &nbsp;|&nbsp; ID: `8480800002`
+
+---
+### 🆕 Senior Infrastructure Engineer (Observability) relocation 
+**workato** · Product & Engineering
+📍 Tbilisi, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8465521002)
+🕐 Updated: `2026-04-05T00:59:45-04:00` &nbsp;|&nbsp; ID: `8465521002`
+
+---
+### 🆕 Senior Instructional Designer
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8343123002)
+🕐 Updated: `2026-04-05T00:37:24-04:00` &nbsp;|&nbsp; ID: `8343123002`
+
+---
+### 🆕 Senior Manager, Global Developer Communities - San Francisco
+**workato** · Wolf 2 and AI Labs
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8309641002)
+🕐 Updated: `2026-04-16T16:39:26-04:00` &nbsp;|&nbsp; ID: `8309641002`
+
+---
+### 🆕 Senior Software Engineer
+**workato** · Wolf 2 and AI Labs
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8285682002)
+🕐 Updated: `2026-04-16T16:39:25-04:00` &nbsp;|&nbsp; ID: `8285682002`
+
+---
+### 🆕 Senior Software Engineer (GOlang)
+**workato** · Product & Engineering
+📍 Tbilisi, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8357395002)
+🕐 Updated: `2026-04-05T01:06:48-04:00` &nbsp;|&nbsp; ID: `8357395002`
+
+---
+### 🆕 Senior Software Engineer (Ruby/RoR, Platform)
+**workato** · Product & Engineering
+📍 Tbilisi, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8405309002)
+🕐 Updated: `2026-04-05T00:39:45-04:00` &nbsp;|&nbsp; ID: `8405309002`
+
+---
+### 🆕 Senior Software Engineer (Search / Retrieval)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8141650002)
+🕐 Updated: `2026-04-05T01:07:11-04:00` &nbsp;|&nbsp; ID: `8141650002`
+
+---
+### 🆕 Senior Solutions Architect
+**workato** · Sales and Customer Success
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8123299002)
+🕐 Updated: `2026-04-05T01:58:42-04:00` &nbsp;|&nbsp; ID: `8123299002`
+
+---
+### 🆕 Senior UX Designer
+**workato** · Product & Engineering
+📍 New York, New York; Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8426434002)
+🕐 Updated: `2026-04-05T01:04:43-04:00` &nbsp;|&nbsp; ID: `8426434002`
+
+---
+### 🆕 Software Engineer - Developer Products (AI)
+**workato** · Wolf 2 and AI Labs
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8112909002)
+🕐 Updated: `2026-04-16T16:39:26-04:00` &nbsp;|&nbsp; ID: `8112909002`
+
+---
+### 🆕 Staff AI Engineer
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8330527002)
+🕐 Updated: `2026-04-05T01:01:40-04:00` &nbsp;|&nbsp; ID: `8330527002`
+
+---
+### 🆕 Staff AI Engineer
+**workato** · Product & Engineering
+📍 Palo Alto, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8330535002)
+🕐 Updated: `2026-04-05T01:01:46-04:00` &nbsp;|&nbsp; ID: `8330535002`
+
+---
+### 🆕 Staff Domain Expert, AI in GTM
+**workato** · AI Business Unit
+📍 Boston, Massachusetts; Denver, Colorado; New York, New York; Palo Alto, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8474237002)
+🕐 Updated: `2026-04-04T23:19:34-04:00` &nbsp;|&nbsp; ID: `8474237002`
+
+---
+### 🆕 Staff Domain Expert, Customer Support 
+**workato** · AI Business Unit
+📍 Boston, Massachusetts; Denver, Colorado; New York, New York; Palo Alto, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8474249002)
+🕐 Updated: `2026-04-04T23:19:37-04:00` &nbsp;|&nbsp; ID: `8474249002`
+
+---
+### 🆕 Staff Forward Deployed Engineer
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8298109002)
+🕐 Updated: `2026-04-17T09:59:32-04:00` &nbsp;|&nbsp; ID: `8298109002`
+
+---
+### 🆕 Staff Product Manager (Build Experience - Agentic)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8326092002)
+🕐 Updated: `2026-04-05T00:38:59-04:00` &nbsp;|&nbsp; ID: `8326092002`
+
+---
+### 🆕 Staff Product Manager (Build Experience - Platform)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8154474002)
+🕐 Updated: `2026-04-05T01:04:37-04:00` &nbsp;|&nbsp; ID: `8154474002`
+
+---
+### 🆕 Staff Product Manager (Developer tools)
+**workato** · Wolf 2 and AI Labs
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8509542002)
+🕐 Updated: `2026-04-16T16:39:26-04:00` &nbsp;|&nbsp; ID: `8509542002`
+
+---
+### 🆕 Staff Product Manager (Enterprise & AI Governance)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8116160002)
+🕐 Updated: `2026-04-05T01:07:31-04:00` &nbsp;|&nbsp; ID: `8116160002`
+
+---
+### 🆕 Staff Product Manager (Evals)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8392595002)
+🕐 Updated: `2026-04-05T00:39:19-04:00` &nbsp;|&nbsp; ID: `8392595002`
+
+---
+### 🆕 Staff Product Manager (Lifecycle and Operations)
+**workato** · Product & Engineering
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8480090002)
+🕐 Updated: `2026-04-05T01:00:11-04:00` &nbsp;|&nbsp; ID: `8480090002`
+
+---
+### 🆕 Staff / Senior Infrastructure Engineer (relocation)
+**workato** · Product & Engineering
+📍 Tbilisi, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8432907002)
+🕐 Updated: `2026-04-05T00:33:18-04:00` &nbsp;|&nbsp; ID: `8432907002`
+
+---
+### 🆕 Staff Software Engineer
+**workato** · Product & Engineering
+📍 Tbilisi, Georgia &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8227976002)
+🕐 Updated: `2026-04-05T00:34:44-04:00` &nbsp;|&nbsp; ID: `8227976002`
+
+---
+### 🆕 Technical Architect, Professional Services
+**workato** · Sales and Customer Success
+📍 Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8415141002)
+🕐 Updated: `2026-04-05T02:03:45-04:00` &nbsp;|&nbsp; ID: `8415141002`
+
+---
+### 🆕 UX Designer
+**workato** · Product & Engineering
+📍 Austin, Texas; Boston, Massachusetts; Charlotte, North Carolina; Denver, Colorado; New York, New York; Palo Alto, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8406030002)
+🕐 Updated: `2026-04-05T01:09:14-04:00` &nbsp;|&nbsp; ID: `8406030002`
+
+---
+### 🆕 Director, Corporate Development
+**squarespace** · Finance
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7783204)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7783204`
+
+---
+### 🆕 Manager, Detection & Incident Response 
+**squarespace** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7773250)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7773250`
+
+---
+### 🆕 Senior Engineering Manager, Email
+**squarespace** · Domains & Applications
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7554955)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7554955`
+
+---
+### 🆕 Senior Machine Learning Engineer, Domains Search
+**squarespace** · Domains & Applications
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7821120)
+🕐 Updated: `2026-04-16T08:33:42-04:00` &nbsp;|&nbsp; ID: `7821120`
+
+---
+### 🆕 Senior Software Engineer - Java
+**squarespace** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7743370)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7743370`
+
+---
+### 🆕 Senior Software Engineer, Java (Domains)
+**squarespace** · Engineering (Domains & Apps)
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7669610)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7669610`
+
+---
+### 🆕 Senior Technical Program Manager 
+**squarespace** · Product
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7677355)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7677355`
+
+---
+### 🆕 Software Engineer - Delivery Platform 
+**squarespace** · Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7789058)
+🕐 Updated: `2026-04-17T21:47:47-04:00` &nbsp;|&nbsp; ID: `7789058`
+
+---
+### 🆕 Staff Engineer, Frontend - Domains Growth
+**squarespace** · Domains & Applications
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7638524)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7638524`
+
+---
+### 🆕 Support Platform Senior Manager
+**squarespace** · Customer Operations
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7757646)
+🕐 Updated: `2026-04-15T16:43:59-04:00` &nbsp;|&nbsp; ID: `7757646`
+
+---
+### 🆕 Partners Development Guide I- Sucuri Sales & Support
+**godaddy** · Care Sales
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7654923003)
+🕐 Updated: `2026-04-03T13:13:36-04:00` &nbsp;|&nbsp; ID: `7654923003`
+
+---
+### 🆕 Principal AI Scientist
+**godaddy** · Engineering
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7569024003)
+🕐 Updated: `2026-04-03T13:13:36-04:00` &nbsp;|&nbsp; ID: `7569024003`
+
+---
+### 🆕 Principal Software Engineer
+**godaddy** · Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7523090003)
+🕐 Updated: `2026-04-16T11:25:14-04:00` &nbsp;|&nbsp; ID: `7523090003`
+
+---
+### 🆕 Senior Ceph Storage Engineer 
+**godaddy** · IT Ops
+📍 Austin, Texas, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=6690965003)
+🕐 Updated: `2026-04-15T11:50:00-04:00` &nbsp;|&nbsp; ID: `6690965003`
+
+---
+### 🆕 Sales Engineer
+**ziprecruiter** · 410 Sales Engineering
+📍 Denver, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767635)
+🕐 Updated: `2026-04-09T18:52:37-04:00` &nbsp;|&nbsp; ID: `7767635`
+
+---
+### 🆕 Sales Engineer
+**ziprecruiter** · 410 Sales Engineering
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767630)
+🕐 Updated: `2026-03-30T20:00:54-04:00` &nbsp;|&nbsp; ID: `7767630`
+
+---
+### 🆕 Sales Engineer
+**ziprecruiter** · 410 Sales Engineering
+📍 Austin, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767633)
+🕐 Updated: `2026-04-09T18:44:06-04:00` &nbsp;|&nbsp; ID: `7767633`
+
+---
+### 🆕 Sales Engineer
+**ziprecruiter** · 410 Sales Engineering
+📍 New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767632)
+🕐 Updated: `2026-04-09T18:43:14-04:00` &nbsp;|&nbsp; ID: `7767632`
+
+---
+### 🆕 Sales Engineer
+**ziprecruiter** · 410 Sales Engineering
+📍 Chicago, IL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767634)
+🕐 Updated: `2026-04-09T18:46:57-04:00` &nbsp;|&nbsp; ID: `7767634`
+
+---
+### 🆕 Sales Engineer
+**ziprecruiter** · 410 Sales Engineering
+📍 Phoenix, AZ &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767643)
+🕐 Updated: `2026-04-09T18:49:58-04:00` &nbsp;|&nbsp; ID: `7767643`
+
+---
+### 🆕 Senior Software Engineer, Big Data
+**ziprecruiter** · 710 Tech
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/6557032)
+🕐 Updated: `2025-10-29T11:44:41-04:00` &nbsp;|&nbsp; ID: `6557032`
+
+---
+### 🆕 Senior Software Engineer, Big Data
+**ziprecruiter** · 710 Tech
+📍 Santa Monica, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/6530760)
+🕐 Updated: `2025-10-29T11:44:41-04:00` &nbsp;|&nbsp; ID: `6530760`
+
+---
+### 🆕 Senior Software Engineer, Big Data
+**ziprecruiter** · 710 Tech
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/6557024)
+🕐 Updated: `2025-10-29T11:44:41-04:00` &nbsp;|&nbsp; ID: `6557024`
+
+---
+### 🆕 Senior Software Engineer, Full Stack
+**ziprecruiter** · 710 Tech
+📍 Santa Monica, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/6530780)
+🕐 Updated: `2025-10-29T11:44:12-04:00` &nbsp;|&nbsp; ID: `6530780`
+
+---
+### 🆕 Senior Software Engineer, Full Stack
+**ziprecruiter** · 710 Tech
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/6556954)
+🕐 Updated: `2025-10-29T11:44:12-04:00` &nbsp;|&nbsp; ID: `6556954`
+
+---
+### 🆕 Senior Software Engineer, Machine Learning
+**ziprecruiter** · 710 Tech
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/5167472)
+🕐 Updated: `2025-10-29T11:44:59-04:00` &nbsp;|&nbsp; ID: `5167472`
+
+---
+### 🆕 Senior Software Engineer, Machine Learning 
+**ziprecruiter** · 710 Tech
+📍 Santa Monica, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/5167470)
+🕐 Updated: `2025-10-29T11:44:59-04:00` &nbsp;|&nbsp; ID: `5167470`
+
+---
+### 🆕 Senior Software Engineer, Site Reliability
+**ziprecruiter** · 710 Tech
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/3425886)
+🕐 Updated: `2025-10-14T10:36:36-04:00` &nbsp;|&nbsp; ID: `3425886`
+
+---
+### 🆕 Software Engineer, Full Stack
+**ziprecruiter** · 710 Tech
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/6556969)
+🕐 Updated: `2025-10-29T11:44:12-04:00` &nbsp;|&nbsp; ID: `6556969`
+
+---
+### 🆕 Software Engineering Manager 
+**ziprecruiter** · 710 Tech
+📍 Santa Monica, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/2447848)
+🕐 Updated: `2025-07-30T15:57:15-04:00` &nbsp;|&nbsp; ID: `2447848`
+
+---
+### 🆕 Sr. Revenue Operations, AI Strategy & Solutions Architect
+**ziprecruiter** · 405 Revenue Operations
+📍 New York, NY Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7736234)
+🕐 Updated: `2026-03-19T13:38:37-04:00` &nbsp;|&nbsp; ID: `7736234`
+
+---
+### 🆕 Sr. Revenue Operations, AI Strategy & Solutions Architect
+**ziprecruiter** · 405 Revenue Operations
+📍 Santa Monica, CA Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7697443)
+🕐 Updated: `2026-03-19T13:36:37-04:00` &nbsp;|&nbsp; ID: `7697443`
+
+---
+### 🆕 Sr. Revenue Operations, AI Strategy & Solutions Architect
+**ziprecruiter** · 405 Revenue Operations
+📍 Seattle, WA Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7736231)
+🕐 Updated: `2026-03-19T13:37:59-04:00` &nbsp;|&nbsp; ID: `7736231`
+
+---
+### 🆕 Staff Software Engineer, Machine Learning
+**ziprecruiter** · 710 Tech
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/5167480)
+🕐 Updated: `2025-10-29T11:44:59-04:00` &nbsp;|&nbsp; ID: `5167480`
+
+---
+### 🆕 Staff Software Engineer, Machine Learning
+**ziprecruiter** · 710 Tech
+📍 Santa Monica, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/5167496)
+🕐 Updated: `2025-10-29T11:44:59-04:00` &nbsp;|&nbsp; ID: `5167496`
+
+---
+### 🆕 Ads Conversion Modeling, Machine Learning Engineering Manager
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7792848)
+🕐 Updated: `2026-04-14T14:08:53-04:00` &nbsp;|&nbsp; ID: `7792848`
+
+---
+### 🆕 Android Software Engineer, Ad Formats
+**reddit** · Engineering
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7414993)
+🕐 Updated: `2026-04-09T17:37:02-04:00` &nbsp;|&nbsp; ID: `7414993`
+
+---
+### 🆕 Android Software Engineer, Ad Formats
+**reddit** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7415052)
+🕐 Updated: `2026-04-09T17:38:56-04:00` &nbsp;|&nbsp; ID: `7415052`
+
+---
+### 🆕 Android Software Engineer, Ad Formats
+**reddit** · Engineering
+📍 New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7415013)
+🕐 Updated: `2026-04-09T17:38:01-04:00` &nbsp;|&nbsp; ID: `7415013`
+
+---
+### 🆕 Android Software Engineer, Ad Formats
+**reddit** · Engineering
+📍 Chicago, IL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7415003)
+🕐 Updated: `2026-04-09T17:37:33-04:00` &nbsp;|&nbsp; ID: `7415003`
+
+---
+### 🆕 Director, North America Agency Development
+**reddit** · Global Ads Partnerships
+📍 New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/6465744)
+🕐 Updated: `2026-03-19T11:36:27-04:00` &nbsp;|&nbsp; ID: `6465744`
+
+---
+### 🆕 Director of Design, Ads Platform
+**reddit** · Product Design
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7666317)
+🕐 Updated: `2026-04-01T03:21:39-04:00` &nbsp;|&nbsp; ID: `7666317`
+
+---
+### 🆕 Engineering Manager, Notifications Relevance 
+**reddit** · Growth
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7340793)
+🕐 Updated: `2026-03-20T16:54:04-04:00` &nbsp;|&nbsp; ID: `7340793`
+
+---
+### 🆕 Machine Learning Engineer
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7131932)
+🕐 Updated: `2026-04-17T16:50:18-04:00` &nbsp;|&nbsp; ID: `7131932`
+
+---
+### 🆕 Senior Analytics Engineer
+**reddit** · Safety
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7445224)
+🕐 Updated: `2026-03-19T11:36:29-04:00` &nbsp;|&nbsp; ID: `7445224`
+
+---
+### 🆕 Senior Android Engineer (Clients Platform)
+**reddit** · Engineering
+📍 Chicago, IL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7825749)
+🕐 Updated: `2026-04-17T18:38:53-04:00` &nbsp;|&nbsp; ID: `7825749`
+
+---
+### 🆕 Senior Android Engineer (Clients Platform)
+**reddit** · Engineering
+📍 New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7825753)
+🕐 Updated: `2026-04-17T18:39:55-04:00` &nbsp;|&nbsp; ID: `7825753`
+
+---
+### 🆕 Senior Android Engineer (Clients Platform)
+**reddit** · Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7825665)
+🕐 Updated: `2026-04-17T18:35:46-04:00` &nbsp;|&nbsp; ID: `7825665`
+
+---
+### 🆕 Senior Business Engineer - Ads
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7727696)
+🕐 Updated: `2026-03-31T09:32:23-04:00` &nbsp;|&nbsp; ID: `7727696`
+
+---
+### 🆕 Senior Director of Product, Ads Platform
+**reddit** · Ads Product
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746311)
+🕐 Updated: `2026-04-03T15:29:57-04:00` &nbsp;|&nbsp; ID: `7746311`
+
+---
+### 🆕 Senior Engineering Manager, Unified Embeddings Platform 
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7359367)
+🕐 Updated: `2026-04-01T14:11:09-04:00` &nbsp;|&nbsp; ID: `7359367`
+
+---
+### 🆕 Senior Machine Learning Engineer
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/6960831)
+🕐 Updated: `2026-04-08T09:56:23-04:00` &nbsp;|&nbsp; ID: `6960831`
+
+---
+### 🆕 Senior Machine Learning Engineer, Core Experience and Growth
+**reddit** · Growth
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7391392)
+🕐 Updated: `2026-03-20T16:54:21-04:00` &nbsp;|&nbsp; ID: `7391392`
+
+---
+### 🆕 Senior  Machine Learning Engineer, ML Training Platform 
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7074776)
+🕐 Updated: `2026-03-20T17:42:08-04:00` &nbsp;|&nbsp; ID: `7074776`
+
+---
+### 🆕 Senior Machine Learning Systems Engineer
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7731772)
+🕐 Updated: `2026-03-19T11:36:34-04:00` &nbsp;|&nbsp; ID: `7731772`
+
+---
+### 🆕 Senior Software Engineer, Ads
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/6909091)
+🕐 Updated: `2026-03-19T11:36:27-04:00` &nbsp;|&nbsp; ID: `6909091`
+
+---
+### 🆕 Senior Software Engineer, Android Test Engineering
+**reddit** · Client Platforms
+📍 Chicago, IL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7488991)
+🕐 Updated: `2026-03-20T17:01:50-04:00` &nbsp;|&nbsp; ID: `7488991`
+
+---
+### 🆕 Senior Software Engineer, Android Test Engineering
+**reddit** · Client Platforms
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7488988)
+🕐 Updated: `2026-03-20T17:01:50-04:00` &nbsp;|&nbsp; ID: `7488988`
+
+---
+### 🆕 Senior Software Engineer, Android Test Engineering
+**reddit** · Client Platforms
+📍 New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7488992)
+🕐 Updated: `2026-03-20T17:01:50-04:00` &nbsp;|&nbsp; ID: `7488992`
+
+---
+### 🆕 Senior Software Engineer, Android Test Engineering
+**reddit** · Client Platforms
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7488986)
+🕐 Updated: `2026-03-20T17:01:50-04:00` &nbsp;|&nbsp; ID: `7488986`
+
+---
+### 🆕 Senior Software Engineer, Android Test Engineering
+**reddit** · Client Platforms
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7488862)
+🕐 Updated: `2026-03-20T17:01:50-04:00` &nbsp;|&nbsp; ID: `7488862`
+
+---
+### 🆕 Senior Software Engineer, GenAI Platform
+**reddit** · Safety
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7753480)
+🕐 Updated: `2026-03-31T12:30:12-04:00` &nbsp;|&nbsp; ID: `7753480`
+
+---
+### 🆕 Senior Staff Engineer, Ads
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7624311)
+🕐 Updated: `2026-03-24T14:20:12-04:00` &nbsp;|&nbsp; ID: `7624311`
+
+---
+### 🆕 Senior Staff Engineer, Cloud Economics
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7628291)
+🕐 Updated: `2026-03-19T11:36:32-04:00` &nbsp;|&nbsp; ID: `7628291`
+
+---
+### 🆕 Senior Staff Machine Learning Engineer
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/6409611)
+🕐 Updated: `2026-03-20T12:17:19-04:00` &nbsp;|&nbsp; ID: `6409611`
+
+---
+### 🆕 Senior Staff Machine Learning Engineer, Feed Relevance
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7791994)
+🕐 Updated: `2026-04-08T11:00:29-04:00` &nbsp;|&nbsp; ID: `7791994`
+
+---
+### 🆕 Senior Staff Machine Learning Engineer, GenAI Platform
+**reddit** · BE Platform
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7772274)
+🕐 Updated: `2026-04-01T10:44:54-04:00` &nbsp;|&nbsp; ID: `7772274`
+
+---
+### 🆕 Staff Android Engineer, Home Experience
+**reddit** · Consumer
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7761394)
+🕐 Updated: `2026-03-27T11:46:07-04:00` &nbsp;|&nbsp; ID: `7761394`
+
+---
+### 🆕 Staff Backend Software Engineer, Ads Business Manager
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7590453)
+🕐 Updated: `2026-03-19T11:36:28-04:00` &nbsp;|&nbsp; ID: `7590453`
+
+---
+### 🆕 Staff Engineer, Ads Lift Measurement
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7684893)
+🕐 Updated: `2026-03-19T11:36:32-04:00` &nbsp;|&nbsp; ID: `7684893`
+
+---
+### 🆕 Staff Machine Learning Engineer, Ads Auction (Ads Marketplace Quality)
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7181821)
+🕐 Updated: `2026-03-19T11:36:28-04:00` &nbsp;|&nbsp; ID: `7181821`
+
+---
+### 🆕 Staff Machine Learning Engineer, Consumer 
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7747244)
+🕐 Updated: `2026-04-09T02:06:10-04:00` &nbsp;|&nbsp; ID: `7747244`
+
+---
+### 🆕 Staff Machine Learning Engineer, Dev Platform Data and Discovery
+**reddit** · DevPlatform
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7377109)
+🕐 Updated: `2026-04-13T16:42:39-04:00` &nbsp;|&nbsp; ID: `7377109`
+
+---
+### 🆕 Staff Machine Learning Engineer, GenAI Platform
+**reddit** · BE Platform
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7772523)
+🕐 Updated: `2026-04-01T10:45:07-04:00` &nbsp;|&nbsp; ID: `7772523`
+
+---
+### 🆕 Staff Machine Learning Systems Engineer
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7731788)
+🕐 Updated: `2026-03-19T11:36:34-04:00` &nbsp;|&nbsp; ID: `7731788`
+
+---
+### 🆕 Staff Product Manager, Finance Applications
+**reddit** · Corporate Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7803856)
+🕐 Updated: `2026-04-13T17:38:58-04:00` &nbsp;|&nbsp; ID: `7803856`
+
+---
+### 🆕 Staff Software Engineer
+**reddit** · Ads Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7167631)
+🕐 Updated: `2026-03-20T18:44:31-04:00` &nbsp;|&nbsp; ID: `7167631`
+
+---
+### 🆕 Staff Software Engineer - Continuous Integration, Developer Experience
+**reddit** · BE Platform
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7342078)
+🕐 Updated: `2026-04-07T00:59:07-04:00` &nbsp;|&nbsp; ID: `7342078`
+
+---
+### 🆕 Staff Software Engineer, ML Search 
+**reddit** · Machine Learning
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/6666410)
+🕐 Updated: `2026-03-20T16:51:33-04:00` &nbsp;|&nbsp; ID: `6666410`
+
+---
+### 🆕 Staff Software Engineer, Storage
+**reddit** · BE Platform
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7511698)
+🕐 Updated: `2026-03-20T16:12:43-04:00` &nbsp;|&nbsp; ID: `7511698`
+
+---
+### 🆕 Staff Software Engineer, Storage
+**reddit** · BE Platform
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7511679)
+🕐 Updated: `2026-03-20T16:12:43-04:00` &nbsp;|&nbsp; ID: `7511679`
+
+---
+### 🆕 Staff Systems Engineer, AI Enablement and Productivity Engineering
+**reddit** · Corporate Engineering
+📍 Remote - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7336592)
+🕐 Updated: `2026-04-08T18:16:54-04:00` &nbsp;|&nbsp; ID: `7336592`
+
+---
+### 🆕 Applied Scientist, Customer Growth
+**thumbtack** · Engineering
+📍 Remote, Ontario &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7775757)
+🕐 Updated: `2026-04-02T13:52:05-04:00` &nbsp;|&nbsp; ID: `7775757`
+
+---
+### 🆕 Applied Scientist, Customer Growth
+**thumbtack** · Engineering
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7775754)
+🕐 Updated: `2026-04-02T13:52:06-04:00` &nbsp;|&nbsp; ID: `7775754`
+
+---
+### 🆕 Finance Systems & AI Solutions Manager
+**thumbtack** · Finance
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7775052)
+🕐 Updated: `2026-04-03T12:24:01-04:00` &nbsp;|&nbsp; ID: `7775052`
+
+---
+### 🆕 Finance Systems & AI Solutions Manager
+**thumbtack** · Finance
+📍 Remote, Ontario &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7775054)
+🕐 Updated: `2026-04-03T12:24:00-04:00` &nbsp;|&nbsp; ID: `7775054`
+
+---
+### 🆕 Senior AI Solutions Builder, People
+**thumbtack** · People
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7736996)
+🕐 Updated: `2026-03-20T18:13:20-04:00` &nbsp;|&nbsp; ID: `7736996`
+
+---
+### 🆕 Senior Learning & AI Readiness Manager
+**thumbtack** · People
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7731883)
+🕐 Updated: `2026-04-17T15:24:43-04:00` &nbsp;|&nbsp; ID: `7731883`
+
+---
+### 🆕 Software Engineer, AI/ML Infrastructure
+**thumbtack** · Engineering
+📍 Remote, Ontario &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7706160)
+🕐 Updated: `2026-03-11T15:28:36-04:00` &nbsp;|&nbsp; ID: `7706160`
+
+---
+### 🆕 Sr Engineering Technical Program Manager - Internal Platform Infrastructure
+**thumbtack** · Internal Tools
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7819267)
+🕐 Updated: `2026-04-16T15:15:07-04:00` &nbsp;|&nbsp; ID: `7819267`
+
+---
+### 🆕 Sr Engineering Technical Program Manager - Internal Platform Infrastructure
+**thumbtack** · Internal Tools
+📍 Remote, Ontario &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7819262)
+🕐 Updated: `2026-04-16T15:14:50-04:00` &nbsp;|&nbsp; ID: `7819262`
+
+---
+### 🆕 Staff Application Security Engineer
+**thumbtack** · Engineering
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7557969)
+🕐 Updated: `2026-02-27T16:15:50-05:00` &nbsp;|&nbsp; ID: `7557969`
+
+---
+### 🆕 Staff Application Security Engineer
+**thumbtack** · Engineering
+📍 Remote, Ontario &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/thumbtack/jobs/7557966)
+🕐 Updated: `2026-02-27T16:13:44-05:00` &nbsp;|&nbsp; ID: `7557966`
+
+---
+### 🆕 Data Engineering Internship, 2026
+**perpay** · Data Engineering
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/perpay/jobs/4076965007)
+🕐 Updated: `2026-01-21T22:39:17-05:00` &nbsp;|&nbsp; ID: `4076965007`
+
+---
+### 🆕 Senior Software Engineer, Frontend
+**perpay** · Engineering
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/perpay/jobs/4328621007)
+🕐 Updated: `2026-01-26T10:13:03-05:00` &nbsp;|&nbsp; ID: `4328621007`
+
+---
+### 🆕 Senior Software Engineer, Fullstack
+**perpay** · Engineering
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/perpay/jobs/4034548007)
+🕐 Updated: `2026-01-13T09:31:27-05:00` &nbsp;|&nbsp; ID: `4034548007`
+
+---
+### 🆕 Software Engineering Internship, 2026
+**perpay** · Engineering
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/perpay/jobs/4076988007)
+🕐 Updated: `2026-03-12T16:23:58-04:00` &nbsp;|&nbsp; ID: `4076988007`
+
+---
+### 🆕 Software Engineer, New Grad
+**perpay** · Engineering
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/perpay/jobs/4034578007)
+🕐 Updated: `2026-01-23T15:15:25-05:00` &nbsp;|&nbsp; ID: `4034578007`
+
+---
+### 🆕 Data Engineer
+**twitch** · Platforms & Services
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8334413002)
+🕐 Updated: `2026-04-08T12:07:36-04:00` &nbsp;|&nbsp; ID: `8334413002`
+
+---
+### 🆕 Senior Software Development Manager, Creator Sponsorships
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8462482002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8462482002`
+
+---
+### 🆕 Senior Software Development Manager, Engagement Growth
+**twitch** · Community Growth 
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8453239002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8453239002`
+
+---
+### 🆕 Senior Software Development Manager, Engagement Growth
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8452897002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8452897002`
+
+---
+### 🆕 Senior Software Development Manager, Engagement Growth
+**twitch** · Community Growth 
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8453230002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8453230002`
+
+---
+### 🆕 Senior Software Development Manager, Engagement Growth
+**twitch** · Community Growth 
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8453241002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8453241002`
+
+---
+### 🆕 Senior Software Development Manager, Payments 
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8327961002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8327961002`
+
+---
+### 🆕 Senior Software Engineer, Android
+**twitch** · Platforms & Services
+📍 Irvine, CA; New York City; San Francisco, CA; Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8482335002)
+🕐 Updated: `2026-03-26T20:32:44-04:00` &nbsp;|&nbsp; ID: `8482335002`
+
+---
+### 🆕 Software Development Engineer, Onboarding/Payouts
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8369609002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8369609002`
+
+---
+### 🆕 Software Engineer
+**twitch** · Community Growth 
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8186269002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8186269002`
+
+---
+### 🆕 Software Engineer, Creator Sponsorships
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8345959002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8345959002`
+
+---
+### 🆕 Software Engineer I - Ads Demand Enablement
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8162197002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8162197002`
+
+---
+### 🆕 Software Engineer I, Commerce Engineering
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8457711002)
+🕐 Updated: `2026-03-25T16:12:08-04:00` &nbsp;|&nbsp; ID: `8457711002`
+
+---
+### 🆕 Software Engineer I, Commerce Engineering
+**twitch** · Community Growth 
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8459320002)
+🕐 Updated: `2026-03-25T16:12:09-04:00` &nbsp;|&nbsp; ID: `8459320002`
+
+---
+### 🆕 Software Engineer I, Community Growth
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8468673002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8468673002`
+
+---
+### 🆕 Software Engineer II, Android
+**twitch** · Platforms & Services
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8390044002)
+🕐 Updated: `2026-04-13T19:18:10-04:00` &nbsp;|&nbsp; ID: `8390044002`
+
+---
+### 🆕 Software Engineer II, Safety
+**twitch** · Community Health
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8499608002)
+🕐 Updated: `2026-04-10T13:24:31-04:00` &nbsp;|&nbsp; ID: `8499608002`
+
+---
+### 🆕 Software Engineer I, Monetization ML
+**twitch** · Community Growth 
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8417224002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8417224002`
+
+---
+### 🆕 Software Engineer I, Monetization ML
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8417166002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8417166002`
+
+---
+### 🆕 Software Engineer I, Streamer Monetization Experience
+**twitch** · Community Growth 
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8470752002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8470752002`
+
+---
+### 🆕 Software Engineer I, Twitch Chat
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8447271002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8447271002`
+
+---
+### 🆕 Software Engineer, ML Products
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8183360002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8183360002`
+
+---
+### 🆕 Software Engineer, Safety
+**twitch** · Community Health
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8504990002)
+🕐 Updated: `2026-04-15T18:18:47-04:00` &nbsp;|&nbsp; ID: `8504990002`
+
+---
+### 🆕 Sr. Software Development Manager, Community Discovery
+**twitch** · Community Growth 
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8343612002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8343612002`
+
+---
+### 🆕 Sr. Software Development Manager, Community Discovery
+**twitch** · Community Growth 
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8345061002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8345061002`
+
+---
+### 🆕 Sr. Software Development Manager, Community Discovery
+**twitch** · Community Growth 
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8345062002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8345062002`
+
+---
+### 🆕 Sr. Software Development Manager, Community Discovery
+**twitch** · Community Growth 
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8345060002)
+🕐 Updated: `2026-03-24T16:04:04-04:00` &nbsp;|&nbsp; ID: `8345060002`
+
+---
+### 🆕 Additive Manufacturing Engineer (Raptor)
+**spacex** · Raptor Additive - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8466748002?gh_jid=8466748002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8466748002`
+
+---
+### 🆕 Advanced Packaging Process Engineer, Silicon Technology (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420343002?gh_jid=8420343002)
+🕐 Updated: `2026-03-27T19:29:20-04:00` &nbsp;|&nbsp; ID: `8420343002`
+
+---
+### 🆕 Aerodynamics Engineer (Starship)
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8199766002?gh_jid=8199766002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8199766002`
+
+---
+### 🆕 Antenna Engineer, Satellites (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387092002?gh_jid=8387092002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8387092002`
+
+---
+### 🆕 Antenna Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369850002?gh_jid=8369850002)
+🕐 Updated: `2026-04-01T19:09:55-04:00` &nbsp;|&nbsp; ID: `8369850002`
+
+---
+### 🆕 Antenna Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511245002?gh_jid=8511245002)
+🕐 Updated: `2026-04-17T12:18:15-04:00` &nbsp;|&nbsp; ID: `8511245002`
+
+---
+### 🆕 Application Security Engineer
+**spacex** · Security Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426398002?gh_jid=8426398002)
+🕐 Updated: `2026-03-27T19:09:57-04:00` &nbsp;|&nbsp; ID: `8426398002`
+
+---
+### 🆕 Application Software Engineer
+**spacex** · Application Software
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494240002?gh_jid=8494240002)
+🕐 Updated: `2026-04-06T12:59:05-04:00` &nbsp;|&nbsp; ID: `8494240002`
+
+---
+### 🆕 Application Software Engineer
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494238002?gh_jid=8494238002)
+🕐 Updated: `2026-04-06T12:38:53-04:00` &nbsp;|&nbsp; ID: `8494238002`
+
+---
+### 🆕 Application Software Engineer
+**spacex** · Application Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402778002?gh_jid=8402778002)
+🕐 Updated: `2026-04-10T20:23:58-04:00` &nbsp;|&nbsp; ID: `8402778002`
+
+---
+### 🆕 Ark Vessel Assistant Engineer 
+**spacex** · Marine Operations
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8499215002?gh_jid=8499215002)
+🕐 Updated: `2026-04-13T12:22:17-04:00` &nbsp;|&nbsp; ID: `8499215002`
+
+---
+### 🆕 Automation and Test Engineer, Satellites (Starlink) 
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369211002?gh_jid=8369211002)
+🕐 Updated: `2026-04-01T19:16:30-04:00` &nbsp;|&nbsp; ID: `8369211002`
+
+---
+### 🆕 Automation Build Engineer, Development (Starlink)
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420864002?gh_jid=8420864002)
+🕐 Updated: `2026-04-09T11:46:46-04:00` &nbsp;|&nbsp; ID: `8420864002`
+
+---
+### 🆕 Automation & Controls Engineer, Infrastructure & Utility (Starship)
+**spacex** · High Power Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395276002?gh_jid=8395276002)
+🕐 Updated: `2026-03-31T16:57:41-04:00` &nbsp;|&nbsp; ID: `8395276002`
+
+---
+### 🆕 Automation & Controls Engineer, Insource Manufacturing (Starlink)
+**spacex** · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362097002?gh_jid=8362097002)
+🕐 Updated: `2026-03-27T19:42:09-04:00` &nbsp;|&nbsp; ID: `8362097002`
+
+---
+### 🆕 Automation & Controls Engineer, Launch Pad (Starship)
+**spacex** · Tower and Launch Mount Engineering
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8218090002?gh_jid=8218090002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8218090002`
+
+---
+### 🆕 Automation & Controls Engineer (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456214002?gh_jid=8456214002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8456214002`
+
+---
+### 🆕 Automation & Controls Engineer (Starlink Production)
+**spacex** · Starlink Production Bastrop - Assembly & Packout
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506443002?gh_jid=8506443002)
+🕐 Updated: `2026-04-15T18:23:06-04:00` &nbsp;|&nbsp; ID: `8506443002`
+
+---
+### 🆕 Automation & Controls Engineer (Starship)
+**spacex** · Starship Mechanisms Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8350391002?gh_jid=8350391002)
+🕐 Updated: `2026-04-01T20:20:23-04:00` &nbsp;|&nbsp; ID: `8350391002`
+
+---
+### 🆕 Automation & Controls Engineer (Starship)
+**spacex** · Starship Automation & Controls
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8218449002?gh_jid=8218449002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8218449002`
+
+---
+### 🆕 Automation & Controls Engineer (Starship Launch Hardware)
+**spacex** · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8433913002?gh_jid=8433913002)
+🕐 Updated: `2026-04-10T12:19:17-04:00` &nbsp;|&nbsp; ID: `8433913002`
+
+---
+### 🆕 Automation & Controls Engineer (Starship Production) - Motion Controls
+**spacex** · Starship Automation & Controls
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8245092002?gh_jid=8245092002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8245092002`
+
+---
+### 🆕 Automation & Controls Specialist, PCB Manufacturing (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8392889002?gh_jid=8392889002)
+🕐 Updated: `2026-03-27T19:59:18-04:00` &nbsp;|&nbsp; ID: `8392889002`
+
+---
+### 🆕 Automation & Controls Specialist, Silicon Process Manufacturing (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450986002?gh_jid=8450986002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8450986002`
+
+---
+### 🆕 Automation & Controls Specialist (Starlink Development)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8202260002?gh_jid=8202260002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8202260002`
+
+---
+### 🆕 Automation & Controls Specialist (Starlink Production)
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506464002?gh_jid=8506464002)
+🕐 Updated: `2026-04-16T18:00:00-04:00` &nbsp;|&nbsp; ID: `8506464002`
+
+---
+### 🆕 Automation & Controls Specialist (Starship)
+**spacex** · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493473002?gh_jid=8493473002)
+🕐 Updated: `2026-04-03T10:37:01-04:00` &nbsp;|&nbsp; ID: `8493473002`
+
+---
+### 🆕 Automation & Controls Technician, Infrastructure & Utility (Starship) 
+**spacex** · High Power Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395296002?gh_jid=8395296002)
+🕐 Updated: `2026-03-27T20:18:28-04:00` &nbsp;|&nbsp; ID: `8395296002`
+
+---
+### 🆕 Automation & Control Systems Technician
+**spacex** · Texas - Development Test Technicians
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209788002?gh_jid=8209788002)
+🕐 Updated: `2026-03-27T19:34:26-04:00` &nbsp;|&nbsp; ID: `8209788002`
+
+---
+### 🆕 Automation Engineer, Blades and Vanes Foundry
+**spacex** · Materials Engineering - Core
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8502939002?gh_jid=8502939002)
+🕐 Updated: `2026-04-13T13:38:57-04:00` &nbsp;|&nbsp; ID: `8502939002`
+
+---
+### 🆕 Automation Engineer (Starlink Customer Success)
+**spacex** · Starlink Customer Operations
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8384308002?gh_jid=8384308002)
+🕐 Updated: `2026-04-01T18:07:46-04:00` &nbsp;|&nbsp; ID: `8384308002`
+
+---
+### 🆕 Automation Engineer (Starlink Customer Success) 
+**spacex** · Starlink Customer Operations
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407790002?gh_jid=8407790002)
+🕐 Updated: `2026-03-30T17:58:16-04:00` &nbsp;|&nbsp; ID: `8407790002`
+
+---
+### 🆕 Automation Engineer (Starlink Customer Success)  
+**spacex** · Starlink Customer Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407774002?gh_jid=8407774002)
+🕐 Updated: `2026-03-30T17:57:46-04:00` &nbsp;|&nbsp; ID: `8407774002`
+
+---
+### 🆕 Automation Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495842002?gh_jid=8495842002)
+🕐 Updated: `2026-04-07T18:57:58-04:00` &nbsp;|&nbsp; ID: `8495842002`
+
+---
+### 🆕 Automation Engineer (Starlink Growth) 
+**spacex** · Starlink Consumer
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8409050002?gh_jid=8409050002)
+🕐 Updated: `2026-04-10T19:18:50-04:00` &nbsp;|&nbsp; ID: `8409050002`
+
+---
+### 🆕 Aviation Certification Engineer (Starlink)
+**spacex** · Starlink Aviation Reliability
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403060002?gh_jid=8403060002)
+🕐 Updated: `2026-04-15T20:00:18-04:00` &nbsp;|&nbsp; ID: `8403060002`
+
+---
+### 🆕 Avionics Integration & Test Engineer (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358196002?gh_jid=8358196002)
+🕐 Updated: `2026-04-14T20:18:18-04:00` &nbsp;|&nbsp; ID: `8358196002`
+
+---
+### 🆕 Avionics Systems Engineer (Starship) 
+**spacex** · Starship Avionics Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377628002?gh_jid=8377628002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8377628002`
+
+---
+### 🆕 Avionics Systems Engineer (Starship)   
+**spacex** · Starship Avionics Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8356336002?gh_jid=8356336002)
+🕐 Updated: `2026-03-27T14:10:44-04:00` &nbsp;|&nbsp; ID: `8356336002`
+
+---
+### 🆕 Avionics Test Engineer (Starshield)
+**spacex** · Components Test - Starshield
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501166002?gh_jid=8501166002)
+🕐 Updated: `2026-04-14T20:19:03-04:00` &nbsp;|&nbsp; ID: `8501166002`
+
+---
+### 🆕 Avionics Test Engineer (Starship)
+**spacex** · Components Test - Starship
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8355075002?gh_jid=8355075002)
+🕐 Updated: `2026-03-27T19:41:56-04:00` &nbsp;|&nbsp; ID: `8355075002`
+
+---
+### 🆕 Avionics Test Technician, Starbase Vibe Test Lab
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501143002?gh_jid=8501143002)
+🕐 Updated: `2026-04-12T20:50:47-04:00` &nbsp;|&nbsp; ID: `8501143002`
+
+---
+### 🆕 Backend Software Engineer, GNC (Starlink) 
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398679002?gh_jid=8398679002)
+🕐 Updated: `2026-03-31T16:01:26-04:00` &nbsp;|&nbsp; ID: `8398679002`
+
+---
+### 🆕 Battery Test Engineer, Satellites (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488324002?gh_jid=8488324002)
+🕐 Updated: `2026-04-01T14:57:02-04:00` &nbsp;|&nbsp; ID: `8488324002`
+
+---
+### 🆕 BAW Device Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357111002?gh_jid=8357111002)
+🕐 Updated: `2026-03-30T17:53:11-04:00` &nbsp;|&nbsp; ID: `8357111002`
+
+---
+### 🆕 BAW Filter Design Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8356343002?gh_jid=8356343002)
+🕐 Updated: `2026-03-27T12:45:33-04:00` &nbsp;|&nbsp; ID: `8356343002`
+
+---
+### 🆕 BIM Specialist 
+**spacex** · Launch Infrastructure - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8367679002?gh_jid=8367679002)
+🕐 Updated: `2026-04-09T11:53:38-04:00` &nbsp;|&nbsp; ID: `8367679002`
+
+---
+### 🆕 Build Coordinator (Starship)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8317901002?gh_jid=8317901002)
+🕐 Updated: `2026-03-27T19:42:12-04:00` &nbsp;|&nbsp; ID: `8317901002`
+
+---
+### 🆕 Build Engineer (Starship)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8194803002?gh_jid=8194803002)
+🕐 Updated: `2026-03-27T18:57:57-04:00` &nbsp;|&nbsp; ID: `8194803002`
+
+---
+### 🆕 Build Engineer, Structures (Starship)
+**spacex** · Structures Build Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8216643002?gh_jid=8216643002)
+🕐 Updated: `2026-04-10T20:18:30-04:00` &nbsp;|&nbsp; ID: `8216643002`
+
+---
+### 🆕 Build Engineer (Super Heavy Booster)
+**spacex** · Booster Structures Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8374828002?gh_jid=8374828002)
+🕐 Updated: `2026-04-08T18:21:31-04:00` &nbsp;|&nbsp; ID: `8374828002`
+
+---
+### 🆕 Build Engineer (Super Heavy Booster)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459997002?gh_jid=8459997002)
+🕐 Updated: `2026-03-27T18:58:12-04:00` &nbsp;|&nbsp; ID: `8459997002`
+
+---
+### 🆕 Build Reliability Engineer (Starship)
+**spacex** · Starship Build Reliability Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8462757002?gh_jid=8462757002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8462757002`
+
+---
+### 🆕 Build Reliability Engineer (Starship)
+**spacex** · Build Reliability - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8475846002?gh_jid=8475846002)
+🕐 Updated: `2026-03-27T14:26:20-04:00` &nbsp;|&nbsp; ID: `8475846002`
+
+---
+### 🆕 Build Specialist (Booster Structures Engineering)
+**spacex** · Booster Structures Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490639002?gh_jid=8490639002)
+🕐 Updated: `2026-04-02T11:33:15-04:00` &nbsp;|&nbsp; ID: `8490639002`
+
+---
+### 🆕 Build Specialist (Structures Engineering) 
+**spacex** · Starship Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8199819002?gh_jid=8199819002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8199819002`
+
+---
+### 🆕 CAD Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375578002?gh_jid=8375578002)
+🕐 Updated: `2026-04-10T20:08:48-04:00` &nbsp;|&nbsp; ID: `8375578002`
+
+---
+### 🆕 Campus Infrastructure Project Manager 
+**spacex** · Starlink Production Bastrop - Assembly & Packout
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488317002?gh_jid=8488317002)
+🕐 Updated: `2026-03-31T19:07:15-04:00` &nbsp;|&nbsp; ID: `8488317002`
+
+---
+### 🆕 Chemical Engineer, PCB (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399452002?gh_jid=8399452002)
+🕐 Updated: `2026-03-31T16:58:02-04:00` &nbsp;|&nbsp; ID: `8399452002`
+
+---
+### 🆕 Chemical Lab Specialist, PCB (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8401100002?gh_jid=8401100002)
+🕐 Updated: `2026-04-09T12:08:38-04:00` &nbsp;|&nbsp; ID: `8401100002`
+
+---
+### 🆕 Chemical Process Engineer (Starship Launch Systems)
+**spacex** · Stage 0 Propellant Generation
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402132002?gh_jid=8402132002)
+🕐 Updated: `2026-03-27T19:57:11-04:00` &nbsp;|&nbsp; ID: `8402132002`
+
+---
+### 🆕 Chemical Process Specialist, PCB (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8401075002?gh_jid=8401075002)
+🕐 Updated: `2026-03-30T18:01:38-04:00` &nbsp;|&nbsp; ID: `8401075002`
+
+---
+### 🆕 City Engineer (Starship)
+**spacex** · Legal and Environmental Operations - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8465383002?gh_jid=8465383002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8465383002`
+
+---
+### 🆕 Civil Engineer, Land Development (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497594002?gh_jid=8497594002)
+🕐 Updated: `2026-04-07T19:16:47-04:00` &nbsp;|&nbsp; ID: `8497594002`
+
+---
+### 🆕 Civil Engineer, Land Development (Starship Infrastructure)
+**spacex** · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8453562002?gh_jid=8453562002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8453562002`
+
+---
+### 🆕 Civil Engineer, Land Development (Starship Launch Pad)
+**spacex** · Tower and Launch Mount Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483977002?gh_jid=8483977002)
+🕐 Updated: `2026-03-27T18:28:54-04:00` &nbsp;|&nbsp; ID: `8483977002`
+
+---
+### 🆕 Civil/Structural Engineer
+**spacex** · Texas - Construction Projects
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407221002?gh_jid=8407221002)
+🕐 Updated: `2026-03-30T18:07:37-04:00` &nbsp;|&nbsp; ID: `8407221002`
+
+---
+### 🆕 CMM Programmer (Starlink)
+**spacex** · Starlink Product Supply Chain Reliability
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399342002?gh_jid=8399342002)
+🕐 Updated: `2026-03-30T18:02:15-04:00` &nbsp;|&nbsp; ID: `8399342002`
+
+---
+### 🆕 CMM Programmer (Starlink) - 2nd Shift
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8380492002?gh_jid=8380492002)
+🕐 Updated: `2026-03-31T18:00:36-04:00` &nbsp;|&nbsp; ID: `8380492002`
+
+---
+### 🆕 CMM Programmer (Tool & Die)
+**spacex** · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362900002?gh_jid=8362900002)
+🕐 Updated: `2026-04-09T12:12:31-04:00` &nbsp;|&nbsp; ID: `8362900002`
+
+---
+### 🆕 CMM Programmer (Valves) - 2nd Shift
+**spacex** · Build Reliability - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8343870002?gh_jid=8343870002)
+🕐 Updated: `2026-04-08T13:28:45-04:00` &nbsp;|&nbsp; ID: `8343870002`
+
+---
+### 🆕 CNC Machinist (FABLAB)
+**spacex** · Hawthorne - Development Test
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8414963002?gh_jid=8414963002)
+🕐 Updated: `2026-03-30T17:48:02-04:00` &nbsp;|&nbsp; ID: `8414963002`
+
+---
+### 🆕 CNC Machinist, Thermal Development (Starship)
+**spacex** · Starbase Thermal Hardware - Installation
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8219900002?gh_jid=8219900002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8219900002`
+
+---
+### 🆕 CNC Machinist, Tool & Die (Starlink)
+**spacex** · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375302002?gh_jid=8375302002)
+🕐 Updated: `2026-04-10T19:26:28-04:00` &nbsp;|&nbsp; ID: `8375302002`
+
+---
+### 🆕 CNC Programmer - Level 4/5 (2nd Shift)
+**spacex** · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8322156002?gh_jid=8322156002)
+🕐 Updated: `2026-03-27T14:27:50-04:00` &nbsp;|&nbsp; ID: `8322156002`
+
+---
+### 🆕 CNC Programmer, NX CAM (Starlink)
+**spacex** · Materials Engineering - Starlink Operations - HT
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362844002?gh_jid=8362844002)
+🕐 Updated: `2026-04-01T20:33:24-04:00` &nbsp;|&nbsp; ID: `8362844002`
+
+---
+### 🆕 CNC Programmer (Starlink)
+**spacex** · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407957002?gh_jid=8407957002)
+🕐 Updated: `2026-03-30T18:06:41-04:00` &nbsp;|&nbsp; ID: `8407957002`
+
+---
+### 🆕 CNC Programmer (Starlink) - Level 4/5
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470823002?gh_jid=8470823002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8470823002`
+
+---
+### 🆕 CNC Programmer (Starship Components) - Level 4/5   
+**spacex** · Starship Components Machining
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8509075002?gh_jid=8509075002)
+🕐 Updated: `2026-04-15T16:14:33-04:00` &nbsp;|&nbsp; ID: `8509075002`
+
+---
+### 🆕 Commissioning Engineer (Facilities)
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495038002?gh_jid=8495038002)
+🕐 Updated: `2026-04-06T12:37:40-04:00` &nbsp;|&nbsp; ID: `8495038002`
+
+---
+### 🆕 Construction Project Engineer
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8356295002?gh_jid=8356295002)
+🕐 Updated: `2026-04-01T20:35:40-04:00` &nbsp;|&nbsp; ID: `8356295002`
+
+---
+### 🆕 Construction Project Engineer (Starlink)
+**spacex** · Facilities - Redmond
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8463188002?gh_jid=8463188002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8463188002`
+
+---
+### 🆕 Construction Project Manager, Residential (Starbase Development)
+**spacex** · High Power Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488374002?gh_jid=8488374002)
+🕐 Updated: `2026-04-09T15:37:23-04:00` &nbsp;|&nbsp; ID: `8488374002`
+
+---
+### 🆕 Construction Project Manager, Starbase Development (Starship)
+**spacex** · Spaceport Development
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379486002?gh_jid=8379486002)
+🕐 Updated: `2026-04-01T17:38:29-04:00` &nbsp;|&nbsp; ID: `8379486002`
+
+---
+### 🆕 Construction Project Manager (Starship Launch Infrastructure) 
+**spacex** · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461302002?gh_jid=8461302002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461302002`
+
+---
+### 🆕 Construction Superintendent, Residential (Starbase Development)
+**spacex** · High Power Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488362002?gh_jid=8488362002)
+🕐 Updated: `2026-04-10T17:26:18-04:00` &nbsp;|&nbsp; ID: `8488362002`
+
+---
+### 🆕 Construction Superintendent, Starship Launch Infrastructure (Gigabay)
+**spacex** · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8169979002?gh_jid=8169979002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8169979002`
+
+---
+### 🆕 Construction Superintendent (Starship) - Night Shift
+**spacex** · Launch Infrastructure - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8389476002?gh_jid=8389476002)
+🕐 Updated: `2026-04-10T16:57:51-04:00` &nbsp;|&nbsp; ID: `8389476002`
+
+---
+### 🆕 Critical Infrastructure Manager (Starlink)
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8288151002?gh_jid=8288151002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8288151002`
+
+---
+### 🆕 Critical Lift & Transport Engineer (Falcon)
+**spacex** · Falcon Integration West
+📍 Vandenberg, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456320002?gh_jid=8456320002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8456320002`
+
+---
+### 🆕 Critical Lift & Transport Engineer (Starship)
+**spacex** · Starship Critical Lift & Transport
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8413684002?gh_jid=8413684002)
+🕐 Updated: `2026-03-27T20:17:02-04:00` &nbsp;|&nbsp; ID: `8413684002`
+
+---
+### 🆕 CVD Equipment Engineer, Solar Cells (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490495002?gh_jid=8490495002)
+🕐 Updated: `2026-04-09T15:22:29-04:00` &nbsp;|&nbsp; ID: `8490495002`
+
+---
+### 🆕 Data Analyst, Supply Chain (Starlink)
+**spacex** · Satellite Operations Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8330510002?gh_jid=8330510002)
+🕐 Updated: `2026-03-30T11:59:34-04:00` &nbsp;|&nbsp; ID: `8330510002`
+
+---
+### 🆕 Data Center Specialist (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Remote - WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8465286002?gh_jid=8465286002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8465286002`
+
+---
+### 🆕 Data & Control Systems Engineer (Starship Launch Pad)
+**spacex** · Starship Pad Engineering - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8231335002?gh_jid=8231335002)
+🕐 Updated: `2026-04-06T10:59:34-04:00` &nbsp;|&nbsp; ID: `8231335002`
+
+---
+### 🆕 Data & Control Systems Technician (Facilities) - Level 4/5
+**spacex** · Facilities Infrastructure Ops - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8464222002?gh_jid=8464222002)
+🕐 Updated: `2026-04-01T08:51:05-04:00` &nbsp;|&nbsp; ID: `8464222002`
+
+---
+### 🆕 Data Engineer (Direct To Cell)
+**spacex** · Starlink Mobile Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391768002?gh_jid=8391768002)
+🕐 Updated: `2026-04-13T19:56:32-04:00` &nbsp;|&nbsp; ID: `8391768002`
+
+---
+### 🆕 Data Engineer, Ground Network Engineering (Gateway) 
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8192168002?gh_jid=8192168002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8192168002`
+
+---
+### 🆕 Data Engineer (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494787002?gh_jid=8494787002)
+🕐 Updated: `2026-04-07T09:55:20-04:00` &nbsp;|&nbsp; ID: `8494787002`
+
+---
+### 🆕 Data Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8240611002?gh_jid=8240611002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8240611002`
+
+---
+### 🆕 Data Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8243150002?gh_jid=8243150002)
+🕐 Updated: `2026-03-27T19:38:52-04:00` &nbsp;|&nbsp; ID: `8243150002`
+
+---
+### 🆕 Data Infrastructure Operations Manager II (Starlink) 
+**spacex** · Satellite Supply Chain
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8510434002?gh_jid=8510434002)
+🕐 Updated: `2026-04-16T20:20:14-04:00` &nbsp;|&nbsp; ID: `8510434002`
+
+---
+### 🆕 Data Infrastructure Operations Manager (Starlink) 
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8510418002?gh_jid=8510418002)
+🕐 Updated: `2026-04-16T19:49:54-04:00` &nbsp;|&nbsp; ID: `8510418002`
+
+---
+### 🆕 Data Infrastructure Operations Specialist II (Starlink)
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8508424002?gh_jid=8508424002)
+🕐 Updated: `2026-04-15T12:59:41-04:00` &nbsp;|&nbsp; ID: `8508424002`
+
+---
+### 🆕 Data Scientist (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494810002?gh_jid=8494810002)
+🕐 Updated: `2026-04-07T09:55:21-04:00` &nbsp;|&nbsp; ID: `8494810002`
+
+---
+### 🆕 Design Criteria Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8492189002?gh_jid=8492189002)
+🕐 Updated: `2026-04-14T14:47:55-04:00` &nbsp;|&nbsp; ID: `8492189002`
+
+---
+### 🆕 Design Criteria Engineer (Starship)
+**spacex** · Starship Design Reliability
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8499349002?gh_jid=8499349002)
+🕐 Updated: `2026-04-08T17:17:50-04:00` &nbsp;|&nbsp; ID: `8499349002`
+
+---
+### 🆕 Design Development Technician (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8356404002?gh_jid=8356404002)
+🕐 Updated: `2026-04-01T20:29:59-04:00` &nbsp;|&nbsp; ID: `8356404002`
+
+---
+### 🆕 Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358339002?gh_jid=8358339002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358339002`
+
+---
+### 🆕 Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358267002?gh_jid=8358267002)
+🕐 Updated: `2026-04-01T20:31:20-04:00` &nbsp;|&nbsp; ID: `8358267002`
+
+---
+### 🆕 Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358269002?gh_jid=8358269002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358269002`
+
+---
+### 🆕 Development Coordinator, Satellites (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490568002?gh_jid=8490568002)
+🕐 Updated: `2026-04-07T13:57:00-04:00` &nbsp;|&nbsp; ID: `8490568002`
+
+---
+### 🆕 Development Technician (Starlink) 
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8435949002?gh_jid=8435949002)
+🕐 Updated: `2026-04-14T11:11:57-04:00` &nbsp;|&nbsp; ID: `8435949002`
+
+---
+### 🆕 Development Test Engineer
+**spacex** · Hawthorne - Development Test
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217696002?gh_jid=8217696002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217696002`
+
+---
+### 🆕 Development Test Engineer (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470903002?gh_jid=8470903002)
+🕐 Updated: `2026-04-14T20:20:06-04:00` &nbsp;|&nbsp; ID: `8470903002`
+
+---
+### 🆕 Development Test Engineer, Structures (Starship)
+**spacex** · Starship Structural Test
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402394002?gh_jid=8402394002)
+🕐 Updated: `2026-03-27T20:19:55-04:00` &nbsp;|&nbsp; ID: `8402394002`
+
+---
+### 🆕 Development Test Specialist
+**spacex** · Hawthorne - Development Test
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217688002?gh_jid=8217688002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217688002`
+
+---
+### 🆕 Development Test Technician
+**spacex** · Starship Structural Test - Techs
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490598002?gh_jid=8490598002)
+🕐 Updated: `2026-04-03T10:12:38-04:00` &nbsp;|&nbsp; ID: `8490598002`
+
+---
+### 🆕 Development Test Technician
+**spacex** · Hawthorne - Development Test
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8206888002?gh_jid=8206888002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8206888002`
+
+---
+### 🆕 Development Test Technician (2nd Shift)
+**spacex** · Starship Structural Test - Techs
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494087002?gh_jid=8494087002)
+🕐 Updated: `2026-04-06T09:55:44-04:00` &nbsp;|&nbsp; ID: `8494087002`
+
+---
+### 🆕 Development Test Technician - Level 4/5
+**spacex** · Hawthorne - Development Test
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403102002?gh_jid=8403102002)
+🕐 Updated: `2026-04-15T20:24:11-04:00` &nbsp;|&nbsp; ID: `8403102002`
+
+---
+### 🆕 Development Test Technician (Mechanical)
+**spacex** · Texas - Development Test Technicians
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8378521002?gh_jid=8378521002)
+🕐 Updated: `2026-03-31T17:45:32-04:00` &nbsp;|&nbsp; ID: `8378521002`
+
+---
+### 🆕 Device Physics Engineer, Solar Cells (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501065002?gh_jid=8501065002)
+🕐 Updated: `2026-04-17T11:08:38-04:00` &nbsp;|&nbsp; ID: `8501065002`
+
+---
+### 🆕 DSP Engineer, Satellites (Starlink) 
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484015002?gh_jid=8484015002)
+🕐 Updated: `2026-03-30T11:33:58-04:00` &nbsp;|&nbsp; ID: `8484015002`
+
+---
+### 🆕 DSP Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8321911002?gh_jid=8321911002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8321911002`
+
+---
+### 🆕 DSP Engineer (Starship Avionics)
+**spacex** · Starship Electronics
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8295623002?gh_jid=8295623002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8295623002`
+
+---
+### 🆕 EDM Machinist (Starlink)
+**spacex** · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417766002?gh_jid=8417766002)
+🕐 Updated: `2026-03-27T19:36:13-04:00` &nbsp;|&nbsp; ID: `8417766002`
+
+---
+### 🆕 EEE Components Engineer
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398696002?gh_jid=8398696002)
+🕐 Updated: `2026-03-31T16:04:09-04:00` &nbsp;|&nbsp; ID: `8398696002`
+
+---
+### 🆕 EEE Failure Analysis Technician (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483324002?gh_jid=8483324002)
+🕐 Updated: `2026-04-01T12:42:55-04:00` &nbsp;|&nbsp; ID: `8483324002`
+
+---
+### 🆕 EEE Parts Lab Specialist (Starlink Satellite PCB Engineering)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8335226002?gh_jid=8335226002)
+🕐 Updated: `2026-04-01T18:53:59-04:00` &nbsp;|&nbsp; ID: `8335226002`
+
+---
+### 🆕 Electrical Controls Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8202235002?gh_jid=8202235002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8202235002`
+
+---
+### 🆕 Electrical Design Engineer, Gateways & Customer Hardware (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357124002?gh_jid=8357124002)
+🕐 Updated: `2026-04-01T20:20:41-04:00` &nbsp;|&nbsp; ID: `8357124002`
+
+---
+### 🆕 Electrical Design Engineer (Raptor Avionics) 
+**spacex** · Raptor Avionics - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8318766002?gh_jid=8318766002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8318766002`
+
+---
+### 🆕 Electrical Design Engineer, Satellites (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8457347002?gh_jid=8457347002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8457347002`
+
+---
+### 🆕 Electrical Design Engineer (Starlink Mobile)
+**spacex** · Starlink Mobile Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8370688002?gh_jid=8370688002)
+🕐 Updated: `2026-04-01T19:18:33-04:00` &nbsp;|&nbsp; ID: `8370688002`
+
+---
+### 🆕 Electrical Design Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358201002?gh_jid=8358201002)
+🕐 Updated: `2026-04-14T20:20:53-04:00` &nbsp;|&nbsp; ID: `8358201002`
+
+---
+### 🆕 Electrical Engineer - Automation & Controls  (Starship)
+**spacex** · Starship Automation & Controls
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8218451002?gh_jid=8218451002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8218451002`
+
+---
+### 🆕 Electrical Engineer, Energy Infrastructure & Generation
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8440651002?gh_jid=8440651002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8440651002`
+
+---
+### 🆕 Electrical Engineer, Facilities (Starlink)
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8229804002?gh_jid=8229804002)
+🕐 Updated: `2026-03-30T15:43:35-04:00` &nbsp;|&nbsp; ID: `8229804002`
+
+---
+### 🆕 Electrical Engineer, Hardware Reliability (Starlink Product)
+**spacex** · Starlink Reliability - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8405853002?gh_jid=8405853002)
+🕐 Updated: `2026-04-08T18:28:42-04:00` &nbsp;|&nbsp; ID: `8405853002`
+
+---
+### 🆕 Electrical Engineer (Instrumentation & Controls) 
+**spacex** · Texas - Test Support
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8315405002?gh_jid=8315405002)
+🕐 Updated: `2026-04-10T17:55:49-04:00` &nbsp;|&nbsp; ID: `8315405002`
+
+---
+### 🆕 Electrical Engineer (Power Systems)
+**spacex** · Texas - Construction Projects
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477274002?gh_jid=8477274002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477274002`
+
+---
+### 🆕 Electrical Engineer, Power Systems (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8436568002?gh_jid=8436568002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8436568002`
+
+---
+### 🆕 Electrical Engineer, Propellant Generation (Starship)
+**spacex** · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8500856002?gh_jid=8500856002)
+🕐 Updated: `2026-04-09T15:54:28-04:00` &nbsp;|&nbsp; ID: `8500856002`
+
+---
+### 🆕 Electrical Engineer, Sensors (Starship Avionics) 
+**spacex** · Starship Electronics
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403132002?gh_jid=8403132002)
+🕐 Updated: `2026-04-15T20:24:59-04:00` &nbsp;|&nbsp; ID: `8403132002`
+
+---
+### 🆕 Electrical Engineer, Spacecraft Avionics (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358203002?gh_jid=8358203002)
+🕐 Updated: `2026-04-14T20:21:07-04:00` &nbsp;|&nbsp; ID: `8358203002`
+
+---
+### 🆕 Electrical Engineer (Starship Avionics) 
+**spacex** · Starship Avionics Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417098002?gh_jid=8417098002)
+🕐 Updated: `2026-03-27T20:00:14-04:00` &nbsp;|&nbsp; ID: `8417098002`
+
+---
+### 🆕 Electrical Engineer (Starship Avionics)   
+**spacex** · Starship Electronics
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8302053002?gh_jid=8302053002)
+🕐 Updated: `2026-04-01T18:22:44-04:00` &nbsp;|&nbsp; ID: `8302053002`
+
+---
+### 🆕 Electrical Integration Engineer (Starlink Aviation)
+**spacex** · Starlink Aviation Engineering
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8384363002?gh_jid=8384363002)
+🕐 Updated: `2026-04-01T18:08:05-04:00` &nbsp;|&nbsp; ID: `8384363002`
+
+---
+### 🆕 Electrical Test and Reliability Engineer, Gateways (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8445519002?gh_jid=8445519002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8445519002`
+
+---
+### 🆕 Electrical Test and Reliability Engineer, Satellites (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8476268002?gh_jid=8476268002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8476268002`
+
+---
+### 🆕 Electrical Test Development Engineer, Customer Hardware (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470901002?gh_jid=8470901002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8470901002`
+
+---
+### 🆕 Electrical Test Specialist, PCB (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495213002?gh_jid=8495213002)
+🕐 Updated: `2026-04-07T13:38:58-04:00` &nbsp;|&nbsp; ID: `8495213002`
+
+---
+### 🆕 Electrician, Medium Voltage (Starship)
+**spacex** · High Power Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8400817002?gh_jid=8400817002)
+🕐 Updated: `2026-03-27T19:03:53-04:00` &nbsp;|&nbsp; ID: `8400817002`
+
+---
+### 🆕 Electric Propulsion Engineer, Mechanical - (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8460962002?gh_jid=8460962002)
+🕐 Updated: `2026-04-16T13:00:23-04:00` &nbsp;|&nbsp; ID: `8460962002`
+
+---
+### 🆕 Electromagnetic Effects Engineer (Starlink Aviation)
+**spacex** · Starlink Aviation Engineering
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8406047002?gh_jid=8406047002)
+🕐 Updated: `2026-04-10T11:48:44-04:00` &nbsp;|&nbsp; ID: `8406047002`
+
+---
+### 🆕 Electromagnetic Effects Test Engineer
+**spacex** · Radiation and Electromagnetic Effects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8215027002?gh_jid=8215027002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8215027002`
+
+---
+### 🆕 Electronics Test Engineer
+**spacex** · Radiation and Electromagnetic Effects
+📍 Winter Garden, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8405119002?gh_jid=8405119002)
+🕐 Updated: `2026-03-27T19:25:18-04:00` &nbsp;|&nbsp; ID: `8405119002`
+
+---
+### 🆕 Embedded Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459556002?gh_jid=8459556002)
+🕐 Updated: `2026-04-09T16:23:50-04:00` &nbsp;|&nbsp; ID: `8459556002`
+
+---
+### 🆕 Embedded Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459609002?gh_jid=8459609002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8459609002`
+
+---
+### 🆕 Embedded Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479264002?gh_jid=8479264002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8479264002`
+
+---
+### 🆕 Embedded Software Engineer, OS/Platform  (Starlink)
+**spacex** · Starlink Satellite Flight Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402489002?gh_jid=8402489002)
+🕐 Updated: `2026-03-27T20:23:29-04:00` &nbsp;|&nbsp; ID: `8402489002`
+
+---
+### 🆕 Embedded Software Engineer, Satellite Antenna (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8468958002?gh_jid=8468958002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8468958002`
+
+---
+### 🆕 Embedded Software Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379277002?gh_jid=8379277002)
+🕐 Updated: `2026-04-01T19:07:00-04:00` &nbsp;|&nbsp; ID: `8379277002`
+
+---
+### 🆕 Embedded Software Engineer (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8368715002?gh_jid=8368715002)
+🕐 Updated: `2026-04-01T19:10:45-04:00` &nbsp;|&nbsp; ID: `8368715002`
+
+---
+### 🆕 EMC/EMI Test Specialist (Starlink Aviation)
+**spacex** · Starlink Aviation Engineering
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417684002?gh_jid=8417684002)
+🕐 Updated: `2026-03-27T19:44:40-04:00` &nbsp;|&nbsp; ID: `8417684002`
+
+---
+### 🆕 Engineering Manager, Silicon Assembly (Starlink)
+**spacex** · Starlink Production - Silicon Assembly
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8455138002?gh_jid=8455138002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8455138002`
+
+---
+### 🆕 Engineering Manager, Wastewater Treatment & Ultrapure Water (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8473657002?gh_jid=8473657002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8473657002`
+
+---
+### 🆕 Engineering Specialist - 2nd Shift   
+**spacex** · Starlink Production - SMT
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8210295002?gh_jid=8210295002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8210295002`
+
+---
+### 🆕 Engineering Technician (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Canandaigua, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8473726002?gh_jid=8473726002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8473726002`
+
+---
+### 🆕 Entry Level Production Technician - TWTA
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477675002?gh_jid=8477675002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477675002`
+
+---
+### 🆕 Environmental Engineer
+**spacex** · EHS - McGregor
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8430442002?gh_jid=8430442002)
+🕐 Updated: `2026-03-27T19:04:22-04:00` &nbsp;|&nbsp; ID: `8430442002`
+
+---
+### 🆕 Environmental Engineer
+**spacex** · EHS - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8346209002?gh_jid=8346209002)
+🕐 Updated: `2026-04-01T18:43:58-04:00` &nbsp;|&nbsp; ID: `8346209002`
+
+---
+### 🆕 Environmental Engineer
+**spacex** · EHS - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8453769002?gh_jid=8453769002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8453769002`
+
+---
+### 🆕 Environmental Health & Safety Engineer
+**spacex** · EHS - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399532002?gh_jid=8399532002)
+🕐 Updated: `2026-03-27T20:21:42-04:00` &nbsp;|&nbsp; ID: `8399532002`
+
+---
+### 🆕 Environmental Health & Safety Engineer
+**spacex** · EHS - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8385187002?gh_jid=8385187002)
+🕐 Updated: `2026-04-01T18:09:12-04:00` &nbsp;|&nbsp; ID: `8385187002`
+
+---
+### 🆕 Environmental Health & Safety Engineer (Construction, Launch Facility)
+**spacex** · EHS - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8365085002?gh_jid=8365085002)
+🕐 Updated: `2026-04-01T20:18:57-04:00` &nbsp;|&nbsp; ID: `8365085002`
+
+---
+### 🆕 Environmental Health & Safety Engineer (Construction, Starlink)
+**spacex** · EHS - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8421149002?gh_jid=8421149002)
+🕐 Updated: `2026-03-27T19:17:30-04:00` &nbsp;|&nbsp; ID: `8421149002`
+
+---
+### 🆕 Environmental Health & Safety Engineer (Radiation, Laser, and Chemical Safety)
+**spacex** · EHS - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8503045002?gh_jid=8503045002)
+🕐 Updated: `2026-04-13T21:51:43-04:00` &nbsp;|&nbsp; ID: `8503045002`
+
+---
+### 🆕 Environmental Health & Safety Engineer (Satellites)
+**spacex** · EHS - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402669002?gh_jid=8402669002)
+🕐 Updated: `2026-04-10T20:15:21-04:00` &nbsp;|&nbsp; ID: `8402669002`
+
+---
+### 🆕 Environmental Health & Safety Engineer (Starship)
+**spacex** · EHS - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399099002?gh_jid=8399099002)
+🕐 Updated: `2026-04-08T20:12:50-04:00` &nbsp;|&nbsp; ID: `8399099002`
+
+---
+### 🆕 Environmental & Materials Compliance Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484560002?gh_jid=8484560002)
+🕐 Updated: `2026-03-29T12:38:17-04:00` &nbsp;|&nbsp; ID: `8484560002`
+
+---
+### 🆕 Equipment Maintenace Reliability Engineer (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490574002?gh_jid=8490574002)
+🕐 Updated: `2026-04-01T17:54:46-04:00` &nbsp;|&nbsp; ID: `8490574002`
+
+---
+### 🆕 Equipment Reliability Engineer, PCB (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357821002?gh_jid=8357821002)
+🕐 Updated: `2026-03-27T19:02:53-04:00` &nbsp;|&nbsp; ID: `8357821002`
+
+---
+### 🆕 Equipment Reliability Engineer (Starlink)
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8222451002?gh_jid=8222451002)
+🕐 Updated: `2026-04-08T19:19:26-04:00` &nbsp;|&nbsp; ID: `8222451002`
+
+---
+### 🆕 Equipment Reliability Engineer (Starship)
+**spacex** · Starship Production Maintenance
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8384965002?gh_jid=8384965002)
+🕐 Updated: `2026-03-27T18:59:40-04:00` &nbsp;|&nbsp; ID: `8384965002`
+
+---
+### 🆕 Equipment Safety Engineer
+**spacex** · EHS - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402218002?gh_jid=8402218002)
+🕐 Updated: `2026-03-27T19:53:53-04:00` &nbsp;|&nbsp; ID: `8402218002`
+
+---
+### 🆕 Facilities Engineering Manager
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461591002?gh_jid=8461591002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461591002`
+
+---
+### 🆕 Facilities Engineer, Launch Infrastructure 
+**spacex** · Facilities Infrastructure Engineering - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8491778002?gh_jid=8491778002)
+🕐 Updated: `2026-04-02T11:38:15-04:00` &nbsp;|&nbsp; ID: `8491778002`
+
+---
+### 🆕 Facilities Engineer, MEP
+**spacex** · Texas - Construction Projects
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8335514002?gh_jid=8335514002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8335514002`
+
+---
+### 🆕 Facilities Infrastructure Engineer
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8381785002?gh_jid=8381785002)
+🕐 Updated: `2026-04-01T18:11:52-04:00` &nbsp;|&nbsp; ID: `8381785002`
+
+---
+### 🆕 Failure Analysis Engineer, Microelectronics (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8498761002?gh_jid=8498761002)
+🕐 Updated: `2026-04-09T16:10:19-04:00` &nbsp;|&nbsp; ID: `8498761002`
+
+---
+### 🆕 Fire Protection Engineer
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8393693002?gh_jid=8393693002)
+🕐 Updated: `2026-03-30T12:32:56-04:00` &nbsp;|&nbsp; ID: `8393693002`
+
+---
+### 🆕 Fire Protection Engineer (Starlink)   
+**spacex** · Facilities - Redmond
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8214252002?gh_jid=8214252002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8214252002`
+
+---
+### 🆕 Flight Software Infrastructure Engineer (Starlink)
+**spacex** · Starlink Satellite Flight Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477451002?gh_jid=8477451002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477451002`
+
+---
+### 🆕 Fluids Engineer (Starship)
+**spacex** · Starship Production Fluids Systems
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8216029002?gh_jid=8216029002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8216029002`
+
+---
+### 🆕 Fluids Systems Engineer, Solar Cell Factory (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8346155002?gh_jid=8346155002)
+🕐 Updated: `2026-04-01T18:47:09-04:00` &nbsp;|&nbsp; ID: `8346155002`
+
+---
+### 🆕 FPGA Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399489002?gh_jid=8399489002)
+🕐 Updated: `2026-04-17T16:32:54-04:00` &nbsp;|&nbsp; ID: `8399489002`
+
+---
+### 🆕 Full Stack Software Engineer (Application Software)
+**spacex** · Application Software
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495180002?gh_jid=8495180002)
+🕐 Updated: `2026-04-06T13:00:09-04:00` &nbsp;|&nbsp; ID: `8495180002`
+
+---
+### 🆕 Full Stack Software Engineer (Application Software)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495131002?gh_jid=8495131002)
+🕐 Updated: `2026-04-06T12:40:58-04:00` &nbsp;|&nbsp; ID: `8495131002`
+
+---
+### 🆕 Full Stack Software Engineer (Build Reliability) 
+**spacex** · Process Development
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358022002?gh_jid=8358022002)
+🕐 Updated: `2026-04-01T20:19:41-04:00` &nbsp;|&nbsp; ID: `8358022002`
+
+---
+### 🆕 Full Stack Software Engineer (Components)
+**spacex** · Components Test - Starship
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8421359002?gh_jid=8421359002)
+🕐 Updated: `2026-03-27T19:24:16-04:00` &nbsp;|&nbsp; ID: `8421359002`
+
+---
+### 🆕 Full Stack Software Engineer, Constellation Tools (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398604002?gh_jid=8398604002)
+🕐 Updated: `2026-03-27T19:37:22-04:00` &nbsp;|&nbsp; ID: `8398604002`
+
+---
+### 🆕 Full Stack Software Engineer (Starlink)
+**spacex** · Starlink Consumer Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501225002?gh_jid=8501225002)
+🕐 Updated: `2026-04-13T19:08:31-04:00` &nbsp;|&nbsp; ID: `8501225002`
+
+---
+### 🆕 Full Stack Software Engineer (Starlink Ground Network)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8211878002?gh_jid=8211878002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8211878002`
+
+---
+### 🆕 Full Stack Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8365490002?gh_jid=8365490002)
+🕐 Updated: `2026-04-01T19:04:46-04:00` &nbsp;|&nbsp; ID: `8365490002`
+
+---
+### 🆕 Full Stack Software Engineer - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397609002?gh_jid=8397609002)
+🕐 Updated: `2026-04-10T12:10:28-04:00` &nbsp;|&nbsp; ID: `8397609002`
+
+---
+### 🆕 Gateway Site Development Engineer (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8242959002?gh_jid=8242959002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8242959002`
+
+---
+### 🆕 Global Supply Manager, Software
+**spacex** · Purchasing
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511020002?gh_jid=8511020002)
+🕐 Updated: `2026-04-16T21:07:21-04:00` &nbsp;|&nbsp; ID: `8511020002`
+
+---
+### 🆕 Global Supply Manager, Utilities & Infrastructure (Starlink)
+**spacex** · Starlink - User Terminal Supply Chain
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487524002?gh_jid=8487524002)
+🕐 Updated: `2026-04-01T11:32:15-04:00` &nbsp;|&nbsp; ID: `8487524002`
+
+---
+### 🆕 GNC Engineer, ADCS (Starshield) 
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397623002?gh_jid=8397623002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8397623002`
+
+---
+### 🆕 GNC Engineer, Beam Planning
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8218276002?gh_jid=8218276002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8218276002`
+
+---
+### 🆕 GNC Engineer, Device Navigation and Beam Pointing (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395371002?gh_jid=8395371002)
+🕐 Updated: `2026-04-10T18:54:13-04:00` &nbsp;|&nbsp; ID: `8395371002`
+
+---
+### 🆕 GNC Engineer, Fleet Management (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8214365002?gh_jid=8214365002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8214365002`
+
+---
+### 🆕 GNC Engineer, Orbit Determination (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8382583002?gh_jid=8382583002)
+🕐 Updated: `2026-04-01T17:45:08-04:00` &nbsp;|&nbsp; ID: `8382583002`
+
+---
+### 🆕 GNC Engineer, Phased Array Devices (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397638002?gh_jid=8397638002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8397638002`
+
+---
+### 🆕 GNC Engineer, Satellite Power Systems (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459660002?gh_jid=8459660002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8459660002`
+
+---
+### 🆕 GNC Engineer (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395053002?gh_jid=8395053002)
+🕐 Updated: `2026-03-27T19:56:22-04:00` &nbsp;|&nbsp; ID: `8395053002`
+
+---
+### 🆕 GNC Engineer, Starlink Controls (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8394899002?gh_jid=8394899002)
+🕐 Updated: `2026-03-27T19:57:15-04:00` &nbsp;|&nbsp; ID: `8394899002`
+
+---
+### 🆕 GNC Engineer (Starship)
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8207767002?gh_jid=8207767002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8207767002`
+
+---
+### 🆕 GNC Engineer - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397612002?gh_jid=8397612002)
+🕐 Updated: `2026-03-27T19:56:45-04:00` &nbsp;|&nbsp; ID: `8397612002`
+
+---
+### 🆕 Ground Network Specialist (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Remote - WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8467055002?gh_jid=8467055002)
+🕐 Updated: `2026-03-30T17:07:59-04:00` &nbsp;|&nbsp; ID: `8467055002`
+
+---
+### 🆕 Ground Network Specialist (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488406002?gh_jid=8488406002)
+🕐 Updated: `2026-04-01T15:55:59-04:00` &nbsp;|&nbsp; ID: `8488406002`
+
+---
+### 🆕 Hardware Design Engineer - Electrical, Satellites (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8457364002?gh_jid=8457364002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8457364002`
+
+---
+### 🆕 Hardware Development Engineer, Failure Analysis (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420461002?gh_jid=8420461002)
+🕐 Updated: `2026-03-27T19:12:50-04:00` &nbsp;|&nbsp; ID: `8420461002`
+
+---
+### 🆕 Hardware Development Engineer, Gateway Failure Analysis (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8440611002?gh_jid=8440611002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8440611002`
+
+---
+### 🆕 Hardware Development Engineer, PCBA Manufacturing (Starlink) 
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8340749002?gh_jid=8340749002)
+🕐 Updated: `2026-03-27T19:29:44-04:00` &nbsp;|&nbsp; ID: `8340749002`
+
+---
+### 🆕 Hardware Development Engineer - Power Electronics (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387960002?gh_jid=8387960002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8387960002`
+
+---
+### 🆕 Hardware Development Engineer, Transceivers (Starlink)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357162002?gh_jid=8357162002)
+🕐 Updated: `2026-03-30T17:55:33-04:00` &nbsp;|&nbsp; ID: `8357162002`
+
+---
+### 🆕 Hardware Engineer, Gateways & Customer Hardware (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490691002?gh_jid=8490691002)
+🕐 Updated: `2026-04-01T20:21:00-04:00` &nbsp;|&nbsp; ID: `8490691002`
+
+---
+### 🆕 Hardware Reliability Engineer, Components (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426161002?gh_jid=8426161002)
+🕐 Updated: `2026-04-14T20:21:42-04:00` &nbsp;|&nbsp; ID: `8426161002`
+
+---
+### 🆕 Hardware Reliability Engineer, Electrical (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8489910002?gh_jid=8489910002)
+🕐 Updated: `2026-04-14T20:22:29-04:00` &nbsp;|&nbsp; ID: `8489910002`
+
+---
+### 🆕 Hardware Reliability Engineer, PCB (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487667002?gh_jid=8487667002)
+🕐 Updated: `2026-04-01T12:01:17-04:00` &nbsp;|&nbsp; ID: `8487667002`
+
+---
+### 🆕 Hardware Reliability Engineer (Starlink)
+**spacex** · Starlink Satellite Reliability
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397426002?gh_jid=8397426002)
+🕐 Updated: `2026-03-31T17:36:18-04:00` &nbsp;|&nbsp; ID: `8397426002`
+
+---
+### 🆕 Hardware Reliability Engineer (Starlink Aviation)
+**spacex** · Starlink Aviation Reliability
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8378489002?gh_jid=8378489002)
+🕐 Updated: `2026-04-01T17:43:11-04:00` &nbsp;|&nbsp; ID: `8378489002`
+
+---
+### 🆕 Hardware Reliability Engineer (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397640002?gh_jid=8397640002)
+🕐 Updated: `2026-04-14T20:22:43-04:00` &nbsp;|&nbsp; ID: `8397640002`
+
+---
+### 🆕 Hardware Reliability Specialist (Starlink) 
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8424405002?gh_jid=8424405002)
+🕐 Updated: `2026-03-30T17:33:43-04:00` &nbsp;|&nbsp; ID: `8424405002`
+
+---
+### 🆕 Hardware Test Automation Engineer, Satellites (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8440972002?gh_jid=8440972002)
+🕐 Updated: `2026-04-06T20:30:16-04:00` &nbsp;|&nbsp; ID: `8440972002`
+
+---
+### 🆕 Hardware Test Engineer (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8221524002?gh_jid=8221524002)
+🕐 Updated: `2026-03-27T14:25:18-04:00` &nbsp;|&nbsp; ID: `8221524002`
+
+---
+### 🆕 Hardware Test Engineer (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497592002?gh_jid=8497592002)
+🕐 Updated: `2026-04-08T13:06:11-04:00` &nbsp;|&nbsp; ID: `8497592002`
+
+---
+### 🆕 Hardware Test Specialist, Failure Analysis (Gateway)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420958002?gh_jid=8420958002)
+🕐 Updated: `2026-04-09T12:18:04-04:00` &nbsp;|&nbsp; ID: `8420958002`
+
+---
+### 🆕 High Performance Computing (HPC) Systems Engineer
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8393331002?gh_jid=8393331002)
+🕐 Updated: `2026-04-01T17:36:16-04:00` &nbsp;|&nbsp; ID: `8393331002`
+
+---
+### 🆕 High-Speed Electro-Optical IC Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8405108002?gh_jid=8405108002)
+🕐 Updated: `2026-03-30T17:58:42-04:00` &nbsp;|&nbsp; ID: `8405108002`
+
+---
+### 🆕 HVAC Programmer
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497590002?gh_jid=8497590002)
+🕐 Updated: `2026-04-07T19:15:14-04:00` &nbsp;|&nbsp; ID: `8497590002`
+
+---
+### 🆕 IC Package Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8356899002?gh_jid=8356899002)
+🕐 Updated: `2026-03-27T20:04:39-04:00` &nbsp;|&nbsp; ID: `8356899002`
+
+---
+### 🆕 IC Packaging Automation Engineer, Electrical (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8342104002?gh_jid=8342104002)
+🕐 Updated: `2026-04-01T20:18:33-04:00` &nbsp;|&nbsp; ID: `8342104002`
+
+---
+### 🆕 IC Packaging Automation Engineer, Software (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8342125002?gh_jid=8342125002)
+🕐 Updated: `2026-04-01T20:15:55-04:00` &nbsp;|&nbsp; ID: `8342125002`
+
+---
+### 🆕 IC Packaging Test Engineer, Silicon Technology (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8229571002?gh_jid=8229571002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8229571002`
+
+---
+### 🆕 Industrial Automation Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8215916002?gh_jid=8215916002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8215916002`
+
+---
+### 🆕 Industrial Controls Specialist
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470554002?gh_jid=8470554002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8470554002`
+
+---
+### 🆕 Industrial Controls Technician
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470549002?gh_jid=8470549002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8470549002`
+
+---
+### 🆕 Instructional Designer (Learning & Development)
+**spacex** · Human Resources
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506845002?gh_jid=8506845002)
+🕐 Updated: `2026-04-14T16:28:01-04:00` &nbsp;|&nbsp; ID: `8506845002`
+
+---
+### 🆕 Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8418457002?gh_jid=8418457002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8418457002`
+
+---
+### 🆕 Instrumentation & Controls Specialist, Water Treatment (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8344331002?gh_jid=8344331002)
+🕐 Updated: `2026-04-01T20:35:21-04:00` &nbsp;|&nbsp; ID: `8344331002`
+
+---
+### 🆕 Integration Engineer (Starship)
+**spacex** · Booster Integration Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8194813002?gh_jid=8194813002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8194813002`
+
+---
+### 🆕 Integration & Test Engineer (Bus & Payload Sub-Assemblies)
+**spacex** · Starlink Satellite Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8340842002?gh_jid=8340842002)
+🕐 Updated: `2026-04-01T18:48:40-04:00` &nbsp;|&nbsp; ID: `8340842002`
+
+---
+### 🆕 Integration & Test Engineer (Falcon)   
+**spacex** · Falcon Integration West
+📍 Vandenberg, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8206961002?gh_jid=8206961002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8206961002`
+
+---
+### 🆕 Integration & Test Engineer (Starlink)
+**spacex** · Starlink Satellite Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402791002?gh_jid=8402791002)
+🕐 Updated: `2026-04-10T20:27:13-04:00` &nbsp;|&nbsp; ID: `8402791002`
+
+---
+### 🆕 Integration & Test Engineer (Starlink Propulsion)
+**spacex** · Starlink Satellite Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8463069002?gh_jid=8463069002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8463069002`
+
+---
+### 🆕 International Infrastructure Operations Specialist (Starlink)
+**spacex** · Starlink Ground Infrastructure Operations
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8381871002?gh_jid=8381871002)
+🕐 Updated: `2026-04-01T17:53:16-04:00` &nbsp;|&nbsp; ID: `8381871002`
+
+---
+### 🆕 IT Infrastructure Engineer, Virtualization & Hardware
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8451903002?gh_jid=8451903002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8451903002`
+
+---
+### 🆕 IT Network Engineer
+**spacex** · Information Technology - Corporate
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399515002?gh_jid=8399515002)
+🕐 Updated: `2026-03-31T16:58:26-04:00` &nbsp;|&nbsp; ID: `8399515002`
+
+---
+### 🆕 IT Network Engineer, Launch
+**spacex** · Information Technology - Corporate
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8463201002?gh_jid=8463201002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8463201002`
+
+---
+### 🆕 IT Network Engineer - Top Secret Clearance
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456295002?gh_jid=8456295002)
+🕐 Updated: `2026-04-14T18:59:23-04:00` &nbsp;|&nbsp; ID: `8456295002`
+
+---
+### 🆕 IT Network Infrastructure Engineer, Launch
+**spacex** · Information Technology - Corporate
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8458745002?gh_jid=8458745002)
+🕐 Updated: `2026-03-30T17:30:36-04:00` &nbsp;|&nbsp; ID: `8458745002`
+
+---
+### 🆕 IT Network Infrastructure Technician
+**spacex** · Information Technology - Network Infrastructure
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459561002?gh_jid=8459561002)
+🕐 Updated: `2026-04-09T13:22:45-04:00` &nbsp;|&nbsp; ID: `8459561002`
+
+---
+### 🆕 IT Systems Administrator, Launch
+**spacex** · Information Technology - Business
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8469052002?gh_jid=8469052002)
+🕐 Updated: `2026-04-06T12:37:29-04:00` &nbsp;|&nbsp; ID: `8469052002`
+
+---
+### 🆕 IT Systems Administrator, Launch
+**spacex** · Information Technology - Business
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8318970002?gh_jid=8318970002)
+🕐 Updated: `2026-04-06T12:34:24-04:00` &nbsp;|&nbsp; ID: `8318970002`
+
+---
+### 🆕 IT Systems Administrator, Launch
+**spacex** · Information Technology - Business
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8382358002?gh_jid=8382358002)
+🕐 Updated: `2026-04-09T13:21:41-04:00` &nbsp;|&nbsp; ID: `8382358002`
+
+---
+### 🆕 IT Systems Engineer, DevOps
+**spacex** · Information Technology - Corporate
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417752002?gh_jid=8417752002)
+🕐 Updated: `2026-03-27T19:45:57-04:00` &nbsp;|&nbsp; ID: `8417752002`
+
+---
+### 🆕 IT Systems Engineer, Launch
+**spacex** · Information Technology - Business
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8233514002?gh_jid=8233514002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8233514002`
+
+---
+### 🆕 IT Systems Engineer - Top Secret Clearance
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8245295002?gh_jid=8245295002)
+🕐 Updated: `2026-04-14T19:03:24-04:00` &nbsp;|&nbsp; ID: `8245295002`
+
+---
+### 🆕 IT Windows Systems Engineer - Top Secret Clearance
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8499548002?gh_jid=8499548002)
+🕐 Updated: `2026-04-14T19:03:35-04:00` &nbsp;|&nbsp; ID: `8499548002`
+
+---
+### 🆕 Kubernetes Platform Infrastructure Engineer (Starlink)
+**spacex** · Starlink Site Reliability Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391130002?gh_jid=8391130002)
+🕐 Updated: `2026-03-31T17:50:53-04:00` &nbsp;|&nbsp; ID: `8391130002`
+
+---
+### 🆕 Launch Engineer, Fluids (Starship)
+**spacex** · Starship Pad Engineering - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8205076002?gh_jid=8205076002)
+🕐 Updated: `2026-04-06T10:34:28-04:00` &nbsp;|&nbsp; ID: `8205076002`
+
+---
+### 🆕 ASIC Design Verification Engineer
+**waymo** · Compute (7LR)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7656843)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7656843`
+
+---
+### 🆕 Back-End Senior Software Engineer, Simulation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, United States; New York City, NY, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7633073)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7633073`
+
+---
+### 🆕 Business Continuity Planning Engineer, Lead 
+**waymo** · GPS Offices/Labs/Mfg (69Z)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7485673)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7485673`
+
+---
+### 🆕 Digital Engineering Program Lead
+**waymo** · IT (6D3)
+📍 Mountain View, CA USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7435927)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7435927`
+
+---
+### 🆕 Director of AI Foundations, Foundation Model Evaluation & Integration
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7473464)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7473464`
+
+---
+### 🆕 Director, Systems Engineering
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7551076)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7551076`
+
+---
+### 🆕 Electrical Design Validation Engineer 
+**waymo** · Signal (83K)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7484598)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7484598`
+
+---
+### 🆕 Embedded Software Technical Lead & Manager, Simulation
+**waymo** · ESWE Pose and Motion Control (7SI)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7361509)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7361509`
+
+---
+### 🆕 Functional Safety Engineer
+**waymo** · Safety (7GB)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7435420)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7435420`
+
+---
+### 🆕 Hardware Engineer, LIDAR Performance Validation
+**waymo** · Laser (75X)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7808260)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7808260`
+
+---
+### 🆕 Hardware Test Development Engineer
+**waymo** · Testing and Calibration (7LQ)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7593435)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7593435`
+
+---
+### 🆕 Machine Learning Engineer, 3D Object Detection  (PhD New Grad)
+**waymo** · Perception (7LT)
+📍 Mountain View, CA USA;  San Francisco, CA USA; &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7539786)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7539786`
+
+---
+### 🆕 Machine Learning Engineer, Data & Systems 
+**waymo** · Perception (7LT)
+📍 Mountain View, California, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7446301)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7446301`
+
+---
+### 🆕 Machine Learning Engineer, Driver Understanding and Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7455853)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7455853`
+
+---
+### 🆕 Machine Learning Engineer (Infra), Driver Understanding and Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7819946)
+🕐 Updated: `2026-04-17T15:03:14-04:00` &nbsp;|&nbsp; ID: `7819946`
+
+---
+### 🆕 Machine Learning Engineer - Mapping
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7429811)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7429811`
+
+---
+### 🆕 Machine Learning Engineer - Mapping
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7429791)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7429791`
+
+---
+### 🆕 Machine Learning Engineer, Mapping
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7090492)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7090492`
+
+---
+### 🆕 Machine Learning Engineer, ML Flywheel
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7426598)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7426598`
+
+---
+### 🆕 Machine Learning Engineer, Model Optimization
+**waymo** · Perception (7LT)
+📍 Mountain View, California, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7446322)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7446322`
+
+---
+### 🆕 Machine Learning Engineer, Perception Modeling
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7446279)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7446279`
+
+---
+### 🆕 Machine Learning Engineer, Prediction & Planning
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6506689)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6506689`
+
+---
+### 🆕 Machine Learning Engineer, Runtime & Optimization
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6506008)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6506008`
+
+---
+### 🆕 Machine Learning Engineer, Simulation Realism
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6499165)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6499165`
+
+---
+### 🆕 Machine Learning Engineer, Simulation Realism 
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6688617)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6688617`
+
+---
+### 🆕 Manufacturing Design Engineer (Japanese Bilingual)
+**waymo** · Mfg (JDS)
+📍 Phoenix, Arizona, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7589892)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7589892`
+
+---
+### 🆕 Mechanical Engineer, Vehicle Engineering
+**waymo** · Vehicle (75W)
+📍 Mountain View, CA, USA ; Novi, MI, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7409556)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7409556`
+
+---
+### 🆕 ML Accelerator Architect
+**waymo** · Compute (7LR)
+📍 Mountain View, CA, US; New York City, NY, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7509005)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7509005`
+
+---
+### 🆕 ML Engineer, Foundation Model Infrastructure
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7536801)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7536801`
+
+---
+### 🆕 ML Microarchitect
+**waymo** · Compute (7LR)
+📍 Mountain View, California  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7616808)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7616808`
+
+---
+### 🆕 Network Security Engineer 
+**waymo** · IT (6D3)
+📍 Chicago ,IL, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7435894)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7435894`
+
+---
+### 🆕 OEM Platform Integration Engineer
+**waymo** · HW Systems (7SH)
+📍 Mountain View, CA, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7561934)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7561934`
+
+---
+### 🆕 Onboard Developer Platform Software Engineer
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7461052)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7461052`
+
+---
+### 🆕 Onboard Frameworks Software Engineer
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7412386)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7412386`
+
+---
+### 🆕 Onboard Infrastructure Software Engineer
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7461103)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7461103`
+
+---
+### 🆕 People Business Partner - Engineering
+**waymo** · HR (67F)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7680536)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7680536`
+
+---
+### 🆕 Platform Enablement Operations Manager
+**waymo** · ProdOps (WY1)
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7743717)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7743717`
+
+---
+### 🆕 Principal Software Engineer, ML Flywheel Technical Lead
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7545007)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7545007`
+
+---
+### 🆕 Principal Software Engineer, ML System Architect
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7773177)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7773177`
+
+---
+### 🆕 Principal Software Engineer, Perception Pretraining
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6989523)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6989523`
+
+---
+### 🆕 Principal Software Engineer, Simulation Efficiency Lead
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7351189)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7351189`
+
+---
+### 🆕 Product Manager, Perception ML Foundations
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7403358)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7403358`
+
+---
+### 🆕 Product Quality Engineer
+**waymo** · Other SDS Systems (77O)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7684041)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7684041`
+
+---
+### 🆕 Program Manager, ML Data
+**waymo** · Labeling (SQA)
+📍 Mountain View, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7656333)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7656333`
+
+---
+### 🆕 Program Manager, New Markets & Platforms
+**waymo** · Triage (SQW)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7458409)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7458409`
+
+---
+### 🆕 Program Manager-RO Operations - Infrastructure Enablement
+**waymo** · RHO - Market Mgmt (GWE)
+📍 Dallas, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7536206)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7536206`
+
+---
+### 🆕 Program Manager, Software Quality Safety Operations
+**waymo** · MPCI (SQZ)
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7793817)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7793817`
+
+---
+### 🆕 Research Scientist, RL for Autonomous Planning & World Modeling  
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7469425)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7469425`
+
+---
+### 🆕 Risk Management Engineer
+**waymo** · Safety (7GB)
+📍 San Francisco, CA, USA; Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7697642)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7697642`
+
+---
+### 🆕 Senior Android Engineer
+**waymo** · CSI (7LV)
+📍 Mountain View, California ; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6976239)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6976239`
+
+---
+### 🆕 Senior Android Engineer, In-Car Experience Infrastructure 
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7759769)
+🕐 Updated: `2026-04-17T19:53:10-04:00` &nbsp;|&nbsp; ID: `7759769`
+
+---
+### 🆕 Senior Android Platform Engineer
+**waymo** · CSI (7LV)
+📍 San Francisco, CA, USA; Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7382506)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7382506`
+
+---
+### 🆕 Senior Backend Engineer, Security
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA ; San Francsico, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7347335)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7347335`
+
+---
+### 🆕 Senior Formal Verification Engineer
+**waymo** · Compute (7LR)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7593534)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7593534`
+
+---
+### 🆕 Senior Fullstack Engineer, Expansion Tooling
+**waymo** · CSI (7LV)
+📍 San Francisco, CA, USA; Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7683230)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7683230`
+
+---
+### 🆕 Senior Fullstack Engineer, Waymo for Business
+**waymo** · CSI (7LV)
+📍 San Francisco, CA, USA; Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7669326)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7669326`
+
+---
+### 🆕 Senior Fullstack Software Engineer, Workshop Management
+**waymo** · CSI (7LV)
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7426952)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7426952`
+
+---
+### 🆕 Senior Machine Learning Engineer, Computer Vision/VLM
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7249525)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7249525`
+
+---
+### 🆕 Senior Machine Learning Engineer, Driver Understanding and Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456078)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7456078`
+
+---
+### 🆕 Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7819951)
+🕐 Updated: `2026-04-17T15:03:21-04:00` &nbsp;|&nbsp; ID: `7819951`
+
+---
+### 🆕 Senior Machine Learning Engineer, Perception
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7767649)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7767649`
+
+---
+### 🆕 Senior Machine Learning Engineer, Perception LLM/VLM
+**waymo** · Perception (7LT)
+📍 Mountain View, CA USA;  San Francisco, CA USA; &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7488596)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7488596`
+
+---
+### 🆕 Senior Machine Learning Engineer, Prediction & Planning, System Architecture
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7826591)
+🕐 Updated: `2026-04-17T15:24:17-04:00` &nbsp;|&nbsp; ID: `7826591`
+
+---
+### 🆕 Senior Machine Learning Engineer, Sensor Validation
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7454241)
+🕐 Updated: `2026-04-18T13:41:20-04:00` &nbsp;|&nbsp; ID: `7454241`
+
+---
+### 🆕 Senior Machine Learning Engineer, Simulation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7430187)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7430187`
+
+---
+### 🆕 Senior Machine Learning Engineer – VLM/LLM Evaluation
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7644924)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7644924`
+
+---
+### 🆕 Senior ML Accelerator Modeling Engineer
+**waymo** · Compute (7LR)
+📍 Mountain View, CA, USA; New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7508897)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7508897`
+
+---
+### 🆕 Senior Motion Systems Engineer, Actuators
+**waymo** · HW Systems (7SH)
+📍 Mountain View, Ca, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7490150)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7490150`
+
+---
+### 🆕 Senior Network Engineer 
+**waymo** · IT (6D3)
+📍 Washington, DC, USA; New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7295723)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7295723`
+
+---
+### 🆕 Senior Product Data Scientist, Marketplace Algorithms ML
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7416740)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7416740`
+
+---
+### 🆕 Senior Product Manager, AI Data Mining
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7676116)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7676116`
+
+---
+### 🆕 Senior Research Scientist, Foundation Model for Simulation
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA USA; San Francisco, CA USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7159299)
+🕐 Updated: `2026-04-17T16:06:14-04:00` &nbsp;|&nbsp; ID: `7159299`
+
+---
+### 🆕 Senior Research Scientist, Foundation Model (LLM/VLM)
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7572081)
+🕐 Updated: `2026-04-17T16:06:14-04:00` &nbsp;|&nbsp; ID: `7572081`
+
+---
+### 🆕 Senior Research Scientist, Sensor Simulation
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7723293)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7723293`
+
+---
+### 🆕 Senior Research Scientist, World Action Modeling
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, US; San Francisco, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7766821)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7766821`
+
+---
+### 🆕 Senior Security Engineer
+**waymo** · CSI (7LV)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7160937)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7160937`
+
+---
+### 🆕 Senior Security Engineer 
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7272586)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7272586`
+
+---
+### 🆕 Senior Software Engineer, Behavior Evaluation
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7760454)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7760454`
+
+---
+### 🆕 Senior Software Engineer, Driving Behaviors
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7351058)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7351058`
+
+---
+### 🆕 Senior Software Engineer, Eval Authoring APIs
+**waymo** · Simulation (7XW)
+📍 Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7747032)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7747032`
+
+---
+### 🆕 Senior Software Engineer, Event Response
+**waymo** · CSI (7LV)
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7430650)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7430650`
+
+---
+### 🆕 Senior Software Engineer, Fleet Monitoring & Platform
+**waymo** · CSI (7LV)
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7430666)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7430666`
+
+---
+### 🆕 Senior Software Engineer, Inertial Navigation
+**waymo** · ESWE Pose and Motion Control (7SI)
+📍 Mountain View, California, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7510368)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7510368`
+
+---
+### 🆕 Senior Software Engineer, Large Model Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7458278)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7458278`
+
+---
+### 🆕 Senior Software Engineer, Linux Kernel
+**waymo** · CSI (7LV)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7028511)
+🕐 Updated: `2026-04-17T17:55:50-04:00` &nbsp;|&nbsp; ID: `7028511`
+
+---
+### 🆕 Senior Software Engineer - Mapping - Field Response
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7426810)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7426810`
+
+---
+### 🆕 Senior Software Engineer, Motion Controls
+**waymo** · ESWE Pose and Motion Control (7SI)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7605770)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7605770`
+
+---
+### 🆕 Senior Software Engineer - Multiverse
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6773081)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6773081`
+
+---
+### 🆕 Senior Software Engineer, Onboard Software Integrity Infrastructure
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7713195)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7713195`
+
+---
+### 🆕 Senior Software Engineer, Perception Verification
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7689282)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7689282`
+
+---
+### 🆕 Senior Software Engineer, Planner
+**waymo** · Planner (7LU)
+📍 Mountain View, California, USA; San Francisco, California; USA; Pittsburg Pennsylvania, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456936)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7456936`
+
+---
+### 🆕 Senior Software Engineer, Planner Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7458391)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7458391`
+
+---
+### 🆕 Senior Software Engineer, Planner Reasoning
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7336953)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7336953`
+
+---
+### 🆕 Senior Software Engineer, Planner Reasoning, Onboard Infrastructure
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7460969)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7460969`
+
+---
+### 🆕 Senior Software Engineer, Post-Training & RL Frameworks
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7334481)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7334481`
+
+---
+### 🆕 Senior Software Engineer, Quantitative Evaluations
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7477172)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7477172`
+
+---
+### 🆕 Senior Software Engineer, Reliability Infrastructure
+**waymo** · ESWE Pose and Motion Control (7SI)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7429795)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7429795`
+
+---
+### 🆕 Senior Software Engineer, Robotics
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456696)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7456696`
+
+---
+### 🆕 Senior Software Engineer, Sensor Test and Calibration
+**waymo** · Testing and Calibration (7LQ)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7749587)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7749587`
+
+---
+### 🆕 Senior Software Engineer, Simulation Infrastructure
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7430553)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7430553`
+
+---
+### 🆕 Senior Software Engineer, Simulation ML Infrastructure
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7429718)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7429718`
+
+---
+### 🆕 Senior Software Engineer, Simulation, Vehicle & Autonomous Driving Realism
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7540809)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7540809`
+
+---
+### 🆕 Senior Software Engineer, Simulator Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6507799)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6507799`
+
+---
+### 🆕 Senior Software Engineer, Simulator Platform
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7222566)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7222566`
+
+---
+### 🆕 Senior Software Engineer, Training Efficiency
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7121224)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7121224`
+
+---
+### 🆕 Senior Software Engineer, Vehicle Platforms C++
+**waymo** · ESWE Pose and Motion Control (7SI)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7822756)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7822756`
+
+---
+### 🆕 Senior Staff Machine Learning Engineer, Depot Automation
+**waymo** · Hardware Engineering
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7774356)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7774356`
+
+---
+### 🆕 Senior Staff Machine Learning Engineer, Perception
+**waymo** · Perception (7LT)
+📍 Mountain View, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6809263)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6809263`
+
+---
+### 🆕 Senior Staff Machine Learning Engineer, Simulation
+**waymo** · Simulation (7XW)
+📍 Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7430495)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7430495`
+
+---
+### 🆕 Senior/Staff ML Engineer, 3D/4D World Modeling, Simulation 
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6669555)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6669555`
+
+---
+### 🆕 Senior Staff ML Engineer, Driver Understanding and Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View,  CA, United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7421737)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7421737`
+
+---
+### 🆕 Senior Staff Software Engineer
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7449213)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7449213`
+
+---
+### 🆕 Senior Staff Software Engineer, Capacity Optimization
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7378817)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7378817`
+
+---
+### 🆕 Senior Staff Software Engineer, Model Post Training
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA;  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7580705)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7580705`
+
+---
+### 🆕 Senior Staff Software Engineer, Perception Data
+**waymo** · Perception (7LT)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7455962)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7455962`
+
+---
+### 🆕 Senior Staff Software Engineer, Simulation 
+**waymo** · Simulation (7XW)
+📍 San Francisco, CA, USA; Mountain View, CA, USA; New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7426774)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7426774`
+
+---
+### 🆕 Senior Staff Software Engineer, Simulator Efficiency
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7540248)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7540248`
+
+---
+### 🆕 Senior Staff Software Engineer, TLM
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7429968)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7429968`
+
+---
+### 🆕 Senior Staff Technical Lead Manager, Perception Optimization
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7495240)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7495240`
+
+---
+### 🆕 Senior Studio Engineer
+**waymo** · Industrial Design (78N)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7442170)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7442170`
+
+---
+### 🆕 Senior System Safety Engineer, Operations & Fleet Response
+**waymo** · Safety (7GB)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7763316)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7763316`
+
+---
+### 🆕 Senior Systems Engineer, Depot Automation
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7632784)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7632784`
+
+---
+### 🆕 Senior Systems Engineer, Fault Protection
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7748416)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7748416`
+
+---
+### 🆕 Senior Systems Engineer, Rider Safety, Compliance, & Experience
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7497046)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7497046`
+
+---
+### 🆕 Senior Systems Test Engineer, OEM TL
+**waymo** · Systems (78I)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7625366)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7625366`
+
+---
+### 🆕 Senior Technical Program Manager, Infrastructure
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7403834)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7403834`
+
+---
+### 🆕 Senior Technical Program Manager, Simulator
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7442190)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7442190`
+
+---
+### 🆕 Senior Vehicle Dynamics Simulation Engineer
+**waymo** · HW Systems (7SH)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7786381)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7786381`
+
+---
+### 🆕 Senior Vehicle Systems Test Engineer, Thermal and Networks
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7497035)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7497035`
+
+---
+### 🆕 Senior Wireless Test Engineer
+**waymo** · Compute (7LR)
+📍 Mountain View, Ca, USA; Fremont, Ca, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7483065)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7483065`
+
+---
+### 🆕 Service Quality Manager, Training Specialist, Fleet Development and Readiness
+**waymo** · FDR - Central (F7U)
+📍 Phoenix, AZ, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7441130)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7441130`
+
+---
+### 🆕 Signal Integrity Engineer
+**waymo** · Signal (83K)
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7683884)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7683884`
+
+---
+### 🆕 Software Engineer, Bulk/Interactive Inference
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7466529)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7466529`
+
+---
+### 🆕 Software Engineer, Embedded Systems / Robotics 
+**waymo** · ESWE Pose and Motion Control (7SI)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7429873)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7429873`
+
+---
+### 🆕 Software Engineer, GPU
+**waymo** · Compute (7LR)
+📍 Mountain View, CA, USA; New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7554830)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7554830`
+
+---
+### 🆕 Software Engineer, Labeling Infrastructure
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7416895)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7416895`
+
+---
+### 🆕 Software Engineer, Large Model Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7487849)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7487849`
+
+---
+### 🆕 Software Engineer, ML Tools
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7426718)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7426718`
+
+---
+### 🆕 Software Engineer, Model Lifecycle
+**waymo** · Perception (7LT)
+📍 Kirkland, Washington, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7609435)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7609435`
+
+---
+### 🆕 Software Engineer, Multiverse
+**waymo** · Simulation (7XW)
+📍 San Francisco, CA, USA; Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7531397)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7531397`
+
+---
+### 🆕 Software Engineer, Onboard Reliability Infra
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7461072)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7461072`
+
+---
+### 🆕 Software Engineer, Perception Evaluation
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7256244)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7256244`
+
+---
+### 🆕 Software Engineer, Perception Evaluation and Test Automation
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7449712)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7449712`
+
+---
+### 🆕 Software Engineer, Perception Optimization
+**waymo** · Perception (7LT)
+📍 Mountain View, California, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7450565)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7450565`
+
+---
+### 🆕 Software Engineer, Planner
+**waymo** · Planner (7LU)
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7459622)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7459622`
+
+---
+### 🆕 Software Engineer, Planner Reasoning
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7259110)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7259110`
+
+---
+### 🆕 Software Engineer, Planner Vehicle Dynamics
+**waymo** · Planner (7LU)
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7141380)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7141380`
+
+---
+### 🆕 Software Engineer, Privacy
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7547529)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7547529`
+
+---
+### 🆕 Software Engineer, Quantitative Evaluations
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7466534)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7466534`
+
+---
+### 🆕 Software Engineer, Sensor/Imaging
+**waymo** · Camera_ UX_ Positioning_ Domes (7LS)
+📍 Mountain View, CA, US; San Francisco, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7587455)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7587455`
+
+---
+### 🆕 Software Engineer, Simulator Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, United States; San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6562547)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6562547`
+
+---
+### 🆕 Software Engineer, Statistical Evaluation and Sampling
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7543520)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7543520`
+
+---
+### 🆕 Software Engineer, Strategic SWE Reserve
+**waymo** · Planner (7LU)
+📍 Mountain View,  California, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7622998)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7622998`
+
+---
+### 🆕 Software Engineer, Test Automation Infrastructure
+**waymo** · Systems (78I)
+📍 San Francisco, CA, US; Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7532414)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7532414`
+
+---
+### 🆕 Software Engineer, Trip Platform
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7433503)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7433503`
+
+---
+### 🆕 Software Quality Operations Specialist
+**waymo** · Triage (SQW)
+📍 Mountain View, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7458098)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7458098`
+
+---
+### 🆕 Software Quality Operations Specialist 
+**waymo** · Triage (SQW)
+📍 Remote, United States of America &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7747197)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7747197`
+
+---
+### 🆕 Software Quality Operations Specialist, Domain Expansion
+**waymo** · MPCI (SQZ)
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7421839)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7421839`
+
+---
+### 🆕 Software Quality Ops Scenarios Specialist
+**waymo** · Scenarios (SQE)
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456161)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7456161`
+
+---
+### 🆕 Software Quality Ops Scenarios Specialist
+**waymo** · Scenarios (SQE)
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456195)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7456195`
+
+---
+### 🆕 Software Technical Lead Manager, Test Automation Infrastructure
+**waymo** · Systems (78I)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7658914)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7658914`
+
+---
+### 🆕 Sr. Software Engineer, Core Platforms 
+**waymo** · CSI (7LV)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7571504)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7571504`
+
+---
+### 🆕 Sr System Engineer, Telematics
+**waymo** · CSI (7LV)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7438645)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7438645`
+
+---
+### 🆕 Sr Systems Engineer, Android Automotive
+**waymo** · CSI (7LV)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7438665)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7438665`
+
+---
+### 🆕 Staff Android Engineer, In-Car Experience
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, US; San Francisco, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7484320)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7484320`
+
+---
+### 🆕 Staff Equipment Engineer
+**waymo** · HW Equipment (7LP)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7749350)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7749350`
+
+---
+### 🆕 Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7438635)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7438635`
+
+---
+### 🆕 Staff Machine Learning Engineer, Prediction & Planning, System Architecture
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7822067)
+🕐 Updated: `2026-04-17T15:24:17-04:00` &nbsp;|&nbsp; ID: `7822067`
+
+---
+### 🆕 Staff Machine Learning Engineer, Simulation 
+**waymo** · Simulation (7XW)
+📍 New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7483051)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7483051`
+
+---
+### 🆕 Staff Machine Learning Engineer, Tech Lead Active Learning
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7719332)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7719332`
+
+---
+### 🆕 Staff Machine Learning Engineer – VLM/LLM Evaluation
+**waymo** · AI Foundations (7SJ)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7595124)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7595124`
+
+---
+### 🆕 Staff PCBA DFM and Manufacturing Engineer
+**waymo** · HW Equipment (7LP)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7671532)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7671532`
+
+---
+### 🆕 Staff Robotics Engineer 
+**waymo** · HW Equipment (7LP)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7788619)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7788619`
+
+---
+### 🆕 Staff Software Engineer, Backend In-Car Experience
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA; San Francisco, CA, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7569317)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7569317`
+
+---
+### 🆕 Staff Software Engineer, Capacity Optimization
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7766411)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7766411`
+
+---
+### 🆕 Staff Software Engineer/Data Scientist, Large Model Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7488246)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7488246`
+
+---
+### 🆕 Staff Software Engineer, Machine Learning, Planner Selection
+**waymo** · Planner (7LU)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7170802)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7170802`
+
+---
+### 🆕 Staff Software Engineer, Machine Learning- Route and Pin Quality
+**waymo** · Planner (7LU)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7224992)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7224992`
+
+---
+### 🆕 Staff Software Engineer, ML Frameworks & Efficiency
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7177351)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7177351`
+
+---
+### 🆕 Staff Software Engineer, Model Data Platform 
+**waymo** · Perception (7LT)
+📍 Mountain View, CA USA;  San Francisco, CA USA; &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7593522)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7593522`
+
+---
+### 🆕 Staff Software Engineer, Multiverse
+**waymo** · Simulation (7XW)
+📍 San Francisco, CA, USA; Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7531466)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7531466`
+
+---
+### 🆕 Staff Software Engineer, Perception Data
+**waymo** · Perception (7LT)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7274928)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7274928`
+
+---
+### 🆕 Staff Software Engineer, Quantitative Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, United States; San Francisco, California, United States; New York City, New York, United States. &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6901826)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6901826`
+
+---
+### 🆕 Staff Software Engineer, Simulator Evaluation
+**waymo** · Simulation (7XW)
+📍 Mountain View, California, United States; San Francisco, California, United States.  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7602321)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7602321`
+
+---
+### 🆕 Staff Software Engineer / Technical Lead Manager 
+**waymo** · CSI (7LV)
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7680942)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7680942`
+
+---
+### 🆕 Staff Software Engineer / Technical Lead Manager - Mapping
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7307008)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7307008`
+
+---
+### 🆕 Staff Software Engineer / Technical Lead Manager - Mapping   
+**waymo** · CSI (7LV)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7306995)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7306995`
+
+---
+### 🆕 Staff Software Engineer, Workshop Management
+**waymo** · CSI (7LV)
+📍 San Francisco, CA, USA ; Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7426946)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7426946`
+
+---
+### 🆕 Staff Software Enigineer, Planner, Route and Motion Generation
+**waymo** · Planner (7LU)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7345040)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7345040`
+
+---
+### 🆕 Staff Technical Lead Manager, ML Sensor Validation
+**waymo** · Perception (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7094669)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7094669`
+
+---
+### 🆕 Staff Technical Lead Manager, Planner Reasoning
+**waymo** · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7486113)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7486113`
+
+---
+### 🆕 Staff Technical Program Manager, Simulation Infrastructure Resource Management 
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7600766)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7600766`
+
+---
+### 🆕 Strategic Partnership Development Manager
+**waymo** · Automative (WDP)
+📍 Mountain View, CA, USA ; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7251804)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7251804`
+
+---
+### 🆕 Strategic Partnerships Development Manager
+**waymo** · Partnerships/BD (PPL)
+📍 US, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7782847)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7782847`
+
+---
+### 🆕 Strategic Partnerships Development Manager - Airports
+**waymo** · Partnerships/BD (PPL)
+📍 US, Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7782792)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7782792`
+
+---
+### 🆕 Strategic Partnerships Development Manager, Utilities
+**waymo** · Partnerships/BD (PPL)
+📍 US, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7782744)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7782744`
+
+---
+### 🆕 System Safety Engineer - Onboard
+**waymo** · Safety (7GB)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7435463)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7435463`
+
+---
+### 🆕 Systems Engineer, Behavioral Requirements
+**waymo** · Systems (78I)
+📍 Mountain View, CA, US; San Francisco, CA,US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7545185)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7545185`
+
+---
+### 🆕 Systems Engineer, Motion Control 
+**waymo** · HW Systems (7SH)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7586057)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7586057`
+
+---
+### 🆕 Systems Engineer, Perception
+**waymo** · Systems (78I)
+📍 Mountain View, CA, US; San Francisco, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7367785)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7367785`
+
+---
+### 🆕 Systems Engineer, Power Systems (Low Voltage)
+**waymo** · HW Systems (7SH)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7572411)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7572411`
+
+---
+### 🆕 Systems Engineer, Sensing 
+**waymo** · Systems (78I)
+📍 Mountain View, CA, US;San Francisco, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6511655)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `6511655`
+
+---
+### 🆕 Systems Integration Engineer
+**waymo** · HW Systems (7SH)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7804301)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7804301`
+
+---
+### 🆕 Systems Test Engineer, Commercialization Test Automation
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7702392)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7702392`
+
+---
+### 🆕 Systems Test Engineer, Motion Control
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7355055)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7355055`
+
+---
+### 🆕 Systems Test Engineer, Pipeline and Test Health
+**waymo** · Systems (78I)
+📍 Mountain View, CA, US; San Francisco, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7773691)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7773691`
+
+---
+### 🆕 Systems Test Engineer, Sensing
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7669316)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7669316`
+
+---
+### 🆕 Systems Test Engineer, Weather and Special Projects
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7822860)
+🕐 Updated: `2026-04-17T19:09:25-04:00` &nbsp;|&nbsp; ID: `7822860`
+
+---
+### 🆕 Tech Lead Manager, Hill-Climbing & Launch Eval
+**waymo** · Perception (7LT)
+📍 Mountain View, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7455999)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7455999`
+
+---
+### 🆕 Tech Lead  Manager ML Optimization
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7686010)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7686010`
+
+---
+### 🆕 Tech Lead Manager- Onboard Software Performance
+**waymo** · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7387093)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7387093`
+
+---
+### 🆕 Technical Lead Manager, Pipeline and Test Health
+**waymo** · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7658747)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7658747`
+
+---
+### 🆕 Technical Lead Manager, Planner
+**waymo** · Planner (7LU)
+📍 Mountain View, California, USA; New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7368927)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7368927`
+
+---
+### 🆕 Technical Lead Manager, Planner Tech
+**waymo** · Planner (7LU)
+📍 Mountain View, California, USA; San Francisco, California, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7460470)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7460470`
+
+---
+### 🆕 Technical Lead Manager, Simulator Efficiency 
+**waymo** · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7430440)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7430440`
+
+---
+### 🆕 Technical Program Manager, Enterprise Security
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7470834)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7470834`
+
+---
+### 🆕 Technical Program Manager, Hardware Programs 
+**waymo** · Other SDS Systems (77O)
+📍 Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7671186)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7671186`
+
+---
+### 🆕 Technical Program Manager, Onboard Systems
+**waymo** · Product (78L)
+📍 Mountain View, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7403855)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7403855`
+
+---
+### 🆕 Technical Program Manager, Systems Engineering
+**waymo** · Product (78L)
+📍 San Francisco, CA,US; Mountain View, CA, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7733791)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7733791`
+
+---
+### 🆕 Technical Recruiting Manager, Software Engineering
+**waymo** · Recruiting (6A0)
+📍 Mountain View, CA, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7518181)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7518181`
+
+---
+### 🆕 Vehicle Quality Engineer
+**waymo** · Mfg (JDS)
+📍 Phoenix, Arizona, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7584109)
+🕐 Updated: `2026-04-17T14:16:10-04:00` &nbsp;|&nbsp; ID: `7584109`
+
+---
+### 🆕 AI Systems Architect
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4671973006?gh_jid=4671973006)
+🕐 Updated: `2026-04-09T17:43:41-04:00` &nbsp;|&nbsp; ID: `4671973006`
+
+---
+### 🆕 AI Systems Engineer
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4671962006?gh_jid=4671962006)
+🕐 Updated: `2026-04-09T17:45:51-04:00` &nbsp;|&nbsp; ID: `4671962006`
+
+---
+### 🆕 Applied Research Scientist
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4570674006?gh_jid=4570674006)
+🕐 Updated: `2026-03-12T10:57:21-04:00` &nbsp;|&nbsp; ID: `4570674006`
+
+---
+### 🆕 Backend Engineer II
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4375888006?gh_jid=4375888006)
+🕐 Updated: `2026-03-25T21:47:35-04:00` &nbsp;|&nbsp; ID: `4375888006`
+
+---
+### 🆕 Backend Engineer, New Grad 
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4451556006?gh_jid=4451556006)
+🕐 Updated: `2026-03-12T10:57:21-04:00` &nbsp;|&nbsp; ID: `4451556006`
+
+---
+### 🆕 Business Development Associate
+**applovin** · Business Development - eCommerce
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4611567006?gh_jid=4611567006)
+🕐 Updated: `2026-03-17T06:26:28-04:00` &nbsp;|&nbsp; ID: `4611567006`
+
+---
+### 🆕 Business Development Associate
+**applovin** · Business Development - eCommerce
+📍 Los Angeles/Santa Monica, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4622998006?gh_jid=4622998006)
+🕐 Updated: `2026-03-16T17:47:20-04:00` &nbsp;|&nbsp; ID: `4622998006`
+
+---
+### 🆕 Cloud Network Engineer
+**applovin** · Operations - R&D
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4602474006?gh_jid=4602474006)
+🕐 Updated: `2026-03-12T10:57:21-04:00` &nbsp;|&nbsp; ID: `4602474006`
+
+---
+### 🆕 Director of Business Development, Consumer Apps
+**applovin** · Business Development - Apps
+📍 New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4645547006?gh_jid=4645547006)
+🕐 Updated: `2026-03-12T10:57:21-04:00` &nbsp;|&nbsp; ID: `4645547006`
+
+---
+### 🆕 Foundational Research Scientist
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4601725006?gh_jid=4601725006)
+🕐 Updated: `2026-03-12T10:57:21-04:00` &nbsp;|&nbsp; ID: `4601725006`
+
+---
+### 🆕 Lead Product Marketing Manager
+**applovin** · Platform Engineering
+📍 New York; Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4671540006?gh_jid=4671540006)
+🕐 Updated: `2026-04-09T14:52:08-04:00` &nbsp;|&nbsp; ID: `4671540006`
+
+---
+### 🆕 Manager, Business Development
+**applovin** · Business Operations - eCommerce
+📍 Los Angeles/Santa Monica, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4657264006?gh_jid=4657264006)
+🕐 Updated: `2026-03-12T10:57:21-04:00` &nbsp;|&nbsp; ID: `4657264006`
+
+---
+### 🆕 ML Infrastructure Engineer 
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4655740006?gh_jid=4655740006)
+🕐 Updated: `2026-03-17T14:57:21-04:00` &nbsp;|&nbsp; ID: `4655740006`
+
+---
+### 🆕 Solutions Engineer I
+**applovin** · Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4597152006?gh_jid=4597152006)
+🕐 Updated: `2026-03-12T10:57:21-04:00` &nbsp;|&nbsp; ID: `4597152006`
+
+---
+### 🆕 Account Development Representative
+**samsara** · Account Development Representative
+📍 Phoenix, Arizona, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7608838?gh_jid=7608838)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7608838`
+
+---
+### 🆕 Account Development Representative
+**samsara** · Account Development Representative
+📍 Atlanta, Georgia, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7607508?gh_jid=7607508)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7607508`
+
+---
+### 🆕 Account Development Representative (New Grad)
+**samsara** · Account Development Representative
+📍 Atlanta, Georgia, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7592553?gh_jid=7592553)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7592553`
+
+---
+### 🆕 Account Development Representative (New Grad)
+**samsara** · Account Development Representative
+📍 Phoenix, Arizona, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7607468?gh_jid=7607468)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7607468`
+
+---
+### 🆕 AI Engineer
+**samsara** · Business Systems
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7491153`
+
+---
+### 🆕 AI Product Manager, Business Technology
+**samsara** · Information Technology
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7763345?gh_jid=7763345)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7763345`
+
+---
+### 🆕 Associate Product Manager
+**samsara** · Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266615?gh_jid=7266615)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266615`
+
+---
+### 🆕 Atlassian Admin
+**samsara** · Information Technology
+📍 Remote - Edmonton &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7714154?gh_jid=7714154)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7714154`
+
+---
+### 🆕 Atlassian Admin
+**samsara** · Information Technology
+📍 Remote - Calgary &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7714152?gh_jid=7714152)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7714152`
+
+---
+### 🆕 Data Engineer II
+**samsara** · Revenue Operations
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7650290?gh_jid=7650290)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7650290`
+
+---
+### 🆕 Director, Field Sales Engineering
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7695309?gh_jid=7695309)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7695309`
+
+---
+### 🆕 Electrical Engineering Co-Op
+**samsara** · STCE & Maintenance
+📍 San Francisco - SF9 &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7581914?gh_jid=7581914)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7581914`
+
+---
+### 🆕 Enterprise Core Sales Engineer
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7368115?gh_jid=7368115)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7368115`
+
+---
+### 🆕 Enterprise Core Sales Engineer, Public Sector - Remote US MST/PST
+**samsara** · Sales Engineering
+📍 Remote - CO &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7558004?gh_jid=7558004)
+🕐 Updated: `2026-04-17T15:32:11-04:00` &nbsp;|&nbsp; ID: `7558004`
+
+---
+### 🆕 Field Sales Engineer II, Enterprise-Midwest/Northeast
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7564181?gh_jid=7564181)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7564181`
+
+---
+### 🆕 Field Sales Engineer II, Enterprise-Northeast
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7697637?gh_jid=7697637)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7697637`
+
+---
+### 🆕 Lead Full Stack Developer, Business Applications
+**samsara** · Business Systems
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266307?gh_jid=7266307)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266307`
+
+---
+### 🆕 Manager, Operations Program Management
+**samsara** · Global Ops Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7558150?gh_jid=7558150)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7558150`
+
+---
+### 🆕 Manager, Software Engineering - Mobile Platform
+**samsara** · Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266435?gh_jid=7266435)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266435`
+
+---
+### 🆕 Manufacturing Design Engineering Co-op (6 months)
+**samsara** · Global Ops Engineering
+📍 San Francisco - SF9 &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7811498?gh_jid=7811498)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7811498`
+
+---
+### 🆕 Manufacturing Design Engineering Intern - Summer Intern
+**samsara** · Global Ops Engineering
+📍 San Francisco - SF9 &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7768922?gh_jid=7768922)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7768922`
+
+---
+### 🆕 Mid-Market Sales Engineer - US North East
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7581969?gh_jid=7581969)
+🕐 Updated: `2026-04-16T23:02:44-04:00` &nbsp;|&nbsp; ID: `7581969`
+
+---
+### 🆕 Partner Solutions Sales Engineer
+**samsara** · Sales Engineering
+📍 Remote - SF Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7662841?gh_jid=7662841)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7662841`
+
+---
+### 🆕 Partner Specialist SE - Public Sector
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7723776?gh_jid=7723776)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7723776`
+
+---
+### 🆕 Principal Product Manager - AI Platform
+**samsara** · Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7484052?gh_jid=7484052)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7484052`
+
+---
+### 🆕 Sales Engineer 4 - Associate Specialist
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7717258`
+
+---
+### 🆕 Sales Engineer - Enterprise, TOLA
+**samsara** · Sales Engineering
+📍 Remote - TX &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7564110?gh_jid=7564110)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7564110`
+
+---
+### 🆕 Sales Engineer, Enterprise - US West
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7531457?gh_jid=7531457)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7531457`
+
+---
+### 🆕 Sales Engineer II - Specialist
+**samsara** · Sales Engineering
+📍 Remote - NYC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341443?gh_jid=7341443)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7341443`
+
+---
+### 🆕 Sales Engineer II - Specialist
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6782502?gh_jid=6782502)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `6782502`
+
+---
+### 🆕 Sales Engineer I, SE Desk ET
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7311741`
+
+---
+### 🆕 Sales Engineer - Mid-Market, CT/MT
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7187197?gh_jid=7187197)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7187197`
+
+---
+### 🆕 Sales Engineer - Mid-Market, ET
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7187159?gh_jid=7187159)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7187159`
+
+---
+### 🆕 Sales Engineer - Mid-Market, PT
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7187219?gh_jid=7187219)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7187219`
+
+---
+### 🆕 Sales Engineer, Public Sector Enterprise Core - Remote US Northeast
+**samsara** · Sales Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7493951?gh_jid=7493951)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7493951`
+
+---
+### 🆕 Senior Data Platform Engineer
+**samsara** · Business Systems
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266657?gh_jid=7266657)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266657`
+
+---
+### 🆕 Senior Hardware Reliability Engineer
+**samsara** · Hardware Engineering
+📍 San Francisco, CA, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7460051?gh_jid=7460051)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7460051`
+
+---
+### 🆕 Senior Hardware Systems Engineer
+**samsara** · Hardware Engineering
+📍 San Francisco - SF9 &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7291574?gh_jid=7291574)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7291574`
+
+---
+### 🆕 Senior Machine Learning Engineer - Edge AI
+**samsara** · Safety
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7327168?gh_jid=7327168)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7327168`
+
+---
+### 🆕 Senior Machine Learning Engineer - Platform
+**samsara** · Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266471`
+
+---
+### 🆕 Senior Manager, Computer Vision
+**samsara** · Safety AI
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7731751?gh_jid=7731751)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7731751`
+
+---
+### 🆕 Senior Marketing AI Data Engineer
+**samsara** · Marketing Systems & Intelligence
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7510710?gh_jid=7510710)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7510710`
+
+---
+### 🆕 Senior Mechanical Engineer (Product Design)
+**samsara** · Hardware Engineering
+📍 San Francisco - SF9 &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7525300?gh_jid=7525300)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7525300`
+
+---
+### 🆕 Senior Mobile Software Engineer - BLE / Connectivity
+**samsara** · STCE & Maintenance
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266447?gh_jid=7266447)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266447`
+
+---
+### 🆕 Senior/Principal Product Manager - Safety AI
+**samsara** · Safety
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7733571?gh_jid=7733571)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7733571`
+
+---
+### 🆕 Senior Program Manager, Sales Programs – AI
+**samsara** · Revenue Operations
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7742662?gh_jid=7742662)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7742662`
+
+---
+### 🆕 Senior Security Engineer - Threat Modeling   
+**samsara** · IT Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7554796?gh_jid=7554796)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7554796`
+
+---
+### 🆕 Senior Software Engineer, AI Platform
+**samsara** · Revenue Operations
+📍 Remote - CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266719?gh_jid=7266719)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266719`
+
+---
+### 🆕 Senior Software Engineer, Growth
+**samsara** · Marketing Systems & Intelligence
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7745837?gh_jid=7745837)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7745837`
+
+---
+### 🆕 Senior Software Engineer II, Developer Experience, Operational Excellence - US/Canada Eastern Time Zone
+**samsara** · Platform
+📍 Remote - Canada; Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7743836?gh_jid=7743836)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7743836`
+
+---
+### 🆕 Senior Software Engineer II - Mobile Platform
+**samsara** · Platform
+📍 Remote - SF Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266469?gh_jid=7266469)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266469`
+
+---
+### 🆕 Senior Software Engineer - Route Execution
+**samsara** · Telematics
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7569229?gh_jid=7569229)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7569229`
+
+---
+### 🆕 Senior Systems EPM
+**samsara** · Hardware Engineering
+📍 San Francisco - SF9 &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266465?gh_jid=7266465)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266465`
+
+---
+### 🆕 Software Engineer II, AI Platform
+**samsara** · Revenue Operations
+📍 Remote - CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7619925`
+
+---
+### 🆕 Solutions Integration Engineer
+**samsara** · Customer Success
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7610288?gh_jid=7610288)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7610288`
+
+---
+### 🆕 Sr. Automation Engineer (Infra)
+**samsara** · STCE & Maintenance
+📍 Remote - SF Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7610374?gh_jid=7610374)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7610374`
+
+---
+### 🆕 Sr. Engineering Program Manager
+**samsara** · Hardware Engineering
+📍 Remote - Taiwan &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7706338?gh_jid=7706338)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7706338`
+
+---
+### 🆕 Sr. Growth Engineer
+**samsara** · Marketing Systems & Intelligence
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7648713?gh_jid=7648713)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7648713`
+
+---
+### 🆕 Sr. Image Quality Architecture Engineer
+**samsara** · Hardware Engineering
+📍 Remote - Taiwan &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7767914?gh_jid=7767914)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7767914`
+
+---
+### 🆕 Sr. Image Quality Tuning Engineer
+**samsara** · Hardware Engineering
+📍 Remote - Taiwan &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7767916?gh_jid=7767916)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7767916`
+
+---
+### 🆕 Sr. Security Engineer I - Enterprise Security
+**samsara** · IT Security
+📍 Remote - CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7752492`
+
+---
+### 🆕 Staff Machine Learning Engineer - Edge AI
+**samsara** · Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266357`
+
+---
+### 🆕 Staff ML Engineer - ML Infrastructure
+**samsara** · Safety AI
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7721193`
+
+---
+### 🆕 Staff Mobile Engineer - Mobile Platform
+**samsara** · Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266713?gh_jid=7266713)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266713`
+
+---
+### 🆕 Staff Product Marketing Manager - AI
+**samsara** · Product Marketing
+📍 Remote - SF Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7768991?gh_jid=7768991)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7768991`
+
+---
+### 🆕 Staff Software Engineer
+**samsara** · Platform
+📍 Remote - SF Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7597673?gh_jid=7597673)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7597673`
+
+---
+### 🆕 Staff Software Engineer - CAM
+**samsara** · STCE & Maintenance
+📍 Remote - SF Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7588828`
+
+---
+### 🆕 Staff Software Engineer - Platform
+**samsara** · Platform
+📍 Remote - SF Bay Area &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266385?gh_jid=7266385)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7266385`
+
+---
+### 🆕 Staff Software Engineer - Security & Privacy
+**samsara** · Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7559244?gh_jid=7559244)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7559244`
+
+---
+### 🆕 Technical Program Manager
+**samsara** · Customer Success
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7298858?gh_jid=7298858)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7298858`
+
+---
+### 🆕 Technical Support Engineer
+**samsara** · Support
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7644634?gh_jid=7644634)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7644634`
+
+---
+### 🆕 Technical Support Engineer – Mobile Apps and Compliance
+**samsara** · Support
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7736544?gh_jid=7736544)
+🕐 Updated: `2026-04-16T21:56:08-04:00` &nbsp;|&nbsp; ID: `7736544`
+
+---
+### 🆕 Associate Recruiter 
+**verkada** · Hardware Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5112051007)
+🕐 Updated: `2026-04-17T16:08:44-04:00` &nbsp;|&nbsp; ID: `5112051007`
+
+---
+### 🆕 Associate Solutions Engineering Program Manager
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4595354007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4595354007`
+
+---
+### 🆕 Associate Solutions Engineer, San Mateo
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135277007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4135277007`
+
+---
+### 🆕 Backend Engineer - Access Control
+**verkada** · Access Control
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4915101007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4915101007`
+
+---
+### 🆕 Backend Engineer - Alerts and Operations
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128767007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4128767007`
+
+---
+### 🆕 Backend Software Engineering Intern - Fall 2026
+**verkada** · Software - Early Careers
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5099422007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5099422007`
+
+---
+### 🆕 Computer Vision Software Engineer - University Graduate 2026
+**verkada** · Software - Early Careers
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5040765007)
+🕐 Updated: `2026-04-17T20:11:04-04:00` &nbsp;|&nbsp; ID: `5040765007`
+
+---
+### 🆕 Critical Accounts Program, Engineer
+**verkada** · Business Ops
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5039079007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5039079007`
+
+---
+### 🆕 Demand Generation & Growth Marketing Manager, Channel Technical Programs
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4970811007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4970811007`
+
+---
+### 🆕 Director of Firmware Engineering, Cameras
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5081188007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5081188007`
+
+---
+### 🆕 Director of Product, Computer Vision and Artificial Intelligence
+**verkada** · Product Management
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5004415007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5004415007`
+
+---
+### 🆕 Director of Public Sector Business Development 
+**verkada** · Enterprise SLED
+📍 San Mateo, CA United States; Washington, D.C. United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5057188007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5057188007`
+
+---
+### 🆕 Director of Technical Content & Delivery
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4706884007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4706884007`
+
+---
+### 🆕 Director, Partner Solutions Engineering
+**verkada** · Solutions Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5088870007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5088870007`
+
+---
+### 🆕 Embedded Engineering Lead - Streaming
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128748007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4128748007`
+
+---
+### 🆕 Embedded Linux Security Engineer
+**verkada** · Security
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4129347007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4129347007`
+
+---
+### 🆕 Embedded Software Engineer - Access Control
+**verkada** · Access Control
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5032260007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5032260007`
+
+---
+### 🆕 Embedded Software Engineering Intern - Fall 2026
+**verkada** · Software - Early Careers
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5099596007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5099596007`
+
+---
+### 🆕 Embedded UI Engineer
+**verkada** · Access Control
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5035823007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5035823007`
+
+---
+### 🆕 [Eng] Engineering Manager, Platform Infrastructure
+**verkada** · Infrastructure/Platform
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4777140007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4777140007`
+
+---
+### 🆕 Engineering Manager, Atlas (Spatial Systems)
+**verkada** · Core Services
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5050450007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5050450007`
+
+---
+### 🆕 Engineering Manager, Quality & Test Engineering, Cameras
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5083166007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5083166007`
+
+---
+### 🆕 Enterprise Development Representative
+**verkada** · Sales Development
+📍 Austin, TX United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4140679007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4140679007`
+
+---
+### 🆕 Enterprise Solutions Engineer, Central Corp
+**verkada** · Solutions Engineering
+📍 Austin, TX United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4669998007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4669998007`
+
+---
+### 🆕 Enterprise Solutions Engineer, Greater Atlanta Area
+**verkada** · Solutions Engineering
+📍 Atlanta, GA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4086572007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4086572007`
+
+---
+### 🆕 Enterprise Solutions Engineer, Greater Houston Area
+**verkada** · Solutions Engineering
+📍 Houston, TX United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4388180007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4388180007`
+
+---
+### 🆕 Enterprise Solutions Engineer, Ohio/Indiana, SLED
+**verkada** · Solutions Engineering
+📍 Ohio, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5069449007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5069449007`
+
+---
+### 🆕 Enterprise Solutions Engineer, West Coast
+**verkada** · Solutions Engineering
+📍 Portland, OR United States; San Mateo, CA United States; Seattle, WA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4834059007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4834059007`
+
+---
+### 🆕 Federal Solutions Engineer
+**verkada** · Solutions Engineering
+📍 Washington, D.C. United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4141002007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4141002007`
+
+---
+### 🆕 Field Chief Technology Officer
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4633545007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4633545007`
+
+---
+### 🆕 Frontend Software Engineering Intern - Fall 2026
+**verkada** · Software - Early Careers
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5099529007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5099529007`
+
+---
+### 🆕 Full Stack Engineer, Go-to-Market Systems
+**verkada** · Business Systems
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5101666007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5101666007`
+
+---
+### 🆕 Global Solutions Engineer
+**verkada** · Solutions Engineering
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4140713007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4140713007`
+
+---
+### 🆕 Hardware Engineering Program Manager
+**verkada** · Hardware Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4207342007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4207342007`
+
+---
+### 🆕 iOS Engineering Intern, Native Streaming - Fall 2026
+**verkada** · Software - Early Careers
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5100623007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5100623007`
+
+---
+### 🆕 IT Engineer
+**verkada** · IT
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4905626007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4905626007`
+
+---
+### 🆕 Lead Embedded Engineer - Intercom
+**verkada** · Intercoms
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4548335007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4548335007`
+
+---
+### 🆕 Lead Software Engineer - Fleet Management
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4989832007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4989832007`
+
+---
+### 🆕  Marketing (Sales) Development Representative 
+**verkada** · Marketing Development 
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4144772007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4144772007`
+
+---
+### 🆕 Mobile Engineer - Alarms
+**verkada** · Alarms
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4856201007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4856201007`
+
+---
+### 🆕 Product Design Mechanical Engineer
+**verkada** · Hardware Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135168007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4135168007`
+
+---
+### 🆕 Sales Development Representative (AAE), Bay Area
+**verkada** · Sales Development
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4086535007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4086535007`
+
+---
+### 🆕 Sales Development Representative (AAE), Phoenix
+**verkada** · Sales Development
+📍 Tempe, AZ United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135267007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4135267007`
+
+---
+### 🆕 Sales Development Representative (AAE), Salt Lake City
+**verkada** · Sales Development
+📍 Salt Lake City, UT United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4087170007)
+🕐 Updated: `2026-04-17T14:23:22-04:00` &nbsp;|&nbsp; ID: `4087170007`
+
+---
+### 🆕 Sales Development Representative (AAE), Tampa
+**verkada** · Sales Development
+📍 St. Petersburg, FL United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135271007)
+🕐 Updated: `2026-04-17T17:29:22-04:00` &nbsp;|&nbsp; ID: `4135271007`
+
+---
+### 🆕 Senior Android Engineer - Mobile Platform & Systems
+**verkada** · Mobile
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5044898007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5044898007`
+
+---
+### 🆕 Senior Android Engineer - Streaming
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5054211007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5054211007`
+
+---
+### 🆕 Senior Backend Engineer
+**verkada** · Core Services
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5051023007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5051023007`
+
+---
+### 🆕 Senior Backend Engineer - Alarms
+**verkada** · Alarms
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4133907007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4133907007`
+
+---
+### 🆕 Senior Backend Engineer - Alerts and Operations
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128700007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4128700007`
+
+---
+### 🆕 Senior Backend Engineer - Camera Foundation
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4234743007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4234743007`
+
+---
+### 🆕 Senior Backend Engineer - Device Platform
+**verkada** · Core Services
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5107240007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5107240007`
+
+---
+### 🆕 Senior Backend Engineer - FedRAMP
+**verkada** · Core Services
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5044568007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5044568007`
+
+---
+### 🆕 Senior Backend Engineer, Growth
+**verkada** · Growth Operations
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4525665007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4525665007`
+
+---
+### 🆕 Senior Backend Software Engineer - Workplace Products
+**verkada** · Workplace Products
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4748019007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4748019007`
+
+---
+### 🆕 Senior BSP Engineer - Cameras
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4261270007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4261270007`
+
+---
+### 🆕 Senior Embedded Engineer - Connectivity
+**verkada** · Sensors
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4874931007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4874931007`
+
+---
+### 🆕 Senior Engineering Manager - Clients Platform
+**verkada** · Core Services
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5082680007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5082680007`
+
+---
+### 🆕 Senior Firmware Engineer
+**verkada** · Access Control
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5010533007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5010533007`
+
+---
+### 🆕 Senior Frontend Engineer - Access Control
+**verkada** · Access Control
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5070042007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5070042007`
+
+---
+### 🆕 Senior Frontend Engineer - Streaming
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128656007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4128656007`
+
+---
+### 🆕 Senior Frontend Engineer - Web Platform
+**verkada** · Core Services
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5102734007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5102734007`
+
+---
+### 🆕 Senior Product Manager, Video Platform
+**verkada** · Product Management
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4816589007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4816589007`
+
+---
+### 🆕 Senior Project Engineer, Global Services
+**verkada** ·  Verkada Global Services
+📍 Chicago, IL United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4985491007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4985491007`
+
+---
+### 🆕 Senior Project Engineer, Global Services
+**verkada** ·  Verkada Global Services
+📍 Austin, TX United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4949024007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4949024007`
+
+---
+### 🆕 Senior Project Engineer, Global Services
+**verkada** ·  Verkada Global Services
+📍 Philadelphia, PA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4949027007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4949027007`
+
+---
+### 🆕 Senior Project Engineer, Global Services
+**verkada** ·  Verkada Global Services
+📍 Tampa, FL United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4949028007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4949028007`
+
+---
+### 🆕 Senior Project Engineer, Global Services
+**verkada** ·  Verkada Global Services
+📍 New York City, NY United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4949035007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4949035007`
+
+---
+### 🆕 Senior Software Engineer, Business Systems
+**verkada** · Business Systems
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4818850007)
+🕐 Updated: `2026-04-17T20:13:49-04:00` &nbsp;|&nbsp; ID: `4818850007`
+
+---
+### 🆕 Senior Software Engineer - C++
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128752007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4128752007`
+
+---
+### 🆕 Senior Software Engineer - Camera Platform
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128785007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4128785007`
+
+---
+### 🆕 Senior Software Engineer, Data Platform
+**verkada** · Infrastructure/Platform
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4129305007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4129305007`
+
+---
+### 🆕 Senior Software Engineer - iOS
+**verkada** · Intercoms
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5064284007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5064284007`
+
+---
+### 🆕 Senior Software Engineer, Salesforce Platform
+**verkada** · Business Systems
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5072508007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5072508007`
+
+---
+### 🆕 Senior Software Engineer – Storage Systems
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5066093007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5066093007`
+
+---
+### 🆕 Senior-Staff Software Engineer, Engineering Productivity
+**verkada** · Infrastructure/Platform
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5075602007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5075602007`
+
+---
+### 🆕 Senior-Staff Software Engineer, Platform Infrastructure
+**verkada** · Infrastructure/Platform
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5063591007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5063591007`
+
+---
+### 🆕 Senior-Staff Software Engineer, Tooling
+**verkada** · Infrastructure/Platform
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5029724007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5029724007`
+
+---
+### 🆕 Senior Technical Support Engineer
+**verkada** · Technical Support Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4997665007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4997665007`
+
+---
+### 🆕 Senior Test Engineer, Cameras
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5083834007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5083834007`
+
+---
+### 🆕 Site Reliability Engineer - Infrastructure
+**verkada** · Infrastructure/Platform
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4129338007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4129338007`
+
+---
+### 🆕 Software Engineer - Computer Vision
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128624007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4128624007`
+
+---
+### 🆕 Software Engineer - Fleet Management
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135093007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4135093007`
+
+---
+### 🆕 Software Engineer - Imaging Systems
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4134234007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4134234007`
+
+---
+### 🆕 Software Engineering Manager - Alarms
+**verkada** · Alarms
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4189743007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4189743007`
+
+---
+### 🆕 Software Engineering Manager - Cameras
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4205246007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4205246007`
+
+---
+### 🆕 Software Engineering Manager, Data Protection Platform
+**verkada** · Security
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5096350007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5096350007`
+
+---
+### 🆕 Software Engineering Manager, Growth
+**verkada** · Marketing - Dept
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5044258007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5044258007`
+
+---
+### 🆕 Software Engineering Manager - Intercom
+**verkada** · Intercoms
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5087511007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5087511007`
+
+---
+### 🆕 Software Engineer, Platform Infrastructure
+**verkada** · Infrastructure/Platform
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5029725007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5029725007`
+
+---
+### 🆕 Solutions Engineer
+**verkada** · Solutions Engineering
+📍 Salt Lake City, UT United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4087164007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4087164007`
+
+---
+### 🆕 Solutions Engineer
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4086501007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4086501007`
+
+---
+### 🆕 Solutions Engineer
+**verkada** · Solutions Engineering
+📍 Austin, TX United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4087168007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4087168007`
+
+---
+### 🆕 Solutions Engineer
+**verkada** · Solutions Engineering
+📍 St. Petersburg, FL United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4138083007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4138083007`
+
+---
+### 🆕 Solutions Engineering Director, Select & Territory
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4434293007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4434293007`
+
+---
+### 🆕 Solutions Engineering Manager - NYC
+**verkada** · Solutions Engineering
+📍 Manhattan, NY United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4191816007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4191816007`
+
+---
+### 🆕 Solutions Engineering Manager, Select & Territory
+**verkada** · Solutions Engineering
+📍 Tempe, AZ United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4185105007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4185105007`
+
+---
+### 🆕 Solutions Engineer - NYC
+**verkada** · Solutions Engineering
+📍 New York City, NY United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4140263007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4140263007`
+
+---
+### 🆕 Solutions Engineer - Philadelphia
+**verkada** · Solutions Engineering
+📍 Philadelphia, PA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4186389007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4186389007`
+
+---
+### 🆕 (Sr) Associate, Corporate Development
+**verkada** · Finance
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4984687007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4984687007`
+
+---
+### 🆕 Sr. IT Systems Engineer 
+**verkada** · IT
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4527394007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4527394007`
+
+---
+### 🆕 Sr. Manager, Technical Programs
+**verkada** · Solutions Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4759203007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4759203007`
+
+---
+### 🆕 Staff Android Engineer - Streaming
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5051027007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5051027007`
+
+---
+### 🆕 Staff Embedded Software Engineer - Camera Firmware
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5029602007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5029602007`
+
+---
+### 🆕 Staff Frontend Engineer - Alarms
+**verkada** · Alarms
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4125961007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4125961007`
+
+---
+### 🆕 Staff Frontend Engineer - Design Systems
+**verkada** · Core Services
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5108536007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5108536007`
+
+---
+### 🆕 Staff Frontend Engineer, Growth
+**verkada** · Web Development
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135234007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4135234007`
+
+---
+### 🆕 Staff+ Product Security Engineer
+**verkada** · Security
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4663405007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4663405007`
+
+---
+### 🆕 Staff+ Security Engineer, IT and Corporate Security
+**verkada** · Security
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5094828007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5094828007`
+
+---
+### 🆕 Staff+ Software Engineer, Security Infrastructure
+**verkada** · Security
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4870927007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4870927007`
+
+---
+### 🆕 Technical Support Engineer
+**verkada** · Technical Support Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5063200007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5063200007`
+
+---
+### 🆕 Technical Support Engineering Intern - Fall 2026
+**verkada** · Technical Support Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5017082007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5017082007`
+
+---
+### 🆕 Technical Support Engineer - University Graduate 2026
+**verkada** · Technical Support Engineering
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4715534007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `4715534007`
+
+---
+### 🆕 TPM (Technical Program Manager), Camera Software
+**verkada** · Cameras
+📍 San Mateo, CA United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5084056007)
+🕐 Updated: `2026-04-17T00:13:02-04:00` &nbsp;|&nbsp; ID: `5084056007`
+
+---
+### 🆕 AI Data Strategist - Customer Success
+**toast** · Customer Success : Customer Success Operations
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7732528)
+🕐 Updated: `2026-04-06T13:59:31-04:00` &nbsp;|&nbsp; ID: `7732528`
+
+---
+### 🆕 Associate Director, Product Design - Go To Market Experiences
+**toast** · R & D : UX : Customer Experience Platform
+📍 US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7610365)
+🕐 Updated: `2026-04-06T10:41:59-04:00` &nbsp;|&nbsp; ID: `7610365`
+
+---
+### 🆕 Bilingual Business Development Representative (Mandarin)
+**toast** · Sales : Sales Acceleration
+📍 Remote - US (PST time zone) &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=6869373)
+🕐 Updated: `2026-04-16T14:28:17-04:00` &nbsp;|&nbsp; ID: `6869373`
+
+---
+### 🆕 Business Development Manager, Retail
+**toast** · Sales : Retail Sales Management
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7560779)
+🕐 Updated: `2026-04-02T11:46:12-04:00` &nbsp;|&nbsp; ID: `7560779`
+
+---
+### 🆕 Conversational AI UX Designer
+**toast** · R & D : UX : Customer Experience Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7731766)
+🕐 Updated: `2026-04-17T15:56:31-04:00` &nbsp;|&nbsp; ID: `7731766`
+
+---
+### 🆕 Credit Risk Analytics & AI Enablement Lead
+**toast** · G & A : Fintech Risk
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7377756)
+🕐 Updated: `2026-04-02T12:14:26-04:00` &nbsp;|&nbsp; ID: `7377756`
+
+---
+### 🆕 GTM Engineer, Marketing Operations AI Innovation
+**toast** · Marketing : Demand Generation
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7746813)
+🕐 Updated: `2026-04-09T14:24:07-04:00` &nbsp;|&nbsp; ID: `7746813`
+
+---
+### 🆕 Intranet Technical Architect
+**toast** · G & A : HR Technology
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7817574)
+🕐 Updated: `2026-04-15T04:50:32-04:00` &nbsp;|&nbsp; ID: `7817574`
+
+---
+### 🆕 Lead Salesforce Developer
+**toast** · R & D : BTT : Shared Engineering Services
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7654402)
+🕐 Updated: `2026-04-03T09:26:30-04:00` &nbsp;|&nbsp; ID: `7654402`
+
+---
+### 🆕 Lead Salesforce Developer, CPQ
+**toast** · R & D : BTT : Engineering
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7766484)
+🕐 Updated: `2026-04-07T09:25:13-04:00` &nbsp;|&nbsp; ID: `7766484`
+
+---
+### 🆕 Manager, Device Testing and Automation
+**toast** · R & D : Engineering : Hardware Device Software
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7550656)
+🕐 Updated: `2026-04-06T21:11:19-04:00` &nbsp;|&nbsp; ID: `7550656`
+
+---
+### 🆕 Manager, GTM AI Solutions
+**toast** · Sales : Growth Operations
+📍 Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7761400)
+🕐 Updated: `2026-04-10T09:04:43-04:00` &nbsp;|&nbsp; ID: `7761400`
+
+---
+### 🆕 Principal Customer Success Analyst - AI and Advanced Customer Analytics
+**toast** · Customer Success : Customer Success Operations
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7572994)
+🕐 Updated: `2026-04-06T13:59:40-04:00` &nbsp;|&nbsp; ID: `7572994`
+
+---
+### 🆕 Principal Engineer - Forward Deployment Engineering
+**toast** · R & D : BTT : Engineering
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7579648)
+🕐 Updated: `2026-04-06T12:10:52-04:00` &nbsp;|&nbsp; ID: `7579648`
+
+---
+### 🆕 Principal Product Analytics Engineer
+**toast** · R & D : Product : Shared
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7746009)
+🕐 Updated: `2026-04-09T15:17:59-04:00` &nbsp;|&nbsp; ID: `7746009`
+
+---
+### 🆕 Principal Product Manager, Agent Platform
+**toast** · R & D : Product : Commerce
+📍 East Coast, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7650702)
+🕐 Updated: `2026-04-09T15:27:09-04:00` &nbsp;|&nbsp; ID: `7650702`
+
+---
+### 🆕 Principal Product Manager, Voice AI
+**toast** · R & D : Product : Commerce
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7716093)
+🕐 Updated: `2026-04-06T10:42:57-04:00` &nbsp;|&nbsp; ID: `7716093`
+
+---
+### 🆕 Principal Software Engineer
+**toast** · R & D : BTT : Engineering
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7579646)
+🕐 Updated: `2026-04-06T12:09:32-04:00` &nbsp;|&nbsp; ID: `7579646`
+
+---
+### 🆕 Product Manager, AI Marketing Agent
+**toast** · R & D : Product : Guest
+📍 East Coast, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7746962)
+🕐 Updated: `2026-04-06T00:55:06-04:00` &nbsp;|&nbsp; ID: `7746962`
+
+---
+### 🆕 Senior Conversational AI UX Designer
+**toast** · R & D : UX : Customer Experience Platform
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7716049)
+🕐 Updated: `2026-04-17T15:57:17-04:00` &nbsp;|&nbsp; ID: `7716049`
+
+---
+### 🆕 Senior Enterprise Process Engineer
+**toast** · Sales : Enterprise Solutions
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7696183)
+🕐 Updated: `2026-04-08T02:26:39-04:00` &nbsp;|&nbsp; ID: `7696183`
+
+---
+### 🆕 Senior Fullstack Engineer, New Ventures
+**toast** · R & D : Product : Retail
+📍 US (remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7701507)
+🕐 Updated: `2026-04-06T12:35:16-04:00` &nbsp;|&nbsp; ID: `7701507`
+
+---
+### 🆕  Senior Manager, Data Science and Machine Learning
+**toast** · R & D : Foundations : AI
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7452435)
+🕐 Updated: `2026-04-06T21:39:38-04:00` &nbsp;|&nbsp; ID: `7452435`
+
+---
+### 🆕 Senior Product Manager
+**toast** · R & D : Product : Customer Experience Platform
+📍 Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7716390)
+🕐 Updated: `2026-04-06T01:40:07-04:00` &nbsp;|&nbsp; ID: `7716390`
+
+---
+### 🆕 Senior Product Manager, AI CSM
+**toast** · R & D : Product : Commerce
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7673399)
+🕐 Updated: `2026-04-09T15:30:23-04:00` &nbsp;|&nbsp; ID: `7673399`
+
+---
+### 🆕 Senior Product Manager, Configuration Platform 
+**toast** · R & D : Product : Commerce
+📍 Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7733118)
+🕐 Updated: `2026-04-06T01:30:12-04:00` &nbsp;|&nbsp; ID: `7733118`
+
+---
+### 🆕 Senior Product Manager, Networking Platform
+**toast** · R & D : Product : Hardware
+📍 Remote, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7538761)
+🕐 Updated: `2026-04-09T10:22:19-04:00` &nbsp;|&nbsp; ID: `7538761`
+
+---
+### 🆕 Senior Software Engineer
+**toast** · R & D : Engineering : Team
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7657893)
+🕐 Updated: `2026-04-17T08:29:35-04:00` &nbsp;|&nbsp; ID: `7657893`
+
+---
+### 🆕 Senior Software Engineer, Android
+**toast** · R & D : Engineering : Delphi
+📍 Costa Mesa, California, USA  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7550881)
+🕐 Updated: `2026-04-09T10:24:41-04:00` &nbsp;|&nbsp; ID: `7550881`
+
+---
+### 🆕 Senior Software Engineer, Android
+**toast** · R & D : Engineering : Commerce
+📍 Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7673490)
+🕐 Updated: `2026-04-06T21:32:59-04:00` &nbsp;|&nbsp; ID: `7673490`
+
+---
+### 🆕 Senior Software Engineer, Android - POS Payments Experience 
+**toast** · R & D : Engineering : Commerce
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7781936)
+🕐 Updated: `2026-04-08T17:29:44-04:00` &nbsp;|&nbsp; ID: `7781936`
+
+---
+### 🆕 Senior Software Engineer, Front End 
+**toast** · R & D : Engineering : Commerce
+📍 Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7731798)
+🕐 Updated: `2026-04-06T00:50:12-04:00` &nbsp;|&nbsp; ID: `7731798`
+
+---
+### 🆕 Senior Software Engineer - Full Stack 
+**toast** · R & D : Engineering : Supplier & Accounting
+📍 Chennai, TN, India &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7214485)
+🕐 Updated: `2026-04-07T11:37:52-04:00` &nbsp;|&nbsp; ID: `7214485`
+
+---
+### 🆕 Senior Software Engineer, Mobile DevOps 
+**toast** · R & D : Engineering : Commerce
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7781930)
+🕐 Updated: `2026-04-09T09:31:06-04:00` &nbsp;|&nbsp; ID: `7781930`
+
+---
+### 🆕 Senior Software Engineer, Retail 
+**toast** · R & D : Product : Retail
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7592643)
+🕐 Updated: `2026-04-06T21:34:15-04:00` &nbsp;|&nbsp; ID: `7592643`
+
+---
+### 🆕 Senior Software Engineer, Voice AI
+**toast** · R & D : Engineering : Guest
+📍 US (remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7701541)
+🕐 Updated: `2026-04-07T04:10:16-04:00` &nbsp;|&nbsp; ID: `7701541`
+
+---
+### 🆕 Software Engineer II
+**toast** · R & D : Engineering : Commerce
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7656431)
+🕐 Updated: `2026-04-17T16:20:28-04:00` &nbsp;|&nbsp; ID: `7656431`
+
+---
+### 🆕 Staff Analytics Engineer
+**toast** · Customer Success : Customer Success Operations : Enablement
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7773754)
+🕐 Updated: `2026-04-09T13:04:23-04:00` &nbsp;|&nbsp; ID: `7773754`
+
+---
+### 🆕 Staff Data Engineer
+**toast** · Customer Success : Customer Success Operations : Enablement
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7769235)
+🕐 Updated: `2026-04-09T13:03:36-04:00` &nbsp;|&nbsp; ID: `7769235`
+
+---
+### 🆕 Staff IAM Engineer, Sailpoint
+**toast** · G & A : BTT : IT Operations
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7579621)
+🕐 Updated: `2026-04-09T14:57:24-04:00` &nbsp;|&nbsp; ID: `7579621`
+
+---
+### 🆕 Staff Software Engineer
+**toast** · R & D : Engineering : Commerce
+📍 Boston, MA or Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7531142)
+🕐 Updated: `2026-04-06T21:23:41-04:00` &nbsp;|&nbsp; ID: `7531142`
+
+---
+### 🆕 Staff Software Engineer, AI & Strategy
+**toast** · R & D : BTT : Engineering
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7579640)
+🕐 Updated: `2026-04-03T09:23:03-04:00` &nbsp;|&nbsp; ID: `7579640`
+
+---
+### 🆕 Staff Software Engineer, Android
+**toast** · R & D : Engineering : Delphi
+📍 Costa Mesa, California, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7735338)
+🕐 Updated: `2026-04-09T10:25:53-04:00` &nbsp;|&nbsp; ID: `7735338`
+
+---
+### 🆕 Staff Software Engineer - Application Infrastructure
+**toast** · R & D : Cloud Service Infra : Infrastructure Services
+📍 Remote, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7727235)
+🕐 Updated: `2026-04-06T12:13:54-04:00` &nbsp;|&nbsp; ID: `7727235`
+
+---
+### 🆕 Staff Software Engineer (Backend), Payments
+**toast** · R & D : Engineering : Payments
+📍 US (remote) &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7746979)
+🕐 Updated: `2026-04-07T05:05:13-04:00` &nbsp;|&nbsp; ID: `7746979`
+
+---
+### 🆕 Staff Software Engineer, Enterprise
+**toast** · R & D : Engineering : Enterprise
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7651256)
+🕐 Updated: `2026-04-06T21:33:34-04:00` &nbsp;|&nbsp; ID: `7651256`
+
+---
+### 🆕 Staff Software Engineer, Tech Lead - Mobile DevOps
+**toast** · R & D : Engineering : Commerce
+📍 Remote, US  &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7779103)
+🕐 Updated: `2026-04-08T18:07:34-04:00` &nbsp;|&nbsp; ID: `7779103`
+
+---
+### 🆕 Staff Software Engineer, Toast Tables
+**toast** · R & D : Engineering : Consumer
+📍 Remote, US or Boston, MA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7455150)
+🕐 Updated: `2026-04-09T10:18:21-04:00` &nbsp;|&nbsp; ID: `7455150`
+
+---
+
 ## 📅 Run: 2026-04-18 19:43 UTC
 
 ### 🆕 Senior Manager, Platform Engineering - Secure Supply Chain
