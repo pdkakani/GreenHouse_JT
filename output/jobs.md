@@ -77,7 +77,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr. Engineering Manager  - Photon Team (San Francisco)
-**databricks** · Executive Engineering - Pipeline
+**databricks** · Executive Engineering - Pipeline · 🎯 34%
 📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8108743002)
 🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `8108743002`
 
@@ -95,7 +95,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr Fullstack Engineer, Agentic Applications
-**databricks** · Engineering - Pipeline
+**databricks** · Engineering - Pipeline · 🎯 14%
 📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002)
 🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8220814002`
 
