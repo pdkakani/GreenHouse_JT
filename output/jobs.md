@@ -59,7 +59,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕  Sr. Engineering Manager
-**databricks** · Executive Engineering - Pipeline
+**databricks** · Executive Engineering - Pipeline · 🎯 34%
 📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8051883002)
 🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8051883002`
 
