@@ -2,6 +2,5079 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-19 04:56 UTC
+
+### 🆕 Specialist Solutions Architect - AI & ML (Communications, Media, Entertainment & Games)
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8480547002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8480547002`
+
+---
+### 🆕 Specialist Solutions Architect - AI & ML (Financial Services)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Central - United States; Northeast - United States; Southeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8434243002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8434243002`
+
+---
+### 🆕 Specialist Solutions Architect - AI Tooling & Platform Management
+**databricks** · Field Engineering - Other
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8409019002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8409019002`
+
+---
+### 🆕 Specialist Solutions Architect - Cloud Infrastructure & Security
+**databricks** · Field Engineering - Other
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8409017002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8409017002`
+
+---
+### 🆕 Specialist Solutions Architect - Cloud Infrastructure & Security
+**databricks** · Field Engineering - Other
+📍 Central - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8477197002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8477197002`
+
+---
+### 🆕 Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8337429002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8337429002`
+
+---
+### 🆕 Sr Analytics Engineer - GTM Strategy and Operations
+**databricks** · Sales Operations
+📍 New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8479036002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8479036002`
+
+---
+### 🆕 Sr. Developer Advocate, Databricks AI Agentic Systems
+**databricks** · Product
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7930603002)
+🕐 Updated: `2026-04-09T16:51:13-04:00` &nbsp;|&nbsp; ID: `7930603002`
+
+---
+### 🆕 Sr. Developer Advocate - Neon
+**databricks** · Product
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8428818002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8428818002`
+
+---
+### 🆕  Sr. Engineering Manager
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8051883002)
+🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8051883002`
+
+---
+### 🆕 Sr. Engineering Manager - Customer Experience Intelligence (CXI)
+**databricks** · Engineering
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8436912002)
+🕐 Updated: `2026-04-09T16:51:29-04:00` &nbsp;|&nbsp; ID: `8436912002`
+
+---
+### 🆕 Sr. Engineering Manager - Lakeflow Designer
+**databricks** · Executive Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5627916002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `5627916002`
+
+---
+### 🆕 Sr. Engineering Manager  - Photon Team (San Francisco)
+**databricks** · Executive Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8108743002)
+🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `8108743002`
+
+---
+### 🆕 Sr. Enterprise Security Engineer
+**databricks** · Security
+📍 Remote - California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8479031002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8479031002`
+
+---
+### 🆕 Sr. Events Marketing Manager, Data + AI World Tour
+**databricks** · Marketing
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8407921002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8407921002`
+
+---
+### 🆕 Sr Fullstack Engineer, Agentic Applications
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8220814002`
+
+---
+### 🆕 Sr. IT Systems/Automation Engineer
+**databricks** · Infrastructure
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8463169002)
+🕐 Updated: `2026-04-16T17:56:33-04:00` &nbsp;|&nbsp; ID: `8463169002`
+
+---
+### 🆕 Sr. Machine Learning Engineer 
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7276195002`
+
+---
+### 🆕 Sr. Manager, AI Forward Deployed Engineering (FDE)
+**databricks** · Field Engineering - BIF
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8414367002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8414367002`
+
+---
+### 🆕 Sr. Manager, Engineering - AI Gateway (LLM Inference)
+**databricks** · Engineering
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8491947002)
+🕐 Updated: `2026-04-09T16:51:30-04:00` &nbsp;|&nbsp; ID: `8491947002`
+
+---
+### 🆕 Sr Manager, Engineering- Cloud Intelligence & Infrastructure Economics
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8501165002)
+🕐 Updated: `2026-04-09T20:32:56-04:00` &nbsp;|&nbsp; ID: `8501165002`
+
+---
+### 🆕 Sr. Manager, Engineering - Model Serving
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211957002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8211957002`
+
+---
+### 🆕 Sr. Manager, Engineering Performance
+**databricks** · Engineering
+📍 Remote - Arizona; Remote - California; Remote - Canada; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - Michigan; Remote - New York; Remote - Texas; Remote - Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8204135002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8204135002`
+
+---
+### 🆕 Sr. Manager, Engineering - Search
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `7959180002`
+
+---
+### 🆕 Sr. Manager, Engineering - Unity Catalog Infra
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8329804002)
+🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `8329804002`
+
+---
+### 🆕 Sr. Manager, Field Engineering
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Central - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8417699002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8417699002`
+
+---
+### 🆕 Sr. Manager, Field Engineering
+**databricks** · Field Engineering - FE Direct Regulated
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8362888002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8362888002`
+
+---
+### 🆕 Sr. Manager, Field Engineering
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8467119002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8467119002`
+
+---
+### 🆕 Sr. Manager, Field Engineering - Digital Native Business
+**databricks** · Field Engineering - FE Direct Emerging
+📍 Colorado; Remote - California; Remote - Oregon; Remote - Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8496009002)
+🕐 Updated: `2026-04-09T16:57:04-04:00` &nbsp;|&nbsp; ID: `8496009002`
+
+---
+### 🆕 Sr. Manager, Field Engineering - Emerging Enterprise 
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476423002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8476423002`
+
+---
+### 🆕 Sr. Manager, Field Engineering - Financial Services
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Illinois; Massachusetts; New York; Virginia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8466584002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8466584002`
+
+---
+### 🆕 Sr. Manager, Field Engineering - Healthcare and Life Sciences (Health Plans)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8369497002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8369497002`
+
+---
+### 🆕 Sr. Manager, Field Engineering - Public Sector
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8332835002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8332835002`
+
+---
+### 🆕 Sr. Manager, Field Engineering - Public Sector (Intel, Navy, Air Force)
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 Maryland; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8431931002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8431931002`
+
+---
+### 🆕 Sr. Manager, Observability Platform Engineering
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8342738002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8342738002`
+
+---
+### 🆕 Sr. Manager - Production Engineering
+**databricks** · Engineering
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8432305002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8432305002`
+
+---
+### 🆕 Sr. Product Designer, AI/BI
+**databricks** · Product
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8429978002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8429978002`
+
+---
+### 🆕 Sr. Product Designer, AI/BI
+**databricks** · Product
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8428820002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8428820002`
+
+---
+### 🆕 Sr. Product Designer, Enterprise Platform
+**databricks** · Product
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476061002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8476061002`
+
+---
+### 🆕 Sr. Product Manager, Compute Platform
+**databricks** · Product
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8200284002`
+
+---
+### 🆕 Sr. Product Manager, Compute Platform
+**databricks** · Product
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8200462002`
+
+---
+### 🆕 Sr. Product Manager, Databricks AI
+**databricks** · Product
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002)
+🕐 Updated: `2026-04-09T16:51:16-04:00` &nbsp;|&nbsp; ID: `8136204002`
+
+---
+### 🆕 Sr. Product Manager, Databricks AI
+**databricks** · Product
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002)
+🕐 Updated: `2026-04-09T16:51:16-04:00` &nbsp;|&nbsp; ID: `8136071002`
+
+---
+### 🆕 Sr. Product Manager, Data Engineering
+**databricks** · Product
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6322654002`
+
+---
+### 🆕 Sr. Product Marketing Manager, AI
+**databricks** · Marketing
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493724002)
+🕐 Updated: `2026-04-17T17:26:17-04:00` &nbsp;|&nbsp; ID: `8493724002`
+
+---
+### 🆕 Sr. Resident Solutions Architect
+**databricks** · Field Engineering - BIF
+📍 Central - United States; USCA; West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8210937002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8210937002`
+
+---
+### 🆕 Sr Software Engineer- Customer Experience Intelligence (CXI)
+**databricks** · Support
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8416951002`
+
+---
+### 🆕 Sr Software Engineer-Networking
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8211452002`
+
+---
+### 🆕 Sr Software Engineer-Networking
+**databricks** · Engineering
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8211450002`
+
+---
+### 🆕 Sr. Software Engineer - Performance
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6569774002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6569774002`
+
+---
+### 🆕 Sr. Software Engineer - Performance 
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6569772002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6569772002`
+
+---
+### 🆕 Sr. Solutions Architect
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Remote - Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8417656002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8417656002`
+
+---
+### 🆕 Sr. Solutions Architect - Communications 
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 Remote - Georgia; Remote - Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476403002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8476403002`
+
+---
+### 🆕 Sr. Solutions Architect - Emerging
+**databricks** · Field Engineering - FE Direct Emerging
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8136954002)
+🕐 Updated: `2026-04-09T16:51:16-04:00` &nbsp;|&nbsp; ID: `8136954002`
+
+---
+### 🆕 Sr. Solutions Architect - Financial Services (Hunter) 
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Atlanta, Georgia; Chicago, Illinois; Dallas, Texas; New York; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8343916002)
+🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8343916002`
+
+---
+### 🆕 Sr. Solutions Architect - Financial Services (Strategic Banking and Payments)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Maryland; New York; Virginia &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8397280002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8397280002`
+
+---
+### 🆕 Sr. Solutions Architect - Financial Services (Wealth and Asset Management)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Massachusetts; New Jersey; New York; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8480646002)
+🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8480646002`
+
+---
+### 🆕 Sr. Solutions Architect - Financial Services (Wealth & Asset Management)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 New Jersey; New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8174261002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8174261002`
+
+---
+### 🆕 Sr. Solutions Architect - Games
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8353049002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8353049002`
+
+---
+### 🆕 Sr. Solutions Architect - GSI's and FinTech Data 
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Massachusetts; New York; North Carolina &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200376002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8200376002`
+
+---
+### 🆕 Sr. Solutions Architect - Lakebase
+**databricks** · Field Engineering - Other
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8407197002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8407197002`
+
+---
+### 🆕 Sr. Solutions Architect - Public Sector (Federal Civilian)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8198484002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8198484002`
+
+---
+### 🆕 Sr. Solutions Architect - Public Sector (Hunter) 
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8417705002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8417705002`
+
+---
+### 🆕 Sr. Solutions Architect - Public Sector (SLED)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Florida; New York; North Carolina; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8401173002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8401173002`
+
+---
+### 🆕 Sr. Solutions Architect - Public Sector (SLED) 
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Illinois; Michigan; Minnesota &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8397493002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8397493002`
+
+---
+### 🆕 Sr. Solutions Architect, Retail
+**databricks** · Field Engineering
+📍 West Coast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6456675002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6456675002`
+
+---
+### 🆕 Sr. Solutions Architect, Retail 
+**databricks** · Field Engineering
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `8221491002`
+
+---
+### 🆕 Sr. Solutions Engineer
+**databricks** · Field Engineering - FE Direct Emerging
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8415130002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8415130002`
+
+---
+### 🆕 Sr. Solutions Engineer
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Central - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8450209002)
+🕐 Updated: `2026-04-09T16:51:30-04:00` &nbsp;|&nbsp; ID: `8450209002`
+
+---
+### 🆕 Sr. Solutions Engineer - Communications, Media, Entertainment and Games
+**databricks** · Field Engineering - FE Direct Enterprise
+📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8402475002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8402475002`
+
+---
+### 🆕 Sr. Solutions Engineer - GSI's and FinTech Data
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Georgia; Illinois; Massachusetts; New Jersey; New York; North Carolina; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8472164002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8472164002`
+
+---
+### 🆕 Sr. Solutions Engineer - Hunter Team
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Central - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8417647002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8417647002`
+
+---
+### 🆕 Sr. Solutions Engineer Italy
+**databricks** · Field Engineering - Other
+📍 Remote - Italy &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8389657002)
+🕐 Updated: `2026-04-13T13:13:42-04:00` &nbsp;|&nbsp; ID: `8389657002`
+
+---
+### 🆕 Sr. Solutions Engineer - Public Sector (DoW - 4th Estate)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8415021002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8415021002`
+
+---
+### 🆕 Sr. Solutions Engineer - Public Sector (SLED)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 Florida; New York; Washington, D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8415023002)
+🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8415023002`
+
+---
+### 🆕 Sr. Solutions Engineer, Retail - CPG
+**databricks** · Field Engineering
+📍 Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7507778002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `7507778002`
+
+---
+### 🆕 Sr. Specialist Solutions Architect - Data Warehousing (Financial Services)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8183320002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8183320002`
+
+---
+### 🆕 Sr. Specialist Solutions Engineer - Data Warehousing (Financial Services)
+**databricks** · Field Engineering - FE Direct Regulated
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8434245002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8434245002`
+
+---
+### 🆕 Sr. Staff Fullstack Engineer, Agentic Applications
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220902002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8220902002`
+
+---
+### 🆕 Sr. Staff Partner Engineer
+**databricks** · Product
+📍 New York City, New York; San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8505210002)
+🕐 Updated: `2026-04-14T12:28:48-04:00` &nbsp;|&nbsp; ID: `8505210002`
+
+---
+### 🆕 Sr. Staff Security Engineer, Incident Response
+**databricks** · Security
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8396815002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8396815002`
+
+---
+### 🆕 Sr. Staff Software Engineer - Data Platform
+**databricks** · Engineering
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002)
+🕐 Updated: `2026-04-09T16:51:11-04:00` &nbsp;|&nbsp; ID: `7823561002`
+
+---
+### 🆕 Sr. Staff Software Engineer - Money Team
+**databricks** · Engineering
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8285949002`
+
+---
+### 🆕 Sr. Staff Software Engineer, Observability 
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8391889002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8391889002`
+
+---
+### 🆕 Sr. Staff Software Engineer - Unity Catalog Data Governance
+**databricks** · Exec Engineering
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7993609002`
+
+---
+### 🆕 Sr. Staff Technical Program Manager - Reliability
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8445428002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8445428002`
+
+---
+### 🆕 Sr. Staff Technical Program Manager - Reliability
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8445423002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8445423002`
+
+---
+### 🆕 Sr. Technical Marketing Engineer - Lakebase/Apps
+**databricks** · Marketing
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8396813002)
+🕐 Updated: `2026-04-09T16:51:25-04:00` &nbsp;|&nbsp; ID: `8396813002`
+
+---
+### 🆕 Sr. Technical Program Manager, Professional Services - Digital Native Business (DNB)
+**databricks** · Professional Services Operations
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438729002)
+🕐 Updated: `2026-04-09T16:51:29-04:00` &nbsp;|&nbsp; ID: `8438729002`
+
+---
+### 🆕 Sr. Technical Program Manager, Professional Services - Healthcare & Life Sciences (HLS)
+**databricks** · Professional Services Operations
+📍 Central - United States; Northeast - United States; Southeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438797002)
+🕐 Updated: `2026-04-09T16:51:29-04:00` &nbsp;|&nbsp; ID: `8438797002`
+
+---
+### 🆕 Sr. Technical Program Manager, Professional Services - Public Sector
+**databricks** · Professional Services Operations
+📍 Remote - Washington D.C. &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8490649002)
+🕐 Updated: `2026-04-16T14:57:40-04:00` &nbsp;|&nbsp; ID: `8490649002`
+
+---
+### 🆕 Staff Backend Software Engineer
+**databricks** · Engineering
+📍 New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8468436002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8468436002`
+
+---
+### 🆕 Staff Backend Software Engineer- (AI Platform)
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8367019002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8367019002`
+
+---
+### 🆕 Staff Backend Software Engineer- (AI Platform)
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8367023002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8367023002`
+
+---
+### 🆕 Staff Backend Software Engineer- (AI Platform)
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8367021002`
+
+---
+### 🆕 Staff Backend Software Engineer- (AI Platform)
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8367022002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8367022002`
+
+---
+### 🆕 Staff Backline Engineer - Data & AI
+**databricks** · Support
+📍 Dallas, Texas; San Francisco, California; Vancouver, Canada &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7872746002)
+🕐 Updated: `2026-04-09T16:51:12-04:00` &nbsp;|&nbsp; ID: `7872746002`
+
+---
+### 🆕 Staff Backline Engineer - Platform
+**databricks** · Support
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8465439002)
+🕐 Updated: `2026-04-09T16:51:13-04:00` &nbsp;|&nbsp; ID: `8465439002`
+
+---
+### 🆕 Staff Data & AI Technical Solutions Engineer
+**databricks** · Support
+📍 Plano, Texas &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7932024002)
+🕐 Updated: `2026-04-09T16:51:13-04:00` &nbsp;|&nbsp; ID: `7932024002`
+
+---
+### 🆕 Staff Database Engineer 
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8482064002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8482064002`
+
+---
+### 🆕 Staff Database Engineer 
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California; New York City, New York; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8482053002)
+🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8482053002`
+
+---
+### 🆕 Staff Data Scientist 
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5507088002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `5507088002`
+
+---
+### 🆕 Staff Data Scientist - Infrastructure
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7069793002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `7069793002`
+
+---
+### 🆕  Staff Data Scientist - Trust and Safety
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8178287002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `8178287002`
+
+---
+### 🆕 Staff Designated Support Engineer
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7839474002`
+
+---
+### 🆕 Staff Frontend Engineer - Seattle
+**databricks** · Engineering - Pipeline
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8399551002)
+🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `8399551002`
+
+---
+### 🆕 Staff Fullstack Engineer
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002)
+🕐 Updated: `2026-04-09T16:51:07-04:00` &nbsp;|&nbsp; ID: `6704975002`
+
+---
+### 🆕 Staff Fullstack Engineer, Agentic Applications
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220836002)
+🕐 Updated: `2026-04-09T16:51:19-04:00` &nbsp;|&nbsp; ID: `8220836002`
+
+---
+### 🆕 Staff Machine Learning Engineer 
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002)
+🕐 Updated: `2026-04-09T16:51:23-04:00` &nbsp;|&nbsp; ID: `8401114002`
+
+---
+### 🆕 Staff Partner Engineer, Azure 
+**databricks** · Product
+📍 New York City, New York; San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8508943002)
+🕐 Updated: `2026-04-15T23:40:27-04:00` &nbsp;|&nbsp; ID: `8508943002`
+
+---
+### 🆕 Staff Product Manager, AI Platform
+**databricks** · Product
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8420609002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8420609002`
+
+---
+### 🆕 Staff Product Manager, AI Platform
+**databricks** · Product
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8427940002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8427940002`
+
+---
+### 🆕 Staff Product Operations Manager
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8236022002)
+🕐 Updated: `2026-04-17T22:40:27-04:00` &nbsp;|&nbsp; ID: `8236022002`
+
+---
+### 🆕 Staff Product Security Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002)
+🕐 Updated: `2026-04-09T16:51:12-04:00` &nbsp;|&nbsp; ID: `7882009002`
+
+---
+### 🆕 Staff Security Assurance Engineer - Special Projects
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8430837002)
+🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8430837002`
+
+---
+### 🆕 Staff Security Detection Engineer 
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8184634002)
+🕐 Updated: `2026-04-09T16:51:17-04:00` &nbsp;|&nbsp; ID: `8184634002`
+
+---
+### 🆕 Staff Security Software Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002)
+🕐 Updated: `2026-04-09T16:51:13-04:00` &nbsp;|&nbsp; ID: `7932280002`
+
+---
+### 🆕 Staff Software Engineer - AI Platform (NYC)   
+**databricks** · Engineering - Pipeline
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8509536002)
+🕐 Updated: `2026-04-15T23:20:33-04:00` &nbsp;|&nbsp; ID: `8509536002`
+
+---
+### 🆕 Staff Software Engineer - AI Product (NYC)   
+**databricks** · Engineering - Pipeline
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8509534002)
+🕐 Updated: `2026-04-15T23:20:38-04:00` &nbsp;|&nbsp; ID: `8509534002`
+
+---
+### 🆕 Staff Software Engineer - Backend
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `5408888002`
+
+---
+### 🆕 Staff Software Engineer - Backend
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002)
+🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `6779233002`
+
+---
+### 🆕 Staff Software Engineer - Backend
+**databricks** · Engineering - Pipeline
+📍 Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002)
+🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `6779232002`
+
+---
+### 🆕 Staff Software Engineer - Backend
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `6544443002`
+
+---
+### 🆕 Staff Software Engineer - Customer Engagement & Docs Platform
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002)
+🕐 Updated: `2026-04-09T16:51:05-04:00` &nbsp;|&nbsp; ID: `8032546002`
+
+---
+### 🆕 Staff Software Engineer – Customer Experience Intelligence (CXI)
+**databricks** · Support
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8416959002)
+🕐 Updated: `2026-04-09T16:51:27-04:00` &nbsp;|&nbsp; ID: `8416959002`
+
+---
+### 🆕  Staff Software Engineer - Database Engine Internals
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6544386002`
+
+---
+### 🆕 Staff Software Engineer - Database Engine Internals
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `5646866002`
+
+---
+### 🆕 Staff Software Engineer - Distributed Data Systems
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `6544364002`
+
+---
+### 🆕 Staff Software Engineer - Distributed Data Systems
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `6937001002`
+
+---
+### 🆕 Staff Software Engineer - Distributed Data Systems
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `5646855002`
+
+---
+### 🆕 Staff Software Engineer, Foundational Model Serving
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8224683002)
+🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8224683002`
+
+---
+### 🆕 Staff Software Engineer - Fullstack (NYC)
+**databricks** · Engineering - Pipeline
+📍 New York City, New York &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8384595002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8384595002`
+
+---
+### 🆕 Staff Software Engineer - GenAI inference
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8202698002`
+
+---
+### 🆕 Staff Software Engineer - GenAI Performance and Kernel
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8202700002)
+🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8202700002`
+
+---
+### 🆕 Staff Software Engineer - IAM
+**databricks** · Executive Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7994790002`
+
+---
+### 🆕 Staff Software Engineer - IAM
+**databricks** · Executive Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002)
+🕐 Updated: `2026-04-09T16:51:10-04:00` &nbsp;|&nbsp; ID: `7994801002`
+
+---
+### 🆕 Staff Software Engineer, Metrics and Logging
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8298247002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8298247002`
+
+---
+### 🆕 Staff Software Engineer, Model Serving 
+**databricks** · Engineering
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211647002)
+🕐 Updated: `2026-04-09T16:51:15-04:00` &nbsp;|&nbsp; ID: `8211647002`
+
+---
+### 🆕 Staff Software Engineer - Money Team
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002)
+🕐 Updated: `2026-04-09T16:51:08-04:00` &nbsp;|&nbsp; ID: `7111068002`
+
+---
+### 🆕 Staff Software Engineer, Observability 
+**databricks** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8328675002)
+🕐 Updated: `2026-04-09T16:51:21-04:00` &nbsp;|&nbsp; ID: `8328675002`
+
+---
+### 🆕 Staff Software Engineer, Search Quality
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8295792002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `8295792002`
+
+---
+### 🆕 Staff Software Engineer - Security Infrastructure
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7994759002`
+
+---
+### 🆕 Staff Software Engineer - Security Infrastructure
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002)
+🕐 Updated: `2026-04-09T16:51:09-04:00` &nbsp;|&nbsp; ID: `7994770002`
+
+---
+### 🆕 Staff Software Engineer - User Activation
+**databricks** · Engineering - Pipeline
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002)
+🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `7979523002`
+
+---
+### 🆕 Staff Technical Producer
+**databricks** · Infrastructure
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8472697002)
+🕐 Updated: `2026-04-13T03:41:41-04:00` &nbsp;|&nbsp; ID: `8472697002`
+
+---
+### 🆕 Staff Technical Program Manager - IT
+**databricks** · IT
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8378424002)
+🕐 Updated: `2026-04-09T16:51:24-04:00` &nbsp;|&nbsp; ID: `8378424002`
+
+---
+### 🆕 Strategic AI/BI Account Executive
+**databricks** · HQ Management
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8441890002)
+🕐 Updated: `2026-04-17T17:41:45-04:00` &nbsp;|&nbsp; ID: `8441890002`
+
+---
+### 🆕 Strategic Alliance Operations Director
+**databricks** · Business Development
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8439170002)
+🕐 Updated: `2026-04-09T16:51:29-04:00` &nbsp;|&nbsp; ID: `8439170002`
+
+---
+### 🆕 Systems PhD - Software Engineer 
+**databricks** · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8482086002`
+
+---
+### 🆕 Systems PhD - Software Engineer 
+**databricks** · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002)
+🕐 Updated: `2026-04-09T16:51:20-04:00` &nbsp;|&nbsp; ID: `8482037002`
+
+---
+### 🆕 Launch Engineer, Fluid Systems (Starship)
+**spacex** · Stage 0 Propellant Systems Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8504994002?gh_jid=8504994002)
+🕐 Updated: `2026-04-14T17:53:06-04:00` &nbsp;|&nbsp; ID: `8504994002`
+
+---
+### 🆕 Launch Engineer, Ground Support Equipment (Falcon)   
+**spacex** · Falcon Integration West
+📍 Vandenberg, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8374879002?gh_jid=8374879002)
+🕐 Updated: `2026-04-01T18:13:42-04:00` &nbsp;|&nbsp; ID: `8374879002`
+
+---
+### 🆕 Launch Engineer, Stage 0 Propellant Generation (Starship)
+**spacex** · Stage 0 Propellant Generation
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470330002?gh_jid=8470330002)
+🕐 Updated: `2026-04-16T12:42:07-04:00` &nbsp;|&nbsp; ID: `8470330002`
+
+---
+### 🆕 Launch Operations Engineer (Starship)
+**spacex** · Starship Launch and Test Ops Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8447293002?gh_jid=8447293002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8447293002`
+
+---
+### 🆕 Launch Reliability Engineer   
+**spacex** · Launch Reliability - West
+📍 Vandenberg, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8476233002?gh_jid=8476233002)
+🕐 Updated: `2026-03-31T16:00:29-04:00` &nbsp;|&nbsp; ID: `8476233002`
+
+---
+### 🆕 Lead Construction Engineer
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8359198002?gh_jid=8359198002)
+🕐 Updated: `2026-04-01T20:27:06-04:00` &nbsp;|&nbsp; ID: `8359198002`
+
+---
+### 🆕 Lead Electronics Engineer, Gateways (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8390284002?gh_jid=8390284002)
+🕐 Updated: `2026-04-01T17:52:52-04:00` &nbsp;|&nbsp; ID: `8390284002`
+
+---
+### 🆕 Lead Environmental Health & Safety Engineer
+**spacex** · EHS - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8421399002?gh_jid=8421399002)
+🕐 Updated: `2026-03-27T19:18:02-04:00` &nbsp;|&nbsp; ID: `8421399002`
+
+---
+### 🆕 Lead Environmental Health & Safety Engineer
+**spacex** · EHS - McGregor · 🎯 0%
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8382551002?gh_jid=8382551002)
+🕐 Updated: `2026-03-30T17:29:39-04:00` &nbsp;|&nbsp; ID: `8382551002`
+
+---
+### 🆕 Lead Hardware Reliability Engineer (Starlink Aviation)
+**spacex** · Starlink Aviation Reliability
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8231373002?gh_jid=8231373002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8231373002`
+
+---
+### 🆕 Lead IT Systems Engineer, Launch
+**spacex** · Information Technology - Business
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493948002?gh_jid=8493948002)
+🕐 Updated: `2026-04-06T11:35:50-04:00` &nbsp;|&nbsp; ID: `8493948002`
+
+---
+### 🆕 Lead MEP Construction Engineer
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8499431002?gh_jid=8499431002)
+🕐 Updated: `2026-04-08T18:01:21-04:00` &nbsp;|&nbsp; ID: `8499431002`
+
+---
+### 🆕 Lead Scheduler (Starship Production)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8343802002?gh_jid=8343802002)
+🕐 Updated: `2026-04-01T18:45:17-04:00` &nbsp;|&nbsp; ID: `8343802002`
+
+---
+### 🆕 Lead Software Engineer, Application Software (Supply Chain)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8508736002?gh_jid=8508736002)
+🕐 Updated: `2026-04-15T18:25:36-04:00` &nbsp;|&nbsp; ID: `8508736002`
+
+---
+### 🆕 Lead Software Engineer, Flight Systems - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8435966002?gh_jid=8435966002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8435966002`
+
+---
+### 🆕 Lead Software Engineer, Full Stack - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8476329002?gh_jid=8476329002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8476329002`
+
+---
+### 🆕 Lead Supply Chain Reliability Engineer (Starlink)
+**spacex** · Starlink - User Terminal Supply Chain
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8465290002?gh_jid=8465290002)
+🕐 Updated: `2026-04-01T11:35:28-04:00` &nbsp;|&nbsp; ID: `8465290002`
+
+---
+### 🆕 Learning & Development Specialist
+**spacex** · Human Resources
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8504722002?gh_jid=8504722002)
+🕐 Updated: `2026-04-13T15:04:21-04:00` &nbsp;|&nbsp; ID: `8504722002`
+
+---
+### 🆕 Liquefied Natural Gas Process/Project Engineer
+**spacex** · Stage 0 Propellant Generation
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8310496002?gh_jid=8310496002)
+🕐 Updated: `2026-04-01T18:24:08-04:00` &nbsp;|&nbsp; ID: `8310496002`
+
+---
+### 🆕 Loads and Dynamics Engineer, Satellites (Starlink) 
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8421017002?gh_jid=8421017002)
+🕐 Updated: `2026-03-27T20:04:33-04:00` &nbsp;|&nbsp; ID: `8421017002`
+
+---
+### 🆕 Loads & Dynamics Engineer (Starship)
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8207833002?gh_jid=8207833002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8207833002`
+
+---
+### 🆕 Maintenance Engineer, High Pressure Die Casting (Starlink) 
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398621002?gh_jid=8398621002)
+🕐 Updated: `2026-03-31T17:56:59-04:00` &nbsp;|&nbsp; ID: `8398621002`
+
+---
+### 🆕 Maintenance Engineer, PCB (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377580002?gh_jid=8377580002)
+🕐 Updated: `2026-03-27T19:03:05-04:00` &nbsp;|&nbsp; ID: `8377580002`
+
+---
+### 🆕 Maintenance Engineer (Starship)
+**spacex** · Starship Production Maintenance
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8384974002?gh_jid=8384974002)
+🕐 Updated: `2026-03-27T18:59:51-04:00` &nbsp;|&nbsp; ID: `8384974002`
+
+---
+### 🆕 Manager, Applied Computing
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8502573002?gh_jid=8502573002)
+🕐 Updated: `2026-04-10T19:26:07-04:00` &nbsp;|&nbsp; ID: `8502573002`
+
+---
+### 🆕 Manager, Applied Computing 
+**spacex** · Application Software
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8502645002?gh_jid=8502645002)
+🕐 Updated: `2026-04-10T19:24:09-04:00` &nbsp;|&nbsp; ID: `8502645002`
+
+---
+### 🆕 Manager, Equipment and Automation Engineering (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8324553002?gh_jid=8324553002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8324553002`
+
+---
+### 🆕 Manager, Gateway Electronics Engineering (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8224805002?gh_jid=8224805002)
+🕐 Updated: `2026-03-30T17:06:42-04:00` &nbsp;|&nbsp; ID: `8224805002`
+
+---
+### 🆕 Manager, IT Infrastructure (Data Centers)
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8419811002?gh_jid=8419811002)
+🕐 Updated: `2026-03-27T19:30:21-04:00` &nbsp;|&nbsp; ID: `8419811002`
+
+---
+### 🆕 Manager, IT Systems (Applications & Operations)
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8432332002?gh_jid=8432332002)
+🕐 Updated: `2026-03-27T19:02:52-04:00` &nbsp;|&nbsp; ID: `8432332002`
+
+---
+### 🆕 Manager, Starship Build
+**spacex** · Booster Integration Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8283936002?gh_jid=8283936002)
+🕐 Updated: `2026-04-15T19:52:40-04:00` &nbsp;|&nbsp; ID: `8283936002`
+
+---
+### 🆕 Manager, Utilities Engineering and Operations (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482099002?gh_jid=8482099002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8482099002`
+
+---
+### 🆕 Manufacturing Automation Engineer, Solar - (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461521002?gh_jid=8461521002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461521002`
+
+---
+### 🆕 Manufacturing Build Engineer (Starship)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459996002?gh_jid=8459996002)
+🕐 Updated: `2026-03-27T18:58:21-04:00` &nbsp;|&nbsp; ID: `8459996002`
+
+---
+### 🆕 Manufacturing Engineer, Avionics (Starship) 
+**spacex** · Starship Avionics Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377312002?gh_jid=8377312002)
+🕐 Updated: `2026-04-01T19:01:59-04:00` &nbsp;|&nbsp; ID: `8377312002`
+
+---
+### 🆕 Manufacturing Engineer, Gateways (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8273710002?gh_jid=8273710002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8273710002`
+
+---
+### 🆕 Manufacturing Engineering Specialist - 2nd Shift   
+**spacex** · Starlink Production - SMT
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8210296002?gh_jid=8210296002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8210296002`
+
+---
+### 🆕 Manufacturing Engineer, Injection Molding (Starlink)
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506486002?gh_jid=8506486002)
+🕐 Updated: `2026-04-15T12:12:01-04:00` &nbsp;|&nbsp; ID: `8506486002`
+
+---
+### 🆕 Manufacturing Engineer, Machining Inspection (Starship) 
+**spacex** · Build Reliability - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8335814002?gh_jid=8335814002)
+🕐 Updated: `2026-04-01T18:57:15-04:00` &nbsp;|&nbsp; ID: `8335814002`
+
+---
+### 🆕 Manufacturing Engineer, Machining (Starship)   
+**spacex** · Starship Components Machining
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8508315002?gh_jid=8508315002)
+🕐 Updated: `2026-04-15T11:33:08-04:00` &nbsp;|&nbsp; ID: `8508315002`
+
+---
+### 🆕 Manufacturing Engineer, Materials Management (Starlink)
+**spacex** · Starlink Materials Management - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8365521002?gh_jid=8365521002)
+🕐 Updated: `2026-03-27T19:02:36-04:00` &nbsp;|&nbsp; ID: `8365521002`
+
+---
+### 🆕 Manufacturing Engineer, Optical Fiber (Starlink)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357150002?gh_jid=8357150002)
+🕐 Updated: `2026-03-30T17:55:01-04:00` &nbsp;|&nbsp; ID: `8357150002`
+
+---
+### 🆕 Manufacturing Engineer, PCBA (Starlink)
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506546002?gh_jid=8506546002)
+🕐 Updated: `2026-04-16T17:59:19-04:00` &nbsp;|&nbsp; ID: `8506546002`
+
+---
+### 🆕 Manufacturing Engineer, PCBA (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8440246002?gh_jid=8440246002)
+🕐 Updated: `2026-04-14T00:38:03-04:00` &nbsp;|&nbsp; ID: `8440246002`
+
+---
+### 🆕 Manufacturing Engineer (Raptor Machining)
+**spacex** · Raptor Machining - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8401244002?gh_jid=8401244002)
+🕐 Updated: `2026-03-31T16:59:20-04:00` &nbsp;|&nbsp; ID: `8401244002`
+
+---
+### 🆕 Manufacturing Engineer, Raptor Turbomachinery
+**spacex** · Raptor Turbomachinery - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8463185002?gh_jid=8463185002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8463185002`
+
+---
+### 🆕 Manufacturing Engineer, Solar (Starlink)
+**spacex** · Starlink Satellite Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8406833002?gh_jid=8406833002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8406833002`
+
+---
+### 🆕 Manufacturing Engineer (Starlink)
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506697002?gh_jid=8506697002)
+🕐 Updated: `2026-04-16T17:59:36-04:00` &nbsp;|&nbsp; ID: `8506697002`
+
+---
+### 🆕 Manufacturing Engineer (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494173002?gh_jid=8494173002)
+🕐 Updated: `2026-04-06T11:16:04-04:00` &nbsp;|&nbsp; ID: `8494173002`
+
+---
+### 🆕 Manufacturing Engineer – Supplier Development, Optics & Optomechanical Systems (Starlink)
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398061002?gh_jid=8398061002)
+🕐 Updated: `2026-04-06T16:50:58-04:00` &nbsp;|&nbsp; ID: `8398061002`
+
+---
+### 🆕 Manufacturing Engineer, Supplier Development (Starlink)
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398189002?gh_jid=8398189002)
+🕐 Updated: `2026-04-06T16:52:09-04:00` &nbsp;|&nbsp; ID: `8398189002`
+
+---
+### 🆕 Manufacturing Engineer, Supply Chain (Starbase)
+**spacex** · Starbase Supply Chain
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8364386002?gh_jid=8364386002)
+🕐 Updated: `2026-04-01T19:14:42-04:00` &nbsp;|&nbsp; ID: `8364386002`
+
+---
+### 🆕 Manufacturing Engineer, Tool & Die Machining (Starlink)
+**spacex** · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8335014002?gh_jid=8335014002)
+🕐 Updated: `2026-04-01T18:55:29-04:00` &nbsp;|&nbsp; ID: `8335014002`
+
+---
+### 🆕 Manufacturing Specialist, PCBA (Starlink)
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506522002?gh_jid=8506522002)
+🕐 Updated: `2026-04-16T11:10:17-04:00` &nbsp;|&nbsp; ID: `8506522002`
+
+---
+### 🆕 Manufacturing Specialist (Starlink) - 2nd Shift
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506759002?gh_jid=8506759002)
+🕐 Updated: `2026-04-16T18:00:23-04:00` &nbsp;|&nbsp; ID: `8506759002`
+
+---
+### 🆕 Material Flow Engineer
+**spacex** · Starship Vehicle Supply Chain
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461337002?gh_jid=8461337002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461337002`
+
+---
+### 🆕 Materials Engineer, Metals
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8404949002?gh_jid=8404949002)
+🕐 Updated: `2026-04-08T17:47:47-04:00` &nbsp;|&nbsp; ID: `8404949002`
+
+---
+### 🆕 Materials Engineer, Polymers
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8393663002?gh_jid=8393663002)
+🕐 Updated: `2026-04-01T17:36:59-04:00` &nbsp;|&nbsp; ID: `8393663002`
+
+---
+### 🆕 Materials Engineer, Propulsion Materials
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8424850002?gh_jid=8424850002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8424850002`
+
+---
+### 🆕 Materials Engineer, Satellites (Starlink)
+**spacex** · Materials Engineering - Starlink Materials
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487266002?gh_jid=8487266002)
+🕐 Updated: `2026-03-31T20:38:45-04:00` &nbsp;|&nbsp; ID: `8487266002`
+
+---
+### 🆕 Materials R&D Technician
+**spacex** · Materials Engineering - Materials Labs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482159002?gh_jid=8482159002)
+🕐 Updated: `2026-04-01T17:44:27-04:00` &nbsp;|&nbsp; ID: `8482159002`
+
+---
+### 🆕 Materials R&D Technician
+**spacex** · Materials Engineering - Starlink Materials
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407943002?gh_jid=8407943002)
+🕐 Updated: `2026-04-16T11:16:13-04:00` &nbsp;|&nbsp; ID: `8407943002`
+
+---
+### 🆕 Materials R&D Technician - Level 4/5
+**spacex** · Materials Engineering - Starlink Materials
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8498815002?gh_jid=8498815002)
+🕐 Updated: `2026-04-08T19:22:12-04:00` &nbsp;|&nbsp; ID: `8498815002`
+
+---
+### 🆕 Materials R&D Technician, Silicon Crystal Growth
+**spacex** · Materials Engineering - Starlink Materials
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8414256002?gh_jid=8414256002)
+🕐 Updated: `2026-03-30T17:50:04-04:00` &nbsp;|&nbsp; ID: `8414256002`
+
+---
+### 🆕 Materials R&D Technician, Silicon Wafer Engineering
+**spacex** · Materials Engineering - Starlink Materials
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8445721002?gh_jid=8445721002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8445721002`
+
+---
+### 🆕 Materials Technician, Tool and Die
+**spacex** · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8342679002?gh_jid=8342679002)
+🕐 Updated: `2026-03-27T19:45:58-04:00` &nbsp;|&nbsp; ID: `8342679002`
+
+---
+### 🆕 Mechanical Design Engineer, Gateways (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8273339002?gh_jid=8273339002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8273339002`
+
+---
+### 🆕 Mechanical Design Engineer (Starship Components) 
+**spacex** · Starship Components Design
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391905002?gh_jid=8391905002)
+🕐 Updated: `2026-04-15T19:48:08-04:00` &nbsp;|&nbsp; ID: `8391905002`
+
+---
+### 🆕 Mechanical Designer, Automation & Controls (Starship Launch Pad)
+**spacex** · Tower and Launch Mount Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8352050002?gh_jid=8352050002)
+🕐 Updated: `2026-04-01T20:23:43-04:00` &nbsp;|&nbsp; ID: `8352050002`
+
+---
+### 🆕 Mechanical Development Test Engineer - Satellites (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417814002?gh_jid=8417814002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8417814002`
+
+---
+### 🆕 Mechanical Engineer, Automation (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8462160002?gh_jid=8462160002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8462160002`
+
+---
+### 🆕 Mechanical Engineer, Aviation Hardware (Starlink)
+**spacex** · Starlink Aviation Engineering
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8425726002?gh_jid=8425726002)
+🕐 Updated: `2026-03-31T18:26:52-04:00` &nbsp;|&nbsp; ID: `8425726002`
+
+---
+### 🆕 Mechanical Engineer, Aviation Integration (Starlink)
+**spacex** · Starlink Aviation Engineering
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8433508002?gh_jid=8433508002)
+🕐 Updated: `2026-03-27T19:39:30-04:00` &nbsp;|&nbsp; ID: `8433508002`
+
+---
+### 🆕 Mechanical Engineer, Cabin Structures (Crew Starship)
+**spacex** · Crew Starship
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426059002?gh_jid=8426059002)
+🕐 Updated: `2026-04-16T11:13:12-04:00` &nbsp;|&nbsp; ID: `8426059002`
+
+---
+### 🆕 Mechanical Engineer (Components Build Engineer, Starship)
+**spacex** · Starship Components Manufacturing
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8441132002?gh_jid=8441132002)
+🕐 Updated: `2026-04-15T19:47:03-04:00` &nbsp;|&nbsp; ID: `8441132002`
+
+---
+### 🆕 Mechanical Engineer, Consumer Hardware (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8283612002?gh_jid=8283612002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8283612002`
+
+---
+### 🆕 Mechanical Engineer, Consumer Hardware (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8202292002?gh_jid=8202292002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8202292002`
+
+---
+### 🆕 Mechanical Engineer (Facilities)
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8491883002?gh_jid=8491883002)
+🕐 Updated: `2026-04-06T11:31:41-04:00` &nbsp;|&nbsp; ID: `8491883002`
+
+---
+### 🆕 Mechanical Engineer, Flight Termination System (Starship)
+**spacex** · Components Test - Starship
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403195002?gh_jid=8403195002)
+🕐 Updated: `2026-03-27T19:55:09-04:00` &nbsp;|&nbsp; ID: `8403195002`
+
+---
+### 🆕 Mechanical Engineer, Hardware Reliability (Starlink Product)
+**spacex** · Starlink Reliability - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8364806002?gh_jid=8364806002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8364806002`
+
+---
+### 🆕 Mechanical Engineer, Infrastructure
+**spacex** · Spaceport Development
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8451034002?gh_jid=8451034002)
+🕐 Updated: `2026-04-01T17:39:42-04:00` &nbsp;|&nbsp; ID: `8451034002`
+
+---
+### 🆕 Mechanical Engineer, Machine Design (Starship)
+**spacex** · Starship Tooling Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8216534002?gh_jid=8216534002)
+🕐 Updated: `2026-04-08T17:48:15-04:00` &nbsp;|&nbsp; ID: `8216534002`
+
+---
+### 🆕 Mechanical Engineer, Mechanisms (Crew Starship)
+**spacex** · Crew Starship
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407781002?gh_jid=8407781002)
+🕐 Updated: `2026-04-15T19:53:42-04:00` &nbsp;|&nbsp; ID: `8407781002`
+
+---
+### 🆕 Mechanical Engineer, Optical Production (Starlink)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397295002?gh_jid=8397295002)
+🕐 Updated: `2026-03-30T18:30:24-04:00` &nbsp;|&nbsp; ID: `8397295002`
+
+---
+### 🆕 Mechanical Engineer (Optical Test)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8208646002?gh_jid=8208646002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8208646002`
+
+---
+### 🆕 Mechanical Engineer, PCB (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391092002?gh_jid=8391092002)
+🕐 Updated: `2026-03-31T17:51:41-04:00` &nbsp;|&nbsp; ID: `8391092002`
+
+---
+### 🆕 Mechanical Engineer - Precision Machining (Starlink)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8210995002?gh_jid=8210995002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8210995002`
+
+---
+### 🆕 Mechanical Engineer, Satellite Bus (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497122002?gh_jid=8497122002)
+🕐 Updated: `2026-04-08T11:16:41-04:00` &nbsp;|&nbsp; ID: `8497122002`
+
+---
+### 🆕 Mechanical Engineer, Satellite Harnessing (Starlink) 
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495848002?gh_jid=8495848002)
+🕐 Updated: `2026-04-09T11:48:29-04:00` &nbsp;|&nbsp; ID: `8495848002`
+
+---
+### 🆕 Mechanical Engineer, Satellite Payload (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495851002?gh_jid=8495851002)
+🕐 Updated: `2026-04-09T11:49:29-04:00` &nbsp;|&nbsp; ID: `8495851002`
+
+---
+### 🆕 Mechanical Engineer, Satellite Payload (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387944002?gh_jid=8387944002)
+🕐 Updated: `2026-03-27T19:05:09-04:00` &nbsp;|&nbsp; ID: `8387944002`
+
+---
+### 🆕 Mechanical Engineer - Satellite Solar Array, (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495845002?gh_jid=8495845002)
+🕐 Updated: `2026-04-07T11:25:02-04:00` &nbsp;|&nbsp; ID: `8495845002`
+
+---
+### 🆕 Mechanical Engineer, Satellites (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387949002?gh_jid=8387949002)
+🕐 Updated: `2026-03-27T19:04:33-04:00` &nbsp;|&nbsp; ID: `8387949002`
+
+---
+### 🆕 Mechanical Engineer, Solar Cell Factory (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8383510002?gh_jid=8383510002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8383510002`
+
+---
+### 🆕 Mechanical Engineer (Starlink Mobile)
+**spacex** · Starlink Mobile Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8376521002?gh_jid=8376521002)
+🕐 Updated: `2026-03-27T19:01:51-04:00` &nbsp;|&nbsp; ID: `8376521002`
+
+---
+### 🆕 Mechanical Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395255002?gh_jid=8395255002)
+🕐 Updated: `2026-04-14T20:25:54-04:00` &nbsp;|&nbsp; ID: `8395255002`
+
+---
+### 🆕 Mechanical Engineer (Starship)
+**spacex** · Ship Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002)
+🕐 Updated: `2026-04-17T11:36:06-04:00` &nbsp;|&nbsp; ID: `8511462002`
+
+---
+### 🆕 Mechanical Engineer (Starship)
+**spacex** · Starship Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8400602002?gh_jid=8400602002)
+🕐 Updated: `2026-03-31T18:39:10-04:00` &nbsp;|&nbsp; ID: `8400602002`
+
+---
+### 🆕 Mechanical Engineer (Starship Avionics)
+**spacex** · Starship Electronics
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397419002?gh_jid=8397419002)
+🕐 Updated: `2026-03-30T18:29:14-04:00` &nbsp;|&nbsp; ID: `8397419002`
+
+---
+### 🆕 Mechanical Engineer (Starship Avionics) 
+**spacex** · Starship Avionics Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397154002?gh_jid=8397154002)
+🕐 Updated: `2026-03-27T20:40:56-04:00` &nbsp;|&nbsp; ID: `8397154002`
+
+---
+### 🆕 Mechanical Engineer (Starship Components Manufacturing)
+**spacex** · Starship Components Manufacturing
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391903002?gh_jid=8391903002)
+🕐 Updated: `2026-04-15T19:47:22-04:00` &nbsp;|&nbsp; ID: `8391903002`
+
+---
+### 🆕 Mechanical Engineer (Starship Infrastructure)
+**spacex** · Launch Infrastructure - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8389510002?gh_jid=8389510002)
+🕐 Updated: `2026-04-01T17:54:31-04:00` &nbsp;|&nbsp; ID: `8389510002`
+
+---
+### 🆕 Mechanical Engineer (Starship Launch Hardware)
+**spacex** · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8458698002?gh_jid=8458698002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8458698002`
+
+---
+### 🆕 Mechanical Engineer, Starship Launch Infrastructure (Gigabay)
+**spacex** · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8400113002?gh_jid=8400113002)
+🕐 Updated: `2026-03-30T12:36:01-04:00` &nbsp;|&nbsp; ID: `8400113002`
+
+---
+### 🆕 Mechanical Engineer (Starship Mechanisms)
+**spacex** · Starship Mechanisms Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217725002?gh_jid=8217725002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217725002`
+
+---
+### 🆕 Mechanical Engineer (Super Heavy Booster)
+**spacex** · Booster Structures Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217432002?gh_jid=8217432002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217432002`
+
+---
+### 🆕 Mechanical Engineer, Test Hardware Fabrication
+**spacex** · Texas - Fabrication
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8492456002?gh_jid=8492456002)
+🕐 Updated: `2026-04-02T14:44:07-04:00` &nbsp;|&nbsp; ID: `8492456002`
+
+---
+### 🆕 Mechanical Engineer, Thermal Hardware (Starship)
+**spacex** · Thermal Hardware
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395401002?gh_jid=8395401002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8395401002`
+
+---
+### 🆕 Mechanical Engineer, Tower/Launch and Test
+**spacex** · Tower and Launch Mount Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8504788002?gh_jid=8504788002)
+🕐 Updated: `2026-04-14T17:53:56-04:00` &nbsp;|&nbsp; ID: `8504788002`
+
+---
+### 🆕 Mechanical Integration & Test Engineer (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501168002?gh_jid=8501168002)
+🕐 Updated: `2026-04-14T20:26:55-04:00` &nbsp;|&nbsp; ID: `8501168002`
+
+---
+### 🆕 Mechanical Integration & Test Engineer, User Products (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002)
+🕐 Updated: `2026-04-15T13:45:16-04:00` &nbsp;|&nbsp; ID: `8508577002`
+
+---
+### 🆕 Mechanisms Engineer (Starship)
+**spacex** · Starship Mechanisms Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217716002?gh_jid=8217716002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217716002`
+
+---
+### 🆕 Mechanisms Test Engineer
+**spacex** · Hawthorne - Development Test
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217707002?gh_jid=8217707002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217707002`
+
+---
+### 🆕 Mechatronics Maintenance Engineer (Starship)
+**spacex** · Starship Production Maintenance
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490223002?gh_jid=8490223002)
+🕐 Updated: `2026-04-01T15:59:59-04:00` &nbsp;|&nbsp; ID: `8490223002`
+
+---
+### 🆕 MEP Construction Engineer 
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501090002?gh_jid=8501090002)
+🕐 Updated: `2026-04-09T18:41:06-04:00` &nbsp;|&nbsp; ID: `8501090002`
+
+---
+### 🆕 MEP/Construction Engineer
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497588002?gh_jid=8497588002)
+🕐 Updated: `2026-04-07T19:14:15-04:00` &nbsp;|&nbsp; ID: `8497588002`
+
+---
+### 🆕 MEP Design Engineer
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497589002?gh_jid=8497589002)
+🕐 Updated: `2026-04-07T19:14:36-04:00` &nbsp;|&nbsp; ID: `8497589002`
+
+---
+### 🆕 Microelectronics Process Engineer, Optical Products (Starlink)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357168002?gh_jid=8357168002)
+🕐 Updated: `2026-04-01T20:23:06-04:00` &nbsp;|&nbsp; ID: `8357168002`
+
+---
+### 🆕 Mission Integration Engineer, Advanced Waveforms (Starshield Missions)
+**spacex** · Starshield Missions
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8415065002?gh_jid=8415065002)
+🕐 Updated: `2026-04-14T14:55:21-04:00` &nbsp;|&nbsp; ID: `8415065002`
+
+---
+### 🆕 Mission Integration Engineer, C3 - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8468689002?gh_jid=8468689002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8468689002`
+
+---
+### 🆕 Mission Integration Engineer, Mission Systems (Starshield)
+**spacex** · Starshield Missions
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8419314002?gh_jid=8419314002)
+🕐 Updated: `2026-04-14T14:56:59-04:00` &nbsp;|&nbsp; ID: `8419314002`
+
+---
+### 🆕 Mission Integration Engineer, NSSL
+**spacex** · Gov't & Commercial Mission Management
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8508411002?gh_jid=8508411002)
+🕐 Updated: `2026-04-16T14:16:54-04:00` &nbsp;|&nbsp; ID: `8508411002`
+
+---
+### 🆕 Mission Integration Engineer, User Products (Starshield)
+**spacex** · Starshield Missions
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8502375002?gh_jid=8502375002)
+🕐 Updated: `2026-04-14T14:57:49-04:00` &nbsp;|&nbsp; ID: `8502375002`
+
+---
+### 🆕 NDE Engineer (Starship)
+**spacex** · Structures Build Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402832002?gh_jid=8402832002)
+🕐 Updated: `2026-03-30T18:03:55-04:00` &nbsp;|&nbsp; ID: `8402832002`
+
+---
+### 🆕 NDE Inspector (Starship)
+**spacex** · Starship COPV Engineering
+📍 Westminster, MD &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483539002?gh_jid=8483539002)
+🕐 Updated: `2026-03-30T16:00:30-04:00` &nbsp;|&nbsp; ID: `8483539002`
+
+---
+### 🆕 NDE Specialist, Computed Tomography (CT)
+**spacex** · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8404933002?gh_jid=8404933002)
+🕐 Updated: `2026-03-27T19:29:01-04:00` &nbsp;|&nbsp; ID: `8404933002`
+
+---
+### 🆕 NDE Specialist, Eddy Current (Starship) - Level III
+**spacex** · Structures Build Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397219002?gh_jid=8397219002)
+🕐 Updated: `2026-04-16T11:24:12-04:00` &nbsp;|&nbsp; ID: `8397219002`
+
+---
+### 🆕 Network Automation Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375311002?gh_jid=8375311002)
+🕐 Updated: `2026-03-27T20:26:26-04:00` &nbsp;|&nbsp; ID: `8375311002`
+
+---
+### 🆕 Network Engineer (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8213701002?gh_jid=8213701002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8213701002`
+
+---
+### 🆕 Network Engineer (Starlink Community Gateway)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8406017002?gh_jid=8406017002)
+🕐 Updated: `2026-04-09T11:13:51-04:00` &nbsp;|&nbsp; ID: `8406017002`
+
+---
+### 🆕 Network Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375288002?gh_jid=8375288002)
+🕐 Updated: `2026-04-01T19:16:52-04:00` &nbsp;|&nbsp; ID: `8375288002`
+
+---
+### 🆕 Network Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8392855002?gh_jid=8392855002)
+🕐 Updated: `2026-03-31T16:02:30-04:00` &nbsp;|&nbsp; ID: `8392855002`
+
+---
+### 🆕 Network Operations Technician (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8366770002?gh_jid=8366770002)
+🕐 Updated: `2026-04-01T19:05:16-04:00` &nbsp;|&nbsp; ID: `8366770002`
+
+---
+### 🆕 Network Security Administrator
+**spacex** · Security Engineering
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8198752002?gh_jid=8198752002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8198752002`
+
+---
+### 🆕 Network Security Engineer
+**spacex** · Security Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8208775002?gh_jid=8208775002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8208775002`
+
+---
+### 🆕 Network Software Integration Engineer (Starlink) 
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459808002?gh_jid=8459808002)
+🕐 Updated: `2026-03-27T20:54:06-04:00` &nbsp;|&nbsp; ID: `8459808002`
+
+---
+### 🆕 New Graduate Engineer, Electrical
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483305002?gh_jid=8483305002)
+🕐 Updated: `2026-04-14T20:28:47-04:00` &nbsp;|&nbsp; ID: `8483305002`
+
+---
+### 🆕 New Graduate Engineer, Electrical (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8148530002?gh_jid=8148530002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8148530002`
+
+---
+### 🆕 New Graduate Engineer, Electrical (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407346002?gh_jid=8407346002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8407346002`
+
+---
+### 🆕 New Graduate Engineer, Mechanical
+**spacex** · Texas - Test Support
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497524002?gh_jid=8497524002)
+🕐 Updated: `2026-04-09T12:03:14-04:00` &nbsp;|&nbsp; ID: `8497524002`
+
+---
+### 🆕 New Graduate Engineer, Mechanical (Cape Canaveral) 
+**spacex** · Launch
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8210631002?gh_jid=8210631002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8210631002`
+
+---
+### 🆕 New Graduate Engineer, Mechanical (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407431002?gh_jid=8407431002)
+🕐 Updated: `2026-03-30T17:56:20-04:00` &nbsp;|&nbsp; ID: `8407431002`
+
+---
+### 🆕 New Graduate Engineer, Mechanical (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8148516002?gh_jid=8148516002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8148516002`
+
+---
+### 🆕 New Graduate Engineer, Mechanical (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493166002?gh_jid=8493166002)
+🕐 Updated: `2026-04-14T20:29:05-04:00` &nbsp;|&nbsp; ID: `8493166002`
+
+---
+### 🆕 New Graduate Engineer, Mechanical (Starship)
+**spacex** · Ship Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497499002?gh_jid=8497499002)
+🕐 Updated: `2026-04-14T10:49:07-04:00` &nbsp;|&nbsp; ID: `8497499002`
+
+---
+### 🆕 New Graduate Engineer, Propulsion (Starship)
+**spacex** · Booster Prop Systems Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002)
+🕐 Updated: `2026-04-07T19:35:51-04:00` &nbsp;|&nbsp; ID: `8497447002`
+
+---
+### 🆕 New Graduate Engineer, Software
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002)
+🕐 Updated: `2026-04-03T10:07:16-04:00` &nbsp;|&nbsp; ID: `8493079002`
+
+---
+### 🆕 New Graduate Engineer, Software (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002)
+🕐 Updated: `2026-04-08T17:48:57-04:00` &nbsp;|&nbsp; ID: `8376990002`
+
+---
+### 🆕 New Graduate Engineer, Software (Starlink)
+**spacex** · Starlink Consumer Platform Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8446263002`
+
+---
+### 🆕 New Graduate Engineer, Software (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002)
+🕐 Updated: `2026-04-09T11:39:46-04:00` &nbsp;|&nbsp; ID: `8399140002`
+
+---
+### 🆕 Office Manager
+**spacex** · Starship COPV Engineering
+📍 Westminster, MD &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483490002?gh_jid=8483490002)
+🕐 Updated: `2026-04-15T19:01:50-04:00` &nbsp;|&nbsp; ID: `8483490002`
+
+---
+### 🆕 On-orbit Reliability Engineer, Satellites (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8436942002?gh_jid=8436942002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8436942002`
+
+---
+### 🆕 Operations Analyst, Reliability (Starship)
+**spacex** · Starship Build Reliability Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8463192002?gh_jid=8463192002)
+🕐 Updated: `2026-03-27T20:06:10-04:00` &nbsp;|&nbsp; ID: `8463192002`
+
+---
+### 🆕 Operations Engineer
+**spacex** · Security Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8468726002?gh_jid=8468726002)
+🕐 Updated: `2026-03-31T17:40:53-04:00` &nbsp;|&nbsp; ID: `8468726002`
+
+---
+### 🆕 Operations Engineer, Environmental Health & Safety
+**spacex** · EHS - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8427659002?gh_jid=8427659002)
+🕐 Updated: `2026-03-27T19:07:14-04:00` &nbsp;|&nbsp; ID: `8427659002`
+
+---
+### 🆕 Operations Engineer, Global Operations (Starlink)
+**spacex** · Starlink - Global Operations
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490425002?gh_jid=8490425002)
+🕐 Updated: `2026-04-06T14:32:07-04:00` &nbsp;|&nbsp; ID: `8490425002`
+
+---
+### 🆕 Operations Engineer (Raptor)
+**spacex** · Raptor Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402855002?gh_jid=8402855002)
+🕐 Updated: `2026-04-10T20:26:50-04:00` &nbsp;|&nbsp; ID: `8402855002`
+
+---
+### 🆕 Operations Engineer, Security 
+**spacex** · Security Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397366002?gh_jid=8397366002)
+🕐 Updated: `2026-03-31T17:42:32-04:00` &nbsp;|&nbsp; ID: `8397366002`
+
+---
+### 🆕 Operations Engineer (Space Planning)
+**spacex** · Corporate Operations Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362961002?gh_jid=8362961002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8362961002`
+
+---
+### 🆕 Operations Engineer, Spaceport Facilities
+**spacex** · Facilities - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450042002?gh_jid=8450042002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8450042002`
+
+---
+### 🆕 Operations Engineer, Spaceport Operations
+**spacex** · Starbase Spaceport - Core
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8513119002?gh_jid=8513119002)
+🕐 Updated: `2026-04-18T01:44:06-04:00` &nbsp;|&nbsp; ID: `8513119002`
+
+---
+### 🆕 Operations Engineer (Starlink)
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488280002?gh_jid=8488280002)
+🕐 Updated: `2026-04-01T18:53:12-04:00` &nbsp;|&nbsp; ID: `8488280002`
+
+---
+### 🆕 Operations Engineer (Starlink Aviation)
+**spacex** · Starlink Aviation Reliability
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8378412002?gh_jid=8378412002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8378412002`
+
+---
+### 🆕 Operations Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8496306002?gh_jid=8496306002)
+🕐 Updated: `2026-04-08T08:09:11-04:00` &nbsp;|&nbsp; ID: `8496306002`
+
+---
+### 🆕 Operations Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403197002?gh_jid=8403197002)
+🕐 Updated: `2026-04-16T11:10:05-04:00` &nbsp;|&nbsp; ID: `8403197002`
+
+---
+### 🆕 Operations Engineer (Starlink Production)
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8355754002?gh_jid=8355754002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8355754002`
+
+---
+### 🆕 Operations Engineer, Starlink Satellites
+**spacex** · Starlink Satellite Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8250478002?gh_jid=8250478002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8250478002`
+
+---
+### 🆕 Operations Engineer (Starship Components)
+**spacex** · Starship Components Design
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484533002?gh_jid=8484533002)
+🕐 Updated: `2026-03-30T11:52:47-04:00` &nbsp;|&nbsp; ID: `8484533002`
+
+---
+### 🆕 Operations Engineer (Thermal Hardware)
+**spacex** · Launch Operations Strategy
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8457097002?gh_jid=8457097002)
+🕐 Updated: `2026-03-30T17:33:17-04:00` &nbsp;|&nbsp; ID: `8457097002`
+
+---
+### 🆕 Optical Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402772002?gh_jid=8402772002)
+🕐 Updated: `2026-04-14T20:39:38-04:00` &nbsp;|&nbsp; ID: `8402772002`
+
+---
+### 🆕 OS/Platform Software Engineer (Starlink)
+**spacex** · Starlink Satellite Flight Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402452002?gh_jid=8402452002)
+🕐 Updated: `2026-03-27T20:23:20-04:00` &nbsp;|&nbsp; ID: `8402452002`
+
+---
+### 🆕 PCB Designer (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8223368002?gh_jid=8223368002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8223368002`
+
+---
+### 🆕 PCB Designer (Starlink)   
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8223370002?gh_jid=8223370002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8223370002`
+
+---
+### 🆕 PCB Designer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397660002?gh_jid=8397660002)
+🕐 Updated: `2026-04-14T20:40:48-04:00` &nbsp;|&nbsp; ID: `8397660002`
+
+---
+### 🆕 Physical Design Engineer II (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506508002?gh_jid=8506508002)
+🕐 Updated: `2026-04-14T20:19:06-04:00` &nbsp;|&nbsp; ID: `8506508002`
+
+---
+### 🆕 Physical Design Engineer II (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506545002?gh_jid=8506545002)
+🕐 Updated: `2026-04-14T20:19:18-04:00` &nbsp;|&nbsp; ID: `8506545002`
+
+---
+### 🆕 Physical Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8347330002?gh_jid=8347330002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8347330002`
+
+---
+### 🆕 Platform Engineer, Flight Software (Starlink)  
+**spacex** · Starlink Satellite Flight Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478286002?gh_jid=8478286002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478286002`
+
+---
+### 🆕 Power Electronics Engineer, Satellites (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387955002?gh_jid=8387955002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8387955002`
+
+---
+### 🆕 Power Systems Engineer
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8401210002?gh_jid=8401210002)
+🕐 Updated: `2026-04-09T16:41:08-04:00` &nbsp;|&nbsp; ID: `8401210002`
+
+---
+### 🆕 Power Systems Engineer (Starship)
+**spacex** · High Power Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450056002?gh_jid=8450056002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8450056002`
+
+---
+### 🆕 Power Systems Engineer (Starship Avionics)
+**spacex** · Starship Avionics Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8355513002?gh_jid=8355513002)
+🕐 Updated: `2026-04-08T20:11:33-04:00` &nbsp;|&nbsp; ID: `8355513002`
+
+---
+### 🆕 Principal Antenna Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8330605002?gh_jid=8330605002)
+🕐 Updated: `2026-03-30T15:10:22-04:00` &nbsp;|&nbsp; ID: `8330605002`
+
+---
+### 🆕 Principal Antenna Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395247002?gh_jid=8395247002)
+🕐 Updated: `2026-04-14T14:48:27-04:00` &nbsp;|&nbsp; ID: `8395247002`
+
+---
+### 🆕 Principal ASIC Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8348949002?gh_jid=8348949002)
+🕐 Updated: `2026-04-01T20:13:23-04:00` &nbsp;|&nbsp; ID: `8348949002`
+
+---
+### 🆕 Principal ASIC Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8355562002?gh_jid=8355562002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8355562002`
+
+---
+### 🆕 Principal ASIC Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8348957002?gh_jid=8348957002)
+🕐 Updated: `2026-03-30T15:39:40-04:00` &nbsp;|&nbsp; ID: `8348957002`
+
+---
+### 🆕 Principal ASIC Design Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497441002?gh_jid=8497441002)
+🕐 Updated: `2026-04-14T14:50:47-04:00` &nbsp;|&nbsp; ID: `8497441002`
+
+---
+### 🆕 Principal ASIC Design Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493125002?gh_jid=8493125002)
+🕐 Updated: `2026-04-14T14:48:56-04:00` &nbsp;|&nbsp; ID: `8493125002`
+
+---
+### 🆕 Principal ASIC Design Verification Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497457002?gh_jid=8497457002)
+🕐 Updated: `2026-04-14T14:51:43-04:00` &nbsp;|&nbsp; ID: `8497457002`
+
+---
+### 🆕 Principal ASIC Design Verification Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493902002?gh_jid=8493902002)
+🕐 Updated: `2026-04-14T14:51:15-04:00` &nbsp;|&nbsp; ID: `8493902002`
+
+---
+### 🆕 Principal Automation & Controls Engineer (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8348148002?gh_jid=8348148002)
+🕐 Updated: `2026-04-01T18:35:02-04:00` &nbsp;|&nbsp; ID: `8348148002`
+
+---
+### 🆕 Principal Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358356002?gh_jid=8358356002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358356002`
+
+---
+### 🆕 Principal Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358358002?gh_jid=8358358002)
+🕐 Updated: `2026-04-01T20:28:34-04:00` &nbsp;|&nbsp; ID: `8358358002`
+
+---
+### 🆕 Principal Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358350002?gh_jid=8358350002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358350002`
+
+---
+### 🆕 Principal DFT Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399732002?gh_jid=8399732002)
+🕐 Updated: `2026-03-27T19:50:15-04:00` &nbsp;|&nbsp; ID: `8399732002`
+
+---
+### 🆕 Principal Electrical Design Engineer, Gateways & Customer Hardware (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357119002?gh_jid=8357119002)
+🕐 Updated: `2026-03-27T19:32:48-04:00` &nbsp;|&nbsp; ID: `8357119002`
+
+---
+### 🆕 Principal Electrical Engineer, Satellites - (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461465002?gh_jid=8461465002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461465002`
+
+---
+### 🆕 Principal IC Packaging Test Engineer, Silicon Technology (Starlink) 
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8230927002?gh_jid=8230927002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8230927002`
+
+---
+### 🆕 Principal Mechanical Engineer (Starship)
+**spacex** · Ship Build Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8327181002?gh_jid=8327181002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8327181002`
+
+---
+### 🆕 Principal RFIC Engineer (Starshield Silicon)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395232002?gh_jid=8395232002)
+🕐 Updated: `2026-04-14T14:52:19-04:00` &nbsp;|&nbsp; ID: `8395232002`
+
+---
+### 🆕 Principal RF Software Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8370784002?gh_jid=8370784002)
+🕐 Updated: `2026-04-14T14:53:02-04:00` &nbsp;|&nbsp; ID: `8370784002`
+
+---
+### 🆕 Principal Security Software Engineer, Applied Computing (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482337002?gh_jid=8482337002)
+🕐 Updated: `2026-03-27T18:30:43-04:00` &nbsp;|&nbsp; ID: `8482337002`
+
+---
+### 🆕 Principal Security Software Engineer, Applied Computing (Starshield) 
+**spacex** · Starshield Software Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482330002?gh_jid=8482330002)
+🕐 Updated: `2026-03-27T11:44:12-04:00` &nbsp;|&nbsp; ID: `8482330002`
+
+---
+### 🆕 Principal Security Software Engineer, Applied Computing (Starshield) 
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482207002?gh_jid=8482207002)
+🕐 Updated: `2026-03-27T11:44:32-04:00` &nbsp;|&nbsp; ID: `8482207002`
+
+---
+### 🆕 Principal Security Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482354002?gh_jid=8482354002)
+🕐 Updated: `2026-03-27T18:14:38-04:00` &nbsp;|&nbsp; ID: `8482354002`
+
+---
+### 🆕 Principal Security Software Engineer (Starshield) 
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482345002?gh_jid=8482345002)
+🕐 Updated: `2026-03-27T11:42:00-04:00` &nbsp;|&nbsp; ID: `8482345002`
+
+---
+### 🆕 Principal Software Engineer (Platform Team)
+**spacex** · Starship Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494978002?gh_jid=8494978002)
+🕐 Updated: `2026-04-07T10:26:12-04:00` &nbsp;|&nbsp; ID: `8494978002`
+
+---
+### 🆕 Principal Supplier Development Engineer, Battery (Starlink)
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8512105002?gh_jid=8512105002)
+🕐 Updated: `2026-04-17T13:20:54-04:00` &nbsp;|&nbsp; ID: `8512105002`
+
+---
+### 🆕 Printed Circuit Board (PCB) Reliability Engineer (Starlink) 
+**spacex** · Starlink Satellite PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8378554002?gh_jid=8378554002)
+🕐 Updated: `2026-03-27T21:03:47-04:00` &nbsp;|&nbsp; ID: `8378554002`
+
+---
+### 🆕 Process Controls Engineer, Solar Cell Factory (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8383450002?gh_jid=8383450002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8383450002`
+
+---
+### 🆕 Process Engineer, Industrial Water (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395321002?gh_jid=8395321002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8395321002`
+
+---
+### 🆕 Process Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Canandaigua, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8473718002?gh_jid=8473718002)
+🕐 Updated: `2026-03-27T20:45:54-04:00` &nbsp;|&nbsp; ID: `8473718002`
+
+---
+### 🆕 Process Engineer, Wafer-Level Packaging (Akoustis)
+**spacex** · Akoustis
+📍 Canandaigua, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8327979002?gh_jid=8327979002)
+🕐 Updated: `2026-03-27T19:45:27-04:00` &nbsp;|&nbsp; ID: `8327979002`
+
+---
+### 🆕 Process Operator Specialist - Level 4/5
+**spacex** · High Power Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8423849002?gh_jid=8423849002)
+🕐 Updated: `2026-03-27T19:07:36-04:00` &nbsp;|&nbsp; ID: `8423849002`
+
+---
+### 🆕 Process Safety Engineer (Raptor/Starship)
+**spacex** · EHS - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407507002?gh_jid=8407507002)
+🕐 Updated: `2026-03-27T20:32:15-04:00` &nbsp;|&nbsp; ID: `8407507002`
+
+---
+### 🆕 Product Compliance Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484568002?gh_jid=8484568002)
+🕐 Updated: `2026-03-29T13:11:14-04:00` &nbsp;|&nbsp; ID: `8484568002`
+
+---
+### 🆕 Product Development Engineer (Silicon)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8337031002?gh_jid=8337031002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8337031002`
+
+---
+### 🆕 Product Development Engineer (Solar)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8337025002?gh_jid=8337025002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8337025002`
+
+---
+### 🆕 Product Development Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8202351002?gh_jid=8202351002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8202351002`
+
+---
+### 🆕 Production Coordinator (Starship)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8355297002?gh_jid=8355297002)
+🕐 Updated: `2026-03-27T19:42:29-04:00` &nbsp;|&nbsp; ID: `8355297002`
+
+---
+### 🆕 Production Development Technician (Optical)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8509451002?gh_jid=8509451002)
+🕐 Updated: `2026-04-16T11:31:24-04:00` &nbsp;|&nbsp; ID: `8509451002`
+
+---
+### 🆕 Production Development Technician (Starlink)
+**spacex** · Starlink Satellite Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470839002?gh_jid=8470839002)
+🕐 Updated: `2026-03-27T20:54:38-04:00` &nbsp;|&nbsp; ID: `8470839002`
+
+---
+### 🆕 Production Engineer (Starship Electronics)
+**spacex** · Starship Electronics Production - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420823002?gh_jid=8420823002)
+🕐 Updated: `2026-03-27T19:23:47-04:00` &nbsp;|&nbsp; ID: `8420823002`
+
+---
+### 🆕 Production Operations Engineer (Starship)
+**spacex** · Ship Integration Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8199696002?gh_jid=8199696002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8199696002`
+
+---
+### 🆕 Production Project Engineer (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8208771002?gh_jid=8208771002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8208771002`
+
+---
+### 🆕 Production Scheduler (Starship)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8346078002?gh_jid=8346078002)
+🕐 Updated: `2026-04-01T20:23:25-04:00` &nbsp;|&nbsp; ID: `8346078002`
+
+---
+### 🆕 Product Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459615002?gh_jid=8459615002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8459615002`
+
+---
+### 🆕 Product Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459547002?gh_jid=8459547002)
+🕐 Updated: `2026-04-09T16:23:39-04:00` &nbsp;|&nbsp; ID: `8459547002`
+
+---
+### 🆕 Product Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479261002?gh_jid=8479261002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8479261002`
+
+---
+### 🆕 Product Security Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8492076002?gh_jid=8492076002)
+🕐 Updated: `2026-04-02T11:59:53-04:00` &nbsp;|&nbsp; ID: `8492076002`
+
+---
+### 🆕 Product Security Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8492058002?gh_jid=8492058002)
+🕐 Updated: `2026-04-02T11:57:54-04:00` &nbsp;|&nbsp; ID: `8492058002`
+
+---
+### 🆕 Propulsion Analyst, Chamber and Nozzle (Raptor)
+**spacex** · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8486119002?gh_jid=8486119002)
+🕐 Updated: `2026-03-30T19:24:22-04:00` &nbsp;|&nbsp; ID: `8486119002`
+
+---
+### 🆕 Propulsion Analyst, Structures (Raptor)
+**spacex** · Raptor Systems - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377562002?gh_jid=8377562002)
+🕐 Updated: `2026-04-01T17:43:35-04:00` &nbsp;|&nbsp; ID: `8377562002`
+
+---
+### 🆕 Propulsion Build Engineer (Starship)
+**spacex** · Booster Prop Systems Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402121002?gh_jid=8402121002)
+🕐 Updated: `2026-04-10T12:20:28-04:00` &nbsp;|&nbsp; ID: `8402121002`
+
+---
+### 🆕 Propulsion Engineer, Combustion Devices Manufacturing (Raptor)
+**spacex** · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511177002?gh_jid=8511177002)
+🕐 Updated: `2026-04-17T16:40:29-04:00` &nbsp;|&nbsp; ID: `8511177002`
+
+---
+### 🆕 Propulsion Engineer, Components Manufacturing (Raptor)
+**spacex** · Raptor Components - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002)
+🕐 Updated: `2026-04-17T17:50:34-04:00` &nbsp;|&nbsp; ID: `8512813002`
+
+---
+### 🆕 Propulsion Engineer (Raptor Combustion Devices)
+**spacex** · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450200002?gh_jid=8450200002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8450200002`
+
+---
+### 🆕 Propulsion Engineer (Raptor Components)
+**spacex** · Raptor Components - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8376825002?gh_jid=8376825002)
+🕐 Updated: `2026-04-01T19:18:51-04:00` &nbsp;|&nbsp; ID: `8376825002`
+
+---
+### 🆕 Propulsion Engineer (Raptor Development)
+**spacex** · Raptor Development Operations
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375414002?gh_jid=8375414002)
+🕐 Updated: `2026-04-01T19:13:33-04:00` &nbsp;|&nbsp; ID: `8375414002`
+
+---
+### 🆕 Propulsion Engineer (Raptor Development Operations)
+**spacex** · Raptor Development Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8421645002?gh_jid=8421645002)
+🕐 Updated: `2026-04-10T17:16:43-04:00` &nbsp;|&nbsp; ID: `8421645002`
+
+---
+### 🆕 Propulsion Engineer (Raptor Fleet Operations)
+**spacex** · Raptor Fleet Operations
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495923002?gh_jid=8495923002)
+🕐 Updated: `2026-04-06T20:40:44-04:00` &nbsp;|&nbsp; ID: `8495923002`
+
+---
+### 🆕 Propulsion Engineer (Raptor Test)
+**spacex** · Raptor Test Operations
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395154002?gh_jid=8395154002)
+🕐 Updated: `2026-03-27T20:15:10-04:00` &nbsp;|&nbsp; ID: `8395154002`
+
+---
+### 🆕 Propulsion Engineer (Starship)
+**spacex** · Booster Prop Systems Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8324817002?gh_jid=8324817002)
+🕐 Updated: `2026-03-27T20:07:20-04:00` &nbsp;|&nbsp; ID: `8324817002`
+
+---
+### 🆕 Propulsion Engineer, Thermal & Fluid Analysis (Starship)
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8207922002?gh_jid=8207922002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8207922002`
+
+---
+### 🆕 Propulsion Thermal Analyst (Raptor Combustion Devices)
+**spacex** · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391522002?gh_jid=8391522002)
+🕐 Updated: `2026-04-10T19:28:27-04:00` &nbsp;|&nbsp; ID: `8391522002`
+
+---
+### 🆕 PVD Process Engineer, Solar Cells (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490537002?gh_jid=8490537002)
+🕐 Updated: `2026-04-09T15:28:00-04:00` &nbsp;|&nbsp; ID: `8490537002`
+
+---
+### 🆕 Quality Inspector (Starship)
+**spacex** · Starship COPV Engineering
+📍 Westminster, MD &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483428002?gh_jid=8483428002)
+🕐 Updated: `2026-03-30T16:02:54-04:00` &nbsp;|&nbsp; ID: `8483428002`
+
+---
+### 🆕 Quality Systems Engineer (Starlink Aviation)
+**spacex** · Starlink Aviation Reliability
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8372252002?gh_jid=8372252002)
+🕐 Updated: `2026-03-27T19:02:09-04:00` &nbsp;|&nbsp; ID: `8372252002`
+
+---
+### 🆕 Quality Systems Engineer (Starlink Product)
+**spacex** · Starlink Reliability - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369157002?gh_jid=8369157002)
+🕐 Updated: `2026-04-01T19:17:13-04:00` &nbsp;|&nbsp; ID: `8369157002`
+
+---
+### 🆕 Radiation Effects Test Engineer
+**spacex** · Radiation and Electromagnetic Effects
+📍 Winter Garden, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8423966002?gh_jid=8423966002)
+🕐 Updated: `2026-03-27T19:25:36-04:00` &nbsp;|&nbsp; ID: `8423966002`
+
+---
+### 🆕 RCDD / ICT Design Engineer
+**spacex** · Information Technology - Network Infrastructure
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8510436002?gh_jid=8510436002)
+🕐 Updated: `2026-04-16T12:49:25-04:00` &nbsp;|&nbsp; ID: `8510436002`
+
+---
+### 🆕 Recovery Engineer (F9 Booster & Fairings)
+**spacex** · West Coast Recovery Engineering
+📍 Long Beach, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8384699002?gh_jid=8384699002)
+🕐 Updated: `2026-04-16T16:37:57-04:00` &nbsp;|&nbsp; ID: `8384699002`
+
+---
+### 🆕 Reliability Engineer, Facilities 
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8474952002?gh_jid=8474952002)
+🕐 Updated: `2026-04-01T18:12:38-04:00` &nbsp;|&nbsp; ID: `8474952002`
+
+---
+### 🆕 Reliability Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8473716002?gh_jid=8473716002)
+🕐 Updated: `2026-04-01T19:32:44-04:00` &nbsp;|&nbsp; ID: `8473716002`
+
+---
+### 🆕 RF Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369901002?gh_jid=8369901002)
+🕐 Updated: `2026-04-09T11:37:09-04:00` &nbsp;|&nbsp; ID: `8369901002`
+
+---
+### 🆕 RF Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395241002?gh_jid=8395241002)
+🕐 Updated: `2026-04-14T14:53:25-04:00` &nbsp;|&nbsp; ID: `8395241002`
+
+---
+### 🆕 RFIC Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8481824002?gh_jid=8481824002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8481824002`
+
+---
+### 🆕 RFIC Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8418689002?gh_jid=8418689002)
+🕐 Updated: `2026-03-27T19:39:49-04:00` &nbsp;|&nbsp; ID: `8418689002`
+
+---
+### 🆕 RFIC Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8439685002?gh_jid=8439685002)
+🕐 Updated: `2026-04-10T19:18:18-04:00` &nbsp;|&nbsp; ID: `8439685002`
+
+---
+### 🆕 RFIC Engineer (Starshield Silicon)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395216002?gh_jid=8395216002)
+🕐 Updated: `2026-04-14T14:53:43-04:00` &nbsp;|&nbsp; ID: `8395216002`
+
+---
+### 🆕 RFIC Layout Designer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8418679002?gh_jid=8418679002)
+🕐 Updated: `2026-03-31T18:30:08-04:00` &nbsp;|&nbsp; ID: `8418679002`
+
+---
+### 🆕 RFIC Layout Designer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8472243002?gh_jid=8472243002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8472243002`
+
+---
+### 🆕 RFIC Layout Designer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8418776002?gh_jid=8418776002)
+🕐 Updated: `2026-03-27T19:40:22-04:00` &nbsp;|&nbsp; ID: `8418776002`
+
+---
+### 🆕 RF/Microwave Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8416868002?gh_jid=8416868002)
+🕐 Updated: `2026-03-27T19:58:40-04:00` &nbsp;|&nbsp; ID: `8416868002`
+
+---
+### 🆕 RF/Microwave Engineer, Satellites (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8480418002?gh_jid=8480418002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8480418002`
+
+---
+### 🆕 RF/Microwave Engineer (Starlink Mobile)
+**spacex** · Starlink Mobile Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8240517002?gh_jid=8240517002)
+🕐 Updated: `2026-04-01T21:25:15-04:00` &nbsp;|&nbsp; ID: `8240517002`
+
+---
+### 🆕 RF Silicon Software Engineer (Starlink)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8439627002?gh_jid=8439627002)
+🕐 Updated: `2026-04-10T17:58:49-04:00` &nbsp;|&nbsp; ID: `8439627002`
+
+---
+### 🆕 RF Software Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398723002?gh_jid=8398723002)
+🕐 Updated: `2026-04-14T14:54:42-04:00` &nbsp;|&nbsp; ID: `8398723002`
+
+---
+### 🆕 RF Systems Analysis Engineer, Regulatory (Starlink)
+**spacex** · Starlink Regulatory
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8388970002?gh_jid=8388970002)
+🕐 Updated: `2026-04-16T14:20:51-04:00` &nbsp;|&nbsp; ID: `8388970002`
+
+---
+### 🆕 RF Systems Analysis Engineer, Regulatory (Starlink)
+**spacex** · Starlink Regulatory
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8389697002?gh_jid=8389697002)
+🕐 Updated: `2026-04-16T14:21:07-04:00` &nbsp;|&nbsp; ID: `8389697002`
+
+---
+### 🆕 RF Test Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Canandaigua, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398929002?gh_jid=8398929002)
+🕐 Updated: `2026-04-08T17:58:02-04:00` &nbsp;|&nbsp; ID: `8398929002`
+
+---
+### 🆕 RF Test Specialist - Gateways (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8462617002?gh_jid=8462617002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8462617002`
+
+---
+### 🆕 RF & Wireless Compliance Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484564002?gh_jid=8484564002)
+🕐 Updated: `2026-03-29T12:49:30-04:00` &nbsp;|&nbsp; ID: `8484564002`
+
+---
+### 🆕 Robotics  Engineer (Starship) - Automation & Controls
+**spacex** · Starship Automation & Controls
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8245087002?gh_jid=8245087002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8245087002`
+
+---
+### 🆕 Robotics Specialist, PCB Manufacturing (Starlink)
+**spacex** · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8392963002?gh_jid=8392963002)
+🕐 Updated: `2026-03-27T19:59:32-04:00` &nbsp;|&nbsp; ID: `8392963002`
+
+---
+### 🆕 RTL Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8466346002?gh_jid=8466346002)
+🕐 Updated: `2026-04-10T19:10:11-04:00` &nbsp;|&nbsp; ID: `8466346002`
+
+---
+### 🆕 Satellite On-Orbit Operations Engineer (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402254002?gh_jid=8402254002)
+🕐 Updated: `2026-03-27T20:16:24-04:00` &nbsp;|&nbsp; ID: `8402254002`
+
+---
+### 🆕 Satellite Systems Software Engineer (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395341002?gh_jid=8395341002)
+🕐 Updated: `2026-03-27T20:19:35-04:00` &nbsp;|&nbsp; ID: `8395341002`
+
+---
+### 🆕 Security Engineer (Blue Team)
+**spacex** · Security Operations
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426423002?gh_jid=8426423002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8426423002`
+
+---
+### 🆕 Security Engineer (Blue Team)
+**spacex** · Security Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426411002?gh_jid=8426411002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8426411002`
+
+---
+### 🆕 Security Engineer (Security Operations)
+**spacex** · Security Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8201865002?gh_jid=8201865002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8201865002`
+
+---
+### 🆕 Security Engineer (Security Operations)
+**spacex** · Security Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8208779002?gh_jid=8208779002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8208779002`
+
+---
+### 🆕 Security Software Engineer
+**spacex** · Security Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8380527002?gh_jid=8380527002)
+🕐 Updated: `2026-04-01T17:38:05-04:00` &nbsp;|&nbsp; ID: `8380527002`
+
+---
+### 🆕 Security Software Engineer
+**spacex** · Security Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420836002?gh_jid=8420836002)
+🕐 Updated: `2026-03-27T19:57:45-04:00` &nbsp;|&nbsp; ID: `8420836002`
+
+---
+### 🆕 Security Software Engineer
+**spacex** · Security Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8380536002?gh_jid=8380536002)
+🕐 Updated: `2026-03-27T19:38:40-04:00` &nbsp;|&nbsp; ID: `8380536002`
+
+---
+### 🆕 Security Software Engineer, Applied Computing (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8440980002?gh_jid=8440980002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8440980002`
+
+---
+### 🆕 Security Software Engineer, Applied Computing (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8441008002?gh_jid=8441008002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8441008002`
+
+---
+### 🆕 Security Software Engineer, Applied Computing (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483747002?gh_jid=8483747002)
+🕐 Updated: `2026-03-27T18:32:20-04:00` &nbsp;|&nbsp; ID: `8483747002`
+
+---
+### 🆕 Security Software Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8406031002?gh_jid=8406031002)
+🕐 Updated: `2026-04-09T16:24:09-04:00` &nbsp;|&nbsp; ID: `8406031002`
+
+---
+### 🆕 Security Software Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479234002?gh_jid=8479234002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8479234002`
+
+---
+### 🆕 Security Software Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8445643002?gh_jid=8445643002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8445643002`
+
+---
+### 🆕 Security Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483982002?gh_jid=8483982002)
+🕐 Updated: `2026-03-27T18:33:18-04:00` &nbsp;|&nbsp; ID: `8483982002`
+
+---
+### 🆕 Security Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483980002?gh_jid=8483980002)
+🕐 Updated: `2026-03-27T18:32:50-04:00` &nbsp;|&nbsp; ID: `8483980002`
+
+---
+### 🆕 Security Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8392887002?gh_jid=8392887002)
+🕐 Updated: `2026-03-31T16:56:29-04:00` &nbsp;|&nbsp; ID: `8392887002`
+
+---
+### 🆕 Security Software Engineer - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8306251002?gh_jid=8306251002)
+🕐 Updated: `2026-03-27T14:48:52-04:00` &nbsp;|&nbsp; ID: `8306251002`
+
+---
+### 🆕 Senior Process Safety Engineer
+**spacex** · EHS - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397585002?gh_jid=8397585002)
+🕐 Updated: `2026-03-31T17:47:29-04:00` &nbsp;|&nbsp; ID: `8397585002`
+
+---
+### 🆕 Silicon Packaging Process Engineer, Silicon Technology (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420304002?gh_jid=8420304002)
+🕐 Updated: `2026-03-27T19:29:31-04:00` &nbsp;|&nbsp; ID: `8420304002`
+
+---
+### 🆕 Silicon Photonics Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8405106002?gh_jid=8405106002)
+🕐 Updated: `2026-03-30T17:59:15-04:00` &nbsp;|&nbsp; ID: `8405106002`
+
+---
+### 🆕 Simulation Software Engineer (Application Software)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488034002?gh_jid=8488034002)
+🕐 Updated: `2026-03-31T16:53:44-04:00` &nbsp;|&nbsp; ID: `8488034002`
+
+---
+### 🆕 Site Reliability Engineer (Application Software)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8505386002?gh_jid=8505386002)
+🕐 Updated: `2026-04-14T11:38:32-04:00` &nbsp;|&nbsp; ID: `8505386002`
+
+---
+### 🆕 Site Reliability Engineer - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362795002?gh_jid=8362795002)
+🕐 Updated: `2026-03-27T19:56:41-04:00` &nbsp;|&nbsp; ID: `8362795002`
+
+---
+### 🆕 SOC Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358268002?gh_jid=8358268002)
+🕐 Updated: `2026-04-01T20:31:42-04:00` &nbsp;|&nbsp; ID: `8358268002`
+
+---
+### 🆕 SOC Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358340002?gh_jid=8358340002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358340002`
+
+---
+### 🆕 Software Engineer
+**spacex** · Texas - Test Support
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8324788002?gh_jid=8324788002)
+🕐 Updated: `2026-04-01T18:31:56-04:00` &nbsp;|&nbsp; ID: `8324788002`
+
+---
+### 🆕 Software Engineer, Additive Manufacturing (Raptor)
+**spacex** · Raptor Additive - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8327721002?gh_jid=8327721002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8327721002`
+
+---
+### 🆕 Software Engineer, Beam Planning (Starlink)   
+**spacex** · Starlink Network Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8373117002?gh_jid=8373117002)
+🕐 Updated: `2026-04-10T17:34:06-04:00` &nbsp;|&nbsp; ID: `8373117002`
+
+---
+### 🆕 Software Engineer, Beam Planning (Starlink)   
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450082002?gh_jid=8450082002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8450082002`
+
+---
+### 🆕 Software Engineer, CDN  (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8448505002?gh_jid=8448505002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8448505002`
+
+---
+### 🆕 Software Engineer, Collision Avoidance (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397683002?gh_jid=8397683002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8397683002`
+
+---
+### 🆕 Software Engineer (Components)
+**spacex** · Components Test - Starship
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8215236002?gh_jid=8215236002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8215236002`
+
+---
+### 🆕 Software Engineer, Components Test (Starshield)
+**spacex** · Components Test - Starshield
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391434002?gh_jid=8391434002)
+🕐 Updated: `2026-04-14T20:42:03-04:00` &nbsp;|&nbsp; ID: `8391434002`
+
+---
+### 🆕 Software Engineer, C++ (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477124002?gh_jid=8477124002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477124002`
+
+---
+### 🆕 Software Engineer, C++ (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8451960002`
+
+---
+### 🆕 Software Engineer, C++ - Top Secret Clearance 
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377056002?gh_jid=8377056002)
+🕐 Updated: `2026-04-01T19:02:40-04:00` &nbsp;|&nbsp; ID: `8377056002`
+
+---
+### 🆕 Software Engineer, Data (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8476427002?gh_jid=8476427002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8476427002`
+
+---
+### 🆕 Software Engineer, Data - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397673002?gh_jid=8397673002)
+🕐 Updated: `2026-04-09T16:42:25-04:00` &nbsp;|&nbsp; ID: `8397673002`
+
+---
+### 🆕 Software Engineer, Data - Top Secret Clearance (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8449846002?gh_jid=8449846002)
+🕐 Updated: `2026-03-27T20:30:15-04:00` &nbsp;|&nbsp; ID: `8449846002`
+
+---
+### 🆕 Software Engineer, Design Software (Starship)
+**spacex** · Design Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8466905002?gh_jid=8466905002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8466905002`
+
+---
+### 🆕 Software Engineer, Design Software (Starship)
+**spacex** · Design Software
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8466837002?gh_jid=8466837002)
+🕐 Updated: `2026-03-27T19:36:38-04:00` &nbsp;|&nbsp; ID: `8466837002`
+
+---
+### 🆕 Software Engineer, DevOps (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8443737002?gh_jid=8443737002)
+🕐 Updated: `2026-04-16T12:58:40-04:00` &nbsp;|&nbsp; ID: `8443737002`
+
+---
+### 🆕 Software Engineer (Direct To Cell)
+**spacex** · Starlink Mobile Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8390870002?gh_jid=8390870002)
+🕐 Updated: `2026-04-01T17:44:01-04:00` &nbsp;|&nbsp; ID: `8390870002`
+
+---
+### 🆕 Software Engineer (Direct To Cell)
+**spacex** · Starlink Mobile Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8364374002?gh_jid=8364374002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8364374002`
+
+---
+### 🆕 Software Engineer, Displays Software (Starship)
+**spacex** · Starship Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8345913002?gh_jid=8345913002)
+🕐 Updated: `2026-04-01T18:35:23-04:00` &nbsp;|&nbsp; ID: `8345913002`
+
+---
+### 🆕 Software Engineer, Embedded Software (Starlink)
+**spacex** · Starlink Satellite Flight Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398552002?gh_jid=8398552002)
+🕐 Updated: `2026-03-31T16:07:01-04:00` &nbsp;|&nbsp; ID: `8398552002`
+
+---
+### 🆕 Software Engineer, Embedded Software (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002)
+🕐 Updated: `2026-04-16T12:35:21-04:00` &nbsp;|&nbsp; ID: `8436708002`
+
+---
+### 🆕 Software Engineer, Flight Software (Starlink)
+**spacex** · Starlink Satellite Flight Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8398447002?gh_jid=8398447002)
+🕐 Updated: `2026-03-31T16:07:28-04:00` &nbsp;|&nbsp; ID: `8398447002`
+
+---
+### 🆕 Software Engineer, Flight Software (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8322723002?gh_jid=8322723002)
+🕐 Updated: `2026-03-27T19:12:37-04:00` &nbsp;|&nbsp; ID: `8322723002`
+
+---
+### 🆕 Software Engineer, Flight Software (Starship)
+**spacex** · Starship Software Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8208339002?gh_jid=8208339002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8208339002`
+
+---
+### 🆕 Software Engineer, Flight Software (Starship)
+**spacex** · Starship Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8208238002?gh_jid=8208238002)
+🕐 Updated: `2026-03-27T11:55:06-04:00` &nbsp;|&nbsp; ID: `8208238002`
+
+---
+### 🆕 Software Engineer, Geospatial Data (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8389619002?gh_jid=8389619002)
+🕐 Updated: `2026-04-01T17:47:39-04:00` &nbsp;|&nbsp; ID: `8389619002`
+
+---
+### 🆕 Software Engineer, Hardware Test & Automation (Optical Payloads)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8211187002?gh_jid=8211187002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8211187002`
+
+---
+### 🆕 Software Engineer, Hardware Test & Automation (Starlink)   
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8316301002?gh_jid=8316301002)
+🕐 Updated: `2026-03-27T19:52:10-04:00` &nbsp;|&nbsp; ID: `8316301002`
+
+---
+### 🆕 Software Engineer, High Performance Computing
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8365469002?gh_jid=8365469002)
+🕐 Updated: `2026-03-30T15:11:16-04:00` &nbsp;|&nbsp; ID: `8365469002`
+
+---
+### 🆕 Software Engineer, High Performance Computing (Starlink)   
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450116002?gh_jid=8450116002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8450116002`
+
+---
+### 🆕 Software Engineer, HITL - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397596002?gh_jid=8397596002)
+🕐 Updated: `2026-03-31T16:57:16-04:00` &nbsp;|&nbsp; ID: `8397596002`
+
+---
+### 🆕 Software Engineering, Starlink Growth 
+**spacex** · Starlink Consumer
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403945002?gh_jid=8403945002)
+🕐 Updated: `2026-04-07T15:24:59-04:00` &nbsp;|&nbsp; ID: `8403945002`
+
+---
+### 🆕 Software Engineer, Low Latency Computing (Starlink)   
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450095002?gh_jid=8450095002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8450095002`
+
+---
+### 🆕 Software Engineer (Network Performance)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391111002?gh_jid=8391111002)
+🕐 Updated: `2026-04-09T16:25:12-04:00` &nbsp;|&nbsp; ID: `8391111002`
+
+---
+### 🆕 Software Engineer, PCBA (Starlink)
+**spacex** · Starlink Production - SMT
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456289002?gh_jid=8456289002)
+🕐 Updated: `2026-03-27T21:02:03-04:00` &nbsp;|&nbsp; ID: `8456289002`
+
+---
+### 🆕 Software Engineer (Platform Team)
+**spacex** · Starship Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495882002?gh_jid=8495882002)
+🕐 Updated: `2026-04-06T21:28:38-04:00` &nbsp;|&nbsp; ID: `8495882002`
+
+---
+### 🆕 Software Engineer, Power Systems Controls (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395307002?gh_jid=8395307002)
+🕐 Updated: `2026-03-31T17:48:46-04:00` &nbsp;|&nbsp; ID: `8395307002`
+
+---
+### 🆕 Software Engineer, Product Development (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8436728002?gh_jid=8436728002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8436728002`
+
+---
+### 🆕 Software Engineer, Propulsion Simulation & Data Analysis
+**spacex** · Raptor Systems - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8213250002?gh_jid=8213250002)
+🕐 Updated: `2026-04-09T18:00:03-04:00` &nbsp;|&nbsp; ID: `8213250002`
+
+---
+### 🆕 Software Engineer, Satellite Operations (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8382088002?gh_jid=8382088002)
+🕐 Updated: `2026-04-01T18:10:20-04:00` &nbsp;|&nbsp; ID: `8382088002`
+
+---
+### 🆕 Software Engineer, Satellite Systems (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8308587002?gh_jid=8308587002)
+🕐 Updated: `2026-04-08T18:01:54-04:00` &nbsp;|&nbsp; ID: `8308587002`
+
+---
+### 🆕 Software Engineer, Simulation
+**spacex** · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8443290002?gh_jid=8443290002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8443290002`
+
+---
+### 🆕 Software Engineer, Simulations (Application Software)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487534002?gh_jid=8487534002)
+🕐 Updated: `2026-03-31T16:52:59-04:00` &nbsp;|&nbsp; ID: `8487534002`
+
+---
+### 🆕 Software Engineer, Simulations (Starlink)
+**spacex** · Starlink Constellation Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395326002?gh_jid=8395326002)
+🕐 Updated: `2026-04-10T17:46:49-04:00` &nbsp;|&nbsp; ID: `8395326002`
+
+---
+### 🆕 Software Engineer (Special Projects) - Top Secret Clearance
+**spacex** · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8306500002?gh_jid=8306500002)
+🕐 Updated: `2026-03-31T18:40:57-04:00` &nbsp;|&nbsp; ID: `8306500002`
+
+---
+### 🆕 Software Engineer (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479562002?gh_jid=8479562002)
+🕐 Updated: `2026-04-15T15:30:05-04:00` &nbsp;|&nbsp; ID: `8479562002`
+
+---
+### 🆕 Software Engineer (Starlink)
+**spacex** · Starlink Consumer Platform Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8406816002?gh_jid=8406816002)
+🕐 Updated: `2026-04-10T17:42:46-04:00` &nbsp;|&nbsp; ID: `8406816002`
+
+---
+### 🆕 Software Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379301002?gh_jid=8379301002)
+🕐 Updated: `2026-04-01T19:07:21-04:00` &nbsp;|&nbsp; ID: `8379301002`
+
+---
+### 🆕 Software Engineer (Starlink Ground Network)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8342599002?gh_jid=8342599002)
+🕐 Updated: `2026-04-01T20:17:23-04:00` &nbsp;|&nbsp; ID: `8342599002`
+
+---
+### 🆕 Software Engineer, Starlink Growth
+**spacex** · Starlink Consumer
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403855002?gh_jid=8403855002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8403855002`
+
+---
+### 🆕 Software Engineer, Starlink Growth
+**spacex** · Starlink Consumer
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403929002?gh_jid=8403929002)
+🕐 Updated: `2026-03-30T17:51:36-04:00` &nbsp;|&nbsp; ID: `8403929002`
+
+---
+### 🆕 Software Engineer, Starlink Network
+**spacex** · Starlink Network Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8458001002`
+
+---
+### 🆕 Software Engineer, Starlink Network
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477137002?gh_jid=8477137002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477137002`
+
+---
+### 🆕 Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8385191002?gh_jid=8385191002)
+🕐 Updated: `2026-04-16T20:58:04-04:00` &nbsp;|&nbsp; ID: `8385191002`
+
+---
+### 🆕 Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501199002?gh_jid=8501199002)
+🕐 Updated: `2026-04-10T11:38:11-04:00` &nbsp;|&nbsp; ID: `8501199002`
+
+---
+### 🆕 Software Engineer (Starshield) - Top Secret Clearance
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387886002?gh_jid=8387886002)
+🕐 Updated: `2026-03-30T17:09:33-04:00` &nbsp;|&nbsp; ID: `8387886002`
+
+---
+### 🆕 Software Engineer, Telemetry (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8451998002?gh_jid=8451998002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8451998002`
+
+---
+### 🆕 Software Engineer, Test & Automation (Starlink Mobile)
+**spacex** · Starlink Mobile Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8451679002?gh_jid=8451679002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8451679002`
+
+---
+### 🆕 Software Engineer (Thermal & Fluid Analysis) 
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8222759002?gh_jid=8222759002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8222759002`
+
+---
+### 🆕 Software Engineer, Tracking (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8414648002?gh_jid=8414648002)
+🕐 Updated: `2026-04-15T19:46:25-04:00` &nbsp;|&nbsp; ID: `8414648002`
+
+---
+### 🆕 Software Engineer (Vehicle Engineering)
+**spacex** · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397542002?gh_jid=8397542002)
+🕐 Updated: `2026-04-10T11:45:07-04:00` &nbsp;|&nbsp; ID: `8397542002`
+
+---
+### 🆕 Software Infrastructure Engineer, Flight Software (Starlink)
+**spacex** · Starlink Satellite Flight Software
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478283002?gh_jid=8478283002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478283002`
+
+---
+### 🆕 Software Infrastructure Engineer (Starlink)
+**spacex** · Starlink Site Reliability Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391128002?gh_jid=8391128002)
+🕐 Updated: `2026-03-31T17:51:14-04:00` &nbsp;|&nbsp; ID: `8391128002`
+
+---
+### 🆕 Sourcing Specialist, Contracts (Starlink)
+**spacex** · Starlink Ground Infrastructure Operations
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391050002?gh_jid=8391050002)
+🕐 Updated: `2026-04-09T16:21:13-04:00` &nbsp;|&nbsp; ID: `8391050002`
+
+---
+### 🆕 Space Lasers Engineer, Satellites (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479578002?gh_jid=8479578002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8479578002`
+
+---
+### 🆕 Space Lasers Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402935002?gh_jid=8402935002)
+🕐 Updated: `2026-04-14T20:39:53-04:00` &nbsp;|&nbsp; ID: `8402935002`
+
+---
+### 🆕 Spaceport Designer, Architect (Starbase Development)
+**spacex** · Launch Infrastructure - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8485525002?gh_jid=8485525002)
+🕐 Updated: `2026-04-01T12:06:36-04:00` &nbsp;|&nbsp; ID: `8485525002`
+
+---
+### 🆕 Spaceport Designer, Interior Design
+**spacex** · Spaceport Development
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8322729002?gh_jid=8322729002)
+🕐 Updated: `2026-04-01T18:31:31-04:00` &nbsp;|&nbsp; ID: `8322729002`
+
+---
+### 🆕 Spaceport Engineer (Starship)
+**spacex** · Legal and Environmental Operations - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8464867002?gh_jid=8464867002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8464867002`
+
+---
+### 🆕 Spaceport IT Support Technician
+**spacex** · Information Technology - Services
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8472246002?gh_jid=8472246002)
+🕐 Updated: `2026-03-30T15:41:53-04:00` &nbsp;|&nbsp; ID: `8472246002`
+
+---
+### 🆕 Sr. 3GPP RAN Standardization Engineer (Starlink Mobile)
+**spacex** · Starlink Mobile Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8480497002?gh_jid=8480497002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8480497002`
+
+---
+### 🆕 Sr. Aerodynamics Engineer (Starship)
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209826002?gh_jid=8209826002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8209826002`
+
+---
+### 🆕 Sr. Antenna Engineer, Satellites (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497552002?gh_jid=8497552002)
+🕐 Updated: `2026-04-08T11:17:01-04:00` &nbsp;|&nbsp; ID: `8497552002`
+
+---
+### 🆕 Sr. Antenna Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369854002?gh_jid=8369854002)
+🕐 Updated: `2026-04-01T19:09:14-04:00` &nbsp;|&nbsp; ID: `8369854002`
+
+---
+### 🆕 Sr. Antenna Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8392967002?gh_jid=8392967002)
+🕐 Updated: `2026-04-14T14:55:07-04:00` &nbsp;|&nbsp; ID: `8392967002`
+
+---
+### 🆕 Sr. Application Security Engineer   
+**spacex** · Product Security - Starlink
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478503002?gh_jid=8478503002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478503002`
+
+---
+### 🆕 Sr. Application Software Engineer
+**spacex** · Application Software
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8465201002?gh_jid=8465201002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8465201002`
+
+---
+### 🆕 Sr. ASIC Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8348948002?gh_jid=8348948002)
+🕐 Updated: `2026-03-27T19:00:26-04:00` &nbsp;|&nbsp; ID: `8348948002`
+
+---
+### 🆕 Sr. ASIC Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8455516002?gh_jid=8455516002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8455516002`
+
+---
+### 🆕 Sr. ASIC Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8347131002?gh_jid=8347131002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8347131002`
+
+---
+### 🆕 Sr. ASIC Design Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497200002?gh_jid=8497200002)
+🕐 Updated: `2026-04-14T14:56:45-04:00` &nbsp;|&nbsp; ID: `8497200002`
+
+---
+### 🆕 Sr. ASIC Design Engineer (Starshield) 
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8492998002?gh_jid=8492998002)
+🕐 Updated: `2026-04-14T14:56:22-04:00` &nbsp;|&nbsp; ID: `8492998002`
+
+---
+### 🆕 Sr. ASIC Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358341002?gh_jid=8358341002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358341002`
+
+---
+### 🆕 Sr. ASIC Design Verification Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497569002?gh_jid=8497569002)
+🕐 Updated: `2026-04-14T14:57:45-04:00` &nbsp;|&nbsp; ID: `8497569002`
+
+---
+### 🆕 Sr. ASIC Design Verification Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493881002?gh_jid=8493881002)
+🕐 Updated: `2026-04-14T14:57:14-04:00` &nbsp;|&nbsp; ID: `8493881002`
+
+---
+### 🆕 Sr. ASIC/SOC Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358344002?gh_jid=8358344002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358344002`
+
+---
+### 🆕 Sr. ASIC Validation Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379792002?gh_jid=8379792002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8379792002`
+
+---
+### 🆕 Sr. Automation & Controls Engineer (Components)
+**spacex** · Components Test - Starship
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8293668002?gh_jid=8293668002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8293668002`
+
+---
+### 🆕 Sr. Automation & Controls Engineer (Starlink Production)
+**spacex** · Starlink Production Bastrop - Prod. Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8400986002?gh_jid=8400986002)
+🕐 Updated: `2026-04-16T12:09:38-04:00` &nbsp;|&nbsp; ID: `8400986002`
+
+---
+### 🆕 Sr. Automation & Controls Engineer (Starship)
+**spacex** · Starship Automation & Controls
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8220078002?gh_jid=8220078002)
+🕐 Updated: `2026-03-30T12:34:48-04:00` &nbsp;|&nbsp; ID: `8220078002`
+
+---
+### 🆕 Sr. Automation Engineer, Blades and Vanes Foundry
+**spacex** · Materials Engineering - Core
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497668002?gh_jid=8497668002)
+🕐 Updated: `2026-04-08T19:25:37-04:00` &nbsp;|&nbsp; ID: `8497668002`
+
+---
+### 🆕 Sr. Automation Engineer (Starlink Customer Success) 
+**spacex** · Starlink Customer Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8489777002?gh_jid=8489777002)
+🕐 Updated: `2026-04-02T13:02:22-04:00` &nbsp;|&nbsp; ID: `8489777002`
+
+---
+### 🆕 Sr. Automation Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8496335002?gh_jid=8496335002)
+🕐 Updated: `2026-04-07T18:58:39-04:00` &nbsp;|&nbsp; ID: `8496335002`
+
+---
+### 🆕 Sr. Automation Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8202568002?gh_jid=8202568002)
+🕐 Updated: `2026-04-07T08:56:38-04:00` &nbsp;|&nbsp; ID: `8202568002`
+
+---
+### 🆕 Sr. AV Administrator, Events & Experiences
+**spacex** · Information Technology - Services
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8415111002?gh_jid=8415111002)
+🕐 Updated: `2026-03-30T17:49:37-04:00` &nbsp;|&nbsp; ID: `8415111002`
+
+---
+### 🆕 Sr. BAW Filter Design Engineer (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8356387002?gh_jid=8356387002)
+🕐 Updated: `2026-04-01T20:34:23-04:00` &nbsp;|&nbsp; ID: `8356387002`
+
+---
+### 🆕 Sr. Build Engineer
+**spacex** · Booster Structures Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8390338002?gh_jid=8390338002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8390338002`
+
+---
+### 🆕 Sr. Civil Engineer, Land Development (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497585002?gh_jid=8497585002)
+🕐 Updated: `2026-04-07T19:12:44-04:00` &nbsp;|&nbsp; ID: `8497585002`
+
+---
+### 🆕 Sr. Civil Engineer, Offsite Infrastructure (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497586002?gh_jid=8497586002)
+🕐 Updated: `2026-04-07T19:13:36-04:00` &nbsp;|&nbsp; ID: `8497586002`
+
+---
+### 🆕 Sr. Civil/Structural Engineer
+**spacex** · Texas - Construction Projects
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8407108002?gh_jid=8407108002)
+🕐 Updated: `2026-03-30T18:02:44-04:00` &nbsp;|&nbsp; ID: `8407108002`
+
+---
+### 🆕 Sr. Commissioning Engineer (Facilities)
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357745002?gh_jid=8357745002)
+🕐 Updated: `2026-04-01T20:34:41-04:00` &nbsp;|&nbsp; ID: `8357745002`
+
+---
+### 🆕 Sr. Construction Project Engineer
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357130002?gh_jid=8357130002)
+🕐 Updated: `2026-04-01T20:34:07-04:00` &nbsp;|&nbsp; ID: `8357130002`
+
+---
+### 🆕 Sr. Crane Engineer (Starship)
+**spacex** · Starship Production Maintenance
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8250450002?gh_jid=8250450002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8250450002`
+
+---
+### 🆕 Sr. Critical Lift & Transport Engineer (Falcon)
+**spacex** · Falcon Integration West
+📍 Vandenberg, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8460052002?gh_jid=8460052002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8460052002`
+
+---
+### 🆕 Sr. Critical Lift & Transport Engineer (Starship)
+**spacex** · Starship Critical Lift & Transport
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8413697002?gh_jid=8413697002)
+🕐 Updated: `2026-04-10T17:26:54-04:00` &nbsp;|&nbsp; ID: `8413697002`
+
+---
+### 🆕 Sr. CVD Equipment Engineer, Solar Cells (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494785002?gh_jid=8494785002)
+🕐 Updated: `2026-04-09T15:53:51-04:00` &nbsp;|&nbsp; ID: `8494785002`
+
+---
+### 🆕 Sr. Data Engineer, Ground Network Engineering (Business Analytics)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8482128002?gh_jid=8482128002)
+🕐 Updated: `2026-04-17T18:04:09-04:00` &nbsp;|&nbsp; ID: `8482128002`
+
+---
+### 🆕 Sr. Data Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379386002?gh_jid=8379386002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8379386002`
+
+---
+### 🆕 Sr. Data Engineer (Starlink Growth)
+**spacex** · Starlink Consumer
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379395002?gh_jid=8379395002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8379395002`
+
+---
+### 🆕 Sr. Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358343002?gh_jid=8358343002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358343002`
+
+---
+### 🆕 Sr. Design Verification Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358342002?gh_jid=8358342002)
+🕐 Updated: `2026-04-01T20:29:38-04:00` &nbsp;|&nbsp; ID: `8358342002`
+
+---
+### 🆕 Sr. Device Physics Engineer, Solar Cells (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501158002?gh_jid=8501158002)
+🕐 Updated: `2026-04-17T11:08:52-04:00` &nbsp;|&nbsp; ID: `8501158002`
+
+---
+### 🆕 Sr. DSP Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8365449002?gh_jid=8365449002)
+🕐 Updated: `2026-04-01T19:05:39-04:00` &nbsp;|&nbsp; ID: `8365449002`
+
+---
+### 🆕 Sr. DSP Engineer (Starship Avionics)
+**spacex** · Starship Electronics
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8295537002?gh_jid=8295537002)
+🕐 Updated: `2026-03-31T18:38:08-04:00` &nbsp;|&nbsp; ID: `8295537002`
+
+---
+### 🆕 Sr. Electrical Controls Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8202296002?gh_jid=8202296002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8202296002`
+
+---
+### 🆕 Sr. Electrical Design Engineer, Electrical - (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461552002?gh_jid=8461552002)
+🕐 Updated: `2026-03-31T11:49:25-04:00` &nbsp;|&nbsp; ID: `8461552002`
+
+---
+### 🆕 Sr. Electrical Design Engineer, Gateways & Customer Hardware (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8371361002?gh_jid=8371361002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8371361002`
+
+---
+### 🆕 Sr. Electrical Design Engineer (Raptor Avionics) 
+**spacex** · Raptor Avionics - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8328045002?gh_jid=8328045002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8328045002`
+
+---
+### 🆕 Sr. Electrical Design Engineer, Satellite Payload (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8454276002?gh_jid=8454276002)
+🕐 Updated: `2026-04-06T18:06:42-04:00` &nbsp;|&nbsp; ID: `8454276002`
+
+---
+### 🆕 Sr. Electrical Engineer, Construction (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8506097002?gh_jid=8506097002)
+🕐 Updated: `2026-04-14T11:29:47-04:00` &nbsp;|&nbsp; ID: `8506097002`
+
+---
+### 🆕 Sr. Electrical Engineer, Hardware Reliability (Starlink)
+**spacex** · Starlink Reliability - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478098002?gh_jid=8478098002)
+🕐 Updated: `2026-04-15T21:39:11-04:00` &nbsp;|&nbsp; ID: `8478098002`
+
+---
+### 🆕 Sr. Electrical Engineer (Power Systems)
+**spacex** · Texas - Construction Projects
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477284002?gh_jid=8477284002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477284002`
+
+---
+### 🆕 Sr. Electrical Engineer (Starship Avionics)
+**spacex** · Starship Electronics
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8206849002?gh_jid=8206849002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8206849002`
+
+---
+### 🆕 Sr. Electrical Test and Reliability Engineer, Gateways (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8445604002?gh_jid=8445604002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8445604002`
+
+---
+### 🆕 Sr. Electrical Test Development Engineer, Customer Hardware (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470893002?gh_jid=8470893002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8470893002`
+
+---
+### 🆕 Sr. Embedded Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478511002?gh_jid=8478511002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478511002`
+
+---
+### 🆕 Sr. Embedded Security Engineer (Starlink) 
+**spacex** · Product Security - Starlink
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479320002?gh_jid=8479320002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8479320002`
+
+---
+### 🆕 Sr. Embedded Software Engineer (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379236002?gh_jid=8379236002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8379236002`
+
+---
+### 🆕 Sr. Environmental Engineer, Wetlands & Regulatory Compliance
+**spacex** · Legal and Environmental Operations - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511036002?gh_jid=8511036002)
+🕐 Updated: `2026-04-17T16:42:59-04:00` &nbsp;|&nbsp; ID: `8511036002`
+
+---
+### 🆕 Sr. Environmental Engineer, Wetlands & Regulatory Compliance
+**spacex** · Legal and Environmental Operations - Starbase
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511051002?gh_jid=8511051002)
+🕐 Updated: `2026-04-17T16:43:41-04:00` &nbsp;|&nbsp; ID: `8511051002`
+
+---
+### 🆕 Sr. Environmental Health & Safety Engineer
+**spacex** · EHS - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426345002?gh_jid=8426345002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8426345002`
+
+---
+### 🆕 Sr. Environmental Health & Safety Engineer
+**spacex** · EHS - McGregor
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8374744002?gh_jid=8374744002)
+🕐 Updated: `2026-03-27T19:45:10-04:00` &nbsp;|&nbsp; ID: `8374744002`
+
+---
+### 🆕 Sr. Environmental Health & Safety Engineer
+**spacex** · EHS - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420913002?gh_jid=8420913002)
+🕐 Updated: `2026-04-09T12:10:29-04:00` &nbsp;|&nbsp; ID: `8420913002`
+
+---
+### 🆕 Sr. Environmental Health & Safety Engineer
+**spacex** · EHS - Bastrop
+📍 Canandaigua, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456209002?gh_jid=8456209002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8456209002`
+
+---
+### 🆕 Sr. Environmental Health & Safety Engineer (Crane Safety)
+**spacex** · EHS - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8468841002?gh_jid=8468841002)
+🕐 Updated: `2026-03-27T20:55:54-04:00` &nbsp;|&nbsp; ID: `8468841002`
+
+---
+### 🆕 Sr. Environmental Health & Safety Engineer (Satellites) 
+**spacex** · EHS - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494224002?gh_jid=8494224002)
+🕐 Updated: `2026-04-07T12:47:55-04:00` &nbsp;|&nbsp; ID: `8494224002`
+
+---
+### 🆕 Sr. Environmental Health & Safety Engineer (Starship)
+**spacex** · EHS - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397574002?gh_jid=8397574002)
+🕐 Updated: `2026-03-31T17:47:03-04:00` &nbsp;|&nbsp; ID: `8397574002`
+
+---
+### 🆕 Sr. Environmental & Materials Compliance Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484562002?gh_jid=8484562002)
+🕐 Updated: `2026-03-29T12:39:05-04:00` &nbsp;|&nbsp; ID: `8484562002`
+
+---
+### 🆕 Sr. Equipment Engineer, Insource Manufacturing
+**spacex** · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8447586002?gh_jid=8447586002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8447586002`
+
+---
+### 🆕 Sr. Equipment Reliability Engineer - Automation & Controls (Starship)
+**spacex** · Starship Automation & Controls
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8244919002?gh_jid=8244919002)
+🕐 Updated: `2026-03-30T12:35:03-04:00` &nbsp;|&nbsp; ID: `8244919002`
+
+---
+### 🆕 Sr. Equipment Reliability Engineer (Starship)
+**spacex** · Starship Production Maintenance
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8273379002?gh_jid=8273379002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8273379002`
+
+---
+### 🆕 Sr. Flight Reliability Engineer (Starship)
+**spacex** · Starship Flight Reliability
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8211293002?gh_jid=8211293002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8211293002`
+
+---
+### 🆕 Sr. Fluids Engineer (Starship)
+**spacex** · Starship Production Fluids Systems
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8216045002?gh_jid=8216045002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8216045002`
+
+---
+### 🆕 Sr. Fluids Systems Engineer, Solar Cell Factory (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8449709002?gh_jid=8449709002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8449709002`
+
+---
+### 🆕 Sr. FPGA Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399519002?gh_jid=8399519002)
+🕐 Updated: `2026-04-10T18:58:48-04:00` &nbsp;|&nbsp; ID: `8399519002`
+
+---
+### 🆕 Sr. Full Chip Physical Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8349054002?gh_jid=8349054002)
+🕐 Updated: `2026-03-30T12:04:22-04:00` &nbsp;|&nbsp; ID: `8349054002`
+
+---
+### 🆕 Sr. Full Stack Software Engineer (Starlink)
+**spacex** · Starlink Consumer Platform Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8505483002?gh_jid=8505483002)
+🕐 Updated: `2026-04-14T15:59:02-04:00` &nbsp;|&nbsp; ID: `8505483002`
+
+---
+### 🆕 Sr. Gateway Site Development Engineer (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8242950002?gh_jid=8242950002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8242950002`
+
+---
+### 🆕 Sr. Geospatial Intelligence Analyst (Starshield)
+**spacex** · Starshield AI Missions
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495786002?gh_jid=8495786002)
+🕐 Updated: `2026-04-06T18:38:40-04:00` &nbsp;|&nbsp; ID: `8495786002`
+
+---
+### 🆕 Sr. GNC Engineer (Starship)
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209862002?gh_jid=8209862002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8209862002`
+
+---
+### 🆕 Sr. Hardware Design Engineer - Electrical, Satellite Payload (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8454278002?gh_jid=8454278002)
+🕐 Updated: `2026-04-06T18:07:00-04:00` &nbsp;|&nbsp; ID: `8454278002`
+
+---
+### 🆕 Sr. Hardware Development Electrical Engineer - (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461550002?gh_jid=8461550002)
+🕐 Updated: `2026-03-27T21:00:25-04:00` &nbsp;|&nbsp; ID: `8461550002`
+
+---
+### 🆕 Sr. Hardware Development Engineer, Gateway Failure Analysis (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8445597002?gh_jid=8445597002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8445597002`
+
+---
+### 🆕 Sr. Hardware / Infrastructure Site Reliability Engineer (Starlink)
+**spacex** · Starlink Site Reliability Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391735002?gh_jid=8391735002)
+🕐 Updated: `2026-03-27T20:32:46-04:00` &nbsp;|&nbsp; ID: `8391735002`
+
+---
+### 🆕 Sr. Hardware Reliability Engineer, Components (Starshield) 
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397697002?gh_jid=8397697002)
+🕐 Updated: `2026-04-14T20:41:40-04:00` &nbsp;|&nbsp; ID: `8397697002`
+
+---
+### 🆕 Sr. Hardware Reliability Engineer (Starshield)  
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8419080002?gh_jid=8419080002)
+🕐 Updated: `2026-04-14T20:49:51-04:00` &nbsp;|&nbsp; ID: `8419080002`
+
+---
+### 🆕 Sr. High-Speed Electro-Optical IC Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8405111002?gh_jid=8405111002)
+🕐 Updated: `2026-04-08T18:25:39-04:00` &nbsp;|&nbsp; ID: `8405111002`
+
+---
+### 🆕 Sr. HPC Systems Engineer
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8355414002?gh_jid=8355414002)
+🕐 Updated: `2026-04-08T19:16:22-04:00` &nbsp;|&nbsp; ID: `8355414002`
+
+---
+### 🆕 Sr. IC Package Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8460765002?gh_jid=8460765002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8460765002`
+
+---
+### 🆕 Sr. Industrial Automation Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8215985002?gh_jid=8215985002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8215985002`
+
+---
+### 🆕 Sr. Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493014002?gh_jid=8493014002)
+🕐 Updated: `2026-04-02T18:00:28-04:00` &nbsp;|&nbsp; ID: `8493014002`
+
+---
+### 🆕 Sr. IT Linux Site Reliability Engineer
+**spacex** · Information Technology - Corporate
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8315920002?gh_jid=8315920002)
+🕐 Updated: `2026-03-27T19:44:45-04:00` &nbsp;|&nbsp; ID: `8315920002`
+
+---
+### 🆕 Sr. IT Linux Site Reliability Engineer
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8414730002?gh_jid=8414730002)
+🕐 Updated: `2026-04-16T11:44:12-04:00` &nbsp;|&nbsp; ID: `8414730002`
+
+---
+### 🆕 Sr. IT Linux Site Reliability Engineer
+**spacex** · Information Technology - Corporate
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8414591002?gh_jid=8414591002)
+🕐 Updated: `2026-03-30T17:50:34-04:00` &nbsp;|&nbsp; ID: `8414591002`
+
+---
+### 🆕 Sr. IT Linux Site Reliability Engineer
+**spacex** · Information Technology - Corporate
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8372276002?gh_jid=8372276002)
+🕐 Updated: `2026-04-01T19:12:14-04:00` &nbsp;|&nbsp; ID: `8372276002`
+
+---
+### 🆕 Sr. IT Network Automation Engineer
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8438598002?gh_jid=8438598002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8438598002`
+
+---
+### 🆕 Sr. IT Network Automation Engineer
+**spacex** · Information Technology - Corporate
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8438659002?gh_jid=8438659002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8438659002`
+
+---
+### 🆕 Sr. IT Network Automation Engineer
+**spacex** · Information Technology - Corporate
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8438665002?gh_jid=8438665002)
+🕐 Updated: `2026-03-27T20:57:13-04:00` &nbsp;|&nbsp; ID: `8438665002`
+
+---
+### 🆕 Sr. IT Windows Engineer
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8436419002?gh_jid=8436419002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8436419002`
+
+---
+### 🆕 Sr. Kubernetes Engineer
+**spacex** · Information Technology - Corporate
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8510417002?gh_jid=8510417002)
+🕐 Updated: `2026-04-16T12:34:01-04:00` &nbsp;|&nbsp; ID: `8510417002`
+
+---
+### 🆕 Sr. Kubernetes Engineer
+**spacex** · Information Technology - Corporate
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8510414002?gh_jid=8510414002)
+🕐 Updated: `2026-04-16T12:32:34-04:00` &nbsp;|&nbsp; ID: `8510414002`
+
+---
+### 🆕 Sr. Kubernetes Engineer
+**spacex** · Information Technology - Corporate
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8510412002?gh_jid=8510412002)
+🕐 Updated: `2026-04-16T12:31:41-04:00` &nbsp;|&nbsp; ID: `8510412002`
+
+---
+### 🆕 Sr. Kubernetes Platform Site Reliability Engineer (Starlink)
+**spacex** · Starlink Site Reliability Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391737002?gh_jid=8391737002)
+🕐 Updated: `2026-03-27T20:32:55-04:00` &nbsp;|&nbsp; ID: `8391737002`
+
+---
+### 🆕 Sr. Manufacturing Engineer, Machining (Starship)   
+**spacex** · Starship Components Machining
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8508356002?gh_jid=8508356002)
+🕐 Updated: `2026-04-15T11:47:50-04:00` &nbsp;|&nbsp; ID: `8508356002`
+
+---
+### 🆕 Sr. Manufacturing Engineer, Tool & Die Machining (Starlink)
+**spacex** · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362849002?gh_jid=8362849002)
+🕐 Updated: `2026-04-01T20:33:46-04:00` &nbsp;|&nbsp; ID: `8362849002`
+
+---
+### 🆕 Sr. Materials Engineer, Blades and Vanes Foundry 
+**spacex** · Materials Engineering - Core
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8502953002?gh_jid=8502953002)
+🕐 Updated: `2026-04-13T13:38:48-04:00` &nbsp;|&nbsp; ID: `8502953002`
+
+---
+### 🆕 Sr. Materials Engineer, Electronic Materials
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8243188002?gh_jid=8243188002)
+🕐 Updated: `2026-04-08T15:06:56-04:00` &nbsp;|&nbsp; ID: `8243188002`
+
+---
+### 🆕 Sr. Materials Engineer, Satellites (Starlink)
+**spacex** · Materials Engineering - Starlink Materials
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487323002?gh_jid=8487323002)
+🕐 Updated: `2026-03-31T20:38:54-04:00` &nbsp;|&nbsp; ID: `8487323002`
+
+---
+### 🆕 Sr. Materials Engineer, Silicon Crystal Growth (Starlink)
+**spacex** · Materials Engineering - Starlink Materials
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8412696002?gh_jid=8412696002)
+🕐 Updated: `2026-03-27T20:43:55-04:00` &nbsp;|&nbsp; ID: `8412696002`
+
+---
+### 🆕 Sr. Materials Engineer, Silicon Wafer Engineering (Starlink)
+**spacex** · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8432700002?gh_jid=8432700002)
+🕐 Updated: `2026-03-27T20:45:36-04:00` &nbsp;|&nbsp; ID: `8432700002`
+
+---
+### 🆕 Sr. Materials Engineer, SX Casting
+**spacex** · Materials Engineering - Development Application
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8404965002?gh_jid=8404965002)
+🕐 Updated: `2026-03-27T19:28:36-04:00` &nbsp;|&nbsp; ID: `8404965002`
+
+---
+### 🆕 Sr. Materials Engineer, SX Casting
+**spacex** · Materials Engineering - Development Application
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8393650002?gh_jid=8393650002)
+🕐 Updated: `2026-04-07T16:00:25-04:00` &nbsp;|&nbsp; ID: `8393650002`
+
+---
+### 🆕 Sr. Mechanical Design Engineer, Gateways (Starlink)
+**spacex** · Starlink Gateway Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8273420002?gh_jid=8273420002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8273420002`
+
+---
+### 🆕 Sr. Mechanical Design Engineer (Starship Components)
+**spacex** · Starship Components Design
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391925002?gh_jid=8391925002)
+🕐 Updated: `2026-03-27T20:37:53-04:00` &nbsp;|&nbsp; ID: `8391925002`
+
+---
+### 🆕 Sr. Mechanical Engineer, Consumer Hardware (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8202321002?gh_jid=8202321002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8202321002`
+
+---
+### 🆕 Sr. Mechanical Engineer, Consumer Hardware (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8283681002?gh_jid=8283681002)
+🕐 Updated: `2026-04-10T20:16:15-04:00` &nbsp;|&nbsp; ID: `8283681002`
+
+---
+### 🆕 Sr. Mechanical Engineer (Facilities)
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357152002?gh_jid=8357152002)
+🕐 Updated: `2026-04-01T20:34:59-04:00` &nbsp;|&nbsp; ID: `8357152002`
+
+---
+### 🆕 Sr. Mechanical Engineer, Facilities (Starlink) 
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8261989002?gh_jid=8261989002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8261989002`
+
+---
+### 🆕 Sr. Mechanical Engineer, Machine Design (Starship)
+**spacex** · Starship Tooling Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8318111002?gh_jid=8318111002)
+🕐 Updated: `2026-04-01T18:30:35-04:00` &nbsp;|&nbsp; ID: `8318111002`
+
+---
+### 🆕 Sr. Mechanical Engineer, Optical Production (Starlink)
+**spacex** · Starlink Satellite Mech and Electronic Production
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397311002?gh_jid=8397311002)
+🕐 Updated: `2026-04-16T11:37:43-04:00` &nbsp;|&nbsp; ID: `8397311002`
+
+---
+### 🆕 Sr. Mechanical Engineer, Satellites - (Starlink) 
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461411002?gh_jid=8461411002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461411002`
+
+---
+### 🆕 Sr. Mechanical Engineer (Starship)
+**spacex** · Starship Production Maintenance
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8250480002?gh_jid=8250480002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8250480002`
+
+---
+### 🆕 Sr. Mechanical Engineer (Starship Avionics) 
+**spacex** · Starship Avionics Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456811002?gh_jid=8456811002)
+🕐 Updated: `2026-03-27T19:47:14-04:00` &nbsp;|&nbsp; ID: `8456811002`
+
+---
+### 🆕 Sr. Mechanical Integration & Test Engineer (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8306305002?gh_jid=8306305002)
+🕐 Updated: `2026-04-14T20:49:28-04:00` &nbsp;|&nbsp; ID: `8306305002`
+
+---
+### 🆕 Sr. Mechatronics Maintenance Engineer (Starship)
+**spacex** · Starship Production Maintenance
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490224002?gh_jid=8490224002)
+🕐 Updated: `2026-04-03T00:32:55-04:00` &nbsp;|&nbsp; ID: `8490224002`
+
+---
+### 🆕 Sr. Mission Integration Engineer (Starshield)
+**spacex** · Starshield Missions
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8322461002?gh_jid=8322461002)
+🕐 Updated: `2026-03-27T19:12:12-04:00` &nbsp;|&nbsp; ID: `8322461002`
+
+---
+### 🆕 Sr. Mission Integration Engineer (Starshield)
+**spacex** · Starshield Missions
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8322499002?gh_jid=8322499002)
+🕐 Updated: `2026-04-01T18:33:17-04:00` &nbsp;|&nbsp; ID: `8322499002`
+
+---
+### 🆕 Sr. MMIC Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8416335002?gh_jid=8416335002)
+🕐 Updated: `2026-03-27T19:46:34-04:00` &nbsp;|&nbsp; ID: `8416335002`
+
+---
+### 🆕 Sr. NDE Engineer
+**spacex** · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8425788002?gh_jid=8425788002)
+🕐 Updated: `2026-04-09T11:14:29-04:00` &nbsp;|&nbsp; ID: `8425788002`
+
+---
+### 🆕 Sr. NDE Engineer, Radiography Testing
+**spacex** · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8501154002?gh_jid=8501154002)
+🕐 Updated: `2026-04-12T20:51:01-04:00` &nbsp;|&nbsp; ID: `8501154002`
+
+---
+### 🆕 Sr. Network Edge Engineer (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8406840002?gh_jid=8406840002)
+🕐 Updated: `2026-03-30T17:53:38-04:00` &nbsp;|&nbsp; ID: `8406840002`
+
+---
+### 🆕 Sr. Network Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217533002?gh_jid=8217533002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217533002`
+
+---
+### 🆕 Sr. Network Security Engineer (Firewalls)
+**spacex** · Security Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426440002?gh_jid=8426440002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8426440002`
+
+---
+### 🆕 Sr. Operations Engineer, Blades and Vanes Foundry
+**spacex** · Materials Engineering - Core
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8488285002?gh_jid=8488285002)
+🕐 Updated: `2026-04-02T13:32:31-04:00` &nbsp;|&nbsp; ID: `8488285002`
+
+---
+### 🆕 Sr. Optical Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402960002?gh_jid=8402960002)
+🕐 Updated: `2026-04-15T19:48:58-04:00` &nbsp;|&nbsp; ID: `8402960002`
+
+---
+### 🆕 Sr. Optical Network Engineer (Starlink)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8213708002?gh_jid=8213708002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8213708002`
+
+---
+### 🆕 Sr. PCB Designer
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450147002?gh_jid=8450147002)
+🕐 Updated: `2026-04-14T20:47:51-04:00` &nbsp;|&nbsp; ID: `8450147002`
+
+---
+### 🆕 Sr. PCB Librarian
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8409075002?gh_jid=8409075002)
+🕐 Updated: `2026-03-27T19:14:41-04:00` &nbsp;|&nbsp; ID: `8409075002`
+
+---
+### 🆕 Sr. PCB Reliability Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402728002?gh_jid=8402728002)
+🕐 Updated: `2026-04-14T20:48:25-04:00` &nbsp;|&nbsp; ID: `8402728002`
+
+---
+### 🆕 Sr. Power Electronics Engineer, Satellites (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487197002?gh_jid=8487197002)
+🕐 Updated: `2026-03-31T23:56:55-04:00` &nbsp;|&nbsp; ID: `8487197002`
+
+---
+### 🆕 Sr. Power Electronics Engineer - Traveling Wave Tube Amplifier (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8385248002?gh_jid=8385248002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8385248002`
+
+---
+### 🆕 Sr. Power Systems Engineer (Starship Avionics) 
+**spacex** · Starship Avionics Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417626002?gh_jid=8417626002)
+🕐 Updated: `2026-03-31T18:35:27-04:00` &nbsp;|&nbsp; ID: `8417626002`
+
+---
+### 🆕 Sr. Printed Circuit Board (PCB) Reliability Engineer (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8300211002?gh_jid=8300211002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8300211002`
+
+---
+### 🆕 Sr. Printed Circuit Board (PCB) Reliability Engineer (Starlink) 
+**spacex** · Starlink Satellite PCB Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8376425002?gh_jid=8376425002)
+🕐 Updated: `2026-04-01T19:06:39-04:00` &nbsp;|&nbsp; ID: `8376425002`
+
+---
+### 🆕 Sr. Process Controls Engineer, Solar Cell Factory (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8476123002?gh_jid=8476123002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8476123002`
+
+---
+### 🆕 Sr. Process Engineer (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8431444002?gh_jid=8431444002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8431444002`
+
+---
+### 🆕 Sr. Product Compliance Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484570002?gh_jid=8484570002)
+🕐 Updated: `2026-03-29T13:18:09-04:00` &nbsp;|&nbsp; ID: `8484570002`
+
+---
+### 🆕 Sr. Product Development Engineer (Silicon)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358868002?gh_jid=8358868002)
+🕐 Updated: `2026-04-01T20:13:40-04:00` &nbsp;|&nbsp; ID: `8358868002`
+
+---
+### 🆕 Sr. Product Development Engineer (Solar)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358869002?gh_jid=8358869002)
+🕐 Updated: `2026-04-01T20:13:55-04:00` &nbsp;|&nbsp; ID: `8358869002`
+
+---
+### 🆕 Sr. Product Development Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8340609002?gh_jid=8340609002)
+🕐 Updated: `2026-04-01T20:14:09-04:00` &nbsp;|&nbsp; ID: `8340609002`
+
+---
+### 🆕 Sr. Product Security Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478510002?gh_jid=8478510002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478510002`
+
+---
+### 🆕 Sr. Product Security Engineer (Starlink) 
+**spacex** · Product Security - Starlink
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479329002?gh_jid=8479329002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8479329002`
+
+---
+### 🆕 Sr. Propulsion Design Engineer (Raptor Engine Systems)
+**spacex** · Raptor Systems - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8400703002?gh_jid=8400703002)
+🕐 Updated: `2026-04-08T17:58:14-04:00` &nbsp;|&nbsp; ID: `8400703002`
+
+---
+### 🆕 Sr. Propulsion Engineer (Raptor Combustion Devices)
+**spacex** · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495087002?gh_jid=8495087002)
+🕐 Updated: `2026-04-06T15:12:47-04:00` &nbsp;|&nbsp; ID: `8495087002`
+
+---
+### 🆕 Sr. Propulsion Engineer (Raptor Development)
+**spacex** · Raptor Development Operations
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375406002?gh_jid=8375406002)
+🕐 Updated: `2026-03-27T20:27:40-04:00` &nbsp;|&nbsp; ID: `8375406002`
+
+---
+### 🆕 Sr. Propulsion Engineer (Raptor Development Operations)
+**spacex** · Raptor Development Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399493002?gh_jid=8399493002)
+🕐 Updated: `2026-04-09T17:57:00-04:00` &nbsp;|&nbsp; ID: `8399493002`
+
+---
+### 🆕 Sr. Propulsion Engineer, Raptor Flight
+**spacex** · Raptor Flight Operations
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377370002?gh_jid=8377370002)
+🕐 Updated: `2026-04-10T19:09:46-04:00` &nbsp;|&nbsp; ID: `8377370002`
+
+---
+### 🆕 Sr. Propulsion Engineer (Starship)
+**spacex** · Booster Prop Systems Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402205002?gh_jid=8402205002)
+🕐 Updated: `2026-03-30T18:05:14-04:00` &nbsp;|&nbsp; ID: `8402205002`
+
+---
+### 🆕 Sr. PVD Process Engineer, Solar Cells (Starlink)
+**spacex** · Starlink Solar Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494789002?gh_jid=8494789002)
+🕐 Updated: `2026-04-09T15:53:43-04:00` &nbsp;|&nbsp; ID: `8494789002`
+
+---
+### 🆕 Sr. Quality Systems Engineer (Starlink)
+**spacex** · Starlink Reliability - Bastrop
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511399002?gh_jid=8511399002)
+🕐 Updated: `2026-04-17T10:12:27-04:00` &nbsp;|&nbsp; ID: `8511399002`
+
+---
+### 🆕 Sr. Radiation Effects Engineer
+**spacex** · Radiation and Electromagnetic Effects
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8423958002?gh_jid=8423958002)
+🕐 Updated: `2026-03-27T20:06:23-04:00` &nbsp;|&nbsp; ID: `8423958002`
+
+---
+### 🆕 Sr. RF Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369906002?gh_jid=8369906002)
+🕐 Updated: `2026-04-09T11:35:43-04:00` &nbsp;|&nbsp; ID: `8369906002`
+
+---
+### 🆕 Sr. RF Front-End Module Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8499101002?gh_jid=8499101002)
+🕐 Updated: `2026-04-09T11:52:06-04:00` &nbsp;|&nbsp; ID: `8499101002`
+
+---
+### 🆕 Sr. RFIC Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8481833002?gh_jid=8481833002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8481833002`
+
+---
+### 🆕 Sr. RFIC Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8418731002?gh_jid=8418731002)
+🕐 Updated: `2026-03-27T19:37:53-04:00` &nbsp;|&nbsp; ID: `8418731002`
+
+---
+### 🆕 Sr. RFIC Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8439824002?gh_jid=8439824002)
+🕐 Updated: `2026-03-31T20:11:42-04:00` &nbsp;|&nbsp; ID: `8439824002`
+
+---
+### 🆕 Sr. RFIC Design Engineer (Starshield Silicon) 
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8219475002?gh_jid=8219475002)
+🕐 Updated: `2026-04-14T14:58:06-04:00` &nbsp;|&nbsp; ID: `8219475002`
+
+---
+### 🆕 Sr. RFIC Engineer
+**spacex** · Starshield Satellite Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8453343002?gh_jid=8453343002)
+🕐 Updated: `2026-04-14T14:58:31-04:00` &nbsp;|&nbsp; ID: `8453343002`
+
+---
+### 🆕 Sr. RFIC Layout Designer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8418805002?gh_jid=8418805002)
+🕐 Updated: `2026-03-27T19:43:09-04:00` &nbsp;|&nbsp; ID: `8418805002`
+
+---
+### 🆕 Sr. RFIC Layout Designer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8472249002?gh_jid=8472249002)
+🕐 Updated: `2026-04-16T12:19:26-04:00` &nbsp;|&nbsp; ID: `8472249002`
+
+---
+### 🆕 Sr. RFIC Layout Designer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8418848002?gh_jid=8418848002)
+🕐 Updated: `2026-03-27T19:34:44-04:00` &nbsp;|&nbsp; ID: `8418848002`
+
+---
+### 🆕 Sr. RF/Microwave Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8416892002?gh_jid=8416892002)
+🕐 Updated: `2026-04-09T11:11:39-04:00` &nbsp;|&nbsp; ID: `8416892002`
+
+---
+### 🆕 Sr. RF/Microwave Engineer, Satellites - (Starlink) 
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461541002?gh_jid=8461541002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461541002`
+
+---
+### 🆕 Sr. RF Silicon Software Engineer (RFIC Engineering)
+**spacex** · Silicon Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8438151002?gh_jid=8438151002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8438151002`
+
+---
+### 🆕 Sr. RF Systems Analysis Engineer, Regulatory (Starlink)
+**spacex** · Starlink Regulatory
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8390085002?gh_jid=8390085002)
+🕐 Updated: `2026-04-16T14:20:33-04:00` &nbsp;|&nbsp; ID: `8390085002`
+
+---
+### 🆕 Sr. RF Systems Analysis Engineer, Regulatory (Starlink)
+**spacex** · Starlink Regulatory
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8390105002?gh_jid=8390105002)
+🕐 Updated: `2026-04-16T14:20:14-04:00` &nbsp;|&nbsp; ID: `8390105002`
+
+---
+### 🆕 Sr. RF & Wireless Compliance Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484566002?gh_jid=8484566002)
+🕐 Updated: `2026-03-29T13:00:18-04:00` &nbsp;|&nbsp; ID: `8484566002`
+
+---
+### 🆕 Sr. RTL Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8461485002?gh_jid=8461485002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8461485002`
+
+---
+### 🆕 Sr. RTL Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8457325002?gh_jid=8457325002)
+🕐 Updated: `2026-03-27T19:00:44-04:00` &nbsp;|&nbsp; ID: `8457325002`
+
+---
+### 🆕 Sr. RTL Design Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Irvine, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8455515002?gh_jid=8455515002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8455515002`
+
+---
+### 🆕 Sr. Scheduler (Starship)
+**spacex** · Starship Operations Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8405013002?gh_jid=8405013002)
+🕐 Updated: `2026-04-08T17:58:37-04:00` &nbsp;|&nbsp; ID: `8405013002`
+
+---
+### 🆕 Sr. Security Software Engineer, Applied Computing (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8441151002?gh_jid=8441151002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8441151002`
+
+---
+### 🆕 Sr. Security Software Engineer, Applied Computing (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483823002?gh_jid=8483823002)
+🕐 Updated: `2026-03-27T18:33:44-04:00` &nbsp;|&nbsp; ID: `8483823002`
+
+---
+### 🆕 Sr. Security Software Engineer, Applied Computing (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8441130002?gh_jid=8441130002)
+🕐 Updated: `2026-03-27T17:08:27-04:00` &nbsp;|&nbsp; ID: `8441130002`
+
+---
+### 🆕 Sr. Security Software Engineer (Starlink)
+**spacex** · Product Security - Starlink
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478506002?gh_jid=8478506002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478506002`
+
+---
+### 🆕 Sr. Security Software Engineer (Starlink) 
+**spacex** · Product Security - Starlink
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8479288002?gh_jid=8479288002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8479288002`
+
+---
+### 🆕 Sr. Security Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420965002?gh_jid=8420965002)
+🕐 Updated: `2026-03-27T18:59:08-04:00` &nbsp;|&nbsp; ID: `8420965002`
+
+---
+### 🆕 Sr. Security Software Enginer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Palo Alto, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483994002?gh_jid=8483994002)
+🕐 Updated: `2026-03-27T18:34:03-04:00` &nbsp;|&nbsp; ID: `8483994002`
+
+---
+### 🆕 Sr. Signal and Power Integrity Engineer, Satellites (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8357937002?gh_jid=8357937002)
+🕐 Updated: `2026-04-01T20:16:12-04:00` &nbsp;|&nbsp; ID: `8357937002`
+
+---
+### 🆕 Sr. Signal and Power Integrity Engineer, Satellites (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8435646002?gh_jid=8435646002)
+🕐 Updated: `2026-04-10T17:47:22-04:00` &nbsp;|&nbsp; ID: `8435646002`
+
+---
+### 🆕 Sr. Silicon Photonics Design Engineer (RFIC Engineering)
+**spacex** · RFIC Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8405110002?gh_jid=8405110002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8405110002`
+
+---
+### 🆕 Sr. Simulation Software Engineer (Application Software)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487924002?gh_jid=8487924002)
+🕐 Updated: `2026-03-31T16:32:28-04:00` &nbsp;|&nbsp; ID: `8487924002`
+
+---
+### 🆕 Sr. SI/PI Engineer - Serdes, Satellites (Starlink)
+**spacex** · Satellite Payload Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8435675002?gh_jid=8435675002)
+🕐 Updated: `2026-04-10T17:47:37-04:00` &nbsp;|&nbsp; ID: `8435675002`
+
+---
+### 🆕 Sr. Site Reliability Engineer (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8459936002?gh_jid=8459936002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8459936002`
+
+---
+### 🆕 Sr. Site Reliability Engineer - Top Secret Clearance (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8449024002?gh_jid=8449024002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8449024002`
+
+---
+### 🆕 Sr. SOC/ASIC DFT Engineer (Silicon Engineering)
+**spacex** · Silicon Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8355442002?gh_jid=8355442002)
+🕐 Updated: `2026-03-27T19:51:42-04:00` &nbsp;|&nbsp; ID: `8355442002`
+
+---
+### 🆕 Sr. Software Engineer, Additive Manufacturing (Raptor) 
+**spacex** · Raptor Software - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490889002?gh_jid=8490889002)
+🕐 Updated: `2026-04-02T13:33:45-04:00` &nbsp;|&nbsp; ID: `8490889002`
+
+---
+### 🆕 Sr. Software Engineer, Beam Planning (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478512002?gh_jid=8478512002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478512002`
+
+---
+### 🆕 Sr. Software Engineer, CDN  (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8448558002?gh_jid=8448558002)
+🕐 Updated: `2026-03-31T18:36:30-04:00` &nbsp;|&nbsp; ID: `8448558002`
+
+---
+### 🆕 Sr. Software Engineer, Computer Vision
+**spacex** · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8445712002?gh_jid=8445712002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8445712002`
+
+---
+### 🆕 Sr. Software Engineer, Design Software (Starship)
+**spacex** · Design Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8466962002?gh_jid=8466962002)
+🕐 Updated: `2026-03-30T15:10:35-04:00` &nbsp;|&nbsp; ID: `8466962002`
+
+---
+### 🆕 Sr. Software Engineer, DevOps (Starlink)   
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8443739002?gh_jid=8443739002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8443739002`
+
+---
+### 🆕 Sr. Software Engineer (Financial Software)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8351848002?gh_jid=8351848002)
+🕐 Updated: `2026-03-27T20:06:42-04:00` &nbsp;|&nbsp; ID: `8351848002`
+
+---
+### 🆕 Sr. Software Engineer, Flight Software (Starship)
+**spacex** · Starship Software Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209884002?gh_jid=8209884002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8209884002`
+
+---
+### 🆕 Sr. Software Engineer, Flight Software (Starship)
+**spacex** · Starship Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209903002?gh_jid=8209903002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8209903002`
+
+---
+### 🆕 Sr. Software Engineer, Hardware Test & Automation (Starshield)
+**spacex** · Starshield Production
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8250176002?gh_jid=8250176002)
+🕐 Updated: `2026-04-14T20:48:59-04:00` &nbsp;|&nbsp; ID: `8250176002`
+
+---
+### 🆕 Sr. Software Engineer, High Performance Computing (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478516002?gh_jid=8478516002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478516002`
+
+---
+### 🆕 Sr. Software Engineer, HITL - Top Secret Clearance
+**spacex** · Special Programs
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397603002?gh_jid=8397603002)
+🕐 Updated: `2026-04-10T12:13:32-04:00` &nbsp;|&nbsp; ID: `8397603002`
+
+---
+### 🆕 Sr. Software Engineer, Low Latency Computing (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8478517002?gh_jid=8478517002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8478517002`
+
+---
+### 🆕 Sr. Software Engineer (Platform Team)
+**spacex** · Starship Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8495853002?gh_jid=8495853002)
+🕐 Updated: `2026-04-07T10:26:02-04:00` &nbsp;|&nbsp; ID: `8495853002`
+
+---
+### 🆕 Sr. Software Engineer, Propulsion Simulation & Data Analysis (Raptor)
+**spacex** · Raptor Systems - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8213305002?gh_jid=8213305002)
+🕐 Updated: `2026-04-09T17:59:02-04:00` &nbsp;|&nbsp; ID: `8213305002`
+
+---
+### 🆕 Sr. Software Engineer, Security (Starship)
+**spacex** · Starship Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209915002?gh_jid=8209915002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8209915002`
+
+---
+### 🆕 Sr. Software Engineer, Simulations (Application Software)
+**spacex** · Application Software
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8487481002?gh_jid=8487481002)
+🕐 Updated: `2026-03-31T16:28:32-04:00` &nbsp;|&nbsp; ID: `8487481002`
+
+---
+### 🆕 Sr. Software Engineer (Special Projects) - Top Secret Clearance
+**spacex** · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8306517002?gh_jid=8306517002)
+🕐 Updated: `2026-03-31T18:41:45-04:00` &nbsp;|&nbsp; ID: `8306517002`
+
+---
+### 🆕 Sr. Software Engineer (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379314002?gh_jid=8379314002)
+🕐 Updated: `2026-04-01T17:41:32-04:00` &nbsp;|&nbsp; ID: `8379314002`
+
+---
+### 🆕 Sr. Software Engineer (Starlink Ground Network)
+**spacex** · Starlink Ground Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8512835002?gh_jid=8512835002)
+🕐 Updated: `2026-04-17T19:44:01-04:00` &nbsp;|&nbsp; ID: `8512835002`
+
+---
+### 🆕 Sr. Software Engineer, Starlink Growth
+**spacex** · Starlink Consumer
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402939002?gh_jid=8402939002)
+🕐 Updated: `2026-03-27T19:52:57-04:00` &nbsp;|&nbsp; ID: `8402939002`
+
+---
+### 🆕 Sr. Software Engineer, Starlink Growth
+**spacex** · Starlink Consumer
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402993002?gh_jid=8402993002)
+🕐 Updated: `2026-04-15T19:50:58-04:00` &nbsp;|&nbsp; ID: `8402993002`
+
+---
+### 🆕 Sr. Software Engineer, Starlink Growth
+**spacex** · Starlink Consumer
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397308002?gh_jid=8397308002)
+🕐 Updated: `2026-04-09T11:59:57-04:00` &nbsp;|&nbsp; ID: `8397308002`
+
+---
+### 🆕 Sr. Software Engineer, Starlink Network
+**spacex** · Starlink Network Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8458038002?gh_jid=8458038002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8458038002`
+
+---
+### 🆕 Sr. Software Engineer (Starshield)
+**spacex** · Starshield Software Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387824002?gh_jid=8387824002)
+🕐 Updated: `2026-03-30T16:00:15-04:00` &nbsp;|&nbsp; ID: `8387824002`
+
+---
+### 🆕 Sr. Software Engineer, Telemetry (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497599002?gh_jid=8497599002)
+🕐 Updated: `2026-04-08T11:43:23-04:00` &nbsp;|&nbsp; ID: `8497599002`
+
+---
+### 🆕 Sr. Software Infrastructure Engineer (Starlink)
+**spacex** · Starlink Site Reliability Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8391738002?gh_jid=8391738002)
+🕐 Updated: `2026-03-27T20:32:33-04:00` &nbsp;|&nbsp; ID: `8391738002`
+
+---
+### 🆕 Sr. Sourcing Specialist, Starship Infrastructure 
+**spacex** · Supply Chain - Launch and Recovery
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8498742002?gh_jid=8498742002)
+🕐 Updated: `2026-04-08T12:15:00-04:00` &nbsp;|&nbsp; ID: `8498742002`
+
+---
+### 🆕 Sr. Space Lasers Engineer, Satellites (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483195002?gh_jid=8483195002)
+🕐 Updated: `2026-03-27T16:22:36-04:00` &nbsp;|&nbsp; ID: `8483195002`
+
+---
+### 🆕 Sr. Space Lasers Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8402962002?gh_jid=8402962002)
+🕐 Updated: `2026-04-15T19:49:14-04:00` &nbsp;|&nbsp; ID: `8402962002`
+
+---
+### 🆕 Sr. Starship Engineer
+**spacex** · Booster Structures Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8216528002?gh_jid=8216528002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8216528002`
+
+---
+### 🆕 Sr. Structural Engineer
+**spacex** · Facilities - Hawthorne
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8512920002?gh_jid=8512920002)
+🕐 Updated: `2026-04-17T19:53:59-04:00` &nbsp;|&nbsp; ID: `8512920002`
+
+---
+### 🆕 Sr. Structural Engineer (Starship Launch Pad )
+**spacex** · Tower and Launch Mount Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217772002?gh_jid=8217772002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217772002`
+
+---
+### 🆕 Sr. Structural Engineer, Structural Test (Starship)
+**spacex** · Starship Structural Test
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8364483002?gh_jid=8364483002)
+🕐 Updated: `2026-04-02T09:53:28-04:00` &nbsp;|&nbsp; ID: `8364483002`
+
+---
+### 🆕 Sr. Supplier Development Engineer (Starlink)
+**spacex** · Starlink - User Terminal Supply Chain
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8334456002?gh_jid=8334456002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8334456002`
+
+---
+### 🆕 Sr. Supplier Development Engineer (Starshield)
+**spacex** · Satellite Supply Chain
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8348161002?gh_jid=8348161002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8348161002`
+
+---
+### 🆕 Sr. Technical Operations Engineer, Customer Success (Starlink)
+**spacex** · Starlink Customer Operations
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8444679002?gh_jid=8444679002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8444679002`
+
+---
+### 🆕 Sr. Technical Operations Engineer, Customer Success (Starlink)
+**spacex** · Starlink Customer Operations
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8439487002?gh_jid=8439487002)
+🕐 Updated: `2026-04-10T17:03:00-04:00` &nbsp;|&nbsp; ID: `8439487002`
+
+---
+### 🆕 Sr. Thermal Engineer, Thermal & Fluid Analysis (Starship)
+**spacex** · Starship GNC
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209925002?gh_jid=8209925002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8209925002`
+
+---
+### 🆕 Sr. Tooling Design & Automation Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8273200002?gh_jid=8273200002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8273200002`
+
+---
+### 🆕 Sr. Tooling Design Engineer, Investment Casting 
+**spacex** · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8493185002?gh_jid=8493185002)
+🕐 Updated: `2026-04-03T18:53:29-04:00` &nbsp;|&nbsp; ID: `8493185002`
+
+---
+### 🆕 Sr. Tooling Engineer, Plastic Injection Molding (Starlink)
+**spacex** · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8367624002?gh_jid=8367624002)
+🕐 Updated: `2026-04-01T20:21:49-04:00` &nbsp;|&nbsp; ID: `8367624002`
+
+---
+### 🆕 Sr. Water Treatment Engineer (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358336002?gh_jid=8358336002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8358336002`
+
+---
+### 🆕 Sr. Welding Engineer
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8341264002?gh_jid=8341264002)
+🕐 Updated: `2026-04-01T18:54:21-04:00` &nbsp;|&nbsp; ID: `8341264002`
+
+---
+### 🆕 Sr. Wi-Fi Software Engineer (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379225002?gh_jid=8379225002)
+🕐 Updated: `2026-03-27T21:06:03-04:00` &nbsp;|&nbsp; ID: `8379225002`
+
+---
+### 🆕 Sr. Wireless Firmware Engineer (Direct To Cell)
+**spacex** · Starlink Mobile Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8376455002?gh_jid=8376455002)
+🕐 Updated: `2026-03-30T12:25:48-04:00` &nbsp;|&nbsp; ID: `8376455002`
+
+---
+### 🆕 Sr. Wireless Firmware Engineer (Direct To Cell)
+**spacex** · Starlink Mobile Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8373546002?gh_jid=8373546002)
+🕐 Updated: `2026-03-27T20:28:10-04:00` &nbsp;|&nbsp; ID: `8373546002`
+
+---
+### 🆕 Starlink Integration & Test Engineer (Aviation)
+**spacex** · Starlink Aviation Production - Redmond
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8470829002?gh_jid=8470829002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8470829002`
+
+---
+### 🆕 Starlink Market Access & Development Manager
+**spacex** · Starlink - Market Access
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8346179002?gh_jid=8346179002)
+🕐 Updated: `2026-04-02T13:25:38-04:00` &nbsp;|&nbsp; ID: `8346179002`
+
+---
+### 🆕 Starlink Market Access & Development Manager
+**spacex** · Starlink - Market Access
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8346149002?gh_jid=8346149002)
+🕐 Updated: `2026-04-01T18:46:48-04:00` &nbsp;|&nbsp; ID: `8346149002`
+
+---
+### 🆕 Starlink Market Access & Development Manager (Africa)
+**spacex** · Starlink - Market Access
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369601002?gh_jid=8369601002)
+🕐 Updated: `2026-04-01T20:12:56-04:00` &nbsp;|&nbsp; ID: `8369601002`
+
+---
+### 🆕 Starlink Market Access & Development Manager (Africa)
+**spacex** · Starlink - Market Access
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8369595002?gh_jid=8369595002)
+🕐 Updated: `2026-04-01T12:08:09-04:00` &nbsp;|&nbsp; ID: `8369595002`
+
+---
+### 🆕 Starlink Market Access & Development Manager (Middle East)
+**spacex** · Starlink - Market Access
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8346365002?gh_jid=8346365002)
+🕐 Updated: `2026-03-30T17:10:31-04:00` &nbsp;|&nbsp; ID: `8346365002`
+
+---
+### 🆕 Starlink Market Access & Development Manager (Middle East)
+**spacex** · Starlink - Market Access
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8346369002?gh_jid=8346369002)
+🕐 Updated: `2026-04-01T18:47:26-04:00` &nbsp;|&nbsp; ID: `8346369002`
+
+---
+### 🆕 Starlink Production Technician - TWTA
+**spacex** · Satellite Payload Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8484033002?gh_jid=8484033002)
+🕐 Updated: `2026-03-27T19:13:32-04:00` &nbsp;|&nbsp; ID: `8484033002`
+
+---
+### 🆕 Starship Build Engineer (Starship)
+**spacex** · Booster Integration Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362864002?gh_jid=8362864002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8362864002`
+
+---
+### 🆕 Structural Engineer, Launch Pad (Starship)
+**spacex** · Tower and Launch Mount Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8295760002?gh_jid=8295760002)
+🕐 Updated: `2026-03-31T18:38:40-04:00` &nbsp;|&nbsp; ID: `8295760002`
+
+---
+### 🆕 Structural Engineer (Starlink)
+**spacex** · Texas - Construction Projects
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8403828002?gh_jid=8403828002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8403828002`
+
+---
+### 🆕 Structural Engineer (Starship Infrastructure)
+**spacex** · Launch Infrastructure - Starbase
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8389500002?gh_jid=8389500002)
+🕐 Updated: `2026-03-27T20:15:27-04:00` &nbsp;|&nbsp; ID: `8389500002`
+
+---
+### 🆕 Structural Engineer, Structural Test (Starship)
+**spacex** · Starship Structural Test
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8310520002?gh_jid=8310520002)
+🕐 Updated: `2026-04-01T18:27:23-04:00` &nbsp;|&nbsp; ID: `8310520002`
+
+---
+### 🆕 Supervisor, Development Operations (Starlink)
+**spacex** · Starlink Production Bastrop - Maint. & Facilities
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8480469002?gh_jid=8480469002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8480469002`
+
+---
+### 🆕 Supervisor, IT Network Infrastructure
+**spacex** · Information Technology - Network Infrastructure
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377059002?gh_jid=8377059002)
+🕐 Updated: `2026-04-08T18:20:46-04:00` &nbsp;|&nbsp; ID: `8377059002`
+
+---
+### 🆕 Supervisor, IT Network Infrastructure
+**spacex** · Information Technology - Network Infrastructure
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387971002?gh_jid=8387971002)
+🕐 Updated: `2026-04-01T18:08:51-04:00` &nbsp;|&nbsp; ID: `8387971002`
+
+---
+### 🆕 Supervisor, Test System Production  (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8384640002?gh_jid=8384640002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8384640002`
+
+---
+### 🆕 Supervisor, Thermal Hardware
+**spacex** · Materials Engineering - Core
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8503000002?gh_jid=8503000002)
+🕐 Updated: `2026-04-13T13:42:20-04:00` &nbsp;|&nbsp; ID: `8503000002`
+
+---
+### 🆕 Supplier Development Engineer, Harnessing (Starlink) 
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8494936002?gh_jid=8494936002)
+🕐 Updated: `2026-04-06T16:47:20-04:00` &nbsp;|&nbsp; ID: `8494936002`
+
+---
+### 🆕 Supplier Development Engineer, Injection Molding (Starlink)
+**spacex** · Starlink Product Supply Chain Reliability
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8473154002?gh_jid=8473154002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8473154002`
+
+---
+### 🆕 Supplier Development Engineer (Mechanical Engineering)
+**spacex** · Starbase Supply Chain
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8364232002?gh_jid=8364232002)
+🕐 Updated: `2026-04-01T19:15:02-04:00` &nbsp;|&nbsp; ID: `8364232002`
+
+---
+### 🆕 Supplier Development Engineer, Mechanical (Starshield)
+**spacex** · Satellite Supply Chain
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8452999002?gh_jid=8452999002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8452999002`
+
+---
+### 🆕 Supplier Development Engineer, Mechanical (Starship)
+**spacex** · Starship Components Supply Chain
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8399474002?gh_jid=8399474002)
+🕐 Updated: `2026-03-31T17:37:57-04:00` &nbsp;|&nbsp; ID: `8399474002`
+
+---
+### 🆕 Supplier Development Engineer, PCB/PCBA (Starshield)
+**spacex** · Satellite Supply Chain
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8350877002?gh_jid=8350877002)
+🕐 Updated: `2026-04-10T19:11:23-04:00` &nbsp;|&nbsp; ID: `8350877002`
+
+---
+### 🆕 Supplier Development Engineer, PCB (Starlink)
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477099002?gh_jid=8477099002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477099002`
+
+---
+### 🆕 Supplier Development Engineer (Starlink)
+**spacex** · Starlink - User Terminal Supply Chain
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8214125002?gh_jid=8214125002)
+🕐 Updated: `2026-03-27T19:42:54-04:00` &nbsp;|&nbsp; ID: `8214125002`
+
+---
+### 🆕 Supplier Development Engineer, Supply Chain (Launch Site) 
+**spacex** · Supply Chain - Launch and Recovery
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8497601002?gh_jid=8497601002)
+🕐 Updated: `2026-04-10T17:23:03-04:00` &nbsp;|&nbsp; ID: `8497601002`
+
+---
+### 🆕 Supplier Industrialization Engineer, PCB/PCBA (Starshield)
+**spacex** · Satellite Supply Chain
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8350883002?gh_jid=8350883002)
+🕐 Updated: `2026-04-10T19:11:51-04:00` &nbsp;|&nbsp; ID: `8350883002`
+
+---
+### 🆕 Supplier Industrialization Engineer, PCB (Starlink) 
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477140002?gh_jid=8477140002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477140002`
+
+---
+### 🆕 Supply Chain Engineer, PCB/PCBA (Starshield)
+**spacex** · Satellite Supply Chain
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8350884002?gh_jid=8350884002)
+🕐 Updated: `2026-04-10T19:14:39-04:00` &nbsp;|&nbsp; ID: `8350884002`
+
+---
+### 🆕 Supply Chain Engineer, PCB (Starlink)
+**spacex** · Satellite Supply Chain
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477142002?gh_jid=8477142002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477142002`
+
+---
+### 🆕 Supply Chain Engineer (Starlink)
+**spacex** · Starlink Product Supply Chain Reliability
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8415124002?gh_jid=8415124002)
+🕐 Updated: `2026-03-27T20:02:09-04:00` &nbsp;|&nbsp; ID: `8415124002`
+
+---
+### 🆕 Supply Chain Engineer (Starlink Aviation)
+**spacex** · Starlink Product Supply Chain Reliability
+📍 Woodinville, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8367491002?gh_jid=8367491002)
+🕐 Updated: `2026-04-09T12:11:24-04:00` &nbsp;|&nbsp; ID: `8367491002`
+
+---
+### 🆕 Technical Operations Engineer, Customer Success (Starlink)
+**spacex** · Starlink Customer Operations
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8318355002?gh_jid=8318355002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8318355002`
+
+---
+### 🆕 Technical Operations Engineer, Customer Success (Starlink)
+**spacex** · Starlink Customer Operations
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8318334002?gh_jid=8318334002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8318334002`
+
+---
+### 🆕 Technical Training Engineer (Starship)
+**spacex** · Starship Technical Training
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8385001002?gh_jid=8385001002)
+🕐 Updated: `2026-04-01T17:44:46-04:00` &nbsp;|&nbsp; ID: `8385001002`
+
+---
+### 🆕 Telecommunications Engineer
+**spacex** · Information Technology - Network Infrastructure
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8392961002?gh_jid=8392961002)
+🕐 Updated: `2026-03-31T17:52:04-04:00` &nbsp;|&nbsp; ID: `8392961002`
+
+---
+### 🆕 Telecommunications Engineer
+**spacex** · Information Technology - Network Infrastructure
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8371452002?gh_jid=8371452002)
+🕐 Updated: `2026-04-01T19:21:25-04:00` &nbsp;|&nbsp; ID: `8371452002`
+
+---
+### 🆕 Telecommunications Engineer
+**spacex** · Information Technology - Network Infrastructure
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8443019002?gh_jid=8443019002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8443019002`
+
+---
+### 🆕 Telecommunications Technician
+**spacex** · Texas - Network Infrastructure
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8294807002?gh_jid=8294807002)
+🕐 Updated: `2026-04-08T17:50:54-04:00` &nbsp;|&nbsp; ID: `8294807002`
+
+---
+### 🆕 Test Automation Engineer, Satellites (Starlink)
+**spacex** · Starlink Satellite Integration and Test
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375684002?gh_jid=8375684002)
+🕐 Updated: `2026-04-01T19:08:51-04:00` &nbsp;|&nbsp; ID: `8375684002`
+
+---
+### 🆕 Test Engineer (Dragon)
+**spacex** · Texas - Development Test
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8492521002?gh_jid=8492521002)
+🕐 Updated: `2026-04-02T15:01:25-04:00` &nbsp;|&nbsp; ID: `8492521002`
+
+---
+### 🆕 Test Engineer (Falcon Test)
+**spacex** · Texas - Falcon Test Operations
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8326667002?gh_jid=8326667002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8326667002`
+
+---
+### 🆕 Test Engineer, Propulsion Components (Starship)
+**spacex** · Components Test - Starship
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8423223002?gh_jid=8423223002)
+🕐 Updated: `2026-04-10T17:44:42-04:00` &nbsp;|&nbsp; ID: `8423223002`
+
+---
+### 🆕 Test Engineer (Starship) 
+**spacex** · Ship Integration Engineering
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8199734002?gh_jid=8199734002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8199734002`
+
+---
+### 🆕 Test Engineer (Starship Development)
+**spacex** · Texas - Development Test
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477466002?gh_jid=8477466002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477466002`
+
+---
+### 🆕 Test Reliability Engineer (Raptor)
+**spacex** · Texas Reliability
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8464865002?gh_jid=8464865002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8464865002`
+
+---
+### 🆕 Test Specialist, Factory Automation (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397354002?gh_jid=8397354002)
+🕐 Updated: `2026-03-27T20:05:42-04:00` &nbsp;|&nbsp; ID: `8397354002`
+
+---
+### 🆕 Test Stand Design & Build Engineer (Structures/Fluid Systems)
+**spacex** · Texas - Test Support
+📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8477422002?gh_jid=8477422002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8477422002`
+
+---
+### 🆕 Test Technician (Starlink)
+**spacex** · Starlink Satellite PCB Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397245002?gh_jid=8397245002)
+🕐 Updated: `2026-04-16T11:39:48-04:00` &nbsp;|&nbsp; ID: `8397245002`
+
+---
+### 🆕 Thermal Control and Life Support Hardware Engineer (Crew Starship)
+**spacex** · Crew Starship
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8421673002?gh_jid=8421673002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8421673002`
+
+---
+### 🆕 Thermal Development Technician, Robotic Welding (Starship) - Level 4/5
+**spacex** · Starbase Thermal Hardware - Installation
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8393771002?gh_jid=8393771002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8393771002`
+
+---
+### 🆕 Thermal Development Technician (Starship)
+**spacex** · Starbase Thermal Hardware - Installation
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8377287002?gh_jid=8377287002)
+🕐 Updated: `2026-04-10T17:38:35-04:00` &nbsp;|&nbsp; ID: `8377287002`
+
+---
+### 🆕 Thermal Development Technician (Starship)
+**spacex** · Starbase Thermal Hardware - Installation
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417603002?gh_jid=8417603002)
+🕐 Updated: `2026-03-27T19:34:21-04:00` &nbsp;|&nbsp; ID: `8417603002`
+
+---
+### 🆕 Thermal Development Technician (Starship) - Temporary
+**spacex** · Starbase Thermal Hardware - Installation
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8417386002?gh_jid=8417386002)
+🕐 Updated: `2026-04-10T17:00:30-04:00` &nbsp;|&nbsp; ID: `8417386002`
+
+---
+### 🆕 Thermal Engineer, Satellites (Starlink)
+**spacex** · Satellite Bus Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8425060002?gh_jid=8425060002)
+🕐 Updated: `2026-03-27T19:09:14-04:00` &nbsp;|&nbsp; ID: `8425060002`
+
+---
+### 🆕 Thermal Engineer (Starshield)
+**spacex** · Starshield Satellite Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8385026002?gh_jid=8385026002)
+🕐 Updated: `2026-04-14T14:58:54-04:00` &nbsp;|&nbsp; ID: `8385026002`
+
+---
+### 🆕 Thermal Engineer, Thermal & Fluid Analysis (Starship)
+**spacex** · Starship GNC
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8209940002?gh_jid=8209940002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8209940002`
+
+---
+### 🆕 Thermal Hardware Engineer (Starship)
+**spacex** · Thermal Hardware
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8393776002?gh_jid=8393776002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8393776002`
+
+---
+### 🆕 Thermal Protection Engineer
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Cape Canaveral, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8359659002?gh_jid=8359659002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8359659002`
+
+---
+### 🆕 Tool & Die Specialist
+**spacex** · Materials Engineering - Starlink Operations - HT
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8423470002?gh_jid=8423470002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8423470002`
+
+---
+### 🆕 Tool & Die Specialist - 2nd Shift
+**spacex** · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8362153002?gh_jid=8362153002)
+🕐 Updated: `2026-04-01T20:32:25-04:00` &nbsp;|&nbsp; ID: `8362153002`
+
+---
+### 🆕 Tooling Design & Automation Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8365425002?gh_jid=8365425002)
+🕐 Updated: `2026-03-30T12:26:28-04:00` &nbsp;|&nbsp; ID: `8365425002`
+
+---
+### 🆕 Tooling Design & Automation Engineer (Starlink)
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8269706002?gh_jid=8269706002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8269706002`
+
+---
+### 🆕 Turbomachinery Engineer (Raptor)
+**spacex** · Raptor Turbomachinery - Engineering
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8217579002?gh_jid=8217579002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8217579002`
+
+---
+### 🆕 Video & Voice Systems Engineer, Broadcast
+**spacex** · Information Technology - Corporate
+📍 Starbase, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8480479002?gh_jid=8480479002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8480479002`
+
+---
+### 🆕 Water Treatment Engineer (Starlink)
+**spacex** · Starlink Process Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8194455002?gh_jid=8194455002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8194455002`
+
+---
+### 🆕 Welder (Starship)
+**spacex** · Starship COPV Engineering
+📍 Westminster, MD &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8483369002?gh_jid=8483369002)
+🕐 Updated: `2026-03-30T16:02:37-04:00` &nbsp;|&nbsp; ID: `8483369002`
+
+---
+### 🆕 Welding Engineer
+**spacex** · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8341259002?gh_jid=8341259002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8341259002`
+
+---
+### 🆕 Wi-Fi Software Engineer (Starlink) 
+**spacex** · Starlink Product Engineering
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8379209002?gh_jid=8379209002)
+🕐 Updated: `2026-04-01T19:07:49-04:00` &nbsp;|&nbsp; ID: `8379209002`
+
+---
+### 🆕 Wireless Firmware Engineer (Direct To Cell)
+**spacex** · Starlink Mobile Engineering
+📍 Redmond, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8376486002?gh_jid=8376486002)
+🕐 Updated: `2026-04-01T19:04:14-04:00` &nbsp;|&nbsp; ID: `8376486002`
+
+---
+### 🆕 Wireless Firmware Engineer (Direct To Cell)
+**spacex** · Starlink Mobile Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8376504002?gh_jid=8376504002)
+🕐 Updated: `2026-04-01T19:03:53-04:00` &nbsp;|&nbsp; ID: `8376504002`
+
+---
+### 🆕 Wireless Integration & Validation Engineer (Starlink Mobile)
+**spacex** · Starlink Mobile Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456871002?gh_jid=8456871002)
+🕐 Updated: `2026-03-27T19:42:31-04:00` &nbsp;|&nbsp; ID: `8456871002`
+
+---
+### 🆕 Wireless Software Engineer (Starlink)
+**spacex** · Starlink Network Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511186002?gh_jid=8511186002)
+🕐 Updated: `2026-04-16T17:58:46-04:00` &nbsp;|&nbsp; ID: `8511186002`
+
+---
+### 🆕 Wireless Systems Engineer (Starlink Mobile)
+**spacex** · Starlink Mobile Engineering
+📍 Sunnyvale, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8468438002?gh_jid=8468438002)
+🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8468438002`
+
+---
+### 🆕 Yield Engineer, RF Final Test Integration (Starlink/Akoustis)
+**spacex** · Akoustis
+📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8375300002?gh_jid=8375300002)
+🕐 Updated: `2026-04-10T19:19:29-04:00` &nbsp;|&nbsp; ID: `8375300002`
+
+---
+### 🆕 Yield Engineer (Starlink/Akoustis) 
+**spacex** · Akoustis
+📍 Canandaigua, NY  &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8302408002?gh_jid=8302408002)
+🕐 Updated: `2026-03-27T19:47:41-04:00` &nbsp;|&nbsp; ID: `8302408002`
+
+---
+
 ## 📅 Run: 2026-04-19 04:21 UTC
 
 ### 🆕 Claude Evangelist, Applied AI (Startups)
