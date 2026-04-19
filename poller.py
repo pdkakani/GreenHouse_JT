@@ -38,7 +38,7 @@ API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true
 REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
-MAX_JOBS_PER_COMPANY = 500
+MAX_JOBS_PER_COMPANY = 2000  # raised from 500 — some large companies (Databricks, Stripe) exceed 500
 
 WORKFLOW_TIMEOUT_SECONDS = 8 * 60  # 8 minutes; scoring gets whatever fetch leaves
 SCORE_RATE_LIMIT_SLEEP = 2.1       # slightly over 2s → safely under 30 req/min
@@ -282,10 +282,14 @@ def main():
             continue
 
         stats["companies_checked"] += 1
-        stats["jobs_fetched"] += len(raw_jobs)
-        print(f"{len(raw_jobs)} jobs")
+        jobs_to_process = raw_jobs[:MAX_JOBS_PER_COMPANY]
+        if len(raw_jobs) > MAX_JOBS_PER_COMPANY:
+            print(f"{len(raw_jobs)} jobs (capped at {MAX_JOBS_PER_COMPANY})")
+        else:
+            print(f"{len(raw_jobs)} jobs")
+        stats["jobs_fetched"] += len(jobs_to_process)  # count only what we process
 
-        for job in raw_jobs[:MAX_JOBS_PER_COMPANY]:
+        for job in jobs_to_process:
             job_id = str(job.get("id", ""))
             updated_at = job.get("updated_at", "")
 

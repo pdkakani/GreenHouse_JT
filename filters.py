@@ -227,15 +227,15 @@ INCLUDE_KEYWORDS = [
     "devops", "dev ops", "dev-ops",
     "sre", "site reliability",
     # Data — specific compound phrases only
-    "data engineer",
-    "data platform", "data infrastructure",
+    # "data engineer",
+    # "data platform", "data infrastructure",
     # "machine learning", "mlops",
     # "deep learning", "nlp", "llm",
     # AI / ML — word-boundary patterns handle "AI Engineer", "ML Engineer"
-    "artificial intelligence",
+    # "artificial intelligence",
     # "genai", "gen ai", "generative ai",
     # Security — engineering roles only, not generic "security" or "security manager"
-    "security engineer", "security architect",
+    # "security engineer", "security architect",
     # "appsec", "devsecops", "infosec",
     # "penetration", "pentesting",
     # "soc engineer", "siem engineer",
@@ -261,11 +261,11 @@ INCLUDE_KEYWORDS = [
     "technical program manager", "engineering program",
     "product engineer",
     # Networking / Infra — engineering roles only
-    "network engineer", "network architect",
+    # "network engineer", "network architect",
     "systems engineer", "systems architect",
     # "embedded engineer", "firmware engineer",
     # "kernel engineer",
-    "database engineer", "database architect", "database administrator", "dba",
+    # "database engineer", "database architect", "database administrator", "dba",
     # Cloud / tooling — specific enough
     "kubernetes", "docker", "terraform", "AWS", "azure",
     # Tools/domains — specific
@@ -273,11 +273,11 @@ INCLUDE_KEYWORDS = [
     "microservices",
     "fintech engineer", "financial technology",
     "banking technology", "banking engineer",
-    "compiler engineer",
+    # "compiler engineer",
     # IT / Support — specific technical roles only
     "information technology",
-    "sysadmin", "system administrator",
-    "it engineer", "it architect",
+    # "sysadmin", "system administrator",
+    # "it engineer", "it architect",
     # BI / Data Viz — specific
     # "bi engineer", "business intelligence engineer",
     # "data warehouse engineer", "etl engineer",

@@ -165,7 +165,6 @@ godaddy
 
 # HR / Payroll / Global Workforce
 remote
-checkr
 ziprecruiter
 glassdoor
 
