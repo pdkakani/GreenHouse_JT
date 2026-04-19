@@ -26,7 +26,7 @@ from state import (
     load_state, save_state, is_seen, get_updated_at, record_job,
     was_alerted, mark_alerted,
     load_queue, save_queue, enqueue_jobs,
-    drop_expired_queue_entries, remove_from_queue, purge_alerted_from_queue,
+    drop_expired_queue_entries, remove_from_queue,
 )
 from scorer import score_job, should_alert
 from notifier import send_slack_alert, send_run_summary, send_new_jobs_digest
@@ -38,7 +38,7 @@ API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true
 REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
-MAX_JOBS_PER_COMPANY = 2000  # raised from 500 — some large companies (Databricks, Stripe) exceed 500
+MAX_JOBS_PER_COMPANY = 500
 
 WORKFLOW_TIMEOUT_SECONDS = 8 * 60  # 8 minutes; scoring gets whatever fetch leaves
 SCORE_RATE_LIMIT_SLEEP = 2.1       # slightly over 2s → safely under 30 req/min
@@ -207,6 +207,15 @@ def commit_state() -> None:
     """
     print("\n[git] Committing state before scoring...")
     try:
+        # Set git identity — required in GitHub Actions environment
+        subprocess.run(
+            ["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"],
+            check=True
+        )
+        subprocess.run(
+            ["git", "config", "user.name", "github-actions[bot]"],
+            check=True
+        )
         subprocess.run(
             ["git", "add",
              "data/seen_jobs.json",
@@ -245,12 +254,6 @@ def main():
     print(f"[info] State loaded: {len(state)} previously seen job(s)")
 
     queue = load_queue()
-    # Purge any jobs already alerted in state but still sitting in queue
-    # (can happen if a previous run was killed before save_queue executed)
-    purged = purge_alerted_from_queue(queue, state)
-    if purged:
-        print(f"[info] Purged {purged} already-alerted job(s) from queue")
-        save_queue(queue)
     print(f"[info] Score queue loaded: {len(queue)} pending job(s)")
 
     stats = {
@@ -282,14 +285,10 @@ def main():
             continue
 
         stats["companies_checked"] += 1
-        jobs_to_process = raw_jobs[:MAX_JOBS_PER_COMPANY]
-        if len(raw_jobs) > MAX_JOBS_PER_COMPANY:
-            print(f"{len(raw_jobs)} jobs (capped at {MAX_JOBS_PER_COMPANY})")
-        else:
-            print(f"{len(raw_jobs)} jobs")
-        stats["jobs_fetched"] += len(jobs_to_process)  # count only what we process
+        stats["jobs_fetched"] += len(raw_jobs)
+        print(f"{len(raw_jobs)} jobs")
 
-        for job in jobs_to_process:
+        for job in raw_jobs[:MAX_JOBS_PER_COMPANY]:
             job_id = str(job.get("id", ""))
             updated_at = job.get("updated_at", "")
 
@@ -384,7 +383,28 @@ def main():
     # ── Phase 5: Score queue — best-effort, time-boxed ───────────────────────
     MAX_FAILURES = 3  # drop a job from queue after this many failed scoring attempts
 
-    jobs_to_score = [j for j in queue if not was_alerted(state, str(j["id"]))]
+    # Pre-filter: prioritise titles that are strong matches for the resume
+    # (Java/Python backend, distributed systems, fintech, cloud/infra, staff+).
+    # Lower-signal titles remain in queue and get scored on a future run.
+    HIGH_VALUE_SIGNALS = [
+        "backend", "back-end", "platform", "infrastructure", "distributed",
+        "java", "python", "spring", "kafka", "microservice",
+        "cloud", "aws", "devops", "sre", "site reliability",
+        "fintech", "payments", "banking",
+        "staff", "principal", "senior software", "senior engineer",
+        "data engineer", "data platform", "fullstack", "full stack",
+        "software engineer", "software developer", "solutions architect",
+        "technical architect", "engineering manager", "tech lead",
+        "llm", "ai engineer", "ml engineer", "generative", "genai",
+    ]
+    import re as _re
+    _hv_re = _re.compile("|".join(_re.escape(s) for s in HIGH_VALUE_SIGNALS), _re.IGNORECASE)
+
+    all_pending = [j for j in queue if not was_alerted(state, str(j["id"]))]
+    jobs_to_score = [j for j in all_pending if _hv_re.search(j.get("title", ""))]
+    deprioritised = len(all_pending) - len(jobs_to_score)
+    if deprioritised:
+        print(f"[scorer] Deprioritised {deprioritised} lower-signal job(s) — will try next run")
 
     if jobs_to_score:
         elapsed_so_far = time.monotonic() - wall_start
@@ -410,18 +430,11 @@ def main():
 
                 score = score_job(job)
 
-                # Rate-limit sleep AFTER the call (keeps us under 30 req/min)
+                # Rate-limit sleep AFTER the call
                 time.sleep(SCORE_RATE_LIMIT_SLEEP)
 
                 if score is None:
-                    # Increment failure count — drop from queue after MAX_FAILURES
-                    job["failures"] = job.get("failures", 0) + 1
-                    if job["failures"] >= MAX_FAILURES:
-                        print(f"scoring failed {MAX_FAILURES}x — dropping from queue.")
-                        remove_from_queue(queue, job_id)
-                        mark_alerted(state, job_id)  # prevent infinite retries
-                    else:
-                        print(f"scoring failed (attempt {job['failures']}/{MAX_FAILURES}) — will retry next run.")
+                    print("scoring failed — will retry next run.")
                     stats["scores_timed_out"] += 1
                     continue
 
@@ -449,10 +462,9 @@ def main():
                     print(f"    [scorer] Below threshold ({score}% < 65%) — no individual alert.")
                     stats["alerts_skipped"] += 1
 
-        # Always save queue + state after scoring phase, regardless of time budget
-        save_queue(queue)
-        save_state(state)
-        print(f"\n[scorer] ✅ {stats['scores_completed']} scored, {stats['scores_patched']} patched into jobs.md")
+            save_queue(queue)
+            save_state(state)
+            print(f"\n[scorer] ✅ {stats['scores_completed']} scored, {stats['scores_patched']} patched into jobs.md")
     else:
         print("\n[scorer] No jobs pending score this run.")
 

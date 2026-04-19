@@ -116,73 +116,64 @@ def send_slack_alert(job: dict, score: int) -> bool:
 
 def send_new_jobs_digest(new_jobs: list[dict]) -> bool:
     """
-    Send a single plain-text Slack message summarising ALL new jobs found
-    in a run. Uses plain text (no blocks) to avoid Slack's 50-block limit
-    when hundreds of jobs are found.
+    Send plain-text Slack messages summarising ALL new jobs found in a run.
+    Splits into chunks of 20 to stay under Slack's 3000-char block limit.
 
-    Format:
-        🆕 142 New Jobs Found — 2026-04-19 00:30 UTC
+    Format per message:
+        🆕 845 New Jobs Found — 2026-04-19 00:30 UTC (1/5)
         • Software Engineer @ Stripe · Remote, USA
         • Backend Engineer @ Coinbase · New York, NY
         ...
-        (and 100 more — check output/jobs.md for the full list)
     """
     webhook_url = _get_webhook_url()
     if not webhook_url or not new_jobs:
         return False
 
-    MAX_LISTED = 40  # list up to this many jobs inline; summarise the rest
-
-    lines = []
-    for job in new_jobs[:MAX_LISTED]:
-        title = job.get("title", "Unknown Title")
-        company = job.get("company", "Unknown Company")
-        location = job.get("_location", "")
-        url = job.get("_url", "")
-        loc_part = f" · {location}" if location else ""
-        # Slack mrkdwn link inside plain text block
-        lines.append(f"• <{url}|{title}> @ {company}{loc_part}")
-
-    remainder = len(new_jobs) - MAX_LISTED
-    if remainder > 0:
-        lines.append(f"_...and {remainder} more — see output/jobs.md for the full list_")
-
     from datetime import datetime, timezone
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    header = f"🆕 *{len(new_jobs)} New Job{'s' if len(new_jobs) != 1 else ''} Found* — {timestamp}"
+    total = len(new_jobs)
+    CHUNK_SIZE = 20  # small enough to stay under Slack 3000-char block limit
 
-    text = header + "\n" + "\n".join(lines)
+    chunks = [new_jobs[i:i+CHUNK_SIZE] for i in range(0, len(new_jobs), CHUNK_SIZE)]
+    total_chunks = len(chunks)
+    success = True
 
-    payload = {
-        "text": text,
-        # Single mrkdwn block — never hits the 50-block limit
-        "blocks": [
-            {
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": text,
-                },
-            }
-        ],
-    }
+    for idx, chunk in enumerate(chunks, 1):
+        lines = []
+        for job in chunk:
+            title = job.get("title", "Unknown Title")
+            company = job.get("company", "Unknown Company")
+            location = job.get("_location", "")
+            url = job.get("_url", "")
+            loc_part = f" · {location}" if location else ""
+            lines.append(f"• <{url}|{title}> @ {company}{loc_part}")
 
-    try:
-        resp = requests.post(
-            webhook_url,
-            data=json.dumps(payload),
-            headers={"Content-Type": "application/json"},
-            timeout=SLACK_TIMEOUT,
-        )
-        if resp.status_code == 200:
-            print(f"  [slack] ✅ New jobs digest sent ({len(new_jobs)} jobs)")
-            return True
-        else:
-            print(f"  [slack] ❌ Digest failed ({resp.status_code}): {resp.text[:100]}")
-            return False
-    except requests.exceptions.RequestException as e:
-        print(f"  [slack] ❌ Digest request error: {e}")
-        return False
+        part_label = f" ({idx}/{total_chunks})" if total_chunks > 1 else ""
+        header = f"🆕 *{total} New Job{'s' if total != 1 else ''} Found* — {timestamp}{part_label}"
+        text = header + "\n" + "\n".join(lines)
+
+        payload = {
+            "text": text,
+            "blocks": [{"type": "section", "text": {"type": "mrkdwn", "text": text}}],
+        }
+
+        try:
+            resp = requests.post(
+                webhook_url,
+                data=json.dumps(payload),
+                headers={"Content-Type": "application/json"},
+                timeout=SLACK_TIMEOUT,
+            )
+            if resp.status_code != 200:
+                print(f"  [slack] ❌ Digest chunk {idx} failed ({resp.status_code}): {resp.text[:100]}")
+                success = False
+        except requests.exceptions.RequestException as e:
+            print(f"  [slack] ❌ Digest chunk {idx} request error: {e}")
+            success = False
+
+    if success:
+        print(f"  [slack] ✅ New jobs digest sent ({total} jobs in {total_chunks} message(s))")
+    return success
 
 
 def send_run_summary(stats: dict) -> bool:
