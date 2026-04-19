@@ -51,7 +51,7 @@ jobs:
       # -----------------------------------------------------------------------
       - name: Run job poller
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_GJT_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python poller.py
 

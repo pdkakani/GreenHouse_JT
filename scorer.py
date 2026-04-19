@@ -1,13 +1,19 @@
 """
-scorer.py — Resume match scoring using Groq API (free tier).
+scorer.py — Resume match scoring using Google Gemini API (free tier).
 
-Model: llama-3.3-70b-versatile
-Full resume + full JD sent — no truncation.
-Structured 4-criteria prompt for accurate, consistent scoring.
-Cost: $0.00 (free tier)
+Model: gemini-2.5-flash-lite  (fastest, highest throughput on free tier)
+Free tier limits:
+  - 15 requests/minute
+  - 1,000 requests/day
+  - 250,000 tokens/minute  ← 40x more than Groq free tier
 
-Retry philosophy: fail fast — the persistent queue handles retries across runs.
-One attempt only. If it fails, the job stays in the queue for next run.
+At ~3,000 tokens/request and 4s sleep between calls:
+  - ~15 req/min = well within RPM limit
+  - ~45,000 tokens/min = well within TPM limit
+  - 1,000 RPD = ~96 scoring runs/day × ~10 jobs = fine for steady state
+
+API key stored as GitHub secret: GEMINI_API_KEY
+Get key: aistudio.google.com → Get API key (no credit card needed)
 """
 
 import os
@@ -17,20 +23,19 @@ import requests
 from pathlib import Path
 from typing import Optional
 
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL = "llama-3.3-70b-versatile"
+GEMINI_API_URL = (
+    "https://generativelanguage.googleapis.com/v1beta/models/"
+    "{model}:generateContent?key={api_key}"
+)
+MODEL = "gemini-2.0-flash"  # stable, available now, 15 RPM / 250K TPM on free tier
 SCORE_THRESHOLD = 65
-MAX_RETRIES = 1          # fail fast — queue retries next run
-RETRY_DELAY = 5          # only used on transient 500/503 errors
+RETRY_DELAY = 5
+
 RESUME_FILE = Path("resume.txt")
-
-# Groq free tier: 6000 token input limit per request for llama-3.3-70b-versatile
-# Resume ~600 tokens + prompt overhead ~200 tokens = ~800 tokens reserved
-# Leaves ~5200 tokens for JD = ~20000 chars safely
-MAX_JD_CHARS = 8000   # ~2000 tokens — captures full requirements without hitting limit
-MAX_RESUME_CHARS = 3000  # ~750 tokens — full resume fits comfortably
-
 _resume_cache: Optional[str] = None
+
+MAX_JD_CHARS = 8000    # ~2000 tokens — captures full JD requirements
+MAX_RESUME_CHARS = 3000  # ~750 tokens — full resume comfortably
 
 
 def _load_resume() -> str:
@@ -43,21 +48,19 @@ def _load_resume() -> str:
 
 
 def _get_api_key() -> str:
-    key = os.environ.get("GROQ_API_KEY", "").strip()
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
-        raise EnvironmentError("GROQ_API_KEY environment variable is not set.")
+        raise EnvironmentError("GEMINI_API_KEY environment variable is not set.")
     return key
 
 
 def _build_prompt(job_title: str, company: str, description: str) -> str:
     resume = _load_resume()[:MAX_RESUME_CHARS]
-    description = description[:MAX_JD_CHARS]
+    desc = description[:MAX_JD_CHARS]
     return f"""You are a strict technical recruiter evaluating resume-to-job fit.
 
 Score this resume against the job using the 4 criteria below.
-
 Internally evaluate each criterion, then output ONLY a single integer from 0 to 100 as your final weighted score.
-
 Do not output anything else — no explanation, no breakdown, just the integer.
 
 SCORING CRITERIA (evaluate internally before giving final score):
@@ -73,16 +76,13 @@ JOB TITLE: {job_title}
 COMPANY: {company}
 
 JOB DESCRIPTION:
-{description}
+{desc}
 
 Final score (0-100 integer only):"""
 
 
 def score_job(job: dict) -> Optional[int]:
-    """
-    Returns a score (0-100) or None on failure.
-    Fails fast — no aggressive retries. The queue handles retries across runs.
-    """
+    """Returns a score (0-100) or None on failure."""
     title = job.get("title", "")
     company = job.get("company", "")
     content = job.get("content", "") or ""
@@ -92,31 +92,35 @@ def score_job(job: dict) -> Optional[int]:
         description = f"No description available. Evaluate based on title only: {title}"
 
     prompt = _build_prompt(title, company, description)
+    api_key = _get_api_key()
 
-    headers = {
-        "Authorization": f"Bearer {_get_api_key()}",
-        "Content-Type": "application/json",
-    }
+    url = GEMINI_API_URL.format(model=MODEL, api_key=api_key)
+
     payload = {
-        "model": MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 20,
-        "temperature": 0,
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "maxOutputTokens": 10,
+            "temperature": 0.0,
+        },
     }
 
     try:
-        resp = requests.post(
-            GROQ_API_URL,
-            headers=headers,
-            json=payload,
-            timeout=30,
-        )
+        resp = requests.post(url, json=payload, timeout=30)
 
         if resp.status_code == 200:
             data = resp.json()
-            raw_text = data["choices"][0]["message"]["content"].strip()
-            usage = data.get("usage", {})
-            print(f"  [scorer] tokens: {usage.get('prompt_tokens','?')} in / {usage.get('completion_tokens','?')} out")
+            raw_text = (
+                data.get("candidates", [{}])[0]
+                .get("content", {})
+                .get("parts", [{}])[0]
+                .get("text", "")
+                .strip()
+            )
+            # Log token usage
+            usage = data.get("usageMetadata", {})
+            inp = usage.get("promptTokenCount", "?")
+            out = usage.get("candidatesTokenCount", "?")
+            print(f"  [scorer] tokens: {inp} in / {out} out")
 
             match = re.search(r'\b(\d{1,3})\b', raw_text)
             if match:
@@ -126,42 +130,52 @@ def score_job(job: dict) -> Optional[int]:
                 return None
 
         elif resp.status_code == 429:
-            # Rate limited — don't wait, just skip. Queue retries next run.
             print(f"  [scorer] Rate limited (429) — skipping, will retry next run.")
             return None
 
-        elif resp.status_code in (500, 503):
-            # One short retry on server errors only
-            print(f"  [scorer] API overloaded ({resp.status_code}), waiting {RETRY_DELAY}s then retrying once...")
-            time.sleep(RETRY_DELAY)
-            try:
-                resp2 = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
-                if resp2.status_code == 200:
-                    data = resp2.json()
-                    raw_text = data["choices"][0]["message"]["content"].strip()
-                    match = re.search(r'\b(\d{1,3})\b', raw_text)
-                    if match:
-                        return max(0, min(100, int(match.group(1))))
-                print(f"  [scorer] Retry failed ({resp2.status_code}) — skipping.")
-            except requests.exceptions.RequestException:
-                pass
-            return None
-
         elif resp.status_code == 413:
-            # Payload too large — truncate JD further and retry once
+            # Payload too large — retry with shorter JD
             print(f"  [scorer] 413 payload too large — retrying with shorter JD...")
             short_desc = description[:MAX_JD_CHARS // 2]
             short_prompt = _build_prompt(title, company, short_desc)
-            payload["messages"][0]["content"] = short_prompt
+            payload["contents"][0]["parts"][0]["text"] = short_prompt
             try:
-                resp2 = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
+                resp2 = requests.post(url, json=payload, timeout=30)
                 if resp2.status_code == 200:
                     data = resp2.json()
-                    raw_text = data["choices"][0]["message"]["content"].strip()
+                    raw_text = (
+                        data.get("candidates", [{}])[0]
+                        .get("content", {})
+                        .get("parts", [{}])[0]
+                        .get("text", "")
+                        .strip()
+                    )
                     match = re.search(r'(\d{1,3})', raw_text)
                     if match:
                         return max(0, min(100, int(match.group(1))))
                 print(f"  [scorer] 413 retry failed ({resp2.status_code}) — skipping.")
+            except requests.exceptions.RequestException:
+                pass
+            return None
+
+        elif resp.status_code in (500, 503):
+            print(f"  [scorer] API overloaded ({resp.status_code}), waiting {RETRY_DELAY}s then retrying once...")
+            time.sleep(RETRY_DELAY)
+            try:
+                resp2 = requests.post(url, json=payload, timeout=30)
+                if resp2.status_code == 200:
+                    data = resp2.json()
+                    raw_text = (
+                        data.get("candidates", [{}])[0]
+                        .get("content", {})
+                        .get("parts", [{}])[0]
+                        .get("text", "")
+                        .strip()
+                    )
+                    match = re.search(r'\b(\d{1,3})\b', raw_text)
+                    if match:
+                        return max(0, min(100, int(match.group(1))))
+                print(f"  [scorer] Retry failed ({resp2.status_code}) — skipping.")
             except requests.exceptions.RequestException:
                 pass
             return None
