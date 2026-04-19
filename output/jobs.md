@@ -266,7 +266,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr. Product Manager, Compute Platform
-**databricks** · Product
+**databricks** · Product · 🎯 0%
 📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002)
 🕐 Updated: `2026-04-09T16:51:18-04:00` &nbsp;|&nbsp; ID: `8200462002`
 
@@ -2756,7 +2756,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Software Engineer, Additive Manufacturing (Raptor)
-**spacex** · Raptor Additive - Engineering
+**spacex** · Raptor Additive - Engineering · 🎯 24%
 📍 Hawthorne, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8327721002?gh_jid=8327721002)
 🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8327721002`
 
