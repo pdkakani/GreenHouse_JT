@@ -1,14 +1,14 @@
 """
 poller.py — Main Greenhouse job polling script.
 
-Key changes:
-- write_output() is called BEFORE scoring — jobs always land in jobs.md
-- Scoring is fully decoupled and best-effort: if it completes within the
-  remaining budget, scores are patched into jobs.md; if time runs out, jobs
-  are already written without scores (no data loss)
-- Rate-limit sleep moved to AFTER each score call so pacing is consistent
-- WORKFLOW_TIMEOUT_SECONDS guards the scoring loop so the job never exceeds
-  the GitHub Actions 10-min limit
+Scoring queue design:
+- New jobs passing filters are written to jobs.md immediately (no score yet)
+  and added to pending_queue.json
+- Each run scores as many queued jobs as the time budget allows (~2.1s/job)
+- Scored jobs have their score patched into jobs.md in-place (by job ID anchor)
+- Queue entries older than 2 days are dropped automatically
+- Individual Slack alerts fire for scores >= 65
+- One digest Slack alert is sent per run for ALL new jobs (scored or not)
 """
 
 import sys
@@ -18,7 +18,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 from filters import is_usa_location, is_software_role
-from state import load_state, save_state, is_seen, get_updated_at, record_job, was_alerted, mark_alerted
+from state import (
+    load_state, save_state, is_seen, get_updated_at, record_job,
+    was_alerted, mark_alerted,
+    load_queue, save_queue, enqueue_jobs,
+    drop_expired_queue_entries, remove_from_queue,
+)
 from scorer import score_job, should_alert
 from notifier import send_slack_alert, send_run_summary, send_new_jobs_digest
 
@@ -31,9 +36,8 @@ RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 MAX_JOBS_PER_COMPANY = 500
 
-# Leave 90s buffer before the 10-min GitHub Actions hard kill
-WORKFLOW_TIMEOUT_SECONDS = 8 * 60  # 8 minutes for fetch+filter+write; scoring gets the rest
-SCORE_RATE_LIMIT_SLEEP = 2.1       # slightly over 2s to stay safely under 30 req/min
+WORKFLOW_TIMEOUT_SECONDS = 8 * 60  # 8 minutes; scoring gets whatever fetch leaves
+SCORE_RATE_LIMIT_SLEEP = 2.1       # slightly over 2s → safely under 30 req/min
 
 
 def load_companies() -> list[str]:
@@ -117,7 +121,7 @@ def format_job_entry(job: dict, tag: str = "NEW") -> str:
 
 
 def write_output(new_jobs: list[dict], updated_jobs: list[dict], run_label: str) -> None:
-    """Write jobs to output file. Can be called multiple times; run_label must be stable."""
+    """Write jobs to output file."""
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     header = f"\n## 📅 Run: {run_label}\n\n"
@@ -145,15 +149,59 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict], run_label: str)
     OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
 
 
-def patch_scores_in_output(scored_jobs: list[dict], run_label: str) -> None:
+def patch_score_in_output(job_id: str, score: int, company: str, department: str) -> bool:
     """
-    After scoring completes, re-write the output file so scored jobs show
-    their 🎯 score. This is a no-op if OUTPUT_FILE doesn't exist yet.
-    We simply regenerate from the in-memory lists which already have _score set.
+    Find the job block by its ID anchor line in jobs.md and patch the score
+    into the company/dept/score line.
+
+    The block looks like:
+        ### 🆕 Some Title
+        **Company Name** · Dept                ← patch score into this line
+        📍 Location ...
+        🕐 Updated: `...` | ID: `{job_id}`    ← anchor: find block by this
+
+    Returns True if the patch was applied, False if the job was not found.
     """
-    # Intentionally a no-op here — write_output is called again at the end
-    # of main() with the same lists (which now have _score populated).
-    pass
+    if not OUTPUT_FILE.exists():
+        return False
+
+    content = OUTPUT_FILE.read_text(encoding="utf-8")
+    anchor = f"ID: `{job_id}`"
+
+    if anchor not in content:
+        return False
+
+    lines = content.splitlines(keepends=True)
+    anchor_idx = None
+    for i, line in enumerate(lines):
+        if anchor in line:
+            anchor_idx = i
+            break
+
+    if anchor_idx is None:
+        return False
+
+    # The company/score line is 2 lines above the anchor (title, company, loc, timestamp)
+    # Structure (0-indexed from block start):
+    #   anchor_idx - 3 : ### icon title
+    #   anchor_idx - 2 : **company** · dept · 🎯 score%   ← this one
+    #   anchor_idx - 1 : 📍 location | 🔗 Apply Here
+    #   anchor_idx     : 🕐 Updated | ID
+    company_line_idx = anchor_idx - 2
+    if company_line_idx < 0:
+        return False
+
+    old_line = lines[company_line_idx]
+
+    # Remove any existing score display from the line
+    import re
+    old_line_stripped = re.sub(r" · 🎯 \d+%", "", old_line).rstrip("\n")
+
+    new_line = f"{old_line_stripped} · 🎯 {score}%\n"
+    lines[company_line_idx] = new_line
+
+    OUTPUT_FILE.write_text("".join(lines), encoding="utf-8")
+    return True
 
 
 def main():
@@ -171,6 +219,9 @@ def main():
     state = load_state()
     print(f"[info] State loaded: {len(state)} previously seen job(s)")
 
+    queue = load_queue()
+    print(f"[info] Score queue loaded: {len(queue)} pending job(s)")
+
     stats = {
         "companies_checked": 0,
         "companies_failed": 0,
@@ -180,10 +231,12 @@ def main():
         "jobs_skipped_title": 0,
         "jobs_new": 0,
         "jobs_updated": 0,
-        "alerts_sent": 0,
-        "alerts_skipped": 0,
+        "queue_dropped": 0,
         "scores_completed": 0,
         "scores_timed_out": 0,
+        "scores_patched": 0,
+        "alerts_sent": 0,
+        "alerts_skipped": 0,
     }
 
     new_jobs = []
@@ -224,7 +277,7 @@ def main():
                     "_department": extract_department(job),
                     "_url": extract_job_url(job),
                     "_tag": "UPDATED",
-                    "_score": None,  # updated jobs are not re-scored
+                    "_score": None,
                 })
                 stats["jobs_updated"] += 1
                 stats["jobs_skipped_seen"] += 1
@@ -249,7 +302,7 @@ def main():
                 "_department": department,
                 "_url": extract_job_url(job),
                 "_tag": "NEW",
-                "_score": None,  # will be filled in Phase 3 if time allows
+                "_score": None,
             }
 
             record_job(state, {
@@ -263,57 +316,84 @@ def main():
 
     save_state(state)
 
-    # ── Phase 2: Write output IMMEDIATELY (no scoring dependency) ─────────────
+    # ── Phase 2: Write new/updated jobs immediately ───────────────────────────
     if new_jobs or updated_jobs:
         write_output(new_jobs, updated_jobs, run_label)
         print(f"\n[output] ✅ Written {stats['jobs_new']} new + {stats['jobs_updated']} updated jobs to {OUTPUT_FILE}")
     else:
         print("\n[output] No new or updated jobs — skipping file write.")
 
-    # ── Phase 3: Score new jobs — best-effort, time-boxed ────────────────────
-    jobs_to_score = [
-        job for job in new_jobs
-        if not was_alerted(state, str(job.get("id", "")))
-    ]
+    # ── Phase 3: Send new jobs digest (all new jobs, regardless of score) ─────
+    if new_jobs:
+        send_new_jobs_digest(new_jobs)
+        print(f"[notifier] 📨 New jobs digest sent ({len(new_jobs)} job(s))")
 
+    # ── Phase 4: Enqueue new jobs + prune expired entries ────────────────────
+    if new_jobs:
+        before = len(queue)
+        enqueue_jobs(queue, new_jobs)
+        print(f"[queue] Added {len(queue) - before} job(s) to score queue")
+
+    queue, dropped = drop_expired_queue_entries(queue)
+    stats["queue_dropped"] = dropped
+    if dropped:
+        print(f"[queue] Dropped {dropped} expired entry/entries (> {2} days old)")
+
+    # Only score jobs that haven't been alerted yet
+    jobs_to_score = [j for j in queue if not was_alerted(state, str(j["id"]))]
+    save_queue(queue)
+
+    # ── Phase 5: Score queue — best-effort, time-boxed ───────────────────────
     if jobs_to_score:
         elapsed_so_far = time.monotonic() - wall_start
         time_budget = WORKFLOW_TIMEOUT_SECONDS - elapsed_so_far
-        print(f"\n[scorer] {len(jobs_to_score)} job(s) to score | time budget: {time_budget:.0f}s")
+        print(f"\n[scorer] {len(jobs_to_score)} job(s) in queue | time budget: {time_budget:.0f}s")
 
         if time_budget <= 30:
-            print("[scorer] ⚠️  Less than 30s remaining — skipping scoring entirely to protect output commit.")
+            print("[scorer] ⚠️  Less than 30s remaining — skipping scoring to protect output commit.")
         else:
-            any_scored = False
             for job in jobs_to_score:
                 elapsed_now = time.monotonic() - wall_start
                 remaining = WORKFLOW_TIMEOUT_SECONDS - elapsed_now
 
                 if remaining < 20:
-                    print(f"\n[scorer] ⏱️  Time budget exhausted ({stats['scores_timed_out']} job(s) skipped). Stopping.")
-                    stats["scores_timed_out"] += len(jobs_to_score) - stats["scores_completed"] - stats["scores_timed_out"]
+                    skipped = len(jobs_to_score) - stats["scores_completed"]
+                    print(f"\n[scorer] ⏱️  Time budget exhausted ({skipped} job(s) remain in queue for next run).")
+                    stats["scores_timed_out"] += skipped
                     break
 
                 job_id = str(job.get("id", ""))
                 job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
                 print(f"  → {job_label} ...", end=" ", flush=True)
 
-                score = score_job(job)  # returns int or None
+                score = score_job(job)
 
-                # Rate-limit sleep AFTER the call (not before)
+                # Rate-limit sleep AFTER the call
                 time.sleep(SCORE_RATE_LIMIT_SLEEP)
 
                 if score is None:
-                    print("scoring failed — job already written without score.")
-                    stats["alerts_skipped"] += 1
+                    print("scoring failed — will retry next run.")
                     stats["scores_timed_out"] += 1
                     continue
 
                 print(f"score={score}%")
-                job["_score"] = score
                 stats["scores_completed"] += 1
-                any_scored = True
 
+                # Patch score into jobs.md in-place
+                patched = patch_score_in_output(
+                    job_id,
+                    score,
+                    job.get("company", ""),
+                    job.get("_department", ""),
+                )
+                if patched:
+                    stats["scores_patched"] += 1
+                else:
+                    print(f"    [warn] Could not patch score for ID {job_id} — job may have rolled off jobs.md")
+
+                # Remove from queue and mark alerted (regardless of threshold,
+                # to prevent re-scoring on next run)
+                remove_from_queue(queue, job_id)
                 mark_alerted(state, job_id)
 
                 if should_alert(score):
@@ -323,21 +403,17 @@ def main():
                     else:
                         stats["alerts_skipped"] += 1
                 else:
-                    print(f"    [scorer] Below threshold ({score}% < 65%) — no alert.")
+                    print(f"    [scorer] Below threshold ({score}% < 65%) — no individual alert.")
                     stats["alerts_skipped"] += 1
 
+            save_queue(queue)
             save_state(state)
-
-            # Re-write output with scores patched in (only if at least one scored)
-            if any_scored:
-                write_output(new_jobs, updated_jobs, run_label)
-                print(f"\n[output] ✅ Re-written with {stats['scores_completed']} score(s) patched in.")
+            print(f"\n[scorer] ✅ {stats['scores_completed']} scored, {stats['scores_patched']} patched into jobs.md")
+    else:
+        print("\n[scorer] No jobs pending score this run.")
 
     if stats["alerts_sent"] > 0:
         send_run_summary(stats)
-
-    if new_jobs:
-        send_new_jobs_digest(new_jobs)
 
     elapsed = time.monotonic() - wall_start
     stats["elapsed"] = int(elapsed)
@@ -352,8 +428,10 @@ def main():
     print(f"  Skipped (title)    : {stats['jobs_skipped_title']}")
     print(f"  New jobs written   : {stats['jobs_new']} 🆕")
     print(f"  Updated jobs       : {stats['jobs_updated']} 🔄")
+    print(f"  Queue dropped      : {stats['queue_dropped']} (expired)")
     print(f"  Scores completed   : {stats['scores_completed']}")
-    print(f"  Scores timed out   : {stats['scores_timed_out']}")
+    print(f"  Scores patched     : {stats['scores_patched']}")
+    print(f"  Scores timed out   : {stats['scores_timed_out']} (queued for next run)")
     print(f"  Slack alerts sent  : {stats['alerts_sent']} 🔔")
     print(f"  Below threshold    : {stats['alerts_skipped']}")
     print(f"  Elapsed            : {elapsed:.1f}s")

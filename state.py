@@ -1,8 +1,8 @@
 """
-state.py — Persistent state management for seen jobs.
+state.py — Job state management.
 
-Stores job metadata in data/seen_jobs.json with a 7-day TTL.
-Thread-safe enough for a single-process workflow runner.
+state.json  : tracks seen jobs (id → {updated_at, title, company, alerted})
+pending_queue.json : jobs waiting to be scored (separate file to keep state lean)
 """
 
 import json
@@ -11,91 +11,115 @@ from pathlib import Path
 from typing import Optional
 
 STATE_FILE = Path("data/seen_jobs.json")
-TTL_DAYS = 7
+QUEUE_FILE = Path("data/pending_queue.json")
+
+QUEUE_MAX_AGE_DAYS = 2  # drop unscored jobs older than this
 
 
-def _now() -> datetime:
-    return datetime.now(timezone.utc)
-
-
-def _load_raw() -> dict:
-    if not STATE_FILE.exists():
-        return {}
-    try:
-        with STATE_FILE.open("r", encoding="utf-8") as f:
-            return json.load(f)
-    except (json.JSONDecodeError, OSError):
-        return {}
-
-
-def _save_raw(data: dict) -> None:
-    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    tmp = STATE_FILE.with_suffix(".tmp")
-    with tmp.open("w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, default=str)
-    tmp.replace(STATE_FILE)
-
+# ── state.json helpers ────────────────────────────────────────────────────────
 
 def load_state() -> dict:
-    """Load state and purge expired entries (older than TTL_DAYS)."""
-    raw = _load_raw()
-    cutoff = _now() - timedelta(days=TTL_DAYS)
-    pruned = {
-        job_id: entry
-        for job_id, entry in raw.items()
-        if _parse_dt(entry.get("first_seen")) > cutoff
-    }
-    if len(pruned) < len(raw):
-        removed = len(raw) - len(pruned)
-        print(f"[state] Pruned {removed} expired job(s) from state (>{TTL_DAYS} days old).")
-        _save_raw(pruned)
-    return pruned
+    if STATE_FILE.exists():
+        try:
+            return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            return {}
+    return {}
 
 
 def save_state(state: dict) -> None:
-    """Persist state to disk."""
-    _save_raw(state)
-
-
-def _parse_dt(value: Optional[str]) -> datetime:
-    """Parse ISO datetime string; return epoch if invalid (so it gets pruned)."""
-    if not value:
-        return datetime.fromtimestamp(0, tz=timezone.utc)
-    try:
-        return datetime.fromisoformat(value.replace("Z", "+00:00"))
-    except (ValueError, AttributeError):
-        return datetime.fromtimestamp(0, tz=timezone.utc)
+    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
 
 
 def is_seen(state: dict, job_id: str) -> bool:
-    return str(job_id) in state
+    return job_id in state
 
 
-def was_alerted(state: dict, job_id: str) -> bool:
-    """Returns True if this job was already scored and alerted — never repeat."""
-    return state.get(str(job_id), {}).get("alerted", False)
-
-
-def get_updated_at(state: dict, job_id: str) -> Optional[str]:
-    entry = state.get(str(job_id), {})
-    return entry.get("updated_at")
+def get_updated_at(state: dict, job_id: str) -> str:
+    return state.get(job_id, {}).get("updated_at", "")
 
 
 def record_job(state: dict, job: dict) -> None:
-    """Insert or update a job entry in state."""
     job_id = str(job["id"])
-    existing = state.get(job_id, {})
     state[job_id] = {
-        "first_seen": existing.get("first_seen") or _now().isoformat(),
         "updated_at": job.get("updated_at", ""),
         "title": job.get("title", ""),
         "company": job.get("company", ""),
-        "alerted": existing.get("alerted", False),  # preserve existing flag
+        "alerted": state.get(job_id, {}).get("alerted", False),
     }
 
 
+def was_alerted(state: dict, job_id: str) -> bool:
+    return state.get(job_id, {}).get("alerted", False)
+
+
 def mark_alerted(state: dict, job_id: str) -> None:
-    """Mark a job as scored — prevents re-scoring even if updated_at changes."""
-    job_id = str(job_id)
     if job_id in state:
         state[job_id]["alerted"] = True
+
+
+# ── pending_queue.json helpers ────────────────────────────────────────────────
+
+def load_queue() -> list[dict]:
+    """Load the pending score queue, returning a list of job dicts."""
+    if QUEUE_FILE.exists():
+        try:
+            data = json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
+            return data.get("queue", [])
+        except (json.JSONDecodeError, OSError):
+            return []
+    return []
+
+
+def save_queue(queue: list[dict]) -> None:
+    QUEUE_FILE.write_text(json.dumps({"queue": queue}, indent=2), encoding="utf-8")
+
+
+def enqueue_jobs(queue: list[dict], jobs: list[dict]) -> None:
+    """
+    Add new jobs to the queue. Each entry gets a queued_at timestamp.
+    Jobs already in the queue (by id) are not re-added.
+    """
+    existing_ids = {str(j["id"]) for j in queue}
+    now = datetime.now(timezone.utc).isoformat()
+    for job in jobs:
+        job_id = str(job.get("id", ""))
+        if job_id and job_id not in existing_ids:
+            queue.append({
+                "id": job_id,
+                "queued_at": now,
+                "title": job.get("title", ""),
+                "company": job.get("company", ""),
+                "content": job.get("content", ""),
+                "_location": job.get("_location", ""),
+                "_department": job.get("_department", ""),
+                "_url": job.get("_url", ""),
+                "updated_at": job.get("updated_at", ""),
+            })
+            existing_ids.add(job_id)
+
+
+def drop_expired_queue_entries(queue: list[dict]) -> tuple[list[dict], int]:
+    """
+    Remove entries older than QUEUE_MAX_AGE_DAYS.
+    Returns (pruned_queue, dropped_count).
+    """
+    cutoff = datetime.now(timezone.utc) - timedelta(days=QUEUE_MAX_AGE_DAYS)
+    kept = []
+    dropped = 0
+    for entry in queue:
+        queued_at_str = entry.get("queued_at", "")
+        try:
+            queued_at = datetime.fromisoformat(queued_at_str)
+            if queued_at >= cutoff:
+                kept.append(entry)
+            else:
+                dropped += 1
+        except (ValueError, TypeError):
+            kept.append(entry)  # keep if timestamp unparseable
+    return kept, dropped
+
+
+def remove_from_queue(queue: list[dict], job_id: str) -> None:
+    """Remove a single job from the queue by id (in-place)."""
+    queue[:] = [j for j in queue if str(j["id"]) != str(job_id)]
