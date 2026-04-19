@@ -24,6 +24,12 @@ MAX_RETRIES = 1          # fail fast — queue retries next run
 RETRY_DELAY = 5          # only used on transient 500/503 errors
 RESUME_FILE = Path("resume.txt")
 
+# Groq free tier: 6000 token input limit per request for llama-3.3-70b-versatile
+# Resume ~600 tokens + prompt overhead ~200 tokens = ~800 tokens reserved
+# Leaves ~5200 tokens for JD = ~20000 chars safely
+MAX_JD_CHARS = 8000   # ~2000 tokens — captures full requirements without hitting limit
+MAX_RESUME_CHARS = 3000  # ~750 tokens — full resume fits comfortably
+
 _resume_cache: Optional[str] = None
 
 
@@ -44,7 +50,8 @@ def _get_api_key() -> str:
 
 
 def _build_prompt(job_title: str, company: str, description: str) -> str:
-    resume = _load_resume()
+    resume = _load_resume()[:MAX_RESUME_CHARS]
+    description = description[:MAX_JD_CHARS]
     return f"""You are a strict technical recruiter evaluating resume-to-job fit.
 
 Score this resume against the job using the 4 criteria below.
@@ -136,6 +143,25 @@ def score_job(job: dict) -> Optional[int]:
                     if match:
                         return max(0, min(100, int(match.group(1))))
                 print(f"  [scorer] Retry failed ({resp2.status_code}) — skipping.")
+            except requests.exceptions.RequestException:
+                pass
+            return None
+
+        elif resp.status_code == 413:
+            # Payload too large — truncate JD further and retry once
+            print(f"  [scorer] 413 payload too large — retrying with shorter JD...")
+            short_desc = description[:MAX_JD_CHARS // 2]
+            short_prompt = _build_prompt(title, company, short_desc)
+            payload["messages"][0]["content"] = short_prompt
+            try:
+                resp2 = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
+                if resp2.status_code == 200:
+                    data = resp2.json()
+                    raw_text = data["choices"][0]["message"]["content"].strip()
+                    match = re.search(r'(\d{1,3})', raw_text)
+                    if match:
+                        return max(0, min(100, int(match.group(1))))
+                print(f"  [scorer] 413 retry failed ({resp2.status_code}) — skipping.")
             except requests.exceptions.RequestException:
                 pass
             return None
