@@ -1,6 +1,9 @@
 """
 notifier.py — Slack webhook alerter for high-match jobs.
-Accepts a plain int score from scorer.py.
+
+send_slack_alert     : individual alert for a single high-scoring job (>= 65%)
+send_new_jobs_digest : one plain-text summary per run for ALL new jobs
+send_run_summary     : end-of-run stats summary
 """
 
 import os
@@ -33,7 +36,7 @@ def _score_bar(score: int) -> str:
 
 
 def send_slack_alert(job: dict, score: int) -> bool:
-    """Send a Slack alert for a high-match job. score is a plain int."""
+    """Send a Slack alert for a single high-match job (score >= 65)."""
     webhook_url = _get_webhook_url()
     if not webhook_url:
         print("  [slack] SLACK_WEBHOOK_URL not set — skipping alert.")
@@ -111,54 +114,57 @@ def send_slack_alert(job: dict, score: int) -> bool:
         return False
 
 
-
 def send_new_jobs_digest(new_jobs: list[dict]) -> bool:
     """
-    Send a single Slack message listing ALL new jobs found in a run.
-    Sent regardless of score — this is a full digest, not a match alert.
+    Send a single plain-text Slack message summarising ALL new jobs found
+    in a run. Uses plain text (no blocks) to avoid Slack's 50-block limit
+    when hundreds of jobs are found.
+
+    Format:
+        🆕 142 New Jobs Found — 2026-04-19 00:30 UTC
+        • Software Engineer @ Stripe · Remote, USA
+        • Backend Engineer @ Coinbase · New York, NY
+        ...
+        (and 100 more — check output/jobs.md for the full list)
     """
     webhook_url = _get_webhook_url()
     if not webhook_url or not new_jobs:
         return False
 
-    blocks = [
-        {
-            "type": "header",
-            "text": {
-                "type": "plain_text",
-                "text": f"\U0001f195 {len(new_jobs)} New Job{'s' if len(new_jobs) != 1 else ''} Found",
-                "emoji": True,
-            },
-        },
-        {"type": "divider"},
-    ]
+    MAX_LISTED = 40  # list up to this many jobs inline; summarise the rest
 
-    for job in new_jobs:
+    lines = []
+    for job in new_jobs[:MAX_LISTED]:
         title = job.get("title", "Unknown Title")
         company = job.get("company", "Unknown Company")
-        location = job.get("_location", "Remote / Unspecified")
+        location = job.get("_location", "")
         url = job.get("_url", "")
-        score = job.get("_score")
-        score_text = f" · \U0001f3af {score}%" if score is not None else ""
+        loc_part = f" · {location}" if location else ""
+        # Slack mrkdwn link inside plain text block
+        lines.append(f"• <{url}|{title}> @ {company}{loc_part}")
 
-        blocks.append({
-            "type": "section",
-            "text": {
-                "type": "mrkdwn",
-                "text": f"*<{url}|{title}>*\n{company} · {location}{score_text}",
-            },
-            "accessory": {
-                "type": "button",
-                "text": {"type": "plain_text", "text": "Apply", "emoji": True},
-                "url": url,
-            },
-        })
+    remainder = len(new_jobs) - MAX_LISTED
+    if remainder > 0:
+        lines.append(f"_...and {remainder} more — see output/jobs.md for the full list_")
 
-    blocks.append({"type": "divider"})
+    from datetime import datetime, timezone
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    header = f"🆕 *{len(new_jobs)} New Job{'s' if len(new_jobs) != 1 else ''} Found* — {timestamp}"
+
+    text = header + "\n" + "\n".join(lines)
 
     payload = {
-        "text": f"\U0001f195 {len(new_jobs)} new job(s) found",
-        "blocks": blocks,
+        "text": text,
+        # Single mrkdwn block — never hits the 50-block limit
+        "blocks": [
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": text,
+                },
+            }
+        ],
     }
 
     try:
@@ -169,14 +175,15 @@ def send_new_jobs_digest(new_jobs: list[dict]) -> bool:
             timeout=SLACK_TIMEOUT,
         )
         if resp.status_code == 200:
-            print(f"  [slack] \u2705 New jobs digest sent ({len(new_jobs)} jobs)")
+            print(f"  [slack] ✅ New jobs digest sent ({len(new_jobs)} jobs)")
             return True
         else:
-            print(f"  [slack] \u274c Digest failed ({resp.status_code}): {resp.text[:100]}")
+            print(f"  [slack] ❌ Digest failed ({resp.status_code}): {resp.text[:100]}")
             return False
     except requests.exceptions.RequestException as e:
-        print(f"  [slack] \u274c Digest request error: {e}")
+        print(f"  [slack] ❌ Digest request error: {e}")
         return False
+
 
 def send_run_summary(stats: dict) -> bool:
     webhook_url = _get_webhook_url()
@@ -188,6 +195,7 @@ def send_run_summary(stats: dict) -> bool:
             f"📊 *Job Poll Summary* — "
             f"{stats.get('jobs_new', 0)} new · "
             f"{stats.get('jobs_updated', 0)} updated · "
+            f"{stats.get('scores_completed', 0)} scored · "
             f"{stats.get('alerts_sent', 0)} alerts sent · "
             f"{stats.get('elapsed', 0)}s elapsed"
         )

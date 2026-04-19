@@ -3,14 +3,18 @@ poller.py — Main Greenhouse job polling script.
 
 Scoring queue design:
 - New jobs passing filters are written to jobs.md immediately (no score yet)
-  and added to pending_queue.json
+  and added to data/pending_queue.json
+- State + queue are committed to git MID-RUN before scoring starts,
+  so a workflow timeout during scoring never loses seen-job state
 - Each run scores as many queued jobs as the time budget allows (~2.1s/job)
 - Scored jobs have their score patched into jobs.md in-place (by job ID anchor)
 - Queue entries older than 2 days are dropped automatically
 - Individual Slack alerts fire for scores >= 65
-- One digest Slack alert is sent per run for ALL new jobs (scored or not)
+- One digest Slack message is sent per run for ALL new jobs (scored or not)
 """
 
+import re
+import subprocess
 import sys
 import time
 import requests
@@ -149,18 +153,18 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict], run_label: str)
     OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
 
 
-def patch_score_in_output(job_id: str, score: int, company: str, department: str) -> bool:
+def patch_score_in_output(job_id: str, score: int) -> bool:
     """
     Find the job block by its ID anchor line in jobs.md and patch the score
-    into the company/dept/score line.
+    into the company/dept line.
 
-    The block looks like:
-        ### 🆕 Some Title
-        **Company Name** · Dept                ← patch score into this line
-        📍 Location ...
-        🕐 Updated: `...` | ID: `{job_id}`    ← anchor: find block by this
+    Block structure (fixed by format_job_entry):
+        ### 🆕 Title                           ← anchor - 3
+        **Company** · Dept · 🎯 score%         ← anchor - 2  (patch here)
+        📍 Location | 🔗 Apply Here            ← anchor - 1
+        🕐 Updated: `...` | ID: `{job_id}`    ← anchor
 
-    Returns True if the patch was applied, False if the job was not found.
+    Returns True if patched, False if job not found in file.
     """
     if not OUTPUT_FILE.exists():
         return False
@@ -181,27 +185,48 @@ def patch_score_in_output(job_id: str, score: int, company: str, department: str
     if anchor_idx is None:
         return False
 
-    # The company/score line is 2 lines above the anchor (title, company, loc, timestamp)
-    # Structure (0-indexed from block start):
-    #   anchor_idx - 3 : ### icon title
-    #   anchor_idx - 2 : **company** · dept · 🎯 score%   ← this one
-    #   anchor_idx - 1 : 📍 location | 🔗 Apply Here
-    #   anchor_idx     : 🕐 Updated | ID
     company_line_idx = anchor_idx - 2
     if company_line_idx < 0:
         return False
 
     old_line = lines[company_line_idx]
-
-    # Remove any existing score display from the line
-    import re
+    # Remove any existing score display before re-adding
     old_line_stripped = re.sub(r" · 🎯 \d+%", "", old_line).rstrip("\n")
-
-    new_line = f"{old_line_stripped} · 🎯 {score}%\n"
-    lines[company_line_idx] = new_line
+    lines[company_line_idx] = f"{old_line_stripped} · 🎯 {score}%\n"
 
     OUTPUT_FILE.write_text("".join(lines), encoding="utf-8")
     return True
+
+
+def commit_state() -> None:
+    """
+    Commit state + queue + output to git mid-run, before scoring starts.
+    This ensures seen_jobs and pending_queue are persisted even if the
+    workflow is cancelled during the (potentially long) scoring phase.
+    Failures are non-fatal — we log and continue.
+    """
+    print("\n[git] Committing state before scoring...")
+    try:
+        subprocess.run(
+            ["git", "add",
+             "data/seen_jobs.json",
+             "data/pending_queue.json",
+             "output/jobs.md"],
+            check=True
+        )
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
+        if diff.returncode == 0:
+            print("[git] Nothing to commit — state unchanged.")
+            return
+        subprocess.run(
+            ["git", "commit", "-m", "chore: state + queue (pre-score)"],
+            check=True
+        )
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("[git] ✅ State committed successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"[git] ⚠️  Commit failed: {e} — continuing anyway.")
 
 
 def main():
@@ -263,7 +288,6 @@ def main():
                 if prev_updated == updated_at:
                     stats["jobs_skipped_seen"] += 1
                     continue
-                # updated_at changed — record update
                 record_job(state, {
                     "id": job_id,
                     "updated_at": updated_at,
@@ -326,24 +350,30 @@ def main():
     # ── Phase 3: Send new jobs digest (all new jobs, regardless of score) ─────
     if new_jobs:
         send_new_jobs_digest(new_jobs)
-        print(f"[notifier] 📨 New jobs digest sent ({len(new_jobs)} job(s))")
 
     # ── Phase 4: Enqueue new jobs + prune expired entries ────────────────────
     if new_jobs:
         before = len(queue)
         enqueue_jobs(queue, new_jobs)
-        print(f"[queue] Added {len(queue) - before} job(s) to score queue")
+        added = len(queue) - before
+        print(f"[queue] Added {added} job(s) to score queue")
 
     queue, dropped = drop_expired_queue_entries(queue)
     stats["queue_dropped"] = dropped
     if dropped:
-        print(f"[queue] Dropped {dropped} expired entry/entries (> {2} days old)")
+        print(f"[queue] Dropped {dropped} expired entry/entries (> 2 days old)")
 
-    # Only score jobs that haven't been alerted yet
-    jobs_to_score = [j for j in queue if not was_alerted(state, str(j["id"]))]
     save_queue(queue)
+    save_state(state)
+
+    # ── Commit state + queue to git BEFORE scoring ────────────────────────────
+    # This guarantees seen_jobs and pending_queue survive even if the workflow
+    # is cancelled mid-scoring due to the 10-min GitHub Actions timeout.
+    commit_state()
 
     # ── Phase 5: Score queue — best-effort, time-boxed ───────────────────────
+    jobs_to_score = [j for j in queue if not was_alerted(state, str(j["id"]))]
+
     if jobs_to_score:
         elapsed_so_far = time.monotonic() - wall_start
         time_budget = WORKFLOW_TIMEOUT_SECONDS - elapsed_so_far
@@ -380,19 +410,13 @@ def main():
                 stats["scores_completed"] += 1
 
                 # Patch score into jobs.md in-place
-                patched = patch_score_in_output(
-                    job_id,
-                    score,
-                    job.get("company", ""),
-                    job.get("_department", ""),
-                )
+                patched = patch_score_in_output(job_id, score)
                 if patched:
                     stats["scores_patched"] += 1
                 else:
-                    print(f"    [warn] Could not patch score for ID {job_id} — job may have rolled off jobs.md")
+                    print(f"    [warn] Could not patch score for ID {job_id} — may have rolled off jobs.md")
 
-                # Remove from queue and mark alerted (regardless of threshold,
-                # to prevent re-scoring on next run)
+                # Remove from queue and mark as alerted to prevent re-scoring
                 remove_from_queue(queue, job_id)
                 mark_alerted(state, job_id)
 

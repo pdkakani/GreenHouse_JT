@@ -6,10 +6,8 @@ Full resume + full JD sent — no truncation.
 Structured 4-criteria prompt for accurate, consistent scoring.
 Cost: $0.00 (free tier)
 
-Changes:
-- On 429, respects Retry-After header if present (Groq sends it)
-- Falls back to exponential backoff if header absent
-- Returns None cleanly on exhausted retries so caller can skip gracefully
+Retry philosophy: fail fast — the persistent queue handles retries across runs.
+One attempt only. If it fails, the job stays in the queue for next run.
 """
 
 import os
@@ -22,8 +20,8 @@ from typing import Optional
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama-3.3-70b-versatile"
 SCORE_THRESHOLD = 65
-MAX_RETRIES = 1          # no retries — fail fast, queue handles it next run
-INITIAL_RETRY_DELAY = 5  # if you keep retries, keep delays short
+MAX_RETRIES = 1          # fail fast — queue retries next run
+RETRY_DELAY = 5          # only used on transient 500/503 errors
 RESUME_FILE = Path("resume.txt")
 
 _resume_cache: Optional[str] = None
@@ -74,7 +72,10 @@ Final score (0-100 integer only):"""
 
 
 def score_job(job: dict) -> Optional[int]:
-    """Returns a score (0-100) or None on failure."""
+    """
+    Returns a score (0-100) or None on failure.
+    Fails fast — no aggressive retries. The queue handles retries across runs.
+    """
     title = job.get("title", "")
     company = job.get("company", "")
     content = job.get("content", "") or ""
@@ -96,64 +97,59 @@ def score_job(job: dict) -> Optional[int]:
         "temperature": 0,
     }
 
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            resp = requests.post(
-                GROQ_API_URL,
-                headers=headers,
-                json=payload,
-                timeout=30,
-            )
+    try:
+        resp = requests.post(
+            GROQ_API_URL,
+            headers=headers,
+            json=payload,
+            timeout=30,
+        )
 
-            if resp.status_code == 200:
-                data = resp.json()
-                raw_text = data["choices"][0]["message"]["content"].strip()
-                usage = data.get("usage", {})
-                print(f"  [scorer] tokens: {usage.get('prompt_tokens','?')} in / {usage.get('completion_tokens','?')} out")
+        if resp.status_code == 200:
+            data = resp.json()
+            raw_text = data["choices"][0]["message"]["content"].strip()
+            usage = data.get("usage", {})
+            print(f"  [scorer] tokens: {usage.get('prompt_tokens','?')} in / {usage.get('completion_tokens','?')} out")
 
-                match = re.search(r'\b(\d{1,3})\b', raw_text)
-                if match:
-                    return max(0, min(100, int(match.group(1))))
-                else:
-                    print(f"  [scorer] Unexpected response: {raw_text[:50]}")
-                    return None
-
-            elif resp.status_code == 429:
-                # Respect Retry-After header if Groq sends it
-                retry_after = resp.headers.get("Retry-After") or resp.headers.get("x-ratelimit-reset-requests")
-                if retry_after:
-                    try:
-                        wait = float(retry_after)
-                    except ValueError:
-                        wait = INITIAL_RETRY_DELAY * (2 ** (attempt - 1))
-                else:
-                    wait = INITIAL_RETRY_DELAY * (2 ** (attempt - 1))
-
-                print(f"  [scorer] Rate limited (attempt {attempt}/{MAX_RETRIES}), waiting {wait:.0f}s...")
-                if attempt < MAX_RETRIES:
-                    time.sleep(wait)
-                else:
-                    print(f"  [scorer] Exhausted retries on rate limit — skipping job.")
-                    return None
-
-            elif resp.status_code in (500, 503):
-                wait = INITIAL_RETRY_DELAY * attempt
-                print(f"  [scorer] API overloaded (attempt {attempt}), waiting {wait}s...")
-                if attempt < MAX_RETRIES:
-                    time.sleep(wait)
-                else:
-                    return None
-
+            match = re.search(r'\b(\d{1,3})\b', raw_text)
+            if match:
+                return max(0, min(100, int(match.group(1))))
             else:
-                print(f"  [scorer] API error {resp.status_code}: {resp.text[:200]}")
+                print(f"  [scorer] Unexpected response: {raw_text[:50]}")
                 return None
 
-        except requests.exceptions.RequestException as e:
-            print(f"  [scorer] Request error (attempt {attempt}): {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(INITIAL_RETRY_DELAY)
+        elif resp.status_code == 429:
+            # Rate limited — don't wait, just skip. Queue retries next run.
+            print(f"  [scorer] Rate limited (429) — skipping, will retry next run.")
+            return None
 
-    return None
+        elif resp.status_code in (500, 503):
+            # One short retry on server errors only
+            print(f"  [scorer] API overloaded ({resp.status_code}), waiting {RETRY_DELAY}s then retrying once...")
+            time.sleep(RETRY_DELAY)
+            try:
+                resp2 = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
+                if resp2.status_code == 200:
+                    data = resp2.json()
+                    raw_text = data["choices"][0]["message"]["content"].strip()
+                    match = re.search(r'\b(\d{1,3})\b', raw_text)
+                    if match:
+                        return max(0, min(100, int(match.group(1))))
+                print(f"  [scorer] Retry failed ({resp2.status_code}) — skipping.")
+            except requests.exceptions.RequestException:
+                pass
+            return None
+
+        else:
+            print(f"  [scorer] API error {resp.status_code}: {resp.text[:200]}")
+            return None
+
+    except requests.exceptions.Timeout:
+        print(f"  [scorer] Request timed out — skipping, will retry next run.")
+        return None
+    except requests.exceptions.RequestException as e:
+        print(f"  [scorer] Request error: {e} — skipping, will retry next run.")
+        return None
 
 
 def should_alert(score: int) -> bool:
