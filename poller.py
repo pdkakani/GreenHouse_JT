@@ -33,7 +33,6 @@ API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true
 REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
-MAX_JOBS_PER_COMPANY = 500
 
 # WORKFLOW_TIMEOUT_SECONDS = 8 * 60  # 8 minutes; scoring gets whatever fetch leaves
 # SCORE_RATE_LIMIT_SLEEP = 4.0       # 4s gap = 15 req/min — within Gemini free tier 15 RPM limit
@@ -270,7 +269,7 @@ def main():
         stats["jobs_fetched"] += len(raw_jobs)
         print(f"{len(raw_jobs)} jobs")
 
-        for job in raw_jobs[:MAX_JOBS_PER_COMPANY]:
+        for job in raw_jobs:
             job_id = str(job.get("id", ""))
             updated_at = job.get("updated_at", "")
 
