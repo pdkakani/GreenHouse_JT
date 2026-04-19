@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Software & IT roles only_
 
 
+## 📅 Run: 2026-04-19 15:52 UTC
+
+### 🔄 Infrastructure Security Engineer
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5839660004)
+🕐 Updated: `2026-04-19T11:07:59-04:00` &nbsp;|&nbsp; ID: `5839660004`
+
+---
+### 🔄 Senior Software Engineer - Expert Contributor Lifecycle
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5848145004)
+🕐 Updated: `2026-04-19T11:09:52-04:00` &nbsp;|&nbsp; ID: `5848145004`
+
+---
+### 🔄 Software Engineer - Core Services
+**snorkelai** · 312 - Engineering
+📍 Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5970324004)
+🕐 Updated: `2026-04-19T11:08:31-04:00` &nbsp;|&nbsp; ID: `5970324004`
+
+---
+
 ## 📅 Run: 2026-04-19 04:56 UTC
 
 ### 🆕 Specialist Solutions Architect - AI & ML (Communications, Media, Entertainment & Games)
