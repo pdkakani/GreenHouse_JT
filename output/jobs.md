@@ -11,7 +11,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Specialist Solutions Architect - AI & ML (Financial Services)
-**databricks** · Field Engineering - FE Direct Regulated
+**databricks** · Field Engineering - FE Direct Regulated · 🎯 87%
 📍 Central - United States; Northeast - United States; Southeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8434243002)
 🕐 Updated: `2026-04-09T16:51:28-04:00` &nbsp;|&nbsp; ID: `8434243002`
 
@@ -2093,7 +2093,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Principal IC Packaging Test Engineer, Silicon Technology (Starlink) 
-**spacex** · Starlink Process Engineering
+**spacex** · Starlink Process Engineering · 🎯 0%
 📍 Bastrop, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8230927002?gh_jid=8230927002)
 🕐 Updated: `2026-03-27T11:37:18-04:00` &nbsp;|&nbsp; ID: `8230927002`
 
