@@ -17,7 +17,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Specialist Solutions Architect - AI Tooling & Platform Management
-**databricks** · Field Engineering - Other
+**databricks** · Field Engineering - Other · 🎯 85%
 📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8409019002)
 🕐 Updated: `2026-04-09T16:51:26-04:00` &nbsp;|&nbsp; ID: `8409019002`
 
