@@ -27,7 +27,7 @@ GEMINI_API_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
     "{model}:generateContent?key={api_key}"
 )
-MODEL = "gemini-2.0-flash"  # stable, available now, 15 RPM / 250K TPM on free tier
+MODEL = "gemini-2.5-flash"  # stable, available now, 15 RPM / 250K TPM on free tier
 SCORE_THRESHOLD = 65
 RETRY_DELAY = 5
 
