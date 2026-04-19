@@ -22,8 +22,8 @@ from typing import Optional
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama-3.3-70b-versatile"
 SCORE_THRESHOLD = 65
-MAX_RETRIES = 3          # increased from 2 — we have time budget in poller now
-INITIAL_RETRY_DELAY = 10  # base delay on 429; grows with backoff
+MAX_RETRIES = 1          # no retries — fail fast, queue handles it next run
+INITIAL_RETRY_DELAY = 5  # if you keep retries, keep delays short
 RESUME_FILE = Path("resume.txt")
 
 _resume_cache: Optional[str] = None
