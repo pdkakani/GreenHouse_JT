@@ -254,7 +254,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr. Product Designer, Enterprise Platform
-**databricks** · Product
+**databricks** · Product · 🎯 0%
 📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476061002)
 🕐 Updated: `2026-04-09T16:51:32-04:00` &nbsp;|&nbsp; ID: `8476061002`
 
