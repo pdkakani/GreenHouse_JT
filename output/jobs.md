@@ -395,7 +395,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Account Executive, AI Sales
-**stripe** · 1175 Enterprise - Account Executives (NA)
+**stripe** · 1175 Enterprise - Account Executives (NA) · 🎯 0%
 📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7532733)
 🕐 Updated: `2026-04-16T11:05:52-04:00` &nbsp;|&nbsp; ID: `7532733`
 
