@@ -125,7 +125,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr Manager, Engineering- Cloud Intelligence & Infrastructure Economics
-**databricks** · Executive Engineering - Pipeline
+**databricks** · Executive Engineering - Pipeline · 🎯 34%
 📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8501165002)
 🕐 Updated: `2026-04-09T20:32:56-04:00` &nbsp;|&nbsp; ID: `8501165002`
 
