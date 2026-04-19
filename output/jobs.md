@@ -35,7 +35,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences)
-**databricks** · Field Engineering - FE Direct Regulated
+**databricks** · Field Engineering - FE Direct Regulated · 🎯 34%
 📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8337429002)
 🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8337429002`
 
