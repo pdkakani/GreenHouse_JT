@@ -123,3 +123,15 @@ def drop_expired_queue_entries(queue: list[dict]) -> tuple[list[dict], int]:
 def remove_from_queue(queue: list[dict], job_id: str) -> None:
     """Remove a single job from the queue by id (in-place)."""
     queue[:] = [j for j in queue if str(j["id"]) != str(job_id)]
+
+
+def purge_alerted_from_queue(queue: list[dict], state: dict) -> int:
+    """
+    Remove any queue entries already marked alerted in state.
+    Handles the case where a job was scored+alerted in a previous run
+    but remove_from_queue never persisted (e.g. crash before save_queue).
+    Returns count of entries removed.
+    """
+    before = len(queue)
+    queue[:] = [j for j in queue if not state.get(str(j["id"]), {}).get("alerted", False)]
+    return before - len(queue)

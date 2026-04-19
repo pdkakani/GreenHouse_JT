@@ -267,7 +267,7 @@ INCLUDE_KEYWORDS = [
     # "kernel engineer",
     "database engineer", "database architect", "database administrator", "dba",
     # Cloud / tooling — specific enough
-    "kubernetes", "docker", "terraform", "AWS", "Aws", "azure" 
+    "kubernetes", "docker", "terraform", "AWS", "azure",
     # Tools/domains — specific
     "distributed systems",
     "microservices",

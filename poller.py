@@ -26,7 +26,7 @@ from state import (
     load_state, save_state, is_seen, get_updated_at, record_job,
     was_alerted, mark_alerted,
     load_queue, save_queue, enqueue_jobs,
-    drop_expired_queue_entries, remove_from_queue,
+    drop_expired_queue_entries, remove_from_queue, purge_alerted_from_queue,
 )
 from scorer import score_job, should_alert
 from notifier import send_slack_alert, send_run_summary, send_new_jobs_digest
@@ -245,6 +245,12 @@ def main():
     print(f"[info] State loaded: {len(state)} previously seen job(s)")
 
     queue = load_queue()
+    # Purge any jobs already alerted in state but still sitting in queue
+    # (can happen if a previous run was killed before save_queue executed)
+    purged = purge_alerted_from_queue(queue, state)
+    if purged:
+        print(f"[info] Purged {purged} already-alerted job(s) from queue")
+        save_queue(queue)
     print(f"[info] Score queue loaded: {len(queue)} pending job(s)")
 
     stats = {
@@ -372,6 +378,8 @@ def main():
     commit_state()
 
     # ── Phase 5: Score queue — best-effort, time-boxed ───────────────────────
+    MAX_FAILURES = 3  # drop a job from queue after this many failed scoring attempts
+
     jobs_to_score = [j for j in queue if not was_alerted(state, str(j["id"]))]
 
     if jobs_to_score:
@@ -398,11 +406,18 @@ def main():
 
                 score = score_job(job)
 
-                # Rate-limit sleep AFTER the call
+                # Rate-limit sleep AFTER the call (keeps us under 30 req/min)
                 time.sleep(SCORE_RATE_LIMIT_SLEEP)
 
                 if score is None:
-                    print("scoring failed — will retry next run.")
+                    # Increment failure count — drop from queue after MAX_FAILURES
+                    job["failures"] = job.get("failures", 0) + 1
+                    if job["failures"] >= MAX_FAILURES:
+                        print(f"scoring failed {MAX_FAILURES}x — dropping from queue.")
+                        remove_from_queue(queue, job_id)
+                        mark_alerted(state, job_id)  # prevent infinite retries
+                    else:
+                        print(f"scoring failed (attempt {job['failures']}/{MAX_FAILURES}) — will retry next run.")
                     stats["scores_timed_out"] += 1
                     continue
 
@@ -430,9 +445,10 @@ def main():
                     print(f"    [scorer] Below threshold ({score}% < 65%) — no individual alert.")
                     stats["alerts_skipped"] += 1
 
-            save_queue(queue)
-            save_state(state)
-            print(f"\n[scorer] ✅ {stats['scores_completed']} scored, {stats['scores_patched']} patched into jobs.md")
+        # Always save queue + state after scoring phase, regardless of time budget
+        save_queue(queue)
+        save_state(state)
+        print(f"\n[scorer] ✅ {stats['scores_completed']} scored, {stats['scores_patched']} patched into jobs.md")
     else:
         print("\n[scorer] No jobs pending score this run.")
 
