@@ -142,54 +142,34 @@ coreweave
 ripple
 alchemy
 convera
-plaid
-braintree
 checkr
 
 # Cloud / Storage / Infrastructure
 purestorage
 rubrik
-box
 dropbox
-aiven
 dremio
 starburst
 planetscale
-neon
-supabase
-hasura
 temporal
-camunda
-conduktor
 
 # Data / Analytics / Real-time
 imply
-tinybird
 
 # SaaS / Enterprise
 smartsheet
 celonis
-zendesk
-medallia
-veeva
-procore
-netsuite
 workato
 squarespace
 godaddy
 
 # HR / Payroll / Global Workforce
-rippling
-deel
 remote
-zenefits
-navan
 checkr
 ziprecruiter
 glassdoor
 
 # Consumer / Marketplace Tech
-doordash
 reddit
 thumbtack
 creditkarma
@@ -198,12 +178,10 @@ tripadvisor
 
 # Streaming / Social / Other Tech
 twitch
-quora
 
 # Deep Tech / AI
 spacex
 waymo
-palantir
 
 # DevOps / Chaos / Tooling
 gremlin
