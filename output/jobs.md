@@ -422,7 +422,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr. Solutions Architect, Retail 
-**databricks** · Field Engineering
+**databricks** · Field Engineering · 🎯 34%
 📍 Northeast - United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002)
 🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `8221491002`
 
