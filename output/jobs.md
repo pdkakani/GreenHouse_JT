@@ -5,7 +5,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 ## 📅 Run: 2026-04-19 04:56 UTC
 
 ### 🆕 Specialist Solutions Architect - AI & ML (Communications, Media, Entertainment & Games)
-**databricks** · Field Engineering - FE Direct Enterprise
+**databricks** · Field Engineering - FE Direct Enterprise · 🎯 80%
 📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8480547002)
 🕐 Updated: `2026-04-09T16:51:33-04:00` &nbsp;|&nbsp; ID: `8480547002`
 
@@ -65,7 +65,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr. Engineering Manager - Customer Experience Intelligence (CXI)
-**databricks** · Engineering
+**databricks** · Engineering · 🎯 64%
 📍 Mountain View, California; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8436912002)
 🕐 Updated: `2026-04-09T16:51:29-04:00` &nbsp;|&nbsp; ID: `8436912002`
 
