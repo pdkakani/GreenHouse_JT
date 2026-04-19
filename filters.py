@@ -209,7 +209,8 @@ if __name__ == "__main__":
 # ---------------------------------------------------------------------------
 
 INCLUDE_KEYWORDS = [
-    # Core engineering
+    # Core engineering — specific enough, low false positive risk
+    "software engineer", "software developer",
     "engineer", "engineering",
     "developer", "development",
     "programmer", "programming",
@@ -220,75 +221,76 @@ INCLUDE_KEYWORDS = [
     # "fullstack", "full-stack", "full stack",
     "software",
     "senior software",
-    "principal software",
-    "infrastructure",
-    "platform",
-    "cloud",
+    "infrastructure engineer", "infrastructure",
+    "platform engineer", "platform",
+    "cloud engineer", "cloud architect",
     "devops", "dev ops", "dev-ops",
     "sre", "site reliability",
-    "systems",
-    # Leadership
-    "tech lead", "technical lead",
-    # Data
-    "data engineer", "data scientist", "data analyst",
-    "analytics", "analyst",
-    # "machine learning", " ml ", "mlops",
-    # "artificial intelligence", " ai ",
-    # "deep learning",
-    # "nlp",
-    # "llm",
-    # Security
-    "security", "appsec", "devsecops", "infosec",
+    # Data — specific compound phrases only
+    "data engineer",
+    "data platform", "data infrastructure",
+    # "machine learning", "mlops",
+    # "deep learning", "nlp", "llm",
+    # AI / ML — word-boundary patterns handle "AI Engineer", "ML Engineer"
+    "artificial intelligence",
+    # "genai", "gen ai", "generative ai",
+    # Security — engineering roles only, not generic "security" or "security manager"
+    "security engineer", "security architect",
+    # "appsec", "devsecops", "infosec",
     # "penetration", "pentesting",
-    # "soc analyst", "siem",
+    # "soc engineer", "siem engineer",
     # "cryptography",
-    # Architecture
-    "architect",
-    "solutions architect",
-    "technical",
+    # "cybersecurity engineer",
+    # Architecture — specific
+    "software architect", "solutions architect",
+    "enterprise architect", "technical architect",
+    "cloud architect", "integration architect",
+    # Leadership — engineering-specific
+    "tech lead", "technical lead",
+    "engineering lead", "engineering manager",
+    "staff engineer", "principal engineer",
     # Mobile
-    # "mobile", "ios", "android",
+    # "mobile engineer", "mobile developer",
+    # "ios engineer", "ios developer",
+    # "android engineer", "android developer",
     # "react native", "flutter",
-    # Quality
-    "qa ", " qa", "quality assurance",
-    "test engineer", "sdet", "automation engineer",
-    # Product/Program (technical lean)
-    "product manager", "technical program", "engineering manager",
-    "scrum master", "agile coach",
-    # Networking / Infra
-    "network", "networking",
-    # "embedded", "firmware",
-    "kernel", "driver",
-    "database", " dba",
-    "database administrator",
-    # Cloud / tooling
-    "kubernetes", "docker", "terraform",
-    "aws", "gcp", "azure",
-    # Specific tools/domains
-    "api", "saas", "paas",
+    # Quality — engineering specific
+    "quality engineer", "test engineer", "sdet",
+    "automation engineer", "qa engineer",
+    # Product/Program — technical lean only
+    "technical program manager", "engineering program",
+    "product engineer",
+    # Networking / Infra — engineering roles only
+    "network engineer", "network architect",
+    "systems engineer", "systems architect",
+    # "embedded engineer", "firmware engineer",
+    # "kernel engineer",
+    "database engineer", "database architect", "database administrator", "dba",
+    # Cloud / tooling — specific enough
+    "kubernetes", "docker", "terraform", "AWS", "Aws", "azure" 
+    # Tools/domains — specific
     "distributed systems",
     "microservices",
-    "blockchain",
-    "fintech",
-    "financial technology",
-    "banking technology",
-    "compiler",
-    "operating system",
-    # IT / Support (technical)
-    " it ", "information technology",
-    # "sysadmin", "system administrator",
-    # "helpdesk", "help desk",
-    # "technical support",
-    # BI / Data Viz
-    # "bi engineer", "business intelligence",
-    # "data warehouse", "etl",
-    # Research
+    "fintech engineer", "financial technology",
+    "banking technology", "banking engineer",
+    "compiler engineer",
+    # IT / Support — specific technical roles only
+    "information technology",
+    "sysadmin", "system administrator",
+    "it engineer", "it architect",
+    # BI / Data Viz — specific
+    # "bi engineer", "business intelligence engineer",
+    # "data warehouse engineer", "etl engineer",
+    # Research — engineering/science specific
     # "research engineer", "research scientist",
-    # "applied scientist",
+    # "applied scientist", "applied researcher",
 ]
 
+# Build regex — most keywords use literal match, but AI and ML need
+# word boundaries to catch "AI Engineer", "ML Engineer", "AI/ML Engineer"
+_KEYWORD_RE = "|".join(re.escape(k) for k in INCLUDE_KEYWORDS)
 _INCLUDE_RE = re.compile(
-    "|".join(re.escape(k) for k in INCLUDE_KEYWORDS),
+    r"\b(ai|ml)\b|" + _KEYWORD_RE,
     re.IGNORECASE,
 )
 

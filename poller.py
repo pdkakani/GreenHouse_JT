@@ -247,6 +247,7 @@ def main():
             job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
             print(f"  → {job_label} ...", end=" ", flush=True)
 
+            time.sleep(2)  # stay within Groq free tier: 30 req/min
             score = score_job(job)  # returns int or None
             if score is None:
                 print("scoring failed, skipping.")
