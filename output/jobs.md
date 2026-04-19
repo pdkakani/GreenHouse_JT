@@ -71,7 +71,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr. Engineering Manager - Lakeflow Designer
-**databricks** · Executive Engineering - Pipeline
+**databricks** · Executive Engineering - Pipeline · 🎯 34%
 📍 Bellevue, Washington; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5627916002)
 🕐 Updated: `2026-04-09T16:51:06-04:00` &nbsp;|&nbsp; ID: `5627916002`
 
