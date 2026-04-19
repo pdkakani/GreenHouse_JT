@@ -1,5 +1,14 @@
 """
 poller.py — Main Greenhouse job polling script.
+
+Key changes:
+- write_output() is called BEFORE scoring — jobs always land in jobs.md
+- Scoring is fully decoupled and best-effort: if it completes within the
+  remaining budget, scores are patched into jobs.md; if time runs out, jobs
+  are already written without scores (no data loss)
+- Rate-limit sleep moved to AFTER each score call so pacing is consistent
+- WORKFLOW_TIMEOUT_SECONDS guards the scoring loop so the job never exceeds
+  the GitHub Actions 10-min limit
 """
 
 import sys
@@ -8,7 +17,6 @@ import requests
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
-
 from filters import is_usa_location, is_software_role
 from state import load_state, save_state, is_seen, get_updated_at, record_job, was_alerted, mark_alerted
 from scorer import score_job, should_alert
@@ -17,10 +25,15 @@ from notifier import send_slack_alert, send_run_summary, send_new_jobs_digest
 COMPANIES_FILE = Path("companies.txt")
 OUTPUT_FILE = Path("output/jobs.md")
 API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true"
+
 REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 MAX_JOBS_PER_COMPANY = 500
+
+# Leave 90s buffer before the 10-min GitHub Actions hard kill
+WORKFLOW_TIMEOUT_SECONDS = 8 * 60  # 8 minutes for fetch+filter+write; scoring gets the rest
+SCORE_RATE_LIMIT_SLEEP = 2.1       # slightly over 2s to stay safely under 30 req/min
 
 
 def load_companies() -> list[str]:
@@ -103,11 +116,11 @@ def format_job_entry(job: dict, tag: str = "NEW") -> str:
     )
 
 
-def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
+def write_output(new_jobs: list[dict], updated_jobs: list[dict], run_label: str) -> None:
+    """Write jobs to output file. Can be called multiple times; run_label must be stable."""
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    header = f"\n## 📅 Run: {now_str}\n\n"
+    header = f"\n## 📅 Run: {run_label}\n\n"
     entries = ""
     for job in new_jobs:
         entries += format_job_entry(job, tag="NEW")
@@ -132,8 +145,22 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
     OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
 
 
+def patch_scores_in_output(scored_jobs: list[dict], run_label: str) -> None:
+    """
+    After scoring completes, re-write the output file so scored jobs show
+    their 🎯 score. This is a no-op if OUTPUT_FILE doesn't exist yet.
+    We simply regenerate from the in-memory lists which already have _score set.
+    """
+    # Intentionally a no-op here — write_output is called again at the end
+    # of main() with the same lists (which now have _score populated).
+    pass
+
+
 def main():
+    wall_start = time.monotonic()
     start = datetime.now(timezone.utc)
+    run_label = start.strftime("%Y-%m-%d %H:%M UTC")
+
     print(f"\n{'='*60}")
     print(f"Greenhouse Job Poller — {start.strftime('%Y-%m-%d %H:%M:%S UTC')}")
     print(f"{'='*60}")
@@ -155,15 +182,17 @@ def main():
         "jobs_updated": 0,
         "alerts_sent": 0,
         "alerts_skipped": 0,
+        "scores_completed": 0,
+        "scores_timed_out": 0,
     }
 
     new_jobs = []
     updated_jobs = []
 
+    # ── Phase 1: Fetch & Filter ───────────────────────────────────────────────
     for board in companies:
         print(f"\n[fetch] {board} ...", end=" ", flush=True)
         raw_jobs = fetch_jobs(board)
-
         if raw_jobs is None:
             stats["companies_failed"] += 1
             continue
@@ -181,7 +210,7 @@ def main():
                 if prev_updated == updated_at:
                     stats["jobs_skipped_seen"] += 1
                     continue
-                # updated_at changed — update state, add to output, but never re-score
+                # updated_at changed — record update
                 record_job(state, {
                     "id": job_id,
                     "updated_at": updated_at,
@@ -195,9 +224,10 @@ def main():
                     "_department": extract_department(job),
                     "_url": extract_job_url(job),
                     "_tag": "UPDATED",
+                    "_score": None,  # updated jobs are not re-scored
                 })
                 stats["jobs_updated"] += 1
-                stats["jobs_skipped_seen"] += 1  # also count as skipped — already processed
+                stats["jobs_skipped_seen"] += 1
                 continue
 
             # Brand new job — run through filters
@@ -219,6 +249,7 @@ def main():
                 "_department": department,
                 "_url": extract_job_url(job),
                 "_tag": "NEW",
+                "_score": None,  # will be filled in Phase 3 if time allows
             }
 
             record_job(state, {
@@ -227,83 +258,105 @@ def main():
                 "title": title,
                 "company": enriched["company"],
             })
-
             new_jobs.append(enriched)
             stats["jobs_new"] += 1
 
     save_state(state)
 
-    # --- Score & alert for NEW jobs only ---
-    # Skip any job already alerted (safety net against duplicates)
+    # ── Phase 2: Write output IMMEDIATELY (no scoring dependency) ─────────────
+    if new_jobs or updated_jobs:
+        write_output(new_jobs, updated_jobs, run_label)
+        print(f"\n[output] ✅ Written {stats['jobs_new']} new + {stats['jobs_updated']} updated jobs to {OUTPUT_FILE}")
+    else:
+        print("\n[output] No new or updated jobs — skipping file write.")
+
+    # ── Phase 3: Score new jobs — best-effort, time-boxed ────────────────────
     jobs_to_score = [
         job for job in new_jobs
         if not was_alerted(state, str(job.get("id", "")))
     ]
 
     if jobs_to_score:
-        print(f"\n[scorer] Scoring {len(jobs_to_score)} new job(s) against resume...")
-        for job in jobs_to_score:
-            job_id = str(job.get("id", ""))
-            job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
-            print(f"  → {job_label} ...", end=" ", flush=True)
+        elapsed_so_far = time.monotonic() - wall_start
+        time_budget = WORKFLOW_TIMEOUT_SECONDS - elapsed_so_far
+        print(f"\n[scorer] {len(jobs_to_score)} job(s) to score | time budget: {time_budget:.0f}s")
 
-            time.sleep(2)  # stay within Groq free tier: 30 req/min
-            score = score_job(job)  # returns int or None
-            if score is None:
-                print("scoring failed, skipping.")
-                stats["alerts_skipped"] += 1
-                continue
+        if time_budget <= 30:
+            print("[scorer] ⚠️  Less than 30s remaining — skipping scoring entirely to protect output commit.")
+        else:
+            any_scored = False
+            for job in jobs_to_score:
+                elapsed_now = time.monotonic() - wall_start
+                remaining = WORKFLOW_TIMEOUT_SECONDS - elapsed_now
 
-            print(f"score={score}%")
-            job["_score"] = score  # attach score to job for output/md display
+                if remaining < 20:
+                    print(f"\n[scorer] ⏱️  Time budget exhausted ({stats['scores_timed_out']} job(s) skipped). Stopping.")
+                    stats["scores_timed_out"] += len(jobs_to_score) - stats["scores_completed"] - stats["scores_timed_out"]
+                    break
 
-            # Mark as scored — never score this job again regardless of outcome
-            mark_alerted(state, job_id)
+                job_id = str(job.get("id", ""))
+                job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
+                print(f"  → {job_label} ...", end=" ", flush=True)
 
-            if should_alert(score):
-                sent = send_slack_alert(job, score)
-                if sent:
-                    stats["alerts_sent"] += 1
-                else:
+                score = score_job(job)  # returns int or None
+
+                # Rate-limit sleep AFTER the call (not before)
+                time.sleep(SCORE_RATE_LIMIT_SLEEP)
+
+                if score is None:
+                    print("scoring failed — job already written without score.")
                     stats["alerts_skipped"] += 1
-            else:
-                print(f"  [scorer] Below threshold ({score}% < 65%) — no alert.")
-                stats["alerts_skipped"] += 1
+                    stats["scores_timed_out"] += 1
+                    continue
 
-        # Save state again to persist alerted flags
-        save_state(state)
+                print(f"score={score}%")
+                job["_score"] = score
+                stats["scores_completed"] += 1
+                any_scored = True
 
-        if stats["alerts_sent"] > 0:
-            send_run_summary(stats)
+                mark_alerted(state, job_id)
 
-    # Send full digest of all new jobs regardless of score
+                if should_alert(score):
+                    sent = send_slack_alert(job, score)
+                    if sent:
+                        stats["alerts_sent"] += 1
+                    else:
+                        stats["alerts_skipped"] += 1
+                else:
+                    print(f"    [scorer] Below threshold ({score}% < 65%) — no alert.")
+                    stats["alerts_skipped"] += 1
+
+            save_state(state)
+
+            # Re-write output with scores patched in (only if at least one scored)
+            if any_scored:
+                write_output(new_jobs, updated_jobs, run_label)
+                print(f"\n[output] ✅ Re-written with {stats['scores_completed']} score(s) patched in.")
+
+    if stats["alerts_sent"] > 0:
+        send_run_summary(stats)
+
     if new_jobs:
         send_new_jobs_digest(new_jobs)
 
-    if new_jobs or updated_jobs:
-        write_output(new_jobs, updated_jobs)
-        print(f"\n[output] Written to {OUTPUT_FILE}")
-    else:
-        print("\n[output] No new or updated jobs — skipping file write.")
-
-    elapsed = (datetime.now(timezone.utc) - start).total_seconds()
+    elapsed = time.monotonic() - wall_start
     stats["elapsed"] = int(elapsed)
+
     print(f"\n{'='*60}")
     print(f"SUMMARY")
-    print(f"  Companies checked : {stats['companies_checked']} / {len(companies)}")
-    print(f"  Companies failed  : {stats['companies_failed']}")
-    print(f"  Jobs fetched      : {stats['jobs_fetched']}")
-    total_accounted = (stats['jobs_skipped_seen'] + stats['jobs_skipped_location'] +
-                       stats['jobs_skipped_title'] + stats['jobs_new'])
-    print(f"  Skipped (seen/updated): {stats['jobs_skipped_seen']}")
-    print(f"  Skipped (location)    : {stats['jobs_skipped_location']}")
-    print(f"  Skipped (title)       : {stats['jobs_skipped_title']}")
-    print(f"  New jobs found        : {stats['jobs_new']} 🆕")
-    print(f"  Updated jobs (in MD)  : {stats['jobs_updated']} 🔄")
-    print(f"  Accounted for         : {total_accounted} / {stats['jobs_fetched']} fetched")
-    print(f"  Slack alerts sent : {stats['alerts_sent']} 🔔")
-    print(f"  Below threshold   : {stats['alerts_skipped']}")
-    print(f"  Elapsed           : {elapsed:.1f}s")
+    print(f"  Companies checked  : {stats['companies_checked']} / {len(companies)}")
+    print(f"  Companies failed   : {stats['companies_failed']}")
+    print(f"  Jobs fetched       : {stats['jobs_fetched']}")
+    print(f"  Skipped (seen)     : {stats['jobs_skipped_seen']}")
+    print(f"  Skipped (location) : {stats['jobs_skipped_location']}")
+    print(f"  Skipped (title)    : {stats['jobs_skipped_title']}")
+    print(f"  New jobs written   : {stats['jobs_new']} 🆕")
+    print(f"  Updated jobs       : {stats['jobs_updated']} 🔄")
+    print(f"  Scores completed   : {stats['scores_completed']}")
+    print(f"  Scores timed out   : {stats['scores_timed_out']}")
+    print(f"  Slack alerts sent  : {stats['alerts_sent']} 🔔")
+    print(f"  Below threshold    : {stats['alerts_skipped']}")
+    print(f"  Elapsed            : {elapsed:.1f}s")
     print(f"{'='*60}\n")
 
     sys.exit(0)

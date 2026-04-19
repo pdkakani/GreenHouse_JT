@@ -5,6 +5,11 @@ Model: llama-3.3-70b-versatile
 Full resume + full JD sent — no truncation.
 Structured 4-criteria prompt for accurate, consistent scoring.
 Cost: $0.00 (free tier)
+
+Changes:
+- On 429, respects Retry-After header if present (Groq sends it)
+- Falls back to exponential backoff if header absent
+- Returns None cleanly on exhausted retries so caller can skip gracefully
 """
 
 import os
@@ -17,10 +22,10 @@ from typing import Optional
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama-3.3-70b-versatile"
 SCORE_THRESHOLD = 65
-MAX_RETRIES = 2
-RETRY_DELAY = 5
-
+MAX_RETRIES = 3          # increased from 2 — we have time budget in poller now
+INITIAL_RETRY_DELAY = 10  # base delay on 429; grows with backoff
 RESUME_FILE = Path("resume.txt")
+
 _resume_cache: Optional[str] = None
 
 
@@ -42,11 +47,12 @@ def _get_api_key() -> str:
 
 def _build_prompt(job_title: str, company: str, description: str) -> str:
     resume = _load_resume()
-
     return f"""You are a strict technical recruiter evaluating resume-to-job fit.
 
 Score this resume against the job using the 4 criteria below.
+
 Internally evaluate each criterion, then output ONLY a single integer from 0 to 100 as your final weighted score.
+
 Do not output anything else — no explanation, no breakdown, just the integer.
 
 SCORING CRITERIA (evaluate internally before giving final score):
@@ -60,6 +66,7 @@ RESUME:
 
 JOB TITLE: {job_title}
 COMPANY: {company}
+
 JOB DESCRIPTION:
 {description}
 
@@ -82,12 +89,11 @@ def score_job(job: dict) -> Optional[int]:
         "Authorization": f"Bearer {_get_api_key()}",
         "Content-Type": "application/json",
     }
-
     payload = {
         "model": MODEL,
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 20,       # enough for the number + any edge case whitespace
-        "temperature": 0,       # fully deterministic — same job always gets same score
+        "max_tokens": 20,
+        "temperature": 0,
     }
 
     for attempt in range(1, MAX_RETRIES + 1):
@@ -107,20 +113,36 @@ def score_job(job: dict) -> Optional[int]:
 
                 match = re.search(r'\b(\d{1,3})\b', raw_text)
                 if match:
-                    score = max(0, min(100, int(match.group(1))))
-                    return score
+                    return max(0, min(100, int(match.group(1))))
                 else:
                     print(f"  [scorer] Unexpected response: {raw_text[:50]}")
                     return None
 
             elif resp.status_code == 429:
-                wait = RETRY_DELAY * 2
-                print(f"  [scorer] Rate limited (attempt {attempt}), waiting {wait}s...")
-                time.sleep(wait)
+                # Respect Retry-After header if Groq sends it
+                retry_after = resp.headers.get("Retry-After") or resp.headers.get("x-ratelimit-reset-requests")
+                if retry_after:
+                    try:
+                        wait = float(retry_after)
+                    except ValueError:
+                        wait = INITIAL_RETRY_DELAY * (2 ** (attempt - 1))
+                else:
+                    wait = INITIAL_RETRY_DELAY * (2 ** (attempt - 1))
+
+                print(f"  [scorer] Rate limited (attempt {attempt}/{MAX_RETRIES}), waiting {wait:.0f}s...")
+                if attempt < MAX_RETRIES:
+                    time.sleep(wait)
+                else:
+                    print(f"  [scorer] Exhausted retries on rate limit — skipping job.")
+                    return None
 
             elif resp.status_code in (500, 503):
-                print(f"  [scorer] API overloaded (attempt {attempt}), waiting {RETRY_DELAY}s...")
-                time.sleep(RETRY_DELAY)
+                wait = INITIAL_RETRY_DELAY * attempt
+                print(f"  [scorer] API overloaded (attempt {attempt}), waiting {wait}s...")
+                if attempt < MAX_RETRIES:
+                    time.sleep(wait)
+                else:
+                    return None
 
             else:
                 print(f"  [scorer] API error {resp.status_code}: {resp.text[:200]}")
@@ -129,7 +151,7 @@ def score_job(job: dict) -> Optional[int]:
         except requests.exceptions.RequestException as e:
             print(f"  [scorer] Request error (attempt {attempt}): {e}")
             if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY)
+                time.sleep(INITIAL_RETRY_DELAY)
 
     return None
 
