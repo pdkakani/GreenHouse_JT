@@ -230,7 +230,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Sr. Manager, Observability Platform Engineering
-**databricks** · Engineering
+**databricks** · Engineering · 🎯 34%
 📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8342738002)
 🕐 Updated: `2026-04-09T16:51:22-04:00` &nbsp;|&nbsp; ID: `8342738002`
 
@@ -2750,7 +2750,7 @@ _Filtered: USA/Remote · Software & IT roles only_
 
 ---
 ### 🆕 Software Engineer
-**spacex** · Texas - Test Support
+**spacex** · Texas - Test Support · 🎯 64%
 📍 McGregor, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8324788002?gh_jid=8324788002)
 🕐 Updated: `2026-04-01T18:31:56-04:00` &nbsp;|&nbsp; ID: `8324788002`
 
