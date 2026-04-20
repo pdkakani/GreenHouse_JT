@@ -3665,8 +3665,7 @@
     "alerted": true
   },
   "7474040": {
-    "first_seen": "2026-04-13T07:24:53.661475+00:00",
-    "updated_at": "2026-04-15T14:18:32-04:00",
+    "updated_at": "2026-04-20T13:13:31-04:00",
     "title": "Senior Infrastructure Engineer",
     "company": "twilio",
     "alerted": true
@@ -12195,8 +12194,7 @@
     "alerted": true
   },
   "6671235003": {
-    "first_seen": "2026-04-13T09:17:54.487766+00:00",
-    "updated_at": "2026-04-03T11:31:53-04:00",
+    "updated_at": "2026-04-20T13:43:55-04:00",
     "title": "Software Engineer II (Full Stack), Messaging Security Products",
     "company": "abnormalsecurity",
     "alerted": true
@@ -12755,8 +12753,7 @@
     "alerted": true
   },
   "7297051": {
-    "first_seen": "2026-04-13T09:17:59.697509+00:00",
-    "updated_at": "2026-04-17T13:44:12-04:00",
+    "updated_at": "2026-04-20T13:24:57-04:00",
     "title": "Business Development Representative",
     "company": "intercom",
     "alerted": true
@@ -12790,8 +12787,7 @@
     "alerted": true
   },
   "7695468": {
-    "first_seen": "2026-04-13T09:17:59.698813+00:00",
-    "updated_at": "2026-04-17T13:44:12-04:00",
+    "updated_at": "2026-04-20T13:30:46-04:00",
     "title": "Sales Development Representative ",
     "company": "intercom",
     "alerted": true
@@ -18106,15 +18102,13 @@
     "alerted": true
   },
   "7807496": {
-    "first_seen": "2026-04-13T16:47:03.573653+00:00",
-    "updated_at": "2026-04-17T13:44:12-04:00",
+    "updated_at": "2026-04-20T13:28:10-04:00",
     "title": "Business Development Representative",
     "company": "intercom",
     "alerted": true
   },
   "7807509": {
-    "first_seen": "2026-04-13T16:47:03.573687+00:00",
-    "updated_at": "2026-04-17T13:44:12-04:00",
+    "updated_at": "2026-04-20T13:31:10-04:00",
     "title": "Business Development Representative, Emerging AI Products ",
     "company": "intercom",
     "alerted": true
@@ -22196,7 +22190,7 @@
     "alerted": false
   },
   "8504066002": {
-    "updated_at": "2026-04-13T15:02:06-04:00",
+    "updated_at": "2026-04-20T13:39:38-04:00",
     "title": "Senior Design Program Manager, Design Foundations & AI Transformation",
     "company": "lyft",
     "alerted": false
@@ -24962,7 +24956,7 @@
     "alerted": false
   },
   "8474237002": {
-    "updated_at": "2026-04-04T23:19:34-04:00",
+    "updated_at": "2026-04-20T14:07:07-04:00",
     "title": "Staff Domain Expert, AI in GTM",
     "company": "workato",
     "alerted": false
@@ -25322,8 +25316,8 @@
     "alerted": false
   },
   "7825665": {
-    "updated_at": "2026-04-17T18:35:46-04:00",
-    "title": "Senior Android Engineer (Clients Platform)",
+    "updated_at": "2026-04-20T13:49:05-04:00",
+    "title": "Staff Android Engineer (Clients Platform)",
     "company": "reddit",
     "alerted": false
   },
@@ -28586,7 +28580,7 @@
     "alerted": false
   },
   "7600766": {
-    "updated_at": "2026-04-17T14:16:10-04:00",
+    "updated_at": "2026-04-20T14:00:49-04:00",
     "title": "Staff Technical Program Manager, Simulation Infrastructure Resource Management ",
     "company": "waymo",
     "alerted": false
@@ -29402,7 +29396,7 @@
     "alerted": false
   },
   "5050450007": {
-    "updated_at": "2026-04-17T00:13:02-04:00",
+    "updated_at": "2026-04-20T13:17:34-04:00",
     "title": "Engineering Manager, Atlas (Spatial Systems)",
     "company": "verkada",
     "alerted": false
@@ -35372,7 +35366,7 @@
     "alerted": false
   },
   "7391788": {
-    "updated_at": "2026-04-20T11:30:54-04:00",
+    "updated_at": "2026-04-20T13:33:35-04:00",
     "title": "IT Support Technician Intern",
     "company": "datadog",
     "alerted": false
@@ -35459,6 +35453,72 @@
     "updated_at": "2026-04-20T12:48:13-04:00",
     "title": "Senior Software Engineer (Backend), Payments   ",
     "company": "toast",
+    "alerted": false
+  },
+  "7523920": {
+    "updated_at": "2026-04-20T13:20:06-04:00",
+    "title": "Software Engineer 3, Atlas Search Systems",
+    "company": "mongodb",
+    "alerted": false
+  },
+  "8504232002": {
+    "updated_at": "2026-04-20T13:13:31-04:00",
+    "title": "Intermediate Site Reliability Engineer, Environment Automation",
+    "company": "gitlab",
+    "alerted": false
+  },
+  "8457140002": {
+    "updated_at": "2026-04-20T13:52:02-04:00",
+    "title": "Senior Software Engineer, Data Platform",
+    "company": "chime",
+    "alerted": false
+  },
+  "7833387": {
+    "updated_at": "2026-04-20T13:52:34-04:00",
+    "title": "iOS, Software Engineer",
+    "company": "asana",
+    "alerted": false
+  },
+  "7833390": {
+    "updated_at": "2026-04-20T13:53:15-04:00",
+    "title": "Mobile Engineer, iOS ",
+    "company": "asana",
+    "alerted": false
+  },
+  "7537141": {
+    "updated_at": "2026-04-20T13:27:05-04:00",
+    "title": "Senior Director, Security Engineering",
+    "company": "asana",
+    "alerted": false
+  },
+  "5191313008": {
+    "updated_at": "2026-04-20T13:53:33-04:00",
+    "title": "Senior Web Developer ",
+    "company": "starburst",
+    "alerted": false
+  },
+  "7708453003": {
+    "updated_at": "2026-04-20T14:00:40-04:00",
+    "title": "Senior Customer Support Engineer",
+    "company": "celonis",
+    "alerted": false
+  },
+  "7833379": {
+    "updated_at": "2026-04-20T13:49:09-04:00",
+    "title": "Staff Android Engineer (Clients Platform)",
+    "company": "reddit",
+    "alerted": false
+  },
+  "7833380": {
+    "updated_at": "2026-04-20T13:49:11-04:00",
+    "title": "Staff Android Engineer (Clients Platform)",
+    "company": "reddit",
+    "alerted": false
+  },
+  "7833378": {
+    "updated_at": "2026-04-20T13:49:07-04:00",
+    "title": "Staff Android Engineer (Clients Platform)",
+    "company": "reddit",
     "alerted": false
   }
 }
