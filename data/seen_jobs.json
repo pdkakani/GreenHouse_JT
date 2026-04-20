@@ -8234,8 +8234,7 @@
     "alerted": true
   },
   "7743959": {
-    "first_seen": "2026-04-13T07:25:04.757391+00:00",
-    "updated_at": "2026-04-13T18:18:07-04:00",
+    "updated_at": "2026-04-20T12:56:09-04:00",
     "title": "Engineering Manager",
     "company": "coinbase",
     "alerted": true
@@ -15435,8 +15434,7 @@
     "alerted": true
   },
   "7661740003": {
-    "first_seen": "2026-04-13T09:18:08.923674+00:00",
-    "updated_at": "2026-03-20T10:52:14-04:00",
+    "updated_at": "2026-04-20T12:47:09-04:00",
     "title": "Staff Enterprise Architect",
     "company": "sofi",
     "alerted": true
@@ -15449,8 +15447,7 @@
     "alerted": true
   },
   "7525493003": {
-    "first_seen": "2026-04-13T09:18:08.923773+00:00",
-    "updated_at": "2026-03-20T10:51:32-04:00",
+    "updated_at": "2026-04-20T13:02:15-04:00",
     "title": "Staff IAM Engineer",
     "company": "sofi",
     "alerted": true
@@ -16974,36 +16971,31 @@
     "alerted": true
   },
   "7441441": {
-    "first_seen": "2026-04-13T09:18:10.436621+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:26-04:00",
     "title": "Corporate Security Engineer",
     "company": "asana",
     "alerted": true
   },
   "7542202": {
-    "first_seen": "2026-04-13T09:18:10.436981+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:27-04:00",
     "title": "Engineering Manager, Reference Anything",
     "company": "asana",
     "alerted": true
   },
   "7542185": {
-    "first_seen": "2026-04-13T09:18:10.437002+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:27-04:00",
     "title": "Engineering Manager, Track Anything",
     "company": "asana",
     "alerted": true
   },
   "7662620": {
-    "first_seen": "2026-04-13T09:18:10.437251+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:29-04:00",
     "title": "Group Tech Lead, Adoption Engineering",
     "company": "asana",
     "alerted": true
   },
   "7718738": {
-    "first_seen": "2026-04-13T09:18:10.437329+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:30-04:00",
     "title": "Head of Engineering, Core Product & Collaborative Work Management",
     "company": "asana",
     "alerted": true
@@ -17016,92 +17008,79 @@
     "alerted": true
   },
   "6806085": {
-    "first_seen": "2026-04-13T09:18:10.437534+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:22-04:00",
     "title": "iOS Engineer",
     "company": "asana",
     "alerted": true
   },
   "7615659": {
-    "first_seen": "2026-04-13T09:18:10.437804+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:29-04:00",
     "title": "Principal Security Engineer",
     "company": "asana",
     "alerted": true
   },
   "7565961": {
-    "first_seen": "2026-04-13T09:18:10.438310+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:28-04:00",
     "title": "Senior Engineering Manager, Security",
     "company": "asana",
     "alerted": true
   },
   "7392230": {
-    "first_seen": "2026-04-13T09:18:10.438397+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:26-04:00",
     "title": "Senior Product Manager, Project & Task Experience",
     "company": "asana",
     "alerted": true
   },
   "7370275": {
-    "first_seen": "2026-04-13T09:18:10.438449+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:25-04:00",
     "title": "Senior Software Engineer, AI Product Frameworks",
     "company": "asana",
     "alerted": true
   },
   "7773378": {
-    "first_seen": "2026-04-13T09:18:10.438488+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:21-04:00",
     "title": "Senior Software Engineer, AI Studio",
     "company": "asana",
     "alerted": true
   },
   "7565315": {
-    "first_seen": "2026-04-13T09:18:10.438505+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:27-04:00",
     "title": "Senior Software Engineer, Infrastructure Security",
     "company": "asana",
     "alerted": true
   },
   "6791159": {
-    "first_seen": "2026-04-13T09:18:10.438526+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:21-04:00",
     "title": "Senior Software Engineer, Product",
     "company": "asana",
     "alerted": true
   },
   "7607510": {
-    "first_seen": "2026-04-13T09:18:10.438552+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:29-04:00",
     "title": "Senior Solutions Architect",
     "company": "asana",
     "alerted": true
   },
   "7299272": {
-    "first_seen": "2026-04-13T09:18:10.438575+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:23-04:00",
     "title": "Software Engineer, CI/CD",
     "company": "asana",
     "alerted": true
   },
   "7595104": {
-    "first_seen": "2026-04-13T09:18:10.438586+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:23-04:00",
     "title": "Software Engineer, CI/CD",
     "company": "asana",
     "alerted": true
   },
   "7394807": {
-    "first_seen": "2026-04-13T09:18:10.438749+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:23-04:00",
     "title": "Staff Engineer - CI/CD",
     "company": "asana",
     "alerted": true
   },
   "7773469": {
-    "first_seen": "2026-04-13T09:18:10.438787+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:27-04:00",
     "title": "Staff Software Engineer, AI Studio",
     "company": "asana",
     "alerted": true
@@ -18065,8 +18044,7 @@
     "alerted": true
   },
   "7781698": {
-    "first_seen": "2026-04-13T15:44:30.651946+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:21-04:00",
     "title": "Senior Software Engineer, AI Teammates Experience",
     "company": "asana",
     "alerted": true
@@ -18218,8 +18196,7 @@
     "alerted": true
   },
   "7454232": {
-    "first_seen": "2026-04-13T17:55:59.970631+00:00",
-    "updated_at": "2026-04-17T16:27:10-04:00",
+    "updated_at": "2026-04-20T12:42:26-04:00",
     "title": "Senior Engineering Manager, AI Agents",
     "company": "asana",
     "alerted": true
@@ -19567,8 +19544,7 @@
     "alerted": true
   },
   "7776476": {
-    "first_seen": "2026-04-15T14:04:18.740626+00:00",
-    "updated_at": "2026-04-15T09:55:42-04:00",
+    "updated_at": "2026-04-20T12:52:26-04:00",
     "title": "Partner Solutions Architect (LATAM)",
     "company": "datadog",
     "alerted": true
@@ -19866,8 +19842,7 @@
     "alerted": true
   },
   "4673416008": {
-    "first_seen": "2026-04-15T19:06:30.651463+00:00",
-    "updated_at": "2026-04-08T13:05:31-04:00",
+    "updated_at": "2026-04-20T12:31:10-04:00",
     "title": "Software Engineer, UI Platform",
     "company": "anthropic",
     "alerted": true
@@ -20171,8 +20146,7 @@
     "alerted": true
   },
   "8508269002": {
-    "first_seen": "2026-04-15T22:04:41.357288+00:00",
-    "updated_at": "2026-04-15T17:21:11-04:00",
+    "updated_at": "2026-04-20T12:10:49-04:00",
     "title": "Autonomous Vehicle Business Development Manager",
     "company": "lyft",
     "alerted": true
@@ -21537,9 +21511,8 @@
     "alerted": true
   },
   "7826880": {
-    "first_seen": "2026-04-18T01:02:28.711649+00:00",
-    "updated_at": "2026-04-17T19:34:22-04:00",
-    "title": "Staff Technical Program Manager",
+    "updated_at": "2026-04-20T12:41:18-04:00",
+    "title": "Bilingual Staff Technical Program Manager, Global Enterprise Fulfillment Platform",
     "company": "instacart",
     "alerted": true
   },
@@ -21821,7 +21794,7 @@
     "alerted": false
   },
   "5844015004": {
-    "updated_at": "2026-04-17T16:50:09-04:00",
+    "updated_at": "2026-04-20T12:14:54-04:00",
     "title": "Global Operations Manager - AI Strategy",
     "company": "cribl",
     "alerted": false
@@ -22343,259 +22316,259 @@
     "alerted": false
   },
   "4602115006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "AI Engineer- Gen AI/SWE- Weights & Biases",
     "company": "coreweave",
     "alerted": false
   },
   "4647796006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "AI Native Account Executive",
     "company": "coreweave",
     "alerted": false
   },
   "4651439006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "AI Solutions Engineer, Post Sales Scale - W&B",
     "company": "coreweave",
     "alerted": false
   },
   "4651106006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "AI Solutions Engineer, Post Sales- W&B",
     "company": "coreweave",
     "alerted": false
   },
   "4648208006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "AI Solutions Engineer, Pre-Sales- W&B",
     "company": "coreweave",
     "alerted": false
   },
   "4560350006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Bare Metal Support Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4674028006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Command Center Systems Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4670558006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Construction Cost Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4660868006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Corporate Development Associate",
     "company": "coreweave",
     "alerted": false
   },
   "4440958006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Corporate Development Associate ",
     "company": "coreweave",
     "alerted": false
   },
   "4656231006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Director, Developer Relations",
     "company": "coreweave",
     "alerted": false
   },
   "4666156006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Director of Engineering, Media & Entertainment (M&E)",
     "company": "coreweave",
     "alerted": false
   },
   "4671387006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Director of Engineering, Security Products",
     "company": "coreweave",
     "alerted": false
   },
   "4644854006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Engineering Manager, Cloud Experience",
     "company": "coreweave",
     "alerted": false
   },
   "4671519006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Engineering Manager, Data Infrastructure",
     "company": "coreweave",
     "alerted": false
   },
   "4610109006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Engineering Technical Program Manager - W&B Platform",
     "company": "coreweave",
     "alerted": false
   },
   "4656273006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": " Engineer, Kubernetes Core Interfaces",
     "company": "coreweave",
     "alerted": false
   },
   "4662912006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Executive Assistant - IT",
     "company": "coreweave",
     "alerted": false
   },
   "4645496006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Firmware Engineering Manager ",
     "company": "coreweave",
     "alerted": false
   },
   "4615564006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Firmware Engineer, SPX",
     "company": "coreweave",
     "alerted": false
   },
   "4572080006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Fleet Engineering Project Manager, Data Center",
     "company": "coreweave",
     "alerted": false
   },
   "4627287006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "GPU Infrastructure Software Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4644828006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Hardware Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4671471006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Hardware Engineer, GPU & PCIe",
     "company": "coreweave",
     "alerted": false
   },
   "4657202006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Hardware Engineering Manager",
     "company": "coreweave",
     "alerted": false
   },
   "4617112006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Hardware Engineer - Liquid Cooling",
     "company": "coreweave",
     "alerted": false
   },
   "4645664006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "HPC Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4601657006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "HPC Performance Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4617135006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "IaaS Platform Technical Program Manager",
     "company": "coreweave",
     "alerted": false
   },
   "4644836006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Infrastructure Operations Program Manager",
     "company": "coreweave",
     "alerted": false
   },
   "4670034006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Integration Engineer, People Technologies",
     "company": "coreweave",
     "alerted": false
   },
   "4664227006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "IT Operations Specialist ",
     "company": "coreweave",
     "alerted": false
   },
   "4657803006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Offensive Security Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4617382006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Operations Engineer, Fleet Reliability ",
     "company": "coreweave",
     "alerted": false
   },
   "4673462006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Operations Engineer, HPC Networking",
     "company": "coreweave",
     "alerted": false
   },
   "4553803006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Operations Engineering Manager, Fleet Reliability",
     "company": "coreweave",
     "alerted": false
   },
   "4647106006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "People Business Partner - Product & Engineering",
     "company": "coreweave",
     "alerted": false
   },
   "4660956006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Principal, Data Center Development",
     "company": "coreweave",
     "alerted": false
   },
   "4658799006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Principal Engineer, Cluster Orchestration",
     "company": "coreweave",
     "alerted": false
   },
   "4607747006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Principal Engineer - Managed Databases",
     "company": "coreweave",
     "alerted": false
   },
   "4581198006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Principal Engineer - Observability",
     "company": "coreweave",
     "alerted": false
   },
   "4627302006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Principal Engineer - Perf and Benchmarking",
     "company": "coreweave",
     "alerted": false
   },
   "4646276006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Principal Engineer, Storage",
     "company": "coreweave",
     "alerted": false
@@ -22607,481 +22580,481 @@
     "alerted": false
   },
   "4614153006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Production Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4617128006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Production Engineer, Support tooling (Tooling and Frameworks)",
     "company": "coreweave",
     "alerted": false
   },
   "4670169006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Productivity Platforms Developer",
     "company": "coreweave",
     "alerted": false
   },
   "4671723006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Security Compliance - Technical Program Manager",
     "company": "coreweave",
     "alerted": false
   },
   "4650211006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Security Engineering Manager, Enterprise Security",
     "company": "coreweave",
     "alerted": false
   },
   "4650207006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Security Engineering Manager, Network Security",
     "company": "coreweave",
     "alerted": false
   },
   "4556342006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Security Programs - Technical Program Manager",
     "company": "coreweave",
     "alerted": false
   },
   "4652801006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Associate, Energy Market Development",
     "company": "coreweave",
     "alerted": false
   },
   "4672787006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Business Systems Engineer- Data Center Systems",
     "company": "coreweave",
     "alerted": false
   },
   "4671896006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Business Systems Engineer - GTM Systems ",
     "company": "coreweave",
     "alerted": false
   },
   "4582453006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Business Systems Engineer \u2013 Supply Chain Systems",
     "company": "coreweave",
     "alerted": false
   },
   "4568136006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Cloud Support Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4665386006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Developer Relations Engineer - Marimo",
     "company": "coreweave",
     "alerted": false
   },
   "4606485006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Electrical Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4653971006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Engineer, Cilium CNI & Cloud Networking",
     "company": "coreweave",
     "alerted": false
   },
   "4556808006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Engineer, Compute Services (Kubernetes, Bare Metal)",
     "company": "coreweave",
     "alerted": false
   },
   "4658736006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Engineer, Core API - W&B ",
     "company": "coreweave",
     "alerted": false
   },
   "4562276006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Engineer- Data Platforms",
     "company": "coreweave",
     "alerted": false
   },
   "4629116006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Engineering Manager, Data Engineering",
     "company": "coreweave",
     "alerted": false
   },
   "4613074006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Engineer, Network Observability",
     "company": "coreweave",
     "alerted": false
   },
   "4611874006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Engineer, Storage Control Plane",
     "company": "coreweave",
     "alerted": false
   },
   "4452431006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Firmware Engineer, OpenBMC",
     "company": "coreweave",
     "alerted": false
   },
   "4650820006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Manager, Corporate Development Accounting",
     "company": "coreweave",
     "alerted": false
   },
   "4655657006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Manager, Finance and Accounting Systems",
     "company": "coreweave",
     "alerted": false
   },
   "4661606006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Manager, Operations Accounting Data Center Infrastructure",
     "company": "coreweave",
     "alerted": false
   },
   "4652653006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Manager, Product Management, People Technology",
     "company": "coreweave",
     "alerted": false
   },
   "4562279006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Network Engineer, Data Center",
     "company": "coreweave",
     "alerted": false
   },
   "4607559006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Platform Engineer II, Compute Services",
     "company": "coreweave",
     "alerted": false
   },
   "4670172006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Production Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4642562006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Production Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4638807006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Production Engineer, Tooling & Frameworks",
     "company": "coreweave",
     "alerted": false
   },
   "4673532006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Product Manager, Compliance",
     "company": "coreweave",
     "alerted": false
   },
   "4649824006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Product Manager, Data",
     "company": "coreweave",
     "alerted": false
   },
   "4673536006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Product Manager, GTM",
     "company": "coreweave",
     "alerted": false
   },
   "4652655006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Product Manager, Security & Infra ",
     "company": "coreweave",
     "alerted": false
   },
   "4653764006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Security Engineer, Enterprise Security",
     "company": "coreweave",
     "alerted": false
   },
   "4650290006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Security Engineer II, Vulnerability Management",
     "company": "coreweave",
     "alerted": false
   },
   "4654263006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Security Engineer I, Vulnerability Management",
     "company": "coreweave",
     "alerted": false
   },
   "4650308006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Security Engineer, SOAR",
     "company": "coreweave",
     "alerted": false
   },
   "4669142006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Security Engineer, Threat Intelligence",
     "company": "coreweave",
     "alerted": false
   },
   "4569069006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Security Production Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4671535006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Site Reliability Engineer, Data Infrastructure",
     "company": "coreweave",
     "alerted": false
   },
   "4671525006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Applied AI",
     "company": "coreweave",
     "alerted": false
   },
   "4612039006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer - Artifact Management",
     "company": "coreweave",
     "alerted": false
   },
   "4610724006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Box-Office",
     "company": "coreweave",
     "alerted": false
   },
   "4666814006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Cluster Orchestration ",
     "company": "coreweave",
     "alerted": false
   },
   "4658311006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Data Center Infrastructure Tooling",
     "company": "coreweave",
     "alerted": false
   },
   "4671479006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer - Data Infrastructure Services",
     "company": "coreweave",
     "alerted": false
   },
   "4667495006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer - Data Lake & BI",
     "company": "coreweave",
     "alerted": false
   },
   "4622652006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer (Full-Stack + Agentic AI)",
     "company": "coreweave",
     "alerted": false
   },
   "4647595006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer II, AI Workload Orchestration",
     "company": "coreweave",
     "alerted": false
   },
   "4647611006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer II, Applied Training",
     "company": "coreweave",
     "alerted": false
   },
   "4604832006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer II, Inference",
     "company": "coreweave",
     "alerted": false
   },
   "4647603006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer I, Inference",
     "company": "coreweave",
     "alerted": false
   },
   "4554201006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Observability",
     "company": "coreweave",
     "alerted": false
   },
   "4650163006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Observability Insights",
     "company": "coreweave",
     "alerted": false
   },
   "4659153006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Sandboxes & Virtualization ",
     "company": "coreweave",
     "alerted": false
   },
   "4651859006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Security",
     "company": "coreweave",
     "alerted": false
   },
   "4553828006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Server Fleet Infrastructure",
     "company": "coreweave",
     "alerted": false
   },
   "4643524006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Software Engineer, Storage Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4622845006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Solutions Architect - Weights & Biases",
     "company": "coreweave",
     "alerted": false
   },
   "4638661006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Systems Engineer, M&A",
     "company": "coreweave",
     "alerted": false
   },
   "4396057006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Senior Systems Engineer, OS Automation",
     "company": "coreweave",
     "alerted": false
   },
   "4662787006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Software Enablement Specialist",
     "company": "coreweave",
     "alerted": false
   },
   "4671477006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Software Engineer - Data Infrastructure Services",
     "company": "coreweave",
     "alerted": false
   },
   "4612803006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Software Engineer II - Artifact Management",
     "company": "coreweave",
     "alerted": false
   },
   "4609928006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Software Engineer, Inference AI/ML",
     "company": "coreweave",
     "alerted": false
   },
   "4577764006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Software Engineer, Kubernetes",
     "company": "coreweave",
     "alerted": false
   },
   "4569274006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Software Engineer, Network Services",
     "company": "coreweave",
     "alerted": false
   },
   "4587675006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Software Engineer, Observability",
     "company": "coreweave",
     "alerted": false
   },
   "4412177006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Solutions Architect - HPC/AI/ML",
     "company": "coreweave",
     "alerted": false
   },
   "4557835006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Solutions Architect - Kubernetes",
     "company": "coreweave",
     "alerted": false
   },
   "4568528006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Solutions Architect- Networking",
     "company": "coreweave",
     "alerted": false
   },
   "4568555006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Solutions Architect - Security",
     "company": "coreweave",
     "alerted": false
   },
   "4568531006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Solutions Architect - Storage",
     "company": "coreweave",
     "alerted": false
   },
   "4665964006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Sr. Director of Product, Research and Training Infrastructure",
     "company": "coreweave",
     "alerted": false
   },
   "4664429006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Sr. Engineer, Storage",
     "company": "coreweave",
     "alerted": false
   },
   "4627277006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Sr GPU Infrastructure Software Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4626698006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Sr. Software Engineer - Perf and Benchmarking",
     "company": "coreweave",
     "alerted": false
   },
   "4654110006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Sr. Technical Program Manager, Capacity Delivery",
     "company": "coreweave",
     "alerted": false
@@ -23093,133 +23066,133 @@
     "alerted": false
   },
   "4669527006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff, Data Center Augmentation Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4592097006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Engineer, Data Services",
     "company": "coreweave",
     "alerted": false
   },
   "4669836006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Engineer, Storage Control Plane",
     "company": "coreweave",
     "alerted": false
   },
   "4612047006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Engineer, Storage Engine",
     "company": "coreweave",
     "alerted": false
   },
   "4663670006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Engineer, Storage Engine ",
     "company": "coreweave",
     "alerted": false
   },
   "4659095006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Frontend Engineer, DC Infrastructure Tooling",
     "company": "coreweave",
     "alerted": false
   },
   "4644302006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Production Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4620164006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Security Engineer, Network Security ",
     "company": "coreweave",
     "alerted": false
   },
   "4663202006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Security Engineer, SOAR",
     "company": "coreweave",
     "alerted": false
   },
   "4653130006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Security Engineer, Vulnerability Management",
     "company": "coreweave",
     "alerted": false
   },
   "4647586006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Software Engineer- AI Workload Orchestration",
     "company": "coreweave",
     "alerted": false
   },
   "4647607006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Software Engineer, Applied Training",
     "company": "coreweave",
     "alerted": false
   },
   "4612032006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Software Engineer - Artifact Management",
     "company": "coreweave",
     "alerted": false
   },
   "4658801006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Software Engineer, Cluster Orchestration",
     "company": "coreweave",
     "alerted": false
   },
   "4603505006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Software Engineer, Compute Infrastructure",
     "company": "coreweave",
     "alerted": false
   },
   "4577361006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Software Engineer, Observability",
     "company": "coreweave",
     "alerted": false
   },
   "4668575006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Systems Engineer, Identity",
     "company": "coreweave",
     "alerted": false
   },
   "4651528006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Staff Thermal Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4661474006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Storage Reliability Engineer",
     "company": "coreweave",
     "alerted": false
   },
   "4599319006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Systems Engineer, Kernel",
     "company": "coreweave",
     "alerted": false
   },
   "4644778006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Systems Engineer, People & Payroll Systems",
     "company": "coreweave",
     "alerted": false
   },
   "4652337006": {
-    "updated_at": "2026-04-17T15:27:59-04:00",
+    "updated_at": "2026-04-20T12:54:10-04:00",
     "title": "Technical Program Manager (TPM) \u2013 SOX Compliance",
     "company": "coreweave",
     "alerted": false
@@ -29237,7 +29210,7 @@
     "alerted": false
   },
   "7752492": {
-    "updated_at": "2026-04-19T20:32:20-04:00",
+    "updated_at": "2026-04-20T12:14:08-04:00",
     "title": "Sr. Security Engineer I - Enterprise Security",
     "company": "samsara",
     "alerted": false
@@ -33365,7 +33338,7 @@
     "alerted": false
   },
   "8414648002": {
-    "updated_at": "2026-04-15T19:46:25-04:00",
+    "updated_at": "2026-04-20T11:58:29-04:00",
     "title": "Software Engineer, Tracking (Starshield)",
     "company": "spacex",
     "alerted": false
@@ -34673,7 +34646,7 @@
     "alerted": false
   },
   "8397603002": {
-    "updated_at": "2026-04-10T12:13:32-04:00",
+    "updated_at": "2026-04-20T11:59:23-04:00",
     "title": "Sr. Software Engineer, HITL - Top Secret Clearance",
     "company": "spacex",
     "alerted": false
@@ -35449,6 +35422,42 @@
   "7765938": {
     "updated_at": "2026-04-20T11:24:12-04:00",
     "title": "Software Engineer II (Backend), Payments",
+    "company": "toast",
+    "alerted": false
+  },
+  "4632997005": {
+    "updated_at": "2026-04-20T12:04:15-04:00",
+    "title": "Machine Learning Engineer, Enterprise Brain",
+    "company": "gleanwork",
+    "alerted": false
+  },
+  "7819669": {
+    "updated_at": "2026-04-20T12:28:13-04:00",
+    "title": "Staff Software Engineer - PAM Core",
+    "company": "okta",
+    "alerted": false
+  },
+  "4685017005": {
+    "updated_at": "2026-04-20T12:44:38-04:00",
+    "title": "Business Development Representative",
+    "company": "jumio",
+    "alerted": false
+  },
+  "8508346002": {
+    "updated_at": "2026-04-20T13:05:00-04:00",
+    "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+    "company": "lyft",
+    "alerted": false
+  },
+  "8508372002": {
+    "updated_at": "2026-04-20T13:05:04-04:00",
+    "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+    "company": "lyft",
+    "alerted": false
+  },
+  "7599843": {
+    "updated_at": "2026-04-20T12:48:13-04:00",
+    "title": "Senior Software Engineer (Backend), Payments   ",
     "company": "toast",
     "alerted": false
   }
