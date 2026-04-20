@@ -35403,5 +35403,17 @@
     "title": "Yield Engineer (Starlink/Akoustis) ",
     "company": "spacex",
     "alerted": false
+  },
+  "8493970002": {
+    "updated_at": "2026-04-20T07:11:37-04:00",
+    "title": "G&A Engineer, Netsuite/Claude ",
+    "company": "gitlab",
+    "alerted": false
+  },
+  "6903058": {
+    "updated_at": "2026-04-20T06:25:44-04:00",
+    "title": "Junior Software Engineer",
+    "company": "tripadvisor",
+    "alerted": false
   }
 }
