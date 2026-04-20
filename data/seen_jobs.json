@@ -1052,8 +1052,7 @@
     "alerted": true
   },
   "6991269": {
-    "first_seen": "2026-04-12T21:49:54.485605+00:00",
-    "updated_at": "2026-03-27T09:20:23-04:00",
+    "updated_at": "2026-04-20T07:44:58-04:00",
     "title": "Senior Solutions Architect",
     "company": "cloudflare",
     "alerted": true
@@ -20593,8 +20592,7 @@
     "alerted": true
   },
   "7066029": {
-    "first_seen": "2026-04-16T18:18:22.451660+00:00",
-    "updated_at": "2026-04-17T20:42:09-04:00",
+    "updated_at": "2026-04-20T08:47:56-04:00",
     "title": "Senior Manager, Machine Learning",
     "company": "twilio",
     "alerted": true
@@ -35414,6 +35412,12 @@
     "updated_at": "2026-04-20T06:25:44-04:00",
     "title": "Junior Software Engineer",
     "company": "tripadvisor",
+    "alerted": false
+  },
+  "7831409": {
+    "updated_at": "2026-04-20T08:45:02-04:00",
+    "title": "Senior Software Engineer II, Logistic Foundation",
+    "company": "instacart",
     "alerted": false
   }
 }
