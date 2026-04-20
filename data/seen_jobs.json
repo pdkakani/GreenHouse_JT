@@ -12315,9 +12315,8 @@
     "alerted": true
   },
   "5775517004": {
-    "first_seen": "2026-04-13T09:17:58.242131+00:00",
-    "updated_at": "2026-02-06T13:41:21-05:00",
-    "title": "Head of Machine Learning",
+    "updated_at": "2026-04-20T19:30:13-04:00",
+    "title": "Engineering Manager, Head of Machine Learning ",
     "company": "hightouch",
     "alerted": true
   },
@@ -19903,15 +19902,13 @@
     "alerted": true
   },
   "5174755008": {
-    "first_seen": "2026-04-15T20:09:24.912700+00:00",
-    "updated_at": "2026-04-12T22:23:11-04:00",
+    "updated_at": "2026-04-20T19:24:25-04:00",
     "title": "Staff+ Software Engineer, Backend",
     "company": "anthropic",
     "alerted": true
   },
   "5174747008": {
-    "first_seen": "2026-04-15T20:09:24.912734+00:00",
-    "updated_at": "2026-04-13T07:56:22-04:00",
+    "updated_at": "2026-04-20T19:28:44-04:00",
     "title": "Staff+ Software Engineer, Full-stack",
     "company": "anthropic",
     "alerted": true
@@ -29228,7 +29225,7 @@
     "alerted": false
   },
   "4135277007": {
-    "updated_at": "2026-04-17T00:13:02-04:00",
+    "updated_at": "2026-04-20T19:34:23-04:00",
     "title": "Associate Solutions Engineer, San Mateo",
     "company": "verkada",
     "alerted": false
@@ -35690,7 +35687,7 @@
     "alerted": false
   },
   "7702443003": {
-    "updated_at": "2026-04-20T19:00:33-04:00",
+    "updated_at": "2026-04-20T19:08:59-04:00",
     "title": "Vice President, Systems Engineering",
     "company": "fivetran",
     "alerted": false
@@ -35705,6 +35702,30 @@
     "updated_at": "2026-04-20T18:34:28-04:00",
     "title": "Director, Strategic Partnerships (New Verticals) ",
     "company": "flex",
+    "alerted": false
+  },
+  "8510921002": {
+    "updated_at": "2026-04-20T19:12:38-04:00",
+    "title": "Engineering Manager - App Frameworks",
+    "company": "databricks",
+    "alerted": false
+  },
+  "7834429": {
+    "updated_at": "2026-04-20T19:25:00-04:00",
+    "title": "Platform Engineer - PAM Core",
+    "company": "okta",
+    "alerted": false
+  },
+  "7826337": {
+    "updated_at": "2026-04-20T19:45:42-04:00",
+    "title": "Machine Learning Engineer, Customer Support Engineering",
+    "company": "airbnb",
+    "alerted": false
+  },
+  "8511273002": {
+    "updated_at": "2026-04-20T19:23:32-04:00",
+    "title": "Manufacturing Engineer, Components Test",
+    "company": "spacex",
     "alerted": false
   }
 }
