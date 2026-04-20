@@ -9866,8 +9866,7 @@
     "alerted": true
   },
   "4991194008": {
-    "first_seen": "2026-04-13T09:17:49.247120+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-20T18:06:32-04:00",
     "title": "Senior Business Systems Analyst, Finance Systems",
     "company": "anthropic",
     "alerted": true
@@ -29475,7 +29474,7 @@
     "alerted": false
   },
   "4087170007": {
-    "updated_at": "2026-04-20T14:21:42-04:00",
+    "updated_at": "2026-04-20T18:50:44-04:00",
     "title": "Sales Development Representative (AAE), Salt Lake City",
     "company": "verkada",
     "alerted": false
@@ -30285,8 +30284,8 @@
     "alerted": true
   },
   "8463169002": {
-    "updated_at": "2026-04-16T17:56:33-04:00",
-    "title": "Sr. IT Systems/Automation Engineer",
+    "updated_at": "2026-04-20T18:25:42-04:00",
+    "title": "Sr Software Engineer, Infrastructure",
     "company": "databricks",
     "alerted": false
   },
@@ -35601,7 +35600,7 @@
     "alerted": false
   },
   "7825698": {
-    "updated_at": "2026-04-20T16:40:02-04:00",
+    "updated_at": "2026-04-20T18:07:51-04:00",
     "title": "Manager, Customer Support Engineering",
     "company": "fastly",
     "alerted": false
@@ -35661,14 +35660,14 @@
     "alerted": false
   },
   "7708753003": {
-    "updated_at": "2026-04-20T17:12:51-04:00",
-    "title": "Partner Development Manager",
+    "updated_at": "2026-04-20T18:48:41-04:00",
+    "title": "Partner Development Representative",
     "company": "fivetran",
     "alerted": false
   },
   "7702519003": {
-    "updated_at": "2026-04-20T17:12:47-04:00",
-    "title": "Partner Development Manager",
+    "updated_at": "2026-04-20T18:48:26-04:00",
+    "title": "Partner Development Representative",
     "company": "fivetran",
     "alerted": false
   },
@@ -35676,6 +35675,36 @@
     "updated_at": "2026-04-20T17:11:50-04:00",
     "title": "AI Automation Lead",
     "company": "sofi",
+    "alerted": false
+  },
+  "7833920": {
+    "updated_at": "2026-04-20T18:52:04-04:00",
+    "title": "Senior Solutions Architect - Federal Civilian",
+    "company": "elastic",
+    "alerted": false
+  },
+  "7833918": {
+    "updated_at": "2026-04-20T18:22:06-04:00",
+    "title": "Sr. Solutions Architect - SLED",
+    "company": "elastic",
+    "alerted": false
+  },
+  "7702443003": {
+    "updated_at": "2026-04-20T19:00:33-04:00",
+    "title": "Vice President, Systems Engineering",
+    "company": "fivetran",
+    "alerted": false
+  },
+  "4687035005": {
+    "updated_at": "2026-04-20T18:38:08-04:00",
+    "title": "Director, Strategic Partnerships (New Verticals) ",
+    "company": "flex",
+    "alerted": false
+  },
+  "4686617005": {
+    "updated_at": "2026-04-20T18:34:28-04:00",
+    "title": "Director, Strategic Partnerships (New Verticals) ",
+    "company": "flex",
     "alerted": false
   }
 }
