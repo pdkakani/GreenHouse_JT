@@ -8222,8 +8222,7 @@
     "alerted": true
   },
   "7728786": {
-    "first_seen": "2026-04-13T07:25:04.757296+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T17:39:05-04:00",
     "title": "Data Protection Engineer",
     "company": "coinbase",
     "alerted": true
@@ -8326,15 +8325,13 @@
     "alerted": true
   },
   "7689521": {
-    "first_seen": "2026-04-13T07:25:04.758409+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T17:38:21-04:00",
     "title": "Senior Blockchain Security Engineer",
     "company": "coinbase",
     "alerted": true
   },
   "7729941": {
-    "first_seen": "2026-04-13T07:25:04.758603+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T17:36:55-04:00",
     "title": "Senior Data Protection Engineer",
     "company": "coinbase",
     "alerted": true
@@ -8354,8 +8351,7 @@
     "alerted": true
   },
   "7729252": {
-    "first_seen": "2026-04-13T07:25:04.758892+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T17:37:14-04:00",
     "title": "Senior Manager, Adversary Management",
     "company": "coinbase",
     "alerted": true
@@ -8368,8 +8364,7 @@
     "alerted": true
   },
   "7404427": {
-    "first_seen": "2026-04-13T07:25:04.759058+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T17:40:43-04:00",
     "title": "Senior Product Manager, Enterprise Applications - Finance Systems",
     "company": "coinbase",
     "alerted": true
@@ -8396,8 +8391,7 @@
     "alerted": true
   },
   "7663545": {
-    "first_seen": "2026-04-13T07:25:04.759122+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T17:46:13-04:00",
     "title": "Senior Site Reliability Engineer, IT Infrastructure",
     "company": "coinbase",
     "alerted": true
@@ -8508,8 +8502,7 @@
     "alerted": true
   },
   "7576764": {
-    "first_seen": "2026-04-13T07:25:04.759356+00:00",
-    "updated_at": "2026-04-15T12:33:45-04:00",
+    "updated_at": "2026-04-20T17:24:30-04:00",
     "title": "Senior Software Engineer, Infrastructure - Platform Compute",
     "company": "coinbase",
     "alerted": true
@@ -8570,8 +8563,7 @@
     "alerted": true
   },
   "7559168": {
-    "first_seen": "2026-04-13T07:25:04.759547+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T17:44:59-04:00",
     "title": "Site Reliability Engineer, IT Infrastructure",
     "company": "coinbase",
     "alerted": true
@@ -10938,8 +10930,7 @@
     "alerted": true
   },
   "7684277": {
-    "first_seen": "2026-04-13T09:17:52.328624+00:00",
-    "updated_at": "2026-04-14T20:14:10-04:00",
+    "updated_at": "2026-04-20T17:18:37-04:00",
     "title": "Technical Architect",
     "company": "braze",
     "alerted": true
@@ -15770,7 +15761,7 @@
     "alerted": true
   },
   "7341203": {
-    "updated_at": "2026-04-20T16:47:02-04:00",
+    "updated_at": "2026-04-20T17:34:52-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart",
     "alerted": true
@@ -15783,7 +15774,7 @@
     "alerted": true
   },
   "7776249": {
-    "updated_at": "2026-04-20T16:47:02-04:00",
+    "updated_at": "2026-04-20T17:34:52-04:00",
     "title": "Senior Software Engineer, Data Governance & Foundations",
     "company": "instacart",
     "alerted": true
@@ -15796,13 +15787,13 @@
     "alerted": true
   },
   "7171162": {
-    "updated_at": "2026-04-20T16:47:02-04:00",
+    "updated_at": "2026-04-20T17:34:52-04:00",
     "title": "Senior Software Engineer II, Core Experience",
     "company": "instacart",
     "alerted": true
   },
   "7171161": {
-    "updated_at": "2026-04-20T16:47:02-04:00",
+    "updated_at": "2026-04-20T17:34:52-04:00",
     "title": "Senior Software Engineer II, Data Platform",
     "company": "instacart",
     "alerted": true
@@ -15815,7 +15806,7 @@
     "alerted": true
   },
   "7564947": {
-    "updated_at": "2026-04-20T16:47:02-04:00",
+    "updated_at": "2026-04-20T17:34:52-04:00",
     "title": "Senior Software Engineer II, Storage",
     "company": "instacart",
     "alerted": true
@@ -22122,7 +22113,7 @@
     "alerted": false
   },
   "7782435": {
-    "updated_at": "2026-04-10T20:36:14-04:00",
+    "updated_at": "2026-04-20T17:11:07-04:00",
     "title": "Senior Manager, Product & AI Policy",
     "company": "airbnb",
     "alerted": false
@@ -24720,7 +24711,7 @@
     "alerted": false
   },
   "7672261003": {
-    "updated_at": "2026-04-09T13:12:33-04:00",
+    "updated_at": "2026-04-20T17:44:28-04:00",
     "title": "Senior Solutions Architect",
     "company": "celonis",
     "alerted": false
@@ -26262,7 +26253,7 @@
     "alerted": false
   },
   "8288151002": {
-    "updated_at": "2026-03-27T11:37:18-04:00",
+    "updated_at": "2026-04-20T17:27:38-04:00",
     "title": "Critical Infrastructure Manager (Starlink)",
     "company": "spacex",
     "alerted": false
@@ -27030,7 +27021,7 @@
     "alerted": false
   },
   "8459660002": {
-    "updated_at": "2026-03-27T11:37:18-04:00",
+    "updated_at": "2026-04-20T17:10:52-04:00",
     "title": "GNC Engineer, Satellite Power Systems (Starlink)",
     "company": "spacex",
     "alerted": false
@@ -27756,7 +27747,7 @@
     "alerted": false
   },
   "7826591": {
-    "updated_at": "2026-04-17T15:24:17-04:00",
+    "updated_at": "2026-04-20T17:13:21-04:00",
     "title": "Senior Machine Learning Engineer, Prediction & Planning, System Architecture",
     "company": "waymo",
     "alerted": false
@@ -28386,7 +28377,7 @@
     "alerted": false
   },
   "7822067": {
-    "updated_at": "2026-04-17T15:24:17-04:00",
+    "updated_at": "2026-04-20T17:14:19-04:00",
     "title": "Staff Machine Learning Engineer, Prediction & Planning, System Architecture",
     "company": "waymo",
     "alerted": false
@@ -32814,7 +32805,7 @@
     "alerted": false
   },
   "8440980002": {
-    "updated_at": "2026-03-27T11:37:18-04:00",
+    "updated_at": "2026-04-20T17:11:15-04:00",
     "title": "Security Software Engineer, Applied Computing (Starshield)",
     "company": "spacex",
     "alerted": false
@@ -33174,7 +33165,7 @@
     "alerted": false
   },
   "8443290002": {
-    "updated_at": "2026-03-27T11:37:18-04:00",
+    "updated_at": "2026-04-20T17:23:14-04:00",
     "title": "Software Engineer, Simulation",
     "company": "spacex",
     "alerted": false
@@ -34386,7 +34377,7 @@
     "alerted": false
   },
   "8438151002": {
-    "updated_at": "2026-03-27T11:37:18-04:00",
+    "updated_at": "2026-04-20T17:18:48-04:00",
     "title": "Sr. RF Silicon Software Engineer (RFIC Engineering)",
     "company": "spacex",
     "alerted": false
@@ -35280,7 +35271,7 @@
     "alerted": false
   },
   "7831409": {
-    "updated_at": "2026-04-20T16:47:02-04:00",
+    "updated_at": "2026-04-20T17:34:52-04:00",
     "title": "Senior Software Engineer II, Logistic Foundation",
     "company": "instacart",
     "alerted": false
@@ -35652,7 +35643,7 @@
     "alerted": false
   },
   "4009938009": {
-    "updated_at": "2026-04-20T16:53:20-04:00",
+    "updated_at": "2026-04-20T17:14:37-04:00",
     "title": "Software Engineer - Information Security",
     "company": "planetscale",
     "alerted": false
@@ -35667,6 +35658,24 @@
     "updated_at": "2026-04-20T16:58:26-04:00",
     "title": "Sr. RF Planning Engineer (Starlink Mobile)",
     "company": "spacex",
+    "alerted": false
+  },
+  "7708753003": {
+    "updated_at": "2026-04-20T17:12:51-04:00",
+    "title": "Partner Development Manager",
+    "company": "fivetran",
+    "alerted": false
+  },
+  "7702519003": {
+    "updated_at": "2026-04-20T17:12:47-04:00",
+    "title": "Partner Development Manager",
+    "company": "fivetran",
+    "alerted": false
+  },
+  "7704502003": {
+    "updated_at": "2026-04-20T17:11:50-04:00",
+    "title": "AI Automation Lead",
+    "company": "sofi",
     "alerted": false
   }
 }
