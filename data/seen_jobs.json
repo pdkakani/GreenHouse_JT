@@ -870,8 +870,7 @@
     "alerted": true
   },
   "7731886": {
-    "first_seen": "2026-04-12T21:49:54.484992+00:00",
-    "updated_at": "2026-03-30T06:41:34-04:00",
+    "updated_at": "2026-04-20T11:06:16-04:00",
     "title": "Senior/Principal Product Manager - Durable Objects",
     "company": "cloudflare",
     "alerted": true
@@ -8536,8 +8535,7 @@
     "alerted": true
   },
   "7595294": {
-    "first_seen": "2026-04-13T07:25:04.759423+00:00",
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-04-20T11:33:55-04:00",
     "title": "Senior Staff Software Engineer, Backend (Consumer - Financial Services and Loyalty)",
     "company": "coinbase",
     "alerted": true
@@ -8746,8 +8744,7 @@
     "alerted": true
   },
   "7776330": {
-    "first_seen": "2026-04-13T07:25:05.491743+00:00",
-    "updated_at": "2026-04-15T13:29:25-04:00",
+    "updated_at": "2026-04-20T11:55:39-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "alerted": true
@@ -9187,8 +9184,7 @@
     "alerted": true
   },
   "8183064002": {
-    "first_seen": "2026-04-13T07:25:06.006982+00:00",
-    "updated_at": "2026-04-17T11:27:10-04:00",
+    "updated_at": "2026-04-20T11:33:07-04:00",
     "title": "Software Engineer, Financial Platform",
     "company": "chime",
     "alerted": true
@@ -11028,8 +11024,7 @@
     "alerted": true
   },
   "7688487003": {
-    "first_seen": "2026-04-13T09:17:52.540302+00:00",
-    "updated_at": "2026-04-04T01:01:42-04:00",
+    "updated_at": "2026-04-20T11:45:46-04:00",
     "title": "Engineering Manager, AI and App Engineering",
     "company": "klaviyo",
     "alerted": true
@@ -14692,8 +14687,7 @@
     "alerted": true
   },
   "4601513006": {
-    "first_seen": "2026-04-13T09:18:07.244407+00:00",
-    "updated_at": "2026-04-14T09:30:00-04:00",
+    "updated_at": "2026-04-20T10:52:04-04:00",
     "title": "Senior Blockchain Engineer",
     "company": "fireblocks",
     "alerted": true
@@ -16197,9 +16191,8 @@
     "alerted": true
   },
   "7724793": {
-    "first_seen": "2026-04-13T09:18:09.789982+00:00",
-    "updated_at": "2026-04-17T19:10:52-04:00",
-    "title": "Product Manager, Merchandising Platform",
+    "updated_at": "2026-04-20T11:41:09-04:00",
+    "title": "Product Manager",
     "company": "airbnb",
     "alerted": true
   },
@@ -19024,15 +19017,13 @@
     "alerted": true
   },
   "7800289": {
-    "first_seen": "2026-04-14T19:26:06.884772+00:00",
-    "updated_at": "2026-04-16T16:30:12-04:00",
+    "updated_at": "2026-04-20T11:39:14-04:00",
     "title": "Solutions Engineer (pre-sales)",
     "company": "mixpanel",
     "alerted": true
   },
   "7815692": {
-    "first_seen": "2026-04-14T19:26:06.884804+00:00",
-    "updated_at": "2026-04-16T16:30:26-04:00",
+    "updated_at": "2026-04-20T11:40:07-04:00",
     "title": "Solutions Engineer (pre-sales)",
     "company": "mixpanel",
     "alerted": true
@@ -20285,8 +20276,7 @@
     "alerted": true
   },
   "7794016": {
-    "first_seen": "2026-04-16T05:25:10.626610+00:00",
-    "updated_at": "2026-04-08T21:00:57-04:00",
+    "updated_at": "2026-04-20T11:37:58-04:00",
     "title": "Senior Site Reliability Engineer (Resilience) - Platform Resilience",
     "company": "elastic",
     "alerted": true
@@ -33087,7 +33077,7 @@
     "alerted": false
   },
   "8397673002": {
-    "updated_at": "2026-04-09T16:42:25-04:00",
+    "updated_at": "2026-04-20T11:55:57-04:00",
     "title": "Software Engineer, Data - Top Secret Clearance",
     "company": "spacex",
     "alerted": false
@@ -33201,7 +33191,7 @@
     "alerted": false
   },
   "8397596002": {
-    "updated_at": "2026-03-31T16:57:16-04:00",
+    "updated_at": "2026-04-20T11:57:11-04:00",
     "title": "Software Engineer, HITL - Top Secret Clearance",
     "company": "spacex",
     "alerted": false
@@ -33255,7 +33245,7 @@
     "alerted": false
   },
   "8382088002": {
-    "updated_at": "2026-04-01T18:10:20-04:00",
+    "updated_at": "2026-04-20T11:57:46-04:00",
     "title": "Software Engineer, Satellite Operations (Starshield)",
     "company": "spacex",
     "alerted": false
@@ -35394,6 +35384,72 @@
     "updated_at": "2026-04-20T09:08:23-04:00",
     "title": "Lead Value Engineer - Consumer Packaged Goods (CPG) Industry",
     "company": "celonis",
+    "alerted": false
+  },
+  "7793281": {
+    "updated_at": "2026-04-20T11:35:29-04:00",
+    "title": "Product Manager, Developer Experience",
+    "company": "mongodb",
+    "alerted": false
+  },
+  "7566026003": {
+    "updated_at": "2026-04-20T11:19:42-04:00",
+    "title": "Senior AI Platform Engineer ",
+    "company": "klaviyo",
+    "alerted": false
+  },
+  "7391788": {
+    "updated_at": "2026-04-20T11:30:54-04:00",
+    "title": "IT Support Technician Intern",
+    "company": "datadog",
+    "alerted": false
+  },
+  "7396509": {
+    "updated_at": "2026-04-20T11:35:48-04:00",
+    "title": "Solutions Architect, Platforms",
+    "company": "stripe",
+    "alerted": false
+  },
+  "7831998": {
+    "updated_at": "2026-04-20T11:22:33-04:00",
+    "title": "Senior Manager, Commercial Strategy - Payment Performance",
+    "company": "adyen",
+    "alerted": false
+  },
+  "7489137": {
+    "updated_at": "2026-04-20T11:29:05-04:00",
+    "title": "Senior CLM Engineer",
+    "company": "marqeta",
+    "alerted": false
+  },
+  "7107054": {
+    "updated_at": "2026-04-20T11:18:13-04:00",
+    "title": "Senior Staff Data Scientist, Guest & Host Marketplace AI",
+    "company": "airbnb",
+    "alerted": false
+  },
+  "7832146": {
+    "updated_at": "2026-04-20T11:52:39-04:00",
+    "title": "R&D Reliability/Test Engineer",
+    "company": "formlabs",
+    "alerted": false
+  },
+  "7832143": {
+    "updated_at": "2026-04-20T11:52:38-04:00",
+    "title": "R&D Reliability/Test Engineer",
+    "company": "formlabs",
+    "alerted": false
+  },
+  "7662886": {
+    "updated_at": "2026-04-20T10:51:25-04:00",
+    "title": "Principal Data Product Manager, Applied AI",
+    "company": "toast",
+    "alerted": false
+  },
+  "7765938": {
+    "updated_at": "2026-04-20T11:24:12-04:00",
+    "title": "Software Engineer II (Backend), Payments",
+    "company": "toast",
     "alerted": false
   }
 }
