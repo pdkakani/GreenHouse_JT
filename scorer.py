@@ -1,21 +1,14 @@
 """
-scorer.py — Resume match scoring using Google Gemini API (free tier).
+scorer.py — Resume match scoring using Google's Gemini 2.5 Flash-Lite.
 
-Model: gemini-2.5-flash-lite  (fastest, highest throughput on free tier)
-Free tier limits:
-  - 15 requests/minute
-  - 1,000 requests/day
-  - 250,000 tokens/minute  ← 40x more than Groq free tier
-
-At ~3,000 tokens/request and 4s sleep between calls:
-  - ~15 req/min = well within RPM limit
-  - ~45,000 tokens/min = well within TPM limit
-  - 1,000 RPD = ~96 scoring runs/day × ~10 jobs = fine for steady state
+Model choice:
+  - gemini-2.5-flash-lite: free-tier friendly and sufficient for job/resume
+    matching at this repo's scale.
 
 API key stored as GitHub secret: GEMINI_API_KEY
-Get key: aistudio.google.com → Get API key (no credit card needed)
 """
 
+import json
 import os
 import re
 import time
@@ -25,17 +18,18 @@ from typing import Optional
 
 GEMINI_API_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    "{model}:generateContent?key={api_key}"
+    "{model}:generateContent"
 )
-MODEL = "gemini-2.5-flash"  # stable, available now, 15 RPM / 250K TPM on free tier
+MODEL = "gemini-2.5-flash-lite"
 SCORE_THRESHOLD = 65
 RETRY_DELAY = 5
+SCORE_SPACING_SECONDS = 4
 
 RESUME_FILE = Path("resume.txt")
 _resume_cache: Optional[str] = None
 
-MAX_JD_CHARS = 8000    # ~2000 tokens — captures full JD requirements
-MAX_RESUME_CHARS = 3000  # ~750 tokens — full resume comfortably
+MAX_JD_CHARS = 12000
+MAX_RESUME_CHARS = 8000
 
 
 def _load_resume() -> str:
@@ -60,8 +54,9 @@ def _build_prompt(job_title: str, company: str, description: str) -> str:
     return f"""You are a strict technical recruiter evaluating resume-to-job fit.
 
 Score this resume against the job using the 4 criteria below.
-Internally evaluate each criterion, then output ONLY a single integer from 0 to 100 as your final weighted score.
-Do not output anything else — no explanation, no breakdown, just the integer.
+Internally evaluate each criterion, then output ONLY a JSON object with a single key:
+{{"score": <integer from 0 to 100>}}
+Do not output anything else — no explanation, no markdown, no extra keys.
 
 SCORING CRITERIA (evaluate internally before giving final score):
 1. Technical skills match — languages, frameworks, tools, cloud (weight: 40%)
@@ -77,8 +72,80 @@ COMPANY: {company}
 
 JOB DESCRIPTION:
 {desc}
+"""
 
-Final score (0-100 integer only):"""
+
+def _build_request_payload(prompt: str) -> dict:
+    return {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": prompt,
+                    }
+                ],
+            }
+        ],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "responseJsonSchema": {
+                "type": "object",
+                "properties": {
+                    "score": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 100,
+                    }
+                },
+                "required": ["score"],
+                "additionalProperties": False,
+            },
+            "maxOutputTokens": 32,
+            "temperature": 0.0,
+        },
+    }
+
+
+def _extract_output_text(data: dict) -> str:
+    text = data.get("output_text", "")
+    if text:
+        return text.strip()
+
+    text = data.get("text", "")
+    if text:
+        return text.strip()
+
+    candidates = data.get("candidates", [])
+    if not candidates:
+        return ""
+
+    content = candidates[0].get("content", {})
+    parts = content.get("parts", [])
+    text_parts = [part.get("text", "").strip() for part in parts if part.get("text")]
+    return "".join(text_parts).strip()
+
+
+def _extract_score(raw_text: str) -> Optional[int]:
+    raw_text = raw_text.strip()
+    if not raw_text:
+        return None
+
+    try:
+        data = json.loads(raw_text)
+        if isinstance(data, dict):
+            value = data.get("score")
+            if isinstance(value, int):
+                return max(0, min(100, value))
+            if isinstance(value, str) and value.isdigit():
+                return max(0, min(100, int(value)))
+    except json.JSONDecodeError:
+        pass
+
+    match = re.search(r"\b(\d{1,3})\b", raw_text)
+    if not match:
+        return None
+    return max(0, min(100, int(match.group(1))))
 
 
 def score_job(job: dict) -> Optional[int]:
@@ -94,40 +161,31 @@ def score_job(job: dict) -> Optional[int]:
     prompt = _build_prompt(title, company, description)
     api_key = _get_api_key()
 
-    url = GEMINI_API_URL.format(model=MODEL, api_key=api_key)
-
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "maxOutputTokens": 10,
-            "temperature": 0.0,
-        },
+    headers = {
+        "x-goog-api-key": api_key,
+        "Content-Type": "application/json",
     }
 
+    payload = _build_request_payload(prompt)
+    url = GEMINI_API_URL.format(model=MODEL)
+
     try:
-        resp = requests.post(url, json=payload, timeout=30)
+        resp = requests.post(url, json=payload, headers=headers, timeout=30)
 
         if resp.status_code == 200:
             data = resp.json()
-            raw_text = (
-                data.get("candidates", [{}])[0]
-                .get("content", {})
-                .get("parts", [{}])[0]
-                .get("text", "")
-                .strip()
-            )
-            # Log token usage
+            raw_text = _extract_output_text(data)
             usage = data.get("usageMetadata", {})
             inp = usage.get("promptTokenCount", "?")
             out = usage.get("candidatesTokenCount", "?")
             print(f"  [scorer] tokens: {inp} in / {out} out")
 
-            match = re.search(r'\b(\d{1,3})\b', raw_text)
-            if match:
-                return max(0, min(100, int(match.group(1))))
-            else:
-                print(f"  [scorer] Unexpected response: {raw_text[:50]}")
-                return None
+            score = _extract_score(raw_text)
+            if score is not None:
+                return score
+
+            print(f"  [scorer] Unexpected response: {raw_text[:50]}")
+            return None
 
         elif resp.status_code == 429:
             print(f"  [scorer] Rate limited (429) — skipping, will retry next run.")
@@ -138,21 +196,15 @@ def score_job(job: dict) -> Optional[int]:
             print(f"  [scorer] 413 payload too large — retrying with shorter JD...")
             short_desc = description[:MAX_JD_CHARS // 2]
             short_prompt = _build_prompt(title, company, short_desc)
-            payload["contents"][0]["parts"][0]["text"] = short_prompt
+            payload = _build_request_payload(short_prompt)
             try:
-                resp2 = requests.post(url, json=payload, timeout=30)
+                resp2 = requests.post(url, json=payload, headers=headers, timeout=30)
                 if resp2.status_code == 200:
                     data = resp2.json()
-                    raw_text = (
-                        data.get("candidates", [{}])[0]
-                        .get("content", {})
-                        .get("parts", [{}])[0]
-                        .get("text", "")
-                        .strip()
-                    )
-                    match = re.search(r'(\d{1,3})', raw_text)
-                    if match:
-                        return max(0, min(100, int(match.group(1))))
+                    raw_text = _extract_output_text(data)
+                    score = _extract_score(raw_text)
+                    if score is not None:
+                        return score
                 print(f"  [scorer] 413 retry failed ({resp2.status_code}) — skipping.")
             except requests.exceptions.RequestException:
                 pass
@@ -162,19 +214,13 @@ def score_job(job: dict) -> Optional[int]:
             print(f"  [scorer] API overloaded ({resp.status_code}), waiting {RETRY_DELAY}s then retrying once...")
             time.sleep(RETRY_DELAY)
             try:
-                resp2 = requests.post(url, json=payload, timeout=30)
+                resp2 = requests.post(url, json=payload, headers=headers, timeout=30)
                 if resp2.status_code == 200:
                     data = resp2.json()
-                    raw_text = (
-                        data.get("candidates", [{}])[0]
-                        .get("content", {})
-                        .get("parts", [{}])[0]
-                        .get("text", "")
-                        .strip()
-                    )
-                    match = re.search(r'\b(\d{1,3})\b', raw_text)
-                    if match:
-                        return max(0, min(100, int(match.group(1))))
+                    raw_text = _extract_output_text(data)
+                    score = _extract_score(raw_text)
+                    if score is not None:
+                        return score
                 print(f"  [scorer] Retry failed ({resp2.status_code}) — skipping.")
             except requests.exceptions.RequestException:
                 pass
@@ -194,6 +240,10 @@ def score_job(job: dict) -> Optional[int]:
 
 def should_alert(score: int) -> bool:
     return score >= SCORE_THRESHOLD
+
+
+def sleep_between_scores() -> None:
+    time.sleep(SCORE_SPACING_SECONDS)
 
 
 def _strip_html(html: str) -> str:

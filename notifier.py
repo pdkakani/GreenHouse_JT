@@ -35,83 +35,83 @@ def _score_bar(score: int) -> str:
     return "█" * filled + "░" * (10 - filled)
 
 
-# def send_slack_alert(job: dict, score: int) -> bool:
-#     """Send a Slack alert for a single high-match job (score >= 65)."""
-#     webhook_url = _get_webhook_url()
-#     if not webhook_url:
-#         print("  [slack] SLACK_WEBHOOK_URL not set — skipping alert.")
-#         return False
-#
-#     title = job.get("title", "Unknown Title")
-#     company = job.get("company", "Unknown Company")
-#     location = job.get("_location", "Remote / Unspecified")
-#     url = job.get("_url", "")
-#     job_id = job.get("id", "")
-#     updated_at = job.get("updated_at", "")
-#     department = job.get("_department", "")
-#
-#     emoji = _score_emoji(score)
-#     bar = _score_bar(score)
-#     dept_text = f" · {department}" if department else ""
-#
-#     blocks = [
-#         {
-#             "type": "header",
-#             "text": {
-#                 "type": "plain_text",
-#                 "text": f"{emoji} {score}% Match — {title}",
-#                 "emoji": True,
-#             },
-#         },
-#         {
-#             "type": "section",
-#             "fields": [
-#                 {"type": "mrkdwn", "text": f"*Company*\n{company}{dept_text}"},
-#                 {"type": "mrkdwn", "text": f"*Location*\n{location}"},
-#                 {"type": "mrkdwn", "text": f"*Score*\n`{bar}` {score}/100"},
-#             ],
-#         },
-#         {
-#             "type": "actions",
-#             "elements": [
-#                 {
-#                     "type": "button",
-#                     "text": {"type": "plain_text", "text": "🔗 Apply Now", "emoji": True},
-#                     "url": url,
-#                     "style": "primary",
-#                 }
-#             ],
-#         },
-#         {
-#             "type": "context",
-#             "elements": [
-#                 {"type": "mrkdwn", "text": f"Job ID: `{job_id}` · Updated: `{updated_at}`"}
-#             ],
-#         },
-#         {"type": "divider"},
-#     ]
-#
-#     payload = {
-#         "text": f"{emoji} {score}% Match: {title} @ {company}",
-#         "blocks": blocks,
-#     }
-#
-#     try:
-#         resp = requests.post(
-#             webhook_url,
-#             data=json.dumps(payload),
-#             headers={"Content-Type": "application/json"},
-#             timeout=SLACK_TIMEOUT,
-#         )
-#         if resp.status_code == 200:
-#             print(f"  [slack] ✅ Alert sent: {title} @ {company} ({score}%)")
-#             return True
-#         else:
-#             print(f"  [slack] ❌ Failed ({resp.status_code}): {resp.text[:100]}")
-#             return False
-#     except requests.exceptions.RequestException as e:
-#         print(f"  [slack] ❌ Request error: {e}")
-#         return False
+def send_slack_alert(job: dict, score: int) -> bool:
+    """Send a Slack alert for a single high-match job (score >= 65)."""
+    webhook_url = _get_webhook_url()
+    if not webhook_url:
+        print("  [slack] SLACK_WEBHOOK_URL not set — skipping alert.")
+        return False
+
+    title = job.get("title", "Unknown Title")
+    company = job.get("company", "Unknown Company")
+    location = job.get("_location", "Remote / Unspecified")
+    url = job.get("_url", "")
+    job_id = job.get("id", "")
+    updated_at = job.get("updated_at", "")
+    department = job.get("_department", "")
+
+    emoji = _score_emoji(score)
+    bar = _score_bar(score)
+    dept_text = f" · {department}" if department else ""
+
+    blocks = [
+        {
+            "type": "header",
+            "text": {
+                "type": "plain_text",
+                "text": f"{emoji} {score}% Match — {title}",
+                "emoji": True,
+            },
+        },
+        {
+            "type": "section",
+            "fields": [
+                {"type": "mrkdwn", "text": f"*Company*\n{company}{dept_text}"},
+                {"type": "mrkdwn", "text": f"*Location*\n{location}"},
+                {"type": "mrkdwn", "text": f"*Score*\n`{bar}` {score}/100"},
+            ],
+        },
+        {
+            "type": "actions",
+            "elements": [
+                {
+                    "type": "button",
+                    "text": {"type": "plain_text", "text": "🔗 Apply Now", "emoji": True},
+                    "url": url,
+                    "style": "primary",
+                }
+            ],
+        },
+        {
+            "type": "context",
+            "elements": [
+                {"type": "mrkdwn", "text": f"Job ID: `{job_id}` · Updated: `{updated_at}`"}
+            ],
+        },
+        {"type": "divider"},
+    ]
+
+    payload = {
+        "text": f"{emoji} {score}% Match: {title} @ {company}",
+        "blocks": blocks,
+    }
+
+    try:
+        resp = requests.post(
+            webhook_url,
+            data=json.dumps(payload),
+            headers={"Content-Type": "application/json"},
+            timeout=SLACK_TIMEOUT,
+        )
+        if resp.status_code == 200:
+            print(f"  [slack] ✅ Alert sent: {title} @ {company} ({score}%)")
+            return True
+        else:
+            print(f"  [slack] ❌ Failed ({resp.status_code}): {resp.text[:100]}")
+            return False
+    except requests.exceptions.RequestException as e:
+        print(f"  [slack] ❌ Request error: {e}")
+        return False
 
 
 def send_new_jobs_digest(new_jobs: list[dict], stats: dict) -> bool:
@@ -146,8 +146,10 @@ def send_new_jobs_digest(new_jobs: list[dict], stats: dict) -> bool:
         company = job.get("company", "Unknown Company")
         location = job.get("_location", "")
         url = job.get("_url", "")
+        score = job.get("_score")
         loc_part = f" · {location}" if location else ""
-        lines.append(f"• 🆕 <{url}|{title}> @ {company}{loc_part}")
+        score_part = f" · {score}%" if score is not None else ""
+        lines.append(f"• 🆕 <{url}|{title}> @ {company}{loc_part}{score_part}")
 
     if overflow > 0:
         lines.append(f"\n_…and {overflow} more recorded in seen_jobs.json_")

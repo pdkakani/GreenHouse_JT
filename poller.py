@@ -4,13 +4,8 @@ poller.py — Main Greenhouse job polling script.
 Flow per run:
   1. Fetch jobs from every Greenhouse board in companies.txt
   2. Filter by USA/remote location and software role title
-  3. Record new + updated jobs in data/seen_jobs.json
-  4. Send a Slack digest of all new jobs found this run
-     (capped at 20 most recent; overflow count noted in the message)
-
-Scoring is intentionally decoupled — see scorer.py.
-Re-plug it in by importing score_job/should_alert and adding a scoring phase
-after save_state() below.
+  3. Score brand-new jobs against resume.txt with GPT-5 mini
+  4. Send Slack digest + high-match alerts
 """
 
 import sys
@@ -20,11 +15,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 from filters import is_usa_location, is_software_role
-from state import load_state, save_state, is_seen, get_updated_at, record_job
-from notifier import send_new_jobs_digest
-
-# scorer is intentionally not imported here — it's decoupled.
-# To re-enable scoring: from scorer import score_job, should_alert
+from state import load_state, save_state, is_seen, get_updated_at, record_job, mark_alerted
+from scorer import score_job, should_alert, sleep_between_scores
+from notifier import send_new_jobs_digest, send_slack_alert
 
 COMPANIES_FILE = Path("companies.txt")
 OUTPUT_FILE = Path("output/jobs.md")
@@ -33,10 +26,6 @@ API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true
 REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
-
-# WORKFLOW_TIMEOUT_SECONDS = 8 * 60  # 8 minutes; scoring gets whatever fetch leaves
-# SCORE_RATE_LIMIT_SLEEP = 4.0       # 4s gap = 15 req/min — within Gemini free tier 15 RPM limit
-
 
 def load_companies() -> list[str]:
     if not COMPANIES_FILE.exists():
@@ -252,6 +241,10 @@ def main():
         "jobs_skipped_location": 0, # new but non-USA location
         "jobs_skipped_title": 0,   # new, USA, but not a software role
         "jobs_new": 0,             # passed all filters — recorded + alerted
+        "jobs_scored": 0,
+        "jobs_score_failed": 0,
+        "jobs_alerted": 0,
+        "jobs_alert_failed": 0,
     }
 
     new_jobs = []  # jobs that passed all filters this run — sent in digest
@@ -314,17 +307,36 @@ def main():
                 "_department": department,
                 "_url": extract_job_url(job),
             }
+            new_jobs.append(enriched)
+            stats["jobs_new"] += 1
+
+            score = score_job(enriched)
+            if score is None:
+                stats["jobs_score_failed"] += 1
+                print(f"  [scorer] {title} @ {enriched['company']} — score unavailable")
+                sleep_between_scores()
+                continue
+
+            enriched["_score"] = score
+            stats["jobs_scored"] += 1
+
             record_job(state, {
                 "id": job_id,
                 "updated_at": updated_at,
                 "title": title,
                 "company": enriched["company"],
             })
-            new_jobs.append(enriched)
-            stats["jobs_new"] += 1
+            mark_alerted(state, job_id)
+            save_state(state)
 
-    # Persist state — do this before the Slack call so we never double-alert
-    # even if the notifier crashes or the process is killed after sending.
+            if should_alert(score):
+                if send_slack_alert(enriched, score):
+                    stats["jobs_alerted"] += 1
+                else:
+                    stats["jobs_alert_failed"] += 1
+
+            sleep_between_scores()
+
     save_state(state)
 
     # ── Phase 2: Send Slack digest for new jobs ───────────────────────────────
@@ -351,6 +363,10 @@ def main():
     print(f"  ├─ Skipped (loc)     : {stats['jobs_skipped_location']}")
     print(f"  ├─ Skipped (title)   : {stats['jobs_skipped_title']}")
     print(f"  └─ New               : {stats['jobs_new']} 🆕")
+    print(f"  Scored               : {stats['jobs_scored']}")
+    print(f"  Alerts sent          : {stats['jobs_alerted']}")
+    print(f"  Score failures        : {stats['jobs_score_failed']}")
+    print(f"  Alert failures       : {stats['jobs_alert_failed']}")
     print(f"  Elapsed              : {elapsed:.1f}s")
     print(f"{'='*60}\n")
 

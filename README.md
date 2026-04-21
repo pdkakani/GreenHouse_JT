@@ -1,6 +1,6 @@
 # 🌿 Greenhouse Job Tracker
 
-Auto-polls Greenhouse job boards every 15 minutes, filters for **USA/Remote** + **Software & IT** roles, scores each new job against your resume using Claude AI, and sends Slack alerts for strong matches.
+Auto-polls Greenhouse job boards every 15 minutes, filters for **USA/Remote** + **Software & IT** roles, scores each new job against your resume using **Gemini 2.5 Flash-Lite**, and sends Slack alerts for strong matches.
 
 Zero infrastructure. No database. Just GitHub Actions + a JSON file.
 
@@ -24,7 +24,7 @@ Filter 3: USA/Remote location?       → SKIP if non-US
 Filter 4: Software/IT title?         → SKIP if unrelated
     │
     ▼
-NEW jobs → Score against resume via Claude Haiku API (int 0–100)
+NEW jobs → Score against resume via GPT-5 mini (JSON score 0–100)
     │
     ├── Score ≥ 65% → Send Slack alert with score + Apply button
     └── Score < 65% → Log only, no alert
@@ -52,7 +52,7 @@ Repo → **Settings → Secrets and variables → Actions → New repository sec
 
 | Secret name | Value |
 |---|---|
-| `CL_API_KEY` | Your Anthropic API key from [console.anthropic.com](https://console.anthropic.com) |
+| `GEMINI_API_KEY` | Your Gemini API key from [aistudio.google.com](https://aistudio.google.com/app/apikey) |
 | `SLACK_WEBHOOK_URL` | Your Slack incoming webhook URL from [api.slack.com/apps](https://api.slack.com/apps) |
 
 ### 4. That's it. Push and wait.
@@ -82,11 +82,11 @@ Score icons:
 
 ## Scoring
 
-Each **new** job is scored once against `resume.txt` using **Claude Haiku** (cheapest Claude model). The score is a single integer 0–100 reflecting how well your background matches the role.
+Each **new** job is scored once against `resume.txt` using **Gemini 2.5 Flash-Lite**. The score is a single integer 0–100 reflecting how well your background matches the role.
 
 - Updated jobs (existing jobs with a changed `updated_at`) are **never re-scored** — only logged in `jobs.md`
 - Once a job is scored it is permanently marked as `alerted: true` in state — it will never be scored or alerted again even if the posting is later modified
-- Estimated cost: ~$0.0003 per job scored — $3 lasts ~4,000 jobs scored
+- Estimated cost: **free tier** if you stay within Gemini quotas; the current free tier for Flash-Lite is **15 RPM, 250,000 TPM, 1,000 RPD**
 
 To change the alert threshold edit `scorer.py`:
 ```python
@@ -158,7 +158,7 @@ Your resume lives in `resume.txt` (plain text). It is sent to Claude on every sc
 | State file | `data/seen_jobs.json` — 7-day TTL, auto-pruned each run |
 | Actions minutes | **Free** on public repos (unlimited) |
 | Greenhouse API | Public, no auth, no rate limits |
-| Claude API | ~$0.0003/job · $3 ≈ 4,000 jobs scored |
+| Gemini API | free tier, if within quota: 15 RPM / 250k TPM / 1,000 RPD for Flash-Lite |
 | Commit frequency | Only when new/updated jobs are found |
 
 ---
@@ -175,7 +175,7 @@ greenhouse-job-tracker/
 ├── poller.py                         # main orchestrator
 ├── filters.py                        # USA location + software title filtering
 ├── state.py                          # state CRUD, TTL pruning, alerted flag
-├── scorer.py                         # Claude Haiku resume match scorer (returns int)
+├── scorer.py                         # Gemini 2.5 Flash-Lite resume match scorer (returns int)
 ├── notifier.py                       # Slack webhook alerter
 ├── requirements.txt
 └── README.md
