@@ -534,8 +534,7 @@
     "alerted": true
   },
   "7370585": {
-    "first_seen": "2026-04-12T21:49:54.480933+00:00",
-    "updated_at": "2026-02-06T10:04:45-05:00",
+    "updated_at": "2026-04-21T06:11:41-04:00",
     "title": "Infrastructure Deployment Engineer",
     "company": "cloudflare",
     "alerted": true
@@ -20707,8 +20706,7 @@
     "alerted": true
   },
   "7703497003": {
-    "first_seen": "2026-04-16T21:27:56.613698+00:00",
-    "updated_at": "2026-04-16T18:29:11-04:00",
+    "updated_at": "2026-04-21T05:09:35-04:00",
     "title": "Customer Support Engineer II",
     "company": "fivetran",
     "alerted": true
@@ -35734,7 +35732,7 @@
     "alerted": false
   },
   "8515642002": {
-    "updated_at": "2026-04-21T04:55:54-04:00",
+    "updated_at": "2026-04-21T06:13:14-04:00",
     "title": "Manager, AI Forward Deployed Engineering (FDE)",
     "company": "databricks",
     "alerted": false
