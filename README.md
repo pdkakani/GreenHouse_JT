@@ -1,6 +1,6 @@
-# 🌿 Greenhouse Job Tracker
+# 🌿 ATS Job Tracker
 
-Auto-polls Greenhouse job boards every 15 minutes, filters for **USA/Remote** + **Software & IT** roles, scores each new job against your resume using **Gemini 2.5 Flash-Lite**, and sends Slack alerts for strong matches.
+Auto-polls confirmed public job boards from **Greenhouse, Lever, and Ashby** every 15 minutes, filters for **USA/Remote** + **Software & IT** roles, scores the newest jobs against your resume using **Gemini 2.5 Flash-Lite**, and sends Slack alerts for strong matches.
 
 Zero infrastructure. No database. Just GitHub Actions + a JSON file.
 
@@ -12,10 +12,10 @@ Zero infrastructure. No database. Just GitHub Actions + a JSON file.
 Every 15 min (GitHub Actions cron)
     │
     ▼
-Read companies.txt          ← 200+ curated Greenhouse board slugs
+Read companies/greenhouse.txt, companies/lever.txt, companies/ashby.txt
     │
     ▼
-Fetch /v1/boards/{board}/jobs?content=true for each company
+Fetch each ATS API for the enabled company slug
     │
     ▼
 Filter 1: Already seen & unchanged?  → SKIP (deduplication via seen_jobs.json)
@@ -24,13 +24,19 @@ Filter 3: USA/Remote location?       → SKIP if non-US
 Filter 4: Software/IT title?         → SKIP if unrelated
     │
     ▼
-NEW jobs → Score against resume via GPT-5 mini (JSON score 0–100)
+NEW jobs → Keep only the newest 3 per ATS for scoring
+    │
+    ▼
+Scored jobs → Gemini 2.5 Flash-Lite (JSON score 0–100)
     │
     ├── Score ≥ 65% → Send Slack alert with score + Apply button
     └── Score < 65% → Log only, no alert
     │
     ▼
-Write new/updated jobs to output/jobs.md (newest first)
+Remaining new jobs → Mark seen only, skip scoring
+    │
+    ▼
+Write ATS-categorized run output and update state
 Update data/seen_jobs.json (7-day rolling TTL)
     │
     ▼
@@ -56,20 +62,19 @@ Repo → **Settings → Secrets and variables → Actions → New repository sec
 | `SLACK_WEBHOOK_URL` | Your Slack incoming webhook URL from [api.slack.com/apps](https://api.slack.com/apps) |
 
 ### 4. That's it. Push and wait.
-The workflow fires automatically every 15 minutes. Trigger manually anytime via **Actions → Greenhouse Job Poller → Run workflow**.
+The workflow fires automatically every 15 minutes. Trigger manually anytime via **Actions → ATS Job Poller → Run workflow**.
 
 ---
 
 ## Slack Alerts
 
-When a new job scores **≥ 65%** match against your resume, you get a Slack message:
+When a new job scores **≥ 65%** match against your resume, you get a Slack message with the ATS name front and center:
 
 ```
 🎯 78% Match — Senior Backend Engineer
-Company: Stripe · Engineering
-Location: Remote, USA    Score: ████████░░ 78/100
+Greenhouse · Stripe · Engineering · Remote, USA    Score: ████████░░ 78/100
 [🔗 Apply Now]
-Job ID: 4829301 · Updated: 2026-04-05T14:28:00Z
+Greenhouse · Job ID: 4829301 · Updated: 2026-04-05T14:28:00Z
 ```
 
 Score icons:
@@ -84,7 +89,8 @@ Score icons:
 
 Each **new** job is scored once against `resume.txt` using **Gemini 2.5 Flash-Lite**. The score is a single integer 0–100 reflecting how well your background matches the role.
 
-- Updated jobs (existing jobs with a changed `updated_at`) are **never re-scored** — only logged in `jobs.md`
+- To protect the GitHub Actions 10-minute limit, only the **newest 3 jobs per ATS** are scored on each run. The rest are recorded as seen and skipped.
+- Updated jobs (existing jobs with a changed `updated_at`) are **never re-scored** — only logged in `output/jobs.md`
 - Once a job is scored it is permanently marked as `alerted: true` in state — it will never be scored or alerted again even if the posting is later modified
 - Estimated cost: **free tier** if you stay within Gemini quotas; the current free tier for Flash-Lite is **15 RPM, 250,000 TPM, 1,000 RPD**
 
@@ -97,19 +103,25 @@ SCORE_THRESHOLD = 65  # raise to reduce alerts, lower to catch more
 
 ## Output
 
-`output/jobs.md` is updated in-place, newest runs at the top:
+`output/jobs.md` is updated in-place, newest runs at the top. Entries are grouped by ATS:
 
 ```markdown
 ## 📅 Run: 2026-04-05 14:32 UTC
 
-### 🆕 Senior Backend Engineer
+### Greenhouse
+#### 🆕 Senior Backend Engineer
 **Stripe** · Engineering · 🎯 78%
 📍 Remote, USA | 🔗 [Apply Here](https://boards.greenhouse.io/...)
 🕐 Updated: 2026-04-05T14:28:00Z | ID: 4829301
 
----
+### Lever
+#### 🆕 Staff Platform Engineer
+**Kraken** · Platform · ✅ 67%
+📍 Remote, USA | 🔗 [Apply Here](https://jobs.lever.co/...)
+🕐 Updated: 2026-04-05T14:30:00Z | ID: abc123
 
-### 🔄 Staff Infrastructure Engineer
+### Ashby
+#### 🔄 Staff Infrastructure Engineer
 **Coinbase** · Infrastructure
 📍 San Francisco, CA | 🔗 [Apply Here](...)
 🕐 Updated: 2026-04-05T13:55:00Z | ID: 3912847
@@ -123,16 +135,16 @@ Icons:
 
 ## Customizing companies
 
-Edit `companies.txt` — one Greenhouse board token per line, `#` lines are comments:
+Edit the ATS-specific files under `companies/`:
 
-```
-# Example
-stripe
-coinbase
-yourcompany
-```
+* `companies/greenhouse.txt` — Greenhouse board tokens
+* `companies/lever.txt` — Lever account slugs
+* `companies/ashby.txt` — Ashby job board names
 
-`companies.txt` comes pre-seeded with **200+ curated companies** across:
+Each file uses one confirmed slug per line. `#` lines are comments.
+`companies/lever.txt` and `companies/ashby.txt` ship with a small confirmed starter set you can trim or expand.
+
+`companies/greenhouse.txt` comes pre-seeded with **200+ curated companies** across:
 - Fintech & payments (Stripe, Marqeta, Brex, Mercury, Ramp...)
 - Banking-as-a-service (Unit, Lithic, Synctera, Column...)
 - Crypto (Coinbase, Anchorage, Bitgo, Fireblocks, Gemini...)
@@ -141,13 +153,13 @@ yourcompany
 - AI/ML (Anthropic, Cohere, Scale, Anyscale...)
 - SaaS (Notion, Figma, Linear, Retool, HubSpot...)
 
-Companies that return 404 are silently skipped — they either don't use Greenhouse or use a different slug. Find a company's slug by checking `boards.greenhouse.io/{slug}` in your browser.
+Companies that return 404 are silently skipped. Use only confirmed public slugs for Lever and Ashby so the poller stays on valid board pages.
 
 ---
 
 ## Resume
 
-Your resume lives in `resume.txt` (plain text). It is sent to Claude on every scoring call. To update it just edit the file and push — no other changes needed.
+Your resume lives in `resume.txt` (plain text). It is sent to Gemini on every scoring call. To update it just edit the file and push — no other changes needed.
 
 ---
 
@@ -158,6 +170,8 @@ Your resume lives in `resume.txt` (plain text). It is sent to Claude on every sc
 | State file | `data/seen_jobs.json` — 7-day TTL, auto-pruned each run |
 | Actions minutes | **Free** on public repos (unlimited) |
 | Greenhouse API | Public, no auth, no rate limits |
+| Lever API | Public postings API for confirmed slugs |
+| Ashby API | Public job-board API for confirmed board names |
 | Gemini API | free tier, if within quota: 15 RPM / 250k TPM / 1,000 RPD for Flash-Lite |
 | Commit frequency | Only when new/updated jobs are found |
 
@@ -168,9 +182,13 @@ Your resume lives in `resume.txt` (plain text). It is sent to Claude on every sc
 ```
 greenhouse-job-tracker/
 ├── .github/workflows/poll_jobs.yml   # cron scheduler + runner
+├── ats_sources.py                   # ATS configuration, fetch, and normalization
+├── output_writer.py                 # ATS-grouped Markdown run log writer
 ├── data/seen_jobs.json               # dedup state with 7-day TTL + alerted flags
 ├── output/jobs.md                    # your job feed (newest first)
-├── companies.txt                     # 200+ Greenhouse board slugs
+├── companies/greenhouse.txt         # Greenhouse board slugs
+├── companies/lever.txt               # Lever account slugs
+├── companies/ashby.txt               # Ashby job board names
 ├── resume.txt                        # your resume in plain text (used for scoring)
 ├── poller.py                         # main orchestrator
 ├── filters.py                        # USA location + software title filtering
@@ -185,4 +203,4 @@ greenhouse-job-tracker/
 
 ## Adding more companies
 
-Google `site:boards.greenhouse.io <company name>` or check a company's careers page URL. If it's `boards.greenhouse.io/acme`, the token is `acme`. Add it to `companies.txt` and push.
+Greenhouse: `boards.greenhouse.io/<slug>`, Lever: `api.lever.co/v0/postings/<slug>`, Ashby: `jobs.ashbyhq.com/<board-name>`. Add confirmed slugs to the matching file under `companies/` and push.

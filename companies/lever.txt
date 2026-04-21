@@ -1,0 +1,10 @@
+# Lever account slugs only
+# Add confirmed public Lever slugs here, one per line.
+kraken
+bitwiseinvestments
+cartodb
+welocalize
+finch
+teamsnap
+leantaas
+windfalldata

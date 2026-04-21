@@ -1,4 +1,4 @@
-name: Greenhouse Job Poller
+name: ATS Job Poller
 
 on:
   schedule:
@@ -53,6 +53,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          ENABLED_ATS: greenhouse,lever,ashby
         run: python poller.py
 
       # -----------------------------------------------------------------------

@@ -1,7 +1,7 @@
 """
 state.py — Job state management.
 
-state.json  : tracks seen jobs (id → {updated_at, title, company, alerted})
+state.json  : tracks seen jobs (ats:slug:id → {updated_at, title, company, ats, source_slug, alerted})
 pending_queue.json : jobs waiting to be scored (separate file to keep state lean)
 """
 
@@ -20,7 +20,10 @@ QUEUE_MAX_AGE_DAYS = 2  # drop unscored jobs older than this
 def load_state() -> dict:
     if STATE_FILE.exists():
         try:
-            return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+            raw = json.loads(STATE_FILE.read_text(encoding="utf-8"))
+            if isinstance(raw, dict):
+                return _normalize_state(raw)
+            return {}
         except (json.JSONDecodeError, OSError):
             return {}
     return {}
@@ -30,27 +33,46 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
 
 
-def is_seen(state: dict, job_id: str) -> bool:
-    return job_id in state
+def resolve_state_key(job_or_key, ats: str = "", source_slug: str = "") -> str:
+    if isinstance(job_or_key, dict):
+        job_id = str(job_or_key.get("id", ""))
+        ats = str(job_or_key.get("_ats") or ats or "").strip()
+        source_slug = str(job_or_key.get("_source_slug") or source_slug or job_or_key.get("company", "")).strip()
+    else:
+        job_id = str(job_or_key)
+        ats = str(ats or "").strip()
+        source_slug = str(source_slug or "").strip()
+
+    if ats and source_slug:
+        return f"{ats}:{source_slug}:{job_id}"
+    return job_id
 
 
-def get_updated_at(state: dict, job_id: str) -> str:
-    return state.get(job_id, {}).get("updated_at", "")
+def is_seen(state: dict, job_or_key, ats: str = "", source_slug: str = "") -> bool:
+    return resolve_state_key(job_or_key, ats=ats, source_slug=source_slug) in state
+
+
+def get_updated_at(state: dict, job_or_key, ats: str = "", source_slug: str = "") -> str:
+    return state.get(resolve_state_key(job_or_key, ats=ats, source_slug=source_slug), {}).get("updated_at", "")
 
 
 def record_job(state: dict, job: dict) -> None:
     job_id = str(job["id"])
-    state[job_id] = {
+    key = resolve_state_key(job)
+    state[key] = {
         "updated_at": job.get("updated_at", ""),
         "title": job.get("title", ""),
         "company": job.get("company", ""),
-        "alerted": state.get(job_id, {}).get("alerted", False),
+        "ats": job.get("_ats", "greenhouse"),
+        "source_slug": job.get("_source_slug", job.get("company", "")),
+        "alerted": state.get(key, state.get(job_id, {})).get("alerted", False),
     }
 
 
-def mark_alerted(state: dict, job_id: str) -> None:
-    if job_id in state:
-        state[job_id]["alerted"] = True
+def mark_alerted(state: dict, job_or_key, ats: str = "", source_slug: str = "") -> None:
+    key = resolve_state_key(job_or_key, ats=ats, source_slug=source_slug)
+    if key in state:
+        state[key]["alerted"] = True
 
 
 # ── pending_queue.json helpers ────────────────────────────────────────────────
@@ -128,5 +150,43 @@ def purge_alerted_from_queue(queue: list[dict], state: dict) -> int:
     Returns count of entries removed.
     """
     before = len(queue)
-    queue[:] = [j for j in queue if not state.get(str(j["id"]), {}).get("alerted", False)]
+    queue[:] = [
+        j for j in queue
+        if not state.get(
+            resolve_state_key(j.get("id", ""), ats=j.get("_ats", ""), source_slug=j.get("_source_slug", "")),
+            {},
+        ).get("alerted", False)
+    ]
     return before - len(queue)
+
+
+def _normalize_state(raw: dict) -> dict:
+    """
+    Migrate legacy greenhouse-only keys to ATS-aware keys.
+
+    Older records were keyed only by job id. We preserve them by promoting
+    them to greenhouse:{company}:{job_id} where possible.
+    """
+    normalized = {}
+    for key, value in raw.items():
+        if not isinstance(value, dict):
+            continue
+
+        record = {
+            "updated_at": value.get("updated_at", ""),
+            "title": value.get("title", ""),
+            "company": value.get("company", ""),
+            "ats": value.get("ats", "greenhouse"),
+            "source_slug": value.get("source_slug", value.get("company", "")),
+            "alerted": value.get("alerted", False),
+        }
+
+        if ":" in str(key):
+            normalized[str(key)] = record
+            continue
+
+        source_slug = record["source_slug"] or "legacy"
+        new_key = resolve_state_key(str(key), ats=record["ats"], source_slug=source_slug)
+        normalized[new_key] = record
+
+    return normalized

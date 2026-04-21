@@ -10,6 +10,8 @@ import os
 import json
 import requests
 
+from ats_sources import ATS_ORDER, ats_label
+
 SLACK_TIMEOUT = 10
 
 
@@ -53,11 +55,30 @@ def _format_digest_job(job: dict) -> str:
     return f"• *{title}*\n  {meta_line}{apply_link}"
 
 
+def _group_jobs_by_ats(new_jobs: list[dict]) -> dict[str, list[dict]]:
+    grouped: dict[str, list[dict]] = {}
+    for job in new_jobs:
+        ats = job.get("_ats", "greenhouse")
+        grouped.setdefault(ats, []).append(job)
+    return grouped
+
+
 def _format_digest_summary(stats: dict) -> str:
     """Keep the run summary compact so it reads like a footer, not a second post."""
-    return (
+    parts = []
+    by_ats = stats.get("by_ats", {})
+    for ats in ATS_ORDER:
+        bucket = by_ats.get(ats)
+        if not bucket:
+            continue
+        parts.append(
+            f"{ats_label(ats)}: {bucket.get('jobs_new', 0)} new, "
+            f"{bucket.get('jobs_fetched', 0)} fetched"
+        )
+
+    overall = (
         f"Run summary: {stats.get('companies_checked', 0)}/"
-        f"{stats.get('companies_checked', 0) + stats.get('companies_failed', 0)} companies, "
+        f"{stats.get('companies_checked', 0) + stats.get('companies_failed', 0)} sources, "
         f"{stats.get('jobs_fetched', 0)} fetched, "
         f"{stats.get('jobs_new', 0)} new, "
         f"{stats.get('jobs_updated', 0)} updated, "
@@ -65,6 +86,9 @@ def _format_digest_summary(stats: dict) -> str:
         f"{stats.get('jobs_skipped_title', 0)} title filtered, "
         f"{stats.get('elapsed', 0)}s"
     )
+    if parts:
+        return overall + " | " + " · ".join(parts)
+    return overall
 
 
 def _format_alert_text(job: dict, score: int) -> str:
@@ -74,11 +98,12 @@ def _format_alert_text(job: dict, score: int) -> str:
     location = job.get("_location", "Remote / Unspecified")
     department = job.get("_department", "")
     updated_at = job.get("updated_at", "")
+    ats = ats_label(job.get("_ats", "greenhouse"))
 
     dept_text = f" · {department}" if department else ""
     return (
         f"{_score_emoji(score)} {score}% Match — {title}\n"
-        f"{company}{dept_text} · {location}\n"
+        f"{ats} · {company}{dept_text} · {location}\n"
         f"Updated: {updated_at}"
     )
 
@@ -88,9 +113,10 @@ def _format_alert_meta(job: dict, score: int) -> str:
     company = job.get("company", "Unknown Company")
     location = job.get("_location", "Remote / Unspecified")
     department = job.get("_department", "")
+    ats = ats_label(job.get("_ats", "greenhouse"))
     dept_text = f" · {department}" if department else ""
     bar = _score_bar(score)
-    return f"*{company}{dept_text}* · {location} · `{bar}` {score}/100"
+    return f"*{ats}* · *{company}{dept_text}* · {location} · `{bar}` {score}/100"
 
 
 def send_slack_alert(job: dict, score: int) -> bool:
@@ -104,6 +130,7 @@ def send_slack_alert(job: dict, score: int) -> bool:
     url = job.get("_url", "")
     job_id = job.get("id", "")
     updated_at = job.get("updated_at", "")
+    ats = ats_label(job.get("_ats", "greenhouse"))
 
     emoji = _score_emoji(score)
 
@@ -134,7 +161,10 @@ def send_slack_alert(job: dict, score: int) -> bool:
         {
             "type": "context",
             "elements": [
-                {"type": "mrkdwn", "text": f"Job ID: `{job_id}` · Updated: `{updated_at}`"}
+                {
+                    "type": "mrkdwn",
+                    "text": f"{ats} · Job ID: `{job_id}` · Updated: `{updated_at}`",
+                }
             ],
         },
         {"type": "divider"},
@@ -153,7 +183,7 @@ def send_slack_alert(job: dict, score: int) -> bool:
             timeout=SLACK_TIMEOUT,
         )
         if resp.status_code == 200:
-            print(f"  [slack] ✅ Alert sent: {title} ({score}%)")
+            print(f"  [slack] ✅ {ats} alert sent: {title} ({score}%)")
             return True
         else:
             print(f"  [slack] ❌ Failed ({resp.status_code}): {resp.text[:100]}")
@@ -189,19 +219,27 @@ def send_new_jobs_digest(new_jobs: list[dict], stats: dict) -> bool:
     shown = sorted_jobs[:MAX_IN_DIGEST]
     overflow = total - len(shown)
 
-    lines = [_format_digest_job(job) for job in shown]
+    grouped = _group_jobs_by_ats(shown)
+    sections = []
+    for ats in ATS_ORDER:
+        jobs = grouped.get(ats, [])
+        if not jobs:
+            continue
+        section_lines = [f"*{ats_label(ats)} ({len(jobs)})*"]
+        section_lines.extend(_format_digest_job(job) for job in jobs)
+        sections.append("\n".join(section_lines))
 
     if overflow > 0:
-        lines.append(f"\n_…and {overflow} more recorded in seen_jobs.json_")
+        sections.append(f"_…and {overflow} more recorded in seen_jobs.json_")
 
     header = f"*{total} New Job{'s' if total != 1 else ''} Found* — {timestamp}"
-    text = header + "\n\n" + "\n\n".join(lines) + "\n\n" + _format_digest_summary(stats)
+    text = header + "\n\n" + "\n\n".join(sections) + "\n\n" + _format_digest_summary(stats)
 
     payload = {
         "text": text,
         "blocks": [
             {"type": "header", "text": {"type": "plain_text", "text": f"{total} New Job{'s' if total != 1 else ''} Found", "emoji": True}},
-            {"type": "section", "text": {"type": "mrkdwn", "text": "\n\n".join(lines)}},
+            {"type": "section", "text": {"type": "mrkdwn", "text": "\n\n".join(sections)}},
             {"type": "context", "elements": [{"type": "mrkdwn", "text": _format_digest_summary(stats)}]},
         ],
     }

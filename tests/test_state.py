@@ -1,3 +1,4 @@
+import json
 import tempfile
 import unittest
 from datetime import datetime, timedelta, timezone
@@ -9,9 +10,33 @@ import state
 
 class StateTests(unittest.TestCase):
     def test_record_job_preserves_alerted_flag(self):
-        data = {"123": {"alerted": True}}
-        state.record_job(data, {"id": "123", "updated_at": "2026-04-20T00:00:00Z", "title": "Eng", "company": "Acme"})
-        self.assertTrue(data["123"]["alerted"])
+        data = {"greenhouse:acme:123": {"alerted": True}}
+        state.record_job(
+            data,
+            {
+                "id": "123",
+                "updated_at": "2026-04-20T00:00:00Z",
+                "title": "Eng",
+                "company": "Acme",
+                "_ats": "greenhouse",
+                "_source_slug": "acme",
+            },
+        )
+        self.assertTrue(data["greenhouse:acme:123"]["alerted"])
+
+    def test_load_state_migrates_legacy_greenhouse_keys(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            state_file = tmp_path / "seen_jobs.json"
+            legacy = {"123": {"updated_at": "x", "title": "y", "company": "acme", "alerted": True}}
+            state_file.write_text(json.dumps(legacy), encoding="utf-8")
+
+            with patch.object(state, "STATE_FILE", state_file):
+                loaded = state.load_state()
+
+        self.assertIn("greenhouse:acme:123", loaded)
+        self.assertTrue(loaded["greenhouse:acme:123"]["alerted"])
+        self.assertEqual(loaded["greenhouse:acme:123"]["ats"], "greenhouse")
 
     def test_enqueue_jobs_deduplicates(self):
         queue = [{"id": "1"}]
@@ -36,7 +61,7 @@ class StateTests(unittest.TestCase):
             tmp_path = Path(tmpdir)
             state_file = tmp_path / "seen_jobs.json"
             with patch.object(state, "STATE_FILE", state_file):
-                payload = {"1": {"updated_at": "x", "title": "y", "company": "z", "alerted": False}}
+                payload = {"greenhouse:z:1": {"updated_at": "x", "title": "y", "company": "z", "ats": "greenhouse", "source_slug": "z", "alerted": False}}
                 state.save_state(payload)
                 loaded = state.load_state()
 

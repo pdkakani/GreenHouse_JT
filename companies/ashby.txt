@@ -1,0 +1,3 @@
+# Ashby job board names only
+# Add confirmed public Ashby board names here, one per line.
+Ashby
