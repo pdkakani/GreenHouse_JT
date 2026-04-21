@@ -1960,7 +1960,7 @@
     "alerted": true
   },
   "greenhouse:hightouch:5134194004": {
-    "updated_at": "2026-03-23T23:11:05-04:00",
+    "updated_at": "2026-04-21T13:04:14-04:00",
     "title": "Enterprise Solutions Engineer, East",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -1968,7 +1968,7 @@
     "alerted": true
   },
   "greenhouse:hightouch:5530769004": {
-    "updated_at": "2026-03-23T22:32:40-04:00",
+    "updated_at": "2026-04-21T13:05:01-04:00",
     "title": "Enterprise Solutions Engineer, West",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -5704,7 +5704,7 @@
     "alerted": true
   },
   "greenhouse:okta:7013626": {
-    "updated_at": "2026-04-02T15:26:46-04:00",
+    "updated_at": "2026-04-21T13:03:21-04:00",
     "title": "Sales Development Representative, Central",
     "company": "okta",
     "ats": "greenhouse",
@@ -5960,8 +5960,8 @@
     "alerted": true
   },
   "greenhouse:okta:7743974": {
-    "updated_at": "2026-04-03T10:12:44-04:00",
-    "title": "Software Engineering Manager- Core (FED) ",
+    "updated_at": "2026-04-21T12:56:16-04:00",
+    "title": "Senior Software Engineering Manager- Core (FED)",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -6880,7 +6880,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8324132002": {
-    "updated_at": "2026-04-21T11:55:49-04:00",
+    "updated_at": "2026-04-21T12:58:23-04:00",
     "title": "Senior Backend Engineer, Gitlab Delivery - Runway",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -11040,7 +11040,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5104689008": {
-    "updated_at": "2026-04-15T17:37:45-04:00",
+    "updated_at": "2026-04-21T12:22:11-04:00",
     "title": "Product Designer, Claude Code",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -14200,7 +14200,7 @@
     "alerted": true
   },
   "greenhouse:hightouch:5535187004": {
-    "updated_at": "2026-04-15T15:05:10-04:00",
+    "updated_at": "2026-04-21T13:03:28-04:00",
     "title": "Mid-Market Solutions Engineer",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -14240,7 +14240,7 @@
     "alerted": true
   },
   "greenhouse:hightouch:5838911004": {
-    "updated_at": "2026-03-26T21:14:37-04:00",
+    "updated_at": "2026-04-21T13:05:37-04:00",
     "title": "Senior Enterprise Solutions Engineer, New York",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -16336,7 +16336,7 @@
     "alerted": true
   },
   "greenhouse:upstart:7555205": {
-    "updated_at": "2026-03-25T15:33:09-04:00",
+    "updated_at": "2026-04-21T12:50:32-04:00",
     "title": "Senior Engineering Manager, Offer Delivery",
     "company": "upstart",
     "ats": "greenhouse",
@@ -16728,8 +16728,8 @@
     "alerted": true
   },
   "greenhouse:lattice:8458025002": {
-    "updated_at": "2026-04-15T19:11:59-04:00",
-    "title": "Staff Software Engineer, AI   ",
+    "updated_at": "2026-04-21T12:45:51-04:00",
+    "title": "Staff Software Engineer, AI",
     "company": "lattice",
     "ats": "greenhouse",
     "source_slug": "lattice",
@@ -28392,7 +28392,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7739556": {
-    "updated_at": "2026-04-13T08:34:30-04:00",
+    "updated_at": "2026-04-21T13:02:25-04:00",
     "title": "Principal Engineer, Identity & Engagement",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -35376,8 +35376,8 @@
     "alerted": false
   },
   "greenhouse:verkada:4144772007": {
-    "updated_at": "2026-04-20T16:49:06-04:00",
-    "title": " Marketing (Sales) Development Representative ",
+    "updated_at": "2026-04-21T12:43:11-04:00",
+    "title": "Marketing (Sales) Development Representative",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -43776,8 +43776,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8515642002": {
-    "updated_at": "2026-04-21T06:13:14-04:00",
-    "title": "Manager, AI Forward Deployed Engineering (FDE)",
+    "updated_at": "2026-04-21T12:21:02-04:00",
+    "title": "Sr. Manager, AI Forward Deployed Engineering (FDE)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -43872,7 +43872,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266162": {
-    "updated_at": "2026-04-21T10:36:40-04:00",
+    "updated_at": "2026-04-21T12:29:25-04:00",
     "title": "Senior Staff Software Engineer - STCE",
     "company": "samsara",
     "ats": "greenhouse",
@@ -44040,7 +44040,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:6333181": {
-    "updated_at": "2026-04-21T11:52:44-04:00",
+    "updated_at": "2026-04-21T13:00:27-04:00",
     "title": "Senior Infrastructure Software Engineer",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -44104,7 +44104,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7705026003": {
-    "updated_at": "2026-04-21T11:50:09-04:00",
+    "updated_at": "2026-04-21T12:28:29-04:00",
     "title": "People Programs Strategy, Operations & Transformation - Contract",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -47568,7 +47568,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7367675": {
-    "updated_at": "2026-04-21T10:36:42-04:00",
+    "updated_at": "2026-04-21T12:29:41-04:00",
     "title": "Senior Staff Software Engineer - STCE",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48824,7 +48824,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8421611002": {
-    "updated_at": "2026-04-21T05:53:21-04:00",
+    "updated_at": "2026-04-21T13:01:05-04:00",
     "title": "Senior Business Analyst",
     "company": "databricks",
     "ats": "greenhouse",
@@ -49616,8 +49616,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5193986008": {
-    "updated_at": "2026-04-20T21:11:58-04:00",
-    "title": "Lead, Data Center Security Operations (North America)",
+    "updated_at": "2026-04-21T12:51:52-04:00",
+    "title": "Lead, Data Center Physical Security Operations (North America)",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -52256,7 +52256,7 @@
     "alerted": false
   },
   "greenhouse:squarespace:7829004": {
-    "updated_at": "2026-04-20T16:58:42-04:00",
+    "updated_at": "2026-04-21T12:17:49-04:00",
     "title": "Senior Staff Product Designer",
     "company": "squarespace",
     "ats": "greenhouse",
@@ -56912,7 +56912,7 @@
     "alerted": false
   },
   "greenhouse:asana:5677738": {
-    "updated_at": "2026-04-20T12:42:19-04:00",
+    "updated_at": "2026-04-21T12:37:14-04:00",
     "title": "Business Development Representative",
     "company": "asana",
     "ats": "greenhouse",
@@ -57048,8 +57048,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7575508": {
-    "updated_at": "2026-04-20T12:16:46-04:00",
-    "title": "Staff Software Engineer (Mobile)",
+    "updated_at": "2026-04-21T12:36:33-04:00",
+    "title": "Staff Software Engineer, Mobile",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -68112,7 +68112,7 @@
     "alerted": false
   },
   "greenhouse:workato:8499298002": {
-    "updated_at": "2026-04-16T14:02:48-04:00",
+    "updated_at": "2026-04-21T12:40:44-04:00",
     "title": "Intern, Product Management (Data Orchestration)",
     "company": "workato",
     "ats": "greenhouse",
@@ -70320,8 +70320,8 @@
     "alerted": false
   },
   "greenhouse:coursera:5917469004": {
-    "updated_at": "2026-04-15T18:40:06-04:00",
-    "title": "Equity Accountant",
+    "updated_at": "2026-04-21T13:07:57-04:00",
+    "title": "Equity Accountant, Stock Administration",
     "company": "coursera",
     "ats": "greenhouse",
     "source_slug": "coursera",
@@ -70488,7 +70488,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5159326008": {
-    "updated_at": "2026-04-15T17:06:06-04:00",
+    "updated_at": "2026-04-21T12:46:46-04:00",
     "title": "Senior Account Executive - Public Sector (SLED East)",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -81864,7 +81864,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7739559": {
-    "updated_at": "2026-04-13T08:34:30-04:00",
+    "updated_at": "2026-04-21T13:02:38-04:00",
     "title": "Principal Engineer, Identity & Engagement",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -85128,7 +85128,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7712043": {
-    "updated_at": "2026-04-10T13:48:50-04:00",
+    "updated_at": "2026-04-21T13:10:10-04:00",
     "title": "Information Security Sr. Analyst - Customer Trust",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -89128,7 +89128,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8374717002": {
-    "updated_at": "2026-04-09T16:51:24-04:00",
+    "updated_at": "2026-04-21T12:15:50-04:00",
     "title": "Retail & Consumer Goods EMEA Leader",
     "company": "databricks",
     "ats": "greenhouse",
@@ -89176,7 +89176,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8346291002": {
-    "updated_at": "2026-04-09T16:51:23-04:00",
+    "updated_at": "2026-04-21T12:59:10-04:00",
     "title": "Enterprise Account Executive, Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90168,7 +90168,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7876192002": {
-    "updated_at": "2026-04-09T16:51:12-04:00",
+    "updated_at": "2026-04-21T12:59:05-04:00",
     "title": "Director, Field Engineering",
     "company": "databricks",
     "ats": "greenhouse",
@@ -98408,7 +98408,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7615057": {
-    "updated_at": "2026-04-02T15:39:25-04:00",
+    "updated_at": "2026-04-21T12:32:07-04:00",
     "title": "Director, Product Management, Onchain Payments",
     "company": "ripple",
     "ats": "greenhouse",
@@ -112520,7 +112520,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7268369003": {
-    "updated_at": "2026-03-20T10:51:30-04:00",
+    "updated_at": "2026-04-21T12:17:20-04:00",
     "title": "Staff Product Designer, Home Loans",
     "company": "sofi",
     "ats": "greenhouse",
@@ -120742,5 +120742,133 @@
     "ats": "ashby",
     "source_slug": "Ashby",
     "alerted": false
+  },
+  "greenhouse:anthropic:5194829008": {
+    "updated_at": "2026-04-21T12:56:55-04:00",
+    "title": "Finance & Strategy, Datacenter Finance",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:lattice:8516967002": {
+    "updated_at": "2026-04-21T12:54:49-04:00",
+    "title": "Senior Software Engineer, AI",
+    "company": "lattice",
+    "ats": "greenhouse",
+    "source_slug": "lattice",
+    "alerted": false
+  },
+  "greenhouse:rubrik:7746491": {
+    "updated_at": "2026-04-21T12:54:39-04:00",
+    "title": "Regional Director, SaaS - West/Central",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:lattice:8516953002": {
+    "updated_at": "2026-04-21T12:54:32-04:00",
+    "title": "Staff Software Engineer, AI",
+    "company": "lattice",
+    "ats": "greenhouse",
+    "source_slug": "lattice",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8480189002": {
+    "updated_at": "2026-04-21T12:52:51-04:00",
+    "title": "Major Account Executive - Texas",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5194894008": {
+    "updated_at": "2026-04-21T12:51:15-04:00",
+    "title": "Finance & Strategy, GTM Public Sector",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:fetch:4227564009": {
+    "updated_at": "2026-04-21T12:50:01-04:00",
+    "title": "Pet Insurance Sales Associate - Albuquerque, NM",
+    "company": "fetch",
+    "ats": "greenhouse",
+    "source_slug": "fetch",
+    "alerted": false
+  },
+  "greenhouse:spacex:8514790002": {
+    "updated_at": "2026-04-21T12:48:47-04:00",
+    "title": "Transport Technician",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7334938": {
+    "updated_at": "2026-04-21T12:48:36-04:00",
+    "title": "Account Development Representative, Hebrew Speaking",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:spacex:8516852002": {
+    "updated_at": "2026-04-21T12:45:55-04:00",
+    "title": "Orbital Tube Welder (Fluid Systems)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:robinhood:7728963": {
+    "updated_at": "2026-04-21T12:44:20-04:00",
+    "title": "Fraud Investigations Lead",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5073998008": {
+    "updated_at": "2026-04-21T12:42:37-04:00",
+    "title": "Staff Software Engineer, Continuous Integration",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:lyft:8503986002": {
+    "updated_at": "2026-04-21T12:42:32-04:00",
+    "title": "Data Scientist, Algorithms - Driver Incentives",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:okta:7833853": {
+    "updated_at": "2026-04-21T12:19:58-04:00",
+    "title": "Associate Solutions Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:asana:7778682": {
+    "updated_at": "2026-04-21T12:06:14-04:00",
+    "title": "Global Experience Manager",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:7678938": {
+    "updated_at": "2026-04-21T13:04:49-04:00",
+    "title": "Sales System Engineer",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": true
   }
 }
