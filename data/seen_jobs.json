@@ -3544,13 +3544,13 @@
     "alerted": true
   },
   "7646270": {
-    "updated_at": "2026-04-20T10:34:04-04:00",
+    "updated_at": "2026-04-21T10:26:35-04:00",
     "title": "Applications Engineer 2",
     "company": "twilio",
     "alerted": true
   },
   "7254399": {
-    "updated_at": "2026-04-20T10:37:29-04:00",
+    "updated_at": "2026-04-21T10:28:18-04:00",
     "title": "Business Systems Analyst 2",
     "company": "twilio",
     "alerted": true
@@ -3562,7 +3562,7 @@
     "alerted": true
   },
   "7657991": {
-    "updated_at": "2026-04-20T10:33:51-04:00",
+    "updated_at": "2026-04-21T10:26:15-04:00",
     "title": "Engineer, Identity & Access",
     "company": "twilio",
     "alerted": true
@@ -3609,7 +3609,7 @@
     "alerted": true
   },
   "7452089": {
-    "updated_at": "2026-04-20T10:35:41-04:00",
+    "updated_at": "2026-04-21T10:27:08-04:00",
     "title": "Principal Presales Engineer",
     "company": "twilio",
     "alerted": true
@@ -3649,13 +3649,13 @@
     "alerted": true
   },
   "7622278": {
-    "updated_at": "2026-04-20T10:31:44-04:00",
+    "updated_at": "2026-04-21T10:25:49-04:00",
     "title": "Senior Engineer, Offensive Security",
     "company": "twilio",
     "alerted": true
   },
   "7247707": {
-    "updated_at": "2026-04-20T10:37:41-04:00",
+    "updated_at": "2026-04-21T10:28:22-04:00",
     "title": "Senior Engineer, Security Automation",
     "company": "twilio",
     "alerted": true
@@ -3667,7 +3667,7 @@
     "alerted": true
   },
   "7657993": {
-    "updated_at": "2026-04-20T10:34:39-04:00",
+    "updated_at": "2026-04-21T10:26:49-04:00",
     "title": "Senior Network Engineer",
     "company": "twilio",
     "alerted": true
@@ -3693,7 +3693,7 @@
     "alerted": true
   },
   "7662058": {
-    "updated_at": "2026-04-20T10:33:25-04:00",
+    "updated_at": "2026-04-21T10:26:04-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "alerted": true
@@ -3718,14 +3718,13 @@
     "alerted": true
   },
   "7511486": {
-    "updated_at": "2026-04-20T10:35:54-04:00",
+    "updated_at": "2026-04-21T10:27:23-04:00",
     "title": "Senior Solutions Engineer 3",
     "company": "twilio",
     "alerted": true
   },
   "7360560": {
-    "first_seen": "2026-04-13T07:24:53.661896+00:00",
-    "updated_at": "2026-04-13T10:25:43-04:00",
+    "updated_at": "2026-04-21T10:47:55-04:00",
     "title": "Senior Technical Consultant - Zuora Billings",
     "company": "twilio",
     "alerted": true
@@ -3857,7 +3856,7 @@
     "alerted": true
   },
   "7349692": {
-    "updated_at": "2026-04-20T10:37:16-04:00",
+    "updated_at": "2026-04-21T10:27:58-04:00",
     "title": "Technical Support Engineer 2 (Email Infra)",
     "company": "twilio",
     "alerted": true
@@ -18658,7 +18657,7 @@
     "alerted": true
   },
   "7520997": {
-    "updated_at": "2026-04-20T10:35:47-04:00",
+    "updated_at": "2026-04-21T10:27:12-04:00",
     "title": "Staff Machine Learning Engineer (L4)",
     "company": "twilio",
     "alerted": true
@@ -18692,7 +18691,7 @@
     "alerted": true
   },
   "7807739": {
-    "updated_at": "2026-04-20T10:27:55-04:00",
+    "updated_at": "2026-04-21T10:24:40-04:00",
     "title": "Technical Administrator 2",
     "company": "twilio",
     "alerted": true
@@ -20227,7 +20226,7 @@
     "alerted": true
   },
   "7206764": {
-    "updated_at": "2026-04-20T10:37:41-04:00",
+    "updated_at": "2026-04-21T10:28:22-04:00",
     "title": "Senior Engineer, Security Automation",
     "company": "twilio",
     "alerted": true
@@ -20947,7 +20946,7 @@
     "alerted": true
   },
   "7781652": {
-    "updated_at": "2026-04-20T10:27:32-04:00",
+    "updated_at": "2026-04-21T10:24:25-04:00",
     "title": "Applications Engineer 2",
     "company": "twilio",
     "alerted": true
@@ -20974,8 +20973,7 @@
     "alerted": true
   },
   "4686049005": {
-    "first_seen": "2026-04-17T13:58:07.981268+00:00",
-    "updated_at": "2026-04-17T09:54:34-04:00",
+    "updated_at": "2026-04-21T10:52:20-04:00",
     "title": "Senior Platform Infrastructure Engineer ",
     "company": "spade",
     "alerted": true
@@ -25339,7 +25337,7 @@
     "alerted": false
   },
   "7628291": {
-    "updated_at": "2026-03-19T11:36:32-04:00",
+    "updated_at": "2026-04-21T10:53:01-04:00",
     "title": "Senior Staff Engineer, Cloud Economics",
     "company": "reddit",
     "alerted": false
@@ -28957,20 +28955,20 @@
     "alerted": false
   },
   "7187197": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
-    "title": "Sales Engineer - Mid-Market, CT/MT",
+    "updated_at": "2026-04-21T10:20:46-04:00",
+    "title": "Sales Engineer - Mid-Market Midwest",
     "company": "samsara",
     "alerted": false
   },
   "7187159": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
-    "title": "Sales Engineer - Mid-Market, ET",
+    "updated_at": "2026-04-21T10:21:43-04:00",
+    "title": "Sales Engineer - Mid-Market Northeast",
     "company": "samsara",
     "alerted": false
   },
   "7187219": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
-    "title": "Sales Engineer - Mid-Market, PT",
+    "updated_at": "2026-04-21T10:22:23-04:00",
+    "title": "Sales Engineer - Mid-Market West",
     "company": "samsara",
     "alerted": false
   },
@@ -30139,7 +30137,7 @@
     "alerted": false
   },
   "7735338": {
-    "updated_at": "2026-04-09T10:25:53-04:00",
+    "updated_at": "2026-04-21T09:46:34-04:00",
     "title": "Staff Software Engineer, Android",
     "company": "toast",
     "alerted": false
@@ -35293,7 +35291,7 @@
     "alerted": false
   },
   "7391788": {
-    "updated_at": "2026-04-20T13:33:35-04:00",
+    "updated_at": "2026-04-21T09:26:33-04:00",
     "title": "IT Support Technician Intern",
     "company": "datadog",
     "alerted": false
@@ -35539,7 +35537,7 @@
     "alerted": false
   },
   "7833450": {
-    "updated_at": "2026-04-20T15:40:33-04:00",
+    "updated_at": "2026-04-21T10:29:50-04:00",
     "title": "Associate Solutions Engineer",
     "company": "okta",
     "alerted": false
@@ -35737,7 +35735,7 @@
     "alerted": false
   },
   "7821316": {
-    "updated_at": "2026-04-21T06:46:54-04:00",
+    "updated_at": "2026-04-21T09:46:27-04:00",
     "title": "Site Reliability Engineer 3",
     "company": "mongodb",
     "alerted": false
@@ -35761,9 +35759,51 @@
     "alerted": false
   },
   "7836928": {
-    "updated_at": "2026-04-21T09:08:15-04:00",
+    "updated_at": "2026-04-21T09:17:16-04:00",
     "title": "Staff Security Engineer, Secure Digital Asset Operations",
     "company": "ripple",
+    "alerted": false
+  },
+  "7708059003": {
+    "updated_at": "2026-04-21T09:54:13-04:00",
+    "title": "Senior Product Manager, Platform Integrity",
+    "company": "klaviyo",
+    "alerted": false
+  },
+  "7709709003": {
+    "updated_at": "2026-04-21T09:56:34-04:00",
+    "title": "Senior Product Manager, Platform Integrity",
+    "company": "klaviyo",
+    "alerted": false
+  },
+  "7833599": {
+    "updated_at": "2026-04-21T09:40:20-04:00",
+    "title": "Senior Application Security Engineer",
+    "company": "gemini",
+    "alerted": false
+  },
+  "7837448": {
+    "updated_at": "2026-04-21T10:03:05-04:00",
+    "title": "Senior Software Engineer II, (ML/AI Platform)",
+    "company": "instacart",
+    "alerted": false
+  },
+  "4673538006": {
+    "updated_at": "2026-04-21T10:17:44-04:00",
+    "title": "Product Manager, Data Center",
+    "company": "coreweave",
+    "alerted": false
+  },
+  "6862405": {
+    "updated_at": "2026-04-21T09:58:05-04:00",
+    "title": "Software Engineering Manager",
+    "company": "purestorage",
+    "alerted": false
+  },
+  "7266162": {
+    "updated_at": "2026-04-21T10:36:40-04:00",
+    "title": "Senior Staff Software Engineer - STCE",
+    "company": "samsara",
     "alerted": false
   }
 }
