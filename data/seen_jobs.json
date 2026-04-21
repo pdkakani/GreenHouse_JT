@@ -15436,8 +15436,7 @@
     "alerted": true
   },
   "7453682003": {
-    "first_seen": "2026-04-13T09:18:08.923985+00:00",
-    "updated_at": "2026-03-20T10:51:30-04:00",
+    "updated_at": "2026-04-20T22:40:09-04:00",
     "title": "Staff Software Engineer, Data & AI",
     "company": "sofi",
     "alerted": true
@@ -15723,8 +15722,7 @@
     "alerted": true
   },
   "7644910": {
-    "first_seen": "2026-04-13T09:18:09.438500+00:00",
-    "updated_at": "2026-04-08T18:24:40-04:00",
+    "updated_at": "2026-04-20T22:42:01-04:00",
     "title": "Senior Product Manager, FoodStorm (Australia)",
     "company": "instacart",
     "alerted": true
@@ -21722,8 +21720,8 @@
     "alerted": false
   },
   "5844015004": {
-    "updated_at": "2026-04-20T12:14:54-04:00",
-    "title": "Global Operations Manager - AI Strategy",
+    "updated_at": "2026-04-21T00:05:15-04:00",
+    "title": "Senior Remote Operations Manager, AI Strategy",
     "company": "cribl",
     "alerted": false
   },
@@ -35723,6 +35721,12 @@
     "updated_at": "2026-04-20T19:23:32-04:00",
     "title": "Manufacturing Engineer, Components Test",
     "company": "spacex",
+    "alerted": false
+  },
+  "7061880": {
+    "updated_at": "2026-04-20T23:45:56-04:00",
+    "title": "Staff Machine Learning Engineer",
+    "company": "twilio",
     "alerted": false
   }
 }
