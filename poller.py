@@ -166,14 +166,20 @@ def _print_summary(stats: dict, total_sources: int, run_label: str, elapsed: flo
     print(f"  Score failures       : {stats['jobs_score_failed']}")
     print(f"  Alert failures       : {stats['jobs_alert_failed']}")
     print(f"  Elapsed              : {elapsed:.1f}s")
-    print("  By ATS:")
+    print("  By ATS (full buckets):")
     for ats, bucket in stats["by_ats"].items():
-        print(
-            f"    - {ats_label(ats)}: "
-            f"{bucket['jobs_fetched']} fetched, {bucket['jobs_new']} new, "
-            f"{bucket['jobs_skipped_score_cap']} cap-skipped, "
-            f"{bucket['jobs_alerted']} alerts, {bucket['jobs_score_failed']} score failures"
-        )
+        print(f"    - {ats_label(ats)}")
+        print(f"      fetched           : {bucket['jobs_fetched']}")
+        print(f"      seen (no change)  : {bucket['jobs_skipped_seen']}")
+        print(f"      updated           : {bucket['jobs_updated']}")
+        print(f"      skipped (loc)     : {bucket['jobs_skipped_location']}")
+        print(f"      skipped (title)   : {bucket['jobs_skipped_title']}")
+        print(f"      skipped (cap)     : {bucket['jobs_skipped_score_cap']}")
+        print(f"      new               : {bucket['jobs_new']}")
+        print(f"      scored            : {bucket['jobs_scored']}")
+        print(f"      alerts sent       : {bucket['jobs_alerted']}")
+        print(f"      score failures    : {bucket['jobs_score_failed']}")
+        print(f"      alert failures    : {bucket['jobs_alert_failed']}")
     print(f"{'='*60}\n")
 
 
