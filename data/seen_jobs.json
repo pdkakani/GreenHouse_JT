@@ -1806,8 +1806,7 @@
     "alerted": true
   },
   "8368003002": {
-    "first_seen": "2026-04-13T07:24:52.338849+00:00",
-    "updated_at": "2026-04-09T16:51:23-04:00",
+    "updated_at": "2026-04-21T04:41:14-04:00",
     "title": "Delivery Solutions Architect",
     "company": "databricks",
     "alerted": true
@@ -8404,8 +8403,7 @@
     "alerted": true
   },
   "7595047": {
-    "first_seen": "2026-04-13T07:25:04.759150+00:00",
-    "updated_at": "2026-04-13T00:17:33-04:00",
+    "updated_at": "2026-04-21T03:37:51-04:00",
     "title": "Senior Software Engineer, Backend ",
     "company": "coinbase",
     "alerted": true
@@ -24612,13 +24610,13 @@
     "alerted": false
   },
   "7539033003": {
-    "updated_at": "2026-03-17T18:53:24-04:00",
+    "updated_at": "2026-04-21T03:43:23-04:00",
     "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
     "company": "celonis",
     "alerted": false
   },
   "7545451003": {
-    "updated_at": "2026-03-17T18:53:24-04:00",
+    "updated_at": "2026-04-21T03:43:23-04:00",
     "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
     "company": "celonis",
     "alerted": false
@@ -35727,6 +35725,18 @@
     "updated_at": "2026-04-20T23:45:56-04:00",
     "title": "Staff Machine Learning Engineer",
     "company": "twilio",
+    "alerted": false
+  },
+  "8476399002": {
+    "updated_at": "2026-04-21T04:27:53-04:00",
+    "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
+    "company": "databricks",
+    "alerted": false
+  },
+  "8515642002": {
+    "updated_at": "2026-04-21T04:55:54-04:00",
+    "title": "Manager, AI Forward Deployed Engineering (FDE)",
+    "company": "databricks",
     "alerted": false
   }
 }
