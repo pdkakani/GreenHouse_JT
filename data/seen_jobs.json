@@ -1734,8 +1734,7 @@
     "alerted": true
   },
   "7587724003": {
-    "first_seen": "2026-04-12T21:49:59.877157+00:00",
-    "updated_at": "2026-03-06T04:13:06-05:00",
+    "updated_at": "2026-04-21T11:04:04-04:00",
     "title": "IT Procurement Associate",
     "company": "contentstack",
     "alerted": true
@@ -3724,7 +3723,7 @@
     "alerted": true
   },
   "7360560": {
-    "updated_at": "2026-04-21T10:47:55-04:00",
+    "updated_at": "2026-04-21T11:03:26-04:00",
     "title": "Senior Technical Consultant - Zuora Billings",
     "company": "twilio",
     "alerted": true
@@ -9623,8 +9622,7 @@
     "alerted": true
   },
   "5159669008": {
-    "first_seen": "2026-04-13T09:17:49.245196+00:00",
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-21T10:55:35-04:00",
     "title": "Prompt Engineer, Claude Code",
     "company": "anthropic",
     "alerted": true
@@ -20973,7 +20971,7 @@
     "alerted": true
   },
   "4686049005": {
-    "updated_at": "2026-04-21T10:52:20-04:00",
+    "updated_at": "2026-04-21T10:59:07-04:00",
     "title": "Senior Platform Infrastructure Engineer ",
     "company": "spade",
     "alerted": true
@@ -35805,5 +35803,17 @@
     "title": "Senior Staff Software Engineer - STCE",
     "company": "samsara",
     "alerted": false
+  },
+  "8516633002": {
+    "updated_at": "2026-04-21T11:09:20-04:00",
+    "title": "Sr. Manager, Integration Engineering (Starlink)",
+    "company": "spacex",
+    "alerted": true
+  },
+  "8516120002": {
+    "updated_at": "2026-04-21T11:15:52-04:00",
+    "title": "Sr. Power Electronics Engineer - Traveling Wave Tube Amplifier (Starlink)",
+    "company": "spacex",
+    "alerted": true
   }
 }
