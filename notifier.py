@@ -9,7 +9,6 @@ send_run_summary     : end-of-run stats summary
 import os
 import json
 import requests
-from typing import Union
 
 SLACK_TIMEOUT = 10
 
@@ -35,6 +34,65 @@ def _score_bar(score: int) -> str:
     return "█" * filled + "░" * (10 - filled)
 
 
+def _format_digest_job(job: dict) -> str:
+    """Render one job in a compact, readable two-line Slack format."""
+    title = job.get("title", "Unknown Title")
+    company = job.get("company", "Unknown Company")
+    location = job.get("_location", "")
+    url = job.get("_url", "")
+    score = job.get("_score")
+
+    meta_bits = [company]
+    if location:
+        meta_bits.append(location)
+    if score is not None:
+        meta_bits.append(f"{score}%")
+
+    meta_line = " · ".join(meta_bits)
+    apply_link = f" | <{url}|Apply>" if url else ""
+    return f"• *{title}*\n  {meta_line}{apply_link}"
+
+
+def _format_digest_summary(stats: dict) -> str:
+    """Keep the run summary compact so it reads like a footer, not a second post."""
+    return (
+        f"Run summary: {stats.get('companies_checked', 0)}/"
+        f"{stats.get('companies_checked', 0) + stats.get('companies_failed', 0)} companies, "
+        f"{stats.get('jobs_fetched', 0)} fetched, "
+        f"{stats.get('jobs_new', 0)} new, "
+        f"{stats.get('jobs_updated', 0)} updated, "
+        f"{stats.get('jobs_skipped_location', 0)} loc filtered, "
+        f"{stats.get('jobs_skipped_title', 0)} title filtered, "
+        f"{stats.get('elapsed', 0)}s"
+    )
+
+
+def _format_alert_text(job: dict, score: int) -> str:
+    """Build the compact plain-text fallback for the single-job alert."""
+    title = job.get("title", "Unknown Title")
+    company = job.get("company", "Unknown Company")
+    location = job.get("_location", "Remote / Unspecified")
+    department = job.get("_department", "")
+    updated_at = job.get("updated_at", "")
+
+    dept_text = f" · {department}" if department else ""
+    return (
+        f"{_score_emoji(score)} {score}% Match — {title}\n"
+        f"{company}{dept_text} · {location}\n"
+        f"Updated: {updated_at}"
+    )
+
+
+def _format_alert_meta(job: dict, score: int) -> str:
+    """Render the compact metadata line used in the Slack blocks."""
+    company = job.get("company", "Unknown Company")
+    location = job.get("_location", "Remote / Unspecified")
+    department = job.get("_department", "")
+    dept_text = f" · {department}" if department else ""
+    bar = _score_bar(score)
+    return f"*{company}{dept_text}* · {location} · `{bar}` {score}/100"
+
+
 def send_slack_alert(job: dict, score: int) -> bool:
     """Send a Slack alert for a single high-match job (score >= 65)."""
     webhook_url = _get_webhook_url()
@@ -43,16 +101,11 @@ def send_slack_alert(job: dict, score: int) -> bool:
         return False
 
     title = job.get("title", "Unknown Title")
-    company = job.get("company", "Unknown Company")
-    location = job.get("_location", "Remote / Unspecified")
     url = job.get("_url", "")
     job_id = job.get("id", "")
     updated_at = job.get("updated_at", "")
-    department = job.get("_department", "")
 
     emoji = _score_emoji(score)
-    bar = _score_bar(score)
-    dept_text = f" · {department}" if department else ""
 
     blocks = [
         {
@@ -65,11 +118,7 @@ def send_slack_alert(job: dict, score: int) -> bool:
         },
         {
             "type": "section",
-            "fields": [
-                {"type": "mrkdwn", "text": f"*Company*\n{company}{dept_text}"},
-                {"type": "mrkdwn", "text": f"*Location*\n{location}"},
-                {"type": "mrkdwn", "text": f"*Score*\n`{bar}` {score}/100"},
-            ],
+            "text": {"type": "mrkdwn", "text": _format_alert_meta(job, score)},
         },
         {
             "type": "actions",
@@ -92,7 +141,7 @@ def send_slack_alert(job: dict, score: int) -> bool:
     ]
 
     payload = {
-        "text": f"{emoji} {score}% Match: {title} @ {company}",
+        "text": _format_alert_text(job, score),
         "blocks": blocks,
     }
 
@@ -104,7 +153,7 @@ def send_slack_alert(job: dict, score: int) -> bool:
             timeout=SLACK_TIMEOUT,
         )
         if resp.status_code == 200:
-            print(f"  [slack] ✅ Alert sent: {title} @ {company} ({score}%)")
+            print(f"  [slack] ✅ Alert sent: {title} ({score}%)")
             return True
         else:
             print(f"  [slack] ❌ Failed ({resp.status_code}): {resp.text[:100]}")
@@ -118,7 +167,7 @@ def send_new_jobs_digest(new_jobs: list[dict], stats: dict) -> bool:
     """
     Send a single Slack message with:
       - top 20 newest jobs found this run (overflow count noted)
-      - run summary stats at the bottom
+      - a compact run summary footer
 
     All jobs are already persisted in seen_jobs.json before this is called,
     so the digest is purely informational — nothing is lost on overflow.
@@ -135,43 +184,26 @@ def send_new_jobs_digest(new_jobs: list[dict], stats: dict) -> bool:
     total = len(new_jobs)
     MAX_IN_DIGEST = 20
 
-    # Sort newest-first so overflow always drops the oldest, not the newest
+    # Sort newest-first so overflow always drops the oldest, not the newest.
     sorted_jobs = sorted(new_jobs, key=lambda j: j.get("updated_at", ""), reverse=True)
     shown = sorted_jobs[:MAX_IN_DIGEST]
     overflow = total - len(shown)
 
-    lines = []
-    for job in shown:
-        title = job.get("title", "Unknown Title")
-        company = job.get("company", "Unknown Company")
-        location = job.get("_location", "")
-        url = job.get("_url", "")
-        score = job.get("_score")
-        loc_part = f" · {location}" if location else ""
-        score_part = f" · {score}%" if score is not None else ""
-        lines.append(f"• 🆕 <{url}|{title}> @ {company}{loc_part}{score_part}")
+    lines = [_format_digest_job(job) for job in shown]
 
     if overflow > 0:
         lines.append(f"\n_…and {overflow} more recorded in seen_jobs.json_")
 
-    # ── Run summary line ──────────────────────────────────────────────────────
-    summary = (
-        f"📊 *Run Summary* — "
-        f"{stats.get('companies_checked', 0)}/{stats.get('companies_checked', 0) + stats.get('companies_failed', 0)} companies · "
-        f"{stats.get('jobs_fetched', 0)} fetched · "
-        f"{stats.get('jobs_new', 0)} new 🆕 · "
-        f"{stats.get('jobs_updated', 0)} updated 🔄 · "
-        f"{stats.get('jobs_skipped_location', 0)} loc filtered · "
-        f"{stats.get('jobs_skipped_title', 0)} title filtered · "
-        f"{stats.get('elapsed', 0)}s"
-    )
-
-    header = f"🆕 *{total} New Job{'s' if total != 1 else ''} Found* — {timestamp}"
-    text = header + "\n" + "\n".join(lines) + "\n\n" + summary
+    header = f"*{total} New Job{'s' if total != 1 else ''} Found* — {timestamp}"
+    text = header + "\n\n" + "\n\n".join(lines) + "\n\n" + _format_digest_summary(stats)
 
     payload = {
         "text": text,
-        "blocks": [{"type": "section", "text": {"type": "mrkdwn", "text": text}}],
+        "blocks": [
+            {"type": "header", "text": {"type": "plain_text", "text": f"{total} New Job{'s' if total != 1 else ''} Found", "emoji": True}},
+            {"type": "section", "text": {"type": "mrkdwn", "text": "\n\n".join(lines)}},
+            {"type": "context", "elements": [{"type": "mrkdwn", "text": _format_digest_summary(stats)}]},
+        ],
     }
 
     try:

@@ -76,6 +76,7 @@ JOB DESCRIPTION:
 
 
 def _build_request_payload(prompt: str) -> dict:
+    # Ask Gemini for machine-readable JSON so score parsing stays deterministic.
     return {
         "contents": [
             {
@@ -108,6 +109,8 @@ def _build_request_payload(prompt: str) -> dict:
 
 
 def _extract_output_text(data: dict) -> str:
+    # Gemini may return the model text in a couple of slightly different
+    # response shapes depending on SDK/version, so we normalize them here.
     text = data.get("output_text", "")
     if text:
         return text.strip()

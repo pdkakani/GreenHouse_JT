@@ -8,7 +8,6 @@ pending_queue.json : jobs waiting to be scored (separate file to keep state lean
 import json
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from typing import Optional
 
 STATE_FILE = Path("data/seen_jobs.json")
 QUEUE_FILE = Path("data/pending_queue.json")
@@ -47,10 +46,6 @@ def record_job(state: dict, job: dict) -> None:
         "company": job.get("company", ""),
         "alerted": state.get(job_id, {}).get("alerted", False),
     }
-
-
-def was_alerted(state: dict, job_id: str) -> bool:
-    return state.get(job_id, {}).get("alerted", False)
 
 
 def mark_alerted(state: dict, job_id: str) -> None:

@@ -14,18 +14,19 @@ import requests
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
+
 from filters import is_usa_location, is_software_role
 from state import load_state, save_state, is_seen, get_updated_at, record_job, mark_alerted
 from scorer import score_job, should_alert, sleep_between_scores
 from notifier import send_new_jobs_digest, send_slack_alert
 
 COMPANIES_FILE = Path("companies.txt")
-OUTPUT_FILE = Path("output/jobs.md")
 API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true"
 
 REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
+
 
 def load_companies() -> list[str]:
     if not COMPANIES_FILE.exists():
@@ -83,135 +84,100 @@ def extract_job_url(job: dict) -> str:
     return job.get("absolute_url", "")
 
 
-# def format_job_entry(job: dict, tag: str = "NEW") -> str:
-#     icon = "🆕" if tag == "NEW" else "🔄"
-#     title = job.get("title", "Unknown Title")
-#     company = job.get("company", "Unknown Company")
-#     location = job.get("_location", "")
-#     url = job.get("_url", "")
-#     job_id = job.get("id", "")
-#     updated_at = job.get("updated_at", "")
-#     department = job.get("_department", "")
-#     score = job.get("_score")
-#
-#     loc_display = f"📍 {location}" if location else "📍 Remote / Unspecified"
-#     dept_display = f" · {department}" if department else ""
-#     score_display = f" · 🎯 {score}%" if score is not None else ""
-#
-#     return (
-#         f"### {icon} {title}\n"
-#         f"**{company}**{dept_display}{score_display}\n"
-#         f"{loc_display} &nbsp;|&nbsp; 🔗 [Apply Here]({url})\n"
-#         f"🕐 Updated: `{updated_at}` &nbsp;|&nbsp; ID: `{job_id}`\n"
-#         f"\n---\n"
-#     )
-#
-#
-# def write_output(new_jobs: list[dict], updated_jobs: list[dict], run_label: str) -> None:
-#     """Write jobs to output file."""
-#     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-#
-#     header = f"\n## 📅 Run: {run_label}\n\n"
-#     entries = ""
-#     for job in new_jobs:
-#         entries += format_job_entry(job, tag="NEW")
-#     for job in updated_jobs:
-#         entries += format_job_entry(job, tag="UPDATED")
-#
-#     if not entries:
-#         return
-#
-#     existing = ""
-#     if OUTPUT_FILE.exists():
-#         existing = OUTPUT_FILE.read_text(encoding="utf-8")
-#
-#     page_header = (
-#         "# 🌿 Greenhouse Job Tracker\n"
-#         "_Filtered: USA/Remote · Software & IT roles only_\n\n"
-#     )
-#
-#     if existing.startswith("# 🌿"):
-#         existing = existing[existing.index("\n## "):] if "\n## " in existing else ""
-#
-#     OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
-#
-#
-# def patch_score_in_output(job_id: str, score: int) -> bool:
-#     """
-#     Find the job block by its ID anchor line in jobs.md and patch the score
-#     into the company/dept line.
-#
-#     Block structure (fixed by format_job_entry):
-#         ### 🆕 Title                           ← anchor - 3
-#         **Company** · Dept · 🎯 score%         ← anchor - 2  (patch here)
-#         📍 Location | 🔗 Apply Here            ← anchor - 1
-#         🕐 Updated: `...` | ID: `{job_id}`    ← anchor
-#
-#     Returns True if patched, False if job not found in file.
-#     """
-#     if not OUTPUT_FILE.exists():
-#         return False
-#
-#     content = OUTPUT_FILE.read_text(encoding="utf-8")
-#     anchor = f"ID: `{job_id}`"
-#
-#     if anchor not in content:
-#         return False
-#
-#     lines = content.splitlines(keepends=True)
-#     anchor_idx = None
-#     for i, line in enumerate(lines):
-#         if anchor in line:
-#             anchor_idx = i
-#             break
-#
-#     if anchor_idx is None:
-#         return False
-#
-#     company_line_idx = anchor_idx - 2
-#     if company_line_idx < 0:
-#         return False
-#
-#     old_line = lines[company_line_idx]
-#     # Remove any existing score display before re-adding
-#     old_line_stripped = re.sub(r" · 🎯 \d+%", "", old_line).rstrip("\n")
-#     lines[company_line_idx] = f"{old_line_stripped} · 🎯 {score}%\n"
-#
-#     OUTPUT_FILE.write_text("".join(lines), encoding="utf-8")
-#     return True
-#
-#
-# def commit_state() -> None:
-#     """
-#     Commit state + queue + output to git mid-run, before scoring starts.
-#     This ensures seen_jobs and pending_queue are persisted even if the
-#     workflow is cancelled during the (potentially long) scoring phase.
-#     Failures are non-fatal — we log and continue.
-#     """
-#     print("\n[git] Committing state before scoring...")
-#     try:
-#         subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
-#         subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
-#         subprocess.run(
-#             ["git", "add",
-#              "data/seen_jobs.json",
-#              "data/pending_queue.json",
-#              "output/jobs.md"],
-#             check=True
-#         )
-#         diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
-#         if diff.returncode == 0:
-#             print("[git] Nothing to commit — state unchanged.")
-#             return
-#         subprocess.run(
-#             ["git", "commit", "-m", "chore: state + queue (pre-score)"],
-#             check=True
-#         )
-#         subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
-#         subprocess.run(["git", "push"], check=True)
-#         print("[git] ✅ State committed successfully.")
-#     except subprocess.CalledProcessError as e:
-#         print(f"[git] ⚠️  Commit failed: {e} — continuing anyway.")
+def _handle_seen_job(state: dict, job: dict, board: str, stats: dict) -> bool:
+    """Update state for a previously seen job and return True if it should skip."""
+    job_id = str(job.get("id", ""))
+    updated_at = job.get("updated_at", "")
+
+    if not is_seen(state, job_id):
+        return False
+
+    prev_updated = get_updated_at(state, job_id)
+    if prev_updated != updated_at:
+        # The posting changed, so we keep the latest timestamp but never score it again.
+        record_job(state, {
+            "id": job_id,
+            "updated_at": updated_at,
+            "title": job.get("title", ""),
+            "company": job.get("company", board),
+        })
+        stats["jobs_updated"] += 1
+    else:
+        stats["jobs_skipped_seen"] += 1
+
+    return True
+
+
+def _score_and_record_job(
+    job: dict,
+    board: str,
+    state: dict,
+    stats: dict,
+    new_jobs: list[dict],
+    location: str,
+    department: str,
+) -> None:
+    """Score a passing job, persist state, and optionally alert on strong matches."""
+    title = job.get("title", "")
+    job_id = str(job.get("id", ""))
+    updated_at = job.get("updated_at", "")
+    company = job.get("company", board)
+
+    enriched = {
+        **job,
+        "company": company,
+        "_location": location,
+        "_department": department,
+        "_url": extract_job_url(job),
+    }
+    new_jobs.append(enriched)
+    stats["jobs_new"] += 1
+
+    # Score first so we can decide whether to alert before we mark the job alerted.
+    score = score_job(enriched)
+    if score is None:
+        stats["jobs_score_failed"] += 1
+        print(f"  [scorer] {title} @ {company} — score unavailable")
+        sleep_between_scores()
+        return
+
+    enriched["_score"] = score
+    stats["jobs_scored"] += 1
+
+    # Persist before Slack so a crash cannot cause the same posting to be scored twice.
+    record_job(state, {
+        "id": job_id,
+        "updated_at": updated_at,
+        "title": title,
+        "company": company,
+    })
+    mark_alerted(state, job_id)
+    save_state(state)
+
+    if should_alert(score):
+        if send_slack_alert(enriched, score):
+            stats["jobs_alerted"] += 1
+        else:
+            stats["jobs_alert_failed"] += 1
+
+    # Keep a small gap between Gemini calls so a burst of jobs stays under RPM.
+    sleep_between_scores()
+
+
+def _process_new_job(job: dict, board: str, state: dict, stats: dict, new_jobs: list[dict]) -> None:
+    """Apply location/title filters before scoring a brand-new job."""
+    location = extract_location(job)
+    if not is_usa_location(location):
+        stats["jobs_skipped_location"] += 1
+        return
+
+    title = job.get("title", "")
+    department = extract_department(job)
+    if not is_software_role(title, department):
+        stats["jobs_skipped_title"] += 1
+        return
+
+    _score_and_record_job(job, board, state, stats, new_jobs, location, department)
 
 
 def main():
@@ -263,79 +229,10 @@ def main():
         print(f"{len(raw_jobs)} jobs")
 
         for job in raw_jobs:
-            job_id = str(job.get("id", ""))
-            updated_at = job.get("updated_at", "")
-
-            # ── Already seen this job ─────────────────────────────────────────
-            if is_seen(state, job_id):
-                prev_updated = get_updated_at(state, job_id)
-                if prev_updated != updated_at:
-                    # Job was re-posted or details changed — update state so we
-                    # track the latest updated_at, but don't re-alert on it.
-                    record_job(state, {
-                        "id": job_id,
-                        "updated_at": updated_at,
-                        "title": job.get("title", ""),
-                        "company": job.get("company", board),
-                    })
-                    stats["jobs_updated"] += 1
-                else:
-                    # Completely unchanged — nothing to do
-                    stats["jobs_skipped_seen"] += 1
+            if _handle_seen_job(state, job, board, stats):
                 continue  # either way, skip further processing
 
-            # ── Brand new job — run through filters ──────────────────────────
-
-            # Filter 1: must be a USA or US-remote location
-            location = extract_location(job)
-            if not is_usa_location(location):
-                stats["jobs_skipped_location"] += 1
-                continue
-
-            # Filter 2: title/department must match software role keywords
-            title = job.get("title", "")
-            department = extract_department(job)
-            if not is_software_role(title, department):
-                stats["jobs_skipped_title"] += 1
-                continue
-
-            # Passed all filters — enrich, record, and queue for digest
-            enriched = {
-                **job,
-                "company": job.get("company", board),
-                "_location": location,
-                "_department": department,
-                "_url": extract_job_url(job),
-            }
-            new_jobs.append(enriched)
-            stats["jobs_new"] += 1
-
-            score = score_job(enriched)
-            if score is None:
-                stats["jobs_score_failed"] += 1
-                print(f"  [scorer] {title} @ {enriched['company']} — score unavailable")
-                sleep_between_scores()
-                continue
-
-            enriched["_score"] = score
-            stats["jobs_scored"] += 1
-
-            record_job(state, {
-                "id": job_id,
-                "updated_at": updated_at,
-                "title": title,
-                "company": enriched["company"],
-            })
-            mark_alerted(state, job_id)
-            save_state(state)
-
-            if should_alert(score):
-                if send_slack_alert(enriched, score):
-                    stats["jobs_alerted"] += 1
-                else:
-                    stats["jobs_alert_failed"] += 1
-
-            sleep_between_scores()
+            _process_new_job(job, board, state, stats, new_jobs)
 
     save_state(state)
 
