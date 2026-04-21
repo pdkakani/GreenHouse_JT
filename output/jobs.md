@@ -1,3 +1,187 @@
+## 📅 Run: 2026-04-21 19:48 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Software Engineer (Queueing and DB Ops)
+**Greenhouse** · iterable · Engineering
+📍 Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7723906)
+🕐 Updated: 2026-04-21T15:48:22-04:00 | ID: 7723906
+
+#### 🔄 Senior Marketing AI Data Engineer
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7532262?gh_jid=7532262)
+🕐 Updated: 2026-04-21T15:47:43-04:00 | ID: 7532262
+
+#### 🔄 Senior Marketing AI Data Engineer
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7510710?gh_jid=7510710)
+🕐 Updated: 2026-04-21T15:47:42-04:00 | ID: 7510710
+
+#### 🔄 Territory Account Executive, Retail - North Jacksonville, FL
+**Greenhouse** · toast · Sales : Retail Sales AEs
+📍 Jacksonville, FL | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7822496)
+🕐 Updated: 2026-04-21T15:47:30-04:00 | ID: 7822496
+
+#### 🔄 Growth Partnerships Manager
+**Greenhouse** · applovin · Product Marketing
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4651300006?gh_jid=4651300006)
+🕐 Updated: 2026-04-21T15:47:11-04:00 | ID: 4651300006
+
+#### 🔄 Employee Relations Partner
+**Greenhouse** · rubrik · People
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7668585?gh_jid=7668585)
+🕐 Updated: 2026-04-21T15:46:07-04:00 | ID: 7668585
+
+#### 🔄 Manager, Client Support NAM
+**Greenhouse** · ripple · Service & Delivery
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7818910?gh_jid=7818910)
+🕐 Updated: 2026-04-21T15:45:36-04:00 | ID: 7818910
+
+#### 🔄 Senior Executive Assistant
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7768910?gh_jid=7768910)
+🕐 Updated: 2026-04-21T15:45:22-04:00 | ID: 7768910
+
+#### 🔄 Sr Accountant, Corporate Accounting
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7438329?gh_jid=7438329)
+🕐 Updated: 2026-04-21T15:44:37-04:00 | ID: 7438329
+
+#### 🔄 Cloud Operations Engineer
+**Greenhouse** · mongodb · Cloud Operations
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+🕐 Updated: 2026-04-21T15:43:34-04:00 | ID: 7453323
+
+#### 🔄 GTM Engineer, Marketing Operations AI Innovation
+**Greenhouse** · toast · Marketing : Demand Generation
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7746813)
+🕐 Updated: 2026-04-21T15:42:44-04:00 | ID: 7746813
+
+#### 🔄 Partnerships (Ecosystem & Platform)
+**Greenhouse** · spade · Commercial
+📍 New York, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/spade/jobs/4676419005)
+🕐 Updated: 2026-04-21T15:42:32-04:00 | ID: 4676419005
+
+#### 🔄 Sr. Product Marketing Manager
+**Greenhouse** · rubrik · Marketing
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7729782?gh_jid=7729782)
+🕐 Updated: 2026-04-21T15:40:48-04:00 | ID: 7729782
+
+#### 🔄 Sr. Product Marketing Manager, Identity
+**Greenhouse** · rubrik · Marketing
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7763400?gh_jid=7763400)
+🕐 Updated: 2026-04-21T15:40:03-04:00 | ID: 7763400
+
+#### 🔄 Senior Partner Manager - Alliances (SOLA)
+**Greenhouse** · datadog · Channels & Alliances
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7650024/?gh_jid=7650024)
+🕐 Updated: 2026-04-21T15:37:05-04:00 | ID: 7650024
+
+#### 🔄 Site Reliability Engineer (SRE) (Pacific time)
+**Greenhouse** · fireblocks · R&D
+📍 Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States | 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4619316006?gh_jid=4619316006)
+🕐 Updated: 2026-04-21T15:30:49-04:00 | ID: 4619316006
+
+#### 🔄 Incident Response Engineer (Pacific time)
+**Greenhouse** · fireblocks · R&D
+📍 Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States | 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006)
+🕐 Updated: 2026-04-21T15:30:35-04:00 | ID: 4664533006
+
+#### 🔄 Apprentice Weld Support Technician
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8516568002?gh_jid=8516568002)
+🕐 Updated: 2026-04-21T15:29:43-04:00 | ID: 8516568002
+
+#### 🔄 Operations Engineering Manager, Fleet Reliability
+**Greenhouse** · coreweave · Technology
+📍 Richmond, VA / Las Vegas, NV / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4553803006&board=coreweave&gh_jid=4553803006)
+🕐 Updated: 2026-04-21T15:16:36-04:00 | ID: 4553803006
+
+#### 🔄 Sr. Manager, Data & Analytics, Asset MDM & Governance
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7759960)
+🕐 Updated: 2026-04-21T15:08:27-04:00 | ID: 7759960
+
+#### 🔄 Back-end Engineer
+**Greenhouse** · tripadvisor · Engineering & Technology
+📍 Reykjavik, Iceland | 🔗 [Apply Here](https://job-boards.greenhouse.io/tripadvisor/jobs/7825805)
+🕐 Updated: 2026-04-21T15:06:28-04:00 | ID: 7825805
+
+#### 🔄 Information Security Analyst
+**Greenhouse** · betterment · Risk
+📍 Betterment HQ - New York City | 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7797421&gh_jid=7797421)
+🕐 Updated: 2026-04-21T15:05:27-04:00 | ID: 7797421
+
+#### 🔄 CX Forward Deployed Engineer
+**Greenhouse** · gitlab · Customer Experience
+📍 Remote, Australia; Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8504801002)
+🕐 Updated: 2026-04-21T15:05:20-04:00 | ID: 8504801002
+
+#### 🔄 People Systems Manager
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7551178?t=gh_src=&gh_jid=7551178)
+🕐 Updated: 2026-04-21T15:04:02-04:00 | ID: 7551178
+
+#### 🔄 Implementation Engineer
+**Greenhouse** · adyen · Professional Services
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7532705)
+🕐 Updated: 2026-04-21T14:55:34-04:00 | ID: 7532705
+
+#### 🔄 Partner Account Manager - Tampa
+**Greenhouse** · humaninterest · Sales
+📍 Tampa, Florida, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7751388)
+🕐 Updated: 2026-04-21T14:47:24-04:00 | ID: 7751388
+
+#### 🔄 Partner Account Manager - Kansas City
+**Greenhouse** · humaninterest · Sales
+📍 Kansas City, Missouri, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7700691)
+🕐 Updated: 2026-04-21T14:47:23-04:00 | ID: 7700691
+
+#### 🔄 Consulting Architect - Observability
+**Greenhouse** · elastic · Consulting - AMER
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7763314&gh_jid=7763314)
+🕐 Updated: 2026-04-21T14:47:05-04:00 | ID: 7763314
+
+#### 🔄 Software Engineer, Fullstack (Sell Core)
+**Greenhouse** · dialpad · 211 - Product Engineering
+📍 Vancouver, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8407054002)
+🕐 Updated: 2026-04-21T14:46:33-04:00 | ID: 8407054002
+
+#### 🔄 Sr. Email Marketing Manager
+**Greenhouse** · tripadvisor · Marketing & Communication
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/tripadvisor/jobs/7777476)
+🕐 Updated: 2026-04-21T14:44:41-04:00 | ID: 7777476
+
+#### 🔄 Customer Success Associate I
+**Greenhouse** · humaninterest · Customer Success and Operations
+📍 Lindon, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7827020)
+🕐 Updated: 2026-04-21T14:43:26-04:00 | ID: 7827020
+
+#### 🔄 Flex Account Executive, SMB - Mountain West
+**Greenhouse** · toast · Sales : SMB Field Sales AEs
+📍 Denver, CO | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7798108)
+🕐 Updated: 2026-04-21T14:40:41-04:00 | ID: 7798108
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · mongodb · Customer Success Americas
+📍 Atlanta; Austin; Dallas | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7623498)
+🕐 Updated: 2026-04-21T14:37:51-04:00 | ID: 7623498
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · mongodb · Customer Success Americas
+📍 Austin; Charlotte | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7551285)
+🕐 Updated: 2026-04-21T14:37:11-04:00 | ID: 7551285
+
+## ATS Summary
+- **Greenhouse**: 0 new, 14567 fetched, 34 updated, 31 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 56 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 14651 fetched, 34 updated, 31 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-04-21 18:37 UTC
 
 ### Greenhouse
