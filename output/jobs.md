@@ -1,3 +1,202 @@
+## 📅 Run: 2026-04-21 23:50 UTC
+
+### Greenhouse
+
+#### 🔄 Product Security Engineer
+**Greenhouse** · airtable · Security
+📍 San Francisco, CA; New York, NY; Remote (Seattle, WA only) | 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8194662002)
+🕐 Updated: 2026-04-21T19:46:01-04:00 | ID: 8194662002
+
+#### 🔄 Staff Security Engineer - Vulnerability Management US Public Sector
+**Greenhouse** · okta · Sec - Vulnerability Management & Sec Arch-772
+📍 Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7558745?gh_jid=7558745)
+🕐 Updated: 2026-04-21T19:39:12-04:00 | ID: 7558745
+
+#### 🔄 Senior Engineering Manager, Application and Product Security
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7473367?t=gh_src=&gh_jid=7473367)
+🕐 Updated: 2026-04-21T19:32:28-04:00 | ID: 7473367
+
+#### 🔄 Lead Product Marketing Manager
+**Greenhouse** · applovin · Platform Engineering
+📍 New York; Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4671540006?gh_jid=4671540006)
+🕐 Updated: 2026-04-21T19:32:11-04:00 | ID: 4671540006
+
+#### 🔄 Manager of Learning & Development
+**Greenhouse** · robinhood · Talent Management
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7736809?t=gh_src=&gh_jid=7736809)
+🕐 Updated: 2026-04-21T19:31:41-04:00 | ID: 7736809
+
+#### 🔄 Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Texas, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703480003)
+🕐 Updated: 2026-04-21T19:31:23-04:00 | ID: 7703480003
+
+#### 🔄 Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Washington, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703387003)
+🕐 Updated: 2026-04-21T19:31:23-04:00 | ID: 7703387003
+
+#### 🔄 Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Oregon, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703385003)
+🕐 Updated: 2026-04-21T19:31:23-04:00 | ID: 7703385003
+
+#### 🔄 Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7674292003)
+🕐 Updated: 2026-04-21T19:31:23-04:00 | ID: 7674292003
+
+#### 🔄 Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Nevada, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703383003)
+🕐 Updated: 2026-04-21T19:31:23-04:00 | ID: 7703383003
+
+#### 🔄 Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703380003)
+🕐 Updated: 2026-04-21T19:31:23-04:00 | ID: 7703380003
+
+#### 🔄 Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Arizona, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7703375003)
+🕐 Updated: 2026-04-21T19:31:23-04:00 | ID: 7703375003
+
+#### 🔄 Regional Director, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Connecticut, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7634234003)
+🕐 Updated: 2026-04-21T19:31:21-04:00 | ID: 7634234003
+
+#### 🔄 Regional Director, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Massachusetts, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7641096003)
+🕐 Updated: 2026-04-21T19:31:21-04:00 | ID: 7641096003
+
+#### 🔄 Regional Director, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Rhode Island, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7641103003)
+🕐 Updated: 2026-04-21T19:31:21-04:00 | ID: 7641103003
+
+#### 🔄 Regional Director, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, New Hampshire, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7641106003)
+🕐 Updated: 2026-04-21T19:31:21-04:00 | ID: 7641106003
+
+#### 🔄 Regional Director, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, New York, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7641107003)
+🕐 Updated: 2026-04-21T19:31:21-04:00 | ID: 7641107003
+
+#### 🔄 People Systems Manager
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7551178?t=gh_src=&gh_jid=7551178)
+🕐 Updated: 2026-04-21T19:30:45-04:00 | ID: 7551178
+
+#### 🔄 Manager of Global Mobility & Immigration
+**Greenhouse** · robinhood · People Relations and Operations
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7783116?t=gh_src=&gh_jid=7783116)
+🕐 Updated: 2026-04-21T19:30:13-04:00 | ID: 7783116
+
+#### 🔄 Manager of Corporate Accounting
+**Greenhouse** · robinhood · Accounting
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7723234?t=gh_src=&gh_jid=7723234)
+🕐 Updated: 2026-04-21T19:29:51-04:00 | ID: 7723234
+
+#### 🔄 Deputy MLRO / AML Lead
+**Greenhouse** · robinhood · Bitstamp G&A
+📍 Luxembourg, Luxembourg | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7592187?t=gh_src=&gh_jid=7592187)
+🕐 Updated: 2026-04-21T19:29:36-04:00 | ID: 7592187
+
+#### 🔄 Engineering Manager, Strategies & Cortex
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246)
+🕐 Updated: 2026-04-21T19:28:52-04:00 | ID: 7489246
+
+#### 🔄 Engineering Manager
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7813069?t=gh_src=&gh_jid=7813069)
+🕐 Updated: 2026-04-21T19:28:37-04:00 | ID: 7813069
+
+#### 🔄 Engineering Manager, Observability
+**Greenhouse** · robinhood · ENG Infrastructure
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7684757?t=gh_src=&gh_jid=7684757)
+🕐 Updated: 2026-04-21T19:28:12-04:00 | ID: 7684757
+
+#### 🔄 Engineering Manager, Legend
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489328?t=gh_src=&gh_jid=7489328)
+🕐 Updated: 2026-04-21T19:27:45-04:00 | ID: 7489328
+
+#### 🔄 Senior Backend Engineer, Analytics Instrumentation (Golang)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8451512002)
+🕐 Updated: 2026-04-21T19:27:39-04:00 | ID: 8451512002
+
+#### 🔄 Software Engineering Manager, Growth
+**Greenhouse** · robinhood · ENG Growth
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695)
+🕐 Updated: 2026-04-21T19:27:19-04:00 | ID: 7489695
+
+#### 🔄 Engineering Manager, Financial Crimes
+**Greenhouse** · robinhood · ENG Platforms
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7512231?t=gh_src=&gh_jid=7512231)
+🕐 Updated: 2026-04-21T19:26:46-04:00 | ID: 7512231
+
+#### 🔄 Backend Engineer, Knowledge Graph (Rust)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8437754002)
+🕐 Updated: 2026-04-21T19:26:16-04:00 | ID: 8437754002
+
+#### 🔄 Engineering Manager, Capacity and Efficiency
+**Greenhouse** · robinhood · ENG Technical Assurance
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7603848?t=gh_src=&gh_jid=7603848)
+🕐 Updated: 2026-04-21T19:26:14-04:00 | ID: 7603848
+
+#### 🔄 Backend Engineer, Knowledge Graph (Rust)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8481958002)
+🕐 Updated: 2026-04-21T19:25:32-04:00 | ID: 8481958002
+
+#### 🔄 Manager of Customer Operations, Money
+**Greenhouse** · robinhood · Money Operations
+📍 Chicago, IL; Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7799503?t=gh_src=&gh_jid=7799503)
+🕐 Updated: 2026-04-21T19:24:18-04:00 | ID: 7799503
+
+#### 🔄 Backend Engineer, Analytics Instrumentation (Golang)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8481929002)
+🕐 Updated: 2026-04-21T19:24:06-04:00 | ID: 8481929002
+
+#### 🔄 Director of Engineering, Trading Products
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7022496?t=gh_src=&gh_jid=7022496)
+🕐 Updated: 2026-04-21T19:22:25-04:00 | ID: 7022496
+
+#### 🔄 Senior Paid Social Lead
+**Greenhouse** · gusto · Marketing
+📍 Denver, CO;San Francisco, CA;New York, NY;Las Vegas, NV;Atlanta, GA;Phoenix, AZ; Toronto, ON; Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7826266)
+🕐 Updated: 2026-04-21T19:22:18-04:00 | ID: 7826266
+
+#### 🔄 Engineering Manager, International
+**Greenhouse** · robinhood · Crypto Engineering
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539771?t=gh_src=&gh_jid=7539771)
+🕐 Updated: 2026-04-21T19:21:35-04:00 | ID: 7539771
+
+#### 🔄 Sr Software Engineer, Infrastructure
+**Greenhouse** · databricks · Infrastructure
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002)
+🕐 Updated: 2026-04-21T19:11:10-04:00 | ID: 8493170002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 14557 fetched, 37 updated, 4 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 14642 fetched, 37 updated, 4 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-04-21 23:04 UTC
 
 ### Greenhouse
