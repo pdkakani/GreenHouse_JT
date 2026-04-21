@@ -1,3 +1,172 @@
+## 📅 Run: 2026-04-21 21:30 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Partner Operations Analyst
+**Greenhouse** · gleanwork · Sales
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4679097005)
+🕐 Updated: 2026-04-21T17:30:34-04:00 | ID: 4679097005
+
+#### 🔄 Machine Learning Engineering Intern (PhD)
+**Greenhouse** · airbnb · Intern
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7669906?gh_jid=7669906)
+🕐 Updated: 2026-04-21T17:26:00-04:00 | ID: 7669906
+
+#### 🔄 Senior Data Scientist
+**Greenhouse** · sofi · Compliance
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7667953003?gh_jid=7667953003)
+🕐 Updated: 2026-04-21T17:25:12-04:00 | ID: 7667953003
+
+#### 🔄 Ingénieur Commercial Senior, Entreprise / Senior Sales Engineer, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Ontario, Canada | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7659471003)
+🕐 Updated: 2026-04-21T17:23:05-04:00 | ID: 7659471003
+
+#### 🔄 Workplace Associate (Part-Time)
+**Greenhouse** · flexport · People
+📍 Dallas, Texas, United States | 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7792945?gh_jid=7792945)
+🕐 Updated: 2026-04-21T17:20:31-04:00 | ID: 7792945
+
+#### 🆕 Staff Software Engineer - Edge Protocols
+**Greenhouse** · fastly · Content Delivery Systems · 🎯 85%
+📍 Denver, CO; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7821631)
+🕐 Updated: 2026-04-21T17:19:54-04:00 | ID: 7821631
+
+#### 🔄 Sr. Principal AI Systems Architect
+**Greenhouse** · fivetran · Business Intelligence Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7651403003)
+🕐 Updated: 2026-04-21T17:18:44-04:00 | ID: 7651403003
+
+#### 🔄 Community Reinvestment Act (CRA) Officer
+**Greenhouse** · mercury · [Placeholder] Job Family
+📍 Salt Lake City, UT | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5976613004)
+🕐 Updated: 2026-04-21T17:18:07-04:00 | ID: 5976613004
+
+#### 🔄 Principal Product Designer
+**Greenhouse** · fivetran · Business Intelligence Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7656004003)
+🕐 Updated: 2026-04-21T17:17:16-04:00 | ID: 7656004003
+
+#### 🔄 Revenue Operations Manager (Post Sales)
+**Greenhouse** · dialpad · 525 - Sales Ops
+📍 Austin, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8436715002)
+🕐 Updated: 2026-04-21T17:16:27-04:00 | ID: 8436715002
+
+#### 🔄 Head of Performance Marketing
+**Greenhouse** · flex · Marketing
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4635892005)
+🕐 Updated: 2026-04-21T17:15:35-04:00 | ID: 4635892005
+
+#### 🔄 Head of Performance Marketing
+**Greenhouse** · flex · Marketing
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4632721005)
+🕐 Updated: 2026-04-21T17:15:23-04:00 | ID: 4632721005
+
+#### 🔄 Associate General Counsel, Crypto Services
+**Greenhouse** · fireblocks · Legal & Compliance
+📍 New York; Washington, District of Columbia, United States | 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4658959006?gh_jid=4658959006)
+🕐 Updated: 2026-04-21T17:14:00-04:00 | ID: 4658959006
+
+#### 🔄 Technical Recruiter
+**Greenhouse** · robinhood · Talent Acquisition
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7816068?t=gh_src=&gh_jid=7816068)
+🕐 Updated: 2026-04-21T17:09:10-04:00 | ID: 7816068
+
+#### 🔄 Counsel, Commercial (Institutional)
+**Greenhouse** · coinbase · Legal & Compliance
+📍 Remote - UK | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7602261?gh_jid=7602261)
+🕐 Updated: 2026-04-21T17:08:10-04:00 | ID: 7602261
+
+#### 🔄 Sales Strategy & Operational Excellence Lead
+**Greenhouse** · anthropic · Sales
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5191332008)
+🕐 Updated: 2026-04-21T17:07:18-04:00 | ID: 5191332008
+
+#### 🔄 Account Executive, Commercial - SMB
+**Greenhouse** · smartsheet · Commercial Sales
+📍 Boston, MA, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/3788031)
+🕐 Updated: 2026-04-21T17:03:48-04:00 | ID: 3788031
+
+#### 🔄 Procurement Manager
+**Greenhouse** · braze · Finance
+📍 Chicago | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7816152?gh_jid=7816152)
+🕐 Updated: 2026-04-21T16:59:26-04:00 | ID: 7816152
+
+#### 🔄 Procurement Manager
+**Greenhouse** · braze · Finance
+📍 Austin | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7816146?gh_jid=7816146)
+🕐 Updated: 2026-04-21T16:59:18-04:00 | ID: 7816146
+
+#### 🔄 Staff Software Engineer, Backend
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7769341?gh_jid=7769341)
+🕐 Updated: 2026-04-21T16:58:52-04:00 | ID: 7769341
+
+#### 🔄 Senior AI Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 San Francisco | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769085?gh_jid=7769085)
+🕐 Updated: 2026-04-21T16:55:52-04:00 | ID: 7769085
+
+#### 🔄 Senior AI Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 Denver | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769077?gh_jid=7769077)
+🕐 Updated: 2026-04-21T16:55:43-04:00 | ID: 7769077
+
+#### 🔄 Senior AI Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 Chicago | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769071?gh_jid=7769071)
+🕐 Updated: 2026-04-21T16:55:34-04:00 | ID: 7769071
+
+#### 🔄 Senior AI Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 Austin | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7752250?gh_jid=7752250)
+🕐 Updated: 2026-04-21T16:55:25-04:00 | ID: 7752250
+
+#### 🔄 Senior Backend Engineer - Device Platform
+**Greenhouse** · verkada · Core Services
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5107240007)
+🕐 Updated: 2026-04-21T16:52:46-04:00 | ID: 5107240007
+
+#### 🔄 Senior Backend Engineer - FedRAMP
+**Greenhouse** · verkada · Core Services
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5044568007)
+🕐 Updated: 2026-04-21T16:52:32-04:00 | ID: 5044568007
+
+#### 🔄 Senior Director, Creative Strategy
+**Greenhouse** · braze · Marketing
+📍 San Francisco | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769422?gh_jid=7769422)
+🕐 Updated: 2026-04-21T16:51:47-04:00 | ID: 7769422
+
+#### 🔄 Senior Director, Creative Strategy
+**Greenhouse** · braze · Marketing
+📍 New York City | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7769410?gh_jid=7769410)
+🕐 Updated: 2026-04-21T16:51:36-04:00 | ID: 7769410
+
+#### 🔄 Director of Enablement, Solutions Engineering
+**Greenhouse** · verkada · Solutions Engineering
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4706884007)
+🕐 Updated: 2026-04-21T16:51:36-04:00 | ID: 4706884007
+
+#### 🔄 Senior Director, Creative Strategy
+**Greenhouse** · braze · Marketing
+📍 Austin | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7766622?gh_jid=7766622)
+🕐 Updated: 2026-04-21T16:51:26-04:00 | ID: 7766622
+
+#### 🔄 Team Lead, Platinum Support
+**Greenhouse** · dialpad · 131 - Premium Support
+📍 Kitchener, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8477013002)
+🕐 Updated: 2026-04-21T16:46:30-04:00 | ID: 8477013002
+
+## ATS Summary
+- **Greenhouse**: 1 new, 14553 fetched, 30 updated, 16 cap-skipped, 1 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 56 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 14637 fetched, 30 updated, 16 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-04-21 20:43 UTC
 
 ### Greenhouse
