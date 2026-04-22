@@ -1,3 +1,57 @@
+## 📅 Run: 2026-04-22 06:54 UTC
+
+### Greenhouse
+
+#### 🔄 Enterprise Sales Engineer (Saudi Arabia)
+**Greenhouse** · datadog · Enterprise Sales Engineering
+📍 Riyadh, Saudi Arabia | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7777514/?gh_jid=7777514)
+🕐 Updated: 2026-04-22T02:51:04-04:00 | ID: 7777514
+
+#### 🔄 Strategic Account Executive (Saudi Arabia)
+**Greenhouse** · datadog · Enterprise Sales
+📍 Riyadh, Saudi Arabia | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7338800/?gh_jid=7338800)
+🕐 Updated: 2026-04-22T02:50:07-04:00 | ID: 7338800
+
+#### 🔄 Regional Director, Enterprise Sales (Saudi Arabia)
+**Greenhouse** · datadog · Enterprise Sales
+📍 Riyadh, Saudi Arabia | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7338847/?gh_jid=7338847)
+🕐 Updated: 2026-04-22T02:49:20-04:00 | ID: 7338847
+
+#### 🔄 Member of Technical Staff - Portworx Enterprise
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7230941)
+🕐 Updated: 2026-04-22T02:26:56-04:00 | ID: 7230941
+
+#### 🔄 Talent Sourcer - Hybrid (12-Month Contract)
+**Greenhouse** · ripple · Recruiting
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7792368?gh_jid=7792368)
+🕐 Updated: 2026-04-22T02:15:52-04:00 | ID: 7792368
+
+#### 🔄 Japan Regulatory Compliance & Money Laundering Reporting Officer (RC & MLRO)
+**Greenhouse** · stripe · 3311 FinCRO
+📍 Tokyo , Japan | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7757552)
+🕐 Updated: 2026-04-22T02:14:53-04:00 | ID: 7757552
+
+#### 🔄 Engineering Manager - Operations Infrastructure
+**Greenhouse** · stripe · 4145 Support Products - Eng
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7773553)
+🕐 Updated: 2026-04-22T01:33:04-04:00 | ID: 7773553
+
+#### 🔄 Associate Presales Engineer
+**Greenhouse** · fastly · Sales Engineering
+📍 Pune, India | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7814181)
+🕐 Updated: 2026-04-22T01:29:23-04:00 | ID: 7814181
+
+## ATS Summary
+- **Greenhouse**: 0 new, 14565 fetched, 8 updated, 9 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 14650 fetched, 8 updated, 9 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-04-22 04:49 UTC
 
 ### Greenhouse
