@@ -1,3 +1,82 @@
+## 📅 Run: 2026-04-22 11:13 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/6991269?gh_jid=6991269)
+🕐 Updated: 2026-04-22T07:11:41-04:00 | ID: 6991269
+
+#### 🔄 Machine Learning Engineer, Support Experience
+**Greenhouse** · stripe · 4145 Support Products - Eng
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7813942)
+🕐 Updated: 2026-04-22T07:02:40-04:00 | ID: 7813942
+
+#### 🔄 Engineering Manager - Operations Infrastructure
+**Greenhouse** · stripe · 4145 Support Products - Eng
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7773553)
+🕐 Updated: 2026-04-22T07:02:31-04:00 | ID: 7773553
+
+#### 🔄 Product Manager, Support Products - Support Experience
+**Greenhouse** · stripe · 4900 Support Eng & PM
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7440429)
+🕐 Updated: 2026-04-22T07:02:07-04:00 | ID: 7440429
+
+#### 🔄 WordPress Advanced Support Guide
+**Greenhouse** · godaddy · Care Support & Services
+📍 Serbia | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7709787003)
+🕐 Updated: 2026-04-22T07:01:37-04:00 | ID: 7709787003
+
+#### 🔄 Sales Development Representative Middle East
+**Greenhouse** · starburst · Sales Development
+📍 London, UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5191922008)
+🕐 Updated: 2026-04-22T06:55:54-04:00 | ID: 5191922008
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · asana · Product Engineering
+📍 Warsaw | 🔗 [Apply Here](https://www.asana.com/jobs/apply/6202409?gh_jid=6202409)
+🕐 Updated: 2026-04-22T06:49:50-04:00 | ID: 6202409
+
+#### 🔄 Regional Director - Enterprise Sales (Saudi Arabia)
+**Greenhouse** · datadog · Enterprise Sales
+📍 Riyadh, Saudi Arabia | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7338847/?gh_jid=7338847)
+🕐 Updated: 2026-04-22T06:32:00-04:00 | ID: 7338847
+
+#### 🔄 Onboarding Consultant I, xtraChef - Bilingual Spanish
+**Greenhouse** · toast · Onboarding : Supplier & Accounting
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7811988)
+🕐 Updated: 2026-04-22T06:25:07-04:00 | ID: 7811988
+
+#### 🔄 Salesforce CPQ engineer 3
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779016)
+🕐 Updated: 2026-04-22T06:23:46-04:00 | ID: 7779016
+
+#### 🔄 Learning Experience Design Program Manager
+**Greenhouse** · adyen · Support
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7752871)
+🕐 Updated: 2026-04-22T06:18:27-04:00 | ID: 7752871
+
+#### 🔄 Product Manager, Driver Experience
+**Greenhouse** · lyft · Marketplace Product
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8514395002?gh_jid=8514395002)
+🕐 Updated: 2026-04-22T06:10:40-04:00 | ID: 8514395002
+
+#### 🔄 Inside Account Executive - CEE (Czech, Hungarian  or Bulgarian speaker)
+**Greenhouse** · elastic · Sales - EMEA - Emerging
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764796&gh_jid=7764796)
+🕐 Updated: 2026-04-22T06:00:25-04:00 | ID: 7764796
+
+## ATS Summary
+- **Greenhouse**: 0 new, 14584 fetched, 13 updated, 9 cap-skipped, 0 alerts
+- **Lever**: 0 new, 24 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 14665 fetched, 13 updated, 9 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-04-22 09:59 UTC
 
 ### Greenhouse
