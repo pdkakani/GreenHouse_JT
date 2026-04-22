@@ -1,3 +1,77 @@
+## 📅 Run: 2026-04-22 09:59 UTC
+
+### Greenhouse
+
+#### 🔄 Staff/Senior AI Product Manager
+**Greenhouse** · intercom · Product
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7464291)
+🕐 Updated: 2026-04-22T05:38:52-04:00 | ID: 7464291
+
+#### 🔄 Staff/Senior AI Product Manager
+**Greenhouse** · intercom · Product
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7464294)
+🕐 Updated: 2026-04-22T05:38:41-04:00 | ID: 7464294
+
+#### 🔄 Staff/Senior AI Product Manager
+**Greenhouse** · intercom · Product
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7377200)
+🕐 Updated: 2026-04-22T05:38:29-04:00 | ID: 7377200
+
+#### 🔄 Weekend Shift - Associate Support Representative
+**Greenhouse** · braze · Customer Experience
+📍 London | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7795633?gh_jid=7795633)
+🕐 Updated: 2026-04-22T05:31:52-04:00 | ID: 7795633
+
+#### 🔄 Associate Support Representative
+**Greenhouse** · braze · Customer Experience
+📍 London | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7795635?gh_jid=7795635)
+🕐 Updated: 2026-04-22T05:30:53-04:00 | ID: 7795635
+
+#### 🔄 Principal Systems Engineer, FL
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7267426?gh_jid=7267426)
+🕐 Updated: 2026-04-22T05:30:16-04:00 | ID: 7267426
+
+#### 🔄 Principal Systems Engineer, IPC
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7267394?gh_jid=7267394)
+🕐 Updated: 2026-04-22T05:30:16-04:00 | ID: 7267394
+
+#### 🔄 Commercial Account Executive (France)
+**Greenhouse** · datadog · Commercial Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7824375/?gh_jid=7824375)
+🕐 Updated: 2026-04-22T05:22:20-04:00 | ID: 7824375
+
+#### 🔄 Data Analyst - Operations
+**Greenhouse** · adyen · Data Analytics
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7618892)
+🕐 Updated: 2026-04-22T05:11:05-04:00 | ID: 7618892
+
+#### 🔄 Senior Machine Learning Engineer (Platform)
+**Greenhouse** · iterable · Engineering
+📍 Hybrid - Lisbon, Portugal | 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7605766)
+🕐 Updated: 2026-04-22T04:47:11-04:00 | ID: 7605766
+
+#### 🔄 Senior ServiceNow Developer
+**Greenhouse** · convera · Technology Operations & Support
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4707095101)
+🕐 Updated: 2026-04-22T04:41:08-04:00 | ID: 4707095101
+
+#### 🔄 Inside Account Executive - CEE (Czech, Hungarian  or Bulgarian speaker)
+**Greenhouse** · elastic · Sales - EMEA - Emerging
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764796&gh_jid=7764796)
+🕐 Updated: 2026-04-22T04:39:09-04:00 | ID: 7764796
+
+## ATS Summary
+- **Greenhouse**: 0 new, 14583 fetched, 12 updated, 14 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 14668 fetched, 12 updated, 14 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-04-22 08:27 UTC
 
 ### Greenhouse

@@ -736,7 +736,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7267426": {
-    "updated_at": "2026-04-21T15:53:17-04:00",
+    "updated_at": "2026-04-22T05:30:16-04:00",
     "title": "Principal Systems Engineer, FL",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -744,7 +744,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7267394": {
-    "updated_at": "2026-04-21T15:53:17-04:00",
+    "updated_at": "2026-04-22T05:30:16-04:00",
     "title": "Principal Systems Engineer, IPC",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -1800,8 +1800,8 @@
     "alerted": true
   },
   "greenhouse:iterable:7605766": {
-    "updated_at": "2026-03-18T11:50:26-04:00",
-    "title": "ML Platform Engineer",
+    "updated_at": "2026-04-22T04:47:11-04:00",
+    "title": "Senior Machine Learning Engineer (Platform)",
     "company": "iterable",
     "ats": "greenhouse",
     "source_slug": "iterable",
@@ -47288,7 +47288,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7824375": {
-    "updated_at": "2026-04-21T11:22:00-04:00",
+    "updated_at": "2026-04-22T05:22:20-04:00",
     "title": "Commercial Account Executive (France)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -58392,7 +58392,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7618892": {
-    "updated_at": "2026-04-20T05:24:14-04:00",
+    "updated_at": "2026-04-22T05:11:05-04:00",
     "title": "Data Analyst - Operations",
     "company": "adyen",
     "ats": "greenhouse",
@@ -61752,24 +61752,24 @@
     "alerted": false
   },
   "greenhouse:intercom:7464291": {
-    "updated_at": "2026-04-17T13:44:12-04:00",
-    "title": "Senior AI Product Manager",
+    "updated_at": "2026-04-22T05:38:52-04:00",
+    "title": "Staff/Senior AI Product Manager",
     "company": "intercom",
     "ats": "greenhouse",
     "source_slug": "intercom",
     "alerted": false
   },
   "greenhouse:intercom:7377200": {
-    "updated_at": "2026-04-17T13:44:12-04:00",
-    "title": "Senior AI Product Manager",
+    "updated_at": "2026-04-22T05:38:29-04:00",
+    "title": "Staff/Senior AI Product Manager",
     "company": "intercom",
     "ats": "greenhouse",
     "source_slug": "intercom",
     "alerted": false
   },
   "greenhouse:intercom:7464294": {
-    "updated_at": "2026-04-17T13:44:12-04:00",
-    "title": "Senior AI Product Manager",
+    "updated_at": "2026-04-22T05:38:41-04:00",
+    "title": "Staff/Senior AI Product Manager",
     "company": "intercom",
     "ats": "greenhouse",
     "source_slug": "intercom",
@@ -63280,7 +63280,7 @@
     "alerted": false
   },
   "greenhouse:braze:7795633": {
-    "updated_at": "2026-04-17T06:07:53-04:00",
+    "updated_at": "2026-04-22T05:31:52-04:00",
     "title": "Weekend Shift - Associate Support Representative",
     "company": "braze",
     "ats": "greenhouse",
@@ -63320,7 +63320,7 @@
     "alerted": false
   },
   "greenhouse:braze:7795635": {
-    "updated_at": "2026-04-17T05:47:47-04:00",
+    "updated_at": "2026-04-22T05:30:53-04:00",
     "title": "Associate Support Representative",
     "company": "braze",
     "ats": "greenhouse",
@@ -71984,8 +71984,8 @@
     "alerted": false
   },
   "greenhouse:elastic:7764796": {
-    "updated_at": "2026-04-15T09:07:40-04:00",
-    "title": "Inside Account Executive - Central and Eastern Europe (Czech speaker)",
+    "updated_at": "2026-04-22T04:39:09-04:00",
+    "title": "Inside Account Executive - CEE (Czech, Hungarian  or Bulgarian speaker)",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -119952,7 +119952,7 @@
     "alerted": false
   },
   "greenhouse:convera:4707095101": {
-    "updated_at": "2026-04-22T03:41:12-04:00",
+    "updated_at": "2026-04-22T04:41:08-04:00",
     "title": "Senior ServiceNow Developer",
     "company": "convera",
     "ats": "greenhouse",
@@ -122245,6 +122245,118 @@
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:stripe:7768979": {
+    "updated_at": "2026-04-22T05:23:55-04:00",
+    "title": "Product Manager, EMEA Payments Lead",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7757780": {
+    "updated_at": "2026-04-22T05:23:01-04:00",
+    "title": "Senior Disputes Analyst",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:elastic:7766695": {
+    "updated_at": "2026-04-22T05:18:11-04:00",
+    "title": "Enterprise Account Executive",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8516118002": {
+    "updated_at": "2026-04-22T05:10:36-04:00",
+    "title": "Deployment Strategist",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:dropbox:6330377": {
+    "updated_at": "2026-04-22T05:05:59-04:00",
+    "title": "Infrastructure Software Engineer",
+    "company": "dropbox",
+    "ats": "greenhouse",
+    "source_slug": "dropbox",
+    "alerted": false
+  },
+  "greenhouse:okta:7823315": {
+    "updated_at": "2026-04-22T05:05:00-04:00",
+    "title": "Staff Analytics Engineer - Finance",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7831414": {
+    "updated_at": "2026-04-22T05:04:27-04:00",
+    "title": "Solutions Engineer, Central & Eastern Europe - Czech Speaking",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:adyen:7294336": {
+    "updated_at": "2026-04-22T05:03:46-04:00",
+    "title": "Senior CI/CD Engineer",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:7839053": {
+    "updated_at": "2026-04-22T04:49:37-04:00",
+    "title": "Inside Sales Representative - Barcelona",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:7837873": {
+    "updated_at": "2026-04-22T04:42:57-04:00",
+    "title": "Customer Care Specialist French Market - Barcelona",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7816181": {
+    "updated_at": "2026-04-22T04:40:06-04:00",
+    "title": "Customer Experience Manager",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:toast:7821619": {
+    "updated_at": "2026-04-22T04:31:39-04:00",
+    "title": "Senior Product Security Engineer",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:databricks:8499584002": {
+    "updated_at": "2026-04-22T04:17:25-04:00",
+    "title": "Solutions Architect (Greater China Region)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:adyen:7711481": {
+    "updated_at": "2026-04-22T04:16:13-04:00",
+    "title": "Senior Software Engineer - ML/AI",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
     "alerted": false
   }
 }
