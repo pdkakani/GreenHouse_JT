@@ -49120,7 +49120,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7694138": {
-    "updated_at": "2026-04-21T04:19:25-04:00",
+    "updated_at": "2026-04-23T07:06:08-04:00",
     "title": "Account Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -49136,7 +49136,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7570678": {
-    "updated_at": "2026-04-21T04:14:58-04:00",
+    "updated_at": "2026-04-23T07:23:34-04:00",
     "title": "Senior Integration & Automation Engineer",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -51968,7 +51968,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7818910": {
-    "updated_at": "2026-04-21T15:45:36-04:00",
+    "updated_at": "2026-04-23T06:32:32-04:00",
     "title": "Manager, Client Support NAM",
     "company": "ripple",
     "ats": "greenhouse",
@@ -57320,7 +57320,7 @@
     "alerted": false
   },
   "greenhouse:elastic:6754725": {
-    "updated_at": "2026-04-20T11:28:00-04:00",
+    "updated_at": "2026-04-23T07:28:30-04:00",
     "title": "Account Executive (Aramco)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -70528,7 +70528,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7214964": {
-    "updated_at": "2026-04-15T16:51:07-04:00",
+    "updated_at": "2026-04-23T06:51:57-04:00",
     "title": "Sales Development Representative - Italy",
     "company": "datadog",
     "ats": "greenhouse",
@@ -79088,7 +79088,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7338847": {
-    "updated_at": "2026-04-22T06:32:00-04:00",
+    "updated_at": "2026-04-23T06:45:11-04:00",
     "title": "Regional Director - Enterprise Sales (Saudi Arabia)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -80528,7 +80528,7 @@
     "alerted": false
   },
   "greenhouse:fastly:7768132": {
-    "updated_at": "2026-04-13T17:48:29-04:00",
+    "updated_at": "2026-04-23T07:29:28-04:00",
     "title": "Senior Sales Strategy & Operations Analyst",
     "company": "fastly",
     "ats": "greenhouse",
@@ -81464,8 +81464,8 @@
     "alerted": false
   },
   "greenhouse:elastic:7768018": {
-    "updated_at": "2026-04-13T11:25:23-04:00",
-    "title": "Renewal Manager (Individual Contributor)",
+    "updated_at": "2026-04-23T06:15:04-04:00",
+    "title": "Renewal Manager - IC (Spanish speaker)",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -88280,7 +88280,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8449354002": {
-    "updated_at": "2026-04-09T16:51:30-04:00",
+    "updated_at": "2026-04-23T07:21:46-04:00",
     "title": "Sr. Solutions Engineer Israel",
     "company": "databricks",
     "ats": "greenhouse",
@@ -98432,7 +98432,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7588205": {
-    "updated_at": "2026-04-02T15:38:23-04:00",
+    "updated_at": "2026-04-23T06:46:42-04:00",
     "title": "Liquidity Manager, Ripple Trading and Markets",
     "company": "ripple",
     "ats": "greenhouse",
@@ -103392,7 +103392,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7061643": {
-    "updated_at": "2026-04-01T05:24:54-04:00",
+    "updated_at": "2026-04-23T07:28:02-04:00",
     "title": "Enterprise Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -115752,7 +115752,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7553502003": {
-    "updated_at": "2026-03-11T10:37:43-04:00",
+    "updated_at": "2026-04-23T06:36:52-04:00",
     "title": "Corporate Account Executive (DACH)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -121096,7 +121096,7 @@
     "alerted": false
   },
   "greenhouse:okta:7814952": {
-    "updated_at": "2026-04-22T18:12:02-04:00",
+    "updated_at": "2026-04-23T06:57:27-04:00",
     "title": "Deal Strategy Manager - EMEA",
     "company": "okta",
     "ats": "greenhouse",
@@ -124712,8 +124712,8 @@
     "alerted": false
   },
   "greenhouse:workato:8501181002": {
-    "updated_at": "2026-04-23T04:48:08-04:00",
-    "title": "Technical Consultant II",
+    "updated_at": "2026-04-23T07:23:40-04:00",
+    "title": "Technical Consultant II (EMEA Market)",
     "company": "workato",
     "ats": "greenhouse",
     "source_slug": "workato",
@@ -124765,6 +124765,110 @@
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7774559": {
+    "updated_at": "2026-04-23T07:11:33-04:00",
+    "title": "Territory Account Executive",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7711777003": {
+    "updated_at": "2026-04-23T07:10:45-04:00",
+    "title": "Account Executive, Northern Europe - Mid Enterprise, Middle East & Africa",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:celonis:7711782003": {
+    "updated_at": "2026-04-23T07:02:51-04:00",
+    "title": "Applied Engineer (Pre-Sales) - Supply Chain",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:twilio:7531453": {
+    "updated_at": "2026-04-23T06:57:03-04:00",
+    "title": "Senior Manager - Billing and Revenue (Q2C)",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:ripple:7742977": {
+    "updated_at": "2026-04-23T06:51:38-04:00",
+    "title": "Staff Software Engineer, Cash Forecasting",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:okta:7842737": {
+    "updated_at": "2026-04-23T06:39:08-04:00",
+    "title": "Deal Strategy Manager - EMEA",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:samsara:7826401": {
+    "updated_at": "2026-04-23T06:36:13-04:00",
+    "title": "Enterprise Implementation Consultant - Public Sector",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:intercom:7686548": {
+    "updated_at": "2026-04-23T06:22:42-04:00",
+    "title": "Senior Social Media Strategist",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:intercom:7685034": {
+    "updated_at": "2026-04-23T06:22:41-04:00",
+    "title": "Senior Social Media Strategist",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:elastic:7768041": {
+    "updated_at": "2026-04-23T06:15:33-04:00",
+    "title": "Renewal Manager - IC (French speaker)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:adyen:7621723": {
+    "updated_at": "2026-04-23T06:02:24-04:00",
+    "title": "Project Operation Manager",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4644028005": {
+    "updated_at": "2026-04-23T05:59:48-04:00",
+    "title": "Commercial Account Executive, Israel",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7841019": {
+    "updated_at": "2026-04-23T05:58:18-04:00",
+    "title": "Senior Engineering Manager - Workers KV",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
     "alerted": false
   }
 }
