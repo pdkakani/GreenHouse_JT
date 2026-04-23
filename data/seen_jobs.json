@@ -17824,7 +17824,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7144697": {
-    "updated_at": "2026-04-17T17:09:02-04:00",
+    "updated_at": "2026-04-23T16:49:51-04:00",
     "title": "Activation Sales Development Representative I",
     "company": "instacart",
     "ats": "greenhouse",
@@ -17960,7 +17960,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7712406": {
-    "updated_at": "2026-04-17T17:09:03-04:00",
+    "updated_at": "2026-04-23T16:49:51-04:00",
     "title": "Retention Sales Development Representative II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -19592,7 +19592,7 @@
     "alerted": true
   },
   "greenhouse:asana:7299272": {
-    "updated_at": "2026-04-20T12:42:23-04:00",
+    "updated_at": "2026-04-23T16:32:50-04:00",
     "title": "Software Engineer, CI/CD",
     "company": "asana",
     "ats": "greenhouse",
@@ -19600,7 +19600,7 @@
     "alerted": true
   },
   "greenhouse:asana:7595104": {
-    "updated_at": "2026-04-20T12:42:23-04:00",
+    "updated_at": "2026-04-23T16:32:55-04:00",
     "title": "Software Engineer, CI/CD",
     "company": "asana",
     "ats": "greenhouse",
@@ -19608,7 +19608,7 @@
     "alerted": true
   },
   "greenhouse:asana:7394807": {
-    "updated_at": "2026-04-20T12:42:23-04:00",
+    "updated_at": "2026-04-23T16:33:00-04:00",
     "title": "Staff Engineer - CI/CD",
     "company": "asana",
     "ats": "greenhouse",
@@ -29128,7 +29128,7 @@
     "alerted": false
   },
   "greenhouse:workato:8445007002": {
-    "updated_at": "2026-04-05T00:36:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Customer Centric Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29136,7 +29136,7 @@
     "alerted": false
   },
   "greenhouse:workato:8395437002": {
-    "updated_at": "2026-04-05T00:36:09-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Director, Product Management (Data Orchestration and Insights)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29144,7 +29144,7 @@
     "alerted": false
   },
   "greenhouse:workato:8497003002": {
-    "updated_at": "2026-04-08T09:12:14-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Director, Product Management (Platform, Security & Enterprise Readiness)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29160,7 +29160,7 @@
     "alerted": false
   },
   "greenhouse:workato:8437707002": {
-    "updated_at": "2026-04-05T00:37:59-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29168,7 +29168,7 @@
     "alerted": false
   },
   "greenhouse:workato:8437701002": {
-    "updated_at": "2026-04-05T00:37:55-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29176,7 +29176,7 @@
     "alerted": false
   },
   "greenhouse:workato:8492935002": {
-    "updated_at": "2026-04-09T23:12:52-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Intern, AI Engineering",
     "company": "workato",
     "ats": "greenhouse",
@@ -29184,7 +29184,7 @@
     "alerted": false
   },
   "greenhouse:workato:8465075002": {
-    "updated_at": "2026-04-05T02:05:29-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Outbound Sales Development Representative",
     "company": "workato",
     "ats": "greenhouse",
@@ -29192,7 +29192,7 @@
     "alerted": false
   },
   "greenhouse:workato:8317830002": {
-    "updated_at": "2026-04-16T16:39:25-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior AI\u202fResearch\u202fScientist",
     "company": "workato",
     "ats": "greenhouse",
@@ -29200,7 +29200,7 @@
     "alerted": false
   },
   "greenhouse:workato:8309732002": {
-    "updated_at": "2026-04-16T16:39:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Developer Advocate",
     "company": "workato",
     "ats": "greenhouse",
@@ -29208,7 +29208,7 @@
     "alerted": false
   },
   "greenhouse:workato:8480800002": {
-    "updated_at": "2026-04-05T00:33:05-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29216,15 +29216,15 @@
     "alerted": false
   },
   "greenhouse:workato:8465521002": {
-    "updated_at": "2026-04-05T00:59:45-04:00",
-    "title": "Senior Infrastructure Engineer (Observability) relocation ",
+    "updated_at": "2026-04-23T16:59:38-04:00",
+    "title": "Senior Infrastructure Engineer (Observability) relocation",
     "company": "workato",
     "ats": "greenhouse",
     "source_slug": "workato",
     "alerted": false
   },
   "greenhouse:workato:8343123002": {
-    "updated_at": "2026-04-05T00:37:24-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Instructional Designer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29232,7 +29232,7 @@
     "alerted": false
   },
   "greenhouse:workato:8309641002": {
-    "updated_at": "2026-04-16T16:39:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Manager, Global Developer Communities - San Francisco",
     "company": "workato",
     "ats": "greenhouse",
@@ -29240,7 +29240,7 @@
     "alerted": false
   },
   "greenhouse:workato:8285682002": {
-    "updated_at": "2026-04-16T16:39:25-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29248,7 +29248,7 @@
     "alerted": false
   },
   "greenhouse:workato:8357395002": {
-    "updated_at": "2026-04-05T01:06:48-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (GOlang)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29256,7 +29256,7 @@
     "alerted": false
   },
   "greenhouse:workato:8405309002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29264,7 +29264,7 @@
     "alerted": false
   },
   "greenhouse:workato:8141650002": {
-    "updated_at": "2026-04-05T01:07:11-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Search / Retrieval)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29272,7 +29272,7 @@
     "alerted": false
   },
   "greenhouse:workato:8123299002": {
-    "updated_at": "2026-04-05T01:58:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Solutions Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -29280,7 +29280,7 @@
     "alerted": false
   },
   "greenhouse:workato:8426434002": {
-    "updated_at": "2026-04-05T01:04:43-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior UX Designer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29288,7 +29288,7 @@
     "alerted": false
   },
   "greenhouse:workato:8112909002": {
-    "updated_at": "2026-04-16T16:39:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Software Engineer - Developer Products (AI)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29296,7 +29296,7 @@
     "alerted": false
   },
   "greenhouse:workato:8330527002": {
-    "updated_at": "2026-04-05T01:01:40-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff AI Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29304,7 +29304,7 @@
     "alerted": false
   },
   "greenhouse:workato:8330535002": {
-    "updated_at": "2026-04-05T01:01:46-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff AI Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29312,7 +29312,7 @@
     "alerted": false
   },
   "greenhouse:workato:8474237002": {
-    "updated_at": "2026-04-20T14:07:07-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Domain Expert, AI in GTM",
     "company": "workato",
     "ats": "greenhouse",
@@ -29320,15 +29320,15 @@
     "alerted": false
   },
   "greenhouse:workato:8474249002": {
-    "updated_at": "2026-04-04T23:19:37-04:00",
-    "title": "Staff Domain Expert, Customer Support ",
+    "updated_at": "2026-04-23T16:59:38-04:00",
+    "title": "Staff Domain Expert, Customer Support",
     "company": "workato",
     "ats": "greenhouse",
     "source_slug": "workato",
     "alerted": false
   },
   "greenhouse:workato:8298109002": {
-    "updated_at": "2026-04-17T09:59:32-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29336,7 +29336,7 @@
     "alerted": false
   },
   "greenhouse:workato:8326092002": {
-    "updated_at": "2026-04-22T17:45:01-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Product Manager (Build Experience - Agentic)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29344,7 +29344,7 @@
     "alerted": false
   },
   "greenhouse:workato:8154474002": {
-    "updated_at": "2026-04-05T01:04:37-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Product Manager (Build Experience - Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29352,7 +29352,7 @@
     "alerted": false
   },
   "greenhouse:workato:8509542002": {
-    "updated_at": "2026-04-16T16:39:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Product Manager (Developer tools)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29360,7 +29360,7 @@
     "alerted": false
   },
   "greenhouse:workato:8116160002": {
-    "updated_at": "2026-04-05T01:07:31-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Product Manager (Enterprise & AI Governance)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29368,7 +29368,7 @@
     "alerted": false
   },
   "greenhouse:workato:8392595002": {
-    "updated_at": "2026-04-22T17:44:37-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Product Manager (Evals)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29376,7 +29376,7 @@
     "alerted": false
   },
   "greenhouse:workato:8480090002": {
-    "updated_at": "2026-04-05T01:00:11-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Product Manager (Lifecycle and Operations)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29384,7 +29384,7 @@
     "alerted": false
   },
   "greenhouse:workato:8432907002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer (relocation)",
     "company": "workato",
     "ats": "greenhouse",
@@ -29392,7 +29392,7 @@
     "alerted": false
   },
   "greenhouse:workato:8227976002": {
-    "updated_at": "2026-04-05T00:34:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -29400,7 +29400,7 @@
     "alerted": false
   },
   "greenhouse:workato:8415141002": {
-    "updated_at": "2026-04-05T02:03:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Technical Architect, Professional Services",
     "company": "workato",
     "ats": "greenhouse",
@@ -29408,7 +29408,7 @@
     "alerted": false
   },
   "greenhouse:workato:8406030002": {
-    "updated_at": "2026-04-05T01:09:14-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "UX Designer",
     "company": "workato",
     "ats": "greenhouse",
@@ -31808,7 +31808,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8399532002": {
-    "updated_at": "2026-03-27T20:21:42-04:00",
+    "updated_at": "2026-04-23T16:14:29-04:00",
     "title": "Environmental Health & Safety Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -34496,7 +34496,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7608838": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Development Representative",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34504,7 +34504,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7607508": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Development Representative",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34512,7 +34512,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7592553": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Development Representative (New Grad)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34520,7 +34520,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7607468": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Development Representative (New Grad)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34528,7 +34528,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7491153": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "AI Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34536,7 +34536,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7763345": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "AI Product Manager, Business Technology",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34544,7 +34544,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266615": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Associate Product Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34568,7 +34568,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7650290": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Data Engineer II",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34576,7 +34576,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7695309": {
-    "updated_at": "2026-04-22T13:43:07-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Field Sales Engineering",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34584,7 +34584,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7581914": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Electrical Engineering Co-Op",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34592,7 +34592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7368115": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Core Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34600,7 +34600,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7558004": {
-    "updated_at": "2026-04-17T15:32:11-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Core Sales Engineer, Public Sector - Remote US MST/PST",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34608,7 +34608,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7564181": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Field Sales Engineer II, Enterprise-Midwest/Northeast",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34616,7 +34616,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7697637": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Field Sales Engineer II, Enterprise-Northeast",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34624,7 +34624,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266307": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Lead Full Stack Developer, Business Applications",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34632,7 +34632,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7558150": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Operations Program Management",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34640,7 +34640,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266435": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Software Engineering - Mobile Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34648,7 +34648,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7811498": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manufacturing Design Engineering Co-op (6 months)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34656,7 +34656,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7768922": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manufacturing Design Engineering Intern - Summer Intern",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34664,7 +34664,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7581969": {
-    "updated_at": "2026-04-16T23:02:44-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Sales Engineer - US North East",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34672,7 +34672,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7662841": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Partner Solutions Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34680,7 +34680,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7723776": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Partner Specialist SE - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34688,7 +34688,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7484052": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Principal Product Manager - AI Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34696,7 +34696,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7717258": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer 4 - Associate Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34704,7 +34704,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7564110": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer - Enterprise, TOLA",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34712,7 +34712,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7531457": {
-    "updated_at": "2026-04-22T16:17:44-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer, Enterprise - US West",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34720,7 +34720,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341443": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer II - Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34728,7 +34728,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6782502": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer II - Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34736,7 +34736,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7311741": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer I, SE Desk ET",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34744,7 +34744,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7187197": {
-    "updated_at": "2026-04-21T10:20:46-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer - Mid-Market Midwest",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34752,7 +34752,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7187159": {
-    "updated_at": "2026-04-21T10:21:43-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer - Mid-Market Northeast",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34760,7 +34760,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7187219": {
-    "updated_at": "2026-04-21T10:22:23-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer - Mid-Market West",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34768,7 +34768,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7493951": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer, Public Sector Enterprise Core - Remote US Northeast",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34776,7 +34776,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266657": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Data Platform Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34784,7 +34784,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7460051": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Hardware Reliability Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34792,7 +34792,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7291574": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Hardware Systems Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34800,7 +34800,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7327168": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Machine Learning Engineer - Edge AI",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34808,7 +34808,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266471": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Machine Learning Engineer - Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34816,7 +34816,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7731751": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Manager, Computer Vision",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34824,7 +34824,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7510710": {
-    "updated_at": "2026-04-21T15:47:42-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Marketing AI Data Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34832,7 +34832,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7525300": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Mechanical Engineer (Product Design)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34840,7 +34840,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266447": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Mobile Software Engineer - BLE / Connectivity",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34848,7 +34848,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7733571": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior/Principal Product Manager - Safety AI",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34856,7 +34856,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7742662": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Program Manager, Sales Programs \u2013 AI",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34864,15 +34864,15 @@
     "alerted": false
   },
   "greenhouse:samsara:7554796": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
-    "title": "Senior Security Engineer - Threat Modeling   ",
+    "updated_at": "2026-04-23T16:59:55-04:00",
+    "title": "Senior Security Engineer - Threat Modeling",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": false
   },
   "greenhouse:samsara:7266719": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer, AI Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34880,7 +34880,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7745837": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer, Growth",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34888,7 +34888,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7743836": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer II, Developer Experience, Operational Excellence - US/Canada Eastern Time Zone",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34896,7 +34896,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266469": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer II - Mobile Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34904,7 +34904,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7569229": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer - Route Execution",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34912,7 +34912,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266465": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Systems EPM",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34920,7 +34920,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7619925": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Software Engineer II, AI Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34928,7 +34928,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7610288": {
-    "updated_at": "2026-04-22T00:32:33-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Integration Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34936,7 +34936,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7610374": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Automation Engineer (Infra)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34944,7 +34944,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7706338": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Engineering Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34952,7 +34952,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7648713": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Growth Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34960,7 +34960,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7767914": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Image Quality Architecture Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34968,7 +34968,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7767916": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Image Quality Tuning Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34976,7 +34976,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7752492": {
-    "updated_at": "2026-04-20T12:14:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Security Engineer I - Enterprise Security",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34984,7 +34984,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266357": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Machine Learning Engineer - Edge AI",
     "company": "samsara",
     "ats": "greenhouse",
@@ -34992,7 +34992,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7721193": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff ML Engineer - ML Infrastructure",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35000,7 +35000,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266713": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Mobile Engineer - Mobile Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35016,7 +35016,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7597673": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35024,7 +35024,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7588828": {
-    "updated_at": "2026-04-22T11:51:17-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer - CAM",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35032,7 +35032,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266385": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer - Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35040,7 +35040,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7559244": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer - Security & Privacy",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35048,7 +35048,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7298858": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35056,7 +35056,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7644634": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Support Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35064,7 +35064,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7736544": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Support Engineer \u2013 Mobile Apps and Compliance",
     "company": "samsara",
     "ats": "greenhouse",
@@ -43872,7 +43872,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266162": {
-    "updated_at": "2026-04-22T11:52:25-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Staff Software Engineer - STCE",
     "company": "samsara",
     "ats": "greenhouse",
@@ -47512,7 +47512,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7759850": {
-    "updated_at": "2026-04-22T08:31:07-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Implementation - Public Sector Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -47568,7 +47568,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7367675": {
-    "updated_at": "2026-04-22T11:54:43-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Staff Software Engineer - STCE",
     "company": "samsara",
     "ats": "greenhouse",
@@ -47688,7 +47688,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7837666": {
-    "updated_at": "2026-04-23T10:23:22-04:00",
+    "updated_at": "2026-04-23T17:01:41-04:00",
     "title": "Manager, Revenue Strategy & Operations",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -47976,7 +47976,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837410": {
-    "updated_at": "2026-04-21T09:55:50-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -47984,7 +47984,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837394": {
-    "updated_at": "2026-04-21T09:55:23-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -47992,7 +47992,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837198": {
-    "updated_at": "2026-04-21T09:55:11-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Pre-Sales Services Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48016,7 +48016,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837400": {
-    "updated_at": "2026-04-21T09:53:13-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48024,7 +48024,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7834031": {
-    "updated_at": "2026-04-21T09:53:11-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48032,7 +48032,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837404": {
-    "updated_at": "2026-04-21T09:53:10-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48040,7 +48040,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837388": {
-    "updated_at": "2026-04-21T09:53:09-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48096,7 +48096,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837229": {
-    "updated_at": "2026-04-21T09:40:42-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Pre-Sales Services Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48104,7 +48104,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837212": {
-    "updated_at": "2026-04-21T09:40:39-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Pre-Sales Services Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48112,7 +48112,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837204": {
-    "updated_at": "2026-04-21T09:40:36-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Pre-Sales Services Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48120,7 +48120,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7837184": {
-    "updated_at": "2026-04-21T09:40:33-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Pre-Sales Services Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48128,7 +48128,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7834026": {
-    "updated_at": "2026-04-21T09:40:31-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Pre-Sales Services Consultant (Engagement Services Manager)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48736,7 +48736,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7836049": {
-    "updated_at": "2026-04-22T13:28:19-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Deal Support Quality & Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48744,7 +48744,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7836027": {
-    "updated_at": "2026-04-22T13:27:56-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Deal Support Quality & Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -48752,7 +48752,7 @@
     "alerted": false
   },
   "greenhouse:workato:8516331002": {
-    "updated_at": "2026-04-21T06:55:53-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -48984,7 +48984,7 @@
     "alerted": false
   },
   "greenhouse:workato:8480005002": {
-    "updated_at": "2026-04-21T21:02:31-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Business Operations Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -49176,7 +49176,7 @@
     "alerted": false
   },
   "greenhouse:workato:8480320002": {
-    "updated_at": "2026-04-21T03:59:16-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Backend Engineer (GoLang)",
     "company": "workato",
     "ats": "greenhouse",
@@ -49184,7 +49184,7 @@
     "alerted": false
   },
   "greenhouse:workato:8456827002": {
-    "updated_at": "2026-04-21T03:49:46-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Software Development Engineer in Test",
     "company": "workato",
     "ats": "greenhouse",
@@ -49280,7 +49280,7 @@
     "alerted": false
   },
   "greenhouse:workato:8467297002": {
-    "updated_at": "2026-04-21T02:53:15-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Sales Manager, Strategic Sales",
     "company": "workato",
     "ats": "greenhouse",
@@ -49288,7 +49288,7 @@
     "alerted": false
   },
   "greenhouse:workato:8304751002": {
-    "updated_at": "2026-04-21T02:15:46-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior AI Applications Engineer (Full Stack)",
     "company": "workato",
     "ats": "greenhouse",
@@ -49352,7 +49352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7834975": {
-    "updated_at": "2026-04-21T00:52:47-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Security Engineer - Enterprise Security",
     "company": "samsara",
     "ats": "greenhouse",
@@ -50944,7 +50944,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7760220": {
-    "updated_at": "2026-04-20T20:00:03-04:00",
+    "updated_at": "2026-04-23T16:42:48-04:00",
     "title": "Senior Business Systems Analyst - Billing and Rev Management",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51800,7 +51800,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7739096": {
-    "updated_at": "2026-04-20T18:15:11-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. BT Support Specialist I",
     "company": "samsara",
     "ats": "greenhouse",
@@ -52288,7 +52288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7679785": {
-    "updated_at": "2026-04-20T16:51:44-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Engagement Services Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -53208,7 +53208,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4103493007": {
-    "updated_at": "2026-04-20T16:49:05-04:00",
+    "updated_at": "2026-04-23T16:38:49-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53376,7 +53376,7 @@
     "alerted": false
   },
   "greenhouse:workato:8380876002": {
-    "updated_at": "2026-04-20T16:16:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Intern, Finance",
     "company": "workato",
     "ats": "greenhouse",
@@ -55288,7 +55288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7638098": {
-    "updated_at": "2026-04-20T13:49:37-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Renewals Manager, US Mid-Market",
     "company": "samsara",
     "ats": "greenhouse",
@@ -56088,7 +56088,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652717006": {
-    "updated_at": "2026-04-20T12:54:10-04:00",
+    "updated_at": "2026-04-23T16:57:04-04:00",
     "title": "Senior Manager, Data Center Logistics & Inventory",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -57320,7 +57320,7 @@
     "alerted": false
   },
   "greenhouse:elastic:6754725": {
-    "updated_at": "2026-04-23T15:09:28-04:00",
+    "updated_at": "2026-04-23T16:46:53-04:00",
     "title": "Account Executive (Aramco)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -59728,7 +59728,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7761103": {
-    "updated_at": "2026-04-17T15:36:43-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Business Operations Manager, Technical Support Ops",
     "company": "samsara",
     "ats": "greenhouse",
@@ -60024,7 +60024,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7742566": {
-    "updated_at": "2026-04-17T14:20:18-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -60040,7 +60040,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7658873": {
-    "updated_at": "2026-04-17T14:20:15-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Bilingual Customer Support Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -62456,7 +62456,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7530564": {
-    "updated_at": "2026-04-17T13:35:16-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Product Partnerships",
     "company": "samsara",
     "ats": "greenhouse",
@@ -62792,7 +62792,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7484250": {
-    "updated_at": "2026-04-17T11:32:49-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Select Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64376,7 +64376,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7619927": {
-    "updated_at": "2026-04-22T13:27:32-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Deal Support Quality & Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64384,7 +64384,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7560138": {
-    "updated_at": "2026-04-21T20:30:33-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Manager, Mid-Market",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64408,7 +64408,7 @@
     "alerted": false
   },
   "greenhouse:samsara:5747183": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Development Representative",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64416,7 +64416,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7618026": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Development Representative - DACH",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64424,7 +64424,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7614550": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Development Representative - UK",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64432,7 +64432,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612447": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64440,7 +64440,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612441": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64448,7 +64448,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6605599": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64456,7 +64456,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6605602": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64464,7 +64464,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6605601": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64472,7 +64472,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6605604": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64480,7 +64480,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612442": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64488,7 +64488,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612443": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64496,7 +64496,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612444": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64504,7 +64504,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612445": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64512,7 +64512,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612450": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64520,7 +64520,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612449": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64528,7 +64528,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612448": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64536,7 +64536,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612446": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64544,7 +64544,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266224": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Majors (Select) - UK&I",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64552,7 +64552,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7609126": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Mid Market (Midwest)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64560,7 +64560,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7609147": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Mid Market (Northeast)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64568,7 +64568,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7609156": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Mid Market (Southeast)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64576,7 +64576,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7608969": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Mid Market (TOLA)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64584,7 +64584,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7609057": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Mid Market (West)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64592,7 +64592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266220": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Account Executive, Select - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64608,7 +64608,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7390434": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Administrative Assistant (Legal Team)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64616,7 +64616,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7589442": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "AI Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64624,7 +64624,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7271233": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Business Operations Manager - GTM",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64632,7 +64632,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7684568": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Change Management and Enablement Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64640,7 +64640,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6046586": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Commercial Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64648,7 +64648,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6046594": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Commercial Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64656,7 +64656,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6046593": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Commercial Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64664,7 +64664,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6046587": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Commercial Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64672,7 +64672,7 @@
     "alerted": false
   },
   "greenhouse:samsara:5868498": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Commercial Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64680,7 +64680,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6046590": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Commercial Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64688,7 +64688,7 @@
     "alerted": false
   },
   "greenhouse:samsara:5979842": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64696,7 +64696,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341016": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Alabama",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64704,7 +64704,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341007": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Arkansas",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64712,7 +64712,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6685496": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Austin, TX",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64720,7 +64720,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6685493": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Chicago, IL",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64728,7 +64728,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6685497": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Dallas, TX",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64736,7 +64736,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6685499": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Houston, TX",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64744,7 +64744,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340953": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Indiana",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64752,7 +64752,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340549": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Iowa",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64760,7 +64760,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340994": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Kansas",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64768,7 +64768,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340978": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Louisiana",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64776,7 +64776,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340962": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Michigan",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64784,7 +64784,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6685500": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Minneapolis, MN",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64792,7 +64792,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341011": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Mississippi",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64800,7 +64800,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341002": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Missouri",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64808,7 +64808,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340970": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Ohio",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64816,7 +64816,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340980": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Oklahoma",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64824,7 +64824,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7357074": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote Pennsylvania",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64832,7 +64832,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7357073": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote Pennsylvania",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64840,7 +64840,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7357164": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote Vermont",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64848,7 +64848,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7340944": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive EST/CST - Remote - Wisconsin",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64856,7 +64856,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341070": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive MST/PST - Nebraska",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64864,7 +64864,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341024": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive MST/PST - North Dakota",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64872,7 +64872,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7341067": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Core Enterprise Account Executive MST/PST - South Dakota",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64896,7 +64896,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7646124": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Customer Success Manager - Canada",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64904,7 +64904,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7487346": {
-    "updated_at": "2026-04-23T08:52:58-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Customer Success Manager V",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64912,7 +64912,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7487268": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Customer Success Specialist - Commercial/Mid-Market Collections",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64920,7 +64920,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7384082": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Customer Support Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64928,7 +64928,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7742598": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Customer Support Specialist IV-2",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64936,7 +64936,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7628240": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, ABM & Field Marketing",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64944,7 +64944,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7743897": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, ABM & Field Marketing",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64952,7 +64952,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7629688": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Audience Product Marketing",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64968,7 +64968,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7283904": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Field Onboarding",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64976,7 +64976,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7743901": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Global Payroll",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64984,7 +64984,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7511865": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Hardware Product Operations",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64992,7 +64992,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7673387": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Insurance Partnerships",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65000,7 +65000,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7746608": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Mid-Market Sales - Mainland Europe",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65008,7 +65008,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7716293": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Mid-Market Sales - Mainland Europe",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65016,7 +65016,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7705398": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Revenue Enablement EMEA",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65024,7 +65024,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7791232": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Revenue Enablement EMEA",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65032,7 +65032,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7504955": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Director, Sales Compensation",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65040,7 +65040,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7640343": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enablement Business Partner \u2013 Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65048,7 +65048,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7423809": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Core Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65056,7 +65056,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7471437": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Core Account Executive, UK",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65064,7 +65064,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7487270": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65088,7 +65088,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7482459": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65104,7 +65104,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7625030": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65152,7 +65152,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7481333": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Customer Success Manager - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65160,7 +65160,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7487242": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65168,7 +65168,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7731754": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65176,7 +65176,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7818569": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Sales Engineer - Toronto",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65184,7 +65184,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7749339": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Field Marketing Manager - UK&I",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65216,7 +65216,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7741190": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Global Operations Rotation Program",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65224,7 +65224,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7669236": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "GRC Analyst, Third-Party Risk Management",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65232,7 +65232,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7646081": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "GTM Sourcer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65240,7 +65240,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7646085": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "GTM Sourcer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65248,7 +65248,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7723466": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Inside Sales Director, Account Development",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65256,7 +65256,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266206": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Installation Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65264,7 +65264,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7484453": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "L1 Senior Technical Support",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65272,7 +65272,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7601794": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Lead Full Stack Developer, Business Applications",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65280,7 +65280,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266407": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Machine Learning for Supply Chain",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65288,7 +65288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7613076": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Major Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65296,7 +65296,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7818508": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Major Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65304,7 +65304,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7307842": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Major Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65312,7 +65312,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7624398": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, CS Operations",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65328,7 +65328,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7343043": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Enterprise Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65336,7 +65336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7702368": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Enterprise Customer Success - Select",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65344,7 +65344,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7743690": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager I, Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65352,7 +65352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7487344": {
-    "updated_at": "2026-04-23T14:54:22-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager II, Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65360,7 +65360,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7609022": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager II, Field Sales Engineering - Enterprise, Canada",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65368,7 +65368,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7555287": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager II Sales Operations",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65376,7 +65376,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7383997": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Inside Sales - Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65384,7 +65384,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7812192": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Software Engineering (Developer Experience)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65392,7 +65392,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7630034": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Software Engineering - Mobile Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65400,7 +65400,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7345839": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Software Engineering (Platform Reports)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65408,7 +65408,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266585": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Software Engineering (Platform Reports)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65416,7 +65416,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7712774": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Technical Account Management",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65424,7 +65424,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7525295": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Technical Account Management",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65432,7 +65432,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7516162": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Technical Support Level 1",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65440,7 +65440,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7740057": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, Video Production",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65448,7 +65448,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7662771": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, WW Planning",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65456,7 +65456,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7680056": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Manager, WW Planning",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65464,7 +65464,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7681215": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Marketing Operations Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65472,7 +65472,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7618041": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mexico Major AE",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65480,7 +65480,7 @@
     "alerted": false
   },
   "greenhouse:samsara:6330593": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Calgary",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65488,7 +65488,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266176": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid Market Account Executive - DACH",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65496,7 +65496,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7571463": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65504,7 +65504,7 @@
     "alerted": false
   },
   "greenhouse:samsara:5868607": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - French Fluent",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65512,7 +65512,7 @@
     "alerted": false
   },
   "greenhouse:samsara:5868615": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65520,7 +65520,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651591": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65528,7 +65528,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651609": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65536,7 +65536,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651607": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65544,7 +65544,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651604": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65552,7 +65552,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651596": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65560,7 +65560,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612559": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65568,7 +65568,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651556": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65576,7 +65576,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651562": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65584,7 +65584,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651567": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65592,7 +65592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651569": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65600,7 +65600,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651574": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65608,7 +65608,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651579": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65616,7 +65616,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651583": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65624,7 +65624,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651589": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65632,7 +65632,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651593": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65640,7 +65640,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7613161": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Mid-Market Account Executive - UK&I",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65656,7 +65656,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7269221": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Principal Product Manager - Maintenance",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65664,7 +65664,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7650416": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Principal Product Manager - Maintenance",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65672,7 +65672,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7741106": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Procurement Analyst II",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65680,7 +65680,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7697839": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Product Manager, Growth",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65688,7 +65688,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7722482": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Proposal Writer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65696,7 +65696,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7557798": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Public Sector Mid-Market Regional Sales Manager.",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65704,7 +65704,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7732679": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Recruiting Coordinator",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65712,7 +65712,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7635353": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Regional Sales Director, Select Enterprise - Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65728,7 +65728,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7675041": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Renewals Account Executive - Enterprise - Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65736,7 +65736,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7637225": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Renewals Account Executive - Mid-Market - Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65744,7 +65744,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7638108": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Renewals Program Manager (Enablement & Execution)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65752,7 +65752,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7638111": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Renewals Retention Manager (Renewals Strategy Specialist)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65760,7 +65760,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7547204": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Director, Mid-Market",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65768,7 +65768,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7649890": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer - EMEA Specialists",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65776,7 +65776,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7616895": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Engineer, Enterprise- Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65784,7 +65784,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7584414": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Operations Analyst",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65792,7 +65792,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7663857": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Operations and Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65800,7 +65800,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7557856": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Operations and Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65808,7 +65808,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7666070": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Operations Coordinator",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65816,7 +65816,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7555217": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Operations Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65824,7 +65824,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7594366": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Recruiter - EMEA (AE & ADR Focus)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65832,7 +65832,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7558801": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Recruiter - EMEA (AE & ADR Focus)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65840,7 +65840,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7536654": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Tools & Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65848,7 +65848,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7597168": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65856,7 +65856,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7818253": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65864,7 +65864,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7818255": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65872,7 +65872,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7818248": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65880,7 +65880,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7663743": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65888,7 +65888,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7663741": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65896,7 +65896,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7663746": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65904,7 +65904,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7663744": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65912,7 +65912,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7663745": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Select Major Account Executive (CST)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65952,7 +65952,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7403848": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Billing and Accounts Receivable Specialist, Enterprise Accounts",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65960,7 +65960,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7595330": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Billing and Accounts Receivable Specialist, Enterprise Accounts",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65968,7 +65968,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7346657": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Business Intelligence Analyst",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65976,7 +65976,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7482355": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Business Value Strategist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65984,7 +65984,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7772844": {
-    "updated_at": "2026-04-21T15:53:47-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Data Engineer II",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65992,7 +65992,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266961": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Data Platform Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66000,7 +66000,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7567456": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Escalation Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66008,7 +66008,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7290232": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Instructional Designer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66016,7 +66016,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7656422": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Knowledge Developer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66032,7 +66032,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7585940": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Legal Counsel - London",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66040,7 +66040,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7315656": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Machine Learning Engineer - Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66048,7 +66048,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7782752": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Manager, Computer Vision",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66056,7 +66056,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7532262": {
-    "updated_at": "2026-04-21T15:47:43-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Marketing AI Data Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66064,7 +66064,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7309400": {
-    "updated_at": "2026-04-22T15:33:05-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Marketing Operations Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66072,7 +66072,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7392436": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Mobile Software Engineer - BLE / Connectivity",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66080,7 +66080,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7791397": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Netsuite Developer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66088,7 +66088,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7541227": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Partner Manager - Strategic Partnerships",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66096,7 +66096,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7522148": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Performance Marketing Manager - EMEA",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66104,7 +66104,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7736609": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior/Principal Product Manager - Safety AI",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66112,7 +66112,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7700461": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Product Manager, Growth",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66120,7 +66120,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7785650": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Product Marketing Manager, Market and Competitive Intelligence",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66128,7 +66128,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7615410": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Program Manager - Sales Programs (Transformational)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66136,7 +66136,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7536597": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Program Manager - Sales Programs (Transformational)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66144,7 +66144,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7766209": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Planning and Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66152,7 +66152,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7747699": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Planning and Strategy Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66160,7 +66160,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7371641": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66168,7 +66168,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7373807": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66176,7 +66176,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7373812": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66184,7 +66184,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7373809": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66192,7 +66192,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7396373": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66200,7 +66200,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7396370": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66208,7 +66208,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7396368": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66216,7 +66216,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7396367": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Quality Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66224,7 +66224,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7461793": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Sales Strategy Manager, New Product",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66232,7 +66232,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7559214": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Security Engineer - Threat Modeling",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66240,7 +66240,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7703696": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Security Engineer, Vulnerability team",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66248,7 +66248,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7773090": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer, Growth",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66256,7 +66256,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7717540": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer II, Developer Experience / Operational Excellence",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66264,7 +66264,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7573118": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Software Engineer - Route Execution",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66272,7 +66272,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7768924": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Supply Chain Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66280,7 +66280,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7732258": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Technical Trainer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66288,7 +66288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7784594": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Senior Web Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66296,7 +66296,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7487370": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Solutions Integration Enginer III",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66312,7 +66312,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7292081": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Specialist Seller - Enterprise",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66320,7 +66320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7409548": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Specialist Seller, Mid-Market",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66328,7 +66328,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7592390": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Analyst, Sales Operations",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66336,7 +66336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7522075": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Analyst, Sales Operations",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66344,7 +66344,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7637590": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Executive Assistant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66352,7 +66352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7565535": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Global Supply Manager I",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66360,7 +66360,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7651761": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Growth Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66368,7 +66368,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7589195": {
-    "updated_at": "2026-04-23T08:35:37-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Manager, Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66376,7 +66376,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7530460": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Manager, Services Partners",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66384,7 +66384,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7530558": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Partner Account Executive, EMEA FMC",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66392,7 +66392,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7699546": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Performance Marketing Manager, Affiliates & Lead Buy Content Syn",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66400,7 +66400,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7688550": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Pipeline Programs Analyst",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66408,7 +66408,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7786156": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Product Manager I, In-vehicle Experience",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66416,7 +66416,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7647982": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Product Marketing Manager - Smart Trailers & Connected Equipment",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66424,7 +66424,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7729297": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr Product Operations Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66432,7 +66432,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7595083": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Program Manager - Customer Success Programs",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66440,7 +66440,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7738328": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Program Manager - Customer Success Programs",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66448,7 +66448,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7750768": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Renewals Digital Experience Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66456,7 +66456,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7750279": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Revenue Tools Product Manager I",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66464,7 +66464,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7803735": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Sales Compensation Analyst",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66472,7 +66472,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7759368": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Sales Compensation Analyst",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66480,7 +66480,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7621277": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Support Tools Product Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66488,7 +66488,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7583834": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Support Tools Product Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66496,7 +66496,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7431070": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Machine Learning Engineer - Edge AI",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66504,7 +66504,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7746586": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff ML Engineer - ML Infrastructure",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66512,7 +66512,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7304881": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Mobile Engineer - Mobile Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66528,7 +66528,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266287": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer - Platform and Infrastructure",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66536,7 +66536,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7589637": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer - Security & Privacy",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66544,7 +66544,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7398072": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer - Sustainability",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66552,7 +66552,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7548384": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Staff Software Engineer - Sustainability",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66560,7 +66560,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7398075": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Strategic Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66568,7 +66568,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7722117": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Strategic Enterprise Renewal Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66576,7 +66576,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7760077": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Strategic Program Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66584,7 +66584,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7545050": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Supply Chain AI Product Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66592,7 +66592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7578954": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Supply Chain Change Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66600,7 +66600,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7743948": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Supply Chain - Summer Intern",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66608,7 +66608,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7763623": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Account Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66616,7 +66616,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7702042": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Account Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66624,7 +66624,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7733786": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Account Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66632,7 +66632,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7733788": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Account Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66640,7 +66640,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7742563": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Account Manager IV",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66648,7 +66648,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7713048": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Support Engineer III",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66656,7 +66656,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7736569": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Support Engineer \u2013 Mobile Apps and Compliance",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66664,7 +66664,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7707091": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Support Engineer \u2013 Mobile Apps and Compliance",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66672,7 +66672,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7386042": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Technical Support Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66680,7 +66680,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7347102": {
-    "updated_at": "2026-04-16T21:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Validation Specialist - MX",
     "company": "samsara",
     "ats": "greenhouse",
@@ -67248,7 +67248,7 @@
     "alerted": false
   },
   "greenhouse:workato:8051777002": {
-    "updated_at": "2026-04-16T16:39:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Account Executive",
     "company": "workato",
     "ats": "greenhouse",
@@ -68112,7 +68112,7 @@
     "alerted": false
   },
   "greenhouse:workato:8499298002": {
-    "updated_at": "2026-04-21T12:40:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Intern, Product Management (Data Orchestration)",
     "company": "workato",
     "ats": "greenhouse",
@@ -69736,7 +69736,7 @@
     "alerted": false
   },
   "greenhouse:workato:8501211002": {
-    "updated_at": "2026-04-16T05:01:46-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Manager, Sales Development",
     "company": "workato",
     "ats": "greenhouse",
@@ -69776,7 +69776,7 @@
     "alerted": false
   },
   "greenhouse:workato:8501206002": {
-    "updated_at": "2026-04-16T04:33:34-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Manager, Sales Development",
     "company": "workato",
     "ats": "greenhouse",
@@ -70040,7 +70040,7 @@
     "alerted": false
   },
   "greenhouse:workato:8494478002": {
-    "updated_at": "2026-04-15T20:22:25-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Product Support Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -70152,7 +70152,7 @@
     "alerted": false
   },
   "greenhouse:workato:8494471002": {
-    "updated_at": "2026-04-15T19:53:03-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Director, Product Support",
     "company": "workato",
     "ats": "greenhouse",
@@ -70768,7 +70768,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7544126003": {
-    "updated_at": "2026-04-15T16:42:12-04:00",
+    "updated_at": "2026-04-23T16:42:45-04:00",
     "title": "Manager, Value Engineering - Public Sector Transformation",
     "company": "celonis",
     "ats": "greenhouse",
@@ -70832,7 +70832,7 @@
     "alerted": false
   },
   "greenhouse:workato:8501217002": {
-    "updated_at": "2026-04-15T15:39:09-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Intern, Analytics Engineer (Data Modeling)",
     "company": "workato",
     "ats": "greenhouse",
@@ -70840,7 +70840,7 @@
     "alerted": false
   },
   "greenhouse:workato:8509064002": {
-    "updated_at": "2026-04-15T15:38:55-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Rust Developer",
     "company": "workato",
     "ats": "greenhouse",
@@ -70848,7 +70848,7 @@
     "alerted": false
   },
   "greenhouse:workato:8483618002": {
-    "updated_at": "2026-04-15T15:38:51-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Rust Developer",
     "company": "workato",
     "ats": "greenhouse",
@@ -70856,7 +70856,7 @@
     "alerted": false
   },
   "greenhouse:workato:8509061002": {
-    "updated_at": "2026-04-15T15:37:59-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Rust Developer",
     "company": "workato",
     "ats": "greenhouse",
@@ -70864,7 +70864,7 @@
     "alerted": false
   },
   "greenhouse:workato:8509060002": {
-    "updated_at": "2026-04-15T15:36:47-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Rust Developer",
     "company": "workato",
     "ats": "greenhouse",
@@ -70872,7 +70872,7 @@
     "alerted": false
   },
   "greenhouse:workato:8509058002": {
-    "updated_at": "2026-04-15T15:35:36-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Rust Developer",
     "company": "workato",
     "ats": "greenhouse",
@@ -70880,7 +70880,7 @@
     "alerted": false
   },
   "greenhouse:workato:8509059002": {
-    "updated_at": "2026-04-15T15:35:27-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Rust Developer",
     "company": "workato",
     "ats": "greenhouse",
@@ -72032,7 +72032,7 @@
     "alerted": false
   },
   "greenhouse:workato:8507864002": {
-    "updated_at": "2026-04-15T08:14:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Platform engineering)",
     "company": "workato",
     "ats": "greenhouse",
@@ -72040,7 +72040,7 @@
     "alerted": false
   },
   "greenhouse:workato:8507863002": {
-    "updated_at": "2026-04-15T08:13:09-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Platform engineering)",
     "company": "workato",
     "ats": "greenhouse",
@@ -72048,7 +72048,7 @@
     "alerted": false
   },
   "greenhouse:workato:8507862002": {
-    "updated_at": "2026-04-15T08:12:39-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Platform engineering)",
     "company": "workato",
     "ats": "greenhouse",
@@ -72056,7 +72056,7 @@
     "alerted": false
   },
   "greenhouse:workato:8507861002": {
-    "updated_at": "2026-04-15T08:12:15-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Platform engineering)",
     "company": "workato",
     "ats": "greenhouse",
@@ -72064,7 +72064,7 @@
     "alerted": false
   },
   "greenhouse:workato:8501204002": {
-    "updated_at": "2026-04-15T08:11:41-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Platform engineering)",
     "company": "workato",
     "ats": "greenhouse",
@@ -74344,7 +74344,7 @@
     "alerted": false
   },
   "greenhouse:workato:8493053002": {
-    "updated_at": "2026-04-14T18:44:11-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Talent Operations Coordinator",
     "company": "workato",
     "ats": "greenhouse",
@@ -74544,7 +74544,7 @@
     "alerted": false
   },
   "greenhouse:workato:8464962002": {
-    "updated_at": "2026-04-14T17:31:58-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Chief Client Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -74552,7 +74552,7 @@
     "alerted": false
   },
   "greenhouse:workato:8456012002": {
-    "updated_at": "2026-04-14T17:31:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Chief Client Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -74560,7 +74560,7 @@
     "alerted": false
   },
   "greenhouse:workato:8437173002": {
-    "updated_at": "2026-04-14T17:31:01-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Chief Client Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -74568,7 +74568,7 @@
     "alerted": false
   },
   "greenhouse:workato:8437153002": {
-    "updated_at": "2026-04-14T17:29:29-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Chief Client Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -77336,7 +77336,7 @@
     "alerted": false
   },
   "greenhouse:brex:8492798002": {
-    "updated_at": "2026-04-14T15:19:24-04:00",
+    "updated_at": "2026-04-23T16:26:13-04:00",
     "title": "Support Specialist",
     "company": "brex",
     "ats": "greenhouse",
@@ -77344,7 +77344,7 @@
     "alerted": false
   },
   "greenhouse:brex:8493078002": {
-    "updated_at": "2026-04-14T15:18:23-04:00",
+    "updated_at": "2026-04-23T16:26:51-04:00",
     "title": "Support Specialist",
     "company": "brex",
     "ats": "greenhouse",
@@ -77704,7 +77704,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7793903": {
-    "updated_at": "2026-04-14T12:33:25-04:00",
+    "updated_at": "2026-04-23T16:09:50-04:00",
     "title": "Accounting Manager, Crypto Assets",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -78552,7 +78552,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7305884": {
-    "updated_at": "2026-04-14T11:07:06-04:00",
+    "updated_at": "2026-04-23T16:11:27-04:00",
     "title": "Senior Drawback Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -79456,7 +79456,7 @@
     "alerted": false
   },
   "greenhouse:workato:8505406002": {
-    "updated_at": "2026-04-13T21:39:00-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Director, Solutions Consulting",
     "company": "workato",
     "ats": "greenhouse",
@@ -80928,7 +80928,7 @@
     "alerted": false
   },
   "greenhouse:workato:8504597002": {
-    "updated_at": "2026-04-13T14:07:47-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Distributed systems)",
     "company": "workato",
     "ats": "greenhouse",
@@ -80936,7 +80936,7 @@
     "alerted": false
   },
   "greenhouse:workato:8504594002": {
-    "updated_at": "2026-04-13T14:07:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Distributed systems)",
     "company": "workato",
     "ats": "greenhouse",
@@ -80944,7 +80944,7 @@
     "alerted": false
   },
   "greenhouse:workato:8504591002": {
-    "updated_at": "2026-04-13T14:06:54-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Distributed systems)",
     "company": "workato",
     "ats": "greenhouse",
@@ -80952,7 +80952,7 @@
     "alerted": false
   },
   "greenhouse:workato:8499214002": {
-    "updated_at": "2026-04-13T14:05:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Distributed systems)",
     "company": "workato",
     "ats": "greenhouse",
@@ -84256,7 +84256,7 @@
     "alerted": false
   },
   "greenhouse:workato:8422689002": {
-    "updated_at": "2026-04-10T21:11:29-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Commercial Account Executive",
     "company": "workato",
     "ats": "greenhouse",
@@ -84272,7 +84272,7 @@
     "alerted": false
   },
   "greenhouse:workato:8340362002": {
-    "updated_at": "2026-04-10T20:35:10-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Enterprise Account Executive",
     "company": "workato",
     "ats": "greenhouse",
@@ -84280,7 +84280,7 @@
     "alerted": false
   },
   "greenhouse:workato:8453777002": {
-    "updated_at": "2026-04-10T20:34:04-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -84288,7 +84288,7 @@
     "alerted": false
   },
   "greenhouse:workato:8469105002": {
-    "updated_at": "2026-04-10T20:33:13-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Sales Development Representative",
     "company": "workato",
     "ats": "greenhouse",
@@ -86648,7 +86648,7 @@
     "alerted": false
   },
   "greenhouse:workato:8497241002": {
-    "updated_at": "2026-04-10T06:13:24-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Deal Desk Analyst",
     "company": "workato",
     "ats": "greenhouse",
@@ -86720,8 +86720,8 @@
     "alerted": false
   },
   "greenhouse:braze:7778647": {
-    "updated_at": "2026-04-22T16:37:22-04:00",
-    "title": "Senior Director, Partner Accounts - Snowflake",
+    "updated_at": "2026-04-23T16:30:28-04:00",
+    "title": "Senior Director, Partnerships - Snowflake",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -86784,7 +86784,7 @@
     "alerted": false
   },
   "greenhouse:workato:8397616002": {
-    "updated_at": "2026-04-10T01:35:46-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Account Executive, Strategic",
     "company": "workato",
     "ats": "greenhouse",
@@ -87128,7 +87128,7 @@
     "alerted": false
   },
   "greenhouse:workato:8489544002": {
-    "updated_at": "2026-04-09T21:05:20-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Sales Operations Analyst",
     "company": "workato",
     "ats": "greenhouse",
@@ -87200,7 +87200,7 @@
     "alerted": false
   },
   "greenhouse:workato:8449416002": {
-    "updated_at": "2026-04-09T19:40:20-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Demand Generation Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -91656,7 +91656,7 @@
     "alerted": false
   },
   "greenhouse:workato:8466342002": {
-    "updated_at": "2026-04-09T04:01:15-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "RVP, Regional Sales",
     "company": "workato",
     "ats": "greenhouse",
@@ -91752,7 +91752,7 @@
     "alerted": false
   },
   "greenhouse:workato:8499680002": {
-    "updated_at": "2026-04-09T02:50:28-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Go Engineer (AI Lab)",
     "company": "workato",
     "ats": "greenhouse",
@@ -91920,7 +91920,7 @@
     "alerted": false
   },
   "greenhouse:workato:8466401002": {
-    "updated_at": "2026-04-08T19:34:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Partner Operations Associate",
     "company": "workato",
     "ats": "greenhouse",
@@ -93536,7 +93536,7 @@
     "alerted": false
   },
   "greenhouse:workato:8480049002": {
-    "updated_at": "2026-04-08T09:46:36-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Commercial Account Executive",
     "company": "workato",
     "ats": "greenhouse",
@@ -94608,7 +94608,7 @@
     "alerted": false
   },
   "greenhouse:workato:8453788002": {
-    "updated_at": "2026-04-07T10:50:12-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Intern, Customer Success",
     "company": "workato",
     "ats": "greenhouse",
@@ -95736,7 +95736,7 @@
     "alerted": false
   },
   "greenhouse:workato:8494828002": {
-    "updated_at": "2026-04-06T09:45:34-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Full Stack Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -95824,7 +95824,7 @@
     "alerted": false
   },
   "greenhouse:workato:8423325002": {
-    "updated_at": "2026-04-06T02:47:13-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Sales Development Representative",
     "company": "workato",
     "ats": "greenhouse",
@@ -95936,7 +95936,7 @@
     "alerted": false
   },
   "greenhouse:workato:8491769002": {
-    "updated_at": "2026-04-05T02:05:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Account Executive, Agentic AI",
     "company": "workato",
     "ats": "greenhouse",
@@ -95944,7 +95944,7 @@
     "alerted": false
   },
   "greenhouse:workato:8491770002": {
-    "updated_at": "2026-04-05T02:05:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Account Executive, Agentic AI",
     "company": "workato",
     "ats": "greenhouse",
@@ -95952,7 +95952,7 @@
     "alerted": false
   },
   "greenhouse:workato:8472730002": {
-    "updated_at": "2026-04-05T02:05:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Account Executive, Agentic AI",
     "company": "workato",
     "ats": "greenhouse",
@@ -95960,7 +95960,7 @@
     "alerted": false
   },
   "greenhouse:workato:8465418002": {
-    "updated_at": "2026-04-05T02:05:17-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -95968,7 +95968,7 @@
     "alerted": false
   },
   "greenhouse:workato:8460008002": {
-    "updated_at": "2026-04-05T02:05:12-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Embedded Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -95976,7 +95976,7 @@
     "alerted": false
   },
   "greenhouse:workato:8460003002": {
-    "updated_at": "2026-04-05T02:05:09-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Embedded Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -95984,7 +95984,7 @@
     "alerted": false
   },
   "greenhouse:workato:8454721002": {
-    "updated_at": "2026-04-21T13:35:08-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Chief Strategic Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -95992,7 +95992,7 @@
     "alerted": false
   },
   "greenhouse:workato:8448336002": {
-    "updated_at": "2026-04-05T02:04:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Partner Sales Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96000,7 +96000,7 @@
     "alerted": false
   },
   "greenhouse:workato:8445938002": {
-    "updated_at": "2026-04-05T02:04:41-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Commercial Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96008,7 +96008,7 @@
     "alerted": false
   },
   "greenhouse:workato:8445087002": {
-    "updated_at": "2026-04-05T02:04:38-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Solutions Consultant",
     "company": "workato",
     "ats": "greenhouse",
@@ -96024,7 +96024,7 @@
     "alerted": false
   },
   "greenhouse:workato:8443690002": {
-    "updated_at": "2026-04-05T02:04:33-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Commercial Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96040,7 +96040,7 @@
     "alerted": false
   },
   "greenhouse:workato:8388469002": {
-    "updated_at": "2026-04-05T02:02:48-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Technical Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -96048,7 +96048,7 @@
     "alerted": false
   },
   "greenhouse:workato:8382671002": {
-    "updated_at": "2026-04-05T02:02:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Partner Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96056,7 +96056,7 @@
     "alerted": false
   },
   "greenhouse:workato:8382653002": {
-    "updated_at": "2026-04-05T02:02:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Partner Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96064,7 +96064,7 @@
     "alerted": false
   },
   "greenhouse:workato:8382668002": {
-    "updated_at": "2026-04-05T02:02:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Partner Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96072,7 +96072,7 @@
     "alerted": false
   },
   "greenhouse:workato:8382664002": {
-    "updated_at": "2026-04-05T02:02:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Partner Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96080,7 +96080,7 @@
     "alerted": false
   },
   "greenhouse:workato:8379796002": {
-    "updated_at": "2026-04-05T02:02:27-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96088,7 +96088,7 @@
     "alerted": false
   },
   "greenhouse:workato:8284777002": {
-    "updated_at": "2026-04-05T02:01:27-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Commercial Account Executive",
     "company": "workato",
     "ats": "greenhouse",
@@ -96096,7 +96096,7 @@
     "alerted": false
   },
   "greenhouse:workato:8284760002": {
-    "updated_at": "2026-04-05T02:01:23-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Enterprise Account Executive",
     "company": "workato",
     "ats": "greenhouse",
@@ -96104,7 +96104,7 @@
     "alerted": false
   },
   "greenhouse:workato:8488936002": {
-    "updated_at": "2026-04-23T05:48:13-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Solutions Consultant",
     "company": "workato",
     "ats": "greenhouse",
@@ -96112,7 +96112,7 @@
     "alerted": false
   },
   "greenhouse:workato:8244497002": {
-    "updated_at": "2026-04-23T05:49:23-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Solutions Consultant",
     "company": "workato",
     "ats": "greenhouse",
@@ -96120,7 +96120,7 @@
     "alerted": false
   },
   "greenhouse:workato:8206759002": {
-    "updated_at": "2026-04-05T02:00:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Account Executive",
     "company": "workato",
     "ats": "greenhouse",
@@ -96128,7 +96128,7 @@
     "alerted": false
   },
   "greenhouse:workato:8170626002": {
-    "updated_at": "2026-04-05T01:59:39-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Partner Sales Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96136,7 +96136,7 @@
     "alerted": false
   },
   "greenhouse:workato:8123300002": {
-    "updated_at": "2026-04-05T01:58:42-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Solutions Architect - EDI",
     "company": "workato",
     "ats": "greenhouse",
@@ -96144,7 +96144,7 @@
     "alerted": false
   },
   "greenhouse:workato:8484719002": {
-    "updated_at": "2026-04-05T01:58:21-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Principal Technical Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -96152,7 +96152,7 @@
     "alerted": false
   },
   "greenhouse:workato:8320988002": {
-    "updated_at": "2026-04-05T01:56:23-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96160,7 +96160,7 @@
     "alerted": false
   },
   "greenhouse:workato:8320991002": {
-    "updated_at": "2026-04-05T01:56:23-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96168,7 +96168,7 @@
     "alerted": false
   },
   "greenhouse:workato:8320989002": {
-    "updated_at": "2026-04-05T01:56:23-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96176,7 +96176,7 @@
     "alerted": false
   },
   "greenhouse:workato:8396030002": {
-    "updated_at": "2026-04-05T01:13:00-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Enterprise Account Executive - ASEAN",
     "company": "workato",
     "ats": "greenhouse",
@@ -96184,7 +96184,7 @@
     "alerted": false
   },
   "greenhouse:workato:8357391002": {
-    "updated_at": "2026-04-05T01:06:48-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (GOlang)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96192,7 +96192,7 @@
     "alerted": false
   },
   "greenhouse:workato:8181562002": {
-    "updated_at": "2026-04-05T01:06:48-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (GOlang)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96200,7 +96200,7 @@
     "alerted": false
   },
   "greenhouse:workato:8357398002": {
-    "updated_at": "2026-04-05T01:06:48-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (GOlang)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96208,7 +96208,7 @@
     "alerted": false
   },
   "greenhouse:workato:8357397002": {
-    "updated_at": "2026-04-05T01:06:48-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (GOlang)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96216,7 +96216,7 @@
     "alerted": false
   },
   "greenhouse:workato:8440885002": {
-    "updated_at": "2026-04-05T01:05:47-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96224,7 +96224,7 @@
     "alerted": false
   },
   "greenhouse:workato:8440865002": {
-    "updated_at": "2026-04-05T01:05:13-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96232,7 +96232,7 @@
     "alerted": false
   },
   "greenhouse:workato:8480362002": {
-    "updated_at": "2026-04-05T01:00:23-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior AI Engineer (Agents)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96240,7 +96240,7 @@
     "alerted": false
   },
   "greenhouse:workato:8480392002": {
-    "updated_at": "2026-04-05T00:59:51-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior AI Engineer (Voice Agents)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96248,7 +96248,7 @@
     "alerted": false
   },
   "greenhouse:workato:8465517002": {
-    "updated_at": "2026-04-05T00:59:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Observability)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96256,7 +96256,7 @@
     "alerted": false
   },
   "greenhouse:workato:8465516002": {
-    "updated_at": "2026-04-05T00:59:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Observability)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96264,7 +96264,7 @@
     "alerted": false
   },
   "greenhouse:workato:8465519002": {
-    "updated_at": "2026-04-05T00:59:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Observability)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96272,7 +96272,7 @@
     "alerted": false
   },
   "greenhouse:workato:8449500002": {
-    "updated_at": "2026-04-05T00:59:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Observability)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96280,7 +96280,7 @@
     "alerted": false
   },
   "greenhouse:workato:8465522002": {
-    "updated_at": "2026-04-05T00:59:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Observability) relocation",
     "company": "workato",
     "ats": "greenhouse",
@@ -96288,7 +96288,7 @@
     "alerted": false
   },
   "greenhouse:workato:8465520002": {
-    "updated_at": "2026-04-05T00:59:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (Observability) relocation",
     "company": "workato",
     "ats": "greenhouse",
@@ -96296,7 +96296,7 @@
     "alerted": false
   },
   "greenhouse:workato:8405308002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96304,7 +96304,7 @@
     "alerted": false
   },
   "greenhouse:workato:8462861002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96312,7 +96312,7 @@
     "alerted": false
   },
   "greenhouse:workato:8462862002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96320,7 +96320,7 @@
     "alerted": false
   },
   "greenhouse:workato:8462857002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96328,7 +96328,7 @@
     "alerted": false
   },
   "greenhouse:workato:8405310002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96336,7 +96336,7 @@
     "alerted": false
   },
   "greenhouse:workato:8214100002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96344,7 +96344,7 @@
     "alerted": false
   },
   "greenhouse:workato:8405311002": {
-    "updated_at": "2026-04-05T00:39:45-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Software Engineer (Ruby/RoR, Platform)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96352,7 +96352,7 @@
     "alerted": false
   },
   "greenhouse:workato:8284562002": {
-    "updated_at": "2026-04-05T00:38:47-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Front End Software Engineer (AI Lab)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96360,7 +96360,7 @@
     "alerted": false
   },
   "greenhouse:workato:8288630002": {
-    "updated_at": "2026-04-05T00:38:38-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Infrastructure Engineer (AI Lab)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96368,7 +96368,7 @@
     "alerted": false
   },
   "greenhouse:workato:8437639002": {
-    "updated_at": "2026-04-05T00:37:43-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Forward Deployed Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96376,7 +96376,7 @@
     "alerted": false
   },
   "greenhouse:workato:8445681002": {
-    "updated_at": "2026-04-05T00:37:40-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Automation Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96384,7 +96384,7 @@
     "alerted": false
   },
   "greenhouse:workato:8304750002": {
-    "updated_at": "2026-04-05T00:35:12-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior AI Engineer (Voice Agents)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96392,7 +96392,7 @@
     "alerted": false
   },
   "greenhouse:workato:8227974002": {
-    "updated_at": "2026-04-05T00:34:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96400,7 +96400,7 @@
     "alerted": false
   },
   "greenhouse:workato:8227978002": {
-    "updated_at": "2026-04-05T00:34:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96408,7 +96408,7 @@
     "alerted": false
   },
   "greenhouse:workato:8227977002": {
-    "updated_at": "2026-04-05T00:34:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96416,7 +96416,7 @@
     "alerted": false
   },
   "greenhouse:workato:8227973002": {
-    "updated_at": "2026-04-05T00:34:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96424,7 +96424,7 @@
     "alerted": false
   },
   "greenhouse:workato:8227972002": {
-    "updated_at": "2026-04-05T00:34:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96432,7 +96432,7 @@
     "alerted": false
   },
   "greenhouse:workato:8188419002": {
-    "updated_at": "2026-04-05T00:34:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96440,7 +96440,7 @@
     "alerted": false
   },
   "greenhouse:workato:8432905002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96448,7 +96448,7 @@
     "alerted": false
   },
   "greenhouse:workato:8432909002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96456,7 +96456,7 @@
     "alerted": false
   },
   "greenhouse:workato:8392655002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96464,7 +96464,7 @@
     "alerted": false
   },
   "greenhouse:workato:8432902002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96472,7 +96472,7 @@
     "alerted": false
   },
   "greenhouse:workato:8432901002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96480,7 +96480,7 @@
     "alerted": false
   },
   "greenhouse:workato:8432908002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer (relocation)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96488,7 +96488,7 @@
     "alerted": false
   },
   "greenhouse:workato:8432906002": {
-    "updated_at": "2026-04-05T00:33:18-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Staff / Senior Infrastructure Engineer (relocation)",
     "company": "workato",
     "ats": "greenhouse",
@@ -96496,7 +96496,7 @@
     "alerted": false
   },
   "greenhouse:workato:8118314002": {
-    "updated_at": "2026-04-05T00:23:56-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Sales Development Representative - Nordics",
     "company": "workato",
     "ats": "greenhouse",
@@ -96504,7 +96504,7 @@
     "alerted": false
   },
   "greenhouse:workato:8330577002": {
-    "updated_at": "2026-04-05T00:22:36-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Sales Development Representative - Benelux",
     "company": "workato",
     "ats": "greenhouse",
@@ -96512,7 +96512,7 @@
     "alerted": false
   },
   "greenhouse:workato:8469058002": {
-    "updated_at": "2026-04-05T00:22:20-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Sales Development Representative",
     "company": "workato",
     "ats": "greenhouse",
@@ -96520,7 +96520,7 @@
     "alerted": false
   },
   "greenhouse:workato:8456847002": {
-    "updated_at": "2026-04-05T00:22:15-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Manager, Field Marketing",
     "company": "workato",
     "ats": "greenhouse",
@@ -96528,7 +96528,7 @@
     "alerted": false
   },
   "greenhouse:workato:8375237002": {
-    "updated_at": "2026-04-05T00:03:35-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Demand Generation Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96536,7 +96536,7 @@
     "alerted": false
   },
   "greenhouse:workato:8420030002": {
-    "updated_at": "2026-04-05T00:02:44-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Sales Compensation Analyst",
     "company": "workato",
     "ats": "greenhouse",
@@ -96544,7 +96544,7 @@
     "alerted": false
   },
   "greenhouse:workato:8434496002": {
-    "updated_at": "2026-04-05T00:02:39-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Senior Alliances Manager - Private Equity",
     "company": "workato",
     "ats": "greenhouse",
@@ -96552,7 +96552,7 @@
     "alerted": false
   },
   "greenhouse:workato:8440792002": {
-    "updated_at": "2026-04-05T00:01:11-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "FP&A Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -96560,7 +96560,7 @@
     "alerted": false
   },
   "greenhouse:workato:8434477002": {
-    "updated_at": "2026-04-04T23:40:53-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Intern, Analytics Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -96568,7 +96568,7 @@
     "alerted": false
   },
   "greenhouse:workato:8109131002": {
-    "updated_at": "2026-04-04T16:05:23-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Enterprise Account Executive (Eastern US)",
     "company": "workato",
     "ats": "greenhouse",
@@ -102560,7 +102560,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5135964008": {
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-23T16:26:49-04:00",
     "title": "Finance & Strategy, GTM - India",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -102568,7 +102568,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5079133008": {
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-23T16:22:37-04:00",
     "title": "Finance & Strategy, GTM - Korea",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -120864,7 +120864,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7678938": {
-    "updated_at": "2026-04-23T10:23:20-04:00",
+    "updated_at": "2026-04-23T16:51:44-04:00",
     "title": "Sales System Engineer",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -121344,7 +121344,7 @@
     "alerted": false
   },
   "greenhouse:workato:8454694002": {
-    "updated_at": "2026-04-21T14:29:37-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Chief Strategic Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -121880,7 +121880,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5194810008": {
-    "updated_at": "2026-04-21T21:04:06-04:00",
+    "updated_at": "2026-04-23T16:53:05-04:00",
     "title": "Workday Business Systems Analyst, HCM",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -121896,7 +121896,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7696133003": {
-    "updated_at": "2026-04-21T20:54:07-04:00",
+    "updated_at": "2026-04-23T16:31:23-04:00",
     "title": "Product Growth Partner",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -122600,7 +122600,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7831559": {
-    "updated_at": "2026-04-22T07:48:10-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Field Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -122616,7 +122616,7 @@
     "alerted": false
   },
   "greenhouse:workato:8286077002": {
-    "updated_at": "2026-04-22T07:32:37-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Manager, Commercial Sales",
     "company": "workato",
     "ats": "greenhouse",
@@ -123088,7 +123088,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7821726": {
-    "updated_at": "2026-04-22T18:56:08-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sr. Growth Marketing Manager - New Products",
     "company": "samsara",
     "ats": "greenhouse",
@@ -123112,7 +123112,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7833626": {
-    "updated_at": "2026-04-22T13:22:54-04:00",
+    "updated_at": "2026-04-23T16:12:32-04:00",
     "title": "Senior Software Engineer - Query Integration",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -123176,7 +123176,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7782814": {
-    "updated_at": "2026-04-22T13:12:39-04:00",
+    "updated_at": "2026-04-23T16:49:14-04:00",
     "title": "Senior Director, Cloud Partner Specialists, Microsoft Global",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -123184,7 +123184,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7775125": {
-    "updated_at": "2026-04-22T13:12:07-04:00",
+    "updated_at": "2026-04-23T16:15:16-04:00",
     "title": "Senior Director, Cloud Partner Specialists, AWS NAMER & LATAM",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -123416,7 +123416,7 @@
     "alerted": false
   },
   "greenhouse:toast:7778656": {
-    "updated_at": "2026-04-22T14:14:18-04:00",
+    "updated_at": "2026-04-23T16:23:25-04:00",
     "title": "Director of Retail Engineering",
     "company": "toast",
     "ats": "greenhouse",
@@ -123456,7 +123456,7 @@
     "alerted": false
   },
   "greenhouse:okta:7839344": {
-    "updated_at": "2026-04-23T14:39:13-04:00",
+    "updated_at": "2026-04-23T16:39:58-04:00",
     "title": "Senior Product Manager, Privileged Access Management",
     "company": "okta",
     "ats": "greenhouse",
@@ -123664,8 +123664,8 @@
     "alerted": false
   },
   "greenhouse:braze:7843776": {
-    "updated_at": "2026-04-22T16:36:33-04:00",
-    "title": "Senior Director, Partner Accounts - Snowflake",
+    "updated_at": "2026-04-23T16:30:56-04:00",
+    "title": "Senior Director, Partnerships - Snowflake",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -123824,7 +123824,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7815804": {
-    "updated_at": "2026-04-22T15:58:18-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Sales Operations Manager - Enterprise",
     "company": "samsara",
     "ats": "greenhouse",
@@ -124432,7 +124432,7 @@
     "alerted": false
   },
   "greenhouse:workato:8494455002": {
-    "updated_at": "2026-04-23T01:31:26-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -124440,7 +124440,7 @@
     "alerted": false
   },
   "greenhouse:workato:8494453002": {
-    "updated_at": "2026-04-23T01:31:19-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -124504,7 +124504,7 @@
     "alerted": false
   },
   "greenhouse:workato:8482166002": {
-    "updated_at": "2026-04-23T03:37:31-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Customer Success Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -124608,7 +124608,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5196281008": {
-    "updated_at": "2026-04-23T02:32:25-04:00",
+    "updated_at": "2026-04-23T16:16:50-04:00",
     "title": "Commercial Account Executive \u2013 Expansion",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -124712,7 +124712,7 @@
     "alerted": false
   },
   "greenhouse:workato:8501181002": {
-    "updated_at": "2026-04-23T07:23:40-04:00",
+    "updated_at": "2026-04-23T16:59:38-04:00",
     "title": "Technical Consultant II (EMEA Market)",
     "company": "workato",
     "ats": "greenhouse",
@@ -124816,7 +124816,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7826401": {
-    "updated_at": "2026-04-23T06:36:13-04:00",
+    "updated_at": "2026-04-23T16:59:55-04:00",
     "title": "Enterprise Implementation Consultant - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -125128,7 +125128,7 @@
     "alerted": true
   },
   "greenhouse:humaninterest:7846612": {
-    "updated_at": "2026-04-23T16:09:20-04:00",
+    "updated_at": "2026-04-23T16:09:47-04:00",
     "title": "Revenue Operations Coordinator",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -125696,7 +125696,7 @@
     "alerted": false
   },
   "greenhouse:chime:8505462002": {
-    "updated_at": "2026-04-23T14:26:03-04:00",
+    "updated_at": "2026-04-23T17:02:28-04:00",
     "title": "Senior Software Engineer, Data Engineering",
     "company": "chime",
     "ats": "greenhouse",
@@ -125968,7 +125968,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8521468002": {
-    "updated_at": "2026-04-23T15:43:11-04:00",
+    "updated_at": "2026-04-23T16:29:22-04:00",
     "title": "Creative Technology Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -125976,7 +125976,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8521484002": {
-    "updated_at": "2026-04-23T15:40:13-04:00",
+    "updated_at": "2026-04-23T16:29:22-04:00",
     "title": "Creative Technology Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -125992,7 +125992,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8417654002": {
-    "updated_at": "2026-04-23T15:36:55-04:00",
+    "updated_at": "2026-04-23T16:45:57-04:00",
     "title": "Sr. Solutions Engineer - MFG",
     "company": "databricks",
     "ats": "greenhouse",
@@ -126069,6 +126069,134 @@
     "company": "amplitude",
     "ats": "greenhouse",
     "source_slug": "amplitude",
+    "alerted": true
+  },
+  "greenhouse:fastly:7847307": {
+    "updated_at": "2026-04-23T16:43:26-04:00",
+    "title": "Director, Engineering - Edge Linux Networking",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:celonis:7712529003": {
+    "updated_at": "2026-04-23T16:42:24-04:00",
+    "title": "Manager, Value Engineering - Public Sector Transformation",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7843408": {
+    "updated_at": "2026-04-23T16:42:03-04:00",
+    "title": "Senior Integrated Marketing Manager",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:flexport:7839298": {
+    "updated_at": "2026-04-23T16:41:38-04:00",
+    "title": "Software Engineer I",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:flexport:7839346": {
+    "updated_at": "2026-04-23T16:41:28-04:00",
+    "title": "Software Engineer II",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7712522003": {
+    "updated_at": "2026-04-23T16:34:20-04:00",
+    "title": "Sales Development Representative, UKI",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7712519003": {
+    "updated_at": "2026-04-23T16:33:26-04:00",
+    "title": "Sales Development Representative, French speaking",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7712517003": {
+    "updated_at": "2026-04-23T16:32:25-04:00",
+    "title": "Sales Development Representative, Nordics",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7712516003": {
+    "updated_at": "2026-04-23T16:31:17-04:00",
+    "title": "Sales Development Representative, German Speaking",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:duolingo:8521575002": {
+    "updated_at": "2026-04-23T16:25:58-04:00",
+    "title": "Workplace Experience Specialist",
+    "company": "duolingo",
+    "ats": "greenhouse",
+    "source_slug": "duolingo",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7843387": {
+    "updated_at": "2026-04-23T16:21:36-04:00",
+    "title": "Senior Talent Sourcer",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:alloy:8521012002": {
+    "updated_at": "2026-04-23T16:20:46-04:00",
+    "title": "Strategic Finance Manager",
+    "company": "alloy",
+    "ats": "greenhouse",
+    "source_slug": "alloy",
+    "alerted": false
+  },
+  "greenhouse:okta:7843125": {
+    "updated_at": "2026-04-23T16:17:09-04:00",
+    "title": "Senior Director, Engineering and Architecture",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:toast:7843819": {
+    "updated_at": "2026-04-23T15:55:56-04:00",
+    "title": "Territory Account Executive, Retail - Portage, IN",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:iterable:7761498": {
+    "updated_at": "2026-04-23T17:03:31-04:00",
+    "title": "Salesforce Developer",
+    "company": "iterable",
+    "ats": "greenhouse",
+    "source_slug": "iterable",
+    "alerted": true
+  },
+  "greenhouse:spacex:8521329002": {
+    "updated_at": "2026-04-23T16:56:04-04:00",
+    "title": "Sr. Mechanical Engineer (Starship Avionics)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
