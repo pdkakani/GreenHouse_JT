@@ -2072,7 +2072,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8368003002": {
-    "updated_at": "2026-04-21T04:41:14-04:00",
+    "updated_at": "2026-04-23T05:42:53-04:00",
     "title": "Delivery Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -3272,7 +3272,7 @@
     "alerted": true
   },
   "greenhouse:elastic:7508360": {
-    "updated_at": "2026-03-16T15:57:26-04:00",
+    "updated_at": "2026-04-23T04:25:55-04:00",
     "title": "Principal Software Engineer I / II - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -47696,8 +47696,8 @@
     "alerted": false
   },
   "greenhouse:twilio:7811450": {
-    "updated_at": "2026-04-22T10:26:06-04:00",
-    "title": "Senior Partner Alliance Manager",
+    "updated_at": "2026-04-23T04:19:27-04:00",
+    "title": "Partner Alliance Manager",
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
@@ -57424,7 +57424,7 @@
     "alerted": false
   },
   "greenhouse:marqeta:7791478": {
-    "updated_at": "2026-04-20T10:46:55-04:00",
+    "updated_at": "2026-04-23T04:27:18-04:00",
     "title": "Senior Account Executive - EU / UK",
     "company": "marqeta",
     "ats": "greenhouse",
@@ -63432,7 +63432,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7645479": {
-    "updated_at": "2026-04-17T03:49:16-04:00",
+    "updated_at": "2026-04-23T05:40:38-04:00",
     "title": "Solutions Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -70624,8 +70624,8 @@
     "alerted": false
   },
   "greenhouse:squarespace:7796885": {
-    "updated_at": "2026-04-15T16:43:59-04:00",
-    "title": "Engineering Team Manager - Financial Solutions, Capital",
+    "updated_at": "2026-04-23T04:52:02-04:00",
+    "title": "Engineering Team Manager - Financial Solutions, Risk",
     "company": "squarespace",
     "ats": "greenhouse",
     "source_slug": "squarespace",
@@ -81400,7 +81400,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5168471008": {
-    "updated_at": "2026-04-13T11:25:59-04:00",
+    "updated_at": "2026-04-23T05:23:44-04:00",
     "title": "Senior Business Value Engineer - EMEA",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -91680,7 +91680,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7757624": {
-    "updated_at": "2026-04-09T03:35:05-04:00",
+    "updated_at": "2026-04-23T04:44:56-04:00",
     "title": "Senior Resource Analyst, Services Revenue Strategy & Operations",
     "company": "elastic",
     "ats": "greenhouse",
@@ -95680,8 +95680,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7559335003": {
-    "updated_at": "2026-04-06T10:57:21-04:00",
-    "title": "Software Engineer - Java",
+    "updated_at": "2026-04-23T04:20:26-04:00",
+    "title": "Senior Software Engineer - Java",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -96104,7 +96104,7 @@
     "alerted": false
   },
   "greenhouse:workato:8488936002": {
-    "updated_at": "2026-04-05T02:01:16-04:00",
+    "updated_at": "2026-04-23T05:48:13-04:00",
     "title": "Senior Solutions Consultant",
     "company": "workato",
     "ats": "greenhouse",
@@ -96112,7 +96112,7 @@
     "alerted": false
   },
   "greenhouse:workato:8244497002": {
-    "updated_at": "2026-04-05T02:01:16-04:00",
+    "updated_at": "2026-04-23T05:49:23-04:00",
     "title": "Solutions Consultant",
     "company": "workato",
     "ats": "greenhouse",
@@ -99072,8 +99072,8 @@
     "alerted": false
   },
   "greenhouse:braze:7771699": {
-    "updated_at": "2026-04-23T03:01:44-04:00",
-    "title": "Account Executive (S3), Enterprise",
+    "updated_at": "2026-04-23T06:01:30-04:00",
+    "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -114680,7 +114680,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7348825": {
-    "updated_at": "2026-03-16T15:57:26-04:00",
+    "updated_at": "2026-04-23T04:25:54-04:00",
     "title": "Principal Software Developer I / II - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -114720,7 +114720,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7508491": {
-    "updated_at": "2026-03-16T15:57:26-04:00",
+    "updated_at": "2026-04-23T04:25:55-04:00",
     "title": "Principal Software Engineer I / II - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -115008,7 +115008,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7705358": {
-    "updated_at": "2026-03-16T11:41:42-04:00",
+    "updated_at": "2026-04-23T04:30:13-04:00",
     "title": "Business Operations Manager",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -123048,8 +123048,8 @@
     "alerted": false
   },
   "greenhouse:starburst:5174386008": {
-    "updated_at": "2026-04-22T11:36:55-04:00",
-    "title": "Senior Solution Architect (Middle East)",
+    "updated_at": "2026-04-23T04:56:19-04:00",
+    "title": "Senior PreSales Engineer / Solution Architect (Middle East)",
     "company": "starburst",
     "ats": "greenhouse",
     "source_slug": "starburst",
@@ -123208,8 +123208,8 @@
     "alerted": false
   },
   "greenhouse:twilio:7833997": {
-    "updated_at": "2026-04-22T12:57:12-04:00",
-    "title": "Regulatory and Inventory Operations Engineer",
+    "updated_at": "2026-04-23T05:02:57-04:00",
+    "title": "Regulatory and Inventory Operations Engineer (Fluent Japanese Speaker)",
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
@@ -124645,6 +124645,126 @@
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:databricks:8509691002": {
+    "updated_at": "2026-04-23T05:39:25-04:00",
+    "title": "Enterprise Account Executive, New Business",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7845802": {
+    "updated_at": "2026-04-23T05:37:31-04:00",
+    "title": "Business Development Representative - Italian Speaking",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:datadog:7821345": {
+    "updated_at": "2026-04-23T05:29:21-04:00",
+    "title": "GTM Strategy/Operations Associate - Dublin",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7682445003": {
+    "updated_at": "2026-04-23T05:27:18-04:00",
+    "title": "Senior Site Reliability Engineer",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:databricks:8509687002": {
+    "updated_at": "2026-04-23T05:27:14-04:00",
+    "title": "Named Enterprise Account Executive, Fashion & Retail",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:adyen:7820051": {
+    "updated_at": "2026-04-23T05:18:02-04:00",
+    "title": "AI Transformation Manager - Finance",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:fastly:7845461": {
+    "updated_at": "2026-04-23T05:15:31-04:00",
+    "title": "Senior Data Center Engineer- London",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:celonis:7635462003": {
+    "updated_at": "2026-04-23T05:12:04-04:00",
+    "title": "Applied AI Value Engineer",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:workato:8501181002": {
+    "updated_at": "2026-04-23T04:48:08-04:00",
+    "title": "Technical Consultant II",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:celonis:7703837003": {
+    "updated_at": "2026-04-23T04:38:22-04:00",
+    "title": "Working Student Marketing Production Operations",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:7845516": {
+    "updated_at": "2026-04-23T04:32:51-04:00",
+    "title": "Senior Business Operations Manager",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:7839091": {
+    "updated_at": "2026-04-23T04:24:44-04:00",
+    "title": "OfficeX Junior - Part Time (30 h/w)",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7816204": {
+    "updated_at": "2026-04-23T04:18:03-04:00",
+    "title": "Senior Security Engineer - Detection & Response - EU/UK",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:convera:4831186101": {
+    "updated_at": "2026-04-23T03:59:16-04:00",
+    "title": "Senior Cybersecurity Engineer",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:celonis:7686306003": {
+    "updated_at": "2026-04-23T03:52:22-04:00",
+    "title": "Working Student Learning Experience Design",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
     "alerted": false
   }
 }
