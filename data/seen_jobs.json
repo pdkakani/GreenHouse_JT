@@ -47304,7 +47304,7 @@
     "alerted": false
   },
   "greenhouse:intercom:7774295": {
-    "updated_at": "2026-04-21T11:19:50-04:00",
+    "updated_at": "2026-04-24T06:02:11-04:00",
     "title": "Full-Stack Marketer, Customer Advocacy",
     "company": "intercom",
     "ats": "greenhouse",
@@ -49120,7 +49120,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7694138": {
-    "updated_at": "2026-04-23T07:06:08-04:00",
+    "updated_at": "2026-04-24T07:04:31-04:00",
     "title": "Account Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -62296,7 +62296,7 @@
     "alerted": false
   },
   "greenhouse:intercom:6706842": {
-    "updated_at": "2026-04-17T13:44:12-04:00",
+    "updated_at": "2026-04-24T06:57:54-04:00",
     "title": "Staff/ Principal Product Designer",
     "company": "intercom",
     "ats": "greenhouse",
@@ -64056,7 +64056,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5017855007": {
-    "updated_at": "2026-04-17T00:13:02-04:00",
+    "updated_at": "2026-04-24T06:52:37-04:00",
     "title": "Field Marketing Manager - Northern Europe",
     "company": "verkada",
     "ats": "greenhouse",
@@ -79152,7 +79152,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7812855": {
-    "updated_at": "2026-04-14T06:07:42-04:00",
+    "updated_at": "2026-04-24T07:17:35-04:00",
     "title": "Sales Development Representative DACH (German speaker)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -81360,8 +81360,8 @@
     "alerted": false
   },
   "greenhouse:newrelic:5159020008": {
-    "updated_at": "2026-04-13T11:25:59-04:00",
-    "title": "Partner Development Manager",
+    "updated_at": "2026-04-24T07:04:36-04:00",
+    "title": "Partner Development Manager - French Speaking",
     "company": "newrelic",
     "ats": "greenhouse",
     "source_slug": "newrelic",
@@ -85736,7 +85736,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7687725003": {
-    "updated_at": "2026-04-10T13:34:19-04:00",
+    "updated_at": "2026-04-24T06:50:05-04:00",
     "title": "Associate Research Engineer - Process Mining Technology",
     "company": "celonis",
     "ats": "greenhouse",
@@ -89272,7 +89272,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8368205002": {
-    "updated_at": "2026-04-09T16:51:23-04:00",
+    "updated_at": "2026-04-24T06:27:01-04:00",
     "title": "Sr. Solutions Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -105160,7 +105160,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7673166": {
-    "updated_at": "2026-04-23T10:20:12-04:00",
+    "updated_at": "2026-04-24T07:08:03-04:00",
     "title": "Senior Commercial Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -108728,8 +108728,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7630950003": {
-    "updated_at": "2026-03-27T08:47:36-04:00",
-    "title": "Senior Applied AI Engineer (Value Engineering) - CPGR",
+    "updated_at": "2026-04-24T06:11:37-04:00",
+    "title": "Senior Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -121096,7 +121096,7 @@
     "alerted": false
   },
   "greenhouse:okta:7814952": {
-    "updated_at": "2026-04-23T14:39:13-04:00",
+    "updated_at": "2026-04-24T06:28:37-04:00",
     "title": "Deal Strategy Manager - EMEA",
     "company": "okta",
     "ats": "greenhouse",
@@ -124808,7 +124808,7 @@
     "alerted": false
   },
   "greenhouse:okta:7842737": {
-    "updated_at": "2026-04-23T14:39:13-04:00",
+    "updated_at": "2026-04-24T06:28:50-04:00",
     "title": "Deal Strategy Manager - EMEA",
     "company": "okta",
     "ats": "greenhouse",
@@ -127101,6 +127101,94 @@
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:adyen:7369650": {
+    "updated_at": "2026-04-24T07:07:40-04:00",
+    "title": "Business Analyst - Payments Pricing",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:celonis:7707705003": {
+    "updated_at": "2026-04-24T07:00:36-04:00",
+    "title": "Intern Sales Development Program (English-speaking)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:anthropic:4978280008": {
+    "updated_at": "2026-04-24T07:00:06-04:00",
+    "title": "Startup Account Executive - UKI",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7836736": {
+    "updated_at": "2026-04-24T06:56:15-04:00",
+    "title": "Senior Named Account Executive",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:toast:7838597": {
+    "updated_at": "2026-04-24T06:34:52-04:00",
+    "title": "Principal Technical Product Manager -Cloud Native Infrastructure",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:celonis:7707970003": {
+    "updated_at": "2026-04-24T06:27:09-04:00",
+    "title": "Intern Sales Development Program (Turkish-Speaking)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7707960003": {
+    "updated_at": "2026-04-24T06:23:49-04:00",
+    "title": "Intern Sales Development Program (Portuguese-Speaking)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7707948003": {
+    "updated_at": "2026-04-24T06:02:53-04:00",
+    "title": "Intern Sales Development Program (Nordic Market)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7707752003": {
+    "updated_at": "2026-04-24T05:59:10-04:00",
+    "title": "Intern Sales Development Program (Spanish-Speaking)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5197714008": {
+    "updated_at": "2026-04-24T05:58:26-04:00",
+    "title": "Senior Security Software Engineer, Linux Kernel Security - Nodes & Sensors",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:celonis:7707687003": {
+    "updated_at": "2026-04-24T05:55:27-04:00",
+    "title": "Intern Sales Development Program (German-Speaking)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
     "alerted": false
   }
 }
