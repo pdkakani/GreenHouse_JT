@@ -58,6 +58,15 @@ Internally evaluate each criterion, then output ONLY a JSON object with a single
 {{"score": <integer from 0 to 100>}}
 Do not output anything else — no explanation, no markdown, no extra keys.
 
+STRICTNESS RULES (must follow before final score):
+- Start from a conservative baseline of 30 and add points only for clear evidence.
+- Penalize vague or transferable experience unless explicitly relevant.
+- If role family is meaningfully different from resume background, cap score at 45.
+- If seniority mismatch is 2+ levels (e.g. junior vs staff), cap score at 60.
+- If 2 or more core required skills are missing, cap score at 55.
+- Do NOT give scores above 80 unless there is strong alignment across all 4 criteria.
+- Prefer false negatives over false positives.
+
 SCORING CRITERIA (evaluate internally before giving final score):
 1. Technical skills match — languages, frameworks, tools, cloud (weight: 40%)
 2. Domain and industry fit — fintech, banking, distributed systems, microservices (weight: 25%)
