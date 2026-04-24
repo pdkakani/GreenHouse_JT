@@ -11592,7 +11592,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5140403008": {
-    "updated_at": "2026-04-24T15:40:14-04:00",
+    "updated_at": "2026-04-24T19:10:30-04:00",
     "title": "Applied AI Architect, State and Local Government",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -30440,7 +30440,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8387092002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:25:02-04:00",
     "title": "Antenna Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30560,7 +30560,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8350391002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:06:43-04:00",
     "title": "Automation & Controls Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30640,7 +30640,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8209788002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:05:25-04:00",
     "title": "Automation & Control Systems Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30816,7 +30816,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8374828002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:05:53-04:00",
     "title": "Build Engineer (Super Heavy Booster)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30848,7 +30848,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8490639002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:09:23-04:00",
     "title": "Build Specialist (Booster Structures Engineering)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30976,7 +30976,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8343870002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:02:10-04:00",
     "title": "CMM Programmer (Valves) - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30984,7 +30984,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8414963002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:01:35-04:00",
     "title": "CNC Machinist (FABLAB)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31072,7 +31072,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8488374002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:59:04-04:00",
     "title": "Construction Project Manager, Residential (Starbase Development)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31096,7 +31096,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8488362002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:59:39-04:00",
     "title": "Construction Superintendent, Residential (Starbase Development)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31128,7 +31128,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8456320002": {
-    "updated_at": "2026-04-24T17:30:28-04:00",
+    "updated_at": "2026-04-24T19:36:10-04:00",
     "title": "Critical Lift & Transport Engineer (Falcon)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31376,7 +31376,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8403102002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:07:50-04:00",
     "title": "Development Test Technician - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31384,7 +31384,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8378521002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:10:06-04:00",
     "title": "Development Test Technician (Mechanical)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31416,7 +31416,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8295623002": {
-    "updated_at": "2026-04-24T18:57:06-04:00",
+    "updated_at": "2026-04-24T18:57:57-04:00",
     "title": "DSP Engineer (Starship Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31536,7 +31536,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8315405002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:08:15-04:00",
     "title": "Electrical Engineer (Instrumentation & Controls)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31568,7 +31568,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8403132002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:21:27-04:00",
     "title": "Electrical Engineer, Sensors (Starship Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31592,7 +31592,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8302053002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:00:07-04:00",
     "title": "Electrical Engineer (Starship Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31704,7 +31704,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8402489002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:24:24-04:00",
     "title": "Embedded Software Engineer, OS/Platform  (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31712,7 +31712,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8468958002": {
-    "updated_at": "2026-04-24T16:52:54-04:00",
+    "updated_at": "2026-04-24T19:26:44-04:00",
     "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31960,7 +31960,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8214252002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:30:13-04:00",
     "title": "Fire Protection Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31968,7 +31968,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8477451002": {
-    "updated_at": "2026-04-24T16:55:09-04:00",
+    "updated_at": "2026-04-24T19:27:08-04:00",
     "title": "Flight Software Infrastructure Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32016,7 +32016,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8358022002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:04:32-04:00",
     "title": "Full Stack Software Engineer (Build Reliability)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32240,7 +32240,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8357162002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:37:50-04:00",
     "title": "Hardware Development Engineer, Transceivers (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32520,7 +32520,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8456295002": {
-    "updated_at": "2026-04-24T17:17:55-04:00",
+    "updated_at": "2026-04-24T19:35:20-04:00",
     "title": "IT Network Engineer - Top Secret Clearance",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32544,7 +32544,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8469052002": {
-    "updated_at": "2026-04-24T17:16:23-04:00",
+    "updated_at": "2026-04-24T19:10:25-04:00",
     "title": "IT Systems Administrator, Launch",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37568,7 +37568,7 @@
     "alerted": true
   },
   "greenhouse:spacex:8504994002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:09:45-04:00",
     "title": "Launch Engineer, Fluid Systems (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37872,7 +37872,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8335814002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:58:50-04:00",
     "title": "Manufacturing Engineer, Machining Inspection (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37896,7 +37896,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8357150002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:37:41-04:00",
     "title": "Manufacturing Engineer, Optical Fiber (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37936,7 +37936,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8406833002": {
-    "updated_at": "2026-04-24T15:21:40-04:00",
+    "updated_at": "2026-04-24T19:12:58-04:00",
     "title": "Manufacturing Engineer, Solar (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38008,7 +38008,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8461337002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:14:09-04:00",
     "title": "Material Flow Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38112,7 +38112,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8352050002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:01:26-04:00",
     "title": "Mechanical Designer, Automation & Controls (Starship Launch Pad)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38152,7 +38152,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8426059002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:21:45-04:00",
     "title": "Mechanical Engineer, Cabin Structures (Crew Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38216,7 +38216,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8216534002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:03:04-04:00",
     "title": "Mechanical Engineer, Machine Design (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38224,7 +38224,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8407781002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:06:58-04:00",
     "title": "Mechanical Engineer, Mechanisms (Crew Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38256,7 +38256,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8210995002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:31:58-04:00",
     "title": "Mechanical Engineer - Precision Machining (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38336,7 +38336,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8511462002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:09:39-04:00",
     "title": "Mechanical Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38432,7 +38432,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8504788002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:09:31-04:00",
     "title": "Mechanical Engineer, Tower/Launch and Test",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38504,7 +38504,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8357168002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:37:59-04:00",
     "title": "Microelectronics Process Engineer, Optical Products (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38552,7 +38552,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8402832002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:08:31-04:00",
     "title": "NDE Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38576,7 +38576,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8397219002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:08:48-04:00",
     "title": "NDE Specialist, Eddy Current (Starship) - Level III",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38680,7 +38680,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8497524002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:04:10-04:00",
     "title": "New Graduate Engineer, Mechanical",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38720,7 +38720,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8497499002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:07:50-04:00",
     "title": "New Graduate Engineer, Mechanical (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38728,7 +38728,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8497447002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:00:50-04:00",
     "title": "New Graduate Engineer, Propulsion (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38752,7 +38752,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8446263002": {
-    "updated_at": "2026-04-24T17:03:54-04:00",
+    "updated_at": "2026-04-24T19:39:45-04:00",
     "title": "New Graduate Engineer, Software (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38840,7 +38840,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8450042002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:58:27-04:00",
     "title": "Operations Engineer, Spaceport Facilities",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38928,7 +38928,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8402452002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:24:24-04:00",
     "title": "OS/Platform Software Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38984,7 +38984,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8478286002": {
-    "updated_at": "2026-04-24T16:55:09-04:00",
+    "updated_at": "2026-04-24T19:27:08-04:00",
     "title": "Platform Engineer, Flight Software (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39008,7 +39008,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8450056002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:58:40-04:00",
     "title": "Power Systems Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39144,8 +39144,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8461465002": {
-    "updated_at": "2026-04-24T16:53:49-04:00",
-    "title": "Principal Electrical Engineer, Satellites - (Starlink)",
+    "updated_at": "2026-04-24T19:18:46-04:00",
+    "title": "Principal Electrical Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -39352,7 +39352,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8420823002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:06:26-04:00",
     "title": "Production Engineer (Starship Electronics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39512,7 +39512,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8324817002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:03:21-04:00",
     "title": "Propulsion Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39688,7 +39688,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8480418002": {
-    "updated_at": "2026-04-24T16:51:34-04:00",
+    "updated_at": "2026-04-24T19:27:46-04:00",
     "title": "RF/Microwave Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40000,7 +40000,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8324788002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:07:18-04:00",
     "title": "Software Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40160,7 +40160,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8398552002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:23:59-04:00",
     "title": "Software Engineer, Embedded Software (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40176,7 +40176,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8398447002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:23:59-04:00",
     "title": "Software Engineer, Flight Software (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40216,7 +40216,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8211187002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:32:56-04:00",
     "title": "Software Engineer, Hardware Test & Automation (Optical Payloads)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40440,7 +40440,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8501199002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:06:59-04:00",
     "title": "Software Engineer (Starshield)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40456,7 +40456,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8451998002": {
-    "updated_at": "2026-04-24T15:39:55-04:00",
+    "updated_at": "2026-04-24T19:19:51-04:00",
     "title": "Software Engineer, Telemetry (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40496,7 +40496,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8478283002": {
-    "updated_at": "2026-04-24T16:55:09-04:00",
+    "updated_at": "2026-04-24T19:27:08-04:00",
     "title": "Software Infrastructure Engineer, Flight Software (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40584,7 +40584,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8497552002": {
-    "updated_at": "2026-04-24T16:55:19-04:00",
+    "updated_at": "2026-04-24T19:28:04-04:00",
     "title": "Sr. Antenna Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40632,7 +40632,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8455516002": {
-    "updated_at": "2026-04-24T16:18:35-04:00",
+    "updated_at": "2026-04-24T19:25:20-04:00",
     "title": "Sr. ASIC Design Engineer (Silicon Engineering)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40912,7 +40912,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8295537002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:29:58-04:00",
     "title": "Sr. DSP Engineer (Starship Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40984,7 +40984,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8206849002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:28:02-04:00",
     "title": "Sr. Electrical Engineer (Starship Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41336,7 +41336,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8438659002": {
-    "updated_at": "2026-04-24T17:17:01-04:00",
+    "updated_at": "2026-04-24T19:11:27-04:00",
     "title": "Sr. IT Network Automation Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41512,7 +41512,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8318111002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:01:08-04:00",
     "title": "Sr. Mechanical Engineer, Machine Design (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41904,7 +41904,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8453343002": {
-    "updated_at": "2026-04-24T16:10:44-04:00",
+    "updated_at": "2026-04-24T19:39:26-04:00",
     "title": "Sr. RFIC Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41944,8 +41944,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8461541002": {
-    "updated_at": "2026-04-24T16:54:10-04:00",
-    "title": "Sr. RF/Microwave Engineer, Satellites - (Starlink)",
+    "updated_at": "2026-04-24T19:28:21-04:00",
+    "title": "Sr. RF/Microwave Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -42824,7 +42824,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8294807002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:03:42-04:00",
     "title": "Telecommunications Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42840,7 +42840,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8492521002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:08:35-04:00",
     "title": "Test Engineer (Dragon)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42848,7 +42848,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8326667002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:05:05-04:00",
     "title": "Test Engineer (Falcon Test)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42872,7 +42872,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8477466002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:07:56-04:00",
     "title": "Test Engineer (Starship Development)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42880,7 +42880,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8464865002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:24:45-04:00",
     "title": "Test Reliability Engineer (Raptor)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42896,7 +42896,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8477422002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:04:45-04:00",
     "title": "Test Stand Design & Build Engineer (Structures/Fluid Systems)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -53456,7 +53456,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:7827020": {
-    "updated_at": "2026-04-23T20:32:23-04:00",
+    "updated_at": "2026-04-24T19:32:15-04:00",
     "title": "Customer Success Associate I",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -59656,7 +59656,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8342924002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:01:10-04:00",
     "title": "Electro-Mechanical Build & Test Technician (Starship Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -80968,7 +80968,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4671648005": {
-    "updated_at": "2026-04-13T13:57:00-04:00",
+    "updated_at": "2026-04-24T19:15:41-04:00",
     "title": "Operations Financial Analyst (R13880)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -84400,7 +84400,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8377508002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:08:04-04:00",
     "title": "Controls Technician (Starship Launch Pad) - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -93216,7 +93216,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8421413002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:59:32-04:00",
     "title": "Precision Inspector (Rocket Valves) - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99152,7 +99152,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8357172002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:38:12-04:00",
     "title": "Production Machinist (Starlink) - 1st Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99480,7 +99480,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8377482002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:07:00-04:00",
     "title": "Controls Technician (Starship Launch Pad)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99512,7 +99512,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8328528002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:02:44-04:00",
     "title": "Supervisor, Welding (Super Heavy Booster)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99544,7 +99544,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8340769002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:36:59-04:00",
     "title": "Manufacturing Specialist (Optical Production)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99616,7 +99616,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8326711002": {
-    "updated_at": "2026-04-24T17:32:26-04:00",
+    "updated_at": "2026-04-24T19:05:04-04:00",
     "title": "TIG Welder (Starship) - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -103080,7 +103080,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5074997008": {
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-24T19:12:06-04:00",
     "title": "Strategic Account Executive, Healthcare",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -103104,7 +103104,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5074995008": {
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-04-24T19:13:08-04:00",
     "title": "Strategic Account Executive, Life Sciences",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -103680,7 +103680,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8295440002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:37:14-04:00",
     "title": "Supervisor, Precision Machining (Starlink) - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -104152,7 +104152,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8415063002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:05:24-04:00",
     "title": "NDE Level II Inspector (Starship Mechanisms) - 1st Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -104160,7 +104160,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8438495002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:05:24-04:00",
     "title": "NDE Level II Inspector, Certified Welding Inspector (Starship Mechanisms) - 1st Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -105400,7 +105400,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8357176002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:38:30-04:00",
     "title": "Production Machinist (Starlink) - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106656,7 +106656,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8381701002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:34:45-04:00",
     "title": "Ultra Precision Machining Specialist (Machining) - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107104,7 +107104,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8378282002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:00:25-04:00",
     "title": "Automated Welding Technician (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107408,7 +107408,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8452928002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:33:35-04:00",
     "title": "Diamond Turning Machinist (Starlink) - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107616,7 +107616,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8211153002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:32:32-04:00",
     "title": "HVAC Technician - Level 4/5 (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107672,7 +107672,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8461644002": {
-    "updated_at": "2026-04-24T16:09:49-04:00",
+    "updated_at": "2026-04-24T19:24:56-04:00",
     "title": "Investor Relations Manager",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107768,7 +107768,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8461194002": {
-    "updated_at": "2026-04-24T15:36:41-04:00",
+    "updated_at": "2026-04-24T19:12:37-04:00",
     "title": "Manager, Printed Circuit Board (PCB) Production (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107800,7 +107800,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8461562002": {
-    "updated_at": "2026-04-24T15:44:04-04:00",
+    "updated_at": "2026-04-24T19:22:50-04:00",
     "title": "Manager, V5 User Terminal Production (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107816,7 +107816,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8185721002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:31:28-04:00",
     "title": "Manufacturing Specialist (Satellite Transceiver)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107936,7 +107936,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8239717002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:32:14-04:00",
     "title": "Production Machinist (Starlink) - 1st Shift - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107944,7 +107944,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8239863002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:33:14-04:00",
     "title": "Production Machinist (Starlink) - 2nd Shift - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108024,7 +108024,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8470780002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:24:13-04:00",
     "title": "Propulsion Technician (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108032,7 +108032,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8447282002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:24:13-04:00",
     "title": "Propulsion Technician (Super Heavy Booster Propulsion Systems)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108432,7 +108432,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8455124002": {
-    "updated_at": "2026-04-24T17:49:40-04:00",
+    "updated_at": "2026-04-24T19:17:15-04:00",
     "title": "Structural Welder",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108440,7 +108440,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8455876002": {
-    "updated_at": "2026-04-24T17:47:55-04:00",
+    "updated_at": "2026-04-24T19:25:59-04:00",
     "title": "Structural Welder (Night Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108496,7 +108496,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8434520002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:10:06-04:00",
     "title": "Supervisor Tooling Operations (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108552,7 +108552,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8476111002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:10:29-04:00",
     "title": "Technical Recruiter",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108584,7 +108584,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8208356002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:00:41-04:00",
     "title": "TIG Welder (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -121408,7 +121408,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8512876002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T19:28:17-04:00",
     "title": "Software Engineer (Flight Reliability)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -123920,7 +123920,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7834497": {
-    "updated_at": "2026-04-22T17:23:53-04:00",
+    "updated_at": "2026-04-24T19:15:21-04:00",
     "title": "Manager, Commercial Pre-Sales Systems Engineering - Northeast",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -124080,7 +124080,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5194021008": {
-    "updated_at": "2026-04-23T13:43:10-04:00",
+    "updated_at": "2026-04-24T19:09:12-04:00",
     "title": "Senior Manager, Infrastructure Lease Accounting",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -128950,5 +128950,157 @@
     "ats": "greenhouse",
     "source_slug": "abnormalsecurity",
     "alerted": true
+  },
+  "greenhouse:spacex:8522525002": {
+    "updated_at": "2026-04-24T19:31:45-04:00",
+    "title": "Sr. Data Engineer (Starlink Grwoth)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7712627003": {
+    "updated_at": "2026-04-24T19:31:35-04:00",
+    "title": "Content Strategist",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:lyft:8524003002": {
+    "updated_at": "2026-04-24T19:31:34-04:00",
+    "title": "Senior Manager, Global Equity Programs",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:flex:4688803005": {
+    "updated_at": "2026-04-24T19:31:19-04:00",
+    "title": "Account Executive, SMB",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:flex:4688805005": {
+    "updated_at": "2026-04-24T19:31:17-04:00",
+    "title": "Account Executive, SMB",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:flex:4688806005": {
+    "updated_at": "2026-04-24T19:31:15-04:00",
+    "title": "Account Executive, SMB",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:lyft:8524002002": {
+    "updated_at": "2026-04-24T19:30:34-04:00",
+    "title": "Senior Manager, Global Equity Programs",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8517571002": {
+    "updated_at": "2026-04-24T19:24:31-04:00",
+    "title": "Staff Program Manager, Enterprise Technology & AI",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:flexport:7852872": {
+    "updated_at": "2026-04-24T19:24:24-04:00",
+    "title": "Area Manager",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7834266": {
+    "updated_at": "2026-04-24T19:20:39-04:00",
+    "title": "Senior Pre-Sales Systems Engineer, Enterprise - Pittsburgh",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:waymo:7852156": {
+    "updated_at": "2026-04-24T19:20:22-04:00",
+    "title": "Head of Technical Talent Acquisition",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:waymo:7852206": {
+    "updated_at": "2026-04-24T19:19:51-04:00",
+    "title": "Senior Manager, Talent Acquisition Operations & Process Engineering",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:waymo:7839621": {
+    "updated_at": "2026-04-24T19:17:27-04:00",
+    "title": "Senior Manager, Talent Intelligence & Sourcing",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:spacex:8523414002": {
+    "updated_at": "2026-04-24T19:09:52-04:00",
+    "title": "Accountant, Revenue",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:sofi:7714017003": {
+    "updated_at": "2026-04-24T19:04:53-04:00",
+    "title": "Principal Case Management Platform Manager",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7714041003": {
+    "updated_at": "2026-04-24T19:01:08-04:00",
+    "title": "Software Engineer 1, Dev Accelerator",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:waymo:7848653": {
+    "updated_at": "2026-04-24T19:00:49-04:00",
+    "title": "People Experience Partner",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:toast:7847516": {
+    "updated_at": "2026-04-24T18:45:47-04:00",
+    "title": "Territory Account Executive, Retail - Huntington Beach, CA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:7852873": {
+    "updated_at": "2026-04-24T18:45:45-04:00",
+    "title": "Territory Account Executive, Retail - Garden Grove, CA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
   }
 }
