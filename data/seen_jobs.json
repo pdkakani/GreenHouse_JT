@@ -6880,8 +6880,8 @@
     "alerted": true
   },
   "greenhouse:gitlab:8324132002": {
-    "updated_at": "2026-04-24T11:28:23-04:00",
-    "title": "Senior Backend Engineer, Gitlab Delivery - Runway",
+    "updated_at": "2026-04-24T18:04:11-04:00",
+    "title": "Senior Backend Engineer, Gitlab Delivery: Runway (Platform Engineering)",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
@@ -7784,7 +7784,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7722641": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "EU Market Development, Climate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -10920,7 +10920,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5099753008": {
-    "updated_at": "2026-04-24T16:19:52-04:00",
+    "updated_at": "2026-04-24T17:34:39-04:00",
     "title": "Manager, Forward Deployed Engineering",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -11360,7 +11360,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5098565008": {
-    "updated_at": "2026-04-24T17:22:40-04:00",
+    "updated_at": "2026-04-24T17:36:26-04:00",
     "title": "Senior Full Stack Engineer, Education",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -13672,7 +13672,7 @@
     "alerted": true
   },
   "greenhouse:cribl:5746408004": {
-    "updated_at": "2026-04-16T19:38:52-04:00",
+    "updated_at": "2026-04-24T17:38:43-04:00",
     "title": "Staff Machine Learning Engineer, AI Researcher",
     "company": "cribl",
     "ats": "greenhouse",
@@ -22944,7 +22944,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5139910008": {
-    "updated_at": "2026-04-24T17:17:49-04:00",
+    "updated_at": "2026-04-24T17:41:53-04:00",
     "title": "Staff+ Software Engineer, Observability",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -24160,7 +24160,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5191638008": {
-    "updated_at": "2026-04-17T09:45:54-04:00",
+    "updated_at": "2026-04-24T17:46:10-04:00",
     "title": "Cluster Deployment Engineer",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -24192,7 +24192,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5192104008": {
-    "updated_at": "2026-04-24T17:24:18-04:00",
+    "updated_at": "2026-04-24T17:34:11-04:00",
     "title": "Global Applied AI Architecture Lead, Beneficial Deployments",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -24736,7 +24736,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5191437008": {
-    "updated_at": "2026-04-24T16:14:45-04:00",
+    "updated_at": "2026-04-24T17:35:17-04:00",
     "title": "Partner Business Systems & AI Operations Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -24768,7 +24768,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7779294": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Technical Partner Manager, EMEA Payment Methods",
     "company": "stripe",
     "ats": "greenhouse",
@@ -30448,7 +30448,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8369850002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:41-04:00",
     "title": "Antenna Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30568,7 +30568,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8218449002": {
-    "updated_at": "2026-04-24T17:13:04-04:00",
+    "updated_at": "2026-04-24T17:26:58-04:00",
     "title": "Automation & Controls Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30584,7 +30584,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8245092002": {
-    "updated_at": "2026-04-24T17:13:04-04:00",
+    "updated_at": "2026-04-24T17:26:58-04:00",
     "title": "Automation & Controls Engineer (Starship Production) - Motion Controls",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30680,7 +30680,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8495842002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:39:14-04:00",
     "title": "Automation Engineer (Starlink Growth)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30768,7 +30768,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8357111002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:01:55-04:00",
     "title": "BAW Device Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30776,7 +30776,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8356343002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:47-04:00",
     "title": "BAW Filter Design Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -30896,7 +30896,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8402132002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:53:26-04:00",
     "title": "Chemical Process Engineer (Starship Launch Systems)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31080,7 +31080,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8379486002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:58:16-04:00",
     "title": "Construction Project Manager, Starbase Development (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31128,7 +31128,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8456320002": {
-    "updated_at": "2026-04-24T17:23:05-04:00",
+    "updated_at": "2026-04-24T17:30:28-04:00",
     "title": "Critical Lift & Transport Engineer (Falcon)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31304,8 +31304,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8490568002": {
-    "updated_at": "2026-04-24T15:35:04-04:00",
-    "title": "Development Coordinator, Satellites (Starlink)",
+    "updated_at": "2026-04-24T17:56:23-04:00",
+    "title": "Production Coordinator, Development (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -31336,7 +31336,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8402394002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:53:35-04:00",
     "title": "Development Test Engineer, Structures (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31344,7 +31344,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8217688002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:47:48-04:00",
     "title": "Development Test Specialist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31352,7 +31352,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8490598002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:50:35-04:00",
     "title": "Development Test Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31360,7 +31360,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8206888002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:46:07-04:00",
     "title": "Development Test Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31368,7 +31368,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8494087002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:48:53-04:00",
     "title": "Development Test Technician (2nd Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31472,7 +31472,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8318766002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:36:48-04:00",
     "title": "Electrical Design Engineer (Raptor Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31504,7 +31504,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8218451002": {
-    "updated_at": "2026-04-24T17:13:04-04:00",
+    "updated_at": "2026-04-24T17:26:58-04:00",
     "title": "Electrical Engineer - Automation & Controls  (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31544,7 +31544,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8477274002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:44:21-04:00",
     "title": "Electrical Engineer (Power Systems)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31664,7 +31664,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8215027002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:48:41-04:00",
     "title": "Electromagnetic Effects Test Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31672,7 +31672,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8405119002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:34-04:00",
     "title": "Electronics Test Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31752,7 +31752,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8473657002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:56:43-04:00",
     "title": "Engineering Manager, Wastewater Treatment & Ultrapure Water (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31768,7 +31768,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8473726002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:47:18-04:00",
     "title": "Engineering Technician (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31864,7 +31864,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8484560002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:50:31-04:00",
     "title": "Environmental & Materials Compliance Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31928,7 +31928,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8335514002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:42:56-04:00",
     "title": "Facilities Engineer, MEP",
     "company": "spacex",
     "ats": "greenhouse",
@@ -31976,7 +31976,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8216029002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:54:55-04:00",
     "title": "Fluids Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32368,7 +32368,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8356899002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:54:21-04:00",
     "title": "IC Package Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32464,7 +32464,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8206961002": {
-    "updated_at": "2026-04-24T17:20:30-04:00",
+    "updated_at": "2026-04-24T17:27:44-04:00",
     "title": "Integration & Test Engineer (Falcon)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32664,7 +32664,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7484598": {
-    "updated_at": "2026-04-23T19:07:38-04:00",
+    "updated_at": "2026-04-24T17:28:36-04:00",
     "title": "Electrical Design Validation Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34616,7 +34616,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7697637": {
-    "updated_at": "2026-04-23T16:59:55-04:00",
+    "updated_at": "2026-04-24T18:02:43-04:00",
     "title": "Field Sales Engineer II, Enterprise-Northeast",
     "company": "samsara",
     "ats": "greenhouse",
@@ -37576,7 +37576,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8374879002": {
-    "updated_at": "2026-04-24T17:21:03-04:00",
+    "updated_at": "2026-04-24T17:28:21-04:00",
     "title": "Launch Engineer, Ground Support Equipment (Falcon)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37592,7 +37592,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8447293002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:52:18-04:00",
     "title": "Launch Operations Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37600,7 +37600,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8476233002": {
-    "updated_at": "2026-04-24T17:23:23-04:00",
+    "updated_at": "2026-04-24T17:30:44-04:00",
     "title": "Launch Reliability Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37616,7 +37616,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8390284002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:03-04:00",
     "title": "Lead Electronics Engineer, Gateways (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37712,7 +37712,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8310496002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:42:25-04:00",
     "title": "Liquefied Natural Gas Process/Project Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37776,7 +37776,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8324553002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:52:11-04:00",
     "title": "Manager, Equipment and Automation Engineering (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37784,7 +37784,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8224805002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:55:56-04:00",
     "title": "Manager, Gateway Electronics Engineering (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37848,7 +37848,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8273710002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:04:10-04:00",
     "title": "Manufacturing Engineer, Gateways (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37920,7 +37920,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8401244002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:58:32-04:00",
     "title": "Manufacturing Engineer (Raptor Machining)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -37928,7 +37928,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8463185002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:33:15-04:00",
     "title": "Manufacturing Engineer, Raptor Turbomachinery",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38208,7 +38208,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8451034002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:58:50-04:00",
     "title": "Mechanical Engineer, Infrastructure",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38400,7 +38400,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8217725002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:46:57-04:00",
     "title": "Mechanical Engineer (Starship Mechanisms)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38416,7 +38416,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8492456002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:53:00-04:00",
     "title": "Mechanical Engineer, Test Hardware Fabrication",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38456,7 +38456,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8217716002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:46:57-04:00",
     "title": "Mechanisms Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -38872,7 +38872,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8496306002": {
-    "updated_at": "2026-04-24T17:01:28-04:00",
+    "updated_at": "2026-04-24T17:32:47-04:00",
     "title": "Operations Engineer (Starlink Growth)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39024,7 +39024,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8330605002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:54:30-04:00",
     "title": "Principal Antenna Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39264,7 +39264,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8473718002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:34-04:00",
     "title": "Process Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39272,7 +39272,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8327979002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:52:46-04:00",
     "title": "Process Engineer, Wafer-Level Packaging (Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39296,7 +39296,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8484568002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:14-04:00",
     "title": "Product Compliance Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39456,7 +39456,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8512813002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:38:12-04:00",
     "title": "Propulsion Engineer, Components Manufacturing (Raptor)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39568,7 +39568,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8423966002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:34-04:00",
     "title": "Radiation Effects Test Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39584,7 +39584,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8384699002": {
-    "updated_at": "2026-04-24T17:20:46-04:00",
+    "updated_at": "2026-04-24T17:27:58-04:00",
     "title": "Recovery Engineer (F9 Booster & Fairings)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39600,7 +39600,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8473716002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:25-04:00",
     "title": "Reliability Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39608,7 +39608,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8369901002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:01-04:00",
     "title": "RF Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39736,7 +39736,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8398929002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:26-04:00",
     "title": "RF Test Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39752,7 +39752,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8484564002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:50:55-04:00",
     "title": "RF & Wireless Compliance Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -39760,7 +39760,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8245087002": {
-    "updated_at": "2026-04-24T17:13:04-04:00",
+    "updated_at": "2026-04-24T17:26:58-04:00",
     "title": "Robotics  Engineer (Starship) - Automation & Controls",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40112,7 +40112,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466905002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Software Engineer, Design Software (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40120,7 +40120,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466837002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:25:38-04:00",
     "title": "Software Engineer, Design Software (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40152,7 +40152,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8345913002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:26:11-04:00",
     "title": "Software Engineer, Displays Software (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40312,7 +40312,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8213250002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:36:57-04:00",
     "title": "Software Engineer, Propulsion Simulation & Data Analysis",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40360,7 +40360,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8306500002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:36:02-04:00",
     "title": "Software Engineer (Special Projects) - Top Secret Clearance",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40408,7 +40408,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8403929002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:27:02-04:00",
     "title": "Software Engineer, Starlink Growth",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40472,7 +40472,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8222759002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:25:19-04:00",
     "title": "Software Engineer (Thermal & Fluid Analysis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40488,7 +40488,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8397542002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:37:53-04:00",
     "title": "Software Engineer (Vehicle Engineering)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40592,7 +40592,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8369854002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:49-04:00",
     "title": "Sr. Antenna Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40704,7 +40704,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8293668002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:33-04:00",
     "title": "Sr. Automation & Controls Engineer (Components)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40720,7 +40720,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8220078002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:26:43-04:00",
     "title": "Sr. Automation & Controls Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40768,7 +40768,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8356387002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:59-04:00",
     "title": "Sr. BAW Filter Design Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40824,7 +40824,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8250450002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:00:03-04:00",
     "title": "Sr. Crane Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40832,7 +40832,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8460052002": {
-    "updated_at": "2026-04-24T17:22:33-04:00",
+    "updated_at": "2026-04-24T17:29:38-04:00",
     "title": "Sr. Critical Lift & Transport Engineer (Falcon)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40864,7 +40864,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8379386002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:31:21-04:00",
     "title": "Sr. Data Engineer (Starlink Growth)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40944,7 +40944,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8328045002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:35:52-04:00",
     "title": "Sr. Electrical Design Engineer (Raptor Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -40976,7 +40976,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8477284002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:44:28-04:00",
     "title": "Sr. Electrical Engineer (Power Systems)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41104,7 +41104,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8484562002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:37-04:00",
     "title": "Sr. Environmental & Materials Compliance Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41120,7 +41120,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8244919002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:26:43-04:00",
     "title": "Sr. Equipment Reliability Engineer - Automation & Controls (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41128,7 +41128,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8273379002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:00:03-04:00",
     "title": "Sr. Equipment Reliability Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41144,7 +41144,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8216045002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:55:06-04:00",
     "title": "Sr. Fluids Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41536,7 +41536,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8250480002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:00:03-04:00",
     "title": "Sr. Mechanical Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41560,7 +41560,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8490224002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:00:03-04:00",
     "title": "Sr. Mechatronics Maintenance Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41736,7 +41736,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8484570002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:24-04:00",
     "title": "Sr. Product Compliance Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41784,7 +41784,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8400703002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:37:47-04:00",
     "title": "Sr. Propulsion Design Engineer (Raptor Engine Systems)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41848,7 +41848,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8423958002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:07-04:00",
     "title": "Sr. Radiation Effects Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41856,7 +41856,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8369906002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:55-04:00",
     "title": "Sr. RF Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -41976,7 +41976,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8484566002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:04-04:00",
     "title": "Sr. RF & Wireless Compliance Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42168,7 +42168,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466962002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:28:05-04:00",
     "title": "Sr. Software Engineer, Design Software (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42248,7 +42248,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8213305002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:33:07-04:00",
     "title": "Sr. Software Engineer, Propulsion Simulation & Data Analysis (Raptor)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42272,7 +42272,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8306517002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:33:40-04:00",
     "title": "Sr. Software Engineer (Special Projects) - Top Secret Clearance",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42296,7 +42296,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8402939002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:28:29-04:00",
     "title": "Sr. Software Engineer, Starlink Growth",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42304,7 +42304,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8402993002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:29:50-04:00",
     "title": "Sr. Software Engineer, Starlink Growth",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42400,7 +42400,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8364483002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:44:04-04:00",
     "title": "Sr. Structural Engineer, Structural Test (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42520,7 +42520,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8346179002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:30:37-04:00",
     "title": "Starlink Market Access & Development Manager",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42608,7 +42608,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8310520002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:53:09-04:00",
     "title": "Structural Engineer, Structural Test (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -42912,7 +42912,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8421673002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:31:19-04:00",
     "title": "Thermal Control and Life Support Hardware Engineer (Crew Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -43112,7 +43112,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8375300002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:15-04:00",
     "title": "Yield Engineer, RF Final Test Integration (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -43120,7 +43120,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8302408002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:53:25-04:00",
     "title": "Yield Engineer (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -44136,7 +44136,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7607568": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Account Executive, Enterprise - Billing (Existing Business)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44144,7 +44144,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7539429": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive - Enterprise Germany",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44152,7 +44152,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7458833": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive, Enterprise (Hunter)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44160,7 +44160,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7528816": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Account Executive, Enterprise (Hunter), Japan",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44184,7 +44184,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7451366": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive (Hunter) , UK Enterprise Retail",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44192,7 +44192,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7394627": {
-    "updated_at": "2026-04-24T17:22:50-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive, Iberia",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44200,7 +44200,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7483724": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive, Italy",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44208,7 +44208,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7542218": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive, Marketplace",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44216,7 +44216,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7353623": {
-    "updated_at": "2026-04-24T17:22:49-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive, Platforms, Existing Business (French Speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44224,7 +44224,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7451383": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive, Platforms (French Speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44232,7 +44232,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7459450": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Account Executive, Platforms (Grower)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44280,7 +44280,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7555127": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Account Executive, SMB - Existing Business (French-speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44296,7 +44296,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7452593": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Accounts Receivable Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44304,7 +44304,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7118945": {
-    "updated_at": "2026-04-24T17:22:45-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Accounts Receivable Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44336,7 +44336,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7694113": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "AML Operations Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44352,7 +44352,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7764914": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "APAC Executive Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44360,7 +44360,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7657130": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "AV Builds and Operations",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44384,7 +44384,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7369543": {
-    "updated_at": "2026-04-24T17:22:49-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Backend / API Engineer, Payouts",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44400,7 +44400,7 @@
     "alerted": false
   },
   "greenhouse:stripe:4921361": {
-    "updated_at": "2026-04-24T17:22:38-04:00",
+    "updated_at": "2026-04-24T17:25:55-04:00",
     "title": "Backend Engineer/API, Payments and Risk",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44416,7 +44416,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7182617": {
-    "updated_at": "2026-04-24T17:22:46-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Backend Engineer, Core Technology",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44440,7 +44440,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7115730": {
-    "updated_at": "2026-04-24T17:22:45-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Billing Solutions Architect",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44464,7 +44464,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7179634": {
-    "updated_at": "2026-04-24T17:22:46-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Bridge - Operations Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44472,7 +44472,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7748617": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Bridge Operations Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44528,7 +44528,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7823081": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Commercial Counsel,APAC",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44560,7 +44560,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7587357": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Compliance Analyst, Luxembourg",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44584,7 +44584,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7741833": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Contracting Operations Specialist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44600,7 +44600,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7824139": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Creative Design Operations Associate (Motion)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44608,7 +44608,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7824143": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Creative Design Operations Associate (Static)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44656,7 +44656,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7587353": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Customer Funds Reconciliation and Safeguarding Specialist, Luxembourg",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44664,7 +44664,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7768901": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Customer Success Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44672,7 +44672,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7810205": {
-    "updated_at": "2026-04-24T17:23:02-04:00",
+    "updated_at": "2026-04-24T17:25:58-04:00",
     "title": "Customer Success Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44720,7 +44720,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7587256": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Data - Regulatory Reporting, Luxembourg",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44752,7 +44752,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7743311": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Data Writer and Editor",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44768,7 +44768,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7577341": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "EDD Quality Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44776,7 +44776,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7584203": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "EMEA ABM and Executive Marketing Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44784,7 +44784,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7790433": {
-    "updated_at": "2026-04-24T17:23:02-04:00",
+    "updated_at": "2026-04-24T17:25:58-04:00",
     "title": "EMEA Sales Programs Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44800,7 +44800,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7775314": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Engagement Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44808,7 +44808,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7808299": {
-    "updated_at": "2026-04-24T17:23:02-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Engagement Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44840,7 +44840,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7655222": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Engineering Manager - Fraud Risk",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44856,7 +44856,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7555997": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Engineering Manager, Money Management Expansion",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44864,7 +44864,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7772329": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Engineering Manager, Payment Intelligence",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44872,7 +44872,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7525370": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Engineering Manager, Sales Systems",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44880,7 +44880,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7613386": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Engineering Manager, Streaming Services",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44888,7 +44888,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7773553": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Engineering Manager - Operations Infrastructure",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44896,7 +44896,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7693271": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Enterprise Account Executive",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44904,7 +44904,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7645715": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Enterprise Marketing Manager, Industry - AUNZ",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44920,7 +44920,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7587347": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Enterprise Risk Management Specialist, Luxembourg",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44928,7 +44928,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7566383": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Enterprise Services Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44952,7 +44952,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7606257": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Executive Briefing Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44960,7 +44960,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7543898": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Field Marketing Manager, Northern Europe/MEA",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44984,7 +44984,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7597622": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Finance & Strategy - Finance Analytics Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -44992,7 +44992,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7717412": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Finance & Strategy Partner",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45008,7 +45008,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7061516": {
-    "updated_at": "2026-04-24T17:22:45-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Financial Data Analyst, Technical Operations",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45016,7 +45016,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7278434": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Financial Data Analyst-User Billing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45024,7 +45024,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7748114": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Forward Deployed AI Accelerator, Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45040,7 +45040,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7608396": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Fraud Operations Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45064,7 +45064,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7597613": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "F&S COE Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45072,7 +45072,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7597624": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "F&S COE Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45088,7 +45088,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7532806": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Full Stack Engineer, Collaboration",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45112,7 +45112,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7531158": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Full Stack Engineer, Expansion",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45144,7 +45144,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7587920": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Global Indirect Tax Compliance",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45152,7 +45152,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7553098": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Global People Support - Team Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45184,7 +45184,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7684149": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Head of Communications, APAC",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45200,7 +45200,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7760773": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Head of Platform Sales, AUNZ",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45216,7 +45216,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7337546": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Head of Startups and Velocity Sales Development",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45232,7 +45232,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7656704": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Implementation Consultant, Accelerate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45240,7 +45240,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7649097": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Implementation Consultant (German speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45248,7 +45248,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7744344": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Implementation Consultant, Japan",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45256,7 +45256,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7566217": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "India Sales Strategy and Operations Business Partner",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45264,7 +45264,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7589400": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Indirect Tax Advisory Consultant",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45280,7 +45280,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7703911": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Integration Engineer (AUNZ)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45288,7 +45288,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7594874": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Integration Engineer (Client facing)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45320,7 +45320,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7678541": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Internal Audit Lead - Treasury, Finance & Operations",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45336,7 +45336,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7743714": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Ireland Communications Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45344,7 +45344,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7587254": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "IT Governance, Risk & Compliance (GRC) Analyst, Luxembourg",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45368,7 +45368,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7757552": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Japan Regulatory Compliance & Money Laundering Reporting Officer (RC & MLRO)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45376,7 +45376,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7543885": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "KYC Operations Associate, India",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45384,7 +45384,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7557501": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Legal Counsel, APAC Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45392,7 +45392,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7557920": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Legal Counsel, EMEA Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45400,7 +45400,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6209187": {
-    "updated_at": "2026-04-24T17:22:42-04:00",
+    "updated_at": "2026-04-24T17:25:30-04:00",
     "title": "Legal Entity Controller",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45440,7 +45440,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7703750": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Manager - Legal Entity Controller",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45448,7 +45448,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7337544": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Manager, Sales Development",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45456,7 +45456,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7767222": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Manager, Technical Account Management",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45464,7 +45464,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7664667": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Manager, Technical Account Management",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45472,7 +45472,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7584867": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Marketing Content Operations Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45480,7 +45480,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7634113": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Marketing Manager, SMB and Mid-Market - EMEA",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45488,7 +45488,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7573680": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Marketing Operations Associate (Automation)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45512,7 +45512,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7025164": {
-    "updated_at": "2026-04-24T17:22:45-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Marketing Operations Specialist (Lead Generation)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45528,7 +45528,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7789539": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Mid-Market Account Executive (Japan)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45536,7 +45536,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7795191": {
-    "updated_at": "2026-04-24T17:23:02-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Monetization Operations Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45544,7 +45544,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7724828": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "National Account Executive, Enterprise (India)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45568,7 +45568,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7363874": {
-    "updated_at": "2026-04-24T17:22:49-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Network Solution Specialist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45576,7 +45576,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7592197": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Operations Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45584,7 +45584,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7236933": {
-    "updated_at": "2026-04-24T17:22:47-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Operations Associate, Apprenticeship",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45616,7 +45616,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7520686": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Operations Associate, GTM Accelerate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45624,7 +45624,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7780256": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Operations Associate, GTM Accelerate (Bangalore)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45664,7 +45664,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7540835": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Operations Associate, Sanctions (FinCrime)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45672,7 +45672,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7671302": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Operations Manager, Center of Excellence",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45696,7 +45696,7 @@
     "alerted": false
   },
   "greenhouse:stripe:5853649": {
-    "updated_at": "2026-04-24T17:22:41-04:00",
+    "updated_at": "2026-04-24T17:25:30-04:00",
     "title": "Oracle Fusion apps-Techno functional consultant",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45712,7 +45712,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7289456": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Partner Development Manager (Banks)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45720,7 +45720,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7556207": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Partner Development Manager- Germany",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45728,7 +45728,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7614951": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Partner Solutions Architect, UK",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45736,7 +45736,7 @@
     "alerted": false
   },
   "greenhouse:stripe:5584791": {
-    "updated_at": "2026-04-24T17:22:40-04:00",
+    "updated_at": "2026-04-24T17:25:30-04:00",
     "title": "Payments Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45744,7 +45744,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7554002": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Payments Fraud Investigator",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45768,7 +45768,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7815571": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "People Operations Associate - Fixed Term Contract",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45800,7 +45800,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7537163": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Policy Enforcement Strategist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45808,7 +45808,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7649036": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Processing Cost Accountant",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45816,7 +45816,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7813945": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Product Accounting Data Insights",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45848,7 +45848,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7824008": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Product Designer, Global",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45856,7 +45856,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7657191": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Product Designer, Growth Pricing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45888,7 +45888,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7721834": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Product Manager, Capital",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45896,7 +45896,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7547596": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Product Manager, Local Payment Methods EMEA",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45904,7 +45904,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7486955": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Product Manager, Local Payment Methods EMEA",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45912,7 +45912,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7651697": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Product Manager, Local Payment Methods EMEA",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45920,7 +45920,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6473321": {
-    "updated_at": "2026-04-24T17:22:42-04:00",
+    "updated_at": "2026-04-24T17:25:30-04:00",
     "title": "Product Manager, Revenue and Financial Automation",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45928,7 +45928,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7625842": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Product Manager, Risk & Compliance",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45936,7 +45936,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7834628": {
-    "updated_at": "2026-04-24T17:23:04-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Product Manager, SEA",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45944,7 +45944,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7440429": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Product Manager, Support Products - Support Experience",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46056,7 +46056,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7545852": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Product Support Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46064,7 +46064,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6814190": {
-    "updated_at": "2026-04-24T17:22:44-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Product Support Operations Associate, Weekend Shift",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46072,7 +46072,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7645601": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Product Support Operations Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46080,7 +46080,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7390485": {
-    "updated_at": "2026-04-24T17:22:50-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Product Support Operations, Team Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46088,7 +46088,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7524531": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Product Support Specialist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46152,7 +46152,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7227498": {
-    "updated_at": "2026-04-24T17:22:47-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Program Manager - TechOps",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46160,7 +46160,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7456364": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Recruiting Coordinator (FTE)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46200,7 +46200,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7430332": {
-    "updated_at": "2026-04-24T17:22:50-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Risk Operations Analyst, Financial Crimes",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46216,7 +46216,7 @@
     "alerted": false
   },
   "greenhouse:stripe:5423044": {
-    "updated_at": "2026-04-24T17:22:40-04:00",
+    "updated_at": "2026-04-24T17:25:30-04:00",
     "title": "Risk Operations Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46240,7 +46240,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7309521": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Risk Partnerships Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46272,7 +46272,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7355652": {
-    "updated_at": "2026-04-24T17:22:49-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "SaaS Operations Engineer",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46280,7 +46280,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7633559": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Sales Compensation Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46288,7 +46288,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6470774": {
-    "updated_at": "2026-04-24T17:22:43-04:00",
+    "updated_at": "2026-04-24T17:25:30-04:00",
     "title": "Sales Development Representative",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46296,7 +46296,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6570259": {
-    "updated_at": "2026-04-24T17:22:43-04:00",
+    "updated_at": "2026-04-24T17:25:55-04:00",
     "title": "Sales Development Representative (German-Speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46304,7 +46304,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7601119": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Sales Development Representative, Greater China",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46312,7 +46312,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7355424": {
-    "updated_at": "2026-04-24T17:22:49-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Sales Development Representative, Japan",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46320,7 +46320,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7813755": {
-    "updated_at": "2026-04-24T17:23:02-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Sales Development Representative (Mandarin-speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46328,7 +46328,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7601347": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Sales Enablement Specialist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46352,7 +46352,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7739104": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Sales Manager - Commercial",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46368,7 +46368,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7790430": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Sales Strategy & Operations, Sales Business Partner",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46376,7 +46376,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7294292": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Scaled Account Executive, Japan",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46384,7 +46384,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7325566": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "SDC Operations Manager, Financial Crimes (AML)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46392,7 +46392,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7820898": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:58-04:00",
     "title": "Security Engineer - Offensive Security",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46400,7 +46400,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7827230": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:58-04:00",
     "title": "Security Engineer - Threat Detection",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46408,7 +46408,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7457268": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Senior Integration Reliability Engineer, Technical Operations",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46424,7 +46424,7 @@
     "alerted": false
   },
   "greenhouse:stripe:5323514": {
-    "updated_at": "2026-04-24T17:22:39-04:00",
+    "updated_at": "2026-04-24T17:25:30-04:00",
     "title": "Senior Staff Engineer  -  Reporting, Accounting, and Data Services",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46448,7 +46448,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7602338": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "SEO Marketing Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46464,7 +46464,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7364278": {
-    "updated_at": "2026-04-24T17:22:49-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "SMB Account Executive (Japan)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46480,7 +46480,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7618977": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Software Engineer, Core Technology",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46488,7 +46488,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7529428": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineer, Data & AI",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46496,7 +46496,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7230670": {
-    "updated_at": "2026-04-24T17:22:47-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineer, Data Orchestration",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46512,7 +46512,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7436194": {
-    "updated_at": "2026-04-24T17:22:50-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineer, Fee Insights",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46520,7 +46520,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7176977": {
-    "updated_at": "2026-04-24T17:22:46-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineering, New Grad",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46528,7 +46528,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7532256": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineer, Intern",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46536,7 +46536,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7543868": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineer, Internal Systems",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46552,7 +46552,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7555999": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Software Engineer, Money as a Service",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46560,7 +46560,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7208537": {
-    "updated_at": "2026-04-24T17:22:46-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Software Engineer, Money Movement",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46568,7 +46568,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7206515": {
-    "updated_at": "2026-04-24T17:22:46-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Software Engineer, New Grad",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46576,7 +46576,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6717520": {
-    "updated_at": "2026-04-24T17:22:44-04:00",
+    "updated_at": "2026-04-24T17:25:55-04:00",
     "title": "Software Engineer, Payments and Risk",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46600,7 +46600,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6967304": {
-    "updated_at": "2026-04-24T17:22:45-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineer,Service Ecosystem Sustainability",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46608,7 +46608,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7574860": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Solutions Architect, Commercial (German-Speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46616,7 +46616,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7601663": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Solutions Architect, Enterprise",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46624,7 +46624,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7619227": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Solutions Architect, Enterprise, France",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46632,7 +46632,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7574857": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Solutions Architect, Enterprise - UK",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46640,7 +46640,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7784353": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Solutions Architect, Italy",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46648,7 +46648,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7601673": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Solutions Architect, Platforms - UKI",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46656,7 +46656,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7703909": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Solutions Architect, Start Ups and SMB (UKI)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46664,7 +46664,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7442995": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Solutions Architect, Startup & SMB (German-speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46696,7 +46696,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7430826": {
-    "updated_at": "2026-04-24T17:22:50-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Staff Engineer , Data & AI",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46704,7 +46704,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7548037": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Staff Engineer, Data Engineering Solutions",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46712,7 +46712,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7714564": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Staff Engineer, Edge",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46720,7 +46720,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7217778": {
-    "updated_at": "2026-04-24T17:22:47-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Staff Engineer, Financial Business Insights",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46728,7 +46728,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7716032": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Staff Engineer - Production Eng",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46768,7 +46768,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7645717": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Startup Field Marketing Manager - AUNZ",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46776,7 +46776,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7676921": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Startup Partner - Northern Europe",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46800,7 +46800,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7708538": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Strategic Sourcing Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46808,7 +46808,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7667847": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Strategy & Analytics Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46816,7 +46816,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7761131": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Strategy and Analytics Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46832,7 +46832,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7733723": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Strategy & Operations - Global Partnerships",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46856,7 +46856,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7745694": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Team Lead (KYC/KYB)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46864,7 +46864,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7290256": {
-    "updated_at": "2026-04-24T17:22:48-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Team Lead, Risk Operations (PRO)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46872,7 +46872,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7549012": {
-    "updated_at": "2026-04-24T17:22:53-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Technical Account Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46888,7 +46888,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6613516": {
-    "updated_at": "2026-04-24T17:22:43-04:00",
+    "updated_at": "2026-04-24T17:25:55-04:00",
     "title": "Technical Account Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46896,7 +46896,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7781671": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Technical Account Manager, French Speaking",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46904,7 +46904,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6941317": {
-    "updated_at": "2026-04-24T17:22:45-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Technical Account Manager, French-Speaking",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46912,7 +46912,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7594376": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Technical Account Manager, German OR Polish OR Ukrainian Speaking",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46920,7 +46920,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7076173": {
-    "updated_at": "2026-04-24T17:22:45-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Technical Account Manager, German Speaking",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46928,7 +46928,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7564690": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Technical Account Manager, Risk",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46936,7 +46936,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7204777": {
-    "updated_at": "2026-04-24T17:22:42-04:00",
+    "updated_at": "2026-04-24T17:25:55-04:00",
     "title": "Technical Account Manager, Spanish Speaking",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46944,7 +46944,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7782773": {
-    "updated_at": "2026-04-24T17:23:01-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Technical Account Manager, Spanish Speaking",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46984,7 +46984,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7653021": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Technical Program Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47000,7 +47000,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7678655": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Technical Program Manager, Risk",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47024,7 +47024,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7645713": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Transfer Pricing Operations Specialist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47056,7 +47056,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7587355": {
-    "updated_at": "2026-04-24T17:22:54-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Treasury Manager, Luxembourg",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47064,7 +47064,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7645711": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Treasury Operations Specialist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47072,7 +47072,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7807286": {
-    "updated_at": "2026-04-24T17:23:02-04:00",
+    "updated_at": "2026-04-24T17:25:58-04:00",
     "title": "UK Public Policy & Government Relations Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47080,7 +47080,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7684280": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "University Recruiter (Fixed Term Contract)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47096,7 +47096,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7530580": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "User Enablement Compliance Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47104,7 +47104,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7618545": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "US Indirect Tax Compliance",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47120,7 +47120,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7593583": {
-    "updated_at": "2026-04-24T17:22:55-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Vendor Operations Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47128,7 +47128,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7738241": {
-    "updated_at": "2026-04-24T17:22:59-04:00",
+    "updated_at": "2026-04-24T17:25:32-04:00",
     "title": "Verifications Operations Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -47464,7 +47464,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8516545002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:52:47-04:00",
     "title": "Weld Support Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -47536,7 +47536,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8516568002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:52:32-04:00",
     "title": "Apprentice Weld Support Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -48288,7 +48288,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:4915842008": {
-    "updated_at": "2026-04-24T17:23:54-04:00",
+    "updated_at": "2026-04-24T17:40:11-04:00",
     "title": "Staff Software Engineer, Systems",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -52056,7 +52056,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8428862002": {
-    "updated_at": "2026-04-24T17:22:18-04:00",
+    "updated_at": "2026-04-24T17:29:25-04:00",
     "title": "Production Coordinator - 2nd Shift Weekend",
     "company": "spacex",
     "ats": "greenhouse",
@@ -52064,7 +52064,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8438220002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:34-04:00",
     "title": "Maintenance Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -57256,8 +57256,8 @@
     "alerted": false
   },
   "greenhouse:elastic:7721766": {
-    "updated_at": "2026-04-20T11:36:01-04:00",
-    "title": "Site Reliability Engineer II - Platform Security",
+    "updated_at": "2026-04-24T17:37:08-04:00",
+    "title": "Site Reliability Engineer (Mid / Senior) - Platform Infrastructure",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -59168,7 +59168,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8506959002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:58-04:00",
     "title": "Lead Advanced Material Processing Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -59496,7 +59496,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8512656002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:01:10-04:00",
     "title": "EMC/EMI Test Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -64592,7 +64592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266220": {
-    "updated_at": "2026-04-24T14:02:41-04:00",
+    "updated_at": "2026-04-24T18:02:41-04:00",
     "title": "Account Executive, Select - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -64920,7 +64920,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7384082": {
-    "updated_at": "2026-04-23T16:59:55-04:00",
+    "updated_at": "2026-04-24T17:47:27-04:00",
     "title": "Customer Support Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -70016,7 +70016,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8403134002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:27:48-04:00",
     "title": "Business Analyst (Starlink Growth)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -70024,7 +70024,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466719002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:58:13-04:00",
     "title": "Manager, Facilities Operations - Solar Cell Factory (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -72352,7 +72352,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7671065003": {
-    "updated_at": "2026-04-15T03:01:02-04:00",
+    "updated_at": "2026-04-24T17:31:04-04:00",
     "title": "Principal Customer Success Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -72360,7 +72360,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7671066003": {
-    "updated_at": "2026-04-15T03:01:02-04:00",
+    "updated_at": "2026-04-24T17:31:04-04:00",
     "title": "Principal Customer Success Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -77272,7 +77272,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8505402002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:31-04:00",
     "title": "Food Services Specialist - Stocking",
     "company": "spacex",
     "ats": "greenhouse",
@@ -77280,7 +77280,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8505395002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:31-04:00",
     "title": "Food Services Specialist - Restaurants",
     "company": "spacex",
     "ats": "greenhouse",
@@ -84408,7 +84408,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5171946008": {
-    "updated_at": "2026-04-24T17:23:20-04:00",
+    "updated_at": "2026-04-24T17:38:14-04:00",
     "title": "Senior Manager, Revenue Accounting (New Product Introduction)",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -84568,7 +84568,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8399458002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:28:58-04:00",
     "title": "Propulsion Technician (Raptor Turbopump Assembly)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -86296,7 +86296,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466163002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:57:00-04:00",
     "title": "Manager, Production - Solar Cell Factory (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -86320,7 +86320,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8472114002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:45:44-04:00",
     "title": "Electromechanical Technician (Night Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -86464,7 +86464,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8501548002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:45:00-04:00",
     "title": "Air Separation Unit Operations Lead",
     "company": "spacex",
     "ats": "greenhouse",
@@ -90800,7 +90800,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8401191002": {
-    "updated_at": "2026-04-24T17:21:22-04:00",
+    "updated_at": "2026-04-24T17:28:49-04:00",
     "title": "Integration Technician (Falcon Operations West) - Multiple Shifts",
     "company": "spacex",
     "ats": "greenhouse",
@@ -91472,7 +91472,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5076754008": {
-    "updated_at": "2026-04-09T09:59:02-04:00",
+    "updated_at": "2026-04-24T17:38:53-04:00",
     "title": "Senior Manager, Revenue Accounting",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -92352,7 +92352,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8498812002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:49:51-04:00",
     "title": "Welding Inspector Specialist (Night Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -94168,7 +94168,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5151939008": {
-    "updated_at": "2026-04-07T16:06:01-04:00",
+    "updated_at": "2026-04-24T17:49:05-04:00",
     "title": "International Readiness Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -94176,7 +94176,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5151922008": {
-    "updated_at": "2026-04-07T16:00:40-04:00",
+    "updated_at": "2026-04-24T17:47:51-04:00",
     "title": "International Expansions Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -94512,7 +94512,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8486105002": {
-    "updated_at": "2026-04-24T17:22:51-04:00",
+    "updated_at": "2026-04-24T17:30:08-04:00",
     "title": "Launch Quality Inspector - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -95728,7 +95728,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8494052002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:49:26-04:00",
     "title": "Inventory Specialist (Starship Structural Test)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -97712,7 +97712,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8492506002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:40:11-04:00",
     "title": "Construction Project Manager, MEP",
     "company": "spacex",
     "ats": "greenhouse",
@@ -97720,7 +97720,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8492974002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:48:06-04:00",
     "title": "Construction Project Manager",
     "company": "spacex",
     "ats": "greenhouse",
@@ -97752,7 +97752,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8492996002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:54:48-04:00",
     "title": "Paint & Coatings Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -98608,7 +98608,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8492384002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:28:41-04:00",
     "title": "Propulsion Technician (Raptor Manufacturing Systems)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -98640,7 +98640,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8490693002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:01:43-04:00",
     "title": "Porter",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99120,7 +99120,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8364464002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:38:26-04:00",
     "title": "Pipe Welder (Night Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99280,7 +99280,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8490714002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:00:42-04:00",
     "title": "Production Control Specialist (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99552,7 +99552,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8398396002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:15-04:00",
     "title": "Supervisor, Welding (Starship) - Nights",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99560,7 +99560,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8223278002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:15-04:00",
     "title": "Supervisor, Welding (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -99616,7 +99616,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8326711002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:32:26-04:00",
     "title": "TIG Welder (Starship) - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -101968,7 +101968,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8488303002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:50:51-04:00",
     "title": "Controls Technician (Starship) - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -102096,7 +102096,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8488289002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:18-04:00",
     "title": "Facilities Mechanical Specialist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -102920,7 +102920,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5128936008": {
-    "updated_at": "2026-04-24T17:11:45-04:00",
+    "updated_at": "2026-04-24T17:51:26-04:00",
     "title": "Senior Data Center Capacity Delivery Manager",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -104128,7 +104128,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8399816002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:10-04:00",
     "title": "RF Test Specialist (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -105472,7 +105472,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4679356005": {
-    "updated_at": "2026-04-22T15:11:44-04:00",
+    "updated_at": "2026-04-24T18:01:07-04:00",
     "title": "Sr. Analyst, Returning Marketing Data Analytics (R13933)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -105648,7 +105648,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8301887002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:26:04-04:00",
     "title": "TIG Welder, Chamber and Nozzle (Raptor)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -105656,7 +105656,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8382390002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:43:44-04:00",
     "title": "Electrician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -105672,7 +105672,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8467833002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:55:38-04:00",
     "title": "Manager, Machine Maintenance - Solar Cell Factory (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -105712,7 +105712,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8484090002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:30:20-04:00",
     "title": "Additive Technician (Raptor)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106216,7 +106216,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8430738002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:00:48-04:00",
     "title": "Supervisor, Food Services Facilities",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106464,7 +106464,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8472699002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:26:20-04:00",
     "title": "Strategic Connectivity Lead",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106552,7 +106552,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8374668002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:30-04:00",
     "title": "Propulsion Technician (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106640,7 +106640,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8335845002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:59:46-04:00",
     "title": "Porter",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106648,7 +106648,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8424924002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:59:05-04:00",
     "title": "Sous Chef",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106704,7 +106704,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8353028002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:55:23-04:00",
     "title": "EMC/EMI Test Specialist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106944,7 +106944,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8221068002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:06-04:00",
     "title": "Cook",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107128,7 +107128,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8347622002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:59:27-04:00",
     "title": "Barista",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107200,7 +107200,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8424947002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:39:46-04:00",
     "title": "CNC Machinist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107208,7 +107208,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466404002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:54:16-04:00",
     "title": "CNC Machinist, Multi-Axis (2nd Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107216,7 +107216,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466488002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:54:27-04:00",
     "title": "CNC Machinist, Multi-Axis - Level 4/5 (2nd Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107256,7 +107256,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8479049002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:44:12-04:00",
     "title": "Construction Superintendent \u2013 Welding (Starbase)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107280,7 +107280,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8466778002": {
-    "updated_at": "2026-04-24T17:21:43-04:00",
+    "updated_at": "2026-04-24T17:29:09-04:00",
     "title": "Cook",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107304,7 +107304,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8449948002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:53:59-04:00",
     "title": "Crane Operator",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107440,7 +107440,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8216065002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:58:35-04:00",
     "title": "Electrician (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107480,7 +107480,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8476115002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:46:16-04:00",
     "title": "Fabrication Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107600,7 +107600,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8456926002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:01:22-04:00",
     "title": "Hospitality Specialist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107952,7 +107952,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8473728002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:48:10-04:00",
     "title": "Production Operator (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107992,7 +107992,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8473720002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:59:14-04:00",
     "title": "Production Technician (Starlink/Akoustis)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108432,7 +108432,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8455124002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:49:40-04:00",
     "title": "Structural Welder",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108440,7 +108440,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8455876002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:47:55-04:00",
     "title": "Structural Welder (Night Shift)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108568,7 +108568,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8460091002": {
-    "updated_at": "2026-04-24T17:24:04-04:00",
+    "updated_at": "2026-04-24T18:02:53-04:00",
     "title": "Test Specialist (Starship Electromechanical Components)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108624,7 +108624,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8404897002": {
-    "updated_at": "2026-04-24T16:16:13-04:00",
+    "updated_at": "2026-04-24T17:29:36-04:00",
     "title": "Tube Bender (CNC) - Starship",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108632,7 +108632,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8199679002": {
-    "updated_at": "2026-04-24T16:16:13-04:00",
+    "updated_at": "2026-04-24T17:29:36-04:00",
     "title": "Tube Bender (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108640,7 +108640,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8202429002": {
-    "updated_at": "2026-04-24T16:15:44-04:00",
+    "updated_at": "2026-04-24T17:29:44-04:00",
     "title": "Tube Bender (Starship) - Level 4/5",
     "company": "spacex",
     "ats": "greenhouse",
@@ -110360,7 +110360,7 @@
     "alerted": false
   },
   "greenhouse:twitch:8402931002": {
-    "updated_at": "2026-03-24T16:04:04-04:00",
+    "updated_at": "2026-04-24T17:41:40-04:00",
     "title": "Senior Manager, Strategy and Operations",
     "company": "twitch",
     "ats": "greenhouse",
@@ -110368,7 +110368,7 @@
     "alerted": false
   },
   "greenhouse:twitch:8403004002": {
-    "updated_at": "2026-03-24T16:04:04-04:00",
+    "updated_at": "2026-04-24T17:41:41-04:00",
     "title": "Senior Manager, Strategy and Operations",
     "company": "twitch",
     "ats": "greenhouse",
@@ -110376,7 +110376,7 @@
     "alerted": false
   },
   "greenhouse:twitch:8403001002": {
-    "updated_at": "2026-03-24T16:04:04-04:00",
+    "updated_at": "2026-04-24T17:41:40-04:00",
     "title": "Senior Manager, Strategy and Operations",
     "company": "twitch",
     "ats": "greenhouse",
@@ -119040,7 +119040,7 @@
     "alerted": false
   },
   "greenhouse:carta:7491517003": {
-    "updated_at": "2026-02-05T17:16:36-05:00",
+    "updated_at": "2026-04-24T17:46:26-04:00",
     "title": "Director of Sales, Private Equity, Fund Admin",
     "company": "carta",
     "ats": "greenhouse",
@@ -119416,7 +119416,7 @@
     "alerted": false
   },
   "greenhouse:carta:7492870003": {
-    "updated_at": "2026-02-01T17:48:22-05:00",
+    "updated_at": "2026-04-24T17:46:24-04:00",
     "title": "Strategic Account Executive, Private Equity",
     "company": "carta",
     "ats": "greenhouse",
@@ -120800,7 +120800,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8514790002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:48:26-04:00",
     "title": "Transport Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -120832,7 +120832,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5073998008": {
-    "updated_at": "2026-04-24T15:36:42-04:00",
+    "updated_at": "2026-04-24T17:29:37-04:00",
     "title": "Staff Software Engineer, Continuous Integration",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -121120,7 +121120,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8514969002": {
-    "updated_at": "2026-04-24T16:17:01-04:00",
+    "updated_at": "2026-04-24T18:04:25-04:00",
     "title": "Support Technician (Starship) - Temporary",
     "company": "spacex",
     "ats": "greenhouse",
@@ -121744,7 +121744,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8516664002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:00:31-04:00",
     "title": "Executive Sous Chef",
     "company": "spacex",
     "ats": "greenhouse",
@@ -121752,7 +121752,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8515969002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:02:45-04:00",
     "title": "Cook",
     "company": "spacex",
     "ats": "greenhouse",
@@ -122248,7 +122248,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7768979": {
-    "updated_at": "2026-04-24T17:23:00-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Product Manager, EMEA Payments Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -122456,7 +122456,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7610132": {
-    "updated_at": "2026-04-24T17:22:56-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Data Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -122480,7 +122480,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7825561": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:58-04:00",
     "title": "Sales Manager, Startups",
     "company": "stripe",
     "ats": "greenhouse",
@@ -122664,7 +122664,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8493500002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:51:31-04:00",
     "title": "Structures Engineer, Build (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -123464,7 +123464,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8496977002": {
-    "updated_at": "2026-04-24T17:18:47-04:00",
+    "updated_at": "2026-04-24T17:30:58-04:00",
     "title": "Inventory Specialist - Multiple Shifts",
     "company": "spacex",
     "ats": "greenhouse",
@@ -124064,7 +124064,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5196219008": {
-    "updated_at": "2026-04-23T13:40:38-04:00",
+    "updated_at": "2026-04-24T17:50:39-04:00",
     "title": "Director, Infrastructure & Energy Accounting",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -124216,7 +124216,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5196230008": {
-    "updated_at": "2026-04-22T19:06:31-04:00",
+    "updated_at": "2026-04-24T17:52:44-04:00",
     "title": "Senior Manager, Infrastructure Capex Accounting",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -124320,7 +124320,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8516800002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:01:06-04:00",
     "title": "Manager, Culinary",
     "company": "spacex",
     "ats": "greenhouse",
@@ -124344,7 +124344,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7529787": {
-    "updated_at": "2026-04-24T17:22:52-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Software Engineer, Payments",
     "company": "stripe",
     "ats": "greenhouse",
@@ -124408,15 +124408,15 @@
     "alerted": false
   },
   "greenhouse:altruist:5979746004": {
-    "updated_at": "2026-04-22T23:40:56-04:00",
-    "title": "Director, GTM Engineering",
+    "updated_at": "2026-04-24T17:51:52-04:00",
+    "title": "Director, GTM Engineering, Hazel AI",
     "company": "altruist",
     "ats": "greenhouse",
     "source_slug": "altruist",
     "alerted": true
   },
   "greenhouse:stripe:7827623": {
-    "updated_at": "2026-04-24T17:23:03-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Engineering Manager -  Batch Compute Infrastructure",
     "company": "stripe",
     "ats": "greenhouse",
@@ -124480,7 +124480,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7841757": {
-    "updated_at": "2026-04-24T17:23:04-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Engineering Manager, APAC & EMEA Cards",
     "company": "stripe",
     "ats": "greenhouse",
@@ -124640,7 +124640,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7835108": {
-    "updated_at": "2026-04-24T17:23:04-04:00",
+    "updated_at": "2026-04-24T17:25:33-04:00",
     "title": "Engineering Manager - Core Performance",
     "company": "stripe",
     "ats": "greenhouse",
@@ -124968,7 +124968,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7677136": {
-    "updated_at": "2026-04-24T17:22:57-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "GSI Partner Development Lead- EMEA",
     "company": "stripe",
     "ats": "greenhouse",
@@ -125104,7 +125104,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7556256": {
-    "updated_at": "2026-04-24T17:22:50-04:00",
+    "updated_at": "2026-04-24T17:25:56-04:00",
     "title": "Engineering Manager - Payments",
     "company": "stripe",
     "ats": "greenhouse",
@@ -125376,7 +125376,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7366524": {
-    "updated_at": "2026-04-24T17:22:49-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Solutions Architect (Australia)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -125384,7 +125384,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7430701": {
-    "updated_at": "2026-04-24T17:22:50-04:00",
+    "updated_at": "2026-04-24T17:25:31-04:00",
     "title": "Customer Success Manager (Greater China)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -126448,7 +126448,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7813121": {
-    "updated_at": "2026-04-23T18:02:20-04:00",
+    "updated_at": "2026-04-24T17:34:26-04:00",
     "title": "Senior Payroll Analyst",
     "company": "samsara",
     "ats": "greenhouse",
@@ -126728,7 +126728,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8521981002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T17:38:18-04:00",
     "title": "Propulsion Engineer, Valves (Raptor Components)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -126768,7 +126768,7 @@
     "alerted": false
   },
   "greenhouse:asana:7818647": {
-    "updated_at": "2026-04-24T13:53:28-04:00",
+    "updated_at": "2026-04-24T17:36:12-04:00",
     "title": "Manager, Executive Assistant & Workplace Operations",
     "company": "asana",
     "ats": "greenhouse",
@@ -126976,7 +126976,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7706837": {
-    "updated_at": "2026-04-24T17:22:58-04:00",
+    "updated_at": "2026-04-24T17:25:57-04:00",
     "title": "Onboarding Coordinator",
     "company": "stripe",
     "ats": "greenhouse",
@@ -127808,7 +127808,7 @@
     "alerted": true
   },
   "greenhouse:spacex:8523142002": {
-    "updated_at": "2026-04-24T14:54:59-04:00",
+    "updated_at": "2026-04-24T18:03:50-04:00",
     "title": "Sr. Product Development Manager, Customer Hardware (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -128496,7 +128496,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7711200003": {
-    "updated_at": "2026-04-24T17:05:58-04:00",
+    "updated_at": "2026-04-24T17:37:40-04:00",
     "title": "Principal Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -128520,7 +128520,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8493857002": {
-    "updated_at": "2026-04-24T17:03:51-04:00",
+    "updated_at": "2026-04-24T17:27:34-04:00",
     "title": "Product Marketing Director, Lakewatch",
     "company": "databricks",
     "ats": "greenhouse",
@@ -128702,5 +128702,109 @@
     "ats": "greenhouse",
     "source_slug": "brex",
     "alerted": false
+  },
+  "greenhouse:gitlab:8500233002": {
+    "updated_at": "2026-04-24T17:50:57-04:00",
+    "title": "Lead Commercial Legal Counsel",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8408634002": {
+    "updated_at": "2026-04-24T17:48:30-04:00",
+    "title": "Fulfillment Buyer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:verkada:5120808007": {
+    "updated_at": "2026-04-24T17:43:12-04:00",
+    "title": "Senior Backend Software Engineer - Workplace Products",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:elastic:7852721": {
+    "updated_at": "2026-04-24T17:37:12-04:00",
+    "title": "Site Reliability Engineer (Mid / Senior) - Platform Infrastructure",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8513671002": {
+    "updated_at": "2026-04-24T17:35:09-04:00",
+    "title": "Sourcing Specialist (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:asana:7769478": {
+    "updated_at": "2026-04-24T17:34:27-04:00",
+    "title": "Administrative Business Partner",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:spacex:8523833002": {
+    "updated_at": "2026-04-24T17:31:56-04:00",
+    "title": "TIG Welder (Starship Components)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:gusto:7848767": {
+    "updated_at": "2026-04-24T17:29:38-04:00",
+    "title": "Legal AI Engineer (Contractor)",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:spacex:8523874002": {
+    "updated_at": "2026-04-24T17:28:43-04:00",
+    "title": "Harnessing Design Engineer, Satellites (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:faire:8523598002": {
+    "updated_at": "2026-04-24T17:19:37-04:00",
+    "title": "Senior Product Marketing Manager",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:airbnb:7839229": {
+    "updated_at": "2026-04-24T17:11:08-04:00",
+    "title": "Community Support Forecasting and Demand Planning Analyst",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:airbnb:7840101": {
+    "updated_at": "2026-04-24T17:10:44-04:00",
+    "title": "Senior Manager Global Capacity and Operational Planning (Community Support)",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:adyen:7821078": {
+    "updated_at": "2026-04-24T18:00:05-04:00",
+    "title": "Senior Software Engineer - Customer Developer Observability",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": true
   }
 }
