@@ -37,6 +37,8 @@ class ScorerTests(unittest.TestCase):
         prompt = scorer._build_prompt("Backend Engineer", "Acme", "Build APIs")
         self.assertIn('output ONLY a JSON object', prompt)
         self.assertIn('"score": <integer from 0 to 100>', prompt)
+        self.assertIn("cap score at 45", prompt)
+        self.assertIn("Prefer false negatives over false positives", prompt)
 
     def test_score_job_sends_structured_openai_payload(self):
         job = {
