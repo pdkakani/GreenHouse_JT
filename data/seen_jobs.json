@@ -65496,7 +65496,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7571463": {
-    "updated_at": "2026-04-25T05:03:12-04:00",
+    "updated_at": "2026-04-25T13:47:15-04:00",
     "title": "Mid-Market Account Executive - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -129238,5 +129238,13 @@
     "ats": "greenhouse",
     "source_slug": "twitch",
     "alerted": true
+  },
+  "greenhouse:spacex:8523859002": {
+    "updated_at": "2026-04-24T20:46:37-04:00",
+    "title": "Consumer Insights Manager (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
   }
 }
