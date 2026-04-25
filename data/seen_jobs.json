@@ -60272,7 +60272,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7718235": {
-    "updated_at": "2026-04-23T19:07:38-04:00",
+    "updated_at": "2026-04-24T23:20:14-04:00",
     "title": "Demand Operations Program Manager (Southeast)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61200,7 +61200,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7684945": {
-    "updated_at": "2026-04-23T19:07:38-04:00",
+    "updated_at": "2026-04-24T23:10:03-04:00",
     "title": "Vehicle Planning & Buy-Sell Operations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -64592,7 +64592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266220": {
-    "updated_at": "2026-04-24T18:02:41-04:00",
+    "updated_at": "2026-04-24T22:17:05-04:00",
     "title": "Account Executive, Select - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65496,7 +65496,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7571463": {
-    "updated_at": "2026-04-24T11:32:53-04:00",
+    "updated_at": "2026-04-24T23:47:16-04:00",
     "title": "Mid-Market Account Executive - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -129214,5 +129214,29 @@
     "ats": "ashby",
     "source_slug": "Ashby",
     "alerted": false
+  },
+  "greenhouse:spacex:8523892002": {
+    "updated_at": "2026-04-24T20:46:27-04:00",
+    "title": "Communications Manager, Content Marketing (Starlink Growth)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:airbnb:7158963": {
+    "updated_at": "2026-04-24T21:20:33-04:00",
+    "title": "AI-Enabled Insights Lead",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": true
+  },
+  "greenhouse:twitch:8517748002": {
+    "updated_at": "2026-04-24T21:09:56-04:00",
+    "title": "AV & IT Support Engineer",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": true
   }
 }
