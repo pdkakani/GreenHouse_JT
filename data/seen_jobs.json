@@ -129302,5 +129302,13 @@
     "ats": "greenhouse",
     "source_slug": "fireblocks",
     "alerted": false
+  },
+  "greenhouse:elastic:7743362": {
+    "updated_at": "2026-04-26T10:57:39-04:00",
+    "title": "Senior Partner Manager, Singapore",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
   }
 }
