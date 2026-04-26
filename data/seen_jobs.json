@@ -124744,7 +124744,7 @@
     "alerted": false
   },
   "greenhouse:marqeta:7816204": {
-    "updated_at": "2026-04-23T17:06:17-04:00",
+    "updated_at": "2026-04-26T16:03:57-04:00",
     "title": "Senior Security Engineer - Detection & Response - EU/UK",
     "company": "marqeta",
     "ats": "greenhouse",
@@ -129309,6 +129309,14 @@
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:celonis:7714520003": {
+    "updated_at": "2026-04-26T11:18:48-04:00",
+    "title": "Client Value Partner - AI-Driven Transformation & Process Intelligence",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
     "alerted": false
   }
 }
