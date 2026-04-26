@@ -47336,7 +47336,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7669258003": {
-    "updated_at": "2026-04-21T11:12:39-04:00",
+    "updated_at": "2026-04-26T11:05:29-04:00",
     "title": "Client Value Partner (CVP)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -47344,7 +47344,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7683568003": {
-    "updated_at": "2026-04-21T11:12:20-04:00",
+    "updated_at": "2026-04-26T11:05:29-04:00",
     "title": "Client Engagement Partner",
     "company": "celonis",
     "ats": "greenhouse",
@@ -57424,7 +57424,7 @@
     "alerted": false
   },
   "greenhouse:marqeta:7791478": {
-    "updated_at": "2026-04-23T17:06:17-04:00",
+    "updated_at": "2026-04-26T10:36:15-04:00",
     "title": "Senior Account Executive - EU / UK",
     "company": "marqeta",
     "ats": "greenhouse",
@@ -57648,7 +57648,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7540412003": {
-    "updated_at": "2026-04-20T10:27:46-04:00",
+    "updated_at": "2026-04-26T11:05:17-04:00",
     "title": "Client Engagement Partner - Manufacturing / Automotive",
     "company": "celonis",
     "ats": "greenhouse",
@@ -57656,7 +57656,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7539083003": {
-    "updated_at": "2026-04-20T10:27:46-04:00",
+    "updated_at": "2026-04-26T11:05:18-04:00",
     "title": "Client Value Partner (CVP) - Manufacturing / Automotive",
     "company": "celonis",
     "ats": "greenhouse",
@@ -129277,6 +129277,14 @@
     "company": "flex",
     "ats": "greenhouse",
     "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:sofi:7713448003": {
+    "updated_at": "2026-04-25T15:15:15-04:00",
+    "title": "Senior Manager Operations Enablement, Member & Account Safety",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
     "alerted": false
   }
 }
