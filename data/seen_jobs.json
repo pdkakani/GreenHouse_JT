@@ -6920,8 +6920,8 @@
     "alerted": true
   },
   "greenhouse:gitlab:8437148002": {
-    "updated_at": "2026-04-27T09:46:44-04:00",
-    "title": "Senior Backend Engineer (Ruby and/or Go), Tenant Scale; Cells Infrastructure",
+    "updated_at": "2026-04-27T19:28:30-04:00",
+    "title": "Senior Backend Engineer (Ruby or Golang), Tenant Scale; Cells Infrastructure",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
@@ -15848,8 +15848,8 @@
     "alerted": true
   },
   "greenhouse:gusto:7354943": {
-    "updated_at": "2026-04-15T12:37:00-04:00",
-    "title": "Principal Product Manager, Gusto Pro",
+    "updated_at": "2026-04-27T19:30:47-04:00",
+    "title": "Principal Product Manager, Gusto Pro Growth",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -17656,7 +17656,7 @@
     "alerted": true
   },
   "greenhouse:sofi:7608084003": {
-    "updated_at": "2026-03-20T10:51:45-04:00",
+    "updated_at": "2026-04-27T18:49:31-04:00",
     "title": "Senior Staff Software Engineer, Crypto",
     "company": "sofi",
     "ats": "greenhouse",
@@ -18832,7 +18832,7 @@
     "alerted": true
   },
   "greenhouse:airbnb:6602436": {
-    "updated_at": "2026-04-24T16:56:24-04:00",
+    "updated_at": "2026-04-27T19:20:34-04:00",
     "title": "Senior Software Engineer, Quality Platform",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -19024,7 +19024,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8474709002": {
-    "updated_at": "2026-04-07T10:46:12-04:00",
+    "updated_at": "2026-04-27T19:00:16-04:00",
     "title": "Analytics Lead, Safety & Customer Care",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19032,7 +19032,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8474660002": {
-    "updated_at": "2026-04-07T10:45:53-04:00",
+    "updated_at": "2026-04-27T19:00:16-04:00",
     "title": "Analytics Lead, Safety & Customer Care",
     "company": "lyft",
     "ats": "greenhouse",
@@ -22360,7 +22360,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7619420": {
-    "updated_at": "2026-04-27T02:47:46-04:00",
+    "updated_at": "2026-04-27T18:58:08-04:00",
     "title": "Principal, Product Manager - AI / LLM",
     "company": "twilio",
     "ats": "greenhouse",
@@ -23288,7 +23288,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7811868": {
-    "updated_at": "2026-04-24T16:39:27-04:00",
+    "updated_at": "2026-04-27T18:54:45-04:00",
     "title": "Principal Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -35608,7 +35608,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4949035007": {
-    "updated_at": "2026-04-27T17:09:22-04:00",
+    "updated_at": "2026-04-27T19:35:20-04:00",
     "title": "Senior Project Engineer, Global Services",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35968,7 +35968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4715534007": {
-    "updated_at": "2026-04-20T16:49:07-04:00",
+    "updated_at": "2026-04-27T19:34:29-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -82360,7 +82360,7 @@
     "alerted": false
   },
   "greenhouse:brex:8490327002": {
-    "updated_at": "2026-04-27T14:35:33-04:00",
+    "updated_at": "2026-04-27T19:17:39-04:00",
     "title": "Finance Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -86720,7 +86720,7 @@
     "alerted": false
   },
   "greenhouse:braze:7778647": {
-    "updated_at": "2026-04-23T16:30:28-04:00",
+    "updated_at": "2026-04-27T18:55:39-04:00",
     "title": "Senior Director, Partnerships - Snowflake",
     "company": "braze",
     "ats": "greenhouse",
@@ -98672,8 +98672,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5153580008": {
-    "updated_at": "2026-04-02T12:09:28-04:00",
-    "title": "Head of Programmatic Outcomes \u2014 Product",
+    "updated_at": "2026-04-27T18:56:02-04:00",
+    "title": "Head of Programmatic Outcomes, Product",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -98768,8 +98768,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5153588008": {
-    "updated_at": "2026-04-02T11:03:12-04:00",
-    "title": "Head of Programmatic Outcomes \u2014 Partners",
+    "updated_at": "2026-04-27T18:55:18-04:00",
+    "title": "Head of Programmatic Outcomes, Partners",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -108152,7 +108152,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8480554002": {
-    "updated_at": "2026-04-27T18:09:41-04:00",
+    "updated_at": "2026-04-27T19:34:20-04:00",
     "title": "Sourcing Manager, Indirect",
     "company": "spacex",
     "ats": "greenhouse",
@@ -116200,7 +116200,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8414661002": {
-    "updated_at": "2026-04-27T09:46:44-04:00",
+    "updated_at": "2026-04-27T19:00:18-04:00",
     "title": "Lead Product Marketing Manager, Pricing and Packaging",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -123664,7 +123664,7 @@
     "alerted": false
   },
   "greenhouse:braze:7843776": {
-    "updated_at": "2026-04-23T16:30:56-04:00",
+    "updated_at": "2026-04-27T18:57:55-04:00",
     "title": "Senior Director, Partnerships - Snowflake",
     "company": "braze",
     "ats": "greenhouse",
@@ -125296,7 +125296,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7837829": {
-    "updated_at": "2026-04-23T13:44:50-04:00",
+    "updated_at": "2026-04-27T18:56:37-04:00",
     "title": "Principal Product Manager",
     "company": "twilio",
     "ats": "greenhouse",
@@ -129600,7 +129600,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7851194": {
-    "updated_at": "2026-04-27T02:49:39-04:00",
+    "updated_at": "2026-04-27T18:57:35-04:00",
     "title": "Principal Product Manager",
     "company": "twilio",
     "ats": "greenhouse",
@@ -131384,7 +131384,7 @@
     "alerted": false
   },
   "greenhouse:brex:8525702002": {
-    "updated_at": "2026-04-27T18:31:22-04:00",
+    "updated_at": "2026-04-27T19:28:47-04:00",
     "title": "Finance Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -131462,5 +131462,93 @@
     "ats": "greenhouse",
     "source_slug": "waymo",
     "alerted": false
+  },
+  "greenhouse:spacex:8525749002": {
+    "updated_at": "2026-04-27T19:30:18-04:00",
+    "title": "Integration Engineer (Super Heavy Booster)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:stripe:5956528": {
+    "updated_at": "2026-04-27T19:26:59-04:00",
+    "title": "Strategy & Business Performance, Central S&O",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8525400002": {
+    "updated_at": "2026-04-27T19:15:39-04:00",
+    "title": "Security Analyst (Detection and Incident Response)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:twilio:7593382": {
+    "updated_at": "2026-04-27T19:11:47-04:00",
+    "title": "Staff Product Manager - Data Platforms",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:ziprecruiter:7858982": {
+    "updated_at": "2026-04-27T19:03:58-04:00",
+    "title": "Enterprise, Account Executive",
+    "company": "ziprecruiter",
+    "ats": "greenhouse",
+    "source_slug": "ziprecruiter",
+    "alerted": false
+  },
+  "greenhouse:braze:7859617": {
+    "updated_at": "2026-04-27T19:00:40-04:00",
+    "title": "Senior Director, Partnerships - Snowflake",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:sofi:7634282003": {
+    "updated_at": "2026-04-27T18:48:10-04:00",
+    "title": "Originations Specialist II (Funding)",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:upstart:7859415": {
+    "updated_at": "2026-04-27T18:42:36-04:00",
+    "title": "Senior Manager, Risk Analytics",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:checkr:7848380": {
+    "updated_at": "2026-04-27T18:42:34-04:00",
+    "title": "Software Engineer",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:sofi:7714033003": {
+    "updated_at": "2026-04-27T18:39:19-04:00",
+    "title": "Associate Manager, Opportunities Resolution",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:elastic:7859326": {
+    "updated_at": "2026-04-27T19:37:09-04:00",
+    "title": "Senior Customer Architect (West)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": true
   }
 }
