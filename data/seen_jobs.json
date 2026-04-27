@@ -7840,8 +7840,8 @@
     "alerted": true
   },
   "greenhouse:stripe:7765976": {
-    "updated_at": "2026-04-24T17:24:37-04:00",
-    "title": "HRIS Engineer",
+    "updated_at": "2026-04-27T05:55:07-04:00",
+    "title": "HRIS Lead",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -69080,7 +69080,7 @@
     "alerted": false
   },
   "greenhouse:datadog:6998241": {
-    "updated_at": "2026-04-23T13:41:00-04:00",
+    "updated_at": "2026-04-27T06:02:19-04:00",
     "title": "Sales Development Representative (Middle East)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -86592,7 +86592,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5183983008": {
-    "updated_at": "2026-04-24T11:41:09-04:00",
+    "updated_at": "2026-04-27T05:42:03-04:00",
     "title": "Manager of Forward Deployed Engineering",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -91680,7 +91680,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7757624": {
-    "updated_at": "2026-04-23T04:44:56-04:00",
+    "updated_at": "2026-04-27T06:00:56-04:00",
     "title": "Senior Resource Analyst, Services Revenue Strategy & Operations",
     "company": "elastic",
     "ats": "greenhouse",
@@ -93504,7 +93504,7 @@
     "alerted": false
   },
   "greenhouse:okta:7606225": {
-    "updated_at": "2026-04-26T14:29:38-04:00",
+    "updated_at": "2026-04-27T06:28:28-04:00",
     "title": "Engineering Manager - Platform Migration Services (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -109112,7 +109112,7 @@
     "alerted": false
   },
   "greenhouse:melio:7572393003": {
-    "updated_at": "2026-03-26T14:48:49-04:00",
+    "updated_at": "2026-04-27T06:49:47-04:00",
     "title": "Senior Full Stack Engineer",
     "company": "melio",
     "ats": "greenhouse",
@@ -111552,7 +111552,7 @@
     "alerted": false
   },
   "greenhouse:okta:7602340": {
-    "updated_at": "2026-04-26T14:29:38-04:00",
+    "updated_at": "2026-04-27T06:29:54-04:00",
     "title": "Software Engineering Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -111616,7 +111616,7 @@
     "alerted": false
   },
   "greenhouse:okta:7593555": {
-    "updated_at": "2026-04-26T14:29:38-04:00",
+    "updated_at": "2026-04-27T06:32:46-04:00",
     "title": "Staff Engineer - Fullstack",
     "company": "okta",
     "ats": "greenhouse",
@@ -111624,7 +111624,7 @@
     "alerted": false
   },
   "greenhouse:okta:7606231": {
-    "updated_at": "2026-04-26T14:29:38-04:00",
+    "updated_at": "2026-04-27T06:31:40-04:00",
     "title": "Staff Engineer - Golang & MongoDb",
     "company": "okta",
     "ats": "greenhouse",
@@ -111728,7 +111728,7 @@
     "alerted": false
   },
   "greenhouse:okta:7602354": {
-    "updated_at": "2026-04-26T14:29:38-04:00",
+    "updated_at": "2026-04-27T06:34:22-04:00",
     "title": "Staff Software Engineer - Node.js  (JavaScript or TypeScript)",
     "company": "okta",
     "ats": "greenhouse",
@@ -122528,7 +122528,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7180254": {
-    "updated_at": "2026-04-23T13:41:00-04:00",
+    "updated_at": "2026-04-27T06:40:48-04:00",
     "title": "Sales Development Representative (Benelux)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -127088,7 +127088,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7746362": {
-    "updated_at": "2026-04-24T10:26:48-04:00",
+    "updated_at": "2026-04-27T06:23:44-04:00",
     "title": "Onboarding Operations Specialist 1",
     "company": "twilio",
     "ats": "greenhouse",
@@ -129296,7 +129296,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4674611006": {
-    "updated_at": "2026-04-26T05:10:27-04:00",
+    "updated_at": "2026-04-27T06:01:19-04:00",
     "title": "Full Stack Engineer, Blockchain",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -129606,5 +129606,149 @@
     "ats": "greenhouse",
     "source_slug": "twilio",
     "alerted": false
+  },
+  "greenhouse:samsara:7848486": {
+    "updated_at": "2026-04-27T07:21:43-04:00",
+    "title": "Enterprise Core Sales Engineer - Northeast",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7848518": {
+    "updated_at": "2026-04-27T07:19:32-04:00",
+    "title": "Enterprise Core Sales Engineer - Midwest",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:twilio:7845781": {
+    "updated_at": "2026-04-27T07:18:05-04:00",
+    "title": "Strategic Account Executive (German Speaking)",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:databricks:8521090002": {
+    "updated_at": "2026-04-27T06:41:11-04:00",
+    "title": "Data & AI Platform Architect (Professional Services)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:contentstack:7629573003": {
+    "updated_at": "2026-04-27T06:30:34-04:00",
+    "title": "Customer Success Advocate - I",
+    "company": "contentstack",
+    "ats": "greenhouse",
+    "source_slug": "contentstack",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5197709008": {
+    "updated_at": "2026-04-27T06:24:57-04:00",
+    "title": "Technical Support Engineer",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:braze:7790559": {
+    "updated_at": "2026-04-27T06:23:25-04:00",
+    "title": "Senior Customer Success Manager",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7834915": {
+    "updated_at": "2026-04-27T06:20:26-04:00",
+    "title": "Territory Account Executive, Vietnam",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:rubrik:7742234": {
+    "updated_at": "2026-04-27T06:18:04-04:00",
+    "title": "Public Sector Account Executive, UK",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:postman:7631837003": {
+    "updated_at": "2026-04-27T06:15:52-04:00",
+    "title": "Technical Support Engineer, Bangalore",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": false
+  },
+  "greenhouse:rubrik:7387985": {
+    "updated_at": "2026-04-27T06:02:55-04:00",
+    "title": "Senior Sales Engineer",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:stripe:7446791": {
+    "updated_at": "2026-04-27T05:50:14-04:00",
+    "title": "Manager, Customer Success Management",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:convera:4727604101": {
+    "updated_at": "2026-04-27T05:34:42-04:00",
+    "title": "Senior Customer Implementation Specialist - Rome or Madrid (hybrid)",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:samsara:7555223": {
+    "updated_at": "2026-04-27T05:28:35-04:00",
+    "title": "Senior Sales Operations Analyst",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:coinbase:7836969": {
+    "updated_at": "2026-04-27T05:25:41-04:00",
+    "title": "Payments Risk Analyst II",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:samsara:7848529": {
+    "updated_at": "2026-04-27T07:25:24-04:00",
+    "title": "Enterprise Core Sales Engineer - West",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": true
+  },
+  "greenhouse:samsara:7848501": {
+    "updated_at": "2026-04-27T07:23:58-04:00",
+    "title": "Enterprise Core Sales Engineer - TOLA",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": true
+  },
+  "greenhouse:samsara:7848497": {
+    "updated_at": "2026-04-27T07:23:13-04:00",
+    "title": "Enterprise Core Sales Engineer - Southeast",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": true
   }
 }
