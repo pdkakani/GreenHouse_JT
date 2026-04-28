@@ -3592,8 +3592,8 @@
     "alerted": true
   },
   "greenhouse:mongodb:7723638": {
-    "updated_at": "2026-04-28T13:36:20-04:00",
-    "title": "Senior Lead Engineer, Storage Execution (RSS)",
+    "updated_at": "2026-04-28T16:53:58-04:00",
+    "title": "Senior Engineering Manager, Storage Execution (RSS)",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -4160,7 +4160,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7671815": {
-    "updated_at": "2026-04-28T12:23:06-04:00",
+    "updated_at": "2026-04-28T16:47:20-04:00",
     "title": "Product Engineer (Backend)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -8120,7 +8120,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7761694": {
-    "updated_at": "2026-04-24T17:24:37-04:00",
+    "updated_at": "2026-04-28T17:24:58-04:00",
     "title": "Software Engineer, Product Security Data Platforms",
     "company": "stripe",
     "ats": "greenhouse",
@@ -8616,7 +8616,7 @@
     "alerted": true
   },
   "greenhouse:marqeta:7723772": {
-    "updated_at": "2026-04-14T17:06:11-04:00",
+    "updated_at": "2026-04-28T17:34:25-04:00",
     "title": "Senior Manager, Platform Engineering",
     "company": "marqeta",
     "ats": "greenhouse",
@@ -10032,7 +10032,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7776330": {
-    "updated_at": "2026-04-20T11:55:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10040,7 +10040,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7600764": {
-    "updated_at": "2026-03-10T17:25:31-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10048,7 +10048,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7350823": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10056,7 +10056,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7490049": {
-    "updated_at": "2026-04-24T13:20:52-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Android Full Stack Engineer, Credit Cards & Banking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10072,7 +10072,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7603848": {
-    "updated_at": "2026-04-24T13:20:58-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Capacity and Efficiency",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10080,7 +10080,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7512231": {
-    "updated_at": "2026-04-27T03:07:11-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Financial Crimes",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10088,7 +10088,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489328": {
-    "updated_at": "2026-04-27T03:06:33-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Legend",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10096,15 +10096,15 @@
     "alerted": true
   },
   "greenhouse:robinhood:7729808": {
-    "updated_at": "2026-04-07T12:03:02-04:00",
-    "title": "Fraud Investigations Analyst ",
+    "updated_at": "2026-04-28T17:26:40-04:00",
+    "title": "Fraud Investigations Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
     "source_slug": "robinhood",
     "alerted": true
   },
   "greenhouse:robinhood:6674980": {
-    "updated_at": "2026-04-08T22:03:01-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "iOS Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10120,7 +10120,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7736809": {
-    "updated_at": "2026-04-27T14:06:42-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Manager of Learning & Development",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10128,7 +10128,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7551178": {
-    "updated_at": "2026-04-24T13:20:56-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "People Systems Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10136,7 +10136,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7536920": {
-    "updated_at": "2026-04-16T13:05:41-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Product Manager, Crypto Trading",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10144,7 +10144,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7747728": {
-    "updated_at": "2026-04-16T13:54:37-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Product Manager, Money Movement",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10152,7 +10152,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7697725": {
-    "updated_at": "2026-04-24T13:21:07-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10160,7 +10160,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7346630": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Analytics Engineer, Corporate Strategy",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10168,7 +10168,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7412393": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10176,7 +10176,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7178427": {
-    "updated_at": "2026-04-24T13:20:38-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Cloud Security Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10184,7 +10184,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7473367": {
-    "updated_at": "2026-04-24T13:20:45-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Engineering Manager, Application and Product Security",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10192,7 +10192,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:6675127": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior iOS Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10200,7 +10200,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7121213": {
-    "updated_at": "2026-04-24T13:20:32-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Machine Learning Engineer, Agentic",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10216,7 +10216,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7707158": {
-    "updated_at": "2026-04-24T13:21:09-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Product Manager, Security AI",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10224,7 +10224,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7728174": {
-    "updated_at": "2026-04-24T13:21:14-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10232,7 +10232,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489731": {
-    "updated_at": "2026-04-24T13:20:48-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Agentic",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10240,7 +10240,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489675": {
-    "updated_at": "2026-04-24T13:20:47-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Capacity & Efficiency",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10248,7 +10248,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:4738660": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Data Engineering",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10264,7 +10264,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7729014": {
-    "updated_at": "2026-04-24T03:06:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Staff Software Engineer, Data Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10272,7 +10272,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7542970": {
-    "updated_at": "2026-04-24T03:06:04-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Web Infrastructure Developer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10280,7 +10280,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7263592": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Software Engineer, Backend",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10288,7 +10288,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489695": {
-    "updated_at": "2026-04-27T03:06:48-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Software Engineering Manager, Growth",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10296,7 +10296,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7676714": {
-    "updated_at": "2026-04-24T13:21:02-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Machine Learning Engineer, Agentic",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10304,7 +10304,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7460167": {
-    "updated_at": "2026-04-24T13:20:43-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Offensive Security Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10312,7 +10312,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7587151": {
-    "updated_at": "2026-04-16T13:37:19-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Product Manager, Banking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10320,7 +10320,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7754299": {
-    "updated_at": "2026-04-24T13:21:29-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Security Engineer, Application Security",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10328,7 +10328,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7470947": {
-    "updated_at": "2026-04-27T03:06:18-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Engineer, Crypto Custody",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10336,7 +10336,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489755": {
-    "updated_at": "2026-04-24T03:05:58-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Engineer, Streaming Infrastructure",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10344,7 +10344,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489950": {
-    "updated_at": "2026-04-27T03:07:06-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Engineer, Web3",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10360,7 +10360,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7739577": {
-    "updated_at": "2026-04-24T13:21:24-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Technical Program Manager - Reliability Engineering",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10368,7 +10368,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7729682": {
-    "updated_at": "2026-04-24T13:21:22-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Workday Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -18352,7 +18352,7 @@
     "alerted": true
   },
   "greenhouse:faire:8439888002": {
-    "updated_at": "2026-04-08T17:37:45-04:00",
+    "updated_at": "2026-04-28T16:50:08-04:00",
     "title": "IT Support Engineer",
     "company": "faire",
     "ats": "greenhouse",
@@ -20960,7 +20960,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7729019": {
-    "updated_at": "2026-04-24T03:06:41-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Storage Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -21232,7 +21232,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7539771": {
-    "updated_at": "2026-04-21T19:21:35-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, International",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -21456,7 +21456,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489246": {
-    "updated_at": "2026-04-27T03:06:24-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Strategies & Cortex",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -21736,7 +21736,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7812801": {
-    "updated_at": "2026-04-17T13:13:09-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Product Manager, International",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -21896,7 +21896,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7542965": {
-    "updated_at": "2026-04-17T03:06:54-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Agent Experience",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -22760,7 +22760,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7813069": {
-    "updated_at": "2026-04-23T20:12:46-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -23200,7 +23200,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7773503": {
-    "updated_at": "2026-04-24T13:21:34-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Technical Program Manager, Privacy",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -23296,7 +23296,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7794027": {
-    "updated_at": "2026-04-08T21:55:06-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "iOS Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -23800,7 +23800,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7821803": {
-    "updated_at": "2026-04-18T05:33:08-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Product Manager, Cortex",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -24008,7 +24008,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7657732": {
-    "updated_at": "2026-04-24T17:24:35-04:00",
+    "updated_at": "2026-04-28T17:40:23-04:00",
     "title": "Security Engineer, Bridge",
     "company": "stripe",
     "ats": "greenhouse",
@@ -24272,7 +24272,7 @@
     "alerted": true
   },
   "greenhouse:coinbase:7807664": {
-    "updated_at": "2026-04-13T17:11:29-04:00",
+    "updated_at": "2026-04-28T17:33:25-04:00",
     "title": "Senior Software Engineer - Data Platform",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -24376,7 +24376,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7805145": {
-    "updated_at": "2026-04-24T03:07:21-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Streaming Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -24488,7 +24488,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7782697": {
-    "updated_at": "2026-04-24T13:21:36-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, AI Infrastructure",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -25472,7 +25472,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7482186": {
-    "updated_at": "2026-04-24T03:05:34-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Data Scientist, ML (Brokerage)",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -25480,7 +25480,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7596426": {
-    "updated_at": "2026-04-24T03:06:11-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Data Scientist, ML (Incentives)",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -25488,7 +25488,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7812048": {
-    "updated_at": "2026-04-15T10:12:52-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Product Designer, Trading AI",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -35408,7 +35408,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135267007": {
-    "updated_at": "2026-04-20T16:49:06-04:00",
+    "updated_at": "2026-04-28T17:13:27-04:00",
     "title": "Sales Development Representative (AAE), Phoenix",
     "company": "verkada",
     "ats": "greenhouse",
@@ -44120,7 +44120,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7604327": {
-    "updated_at": "2026-04-21T11:47:08-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Finance & Strategy Manager, Prediction Markets",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -49528,7 +49528,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7816068": {
-    "updated_at": "2026-04-21T17:09:10-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Technical Recruiter",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -49544,7 +49544,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:5400711": {
-    "updated_at": "2026-04-20T22:20:30-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Developer, Derivatives",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -51888,7 +51888,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4686872005": {
-    "updated_at": "2026-04-21T16:09:04-04:00",
+    "updated_at": "2026-04-28T17:05:26-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R13988)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -53232,7 +53232,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7782425": {
-    "updated_at": "2026-04-20T16:48:56-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Partnerships Manager, Money",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -53240,7 +53240,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7685092": {
-    "updated_at": "2026-04-20T16:48:03-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Deal Lead, Robinhood Ventures",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -53304,7 +53304,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8483197002": {
-    "updated_at": "2026-04-27T18:09:41-04:00",
+    "updated_at": "2026-04-28T17:17:41-04:00",
     "title": "Recruiting Coordinator - Temporary",
     "company": "spacex",
     "ats": "greenhouse",
@@ -53344,7 +53344,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7816000": {
-    "updated_at": "2026-04-20T16:26:31-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Business Sourcer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -53352,7 +53352,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7816129": {
-    "updated_at": "2026-04-20T16:26:15-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Business Recruiter",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -54032,7 +54032,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7783116": {
-    "updated_at": "2026-04-24T11:59:16-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Manager of Global Mobility & Immigration",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -55056,7 +55056,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8397034002": {
-    "updated_at": "2026-04-27T16:37:09-04:00",
+    "updated_at": "2026-04-28T17:16:33-04:00",
     "title": "Sr. Software Engineer",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -55336,7 +55336,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7816451": {
-    "updated_at": "2026-04-20T13:42:43-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Partnerships Manager, Crypto",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -59152,7 +59152,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:5432053": {
-    "updated_at": "2026-04-17T19:36:34-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Software Developer, Backend",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -61272,7 +61272,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7577409": {
-    "updated_at": "2026-04-17T13:50:36-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Associate, Pathway",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -61296,7 +61296,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7736547": {
-    "updated_at": "2026-04-17T13:47:26-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Product Marketing Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63480,7 +63480,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7729684": {
-    "updated_at": "2026-04-24T13:21:22-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Workday Developer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63488,7 +63488,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7739375": {
-    "updated_at": "2026-04-27T03:07:24-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Derivatives Team",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63496,7 +63496,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7729315": {
-    "updated_at": "2026-04-24T13:21:19-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Salesforce Applications Developer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63504,7 +63504,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7728176": {
-    "updated_at": "2026-04-24T13:21:14-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63512,7 +63512,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7716679": {
-    "updated_at": "2026-04-27T03:07:22-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Engineer, Core Exchange",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63520,7 +63520,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7697791": {
-    "updated_at": "2026-04-24T13:21:12-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Insider Threat Investigator",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63528,7 +63528,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7697727": {
-    "updated_at": "2026-04-24T13:21:07-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63536,7 +63536,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7676724": {
-    "updated_at": "2026-04-24T13:21:05-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Security GRC Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63544,7 +63544,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7724385": {
-    "updated_at": "2026-04-24T13:21:05-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Security GRC Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63552,7 +63552,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7684757": {
-    "updated_at": "2026-04-24T03:06:20-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Observability",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63560,7 +63560,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7648454": {
-    "updated_at": "2026-04-27T03:07:20-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Cloud Integration",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63568,7 +63568,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7622031": {
-    "updated_at": "2026-04-17T03:07:10-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Software Developer, Fraud Investigations",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63576,7 +63576,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7615747": {
-    "updated_at": "2026-04-24T13:21:00-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Security Analyst, Threat Intelligence",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63584,7 +63584,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7615745": {
-    "updated_at": "2026-04-24T13:21:00-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Security Analyst, Threat Intelligence",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63592,7 +63592,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7589432": {
-    "updated_at": "2026-04-27T03:07:19-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Software Engineer, Cloud Engineering",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63600,7 +63600,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7542975": {
-    "updated_at": "2026-04-27T03:07:16-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Derivatives",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63616,7 +63616,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7473701": {
-    "updated_at": "2026-04-27T03:06:20-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer, Core Exchange",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63624,7 +63624,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7460169": {
-    "updated_at": "2026-04-24T13:20:43-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Offensive Security Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63632,7 +63632,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7644973": {
-    "updated_at": "2026-04-24T03:05:25-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Engineer, Compute",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63640,7 +63640,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7412037": {
-    "updated_at": "2026-04-24T03:05:23-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Data Scientist, Fraud",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63648,7 +63648,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7301788": {
-    "updated_at": "2026-04-24T03:05:21-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Developer, Cloud Networking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63656,7 +63656,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6913966": {
-    "updated_at": "2026-04-24T03:05:09-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Staff Software Developer, Developer Productivity & AI Tooling",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -68672,7 +68672,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7815430": {
-    "updated_at": "2026-04-16T13:05:59-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Manager, Crypto Compliance (BVI)",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -68680,7 +68680,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7799902": {
-    "updated_at": "2026-04-16T13:05:57-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "AML Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -68688,7 +68688,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7592187": {
-    "updated_at": "2026-04-21T19:29:36-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Deputy MLRO / AML Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -68696,7 +68696,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489952": {
-    "updated_at": "2026-04-27T03:07:06-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Engineer, Web3",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -68704,7 +68704,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6545329": {
-    "updated_at": "2026-04-16T13:05:27-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Product Designer, Crypto",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -69816,7 +69816,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7799503": {
-    "updated_at": "2026-04-21T19:24:18-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Manager of Customer Operations, Money",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -69856,7 +69856,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7815625": {
-    "updated_at": "2026-04-22T18:17:09-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Workplace Operations Specialist",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -69864,7 +69864,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7815583": {
-    "updated_at": "2026-04-22T18:07:08-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Workplace Operations Specialist",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -70352,7 +70352,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804725": {
-    "updated_at": "2026-04-15T18:31:11-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Manager, Investment Accounts",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -71448,7 +71448,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:5702135": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Android Developer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -71456,7 +71456,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7324983": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Data Scientist, Product",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -71464,7 +71464,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7324981": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Data Scientist, Product",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -71472,7 +71472,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6889390": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Developer, Infrastructure",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -71480,7 +71480,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:4829946": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Software Developer, Infrastructure",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -71488,7 +71488,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6843318": {
-    "updated_at": "2026-04-15T13:08:39-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Software Developer, Backend Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72304,7 +72304,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7539106": {
-    "updated_at": "2026-04-15T03:35:47-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72312,7 +72312,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7539100": {
-    "updated_at": "2026-04-15T03:32:58-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72320,7 +72320,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7473824": {
-    "updated_at": "2026-04-15T03:29:55-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -74320,7 +74320,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7700505": {
-    "updated_at": "2026-04-14T18:53:22-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Representative, Core Services",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -77352,7 +77352,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804765": {
-    "updated_at": "2026-04-14T15:16:58-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Capacity Planning & Forecasting Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -80600,7 +80600,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804749": {
-    "updated_at": "2026-04-13T17:05:43-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Fraud Operations Specialist",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -80760,7 +80760,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7587327": {
-    "updated_at": "2026-04-13T14:59:35-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Team Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -81800,7 +81800,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489427": {
-    "updated_at": "2026-04-27T03:06:40-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Staff Product Manager, International Growth & Expansion",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -84264,7 +84264,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7490029": {
-    "updated_at": "2026-04-10T20:46:08-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Tax Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -86512,7 +86512,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7723234": {
-    "updated_at": "2026-04-21T19:29:51-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Manager of Corporate Accounting",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -87216,8 +87216,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7792962": {
-    "updated_at": "2026-04-21T15:53:17-04:00",
-    "title": "Solutions Engineer - Intern (Summer & Fall 2026)",
+    "updated_at": "2026-04-28T17:03:19-04:00",
+    "title": "Sales: Solutions Engineer - Intern (Summer & Fall 2026)",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -93888,7 +93888,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7490012": {
-    "updated_at": "2026-04-08T00:33:18-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Product Designer, Prediction Markets",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -93896,7 +93896,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6494244": {
-    "updated_at": "2026-04-08T00:32:30-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Product Designer, Growth",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -94184,7 +94184,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7732495": {
-    "updated_at": "2026-04-07T15:59:21-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Content Writer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -96832,7 +96832,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7706906": {
-    "updated_at": "2026-04-03T13:35:43-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Market Risk Senior Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -96840,7 +96840,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7599307": {
-    "updated_at": "2026-04-21T18:33:13-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Director of Creative",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -96848,7 +96848,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7593325": {
-    "updated_at": "2026-04-03T13:35:20-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Growth Marketing Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -97920,7 +97920,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7490045": {
-    "updated_at": "2026-04-21T18:32:50-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Director of Internal Audit",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -98064,7 +98064,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7759805": {
-    "updated_at": "2026-04-02T18:07:34-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Finance & Strategy Senior Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -99848,7 +99848,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7689814": {
-    "updated_at": "2026-04-01T16:03:20-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Escalations Specialist - Social",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -99856,7 +99856,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7555434": {
-    "updated_at": "2026-04-01T15:56:29-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Analytics Developer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -106088,7 +106088,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7511787": {
-    "updated_at": "2026-03-29T03:19:44-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Product Designer, Banking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -108896,7 +108896,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7652487": {
-    "updated_at": "2026-03-27T01:06:46-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Crypto AML Investigator",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -108904,7 +108904,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7485770": {
-    "updated_at": "2026-03-27T01:05:01-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Vendor Trainer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -110840,7 +110840,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7697781": {
-    "updated_at": "2026-03-24T03:06:35-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Contingent Workforce Planning Partner",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -110848,7 +110848,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7612146": {
-    "updated_at": "2026-03-24T03:06:15-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Communications Compliance Senior Specialist",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -110856,7 +110856,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489988": {
-    "updated_at": "2026-04-27T14:05:02-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Manager Tax, Product and M&A",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -110912,7 +110912,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7117648": {
-    "updated_at": "2026-03-23T19:25:20-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Engineering Manager, Toronto",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -112784,7 +112784,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7707756": {
-    "updated_at": "2026-04-22T15:07:52-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Representative, Derivatives",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -112792,7 +112792,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7659806": {
-    "updated_at": "2026-04-22T15:00:00-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Representative, Advanced Services",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -113344,7 +113344,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7202302": {
-    "updated_at": "2026-03-18T15:04:17-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Product Designer, Money Movement",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -120824,7 +120824,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7728963": {
-    "updated_at": "2026-04-21T12:44:20-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Fraud Investigations Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -121488,7 +121488,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7816070": {
-    "updated_at": "2026-04-21T17:09:11-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Technical Recruiter",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -121664,7 +121664,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7839260": {
-    "updated_at": "2026-04-21T18:31:28-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Chief Compliance Officer, Money",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -122088,7 +122088,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804754": {
-    "updated_at": "2026-04-21T21:52:47-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Customer Experience Representative, Executive Office",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -123632,7 +123632,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7768865": {
-    "updated_at": "2026-04-24T10:43:13-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Cashiering Support Associate",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -125216,7 +125216,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7838644": {
-    "updated_at": "2026-04-24T13:21:52-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Engineer - Robinhood Command Center",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -125584,7 +125584,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7844218": {
-    "updated_at": "2026-04-24T13:22:03-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Engineering Manager, AI",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -126552,7 +126552,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7848821": {
-    "updated_at": "2026-04-23T19:34:14-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Senior Software Developer, Ops Platform and Fraud Investigations",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -128184,7 +128184,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7819113": {
-    "updated_at": "2026-04-24T13:39:48-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "APAC Security GRC Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -128192,7 +128192,7 @@
     "alerted": false
   },
   "greenhouse:asana:7565953": {
-    "updated_at": "2026-04-28T15:18:12-04:00",
+    "updated_at": "2026-04-28T17:30:29-04:00",
     "title": "Help Center Content Writer",
     "company": "asana",
     "ats": "greenhouse",
@@ -128640,8 +128640,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8463173002": {
-    "updated_at": "2026-04-24T16:31:58-04:00",
-    "title": "Lead GTM Enablement & Scale Architect, New Products",
+    "updated_at": "2026-04-28T16:45:44-04:00",
+    "title": "Lead GTM Enablement & Scale Architect",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -130608,7 +130608,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804768": {
-    "updated_at": "2026-04-27T13:40:25-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Account Operations Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -131032,7 +131032,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7852014": {
-    "updated_at": "2026-04-27T14:14:13-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Real Estate Project Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -131080,8 +131080,8 @@
     "alerted": false
   },
   "greenhouse:elastic:7859023": {
-    "updated_at": "2026-04-28T13:59:15-04:00",
-    "title": "Enterprise Account Executive - Canada",
+    "updated_at": "2026-04-28T17:05:50-04:00",
+    "title": "Commercial Account Executive - Toronto, Canada",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -131168,7 +131168,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7858835": {
-    "updated_at": "2026-04-28T14:48:27-04:00",
+    "updated_at": "2026-04-28T17:29:36-04:00",
     "title": "Licensed Benefits Advisor",
     "company": "gusto",
     "ats": "greenhouse",
@@ -131176,7 +131176,7 @@
     "alerted": false
   },
   "greenhouse:faire:8525074002": {
-    "updated_at": "2026-04-27T16:04:58-04:00",
+    "updated_at": "2026-04-28T17:15:42-04:00",
     "title": "Senior Account Executive",
     "company": "faire",
     "ats": "greenhouse",
@@ -131536,7 +131536,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7714033003": {
-    "updated_at": "2026-04-27T18:39:19-04:00",
+    "updated_at": "2026-04-28T16:48:55-04:00",
     "title": "Associate Manager, Opportunities Resolution",
     "company": "sofi",
     "ats": "greenhouse",
@@ -131640,7 +131640,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7721132": {
-    "updated_at": "2026-04-28T16:38:45-04:00",
+    "updated_at": "2026-04-28T17:22:45-04:00",
     "title": "Brand Designer, Privy",
     "company": "stripe",
     "ats": "greenhouse",
@@ -132736,7 +132736,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:7859657": {
-    "updated_at": "2026-04-28T12:42:12-04:00",
+    "updated_at": "2026-04-28T16:46:53-04:00",
     "title": "Account Executive - South (CST or EST Timezone)",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -132760,7 +132760,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489553": {
-    "updated_at": "2026-04-28T12:32:22-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Software Engineering Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -132768,8 +132768,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8495059002": {
-    "updated_at": "2026-04-28T12:29:30-04:00",
-    "title": "Sr. Industry Solutions Director",
+    "updated_at": "2026-04-28T17:41:10-04:00",
+    "title": "EMEA Energy Industry Go-To-Market (GTM) Leader",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -133216,7 +133216,7 @@
     "alerted": false
   },
   "greenhouse:fastly:7858607": {
-    "updated_at": "2026-04-28T13:55:21-04:00",
+    "updated_at": "2026-04-28T17:17:11-04:00",
     "title": "Senior Global Campaigns Manager",
     "company": "fastly",
     "ats": "greenhouse",
@@ -133678,5 +133678,61 @@
     "ats": "greenhouse",
     "source_slug": "mongodb",
     "alerted": true
+  },
+  "greenhouse:oportun:4689721005": {
+    "updated_at": "2026-04-28T17:11:23-04:00",
+    "title": "Member Loyalty Representative",
+    "company": "oportun",
+    "ats": "greenhouse",
+    "source_slug": "oportun",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8525495002": {
+    "updated_at": "2026-04-28T17:03:43-04:00",
+    "title": "Senior Recruiter, Sales - APJ",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:fetch:4234734009": {
+    "updated_at": "2026-04-28T16:57:43-04:00",
+    "title": "Claims Processor",
+    "company": "fetch",
+    "ats": "greenhouse",
+    "source_slug": "fetch",
+    "alerted": false
+  },
+  "greenhouse:coinbase:7445174": {
+    "updated_at": "2026-04-28T16:53:00-04:00",
+    "title": "Senior Accountant, Capital Markets",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:spacex:8525109002": {
+    "updated_at": "2026-04-28T16:42:16-04:00",
+    "title": "Fiber Furnace Technician (Starship) - Multiple Shifts",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:intercom:7843077": {
+    "updated_at": "2026-04-28T16:36:23-04:00",
+    "title": "IT Specialist",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:checkr:7834477": {
+    "updated_at": "2026-04-28T16:31:52-04:00",
+    "title": "Senior Software Engineer",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
   }
 }
