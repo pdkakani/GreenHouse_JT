@@ -81,6 +81,32 @@ class ATSSourcesTests(unittest.TestCase):
             )
         )
 
+    def test_normalize_smartrecruiters_job(self):
+        source = ats_sources.ATSSource("smartrecruiters", "acme")
+        raw = {
+            "id": "90001",
+            "name": "Senior Software Engineer",
+            "location": {"city": "Remote", "region": "USA"},
+            "department": {"label": "Engineering"},
+            "ref": "https://jobs.smartrecruiters.com/acme/90001",
+            "releasedDate": "2026-04-21T00:00:00Z",
+            "jobAd": {
+                "sections": {
+                    "jobDescription": {
+                        "text": "Build distributed systems",
+                    }
+                }
+            },
+        }
+
+        job = ats_sources.normalize_job(source, raw)
+
+        self.assertEqual(job["id"], "90001")
+        self.assertEqual(job["_ats"], "smartrecruiters")
+        self.assertEqual(job["_location"], "Remote")
+        self.assertEqual(job["_department"], "Engineering")
+        self.assertEqual(job["_url"], "https://jobs.smartrecruiters.com/acme/90001")
+
 
 if __name__ == "__main__":
     unittest.main()

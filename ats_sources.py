@@ -5,6 +5,7 @@ Supported ATS systems:
   - greenhouse
   - lever
   - ashby
+  - smartrecruiters
 
 Enable/disable systems by editing ENABLED_ATS or setting the environment
 variable of the same name to a comma-separated list, e.g.:
@@ -25,11 +26,12 @@ REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 
-ATS_ORDER = ("greenhouse", "lever", "ashby")
+ATS_ORDER = ("greenhouse", "lever", "ashby", "smartrecruiters")
 ATS_LABELS = {
     "greenhouse": "Greenhouse",
     "lever": "Lever",
     "ashby": "Ashby",
+    "smartrecruiters": "SmartRecruiters",
 }
 
 COMPANIES_DIR = Path("companies")
@@ -38,12 +40,14 @@ ATS_FILES = {
     "greenhouse": COMPANIES_DIR / "greenhouse.txt",
     "lever": COMPANIES_DIR / "lever.txt",
     "ashby": COMPANIES_DIR / "ashby.txt",
+    "smartrecruiters": COMPANIES_DIR / "smartrecruiters.txt",
 }
 
 ATS_ENDPOINTS = {
     "greenhouse": "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true",
     "lever": "https://api.lever.co/v0/postings/{slug}",
     "ashby": "https://api.ashbyhq.com/posting-api/job-board/{slug}",
+    "smartrecruiters": "https://api.smartrecruiters.com/v1/companies/{slug}/postings",
 }
 
 
@@ -158,6 +162,13 @@ def _parse_jobs_response(ats: str, resp: requests.Response) -> Optional[list[dic
         print(f"  [{ats_label(ats)}] Unexpected Ashby payload shape — skipping.")
         return None
 
+    if ats == "smartrecruiters":
+        if isinstance(data, dict):
+            jobs = data.get("content", [])
+            return jobs if isinstance(jobs, list) else []
+        print(f"  [{ats_label(ats)}] Unexpected SmartRecruiters payload shape — skipping.")
+        return None
+
     return None
 
 
@@ -168,6 +179,8 @@ def normalize_job(source: ATSSource, raw_job: dict) -> Optional[dict]:
         return _normalize_lever_job(source, raw_job)
     if source.ats == "ashby":
         return _normalize_ashby_job(source, raw_job)
+    if source.ats == "smartrecruiters":
+        return _normalize_smartrecruiters_job(source, raw_job)
     return None
 
 
@@ -323,6 +336,48 @@ def _format_ashby_location(raw_job: dict) -> str:
             seen.add(loc)
             deduped.append(loc)
     return "; ".join(deduped)
+
+
+def _normalize_smartrecruiters_job(source: ATSSource, raw_job: dict) -> Optional[dict]:
+    job_id = _first_non_empty(
+        _coerce_str(raw_job.get("id")),
+        _coerce_str(raw_job.get("ref")),
+    )
+    title = _coerce_str(raw_job.get("name"))
+    if not job_id or not title:
+        return None
+
+    location_obj = raw_job.get("location")
+    location = ""
+    if isinstance(location_obj, dict):
+        location = _first_non_empty(
+            _coerce_str(location_obj.get("city")),
+            _coerce_str(location_obj.get("region")),
+            _coerce_str(location_obj.get("country")),
+        )
+    if not location:
+        location = _coerce_str(location_obj)
+
+    department_obj = raw_job.get("department")
+    department = ""
+    if isinstance(department_obj, dict):
+        department = _coerce_str(department_obj.get("label"))
+    if not department:
+        department = _coerce_str(raw_job.get("function", {}).get("label")) if isinstance(raw_job.get("function"), dict) else ""
+
+    url = _first_non_empty(
+        _coerce_str(raw_job.get("ref")),
+        _coerce_str(raw_job.get("applyUrl")),
+    )
+    content = _first_non_empty(
+        _coerce_str(raw_job.get("jobAd", {}).get("sections", {}).get("jobDescription", {}).get("text")) if isinstance(raw_job.get("jobAd"), dict) else "",
+        _coerce_str(raw_job.get("name")),
+    )
+    updated_at = _first_non_empty(
+        _coerce_str(raw_job.get("releasedDate")),
+        _coerce_str(raw_job.get("postingDate")),
+    )
+    return _base_job(source, job_id, title, location, department, url, content, updated_at)
 
 
 def _first_non_empty(*values: str) -> str:
