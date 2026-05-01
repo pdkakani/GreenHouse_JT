@@ -103,9 +103,32 @@ class ATSSourcesTests(unittest.TestCase):
 
         self.assertEqual(job["id"], "90001")
         self.assertEqual(job["_ats"], "smartrecruiters")
-        self.assertEqual(job["_location"], "Remote")
+        self.assertEqual(job["_location"], "Remote, USA")
         self.assertEqual(job["_department"], "Engineering")
         self.assertEqual(job["_url"], "https://jobs.smartrecruiters.com/acme/90001")
+
+    def test_normalize_smartrecruiters_job_uuid_and_section_list(self):
+        source = ats_sources.ATSSource("smartrecruiters", "acme")
+        raw = {
+            "uuid": "uuid-1",
+            "name": "Platform Engineer",
+            "location": {"city": "Austin", "country": "USA"},
+            "function": {"label": "Engineering"},
+            "applyUrl": "https://careers.smartrecruiters.com/acme/platform-engineer",
+            "jobAd": {
+                "sections": [
+                    {"text": "Build APIs"},
+                    {"text": "Improve reliability"},
+                ]
+            },
+            "postingDate": "2026-04-21T00:00:00Z",
+        }
+
+        job = ats_sources.normalize_job(source, raw)
+
+        self.assertEqual(job["id"], "uuid-1")
+        self.assertEqual(job["_department"], "Engineering")
+        self.assertEqual(job["content"], "Build APIs\n\nImprove reliability")
 
 
 if __name__ == "__main__":

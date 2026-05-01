@@ -206,4 +206,4 @@ greenhouse-job-tracker/
 
 ## Adding more companies
 
-Greenhouse: `boards.greenhouse.io/<slug>`, Lever: `api.lever.co/v0/postings/<slug>`, Ashby: `jobs.ashbyhq.com/<board-name>`, SmartRecruiters: `careers.smartrecruiters.com/<companyIdentifier>`.. Add confirmed slugs to the matching file under `companies/` and push.
+Greenhouse: `boards.greenhouse.io/<slug>`, Lever: `api.lever.co/v0/postings/<slug>`, Ashby: `jobs.ashbyhq.com/<board-name>`, SmartRecruiters: `careers.smartrecruiters.com/<companyIdentifier>`. Add confirmed slugs to the matching file under `companies/` and push.

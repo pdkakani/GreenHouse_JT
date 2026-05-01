@@ -341,7 +341,7 @@ def _format_ashby_location(raw_job: dict) -> str:
 def _normalize_smartrecruiters_job(source: ATSSource, raw_job: dict) -> Optional[dict]:
     job_id = _first_non_empty(
         _coerce_str(raw_job.get("id")),
-        _coerce_str(raw_job.get("ref")),
+        _coerce_str(raw_job.get("uuid")),
     )
     title = _coerce_str(raw_job.get("name"))
     if not job_id or not title:
@@ -350,11 +350,12 @@ def _normalize_smartrecruiters_job(source: ATSSource, raw_job: dict) -> Optional
     location_obj = raw_job.get("location")
     location = ""
     if isinstance(location_obj, dict):
-        location = _first_non_empty(
+        location_parts = [
             _coerce_str(location_obj.get("city")),
             _coerce_str(location_obj.get("region")),
             _coerce_str(location_obj.get("country")),
-        )
+        ]
+        location = ", ".join(part for part in location_parts if part)
     if not location:
         location = _coerce_str(location_obj)
 
@@ -369,15 +370,39 @@ def _normalize_smartrecruiters_job(source: ATSSource, raw_job: dict) -> Optional
         _coerce_str(raw_job.get("ref")),
         _coerce_str(raw_job.get("applyUrl")),
     )
-    content = _first_non_empty(
-        _coerce_str(raw_job.get("jobAd", {}).get("sections", {}).get("jobDescription", {}).get("text")) if isinstance(raw_job.get("jobAd"), dict) else "",
-        _coerce_str(raw_job.get("name")),
-    )
+    content = _extract_smartrecruiters_content(raw_job)
     updated_at = _first_non_empty(
         _coerce_str(raw_job.get("releasedDate")),
         _coerce_str(raw_job.get("postingDate")),
     )
     return _base_job(source, job_id, title, location, department, url, content, updated_at)
+
+
+def _extract_smartrecruiters_content(raw_job: dict) -> str:
+    job_ad = raw_job.get("jobAd")
+    if not isinstance(job_ad, dict):
+        return _coerce_str(raw_job.get("name"))
+
+    sections = job_ad.get("sections")
+    if isinstance(sections, dict):
+        description = sections.get("jobDescription", {})
+        if isinstance(description, dict):
+            text = _coerce_str(description.get("text"))
+            if text:
+                return text
+
+    if isinstance(sections, list):
+        texts: list[str] = []
+        for section in sections:
+            if not isinstance(section, dict):
+                continue
+            text = _coerce_str(section.get("text"))
+            if text:
+                texts.append(text)
+        if texts:
+            return "\n\n".join(texts)
+
+    return _coerce_str(raw_job.get("name"))
 
 
 def _first_non_empty(*values: str) -> str:
