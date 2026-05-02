@@ -1,6 +1,6 @@
 # 🌿 ATS Job Tracker
 
-Auto-polls confirmed public job boards from **Greenhouse, Lever, and Ashby** every 15 minutes, filters for **USA/Remote** + **Software & IT** roles, scores the newest jobs against your resume using **Gemini 2.5 Flash-Lite**, and sends Slack alerts for strong matches.
+Auto-polls confirmed public job boards from **Greenhouse, Lever, Ashby, and SmartRecruiters** every 15 minutes, filters for **USA/Remote** + **Software & IT** roles, scores the newest jobs against your resume using **Gemini 2.5 Flash-Lite**, and sends Slack alerts for strong matches.
 
 Zero infrastructure. No database. Just GitHub Actions + a JSON file.
 
@@ -12,7 +12,7 @@ Zero infrastructure. No database. Just GitHub Actions + a JSON file.
 Every 15 min (GitHub Actions cron)
     │
     ▼
-Read companies/greenhouse.txt, companies/lever.txt, companies/ashby.txt
+Read companies/greenhouse.txt, companies/lever.txt, companies/ashby.txt, and companies/smartrecruiters.txt
     │
     ▼
 Fetch each ATS API for the enabled company slug
@@ -140,6 +140,7 @@ Edit the ATS-specific files under `companies/`:
 * `companies/greenhouse.txt` — Greenhouse board tokens
 * `companies/lever.txt` — Lever account slugs
 * `companies/ashby.txt` — Ashby job board names
+* `companies/smartrecruiters.txt` — SmartRecruiters company identifiers
 
 Each file uses one confirmed slug per line. `#` lines are comments.
 `companies/lever.txt` and `companies/ashby.txt` ship with a small confirmed starter set you can trim or expand.
@@ -172,6 +173,7 @@ Your resume lives in `resume.txt` (plain text). It is sent to Gemini on every sc
 | Greenhouse API | Public, no auth, no rate limits |
 | Lever API | Public postings API for confirmed slugs |
 | Ashby API | Public job-board API for confirmed board names |
+| SmartRecruiters API | Public Posting API for confirmed company identifiers |
 | Gemini API | free tier, if within quota: 15 RPM / 250k TPM / 1,000 RPD for Flash-Lite |
 | Commit frequency | Only when new/updated jobs are found |
 
@@ -189,6 +191,7 @@ greenhouse-job-tracker/
 ├── companies/greenhouse.txt         # Greenhouse board slugs
 ├── companies/lever.txt               # Lever account slugs
 ├── companies/ashby.txt               # Ashby job board names
+├── companies/smartrecruiters.txt     # SmartRecruiters company identifiers
 ├── resume.txt                        # your resume in plain text (used for scoring)
 ├── poller.py                         # main orchestrator
 ├── filters.py                        # USA location + software title filtering
@@ -203,4 +206,4 @@ greenhouse-job-tracker/
 
 ## Adding more companies
 
-Greenhouse: `boards.greenhouse.io/<slug>`, Lever: `api.lever.co/v0/postings/<slug>`, Ashby: `jobs.ashbyhq.com/<board-name>`. Add confirmed slugs to the matching file under `companies/` and push.
+Greenhouse: `boards.greenhouse.io/<slug>`, Lever: `api.lever.co/v0/postings/<slug>`, Ashby: `jobs.ashbyhq.com/<board-name>`, SmartRecruiters: `careers.smartrecruiters.com/<companyIdentifier>`. Add confirmed slugs to the matching file under `companies/` and push.
