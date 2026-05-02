@@ -130,6 +130,62 @@ class ATSSourcesTests(unittest.TestCase):
         self.assertEqual(job["_department"], "Engineering")
         self.assertEqual(job["content"], "Build APIs\n\nImprove reliability")
 
+    def test_normalize_smartrecruiters_job_full_location(self):
+        """All three location parts (city, region, country) compose correctly."""
+        source = ats_sources.ATSSource("smartrecruiters", "acme")
+        raw = {
+            "id": "sr-100",
+            "name": "Staff Engineer",
+            "location": {"city": "San Francisco", "region": "CA", "country": "USA"},
+            "ref": "https://jobs.smartrecruiters.com/acme/sr-100",
+        }
+
+        job = ats_sources.normalize_job(source, raw)
+
+        self.assertEqual(job["_location"], "San Francisco, CA, USA")
+
+    def test_normalize_smartrecruiters_job_string_location(self):
+        """String location field is used verbatim as a fallback."""
+        source = ats_sources.ATSSource("smartrecruiters", "acme")
+        raw = {
+            "id": "sr-200",
+            "name": "Data Engineer",
+            "location": "Remote, USA",
+            "ref": "https://jobs.smartrecruiters.com/acme/sr-200",
+        }
+
+        job = ats_sources.normalize_job(source, raw)
+
+        self.assertEqual(job["_location"], "Remote, USA")
+
+    def test_normalize_smartrecruiters_job_invalid_returns_none(self):
+        """Missing id and title should both return None."""
+        source = ats_sources.ATSSource("smartrecruiters", "acme")
+
+        self.assertIsNone(ats_sources.normalize_job(source, {"name": "Engineer"}))
+        self.assertIsNone(ats_sources.normalize_job(source, {"id": "sr-300"}))
+
+    def test_normalize_smartrecruiters_job_content_fallback_to_name(self):
+        """When jobAd is absent or sections is not a dict/list, fall back to job name."""
+        source = ats_sources.ATSSource("smartrecruiters", "acme")
+        raw_no_jobad = {
+            "id": "sr-400",
+            "name": "Frontend Engineer",
+            "ref": "https://jobs.smartrecruiters.com/acme/sr-400",
+        }
+        raw_bad_sections = {
+            "id": "sr-401",
+            "name": "Backend Engineer",
+            "ref": "https://jobs.smartrecruiters.com/acme/sr-401",
+            "jobAd": {"sections": "not-a-collection"},
+        }
+
+        job_no_jobad = ats_sources.normalize_job(source, raw_no_jobad)
+        job_bad_sections = ats_sources.normalize_job(source, raw_bad_sections)
+
+        self.assertEqual(job_no_jobad["content"], "Frontend Engineer")
+        self.assertEqual(job_bad_sections["content"], "Backend Engineer")
+
 
 if __name__ == "__main__":
     unittest.main()
