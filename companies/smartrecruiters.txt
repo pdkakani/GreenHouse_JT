@@ -1,0 +1,27 @@
+# SmartRecruiters company identifiers (careers.smartrecruiters.com/<identifier>)
+# Re-verified and trimmed to identifiers with clear SmartRecruiters-hosted career pages.
+smartrecruiters
+Visa
+BoschGroup
+SoftwareMind
+Sportradar
+Vonage
+Adevinta
+OLX
+PublicisGroupe
+Nexthink
+Criteo
+HelloFresh
+TomTom
+MotorolaSolutions
+SchneiderElectric
+Aptiv
+Eurofins
+Konecranes
+Nagarro
+Thoughtworks
+Wabtec
+Cummins
+Geotab
+IKEA
+ZFGroup
