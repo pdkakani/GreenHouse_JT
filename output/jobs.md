@@ -1,3 +1,32 @@
+## 📅 Run: 2026-05-17 09:17 UTC
+
+### Greenhouse
+
+#### 🔄 FullStack Senior Software Engineer(Java / React)
+**Greenhouse** · godaddy · Engineering
+📍 Gurugram, Haryana, India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7674575003)
+🕐 Updated: 2026-05-17T05:02:39-04:00 | ID: 7674575003
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-17T04:47:32-04:00 | ID: 7682030
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-17T04:47:25-04:00 | ID: 7266220
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13869 fetched, 3 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 60 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13958 fetched, 3 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 07:21 UTC
 
 ### Greenhouse

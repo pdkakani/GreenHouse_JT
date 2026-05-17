@@ -64592,7 +64592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266220": {
-    "updated_at": "2026-05-16T18:32:14-04:00",
+    "updated_at": "2026-05-17T04:47:25-04:00",
     "title": "Account Executive, Select - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-05-17T00:02:32-04:00",
+    "updated_at": "2026-05-17T04:47:32-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -158368,7 +158368,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7674575003": {
-    "updated_at": "2026-05-14T05:22:04-04:00",
+    "updated_at": "2026-05-17T05:02:39-04:00",
     "title": "FullStack Senior Software Engineer(Java / React)",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -161938,6 +161938,22 @@
   "greenhouse:anthropic:5219971008": {
     "updated_at": "2026-05-15T20:43:50-04:00",
     "title": "Enterprise Account Executive, Manufacturing & Automotive",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:robinhood:7900932": {
+    "updated_at": "2026-05-15T21:01:16-04:00",
+    "title": "Financial Compliance Senior Associate",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5222914008": {
+    "updated_at": "2026-05-15T20:44:04-04:00",
+    "title": "Enterprise Account Executive",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
