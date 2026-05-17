@@ -1,3 +1,32 @@
+## 📅 Run: 2026-05-17 16:38 UTC
+
+### Greenhouse
+
+#### 🔄 HR Infrastructure & Operations Manager
+**Greenhouse** · pagerduty · People
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/pagerduty/jobs/5989784004)
+🕐 Updated: 2026-05-17T12:22:32-04:00 | ID: 5989784004
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-17T12:17:17-04:00 | ID: 7682030
+
+#### 🔄 Instructional Designer - SaaS
+**Greenhouse** · iterable · Sales
+📍 REMOTE - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7918641)
+🕐 Updated: 2026-05-17T12:06:45-04:00 | ID: 7918641
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13861 fetched, 3 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 60 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13950 fetched, 3 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 15:43 UTC
 
 ### Greenhouse
