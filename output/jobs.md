@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-17 17:40 UTC
+
+### Greenhouse
+
+#### 🔄 [Pipeline] Software Engineer, Safeguards Labs
+**Greenhouse** · anthropic · Safeguards (Trust & Safety)
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5219486008)
+🕐 Updated: 2026-05-17T13:15:13-04:00 | ID: 5219486008
+
+#### 🔄 Software Engineer, Safeguards
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4951844008)
+🕐 Updated: 2026-05-17T13:13:48-04:00 | ID: 4951844008
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13855 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 60 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13944 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 16:38 UTC
 
 ### Greenhouse
