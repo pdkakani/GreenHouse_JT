@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-17 14:42 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-17T10:17:45-04:00 | ID: 7266220
+
+#### 🔄 Learning Experience Designer
+**Greenhouse** · adyen · Human Resources
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7573634)
+🕐 Updated: 2026-05-17T10:03:45-04:00 | ID: 7573634
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13861 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 60 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13950 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 13:15 UTC
 
 ### Greenhouse
