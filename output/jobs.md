@@ -1,3 +1,37 @@
+## 📅 Run: 2026-05-17 23:39 UTC
+
+### Greenhouse
+
+#### 🔄 Customer Onboarding Manager
+**Greenhouse** · justworks · Customer Success
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7466941?gh_jid=7466941)
+🕐 Updated: 2026-05-17T19:17:31-04:00 | ID: 7466941
+
+#### 🔄 Programs and Business Operations Lead - Mexico City
+**Greenhouse** · airbnb · Business Development
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://careers.airbnb.com/positions/7541528?gh_jid=7541528)
+🕐 Updated: 2026-05-17T19:17:19-04:00 | ID: 7541528
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-17T19:02:23-04:00 | ID: 7682030
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-17T19:02:16-04:00 | ID: 7266220
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13842 fetched, 4 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 59 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13930 fetched, 4 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 20:41 UTC
 
 ### Greenhouse
