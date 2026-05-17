@@ -161966,5 +161966,13 @@
     "ats": "greenhouse",
     "source_slug": "datadog",
     "alerted": false
+  },
+  "greenhouse:rubrik:7925548": {
+    "updated_at": "2026-05-17T04:00:56-04:00",
+    "title": "Senior Backend Engineer",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
   }
 }
