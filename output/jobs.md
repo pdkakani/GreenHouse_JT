@@ -1,3 +1,32 @@
+## 📅 Run: 2026-05-17 19:49 UTC
+
+### Greenhouse
+
+#### 🔄 Program Manager, Security Business Enablement
+**Greenhouse** · stripe · 8614 Office of the CISO & Partnership
+📍 US - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7917252)
+🕐 Updated: 2026-05-17T15:49:03-04:00 | ID: 7917252
+
+#### 🔄 Senior Backend Engineer
+**Greenhouse** · fireblocks · R&D
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4674505006?gh_jid=4674505006)
+🕐 Updated: 2026-05-17T15:26:43-04:00 | ID: 4674505006
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-17T15:02:43-04:00 | ID: 7266220
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13854 fetched, 3 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 59 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13942 fetched, 3 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 17:40 UTC
 
 ### Greenhouse
