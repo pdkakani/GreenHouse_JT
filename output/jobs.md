@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-17 10:48 UTC
+
+### Greenhouse
+
+#### 🔄 Security Engineer - Incident Response
+**Greenhouse** · godaddy · IT Ops
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7487406003)
+🕐 Updated: 2026-05-17T06:09:43-04:00 | ID: 7487406003
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-17T06:03:05-04:00 | ID: 7682030
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13866 fetched, 2 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 60 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13955 fetched, 2 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 09:17 UTC
 
 ### Greenhouse

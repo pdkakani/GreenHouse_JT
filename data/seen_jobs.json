@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-05-17T04:47:32-04:00",
+    "updated_at": "2026-05-17T06:03:05-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -154296,7 +154296,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7487406003": {
-    "updated_at": "2026-05-12T05:10:50-04:00",
+    "updated_at": "2026-05-17T06:09:43-04:00",
     "title": "Security Engineer - Incident Response",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -161957,6 +161957,14 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:datadog:7926175": {
+    "updated_at": "2026-05-16T11:35:43-04:00",
+    "title": "Enterprise Customer Success Manager",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
     "alerted": false
   }
 }
