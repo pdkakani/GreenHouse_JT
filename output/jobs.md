@@ -1,3 +1,262 @@
+## 📅 Run: 2026-05-18 22:37 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Site Reliability Engineer, TCore (FedRamp)
+**Greenhouse** · okta · SW Eng - Infrastructure-672
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7674807?gh_jid=7674807)
+🕐 Updated: 2026-05-18T18:37:08-04:00 | ID: 7674807
+
+#### 🆕 Senior Software Engineer
+**Greenhouse** · amplitude · Engineering : Data · 🎯 78%
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8555732002)
+🕐 Updated: 2026-05-18T18:34:37-04:00 | ID: 8555732002
+
+#### 🔄 Manager, Video Production
+**Greenhouse** · samsara · Corporate Marketing
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7740057?gh_jid=7740057)
+🕐 Updated: 2026-05-18T18:32:11-04:00 | ID: 7740057
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-18T18:32:09-04:00 | ID: 7266220
+
+#### 🔄 Marketing Operations Program Manager, Sold Funnel
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 US Remote; Chicago, IL; Remote Canada; Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7616135)
+🕐 Updated: 2026-05-18T18:32:01-04:00 | ID: 7616135
+
+#### 🔄 Creative Recruiter II
+**Greenhouse** · duolingo · Talent Acquisition
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8515112002?gh_jid=8515112002)
+🕐 Updated: 2026-05-18T18:30:18-04:00 | ID: 8515112002
+
+#### 🔄 Senior Manager, Scaling Operations
+**Greenhouse** · duolingo · Scaling Operations
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8543137002?gh_jid=8543137002)
+🕐 Updated: 2026-05-18T18:30:18-04:00 | ID: 8543137002
+
+#### 🔄 Senior Manager, Scaling Operations
+**Greenhouse** · duolingo · Scaling Operations
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8543375002?gh_jid=8543375002)
+🕐 Updated: 2026-05-18T18:30:18-04:00 | ID: 8543375002
+
+#### 🔄 Business Development and Partnerships Lead, LATAM
+**Greenhouse** · duolingo · Business
+📍 Remote - Sao Paulo | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8483526002?gh_jid=8483526002)
+🕐 Updated: 2026-05-18T18:30:17-04:00 | ID: 8483526002
+
+#### 🔄 Creative Recruiter II
+**Greenhouse** · duolingo · Talent Acquisition
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8500582002?gh_jid=8500582002)
+🕐 Updated: 2026-05-18T18:30:17-04:00 | ID: 8500582002
+
+#### 🔄 Director of Communications, DET UK
+**Greenhouse** · duolingo · Marketing and Communications
+📍 London, England | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8480283002?gh_jid=8480283002)
+🕐 Updated: 2026-05-18T18:30:17-04:00 | ID: 8480283002
+
+#### 🔄 Manager, Strategy and Business Operations
+**Greenhouse** · duolingo · Strategy + Business Operations
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8489240002?gh_jid=8489240002)
+🕐 Updated: 2026-05-18T18:30:17-04:00 | ID: 8489240002
+
+#### 🔄 Head of Efficacy Research
+**Greenhouse** · duolingo · Learning and Curriculum
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8479067002?gh_jid=8479067002)
+🕐 Updated: 2026-05-18T18:30:16-04:00 | ID: 8479067002
+
+#### 🔄 Head of Efficacy Research
+**Greenhouse** · duolingo · Learning and Curriculum
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8479051002?gh_jid=8479051002)
+🕐 Updated: 2026-05-18T18:30:16-04:00 | ID: 8479051002
+
+#### 🔄 Senior Product Manager, Music
+**Greenhouse** · duolingo · Product Management
+📍 London, England | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8455943002?gh_jid=8455943002)
+🕐 Updated: 2026-05-18T18:30:16-04:00 | ID: 8455943002
+
+#### 🔄 Business Development Manager
+**Greenhouse** · duolingo · Business Development
+📍 London, England | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8455252002?gh_jid=8455252002)
+🕐 Updated: 2026-05-18T18:30:15-04:00 | ID: 8455252002
+
+#### 🔄 Senior Design Sourcer
+**Greenhouse** · duolingo · Talent Acquisition
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8455014002?gh_jid=8455014002)
+🕐 Updated: 2026-05-18T18:30:15-04:00 | ID: 8455014002
+
+#### 🔄 Senior Design Sourcer
+**Greenhouse** · duolingo · Talent Acquisition
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8455005002?gh_jid=8455005002)
+🕐 Updated: 2026-05-18T18:30:15-04:00 | ID: 8455005002
+
+#### 🔄 Creative Director, Marketing
+**Greenhouse** · duolingo · Marketing and Communications
+📍 London, England | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8442934002?gh_jid=8442934002)
+🕐 Updated: 2026-05-18T18:30:14-04:00 | ID: 8442934002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · duolingo · Business
+📍 Remote – Los Angeles, California | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8444411002?gh_jid=8444411002)
+🕐 Updated: 2026-05-18T18:30:14-04:00 | ID: 8444411002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · duolingo · Business
+📍 Seattle, WA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8444398002?gh_jid=8444398002)
+🕐 Updated: 2026-05-18T18:30:14-04:00 | ID: 8444398002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · duolingo · Business
+📍 Remote – San Francisco, California | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8446736002?gh_jid=8446736002)
+🕐 Updated: 2026-05-18T18:30:14-04:00 | ID: 8446736002
+
+#### 🔄 Senior Accountant, Indirect Taxes
+**Greenhouse** · duolingo · Accounting
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8529915002?gh_jid=8529915002)
+🕐 Updated: 2026-05-18T18:30:13-04:00 | ID: 8529915002
+
+#### 🔄 Senior Accountant, Indirect Taxes
+**Greenhouse** · duolingo · Accounting
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8529896002?gh_jid=8529896002)
+🕐 Updated: 2026-05-18T18:30:13-04:00 | ID: 8529896002
+
+#### 🔄 Business Development and Partnerships Lead, LATAM
+**Greenhouse** · duolingo · Business
+📍 Remote - Mexico City | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8369239002?gh_jid=8369239002)
+🕐 Updated: 2026-05-18T18:30:12-04:00 | ID: 8369239002
+
+#### 🔄 Lead Technical Recruiter, Product Management
+**Greenhouse** · duolingo · Talent Acquisition
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8517138002?gh_jid=8517138002)
+🕐 Updated: 2026-05-18T18:30:12-04:00 | ID: 8517138002
+
+#### 🔄 Lead Technical Recruiter, Product Management
+**Greenhouse** · duolingo · Talent Acquisition
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8517116002?gh_jid=8517116002)
+🕐 Updated: 2026-05-18T18:30:12-04:00 | ID: 8517116002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · duolingo · Business
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8374797002?gh_jid=8374797002)
+🕐 Updated: 2026-05-18T18:30:12-04:00 | ID: 8374797002
+
+#### 🔄 Corporate Counsel (Marketing)
+**Greenhouse** · duolingo · Legal
+📍 Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8504399002?gh_jid=8504399002)
+🕐 Updated: 2026-05-18T18:30:11-04:00 | ID: 8504399002
+
+#### 🔄 VP of Finance
+**Greenhouse** · duolingo · Financial Planning & Analysis
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8492085002?gh_jid=8492085002)
+🕐 Updated: 2026-05-18T18:30:11-04:00 | ID: 8492085002
+
+#### 🔄 AI Success Manager, West
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4695059005)
+🕐 Updated: 2026-05-18T18:27:00-04:00 | ID: 4695059005
+
+#### 🔄 AI Success Manager, West
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4694340005)
+🕐 Updated: 2026-05-18T18:26:45-04:00 | ID: 4694340005
+
+#### 🔄 AI Success Manager, West
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4694339005)
+🕐 Updated: 2026-05-18T18:26:30-04:00 | ID: 4694339005
+
+#### 🔄 AI Success Manager, East
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 New York, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661879005)
+🕐 Updated: 2026-05-18T18:25:44-04:00 | ID: 4661879005
+
+#### 🔄 AI Success Manager, East
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661878005)
+🕐 Updated: 2026-05-18T18:25:28-04:00 | ID: 4661878005
+
+#### 🔄 AI Success Manager, Central
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Nashville, TN | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661886005)
+🕐 Updated: 2026-05-18T18:24:46-04:00 | ID: 4661886005
+
+#### 🔄 AI Success Manager, Central
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4661884005)
+🕐 Updated: 2026-05-18T18:24:31-04:00 | ID: 4661884005
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · fivetran · Engineering Department
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7708843003)
+🕐 Updated: 2026-05-18T18:23:24-04:00 | ID: 7708843003
+
+#### 🔄 Corporate Communications
+**Greenhouse** · stripe · 2413 Communications
+📍 DC, SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7827403)
+🕐 Updated: 2026-05-18T18:12:52-04:00 | ID: 7827403
+
+#### 🔄 Senior Sales Strategy & Operations Manager
+**Greenhouse** · intercom · Revenue Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7593439)
+🕐 Updated: 2026-05-18T18:04:41-04:00 | ID: 7593439
+
+#### 🔄 Regional Fleet Readiness Manager - WEST
+**Greenhouse** · waymo · RHO - Market Mgmt (GWE)
+📍 San Francisco, CA, USA; Mountain View, CA, USA;  Los Angeles CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7851847)
+🕐 Updated: 2026-05-18T17:55:06-04:00 | ID: 7851847
+
+#### 🔄 AI Solutions Architect
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO;San Francisco, CA;New York, NY;Las Vegas, NV;Chicago, IL;Phoenix, AZ | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7864440)
+🕐 Updated: 2026-05-18T17:54:26-04:00 | ID: 7864440
+
+#### 🔄 Business Development Representative, Enterprise
+**Greenhouse** · fivetran · Marketing Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7734972003)
+🕐 Updated: 2026-05-18T17:52:24-04:00 | ID: 7734972003
+
+#### 🔄 Account Executive, SMB (New Business)
+**Greenhouse** · stripe · 1651 Velocity - Account Executives (NA)
+📍 Chicago and NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7277406)
+🕐 Updated: 2026-05-18T17:48:41-04:00 | ID: 7277406
+
+#### 🔄 ResearchOps Transformation Lead (Fixed Term)
+**Greenhouse** · justworks · Corporate & Finance
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7904200?gh_jid=7904200)
+🕐 Updated: 2026-05-18T17:48:08-04:00 | ID: 7904200
+
+#### 🔄 Financial Analyst, Business Partner
+**Greenhouse** · justworks · Corporate & Finance
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7815589?gh_jid=7815589)
+🕐 Updated: 2026-05-18T17:47:49-04:00 | ID: 7815589
+
+#### 🔄 Sr. Customer Success Manager (Spanish), SMB - New York, New York
+**Greenhouse** · toast · Customer Success : Customer Success & Services : SMB
+📍 New York, New York | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7769212)
+🕐 Updated: 2026-05-18T17:46:54-04:00 | ID: 7769212
+
+#### 🔄 Staff Engineer - Customer Onboarding
+**Greenhouse** · adyen · Development
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7825733)
+🕐 Updated: 2026-05-18T17:45:46-04:00 | ID: 7825733
+
+#### 🔄 HPC Performance Engineer
+**Greenhouse** · coreweave · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4601657006&board=coreweave&gh_jid=4601657006)
+🕐 Updated: 2026-05-18T17:42:13-04:00 | ID: 4601657006
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13732 fetched, 48 updated, 16 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13819 fetched, 48 updated, 16 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-18 21:37 UTC
 
 ### Greenhouse
