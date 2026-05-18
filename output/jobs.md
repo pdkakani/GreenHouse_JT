@@ -1,3 +1,167 @@
+## 📅 Run: 2026-05-18 01:34 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-17T21:32:11-04:00 | ID: 7266220
+
+#### 🔄 Senior Corporate Security Engineer
+**Greenhouse** · asana · Infrastructure Engineering
+📍 San Francisco | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7441441?gh_jid=7441441)
+🕐 Updated: 2026-05-17T21:27:07-04:00 | ID: 7441441
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-17T21:17:10-04:00 | ID: 7682030
+
+#### 🔄 Growth Marketing, Social Content
+**Greenhouse** · applovin · Growth Marketing
+📍 Remote - United States | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4681220006?gh_jid=4681220006)
+🕐 Updated: 2026-05-17T21:03:42-04:00 | ID: 4681220006
+
+#### 🔄 Client Partner, Large Customer Sales (Retail, Ecomm)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7843673)
+🕐 Updated: 2026-05-17T20:46:02-04:00 | ID: 7843673
+
+#### 🔄 Client Partner, Large Customer Sales (Retail, Ecomm)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7869277)
+🕐 Updated: 2026-05-17T20:46:02-04:00 | ID: 7869277
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746549)
+🕐 Updated: 2026-05-17T20:46:02-04:00 | ID: 7746549
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7767765)
+🕐 Updated: 2026-05-17T20:46:02-04:00 | ID: 7767765
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Media & Entertainment)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7733445)
+🕐 Updated: 2026-05-17T20:46:02-04:00 | ID: 7733445
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Pharma)
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7749330)
+🕐 Updated: 2026-05-17T20:46:02-04:00 | ID: 7749330
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Pharma)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746500)
+🕐 Updated: 2026-05-17T20:46:02-04:00 | ID: 7746500
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Travel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7834925)
+🕐 Updated: 2026-05-17T20:46:01-04:00 | ID: 7834925
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Fashion & Apparel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7767759)
+🕐 Updated: 2026-05-17T20:46:01-04:00 | ID: 7767759
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7728844)
+🕐 Updated: 2026-05-17T20:46:01-04:00 | ID: 7728844
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7561756)
+🕐 Updated: 2026-05-17T20:46:01-04:00 | ID: 7561756
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7696013)
+🕐 Updated: 2026-05-17T20:46:01-04:00 | ID: 7696013
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7728843)
+🕐 Updated: 2026-05-17T20:46:01-04:00 | ID: 7728843
+
+#### 🔄 FP&A Manager
+**Greenhouse** · reddit · Corporate Finance
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7731917)
+🕐 Updated: 2026-05-17T20:46:00-04:00 | ID: 7731917
+
+#### 🔄 Agency Development Partnerships Lead I
+**Greenhouse** · reddit · Global Ads Partnerships
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7616791)
+🕐 Updated: 2026-05-17T20:45:55-04:00 | ID: 7616791
+
+#### 🔄 Client Account Executive, Mid-Market Sales (B2B Services)
+**Greenhouse** · reddit · Mid Market & SMB
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7702238)
+🕐 Updated: 2026-05-17T20:45:55-04:00 | ID: 7702238
+
+#### 🔄 Senior Client Partner, Mid-Market (B2B Services)
+**Greenhouse** · reddit · Mid Market & SMB
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7659597)
+🕐 Updated: 2026-05-17T20:45:55-04:00 | ID: 7659597
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905472)
+🕐 Updated: 2026-05-17T20:45:55-04:00 | ID: 7905472
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905466)
+🕐 Updated: 2026-05-17T20:45:55-04:00 | ID: 7905466
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905488)
+🕐 Updated: 2026-05-17T20:45:55-04:00 | ID: 7905488
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905432)
+🕐 Updated: 2026-05-17T20:45:55-04:00 | ID: 7905432
+
+#### 🔄 Senior Client Account Manager, Global Strategic Accounts (Enterprise Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7739084)
+🕐 Updated: 2026-05-17T20:39:32-04:00 | ID: 7739084
+
+#### 🔄 Senior Client Partner, Global Strategic Accounts (Telco)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7714098)
+🕐 Updated: 2026-05-17T20:39:32-04:00 | ID: 7714098
+
+#### 🔄 Senior Director, Global Strategic Accounts
+**Greenhouse** · reddit · Large Customer Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7822910)
+🕐 Updated: 2026-05-17T20:39:32-04:00 | ID: 7822910
+
+#### 🔄 Senior Director, Global Strategic Accounts
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746588)
+🕐 Updated: 2026-05-17T20:39:32-04:00 | ID: 7746588
+
+#### 🔄 Campaign Operations Manager
+**Greenhouse** · stripe · 2323 Campaigns and Strategy
+📍 San Francisco, Seattle, New York, Chicago, Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7584016)
+🕐 Updated: 2026-05-17T19:54:21-04:00 | ID: 7584016
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13841 fetched, 30 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 59 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13929 fetched, 30 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-17 23:39 UTC
 
 ### Greenhouse
