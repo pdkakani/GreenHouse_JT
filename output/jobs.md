@@ -1,3 +1,1342 @@
+## 📅 Run: 2026-05-18 23:43 UTC
+
+### Greenhouse
+
+#### 🆕 Senior Software Engineer, Knowledge Graph
+**Greenhouse** · airbnb · Software Engineering · 🎯 85%
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7775934?gh_jid=7775934)
+🕐 Updated: 2026-05-18T19:43:29-04:00 | ID: 7775934
+
+#### 🔄 Specialist Solutions Architect - AI/ML
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8544533002)
+🕐 Updated: 2026-05-18T19:41:22-04:00 | ID: 8544533002
+
+#### 🔄 Senior Solutions Architect - SLED Chicago / Indianapolis
+**Greenhouse** · elastic · SA - USPS SLED
+📍 Chicago, IL | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7939711&gh_jid=7939711)
+🕐 Updated: 2026-05-18T19:36:05-04:00 | ID: 7939711
+
+#### 🔄 Enterprise Account Executive - Texas - Expand
+**Greenhouse** · elastic · Sales - AMER West
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7939705&gh_jid=7939705)
+🕐 Updated: 2026-05-18T19:35:36-04:00 | ID: 7939705
+
+#### 🔄 IT Support Technician
+**Greenhouse** · elastic · IT
+📍 Austin, TX | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7922458&gh_jid=7922458)
+🕐 Updated: 2026-05-18T19:35:22-04:00 | ID: 7922458
+
+#### 🔄 Account Executive Public Sector
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 France | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7921460&gh_jid=7921460)
+🕐 Updated: 2026-05-18T19:35:17-04:00 | ID: 7921460
+
+#### 🔄 HR Operations Specialist
+**Greenhouse** · elastic · HR Operations
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7926713&gh_jid=7926713)
+🕐 Updated: 2026-05-18T19:35:12-04:00 | ID: 7926713
+
+#### 🔄 Enterprise Account Executive - Expand - Bay Area
+**Greenhouse** · elastic · Sales - AMER West
+📍 San Francisco, CA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7909307&gh_jid=7909307)
+🕐 Updated: 2026-05-18T19:34:42-04:00 | ID: 7909307
+
+#### 🔄 Enterprise Account Executive - SLED - Pennsylvania, New Jersey
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7909280&gh_jid=7909280)
+🕐 Updated: 2026-05-18T19:34:37-04:00 | ID: 7909280
+
+#### 🔄 Partner Marketing Manager - Strategic Partners
+**Greenhouse** · elastic · Partner Marketing
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7904545&gh_jid=7904545)
+🕐 Updated: 2026-05-18T19:34:33-04:00 | ID: 7904545
+
+#### 🔄 SLED Account Executive - Pacific NW
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7895389&gh_jid=7895389)
+🕐 Updated: 2026-05-18T19:34:29-04:00 | ID: 7895389
+
+#### 🔄 Enterprise Account Executive - SLED - New England
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7895387&gh_jid=7895387)
+🕐 Updated: 2026-05-18T19:34:24-04:00 | ID: 7895387
+
+#### 🔄 Enterprise Account Executive - Sao Paulo
+**Greenhouse** · elastic · Sales - AMER LATAM
+📍 Brazil | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7904455&gh_jid=7904455)
+🕐 Updated: 2026-05-18T19:34:15-04:00 | ID: 7904455
+
+#### 🔄 Mid Market Account Executive (Expand) - TOLA
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7899271&gh_jid=7899271)
+🕐 Updated: 2026-05-18T19:34:10-04:00 | ID: 7899271
+
+#### 🔄 Mid Market Account Executive (Expand) - West
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7899269&gh_jid=7899269)
+🕐 Updated: 2026-05-18T19:34:05-04:00 | ID: 7899269
+
+#### 🔄 Public Sector Account Executive - Minnesota & Iowa
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7895384&gh_jid=7895384)
+🕐 Updated: 2026-05-18T19:34:00-04:00 | ID: 7895384
+
+#### 🔄 Global PR Director, US
+**Greenhouse** · elastic · Communications & Customer Advocacy
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7885940&gh_jid=7885940)
+🕐 Updated: 2026-05-18T19:33:51-04:00 | ID: 7885940
+
+#### 🔄 Account Manager
+**Greenhouse** · instacart · Ad Sales
+📍 Canada - Remote (ON Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7642778)
+🕐 Updated: 2026-05-18T19:33:45-04:00 | ID: 7642778
+
+#### 🔄 Program Manager, Strategic Projects
+**Greenhouse** · elastic · Marketing Services
+📍 Costa Rica | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7875644&gh_jid=7875644)
+🕐 Updated: 2026-05-18T19:33:40-04:00 | ID: 7875644
+
+#### 🔄 Manager of Solutions Architecture, Applied AI (Enterprise Tech)
+**Greenhouse** · anthropic · Applied AI
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5222289008)
+🕐 Updated: 2026-05-18T19:33:38-04:00 | ID: 5222289008
+
+#### 🔄 Director, Sales Strategy & Finance
+**Greenhouse** · elastic · Sales Strategy & Operations
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7874807&gh_jid=7874807)
+🕐 Updated: 2026-05-18T19:33:36-04:00 | ID: 7874807
+
+#### 🔄 Inside Account Executive, Public Sector
+**Greenhouse** · elastic · Sales - APJ - ANZ
+📍 Sydney, Australia | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7862022&gh_jid=7862022)
+🕐 Updated: 2026-05-18T19:33:21-04:00 | ID: 7862022
+
+#### 🔄 Commercial Account Executive - Toronto, Canada
+**Greenhouse** · elastic · Sales - AMER Canada
+📍 Toronto, Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7859023&gh_jid=7859023)
+🕐 Updated: 2026-05-18T19:33:16-04:00 | ID: 7859023
+
+#### 🔄 Administrative Assistant
+**Greenhouse** · elastic · SA - Global
+📍 Costa Rica | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7874804&gh_jid=7874804)
+🕐 Updated: 2026-05-18T19:33:11-04:00 | ID: 7874804
+
+#### 🔄 Regional Vice President
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7874677&gh_jid=7874677)
+🕐 Updated: 2026-05-18T19:33:06-04:00 | ID: 7874677
+
+#### 🔄 Public Sector Account Executive
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 London, United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7865012&gh_jid=7865012)
+🕐 Updated: 2026-05-18T19:32:55-04:00 | ID: 7865012
+
+#### 🔄 Enterprise Account Executive - Vancouver, Canada
+**Greenhouse** · elastic · Sales - AMER Canada
+📍 Vancouver, Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7863815&gh_jid=7863815)
+🕐 Updated: 2026-05-18T19:32:50-04:00 | ID: 7863815
+
+#### 🔄 Enterprise Account Executive - Expand - Texas
+**Greenhouse** · elastic · Sales - AMER West
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7863806&gh_jid=7863806)
+🕐 Updated: 2026-05-18T19:32:46-04:00 | ID: 7863806
+
+#### 🔄 Senior Customer Architect (West)
+**Greenhouse** · elastic · Customer Architects - AMER
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7859326&gh_jid=7859326)
+🕐 Updated: 2026-05-18T19:32:41-04:00 | ID: 7859326
+
+#### 🔄 Travel Specialist
+**Greenhouse** · elastic · Strategic Sourcing
+📍 Bangalore, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7837575&gh_jid=7837575)
+🕐 Updated: 2026-05-18T19:32:13-04:00 | ID: 7837575
+
+#### 🔄 Account Executive - Public Sector
+**Greenhouse** · elastic · Sales - APJ - Japan
+📍 Delhi, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7831596&gh_jid=7831596)
+🕐 Updated: 2026-05-18T19:31:56-04:00 | ID: 7831596
+
+#### 🔄 Principal Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7903238&gh_jid=7903238)
+🕐 Updated: 2026-05-18T19:31:46-04:00 | ID: 7903238
+
+#### 🔄 Principal Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7843348&gh_jid=7843348)
+🕐 Updated: 2026-05-18T19:31:46-04:00 | ID: 7843348
+
+#### 🔄 Principal Product Marketing Manager - Observability
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7905731&gh_jid=7905731)
+🕐 Updated: 2026-05-18T19:31:32-04:00 | ID: 7905731
+
+#### 🔄 Principal Product Marketing Manager - Observability
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7843346&gh_jid=7843346)
+🕐 Updated: 2026-05-18T19:31:32-04:00 | ID: 7843346
+
+#### 🔄 Principal Software Engineer (Networking) - Platform
+**Greenhouse** · elastic · Platform - Control Plane
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7843340&gh_jid=7843340)
+🕐 Updated: 2026-05-18T19:31:27-04:00 | ID: 7843340
+
+#### 🔄 Senior Solutions Architect - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 New York City, NY | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7833918&gh_jid=7833918)
+🕐 Updated: 2026-05-18T19:31:22-04:00 | ID: 7833918
+
+#### 🔄 Principal Analytics Engineer
+**Greenhouse** · elastic · Marketing Operations
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7851240&gh_jid=7851240)
+🕐 Updated: 2026-05-18T19:31:13-04:00 | ID: 7851240
+
+#### 🔄 Principal Analytics Engineer
+**Greenhouse** · elastic · Marketing Operations
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7830298&gh_jid=7830298)
+🕐 Updated: 2026-05-18T19:31:13-04:00 | ID: 7830298
+
+#### 🔄 Senior Solution Architect
+**Greenhouse** · elastic · SA - EMEA - North
+📍 Denmark | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7817941&gh_jid=7817941)
+🕐 Updated: 2026-05-18T19:31:01-04:00 | ID: 7817941
+
+#### 🔄 Inside Account Executive IBERIA
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7817934&gh_jid=7817934)
+🕐 Updated: 2026-05-18T19:30:56-04:00 | ID: 7817934
+
+#### 🔄 Senior Solution Architect, Thailand
+**Greenhouse** · elastic · SA - APJ - ASEAN
+📍 Singapore | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7817931&gh_jid=7817931)
+🕐 Updated: 2026-05-18T19:30:50-04:00 | ID: 7817931
+
+#### 🔄 Solution Architect
+**Greenhouse** · elastic · SA - EMEA - North
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7811852&gh_jid=7811852)
+🕐 Updated: 2026-05-18T19:30:46-04:00 | ID: 7811852
+
+#### 🔄 Sales Strategy & Finance Analyst
+**Greenhouse** · elastic · Accounting
+📍 Bangalore, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7826343&gh_jid=7826343)
+🕐 Updated: 2026-05-18T19:30:41-04:00 | ID: 7826343
+
+#### 🔄 Enterprise Account Executive (FSI) - Mumbai
+**Greenhouse** · elastic · Sales - APJ - India
+📍 Mumbai, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7821378&gh_jid=7821378)
+🕐 Updated: 2026-05-18T19:30:36-04:00 | ID: 7821378
+
+#### 🔄 Federal Account Executive -  Dept of Commerce
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7812397&gh_jid=7812397)
+🕐 Updated: 2026-05-18T19:30:28-04:00 | ID: 7812397
+
+#### 🔄 Senior Solution Architect - Public Sector
+**Greenhouse** · elastic · SA - EMEA - North
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7811848&gh_jid=7811848)
+🕐 Updated: 2026-05-18T19:30:23-04:00 | ID: 7811848
+
+#### 🔄 Software Engineer II - Web Engineering
+**Greenhouse** · elastic · Web and Localization
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7808997&gh_jid=7808997)
+🕐 Updated: 2026-05-18T19:30:19-04:00 | ID: 7808997
+
+#### 🔄 Sr. Analyst, PubSec Revenue Strategy & Operations
+**Greenhouse** · elastic · Sales Strategy & Operations
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798174&gh_jid=7798174)
+🕐 Updated: 2026-05-18T19:30:09-04:00 | ID: 7798174
+
+#### 🔄 Inside Account Executive - Switzerland (German speaking)
+**Greenhouse** · elastic · Sales - EMEA - Central
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7797801&gh_jid=7797801)
+🕐 Updated: 2026-05-18T19:30:03-04:00 | ID: 7797801
+
+#### 🔄 RVP - Pursuit - North Central/Texas
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Illinois, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7826362&gh_jid=7826362)
+🕐 Updated: 2026-05-18T19:29:57-04:00 | ID: 7826362
+
+#### 🔄 RVP - Pursuit - North Central/Texas
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7797656&gh_jid=7797656)
+🕐 Updated: 2026-05-18T19:29:57-04:00 | ID: 7797656
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - ANZ
+📍 New Zealand | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7784963&gh_jid=7784963)
+🕐 Updated: 2026-05-18T19:29:44-04:00 | ID: 7784963
+
+#### 🔄 Customer Architect - EMEA Central
+**Greenhouse** · elastic · Customer Architects - EMEA
+📍 Germany | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798319&gh_jid=7798319)
+🕐 Updated: 2026-05-18T19:29:34-04:00 | ID: 7798319
+
+#### 🔄 Federal Account Executive - Dept of Homeland Security
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7793993&gh_jid=7793993)
+🕐 Updated: 2026-05-18T19:29:20-04:00 | ID: 7793993
+
+#### 🔄 Tax Manager
+**Greenhouse** · elastic · Accounting
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7789289&gh_jid=7789289)
+🕐 Updated: 2026-05-18T19:29:16-04:00 | ID: 7789289
+
+#### 🔄 Senior Solutions Architect, Pursuit (Presales)
+**Greenhouse** · elastic · SA - AMER - Mgmt and Support
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798051&gh_jid=7798051)
+🕐 Updated: 2026-05-18T19:29:11-04:00 | ID: 7798051
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - India
+📍 Delhi, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798049&gh_jid=7798049)
+🕐 Updated: 2026-05-18T19:29:06-04:00 | ID: 7798049
+
+#### 🔄 Senior Manager, Solutions Architecture (Pre-Sales)
+**Greenhouse** · elastic · SA - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798047&gh_jid=7798047)
+🕐 Updated: 2026-05-18T19:28:52-04:00 | ID: 7798047
+
+#### 🔄 Strategic Account Executive - Central/East
+**Greenhouse** · elastic · Sales - AMER Strat
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7797654&gh_jid=7797654)
+🕐 Updated: 2026-05-18T19:28:43-04:00 | ID: 7797654
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · elastic · SA - EMEA - North
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7784246&gh_jid=7784246)
+🕐 Updated: 2026-05-18T19:28:38-04:00 | ID: 7784246
+
+#### 🔄 Senior Product Marketing Manager - Portfolio
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7781718&gh_jid=7781718)
+🕐 Updated: 2026-05-18T19:28:32-04:00 | ID: 7781718
+
+#### 🔄 Director, Customer Engineering
+**Greenhouse** · elastic · Customer Architects - AMER Mgmt
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769905&gh_jid=7769905)
+🕐 Updated: 2026-05-18T19:28:23-04:00 | ID: 7769905
+
+#### 🔄 Federal Account Executive - UN, World Bank, NARA
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769649&gh_jid=7769649)
+🕐 Updated: 2026-05-18T19:28:04-04:00 | ID: 7769649
+
+#### 🔄 Marketing Program Manager, France
+**Greenhouse** · elastic · Regional Marketing - EMEA
+📍 Paris, France | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7772907&gh_jid=7772907)
+🕐 Updated: 2026-05-18T19:27:54-04:00 | ID: 7772907
+
+#### 🔄 Mid Market Account Executive - Expand - North Central
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7776121&gh_jid=7776121)
+🕐 Updated: 2026-05-18T19:27:49-04:00 | ID: 7776121
+
+#### 🔄 FedCiv Account Executive - Dept of Treasury
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7802531&gh_jid=7802531)
+🕐 Updated: 2026-05-18T19:27:44-04:00 | ID: 7802531
+
+#### 🔄 Renewal Manager IC (French speaker)
+**Greenhouse** · elastic · Renewals - EMEA
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7768018&gh_jid=7768018)
+🕐 Updated: 2026-05-18T19:27:35-04:00 | ID: 7768018
+
+#### 🔄 Sales Enablement Instructional Designer
+**Greenhouse** · elastic · Sales Enablement
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7766100&gh_jid=7766100)
+🕐 Updated: 2026-05-18T19:27:28-04:00 | ID: 7766100
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Belgium | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764820&gh_jid=7764820)
+🕐 Updated: 2026-05-18T19:27:15-04:00 | ID: 7764820
+
+#### 🔄 Inside Account Executive - CEE (Czech, Hungarian  or Bulgarian speaker)
+**Greenhouse** · elastic · Sales - EMEA - Emerging
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764796&gh_jid=7764796)
+🕐 Updated: 2026-05-18T19:27:10-04:00 | ID: 7764796
+
+#### 🔄 Account Executive Public Sector
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Belgium | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7768040&gh_jid=7768040)
+🕐 Updated: 2026-05-18T19:27:06-04:00 | ID: 7768040
+
+#### 🔄 Account Executive Public Sector
+**Greenhouse** · elastic · Sales - EMEA - Central
+📍 Germany | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764800&gh_jid=7764800)
+🕐 Updated: 2026-05-18T19:26:56-04:00 | ID: 7764800
+
+#### 🔄 Enterprise Account Executive, Taiwan
+**Greenhouse** · elastic · Sales - APJ - ASEAN
+📍 Hong Kong | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764794&gh_jid=7764794)
+🕐 Updated: 2026-05-18T19:26:52-04:00 | ID: 7764794
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - EMEA - Emerging
+📍 South Africa | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7766695&gh_jid=7766695)
+🕐 Updated: 2026-05-18T19:26:47-04:00 | ID: 7766695
+
+#### 🔄 Mid Market Account Executive (Expansion)
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764834&gh_jid=7764834)
+🕐 Updated: 2026-05-18T19:26:37-04:00 | ID: 7764834
+
+#### 🔄 Senior Account Executive – Defence & Public Safety (Nordics)
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Sweden | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764810&gh_jid=7764810)
+🕐 Updated: 2026-05-18T19:26:32-04:00 | ID: 7764810
+
+#### 🔄 Federal Account Executive - NIH / CDC
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769639&gh_jid=7769639)
+🕐 Updated: 2026-05-18T19:26:26-04:00 | ID: 7769639
+
+#### 🔄 Snr Account Executive - Security
+**Greenhouse** · elastic · Sales - EMEA - Security Specialists
+📍 France | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769441&gh_jid=7769441)
+🕐 Updated: 2026-05-18T19:26:22-04:00 | ID: 7769441
+
+#### 🔄 Commercial / Mid Market Account Executive
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764822&gh_jid=7764822)
+🕐 Updated: 2026-05-18T19:26:11-04:00 | ID: 7764822
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - ASEAN
+📍 Singapore | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764790&gh_jid=7764790)
+🕐 Updated: 2026-05-18T19:26:06-04:00 | ID: 7764790
+
+#### 🔄 Inside Account Executive
+**Greenhouse** · elastic · Sales - APJ - Management and Support
+📍 Sydney, Australia | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764788&gh_jid=7764788)
+🕐 Updated: 2026-05-18T19:26:01-04:00 | ID: 7764788
+
+#### 🔄 Sales Associate - San Francisco/Los Angeles
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7560993)
+🕐 Updated: 2026-05-18T19:25:51-04:00 | ID: 7560993
+
+#### 🔄 Principal Product Marketing Manager - Platform
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7742834&gh_jid=7742834)
+🕐 Updated: 2026-05-18T19:25:50-04:00 | ID: 7742834
+
+#### 🔄 Senior Solutions Architect - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 Massachusetts, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7747631&gh_jid=7747631)
+🕐 Updated: 2026-05-18T19:25:45-04:00 | ID: 7747631
+
+#### 🔄 Senior Solutions Architect - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 New York, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7747112&gh_jid=7747112)
+🕐 Updated: 2026-05-18T19:25:45-04:00 | ID: 7747112
+
+#### 🔄 Sr Recruiter, Field APJ
+**Greenhouse** · elastic · Recruiters
+📍 Japan | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7750025&gh_jid=7750025)
+🕐 Updated: 2026-05-18T19:25:26-04:00 | ID: 7750025
+
+#### 🔄 Sales Associate - New York
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7558978)
+🕐 Updated: 2026-05-18T19:25:24-04:00 | ID: 7558978
+
+#### 🔄 Sales Associate
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7572155)
+🕐 Updated: 2026-05-18T19:25:09-04:00 | ID: 7572155
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - India
+📍 Bangalore, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7725670&gh_jid=7725670)
+🕐 Updated: 2026-05-18T19:25:08-04:00 | ID: 7725670
+
+#### 🔄 Sr. AI Engineer, Application Engineering
+**Greenhouse** · elastic · IT
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7722032&gh_jid=7722032)
+🕐 Updated: 2026-05-18T19:25:03-04:00 | ID: 7722032
+
+#### 🔄 Account Executive - Pursuit
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Austin, TX | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727801&gh_jid=7727801)
+🕐 Updated: 2026-05-18T19:24:53-04:00 | ID: 7727801
+
+#### 🔄 Enterprise Account Executive - Houston - Pursuit
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727756&gh_jid=7727756)
+🕐 Updated: 2026-05-18T19:24:48-04:00 | ID: 7727756
+
+#### 🔄 Sr. Director - Government Affairs
+**Greenhouse** · elastic · Legal - Corporate
+📍 Washington, DC, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7729035&gh_jid=7729035)
+🕐 Updated: 2026-05-18T19:24:33-04:00 | ID: 7729035
+
+#### 🔄 Account Executive - Pursuit, East
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7728984&gh_jid=7728984)
+🕐 Updated: 2026-05-18T19:24:18-04:00 | ID: 7728984
+
+#### 🔄 Account Executive - Pursuit, East
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 New York City, NY | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727799&gh_jid=7727799)
+🕐 Updated: 2026-05-18T19:24:18-04:00 | ID: 7727799
+
+#### 🔄 Enterprise Account Executive - Pursuit - Bay Area
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 San Francisco, CA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727748&gh_jid=7727748)
+🕐 Updated: 2026-05-18T19:24:14-04:00 | ID: 7727748
+
+#### 🔄 Customer Architect
+**Greenhouse** · elastic · Customer Architects - EMEA
+📍 Israel | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7725620&gh_jid=7725620)
+🕐 Updated: 2026-05-18T19:24:04-04:00 | ID: 7725620
+
+#### 🔄 Public Sector Account Executive (Central Government)
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7728182&gh_jid=7728182)
+🕐 Updated: 2026-05-18T19:23:59-04:00 | ID: 7728182
+
+#### 🔄 Enterprise Account Executive - North Central
+**Greenhouse** · elastic · Sales - AMER East
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727949&gh_jid=7727949)
+🕐 Updated: 2026-05-18T19:23:55-04:00 | ID: 7727949
+
+#### 🔄 Retention Sales Development Representative II
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7712406)
+🕐 Updated: 2026-05-18T19:23:29-04:00 | ID: 7712406
+
+#### 🔄 Solutions Architect - Nashville - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 Tennessee, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7699566&gh_jid=7699566)
+🕐 Updated: 2026-05-18T19:23:17-04:00 | ID: 7699566
+
+#### 🔄 Sr. Director, IT - AI Innovation and Services
+**Greenhouse** · elastic · IT
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7674976&gh_jid=7674976)
+🕐 Updated: 2026-05-18T19:22:58-04:00 | ID: 7674976
+
+#### 🔄 Activation Sales Development Representative I
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7144697)
+🕐 Updated: 2026-05-18T19:22:47-04:00 | ID: 7144697
+
+#### 🔄 Senior Software Engineer - Docs Engineering - Documentation
+**Greenhouse** · elastic · Docs
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7893106&gh_jid=7893106)
+🕐 Updated: 2026-05-18T19:22:33-04:00 | ID: 7893106
+
+#### 🔄 Staff iOS Engineer
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7804686?t=gh_src=&gh_jid=7804686)
+🕐 Updated: 2026-05-18T19:22:27-04:00 | ID: 7804686
+
+#### 🔄 Sr. Solutions Architect - Expand West (Presales)
+**Greenhouse** · elastic · SA - AMER - Enterprise West
+📍 California, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7663327&gh_jid=7663327)
+🕐 Updated: 2026-05-18T19:22:08-04:00 | ID: 7663327
+
+#### 🔄 Senior Solutions Architect - Public Sector
+**Greenhouse** · elastic · SA - EMEA - North
+📍 Belgium | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7635520&gh_jid=7635520)
+🕐 Updated: 2026-05-18T19:21:58-04:00 | ID: 7635520
+
+#### 🔄 Regional Services Partner Delivery Manager - Public Sector
+**Greenhouse** · elastic · Consulting - EMEA
+📍 Germany | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7635063&gh_jid=7635063)
+🕐 Updated: 2026-05-18T19:21:52-04:00 | ID: 7635063
+
+#### 🔄 Staff Product Designer, Growth
+**Greenhouse** · reddit · Product Design
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7701558)
+🕐 Updated: 2026-05-18T19:21:52-04:00 | ID: 7701558
+
+#### 🔄 Principal Solutions Architect, Security
+**Greenhouse** · elastic · SA - APJ - Management and Support
+📍 Delhi, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743)
+🕐 Updated: 2026-05-18T19:21:45-04:00 | ID: 7621743
+
+#### 🔄 Principal Product Manager AI-driven, Observability
+**Greenhouse** · elastic · Obs - Actionable Observability
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7624142&gh_jid=7624142)
+🕐 Updated: 2026-05-18T19:21:41-04:00 | ID: 7624142
+
+#### 🔄 Elastic AI Engineer
+**Greenhouse** · elastic · IT
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7607148&gh_jid=7607148)
+🕐 Updated: 2026-05-18T19:21:31-04:00 | ID: 7607148
+
+#### 🔄 Elastic AI Engineer
+**Greenhouse** · elastic · IT
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7858138&gh_jid=7858138)
+🕐 Updated: 2026-05-18T19:21:31-04:00 | ID: 7858138
+
+#### 🔄 Deal Desk Analyst (EMEA)
+**Greenhouse** · elastic · Deal Desk
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7607146&gh_jid=7607146)
+🕐 Updated: 2026-05-18T19:21:13-04:00 | ID: 7607146
+
+#### 🔄 Senior Value Engineer
+**Greenhouse** · elastic · SA - AMER - Value Engineer
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7599935&gh_jid=7599935)
+🕐 Updated: 2026-05-18T19:21:09-04:00 | ID: 7599935
+
+#### 🔄 Security Sales Executive
+**Greenhouse** · elastic · Sales - AMER - Security Specialists
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7585897&gh_jid=7585897)
+🕐 Updated: 2026-05-18T19:20:57-04:00 | ID: 7585897
+
+#### 🔄 Principal Competitive Intelligence - Search - Product Marketing
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7620323&gh_jid=7620323)
+🕐 Updated: 2026-05-18T19:20:47-04:00 | ID: 7620323
+
+#### 🔄 Principal Competitive Intelligence - Search - Product Marketing
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7590696&gh_jid=7590696)
+🕐 Updated: 2026-05-18T19:20:47-04:00 | ID: 7590696
+
+#### 🔄 Senior Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7573961&gh_jid=7573961)
+🕐 Updated: 2026-05-18T19:20:35-04:00 | ID: 7573961
+
+#### 🔄 Senior Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7699075&gh_jid=7699075)
+🕐 Updated: 2026-05-18T19:20:35-04:00 | ID: 7699075
+
+#### 🔄 Federal Account Executive - VA (The Department of Veterans Affairs)
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7564316&gh_jid=7564316)
+🕐 Updated: 2026-05-18T19:20:23-04:00 | ID: 7564316
+
+#### 🔄 Partner Marketing Programs Specialist
+**Greenhouse** · elastic · Partner Marketing
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7558778&gh_jid=7558778)
+🕐 Updated: 2026-05-18T19:19:56-04:00 | ID: 7558778
+
+#### 🔄 Enterprise Account Executive - Bay Area
+**Greenhouse** · elastic · Sales - AMER West
+📍 San Francisco, CA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7554566&gh_jid=7554566)
+🕐 Updated: 2026-05-18T19:19:46-04:00 | ID: 7554566
+
+#### 🔄 SLED AE - State of California
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 California, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7540062&gh_jid=7540062)
+🕐 Updated: 2026-05-18T19:19:38-04:00 | ID: 7540062
+
+#### 🔄 Account Executive - MSSP
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7525643&gh_jid=7525643)
+🕐 Updated: 2026-05-18T19:19:18-04:00 | ID: 7525643
+
+#### 🔄 Solutions Architect
+**Greenhouse** · elastic · SA - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7525999&gh_jid=7525999)
+🕐 Updated: 2026-05-18T19:19:09-04:00 | ID: 7525999
+
+#### 🔄 Post Closing Specialist (Servicing Boarding & Trailing Docs Focus)
+**Greenhouse** · sofi · Home Loans Ops Strategy
+📍 Charlotte, North Carolina | 🔗 [Apply Here](https://sofi.com/careers/job/7702238003?gh_jid=7702238003)
+🕐 Updated: 2026-05-18T19:19:04-04:00 | ID: 7702238003
+
+#### 🔄 Account Executive
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7505982&gh_jid=7505982)
+🕐 Updated: 2026-05-18T19:18:57-04:00 | ID: 7505982
+
+#### 🔄 Consulting Architect, Public Sector - Netherlands
+**Greenhouse** · elastic · Consulting - EMEA
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7472744&gh_jid=7472744)
+🕐 Updated: 2026-05-18T19:17:41-04:00 | ID: 7472744
+
+#### 🔄 Elastic Consultant - Public Sector
+**Greenhouse** · elastic · Consulting - EMEA
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7451737&gh_jid=7451737)
+🕐 Updated: 2026-05-18T19:16:57-04:00 | ID: 7451737
+
+#### 🔄 Senior Developer Advocate
+**Greenhouse** · elastic · Community - Eng
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7445210&gh_jid=7445210)
+🕐 Updated: 2026-05-18T19:16:42-04:00 | ID: 7445210
+
+#### 🔄 Inside Account Executive
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7421709&gh_jid=7421709)
+🕐 Updated: 2026-05-18T19:13:20-04:00 | ID: 7421709
+
+#### 🔄 Business Recruiter
+**Greenhouse** · robinhood · Talent Acquisition
+📍 Chicago, IL; Menlo Park, CA; New York, NY; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7816129?t=gh_src=&gh_jid=7816129)
+🕐 Updated: 2026-05-18T19:12:09-04:00 | ID: 7816129
+
+#### 🔄 Group Product Manager, Fleet & Event Response
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, US, San Francisco, CA, US | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7869025)
+🕐 Updated: 2026-05-18T19:11:08-04:00 | ID: 7869025
+
+#### 🔄 Sales Enablement Specialist (Trainer)
+**Greenhouse** · elastic · Sales Enablement
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7386148&gh_jid=7386148)
+🕐 Updated: 2026-05-18T19:10:43-04:00 | ID: 7386148
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · elastic · SA - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982)
+🕐 Updated: 2026-05-18T19:06:30-04:00 | ID: 7349982
+
+#### 🔄 Post Closing Specialist (Investor Loan Delivery Focus)
+**Greenhouse** · sofi · Home Loans Ops Strategy
+📍 UT - Cottonwood Heights; TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7730858003?gh_jid=7730858003)
+🕐 Updated: 2026-05-18T19:03:33-04:00 | ID: 7730858003
+
+#### 🔄 Senior Developer Advocate
+**Greenhouse** · elastic · Community - Eng
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7190138&gh_jid=7190138)
+🕐 Updated: 2026-05-18T19:00:51-04:00 | ID: 7190138
+
+#### 🔄 Senior Developer Advocate (Video Content Creator)
+**Greenhouse** · elastic · Community - Eng
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130)
+🕐 Updated: 2026-05-18T19:00:38-04:00 | ID: 7190130
+
+#### 🔄 Principal Software Engineer - Search Scaling - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 London, United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7051986&gh_jid=7051986)
+🕐 Updated: 2026-05-18T18:59:09-04:00 | ID: 7051986
+
+#### 🔄 Senior Solutions Architect, Expand Southeast (Presales)
+**Greenhouse** · elastic · SA - AMER - Strategic
+📍 Florida, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7031770&gh_jid=7031770)
+🕐 Updated: 2026-05-18T18:59:03-04:00 | ID: 7031770
+
+#### 🔄 Security Enterprise Account Executive
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Denmark | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=6666023&gh_jid=6666023)
+🕐 Updated: 2026-05-18T18:53:59-04:00 | ID: 6666023
+
+#### 🔄 Sales Development Representative (German speaker)
+**Greenhouse** · elastic · SDR - EMEA
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=6380036&gh_jid=6380036)
+🕐 Updated: 2026-05-18T18:50:32-04:00 | ID: 6380036
+
+#### 🔄 Enterprise Customer Success Manager - West
+**Greenhouse** · datadog · Enterprise Customer Success
+📍 Denver, Colorado, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7722705/?gh_jid=7722705)
+🕐 Updated: 2026-05-18T18:42:44-04:00 | ID: 7722705
+
+#### 🔄 Engineering Manager, Software
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7927378)
+🕐 Updated: 2026-05-18T18:41:20-04:00 | ID: 7927378
+
+#### 🔄 Enterprise Solutions Sales Manager, StoreFront Pro
+**Greenhouse** · instacart · Retail Business Development
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7939638)
+🕐 Updated: 2026-05-18T18:41:20-04:00 | ID: 7939638
+
+#### 🔄 Enterprise Solutions Sales Manager, StoreFront Pro
+**Greenhouse** · instacart · Retail Business Development
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7939636)
+🕐 Updated: 2026-05-18T18:41:20-04:00 | ID: 7939636
+
+#### 🔄 Senior Strategic Finance Manager – Partnerships
+**Greenhouse** · instacart · Accounting & Finance
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7927224)
+🕐 Updated: 2026-05-18T18:41:20-04:00 | ID: 7927224
+
+#### 🔄 Senior Strategic Finance Manager – Partnerships
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7927222)
+🕐 Updated: 2026-05-18T18:41:20-04:00 | ID: 7927222
+
+#### 🔄 Integration & Automation Tech Lead
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7909581)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7909581
+
+#### 🔄 Senior Corporate Engineer II
+**Greenhouse** · instacart · IT
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7904915)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7904915
+
+#### 🔄 Senior Corporate Engineer II
+**Greenhouse** · instacart · IT
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7904917)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7904917
+
+#### 🔄 Senior Data Analyst, Fraud and Identity
+**Greenhouse** · instacart · Customer Experience & Operations
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7918603)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7918603
+
+#### 🔄 Sr. Associate, Retail Go-To-Market Operations - Growth & Innovation
+**Greenhouse** · instacart · Customer Experience & Operations
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7909652)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7909652
+
+#### 🔄 Sr. Associate, Retail Go-To-Market Operations - Launch Success & Retailer Enablement
+**Greenhouse** · instacart · Customer Experience & Operations
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7909686)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7909686
+
+#### 🔄 Staff Software Engineer, Partnerships
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7909682)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7909682
+
+#### 🔄 Staff Software Engineer, Partnerships
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7909684)
+🕐 Updated: 2026-05-18T18:41:19-04:00 | ID: 7909684
+
+#### 🔄 Senior Android Engineer, Growth
+**Greenhouse** · instacart · Mobile
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7901491)
+🕐 Updated: 2026-05-18T18:41:18-04:00 | ID: 7901491
+
+#### 🔄 Senior Director, Media Analytics, Commercial Strategy & Acceleration
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7875637)
+🕐 Updated: 2026-05-18T18:41:18-04:00 | ID: 7875637
+
+#### 🔄 Senior Director, Media Analytics, Commercial Strategy & Acceleration
+**Greenhouse** · instacart · Ad Sales
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7875639)
+🕐 Updated: 2026-05-18T18:41:18-04:00 | ID: 7875639
+
+#### 🔄 Senior Product Manager, Shopping Experience
+**Greenhouse** · instacart · Product Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7904851)
+🕐 Updated: 2026-05-18T18:41:18-04:00 | ID: 7904851
+
+#### 🔄 Senior Strategic Financial Analyst – Growth
+**Greenhouse** · instacart · Accounting & Finance
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7896278)
+🕐 Updated: 2026-05-18T18:41:18-04:00 | ID: 7896278
+
+#### 🔄 Senior Strategic Financial Analyst – Growth
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7896276)
+🕐 Updated: 2026-05-18T18:41:18-04:00 | ID: 7896276
+
+#### 🔄 Senior Technical Program Manager, Ads
+**Greenhouse** · instacart · Technical Program Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7899355)
+🕐 Updated: 2026-05-18T18:41:18-04:00 | ID: 7899355
+
+#### 🔄 AI Field Consultant
+**Greenhouse** · instacart · Professional Services
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7875518)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7875518
+
+#### 🔄 AI Field Consultant
+**Greenhouse** · instacart · Professional Services
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7875516)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7875516
+
+#### 🔄 Senior Data Engineer II, Finance
+**Greenhouse** · instacart · Data
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7872360)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7872360
+
+#### 🔄 Senior Data Engineer II, Finance
+**Greenhouse** · instacart · Data
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7872362)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7872362
+
+#### 🔄 Senior Security Engineer, Cloud, AI, Product Security
+**Greenhouse** · instacart · Security
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7872336)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7872336
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · instacart · Security
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7872338)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7872338
+
+#### 🔄 Staff Software Engineer, Home & Cross-Retailer Search
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7872483)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7872483
+
+#### 🔄 Staff Software Engineer, Web
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7872388)
+🕐 Updated: 2026-05-18T18:41:17-04:00 | ID: 7872388
+
+#### 🔄 Director of Customer Success
+**Greenhouse** · instacart · Professional Services
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7871823)
+🕐 Updated: 2026-05-18T18:41:16-04:00 | ID: 7871823
+
+#### 🔄 Enterprise Sales Manager, Caper
+**Greenhouse** · instacart · Caper
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7863629)
+🕐 Updated: 2026-05-18T18:41:16-04:00 | ID: 7863629
+
+#### 🔄 Enterprise Sales Manager, Caper
+**Greenhouse** · instacart · Caper
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7863631)
+🕐 Updated: 2026-05-18T18:41:16-04:00 | ID: 7863631
+
+#### 🔄 Manager, Legal Technology & Operations
+**Greenhouse** · instacart · Legal
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7868584)
+🕐 Updated: 2026-05-18T18:41:16-04:00 | ID: 7868584
+
+#### 🔄 Manager, Legal Technology & Operations
+**Greenhouse** · instacart · Legal
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7868586)
+🕐 Updated: 2026-05-18T18:41:16-04:00 | ID: 7868586
+
+#### 🔄 Senior Financial Analyst - Instacart Business
+**Greenhouse** · instacart · Accounting & Finance
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7868488)
+🕐 Updated: 2026-05-18T18:41:16-04:00 | ID: 7868488
+
+#### 🔄 Senior Financial Analyst - Instacart Business
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7868486)
+🕐 Updated: 2026-05-18T18:41:16-04:00 | ID: 7868486
+
+#### 🔄 iOS Engineer II
+**Greenhouse** · instacart · Mobile
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7858144)
+🕐 Updated: 2026-05-18T18:41:15-04:00 | ID: 7858144
+
+#### 🔄 iOS Engineer II
+**Greenhouse** · instacart · Mobile
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7858998)
+🕐 Updated: 2026-05-18T18:41:15-04:00 | ID: 7858998
+
+#### 🔄 Senior Customer Success Manager, Storefront Pro
+**Greenhouse** · instacart · Business Development & Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7917488)
+🕐 Updated: 2026-05-18T18:41:15-04:00 | ID: 7917488
+
+#### 🔄 Staff Software Engineer, Shopper Activation & Engagement
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7838938)
+🕐 Updated: 2026-05-18T18:41:15-04:00 | ID: 7838938
+
+#### 🔄 Staff Software Engineer, Shopper Activation & Engagement
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7838936)
+🕐 Updated: 2026-05-18T18:41:15-04:00 | ID: 7838936
+
+#### 🔄 Technical Revenue Accounting Manager
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7848520)
+🕐 Updated: 2026-05-18T18:41:15-04:00 | ID: 7848520
+
+#### 🔄 Bilingual Staff Technical Program Manager, Global Enterprise Fulfillment Platform
+**Greenhouse** · instacart · Technical Program Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7826880)
+🕐 Updated: 2026-05-18T18:41:14-04:00 | ID: 7826880
+
+#### 🔄 Lead, Sales Development
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7834951)
+🕐 Updated: 2026-05-18T18:41:14-04:00 | ID: 7834951
+
+#### 🔄 Senior Director, Enterprise Delivery and Growth
+**Greenhouse** · instacart · Professional Services
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7813002)
+🕐 Updated: 2026-05-18T18:41:14-04:00 | ID: 7813002
+
+#### 🔄 Senior Director, Enterprise Delivery and Growth
+**Greenhouse** · instacart · Professional Services
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7813000)
+🕐 Updated: 2026-05-18T18:41:14-04:00 | ID: 7813000
+
+#### 🔄 Senior Product Manager, In-Store Integrations
+**Greenhouse** · instacart · Product Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7838736)
+🕐 Updated: 2026-05-18T18:41:14-04:00 | ID: 7838736
+
+#### 🔄 Senior Product Manager, In-Store Integrations
+**Greenhouse** · instacart · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7838738)
+🕐 Updated: 2026-05-18T18:41:14-04:00 | ID: 7838738
+
+#### 🔄 Strategic Finance Analyst, Product Finance
+**Greenhouse** · instacart · Accounting & Finance
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7809348)
+🕐 Updated: 2026-05-18T18:41:14-04:00 | ID: 7809348
+
+#### 🔄 Retail Sales Manager, International
+**Greenhouse** · instacart · Retail Business Development
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7789182)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7789182
+
+#### 🔄 Senior Data Analyst
+**Greenhouse** · instacart · Accounting & Finance
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7783160)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7783160
+
+#### 🔄 Senior Data Analyst
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7783158)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7783158
+
+#### 🔄 Senior Detection Engineer
+**Greenhouse** · instacart · Security
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793661)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7793661
+
+#### 🔄 Senior Machine Learning Engineer, Operations Research
+**Greenhouse** · instacart · Machine Learning
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793089)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7793089
+
+#### 🔄 Staff Software Engineer,  Data Governance & Foundations
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7778620)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7778620
+
+#### 🔄 Staff Software Engineer, Data Governance & Foundations
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7778618)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7778618
+
+#### 🔄 Strategic Finance Analyst, Product Finance
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7809318)
+🕐 Updated: 2026-05-18T18:41:13-04:00 | ID: 7809318
+
+#### 🔄 Engineering Manager, Machine Learning (Caper)
+**Greenhouse** · instacart · Leadership (Engineering)
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7759475)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7759475
+
+#### 🔄 Implementation Specialist (Contractor) – Caper Deployments
+**Greenhouse** · instacart · Customer Experience & Operations
+📍 (Primary) Allentown, PA; Harrisburg, PA; Scranton/Wilkes-Barre, PA | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7773614)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7773614
+
+#### 🔄 On The Ground Specialist (Contractor)
+**Greenhouse** · instacart · Customer Experience & Operations
+📍 Selinsgrove, PA | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769702)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7769702
+
+#### 🔄 Senior Applied Scientist II, Ads Optimization
+**Greenhouse** · instacart · Machine Learning
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7793391)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7793391
+
+#### 🔄 Senior Engineering Manager, Software — Carrot Ads Platform
+**Greenhouse** · instacart · Leadership (Engineering)
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7773787)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7773787
+
+#### 🔄 Senior Machine Learning Engineer II, Ads Response Prediction
+**Greenhouse** · instacart · Machine Learning
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776451)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7776451
+
+#### 🔄 Senior Product Manager, Fraud & Trust
+**Greenhouse** · instacart · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769926)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7769926
+
+#### 🔄 Senior Product Manager, Fraud & Trust
+**Greenhouse** · instacart · Product Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769924)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7769924
+
+#### 🔄 Senior Sales Executive, Non-Endemic
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7766808)
+🕐 Updated: 2026-05-18T18:41:12-04:00 | ID: 7766808
+
+#### 🔄 Senior Analytics Engineer, Marketing
+**Greenhouse** · instacart · Marketing
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7754354)
+🕐 Updated: 2026-05-18T18:41:11-04:00 | ID: 7754354
+
+#### 🔄 Senior Customer Success Associate
+**Greenhouse** · instacart · Business Development & Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7756870)
+🕐 Updated: 2026-05-18T18:41:11-04:00 | ID: 7756870
+
+#### 🔄 Senior Manager, Product and Technology Partnerships
+**Greenhouse** · instacart · Partnerships
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7747534)
+🕐 Updated: 2026-05-18T18:41:11-04:00 | ID: 7747534
+
+#### 🔄 Staff Software Engineer, Ads Data Platform
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7728839)
+🕐 Updated: 2026-05-18T18:41:11-04:00 | ID: 7728839
+
+#### 🔄 Director, Growth Creative
+**Greenhouse** · instacart · Creative
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7707793)
+🕐 Updated: 2026-05-18T18:41:10-04:00 | ID: 7707793
+
+#### 🔄 Retailer Ads Sales Executive, Mid-Market Ads
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7743713)
+🕐 Updated: 2026-05-18T18:41:10-04:00 | ID: 7743713
+
+#### 🔄 Sales Executive II
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7718773)
+🕐 Updated: 2026-05-18T18:41:10-04:00 | ID: 7718773
+
+#### 🔄 Senior Software Engineer, Technical Search Visibility
+**Greenhouse** · instacart · Marketing
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7656204)
+🕐 Updated: 2026-05-18T18:41:10-04:00 | ID: 7656204
+
+#### 🔄 Senior Staff Machine Learning Engineer, Search & Discovery
+**Greenhouse** · instacart · Machine Learning
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7723662)
+🕐 Updated: 2026-05-18T18:41:10-04:00 | ID: 7723662
+
+#### 🔄 Strategic Finance Manager, Retailer
+**Greenhouse** · instacart · Accounting & Finance
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7705901)
+🕐 Updated: 2026-05-18T18:41:10-04:00 | ID: 7705901
+
+#### 🔄 Strategic Finance Manager, Retailer
+**Greenhouse** · instacart · Accounting & Finance
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7706355)
+🕐 Updated: 2026-05-18T18:41:10-04:00 | ID: 7706355
+
+#### 🔄 Principal Product Manager, Agentic Commerce
+**Greenhouse** · instacart · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7597066)
+🕐 Updated: 2026-05-18T18:41:09-04:00 | ID: 7597066
+
+#### 🔄 Principal Product Manager, Agentic Commerce
+**Greenhouse** · instacart · Product Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7597064)
+🕐 Updated: 2026-05-18T18:41:09-04:00 | ID: 7597064
+
+#### 🔄 Sales Executive
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7597005)
+🕐 Updated: 2026-05-18T18:41:09-04:00 | ID: 7597005
+
+#### 🔄 Senior Machine Learning Engineer II, Growth Modeling
+**Greenhouse** · instacart · Machine Learning
+📍 USA - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7566001)
+🕐 Updated: 2026-05-18T18:41:09-04:00 | ID: 7566001
+
+#### 🔄 Senior Sales Associate
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7931358)
+🕐 Updated: 2026-05-18T18:41:09-04:00 | ID: 7931358
+
+#### 🔄 Staff Product Designer - Consumer
+**Greenhouse** · instacart · Product Design
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7627450)
+🕐 Updated: 2026-05-18T18:41:09-04:00 | ID: 7627450
+
+#### 🔄 Staff Product Designer - Consumer
+**Greenhouse** · instacart · Product Design
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7627311)
+🕐 Updated: 2026-05-18T18:41:09-04:00 | ID: 7627311
+
+#### 🔄 Ads AI Analyst
+**Greenhouse** · instacart · Commercial Excellence
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7658241)
+🕐 Updated: 2026-05-18T18:41:08-04:00 | ID: 7658241
+
+#### 🔄 Machine Learning PhD Intern, Economics
+**Greenhouse** · instacart · Machine Learning
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7532267)
+🕐 Updated: 2026-05-18T18:41:08-04:00 | ID: 7532267
+
+#### 🔄 Senior User Researcher II - Connected Stores
+**Greenhouse** · instacart · Design Research
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7683153)
+🕐 Updated: 2026-05-18T18:41:08-04:00 | ID: 7683153
+
+#### 🔄 Senior User Researcher II - Connected Stores
+**Greenhouse** · instacart · Design Research
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7683163)
+🕐 Updated: 2026-05-18T18:41:08-04:00 | ID: 7683163
+
+#### 🔄 Director, Pricing Strategy
+**Greenhouse** · instacart · Retail Business Development
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7403549)
+🕐 Updated: 2026-05-18T18:41:07-04:00 | ID: 7403549
+
+#### 🔄 Director, Pricing Strategy
+**Greenhouse** · instacart · Retail Business Development
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7403551)
+🕐 Updated: 2026-05-18T18:41:07-04:00 | ID: 7403551
+
+#### 🔄 Senior Product Designer II - Health & Meals
+**Greenhouse** · instacart · Product Design
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7819015)
+🕐 Updated: 2026-05-18T18:41:07-04:00 | ID: 7819015
+
+#### 🔄 Senior Product Designer II - Health & Meals
+**Greenhouse** · instacart · Product Design
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7819012)
+🕐 Updated: 2026-05-18T18:41:07-04:00 | ID: 7819012
+
+#### 🔄 Senior Software Engineer, Ads
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7232634)
+🕐 Updated: 2026-05-18T18:41:07-04:00 | ID: 7232634
+
+#### 🔄 Senior Software Engineer II, Ads Data Solutions Engineering
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7271639)
+🕐 Updated: 2026-05-18T18:41:07-04:00 | ID: 7271639
+
+#### 🔄 Senior Software Engineer II, Page Builder (Retailer Platform)
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7769074)
+🕐 Updated: 2026-05-18T18:41:07-04:00 | ID: 7769074
+
+#### 🔄 Senior Software Engineer, Ads
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7341203)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7341203
+
+#### 🔄 Senior Software Engineer, Core Experience
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7175500)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7175500
+
+#### 🔄 Senior Software Engineer, Data Governance & Foundations
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7776249)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7776249
+
+#### 🔄 Senior Software Engineer II, AI Labs & Foundations
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7870937)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7870937
+
+#### 🔄 Senior Software Engineer II, Core Experience
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7171162)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7171162
+
+#### 🔄 Senior Software Engineer II, Logistic Foundation
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7831409)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7831409
+
+#### 🔄 Senior Software Engineer II, (ML/AI Platform)
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7837448)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7837448
+
+#### 🔄 Senior Software Engineer II, Storage
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7564947)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7564947
+
+#### 🔄 Senior Software Engineer, Storage
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7914339)
+🕐 Updated: 2026-05-18T18:41:06-04:00 | ID: 7914339
+
+#### 🔄 Senior Site Reliability Engineer I
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6957204)
+🕐 Updated: 2026-05-18T18:41:05-04:00 | ID: 6957204
+
+#### 🔄 Senior Staff Machine Learning Engineer, Ads Quality
+**Greenhouse** · instacart · Machine Learning
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6967732)
+🕐 Updated: 2026-05-18T18:41:05-04:00 | ID: 6967732
+
+#### 🔄 Staff Software Engineer, FoodStorm
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7361224)
+🕐 Updated: 2026-05-18T18:41:05-04:00 | ID: 7361224
+
+#### 🔄 Fraud & Identity Specialist (Contract)
+**Greenhouse** · instacart · Customer Experience & Operations
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=4995818)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 4995818
+
+#### 🔄 Machine Learning Engineer, PhD Intern
+**Greenhouse** · instacart · Machine Learning
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=5917202)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 5917202
+
+#### 🔄 Senior Data Scientist - Ads Auctions
+**Greenhouse** · instacart · Data Science
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7762531)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 7762531
+
+#### 🔄 Senior Data Scientist II - AI for Analytics
+**Greenhouse** · instacart · Data Science
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7779563)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 7779563
+
+#### 🔄 Senior Data Scientist II - AI for Analytics
+**Greenhouse** · instacart · Data Science
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7779561)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 7779561
+
+#### 🔄 Senior Data Scientist (I & II)
+**Greenhouse** · instacart · Data Science
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=4949335)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 4949335
+
+#### 🔄 Senior Data Scientist - Shopping Experience (Search)
+**Greenhouse** · instacart · Data Science
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7819293)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 7819293
+
+#### 🔄 Senior Data Scientist - Shopping Experience (Search)
+**Greenhouse** · instacart · Data Science
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7819163)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 7819163
+
+#### 🔄 Strategic Partner Manager
+**Greenhouse** · instacart · Retail Business Development
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6819435)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 6819435
+
+#### 🔄 Strategic Partner Manager
+**Greenhouse** · instacart · Retail Business Development
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=6819437)
+🕐 Updated: 2026-05-18T18:41:04-04:00 | ID: 6819437
+
+#### 🔄 Senior Data Scientist - Ads Auctions
+**Greenhouse** · instacart · Data Science
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7762552)
+🕐 Updated: 2026-05-18T18:41:03-04:00 | ID: 7762552
+
+#### 🔄 Senior Data Scientist (I & II)
+**Greenhouse** · instacart · Data Science
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=4949339)
+🕐 Updated: 2026-05-18T18:41:03-04:00 | ID: 4949339
+
+#### 🔄 Credit Risk Officer
+**Greenhouse** · adyen · Merchant Operations
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7612832)
+🕐 Updated: 2026-05-18T18:39:53-04:00 | ID: 7612832
+
+#### 🔄 Credit Underwriter
+**Greenhouse** · adyen · Merchant Operations
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7812138)
+🕐 Updated: 2026-05-18T18:39:41-04:00 | ID: 7812138
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13742 fetched, 264 updated, 19 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13829 fetched, 264 updated, 19 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-18 22:37 UTC
 
 ### Greenhouse
