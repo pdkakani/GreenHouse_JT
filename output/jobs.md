@@ -1,3 +1,377 @@
+## 📅 Run: 2026-05-18 09:59 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Account Executive - Enterprise Sales - New Business (UK)
+**Greenhouse** · newrelic · Enterprise
+📍 Dublin, Ireland; London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5159066008)
+🕐 Updated: 2026-05-18T05:53:00-04:00 | ID: 5159066008
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Denmark; Remote - Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8368209002)
+🕐 Updated: 2026-05-18T05:36:07-04:00 | ID: 8368209002
+
+#### 🔄 Analyst, Business Development
+**Greenhouse** · applovin · Business Development - Apps
+📍 Shanghai | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4681864006?gh_jid=4681864006)
+🕐 Updated: 2026-05-18T05:32:13-04:00 | ID: 4681864006
+
+#### 🔄 Analyst, Business Development
+**Greenhouse** · applovin · Business Development - Apps
+📍 Beijing | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4681661006?gh_jid=4681661006)
+🕐 Updated: 2026-05-18T05:32:13-04:00 | ID: 4681661006
+
+#### 🔄 Software Engineer, Data Infrastructure
+**Greenhouse** · asana · Infrastructure Engineering
+📍 Warsaw | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7367282?gh_jid=7367282)
+🕐 Updated: 2026-05-18T05:28:15-04:00 | ID: 7367282
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · gleanwork · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4597765005)
+🕐 Updated: 2026-05-18T05:26:16-04:00 | ID: 4597765005
+
+#### 🔄 Infosec - Offensive Security Intern
+**Greenhouse** · rubrik · Information Security
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7928159?gh_jid=7928159)
+🕐 Updated: 2026-05-18T05:25:10-04:00 | ID: 7928159
+
+#### 🔄 Infosec Intern
+**Greenhouse** · rubrik · Information Security
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7844920?gh_jid=7844920)
+🕐 Updated: 2026-05-18T05:24:45-04:00 | ID: 7844920
+
+#### 🔄 India Benefits & AI Operations Intern
+**Greenhouse** · rubrik · People
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7820150?gh_jid=7820150)
+🕐 Updated: 2026-05-18T05:24:15-04:00 | ID: 7820150
+
+#### 🔄 Product Management Intern
+**Greenhouse** · rubrik · Product
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7770714?gh_jid=7770714)
+🕐 Updated: 2026-05-18T05:22:47-04:00 | ID: 7770714
+
+#### 🔄 Product Management Intern
+**Greenhouse** · rubrik · Product
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7765355?gh_jid=7765355)
+🕐 Updated: 2026-05-18T05:22:07-04:00 | ID: 7765355
+
+#### 🔄 Transfer Pricing Manager
+**Greenhouse** · twilio · Finance
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7772685)
+🕐 Updated: 2026-05-18T05:19:12-04:00 | ID: 7772685
+
+#### 🔄 Solutions Engineer, Auth0 - German speaking
+**Greenhouse** · okta · SE Field-321
+📍 Germany | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7535056?gh_jid=7535056)
+🕐 Updated: 2026-05-18T05:17:16-04:00 | ID: 7535056
+
+#### 🔄 Senior Solutions Engineer
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Denmark; Remote - Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002)
+🕐 Updated: 2026-05-18T05:16:18-04:00 | ID: 8239195002
+
+#### 🔄 Software Engineer (Java)
+**Greenhouse** · adyen · Development
+📍 Bengaluru | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7219290)
+🕐 Updated: 2026-05-18T05:09:16-04:00 | ID: 7219290
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · mongodb · PTO App Modernization PM
+📍 India | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7922824)
+🕐 Updated: 2026-05-18T05:00:18-04:00 | ID: 7922824
+
+#### 🔄 Engineering Manager, Forward Deployed Engineering
+**Greenhouse** · intercom · R&D
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7765466)
+🕐 Updated: 2026-05-18T04:53:20-04:00 | ID: 7765466
+
+#### 🔄 Engineering Manager, Forward Deployed Engineering
+**Greenhouse** · intercom · R&D
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7749413)
+🕐 Updated: 2026-05-18T04:53:20-04:00 | ID: 7749413
+
+#### 🔄 Merchant Onboarding Manager
+**Greenhouse** · adyen · Merchant Operations
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7422228)
+🕐 Updated: 2026-05-18T04:48:22-04:00 | ID: 7422228
+
+#### 🔄 Senior Software Engineer -Payments
+**Greenhouse** · airbnb · Software Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/7581839?gh_jid=7581839)
+🕐 Updated: 2026-05-18T04:47:46-04:00 | ID: 7581839
+
+#### 🔄 Senior Data Engineer
+**Greenhouse** · adyen · Data Analytics
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6919020)
+🕐 Updated: 2026-05-18T04:42:44-04:00 | ID: 6919020
+
+#### 🔄 Senior Engineering Manager - Workers KV
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7841019?gh_jid=7841019)
+🕐 Updated: 2026-05-18T04:41:10-04:00 | ID: 7841019
+
+#### 🔄 Strategic Account Executive (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7845781)
+🕐 Updated: 2026-05-18T04:40:46-04:00 | ID: 7845781
+
+#### 🔄 Strategic Account Executive (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7865849)
+🕐 Updated: 2026-05-18T04:40:26-04:00 | ID: 7865849
+
+#### 🔄 CDD Risk Analyst
+**Greenhouse** · adyen · Merchant Operations
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7919215)
+🕐 Updated: 2026-05-18T04:33:36-04:00 | ID: 7919215
+
+#### 🔄 Internal Auditor - Security
+**Greenhouse** · adyen · Internal Audit
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7771721)
+🕐 Updated: 2026-05-18T04:16:04-04:00 | ID: 7771721
+
+#### 🔄 Ocean Operations Specialist
+**Greenhouse** · flexport · Ocean Gateway Operations
+📍 Jakarta, Indonesia | 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7708218?gh_jid=7708218)
+🕐 Updated: 2026-05-18T04:12:32-04:00 | ID: 7708218
+
+#### 🔄 CDD Risk Analyst
+**Greenhouse** · adyen · Merchant Operations
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7412998)
+🕐 Updated: 2026-05-18T04:06:41-04:00 | ID: 7412998
+
+#### 🔄 Data Engineer
+**Greenhouse** · adyen · Data Analytics
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6720006)
+🕐 Updated: 2026-05-18T03:54:25-04:00 | ID: 6720006
+
+#### 🔄 Senior Back End Engineer, Hazel AI
+**Greenhouse** · altruist · Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/5692635004?gh_jid=5692635004)
+🕐 Updated: 2026-05-18T03:48:11-04:00 | ID: 5692635004
+
+#### 🔄 Business Analyst - Payments Pricing
+**Greenhouse** · adyen · Data Analytics
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7369650)
+🕐 Updated: 2026-05-18T03:48:04-04:00 | ID: 7369650
+
+#### 🔄 Sales Manager
+**Greenhouse** · adyen · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7290051)
+🕐 Updated: 2026-05-18T03:33:25-04:00 | ID: 7290051
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · gleanwork · Sales
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4657943005)
+🕐 Updated: 2026-05-18T03:21:42-04:00 | ID: 4657943005
+
+#### 🔄 Senior Engineer, Offensive Security
+**Greenhouse** · twilio · Security
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7622278)
+🕐 Updated: 2026-05-18T03:17:49-04:00 | ID: 7622278
+
+#### 🔄 Sales Operations Manager
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7555217?gh_jid=7555217)
+🕐 Updated: 2026-05-18T03:06:34-04:00 | ID: 7555217
+
+#### 🔄 Senior Staff AI Engineer
+**Greenhouse** · sofi · Risk 2LOD
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7593403003?gh_jid=7593403003)
+🕐 Updated: 2026-05-18T03:03:19-04:00 | ID: 7593403003
+
+#### 🔄 Account Executive, Cross Border China
+**Greenhouse** · stripe · 1195 Account Executives (APAC)
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7893199)
+🕐 Updated: 2026-05-18T03:03:12-04:00 | ID: 7893199
+
+#### 🔄 Software Engineer II - Organizations
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7708061003)
+🕐 Updated: 2026-05-18T03:03:06-04:00 | ID: 7708061003
+
+#### 🔄 Lead Product Manager, Groups Platform
+**Greenhouse** · klaviyo · Product
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7682351003)
+🕐 Updated: 2026-05-18T03:02:56-04:00 | ID: 7682351003
+
+#### 🔄 Product Manager, Customer Hub
+**Greenhouse** · klaviyo · Product
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7689425003)
+🕐 Updated: 2026-05-18T03:02:56-04:00 | ID: 7689425003
+
+#### 🔄 Lead Product Manager, Data Management
+**Greenhouse** · klaviyo · Product
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7680736003)
+🕐 Updated: 2026-05-18T03:02:53-04:00 | ID: 7680736003
+
+#### 🔄 Director of Engineering - Growth & Engagement
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7669366003)
+🕐 Updated: 2026-05-18T03:02:52-04:00 | ID: 7669366003
+
+#### 🔄 Software Engineer II - Analytics Data Engineering
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003)
+🕐 Updated: 2026-05-18T03:02:52-04:00 | ID: 7669291003
+
+#### 🔄 Software Engineer - Core Reporting
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7668047003)
+🕐 Updated: 2026-05-18T03:02:51-04:00 | ID: 7668047003
+
+#### 🔄 Software Engineer II- Product Recommendations
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660745003)
+🕐 Updated: 2026-05-18T03:02:48-04:00 | ID: 7660745003
+
+#### 🔄 Software Engineer II - Identity & Access Management
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7660502003)
+🕐 Updated: 2026-05-18T03:02:45-04:00 | ID: 7660502003
+
+#### 🔄 Engineering Manager - Conversational AI Platform
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7651276003)
+🕐 Updated: 2026-05-18T03:02:42-04:00 | ID: 7651276003
+
+#### 🔄 Software Engineer II Devx
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7641350003)
+🕐 Updated: 2026-05-18T03:02:39-04:00 | ID: 7641350003
+
+#### 🔄 Software Engineer, Financial Platform
+**Greenhouse** · chime · Platform Engineering
+📍 New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8183064002?gh_jid=8183064002)
+🕐 Updated: 2026-05-18T03:02:38-04:00 | ID: 8183064002
+
+#### 🔄 Customer Support Specialist, Dutch (Weekend Shift)
+**Greenhouse** · klaviyo · Customer Support
+📍 Dublin, IE | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7638813003)
+🕐 Updated: 2026-05-18T03:02:36-04:00 | ID: 7638813003
+
+#### 🔄 Customer Support Specialist, French (Weekend Shift)
+**Greenhouse** · klaviyo · Customer Support
+📍 Dublin, IE | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7634487003)
+🕐 Updated: 2026-05-18T03:02:36-04:00 | ID: 7634487003
+
+#### 🔄 Customer Support Specialist, German (Weekend Shift)
+**Greenhouse** · klaviyo · Customer Support
+📍 Dublin, IE | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7644818003)
+🕐 Updated: 2026-05-18T03:02:36-04:00 | ID: 7644818003
+
+#### 🔄 Customer Support Specialist, Spanish (Weekend Shift)
+**Greenhouse** · klaviyo · Customer Support
+📍 Dublin, IE | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7638802003)
+🕐 Updated: 2026-05-18T03:02:36-04:00 | ID: 7638802003
+
+#### 🔄 Senior Software Engineer - Profiles, Lists and Segments
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597868003)
+🕐 Updated: 2026-05-18T03:02:27-04:00 | ID: 7597868003
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · klaviyo · Customer Success
+📍 Denver, CO | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7656199003)
+🕐 Updated: 2026-05-18T03:02:26-04:00 | ID: 7656199003
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · klaviyo · Customer Success
+📍 San Francisco, CA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597631003)
+🕐 Updated: 2026-05-18T03:02:26-04:00 | ID: 7597631003
+
+#### 🔄 Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597051003)
+🕐 Updated: 2026-05-18T03:02:26-04:00 | ID: 7597051003
+
+#### 🔄 Engineering Manager, Profile Traits
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7574911003)
+🕐 Updated: 2026-05-18T03:02:24-04:00 | ID: 7574911003
+
+#### 🔄 Engineering Manager - Data Automation
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7570250003)
+🕐 Updated: 2026-05-18T03:02:16-04:00 | ID: 7570250003
+
+#### 🔄 Software Engineer II - Data Management and Governance (DMG)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7568455003)
+🕐 Updated: 2026-05-18T03:02:14-04:00 | ID: 7568455003
+
+#### 🔄 Senior Software Engineer - Analytics Data Engineering
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003)
+🕐 Updated: 2026-05-18T03:02:03-04:00 | ID: 7564587003
+
+#### 🔄 Software Engineer - Advanced Reporting
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7563810003)
+🕐 Updated: 2026-05-18T03:02:02-04:00 | ID: 7563810003
+
+#### 🔄 Senior Full Stack Engineer - New Product
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548896003)
+🕐 Updated: 2026-05-18T03:01:59-04:00 | ID: 7548896003
+
+#### 🔄 Engineering Manager, Flow Insights & Management
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7546307003)
+🕐 Updated: 2026-05-18T03:01:58-04:00 | ID: 7546307003
+
+#### 🔄 Senior Software Engineer - Devx
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7548895003)
+🕐 Updated: 2026-05-18T03:01:58-04:00 | ID: 7548895003
+
+#### 🔄 Lead Product Manager
+**Greenhouse** · klaviyo · Product
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7532498003)
+🕐 Updated: 2026-05-18T03:01:57-04:00 | ID: 7532498003
+
+#### 🔄 Software Engineer II, Data Automation
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453478003)
+🕐 Updated: 2026-05-18T03:01:54-04:00 | ID: 7453478003
+
+#### 🔄 Engineering Manager, Customer Agent
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453448003)
+🕐 Updated: 2026-05-18T03:01:46-04:00 | ID: 7453448003
+
+#### 🔄 Engineering Manager, Events
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453449003)
+🕐 Updated: 2026-05-18T03:01:46-04:00 | ID: 7453449003
+
+#### 🔄 Senior Software Engineer - Email Platforms
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7453443003)
+🕐 Updated: 2026-05-18T03:01:45-04:00 | ID: 7453443003
+
+#### 🔄 Lead Product Manager, Developer Experience
+**Greenhouse** · klaviyo · Product
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7702128003)
+🕐 Updated: 2026-05-18T03:01:39-04:00 | ID: 7702128003
+
+#### 🔄 Lead Product Manager, Developer Experience
+**Greenhouse** · klaviyo · Product
+📍 San Francisco, CA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7702131003)
+🕐 Updated: 2026-05-18T03:01:39-04:00 | ID: 7702131003
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13835 fetched, 72 updated, 16 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 59 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13923 fetched, 72 updated, 16 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-18 05:56 UTC
 
 ### Greenhouse
