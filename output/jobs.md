@@ -1,3 +1,667 @@
+## 📅 Run: 2026-05-19 01:48 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Enterprise (Hunter), Japan
+**Greenhouse** · stripe · 1195 Account Executives (APAC)
+📍 Tokyo | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7528816)
+🕐 Updated: 2026-05-18T21:45:42-04:00 | ID: 7528816
+
+#### 🔄 SMB Account Executive (Japan)
+**Greenhouse** · stripe · 1195 Account Executives (APAC)
+📍 Tokyo | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7364278)
+🕐 Updated: 2026-05-18T21:44:43-04:00 | ID: 7364278
+
+#### 🔄 Account Development Executive (Miami, FL)
+**Greenhouse** · justworks · Sales
+📍 Remote - U.S.A. | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7819796?gh_jid=7819796)
+🕐 Updated: 2026-05-18T21:44:33-04:00 | ID: 7819796
+
+#### 🔄 Account Development Executive
+**Greenhouse** · justworks · Sales
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7814842?gh_jid=7814842)
+🕐 Updated: 2026-05-18T21:44:20-04:00 | ID: 7814842
+
+#### 🔄 Manager, Account Development
+**Greenhouse** · justworks · Sales
+📍 New York, New York; Remote - U.S.A. | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7781298?gh_jid=7781298)
+🕐 Updated: 2026-05-18T21:43:32-04:00 | ID: 7781298
+
+#### 🆕 Manager, Account Development (Miami, FL)
+**Greenhouse** · justworks · Sales · 🎯 35%
+📍 Remote - U.S.A. | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7940331?gh_jid=7940331)
+🕐 Updated: 2026-05-18T21:43:20-04:00 | ID: 7940331
+
+#### 🔄 Engineering Manager, Margin
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7760390?t=gh_src=&gh_jid=7760390)
+🕐 Updated: 2026-05-18T21:34:42-04:00 | ID: 7760390
+
+#### 🔄 Engineering Manager, Margin
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7760392?t=gh_src=&gh_jid=7760392)
+🕐 Updated: 2026-05-18T21:34:34-04:00 | ID: 7760392
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-18T21:32:24-04:00 | ID: 7682030
+
+#### 🔄 Office Manager (Part-Time)
+**Greenhouse** · spade · Business
+📍 New York, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/spade/jobs/4696679005)
+🕐 Updated: 2026-05-18T21:31:03-04:00 | ID: 4696679005
+
+#### 🔄 Community Manager, Social
+**Greenhouse** · robinhood · Content Marketing and Social Division
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7922396?t=gh_src=&gh_jid=7922396)
+🕐 Updated: 2026-05-18T21:26:02-04:00 | ID: 7922396
+
+#### 🔄 Sr. Markets Reporter
+**Greenhouse** · robinhood · Sherwood Media Division
+📍 Chicago, IL; New York, NY; Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7921265?t=gh_src=&gh_jid=7921265)
+🕐 Updated: 2026-05-18T21:25:58-04:00 | ID: 7921265
+
+#### 🔄 Senior Applications Engineer, Corporate Systems
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7901507?t=gh_src=&gh_jid=7901507)
+🕐 Updated: 2026-05-18T21:25:48-04:00 | ID: 7901507
+
+#### 🔄 Financial Compliance Senior Associate
+**Greenhouse** · robinhood · Accounting
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7900932?t=gh_src=&gh_jid=7900932)
+🕐 Updated: 2026-05-18T21:25:46-04:00 | ID: 7900932
+
+#### 🔄 Senior Software Engineer, Security Platform
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482)
+🕐 Updated: 2026-05-18T21:25:44-04:00 | ID: 7899482
+
+#### 🔄 Senior Financial Risk Analyst
+**Greenhouse** · robinhood · Treasury
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7896496?t=gh_src=&gh_jid=7896496)
+🕐 Updated: 2026-05-18T21:25:39-04:00 | ID: 7896496
+
+#### 🔄 Salesforce Applications Engineer
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7896256?t=gh_src=&gh_jid=7896256)
+🕐 Updated: 2026-05-18T21:25:38-04:00 | ID: 7896256
+
+#### 🔄 Staff Software Engineer, Machine Learning, Planner Selection
+**Greenhouse** · waymo · Planner (7LU)
+📍 Mountain View, California, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7170802)
+🕐 Updated: 2026-05-18T21:25:37-04:00 | ID: 7170802
+
+#### 🔄 IT Financial Compliance Manager
+**Greenhouse** · robinhood · Accounting
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7852355?t=gh_src=&gh_jid=7852355)
+🕐 Updated: 2026-05-18T21:25:31-04:00 | ID: 7852355
+
+#### 🔄 Chief Compliance Officer, RHD
+**Greenhouse** · robinhood · Futures Compliance
+📍 Chicago, IL; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7852072?t=gh_src=&gh_jid=7852072)
+🕐 Updated: 2026-05-18T21:25:30-04:00 | ID: 7852072
+
+#### 🔄 Senior Engineering Manager, Agentic AI
+**Greenhouse** · robinhood · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7905675?t=gh_src=&gh_jid=7905675)
+🕐 Updated: 2026-05-18T21:25:23-04:00 | ID: 7905675
+
+#### 🔄 Senior Engineering Manager, AI Research and Development
+**Greenhouse** · robinhood · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7844218?t=gh_src=&gh_jid=7844218)
+🕐 Updated: 2026-05-18T21:25:23-04:00 | ID: 7844218
+
+#### 🔄 Senior Software Engineer - Robinhood Command Center
+**Greenhouse** · robinhood · ENG Technical Assurance
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7838644?t=gh_src=&gh_jid=7838644)
+🕐 Updated: 2026-05-18T21:25:10-04:00 | ID: 7838644
+
+#### 🔄 Applications Engineer, Corporate Systems
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7822619?t=gh_src=&gh_jid=7822619)
+🕐 Updated: 2026-05-18T21:25:04-04:00 | ID: 7822619
+
+#### 🔄 Staff Product Manager, Cortex
+**Greenhouse** · robinhood · Customer Care
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7821803?t=gh_src=&gh_jid=7821803)
+🕐 Updated: 2026-05-18T21:25:03-04:00 | ID: 7821803
+
+#### 🔄 Staff Software Engineer, Security
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461)
+🕐 Updated: 2026-05-18T21:25:01-04:00 | ID: 7819461
+
+#### 🔄 Workplace Operations Specialist
+**Greenhouse** · robinhood · Real Estate and Workplace
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7815625?t=gh_src=&gh_jid=7815625)
+🕐 Updated: 2026-05-18T21:24:59-04:00 | ID: 7815625
+
+#### 🔄 Workplace Operations Specialist
+**Greenhouse** · robinhood · Real Estate and Workplace
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7815583?t=gh_src=&gh_jid=7815583)
+🕐 Updated: 2026-05-18T21:24:57-04:00 | ID: 7815583
+
+#### 🔄 APAC Security GRC Lead
+**Greenhouse** · robinhood · Security Division
+📍 Singapore | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7819113?t=gh_src=&gh_jid=7819113)
+🕐 Updated: 2026-05-18T21:24:54-04:00 | ID: 7819113
+
+#### 🔄 Senior Partnerships Manager, Crypto
+**Greenhouse** · robinhood · Crypto Division
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7816451?t=gh_src=&gh_jid=7816451)
+🕐 Updated: 2026-05-18T21:24:52-04:00 | ID: 7816451
+
+#### 🔄 Senior Manager, Crypto Compliance (BVI)
+**Greenhouse** · robinhood · Bitstamp G&A
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7815430?t=gh_src=&gh_jid=7815430)
+🕐 Updated: 2026-05-18T21:24:49-04:00 | ID: 7815430
+
+#### 🔄 Capacity Planning & Forecasting Analyst
+**Greenhouse** · robinhood · Customer Care
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7804765?t=gh_src=&gh_jid=7804765)
+🕐 Updated: 2026-05-18T21:24:46-04:00 | ID: 7804765
+
+#### 🔄 Customer Experience Manager, Investment Accounts
+**Greenhouse** · robinhood · Customer Care
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7804725?t=gh_src=&gh_jid=7804725)
+🕐 Updated: 2026-05-18T21:24:44-04:00 | ID: 7804725
+
+#### 🔄 Staff iOS Engineer
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7804686?t=gh_src=&gh_jid=7804686)
+🕐 Updated: 2026-05-18T21:24:43-04:00 | ID: 7804686
+
+#### 🔄 Treasury Operations Specialist
+**Greenhouse** · robinhood · Financial Operations
+📍 Chicago, IL; Lake Mary, FL; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7804677?t=gh_src=&gh_jid=7804677)
+🕐 Updated: 2026-05-18T21:24:42-04:00 | ID: 7804677
+
+#### 🔄 Staff Product Designer, Brokerage
+**Greenhouse** · robinhood · Brokerage Design
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648)
+🕐 Updated: 2026-05-18T21:24:38-04:00 | ID: 7804648
+
+#### 🔄 Senior Partnerships Manager, Money
+**Greenhouse** · robinhood · Money Operations
+📍 Menlo Park, CA; New York, NY; Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7782425?t=gh_src=&gh_jid=7782425)
+🕐 Updated: 2026-05-18T21:24:18-04:00 | ID: 7782425
+
+#### 🔄 Manager of Customer Operations, Money
+**Greenhouse** · robinhood · Money Operations
+📍 Chicago, IL; Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7799503?t=gh_src=&gh_jid=7799503)
+🕐 Updated: 2026-05-18T21:24:15-04:00 | ID: 7799503
+
+#### 🔄 Senior Technical Program Manager, Privacy
+**Greenhouse** · robinhood · Privacy Division
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7773503?t=gh_src=&gh_jid=7773503)
+🕐 Updated: 2026-05-18T21:24:09-04:00 | ID: 7773503
+
+#### 🔄 Backend Software Engineer, Credit Cards & Banking
+**Greenhouse** · robinhood · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7754143?t=gh_src=&gh_jid=7754143)
+🕐 Updated: 2026-05-18T21:24:02-04:00 | ID: 7754143
+
+#### 🔄 Staff Security Engineer, Application Security
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299)
+🕐 Updated: 2026-05-18T21:23:59-04:00 | ID: 7754299
+
+#### 🔄 Product Manager, Money Movement
+**Greenhouse** · robinhood · Customer Trust and Safety
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7747728?t=gh_src=&gh_jid=7747728)
+🕐 Updated: 2026-05-18T21:23:58-04:00 | ID: 7747728
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · robinhood · Growth Acquisitions
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7736547?t=gh_src=&gh_jid=7736547)
+🕐 Updated: 2026-05-18T21:23:51-04:00 | ID: 7736547
+
+#### 🔄 Staff Workday Developer
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729684?t=gh_src=&gh_jid=7729684)
+🕐 Updated: 2026-05-18T21:23:46-04:00 | ID: 7729684
+
+#### 🔄 Staff Workday Engineer
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729682?t=gh_src=&gh_jid=7729682)
+🕐 Updated: 2026-05-18T21:23:46-04:00 | ID: 7729682
+
+#### 🔄 Manager of Learning & Development
+**Greenhouse** · robinhood · Talent Management
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7736809?t=gh_src=&gh_jid=7736809)
+🕐 Updated: 2026-05-18T21:23:41-04:00 | ID: 7736809
+
+#### 🔄 Senior Staff Machine Learning Engineer
+**Greenhouse** · robinhood · ENG Data and AI Platform Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7736185?t=gh_src=&gh_jid=7736185)
+🕐 Updated: 2026-05-18T21:23:36-04:00 | ID: 7736185
+
+#### 🔄 Salesforce Applications Developer
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7729315?t=gh_src=&gh_jid=7729315)
+🕐 Updated: 2026-05-18T21:23:34-04:00 | ID: 7729315
+
+#### 🔄 Senior Security Engineer, AI Vulnerability Management
+**Greenhouse** · robinhood · Security Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7728174?t=gh_src=&gh_jid=7728174)
+🕐 Updated: 2026-05-18T21:23:29-04:00 | ID: 7728174
+
+#### 🔄 Senior Security Engineer, AI Vulnerability Management
+**Greenhouse** · robinhood · Security Division
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7728176?t=gh_src=&gh_jid=7728176)
+🕐 Updated: 2026-05-18T21:23:29-04:00 | ID: 7728176
+
+#### 🔄 Staff Software Engineer, Core Exchange
+**Greenhouse** · robinhood · Bitstamp - Engineering Division
+📍 Ljubljana, Slovenia | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7716679?t=gh_src=&gh_jid=7716679)
+🕐 Updated: 2026-05-18T21:23:26-04:00 | ID: 7716679
+
+#### 🔄 Senior Product Manager, Security AI
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7707158?t=gh_src=&gh_jid=7707158)
+🕐 Updated: 2026-05-18T21:23:20-04:00 | ID: 7707158
+
+#### 🔄 Security Engineer, Detection & Response
+**Greenhouse** · robinhood · Security Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: 2026-05-18T21:23:18-04:00 | ID: 7697725
+
+#### 🔄 Security Engineer, Detection & Response
+**Greenhouse** · robinhood · Security Division
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697727?t=gh_src=&gh_jid=7697727)
+🕐 Updated: 2026-05-18T21:23:18-04:00 | ID: 7697727
+
+#### 🔄 Senior Software Engineer, Cloud Integration
+**Greenhouse** · robinhood · Bitstamp - Engineering Division
+📍 Ljubljana, Slovenia | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7648454?t=gh_src=&gh_jid=7648454)
+🕐 Updated: 2026-05-18T21:23:07-04:00 | ID: 7648454
+
+#### 🔄 Software Developer, Fraud Investigations
+**Greenhouse** · robinhood · ENG Platforms
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7622031?t=gh_src=&gh_jid=7622031)
+🕐 Updated: 2026-05-18T21:23:05-04:00 | ID: 7622031
+
+#### 🔄 Staff Security Analyst, Threat Intelligence
+**Greenhouse** · robinhood · Security Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7615745?t=gh_src=&gh_jid=7615745)
+🕐 Updated: 2026-05-18T21:23:03-04:00 | ID: 7615745
+
+#### 🔄 Staff Security Analyst, Threat Intelligence
+**Greenhouse** · robinhood · Security Division
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7615747?t=gh_src=&gh_jid=7615747)
+🕐 Updated: 2026-05-18T21:23:03-04:00 | ID: 7615747
+
+#### 🔄 Senior Director of Creative
+**Greenhouse** · robinhood · Creative
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7599307?t=gh_src=&gh_jid=7599307)
+🕐 Updated: 2026-05-18T21:23:00-04:00 | ID: 7599307
+
+#### 🔄 Deputy MLRO / AML Lead
+**Greenhouse** · robinhood · Bitstamp G&A
+📍 Luxembourg, Luxembourg | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7592187?t=gh_src=&gh_jid=7592187)
+🕐 Updated: 2026-05-18T21:22:58-04:00 | ID: 7592187
+
+#### 🔄 Senior Data Scientist, ML (Incentives)
+**Greenhouse** · robinhood · ENG Data Science
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426)
+🕐 Updated: 2026-05-18T21:22:55-04:00 | ID: 7596426
+
+#### 🔄 Staff Product Manager, Banking
+**Greenhouse** · robinhood · Money Product Division
+📍 Menlo Park, CA; New York, NY; Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151)
+🕐 Updated: 2026-05-18T21:22:53-04:00 | ID: 7587151
+
+#### 🔄 People Systems Manager
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7551180?t=gh_src=&gh_jid=7551180)
+🕐 Updated: 2026-05-18T21:22:47-04:00 | ID: 7551180
+
+#### 🔄 People Systems Manager
+**Greenhouse** · robinhood · Corporate Engineering Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7551178?t=gh_src=&gh_jid=7551178)
+🕐 Updated: 2026-05-18T21:22:47-04:00 | ID: 7551178
+
+#### 🔄 Engineering Manager, Concierge
+**Greenhouse** · robinhood · ENG Platforms
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542965?t=gh_src=&gh_jid=7542965)
+🕐 Updated: 2026-05-18T21:22:45-04:00 | ID: 7542965
+
+#### 🔄 Engineering Manager, Derivatives
+**Greenhouse** · robinhood · Bitstamp - Engineering Division
+📍 Ljubljana, Slovenia | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7542975?t=gh_src=&gh_jid=7542975)
+🕐 Updated: 2026-05-18T21:22:44-04:00 | ID: 7542975
+
+#### 🔄 Engineering Manager, Financial Crimes
+**Greenhouse** · robinhood · ENG Platforms
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7512231?t=gh_src=&gh_jid=7512231)
+🕐 Updated: 2026-05-18T21:22:41-04:00 | ID: 7512231
+
+#### 🔄 Full Stack Engineer, Credit Cards & Banking
+**Greenhouse** · robinhood · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049)
+🕐 Updated: 2026-05-18T21:22:36-04:00 | ID: 7490049
+
+#### 🔄 Director of Internal Audit
+**Greenhouse** · robinhood · Internal Audit
+📍 London, UK; Luxembourg, Luxembourg | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7490045?t=gh_src=&gh_jid=7490045)
+🕐 Updated: 2026-05-18T21:22:35-04:00 | ID: 7490045
+
+#### 🔄 Senior Tax Manager
+**Greenhouse** · robinhood · Tax
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7490029?t=gh_src=&gh_jid=7490029)
+🕐 Updated: 2026-05-18T21:22:33-04:00 | ID: 7490029
+
+#### 🔄 Senior Manager Tax, Product and M&A
+**Greenhouse** · robinhood · Tax
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489988?t=gh_src=&gh_jid=7489988)
+🕐 Updated: 2026-05-18T21:22:30-04:00 | ID: 7489988
+
+#### 🔄 Staff Software Engineer, Web3
+**Greenhouse** · robinhood · Crypto Engineering
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950)
+🕐 Updated: 2026-05-18T21:22:26-04:00 | ID: 7489950
+
+#### 🔄 Staff Software Engineer, Web3
+**Greenhouse** · robinhood · Crypto Engineering
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952)
+🕐 Updated: 2026-05-18T21:22:26-04:00 | ID: 7489952
+
+#### 🔄 Software Engineering Manager, Growth
+**Greenhouse** · robinhood · ENG Growth
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695)
+🕐 Updated: 2026-05-18T21:22:17-04:00 | ID: 7489695
+
+#### 🔄 Senior Software Engineer, Capacity & Efficiency
+**Greenhouse** · robinhood · ENG Technical Assurance
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489675?t=gh_src=&gh_jid=7489675)
+🕐 Updated: 2026-05-18T21:22:15-04:00 | ID: 7489675
+
+#### 🔄 Engineering Manager, Equities
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489553?t=gh_src=&gh_jid=7489553)
+🕐 Updated: 2026-05-18T21:22:08-04:00 | ID: 7489553
+
+#### 🔄 Data Scientist, ML (Agentic, CX)
+**Greenhouse** · robinhood · ENG Data Science
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489476?t=gh_src=&gh_jid=7489476)
+🕐 Updated: 2026-05-18T21:22:07-04:00 | ID: 7489476
+
+#### 🔄 Engineering Manager, Strategies & Cortex
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246)
+🕐 Updated: 2026-05-18T21:21:52-04:00 | ID: 7489246
+
+#### 🔄 Derivatives Risk Oversight Lead
+**Greenhouse** · robinhood · Bitstamp G&A
+📍 Ljubljana, Slovenia | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539106?t=gh_src=&gh_jid=7539106)
+🕐 Updated: 2026-05-18T21:21:48-04:00 | ID: 7539106
+
+#### 🔄 Derivatives Risk Oversight Lead
+**Greenhouse** · robinhood · Bitstamp G&A
+📍 London, UK | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7473824?t=gh_src=&gh_jid=7473824)
+🕐 Updated: 2026-05-18T21:21:48-04:00 | ID: 7473824
+
+#### 🔄 Derivatives Risk Oversight Lead
+**Greenhouse** · robinhood · Bitstamp G&A
+📍 Luxembourg, Luxembourg | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7539100?t=gh_src=&gh_jid=7539100)
+🕐 Updated: 2026-05-18T21:21:48-04:00 | ID: 7539100
+
+#### 🔄 Senior Data Scientist, ML (Brokerage)
+**Greenhouse** · robinhood · ENG Data Science
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186)
+🕐 Updated: 2026-05-18T21:21:45-04:00 | ID: 7482186
+
+#### 🔄 Senior Software Engineer, Core Exchange
+**Greenhouse** · robinhood · Bitstamp - Engineering Division
+📍 Ljubljana, Slovenia | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7473701?t=gh_src=&gh_jid=7473701)
+🕐 Updated: 2026-05-18T21:21:41-04:00 | ID: 7473701
+
+#### 🔄 Staff Offensive Security Engineer
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167)
+🕐 Updated: 2026-05-18T21:21:39-04:00 | ID: 7460167
+
+#### 🔄 Staff Offensive Security Engineer
+**Greenhouse** · robinhood · Security Division
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7460169?t=gh_src=&gh_jid=7460169)
+🕐 Updated: 2026-05-18T21:21:39-04:00 | ID: 7460169
+
+#### 🔄 Finance & Strategy Senior Analyst
+**Greenhouse** · robinhood · Finance Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7456663?t=gh_src=&gh_jid=7456663)
+🕐 Updated: 2026-05-18T21:21:37-04:00 | ID: 7456663
+
+#### 🔄 Senior Data Scientist, Fraud
+**Greenhouse** · robinhood · ENG Data Science
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037)
+🕐 Updated: 2026-05-18T21:21:30-04:00 | ID: 7412037
+
+#### 🔄 Senior Cloud Security Engineer
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427)
+🕐 Updated: 2026-05-18T21:21:27-04:00 | ID: 7178427
+
+#### 🔄 Senior Machine Learning Engineer, Agentic
+**Greenhouse** · robinhood · ENG Data and AI Platform Division
+📍 Bellevue, WA; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213)
+🕐 Updated: 2026-05-18T21:21:21-04:00 | ID: 7121213
+
+#### 🔄 Staff Product Designer, Crypto
+**Greenhouse** · robinhood · Crypto Design
+📍 Bellevue, WA; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/6545329?t=gh_src=&gh_jid=6545329)
+🕐 Updated: 2026-05-18T21:21:19-04:00 | ID: 6545329
+
+#### 🔄 Senior Specialist / Service Delivery Manager
+**Greenhouse** · convera · Customer Service
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4846036101)
+🕐 Updated: 2026-05-18T21:01:36-04:00 | ID: 4846036101
+
+#### 🔄 Software Engineer, Machine Learning/AI Accelerator
+**Greenhouse** · waymo · Compute (7LR)
+📍 Taipei, Taiwan; Hsinchu, Taiwan | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7584885)
+🕐 Updated: 2026-05-18T20:56:11-04:00 | ID: 7584885
+
+#### 🔄 FP&A Manager
+**Greenhouse** · reddit · Corporate Finance
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7731917)
+🕐 Updated: 2026-05-18T20:48:26-04:00 | ID: 7731917
+
+#### 🔄 Client Account Executive, Mid-Market (App Dev)
+**Greenhouse** · reddit · Mid Market & SMB
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7413698)
+🕐 Updated: 2026-05-18T20:46:23-04:00 | ID: 7413698
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746549)
+🕐 Updated: 2026-05-18T20:46:23-04:00 | ID: 7746549
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Travel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7834925)
+🕐 Updated: 2026-05-18T20:46:23-04:00 | ID: 7834925
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905472)
+🕐 Updated: 2026-05-18T20:46:23-04:00 | ID: 7905472
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905466)
+🕐 Updated: 2026-05-18T20:46:23-04:00 | ID: 7905466
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905432)
+🕐 Updated: 2026-05-18T20:46:23-04:00 | ID: 7905432
+
+#### 🔄 Senior Technical Solutions Manager, Signals
+**Greenhouse** · reddit · Sales Strategy & Operations
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7905488)
+🕐 Updated: 2026-05-18T20:46:23-04:00 | ID: 7905488
+
+#### 🔄 Agency Development Partnerships Lead I
+**Greenhouse** · reddit · Global Ads Partnerships
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7616791)
+🕐 Updated: 2026-05-18T20:46:22-04:00 | ID: 7616791
+
+#### 🔄 Agency Development Partnerships Lead - Independent Agencies
+**Greenhouse** · reddit · Global Ads Partnerships
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7937043)
+🕐 Updated: 2026-05-18T20:46:22-04:00 | ID: 7937043
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7767765)
+🕐 Updated: 2026-05-18T20:46:22-04:00 | ID: 7767765
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Fashion & Apparel)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7767759)
+🕐 Updated: 2026-05-18T20:46:22-04:00 | ID: 7767759
+
+#### 🔄 Client Partner, Large Customer Sales (Retail, Ecomm)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7869277)
+🕐 Updated: 2026-05-18T20:45:43-04:00 | ID: 7869277
+
+#### 🔄 Client Partner, Large Customer Sales (Retail, Ecomm)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7843673)
+🕐 Updated: 2026-05-18T20:45:43-04:00 | ID: 7843673
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Media & Entertainment)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7733445)
+🕐 Updated: 2026-05-18T20:45:43-04:00 | ID: 7733445
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Pharma)
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7749330)
+🕐 Updated: 2026-05-18T20:45:43-04:00 | ID: 7749330
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Pharma)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746500)
+🕐 Updated: 2026-05-18T20:45:43-04:00 | ID: 7746500
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7728844)
+🕐 Updated: 2026-05-18T20:45:42-04:00 | ID: 7728844
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7696013)
+🕐 Updated: 2026-05-18T20:45:42-04:00 | ID: 7696013
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7561756)
+🕐 Updated: 2026-05-18T20:45:42-04:00 | ID: 7561756
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7728843)
+🕐 Updated: 2026-05-18T20:45:42-04:00 | ID: 7728843
+
+#### 🔄 Customer Success Manager - Australia
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8548980002)
+🕐 Updated: 2026-05-18T20:42:27-04:00 | ID: 8548980002
+
+#### 🔄 Technical Services Engineer
+**Greenhouse** · mongodb · Technical Support APAC
+📍 Kuala Lumpur | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7919314)
+🕐 Updated: 2026-05-18T20:41:19-04:00 | ID: 7919314
+
+#### 🔄 Technical Services Engineer
+**Greenhouse** · mongodb · Technical Support APAC
+📍 Kuala Lumpur | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7919311)
+🕐 Updated: 2026-05-18T20:41:00-04:00 | ID: 7919311
+
+#### 🔄 Senior Client Account Manager, Global Strategic Accounts (Enterprise Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7739084)
+🕐 Updated: 2026-05-18T20:41:00-04:00 | ID: 7739084
+
+#### 🔄 Senior Client Partner, Global Strategic Accounts (Telco)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7714098)
+🕐 Updated: 2026-05-18T20:41:00-04:00 | ID: 7714098
+
+#### 🔄 Senior Director, Global Strategic Accounts
+**Greenhouse** · reddit · Large Customer Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7822910)
+🕐 Updated: 2026-05-18T20:41:00-04:00 | ID: 7822910
+
+#### 🔄 Senior Director, Global Strategic Accounts
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746588)
+🕐 Updated: 2026-05-18T20:41:00-04:00 | ID: 7746588
+
+#### 🔄 Sr. Sanctions Compliance Analyst
+**Greenhouse** · convera · Sanctions Advisory
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4856419101)
+🕐 Updated: 2026-05-18T20:39:23-04:00 | ID: 4856419101
+
+#### 🔄 Operations Engineering Manager, Fleet Reliability
+**Greenhouse** · coreweave · Technology
+📍 Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4678462006&board=coreweave&gh_jid=4678462006)
+🕐 Updated: 2026-05-18T20:21:55-04:00 | ID: 4678462006
+
+#### 🔄 Senior Principal Pre-sales Engineer, Product Specialist
+**Greenhouse** · twilio · Solutions Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7611862)
+🕐 Updated: 2026-05-18T20:17:40-04:00 | ID: 7611862
+
+#### 🔄 Machine Maintenance Technician
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420677002?gh_jid=8420677002)
+🕐 Updated: 2026-05-18T20:15:25-04:00 | ID: 8420677002
+
+#### 🔄 Client Partner, Mid-Market (Shopping Goods Acquisitions)
+**Greenhouse** · reddit · Mid Market & SMB
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7746517)
+🕐 Updated: 2026-05-18T19:53:12-04:00 | ID: 7746517
+
+#### 🔄 Area Manager
+**Greenhouse** · flexport · Fulfillment
+📍 Atlanta Warehouse | 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7819243?gh_jid=7819243)
+🕐 Updated: 2026-05-18T19:52:28-04:00 | ID: 7819243
+
+#### 🔄 Area Manager- New Grad
+**Greenhouse** · flexport · Fulfillment
+📍 Atlanta Warehouse | 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7839297?gh_jid=7839297)
+🕐 Updated: 2026-05-18T19:52:28-04:00 | ID: 7839297
+
+#### 🔄 Software Engineer (L3)
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7301401)
+🕐 Updated: 2026-05-18T19:47:42-04:00 | ID: 7301401
+
+#### 🔄 Enterprise Sales Manager, StoreFront Pro
+**Greenhouse** · instacart · Retail Business Development
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7939636)
+🕐 Updated: 2026-05-18T19:45:59-04:00 | ID: 7939636
+
+#### 🔄 Enterprise Sales Manager, Caper
+**Greenhouse** · instacart · Caper
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7863629)
+🕐 Updated: 2026-05-18T19:44:18-04:00 | ID: 7863629
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13740 fetched, 129 updated, 3 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 59 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13829 fetched, 129 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-18 23:43 UTC
 
 ### Greenhouse
