@@ -1,3 +1,817 @@
+## 📅 Run: 2026-05-19 06:01 UTC
+
+### Greenhouse
+
+#### 🔄 AI Outcomes Manager, India
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4686368005)
+🕐 Updated: 2026-05-19T02:00:59-04:00 | ID: 4686368005
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · workato · Sales and Customer Success
+📍 Alabang, Philippines | 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8465418002)
+🕐 Updated: 2026-05-19T01:50:49-04:00 | ID: 8465418002
+
+#### 🔄 Data Scientist, Developer Productivity
+**Greenhouse** · anthropic · Data Science & Analytics
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5197529008)
+🕐 Updated: 2026-05-19T01:42:14-04:00 | ID: 5197529008
+
+#### 🆕 Delivery Solutions Architect - Public Sector
+**Greenhouse** · databricks · Delivery Solutions Architects · 🎯 78%
+📍 Remote - Oregon | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8555913002)
+🕐 Updated: 2026-05-19T01:38:44-04:00 | ID: 8555913002
+
+#### 🆕 Delivery Solutions Architect - Public Sector
+**Greenhouse** · databricks · Delivery Solutions Architects · 🎯 78%
+📍 Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8555912002)
+🕐 Updated: 2026-05-19T01:38:43-04:00 | ID: 8555912002
+
+#### 🔄 Delivery Solutions Architect - Public Sector
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8535384002)
+🕐 Updated: 2026-05-19T01:37:28-04:00 | ID: 8535384002
+
+#### 🔄 Director of Product Management, New Ventures
+**Greenhouse** · toast · R & D : Engineering : Shared
+📍 Bengaluru, Karnataka, India | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7861742)
+🕐 Updated: 2026-05-19T01:27:58-04:00 | ID: 7861742
+
+#### 🔄 Optimization Data Analyst
+**Greenhouse** · adyen · Data Analytics
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7681249)
+🕐 Updated: 2026-05-19T01:14:48-04:00 | ID: 7681249
+
+#### 🔄 Staff Workday Functional Analyst
+**Greenhouse** · okta · BT People Legal and Finance Technology-155
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7653064?gh_jid=7653064)
+🕐 Updated: 2026-05-19T01:13:24-04:00 | ID: 7653064
+
+#### 🔄 Technical Lead, Billing & Revenue Platform
+**Greenhouse** · gleanwork · Engineering
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4656281005)
+🕐 Updated: 2026-05-19T01:07:08-04:00 | ID: 4656281005
+
+#### 🔄 Chief of Staff
+**Greenhouse** · checkr · Office of the CEO
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7913718)
+🕐 Updated: 2026-05-19T00:42:07-04:00 | ID: 7913718
+
+#### 🔄 Sr Accountant, Corporate Accounting
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7438329?gh_jid=7438329)
+🕐 Updated: 2026-05-19T00:37:05-04:00 | ID: 7438329
+
+#### 🔄 Account Executive, Acquisition
+**Greenhouse** · mongodb · Sales Greater China
+📍 Hong Kong | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7154017)
+🕐 Updated: 2026-05-19T00:33:35-04:00 | ID: 7154017
+
+#### 🔄 Senior Commercial Growth Account Executive, Acquisition
+**Greenhouse** · mongodb · Sales Greater China
+📍 Taiwan | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7866330)
+🕐 Updated: 2026-05-19T00:33:35-04:00 | ID: 7866330
+
+#### 🔄 Lead, Startup & Ventures Marketing
+**Greenhouse** · mongodb · Marketing Management
+📍 San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779540)
+🕐 Updated: 2026-05-19T00:33:31-04:00 | ID: 7779540
+
+#### 🔄 Sr. Manager, Venture & Startup Marketing
+**Greenhouse** · mongodb · Marketing Management
+📍 London | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7898811)
+🕐 Updated: 2026-05-19T00:33:31-04:00 | ID: 7898811
+
+#### 🔄 Sr. Startup Program Operations Manager
+**Greenhouse** · mongodb · Ventures - Investing & Corporate Development
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7659981)
+🕐 Updated: 2026-05-19T00:33:31-04:00 | ID: 7659981
+
+#### 🔄 Staff Software Engineer, Query (Optimization)
+**Greenhouse** · mongodb · PTO Query
+📍 Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7646261)
+🕐 Updated: 2026-05-19T00:33:05-04:00 | ID: 7646261
+
+#### 🔄 Staff Software Engineer, Query (Optimization)
+**Greenhouse** · mongodb · PTO Query
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7602834)
+🕐 Updated: 2026-05-19T00:33:05-04:00 | ID: 7602834
+
+#### 🔄 Staff Software Engineer, Backend, Spring
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7587533?gh_jid=7587533)
+🕐 Updated: 2026-05-19T00:24:24-04:00 | ID: 7587533
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · mongodb · PTO App Modernization PM
+📍 India | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7922824)
+🕐 Updated: 2026-05-19T00:00:30-04:00 | ID: 7922824
+
+#### 🔄 Design Engineer, Web
+**Greenhouse** · anthropic · Marketing & Brand
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5223916008)
+🕐 Updated: 2026-05-18T23:20:35-04:00 | ID: 5223916008
+
+#### 🔄 Senior Solutions Architect - SLED Chicago / Indianapolis
+**Greenhouse** · elastic · SA - USPS SLED
+📍 Chicago, IL | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7939711&gh_jid=7939711)
+🕐 Updated: 2026-05-18T23:08:13-04:00 | ID: 7939711
+
+#### 🔄 Enterprise Account Executive - Texas - Expand
+**Greenhouse** · elastic · Sales - AMER West
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7939705&gh_jid=7939705)
+🕐 Updated: 2026-05-18T23:07:54-04:00 | ID: 7939705
+
+#### 🔄 IT Support Technician
+**Greenhouse** · elastic · IT
+📍 Austin, TX | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7922458&gh_jid=7922458)
+🕐 Updated: 2026-05-18T23:07:41-04:00 | ID: 7922458
+
+#### 🔄 Account Executive Public Sector
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 France | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7921460&gh_jid=7921460)
+🕐 Updated: 2026-05-18T23:07:36-04:00 | ID: 7921460
+
+#### 🔄 HR Operations Specialist
+**Greenhouse** · elastic · HR Operations
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7926713&gh_jid=7926713)
+🕐 Updated: 2026-05-18T23:07:31-04:00 | ID: 7926713
+
+#### 🔄 Enterprise Account Executive - Expand - Bay Area
+**Greenhouse** · elastic · Sales - AMER West
+📍 San Francisco, CA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7909307&gh_jid=7909307)
+🕐 Updated: 2026-05-18T23:07:03-04:00 | ID: 7909307
+
+#### 🔄 Enterprise Account Executive - SLED - Pennsylvania, New Jersey
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7909280&gh_jid=7909280)
+🕐 Updated: 2026-05-18T23:06:58-04:00 | ID: 7909280
+
+#### 🔄 Partner Marketing Manager - Strategic Partners
+**Greenhouse** · elastic · Partner Marketing
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7904545&gh_jid=7904545)
+🕐 Updated: 2026-05-18T23:06:54-04:00 | ID: 7904545
+
+#### 🔄 SLED Account Executive - Pacific NW
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7895389&gh_jid=7895389)
+🕐 Updated: 2026-05-18T23:06:49-04:00 | ID: 7895389
+
+#### 🔄 Enterprise Account Executive - SLED - New England
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7895387&gh_jid=7895387)
+🕐 Updated: 2026-05-18T23:06:44-04:00 | ID: 7895387
+
+#### 🔄 Enterprise Account Executive - Sao Paulo
+**Greenhouse** · elastic · Sales - AMER LATAM
+📍 Brazil | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7904455&gh_jid=7904455)
+🕐 Updated: 2026-05-18T23:06:34-04:00 | ID: 7904455
+
+#### 🔄 Mid Market Account Executive (Expand) - TOLA
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7899271&gh_jid=7899271)
+🕐 Updated: 2026-05-18T23:06:29-04:00 | ID: 7899271
+
+#### 🔄 Mid Market Account Executive (Expand) - West
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7899269&gh_jid=7899269)
+🕐 Updated: 2026-05-18T23:06:25-04:00 | ID: 7899269
+
+#### 🔄 Public Sector Account Executive - Minnesota & Iowa
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7895384&gh_jid=7895384)
+🕐 Updated: 2026-05-18T23:06:20-04:00 | ID: 7895384
+
+#### 🔄 Global PR Director, US
+**Greenhouse** · elastic · Communications & Customer Advocacy
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7885940&gh_jid=7885940)
+🕐 Updated: 2026-05-18T23:06:12-04:00 | ID: 7885940
+
+#### 🔄 Program Manager, Strategic Projects
+**Greenhouse** · elastic · Marketing Services
+📍 Costa Rica | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7875644&gh_jid=7875644)
+🕐 Updated: 2026-05-18T23:06:01-04:00 | ID: 7875644
+
+#### 🔄 Director, Sales Strategy & Finance
+**Greenhouse** · elastic · Sales Strategy & Operations
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7874807&gh_jid=7874807)
+🕐 Updated: 2026-05-18T23:05:56-04:00 | ID: 7874807
+
+#### 🔄 Inside Account Executive, Public Sector
+**Greenhouse** · elastic · Sales - APJ - ANZ
+📍 Sydney, Australia | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7862022&gh_jid=7862022)
+🕐 Updated: 2026-05-18T23:05:43-04:00 | ID: 7862022
+
+#### 🔄 Commercial Account Executive - Toronto, Canada
+**Greenhouse** · elastic · Sales - AMER Canada
+📍 Toronto, Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7859023&gh_jid=7859023)
+🕐 Updated: 2026-05-18T23:05:38-04:00 | ID: 7859023
+
+#### 🔄 Administrative Assistant
+**Greenhouse** · elastic · SA - Global
+📍 Costa Rica | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7874804&gh_jid=7874804)
+🕐 Updated: 2026-05-18T23:05:34-04:00 | ID: 7874804
+
+#### 🔄 Regional Vice President
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7874677&gh_jid=7874677)
+🕐 Updated: 2026-05-18T23:05:29-04:00 | ID: 7874677
+
+#### 🔄 Public Sector Account Executive
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 London, United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7865012&gh_jid=7865012)
+🕐 Updated: 2026-05-18T23:05:20-04:00 | ID: 7865012
+
+#### 🔄 Senior Developer Advocate
+**Greenhouse** · elastic · Community - Eng
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7190138&gh_jid=7190138)
+🕐 Updated: 2026-05-18T23:05:16-04:00 | ID: 7190138
+
+#### 🔄 Enterprise Account Executive - Vancouver, Canada
+**Greenhouse** · elastic · Sales - AMER Canada
+📍 Vancouver, Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7863815&gh_jid=7863815)
+🕐 Updated: 2026-05-18T23:05:15-04:00 | ID: 7863815
+
+#### 🔄 Enterprise Account Executive - Expand - Texas
+**Greenhouse** · elastic · Sales - AMER West
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7863806&gh_jid=7863806)
+🕐 Updated: 2026-05-18T23:05:10-04:00 | ID: 7863806
+
+#### 🔄 Senior Customer Architect (West)
+**Greenhouse** · elastic · Customer Architects - AMER
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7859326&gh_jid=7859326)
+🕐 Updated: 2026-05-18T23:05:05-04:00 | ID: 7859326
+
+#### 🔄 Travel Specialist
+**Greenhouse** · elastic · Strategic Sourcing
+📍 Bangalore, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7837575&gh_jid=7837575)
+🕐 Updated: 2026-05-18T23:04:37-04:00 | ID: 7837575
+
+#### 🔄 Account Executive - Public Sector
+**Greenhouse** · elastic · Sales - APJ - Japan
+📍 Delhi, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7831596&gh_jid=7831596)
+🕐 Updated: 2026-05-18T23:04:20-04:00 | ID: 7831596
+
+#### 🔄 Principal Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7903238&gh_jid=7903238)
+🕐 Updated: 2026-05-18T23:04:10-04:00 | ID: 7903238
+
+#### 🔄 Principal Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7843348&gh_jid=7843348)
+🕐 Updated: 2026-05-18T23:04:10-04:00 | ID: 7843348
+
+#### 🔄 Principal Product Marketing Manager - Observability
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7905731&gh_jid=7905731)
+🕐 Updated: 2026-05-18T23:03:56-04:00 | ID: 7905731
+
+#### 🔄 Principal Product Marketing Manager - Observability
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7843346&gh_jid=7843346)
+🕐 Updated: 2026-05-18T23:03:56-04:00 | ID: 7843346
+
+#### 🔄 Principal Software Engineer (Networking) - Platform
+**Greenhouse** · elastic · Platform - Control Plane
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7843340&gh_jid=7843340)
+🕐 Updated: 2026-05-18T23:03:51-04:00 | ID: 7843340
+
+#### 🔄 Senior Solutions Architect - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 New York City, NY | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7833918&gh_jid=7833918)
+🕐 Updated: 2026-05-18T23:03:47-04:00 | ID: 7833918
+
+#### 🔄 Principal Analytics Engineer
+**Greenhouse** · elastic · Marketing Operations
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7851240&gh_jid=7851240)
+🕐 Updated: 2026-05-18T23:03:37-04:00 | ID: 7851240
+
+#### 🔄 Principal Analytics Engineer
+**Greenhouse** · elastic · Marketing Operations
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7830298&gh_jid=7830298)
+🕐 Updated: 2026-05-18T23:03:37-04:00 | ID: 7830298
+
+#### 🔄 Senior Solution Architect
+**Greenhouse** · elastic · SA - EMEA - North
+📍 Denmark | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7817941&gh_jid=7817941)
+🕐 Updated: 2026-05-18T23:03:26-04:00 | ID: 7817941
+
+#### 🔄 Inside Account Executive IBERIA
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7817934&gh_jid=7817934)
+🕐 Updated: 2026-05-18T23:03:21-04:00 | ID: 7817934
+
+#### 🔄 Senior Solution Architect, Thailand
+**Greenhouse** · elastic · SA - APJ - ASEAN
+📍 Singapore | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7817931&gh_jid=7817931)
+🕐 Updated: 2026-05-18T23:03:16-04:00 | ID: 7817931
+
+#### 🔄 Solution Architect
+**Greenhouse** · elastic · SA - EMEA - North
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7811852&gh_jid=7811852)
+🕐 Updated: 2026-05-18T23:03:10-04:00 | ID: 7811852
+
+#### 🔄 Sales Strategy & Finance Analyst
+**Greenhouse** · elastic · Accounting
+📍 Bangalore, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7826343&gh_jid=7826343)
+🕐 Updated: 2026-05-18T23:03:06-04:00 | ID: 7826343
+
+#### 🔄 Enterprise Account Executive (FSI) - Mumbai
+**Greenhouse** · elastic · Sales - APJ - India
+📍 Mumbai, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7821378&gh_jid=7821378)
+🕐 Updated: 2026-05-18T23:03:01-04:00 | ID: 7821378
+
+#### 🔄 Federal Account Executive -  Dept of Commerce
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7812397&gh_jid=7812397)
+🕐 Updated: 2026-05-18T23:02:54-04:00 | ID: 7812397
+
+#### 🔄 Senior Solution Architect - Public Sector
+**Greenhouse** · elastic · SA - EMEA - North
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7811848&gh_jid=7811848)
+🕐 Updated: 2026-05-18T23:02:49-04:00 | ID: 7811848
+
+#### 🔄 Software Engineer II - Web Engineering
+**Greenhouse** · elastic · Web and Localization
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7808997&gh_jid=7808997)
+🕐 Updated: 2026-05-18T23:02:45-04:00 | ID: 7808997
+
+#### 🔄 Sr. Analyst, PubSec Revenue Strategy & Operations
+**Greenhouse** · elastic · Sales Strategy & Operations
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798174&gh_jid=7798174)
+🕐 Updated: 2026-05-18T23:02:34-04:00 | ID: 7798174
+
+#### 🔄 Inside Account Executive - Switzerland (German speaking)
+**Greenhouse** · elastic · Sales - EMEA - Central
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7797801&gh_jid=7797801)
+🕐 Updated: 2026-05-18T23:02:29-04:00 | ID: 7797801
+
+#### 🔄 RVP - Pursuit - North Central/Texas
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Illinois, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7826362&gh_jid=7826362)
+🕐 Updated: 2026-05-18T23:02:25-04:00 | ID: 7826362
+
+#### 🔄 RVP - Pursuit - North Central/Texas
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7797656&gh_jid=7797656)
+🕐 Updated: 2026-05-18T23:02:25-04:00 | ID: 7797656
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - ANZ
+📍 New Zealand | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7784963&gh_jid=7784963)
+🕐 Updated: 2026-05-18T23:02:11-04:00 | ID: 7784963
+
+#### 🔄 Senior Developer Advocate
+**Greenhouse** · elastic · Community - Eng
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7445210&gh_jid=7445210)
+🕐 Updated: 2026-05-18T23:02:04-04:00 | ID: 7445210
+
+#### 🔄 Customer Architect - EMEA Central
+**Greenhouse** · elastic · Customer Architects - EMEA
+📍 Germany | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798319&gh_jid=7798319)
+🕐 Updated: 2026-05-18T23:02:00-04:00 | ID: 7798319
+
+#### 🔄 Federal Account Executive - Dept of Homeland Security
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7793993&gh_jid=7793993)
+🕐 Updated: 2026-05-18T23:01:46-04:00 | ID: 7793993
+
+#### 🔄 Tax Manager
+**Greenhouse** · elastic · Accounting
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7789289&gh_jid=7789289)
+🕐 Updated: 2026-05-18T23:01:41-04:00 | ID: 7789289
+
+#### 🔄 Senior Solutions Architect, Pursuit (Presales)
+**Greenhouse** · elastic · SA - AMER - Mgmt and Support
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798051&gh_jid=7798051)
+🕐 Updated: 2026-05-18T23:01:36-04:00 | ID: 7798051
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - India
+📍 Delhi, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798049&gh_jid=7798049)
+🕐 Updated: 2026-05-18T23:01:32-04:00 | ID: 7798049
+
+#### 🔄 Senior Manager, Solutions Architecture (Pre-Sales)
+**Greenhouse** · elastic · SA - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7798047&gh_jid=7798047)
+🕐 Updated: 2026-05-18T23:01:06-04:00 | ID: 7798047
+
+#### 🔄 Strategic Account Executive - Central/East
+**Greenhouse** · elastic · Sales - AMER Strat
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7797654&gh_jid=7797654)
+🕐 Updated: 2026-05-18T23:00:56-04:00 | ID: 7797654
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · elastic · SA - EMEA - North
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7784246&gh_jid=7784246)
+🕐 Updated: 2026-05-18T23:00:51-04:00 | ID: 7784246
+
+#### 🔄 Senior Product Marketing Manager - Portfolio
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7781718&gh_jid=7781718)
+🕐 Updated: 2026-05-18T23:00:46-04:00 | ID: 7781718
+
+#### 🔄 Director, Customer Engineering
+**Greenhouse** · elastic · Customer Architects - AMER Mgmt
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769905&gh_jid=7769905)
+🕐 Updated: 2026-05-18T23:00:37-04:00 | ID: 7769905
+
+#### 🔄 Federal Account Executive - UN, World Bank, NARA
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769649&gh_jid=7769649)
+🕐 Updated: 2026-05-18T23:00:18-04:00 | ID: 7769649
+
+#### 🔄 Marketing Program Manager, France
+**Greenhouse** · elastic · Regional Marketing - EMEA
+📍 Paris, France | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7772907&gh_jid=7772907)
+🕐 Updated: 2026-05-18T23:00:08-04:00 | ID: 7772907
+
+#### 🔄 Mid Market Account Executive - Expand - North Central
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7776121&gh_jid=7776121)
+🕐 Updated: 2026-05-18T23:00:04-04:00 | ID: 7776121
+
+#### 🔄 FedCiv Account Executive - Dept of Treasury
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7802531&gh_jid=7802531)
+🕐 Updated: 2026-05-18T22:59:59-04:00 | ID: 7802531
+
+#### 🔄 Renewal Manager IC (French speaker)
+**Greenhouse** · elastic · Renewals - EMEA
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7768018&gh_jid=7768018)
+🕐 Updated: 2026-05-18T22:59:49-04:00 | ID: 7768018
+
+#### 🔄 Sales Enablement Instructional Designer
+**Greenhouse** · elastic · Sales Enablement
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7766100&gh_jid=7766100)
+🕐 Updated: 2026-05-18T22:59:41-04:00 | ID: 7766100
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Belgium | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764820&gh_jid=7764820)
+🕐 Updated: 2026-05-18T22:59:29-04:00 | ID: 7764820
+
+#### 🔄 Inside Account Executive - CEE (Czech, Hungarian  or Bulgarian speaker)
+**Greenhouse** · elastic · Sales - EMEA - Emerging
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764796&gh_jid=7764796)
+🕐 Updated: 2026-05-18T22:59:25-04:00 | ID: 7764796
+
+#### 🔄 Account Executive Public Sector
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Belgium | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7768040&gh_jid=7768040)
+🕐 Updated: 2026-05-18T22:59:20-04:00 | ID: 7768040
+
+#### 🔄 Account Executive Public Sector
+**Greenhouse** · elastic · Sales - EMEA - Central
+📍 Germany | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764800&gh_jid=7764800)
+🕐 Updated: 2026-05-18T22:59:10-04:00 | ID: 7764800
+
+#### 🔄 Enterprise Account Executive, Taiwan
+**Greenhouse** · elastic · Sales - APJ - ASEAN
+📍 Hong Kong | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764794&gh_jid=7764794)
+🕐 Updated: 2026-05-18T22:59:05-04:00 | ID: 7764794
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - EMEA - Emerging
+📍 South Africa | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7766695&gh_jid=7766695)
+🕐 Updated: 2026-05-18T22:59:00-04:00 | ID: 7766695
+
+#### 🔄 Mid Market Account Executive (Expansion)
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764834&gh_jid=7764834)
+🕐 Updated: 2026-05-18T22:58:50-04:00 | ID: 7764834
+
+#### 🔄 Senior Account Executive – Defence & Public Safety (Nordics)
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Sweden | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764810&gh_jid=7764810)
+🕐 Updated: 2026-05-18T22:58:46-04:00 | ID: 7764810
+
+#### 🔄 Federal Account Executive - NIH / CDC
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769639&gh_jid=7769639)
+🕐 Updated: 2026-05-18T22:58:41-04:00 | ID: 7769639
+
+#### 🔄 Snr Account Executive - Security
+**Greenhouse** · elastic · Sales - EMEA - Security Specialists
+📍 France | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769441&gh_jid=7769441)
+🕐 Updated: 2026-05-18T22:58:37-04:00 | ID: 7769441
+
+#### 🔄 Commercial / Mid Market Account Executive
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764822&gh_jid=7764822)
+🕐 Updated: 2026-05-18T22:58:27-04:00 | ID: 7764822
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - ASEAN
+📍 Singapore | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764790&gh_jid=7764790)
+🕐 Updated: 2026-05-18T22:58:22-04:00 | ID: 7764790
+
+#### 🔄 Inside Account Executive
+**Greenhouse** · elastic · Sales - APJ - Management and Support
+📍 Sydney, Australia | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7764788&gh_jid=7764788)
+🕐 Updated: 2026-05-18T22:58:17-04:00 | ID: 7764788
+
+#### 🔄 Principal Product Marketing Manager - Platform
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7742834&gh_jid=7742834)
+🕐 Updated: 2026-05-18T22:58:05-04:00 | ID: 7742834
+
+#### 🔄 Senior Solutions Architect - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 Massachusetts, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7747631&gh_jid=7747631)
+🕐 Updated: 2026-05-18T22:58:00-04:00 | ID: 7747631
+
+#### 🔄 Senior Solutions Architect - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 New York, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7747112&gh_jid=7747112)
+🕐 Updated: 2026-05-18T22:58:00-04:00 | ID: 7747112
+
+#### 🔄 Sr Recruiter, Field APJ
+**Greenhouse** · elastic · Recruiters
+📍 Japan | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7750025&gh_jid=7750025)
+🕐 Updated: 2026-05-18T22:57:41-04:00 | ID: 7750025
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - APJ - India
+📍 Bangalore, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7725670&gh_jid=7725670)
+🕐 Updated: 2026-05-18T22:57:22-04:00 | ID: 7725670
+
+#### 🔄 Sr. AI Engineer, Application Engineering
+**Greenhouse** · elastic · IT
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7722032&gh_jid=7722032)
+🕐 Updated: 2026-05-18T22:57:17-04:00 | ID: 7722032
+
+#### 🔄 Account Executive - Pursuit
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Austin, TX | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727801&gh_jid=7727801)
+🕐 Updated: 2026-05-18T22:57:09-04:00 | ID: 7727801
+
+#### 🔄 Enterprise Account Executive - Houston - Pursuit
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727756&gh_jid=7727756)
+🕐 Updated: 2026-05-18T22:57:04-04:00 | ID: 7727756
+
+#### 🔄 Sr. Director - Government Affairs
+**Greenhouse** · elastic · Legal - Corporate
+📍 Washington, DC, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7729035&gh_jid=7729035)
+🕐 Updated: 2026-05-18T22:56:50-04:00 | ID: 7729035
+
+#### 🔄 Account Executive - Pursuit, East
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7728984&gh_jid=7728984)
+🕐 Updated: 2026-05-18T22:56:35-04:00 | ID: 7728984
+
+#### 🔄 Account Executive - Pursuit, East
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 New York City, NY | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727799&gh_jid=7727799)
+🕐 Updated: 2026-05-18T22:56:35-04:00 | ID: 7727799
+
+#### 🔄 Enterprise Account Executive - Pursuit - Bay Area
+**Greenhouse** · elastic · Sales - AMER - Management and Support
+📍 San Francisco, CA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727748&gh_jid=7727748)
+🕐 Updated: 2026-05-18T22:56:30-04:00 | ID: 7727748
+
+#### 🔄 Customer Architect
+**Greenhouse** · elastic · Customer Architects - EMEA
+📍 Israel | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7725620&gh_jid=7725620)
+🕐 Updated: 2026-05-18T22:56:20-04:00 | ID: 7725620
+
+#### 🔄 Public Sector Account Executive (Central Government)
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7728182&gh_jid=7728182)
+🕐 Updated: 2026-05-18T22:56:15-04:00 | ID: 7728182
+
+#### 🔄 Enterprise Account Executive - North Central
+**Greenhouse** · elastic · Sales - AMER East
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727949&gh_jid=7727949)
+🕐 Updated: 2026-05-18T22:56:10-04:00 | ID: 7727949
+
+#### 🔄 Enterprise Account Executive (Expand) - Southeast
+**Greenhouse** · elastic · Sales - AMER East
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7727947&gh_jid=7727947)
+🕐 Updated: 2026-05-18T22:56:05-04:00 | ID: 7727947
+
+#### 🔄 Solutions Architect - Nashville - SLED
+**Greenhouse** · elastic · SA - USPS SLED
+📍 Tennessee, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7699566&gh_jid=7699566)
+🕐 Updated: 2026-05-18T22:55:34-04:00 | ID: 7699566
+
+#### 🔄 Sr. Director, IT - AI Innovation and Services
+**Greenhouse** · elastic · IT
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7674976&gh_jid=7674976)
+🕐 Updated: 2026-05-18T22:55:15-04:00 | ID: 7674976
+
+#### 🔄 Senior Software Engineer - Docs Engineering - Documentation
+**Greenhouse** · elastic · Docs
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7893106&gh_jid=7893106)
+🕐 Updated: 2026-05-18T22:54:50-04:00 | ID: 7893106
+
+#### 🔄 Sr. Solutions Architect - Expand West (Presales)
+**Greenhouse** · elastic · SA - AMER - Enterprise West
+📍 California, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7663327&gh_jid=7663327)
+🕐 Updated: 2026-05-18T22:54:27-04:00 | ID: 7663327
+
+#### 🔄 Senior Solutions Architect - Public Sector
+**Greenhouse** · elastic · SA - EMEA - North
+📍 Belgium | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7635520&gh_jid=7635520)
+🕐 Updated: 2026-05-18T22:54:18-04:00 | ID: 7635520
+
+#### 🔄 Regional Services Partner Delivery Manager - Public Sector
+**Greenhouse** · elastic · Consulting - EMEA
+📍 Germany | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7635063&gh_jid=7635063)
+🕐 Updated: 2026-05-18T22:54:12-04:00 | ID: 7635063
+
+#### 🔄 Principal Solutions Architect, Security
+**Greenhouse** · elastic · SA - APJ - Management and Support
+📍 Delhi, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743)
+🕐 Updated: 2026-05-18T22:54:05-04:00 | ID: 7621743
+
+#### 🔄 Principal Product Manager AI-driven, Observability
+**Greenhouse** · elastic · Obs - Actionable Observability
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7624142&gh_jid=7624142)
+🕐 Updated: 2026-05-18T22:54:00-04:00 | ID: 7624142
+
+#### 🔄 Senior Field Marketing Manager
+**Greenhouse** · newrelic · Corporate Marketing
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5213974008)
+🕐 Updated: 2026-05-18T22:53:55-04:00 | ID: 5213974008
+
+#### 🔄 Elastic AI Engineer
+**Greenhouse** · elastic · IT
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7607148&gh_jid=7607148)
+🕐 Updated: 2026-05-18T22:53:50-04:00 | ID: 7607148
+
+#### 🔄 Elastic AI Engineer
+**Greenhouse** · elastic · IT
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7858138&gh_jid=7858138)
+🕐 Updated: 2026-05-18T22:53:50-04:00 | ID: 7858138
+
+#### 🔄 Deal Desk Analyst (EMEA)
+**Greenhouse** · elastic · Deal Desk
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7607146&gh_jid=7607146)
+🕐 Updated: 2026-05-18T22:53:34-04:00 | ID: 7607146
+
+#### 🔄 Senior Value Engineer
+**Greenhouse** · elastic · SA - AMER - Value Engineer
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7599935&gh_jid=7599935)
+🕐 Updated: 2026-05-18T22:53:30-04:00 | ID: 7599935
+
+#### 🔄 Security Sales Executive
+**Greenhouse** · elastic · Sales - AMER - Security Specialists
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7585897&gh_jid=7585897)
+🕐 Updated: 2026-05-18T22:53:18-04:00 | ID: 7585897
+
+#### 🔄 Principal Competitive Intelligence - Search - Product Marketing
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7620323&gh_jid=7620323)
+🕐 Updated: 2026-05-18T22:53:09-04:00 | ID: 7620323
+
+#### 🔄 Principal Competitive Intelligence - Search - Product Marketing
+**Greenhouse** · elastic · Product Marketing - Eng
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7590696&gh_jid=7590696)
+🕐 Updated: 2026-05-18T22:53:09-04:00 | ID: 7590696
+
+#### 🔄 Senior Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7573961&gh_jid=7573961)
+🕐 Updated: 2026-05-18T22:52:56-04:00 | ID: 7573961
+
+#### 🔄 Senior Software Engineer - Vector Search - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7699075&gh_jid=7699075)
+🕐 Updated: 2026-05-18T22:52:56-04:00 | ID: 7699075
+
+#### 🔄 Federal Account Executive - VA (The Department of Veterans Affairs)
+**Greenhouse** · elastic · Sales - USPS CIV
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7564316&gh_jid=7564316)
+🕐 Updated: 2026-05-18T22:52:44-04:00 | ID: 7564316
+
+#### 🔄 Partner Marketing Programs Specialist
+**Greenhouse** · elastic · Partner Marketing
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7558778&gh_jid=7558778)
+🕐 Updated: 2026-05-18T22:52:20-04:00 | ID: 7558778
+
+#### 🔄 Enterprise Account Executive - Bay Area
+**Greenhouse** · elastic · Sales - AMER West
+📍 San Francisco, CA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7554566&gh_jid=7554566)
+🕐 Updated: 2026-05-18T22:52:11-04:00 | ID: 7554566
+
+#### 🔄 SLED AE - State of California
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 California, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7540062&gh_jid=7540062)
+🕐 Updated: 2026-05-18T22:52:05-04:00 | ID: 7540062
+
+#### 🔄 Account Executive - MSSP
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7525643&gh_jid=7525643)
+🕐 Updated: 2026-05-18T22:51:46-04:00 | ID: 7525643
+
+#### 🔄 Solutions Architect
+**Greenhouse** · elastic · SA - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7525999&gh_jid=7525999)
+🕐 Updated: 2026-05-18T22:51:36-04:00 | ID: 7525999
+
+#### 🔄 Account Executive
+**Greenhouse** · elastic · Sales - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7505982&gh_jid=7505982)
+🕐 Updated: 2026-05-18T22:51:24-04:00 | ID: 7505982
+
+#### 🔄 Consulting Architect, Public Sector - Netherlands
+**Greenhouse** · elastic · Consulting - EMEA
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7472744&gh_jid=7472744)
+🕐 Updated: 2026-05-18T22:51:15-04:00 | ID: 7472744
+
+#### 🔄 Enterprise Account Executive - Digital Natives
+**Greenhouse** · elastic · Sales - APJ - Korea
+📍 Seoul, South Korea | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7457910&gh_jid=7457910)
+🕐 Updated: 2026-05-18T22:51:10-04:00 | ID: 7457910
+
+#### 🔄 Elastic Consultant - Public Sector
+**Greenhouse** · elastic · Consulting - EMEA
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7451737&gh_jid=7451737)
+🕐 Updated: 2026-05-18T22:50:54-04:00 | ID: 7451737
+
+#### 🔄 Inside Account Executive
+**Greenhouse** · elastic · Sales - USPS SLED
+📍 Arlington, VA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7421709&gh_jid=7421709)
+🕐 Updated: 2026-05-18T22:50:39-04:00 | ID: 7421709
+
+#### 🔄 Sales Enablement Specialist (Trainer)
+**Greenhouse** · elastic · Sales Enablement
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7386148&gh_jid=7386148)
+🕐 Updated: 2026-05-18T22:50:11-04:00 | ID: 7386148
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · elastic · SA - EMEA - UKI
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982)
+🕐 Updated: 2026-05-18T22:49:39-04:00 | ID: 7349982
+
+#### 🔄 Regional Vice President - Mid Market
+**Greenhouse** · elastic · Sales - APJ - Japan
+📍 Tokyo, Japan | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7343380&gh_jid=7343380)
+🕐 Updated: 2026-05-18T22:49:19-04:00 | ID: 7343380
+
+#### 🔄 Senior Developer Advocate (Video Content Creator)
+**Greenhouse** · elastic · Community - Eng
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130)
+🕐 Updated: 2026-05-18T22:48:18-04:00 | ID: 7190130
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · elastic · Sales - EMEA - Emerging
+📍 Saudi Arabia | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7061643&gh_jid=7061643)
+🕐 Updated: 2026-05-18T22:47:46-04:00 | ID: 7061643
+
+#### 🔄 Principal Software Engineer - Search Scaling - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 London, United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7051986&gh_jid=7051986)
+🕐 Updated: 2026-05-18T22:47:40-04:00 | ID: 7051986
+
+#### 🔄 Senior Solutions Architect, Expand Southeast (Presales)
+**Greenhouse** · elastic · SA - AMER - Strategic
+📍 Florida, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7031770&gh_jid=7031770)
+🕐 Updated: 2026-05-18T22:47:36-04:00 | ID: 7031770
+
+#### 🔄 People Partner
+**Greenhouse** · verkada · People
+📍 New York City, NY United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5108024007)
+🕐 Updated: 2026-05-18T22:38:03-04:00 | ID: 5108024007
+
+#### 🔄 People Partner
+**Greenhouse** · verkada · People
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4997650007)
+🕐 Updated: 2026-05-18T22:38:03-04:00 | ID: 4997650007
+
+#### 🔄 Director, Revenue Accounting
+**Greenhouse** · coreweave · Finance
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4668766006&board=coreweave&gh_jid=4668766006)
+🕐 Updated: 2026-05-18T22:33:13-04:00 | ID: 4668766006
+
+#### 🔄 Security Enterprise Account Executive
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Denmark | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=6666023&gh_jid=6666023)
+🕐 Updated: 2026-05-18T22:28:37-04:00 | ID: 6666023
+
+#### 🔄 Associate Customer Onboarding Manager
+**Greenhouse** · justworks · Customer Success
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7913257?gh_jid=7913257)
+🕐 Updated: 2026-05-18T22:23:56-04:00 | ID: 7913257
+
+#### 🔄 Pricing Manager
+**Greenhouse** · newrelic · G&A, Executive
+📍 Atlanta, Georgia, USA; Dallas, Texas, USA; Portland, Oregon, USA; San Francisco, California, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5189793008)
+🕐 Updated: 2026-05-18T22:08:17-04:00 | ID: 5189793008
+
+## ATS Summary
+- **Greenhouse**: 2 new, 13726 fetched, 158 updated, 8 cap-skipped, 2 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 59 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 13815 fetched, 158 updated, 8 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-19 01:48 UTC
 
 ### Greenhouse
