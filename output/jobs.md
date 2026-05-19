@@ -1,3 +1,237 @@
+## 📅 Run: 2026-05-19 23:57 UTC
+
+### Greenhouse
+
+#### 🆕 Manager, Critical Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Maint. & Facilities · 🎯 35%
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8557277002?gh_jid=8557277002)
+🕐 Updated: 2026-05-19T19:57:43-04:00 | ID: 8557277002
+
+#### 🔄 Solutions Architect - Public Sector (LEAPS)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320126002)
+🕐 Updated: 2026-05-19T19:57:30-04:00 | ID: 8320126002
+
+#### 🔄 Forward Deployment Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8373538002)
+🕐 Updated: 2026-05-19T19:57:25-04:00 | ID: 8373538002
+
+#### 🔄 Associate, Customer Support
+**Greenhouse** · gemini · Customer Support
+📍 Tempe, Arizona | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7712118&gh_jid=7712118)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7712118
+
+#### 🔄 Associate, Treasury Operations
+**Greenhouse** · gemini · Treasury
+📍 Remote (USA) | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7889231&gh_jid=7889231)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7889231
+
+#### 🔄 Director, Treasury
+**Greenhouse** · gemini · Treasury
+📍 Remote (USA) | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7811956&gh_jid=7811956)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7811956
+
+#### 🔄 Head of Compliance, Gemini Galactic Markets, LLC
+**Greenhouse** · gemini · Compliance
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7905022&gh_jid=7905022)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7905022
+
+#### 🔄 Lead Product Manager
+**Greenhouse** · gemini · Engineering
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768460&gh_jid=7768460)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7768460
+
+#### 🔄 Manager, Enterprise Risk (Analytics)
+**Greenhouse** · gemini · Risk
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7749232&gh_jid=7749232)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7749232
+
+#### 🔄 Office Services Intern (Summer 2026)
+**Greenhouse** · gemini · Real Estate Office Services and Corporate Security
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7921816&gh_jid=7921816)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7921816
+
+#### 🔄 Principal Data Engineer
+**Greenhouse** · gemini · Data
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7350506&gh_jid=7350506)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7350506
+
+#### 🔄 Product Design Intern (Summer 2026)
+**Greenhouse** · gemini · Design
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7360329&gh_jid=7360329)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7360329
+
+#### 🔄 Senior Application Security Engineer
+**Greenhouse** · gemini · Application Security
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7833599&gh_jid=7833599)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7833599
+
+#### 🔄 Senior Fraud Strategist
+**Greenhouse** · gemini · Fraud
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7905301&gh_jid=7905301)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7905301
+
+#### 🔄 Senior Ledger Operations Engineer
+**Greenhouse** · gemini · Trading Systems
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7743191&gh_jid=7743191)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7743191
+
+#### 🔄 Senior Platform Security Engineer
+**Greenhouse** · gemini · Platform Security
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7905052&gh_jid=7905052)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7905052
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · gemini · Design
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7811967&gh_jid=7811967)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7811967
+
+#### 🔄 Senior Product Manager
+**Greenhouse** · gemini · Trading Systems
+📍 Singapore, Singapore | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7818279&gh_jid=7818279)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7818279
+
+#### 🔄 Senior Software Engineering Manager, Credit Card
+**Greenhouse** · gemini · Credit Card
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7762866&gh_jid=7762866)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7762866
+
+#### 🔄 Senior Software Engineer, Predictions (Mobile)
+**Greenhouse** · gemini · Predictions
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7846814&gh_jid=7846814)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7846814
+
+#### 🔄 Senior Software Engineer, Risk Engineering
+**Greenhouse** · gemini · Risk Engineering
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768456&gh_jid=7768456)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7768456
+
+#### 🔄 Senior Software Engineer, Trading Systems (Full Stack)
+**Greenhouse** · gemini · Trading Systems
+📍 Singapore, Singapore | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7746467&gh_jid=7746467)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7746467
+
+#### 🔄 Software Engineering Intern (Fall 2026)
+**Greenhouse** · gemini · Internships
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7875125
+
+#### 🔄 Software Engineering Manager, Risk Engineering
+**Greenhouse** · gemini · Risk Engineering
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768446&gh_jid=7768446)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7768446
+
+#### 🔄 Staff Data Engineer
+**Greenhouse** · gemini · Data
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7651740&gh_jid=7651740)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7651740
+
+#### 🔄 Staff Platform Security Engineer
+**Greenhouse** · gemini · Platform Security
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7905050&gh_jid=7905050)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7905050
+
+#### 🔄 Staff Security Engineer, Threat Detection & Response
+**Greenhouse** · gemini · Threat Detection & Response
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7746479&gh_jid=7746479)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7746479
+
+#### 🔄 Staff Software Engineer, Trading Systems (Frontend)
+**Greenhouse** · gemini · Trading Systems
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7647319&gh_jid=7647319)
+🕐 Updated: 2026-05-19T19:46:20-04:00 | ID: 7647319
+
+#### 🔄 Product Manager, Growth
+**Greenhouse** · doximity · Product
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/7890269)
+🕐 Updated: 2026-05-19T19:38:09-04:00 | ID: 7890269
+
+#### 🔄 Product Manager
+**Greenhouse** · doximity · Product
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/7890287)
+🕐 Updated: 2026-05-19T19:37:41-04:00 | ID: 7890287
+
+#### 🆕 Ground Network Specialist (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering · 🎯 35%
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8555569002?gh_jid=8555569002)
+🕐 Updated: 2026-05-19T19:35:22-04:00 | ID: 8555569002
+
+#### 🔄 Director of Engineering, Security Governance
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8195921002)
+🕐 Updated: 2026-05-19T19:34:49-04:00 | ID: 8195921002
+
+#### 🔄 Principal Engineer, Software Supply Chain Security
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8373553002)
+🕐 Updated: 2026-05-19T19:32:31-04:00 | ID: 8373553002
+
+#### 🔄 Senior Manager, Commercial Partnerships, APAC (Channel & Alliances)
+**Greenhouse** · klaviyo · Sales
+📍 Sydney, AU | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7524215003)
+🕐 Updated: 2026-05-19T19:30:48-04:00 | ID: 7524215003
+
+#### 🔄 Gestionnaire, Soutien à la sécurité
+**Greenhouse** · airbnb · Community Support
+📍 Canada | 🔗 [Apply Here](https://careers.airbnb.com/positions/7874554?gh_jid=7874554)
+🕐 Updated: 2026-05-19T19:30:29-04:00 | ID: 7874554
+
+#### 🔄 Manager, Safety Support
+**Greenhouse** · airbnb · Community Support
+📍 Canada | 🔗 [Apply Here](https://careers.airbnb.com/positions/7874555?gh_jid=7874555)
+🕐 Updated: 2026-05-19T19:28:17-04:00 | ID: 7874555
+
+#### 🔄 Solutions Architect, Platforms Velocity
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 Chicago, IL or New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7396509)
+🕐 Updated: 2026-05-19T19:23:42-04:00 | ID: 7396509
+
+#### 🔄 Software Engineer - Platform
+**Greenhouse** · planetscale · Engineering
+📍 San Francisco Bay Area or Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/planetscale/jobs/4036240009)
+🕐 Updated: 2026-05-19T19:18:29-04:00 | ID: 4036240009
+
+#### 🔄 Partner Account Executive
+**Greenhouse** · gusto · Sales
+📍 San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote  Chicago, IL - Remote; Atlanta, GA - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7826328)
+🕐 Updated: 2026-05-19T19:13:47-04:00 | ID: 7826328
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-19T19:02:18-04:00 | ID: 7266220
+
+#### 🔄 Staff Software Engineer, .NET
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7595638?gh_jid=7595638)
+🕐 Updated: 2026-05-19T19:01:46-04:00 | ID: 7595638
+
+#### 🔄 Treasury and Reserve Management, Lead
+**Greenhouse** · stripe · 8506 Bridge - S&O
+📍 San Francisco Or New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7587393)
+🕐 Updated: 2026-05-19T18:59:15-04:00 | ID: 7587393
+
+#### 🔄 Injection Molding Technician
+**Greenhouse** · spacex · Starlink Production Bastrop - IMM & Stamping
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8557491002?gh_jid=8557491002)
+🕐 Updated: 2026-05-19T18:56:27-04:00 | ID: 8557491002
+
+#### 🔄 Mechanical Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8540372002?gh_jid=8540372002)
+🕐 Updated: 2026-05-19T18:49:24-04:00 | ID: 8540372002
+
+## ATS Summary
+- **Greenhouse**: 2 new, 13684 fetched, 42 updated, 17 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 58 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 13771 fetched, 42 updated, 17 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-19 22:49 UTC
 
 ### Greenhouse
