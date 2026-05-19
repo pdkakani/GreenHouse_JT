@@ -96,7 +96,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:6630469": {
-    "updated_at": "2026-04-21T15:53:17-04:00",
+    "updated_at": "2026-05-19T17:45:55-04:00",
     "title": "Business Development Representative (BDR), LATAM (Brazil/Portuguese)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -11664,7 +11664,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5151069008": {
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-05-19T18:30:52-04:00",
     "title": "Staff+ Software Engineer, Databases",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -16912,7 +16912,7 @@
     "alerted": true
   },
   "greenhouse:gemini:7743191": {
-    "updated_at": "2026-05-19T11:11:22-04:00",
+    "updated_at": "2026-05-19T18:11:03-04:00",
     "title": "Senior Ledger Operations Engineer",
     "company": "gemini",
     "ats": "greenhouse",
@@ -33880,16 +33880,16 @@
     "alerted": false
   },
   "greenhouse:waymo:7456161": {
-    "updated_at": "2026-05-14T23:12:56-04:00",
-    "title": "Software Quality Ops Scenarios Specialist",
+    "updated_at": "2026-05-19T18:19:07-04:00",
+    "title": "Software Quality Ops Scenarios Specialist (RelSim)",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
     "alerted": false
   },
   "greenhouse:waymo:7456195": {
-    "updated_at": "2026-05-14T23:12:56-04:00",
-    "title": "Software Quality Ops Scenarios Specialist",
+    "updated_at": "2026-05-19T18:17:06-04:00",
+    "title": "Software Quality Ops Scenarios Specialist (DiscSim)",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -39120,7 +39120,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8358350002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-05-19T18:23:16-04:00",
     "title": "Principal Design Verification Engineer (Silicon Engineering)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -46248,7 +46248,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7809397": {
-    "updated_at": "2026-05-19T17:24:28-04:00",
+    "updated_at": "2026-05-19T17:46:33-04:00",
     "title": "Risk Strategist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -49224,7 +49224,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:7618804": {
-    "updated_at": "2026-05-18T00:18:29-04:00",
+    "updated_at": "2026-05-19T17:51:07-04:00",
     "title": "Quality of Service Specialist",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -49640,7 +49640,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7731917": {
-    "updated_at": "2026-05-19T08:45:03-04:00",
+    "updated_at": "2026-05-19T18:26:51-04:00",
     "title": "FP&A Manager",
     "company": "reddit",
     "ats": "greenhouse",
@@ -56704,7 +56704,7 @@
     "alerted": false
   },
   "greenhouse:asana:7552137": {
-    "updated_at": "2026-05-18T12:31:34-04:00",
+    "updated_at": "2026-05-19T18:07:44-04:00",
     "title": "Emerging Enterprise Account Executive, New Business",
     "company": "asana",
     "ats": "greenhouse",
@@ -59136,7 +59136,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8481698002": {
-    "updated_at": "2026-04-17T19:40:49-04:00",
+    "updated_at": "2026-05-19T18:24:33-04:00",
     "title": "Senior Customer Support Associate",
     "company": "lattice",
     "ats": "greenhouse",
@@ -64592,7 +64592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266220": {
-    "updated_at": "2026-05-19T11:47:24-04:00",
+    "updated_at": "2026-05-19T18:47:24-04:00",
     "title": "Account Executive, Select - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65312,7 +65312,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7624398": {
-    "updated_at": "2026-05-04T06:05:45-04:00",
+    "updated_at": "2026-05-19T18:19:01-04:00",
     "title": "Manager, CS Operations",
     "company": "samsara",
     "ats": "greenhouse",
@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-05-19T12:47:52-04:00",
+    "updated_at": "2026-05-19T18:32:24-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -99672,7 +99672,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8390113002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-05-19T18:11:38-04:00",
     "title": "Sr. Satellite Policy Manager (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -103736,7 +103736,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8390061002": {
-    "updated_at": "2026-05-08T11:29:39-04:00",
+    "updated_at": "2026-05-19T18:12:10-04:00",
     "title": "Satellite Policy Manager (Starlink Mobile)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -108240,7 +108240,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8426469002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-05-19T18:41:13-04:00",
     "title": "Sr. Satellite Policy Manager, APAC (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -113512,7 +113512,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:7491225": {
-    "updated_at": "2026-04-28T07:11:55-04:00",
+    "updated_at": "2026-05-19T17:49:44-04:00",
     "title": "Case Escalation Specialist",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -113536,7 +113536,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:7518692": {
-    "updated_at": "2026-04-28T07:11:55-04:00",
+    "updated_at": "2026-05-19T17:50:08-04:00",
     "title": "Customer Care Associate (Japanese Speaking)",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -139888,7 +139888,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7589402": {
-    "updated_at": "2026-05-11T17:09:49-04:00",
+    "updated_at": "2026-05-19T18:42:51-04:00",
     "title": "Commercial Counsel",
     "company": "stripe",
     "ats": "greenhouse",
@@ -141952,7 +141952,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4692160005": {
-    "updated_at": "2026-05-06T15:16:55-04:00",
+    "updated_at": "2026-05-19T18:41:07-04:00",
     "title": "Real-Time Workforce Analyst \u2013 Contact Center (R13995)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -153920,7 +153920,7 @@
     "alerted": false
   },
   "greenhouse:cribl:5990961004": {
-    "updated_at": "2026-05-11T21:08:05-04:00",
+    "updated_at": "2026-05-19T18:19:03-04:00",
     "title": "Staff Technical Program Manager",
     "company": "cribl",
     "ats": "greenhouse",
@@ -153968,7 +153968,7 @@
     "alerted": false
   },
   "greenhouse:mercury:5843996004": {
-    "updated_at": "2026-05-11T19:59:06-04:00",
+    "updated_at": "2026-05-19T18:17:14-04:00",
     "title": "Head of Brand Marketing",
     "company": "mercury",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-05-19T16:17:29-04:00",
+    "updated_at": "2026-05-19T18:02:26-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -157664,7 +157664,7 @@
     "alerted": false
   },
   "greenhouse:okta:7868388": {
-    "updated_at": "2026-05-13T15:55:57-04:00",
+    "updated_at": "2026-05-19T18:31:30-04:00",
     "title": "Senior Identity Specialist (Field CTO)",
     "company": "okta",
     "ats": "greenhouse",
@@ -161392,7 +161392,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7931358": {
-    "updated_at": "2026-05-18T18:41:09-04:00",
+    "updated_at": "2026-05-19T17:58:01-04:00",
     "title": "Senior Sales Associate",
     "company": "instacart",
     "ats": "greenhouse",
@@ -164616,7 +164616,7 @@
     "alerted": false
   },
   "greenhouse:mercury:6000140004": {
-    "updated_at": "2026-05-19T14:09:05-04:00",
+    "updated_at": "2026-05-19T18:00:23-04:00",
     "title": "Senior Video Strategist",
     "company": "mercury",
     "ats": "greenhouse",
@@ -164760,7 +164760,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8540372002": {
-    "updated_at": "2026-05-19T17:23:41-04:00",
+    "updated_at": "2026-05-19T18:23:09-04:00",
     "title": "Mechanical Engineer (Starshield)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -165144,7 +165144,7 @@
     "alerted": true
   },
   "greenhouse:humaninterest:7943733": {
-    "updated_at": "2026-05-19T17:31:16-04:00",
+    "updated_at": "2026-05-19T17:59:33-04:00",
     "title": "Partner Account Manager - Illinois",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -165478,5 +165478,149 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:reddit:7769017": {
+    "updated_at": "2026-05-19T18:47:45-04:00",
+    "title": "Creative Strategist - Tech & Telco",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:spacex:8557491002": {
+    "updated_at": "2026-05-19T18:47:07-04:00",
+    "title": "Injection Molding Technician",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8507014002": {
+    "updated_at": "2026-05-19T18:46:36-04:00",
+    "title": "Sr. Delivery Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8538914002": {
+    "updated_at": "2026-05-19T18:46:31-04:00",
+    "title": "Sr. Delivery Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7938769": {
+    "updated_at": "2026-05-19T18:43:06-04:00",
+    "title": "Senior Program Governance & Compliance Manager",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:reddit:7944159": {
+    "updated_at": "2026-05-19T18:28:18-04:00",
+    "title": "Principal Technical Program Manager, Developer Productivity",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:circleci:8551019002": {
+    "updated_at": "2026-05-19T18:24:22-04:00",
+    "title": "Sr. Product Marketing Manager",
+    "company": "circleci",
+    "ats": "greenhouse",
+    "source_slug": "circleci",
+    "alerted": false
+  },
+  "greenhouse:waymo:7901957": {
+    "updated_at": "2026-05-19T18:20:23-04:00",
+    "title": "Software Engineer, Fleet Orchestration Core",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:spacex:8557436002": {
+    "updated_at": "2026-05-19T18:13:33-04:00",
+    "title": "Satellite Policy Manager (Starlink Mobile)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:elastic:7944199": {
+    "updated_at": "2026-05-19T18:13:00-04:00",
+    "title": "Solutions Architect - General Business, East (Presales)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:7939709": {
+    "updated_at": "2026-05-19T18:12:59-04:00",
+    "title": "Solutions Architect -  General Business, East (Presales)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8557425002": {
+    "updated_at": "2026-05-19T18:11:34-04:00",
+    "title": "Delivery Solutions Architect - High-Tech & Manufacturing",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8557430002": {
+    "updated_at": "2026-05-19T18:11:05-04:00",
+    "title": "Sr. Delivery Solutions Architect - High-Tech & Manufacturing",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:chime:8535338002": {
+    "updated_at": "2026-05-19T18:10:48-04:00",
+    "title": "Software Engineer, Lending",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:stripe:7863714": {
+    "updated_at": "2026-05-19T18:03:38-04:00",
+    "title": "Account Executive, Commercial (New Business)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8554805002": {
+    "updated_at": "2026-05-19T17:54:45-04:00",
+    "title": "Cook 4/5 - Temporary",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8543611002": {
+    "updated_at": "2026-05-19T17:54:26-04:00",
+    "title": "Cook - 2nd Shift (Temporary)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:convera:4868124101": {
+    "updated_at": "2026-05-19T17:33:29-04:00",
+    "title": "Compliance Operations Assistant",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
   }
 }

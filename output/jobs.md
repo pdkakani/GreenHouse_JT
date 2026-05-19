@@ -1,3 +1,162 @@
+## 📅 Run: 2026-05-19 22:49 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-19T18:47:24-04:00 | ID: 7266220
+
+#### 🔄 Commercial Counsel
+**Greenhouse** · stripe · 6320 Commercial Legal
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7589402)
+🕐 Updated: 2026-05-19T18:42:51-04:00 | ID: 7589402
+
+#### 🔄 Sr. Satellite Policy Manager, APAC (Starlink)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8426469002?gh_jid=8426469002)
+🕐 Updated: 2026-05-19T18:41:13-04:00 | ID: 8426469002
+
+#### 🔄 Real-Time Workforce Analyst – Contact Center (R13995)
+**Greenhouse** · oportun · Business Operations
+📍 Remote - MX | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4692160005)
+🕐 Updated: 2026-05-19T18:41:07-04:00 | ID: 4692160005
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-19T18:32:24-04:00 | ID: 7682030
+
+#### 🔄 Senior Identity Specialist (Field CTO)
+**Greenhouse** · okta · SE Field-321
+📍 Alabama; Arizona; Arkansas; Bellevue, Washington; Boston, Massachusetts; Chicago, Illinois; Colorado; Connecticut; Dallas, Texas; Florida; Georgia; Indiana; Iowa; Kentucky ; Los Angeles, California; Louisiana; Maryland; New York, New York; Pennsylvania; San Francisco, California; Texas; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7868388?gh_jid=7868388)
+🕐 Updated: 2026-05-19T18:31:30-04:00 | ID: 7868388
+
+#### 🔄 Staff+ Software Engineer, Databases
+**Greenhouse** · anthropic · Software Engineering - Infrastructure
+📍 San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5151069008)
+🕐 Updated: 2026-05-19T18:30:52-04:00 | ID: 5151069008
+
+#### 🔄 FP&A Manager
+**Greenhouse** · reddit · Corporate Finance
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7731917)
+🕐 Updated: 2026-05-19T18:26:51-04:00 | ID: 7731917
+
+#### 🔄 Senior Customer Support Associate
+**Greenhouse** · lattice · Customer Care
+📍 US - Remote, EST (NYC preferred) | 🔗 [Apply Here](https://lattice.com/job?gh_jid=8481698002)
+🕐 Updated: 2026-05-19T18:24:33-04:00 | ID: 8481698002
+
+#### 🔄 Principal Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358350002?gh_jid=8358350002)
+🕐 Updated: 2026-05-19T18:23:16-04:00 | ID: 8358350002
+
+#### 🔄 Mechanical Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8540372002?gh_jid=8540372002)
+🕐 Updated: 2026-05-19T18:23:09-04:00 | ID: 8540372002
+
+#### 🔄 Software Quality Ops Scenarios Specialist (RelSim)
+**Greenhouse** · waymo · Scenarios (SQE)
+📍 Mountain View, CA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456161)
+🕐 Updated: 2026-05-19T18:19:07-04:00 | ID: 7456161
+
+#### 🔄 Staff Technical Program Manager
+**Greenhouse** · cribl · Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5990961004)
+🕐 Updated: 2026-05-19T18:19:03-04:00 | ID: 5990961004
+
+#### 🔄 Manager, CS Operations
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7624398?gh_jid=7624398)
+🕐 Updated: 2026-05-19T18:19:01-04:00 | ID: 7624398
+
+#### 🔄 Head of Brand Marketing
+**Greenhouse** · mercury · Brand
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5843996004)
+🕐 Updated: 2026-05-19T18:17:14-04:00 | ID: 5843996004
+
+#### 🔄 Software Quality Ops Scenarios Specialist (DiscSim)
+**Greenhouse** · waymo · Scenarios (SQE)
+📍 Mountain View, CA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456195)
+🕐 Updated: 2026-05-19T18:17:06-04:00 | ID: 7456195
+
+#### 🔄 Satellite Policy Manager (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8390061002?gh_jid=8390061002)
+🕐 Updated: 2026-05-19T18:12:10-04:00 | ID: 8390061002
+
+#### 🔄 Sr. Satellite Policy Manager (Starlink)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8390113002?gh_jid=8390113002)
+🕐 Updated: 2026-05-19T18:11:38-04:00 | ID: 8390113002
+
+#### 🔄 Senior Ledger Operations Engineer
+**Greenhouse** · gemini · Operations
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7743191&gh_jid=7743191)
+🕐 Updated: 2026-05-19T18:11:03-04:00 | ID: 7743191
+
+#### 🔄 Emerging Enterprise Account Executive, New Business
+**Greenhouse** · asana · Sales
+📍 Chicago | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7552137?gh_jid=7552137)
+🕐 Updated: 2026-05-19T18:07:44-04:00 | ID: 7552137
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-19T18:02:26-04:00 | ID: 7870845
+
+#### 🔄 Senior Video Strategist
+**Greenhouse** · mercury · Content Marketing
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/6000140004)
+🕐 Updated: 2026-05-19T18:00:23-04:00 | ID: 6000140004
+
+#### 🔄 Partner Account Manager - Illinois
+**Greenhouse** · humaninterest · Sales
+📍 Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7943733)
+🕐 Updated: 2026-05-19T17:59:33-04:00 | ID: 7943733
+
+#### 🔄 Senior Sales Associate
+**Greenhouse** · instacart · Ad Sales
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7931358)
+🕐 Updated: 2026-05-19T17:58:01-04:00 | ID: 7931358
+
+#### 🔄 Quality of Service Specialist
+**Greenhouse** · payoneer · OPS CJ Enablement
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7618804/?gh_jid=7618804)
+🕐 Updated: 2026-05-19T17:51:07-04:00 | ID: 7618804
+
+#### 🔄 Customer Care Associate (Japanese Speaking)
+**Greenhouse** · payoneer · OPS CJ Customer Care
+📍 Seoul, South Korea | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7518692/?gh_jid=7518692)
+🕐 Updated: 2026-05-19T17:50:08-04:00 | ID: 7518692
+
+#### 🔄 Case Escalation Specialist
+**Greenhouse** · payoneer · OPS CJ Customer Care
+📍 Seoul, South Korea | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7491225/?gh_jid=7491225)
+🕐 Updated: 2026-05-19T17:49:44-04:00 | ID: 7491225
+
+#### 🔄 Risk Strategist
+**Greenhouse** · stripe · Global Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7809397)
+🕐 Updated: 2026-05-19T17:46:33-04:00 | ID: 7809397
+
+#### 🔄 Business Development Representative (BDR), LATAM (Brazil/Portuguese)
+**Greenhouse** · cloudflare · BDR
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/6630469?gh_jid=6630469)
+🕐 Updated: 2026-05-19T17:45:55-04:00 | ID: 6630469
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13686 fetched, 29 updated, 18 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 58 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13774 fetched, 29 updated, 18 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-19 21:44 UTC
 
 ### Greenhouse
