@@ -1,3 +1,222 @@
+## 📅 Run: 2026-05-20 10:28 UTC
+
+### Greenhouse
+
+#### 🔄 Product Designer, Issuing
+**Greenhouse** · stripe · 8811 Product Design
+📍 Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7520327)
+🕐 Updated: 2026-05-20T06:26:44-04:00 | ID: 7520327
+
+#### 🔄 Senior Principal Software Engineer, AI Agents
+**Greenhouse** · toast · R & D : Engineering : Team
+📍 Dublin, Ireland | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7936022)
+🕐 Updated: 2026-05-20T06:25:38-04:00 | ID: 7936022
+
+#### 🔄 Senior Manager - Platform & Architecture
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7510636?gh_jid=7510636)
+🕐 Updated: 2026-05-20T06:17:52-04:00 | ID: 7510636
+
+#### 🔄 Senior QA Automation Engineer (Financial Apps)
+**Greenhouse** · fireblocks · R&D
+📍 Belgrade, Belgrade, Serbia; Berlin, Berlin, Germany; Georgia; Praha, Prague, Czech Republic; United Kingdom; Warszawa, Masovian Voivodeship, Poland | 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4682157006?gh_jid=4682157006)
+🕐 Updated: 2026-05-20T06:09:22-04:00 | ID: 4682157006
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · workato · Sales and Customer Success
+📍 Chennai, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8482166002)
+🕐 Updated: 2026-05-20T05:55:45-04:00 | ID: 8482166002
+
+#### 🔄 Senior Account Executive, Enterprise
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, United Kingdom, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7663570003)
+🕐 Updated: 2026-05-20T05:55:29-04:00 | ID: 7663570003
+
+#### 🔄 HR Business Partner - Tech
+**Greenhouse** · adyen · Human Resources
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7641158)
+🕐 Updated: 2026-05-20T05:50:55-04:00 | ID: 7641158
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-20T05:47:44-04:00 | ID: 7682030
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-20T05:47:42-04:00 | ID: 7266220
+
+#### 🔄 Manager,Customer Success
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7577653?gh_jid=7577653)
+🕐 Updated: 2026-05-20T05:35:56-04:00 | ID: 7577653
+
+#### 🔄 Customs Associate
+**Greenhouse** · flexport · Customs
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/6779084?gh_jid=6779084)
+🕐 Updated: 2026-05-20T05:29:38-04:00 | ID: 6779084
+
+#### 🔄 Staff Product Manager-Cloud Data Protection
+**Greenhouse** · rubrik · Product
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7540806?gh_jid=7540806)
+🕐 Updated: 2026-05-20T05:25:02-04:00 | ID: 7540806
+
+#### 🔄 Manager,Product Design
+**Greenhouse** · rubrik · Product
+📍 Bangalore,India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7508560?gh_jid=7508560)
+🕐 Updated: 2026-05-20T05:23:01-04:00 | ID: 7508560
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-20T05:17:14-04:00 | ID: 7870845
+
+#### 🔄 Enterprise Account Executive Benelux
+**Greenhouse** · celonis · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7721667003?gh_jid=7721667003)
+🕐 Updated: 2026-05-20T05:15:48-04:00 | ID: 7721667003
+
+#### 🔄 Technical Account Manager - EU / UK
+**Greenhouse** · marqeta · EU
+📍 London, UK; Remote, UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7472057)
+🕐 Updated: 2026-05-20T05:07:50-04:00 | ID: 7472057
+
+#### 🔄 Lakewatch Strategic Sales Lead EMEA
+**Greenhouse** · databricks · HQ Management
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493146002)
+🕐 Updated: 2026-05-20T05:06:10-04:00 | ID: 8493146002
+
+#### 🔄 Relationship Account Manager (Middle East market)
+**Greenhouse** · mongodb · Sales Growth EMEA
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7904974)
+🕐 Updated: 2026-05-20T05:03:44-04:00 | ID: 7904974
+
+#### 🔄 Senior Customer Architect (West)
+**Greenhouse** · elastic · Customer Architects - AMER
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7859326&gh_jid=7859326)
+🕐 Updated: 2026-05-20T05:01:30-04:00 | ID: 7859326
+
+#### 🔄 Working Student Tax
+**Greenhouse** · celonis · Finance
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7692052003?gh_jid=7692052003)
+🕐 Updated: 2026-05-20T05:00:46-04:00 | ID: 7692052003
+
+#### 🔄 Technical Services Engineer
+**Greenhouse** · mongodb · Technical Support APAC
+📍 Kuala Lumpur | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7919314)
+🕐 Updated: 2026-05-20T04:59:54-04:00 | ID: 7919314
+
+#### 🔄 Technical Services Engineer
+**Greenhouse** · mongodb · Technical Support APAC
+📍 Kuala Lumpur | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7919311)
+🕐 Updated: 2026-05-20T04:57:08-04:00 | ID: 7919311
+
+#### 🔄 Commercial Operations Associate
+**Greenhouse** · payoneer · Commercial Excellence
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7699213/?gh_jid=7699213)
+🕐 Updated: 2026-05-20T04:53:31-04:00 | ID: 7699213
+
+#### 🔄 Solutions Engineer
+**Greenhouse** · adyen · Professional Services
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7645479)
+🕐 Updated: 2026-05-20T04:53:29-04:00 | ID: 7645479
+
+#### 🔄 Product Designer
+**Greenhouse** · iterable · Product
+📍 Hybrid - Lisbon, Portugal | 🔗 [Apply Here](https://job-boards.greenhouse.io/iterable/jobs/7863422)
+🕐 Updated: 2026-05-20T04:46:04-04:00 | ID: 7863422
+
+#### 🔄 Senior Backend Engineer, Yield
+**Greenhouse** · fireblocks · R&D
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4681572006?gh_jid=4681572006)
+🕐 Updated: 2026-05-20T04:36:00-04:00 | ID: 4681572006
+
+#### 🔄 Mid Market Account Executive - DACH (f/m/d)
+**Greenhouse** · contentful · Sales
+📍 London, London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7874829)
+🕐 Updated: 2026-05-20T04:16:00-04:00 | ID: 7874829
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · mongodb · Sales Growth EMEA
+📍 Dubai | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7578590)
+🕐 Updated: 2026-05-20T04:04:02-04:00 | ID: 7578590
+
+#### 🔄 Demand Generation Manager
+**Greenhouse** · adyen · Marketing
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7820762)
+🕐 Updated: 2026-05-20T04:03:38-04:00 | ID: 7820762
+
+#### 🔄 Product Designer, Stablecoin
+**Greenhouse** · stripe · 8811 Product Design
+📍 Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7663023)
+🕐 Updated: 2026-05-20T03:53:24-04:00 | ID: 7663023
+
+#### 🔄 Senior Analyst, Sales Strategy & Operations
+**Greenhouse** · okta · Business Operations-150
+📍 Sydney, Australia | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7860180?gh_jid=7860180)
+🕐 Updated: 2026-05-20T03:52:21-04:00 | ID: 7860180
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · workato · Product & Engineering
+📍 Hyderabad, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/workato/jobs/8437639002)
+🕐 Updated: 2026-05-20T03:45:15-04:00 | ID: 8437639002
+
+#### 🔄 Field Marketing Manager UKI
+**Greenhouse** · rubrik · Marketing
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7704236?gh_jid=7704236)
+🕐 Updated: 2026-05-20T03:44:57-04:00 | ID: 7704236
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · datadog · Sales Development
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7531575/?gh_jid=7531575)
+🕐 Updated: 2026-05-20T03:43:29-04:00 | ID: 7531575
+
+#### 🔄 Staff Forward Deployment Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8373538002)
+🕐 Updated: 2026-05-20T03:27:11-04:00 | ID: 8373538002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8137000002)
+🕐 Updated: 2026-05-20T03:27:08-04:00 | ID: 8137000002
+
+#### 🔄 Account Manager
+**Greenhouse** · adyen · Account Management
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7334627)
+🕐 Updated: 2026-05-20T03:04:46-04:00 | ID: 7334627
+
+#### 🔄 Product Support Engineer
+**Greenhouse** · samsara · Engineering Support
+📍 London - UK2; Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7852362?gh_jid=7852362)
+🕐 Updated: 2026-05-20T03:02:47-04:00 | ID: 7852362
+
+#### 🔄 Research Scientist
+**Greenhouse** · applovin · Platform Engineering
+📍 Beijing - Raycom | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4644207006?gh_jid=4644207006)
+🕐 Updated: 2026-05-20T03:02:40-04:00 | ID: 4644207006
+
+#### 🔄 Senior Field Consultant, EMEA
+**Greenhouse** · rubrik · Professional Services
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7436699?gh_jid=7436699)
+🕐 Updated: 2026-05-20T03:02:27-04:00 | ID: 7436699
+
+#### 🔄 Forward-Deployed Data Scientist II
+**Greenhouse** · braze · Customer Experience
+📍 Sydney | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7772951?gh_jid=7772951)
+🕐 Updated: 2026-05-20T03:01:38-04:00 | ID: 7772951
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13669 fetched, 41 updated, 13 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 58 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13756 fetched, 41 updated, 13 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-20 07:02 UTC
 
 ### Greenhouse
