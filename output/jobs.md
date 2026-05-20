@@ -1,3 +1,257 @@
+## 📅 Run: 2026-05-20 23:46 UTC
+
+### Greenhouse
+
+#### 🔄 Machine Learning Engineer, Perception
+**Greenhouse** · waymo · Perception (7LT)
+📍 Mountain View, CA USA;  San Francisco, CA USA; | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7539786)
+🕐 Updated: 2026-05-20T19:46:50-04:00 | ID: 7539786
+
+#### 🔄 Applied Research Scientist, LLM/VLM  (PhD New Grad)
+**Greenhouse** · waymo · Perception (7LT)
+📍 Mountain View, CA USA;  San Francisco, CA USA; | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7467839)
+🕐 Updated: 2026-05-20T19:46:38-04:00 | ID: 7467839
+
+#### 🔄 Senior Applied Research Scientist, Multi-Modal Perception
+**Greenhouse** · waymo · Perception (7LT)
+📍 Mountain View, CA USA;  San Francisco, CA USA; | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7469421)
+🕐 Updated: 2026-05-20T19:44:36-04:00 | ID: 7469421
+
+#### 🆕 Strategic Partner Development, Product Partnerships - Cybersecurity
+**Greenhouse** · anthropic · AI Research & Engineering · 🎯 35%
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5226540008)
+🕐 Updated: 2026-05-20T19:43:49-04:00 | ID: 5226540008
+
+#### 🔄 Accountant
+**Greenhouse** · convera · Financial Reporting
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4861130101)
+🕐 Updated: 2026-05-20T19:26:43-04:00 | ID: 4861130101
+
+#### 🔄 Professional Services Business Development Director
+**Greenhouse** · smartsheet · PS Sales
+📍 Bellevue, WA, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7812779)
+🕐 Updated: 2026-05-20T19:25:19-04:00 | ID: 7812779
+
+#### 🔄 Professional Services Business Development Director
+**Greenhouse** · smartsheet · PS Sales
+📍 -REMOTE, USA- | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7630247)
+🕐 Updated: 2026-05-20T19:24:59-04:00 | ID: 7630247
+
+#### 🔄 Flight Software Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8556909002?gh_jid=8556909002)
+🕐 Updated: 2026-05-20T19:22:27-04:00 | ID: 8556909002
+
+#### 🔄 Sr. RF Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8521153002?gh_jid=8521153002)
+🕐 Updated: 2026-05-20T19:22:25-04:00 | ID: 8521153002
+
+#### 🔄 Sr. PCB Designer
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8450147002?gh_jid=8450147002)
+🕐 Updated: 2026-05-20T19:22:22-04:00 | ID: 8450147002
+
+#### 🔄 Sr. Electrical Design Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8517504002?gh_jid=8517504002)
+🕐 Updated: 2026-05-20T19:22:19-04:00 | ID: 8517504002
+
+#### 🔄 Sr. Antenna Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8392967002?gh_jid=8392967002)
+🕐 Updated: 2026-05-20T19:22:15-04:00 | ID: 8392967002
+
+#### 🔄 RF Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8517637002?gh_jid=8517637002)
+🕐 Updated: 2026-05-20T19:22:12-04:00 | ID: 8517637002
+
+#### 🔄 RF Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395241002?gh_jid=8395241002)
+🕐 Updated: 2026-05-20T19:22:08-04:00 | ID: 8395241002
+
+#### 🔄 Principal RF Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8370784002?gh_jid=8370784002)
+🕐 Updated: 2026-05-20T19:22:05-04:00 | ID: 8370784002
+
+#### 🔄 Principal Antenna Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8395247002?gh_jid=8395247002)
+🕐 Updated: 2026-05-20T19:21:59-04:00 | ID: 8395247002
+
+#### 🔄 PCB Designer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8397660002?gh_jid=8397660002)
+🕐 Updated: 2026-05-20T19:21:55-04:00 | ID: 8397660002
+
+#### 🔄 Lead PCB Designer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8517596002?gh_jid=8517596002)
+🕐 Updated: 2026-05-20T19:21:52-04:00 | ID: 8517596002
+
+#### 🔄 Electrical Design Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8358201002?gh_jid=8358201002)
+🕐 Updated: 2026-05-20T19:21:48-04:00 | ID: 8358201002
+
+#### 🔄 Antenna Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511245002?gh_jid=8511245002)
+🕐 Updated: 2026-05-20T19:21:44-04:00 | ID: 8511245002
+
+#### 🔄 Manager, Network Operations Center
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8557358002?gh_jid=8557358002)
+🕐 Updated: 2026-05-20T19:20:49-04:00 | ID: 8557358002
+
+#### 🔄 Staff UI Software Engineer, Claude.ai Consumer Product
+**Greenhouse** · anthropic · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5026097008)
+🕐 Updated: 2026-05-20T19:20:30-04:00 | ID: 5026097008
+
+#### 🔄 Technical University Recruiter
+**Greenhouse** · verkada · Software Recruiting
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5130715007)
+🕐 Updated: 2026-05-20T19:09:03-04:00 | ID: 5130715007
+
+#### 🔄 Sourcing Manager, OPEX (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8511695002?gh_jid=8511695002)
+🕐 Updated: 2026-05-20T19:08:41-04:00 | ID: 8511695002
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7728843)
+🕐 Updated: 2026-05-20T19:04:03-04:00 | ID: 7728843
+
+#### 🔄 Agency Development Partnerships Lead - Independent Agencies
+**Greenhouse** · reddit · Global Ads Partnerships
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7937043)
+🕐 Updated: 2026-05-20T19:03:29-04:00 | ID: 7937043
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Large Customer Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7696013)
+🕐 Updated: 2026-05-20T19:02:57-04:00 | ID: 7696013
+
+#### 🔄 Applied AI Engineer - Federal (TS Required)
+**Greenhouse** · snorkelai · 220 - Solutions PS
+📍 United States (Remote); Washington, D.C. (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5721276004)
+🕐 Updated: 2026-05-20T19:02:38-04:00 | ID: 5721276004
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-20T19:02:38-04:00 | ID: 7266220
+
+#### 🔄 Applied AI Engineer - AI Solutions
+**Greenhouse** · snorkelai · 220 - Solutions PS
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5709067004)
+🕐 Updated: 2026-05-20T19:00:59-04:00 | ID: 5709067004
+
+#### 🔄 Senior Data Engineer
+**Greenhouse** · verkada · Data
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5139539007)
+🕐 Updated: 2026-05-20T19:00:04-04:00 | ID: 5139539007
+
+#### 🔄 Growth Marketing Manager, Channel Technical Programs
+**Greenhouse** · verkada · Solutions Engineering
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4970811007)
+🕐 Updated: 2026-05-20T18:56:24-04:00 | ID: 4970811007
+
+#### 🔄 Principal Customer Success Manager, Enterprise - West
+**Greenhouse** · smartsheet · Customer Success
+📍 Bellevue, WA, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7917721)
+🕐 Updated: 2026-05-20T18:54:56-04:00 | ID: 7917721
+
+#### 🔄 Mobile Software Engineer, Lending
+**Greenhouse** · chime · Lending Engineering
+📍 San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8535338002?gh_jid=8535338002)
+🕐 Updated: 2026-05-20T18:54:29-04:00 | ID: 8535338002
+
+#### 🔄 IT Procurement & Asset Management Specialist
+**Greenhouse** · postman · Platform Engineering
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/postman/jobs/7728893003)
+🕐 Updated: 2026-05-20T18:52:01-04:00 | ID: 7728893003
+
+#### 🔄 Regulatory & Trade Compliance Manager
+**Greenhouse** · verkada · Legal
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5042875007)
+🕐 Updated: 2026-05-20T18:51:58-04:00 | ID: 5042875007
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-20T18:47:44-04:00 | ID: 7870845
+
+#### 🔄 Anthropic Fellows Program - The Anthropic Institute Fellows (Economics & Policy)
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183053008)
+🕐 Updated: 2026-05-20T18:45:20-04:00 | ID: 5183053008
+
+#### 🔄 Anthropic Fellows Program, Reinforcement Learning
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183052008)
+🕐 Updated: 2026-05-20T18:37:06-04:00 | ID: 5183052008
+
+#### 🔄 Anthropic Fellows Program, ML Systems & Performance
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183051008)
+🕐 Updated: 2026-05-20T18:36:58-04:00 | ID: 5183051008
+
+#### 🔄 Anthropic Fellows Program, AI Security
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5030244008)
+🕐 Updated: 2026-05-20T18:36:32-04:00 | ID: 5030244008
+
+#### 🔄 Anthropic Fellows Program, AI Safety
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183044008)
+🕐 Updated: 2026-05-20T18:36:22-04:00 | ID: 5183044008
+
+#### 🔄 Pricing Manager
+**Greenhouse** · newrelic · G&A, Executive
+📍 Atlanta, Georgia, USA; Dallas, Texas, USA; Portland, Oregon, USA; San Francisco, California, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5189793008)
+🕐 Updated: 2026-05-20T18:33:48-04:00 | ID: 5189793008
+
+#### 🔄 Lead Global Marketing Campaigns Manager
+**Greenhouse** · gitlab · Digital Marketing
+📍 Remote, Canada; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8550333002)
+🕐 Updated: 2026-05-20T18:33:45-04:00 | ID: 8550333002
+
+#### 🔄 Program Manager, Security Business Enablement
+**Greenhouse** · stripe · 8614 Office of the CISO & Partnership
+📍 US - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7917252)
+🕐 Updated: 2026-05-20T18:32:38-04:00 | ID: 7917252
+
+#### 🔄 Office Services Intern (Summer 2026)
+**Greenhouse** · gemini · Real Estate Office Services and Corporate Security
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7921816&gh_jid=7921816)
+🕐 Updated: 2026-05-20T18:31:12-04:00 | ID: 7921816
+
+#### 🔄 Senior Copywriter
+**Greenhouse** · hightouch · Marketing
+📍 Remote (North America) | 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5985108004)
+🕐 Updated: 2026-05-20T18:27:17-04:00 | ID: 5985108004
+
+#### 🔄 Senior Software Engineer, Ads
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7341203)
+🕐 Updated: 2026-05-20T18:23:32-04:00 | ID: 7341203
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13637 fetched, 47 updated, 14 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13728 fetched, 47 updated, 14 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-20 22:20 UTC
 
 ### Greenhouse
