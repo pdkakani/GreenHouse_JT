@@ -3592,7 +3592,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:7723638": {
-    "updated_at": "2026-05-20T16:27:23-04:00",
+    "updated_at": "2026-05-21T16:26:11-04:00",
     "title": "Senior Engineering Manager, Storage Execution (RSS)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -3824,7 +3824,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:7311666": {
-    "updated_at": "2026-05-20T16:27:23-04:00",
+    "updated_at": "2026-05-21T17:54:43-04:00",
     "title": "Software Engineer, Code Generation",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -5552,8 +5552,8 @@
     "alerted": true
   },
   "greenhouse:okta:7749222": {
-    "updated_at": "2026-05-20T21:58:07-04:00",
-    "title": "AI Identity Architect",
+    "updated_at": "2026-05-21T16:56:34-04:00",
+    "title": "Solutions Architect, AI Identity",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -12000,7 +12000,7 @@
     "alerted": true
   },
   "greenhouse:gleanwork:4591195005": {
-    "updated_at": "2026-04-22T10:29:42-04:00",
+    "updated_at": "2026-05-21T16:28:40-04:00",
     "title": "Public Sector Solutions Engineer, SLED",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -14184,8 +14184,8 @@
     "alerted": true
   },
   "greenhouse:hightouch:5775517004": {
-    "updated_at": "2026-05-20T16:23:29-04:00",
-    "title": "Engineering Manager, Head of Machine Learning",
+    "updated_at": "2026-05-21T17:06:28-04:00",
+    "title": "Head of Machine Learning",
     "company": "hightouch",
     "ats": "greenhouse",
     "source_slug": "hightouch",
@@ -15816,7 +15816,7 @@
     "alerted": true
   },
   "greenhouse:gusto:7557049": {
-    "updated_at": "2026-05-06T14:44:42-04:00",
+    "updated_at": "2026-05-21T17:46:59-04:00",
     "title": "GTM Analytics Engineer",
     "company": "gusto",
     "ats": "greenhouse",
@@ -17856,7 +17856,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7403551": {
-    "updated_at": "2026-05-18T18:41:07-04:00",
+    "updated_at": "2026-05-21T16:24:40-04:00",
     "title": "Director, Pricing Strategy",
     "company": "instacart",
     "ats": "greenhouse",
@@ -17864,7 +17864,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7403549": {
-    "updated_at": "2026-05-18T18:41:07-04:00",
+    "updated_at": "2026-05-21T16:24:40-04:00",
     "title": "Director, Pricing Strategy",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18128,7 +18128,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7232634": {
-    "updated_at": "2026-05-18T18:41:07-04:00",
+    "updated_at": "2026-05-21T17:39:19-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart",
     "ats": "greenhouse",
@@ -21952,7 +21952,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8490477002": {
-    "updated_at": "2026-04-30T18:34:50-04:00",
+    "updated_at": "2026-05-21T16:40:25-04:00",
     "title": "Staff Backend Engineer, Developer Experience",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -23960,7 +23960,7 @@
     "alerted": true
   },
   "greenhouse:calendly:8510970002": {
-    "updated_at": "2026-04-22T18:11:18-04:00",
+    "updated_at": "2026-05-21T16:57:41-04:00",
     "title": "Engineering Manager",
     "company": "calendly",
     "ats": "greenhouse",
@@ -26040,7 +26040,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4657803006": {
-    "updated_at": "2026-05-20T12:16:59-04:00",
+    "updated_at": "2026-05-21T17:36:42-04:00",
     "title": "Offensive Security Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26072,7 +26072,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4647106006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:25:26-04:00",
     "title": "People Business Partner - Product & Engineering",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26288,7 +26288,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4613074006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:42:46-04:00",
     "title": "Senior Engineer, Network Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26416,7 +26416,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4653764006": {
-    "updated_at": "2026-05-20T12:25:26-04:00",
+    "updated_at": "2026-05-21T17:35:52-04:00",
     "title": "Senior Security Engineer, Enterprise Security",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26504,7 +26504,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658311006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:35:22-04:00",
     "title": "Senior Software Engineer, Data Center Infrastructure Tooling",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -28928,7 +28928,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7478077003": {
-    "updated_at": "2026-03-26T21:54:40-04:00",
+    "updated_at": "2026-05-21T16:48:45-04:00",
     "title": "Client Value Partner (CVP) - Oil & Gas Industry",
     "company": "celonis",
     "ats": "greenhouse",
@@ -28944,7 +28944,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7539033003": {
-    "updated_at": "2026-05-20T16:26:46-04:00",
+    "updated_at": "2026-05-21T16:34:26-04:00",
     "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
     "company": "celonis",
     "ats": "greenhouse",
@@ -29504,7 +29504,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7569024003": {
-    "updated_at": "2026-05-19T06:31:32-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Principal AI Scientist",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -29512,7 +29512,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7523090003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Principal Software Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -29520,7 +29520,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:6690965003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Ceph Storage Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -33912,16 +33912,16 @@
     "alerted": false
   },
   "greenhouse:waymo:7438645": {
-    "updated_at": "2026-05-14T23:12:56-04:00",
-    "title": "Sr System Engineer, Telematics",
+    "updated_at": "2026-05-21T17:08:19-04:00",
+    "title": "Sr Software Engineer, Telematics",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
     "alerted": false
   },
   "greenhouse:waymo:7438665": {
-    "updated_at": "2026-05-14T23:12:56-04:00",
-    "title": "Sr Systems Engineer, Android Automotive",
+    "updated_at": "2026-05-21T17:09:48-04:00",
+    "title": "Sr Software Engineer, Android Automotive",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -35416,7 +35416,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087170007": {
-    "updated_at": "2026-05-18T15:41:46-04:00",
+    "updated_at": "2026-05-21T16:27:47-04:00",
     "title": "Sales Development Representative (AAE), Salt Lake City",
     "company": "verkada",
     "ats": "greenhouse",
@@ -47352,7 +47352,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7709787003": {
-    "updated_at": "2026-05-14T11:34:23-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "WordPress Advanced Support Guide",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -49256,7 +49256,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7656105003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Enterprise Account Executive",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -55328,7 +55328,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7529374003": {
-    "updated_at": "2026-05-21T11:43:23-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Site Reliability Engineer - Storage Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -55560,7 +55560,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4649178006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:55:17-04:00",
     "title": "Data Center Energy Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55568,7 +55568,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4591950006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:35:17-04:00",
     "title": "Data Center Manager - Ellendale, ND",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55576,7 +55576,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4621176006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:50:27-04:00",
     "title": "Data Center Manager - Muskogee",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56320,7 +56320,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4664178006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:35:39-04:00",
     "title": "Technical Deployment Lead",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56328,7 +56328,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4625187006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:54:13-04:00",
     "title": "Technical Project Manager - Afton",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-05-21T15:47:44-04:00",
+    "updated_at": "2026-05-21T17:02:44-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -68640,7 +68640,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:6613297003": {
-    "updated_at": "2026-05-14T17:55:42-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Technical Support and Sales Rep",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -69072,7 +69072,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7242446003": {
-    "updated_at": "2026-05-13T15:31:39-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Commerce Lifecycle Marketing Manager",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -69184,7 +69184,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7689509003": {
-    "updated_at": "2026-05-19T13:22:46-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Product Manager",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -80520,7 +80520,7 @@
     "alerted": false
   },
   "greenhouse:gemini:7811967": {
-    "updated_at": "2026-05-20T16:48:02-04:00",
+    "updated_at": "2026-05-21T16:37:04-04:00",
     "title": "Senior Product Designer",
     "company": "gemini",
     "ats": "greenhouse",
@@ -81784,7 +81784,7 @@
     "alerted": false
   },
   "greenhouse:toast:6814934": {
-    "updated_at": "2026-04-13T10:02:36-04:00",
+    "updated_at": "2026-05-21T16:16:57-04:00",
     "title": "Inside Account Executive, SMB - Remote",
     "company": "toast",
     "ats": "greenhouse",
@@ -85536,7 +85536,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7438329": {
-    "updated_at": "2026-05-19T00:37:05-04:00",
+    "updated_at": "2026-05-21T16:32:51-04:00",
     "title": "Sr Accountant, Corporate Accounting",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -86600,7 +86600,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7674581003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Principal Product Manager, Payments Terminal Management",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -96880,7 +96880,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:5240599003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "New Opportunities with GoDaddy",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -96888,7 +96888,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:6608834003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Principal Security Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -96912,7 +96912,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7596222003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Machine Learning Scientist",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -96920,7 +96920,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7529372003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Site Reliability Engineer - Database Services",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -96952,7 +96952,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7623136003": {
-    "updated_at": "2026-05-21T09:02:40-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Site Reliability Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -96960,7 +96960,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:5117001003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Talent Pool",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -97504,7 +97504,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7603233003": {
-    "updated_at": "2026-05-19T11:59:49-04:00",
+    "updated_at": "2026-05-21T17:15:34-04:00",
     "title": "Senior Manager, Customer Trust",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -98120,7 +98120,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:7763550": {
-    "updated_at": "2026-04-23T13:48:16-04:00",
+    "updated_at": "2026-05-21T17:47:07-04:00",
     "title": "Account Executive - Florida - (EST Timezone)",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -117984,7 +117984,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7565550": {
-    "updated_at": "2026-05-19T16:53:21-04:00",
+    "updated_at": "2026-05-21T16:58:00-04:00",
     "title": "Senior Software Engineer, Reliability Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -124192,7 +124192,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7689513003": {
-    "updated_at": "2026-05-12T11:00:56-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Brand Talent Manager",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -124672,7 +124672,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7682445003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Site Reliability Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -135272,7 +135272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4677325006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:43:21-04:00",
     "title": "Inventory Control Regional Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -135896,7 +135896,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7742823": {
-    "updated_at": "2026-04-29T15:50:29-04:00",
+    "updated_at": "2026-05-21T16:38:10-04:00",
     "title": "Enterprise Sales Engineer - FED",
     "company": "datadog",
     "ats": "greenhouse",
@@ -136200,8 +136200,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7551565": {
-    "updated_at": "2026-05-20T23:08:43-04:00",
-    "title": "Senior Software Engineer, Pricing & Availability Platform",
+    "updated_at": "2026-05-21T17:30:46-04:00",
+    "title": "Senior Software Engineer, Guest & Host",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -136392,7 +136392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5124588007": {
-    "updated_at": "2026-05-18T11:48:45-04:00",
+    "updated_at": "2026-05-21T17:04:34-04:00",
     "title": "Software Engineering Manager - Alarms",
     "company": "verkada",
     "ats": "greenhouse",
@@ -138744,7 +138744,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4677421006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:47:35-04:00",
     "title": "Manager, Technical Recruiting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -141768,7 +141768,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7529365003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Android Software Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -142520,7 +142520,7 @@
     "alerted": true
   },
   "greenhouse:upstart:7874902": {
-    "updated_at": "2026-05-04T21:14:24-04:00",
+    "updated_at": "2026-05-21T16:48:58-04:00",
     "title": "IT Support Analyst",
     "company": "upstart",
     "ats": "greenhouse",
@@ -144504,7 +144504,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7704971003": {
-    "updated_at": "2026-05-07T00:21:10-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Principal Risk Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -146144,7 +146144,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679327006": {
-    "updated_at": "2026-05-19T15:03:39-04:00",
+    "updated_at": "2026-05-21T17:53:05-04:00",
     "title": "Account Executive - M&E",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -147792,7 +147792,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7713705003": {
-    "updated_at": "2026-05-07T11:22:32-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Product Manager - UX Platform and Localization",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -148632,7 +148632,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679602006": {
-    "updated_at": "2026-05-19T11:13:04-04:00",
+    "updated_at": "2026-05-21T17:44:26-04:00",
     "title": "Data Center Security Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -148864,7 +148864,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679896006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:51:42-04:00",
     "title": "Director, Infrastructure Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -148872,7 +148872,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679899006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:53:34-04:00",
     "title": "Sr. Manager, Joint Venture & VIE",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -149408,7 +149408,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7868815": {
-    "updated_at": "2026-05-19T17:22:56-04:00",
+    "updated_at": "2026-05-21T16:47:09-04:00",
     "title": "Financial Crimes Operations Manager, Bridge",
     "company": "stripe",
     "ats": "greenhouse",
@@ -150272,7 +150272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678827006": {
-    "updated_at": "2026-05-21T13:55:32-04:00",
+    "updated_at": "2026-05-21T17:43:54-04:00",
     "title": "Regional Director, US South Central, Data Center Operations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -150640,7 +150640,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680115006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:44:59-04:00",
     "title": "Regional Inventory Control Specialist",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -151504,7 +151504,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680366006": {
-    "updated_at": "2026-05-21T12:28:12-04:00",
+    "updated_at": "2026-05-21T17:14:10-04:00",
     "title": "Principal Engineer, Security Products \u2014 Cryptography and Key Lifecycle Management",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -152536,7 +152536,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7722392003": {
-    "updated_at": "2026-05-11T10:47:41-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Software Development Architect",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -153144,8 +153144,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7913369": {
-    "updated_at": "2026-05-11T13:32:05-04:00",
-    "title": "Director, Security Engineering",
+    "updated_at": "2026-05-21T17:18:23-04:00",
+    "title": "Senior Director, Security Engineering",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -153360,7 +153360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679939006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:54:01-04:00",
     "title": "Credit & Collections Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -153640,7 +153640,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7909682": {
-    "updated_at": "2026-05-18T18:41:19-04:00",
+    "updated_at": "2026-05-21T16:41:23-04:00",
     "title": "Staff Software Engineer, Partnerships",
     "company": "instacart",
     "ats": "greenhouse",
@@ -153648,7 +153648,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7909684": {
-    "updated_at": "2026-05-18T18:41:19-04:00",
+    "updated_at": "2026-05-21T16:41:23-04:00",
     "title": "Staff Software Engineer, Partnerships",
     "company": "instacart",
     "ats": "greenhouse",
@@ -153928,7 +153928,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680813006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T17:45:59-04:00",
     "title": "Product Growth Strategist - AI & Engineering",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -154296,7 +154296,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7487406003": {
-    "updated_at": "2026-05-17T06:09:43-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Security Engineer - Incident Response",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -154336,7 +154336,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7728680003": {
-    "updated_at": "2026-05-21T05:01:44-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Vice President Engineering Core Developers",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -154464,7 +154464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680206006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:56:06-04:00",
     "title": "Strategic Treasury Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -154472,7 +154472,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680202006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:57:13-04:00",
     "title": "Treasury Operations Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -155048,7 +155048,7 @@
     "alerted": false
   },
   "greenhouse:braze:7811359": {
-    "updated_at": "2026-05-21T08:27:03-04:00",
+    "updated_at": "2026-05-21T16:16:58-04:00",
     "title": "Lead Business Analyst I",
     "company": "braze",
     "ats": "greenhouse",
@@ -155136,7 +155136,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7728689003": {
-    "updated_at": "2026-05-12T12:00:35-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Director of Benefits Americas",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -155600,7 +155600,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7728656003": {
-    "updated_at": "2026-05-13T11:43:00-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Director Product Growth",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -156048,7 +156048,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7918766": {
-    "updated_at": "2026-05-12T20:07:43-04:00",
+    "updated_at": "2026-05-21T16:31:21-04:00",
     "title": "Sales Engineer, Mid-Market - Eastern Canada",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156416,7 +156416,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7721657003": {
-    "updated_at": "2026-05-13T04:37:12-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Analyst, Revenue Accounting Systems",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -157504,7 +157504,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7705582003": {
-    "updated_at": "2026-05-13T18:44:18-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Global Indirect Tax Manager",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -157528,7 +157528,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7921699": {
-    "updated_at": "2026-05-20T12:03:06-04:00",
+    "updated_at": "2026-05-21T16:52:35-04:00",
     "title": "Customer Experience Specialist, RHF Executive Office",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -160272,7 +160272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680062006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:54:50-04:00",
     "title": "Manager, Corporate Development Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -160752,7 +160752,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4681918006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-21T16:50:47-04:00",
     "title": "Strategic Financing Associate",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -161600,7 +161600,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7931700": {
-    "updated_at": "2026-05-15T17:37:42-04:00",
+    "updated_at": "2026-05-21T16:45:26-04:00",
     "title": "Background Screening Specialist, Truework",
     "company": "checkr",
     "ats": "greenhouse",
@@ -161608,7 +161608,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7921301": {
-    "updated_at": "2026-05-15T17:38:21-04:00",
+    "updated_at": "2026-05-21T16:47:46-04:00",
     "title": "Investigative Specialist, Truework",
     "company": "checkr",
     "ats": "greenhouse",
@@ -161744,7 +161744,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7931703": {
-    "updated_at": "2026-05-15T17:38:02-04:00",
+    "updated_at": "2026-05-21T16:44:50-04:00",
     "title": "Applicant Processing Specialist, Truework",
     "company": "checkr",
     "ats": "greenhouse",
@@ -162608,7 +162608,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8545882002": {
-    "updated_at": "2026-05-21T10:43:11-04:00",
+    "updated_at": "2026-05-21T16:52:47-04:00",
     "title": "Senior Contracts Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -163968,7 +163968,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7728168003": {
-    "updated_at": "2026-05-19T04:18:24-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Aftermarket - Technical Support I",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -164808,7 +164808,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7242461003": {
-    "updated_at": "2026-05-19T13:05:45-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Lead UX Designer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -166128,7 +166128,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7584968003": {
-    "updated_at": "2026-05-20T06:41:40-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Network Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -166584,7 +166584,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7682435003": {
-    "updated_at": "2026-05-20T09:23:57-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Manager Site Reliability Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -166824,7 +166824,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7918404": {
-    "updated_at": "2026-05-20T13:14:15-04:00",
+    "updated_at": "2026-05-21T17:13:04-04:00",
     "title": "Team Lead, Project Operations Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -166976,7 +166976,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7682427003": {
-    "updated_at": "2026-05-20T12:37:06-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Software Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -167104,7 +167104,7 @@
     "alerted": false
   },
   "greenhouse:postman:7741989003": {
-    "updated_at": "2026-05-20T16:16:21-04:00",
+    "updated_at": "2026-05-21T17:30:39-04:00",
     "title": "Enterprise Solutions Engineer",
     "company": "postman",
     "ats": "greenhouse",
@@ -167976,7 +167976,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7689609003": {
-    "updated_at": "2026-05-21T00:06:29-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Senior Indirect Tax Analyst",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -168112,7 +168112,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7728659003": {
-    "updated_at": "2026-05-21T05:31:07-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Security Engineer - Data Loss Prevention",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -169064,7 +169064,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8558973002": {
-    "updated_at": "2026-05-21T13:38:01-04:00",
+    "updated_at": "2026-05-21T16:31:34-04:00",
     "title": "Analytics Engineer",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -169160,7 +169160,7 @@
     "alerted": false
   },
   "greenhouse:axiom:8540770002": {
-    "updated_at": "2026-05-21T13:17:16-04:00",
+    "updated_at": "2026-05-21T17:48:55-04:00",
     "title": "Salesforce Technical Lead (Remote)",
     "company": "axiom",
     "ats": "greenhouse",
@@ -169256,7 +169256,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7735041003": {
-    "updated_at": "2026-05-21T13:02:22-04:00",
+    "updated_at": "2026-05-21T17:05:41-04:00",
     "title": "Business Care Account Manager I",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -169600,7 +169600,7 @@
     "alerted": false
   },
   "greenhouse:intercom:7947756": {
-    "updated_at": "2026-05-21T15:29:28-04:00",
+    "updated_at": "2026-05-21T16:56:18-04:00",
     "title": "GL Accountant",
     "company": "intercom",
     "ats": "greenhouse",
@@ -169798,5 +169798,141 @@
     "ats": "ashby",
     "source_slug": "Ashby",
     "alerted": false
+  },
+  "greenhouse:stripe:7918088": {
+    "updated_at": "2026-05-21T17:08:56-04:00",
+    "title": "Technical Account Manager, AI User Segment",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8558246002": {
+    "updated_at": "2026-05-21T17:05:38-04:00",
+    "title": "Sr. Network Administrator - Top Secret Clearance",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5184585008": {
+    "updated_at": "2026-05-21T17:01:27-04:00",
+    "title": "Analytics, Finance & Strategy",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8560970002": {
+    "updated_at": "2026-05-21T17:00:49-04:00",
+    "title": "Sourcing Specialist, Mechanical Commodities (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:chime:8548875002": {
+    "updated_at": "2026-05-21T16:56:58-04:00",
+    "title": "Sr. Associate, Corporate Finance",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:lyft:8559587002": {
+    "updated_at": "2026-05-21T16:50:47-04:00",
+    "title": "Senior Software Engineer, Backend",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:gusto:7918588": {
+    "updated_at": "2026-05-21T16:46:17-04:00",
+    "title": "Head of Partner Experience, Embedded Payroll",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:lyft:8559585002": {
+    "updated_at": "2026-05-21T16:44:59-04:00",
+    "title": "Software Engineer, iOS",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:lyft:8560378002": {
+    "updated_at": "2026-05-21T16:44:58-04:00",
+    "title": "Financial Analyst",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:spacex:8560542002": {
+    "updated_at": "2026-05-21T16:44:39-04:00",
+    "title": "Materials R&D Technician (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7848950": {
+    "updated_at": "2026-05-21T16:43:14-04:00",
+    "title": "Senior Manager, Network Operations",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:sofi:7743060003": {
+    "updated_at": "2026-05-21T16:43:12-04:00",
+    "title": "Fraud Model Analyst",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7931937": {
+    "updated_at": "2026-05-21T16:28:46-04:00",
+    "title": "Assistant General Counsel, Corporate",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:branch:7743278003": {
+    "updated_at": "2026-05-21T16:24:46-04:00",
+    "title": "GTM Engineer (Marketing)",
+    "company": "branch",
+    "ats": "greenhouse",
+    "source_slug": "branch",
+    "alerted": false
+  },
+  "greenhouse:waymo:7947334": {
+    "updated_at": "2026-05-21T16:21:03-04:00",
+    "title": "Tech Lead Manager, Data Engineer",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:7951907": {
+    "updated_at": "2026-05-21T17:47:06-04:00",
+    "title": "Senior Security Engineer II, Application Security (Remote Eligible)",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": true
+  },
+  "greenhouse:spacex:8560746002": {
+    "updated_at": "2026-05-21T17:46:52-04:00",
+    "title": "GNC Software Engineer - Top Secret Clearance",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
