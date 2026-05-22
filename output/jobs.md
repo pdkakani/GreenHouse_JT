@@ -1,3 +1,202 @@
+## 📅 Run: 2026-05-22 00:05 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-21T20:03:16-04:00 | ID: 7266220
+
+#### 🔄 Account Executive, Select, Phoenix
+**Greenhouse** · verkada · Mid-Market Select
+📍 Phoenix, AZ United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4247993007)
+🕐 Updated: 2026-05-21T19:53:33-04:00 | ID: 4247993007
+
+#### 🔄 Bilingual English and Spanish Member Loyalty Representative (R14028)
+**Greenhouse** · oportun · Business Operations
+📍 Los Angeles, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4695531005)
+🕐 Updated: 2026-05-21T19:46:08-04:00 | ID: 4695531005
+
+#### 🔄 Bilingual English and Spanish Member Loyalty Representative (R13926)
+**Greenhouse** · oportun · Business Operations
+📍 Miami, FL | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4677910005)
+🕐 Updated: 2026-05-21T19:46:06-04:00 | ID: 4677910005
+
+#### 🔄 Senior Revenue Accountant
+**Greenhouse** · coreweave · Finance
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4615476006&board=coreweave&gh_jid=4615476006)
+🕐 Updated: 2026-05-21T19:41:35-04:00 | ID: 4615476006
+
+#### 🔄 Infrastructure Operations Program Manager
+**Greenhouse** · coreweave · Global Field Organization
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4644836006&board=coreweave&gh_jid=4644836006)
+🕐 Updated: 2026-05-21T19:39:43-04:00 | ID: 4644836006
+
+#### 🔄 Senior Manager, Technical Solutions Manager
+**Greenhouse** · coreweave · Technology - COR
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4646569006&board=coreweave&gh_jid=4646569006)
+🕐 Updated: 2026-05-21T19:36:51-04:00 | ID: 4646569006
+
+#### 🔄 Senior Software Engineer, Observability
+**Greenhouse** · coreweave · Technology
+📍 New York, NY / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4554201006&board=coreweave&gh_jid=4554201006)
+🕐 Updated: 2026-05-21T19:34:30-04:00 | ID: 4554201006
+
+#### 🔄 Solutions Architect - Kubernetes
+**Greenhouse** · coreweave · Technology - COR
+📍 Singapore | 🔗 [Apply Here](https://coreweave.com/careers/job?4649036006&board=coreweave&gh_jid=4649036006)
+🕐 Updated: 2026-05-21T19:33:40-04:00 | ID: 4649036006
+
+#### 🔄 Senior Software Engineer, Server Fleet Infrastructure
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4553828006&board=coreweave&gh_jid=4553828006)
+🕐 Updated: 2026-05-21T19:33:31-04:00 | ID: 4553828006
+
+#### 🔄 Solutions Architect - HPC/AI/ML
+**Greenhouse** · coreweave · Technology - COR
+📍 Singapore | 🔗 [Apply Here](https://coreweave.com/careers/job?4649044006&board=coreweave&gh_jid=4649044006)
+🕐 Updated: 2026-05-21T19:31:57-04:00 | ID: 4649044006
+
+#### 🔄 Senior Cloud Support Engineer
+**Greenhouse** · coreweave · Technology - COR
+📍 Singapore | 🔗 [Apply Here](https://coreweave.com/careers/job?4649049006&board=coreweave&gh_jid=4649049006)
+🕐 Updated: 2026-05-21T19:30:26-04:00 | ID: 4649049006
+
+#### 🔄 Manager, Bare Metal Support Engineering
+**Greenhouse** · coreweave · Global Field Organization
+📍 Singapore | 🔗 [Apply Here](https://coreweave.com/careers/job?4649055006&board=coreweave&gh_jid=4649055006)
+🕐 Updated: 2026-05-21T19:23:50-04:00 | ID: 4649055006
+
+#### 🔄 Senior Manager, Corporate Development Accounting
+**Greenhouse** · coreweave · Finance
+📍 Sunnyvale, CA / New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4650820006&board=coreweave&gh_jid=4650820006)
+🕐 Updated: 2026-05-21T19:22:41-04:00 | ID: 4650820006
+
+#### 🔄 Application Security Engineer II
+**Greenhouse** · abnormalsecurity · Security
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7504595003?gh_jid=7504595003)
+🕐 Updated: 2026-05-21T19:20:43-04:00 | ID: 7504595003
+
+#### 🔄 Senior Financial Analyst, Strategic Finance
+**Greenhouse** · coreweave · Finance
+📍 Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4658721006&board=coreweave&gh_jid=4658721006)
+🕐 Updated: 2026-05-21T19:17:11-04:00 | ID: 4658721006
+
+#### 🔄 Senior Manager, Accounting Transformation/PMO
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4660498006&board=coreweave&gh_jid=4660498006)
+🕐 Updated: 2026-05-21T19:14:59-04:00 | ID: 4660498006
+
+#### 🔄 Senior Manager, Operations Accounting Data Center Infrastructure
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4661606006&board=coreweave&gh_jid=4661606006)
+🕐 Updated: 2026-05-21T19:11:56-04:00 | ID: 4661606006
+
+#### 🔄 Senior Engineer, Storage Control Plane
+**Greenhouse** · coreweave · Technology
+📍 Warsaw, Poland | 🔗 [Apply Here](https://coreweave.com/careers/job?4677479006&board=coreweave&gh_jid=4677479006)
+🕐 Updated: 2026-05-21T19:11:25-04:00 | ID: 4677479006
+
+#### 🔄 Staff Software Engineer, Inference
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4670593006&board=coreweave&gh_jid=4670593006)
+🕐 Updated: 2026-05-21T19:10:27-04:00 | ID: 4670593006
+
+#### 🔄 Senior Manager, Accounting
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4661609006&board=coreweave&gh_jid=4661609006)
+🕐 Updated: 2026-05-21T19:10:20-04:00 | ID: 4661609006
+
+#### 🔄 Accounting Manager- Capital Assets
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4661612006&board=coreweave&gh_jid=4661612006)
+🕐 Updated: 2026-05-21T19:09:11-04:00 | ID: 4661612006
+
+#### 🔄 Staff Engineer, Storage Control Plane
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4669836006&board=coreweave&gh_jid=4669836006)
+🕐 Updated: 2026-05-21T19:08:57-04:00 | ID: 4669836006
+
+#### 🔄 Senior Product Designer – Mobile
+**Greenhouse** · mercury · Product Design
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/5843845004)
+🕐 Updated: 2026-05-21T19:07:54-04:00 | ID: 5843845004
+
+#### 🔄 Senior Analyst, Financial Reporting- Fixed Assets
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4661614006&board=coreweave&gh_jid=4661614006)
+🕐 Updated: 2026-05-21T19:07:43-04:00 | ID: 4661614006
+
+#### 🔄 Senior Software Engineer - Data Lake & BI
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4667495006&board=coreweave&gh_jid=4667495006)
+🕐 Updated: 2026-05-21T19:07:38-04:00 | ID: 4667495006
+
+#### 🔄 Senior Software Engineer, Cluster Orchestration
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4666814006&board=coreweave&gh_jid=4666814006)
+🕐 Updated: 2026-05-21T19:06:33-04:00 | ID: 4666814006
+
+#### 🔄 Sr. Engineer, Storage
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4664429006&board=coreweave&gh_jid=4664429006)
+🕐 Updated: 2026-05-21T19:05:28-04:00 | ID: 4664429006
+
+#### 🔄 Staff Engineer, Storage Engine
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4663670006&board=coreweave&gh_jid=4663670006)
+🕐 Updated: 2026-05-21T19:04:11-04:00 | ID: 4663670006
+
+#### 🔄 Senior Software Engineer, Sandboxes & Virtualization
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4659153006&board=coreweave&gh_jid=4659153006)
+🕐 Updated: 2026-05-21T19:03:18-04:00 | ID: 4659153006
+
+#### 🔄 Senior Manager, Financial Reporting- Fixed Assets
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4661616006&board=coreweave&gh_jid=4661616006)
+🕐 Updated: 2026-05-21T19:03:17-04:00 | ID: 4661616006
+
+#### 🔄 Staff Software Engineer (Remote)
+**Greenhouse** · imply · Platform Infrastructure
+📍 Burlingame, California, United States | 🔗 [Apply Here](https://imply.io/positions?gh_jid=7532528003)
+🕐 Updated: 2026-05-21T19:03:00-04:00 | ID: 7532528003
+
+#### 🔄 Software Engineer, Kubernetes Core Interfaces
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4656273006&board=coreweave&gh_jid=4656273006)
+🕐 Updated: 2026-05-21T19:02:09-04:00 | ID: 4656273006
+
+#### 🔄 Manager, Data Center Operations Accounting
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4666800006&board=coreweave&gh_jid=4666800006)
+🕐 Updated: 2026-05-21T19:01:19-04:00 | ID: 4666800006
+
+#### 🔄 Staff Thermal Engineer
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4651528006&board=coreweave&gh_jid=4651528006)
+🕐 Updated: 2026-05-21T19:00:45-04:00 | ID: 4651528006
+
+#### 🔄 Accounting Inventory Manager, Operations
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4666808006&board=coreweave&gh_jid=4666808006)
+🕐 Updated: 2026-05-21T19:00:09-04:00 | ID: 4666808006
+
+#### 🔄 Manager, Treasury Accounting
+**Greenhouse** · coreweave · Finance
+📍 New York, NY/ Sunnyvale, CA / Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4667632006&board=coreweave&gh_jid=4667632006)
+🕐 Updated: 2026-05-21T18:59:07-04:00 | ID: 4667632006
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13580 fetched, 37 updated, 8 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 64 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13675 fetched, 37 updated, 8 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-21 22:58 UTC
 
 ### Greenhouse
