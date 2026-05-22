@@ -1,3 +1,177 @@
+## 📅 Run: 2026-05-22 21:34 UTC
+
+### Greenhouse
+
+#### 🔄 Engineering Manager, Data Orchestration Platform
+**Greenhouse** · stripe · 8125 Core Compute
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7942736)
+🕐 Updated: 2026-05-22T17:31:26-04:00 | ID: 7942736
+
+#### 🆕 Technical Support Engineering Manager
+**Greenhouse** · verkada · Technical Support Engineering · 🎯 40%
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5144834007)
+🕐 Updated: 2026-05-22T17:29:49-04:00 | ID: 5144834007
+
+#### 🆕 Senior Software Engineer I (Automation)
+**Greenhouse** · smartsheet · Engineering - Developers · 🎯 78%
+📍 Bellevue, WA, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7955075)
+🕐 Updated: 2026-05-22T17:26:31-04:00 | ID: 7955075
+
+#### 🆕 Sr. Thermal Engineer, Thermal & Fluid Analysis (Starship)
+**Greenhouse** · spacex · Starship Analysis · 🎯 35%
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8562361002?gh_jid=8562361002)
+🕐 Updated: 2026-05-22T17:25:46-04:00 | ID: 8562361002
+
+#### 🔄 Inside Sales - Associate Account Executive
+**Greenhouse** · ziprecruiter · 460 ISO - New Logo Sales
+📍 Phoenix, AZ | 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/6249261)
+🕐 Updated: 2026-05-22T17:24:47-04:00 | ID: 6249261
+
+#### 🔄 Account Executive, Territory, Canada
+**Greenhouse** · verkada · Mid-Market Territory
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4267265007)
+🕐 Updated: 2026-05-22T17:19:57-04:00 | ID: 4267265007
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-22T17:17:45-04:00 | ID: 7870845
+
+#### 🔄 Senior Product Marketing Manager, Market and Competitive Intelligence
+**Greenhouse** · samsara · Product Marketing
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7785650?gh_jid=7785650)
+🕐 Updated: 2026-05-22T17:17:33-04:00 | ID: 7785650
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-22T17:17:32-04:00 | ID: 7682030
+
+#### 🔄 Senior Product Manager, Field Systems (Salesforce)
+**Greenhouse** · smartsheet · GTM Ops Field Systems
+📍 -REMOTE, USA- | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7684865)
+🕐 Updated: 2026-05-22T17:12:07-04:00 | ID: 7684865
+
+#### 🔄 Senior Software Engineer, Enterprise Platform
+**Greenhouse** · twitch · Platforms & Services
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8527485002)
+🕐 Updated: 2026-05-22T17:11:12-04:00 | ID: 8527485002
+
+#### 🔄 Senior Software Development Manager, Creator Sponsorships
+**Greenhouse** · twitch · Community Growth
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/twitch/jobs/8462482002)
+🕐 Updated: 2026-05-22T17:06:27-04:00 | ID: 8462482002
+
+#### 🔄 Senior Security Engineer, Application Security
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258)
+🕐 Updated: 2026-05-22T17:02:43-04:00 | ID: 7918258
+
+#### 🔄 Staff Security Engineer, Application Security
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299)
+🕐 Updated: 2026-05-22T17:02:41-04:00 | ID: 7754299
+
+#### 🔄 Staff Data Scientist
+**Greenhouse** · sofi · Risk Management
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7682540003?gh_jid=7682540003)
+🕐 Updated: 2026-05-22T17:02:03-04:00 | ID: 7682540003
+
+#### 🔄 Financial Operations Manager
+**Greenhouse** · bitgo · Finance
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8436572002)
+🕐 Updated: 2026-05-22T16:51:13-04:00 | ID: 8436572002
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · jumio · 225 - Inside Sales
+📍 USA (remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/jumio/jobs/4680598005)
+🕐 Updated: 2026-05-22T16:48:30-04:00 | ID: 4680598005
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · faire · Brand Partnerships
+📍 San Francisco, CA | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8525230002?gh_jid=8525230002)
+🕐 Updated: 2026-05-22T16:48:19-04:00 | ID: 8525230002
+
+#### 🔄 Lead AI Consultant
+**Greenhouse** · celonis · Services
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6647584003?gh_jid=6647584003)
+🕐 Updated: 2026-05-22T16:41:33-04:00 | ID: 6647584003
+
+#### 🔄 Staff Enterprise Architect
+**Greenhouse** · sofi · Information Technology
+📍 CA - San Francisco; WA - Seattle; TX - Frisco; UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7661740003?gh_jid=7661740003)
+🕐 Updated: 2026-05-22T16:32:05-04:00 | ID: 7661740003
+
+#### 🔄 Strategic Account Executive 4
+**Greenhouse** · twilio · Mid-Market Sales
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7746329)
+🕐 Updated: 2026-05-22T16:31:42-04:00 | ID: 7746329
+
+#### 🔄 Marketing Coordinator (Community Engagement)
+**Greenhouse** · gemini · Marketing
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951089&gh_jid=7951089)
+🕐 Updated: 2026-05-22T16:31:38-04:00 | ID: 7951089
+
+#### 🔄 Strategic Account Executive 4
+**Greenhouse** · twilio · Sales
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7607358)
+🕐 Updated: 2026-05-22T16:31:07-04:00 | ID: 7607358
+
+#### 🔄 GTM Enablement Lead, SMB
+**Greenhouse** · reddit · Global Client Solutions
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7758581)
+🕐 Updated: 2026-05-22T16:30:55-04:00 | ID: 7758581
+
+#### 🔄 Senior Software Engineer I, Frontend Infrasturcture & Experience
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7954594?gh_jid=7954594)
+🕐 Updated: 2026-05-22T16:30:39-04:00 | ID: 7954594
+
+#### 🔄 Senior Software Engineer I, Frontend Infrastructure & Experience
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7946769?gh_jid=7946769)
+🕐 Updated: 2026-05-22T16:30:21-04:00 | ID: 7946769
+
+#### 🔄 Strategic Account Executive 4
+**Greenhouse** · twilio · Sales
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7768645)
+🕐 Updated: 2026-05-22T16:30:19-04:00 | ID: 7768645
+
+#### 🔄 Emerging Account Executive, AI Native
+**Greenhouse** · anthropic · Sales
+📍 New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5079916008)
+🕐 Updated: 2026-05-22T16:25:25-04:00 | ID: 5079916008
+
+#### 🔄 Growth Account Executive, AI Native
+**Greenhouse** · anthropic · Sales
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4423394008)
+🕐 Updated: 2026-05-22T16:25:03-04:00 | ID: 4423394008
+
+#### 🔄 Manager– Growth Sales (AI-Native)
+**Greenhouse** · anthropic · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4976328008)
+🕐 Updated: 2026-05-22T16:24:29-04:00 | ID: 4976328008
+
+#### 🔄 Associate, Growth Marketing (Advanced Trading Products)
+**Greenhouse** · gemini · Marketing
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951043&gh_jid=7951043)
+🕐 Updated: 2026-05-22T16:21:48-04:00 | ID: 7951043
+
+#### 🔄 Model Performance Software Engineer, Claude Code
+**Greenhouse** · anthropic · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5098025008)
+🕐 Updated: 2026-05-22T16:16:50-04:00 | ID: 5098025008
+
+## ATS Summary
+- **Greenhouse**: 3 new, 13576 fetched, 29 updated, 39 cap-skipped, 1 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 3 new, 13669 fetched, 29 updated, 39 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-22 20:07 UTC
 
 ### Greenhouse
