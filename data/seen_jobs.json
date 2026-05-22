@@ -7528,7 +7528,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7576967": {
-    "updated_at": "2026-05-14T13:08:51-04:00",
+    "updated_at": "2026-05-22T18:14:30-04:00",
     "title": "Account Executive, Platforms (Existing Business)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -10200,7 +10200,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7121213": {
-    "updated_at": "2026-05-22T12:11:47-04:00",
+    "updated_at": "2026-05-22T18:32:57-04:00",
     "title": "Senior Machine Learning Engineer, Agentic",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -15568,8 +15568,8 @@
     "alerted": true
   },
   "greenhouse:altruist:5770229004": {
-    "updated_at": "2026-03-22T13:32:03-04:00",
-    "title": "Founding Sales Executive, Hazel AI (Multiple Levels)",
+    "updated_at": "2026-05-22T17:48:59-04:00",
+    "title": "Founding Sales Executive, Hazel AI (Mid-Market)",
     "company": "altruist",
     "ats": "greenhouse",
     "source_slug": "altruist",
@@ -33360,8 +33360,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7460969": {
-    "updated_at": "2026-05-15T17:31:26-04:00",
-    "title": "Software Engineer, Planner Reasoning, Reasoning Platform",
+    "updated_at": "2026-05-22T18:20:32-04:00",
+    "title": "Software Engineer, Planner Reasoning Platform",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -36600,8 +36600,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8476423002": {
-    "updated_at": "2026-04-21T11:44:22-04:00",
-    "title": "Sr. Manager, Field Engineering - Emerging Enterprise ",
+    "updated_at": "2026-05-22T17:41:22-04:00",
+    "title": "Sr. Manager, Field Engineering - Emerging Enterprise",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -53088,7 +53088,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4267265007": {
-    "updated_at": "2026-05-22T17:19:57-04:00",
+    "updated_at": "2026-05-22T17:41:31-04:00",
     "title": "Account Executive, Territory, Canada",
     "company": "verkada",
     "ats": "greenhouse",
@@ -59080,7 +59080,7 @@
     "alerted": false
   },
   "greenhouse:faire:8376377002": {
-    "updated_at": "2026-05-04T16:31:11-04:00",
+    "updated_at": "2026-05-22T17:55:33-04:00",
     "title": "Data Science Intern",
     "company": "faire",
     "ats": "greenhouse",
@@ -64144,7 +64144,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5102058007": {
-    "updated_at": "2026-05-07T16:58:48-04:00",
+    "updated_at": "2026-05-22T17:48:51-04:00",
     "title": "Marketing (Sales) Development Representative - Dutch speaking",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64592,7 +64592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266220": {
-    "updated_at": "2026-05-22T15:32:43-04:00",
+    "updated_at": "2026-05-22T18:33:02-04:00",
     "title": "Account Executive, Select - France",
     "company": "samsara",
     "ats": "greenhouse",
@@ -82960,7 +82960,7 @@
     "alerted": false
   },
   "greenhouse:brex:8372597002": {
-    "updated_at": "2026-04-27T14:35:30-04:00",
+    "updated_at": "2026-05-22T18:25:59-04:00",
     "title": "Senior Marketing Operations Manager, B2B Sales",
     "company": "brex",
     "ats": "greenhouse",
@@ -82968,7 +82968,7 @@
     "alerted": false
   },
   "greenhouse:brex:8380680002": {
-    "updated_at": "2026-04-27T14:35:30-04:00",
+    "updated_at": "2026-05-22T18:26:21-04:00",
     "title": "Senior Marketing Operations Manager, B2B Sales",
     "company": "brex",
     "ats": "greenhouse",
@@ -82976,7 +82976,7 @@
     "alerted": false
   },
   "greenhouse:brex:8372627002": {
-    "updated_at": "2026-04-27T14:35:30-04:00",
+    "updated_at": "2026-05-22T18:26:10-04:00",
     "title": "Senior Marketing Operations Manager, B2B Sales",
     "company": "brex",
     "ats": "greenhouse",
@@ -82984,7 +82984,7 @@
     "alerted": false
   },
   "greenhouse:brex:8380681002": {
-    "updated_at": "2026-04-27T14:35:29-04:00",
+    "updated_at": "2026-05-22T18:27:03-04:00",
     "title": "Senior Marketing Operations Manager, Product-Led Growth",
     "company": "brex",
     "ats": "greenhouse",
@@ -82992,7 +82992,7 @@
     "alerted": false
   },
   "greenhouse:brex:8372631002": {
-    "updated_at": "2026-04-27T14:35:30-04:00",
+    "updated_at": "2026-05-22T18:26:33-04:00",
     "title": "Senior Marketing Operations Manager, Product-Led Growth",
     "company": "brex",
     "ats": "greenhouse",
@@ -83000,7 +83000,7 @@
     "alerted": false
   },
   "greenhouse:brex:8372636002": {
-    "updated_at": "2026-04-27T14:35:29-04:00",
+    "updated_at": "2026-05-22T18:26:52-04:00",
     "title": "Senior Marketing Operations Manager, Product-Led Growth",
     "company": "brex",
     "ats": "greenhouse",
@@ -101664,7 +101664,7 @@
     "alerted": false
   },
   "greenhouse:datadog:6873775": {
-    "updated_at": "2026-04-23T13:41:00-04:00",
+    "updated_at": "2026-05-22T18:17:15-04:00",
     "title": "Strategic Account Executive",
     "company": "datadog",
     "ats": "greenhouse",
@@ -112704,7 +112704,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7379034": {
-    "updated_at": "2026-05-11T16:42:27-04:00",
+    "updated_at": "2026-05-22T18:09:15-04:00",
     "title": "Benefits Onboarding Advocate",
     "company": "gusto",
     "ats": "greenhouse",
@@ -126304,7 +126304,7 @@
     "alerted": false
   },
   "greenhouse:brex:8153310002": {
-    "updated_at": "2026-04-27T14:35:28-04:00",
+    "updated_at": "2026-05-22T18:24:17-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "brex",
     "ats": "greenhouse",
@@ -126312,7 +126312,7 @@
     "alerted": false
   },
   "greenhouse:brex:8152968002": {
-    "updated_at": "2026-04-27T14:35:28-04:00",
+    "updated_at": "2026-05-22T18:24:06-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "brex",
     "ats": "greenhouse",
@@ -126320,7 +126320,7 @@
     "alerted": false
   },
   "greenhouse:brex:8152963002": {
-    "updated_at": "2026-04-27T14:35:28-04:00",
+    "updated_at": "2026-05-22T18:23:54-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "brex",
     "ats": "greenhouse",
@@ -126328,7 +126328,7 @@
     "alerted": false
   },
   "greenhouse:brex:8152938002": {
-    "updated_at": "2026-04-27T14:35:28-04:00",
+    "updated_at": "2026-05-22T18:23:39-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "brex",
     "ats": "greenhouse",
@@ -126336,7 +126336,7 @@
     "alerted": false
   },
   "greenhouse:brex:8152870002": {
-    "updated_at": "2026-04-27T14:35:28-04:00",
+    "updated_at": "2026-05-22T18:23:24-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "brex",
     "ats": "greenhouse",
@@ -149224,7 +149224,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:8540208002": {
-    "updated_at": "2026-05-22T14:22:53-04:00",
+    "updated_at": "2026-05-22T17:48:44-04:00",
     "title": "Senior Accountant (Contract to Hire)",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -150504,7 +150504,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7896496": {
-    "updated_at": "2026-05-22T12:11:47-04:00",
+    "updated_at": "2026-05-22T18:22:29-04:00",
     "title": "Senior Financial Risk Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -150680,7 +150680,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:4956672008": {
-    "updated_at": "2026-05-08T12:10:31-04:00",
+    "updated_at": "2026-05-22T17:53:11-04:00",
     "title": "Analytics Data Engineer",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -154264,7 +154264,7 @@
     "alerted": false
   },
   "greenhouse:jumio:4694506005": {
-    "updated_at": "2026-05-12T05:24:39-04:00",
+    "updated_at": "2026-05-22T17:35:54-04:00",
     "title": "Account Executive - LATAM",
     "company": "jumio",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-05-22T17:17:45-04:00",
+    "updated_at": "2026-05-22T17:47:34-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -164808,7 +164808,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7242461003": {
-    "updated_at": "2026-05-21T17:05:41-04:00",
+    "updated_at": "2026-05-22T18:10:41-04:00",
     "title": "Lead UX Designer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -170616,7 +170616,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7847491": {
-    "updated_at": "2026-05-22T12:11:47-04:00",
+    "updated_at": "2026-05-22T18:33:02-04:00",
     "title": "Support Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -171144,8 +171144,8 @@
     "alerted": false
   },
   "greenhouse:gemini:7951195": {
-    "updated_at": "2026-05-22T12:49:26-04:00",
-    "title": "Manager, Brand Design",
+    "updated_at": "2026-05-22T18:01:06-04:00",
+    "title": "Manager, Brand Design Engineering",
     "company": "gemini",
     "ats": "greenhouse",
     "source_slug": "gemini",
@@ -171680,7 +171680,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7746980003": {
-    "updated_at": "2026-05-22T17:10:18-04:00",
+    "updated_at": "2026-05-22T18:05:02-04:00",
     "title": "Manager, Business Development",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -171997,6 +171997,54 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:pagerduty:5988608004": {
+    "updated_at": "2026-05-22T18:10:24-04:00",
+    "title": "IT Product Manager - Billing and Revenue Systems",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
+    "alerted": false
+  },
+  "greenhouse:databricks:8417673002": {
+    "updated_at": "2026-05-22T18:03:06-04:00",
+    "title": "Sr. Solutions Engineer - Oil, Gas, Energy",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8558268002": {
+    "updated_at": "2026-05-22T17:59:28-04:00",
+    "title": "Sr. Telecommunications Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:verkada:5145739007": {
+    "updated_at": "2026-05-22T17:47:56-04:00",
+    "title": "Engineering Manager - Storage Systems",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5228463008": {
+    "updated_at": "2026-05-22T18:20:50-04:00",
+    "title": "Support Engineer",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:amplitude:8563162002": {
+    "updated_at": "2026-05-22T18:16:37-04:00",
+    "title": "Senior AV Engineer",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
     "alerted": true
   }
 }
