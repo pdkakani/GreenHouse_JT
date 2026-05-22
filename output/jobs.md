@@ -1,3 +1,162 @@
+## 📅 Run: 2026-05-22 23:45 UTC
+
+### Greenhouse
+
+#### 🔄 Product Manager
+**Greenhouse** · elastic · Sales Strategy & Operations
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7950385&gh_jid=7950385)
+🕐 Updated: 2026-05-22T19:30:07-04:00 | ID: 7950385
+
+#### 🔄 Staff Brand Designer
+**Greenhouse** · flex · Marketing
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4670799005)
+🕐 Updated: 2026-05-22T19:23:11-04:00 | ID: 4670799005
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · flex · Marketing
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4683658005)
+🕐 Updated: 2026-05-22T19:22:34-04:00 | ID: 4683658005
+
+#### 🔄 Partner Marketing Manager
+**Greenhouse** · flex · Partner Marketing (B2B)
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4689862005)
+🕐 Updated: 2026-05-22T19:22:08-04:00 | ID: 4689862005
+
+#### 🔄 Integrated Marketing Manager
+**Greenhouse** · flex · Marketing
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4670809005)
+🕐 Updated: 2026-05-22T19:21:38-04:00 | ID: 4670809005
+
+#### 🆕 Senior Engineering Manager, Privacy Security
+**Greenhouse** · instacart · Security · 🎯 75%
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7955208)
+🕐 Updated: 2026-05-22T19:20:29-04:00 | ID: 7955208
+
+#### 🔄 Head of Performance Marketing
+**Greenhouse** · flex · Marketing
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4632721005)
+🕐 Updated: 2026-05-22T19:17:17-04:00 | ID: 4632721005
+
+#### 🔄 Events Marketing Manager, New Verticals
+**Greenhouse** · flex · Partner Marketing (B2B)
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4689871005)
+🕐 Updated: 2026-05-22T19:16:04-04:00 | ID: 4689871005
+
+#### 🔄 Senior Director, New Verticals Sales
+**Greenhouse** · flex · Revenue
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4627530005)
+🕐 Updated: 2026-05-22T19:13:54-04:00 | ID: 4627530005
+
+#### 🔄 Senior Director, New Verticals Sales (Insurance)
+**Greenhouse** · flex · Revenue
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4692132005)
+🕐 Updated: 2026-05-22T19:13:33-04:00 | ID: 4692132005
+
+#### 🔄 Senior Director, New Verticals Sales (Insurance)
+**Greenhouse** · flex · Revenue
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4696420005)
+🕐 Updated: 2026-05-22T19:13:24-04:00 | ID: 4696420005
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · flex · Revenue
+📍 New York, NY; Salt Lake City, UT | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4696899005)
+🕐 Updated: 2026-05-22T19:12:12-04:00 | ID: 4696899005
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · flex · Revenue
+📍 Salt Lake City, UT | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4697733005)
+🕐 Updated: 2026-05-22T19:11:12-04:00 | ID: 4697733005
+
+#### 🔄 GTM Strategy & Operations, Special Projects
+**Greenhouse** · anthropic · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5227856008)
+🕐 Updated: 2026-05-22T19:09:14-04:00 | ID: 5227856008
+
+#### 🔄 Director, New Verticals Sales (Auto Loans)
+**Greenhouse** · flex · Revenue
+📍 New York, NY; Salt Lake City, UT; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4695524005)
+🕐 Updated: 2026-05-22T19:07:03-04:00 | ID: 4695524005
+
+#### 🔄 Director, New Verticals Sales (Auto Loans)
+**Greenhouse** · flex · Revenue
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4692155005)
+🕐 Updated: 2026-05-22T19:06:42-04:00 | ID: 4692155005
+
+#### 🔄 Account Executive, SMB
+**Greenhouse** · flex · Revenue
+📍 New York, NY; Salt Lake City, UT | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4688803005)
+🕐 Updated: 2026-05-22T19:05:45-04:00 | ID: 4688803005
+
+#### 🔄 Financial Risk Analyst
+**Greenhouse** · adyen · Merchant Operations
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7444700)
+🕐 Updated: 2026-05-22T19:04:35-04:00 | ID: 7444700
+
+#### 🔄 Staff Software Engineer,  Data Governance & Foundations
+**Greenhouse** · instacart · Software Engineering
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7778620)
+🕐 Updated: 2026-05-22T19:03:17-04:00 | ID: 7778620
+
+#### 🔄 Staff Software Engineer, Data Governance & Foundations
+**Greenhouse** · instacart · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7778618)
+🕐 Updated: 2026-05-22T19:03:17-04:00 | ID: 7778618
+
+#### 🔄 Senior Manager, Partnerships Strategy & Operations
+**Greenhouse** · flex · Business Development
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4647044005)
+🕐 Updated: 2026-05-22T19:02:30-04:00 | ID: 4647044005
+
+#### 🔄 Senior Director, Strategic Partnerships
+**Greenhouse** · flex · Business Development
+📍 New York, NY; Salt Lake City, UT; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4692932005)
+🕐 Updated: 2026-05-22T19:01:44-04:00 | ID: 4692932005
+
+#### 🔄 Senior Director, Business Development (New Verticals)
+**Greenhouse** · flex · Business Development
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4627497005)
+🕐 Updated: 2026-05-22T19:00:02-04:00 | ID: 4627497005
+
+#### 🔄 Director, Strategic Partnerships (New Verticals)
+**Greenhouse** · flex · Business Development
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4685871005)
+🕐 Updated: 2026-05-22T18:56:43-04:00 | ID: 4685871005
+
+#### 🔄 Compliance Operations Analyst
+**Greenhouse** · klaviyo · Customer Support
+📍 Denver, CO | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7723889003)
+🕐 Updated: 2026-05-22T18:53:41-04:00 | ID: 7723889003
+
+#### 🔄 Compliance Operations Analyst
+**Greenhouse** · klaviyo · Customer Support
+📍 San Francisco, CA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7723890003)
+🕐 Updated: 2026-05-22T18:53:41-04:00 | ID: 7723890003
+
+#### 🔄 Compliance Operations Analyst
+**Greenhouse** · klaviyo · Customer Support
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7710203003)
+🕐 Updated: 2026-05-22T18:53:40-04:00 | ID: 7710203003
+
+#### 🔄 Head of ML/AI Engineering
+**Greenhouse** · gusto · Data
+📍 Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7948318)
+🕐 Updated: 2026-05-22T18:50:20-04:00 | ID: 7948318
+
+#### 🔄 Creative Lead, Photo
+**Greenhouse** · airbnb · Art and Creative
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7919241?gh_jid=7919241)
+🕐 Updated: 2026-05-22T18:43:03-04:00 | ID: 7919241
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13572 fetched, 28 updated, 3 cap-skipped, 1 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13665 fetched, 28 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-22 22:39 UTC
 
 ### Greenhouse
