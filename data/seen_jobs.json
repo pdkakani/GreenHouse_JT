@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-05-23T10:32:14-04:00",
+    "updated_at": "2026-05-23T15:02:32-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -170696,7 +170696,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7927681": {
-    "updated_at": "2026-05-22T12:11:47-04:00",
+    "updated_at": "2026-05-23T15:18:28-04:00",
     "title": "Finance & Strategy Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -172165,6 +172165,22 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8553652002": {
+    "updated_at": "2026-05-23T13:26:43-04:00",
+    "title": "Critical Lift Technician (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5013743008": {
+    "updated_at": "2026-05-23T15:14:37-04:00",
+    "title": "Technical Program Manager, Data Center Infrastructure",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }

@@ -1,3 +1,32 @@
+## 📅 Run: 2026-05-23 19:49 UTC
+
+### Greenhouse
+
+#### 🔄 Finance & Strategy Manager
+**Greenhouse** · robinhood · Finance Division
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7927681?t=gh_src=&gh_jid=7927681)
+🕐 Updated: 2026-05-23T15:18:28-04:00 | ID: 7927681
+
+#### 🆕 Technical Program Manager, Data Center Infrastructure
+**Greenhouse** · anthropic · Technical Program Management · 🎯 40%
+📍 San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5013743008)
+🕐 Updated: 2026-05-23T15:14:37-04:00 | ID: 5013743008
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-23T15:02:32-04:00 | ID: 7682030
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13570 fetched, 2 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13663 fetched, 2 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-23 17:41 UTC
 
 ### Greenhouse
