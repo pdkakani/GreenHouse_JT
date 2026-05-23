@@ -1,3 +1,22 @@
+## 📅 Run: 2026-05-23 11:34 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Select - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266220?gh_jid=7266220)
+🕐 Updated: 2026-05-23T07:33:18-04:00 | ID: 7266220
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13568 fetched, 1 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13661 fetched, 1 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-23 10:03 UTC
 
 ### Greenhouse
