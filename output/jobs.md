@@ -1,3 +1,37 @@
+## 📅 Run: 2026-05-23 15:31 UTC
+
+### Greenhouse
+
+#### 🔄 Sales Manager, iGaming & Web3
+**Greenhouse** · cloudflare · Mid Market
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7789822?gh_jid=7789822)
+🕐 Updated: 2026-05-23T11:17:34-04:00 | ID: 7789822
+
+#### 🔄 Client Partner, Mid-Market Sales (B2B Services - Acquisitions)
+**Greenhouse** · reddit · Mid Market & SMB
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7801838)
+🕐 Updated: 2026-05-23T11:07:43-04:00 | ID: 7801838
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-23T10:32:14-04:00 | ID: 7682030
+
+#### 🆕 Senior Software Engineer, AI Platform
+**Greenhouse** · mixpanel · Engineering · 🎯 85%
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7941944)
+🕐 Updated: 2026-05-23T10:02:17-04:00 | ID: 7941944
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13564 fetched, 3 updated, 1 cap-skipped, 1 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13657 fetched, 3 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-23 14:14 UTC
 
 ### Greenhouse

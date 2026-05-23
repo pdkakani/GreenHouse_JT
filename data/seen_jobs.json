@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-05-23T05:17:02-04:00",
+    "updated_at": "2026-05-23T10:32:14-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -69304,8 +69304,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7789822": {
-    "updated_at": "2026-05-06T22:11:47-04:00",
-    "title": "Sales Manager, RIG (iGaming & Web3)",
+    "updated_at": "2026-05-23T11:17:34-04:00",
+    "title": "Sales Manager, iGaming & Web3",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -71536,7 +71536,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7801838": {
-    "updated_at": "2026-05-14T13:36:35-04:00",
+    "updated_at": "2026-05-23T11:07:43-04:00",
     "title": "Client Partner, Mid-Market Sales (B2B Services - Acquisitions)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -172110,5 +172110,21 @@
     "ats": "greenhouse",
     "source_slug": "lattice",
     "alerted": false
+  },
+  "greenhouse:spacex:8563284002": {
+    "updated_at": "2026-05-22T23:20:34-04:00",
+    "title": "CNC Machinist (Starship Components)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:7941944": {
+    "updated_at": "2026-05-23T10:02:17-04:00",
+    "title": "Senior Software Engineer, AI Platform",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": true
   }
 }
