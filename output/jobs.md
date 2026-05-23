@@ -1,3 +1,32 @@
+## 📅 Run: 2026-05-23 10:03 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Principal, Tax Controversy
+**Greenhouse** · airbnb · Legal
+📍 Ireland, Spain, United Kingdom | 🔗 [Apply Here](https://careers.airbnb.com/positions/7920760?gh_jid=7920760)
+🕐 Updated: 2026-05-23T05:36:39-04:00 | ID: 7920760
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-23T05:17:02-04:00 | ID: 7682030
+
+#### 🔄 Operations Associate
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Los Angeles, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8556731002?gh_jid=8556731002)
+🕐 Updated: 2026-05-23T04:11:02-04:00 | ID: 8556731002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13568 fetched, 3 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13661 fetched, 3 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-23 08:09 UTC
 
 ### Greenhouse

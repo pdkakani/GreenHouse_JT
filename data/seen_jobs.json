@@ -65320,7 +65320,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7682030": {
-    "updated_at": "2026-05-23T00:17:04-04:00",
+    "updated_at": "2026-05-23T05:17:02-04:00",
     "title": "Manager, Customer Success EMEA Scale",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156672,7 +156672,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7920760": {
-    "updated_at": "2026-05-13T10:44:46-04:00",
+    "updated_at": "2026-05-23T05:36:39-04:00",
     "title": "Senior Principal, Tax Controversy",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -165392,7 +165392,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8556731002": {
-    "updated_at": "2026-05-19T16:27:14-04:00",
+    "updated_at": "2026-05-23T04:11:02-04:00",
     "title": "Operations Associate",
     "company": "lyft",
     "ats": "greenhouse",
@@ -172093,6 +172093,14 @@
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:airtable:8563194002": {
+    "updated_at": "2026-05-22T20:06:36-04:00",
+    "title": "Lead Solutions Consultant",
+    "company": "airtable",
+    "ats": "greenhouse",
+    "source_slug": "airtable",
     "alerted": false
   }
 }
