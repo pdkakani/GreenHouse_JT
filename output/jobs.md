@@ -1,3 +1,22 @@
+## 📅 Run: 2026-05-24 10:16 UTC
+
+### Greenhouse
+
+#### 🔄 UAE Chief Risk Officer and Compliance and Money Laundering Reporting Officer (CRO/COMLRO)
+**Greenhouse** · stripe · 3311 FinCRO
+📍 Dubai, UAE | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7757554)
+🕐 Updated: 2026-05-24T05:45:46-04:00 | ID: 7757554
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13570 fetched, 1 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13663 fetched, 1 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-24 08:21 UTC
 
 ### Greenhouse

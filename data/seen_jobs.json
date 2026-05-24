@@ -162368,8 +162368,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7757554": {
-    "updated_at": "2026-05-20T16:58:18-04:00",
-    "title": "Compliance and Money Laundering Reporting Officer , UAE (COMLRO)",
+    "updated_at": "2026-05-24T05:45:46-04:00",
+    "title": "UAE Chief Risk Officer and Compliance and Money Laundering Reporting Officer (CRO/COMLRO)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -172182,5 +172182,21 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": true
+  },
+  "greenhouse:spacex:8550915002": {
+    "updated_at": "2026-05-23T14:12:35-04:00",
+    "title": "Lead, Fulfillment Purchasing",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:asana:6981655": {
+    "updated_at": "2026-05-23T13:40:24-04:00",
+    "title": "Corporate Account Executive",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
   }
 }
