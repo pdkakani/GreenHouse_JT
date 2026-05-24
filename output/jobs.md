@@ -1,3 +1,22 @@
+## 📅 Run: 2026-05-24 08:21 UTC
+
+### Greenhouse
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-24T03:17:12-04:00 | ID: 7682030
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13567 fetched, 1 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13660 fetched, 1 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-24 05:46 UTC
 
 ### Greenhouse
