@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-24 11:47 UTC
+
+### Greenhouse
+
+#### 🔄 Enterprise Customer Success Manager - Tel Aviv
+**Greenhouse** · datadog · Enterprise Customer Success
+📍 Tel Aviv, Israel | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7844421/?gh_jid=7844421)
+🕐 Updated: 2026-05-24T07:25:09-04:00 | ID: 7844421
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-24T06:47:04-04:00 | ID: 7682030
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13569 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13662 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-24 10:16 UTC
 
 ### Greenhouse
