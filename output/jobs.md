@@ -1,3 +1,52 @@
+## 📅 Run: 2026-05-24 16:54 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Designated Support Engineer
+**Greenhouse** · databricks · Engineering
+📍 Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8554477002)
+🕐 Updated: 2026-05-24T12:21:31-04:00 | ID: 8554477002
+
+#### 🔄 Staff Designated Support Engineer
+**Greenhouse** · databricks · Engineering
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002)
+🕐 Updated: 2026-05-24T12:20:13-04:00 | ID: 8554463002
+
+#### 🔄 Sr.Staff Software Engineer- Network Platform
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8462811002)
+🕐 Updated: 2026-05-24T11:56:03-04:00 | ID: 8462811002
+
+#### 🔄 Director of Engineering
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7896551002)
+🕐 Updated: 2026-05-24T11:48:21-04:00 | ID: 7896551002
+
+#### 🔄 Staff Software Engineer (Core Experiences)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002)
+🕐 Updated: 2026-05-24T11:47:56-04:00 | ID: 6716344002
+
+#### 🔄 Senior Software Engineer - Networking Infra
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002)
+🕐 Updated: 2026-05-24T11:47:49-04:00 | ID: 7619810002
+
+#### 🔄 Senior Software Engineer - Data Platform
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601580002)
+🕐 Updated: 2026-05-24T11:47:48-04:00 | ID: 7601580002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13575 fetched, 7 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13668 fetched, 7 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-24 15:47 UTC
 
 ### Greenhouse
