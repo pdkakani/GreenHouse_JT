@@ -1,3 +1,57 @@
+## 📅 Run: 2026-05-24 15:47 UTC
+
+### Greenhouse
+
+#### 🔄 Director of Engineering (Data Infrastructure)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002)
+🕐 Updated: 2026-05-24T11:47:08-04:00 | ID: 8290810002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002)
+🕐 Updated: 2026-05-24T11:45:57-04:00 | ID: 8320187002
+
+#### 🔄 Senior Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002)
+🕐 Updated: 2026-05-24T11:45:56-04:00 | ID: 8421894002
+
+#### 🔄 Senior Software Engineer - Data + AI Observability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002)
+🕐 Updated: 2026-05-24T11:45:55-04:00 | ID: 7897431002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002)
+🕐 Updated: 2026-05-24T11:45:54-04:00 | ID: 8320183002
+
+#### 🔄 Engineering Manager (Ingestion)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002)
+🕐 Updated: 2026-05-24T11:17:20-04:00 | ID: 8357216002
+
+#### 🔄 Engineering Manager - Core Experiences
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002)
+🕐 Updated: 2026-05-24T11:17:18-04:00 | ID: 7006090002
+
+#### 🔄 Engineering Manager - Backend
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7439442002)
+🕐 Updated: 2026-05-24T11:17:17-04:00 | ID: 7439442002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13575 fetched, 8 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13668 fetched, 8 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-24 14:42 UTC
 
 ### Greenhouse
