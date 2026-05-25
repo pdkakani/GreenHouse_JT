@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-25 18:57 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Analyst, Talent Acquisition Operations
+**Greenhouse** · databricks · Recruiting
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8555821002)
+🕐 Updated: 2026-05-25T14:45:15-04:00 | ID: 8555821002
+
+#### 🔄 KYB/KYC Operations Associate, Bridge (CDMX)
+**Greenhouse** · stripe · 4899 SDC - Bridge RiskOps
+📍 Mexico City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7862772)
+🕐 Updated: 2026-05-25T13:29:04-04:00 | ID: 7862772
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13545 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13636 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-25 17:22 UTC
 
 ### Greenhouse
