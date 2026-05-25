@@ -132800,7 +132800,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7856700": {
-    "updated_at": "2026-05-11T10:26:26-04:00",
+    "updated_at": "2026-05-25T17:46:11-04:00",
     "title": "People Operations Specialist",
     "company": "twilio",
     "ats": "greenhouse",
@@ -172717,6 +172717,30 @@
     "company": "huntress",
     "ats": "greenhouse",
     "source_slug": "huntress",
+    "alerted": true
+  },
+  "greenhouse:convera:4871964101": {
+    "updated_at": "2026-05-25T12:50:39-04:00",
+    "title": "Customer Support Associate",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8548545002": {
+    "updated_at": "2026-05-25T18:37:15-04:00",
+    "title": "Senior AI Engineer",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": true
+  },
+  "greenhouse:faire:8564077002": {
+    "updated_at": "2026-05-25T17:50:31-04:00",
+    "title": "Senior Engineering Leader - Discovery Experience",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
     "alerted": true
   }
 }

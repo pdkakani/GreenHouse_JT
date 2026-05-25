@@ -1,3 +1,32 @@
+## 📅 Run: 2026-05-25 22:41 UTC
+
+### Greenhouse
+
+#### 🆕 Senior AI Engineer
+**Greenhouse** · gitlab · Enterprise Applications · 🎯 85%
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8548545002)
+🕐 Updated: 2026-05-25T18:37:15-04:00 | ID: 8548545002
+
+#### 🆕 Senior Engineering Leader - Discovery Experience
+**Greenhouse** · faire · Engineering · 🎯 78%
+📍 San Francisco, CA | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8564077002?gh_jid=8564077002)
+🕐 Updated: 2026-05-25T17:50:31-04:00 | ID: 8564077002
+
+#### 🔄 People Operations Specialist
+**Greenhouse** · twilio · People Team
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7856700)
+🕐 Updated: 2026-05-25T17:46:11-04:00 | ID: 7856700
+
+## ATS Summary
+- **Greenhouse**: 2 new, 13537 fetched, 1 updated, 1 cap-skipped, 2 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 13628 fetched, 1 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-25 21:42 UTC
 
 ### Greenhouse
