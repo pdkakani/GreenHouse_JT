@@ -1,3 +1,37 @@
+## 📅 Run: 2026-05-25 21:42 UTC
+
+### Greenhouse
+
+#### 🔄 Operations Engineering Manager, Fleet Reliability
+**Greenhouse** · coreweave · Technology
+📍 Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4678462006&board=coreweave&gh_jid=4678462006)
+🕐 Updated: 2026-05-25T17:03:15-04:00 | ID: 4678462006
+
+#### 🔄 Staff AI Security Engineer
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4676692006&board=coreweave&gh_jid=4676692006)
+🕐 Updated: 2026-05-25T17:01:58-04:00 | ID: 4676692006
+
+#### 🔄 Security Engineering Manager, Platform Security
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA/ San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4676216006&board=coreweave&gh_jid=4676216006)
+🕐 Updated: 2026-05-25T17:01:00-04:00 | ID: 4676216006
+
+#### 🔄 Senior Manager, Observability
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4675051006&board=coreweave&gh_jid=4675051006)
+🕐 Updated: 2026-05-25T17:00:31-04:00 | ID: 4675051006
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13542 fetched, 4 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13633 fetched, 4 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-25 20:22 UTC
 
 ### Greenhouse
