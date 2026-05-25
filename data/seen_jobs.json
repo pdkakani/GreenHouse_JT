@@ -5544,7 +5544,7 @@
     "alerted": true
   },
   "greenhouse:newrelic:5153292008": {
-    "updated_at": "2026-05-12T11:33:21-04:00",
+    "updated_at": "2026-05-25T15:46:42-04:00",
     "title": "Senior Growth Web Engineer",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -114472,8 +114472,8 @@
     "alerted": false
   },
   "greenhouse:braze:7668561": {
-    "updated_at": "2026-05-21T08:27:03-04:00",
-    "title": "Forward-Deployed Data Scientist II",
+    "updated_at": "2026-05-25T15:12:16-04:00",
+    "title": "Data Scientist II (AI Deployment)",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -151920,7 +151920,7 @@
     "alerted": false
   },
   "greenhouse:everlaw:4574042006": {
-    "updated_at": "2026-05-08T22:35:03-04:00",
+    "updated_at": "2026-05-25T15:36:34-04:00",
     "title": "Senior Manager, Product Lead",
     "company": "everlaw",
     "ats": "greenhouse",
@@ -172701,6 +172701,22 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:samsara:7942733": {
+    "updated_at": "2026-05-25T12:41:33-04:00",
+    "title": "GTM Business Operations Manager",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:huntress:7731434003": {
+    "updated_at": "2026-05-25T15:15:47-04:00",
+    "title": "Senior Offensive Security Engineer",
+    "company": "huntress",
+    "ats": "greenhouse",
+    "source_slug": "huntress",
     "alerted": true
   }
 }

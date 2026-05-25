@@ -1,3 +1,37 @@
+## 📅 Run: 2026-05-25 20:22 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Growth Web Engineer
+**Greenhouse** · newrelic · Marketing
+📍 Arlington, Virginia, USA; Atlanta, Georgia, USA; Austin, Texas, USA; Chicago, Illinois, USA; Hartford, Connecticut, USA; Jersey City, New Jersey, USA; Raleigh, North Carolina, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5153292008)
+🕐 Updated: 2026-05-25T15:46:42-04:00 | ID: 5153292008
+
+#### 🔄 Senior Manager, Product Lead
+**Greenhouse** · everlaw · Product
+📍 Oakland, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4574042006)
+🕐 Updated: 2026-05-25T15:36:34-04:00 | ID: 4574042006
+
+#### 🆕 Senior Offensive Security Engineer
+**Greenhouse** · huntress · Adversary Informed Defense · 🎯 40%
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7731434003)
+🕐 Updated: 2026-05-25T15:15:47-04:00 | ID: 7731434003
+
+#### 🔄 Data Scientist II (AI Deployment)
+**Greenhouse** · braze · Customer Experience
+📍 São Paulo | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7668561?gh_jid=7668561)
+🕐 Updated: 2026-05-25T15:12:16-04:00 | ID: 7668561
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13546 fetched, 3 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13637 fetched, 3 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-25 18:57 UTC
 
 ### Greenhouse
