@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-25 00:13 UTC
+
+### Greenhouse
+
+#### 🆕 Principal AI/ML Researcher / Engineer Reasoning, Planning, and Decision-making systems
+**Greenhouse** · airbnb · Software Engineering · 🎯 45%
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7955573?gh_jid=7955573)
+🕐 Updated: 2026-05-24T19:39:02-04:00 | ID: 7955573
+
+#### 🆕 Principal Machine Learning Engineer- LLM Fine-tuning and Optimization
+**Greenhouse** · airbnb · Software Engineering · 🎯 40%
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7955579?gh_jid=7955579)
+🕐 Updated: 2026-05-24T19:37:28-04:00 | ID: 7955579
+
+## ATS Summary
+- **Greenhouse**: 2 new, 13574 fetched, 0 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 13667 fetched, 0 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-24 22:10 UTC
 
 ### Greenhouse

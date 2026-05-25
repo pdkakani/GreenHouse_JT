@@ -172246,5 +172246,37 @@
     "ats": "greenhouse",
     "source_slug": "robinhood",
     "alerted": false
+  },
+  "greenhouse:klaviyo:7747511003": {
+    "updated_at": "2026-05-24T10:11:28-04:00",
+    "title": "Sr. Manager of GTM Incentive Compensation",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7742671003": {
+    "updated_at": "2026-05-24T10:10:25-04:00",
+    "title": "Sr. Manager of GTM Incentive Compensation",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:airbnb:7955573": {
+    "updated_at": "2026-05-24T19:39:02-04:00",
+    "title": "Principal AI/ML Researcher / Engineer Reasoning, Planning, and Decision-making systems",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": true
+  },
+  "greenhouse:airbnb:7955579": {
+    "updated_at": "2026-05-24T19:37:28-04:00",
+    "title": "Principal Machine Learning Engineer- LLM Fine-tuning and Optimization",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": true
   }
 }
