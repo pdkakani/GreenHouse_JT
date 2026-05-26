@@ -1,3 +1,1722 @@
+## 📅 Run: 2026-05-26 23:32 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Product Manager, Agent Context
+**Greenhouse** · asana · Product Management
+📍 New York City | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7663184?gh_jid=7663184)
+🕐 Updated: 2026-05-26T19:30:15-04:00 | ID: 7663184
+
+#### 🆕 Application Security Engineer - Federal / US Government
+**Greenhouse** · verkada · Security · 🎯 75%
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4479017007)
+🕐 Updated: 2026-05-26T19:29:43-04:00 | ID: 4479017007
+
+#### 🔄 Senior Android Engineer - Alarms
+**Greenhouse** · verkada · Alarms
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4856201007)
+🕐 Updated: 2026-05-26T19:28:58-04:00 | ID: 4856201007
+
+#### 🔄 Senior Fraud Strategist
+**Greenhouse** · gemini · Fraud Operations
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7905301&gh_jid=7905301)
+🕐 Updated: 2026-05-26T19:26:31-04:00 | ID: 7905301
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · gemini · Design
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7811967&gh_jid=7811967)
+🕐 Updated: 2026-05-26T19:26:29-04:00 | ID: 7811967
+
+#### 🔄 Product Design Intern (Summer 2026)
+**Greenhouse** · gemini · Design
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7360329&gh_jid=7360329)
+🕐 Updated: 2026-05-26T19:26:26-04:00 | ID: 7360329
+
+#### 🔄 Channel Sales Manager, Bay Area
+**Greenhouse** · verkada · Channel
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5055794007)
+🕐 Updated: 2026-05-26T19:17:17-04:00 | ID: 5055794007
+
+#### 🔄 Senior Software Engineer, molab
+**Greenhouse** · coreweave · Technology
+📍 New York, NY / San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4665402006&board=coreweave&gh_jid=4665402006)
+🕐 Updated: 2026-05-26T19:17:10-04:00 | ID: 4665402006
+
+#### 🔄 Senior Developer Relations Engineer - Marimo
+**Greenhouse** · coreweave · Technology
+📍 San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4665386006&board=coreweave&gh_jid=4665386006)
+🕐 Updated: 2026-05-26T19:16:27-04:00 | ID: 4665386006
+
+#### 🔄 Senior Software Engineer, Core Open-Source- Marimo
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4652254006&board=coreweave&gh_jid=4652254006)
+🕐 Updated: 2026-05-26T19:13:56-04:00 | ID: 4652254006
+
+#### 🔄 Strategic Alliance Operations Director
+**Greenhouse** · databricks · Business Development
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8439170002)
+🕐 Updated: 2026-05-26T19:05:27-04:00 | ID: 8439170002
+
+#### 🔄 Senior Accountant (Contract to Hire)
+**Greenhouse** · bitgo · Finance
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8540208002)
+🕐 Updated: 2026-05-26T19:05:07-04:00 | ID: 8540208002
+
+#### 🔄 Staff Frontend Engineer, DC Infrastructure Tooling
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4659095006&board=coreweave&gh_jid=4659095006)
+🕐 Updated: 2026-05-26T18:55:46-04:00 | ID: 4659095006
+
+#### 🔄 Sr Account Executive
+**Greenhouse** · ivalua · Account Executive / Account Management
+📍 Denmark | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/7866945?gh_jid=7866945)
+🕐 Updated: 2026-05-26T18:52:19-04:00 | ID: 7866945
+
+#### 🔄 Sr. Partner Account Executive, EMEA FMC
+**Greenhouse** · samsara · Partner Sales
+📍 London - UK2 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7530558?gh_jid=7530558)
+🕐 Updated: 2026-05-26T18:50:07-04:00 | ID: 7530558
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · samsara · Canada
+📍 Montreal, Québec | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6046593?gh_jid=6046593)
+🕐 Updated: 2026-05-26T18:50:06-04:00 | ID: 6046593
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · samsara · Canada
+📍 Canada - Remote | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/5868498?gh_jid=5868498)
+🕐 Updated: 2026-05-26T18:50:06-04:00 | ID: 5868498
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · samsara · Canada
+📍 Calgary, Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6046590?gh_jid=6046590)
+🕐 Updated: 2026-05-26T18:50:06-04:00 | ID: 6046590
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · samsara · Canada
+📍 Vancouver, Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6046587?gh_jid=6046587)
+🕐 Updated: 2026-05-26T18:50:06-04:00 | ID: 6046587
+
+#### 🔄 Mid-Market Account Executive - Calgary
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - Calgary | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6330593?gh_jid=6330593)
+🕐 Updated: 2026-05-26T18:50:06-04:00 | ID: 6330593
+
+#### 🔄 Sales Engineer, Public Sector Enterprise Core - Remote US Northeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7493951?gh_jid=7493951)
+🕐 Updated: 2026-05-26T18:50:06-04:00 | ID: 7493951
+
+#### 🔄 Staff Software Engineer - Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266385?gh_jid=7266385)
+🕐 Updated: 2026-05-26T18:50:05-04:00 | ID: 7266385
+
+#### 🔄 Mid-Market Account Executive - Canada
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Canada - Remote | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/5868606?gh_jid=5868606)
+🕐 Updated: 2026-05-26T18:50:04-04:00 | ID: 5868606
+
+#### 🔄 Mid Market Account Executive - DACH
+**Greenhouse** · samsara · EU Sales
+📍 Remote - Germany | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266176?gh_jid=7266176)
+🕐 Updated: 2026-05-26T18:50:04-04:00 | ID: 7266176
+
+#### 🔄 Senior Sales Strategy Manager, New Product
+**Greenhouse** · samsara · Sales Strategy
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7461793?gh_jid=7461793)
+🕐 Updated: 2026-05-26T18:50:04-04:00 | ID: 7461793
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Portland, OR | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612450?gh_jid=7612450)
+🕐 Updated: 2026-05-26T18:50:03-04:00 | ID: 7612450
+
+#### 🔄 Director, Scaled Customer Success
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7807827?gh_jid=7807827)
+🕐 Updated: 2026-05-26T18:50:03-04:00 | ID: 7807827
+
+#### 🔄 Enterprise Sales Engineer - Toronto
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7818569?gh_jid=7818569)
+🕐 Updated: 2026-05-26T18:50:03-04:00 | ID: 7818569
+
+#### 🔄 Mid-Market Account Executive - UK&I
+**Greenhouse** · samsara · EU Sales
+📍 London - UK2; London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7613161?gh_jid=7613161)
+🕐 Updated: 2026-05-26T18:50:03-04:00 | ID: 7613161
+
+#### 🔄 Principal Product Manager
+**Greenhouse** · samsara · STCE & Maintenance
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7604461?gh_jid=7604461)
+🕐 Updated: 2026-05-26T18:50:03-04:00 | ID: 7604461
+
+#### 🔄 Senior Software Engineer - Route Execution
+**Greenhouse** · samsara · Telematics
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7569229?gh_jid=7569229)
+🕐 Updated: 2026-05-26T18:50:03-04:00 | ID: 7569229
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7733786?gh_jid=7733786)
+🕐 Updated: 2026-05-26T18:50:03-04:00 | ID: 7733786
+
+#### 🔄 GRC Analyst, Third-Party Risk Management
+**Greenhouse** · samsara · IT Security
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7669236?gh_jid=7669236)
+🕐 Updated: 2026-05-26T18:50:02-04:00 | ID: 7669236
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651583?gh_jid=7651583)
+🕐 Updated: 2026-05-26T18:50:02-04:00 | ID: 7651583
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - AL | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651607?gh_jid=7651607)
+🕐 Updated: 2026-05-26T18:50:02-04:00 | ID: 7651607
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote Pennsylvania
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - PA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7357074?gh_jid=7357074)
+🕐 Updated: 2026-05-26T18:50:01-04:00 | ID: 7357074
+
+#### 🔄 Senior Software Engineer II, DevEx, OPX
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7743836?gh_jid=7743836)
+🕐 Updated: 2026-05-26T18:49:53-04:00 | ID: 7743836
+
+#### 🔄 Director, Audience Product Marketing
+**Greenhouse** · samsara · Product Marketing
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7629688?gh_jid=7629688)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7629688
+
+#### 🔄 Enterprise Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7482459?gh_jid=7482459)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7482459
+
+#### 🔄 Enterprise Implementation Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7742566?gh_jid=7742566)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7742566
+
+#### 🔄 Sales Engineer I, SE Desk Southeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7848351
+
+#### 🔄 Sales Engineer I, SE Desk TOLA
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7848363
+
+#### 🔄 Senior People Technology Analyst - Workday
+**Greenhouse** · samsara · People Experience
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7905376?gh_jid=7905376)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7905376
+
+#### 🔄 Senior People Technology Analyst - Workday
+**Greenhouse** · samsara · People Experience
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7927467?gh_jid=7927467)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7927467
+
+#### 🔄 Sr. Engineering Program Manager
+**Greenhouse** · samsara · Hardware Engineering
+📍 Remote - Taiwan | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7706338?gh_jid=7706338)
+🕐 Updated: 2026-05-26T18:49:50-04:00 | ID: 7706338
+
+#### 🔄 Enterprise Account Executive-Major Accounts
+**Greenhouse** · samsara · Canada
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7613076?gh_jid=7613076)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7613076
+
+#### 🔄 Enterprise Implementation Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7852948?gh_jid=7852948)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7852948
+
+#### 🔄 Mid-Market Account Executive -  French Fluent
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - Montreal | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7926750?gh_jid=7926750)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7926750
+
+#### 🔄 Partner Solutions Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7662841?gh_jid=7662841)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7662841
+
+#### 🔄 Sales Engineer I, SE Desk - West
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7311768?gh_jid=7311768)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7311768
+
+#### 🔄 Sales Engineer - Mid-Market Midwest
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7187197?gh_jid=7187197)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7187197
+
+#### 🔄 Senior/Principal Product Manager - Safety AI
+**Greenhouse** · samsara · Safety
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7736609?gh_jid=7736609)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7736609
+
+#### 🔄 Specialist Seller - Enterprise
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7292081?gh_jid=7292081)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7292081
+
+#### 🔄 Specialist Seller - Enterprise Select AI Products
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7922805?gh_jid=7922805)
+🕐 Updated: 2026-05-26T18:49:49-04:00 | ID: 7922805
+
+#### 🔄 Core Enterprise Account Executive MST/PST - North Dakota
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - ND | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341024?gh_jid=7341024)
+🕐 Updated: 2026-05-26T18:49:48-04:00 | ID: 7341024
+
+#### 🔄 Sales Engineer - Mid-Market Southeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7187159?gh_jid=7187159)
+🕐 Updated: 2026-05-26T18:49:48-04:00 | ID: 7187159
+
+#### 🔄 Senior Software Engineer, Growth
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7773090?gh_jid=7773090)
+🕐 Updated: 2026-05-26T18:49:48-04:00 | ID: 7773090
+
+#### 🔄 Enterprise Implementation Consultant - Public Sector
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7826401?gh_jid=7826401)
+🕐 Updated: 2026-05-26T18:49:47-04:00 | ID: 7826401
+
+#### 🔄 Manager, Software Engineering (Platform Reports)
+**Greenhouse** · samsara · Platform
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7345839?gh_jid=7345839)
+🕐 Updated: 2026-05-26T18:49:47-04:00 | ID: 7345839
+
+#### 🔄 Senior Software Engineer II - Mobile Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266469?gh_jid=7266469)
+🕐 Updated: 2026-05-26T18:49:47-04:00 | ID: 7266469
+
+#### 🔄 Senior Staff Software Engineer - STCE
+**Greenhouse** · samsara · STCE & Maintenance
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266162?gh_jid=7266162)
+🕐 Updated: 2026-05-26T18:49:47-04:00 | ID: 7266162
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Houston, TX
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Houston, Texas | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499)
+🕐 Updated: 2026-05-26T18:49:45-04:00 | ID: 6685499
+
+#### 🔄 Principal Product Manager - Maintenance
+**Greenhouse** · samsara · STCE & Maintenance
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7269221?gh_jid=7269221)
+🕐 Updated: 2026-05-26T18:49:45-04:00 | ID: 7269221
+
+#### 🔄 L1 Senior Technical Support
+**Greenhouse** · samsara · Support
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7484453?gh_jid=7484453)
+🕐 Updated: 2026-05-26T18:49:43-04:00 | ID: 7484453
+
+#### 🔄 Engineering Manager II
+**Greenhouse** · samsara · Hardware Engineering
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7801077?gh_jid=7801077)
+🕐 Updated: 2026-05-26T18:49:42-04:00 | ID: 7801077
+
+#### 🔄 Senior Manager, Safety AI
+**Greenhouse** · samsara · Safety AI
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7731751?gh_jid=7731751)
+🕐 Updated: 2026-05-26T18:49:42-04:00 | ID: 7731751
+
+#### 🔄 Staff Machine Learning Engineer - Edge AI
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070)
+🕐 Updated: 2026-05-26T18:49:41-04:00 | ID: 7431070
+
+#### 🔄 Senior Software Engineer - Route Execution
+**Greenhouse** · samsara · Telematics
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7573118?gh_jid=7573118)
+🕐 Updated: 2026-05-26T18:49:40-04:00 | ID: 7573118
+
+#### 🔄 Enablement Business Partner – Customer Success
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7640343?gh_jid=7640343)
+🕐 Updated: 2026-05-26T18:49:39-04:00 | ID: 7640343
+
+#### 🔄 Sales Director, Mid-Market
+**Greenhouse** · samsara · Canada
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7547204?gh_jid=7547204)
+🕐 Updated: 2026-05-26T18:49:39-04:00 | ID: 7547204
+
+#### 🔄 Senior Product Manager, Growth
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7700461?gh_jid=7700461)
+🕐 Updated: 2026-05-26T18:49:39-04:00 | ID: 7700461
+
+#### 🔄 Supply Chain - Summer Intern
+**Greenhouse** · samsara · Supply Chain
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7743948?gh_jid=7743948)
+🕐 Updated: 2026-05-26T18:49:39-04:00 | ID: 7743948
+
+#### 🔄 Manager II Sales Operations
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7555287?gh_jid=7555287)
+🕐 Updated: 2026-05-26T18:49:38-04:00 | ID: 7555287
+
+#### 🔄 Sales Engineer, Enterprise - US West
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7531457?gh_jid=7531457)
+🕐 Updated: 2026-05-26T18:49:38-04:00 | ID: 7531457
+
+#### 🔄 Select Implementation Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7597168?gh_jid=7597168)
+🕐 Updated: 2026-05-26T18:49:38-04:00 | ID: 7597168
+
+#### 🔄 Sr. Analyst, Sales Operations
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7592390?gh_jid=7592390)
+🕐 Updated: 2026-05-26T18:49:38-04:00 | ID: 7592390
+
+#### 🔄 Account Executive, Mid Market (West)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057)
+🕐 Updated: 2026-05-26T18:49:37-04:00 | ID: 7609057
+
+#### 🔄 Digital Innovation Co-Op – Supply Chain
+**Greenhouse** · samsara · Operations Management
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7839203?gh_jid=7839203)
+🕐 Updated: 2026-05-26T18:49:37-04:00 | ID: 7839203
+
+#### 🔄 Manager, CS Operations
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7624398?gh_jid=7624398)
+🕐 Updated: 2026-05-26T18:49:37-04:00 | ID: 7624398
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651569?gh_jid=7651569)
+🕐 Updated: 2026-05-26T18:49:37-04:00 | ID: 7651569
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote Vermont
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - VT | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7357164?gh_jid=7357164)
+🕐 Updated: 2026-05-26T18:49:36-04:00 | ID: 7357164
+
+#### 🔄 Senior Hardware Systems Engineer
+**Greenhouse** · samsara · Hardware Engineering
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7291574?gh_jid=7291574)
+🕐 Updated: 2026-05-26T18:49:36-04:00 | ID: 7291574
+
+#### 🔄 Senior Program Manager - Sales Programs (Transformational)
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7536597?gh_jid=7536597)
+🕐 Updated: 2026-05-26T18:49:36-04:00 | ID: 7536597
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Michigan
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - MI | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340962?gh_jid=7340962)
+🕐 Updated: 2026-05-26T18:49:35-04:00 | ID: 7340962
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Mississippi
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - MS | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341011?gh_jid=7341011)
+🕐 Updated: 2026-05-26T18:49:35-04:00 | ID: 7341011
+
+#### 🔄 Director, Product Design
+**Greenhouse** · samsara · Product Design
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7839138?gh_jid=7839138)
+🕐 Updated: 2026-05-26T18:49:34-04:00 | ID: 7839138
+
+#### 🔄 Senior Systems EPM
+**Greenhouse** · samsara · Hardware Engineering
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266465?gh_jid=7266465)
+🕐 Updated: 2026-05-26T18:49:33-04:00 | ID: 7266465
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Minneapolis, MN
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Minneapolis, MN | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6685500?gh_jid=6685500)
+🕐 Updated: 2026-05-26T18:49:31-04:00 | ID: 6685500
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Atlanta, GA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6605601?gh_jid=6605601)
+🕐 Updated: 2026-05-26T18:49:27-04:00 | ID: 6605601
+
+#### 🔄 Sr. Manager Account Based Marketing
+**Greenhouse** · samsara · Corporate Marketing
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7825814?gh_jid=7825814)
+🕐 Updated: 2026-05-26T18:49:06-04:00 | ID: 7825814
+
+#### 🔄 Manager, Technical Account Management
+**Greenhouse** · samsara · Support
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7712774?gh_jid=7712774)
+🕐 Updated: 2026-05-26T18:49:05-04:00 | ID: 7712774
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - OK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651604?gh_jid=7651604)
+🕐 Updated: 2026-05-26T18:49:05-04:00 | ID: 7651604
+
+#### 🔄 Installation Specialist
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266206?gh_jid=7266206)
+🕐 Updated: 2026-05-26T18:49:03-04:00 | ID: 7266206
+
+#### 🔄 Strategic Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7398075?gh_jid=7398075)
+🕐 Updated: 2026-05-26T18:49:03-04:00 | ID: 7398075
+
+#### 🔄 Marketing Operations Manager
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7681215?gh_jid=7681215)
+🕐 Updated: 2026-05-26T18:49:02-04:00 | ID: 7681215
+
+#### 🔄 Partner Specialist SE - Public Sector
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7723776?gh_jid=7723776)
+🕐 Updated: 2026-05-26T18:49:02-04:00 | ID: 7723776
+
+#### 🔄 Recruiting Coordinator
+**Greenhouse** · samsara · Recruiting
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7732679?gh_jid=7732679)
+🕐 Updated: 2026-05-26T18:49:02-04:00 | ID: 7732679
+
+#### 🔄 Sr. Growth Marketing Manager - New Products
+**Greenhouse** · samsara · Growth Marketing
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7821726?gh_jid=7821726)
+🕐 Updated: 2026-05-26T18:49:02-04:00 | ID: 7821726
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Missouri
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - MO | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341002?gh_jid=7341002)
+🕐 Updated: 2026-05-26T18:49:01-04:00 | ID: 7341002
+
+#### 🔄 Core Enterprise Account Executive MST/PST - Nebraska
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - NE | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341070?gh_jid=7341070)
+🕐 Updated: 2026-05-26T18:49:01-04:00 | ID: 7341070
+
+#### 🔄 Public Sector Mid-Market Regional Sales Manager.
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - NYC; Remote - SF Bay Area; Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7557798?gh_jid=7557798)
+🕐 Updated: 2026-05-26T18:49:01-04:00 | ID: 7557798
+
+#### 🔄 Senior Supply Chain Manager
+**Greenhouse** · samsara · Supply Chain
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7768924?gh_jid=7768924)
+🕐 Updated: 2026-05-26T18:49:01-04:00 | ID: 7768924
+
+#### 🔄 Manager, WW Planning
+**Greenhouse** · samsara · Planning
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7680056?gh_jid=7680056)
+🕐 Updated: 2026-05-26T18:49:00-04:00 | ID: 7680056
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612442?gh_jid=7612442)
+🕐 Updated: 2026-05-26T18:48:59-04:00 | ID: 7612442
+
+#### 🔄 GTM Sourcer
+**Greenhouse** · samsara · Recruiting
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7646085?gh_jid=7646085)
+🕐 Updated: 2026-05-26T18:48:59-04:00 | ID: 7646085
+
+#### 🔄 Sr. Strategic Events Manager - Global Sponsorships
+**Greenhouse** · samsara · Corporate Marketing
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7867367?gh_jid=7867367)
+🕐 Updated: 2026-05-26T18:48:59-04:00 | ID: 7867367
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · samsara · Platform
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7597673?gh_jid=7597673)
+🕐 Updated: 2026-05-26T18:48:59-04:00 | ID: 7597673
+
+#### 🔄 Customer Success Specialist - Commercial/Mid-Market Collections
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7487268?gh_jid=7487268)
+🕐 Updated: 2026-05-26T18:48:58-04:00 | ID: 7487268
+
+#### 🔄 Major Account Executive
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7307842?gh_jid=7307842)
+🕐 Updated: 2026-05-26T18:48:58-04:00 | ID: 7307842
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - NY | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651567?gh_jid=7651567)
+🕐 Updated: 2026-05-26T18:48:58-04:00 | ID: 7651567
+
+#### 🔄 Senior Program Manager - Sales Programs (Transformational)
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7615410?gh_jid=7615410)
+🕐 Updated: 2026-05-26T18:48:58-04:00 | ID: 7615410
+
+#### 🔄 Account Executive, Mid Market (Midwest)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609126?gh_jid=7609126)
+🕐 Updated: 2026-05-26T18:48:56-04:00 | ID: 7609126
+
+#### 🔄 Account Executive, Mid Market (Northeast)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609147?gh_jid=7609147)
+🕐 Updated: 2026-05-26T18:48:56-04:00 | ID: 7609147
+
+#### 🔄 Account Executive, Mid Market (Southeast)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609156?gh_jid=7609156)
+🕐 Updated: 2026-05-26T18:48:56-04:00 | ID: 7609156
+
+#### 🔄 Senior Performance Marketing Manager - Paid Social
+**Greenhouse** · samsara · Growth Marketing
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7941390?gh_jid=7941390)
+🕐 Updated: 2026-05-26T18:48:56-04:00 | ID: 7941390
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Wisconsin
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - WI | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340944?gh_jid=7340944)
+🕐 Updated: 2026-05-26T18:48:55-04:00 | ID: 7340944
+
+#### 🔄 Manager, Resident Consultants
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7852950?gh_jid=7852950)
+🕐 Updated: 2026-05-26T18:48:55-04:00 | ID: 7852950
+
+#### 🔄 Business Operations Manager, Technical Support Ops
+**Greenhouse** · samsara · Support
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7852547?gh_jid=7852547)
+🕐 Updated: 2026-05-26T18:48:54-04:00 | ID: 7852547
+
+#### 🔄 Enterprise Customer Success Manager - Public Sector
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7481333?gh_jid=7481333)
+🕐 Updated: 2026-05-26T18:48:54-04:00 | ID: 7481333
+
+#### 🔄 Account Development Representative - DACH
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Germany | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7618026?gh_jid=7618026)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7618026
+
+#### 🔄 Data Engineer II
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7859406?gh_jid=7859406)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7859406
+
+#### 🔄 Manager, Sales Operations
+**Greenhouse** · samsara · Revenue Operations
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7875140?gh_jid=7875140)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7875140
+
+#### 🔄 Regional Sales Director, Strategic Enterprise - UK
+**Greenhouse** · samsara · EU Sales
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7909004?gh_jid=7909004)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7909004
+
+#### 🔄 Senior Software Engineer I - Agent Foundations
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7356410?gh_jid=7356410)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7356410
+
+#### 🔄 Senior Software Engineer II, Developer Experience / Operational Excellence
+**Greenhouse** · samsara · Platform
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7717540?gh_jid=7717540)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7717540
+
+#### 🔄 Sr Product Operations Manager
+**Greenhouse** · samsara · R&D Ops
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7729297?gh_jid=7729297)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7729297
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7702042?gh_jid=7702042)
+🕐 Updated: 2026-05-26T18:48:52-04:00 | ID: 7702042
+
+#### 🔄 Inside Sales Director, Account Development
+**Greenhouse** · samsara · Account Development Representative
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7723466?gh_jid=7723466)
+🕐 Updated: 2026-05-26T18:48:50-04:00 | ID: 7723466
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651574?gh_jid=7651574)
+🕐 Updated: 2026-05-26T18:48:50-04:00 | ID: 7651574
+
+#### 🔄 Mid-Market Sales Engineer - US North East
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7581969?gh_jid=7581969)
+🕐 Updated: 2026-05-26T18:48:50-04:00 | ID: 7581969
+
+#### 🔄 Sr. Growth Engineer
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651761?gh_jid=7651761)
+🕐 Updated: 2026-05-26T18:48:50-04:00 | ID: 7651761
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Indiana
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - IN | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340953?gh_jid=7340953)
+🕐 Updated: 2026-05-26T18:48:49-04:00 | ID: 7340953
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - IL | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7663743?gh_jid=7663743)
+🕐 Updated: 2026-05-26T18:48:49-04:00 | ID: 7663743
+
+#### 🔄 Senior Mechanical Engineer (Product Design)
+**Greenhouse** · samsara · Hardware Engineering
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7525300?gh_jid=7525300)
+🕐 Updated: 2026-05-26T18:48:49-04:00 | ID: 7525300
+
+#### 🔄 Technical Support Specialist
+**Greenhouse** · samsara · Support
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7386042?gh_jid=7386042)
+🕐 Updated: 2026-05-26T18:48:49-04:00 | ID: 7386042
+
+#### 🔄 Director, ABM & Field Marketing
+**Greenhouse** · samsara · Corporate Marketing
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7743897?gh_jid=7743897)
+🕐 Updated: 2026-05-26T18:48:45-04:00 | ID: 7743897
+
+#### 🔄 Enterprise Core Sales Engineer, Public Sector - Remote US MST/PST
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - CO | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7558004?gh_jid=7558004)
+🕐 Updated: 2026-05-26T18:48:45-04:00 | ID: 7558004
+
+#### 🔄 Business Operations Manager, Technical Support Ops
+**Greenhouse** · samsara · Support
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7761103?gh_jid=7761103)
+🕐 Updated: 2026-05-26T18:48:44-04:00 | ID: 7761103
+
+#### 🔄 Field Marketing Manager - UK&I
+**Greenhouse** · samsara · Corporate Marketing
+📍 London - UK2 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7749339?gh_jid=7749339)
+🕐 Updated: 2026-05-26T18:48:42-04:00 | ID: 7749339
+
+#### 🔄 Senior Automation Engineer (HIL)
+**Greenhouse** · samsara · STCE & Maintenance
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7610376?gh_jid=7610376)
+🕐 Updated: 2026-05-26T18:48:41-04:00 | ID: 7610376
+
+#### 🔄 Senior Software Engineer I - Agent Foundations
+**Greenhouse** · samsara · Platform
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7349219?gh_jid=7349219)
+🕐 Updated: 2026-05-26T18:48:41-04:00 | ID: 7349219
+
+#### 🔄 Enterprise Core Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7423809?gh_jid=7423809)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7423809
+
+#### 🔄 Enterprise Core Sales Engineer - TOLA
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848501?gh_jid=7848501)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7848501
+
+#### 🔄 Financial Analyst
+**Greenhouse** · samsara · Finance and Strategy
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7859546?gh_jid=7859546)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7859546
+
+#### 🔄 Sales Engineer, Mid-Market - Eastern Canada
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - Montreal | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7918766?gh_jid=7918766)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7918766
+
+#### 🔄 Sales Engineer, Mid Market - Northeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848428?gh_jid=7848428)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7848428
+
+#### 🔄 Sales Engineer, Mid-Market Western Canada
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - Calgary | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7918768?gh_jid=7918768)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7918768
+
+#### 🔄 Sales Operations Manager - Enterprise
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7815804?gh_jid=7815804)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7815804
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - IN | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7818255?gh_jid=7818255)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7818255
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - MI | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7818248?gh_jid=7818248)
+🕐 Updated: 2026-05-26T18:48:40-04:00 | ID: 7818248
+
+#### 🔄 Account Executive, Majors (Select) - UK&I
+**Greenhouse** · samsara · EU Sales
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266224?gh_jid=7266224)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7266224
+
+#### 🔄 AR Accountant - Cash Application
+**Greenhouse** · samsara · Corporate Accounting
+📍 Remote - AL | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7863527?gh_jid=7863527)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7863527
+
+#### 🔄 Senior Manager, Safety AI
+**Greenhouse** · samsara · Safety AI
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7782752?gh_jid=7782752)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7782752
+
+#### 🔄 Senior Recruiter II - Product Management
+**Greenhouse** · samsara · Recruiting
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7871658?gh_jid=7871658)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7871658
+
+#### 🔄 Senior Recruiter II - Product Management
+**Greenhouse** · samsara · Recruiting
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7858218?gh_jid=7858218)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7858218
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7870845
+
+#### 🔄 Senior Software Engineer I - Agent Foundations
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7558088?gh_jid=7558088)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7558088
+
+#### 🔄 Specialist Seller - Core, Enterprise
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7449097?gh_jid=7449097)
+🕐 Updated: 2026-05-26T18:48:39-04:00 | ID: 7449097
+
+#### 🔄 Digital Designer III
+**Greenhouse** · samsara · Corporate Marketing
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7862738?gh_jid=7862738)
+🕐 Updated: 2026-05-26T18:48:38-04:00 | ID: 7862738
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - GA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651609?gh_jid=7651609)
+🕐 Updated: 2026-05-26T18:48:38-04:00 | ID: 7651609
+
+#### 🔄 Sales Recruiter - EMEA (AE & ADR Focus)
+**Greenhouse** · samsara · Recruiting
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7594366?gh_jid=7594366)
+🕐 Updated: 2026-05-26T18:48:38-04:00 | ID: 7594366
+
+#### 🔄 Senior Software Engineer, Growth
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7745837?gh_jid=7745837)
+🕐 Updated: 2026-05-26T18:48:38-04:00 | ID: 7745837
+
+#### 🔄 Enterprise Select Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7484250?gh_jid=7484250)
+🕐 Updated: 2026-05-26T18:48:37-04:00 | ID: 7484250
+
+#### 🔄 AI / Computer Vision (IC)
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266629?gh_jid=7266629)
+🕐 Updated: 2026-05-26T18:48:36-04:00 | ID: 7266629
+
+#### 🔄 Lead Video Producer
+**Greenhouse** · samsara · Corporate Marketing
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7939301?gh_jid=7939301)
+🕐 Updated: 2026-05-26T18:48:35-04:00 | ID: 7939301
+
+#### 🔄 Senior Marketing Analytics Manager - Product and Data Stories
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7868234?gh_jid=7868234)
+🕐 Updated: 2026-05-26T18:48:34-04:00 | ID: 7868234
+
+#### 🔄 Sr. Support Tools Product Manager
+**Greenhouse** · samsara · Support
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7621277?gh_jid=7621277)
+🕐 Updated: 2026-05-26T18:48:34-04:00 | ID: 7621277
+
+#### 🔄 Technical Support Specialist - German Fluency
+**Greenhouse** · samsara · Support
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7868172?gh_jid=7868172)
+🕐 Updated: 2026-05-26T18:48:34-04:00 | ID: 7868172
+
+#### 🔄 Director, Field Sales Engineering
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7695309?gh_jid=7695309)
+🕐 Updated: 2026-05-26T18:48:33-04:00 | ID: 7695309
+
+#### 🔄 Senior Software Engineer - Connected Workflows
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7847219?gh_jid=7847219)
+🕐 Updated: 2026-05-26T18:48:33-04:00 | ID: 7847219
+
+#### 🔄 Deal Support Quality & Strategy Manager
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7836027?gh_jid=7836027)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7836027
+
+#### 🔄 Deal Support Quality & Strategy Manager
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7836049?gh_jid=7836049)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7836049
+
+#### 🔄 Director, ABM & Field Marketing
+**Greenhouse** · samsara · Corporate Marketing
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7628240?gh_jid=7628240)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7628240
+
+#### 🔄 L1 Senior Technical Support
+**Greenhouse** · samsara · Support
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7874163?gh_jid=7874163)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7874163
+
+#### 🔄 Manager II, Customer Success
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7487344?gh_jid=7487344)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7487344
+
+#### 🔄 Mid-Market Sales Manager, DACH
+**Greenhouse** · samsara · EU Sales
+📍 Remote - Germany | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7909002?gh_jid=7909002)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7909002
+
+#### 🔄 Partner Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 London - UK2; Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7858119?gh_jid=7858119)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7858119
+
+#### 🔄 Senior Legal Counsel
+**Greenhouse** · samsara · Legal
+📍 London - UK2; London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7815438?gh_jid=7815438)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7815438
+
+#### 🔄 Senior Machine Learning Engineer - Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7266471
+
+#### 🔄 Senior Manager, Customer Experience Strategy
+**Greenhouse** · samsara · Sales Strategy
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7891607?gh_jid=7891607)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7891607
+
+#### 🔄 Validation Specialist - MX
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7347102?gh_jid=7347102)
+🕐 Updated: 2026-05-26T18:48:32-04:00 | ID: 7347102
+
+#### 🔄 Customer Success Manager V
+**Greenhouse** · samsara · Customer Success
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7487346?gh_jid=7487346)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7487346
+
+#### 🔄 Director, Mid-Market Sales - Mainland Europe
+**Greenhouse** · samsara · EU Sales
+📍 Remote - Germany | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7746608?gh_jid=7746608)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7746608
+
+#### 🔄 Director, Mid-Market Sales - Mainland Europe
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7716293?gh_jid=7716293)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7716293
+
+#### 🔄 GTM Business Operations Manager
+**Greenhouse** · samsara · Sales Business Operations
+📍 Remote - Houston | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7942733?gh_jid=7942733)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7942733
+
+#### 🔄 Mid-Market Account Executive - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7571463?gh_jid=7571463)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7571463
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612559?gh_jid=7612559)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7612559
+
+#### 🔄 Principal Product Manager - Maintenance
+**Greenhouse** · samsara · STCE & Maintenance
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7650416?gh_jid=7650416)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7650416
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - MN | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7663744?gh_jid=7663744)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7663744
+
+#### 🔄 Senior Full Stack Developer
+**Greenhouse** · samsara · Business Systems
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7545050?gh_jid=7545050)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7545050
+
+#### 🔄 Sr. Manager, Customer Success
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7589195?gh_jid=7589195)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7589195
+
+#### 🔄 Staff ML Engineer - ML Infrastructure
+**Greenhouse** · samsara · Safety AI
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7721193
+
+#### 🔄 Staff ML Engineer - ML Infrastructure
+**Greenhouse** · samsara · Safety AI
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7746586?gh_jid=7746586)
+🕐 Updated: 2026-05-26T18:48:31-04:00 | ID: 7746586
+
+#### 🔄 Director, Revenue Enablement EMEA
+**Greenhouse** · samsara · Revenue Operations
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7791232?gh_jid=7791232)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7791232
+
+#### 🔄 Enterprise Core Sales Engineer - Northeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848486?gh_jid=7848486)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7848486
+
+#### 🔄 Enterprise Core Sales Engineer - Southeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848497?gh_jid=7848497)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7848497
+
+#### 🔄 Field Sales Engineer II, Enterprise-Northeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7697637?gh_jid=7697637)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7697637
+
+#### 🔄 Manager, Software Engineering (Developer Experience)
+**Greenhouse** · samsara · Platform
+📍 London - UK2; Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7812192?gh_jid=7812192)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7812192
+
+#### 🔄 Manager, Software Engineering - Mobile Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7630034?gh_jid=7630034)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7630034
+
+#### 🔄 Senior Marketing Analytics Manager - Product and Data Stories
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7834686?gh_jid=7834686)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7834686
+
+#### 🔄 Technical Account Manager IV
+**Greenhouse** · samsara · Support
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7742563?gh_jid=7742563)
+🕐 Updated: 2026-05-26T18:48:30-04:00 | ID: 7742563
+
+#### 🔄 Product Support Engineer
+**Greenhouse** · samsara · Engineering Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7782002?gh_jid=7782002)
+🕐 Updated: 2026-05-26T18:48:21-04:00 | ID: 7782002
+
+#### 🔄 Sr. Product Manager I, In-vehicle Experience
+**Greenhouse** · samsara · Safety
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7786156?gh_jid=7786156)
+🕐 Updated: 2026-05-26T18:47:23-04:00 | ID: 7786156
+
+#### 🔄 Sales Recruiter - EMEA (AE & ADR Focus)
+**Greenhouse** · samsara · Recruiting
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7558801?gh_jid=7558801)
+🕐 Updated: 2026-05-26T18:47:16-04:00 | ID: 7558801
+
+#### 🔄 Senior Sales Operations Analyst
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7555223?gh_jid=7555223)
+🕐 Updated: 2026-05-26T18:47:16-04:00 | ID: 7555223
+
+#### 🔄 Deal Support Quality & Strategy Manager
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7619927?gh_jid=7619927)
+🕐 Updated: 2026-05-26T18:47:15-04:00 | ID: 7619927
+
+#### 🔄 Sales Engineer 4 - Associate Specialist
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258)
+🕐 Updated: 2026-05-26T18:47:14-04:00 | ID: 7717258
+
+#### 🔄 Sr. Image Quality Tuning Engineer
+**Greenhouse** · samsara · Hardware Engineering
+📍 Remote - Taiwan | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7767916?gh_jid=7767916)
+🕐 Updated: 2026-05-26T18:47:14-04:00 | ID: 7767916
+
+#### 🔄 Senior Product Design Engineer (Mechanical)
+**Greenhouse** · samsara · Hardware Engineering
+📍 Remote - Taiwan | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7842530?gh_jid=7842530)
+🕐 Updated: 2026-05-26T18:47:13-04:00 | ID: 7842530
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Louisiana
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - LA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340978?gh_jid=7340978)
+🕐 Updated: 2026-05-26T18:47:12-04:00 | ID: 7340978
+
+#### 🔄 Enterprise Core Sales Engineer - West
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848529?gh_jid=7848529)
+🕐 Updated: 2026-05-26T18:47:12-04:00 | ID: 7848529
+
+#### 🔄 Enterprise Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7487270?gh_jid=7487270)
+🕐 Updated: 2026-05-26T18:47:12-04:00 | ID: 7487270
+
+#### 🔄 Senior Software Engineer, AI Platform
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266719?gh_jid=7266719)
+🕐 Updated: 2026-05-26T18:47:11-04:00 | ID: 7266719
+
+#### 🔄 Implementation Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7866517?gh_jid=7866517)
+🕐 Updated: 2026-05-26T18:47:07-04:00 | ID: 7866517
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 San Diego, CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612446?gh_jid=7612446)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7612446
+
+#### 🔄 Customer Success Manager - Canada
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7646124?gh_jid=7646124)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7646124
+
+#### 🔄 Manager I, Customer Success
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7743690?gh_jid=7743690)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7743690
+
+#### 🔄 Manager, Software Engineering (Platform Reports)
+**Greenhouse** · samsara · Platform
+📍 Remote - Poland | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266585?gh_jid=7266585)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7266585
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - OR | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651579?gh_jid=7651579)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7651579
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - KS | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651596?gh_jid=7651596)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7651596
+
+#### 🔄 Sales Operations Manager
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7555217?gh_jid=7555217)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7555217
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - WI | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7663745?gh_jid=7663745)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7663745
+
+#### 🔄 Senior Hardware Reliability Engineer
+**Greenhouse** · samsara · Hardware Engineering
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7460051?gh_jid=7460051)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7460051
+
+#### 🔄 Senior/Principal Product Manager - Safety AI
+**Greenhouse** · samsara · Safety
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7733571?gh_jid=7733571)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7733571
+
+#### 🔄 Senior Program Manager, Sales Programs – AI
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7742662?gh_jid=7742662)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7742662
+
+#### 🔄 Solutions Integration Engineer
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7610288?gh_jid=7610288)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7610288
+
+#### 🔄 Staff Software Engineer - Platform and Infrastructure
+**Greenhouse** · samsara · Platform
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266287?gh_jid=7266287)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7266287
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · samsara · Support
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7763623?gh_jid=7763623)
+🕐 Updated: 2026-05-26T18:46:57-04:00 | ID: 7763623
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Columbus, OH | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6605602?gh_jid=6605602)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 6605602
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Los Angeles, CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612444?gh_jid=7612444)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7612444
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Phoenix, Arizona | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612449?gh_jid=7612449)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7612449
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · samsara · Canada
+📍 Québec City, Québec | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6046594?gh_jid=6046594)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 6046594
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · samsara · Canada
+📍 Toronto, Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6046586?gh_jid=6046586)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 6046586
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/5979842?gh_jid=5979842)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 5979842
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Alabama
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - AL | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341016?gh_jid=7341016)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7341016
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Kansas
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - KS | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340994?gh_jid=7340994)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7340994
+
+#### 🔄 Core Enterprise Account Executive MST/PST - South Dakota
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - South Dakota | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341067?gh_jid=7341067)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7341067
+
+#### 🔄 Director, Product Partnerships
+**Greenhouse** · samsara · Partner Sales
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7530564?gh_jid=7530564)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7530564
+
+#### 🔄 Enterprise Core Sales Engineer - Midwest
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848518?gh_jid=7848518)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7848518
+
+#### 🔄 Enterprise Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - IL | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7625030?gh_jid=7625030)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7625030
+
+#### 🔄 Mid-Market Account Executive - Mexico
+**Greenhouse** · samsara · Mexico
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/5868615?gh_jid=5868615)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 5868615
+
+#### 🔄 Sales Engineer I, SE Desk - Northeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7311741
+
+#### 🔄 Sales Engineer - Mid-Market West
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7187219?gh_jid=7187219)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7187219
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - Chicago | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7663746?gh_jid=7663746)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7663746
+
+#### 🔄 Staff Software Engineer - Sustainability
+**Greenhouse** · samsara · Telematics
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7398072?gh_jid=7398072)
+🕐 Updated: 2026-05-26T18:46:56-04:00 | ID: 7398072
+
+#### 🔄 Manager, Customer Success EMEA Scale
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7682030?gh_jid=7682030)
+🕐 Updated: 2026-05-26T18:46:55-04:00 | ID: 7682030
+
+#### 🔄 Manager, WW Planning
+**Greenhouse** · samsara · Planning
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7662771?gh_jid=7662771)
+🕐 Updated: 2026-05-26T18:46:55-04:00 | ID: 7662771
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - Dallas | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651556?gh_jid=7651556)
+🕐 Updated: 2026-05-26T18:46:55-04:00 | ID: 7651556
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - IA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7818253?gh_jid=7818253)
+🕐 Updated: 2026-05-26T18:46:55-04:00 | ID: 7818253
+
+#### 🔄 Senior Netsuite Developer
+**Greenhouse** · samsara · Business Systems
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7791397?gh_jid=7791397)
+🕐 Updated: 2026-05-26T18:46:55-04:00 | ID: 7791397
+
+#### 🔄 Sr. Security Engineer - Enterprise Security
+**Greenhouse** · samsara · IT Security
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492)
+🕐 Updated: 2026-05-26T18:46:55-04:00 | ID: 7752492
+
+#### 🔄 Enterprise Core Account Executive, UK
+**Greenhouse** · samsara · EU Sales
+📍 London - UK2 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7759354?gh_jid=7759354)
+🕐 Updated: 2026-05-26T18:46:53-04:00 | ID: 7759354
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · samsara · Platform
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678)
+🕐 Updated: 2026-05-26T18:46:53-04:00 | ID: 7752678
+
+#### 🔄 Quality Engineer - Safety Firmware
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7892028?gh_jid=7892028)
+🕐 Updated: 2026-05-26T18:46:52-04:00 | ID: 7892028
+
+#### 🔄 Financial Analyst
+**Greenhouse** · samsara · Finance and Strategy
+📍 Remote - OR | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7819567?gh_jid=7819567)
+🕐 Updated: 2026-05-26T18:46:51-04:00 | ID: 7819567
+
+#### 🔄 Global Operations Rotation Program
+**Greenhouse** · samsara · Supply Chain
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7741190?gh_jid=7741190)
+🕐 Updated: 2026-05-26T18:46:51-04:00 | ID: 7741190
+
+#### 🔄 Sr. Revenue Tools Product Manager I
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7750279?gh_jid=7750279)
+🕐 Updated: 2026-05-26T18:46:51-04:00 | ID: 7750279
+
+#### 🔄 Staff Software Engineer - Sustainability
+**Greenhouse** · samsara · Telematics
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7548384?gh_jid=7548384)
+🕐 Updated: 2026-05-26T18:46:50-04:00 | ID: 7548384
+
+#### 🔄 Account Development Representative - DACH
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Germany | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7618022?gh_jid=7618022)
+🕐 Updated: 2026-05-26T18:46:49-04:00 | ID: 7618022
+
+#### 🔄 AI Engineer
+**Greenhouse** · samsara · Business Systems
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153)
+🕐 Updated: 2026-05-26T18:46:49-04:00 | ID: 7491153
+
+#### 🔄 Software Engineer II, AI Platform
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925)
+🕐 Updated: 2026-05-26T18:46:49-04:00 | ID: 7619925
+
+#### 🔄 Lead Full Stack Developer, Business Applications
+**Greenhouse** · samsara · Business Systems
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7601794?gh_jid=7601794)
+🕐 Updated: 2026-05-26T18:46:48-04:00 | ID: 7601794
+
+#### 🔄 Mexico Major AE
+**Greenhouse** · samsara · Mexico
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7618041?gh_jid=7618041)
+🕐 Updated: 2026-05-26T18:46:48-04:00 | ID: 7618041
+
+#### 🔄 Product Support Engineer
+**Greenhouse** · samsara · Engineering Support
+📍 London - UK2; Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7852362?gh_jid=7852362)
+🕐 Updated: 2026-05-26T18:46:48-04:00 | ID: 7852362
+
+#### 🔄 Regional Sales Director, Select Enterprise - Mexico
+**Greenhouse** · samsara · Mexico
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7635353?gh_jid=7635353)
+🕐 Updated: 2026-05-26T18:46:47-04:00 | ID: 7635353
+
+#### 🔄 Senior Knowledge Developer
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7656422?gh_jid=7656422)
+🕐 Updated: 2026-05-26T18:46:47-04:00 | ID: 7656422
+
+#### 🔄 Manager, Renewals
+**Greenhouse** · samsara · Renewals
+📍 London - UK2 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7772100?gh_jid=7772100)
+🕐 Updated: 2026-05-26T18:46:46-04:00 | ID: 7772100
+
+#### 🔄 Lead Full Stack Developer, Business Applications
+**Greenhouse** · samsara · Business Systems
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266307?gh_jid=7266307)
+🕐 Updated: 2026-05-26T18:46:45-04:00 | ID: 7266307
+
+#### 🔄 Staff Mobile Engineer - Mobile Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266713?gh_jid=7266713)
+🕐 Updated: 2026-05-26T18:46:45-04:00 | ID: 7266713
+
+#### 🔄 Manager, Software Engineering - Mobile Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266435?gh_jid=7266435)
+🕐 Updated: 2026-05-26T18:46:44-04:00 | ID: 7266435
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Dallas, TX
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Dallas, TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6685497?gh_jid=6685497)
+🕐 Updated: 2026-05-26T18:46:42-04:00 | ID: 6685497
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Boston, MA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6605604?gh_jid=6605604)
+🕐 Updated: 2026-05-26T18:46:40-04:00 | ID: 6605604
+
+#### 🔄 Staff Mobile Engineer - Mobile Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7304881?gh_jid=7304881)
+🕐 Updated: 2026-05-26T18:46:34-04:00 | ID: 7304881
+
+#### 🔄 Sales Contract Administrator
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7911659?gh_jid=7911659)
+🕐 Updated: 2026-05-26T18:46:29-04:00 | ID: 7911659
+
+#### 🔄 Sr. Security Engineer - Enterprise Security
+**Greenhouse** · samsara · IT Security
+📍 Remote - Vancouver | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7834975?gh_jid=7834975)
+🕐 Updated: 2026-05-26T18:46:24-04:00 | ID: 7834975
+
+#### 🔄 Sr. Automation Engineer (Infra)
+**Greenhouse** · samsara · STCE & Maintenance
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7610374?gh_jid=7610374)
+🕐 Updated: 2026-05-26T18:46:22-04:00 | ID: 7610374
+
+#### 🔄 Staff Software Engineer - CAM
+**Greenhouse** · samsara · STCE & Maintenance
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828)
+🕐 Updated: 2026-05-26T18:46:22-04:00 | ID: 7588828
+
+#### 🔄 Senior Machine Learning Engineer - Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7315656?gh_jid=7315656)
+🕐 Updated: 2026-05-26T18:46:14-04:00 | ID: 7315656
+
+#### 🔄 Sr. Growth Engineer
+**Greenhouse** · samsara · Marketing Systems & Intelligence
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7648713?gh_jid=7648713)
+🕐 Updated: 2026-05-26T18:46:14-04:00 | ID: 7648713
+
+#### 🔄 Account Development Representative - France
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7617968?gh_jid=7617968)
+🕐 Updated: 2026-05-26T18:46:13-04:00 | ID: 7617968
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Salt Lake City, UT | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612445?gh_jid=7612445)
+🕐 Updated: 2026-05-26T18:46:13-04:00 | ID: 7612445
+
+#### 🔄 Field Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 London - UK2; Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7831559?gh_jid=7831559)
+🕐 Updated: 2026-05-26T18:46:13-04:00 | ID: 7831559
+
+#### 🔄 Staff Machine Learning Engineer - Edge AI
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357)
+🕐 Updated: 2026-05-26T18:46:13-04:00 | ID: 7266357
+
+#### 🔄 Sr. Product Marketing Manager - Release Marketing & PMM Operations
+**Greenhouse** · samsara · Product Marketing
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7864137?gh_jid=7864137)
+🕐 Updated: 2026-05-26T18:46:12-04:00 | ID: 7864137
+
+#### 🔄 Customer Support Specialist
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7384082?gh_jid=7384082)
+🕐 Updated: 2026-05-26T18:46:11-04:00 | ID: 7384082
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - MO | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7663741?gh_jid=7663741)
+🕐 Updated: 2026-05-26T18:45:52-04:00 | ID: 7663741
+
+#### 🔄 Manager, Operations Program Management
+**Greenhouse** · samsara · Global Ops Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7558150?gh_jid=7558150)
+🕐 Updated: 2026-05-26T18:45:51-04:00 | ID: 7558150
+
+#### 🔄 Solutions Integration Engineer IV
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7775532?gh_jid=7775532)
+🕐 Updated: 2026-05-26T18:45:51-04:00 | ID: 7775532
+
+#### 🔄 Customer Support Specialist IV-2
+**Greenhouse** · samsara · Support
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7742598?gh_jid=7742598)
+🕐 Updated: 2026-05-26T18:45:50-04:00 | ID: 7742598
+
+#### 🔄 Account Development Representative - UK
+**Greenhouse** · samsara · Account Development Representative
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7614550?gh_jid=7614550)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7614550
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Las Vegas, NV | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612448?gh_jid=7612448)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7612448
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612441?gh_jid=7612441)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7612441
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Denver, CO | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612443?gh_jid=7612443)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7612443
+
+#### 🔄 Administrative Assistant (Legal Team)
+**Greenhouse** · samsara · Legal
+📍 CDMX3 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7390434?gh_jid=7390434)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7390434
+
+#### 🔄 AI Engineer
+**Greenhouse** · samsara · Business Systems
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7589442?gh_jid=7589442)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7589442
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Austin, TX
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Austin, TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6685496?gh_jid=6685496)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 6685496
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Ohio
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - OH | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340970?gh_jid=7340970)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7340970
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - IN | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651589?gh_jid=7651589)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7651589
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - OH | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651591?gh_jid=7651591)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7651591
+
+#### 🔄 Sales Engineer, Mid Market - TOLA
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848459?gh_jid=7848459)
+🕐 Updated: 2026-05-26T18:45:49-04:00 | ID: 7848459
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6605599?gh_jid=6605599)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 6605599
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Arkansas
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - AR | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341007?gh_jid=7341007)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7341007
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Chicago, IL
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Chicago, IL | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/6685493?gh_jid=6685493)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 6685493
+
+#### 🔄 Director, Field Onboarding
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7283904?gh_jid=7283904)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7283904
+
+#### 🔄 Director, Insurance Partnerships
+**Greenhouse** · samsara · Partner Sales
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7673387?gh_jid=7673387)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7673387
+
+#### 🔄 Manager, Enterprise Customer Success - Select
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7702368?gh_jid=7702368)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7702368
+
+#### 🔄 Senior Application Security Engineer (AI & Vulnerability)
+**Greenhouse** · samsara · IT Security
+📍 London, England, United Kingdom; Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7703696?gh_jid=7703696)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7703696
+
+#### 🔄 Senior Web Program Manager
+**Greenhouse** · samsara · CMO Strategic Initiatives
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7784594?gh_jid=7784594)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7784594
+
+#### 🔄 Sr. BT Support Specialist I
+**Greenhouse** · samsara · Information Technology
+📍 Remote - Vancouver | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7739096?gh_jid=7739096)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7739096
+
+#### 🔄 Sr. Image Quality Architecture Engineer
+**Greenhouse** · samsara · Hardware Engineering
+📍 Remote - Taiwan | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7767914?gh_jid=7767914)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7767914
+
+#### 🔄 Supply Chain Change Manager
+**Greenhouse** · samsara · Operations Management
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7578954?gh_jid=7578954)
+🕐 Updated: 2026-05-26T18:45:48-04:00 | ID: 7578954
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Seattle, WA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612447?gh_jid=7612447)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7612447
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Iowa
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - IA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340549?gh_jid=7340549)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7340549
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote - Oklahoma
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - OK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7340980?gh_jid=7340980)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7340980
+
+#### 🔄 Field Sales Engineer II, Enterprise-Midwest/Northeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7564181?gh_jid=7564181)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7564181
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - Chicago | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651562?gh_jid=7651562)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7651562
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - NE | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7651593?gh_jid=7651593)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7651593
+
+#### 🔄 Sales Engineer I, SE Desk - Mid West
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7311761
+
+#### 🔄 Senior Business Value Strategist
+**Greenhouse** · samsara · Business Value & Strategy
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7482355?gh_jid=7482355)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7482355
+
+#### 🔄 Senior Staff Software Engineer - STCE
+**Greenhouse** · samsara · STCE & Maintenance
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7367675?gh_jid=7367675)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7367675
+
+#### 🔄 Solutions Integration Enginer III
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7487370?gh_jid=7487370)
+🕐 Updated: 2026-05-26T18:45:47-04:00 | ID: 7487370
+
+#### 🔄 Account Development Representative
+**Greenhouse** · samsara · Account Development Representative
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/5747183?gh_jid=5747183)
+🕐 Updated: 2026-05-26T18:45:46-04:00 | ID: 5747183
+
+#### 🔄 Core Enterprise Account Executive EST/CST - Remote Pennsylvania
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - PA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7357073?gh_jid=7357073)
+🕐 Updated: 2026-05-26T18:45:46-04:00 | ID: 7357073
+
+#### 🔄 Sales Engineer II - Specialist
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - NYC | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7341443?gh_jid=7341443)
+🕐 Updated: 2026-05-26T18:45:46-04:00 | ID: 7341443
+
+#### 🔄 Senior Performance Marketing Manager - EMEA
+**Greenhouse** · samsara · Growth Marketing
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7522148?gh_jid=7522148)
+🕐 Updated: 2026-05-26T18:45:46-04:00 | ID: 7522148
+
+#### 🔄 Director, Global Payroll
+**Greenhouse** · samsara · Payroll and Equity
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7743901?gh_jid=7743901)
+🕐 Updated: 2026-05-26T18:45:45-04:00 | ID: 7743901
+
+#### 🔄 Sales Engineer - Enterprise, TOLA
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7564110?gh_jid=7564110)
+🕐 Updated: 2026-05-26T18:45:45-04:00 | ID: 7564110
+
+#### 🔄 Manager, Implementation - Public Sector Customer Success
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7759850?gh_jid=7759850)
+🕐 Updated: 2026-05-26T18:45:43-04:00 | ID: 7759850
+
+#### 🔄 Account Executive, Mid Market (TOLA)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7608969?gh_jid=7608969)
+🕐 Updated: 2026-05-26T18:45:42-04:00 | ID: 7608969
+
+#### 🔄 Data Annotator
+**Greenhouse** · samsara · Safety Review
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7543969?gh_jid=7543969)
+🕐 Updated: 2026-05-26T18:45:42-04:00 | ID: 7543969
+
+#### 🔄 GTM Sourcer
+**Greenhouse** · samsara · Recruiting
+📍 Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7646081?gh_jid=7646081)
+🕐 Updated: 2026-05-26T18:45:42-04:00 | ID: 7646081
+
+#### 🔄 Sales Manager, Mid-Market
+**Greenhouse** · samsara · Canada
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7560138?gh_jid=7560138)
+🕐 Updated: 2026-05-26T18:45:42-04:00 | ID: 7560138
+
+#### 🔄 Sr. Support Tools Product Manager
+**Greenhouse** · samsara · Support
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7583834?gh_jid=7583834)
+🕐 Updated: 2026-05-26T18:45:42-04:00 | ID: 7583834
+
+#### 🔄 Supply Chain Manager
+**Greenhouse** · samsara · Supply Chain
+📍 Remote - Taiwan | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7905378?gh_jid=7905378)
+🕐 Updated: 2026-05-26T18:45:42-04:00 | ID: 7905378
+
+#### 🔄 Director, Customer Engineering
+**Greenhouse** · elastic · Customer Architects - AMER Mgmt
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7769905&gh_jid=7769905)
+🕐 Updated: 2026-05-26T18:45:27-04:00 | ID: 7769905
+
+#### 🔄 Communications Lead, Global Celebrity and Entertainment
+**Greenhouse** · airbnb · Communications
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7930924?gh_jid=7930924)
+🕐 Updated: 2026-05-26T18:44:36-04:00 | ID: 7930924
+
+#### 🔄 Senior Content Designer
+**Greenhouse** · reddit · Product Design
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7807575)
+🕐 Updated: 2026-05-26T18:40:47-04:00 | ID: 7807575
+
+#### 🔄 Senior Value Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7743247)
+🕐 Updated: 2026-05-26T18:33:25-04:00 | ID: 7743247
+
+#### 🔄 TIG Welder (Starship Components)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8523833002?gh_jid=8523833002)
+🕐 Updated: 2026-05-26T18:22:31-04:00 | ID: 8523833002
+
+#### 🔄 Product Pricing & Monetization Strategy Senior Analyst
+**Greenhouse** · mongodb · PTO Product Management
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523751)
+🕐 Updated: 2026-05-26T18:21:03-04:00 | ID: 7523751
+
+#### 🔄 Vehicle Planning & Buy-Sell Operations
+**Greenhouse** · waymo · Mfg (JDS)
+📍 Mountain View (US-MTV-EMF690) | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7684945)
+🕐 Updated: 2026-05-26T18:19:16-04:00 | ID: 7684945
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13467 fetched, 340 updated, 15 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 58 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13555 fetched, 340 updated, 15 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-26 22:10 UTC
 
 ### Greenhouse
