@@ -57424,7 +57424,7 @@
     "alerted": false
   },
   "greenhouse:marqeta:7791478": {
-    "updated_at": "2026-05-13T11:56:53-04:00",
+    "updated_at": "2026-05-26T01:44:09-04:00",
     "title": "Senior Account Executive - EU / UK",
     "company": "marqeta",
     "ats": "greenhouse",
@@ -81736,7 +81736,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7588505": {
-    "updated_at": "2026-05-25T03:08:16-04:00",
+    "updated_at": "2026-05-26T01:37:36-04:00",
     "title": "Senior Strategic Account Executive",
     "company": "twilio",
     "ats": "greenhouse",
@@ -90688,7 +90688,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7495457002": {
-    "updated_at": "2026-04-09T16:51:09-04:00",
+    "updated_at": "2026-05-26T01:18:59-04:00",
     "title": "Senior Engineering Manager - Backend",
     "company": "databricks",
     "ats": "greenhouse",
@@ -106000,8 +106000,8 @@
     "alerted": false
   },
   "greenhouse:ivalua:7570208": {
-    "updated_at": "2026-03-30T05:11:34-04:00",
-    "title": "Integration Lead ( Citizen/PR only)",
+    "updated_at": "2026-05-26T01:43:52-04:00",
+    "title": "Integration Lead",
     "company": "ivalua",
     "ats": "greenhouse",
     "source_slug": "ivalua",
@@ -118344,8 +118344,8 @@
     "alerted": false
   },
   "greenhouse:ivalua:7584733": {
-    "updated_at": "2026-02-07T02:47:24-05:00",
-    "title": "Implementation Lead (Citizen/PR only)",
+    "updated_at": "2026-05-26T01:49:07-04:00",
+    "title": "Implementation Lead",
     "company": "ivalua",
     "ats": "greenhouse",
     "source_slug": "ivalua",
@@ -154312,7 +154312,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7273081": {
-    "updated_at": "2026-05-15T16:08:35-04:00",
+    "updated_at": "2026-05-26T00:54:20-04:00",
     "title": "Ocean Gateway Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -168152,7 +168152,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7418376": {
-    "updated_at": "2026-05-21T02:32:47-04:00",
+    "updated_at": "2026-05-25T23:28:50-04:00",
     "title": "Associate System Engineer, CoE  belongs to the APJ team",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -172742,5 +172742,29 @@
     "ats": "greenhouse",
     "source_slug": "faire",
     "alerted": true
+  },
+  "greenhouse:klaviyo:7742938003": {
+    "updated_at": "2026-05-25T23:03:47-04:00",
+    "title": "Business Development Representative",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:airbnb:7956004": {
+    "updated_at": "2026-05-25T22:54:49-04:00",
+    "title": "Executive Escalations Senior Associate",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:braze:7956629": {
+    "updated_at": "2026-05-25T15:13:24-04:00",
+    "title": "Senior Data Scientist (AI Deployment)",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
   }
 }

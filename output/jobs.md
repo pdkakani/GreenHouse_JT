@@ -1,3 +1,52 @@
+## 📅 Run: 2026-05-26 05:49 UTC
+
+### Greenhouse
+
+#### 🔄 Implementation Lead
+**Greenhouse** · ivalua · Professional Services
+📍 Singapore | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/7584733?gh_jid=7584733)
+🕐 Updated: 2026-05-26T01:49:07-04:00 | ID: 7584733
+
+#### 🔄 Senior Account Executive - EU / UK
+**Greenhouse** · marqeta · EU
+📍 London, UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7791478)
+🕐 Updated: 2026-05-26T01:44:09-04:00 | ID: 7791478
+
+#### 🔄 Integration Lead
+**Greenhouse** · ivalua · Professional Services
+📍 Singapore | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/7570208?gh_jid=7570208)
+🕐 Updated: 2026-05-26T01:43:52-04:00 | ID: 7570208
+
+#### 🔄 Senior Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7588505)
+🕐 Updated: 2026-05-26T01:37:36-04:00 | ID: 7588505
+
+#### 🔄 Senior Engineering Manager - Backend
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002)
+🕐 Updated: 2026-05-26T01:18:59-04:00 | ID: 7495457002
+
+#### 🔄 Ocean Gateway Associate
+**Greenhouse** · flexport · Ocean Gateway Operations
+📍 Bangkok, Thailand | 🔗 [Apply Here](https://boards.greenhouse.io/flexport/jobs/7273081?gh_jid=7273081)
+🕐 Updated: 2026-05-26T00:54:20-04:00 | ID: 7273081
+
+#### 🔄 Associate System Engineer, CoE  belongs to the APJ team
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7418376)
+🕐 Updated: 2026-05-25T23:28:50-04:00 | ID: 7418376
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13530 fetched, 7 updated, 3 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13621 fetched, 7 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-26 01:31 UTC
 
 ### Greenhouse
