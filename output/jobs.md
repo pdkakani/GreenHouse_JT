@@ -1,3 +1,1017 @@
+## 📅 Run: 2026-05-27 21:26 UTC
+
+### Greenhouse
+
+#### 🔄 Onboard Infrastructure Software Engineer
+**Greenhouse** · waymo · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7461103)
+🕐 Updated: 2026-05-27T17:24:54-04:00 | ID: 7461103
+
+#### 🆕 Enterprise Solutions Engineer, West Coast
+**Greenhouse** · verkada · Solutions Engineering · 🎯 75%
+📍 Portland, OR United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5148270007)
+🕐 Updated: 2026-05-27T17:24:03-04:00 | ID: 5148270007
+
+#### 🔄 Enterprise Solutions Engineer, West Coast
+**Greenhouse** · verkada · Solutions Engineering
+📍 Seattle, WA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4834059007)
+🕐 Updated: 2026-05-27T17:23:58-04:00 | ID: 4834059007
+
+#### 🔄 Global Partner Marketing Lead, AI
+**Greenhouse** · stripe · 2316 Marketing - Partner
+📍 South San Francisco HQ | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7819587)
+🕐 Updated: 2026-05-27T17:20:10-04:00 | ID: 7819587
+
+#### 🔄 Site Selection Manager
+**Greenhouse** · coreweave · Data Center - G&A
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Richmond, VA | 🔗 [Apply Here](https://coreweave.com/careers/job?4676770006&board=coreweave&gh_jid=4676770006)
+🕐 Updated: 2026-05-27T17:20:02-04:00 | ID: 4676770006
+
+#### 🔄 Senior Data Center Security Site Evaluation Program Manager
+**Greenhouse** · coreweave · Data Center - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Richmond, VA / Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4676274006&board=coreweave&gh_jid=4676274006)
+🕐 Updated: 2026-05-27T17:18:52-04:00 | ID: 4676274006
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-27T17:17:26-04:00 | ID: 7870845
+
+#### 🔄 Senior Data Center Security Initiatives Project Manager
+**Greenhouse** · coreweave · Data Center - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA/ Dallas, TX / Richmond, VA | 🔗 [Apply Here](https://coreweave.com/careers/job?4675477006&board=coreweave&gh_jid=4675477006)
+🕐 Updated: 2026-05-27T17:17:07-04:00 | ID: 4675477006
+
+#### 🔄 Technical Project Manager - New Jersey Data Centers
+**Greenhouse** · coreweave · Data Center - G&A
+📍 Livingston, NJ | 🔗 [Apply Here](https://coreweave.com/careers/job?4675351006&board=coreweave&gh_jid=4675351006)
+🕐 Updated: 2026-05-27T17:16:22-04:00 | ID: 4675351006
+
+#### 🔄 Product Management Intern, Admin Console
+**Greenhouse** · gleanwork · University
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4699772005)
+🕐 Updated: 2026-05-27T17:15:59-04:00 | ID: 4699772005
+
+#### 🔄 Technical Project Manager - East Region
+**Greenhouse** · coreweave · Data Center - G&A
+📍 Richmond, VA / Columbus, OH | 🔗 [Apply Here](https://coreweave.com/careers/job?4675342006&board=coreweave&gh_jid=4675342006)
+🕐 Updated: 2026-05-27T17:15:18-04:00 | ID: 4675342006
+
+#### 🔄 Engineering Manager - Lakebase Storage
+**Greenhouse** · databricks · Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476581002)
+🕐 Updated: 2026-05-27T17:13:33-04:00 | ID: 8476581002
+
+#### 🔄 Data Center Technician - Mesa, AZ
+**Greenhouse** · coreweave · Data Center - COR
+📍 Mesa, Arizona | 🔗 [Apply Here](https://coreweave.com/careers/job?4673492006&board=coreweave&gh_jid=4673492006)
+🕐 Updated: 2026-05-27T17:12:50-04:00 | ID: 4673492006
+
+#### 🔄 Sales Engineer
+**Greenhouse** · altruist · Client Development
+📍 Dallas, TX | 🔗 [Apply Here](https://altruist.com/join-altruist/5990235004?gh_jid=5990235004)
+🕐 Updated: 2026-05-27T17:11:52-04:00 | ID: 5990235004
+
+#### 🔄 Sales Engineer
+**Greenhouse** · altruist · Client Development
+📍 Los Angeles, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/5990231004?gh_jid=5990231004)
+🕐 Updated: 2026-05-27T17:11:44-04:00 | ID: 5990231004
+
+#### 🔄 Senior Solutions Architect (Thai Speaking)
+**Greenhouse** · mongodb · Solutions Consulting Scaled Services
+📍 Malaysia | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7757460)
+🕐 Updated: 2026-05-27T17:10:11-04:00 | ID: 7757460
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002)
+🕐 Updated: 2026-05-27T17:09:57-04:00 | ID: 8374611002
+
+#### 🔄 Finance Associate
+**Greenhouse** · brex · Finance
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://www.brex.com/careers/8490327002?gh_jid=8490327002)
+🕐 Updated: 2026-05-27T17:09:49-04:00 | ID: 8490327002
+
+#### 🔄 Staff Security Software Engineer, Platform Integration
+**Greenhouse** · anthropic · Security
+📍 New York City, NY; San Francisco, CA; Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5209776008)
+🕐 Updated: 2026-05-27T17:08:28-04:00 | ID: 5209776008
+
+#### 🔄 Data Center Manager - Muskogee
+**Greenhouse** · coreweave · Data Center - COR
+📍 Muskogee, OK | 🔗 [Apply Here](https://coreweave.com/careers/job?4621176006&board=coreweave&gh_jid=4621176006)
+🕐 Updated: 2026-05-27T17:06:58-04:00 | ID: 4621176006
+
+#### 🔄 Technical Support Lead
+**Greenhouse** · lithic · Technical Services
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/lithic/jobs/6007106004)
+🕐 Updated: 2026-05-27T17:05:54-04:00 | ID: 6007106004
+
+#### 🔄 Staff Growth Product Manager, Lyft Business
+**Greenhouse** · lyft · Lyft Business
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8547683002?gh_jid=8547683002)
+🕐 Updated: 2026-05-27T17:05:07-04:00 | ID: 8547683002
+
+#### 🔄 Account Executive
+**Greenhouse** · lattice · Account Executive
+📍 London, UK | 🔗 [Apply Here](https://lattice.com/job?gh_jid=8550097002)
+🕐 Updated: 2026-05-27T17:05:01-04:00 | ID: 8550097002
+
+#### 🔄 Staff Growth Product Manager, Lyft Business
+**Greenhouse** · lyft · Lyft Business
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8547660002?gh_jid=8547660002)
+🕐 Updated: 2026-05-27T17:04:40-04:00 | ID: 8547660002
+
+#### 🔄 East Coast - Strategic Cuisines Inside Account Executive - Spanish
+**Greenhouse** · toast · Sales : Strategic Cuisines Sales AEs
+📍 East Coast, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7861920)
+🕐 Updated: 2026-05-27T17:01:03-04:00 | ID: 7861920
+
+#### 🔄 Director, Product Management, MyPay
+**Greenhouse** · chime · Lending Product
+📍 New York, NY, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8499435002?gh_jid=8499435002)
+🕐 Updated: 2026-05-27T17:00:40-04:00 | ID: 8499435002
+
+#### 🔄 Global Operations Manager, Europe
+**Greenhouse** · spacex · Starlink - Market Access
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8436297002?gh_jid=8436297002)
+🕐 Updated: 2026-05-27T16:51:38-04:00 | ID: 8436297002
+
+#### 🔄 Sr Customer Technical Lead
+**Greenhouse** · ivalua · Professional Services
+📍 Singapore | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/7589014?gh_jid=7589014)
+🕐 Updated: 2026-05-27T16:51:24-04:00 | ID: 7589014
+
+#### 🔄 Data Analyst, Autonomous Vehicles
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8545543002?gh_jid=8545543002)
+🕐 Updated: 2026-05-27T16:49:57-04:00 | ID: 8545543002
+
+#### 🔄 Retail Sales Manager, International
+**Greenhouse** · instacart · Retail Business Development
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7789182)
+🕐 Updated: 2026-05-27T16:47:53-04:00 | ID: 7789182
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7408013)
+🕐 Updated: 2026-05-27T16:42:32-04:00 | ID: 7408013
+
+#### 🔄 Strategy & Analytics Senior Lead, Growth
+**Greenhouse** · faire · Strategy & Analytics
+📍 New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8401209002?gh_jid=8401209002)
+🕐 Updated: 2026-05-27T16:39:13-04:00 | ID: 8401209002
+
+#### 🔄 Head of GTM, AI Inference
+**Greenhouse** · cloudflare · Developer Relations
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7428796?gh_jid=7428796)
+🕐 Updated: 2026-05-27T16:37:20-04:00 | ID: 7428796
+
+#### 🔄 Senior Software Engineer (Fullstack), Digital Storefront
+**Greenhouse** · toast · R & D : Product : Guest
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7819344)
+🕐 Updated: 2026-05-27T16:36:40-04:00 | ID: 7819344
+
+#### 🔄 Senior Fullstack Engineer, New Ventures
+**Greenhouse** · toast · R & D : Product : Retail
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7701507)
+🕐 Updated: 2026-05-27T16:36:19-04:00 | ID: 7701507
+
+#### 🔄 Software Engineer II, Enterprise
+**Greenhouse** · toast · R & D : Engineering : Enterprise
+📍 Remote, Canada | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7587103)
+🕐 Updated: 2026-05-27T16:35:04-04:00 | ID: 7587103
+
+#### 🔄 Staff Software Engineer (Android), Enterprise
+**Greenhouse** · toast · R & D : Engineering : Enterprise
+📍 Remote, Canada | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7609997)
+🕐 Updated: 2026-05-27T16:34:30-04:00 | ID: 7609997
+
+#### 🔄 Staff Software Engineer, New Ventures
+**Greenhouse** · toast · R & D : Product : Retail
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7862115)
+🕐 Updated: 2026-05-27T16:34:02-04:00 | ID: 7862115
+
+#### 🔄 Senior Director, Product Compliance
+**Greenhouse** · flex · Compliance
+📍 New York, NY; Salt Lake City, UT; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4676449005)
+🕐 Updated: 2026-05-27T16:32:21-04:00 | ID: 4676449005
+
+#### 🔄 Solutions Engineer
+**Greenhouse** · verkada · Solutions Engineering
+📍 Philadelphia, PA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5116308007)
+🕐 Updated: 2026-05-27T16:31:54-04:00 | ID: 5116308007
+
+#### 🔄 Commercial Counsel
+**Greenhouse** · flex · Legal
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4693228005)
+🕐 Updated: 2026-05-27T16:30:44-04:00 | ID: 4693228005
+
+#### 🔄 Senior Manager, SOX-Business Process
+**Greenhouse** · coreweave · Finance
+📍 Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4656905006&board=coreweave&gh_jid=4656905006)
+🕐 Updated: 2026-05-27T16:30:27-04:00 | ID: 4656905006
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · flex · Revenue
+📍 New York, NY; Salt Lake City, UT; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4697733005)
+🕐 Updated: 2026-05-27T16:28:26-04:00 | ID: 4697733005
+
+#### 🔄 Senior Privacy Counsel
+**Greenhouse** · verkada · Legal
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5089108007)
+🕐 Updated: 2026-05-27T16:26:40-04:00 | ID: 5089108007
+
+#### 🔄 Account Executive, Mid Market (Hunter)
+**Greenhouse** · stripe · 1651 Velocity - Account Executives (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7863714)
+🕐 Updated: 2026-05-27T16:22:57-04:00 | ID: 7863714
+
+#### 🔄 AI Systems Engineer
+**Greenhouse** · dialpad · 214 - AI Engineering
+📍 Kitchener, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8512122002)
+🕐 Updated: 2026-05-27T16:22:04-04:00 | ID: 8512122002
+
+#### 🔄 Staff Software Engineer, Websites
+**Greenhouse** · toast · R & D : Engineering : Guest
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7819342)
+🕐 Updated: 2026-05-27T16:21:52-04:00 | ID: 7819342
+
+#### 🔄 Senior Accountant (Contract to Hire)
+**Greenhouse** · bitgo · Finance
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8540208002)
+🕐 Updated: 2026-05-27T16:21:32-04:00 | ID: 8540208002
+
+#### 🔄 Regional Sales Manager, Atlanta (Enterprise)
+**Greenhouse** · cribl · Sales
+📍 Remote - Atlanta, Georgia | 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=5817387004)
+🕐 Updated: 2026-05-27T16:18:18-04:00 | ID: 5817387004
+
+#### 🔄 Customer Support Associate – Ops – CS - Collections
+**Greenhouse** · convera · Customer Service
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4866314101)
+🕐 Updated: 2026-05-27T16:17:54-04:00 | ID: 4866314101
+
+#### 🔄 Recruiter II, Business Recruiting (NYC)
+**Greenhouse** · datadog · Business Recruiting
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7927485/?gh_jid=7927485)
+🕐 Updated: 2026-05-27T16:16:39-04:00 | ID: 7927485
+
+#### 🔄 Engineering Manager - Conversational AI Platform
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7651276003)
+🕐 Updated: 2026-05-27T16:15:41-04:00 | ID: 7651276003
+
+#### 🔄 Senior Software Engineer - Profiles, Lists and Segments
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7597868003)
+🕐 Updated: 2026-05-27T16:15:40-04:00 | ID: 7597868003
+
+#### 🔄 Group Product Manager, Credit
+**Greenhouse** · adyen · Product Management
+📍 Chicago; San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6630580)
+🕐 Updated: 2026-05-27T16:15:37-04:00 | ID: 6630580
+
+#### 🔄 Sales Director, Brazil
+**Greenhouse** · fireblocks · Sales
+📍 São Paulo, São Paulo, Brazil | 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4682431006?gh_jid=4682431006)
+🕐 Updated: 2026-05-27T16:12:39-04:00 | ID: 4682431006
+
+#### 🔄 Fraud Model Analyst
+**Greenhouse** · sofi · Member Service Delivery Strategy
+📍 Cottonwood Heights, UT | 🔗 [Apply Here](https://sofi.com/careers/job/7743060003?gh_jid=7743060003)
+🕐 Updated: 2026-05-27T16:11:38-04:00 | ID: 7743060003
+
+#### 🔄 Staff Site Reliability Engineer - Observability
+**Greenhouse** · okta · Tech Ops-610
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7707836?gh_jid=7707836)
+🕐 Updated: 2026-05-27T16:06:09-04:00 | ID: 7707836
+
+#### 🔄 Staff Site Reliability Engineer - Observability
+**Greenhouse** · okta · Tech Ops-610
+📍 Bellevue, Washington; New York, New York; San Francisco, California; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
+🕐 Updated: 2026-05-27T16:05:40-04:00 | ID: 7658254
+
+#### 🔄 Senior Accountant, Fleet Accounting
+**Greenhouse** · lyft · Accounting, Tax, & Finance Transformation
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8476426002?gh_jid=8476426002)
+🕐 Updated: 2026-05-27T16:01:01-04:00 | ID: 8476426002
+
+#### 🔄 Systems Engineer, Driving Behaviors
+**Greenhouse** · waymo · Systems (78I)
+📍 Mountain View, CA, US; San Francisco, CA,US | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7545185)
+🕐 Updated: 2026-05-27T15:59:28-04:00 | ID: 7545185
+
+#### 🔄 Sales Development Representative, Public Sector
+**Greenhouse** · twilio · Sales
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7942300)
+🕐 Updated: 2026-05-27T15:57:37-04:00 | ID: 7942300
+
+#### 🔄 Spacecraft Cleanliness Technician (Starship)
+**Greenhouse** · spacex · Starship Vehicle Cleaning
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8339587002?gh_jid=8339587002)
+🕐 Updated: 2026-05-27T15:52:17-04:00 | ID: 8339587002
+
+#### 🔄 Account Manager, Commercial
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7902068?gh_jid=7902068)
+🕐 Updated: 2026-05-27T15:52:09-04:00 | ID: 7902068
+
+#### 🔄 Account Manager, Commercial
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7902065?gh_jid=7902065)
+🕐 Updated: 2026-05-27T15:51:48-04:00 | ID: 7902065
+
+#### 🔄 Account Manager, Commercial
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7902064?gh_jid=7902064)
+🕐 Updated: 2026-05-27T15:51:35-04:00 | ID: 7902064
+
+#### 🔄 Account Manager, Commercial
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://boards.greenhouse.io/braze/jobs/7899402?gh_jid=7899402)
+🕐 Updated: 2026-05-27T15:51:21-04:00 | ID: 7899402
+
+#### 🔄 Vehicle Recovery, Safety, & Logistics - EAST
+**Greenhouse** · waymo · RHO - Market Mgmt (GWE)
+📍 San Francisco, CA USA; Mountain View, CA USA; Los Angeles, CA USA; Tempe, AZ USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7851937)
+🕐 Updated: 2026-05-27T15:49:30-04:00 | ID: 7851937
+
+#### 🔄 Senior Product Manager, Acuity Scheduling, (Classes)
+**Greenhouse** · squarespace · Domains & Applications
+📍 New York City | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7699712)
+🕐 Updated: 2026-05-27T15:47:31-04:00 | ID: 7699712
+
+#### 🔄 Senior Fullstack Engineer - New Product
+**Greenhouse** · verkada · Alarms
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5126612007)
+🕐 Updated: 2026-05-27T15:46:34-04:00 | ID: 5126612007
+
+#### 🔄 Business Development Representative - Retail
+**Greenhouse** · toast · Sales : Retail Sales Acceleration
+📍 Boston, MA | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7669083)
+🕐 Updated: 2026-05-27T15:45:20-04:00 | ID: 7669083
+
+#### 🔄 Accountant, Insurance and Investments
+**Greenhouse** · lyft · Accounting, Tax, & Finance Transformation
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8545540002?gh_jid=8545540002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8545540002
+
+#### 🔄 Account Manager
+**Greenhouse** · lyft · Lyft Business
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8550113002?gh_jid=8550113002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8550113002
+
+#### 🔄 AI Business Solution Architect
+**Greenhouse** · lyft · Corporate Engineering & IT
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8532137002?gh_jid=8532137002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8532137002
+
+#### 🔄 Analytics Lead, Events & Venues
+**Greenhouse** · lyft · Verticals
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8477563002?gh_jid=8477563002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8477563002
+
+#### 🔄 Analytics Lead, LUS
+**Greenhouse** · lyft · LUS
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8367674002?gh_jid=8367674002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8367674002
+
+#### 🔄 Analytics Lead, Market Insights
+**Greenhouse** · lyft · Central Market Management & AI
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8550717002?gh_jid=8550717002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8550717002
+
+#### 🔄 Analytics Lead, Market Insights
+**Greenhouse** · lyft · Central Market Management & AI
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503985002?gh_jid=8503985002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8503985002
+
+#### 🔄 Analytics Lead, Marketplace Strategy
+**Greenhouse** · lyft · North America Rideshare Marketing
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8427742002?gh_jid=8427742002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8427742002
+
+#### 🔄 Analytics Lead, Safety & Customer Care
+**Greenhouse** · lyft · SCC Analytics
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8474660002?gh_jid=8474660002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8474660002
+
+#### 🔄 Analytics Lead, Safety & Customer Care
+**Greenhouse** · lyft · SCC Analytics
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8474709002?gh_jid=8474709002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8474709002
+
+#### 🔄 Android Engineer, Global Growth
+**Greenhouse** · lyft · Global Growth Tech
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8505163002?gh_jid=8505163002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8505163002
+
+#### 🔄 Android Engineer, Trust & Safety
+**Greenhouse** · lyft · SCC Tech
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8470542002?gh_jid=8470542002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8470542002
+
+#### 🔄 Applied Scientist- Pricing, Dynamic Pricing & Offer Selection
+**Greenhouse** · lyft · Pricing
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8402813002?gh_jid=8402813002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8402813002
+
+#### 🔄 Applied Scientist- Pricing, Dynamic Pricing & Offer Selection
+**Greenhouse** · lyft · Pricing
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8403370002?gh_jid=8403370002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8403370002
+
+#### 🔄 Autonomous Vehicle Business Development Manager
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508269002?gh_jid=8508269002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508269002
+
+#### 🔄 Backend Software Engineer, Airports
+**Greenhouse** · lyft · Verticals
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8544636002?gh_jid=8544636002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8544636002
+
+#### 🔄 Business Operations Manager
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8535144002?gh_jid=8535144002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8535144002
+
+#### 🔄 Business Systems Engineer
+**Greenhouse** · lyft · Corporate Engineering & IT
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8483264002?gh_jid=8483264002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8483264002
+
+#### 🔄 Business Systems Engineer, Oracle OTC
+**Greenhouse** · lyft · Corporate Engineering & IT
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8464813002?gh_jid=8464813002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8464813002
+
+#### 🔄 Business Systems Engineer, Oracle PTM
+**Greenhouse** · lyft · Corporate Engineering & IT
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8482826002?gh_jid=8482826002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8482826002
+
+#### 🔄 Business Systems Engineer, Oracle STP
+**Greenhouse** · lyft · Corporate Engineering & IT
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8483261002?gh_jid=8483261002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8483261002
+
+#### 🔄 Counsel, Product & Commercial (Rideshare & Safety)
+**Greenhouse** · lyft · Product & Commercial, Compliance, IP and OSaC
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8509119002?gh_jid=8509119002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8509119002
+
+#### 🔄 Data Analyst - Global Growth Luxury Strategy
+**Greenhouse** · lyft · Global Growth Tech
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8514400002?gh_jid=8514400002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8514400002
+
+#### 🔄 Data Analyst, People Analytics
+**Greenhouse** · lyft · Total Rewards
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8555335002?gh_jid=8555335002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8555335002
+
+#### 🔄 Data Engineer, Mapping
+**Greenhouse** · lyft · Mapping
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503982002?gh_jid=8503982002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8503982002
+
+#### 🔄 Data Engineer, Marketplace
+**Greenhouse** · lyft · Central Market Management & AI
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8565400002?gh_jid=8565400002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8565400002
+
+#### 🔄 Data Science Manager, Machine Learning - Lyft Ads
+**Greenhouse** · lyft · Lyft Ads
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8504137002?gh_jid=8504137002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8504137002
+
+#### 🔄 Data Science Manager, Machine Learning - Lyft Ads
+**Greenhouse** · lyft · Lyft Ads
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503999002?gh_jid=8503999002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8503999002
+
+#### 🔄 Data Science Manager, Mapping
+**Greenhouse** · lyft · Mapping
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8448175002?gh_jid=8448175002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8448175002
+
+#### 🔄 Data Science Manager, Rider App
+**Greenhouse** · lyft · Core XP
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8445467002?gh_jid=8445467002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8445467002
+
+#### 🔄 Data Scientist, Algorithms - Driver Incentives
+**Greenhouse** · lyft · Driver Earnings
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503986002?gh_jid=8503986002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8503986002
+
+#### 🔄 Data Scientist, Algorithms, Optimization - Fulfillment
+**Greenhouse** · lyft · Fulfillment
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8335733002?gh_jid=8335733002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8335733002
+
+#### 🔄 Data Scientist, Algorithms, Optimization - Fulfillment
+**Greenhouse** · lyft · Fulfillment
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8536085002?gh_jid=8536085002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8536085002
+
+#### 🔄 Data Scientist, Algorithms, Optimization - Fulfillment
+**Greenhouse** · lyft · Fulfillment
+📍 Seattle, WA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8335715002?gh_jid=8335715002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8335715002
+
+#### 🔄 Data Scientist - Decisions, Mapping
+**Greenhouse** · lyft · Mapping
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8448179002?gh_jid=8448179002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8448179002
+
+#### 🔄 Data Scientist, Decisions - Verticals
+**Greenhouse** · lyft · Verticals
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8495862002?gh_jid=8495862002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8495862002
+
+#### 🔄 Data Scientist, Supply and Operations Technology, Lyft Urban Solutions
+**Greenhouse** · lyft · LUS Supply & Operations Technology
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8402782002?gh_jid=8402782002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8402782002
+
+#### 🔄 Director, Tax
+**Greenhouse** · lyft · Executive
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8455963002?gh_jid=8455963002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8455963002
+
+#### 🔄 Financial Analyst
+**Greenhouse** · lyft · FP&A
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8504702002?gh_jid=8504702002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8504702002
+
+#### 🔄 Financial Analyst
+**Greenhouse** · lyft · FP&A
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8560378002?gh_jid=8560378002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8560378002
+
+#### 🔄 Firmware Test Engineer
+**Greenhouse** · lyft · LUS Hardware
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8559583002?gh_jid=8559583002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8559583002
+
+#### 🔄 Global Equity Program Manager
+**Greenhouse** · lyft · Corporate & Commercial
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8534527002?gh_jid=8534527002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8534527002
+
+#### 🔄 Global Equity Program Manager
+**Greenhouse** · lyft · Corporate & Commercial
+📍 Seattle, WA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8534529002?gh_jid=8534529002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8534529002
+
+#### 🔄 Group Product Manager, Core Rider
+**Greenhouse** · lyft · Rider Loyalty & Partnerships
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8318645002?gh_jid=8318645002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8318645002
+
+#### 🔄 Group Product Manager II, Pricing
+**Greenhouse** · lyft · Pricing
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8490440002?gh_jid=8490440002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8490440002
+
+#### 🔄 Group Product Manager II, Pricing
+**Greenhouse** · lyft · Pricing
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8492202002?gh_jid=8492202002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8492202002
+
+#### 🔄 Group Product Manager, Verticals
+**Greenhouse** · lyft · Verticals
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8513755002?gh_jid=8513755002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8513755002
+
+#### 🔄 Head of Claims
+**Greenhouse** · lyft · Executive
+📍 U.S. Anywhere | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8532600002?gh_jid=8532600002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8532600002
+
+#### 🔄 iOS Tooling Engineer
+**Greenhouse** · lyft · Infrastructure
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8297733002?gh_jid=8297733002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8297733002
+
+#### 🔄 Learning Experience Designer
+**Greenhouse** · lyft · Infrastructure
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8538721002?gh_jid=8538721002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8538721002
+
+#### 🔄 Machine Learning Engineer, Lyft Business
+**Greenhouse** · lyft · Lyft Business
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8513769002?gh_jid=8513769002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8513769002
+
+#### 🔄 Manager, AV Strategy & Business Operations
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8538810002?gh_jid=8538810002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8538810002
+
+#### 🔄 Manager, AV Strategy & Business Operations
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8538777002?gh_jid=8538777002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8538777002
+
+#### 🔄 Manager, AV Technical Operations
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8525455002?gh_jid=8525455002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8525455002
+
+#### 🔄 Manager, Global Investigations
+**Greenhouse** · lyft · Security
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8525191002?gh_jid=8525191002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8525191002
+
+#### 🔄 Manager, Strategic Finance
+**Greenhouse** · lyft · FP&A
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8450611002?gh_jid=8450611002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8450611002
+
+#### 🔄 Operations Associate
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Phoenix, AZ | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8514419002?gh_jid=8514419002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8514419002
+
+#### 🔄 Operations Associate
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Los Angeles, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8556731002?gh_jid=8556731002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8556731002
+
+#### 🔄 Operations Associate, Flexdrive
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Glen Burnie, MD | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8547433002?gh_jid=8547433002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8547433002
+
+#### 🔄 Operations Associate, Flexdrive
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Philadelphia, PA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8547436002?gh_jid=8547436002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8547436002
+
+#### 🔄 Operations Associate, Flexdrive
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Cleveland, OH | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8547440002?gh_jid=8547440002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8547440002
+
+#### 🔄 Operations Specialist, Citi Bike
+**Greenhouse** · lyft · LUS Bike Market Operations
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8515865002?gh_jid=8515865002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8515865002
+
+#### 🔄 Product Manager, Driver Earnings
+**Greenhouse** · lyft · Fulfillment
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8550252002?gh_jid=8550252002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8550252002
+
+#### 🔄 Product Manager, Driver Earnings
+**Greenhouse** · lyft · Fulfillment
+📍 Seattle, WA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8550274002?gh_jid=8550274002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8550274002
+
+#### 🔄 Product Manager, Driver Experience
+**Greenhouse** · lyft · Driver Experience
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8525086002?gh_jid=8525086002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8525086002
+
+#### 🔄 Product Manager, Driver Experience
+**Greenhouse** · lyft · Driver Experience
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8514395002?gh_jid=8514395002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8514395002
+
+#### 🔄 Product Manager, Premium Modes
+**Greenhouse** · lyft · Global Growth Tech
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8514382002?gh_jid=8514382002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8514382002
+
+#### 🔄 Product Manager, Risk Tech - Claims
+**Greenhouse** · lyft · Risk Solutions
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8550340002?gh_jid=8550340002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8550340002
+
+#### 🔄 Program Manager, Process Excellence & Standards
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8509124002?gh_jid=8509124002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8509124002
+
+#### 🔄 Program Manager, Technology Ops
+**Greenhouse** · lyft · Corporate Engineering & IT
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8505117002?gh_jid=8505117002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8505117002
+
+#### 🔄 Security Analyst, Incident Response
+**Greenhouse** · lyft · Security & Privacy
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8544635002?gh_jid=8544635002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8544635002
+
+#### 🔄 Senior AI Software Engineer, Risk - Insurance Claims Management
+**Greenhouse** · lyft · Risk Solutions
+📍 Seattle, WA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508372002?gh_jid=8508372002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508372002
+
+#### 🔄 Senior AI Software Engineer, Risk - Insurance Claims Management
+**Greenhouse** · lyft · Risk Solutions
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508346002?gh_jid=8508346002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508346002
+
+#### 🔄 Senior Analyst, Global Expansion Strategy
+**Greenhouse** · lyft · Global Growth Tech
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8514422002?gh_jid=8514422002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8514422002
+
+#### 🔄 Senior Android Engineer, Mobile Foundations
+**Greenhouse** · lyft · Infrastructure
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8378420002?gh_jid=8378420002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8378420002
+
+#### 🔄 Senior Autonomous Vehicle Partnership Manager
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508266002?gh_jid=8508266002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508266002
+
+#### 🔄 Senior Billing Specialist
+**Greenhouse** · lyft · Accounting, Tax, & Finance Transformation
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8564640002?gh_jid=8564640002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8564640002
+
+#### 🔄 Senior Billing Specialist
+**Greenhouse** · lyft · Accounting, Tax, & Finance Transformation
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8564670002?gh_jid=8564670002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8564670002
+
+#### 🔄 Senior Data Scientist, Decisions - Risk
+**Greenhouse** · lyft · Risk Solutions
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8477773002?gh_jid=8477773002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8477773002
+
+#### 🔄 Senior Data Scientist, Decisions - Risk
+**Greenhouse** · lyft · Risk Solutions
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8477561002?gh_jid=8477561002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8477561002
+
+#### 🔄 Senior Data Scientist - Optimization, Central Market Management & AI
+**Greenhouse** · lyft · Central Market Management & AI
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8483708002?gh_jid=8483708002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8483708002
+
+#### 🔄 Senior Data Scientist - Optimization, Central Market Management & AI
+**Greenhouse** · lyft · Central Market Management & AI
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8483867002?gh_jid=8483867002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8483867002
+
+#### 🔄 Senior Data Scientist, Rider New Products
+**Greenhouse** · lyft · Core Rider
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8355945002?gh_jid=8355945002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8355945002
+
+#### 🔄 Senior Data Scientist, Rider New Products
+**Greenhouse** · lyft · Core Rider
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8355960002?gh_jid=8355960002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8355960002
+
+#### 🔄 Senior Design Program Manager, Design Foundations & AI Transformation
+**Greenhouse** · lyft · Infrastructure
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8504066002?gh_jid=8504066002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8504066002
+
+#### 🔄 Senior Design Program Manager, Design Foundations & AI Transformation
+**Greenhouse** · lyft · Infrastructure
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8503978002?gh_jid=8503978002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8503978002
+
+#### 🔄 Senior Director, Strategic Finance
+**Greenhouse** · lyft · Executive
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8506961002?gh_jid=8506961002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8506961002
+
+#### 🔄 Senior Director, Strategic Finance
+**Greenhouse** · lyft · Executive
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8511057002?gh_jid=8511057002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8511057002
+
+#### 🔄 Senior Engineering Manager, Mapping
+**Greenhouse** · lyft · Mapping
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8538295002?gh_jid=8538295002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8538295002
+
+#### 🔄 Senior Illustrator, Design Foundations & AI Transformation
+**Greenhouse** · lyft · Infrastructure
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8532132002?gh_jid=8532132002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8532132002
+
+#### 🔄 Senior iOS Tooling Engineer
+**Greenhouse** · lyft · Infrastructure
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8289497002?gh_jid=8289497002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8289497002
+
+#### 🔄 Senior Machine Learning Engineer, Recommendations
+**Greenhouse** · lyft · Core Rider
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8430552002
+
+#### 🔄 Senior Manager, AV Field Operations
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8535148002?gh_jid=8535148002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8535148002
+
+#### 🔄 Senior Manager, Trust & Safety Policy
+**Greenhouse** · lyft · Safety Policy
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8525434002?gh_jid=8525434002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8525434002
+
+#### 🔄 Senior Privacy Analyst
+**Greenhouse** · lyft · Security & Privacy
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8436395002?gh_jid=8436395002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8436395002
+
+#### 🔄 Senior Privacy Analyst
+**Greenhouse** · lyft · Security & Privacy
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8481812002?gh_jid=8481812002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8481812002
+
+#### 🔄 Senior Product Manager - Autonomous Vehicles Partnerships
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8514397002?gh_jid=8514397002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8514397002
+
+#### 🔄 Senior Program Manager, Autonomous Vehicles
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8515875002?gh_jid=8515875002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8515875002
+
+#### 🔄 Senior Security Engineer, Corporate Security
+**Greenhouse** · lyft · Security & Privacy
+📍 Seattle, WA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8525352002?gh_jid=8525352002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8525352002
+
+#### 🔄 Senior Software  Engineer, AI-Powered Developer Productivity
+**Greenhouse** · lyft · Core Rider
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8515377002?gh_jid=8515377002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8515377002
+
+#### 🔄 Senior Software Engineer, Autonomous Vehicle
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8459156002?gh_jid=8459156002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8459156002
+
+#### 🔄 Senior Software Engineer, Backend
+**Greenhouse** · lyft · Lyft Business
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8559587002?gh_jid=8559587002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8559587002
+
+#### 🔄 Senior Software Engineer, CorpSec
+**Greenhouse** · lyft · Security & Privacy
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8421525002?gh_jid=8421525002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8421525002
+
+#### 🔄 Senior Software Engineer, Driver XP
+**Greenhouse** · lyft · Driver Experience
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8399274002?gh_jid=8399274002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8399274002
+
+#### 🔄 Senior Software Engineer, Lyft Business
+**Greenhouse** · lyft · Lyft Business
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8445493002
+
+#### 🔄 Senior Software Engineer, Marketplace
+**Greenhouse** · lyft · Central Market Management & AI
+📍 Seattle, WA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8492244002?gh_jid=8492244002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8492244002
+
+#### 🔄 Senior Software Engineer, Marketplace
+**Greenhouse** · lyft · Central Market Management & AI
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8490442002?gh_jid=8490442002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8490442002
+
+#### 🔄 Senior Software Engineer, Rider
+**Greenhouse** · lyft · Core Rider
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8525090002?gh_jid=8525090002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8525090002
+
+#### 🔄 Senior Software Engineer, Self-Serve Intelligence
+**Greenhouse** · lyft · SCC Tech
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508257002?gh_jid=8508257002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508257002
+
+#### 🔄 Senior Technical Program Manager, Product & Rider Loyalty
+**Greenhouse** · lyft · Central TPM
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8433701002?gh_jid=8433701002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8433701002
+
+#### 🔄 Senior Tech Ops Program Manager
+**Greenhouse** · lyft · Corporate Engineering & IT
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508202002?gh_jid=8508202002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508202002
+
+#### 🔄 Software Engineer, Ad Infra
+**Greenhouse** · lyft · Lyft Ads
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8527740002?gh_jid=8527740002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8527740002
+
+#### 🔄 Software Engineer, Android
+**Greenhouse** · lyft · Lyft Business
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8558174002?gh_jid=8558174002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8558174002
+
+#### 🔄 Software Engineer (Backend), Growth Platforms
+**Greenhouse** · lyft · Growth
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8421508002?gh_jid=8421508002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8421508002
+
+#### 🔄 Software Engineer, iOS
+**Greenhouse** · lyft · Lyft Business
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8559585002?gh_jid=8559585002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8559585002
+
+#### 🔄 Software Engineer, Pricing
+**Greenhouse** · lyft · Pricing
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8396751002?gh_jid=8396751002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8396751002
+
+#### 🔄 Software Engineer, Rider Quality
+**Greenhouse** · lyft · Core Rider
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8525065002?gh_jid=8525065002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8525065002
+
+#### 🔄 Software Engineer, Scheduled Rides
+**Greenhouse** · lyft · Verticals
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8544638002?gh_jid=8544638002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8544638002
+
+#### 🔄 Sr Software Engineer, Luxury
+**Greenhouse** · lyft · Global Growth Tech
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508259002?gh_jid=8508259002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508259002
+
+#### 🔄 Staff Product Manager, Lyft AI Platform & Marketplace Applications
+**Greenhouse** · lyft · Central Market Management & AI
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8461144002?gh_jid=8461144002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8461144002
+
+#### 🔄 Staff Technical Program Manager, Mergers & Acquisition
+**Greenhouse** · lyft · Central TPM
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8508873002?gh_jid=8508873002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8508873002
+
+#### 🔄 Strategic Partner Manager
+**Greenhouse** · lyft · Rider Loyalty & Partnerships
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8536355002?gh_jid=8536355002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8536355002
+
+#### 🔄 Strategic Partner Manager
+**Greenhouse** · lyft · Rider Loyalty & Partnerships
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8532135002?gh_jid=8532135002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8532135002
+
+#### 🔄 VP, Safety & Customer Care
+**Greenhouse** · lyft · Executive
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8394754002?gh_jid=8394754002)
+🕐 Updated: 2026-05-27T15:43:39-04:00 | ID: 8394754002
+
+#### 🔄 Senior Security Architect - AI/CI
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7919041)
+🕐 Updated: 2026-05-27T15:42:00-04:00 | ID: 7919041
+
+#### 🔄 Senior Security Architect - AI/CI
+**Greenhouse** · purestorage · Engineering
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7919048)
+🕐 Updated: 2026-05-27T15:41:56-04:00 | ID: 7919048
+
+#### 🔄 Senior Security Engineer - AppSec
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7919032)
+🕐 Updated: 2026-05-27T15:41:48-04:00 | ID: 7919032
+
+#### 🔄 Client Account Manager, Mid-Market (B2C Services - Acquisitions)
+**Greenhouse** · reddit · Mid Market & SMB
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7843754)
+🕐 Updated: 2026-05-27T15:40:19-04:00 | ID: 7843754
+
+#### 🔄 Senior Specialist / Service Delivery Manager
+**Greenhouse** · convera · Customer Service
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4846036101)
+🕐 Updated: 2026-05-27T15:36:47-04:00 | ID: 4846036101
+
+#### 🔄 Account Executive, Velocity Hunter (Spanish Speaking), Iberia
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7907485)
+🕐 Updated: 2026-05-27T15:36:25-04:00 | ID: 7907485
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13414 fetched, 199 updated, 49 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13501 fetched, 199 updated, 49 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-27 19:35 UTC
 
 ### Greenhouse

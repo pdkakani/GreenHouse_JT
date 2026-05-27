@@ -5832,7 +5832,7 @@
     "alerted": true
   },
   "greenhouse:okta:7658254": {
-    "updated_at": "2026-05-20T21:58:07-04:00",
+    "updated_at": "2026-05-27T16:05:40-04:00",
     "title": "Staff Site Reliability Engineer - Observability",
     "company": "okta",
     "ats": "greenhouse",
@@ -6072,7 +6072,7 @@
     "alerted": true
   },
   "greenhouse:okta:7707836": {
-    "updated_at": "2026-05-20T21:58:07-04:00",
+    "updated_at": "2026-05-27T16:06:09-04:00",
     "title": "Staff Site Reliability Engineer - Observability",
     "company": "okta",
     "ats": "greenhouse",
@@ -13120,7 +13120,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7597868003": {
-    "updated_at": "2026-05-26T03:02:16-04:00",
+    "updated_at": "2026-05-27T16:15:40-04:00",
     "title": "Senior Software Engineer - Profiles, Lists and Segments",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -19024,7 +19024,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8474709002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Analytics Lead, Safety & Customer Care",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19032,7 +19032,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8474660002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Analytics Lead, Safety & Customer Care",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19048,7 +19048,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8402813002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19056,7 +19056,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8403370002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19064,7 +19064,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8448175002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Science Manager, Mapping",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19104,7 +19104,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8335733002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19112,7 +19112,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8335715002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19144,7 +19144,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8402782002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Scientist, Supply and Operations Technology, Lyft Urban Solutions",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19160,7 +19160,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8318645002": {
-    "updated_at": "2026-05-26T13:16:24-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Group Product Manager, Core Rider",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19168,7 +19168,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8492202002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Group Product Manager II, Pricing",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19176,7 +19176,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8490440002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Group Product Manager II, Pricing",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19200,7 +19200,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8378420002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Android Engineer, Mobile Foundations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19208,7 +19208,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8477773002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Data Scientist, Decisions - Risk",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19216,7 +19216,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8477561002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Data Scientist, Decisions - Risk",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19224,7 +19224,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8483867002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Data Scientist - Optimization, Central Market Management & AI",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19232,7 +19232,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8483708002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Data Scientist - Optimization, Central Market Management & AI",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19240,7 +19240,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8355945002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Data Scientist, Rider New Products",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19248,7 +19248,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8355960002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Data Scientist, Rider New Products",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19264,7 +19264,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8430552002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Machine Learning Engineer, Recommendations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19328,7 +19328,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8459156002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Autonomous Vehicle",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19336,7 +19336,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8399274002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Driver XP",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19344,7 +19344,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8445493002": {
-    "updated_at": "2026-05-06T11:17:47-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Lyft Business",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19352,7 +19352,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8433701002": {
-    "updated_at": "2026-05-05T21:14:05-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Technical Program Manager, Product & Rider Loyalty",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19392,7 +19392,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8461144002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Staff Product Manager, Lyft AI Platform & Marketplace Applications",
     "company": "lyft",
     "ats": "greenhouse",
@@ -20632,7 +20632,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7651276003": {
-    "updated_at": "2026-05-18T03:02:42-04:00",
+    "updated_at": "2026-05-27T16:15:41-04:00",
     "title": "Engineering Manager - Conversational AI Platform",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -21760,7 +21760,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8503985002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Analytics Lead, Market Insights",
     "company": "lyft",
     "ats": "greenhouse",
@@ -21768,7 +21768,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8504137002": {
-    "updated_at": "2026-05-11T15:00:44-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Science Manager, Machine Learning - Lyft Ads",
     "company": "lyft",
     "ats": "greenhouse",
@@ -21776,7 +21776,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8503999002": {
-    "updated_at": "2026-05-11T14:59:24-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Science Manager, Machine Learning - Lyft Ads",
     "company": "lyft",
     "ats": "greenhouse",
@@ -22128,7 +22128,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8492244002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Marketplace",
     "company": "lyft",
     "ats": "greenhouse",
@@ -22136,7 +22136,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8490442002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Marketplace",
     "company": "lyft",
     "ats": "greenhouse",
@@ -22208,7 +22208,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7789182": {
-    "updated_at": "2026-05-18T18:41:13-04:00",
+    "updated_at": "2026-05-27T16:47:53-04:00",
     "title": "Retail Sales Manager, International",
     "company": "instacart",
     "ats": "greenhouse",
@@ -22992,7 +22992,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8508873002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Staff Technical Program Manager, Mergers & Acquisition",
     "company": "lyft",
     "ats": "greenhouse",
@@ -23144,7 +23144,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8508269002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Autonomous Vehicle Business Development Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -24496,7 +24496,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8508257002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Self-Serve Intelligence",
     "company": "lyft",
     "ats": "greenhouse",
@@ -25616,7 +25616,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8503978002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Design Program Manager, Design Foundations & AI Transformation",
     "company": "lyft",
     "ats": "greenhouse",
@@ -25624,7 +25624,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8504066002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Design Program Manager, Design Foundations & AI Transformation",
     "company": "lyft",
     "ats": "greenhouse",
@@ -32888,7 +32888,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7461103": {
-    "updated_at": "2026-05-14T23:12:56-04:00",
+    "updated_at": "2026-05-27T17:24:54-04:00",
     "title": "Onboard Infrastructure Software Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34192,8 +34192,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7545185": {
-    "updated_at": "2026-05-19T16:16:56-04:00",
-    "title": "Systems Engineer, Behavioral Requirements",
+    "updated_at": "2026-05-27T15:59:28-04:00",
+    "title": "Systems Engineer, Driving Behaviors",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -35288,7 +35288,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4834059007": {
-    "updated_at": "2026-05-18T11:48:46-04:00",
+    "updated_at": "2026-05-27T17:23:58-04:00",
     "title": "Enterprise Solutions Engineer, West Coast",
     "company": "verkada",
     "ats": "greenhouse",
@@ -36152,7 +36152,7 @@
     "alerted": false
   },
   "greenhouse:toast:7701507": {
-    "updated_at": "2026-04-06T12:35:16-04:00",
+    "updated_at": "2026-05-27T16:36:19-04:00",
     "title": "Senior Fullstack Engineer, New Ventures",
     "company": "toast",
     "ats": "greenhouse",
@@ -43288,7 +43288,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8508346002": {
-    "updated_at": "2026-05-12T14:45:37-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
     "company": "lyft",
     "ats": "greenhouse",
@@ -43296,7 +43296,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8508372002": {
-    "updated_at": "2026-05-12T14:45:36-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
     "company": "lyft",
     "ats": "greenhouse",
@@ -43968,7 +43968,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514419002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Operations Associate",
     "company": "lyft",
     "ats": "greenhouse",
@@ -52384,7 +52384,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5089108007": {
-    "updated_at": "2026-05-18T11:48:49-04:00",
+    "updated_at": "2026-05-27T16:26:40-04:00",
     "title": "Senior Privacy Counsel",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53632,7 +53632,7 @@
     "alerted": false
   },
   "greenhouse:chime:8499435002": {
-    "updated_at": "2026-04-23T21:24:29-04:00",
+    "updated_at": "2026-05-27T17:00:40-04:00",
     "title": "Director, Product Management, MyPay",
     "company": "chime",
     "ats": "greenhouse",
@@ -54096,7 +54096,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8515377002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software  Engineer, AI-Powered Developer Productivity",
     "company": "lyft",
     "ats": "greenhouse",
@@ -55144,7 +55144,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8450611002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Manager, Strategic Finance",
     "company": "lyft",
     "ats": "greenhouse",
@@ -55224,7 +55224,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514397002": {
-    "updated_at": "2026-05-25T10:53:48-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Product Manager - Autonomous Vehicles Partnerships",
     "company": "lyft",
     "ats": "greenhouse",
@@ -55232,7 +55232,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514382002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Product Manager, Premium Modes",
     "company": "lyft",
     "ats": "greenhouse",
@@ -55576,7 +55576,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4621176006": {
-    "updated_at": "2026-05-23T21:57:38-04:00",
+    "updated_at": "2026-05-27T17:06:58-04:00",
     "title": "Data Center Manager - Muskogee",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55648,7 +55648,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673492006": {
-    "updated_at": "2026-05-23T21:57:38-04:00",
+    "updated_at": "2026-05-27T17:12:50-04:00",
     "title": "Data Center Technician - Mesa, AZ",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56120,7 +56120,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4656905006": {
-    "updated_at": "2026-05-15T10:47:35-04:00",
+    "updated_at": "2026-05-27T16:30:27-04:00",
     "title": "Senior Manager, SOX-Business Process",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -57392,7 +57392,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8509124002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Program Manager, Process Excellence & Standards",
     "company": "lyft",
     "ats": "greenhouse",
@@ -57880,7 +57880,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514395002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Product Manager, Driver Experience",
     "company": "lyft",
     "ats": "greenhouse",
@@ -57888,7 +57888,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8513755002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Group Product Manager, Verticals",
     "company": "lyft",
     "ats": "greenhouse",
@@ -61320,7 +61320,7 @@
     "alerted": false
   },
   "greenhouse:intercom:7408013": {
-    "updated_at": "2026-05-20T10:15:35-04:00",
+    "updated_at": "2026-05-27T16:42:32-04:00",
     "title": "Account Executive, Commercial",
     "company": "intercom",
     "ats": "greenhouse",
@@ -62592,7 +62592,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8509119002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Counsel, Product & Commercial (Rideshare & Safety)",
     "company": "lyft",
     "ats": "greenhouse",
@@ -63120,7 +63120,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8511057002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Director, Strategic Finance",
     "company": "lyft",
     "ats": "greenhouse",
@@ -63128,7 +63128,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8506961002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Director, Strategic Finance",
     "company": "lyft",
     "ats": "greenhouse",
@@ -66808,7 +66808,7 @@
     "alerted": false
   },
   "greenhouse:cribl:5817387004": {
-    "updated_at": "2026-04-16T19:38:52-04:00",
+    "updated_at": "2026-05-27T16:18:18-04:00",
     "title": "Regional Sales Manager, Atlanta (Enterprise)",
     "company": "cribl",
     "ats": "greenhouse",
@@ -69248,7 +69248,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8508259002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Sr Software Engineer, Luxury",
     "company": "lyft",
     "ats": "greenhouse",
@@ -70464,7 +70464,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8508266002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Autonomous Vehicle Partnership Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -70664,8 +70664,8 @@
     "alerted": false
   },
   "greenhouse:squarespace:7699712": {
-    "updated_at": "2026-05-26T16:37:32-04:00",
-    "title": "Senior Product Manager, Acuity Scheduling",
+    "updated_at": "2026-05-27T15:47:31-04:00",
+    "title": "Senior Product Manager, Acuity Scheduling, (Classes)",
     "company": "squarespace",
     "ats": "greenhouse",
     "source_slug": "squarespace",
@@ -71720,7 +71720,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8508202002": {
-    "updated_at": "2026-05-15T13:33:08-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Tech Ops Program Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -73112,8 +73112,8 @@
     "alerted": false
   },
   "greenhouse:adyen:6630580": {
-    "updated_at": "2026-04-14T19:43:56-04:00",
-    "title": "Head of Product, Credit",
+    "updated_at": "2026-05-27T16:15:37-04:00",
+    "title": "Group Product Manager, Credit",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -75064,7 +75064,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8504702002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Financial Analyst",
     "company": "lyft",
     "ats": "greenhouse",
@@ -77856,7 +77856,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8505117002": {
-    "updated_at": "2026-05-20T11:24:14-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Program Manager, Technology Ops",
     "company": "lyft",
     "ats": "greenhouse",
@@ -77888,7 +77888,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8289497002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior iOS Tooling Engineer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -77896,7 +77896,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8297733002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "iOS Tooling Engineer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -79064,7 +79064,7 @@
     "alerted": false
   },
   "greenhouse:toast:7587103": {
-    "updated_at": "2026-04-14T08:47:15-04:00",
+    "updated_at": "2026-05-27T16:35:04-04:00",
     "title": "Software Engineer II, Enterprise",
     "company": "toast",
     "ats": "greenhouse",
@@ -79528,7 +79528,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8505163002": {
-    "updated_at": "2026-05-13T17:10:37-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Android Engineer, Global Growth",
     "company": "lyft",
     "ats": "greenhouse",
@@ -81232,7 +81232,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8503982002": {
-    "updated_at": "2026-05-27T06:43:28-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Engineer, Mapping",
     "company": "lyft",
     "ats": "greenhouse",
@@ -82360,7 +82360,7 @@
     "alerted": false
   },
   "greenhouse:brex:8490327002": {
-    "updated_at": "2026-05-26T08:12:55-04:00",
+    "updated_at": "2026-05-27T17:09:49-04:00",
     "title": "Finance Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -86520,8 +86520,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8476581002": {
-    "updated_at": "2026-04-10T10:32:01-04:00",
-    "title": "Engineering Manager - Storage",
+    "updated_at": "2026-05-27T17:13:33-04:00",
+    "title": "Engineering Manager - Lakebase Storage",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -89144,7 +89144,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8374611002": {
-    "updated_at": "2026-04-09T16:51:24-04:00",
+    "updated_at": "2026-05-27T17:09:57-04:00",
     "title": "Staff Software Engineer - Backend",
     "company": "databricks",
     "ats": "greenhouse",
@@ -91784,7 +91784,7 @@
     "alerted": false
   },
   "greenhouse:faire:8401209002": {
-    "updated_at": "2026-05-26T11:18:01-04:00",
+    "updated_at": "2026-05-27T16:39:13-04:00",
     "title": "Strategy & Analytics Senior Lead, Growth",
     "company": "faire",
     "ats": "greenhouse",
@@ -94216,7 +94216,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8421508002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Software Engineer (Backend), Growth Platforms",
     "company": "lyft",
     "ats": "greenhouse",
@@ -95128,7 +95128,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8495862002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Scientist, Decisions - Verticals",
     "company": "lyft",
     "ats": "greenhouse",
@@ -95408,7 +95408,7 @@
     "alerted": false
   },
   "greenhouse:toast:7609997": {
-    "updated_at": "2026-05-11T13:06:47-04:00",
+    "updated_at": "2026-05-27T16:34:30-04:00",
     "title": "Staff Software Engineer (Android), Enterprise",
     "company": "toast",
     "ats": "greenhouse",
@@ -98568,7 +98568,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8481812002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Privacy Analyst",
     "company": "lyft",
     "ats": "greenhouse",
@@ -98592,7 +98592,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8367674002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Analytics Lead, LUS",
     "company": "lyft",
     "ats": "greenhouse",
@@ -99520,7 +99520,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8339587002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-05-27T15:52:17-04:00",
     "title": "Spacecraft Cleanliness Technician (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -106424,7 +106424,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8436297002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-05-27T16:51:38-04:00",
     "title": "Global Operations Manager, Europe",
     "company": "spacex",
     "ats": "greenhouse",
@@ -107000,7 +107000,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8483264002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Business Systems Engineer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -107008,7 +107008,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8483261002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Business Systems Engineer, Oracle STP",
     "company": "lyft",
     "ats": "greenhouse",
@@ -107016,7 +107016,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8464813002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Business Systems Engineer, Oracle OTC",
     "company": "lyft",
     "ats": "greenhouse",
@@ -108712,7 +108712,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8482826002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Business Systems Engineer, Oracle PTM",
     "company": "lyft",
     "ats": "greenhouse",
@@ -109712,7 +109712,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8477563002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Analytics Lead, Events & Venues",
     "company": "lyft",
     "ats": "greenhouse",
@@ -109984,7 +109984,7 @@
     "alerted": false
   },
   "greenhouse:flex:4676449005": {
-    "updated_at": "2026-05-21T18:25:42-04:00",
+    "updated_at": "2026-05-27T16:32:21-04:00",
     "title": "Senior Director, Product Compliance",
     "company": "flex",
     "ats": "greenhouse",
@@ -110008,7 +110008,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8470542002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Android Engineer, Trust & Safety",
     "company": "lyft",
     "ats": "greenhouse",
@@ -110128,7 +110128,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8476426002": {
-    "updated_at": "2026-05-15T12:45:20-04:00",
+    "updated_at": "2026-05-27T16:01:01-04:00",
     "title": "Senior Accountant, Fleet Accounting",
     "company": "lyft",
     "ats": "greenhouse",
@@ -112856,7 +112856,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:7589014": {
-    "updated_at": "2026-03-19T12:01:26-04:00",
+    "updated_at": "2026-05-27T16:51:24-04:00",
     "title": "Sr Customer Technical Lead",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -113368,7 +113368,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8455963002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Director, Tax",
     "company": "lyft",
     "ats": "greenhouse",
@@ -115904,7 +115904,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8448179002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Scientist - Decisions, Mapping",
     "company": "lyft",
     "ats": "greenhouse",
@@ -116280,7 +116280,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8436395002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Privacy Analyst",
     "company": "lyft",
     "ats": "greenhouse",
@@ -116616,7 +116616,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8445467002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Science Manager, Rider App",
     "company": "lyft",
     "ats": "greenhouse",
@@ -117088,7 +117088,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8421525002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, CorpSec",
     "company": "lyft",
     "ats": "greenhouse",
@@ -117288,7 +117288,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8396751002": {
-    "updated_at": "2026-05-11T17:00:35-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Software Engineer, Pricing",
     "company": "lyft",
     "ats": "greenhouse",
@@ -117536,7 +117536,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8427742002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Analytics Lead, Marketplace Strategy",
     "company": "lyft",
     "ats": "greenhouse",
@@ -117560,7 +117560,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8394754002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "VP, Safety & Customer Care",
     "company": "lyft",
     "ats": "greenhouse",
@@ -120840,7 +120840,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8503986002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Scientist, Algorithms - Driver Incentives",
     "company": "lyft",
     "ats": "greenhouse",
@@ -121296,7 +121296,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8515865002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Operations Specialist, Citi Bike",
     "company": "lyft",
     "ats": "greenhouse",
@@ -121368,7 +121368,7 @@
     "alerted": false
   },
   "greenhouse:convera:4846036101": {
-    "updated_at": "2026-05-27T15:30:31-04:00",
+    "updated_at": "2026-05-27T15:36:47-04:00",
     "title": "Senior Specialist / Service Delivery Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -121624,7 +121624,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514422002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Analyst, Global Expansion Strategy",
     "company": "lyft",
     "ats": "greenhouse",
@@ -121632,7 +121632,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514400002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Analyst - Global Growth Luxury Strategy",
     "company": "lyft",
     "ats": "greenhouse",
@@ -123360,7 +123360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675342006": {
-    "updated_at": "2026-05-23T21:57:38-04:00",
+    "updated_at": "2026-05-27T17:15:18-04:00",
     "title": "Technical Project Manager - East Region",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -124328,7 +124328,7 @@
     "alerted": false
   },
   "greenhouse:toast:7819342": {
-    "updated_at": "2026-04-23T15:36:50-04:00",
+    "updated_at": "2026-05-27T16:21:52-04:00",
     "title": "Staff Software Engineer, Websites",
     "company": "toast",
     "ats": "greenhouse",
@@ -124952,7 +124952,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8513769002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Machine Learning Engineer, Lyft Business",
     "company": "lyft",
     "ats": "greenhouse",
@@ -125368,7 +125368,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7843754": {
-    "updated_at": "2026-05-14T13:36:35-04:00",
+    "updated_at": "2026-05-27T15:40:19-04:00",
     "title": "Client Account Manager, Mid-Market (B2C Services - Acquisitions)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -125960,7 +125960,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8515875002": {
-    "updated_at": "2026-05-20T16:10:58-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Program Manager, Autonomous Vehicles",
     "company": "lyft",
     "ats": "greenhouse",
@@ -127648,7 +127648,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675477006": {
-    "updated_at": "2026-05-23T21:57:38-04:00",
+    "updated_at": "2026-05-27T17:17:07-04:00",
     "title": "Senior Data Center Security Initiatives Project Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -128176,7 +128176,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676274006": {
-    "updated_at": "2026-05-23T21:57:38-04:00",
+    "updated_at": "2026-05-27T17:18:52-04:00",
     "title": "Senior Data Center Security Site Evaluation Program Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -128200,7 +128200,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675351006": {
-    "updated_at": "2026-05-23T21:57:38-04:00",
+    "updated_at": "2026-05-27T17:16:22-04:00",
     "title": "Technical Project Manager - New Jersey Data Centers",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -131144,7 +131144,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8525434002": {
-    "updated_at": "2026-05-20T18:10:38-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Manager, Trust & Safety Policy",
     "company": "lyft",
     "ats": "greenhouse",
@@ -131840,7 +131840,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8525065002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Software Engineer, Rider Quality",
     "company": "lyft",
     "ats": "greenhouse",
@@ -132240,7 +132240,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8525455002": {
-    "updated_at": "2026-05-20T16:11:14-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Manager, AV Technical Operations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -132296,7 +132296,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676770006": {
-    "updated_at": "2026-05-23T21:57:38-04:00",
+    "updated_at": "2026-05-27T17:20:02-04:00",
     "title": "Site Selection Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -132344,7 +132344,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8525086002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Product Manager, Driver Experience",
     "company": "lyft",
     "ats": "greenhouse",
@@ -132544,7 +132544,7 @@
     "alerted": false
   },
   "greenhouse:toast:7669083": {
-    "updated_at": "2026-04-30T16:34:20-04:00",
+    "updated_at": "2026-05-27T15:45:20-04:00",
     "title": "Business Development Representative - Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -132616,7 +132616,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8525090002": {
-    "updated_at": "2026-05-06T12:45:14-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Rider",
     "company": "lyft",
     "ats": "greenhouse",
@@ -132896,7 +132896,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8525191002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Manager, Global Investigations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -132992,7 +132992,7 @@
     "alerted": false
   },
   "greenhouse:toast:7861920": {
-    "updated_at": "2026-04-28T14:52:52-04:00",
+    "updated_at": "2026-05-27T17:01:03-04:00",
     "title": "East Coast - Strategic Cuisines Inside Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -134016,7 +134016,7 @@
     "alerted": false
   },
   "greenhouse:toast:7862115": {
-    "updated_at": "2026-04-28T20:16:59-04:00",
+    "updated_at": "2026-05-27T16:34:02-04:00",
     "title": "Staff Software Engineer, New Ventures",
     "company": "toast",
     "ats": "greenhouse",
@@ -135424,7 +135424,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8527740002": {
-    "updated_at": "2026-05-09T04:12:05-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Software Engineer, Ad Infra",
     "company": "lyft",
     "ats": "greenhouse",
@@ -137912,7 +137912,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8525352002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Security Engineer, Corporate Security",
     "company": "lyft",
     "ats": "greenhouse",
@@ -137952,7 +137952,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8532135002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Strategic Partner Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -138424,7 +138424,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7819587": {
-    "updated_at": "2026-05-27T13:24:29-04:00",
+    "updated_at": "2026-05-27T17:20:10-04:00",
     "title": "Global Partner Marketing Lead, AI",
     "company": "stripe",
     "ats": "greenhouse",
@@ -138664,7 +138664,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8532132002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Illustrator, Design Foundations & AI Transformation",
     "company": "lyft",
     "ats": "greenhouse",
@@ -139760,7 +139760,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8532600002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Head of Claims",
     "company": "lyft",
     "ats": "greenhouse",
@@ -139936,7 +139936,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8532137002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "AI Business Solution Architect",
     "company": "lyft",
     "ats": "greenhouse",
@@ -141480,7 +141480,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8534529002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Global Equity Program Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -141488,7 +141488,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8534527002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Global Equity Program Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -141704,7 +141704,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5126612007": {
-    "updated_at": "2026-05-18T11:48:50-04:00",
+    "updated_at": "2026-05-27T15:46:34-04:00",
     "title": "Senior Fullstack Engineer - New Product",
     "company": "verkada",
     "ats": "greenhouse",
@@ -142272,7 +142272,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5116308007": {
-    "updated_at": "2026-05-21T20:54:23-04:00",
+    "updated_at": "2026-05-27T16:31:54-04:00",
     "title": "Solutions Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -143488,7 +143488,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8536085002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
     "company": "lyft",
     "ats": "greenhouse",
@@ -143768,7 +143768,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7851937": {
-    "updated_at": "2026-05-14T23:12:56-04:00",
+    "updated_at": "2026-05-27T15:49:30-04:00",
     "title": "Vehicle Recovery, Safety, & Logistics - EAST",
     "company": "waymo",
     "ats": "greenhouse",
@@ -144024,7 +144024,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8536355002": {
-    "updated_at": "2026-05-05T18:14:54-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Strategic Partner Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -144984,8 +144984,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5209776008": {
-    "updated_at": "2026-05-20T21:53:10-04:00",
-    "title": "Security Software Engineer, Platform Integration",
+    "updated_at": "2026-05-27T17:08:28-04:00",
+    "title": "Staff Security Software Engineer, Platform Integration",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -146192,7 +146192,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8535148002": {
-    "updated_at": "2026-05-06T13:38:18-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Manager, AV Field Operations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -146856,7 +146856,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8538721002": {
-    "updated_at": "2026-05-07T12:52:47-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Learning Experience Designer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -147296,16 +147296,16 @@
     "alerted": false
   },
   "greenhouse:altruist:5990235004": {
-    "updated_at": "2026-05-07T00:46:39-04:00",
-    "title": "Solutions Engineer",
+    "updated_at": "2026-05-27T17:11:52-04:00",
+    "title": "Sales Engineer",
     "company": "altruist",
     "ats": "greenhouse",
     "source_slug": "altruist",
     "alerted": false
   },
   "greenhouse:altruist:5990231004": {
-    "updated_at": "2026-05-07T00:45:26-04:00",
-    "title": "Solutions Engineer",
+    "updated_at": "2026-05-27T17:11:44-04:00",
+    "title": "Sales Engineer",
     "company": "altruist",
     "ats": "greenhouse",
     "source_slug": "altruist",
@@ -147848,7 +147848,7 @@
     "alerted": false
   },
   "greenhouse:flex:4693228005": {
-    "updated_at": "2026-05-21T18:25:42-04:00",
+    "updated_at": "2026-05-27T16:30:44-04:00",
     "title": "Commercial Counsel",
     "company": "flex",
     "ats": "greenhouse",
@@ -148528,7 +148528,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8538810002": {
-    "updated_at": "2026-05-07T11:41:11-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Manager, AV Strategy & Business Operations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -148536,7 +148536,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8538777002": {
-    "updated_at": "2026-05-07T11:41:10-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Manager, AV Strategy & Business Operations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -149224,7 +149224,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:8540208002": {
-    "updated_at": "2026-05-27T12:11:58-04:00",
+    "updated_at": "2026-05-27T16:21:32-04:00",
     "title": "Senior Accountant (Contract to Hire)",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -150376,7 +150376,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8535144002": {
-    "updated_at": "2026-05-08T11:00:28-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Business Operations Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -150552,8 +150552,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7428796": {
-    "updated_at": "2026-05-08T12:55:41-04:00",
-    "title": "Senior Partner Strategy Manager, Developer Platform",
+    "updated_at": "2026-05-27T16:37:20-04:00",
+    "title": "Head of GTM, AI Inference",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -150760,32 +150760,32 @@
     "alerted": true
   },
   "greenhouse:braze:7902068": {
-    "updated_at": "2026-05-21T08:27:03-04:00",
-    "title": "Senior Account Manager, SMB",
+    "updated_at": "2026-05-27T15:52:09-04:00",
+    "title": "Account Manager, Commercial",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
     "alerted": false
   },
   "greenhouse:braze:7902064": {
-    "updated_at": "2026-05-21T08:27:03-04:00",
-    "title": "Senior Account Manager, SMB",
+    "updated_at": "2026-05-27T15:51:35-04:00",
+    "title": "Account Manager, Commercial",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
     "alerted": false
   },
   "greenhouse:braze:7902065": {
-    "updated_at": "2026-05-21T08:27:03-04:00",
-    "title": "Senior Account Manager, SMB",
+    "updated_at": "2026-05-27T15:51:48-04:00",
+    "title": "Account Manager, Commercial",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
     "alerted": false
   },
   "greenhouse:braze:7899402": {
-    "updated_at": "2026-05-22T11:00:52-04:00",
-    "title": "Senior Account Manager, SMB",
+    "updated_at": "2026-05-27T15:51:21-04:00",
+    "title": "Account Manager, Commercial",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -150848,8 +150848,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7907485": {
-    "updated_at": "2026-05-20T16:58:18-04:00",
-    "title": "Account Executive, Velocity Hunter (Iberia)",
+    "updated_at": "2026-05-27T15:36:25-04:00",
+    "title": "Account Executive, Velocity Hunter (Spanish Speaking), Iberia",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -153944,7 +153944,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7757460": {
-    "updated_at": "2026-05-20T16:27:23-04:00",
+    "updated_at": "2026-05-27T17:10:11-04:00",
     "title": "Senior Solutions Architect (Thai Speaking)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -154568,7 +154568,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8544638002": {
-    "updated_at": "2026-05-12T11:26:06-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Software Engineer, Scheduled Rides",
     "company": "lyft",
     "ats": "greenhouse",
@@ -154752,7 +154752,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8544635002": {
-    "updated_at": "2026-05-12T10:11:02-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Security Analyst, Incident Response",
     "company": "lyft",
     "ats": "greenhouse",
@@ -154768,7 +154768,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8544636002": {
-    "updated_at": "2026-05-12T10:07:09-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Backend Software Engineer, Airports",
     "company": "lyft",
     "ats": "greenhouse",
@@ -155000,7 +155000,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8545543002": {
-    "updated_at": "2026-05-19T13:00:08-04:00",
+    "updated_at": "2026-05-27T16:49:57-04:00",
     "title": "Data Analyst, Autonomous Vehicles",
     "company": "lyft",
     "ats": "greenhouse",
@@ -155360,7 +155360,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8545540002": {
-    "updated_at": "2026-05-12T14:22:21-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Accountant, Insurance and Investments",
     "company": "lyft",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-05-27T15:32:38-04:00",
+    "updated_at": "2026-05-27T17:17:26-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156600,8 +156600,8 @@
     "alerted": false
   },
   "greenhouse:lyft:8547683002": {
-    "updated_at": "2026-05-13T11:01:40-04:00",
-    "title": "Staff Product Manager, Lyft Business Growth",
+    "updated_at": "2026-05-27T17:05:07-04:00",
+    "title": "Staff Growth Product Manager, Lyft Business",
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
@@ -156616,8 +156616,8 @@
     "alerted": false
   },
   "greenhouse:lyft:8547660002": {
-    "updated_at": "2026-05-13T11:01:37-04:00",
-    "title": "Staff Product Manager, Lyft Business Growth",
+    "updated_at": "2026-05-27T17:04:40-04:00",
+    "title": "Staff Growth Product Manager, Lyft Business",
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
@@ -156832,7 +156832,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8547433002": {
-    "updated_at": "2026-05-18T10:28:04-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Operations Associate, Flexdrive",
     "company": "lyft",
     "ats": "greenhouse",
@@ -156840,7 +156840,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8547436002": {
-    "updated_at": "2026-05-13T13:24:58-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Operations Associate, Flexdrive",
     "company": "lyft",
     "ats": "greenhouse",
@@ -157560,7 +157560,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8547440002": {
-    "updated_at": "2026-05-13T13:25:34-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Operations Associate, Flexdrive",
     "company": "lyft",
     "ats": "greenhouse",
@@ -160120,7 +160120,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550340002": {
-    "updated_at": "2026-05-25T03:32:49-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Product Manager, Risk Tech - Claims",
     "company": "lyft",
     "ats": "greenhouse",
@@ -161368,7 +161368,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550274002": {
-    "updated_at": "2026-05-15T15:56:21-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Product Manager, Driver Earnings",
     "company": "lyft",
     "ats": "greenhouse",
@@ -161384,7 +161384,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550252002": {
-    "updated_at": "2026-05-15T15:55:06-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Product Manager, Driver Earnings",
     "company": "lyft",
     "ats": "greenhouse",
@@ -162600,7 +162600,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7927485": {
-    "updated_at": "2026-05-26T11:00:00-04:00",
+    "updated_at": "2026-05-27T16:16:39-04:00",
     "title": "Recruiter II, Business Recruiting (NYC)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -162976,7 +162976,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7919041": {
-    "updated_at": "2026-05-18T16:00:50-04:00",
+    "updated_at": "2026-05-27T15:42:00-04:00",
     "title": "Senior Security Architect - AI/CI",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -162984,7 +162984,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7919048": {
-    "updated_at": "2026-05-18T15:58:21-04:00",
+    "updated_at": "2026-05-27T15:41:56-04:00",
     "title": "Senior Security Architect - AI/CI",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -163240,7 +163240,7 @@
     "alerted": true
   },
   "greenhouse:purestorage:7919032": {
-    "updated_at": "2026-05-18T16:04:47-04:00",
+    "updated_at": "2026-05-27T15:41:48-04:00",
     "title": "Senior Security Engineer - AppSec",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -164712,7 +164712,7 @@
     "alerted": false
   },
   "greenhouse:convera:4866314101": {
-    "updated_at": "2026-05-25T12:43:35-04:00",
+    "updated_at": "2026-05-27T16:17:54-04:00",
     "title": "Customer Support Associate \u2013 Ops \u2013 CS - Collections",
     "company": "convera",
     "ats": "greenhouse",
@@ -164984,7 +164984,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550717002": {
-    "updated_at": "2026-05-19T15:24:24-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Analytics Lead, Market Insights",
     "company": "lyft",
     "ats": "greenhouse",
@@ -165392,7 +165392,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8556731002": {
-    "updated_at": "2026-05-23T04:11:02-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Operations Associate",
     "company": "lyft",
     "ats": "greenhouse",
@@ -165592,8 +165592,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7863714": {
-    "updated_at": "2026-05-22T13:54:31-04:00",
-    "title": "Account Executive, Commercial (Hunter)",
+    "updated_at": "2026-05-27T16:22:57-04:00",
+    "title": "Account Executive, Mid Market (Hunter)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -166392,7 +166392,7 @@
     "alerted": false
   },
   "greenhouse:flex:4697733005": {
-    "updated_at": "2026-05-22T19:11:12-04:00",
+    "updated_at": "2026-05-27T16:28:26-04:00",
     "title": "Sales Development Representative",
     "company": "flex",
     "ats": "greenhouse",
@@ -166856,7 +166856,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8558174002": {
-    "updated_at": "2026-05-20T13:08:16-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Software Engineer, Android",
     "company": "lyft",
     "ats": "greenhouse",
@@ -167256,7 +167256,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7942300": {
-    "updated_at": "2026-05-22T11:33:47-04:00",
+    "updated_at": "2026-05-27T15:57:37-04:00",
     "title": "Sales Development Representative, Public Sector",
     "company": "twilio",
     "ats": "greenhouse",
@@ -167392,7 +167392,7 @@
     "alerted": false
   },
   "greenhouse:toast:7819344": {
-    "updated_at": "2026-05-20T17:58:10-04:00",
+    "updated_at": "2026-05-27T16:36:40-04:00",
     "title": "Senior Software Engineer (Fullstack), Digital Storefront",
     "company": "toast",
     "ats": "greenhouse",
@@ -168336,7 +168336,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8555335002": {
-    "updated_at": "2026-05-21T12:19:35-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Analyst, People Analytics",
     "company": "lyft",
     "ats": "greenhouse",
@@ -168800,8 +168800,8 @@
     "alerted": false
   },
   "greenhouse:dialpad:8512122002": {
-    "updated_at": "2026-05-21T10:40:53-04:00",
-    "title": "Founding AI Systems Engineer",
+    "updated_at": "2026-05-27T16:22:04-04:00",
+    "title": "AI Systems Engineer",
     "company": "dialpad",
     "ats": "greenhouse",
     "source_slug": "dialpad",
@@ -169248,7 +169248,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8559583002": {
-    "updated_at": "2026-05-21T13:02:35-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Firmware Test Engineer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -169840,7 +169840,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8559587002": {
-    "updated_at": "2026-05-21T16:50:47-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Software Engineer, Backend",
     "company": "lyft",
     "ats": "greenhouse",
@@ -169856,7 +169856,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8559585002": {
-    "updated_at": "2026-05-21T16:44:59-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Software Engineer, iOS",
     "company": "lyft",
     "ats": "greenhouse",
@@ -169864,7 +169864,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8560378002": {
-    "updated_at": "2026-05-21T16:44:58-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Financial Analyst",
     "company": "lyft",
     "ats": "greenhouse",
@@ -169888,7 +169888,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7743060003": {
-    "updated_at": "2026-05-21T16:43:12-04:00",
+    "updated_at": "2026-05-27T16:11:38-04:00",
     "title": "Fraud Model Analyst",
     "company": "sofi",
     "ats": "greenhouse",
@@ -170480,7 +170480,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550113002": {
-    "updated_at": "2026-05-22T09:21:00-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Account Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -172104,8 +172104,8 @@
     "alerted": false
   },
   "greenhouse:lattice:8550097002": {
-    "updated_at": "2026-05-22T21:14:36-04:00",
-    "title": "Account Executive, SMB",
+    "updated_at": "2026-05-27T17:05:01-04:00",
+    "title": "Account Executive",
     "company": "lattice",
     "ats": "greenhouse",
     "source_slug": "lattice",
@@ -173208,7 +173208,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8538295002": {
-    "updated_at": "2026-05-26T10:30:57-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Engineering Manager, Mapping",
     "company": "lyft",
     "ats": "greenhouse",
@@ -173656,7 +173656,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8564670002": {
-    "updated_at": "2026-05-26T13:15:52-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Billing Specialist",
     "company": "lyft",
     "ats": "greenhouse",
@@ -173664,7 +173664,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8564640002": {
-    "updated_at": "2026-05-26T13:15:51-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Senior Billing Specialist",
     "company": "lyft",
     "ats": "greenhouse",
@@ -174056,7 +174056,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4682431006": {
-    "updated_at": "2026-05-26T15:22:07-04:00",
+    "updated_at": "2026-05-27T16:12:39-04:00",
     "title": "Sales Director, Brazil",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -174928,7 +174928,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8565400002": {
-    "updated_at": "2026-05-27T06:44:46-04:00",
+    "updated_at": "2026-05-27T15:43:39-04:00",
     "title": "Data Engineer, Marketplace",
     "company": "lyft",
     "ats": "greenhouse",
@@ -175312,7 +175312,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4699772005": {
-    "updated_at": "2026-05-27T12:38:51-04:00",
+    "updated_at": "2026-05-27T17:15:59-04:00",
     "title": "Product Management Intern, Admin Console",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -175856,7 +175856,7 @@
     "alerted": false
   },
   "greenhouse:lithic:6007106004": {
-    "updated_at": "2026-05-27T14:01:48-04:00",
+    "updated_at": "2026-05-27T17:05:54-04:00",
     "title": "Technical Support Lead",
     "company": "lithic",
     "ats": "greenhouse",
@@ -175973,6 +175973,406 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8561581002": {
+    "updated_at": "2026-05-27T17:19:14-04:00",
+    "title": "Enterprise Account Manager, Aviation",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:braze:7954751": {
+    "updated_at": "2026-05-27T17:15:51-04:00",
+    "title": "Senior Marketing Manager, Localization",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7819832": {
+    "updated_at": "2026-05-27T17:15:43-04:00",
+    "title": "Investor Relations Manager",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:databricks:5634684002": {
+    "updated_at": "2026-05-27T17:14:23-04:00",
+    "title": "Senior Data Scientist",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7523834": {
+    "updated_at": "2026-05-27T17:12:55-04:00",
+    "title": "Software Engineer, Data Migration",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:everlaw:4682936006": {
+    "updated_at": "2026-05-27T17:10:53-04:00",
+    "title": "Solutions Architect II",
+    "company": "everlaw",
+    "ats": "greenhouse",
+    "source_slug": "everlaw",
+    "alerted": false
+  },
+  "greenhouse:everlaw:4682935006": {
+    "updated_at": "2026-05-27T17:10:52-04:00",
+    "title": "Solutions Architect II",
+    "company": "everlaw",
+    "ats": "greenhouse",
+    "source_slug": "everlaw",
+    "alerted": false
+  },
+  "greenhouse:everlaw:4682928006": {
+    "updated_at": "2026-05-27T17:10:51-04:00",
+    "title": "Solutions Architect II",
+    "company": "everlaw",
+    "ats": "greenhouse",
+    "source_slug": "everlaw",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7748678003": {
+    "updated_at": "2026-05-27T17:09:16-04:00",
+    "title": "Sr Compensation Manager",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:brex:8567828002": {
+    "updated_at": "2026-05-27T17:06:32-04:00",
+    "title": "Mid-Market Client Sales Executive III",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:celonis:7750227003": {
+    "updated_at": "2026-05-27T17:05:49-04:00",
+    "title": "Strategic Applied AI Solutions Consultant",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:brex:8567823002": {
+    "updated_at": "2026-05-27T17:05:47-04:00",
+    "title": "Mid-Market Client Sales Executive III",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8567817002": {
+    "updated_at": "2026-05-27T17:04:27-04:00",
+    "title": "Mid-Market Client Sales Executive III",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:intercom:7960922": {
+    "updated_at": "2026-05-27T17:03:22-04:00",
+    "title": "Manager, Customer Support",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:spacex:8567083002": {
+    "updated_at": "2026-05-27T17:00:29-04:00",
+    "title": "Sr. RFIC Engineer (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8567792002": {
+    "updated_at": "2026-05-27T16:53:23-04:00",
+    "title": "Global Operations Manager, Europe",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8567163002": {
+    "updated_at": "2026-05-27T16:51:48-04:00",
+    "title": "Propulsion Technician, Raptor Chamber and Nozzle Assembly",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:datadog:7961297": {
+    "updated_at": "2026-05-27T16:48:37-04:00",
+    "title": "Partner Technology Solutions Engineer",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8523640002": {
+    "updated_at": "2026-05-27T16:46:42-04:00",
+    "title": "Executive Assistant",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:elastic:7866561": {
+    "updated_at": "2026-05-27T16:38:37-04:00",
+    "title": "Senior Account Executive | Canada Ministry of National Defence",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:7961496": {
+    "updated_at": "2026-05-27T16:37:12-04:00",
+    "title": "Sr. Manager, Paid Media (Remote UK)",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:robinhood:7318478": {
+    "updated_at": "2026-05-27T16:32:47-04:00",
+    "title": "Senior Analytics Engineer",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:oportun:4699811005": {
+    "updated_at": "2026-05-27T16:29:56-04:00",
+    "title": "Senior Analyst, Risk Management & Analytics (R14040)",
+    "company": "oportun",
+    "ats": "greenhouse",
+    "source_slug": "oportun",
+    "alerted": false
+  },
+  "greenhouse:flex:4699967005": {
+    "updated_at": "2026-05-27T16:25:53-04:00",
+    "title": "Director, Strategic Finance",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:verkada:5148169007": {
+    "updated_at": "2026-05-27T16:25:50-04:00",
+    "title": "Senior Privacy Counsel",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:verkada:5062987007": {
+    "updated_at": "2026-05-27T16:25:04-04:00",
+    "title": "Lead Product Manager, Security Trailers",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:spacex:8567314002": {
+    "updated_at": "2026-05-27T16:15:16-04:00",
+    "title": "Sr. Global Supply Manager, Battery and Raw Materials (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:lyft:8551836002": {
+    "updated_at": "2026-05-27T16:13:40-04:00",
+    "title": "Design Systems Manager, Design Foundations & AI Transformation",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8567259002": {
+    "updated_at": "2026-05-27T16:05:55-04:00",
+    "title": "Manager, Product Design",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:waymo:7912801": {
+    "updated_at": "2026-05-27T15:59:45-04:00",
+    "title": "Staff Software Engineer, Driver Validation",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7588061": {
+    "updated_at": "2026-05-27T15:57:57-04:00",
+    "title": "Country Director, India",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:databricks:8323707002": {
+    "updated_at": "2026-05-27T15:57:10-04:00",
+    "title": "Strategic Core Account Executive",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961495": {
+    "updated_at": "2026-05-27T15:57:09-04:00",
+    "title": "Sales Manager, Mid-Market",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961488": {
+    "updated_at": "2026-05-27T15:57:08-04:00",
+    "title": "Sales Manager, Mid-Market",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961485": {
+    "updated_at": "2026-05-27T15:57:06-04:00",
+    "title": "Sales Manager, Mid-Market",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961483": {
+    "updated_at": "2026-05-27T15:57:05-04:00",
+    "title": "Sales Manager, Mid-Market",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961497": {
+    "updated_at": "2026-05-27T15:57:04-04:00",
+    "title": "Sales Manager, Mid-Market",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961471": {
+    "updated_at": "2026-05-27T15:52:33-04:00",
+    "title": "Specialist Seller - Enterprise Select AI Products",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961464": {
+    "updated_at": "2026-05-27T15:52:32-04:00",
+    "title": "Specialist Seller - Enterprise Select AI Products",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961462": {
+    "updated_at": "2026-05-27T15:50:38-04:00",
+    "title": "Specialist Seller - Enterprise Select AI Products",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961459": {
+    "updated_at": "2026-05-27T15:50:37-04:00",
+    "title": "Specialist Seller - Enterprise Select AI Products",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:sofi:7749904003": {
+    "updated_at": "2026-05-27T15:49:52-04:00",
+    "title": "Payroll Specialist",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961458": {
+    "updated_at": "2026-05-27T15:49:23-04:00",
+    "title": "Specialist Seller - Enterprise Select AI Products",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961449": {
+    "updated_at": "2026-05-27T15:48:15-04:00",
+    "title": "Specialist Seller - Enterprise Select AI Products",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:7961186": {
+    "updated_at": "2026-05-27T15:48:14-04:00",
+    "title": "Specialist Seller - Enterprise Select AI Products",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:reddit:7947897": {
+    "updated_at": "2026-05-27T15:47:02-04:00",
+    "title": "Sr. Manager, Large Customer Sales (Big Box Retail)",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:stripe:7959351": {
+    "updated_at": "2026-05-27T15:44:49-04:00",
+    "title": "Consumer Brand Marketing Lead, Link",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8567600002": {
+    "updated_at": "2026-05-27T15:38:53-04:00",
+    "title": "Cleanroom Technician - Microelectronics (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8565280002": {
+    "updated_at": "2026-05-27T15:36:59-04:00",
+    "title": "Manager, Delivery Solutions Architects - Financial Services",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:verkada:5148270007": {
+    "updated_at": "2026-05-27T17:24:03-04:00",
+    "title": "Enterprise Solutions Engineer, West Coast",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
     "alerted": true
   }
 }
