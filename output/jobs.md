@@ -1,3 +1,1007 @@
+## 📅 Run: 2026-05-27 23:57 UTC
+
+### Greenhouse
+
+#### 🆕 Senior Strategy & Planning Manager
+**Greenhouse** · instacart · Retail Business Development · 🎯 40%
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7962105)
+🕐 Updated: 2026-05-27T19:55:14-04:00 | ID: 7962105
+
+#### 🆕 Senior Strategy & Planning Manager
+**Greenhouse** · instacart · Retail Business Development · 🎯 40%
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=7962103)
+🕐 Updated: 2026-05-27T19:55:13-04:00 | ID: 7962103
+
+#### 🔄 US Risk Officer
+**Greenhouse** · adyen · Enterprise Risk
+📍 New York; San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7899439)
+🕐 Updated: 2026-05-27T19:49:30-04:00 | ID: 7899439
+
+#### 🔄 Director, Digital Workplace & End User Services
+**Greenhouse** · samsara · Information Technology
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7926630?gh_jid=7926630)
+🕐 Updated: 2026-05-27T19:47:16-04:00 | ID: 7926630
+
+#### 🔄 Account Executive, Territory (Mid-Market)
+**Greenhouse** · verkada · Mid-Market Territory
+📍 St. Petersburg, FL United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4134175007)
+🕐 Updated: 2026-05-27T19:44:29-04:00 | ID: 4134175007
+
+#### 🔄 Staff Data Scientist - Growth
+**Greenhouse** · gusto · Data
+📍 San Francisco, CA;New York, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7557049)
+🕐 Updated: 2026-05-27T19:42:45-04:00 | ID: 7557049
+
+#### 🔄 Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8051777002#open-roles)
+🕐 Updated: 2026-05-27T19:37:32-04:00 | ID: 8051777002
+
+#### 🔄 Director, Global Developer Communities - San Francisco
+**Greenhouse** · workato · Developer Products and AI Labs
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8309641002#open-roles)
+🕐 Updated: 2026-05-27T19:37:32-04:00 | ID: 8309641002
+
+#### 🔄 Software Engineer - Developer Products (AI)
+**Greenhouse** · workato · Developer Products and AI Labs
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8112909002#open-roles)
+🕐 Updated: 2026-05-27T19:37:32-04:00 | ID: 8112909002
+
+#### 🔄 Staff Developer Advocate
+**Greenhouse** · workato · Developer Products and AI Labs
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8309732002#open-roles)
+🕐 Updated: 2026-05-27T19:37:32-04:00 | ID: 8309732002
+
+#### 🔄 Staff Product Manager (Developer tools)
+**Greenhouse** · workato · Developer Products and AI Labs
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8509542002#open-roles)
+🕐 Updated: 2026-05-27T19:37:32-04:00 | ID: 8509542002
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · workato · Developer Products and AI Labs
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8285682002#open-roles)
+🕐 Updated: 2026-05-27T19:37:31-04:00 | ID: 8285682002
+
+#### 🔄 Staff Product Manager, Networking
+**Greenhouse** · coreweave · Technology
+📍 Bellevue, WA/  Livingston, NJ /  New York, NY /  San Francisco, CA/   Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4642612006&board=coreweave&gh_jid=4642612006)
+🕐 Updated: 2026-05-27T19:36:04-04:00 | ID: 4642612006
+
+#### 🔄 Senior Software Engineer, Eval Authoring APIs
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7747032)
+🕐 Updated: 2026-05-27T19:36:01-04:00 | ID: 7747032
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7408013)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7408013
+
+#### 🔄 Account Executive, Emerging AI Products
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7583124)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7583124
+
+#### 🔄 Account Executive, Emerging AI Products
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7603334)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7603334
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · intercom · Sales
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7838601)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7838601
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7395357)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7395357
+
+#### 🔄 Account Executive (Existing Business), Commercial
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7296732)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7296732
+
+#### 🔄 Account Executive, MidMarket
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7286050)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7286050
+
+#### 🔄 Account Executive, MidMarket
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6922266)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6922266
+
+#### 🔄 Account Executive, MidMarket
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7335309)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7335309
+
+#### 🔄 Account Executive, Mid-Market
+**Greenhouse** · intercom · Sales
+📍 Sydney, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7345114)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7345114
+
+#### 🔄 Account Executive, MidMarket - German Speaking
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7386163)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7386163
+
+#### 🔄 Account Executive, MidMarket (LATAM)
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California; USA, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7862786)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7862786
+
+#### 🔄 Account Executive, Senior MidMarket
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7121848)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7121848
+
+#### 🔄 Account Executive, Senior MidMarket
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6998800)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6998800
+
+#### 🔄 Account Executive, Senior MidMarket
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7559695)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7559695
+
+#### 🔄 Account Manager (Commercial)
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7904504)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7904504
+
+#### 🔄 Account Manager - French Speaking
+**Greenhouse** · intercom · Sales
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7904400)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7904400
+
+#### 🔄 Account Manager - French Speaking
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7912543)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7912543
+
+#### 🔄 Account Manager - German Speaking
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7912544)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7912544
+
+#### 🔄 Account Manager - German Speaking
+**Greenhouse** · intercom · Sales
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7904368)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7904368
+
+#### 🔄 AI Infrastructure Engineer
+**Greenhouse** · intercom · AI Group
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7824137)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7824137
+
+#### 🔄 AI Infrastructure Engineer
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7824142)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7824142
+
+#### 🔄 AI Infrastructure Engineer
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7820671)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7820671
+
+#### 🔄 Business Development Representative
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7807496)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7807496
+
+#### 🔄 Business Development Representative, Emerging AI Products
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7948297)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7948297
+
+#### 🔄 Business Development Representative, Emerging AI Products
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7807509)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7807509
+
+#### 🔄 Business Development Representative, MidMarket/Commercial
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7765514)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7765514
+
+#### 🔄 Customer Success Manager, High Touch
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7117979)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7117979
+
+#### 🔄 Customer Success Manager, High Touch
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7157535)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7157535
+
+#### 🔄 Director, Sales Strategy & Planning
+**Greenhouse** · intercom · Revenue Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7760086)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7760086
+
+#### 🔄 Engineering Manager, AI Models Infrastructure
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7818585)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7818585
+
+#### 🔄 Engineering Manager, AI Models Infrastructure
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany; Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7784684)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7784684
+
+#### 🔄 Engineering Manager, AI Models Infrastructure
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7818588)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7818588
+
+#### 🔄 Engineering Manager, AI Models Infrastructure
+**Greenhouse** · intercom · AI Group
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7818586)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7818586
+
+#### 🔄 Forward Deployed Software Engineer
+**Greenhouse** · intercom · R&D
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7556413)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7556413
+
+#### 🔄 Full-Stack Marketer, Customer Advocacy
+**Greenhouse** · intercom · Marketing
+📍 USA, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7774295)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7774295
+
+#### 🔄 GL Accountant
+**Greenhouse** · intercom · Finance & Business Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7947756)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7947756
+
+#### 🔄 IT Systems Engineer
+**Greenhouse** · intercom · R&D
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7930382)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7930382
+
+#### 🔄 IT Systems Engineer
+**Greenhouse** · intercom · R&D
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7918638)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7918638
+
+#### 🔄 Manager, Account Executives (MidMarket)
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7345261)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7345261
+
+#### 🔄 Manager, Account Executives (MidMarket)
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7394515)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7394515
+
+#### 🔄 Manager, Customer Support
+**Greenhouse** · intercom · Customer Support
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7960922)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7960922
+
+#### 🔄 Manager, Relationship Managers (MidMarket)
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7901562)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7901562
+
+#### 🔄 Manager, Relationship Managers (MidMarket)
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7851752)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7851752
+
+#### 🔄 Manager, Relationship Managers (SMB)
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7583181)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7583181
+
+#### 🔄 Manager, Relationship Managers (SMB)
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7943686)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7943686
+
+#### 🔄 Partner Solutions Engineer (NAMER & LATAM)
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7926025)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7926025
+
+#### 🔄 Partner Solutions Engineer (NAMER & LATAM)
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7943223)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7943223
+
+#### 🔄 Principal Engineer
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6386426)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6386426
+
+#### 🔄 Principal Engineer
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6386427)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6386427
+
+#### 🔄 Principal Engineer, Fin AI Agent
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7742203)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7742203
+
+#### 🔄 Principal Engineer, Fin AI Agent
+**Greenhouse** · intercom · AI Group
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7725840)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7725840
+
+#### 🔄 Principal Engineer - Go-To-Market
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7814380)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7814380
+
+#### 🔄 Principal Engineer - Go-To-Market
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7811880)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7811880
+
+#### 🔄 Principal Engineer, Web Platform – Team Web
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7515665)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7515665
+
+#### 🔄 Principal Engineer, Web Platform – Team Web
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7515664)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7515664
+
+#### 🔄 Principal Product Marketing Manager
+**Greenhouse** · intercom · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7232569)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7232569
+
+#### 🔄 Product Design Director
+**Greenhouse** · intercom · Product Design
+📍 Berlin, Germany; Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6781237)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6781237
+
+#### 🔄 Product Engineer
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6428373)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6428373
+
+#### 🔄 Product Engineer
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6810055)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6810055
+
+#### 🔄 Product Manager
+**Greenhouse** · intercom · Product
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/5663703)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 5663703
+
+#### 🔄 Professional Services Operations Manager
+**Greenhouse** · intercom · Revenue Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7728811)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7728811
+
+#### 🔄 Relationship Manager, Commercial
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7386908)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7386908
+
+#### 🔄 Relationship Manager, MidMarket
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7391691)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7391691
+
+#### 🔄 Relationship Manager, MidMarket
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7345184)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7345184
+
+#### 🔄 Revenue Accountant
+**Greenhouse** · intercom · Finance & Business Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7915206)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7915206
+
+#### 🔄 Scaled Customer Success Manager
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7370567)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7370567
+
+#### 🔄 Senior Account Manager (Mid-Market)
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7657462)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7657462
+
+#### 🔄 Senior AI Deployment Consultant - Partners
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7921414)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7921414
+
+#### 🔄 Senior Analytics Engineer
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7808051)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7808051
+
+#### 🔄 Senior Analytics Engineer
+**Greenhouse** · intercom · AI Group
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7808050)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7808050
+
+#### 🔄 Senior Analytics Engineer
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7807847)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7807847
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7600712)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7600712
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7600671)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7600671
+
+#### 🔄 Senior Customer Success Manager (Portuguese Speaker)
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7416944)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7416944
+
+#### 🔄 Senior Customer Success Manager (Portuguese Speaker)
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7416941)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7416941
+
+#### 🔄 Senior Data Scientist
+**Greenhouse** · intercom · R&D
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7749323)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7749323
+
+#### 🔄 Senior Data Scientist - AI Tooling
+**Greenhouse** · intercom · Research, Analytics & Data Science
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7314809)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7314809
+
+#### 🔄 Senior Data Scientist AI Tooling
+**Greenhouse** · intercom · R&D
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7606649)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7606649
+
+#### 🔄 Senior Data Scientist AI Tooling
+**Greenhouse** · intercom · R&D
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7606638)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7606638
+
+#### 🔄 Senior Data Scientist - Product Analytics
+**Greenhouse** · intercom · Research, Analytics & Data Science
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6317929)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6317929
+
+#### 🔄 Senior Deal Desk Manager
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7958991)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7958991
+
+#### 🔄 Senior Employee Relations Business Partner
+**Greenhouse** · intercom · People
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7808009)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7808009
+
+#### 🔄 Senior Engineer, AI Developer
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6949785)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6949785
+
+#### 🔄 Senior Engineering Manager - Developer Experience Platform
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7699745)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7699745
+
+#### 🔄 Senior Engineering Manager - Team Billing
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7610471)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7610471
+
+#### 🔄 Senior Engineering Manager - Team Billing
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7610485)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7610485
+
+#### 🔄 Senior Events Producer
+**Greenhouse** · intercom · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7859005)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7859005
+
+#### 🔄 Senior Finance Data Scientist, Existing Business
+**Greenhouse** · intercom · Finance & Business Operations
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7774230)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7774230
+
+#### 🔄 Senior Forward Deployed Engineer
+**Greenhouse** · intercom · R&D
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7218259)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7218259
+
+#### 🔄 Senior Forward Deployed Engineer
+**Greenhouse** · intercom · R&D
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7462098)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7462098
+
+#### 🔄 Senior Full Stack Engineer - Team Web
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7274831)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7274831
+
+#### 🔄 Senior Full Stack Engineer - Team Web
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7276257)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7276257
+
+#### 🔄 Senior GTM Data Analyst
+**Greenhouse** · intercom · Revenue Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7851785)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7851785
+
+#### 🔄 Senior GTM Enablement Manager, Operations
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7441053)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7441053
+
+#### 🔄 Senior GTM Product Enablement Manager
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7441074)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7441074
+
+#### 🔄 Senior IT Systems Engineer
+**Greenhouse** · intercom · R&D
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7943136)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7943136
+
+#### 🔄 Senior Machine Learning Scientist
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7372016)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7372016
+
+#### 🔄 Senior Machine Learning Scientist
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6531495)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6531495
+
+#### 🔄 Senior Machine Learning Scientist
+**Greenhouse** · intercom · AI Group
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7271603)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7271603
+
+#### 🔄 Senior Manager, Customer Campaigns & Lifecycle Marketing
+**Greenhouse** · intercom · Marketing
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7839311)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7839311
+
+#### 🔄 Senior Manager, Forward Deployed Engineering
+**Greenhouse** · intercom · R&D
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7763257)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7763257
+
+#### 🔄 Senior ML Science Manager
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7411373)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7411373
+
+#### 🔄 Senior Partnerships Manager, LATAM
+**Greenhouse** · intercom · Sales
+📍 San Francisco, California; USA, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7867278)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7867278
+
+#### 🔄 Senior People Systems Analyst
+**Greenhouse** · intercom · R&D
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7912523)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7912523
+
+#### 🔄 Senior People Systems Analyst
+**Greenhouse** · intercom · R&D
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7916781)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7916781
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · intercom · Product Design
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7862050)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7862050
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · intercom · Product Design
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7861866)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7861866
+
+#### 🔄 Senior Product Engineer
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6428372)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6428372
+
+#### 🔄 Senior Product Engineer
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/5107681)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 5107681
+
+#### 🔄 Senior Product Engineer
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6386428)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6386428
+
+#### 🔄 Senior Product Engineer, AI
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7371924)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7371924
+
+#### 🔄 Senior Product Engineer, AI
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6276021)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6276021
+
+#### 🔄 Senior Product Engineer - AI Platform
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6466001)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6466001
+
+#### 🔄 Senior Product Engineer, AI Platform
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7382846)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7382846
+
+#### 🔄 Senior Product Engineer - Pricing & Packaging
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7925313)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7925313
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · intercom · Marketing
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7834585)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7834585
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · intercom · Marketing
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7846251)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7846251
+
+#### 🔄 Senior Sales Manager, Continental Europe
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7939367)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7939367
+
+#### 🔄 Senior Sales Strategy & Operations Manager
+**Greenhouse** · intercom · Revenue Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7593439)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7593439
+
+#### 🔄 Senior Security Engineering Manager
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7601740)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7601740
+
+#### 🔄 Senior Security Engineering Manager
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7601731)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7601731
+
+#### 🔄 Senior Social Media Strategist
+**Greenhouse** · intercom · Marketing
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7685034)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7685034
+
+#### 🔄 Senior Social Media Strategist
+**Greenhouse** · intercom · Marketing
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7686548)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7686548
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/5082494)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 5082494
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7262006)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7262006
+
+#### 🔄 Senior Solutions Engineer
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7594453)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7594453
+
+#### 🔄 Senior Web Designer, Growth
+**Greenhouse** · intercom · Product Design
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7950227)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7950227
+
+#### 🔄 Senior Web Designer, Growth
+**Greenhouse** · intercom · Product Design
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7950225)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7950225
+
+#### 🔄 Solutions Engineer - LATAM (Portuguese Speaking)
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7593406)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7593406
+
+#### 🔄 Solutions Engineer - LATAM (Portuguese Speaking)
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7624926)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7624926
+
+#### 🔄 Staff AI Designer
+**Greenhouse** · intercom · R&D
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7917235)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7917235
+
+#### 🔄 Staff AI Designer
+**Greenhouse** · intercom · R&D
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7920710)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7920710
+
+#### 🔄 Staff AI Product Manager
+**Greenhouse** · intercom · Product
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7377200)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7377200
+
+#### 🔄 Staff AI Product Manager
+**Greenhouse** · intercom · Product
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7464291)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7464291
+
+#### 🔄 Staff Brand Designer
+**Greenhouse** · intercom · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7875591)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7875591
+
+#### 🔄 Staff Forward Deployed Engineer
+**Greenhouse** · intercom · R&D
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7462110)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7462110
+
+#### 🔄 Staff Forward Deployed Engineer
+**Greenhouse** · intercom · R&D
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7310770)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7310770
+
+#### 🔄 Staff Machine Learning Scientist
+**Greenhouse** · intercom · AI Group
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7271914)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7271914
+
+#### 🔄 Staff Machine Learning Scientist
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6654793)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6654793
+
+#### 🔄 Staff/Principal Product Designer
+**Greenhouse** · intercom · Product Design
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7862042)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7862042
+
+#### 🔄 Staff/Principal Product Designer
+**Greenhouse** · intercom · Product Design
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7862038)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7862038
+
+#### 🔄 Staff Product Engineer
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6386429)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6386429
+
+#### 🔄 Staff Product Engineer
+**Greenhouse** · intercom · Engineering
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6386430)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 6386430
+
+#### 🔄 Staff Product Engineer, AI
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7393950)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7393950
+
+#### 🔄 Staff Product Engineer, AI
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7393922)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7393922
+
+#### 🔄 Staff Product Engineer, AI
+**Greenhouse** · intercom · AI Group
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7383950)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7383950
+
+#### 🔄 Staff Product Engineer, AI
+**Greenhouse** · intercom · AI Group
+📍 Berlin, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7383963)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7383963
+
+#### 🔄 Staff Product Engineer, AI
+**Greenhouse** · intercom · AI Group
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7393955)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7393955
+
+#### 🔄 Staff Product Engineer - Growth
+**Greenhouse** · intercom · Engineering
+📍 Dublin, Ireland; London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7735830)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7735830
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · intercom · Product
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/5379326)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 5379326
+
+#### 🔄 Tax Manager
+**Greenhouse** · intercom · Finance & Business Operations
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7686134)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7686134
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · intercom · Customer Support
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7122157)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7122157
+
+#### 🔄 Technical Support Engineer (Saturday - Wednesday)
+**Greenhouse** · intercom · Customer Support
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7915211)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7915211
+
+#### 🔄 Technical Support Specialist
+**Greenhouse** · intercom · Customer Support
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7366132)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7366132
+
+#### 🔄 Video Editor / Videographer, Marketing
+**Greenhouse** · intercom · Marketing
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/7597031)
+🕐 Updated: 2026-05-27T19:34:00-04:00 | ID: 7597031
+
+#### 🔄 Staff Product Manager, Insights
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4651535006&board=coreweave&gh_jid=4651535006)
+🕐 Updated: 2026-05-27T19:33:52-04:00 | ID: 4651535006
+
+#### 🔄 Staff Product Manager, Data Services
+**Greenhouse** · coreweave · Technology
+📍 Bellevue, WA / Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4671513006&board=coreweave&gh_jid=4671513006)
+🕐 Updated: 2026-05-27T19:33:08-04:00 | ID: 4671513006
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-27T19:32:07-04:00 | ID: 7870845
+
+#### 🔄 Sr. Manager, Supplier Materials Manager
+**Greenhouse** · coreweave · Supply Chain & Capacity Operations - T&I
+📍 Taiwan | 🔗 [Apply Here](https://coreweave.com/careers/job?4663073006&board=coreweave&gh_jid=4663073006)
+🕐 Updated: 2026-05-27T19:31:59-04:00 | ID: 4663073006
+
+#### 🔄 Senior Technical Program Manager, Security
+**Greenhouse** · klaviyo · IT & Security
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7727704003)
+🕐 Updated: 2026-05-27T19:31:24-04:00 | ID: 7727704003
+
+#### 🔄 Staff Data Scientist - Time Products
+**Greenhouse** · gusto · Data
+📍 San Francisco, CA - Hybrid; New York, NY - Hybrid; | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7524662)
+🕐 Updated: 2026-05-27T19:31:13-04:00 | ID: 7524662
+
+#### 🔄 Manager, Environmental Health & Safety (Process Safety)
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8432337002?gh_jid=8432337002)
+🕐 Updated: 2026-05-27T19:30:33-04:00 | ID: 8432337002
+
+#### 🔄 Senior Accountant (Contract to Hire)
+**Greenhouse** · bitgo · Finance
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8540208002)
+🕐 Updated: 2026-05-27T19:30:15-04:00 | ID: 8540208002
+
+#### 🔄 Financial Operations Manager
+**Greenhouse** · bitgo · Finance
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8436572002)
+🕐 Updated: 2026-05-27T19:27:54-04:00 | ID: 8436572002
+
+#### 🔄 Contracts Manager, Research & Operations
+**Greenhouse** · anthropic · Legal
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5207302008)
+🕐 Updated: 2026-05-27T19:26:55-04:00 | ID: 5207302008
+
+#### 🔄 Commercial Counsel, Networking & Datacenter Operations
+**Greenhouse** · anthropic · Legal
+📍 San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5205884008)
+🕐 Updated: 2026-05-27T19:26:16-04:00 | ID: 5205884008
+
+#### 🔄 Commercial Counsel, Infrastructure Security
+**Greenhouse** · anthropic · Legal
+📍 San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5205894008)
+🕐 Updated: 2026-05-27T19:25:33-04:00 | ID: 5205894008
+
+#### 🔄 Solutions Architect
+**Greenhouse** · coreweave · Global Field Organization
+📍 Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4622845006&board=coreweave&gh_jid=4622845006)
+🕐 Updated: 2026-05-27T19:25:21-04:00 | ID: 4622845006
+
+#### 🔄 Manufacturing Engineer, Optical Fiber (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8561494002?gh_jid=8561494002)
+🕐 Updated: 2026-05-27T19:24:12-04:00 | ID: 8561494002
+
+#### 🔄 Solutions Architect - Storage
+**Greenhouse** · coreweave · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4568531006&board=coreweave&gh_jid=4568531006)
+🕐 Updated: 2026-05-27T19:23:27-04:00 | ID: 4568531006
+
+#### 🔄 Solutions Architect - Security
+**Greenhouse** · coreweave · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4568555006&board=coreweave&gh_jid=4568555006)
+🕐 Updated: 2026-05-27T19:22:31-04:00 | ID: 4568555006
+
+#### 🔄 Solutions Architect- Networking
+**Greenhouse** · coreweave · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4568528006&board=coreweave&gh_jid=4568528006)
+🕐 Updated: 2026-05-27T19:21:19-04:00 | ID: 4568528006
+
+#### 🔄 Solutions Architect - Kubernetes
+**Greenhouse** · coreweave · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4557835006&board=coreweave&gh_jid=4557835006)
+🕐 Updated: 2026-05-27T19:19:53-04:00 | ID: 4557835006
+
+#### 🔄 Solutions Architect - HPC/AI/ML
+**Greenhouse** · coreweave · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4412177006&board=coreweave&gh_jid=4412177006)
+🕐 Updated: 2026-05-27T19:14:54-04:00 | ID: 4412177006
+
+#### 🔄 Technical Support Specialist
+**Greenhouse** · samsara · Support
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7386042?gh_jid=7386042)
+🕐 Updated: 2026-05-27T19:09:40-04:00 | ID: 7386042
+
+#### 🔄 Senior Solutions Engineer (North East)
+**Greenhouse** · okta · SE Field-321
+📍 Connecticut; Massachusetts; New York, New York | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7607557?gh_jid=7607557)
+🕐 Updated: 2026-05-27T19:05:23-04:00 | ID: 7607557
+
+#### 🔄 Software Enablement Specialist
+**Greenhouse** · coreweave · Global Field Organization
+📍 Livingston, NJ / New York, NY / Philadelphia, PA | 🔗 [Apply Here](https://coreweave.com/careers/job?4662787006&board=coreweave&gh_jid=4662787006)
+🕐 Updated: 2026-05-27T19:04:56-04:00 | ID: 4662787006
+
+#### 🔄 Senior Security Engineer, SOAR
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4650308006&board=coreweave&gh_jid=4650308006)
+🕐 Updated: 2026-05-27T19:02:57-04:00 | ID: 4650308006
+
+#### 🔄 Senior Ceph Storage Engineer
+**Greenhouse** · godaddy · IT Ops
+📍 Austin, Texas, United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=6690965003)
+🕐 Updated: 2026-05-27T19:01:58-04:00 | ID: 6690965003
+
+#### 🔄 Senior Product Marketing Manager, SUNK
+**Greenhouse** · coreweave · Marketing
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4654116006&board=coreweave&gh_jid=4654116006)
+🕐 Updated: 2026-05-27T19:01:07-04:00 | ID: 4654116006
+
+#### 🔄 Senior Product Manager, GTM
+**Greenhouse** · coreweave · Information Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4673536006&board=coreweave&gh_jid=4673536006)
+🕐 Updated: 2026-05-27T18:58:50-04:00 | ID: 4673536006
+
+#### 🔄 Senior Marketing Performance Analyst
+**Greenhouse** · coreweave · Marketing
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4663425006&board=coreweave&gh_jid=4663425006)
+🕐 Updated: 2026-05-27T18:56:32-04:00 | ID: 4663425006
+
+#### 🔄 Senior Manager, SOX-Business Process
+**Greenhouse** · coreweave · Finance
+📍 Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4656905006&board=coreweave&gh_jid=4656905006)
+🕐 Updated: 2026-05-27T18:56:10-04:00 | ID: 4656905006
+
+## ATS Summary
+- **Greenhouse**: 2 new, 13410 fetched, 196 updated, 10 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 13497 fetched, 196 updated, 10 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-27 22:55 UTC
 
 ### Greenhouse
