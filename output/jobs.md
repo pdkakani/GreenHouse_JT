@@ -1,3 +1,232 @@
+## 📅 Run: 2026-05-28 22:20 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Field Marketing Manager
+**Greenhouse** · mongodb · International Marketing - EMEA
+📍 Tel Aviv | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7872490)
+🕐 Updated: 2026-05-28T18:20:24-04:00 | ID: 7872490
+
+#### 🔄 Growth Marketing Senior Manager
+**Greenhouse** · mongodb · Growth Marketing
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7534893)
+🕐 Updated: 2026-05-28T18:20:18-04:00 | ID: 7534893
+
+#### 🆕 Engineering Manager, Platform Foundations
+**Greenhouse** · anthropic · Engineering & Design - Product · 🎯 75%
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5206492008)
+🕐 Updated: 2026-05-28T18:19:56-04:00 | ID: 5206492008
+
+#### 🔄 Hardware Test Specialist, Failure Analysis (Starlink)
+**Greenhouse** · spacex · Starlink Satellite PCB Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8420958002?gh_jid=8420958002)
+🕐 Updated: 2026-05-28T18:18:47-04:00 | ID: 8420958002
+
+#### 🔄 Executive Business Partner
+**Greenhouse** · twilio · Sales
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7918401)
+🕐 Updated: 2026-05-28T18:18:32-04:00 | ID: 7918401
+
+#### 🔄 Strategy, BD & Operations Sr. Manager, Okta for Good
+**Greenhouse** · okta · Okta for Good-115
+📍 New York, New York | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7961697?gh_jid=7961697)
+🕐 Updated: 2026-05-28T18:17:00-04:00 | ID: 7961697
+
+#### 🔄 Strategy, BD & Operations Sr. Manager, Okta for Good
+**Greenhouse** · okta · Okta for Good-115
+📍 Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7961681?gh_jid=7961681)
+🕐 Updated: 2026-05-28T18:16:51-04:00 | ID: 7961681
+
+#### 🔄 Strategy, BD & Operations Sr. Manager, Okta for Good
+**Greenhouse** · okta · Okta for Good-115
+📍 Chicago, Illinois | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7961678?gh_jid=7961678)
+🕐 Updated: 2026-05-28T18:16:41-04:00 | ID: 7961678
+
+#### 🔄 Strategy, BD & Operations Sr. Manager, Okta for Good
+**Greenhouse** · okta · Okta for Good-115
+📍 Bellevue, Washington | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7961676?gh_jid=7961676)
+🕐 Updated: 2026-05-28T18:16:31-04:00 | ID: 7961676
+
+#### 🔄 Strategy, BD & Operations Sr. Manager, Okta for Good
+**Greenhouse** · okta · Okta for Good-115
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7960556?gh_jid=7960556)
+🕐 Updated: 2026-05-28T18:16:18-04:00 | ID: 7960556
+
+#### 🔄 Head of Executive Search, Business Recruiting
+**Greenhouse** · datadog · Business Recruiting
+📍 Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7961311/?gh_jid=7961311)
+🕐 Updated: 2026-05-28T18:16:04-04:00 | ID: 7961311
+
+#### 🔄 Sr. Engineering Manager - App Frameworks
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002)
+🕐 Updated: 2026-05-28T18:15:45-04:00 | ID: 8510921002
+
+#### 🆕 Sr. Software Engineer, Components Test (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield · 🎯 78%
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568934002?gh_jid=8568934002)
+🕐 Updated: 2026-05-28T18:03:55-04:00 | ID: 8568934002
+
+#### 🔄 Data Governance Engineer
+**Greenhouse** · chime · Data Engineering
+📍 San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8525098002?gh_jid=8525098002)
+🕐 Updated: 2026-05-28T18:01:44-04:00 | ID: 8525098002
+
+#### 🔄 Retirement Sales ERISA Specialist
+**Greenhouse** · humaninterest · Implementation
+📍 United States, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7528056)
+🕐 Updated: 2026-05-28T17:34:24-04:00 | ID: 7528056
+
+#### 🔄 Senior Software Engineer, Eval Authoring APIs
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7747032)
+🕐 Updated: 2026-05-28T17:33:25-04:00 | ID: 7747032
+
+#### 🔄 Lead, Strategic Operations
+**Greenhouse** · chime · Business Operations
+📍 San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8508509002?gh_jid=8508509002)
+🕐 Updated: 2026-05-28T17:16:20-04:00 | ID: 8508509002
+
+#### 🔄 Executive Assistant, CEO
+**Greenhouse** · coursera · Executive Assistants
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/5992491004)
+🕐 Updated: 2026-05-28T17:14:04-04:00 | ID: 5992491004
+
+#### 🔄 Software Engineer II, GTM AI Agents
+**Greenhouse** · toast · R & D : BTT : Engineering
+📍 Remote, USA | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7849825)
+🕐 Updated: 2026-05-28T17:13:50-04:00 | ID: 7849825
+
+#### 🔄 Sr. Strategic Partner Manager – Alliance Partnerships
+**Greenhouse** · checkr · Business Development
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7962035)
+🕐 Updated: 2026-05-28T17:11:16-04:00 | ID: 7962035
+
+#### 🔄 Account Director – Strategic Partnerships
+**Greenhouse** · checkr · Business Development
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/7962033)
+🕐 Updated: 2026-05-28T17:08:10-04:00 | ID: 7962033
+
+#### 🔄 Senior Accountant (Contract to Hire)
+**Greenhouse** · bitgo · Finance
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8540208002)
+🕐 Updated: 2026-05-28T17:07:19-04:00 | ID: 8540208002
+
+#### 🔄 Senior Customer Strategy & Operations Manager
+**Greenhouse** · mixpanel · Revenue Operations
+📍 New York, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7962972)
+🕐 Updated: 2026-05-28T17:06:28-04:00 | ID: 7962972
+
+#### 🔄 Senior Customer Strategy & Operations Manager
+**Greenhouse** · mixpanel · Revenue Operations
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7008408)
+🕐 Updated: 2026-05-28T17:06:07-04:00 | ID: 7008408
+
+#### 🔄 CX Learning & Development Facilitation & Programs Manager
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7931398)
+🕐 Updated: 2026-05-28T17:05:56-04:00 | ID: 7931398
+
+#### 🔄 Partner Account Manager - Colorado
+**Greenhouse** · humaninterest · Sales
+📍 Denver, Colorado | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7961694)
+🕐 Updated: 2026-05-28T16:53:05-04:00 | ID: 7961694
+
+#### 🔄 Partner Account Manager - Hawaii
+**Greenhouse** · humaninterest · Sales
+📍 Hawaii, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7856002)
+🕐 Updated: 2026-05-28T16:52:33-04:00 | ID: 7856002
+
+#### 🔄 Senior Learning Experience Designer
+**Greenhouse** · twilio · Sales Operations
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7926954)
+🕐 Updated: 2026-05-28T16:52:31-04:00 | ID: 7926954
+
+#### 🔄 Senior Data Scientist, Consumer
+**Greenhouse** · reddit · Consumer Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7931049)
+🕐 Updated: 2026-05-28T16:50:36-04:00 | ID: 7931049
+
+#### 🔄 Senior Data Scientist, Consumer
+**Greenhouse** · reddit · Consumer Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7275414)
+🕐 Updated: 2026-05-28T16:50:35-04:00 | ID: 7275414
+
+#### 🔄 Partner Solutions Engineer
+**Greenhouse** · adyen · Payments Partnership
+📍 Chicago; New York; San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7897113)
+🕐 Updated: 2026-05-28T16:49:59-04:00 | ID: 7897113
+
+#### 🔄 Senior Manager, Capital Markets
+**Greenhouse** · sofi · Capital Markets
+📍 NY-New York, SF-San Francisco. TX-Frisco, FL-Jacksonville, DE-Greenville, UT-Cottonwood Heights, NC-Charlotte | 🔗 [Apply Here](https://sofi.com/careers/job/7704156003?gh_jid=7704156003)
+🕐 Updated: 2026-05-28T16:47:07-04:00 | ID: 7704156003
+
+#### 🔄 Principal Software Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7711200003)
+🕐 Updated: 2026-05-28T16:46:22-04:00 | ID: 7711200003
+
+#### 🔄 Principal Presales Engineer
+**Greenhouse** · twilio · Solutions Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7938968)
+🕐 Updated: 2026-05-28T16:40:44-04:00 | ID: 7938968
+
+#### 🔄 PCB Reliability Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569054002?gh_jid=8569054002)
+🕐 Updated: 2026-05-28T16:39:10-04:00 | ID: 8569054002
+
+#### 🔄 Failure Analysis Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Satellite Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569040002?gh_jid=8569040002)
+🕐 Updated: 2026-05-28T16:39:09-04:00 | ID: 8569040002
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · brex · Product
+📍 New York, New York, United States | 🔗 [Apply Here](https://www.brex.com/careers/8432702002?gh_jid=8432702002)
+🕐 Updated: 2026-05-28T16:34:49-04:00 | ID: 8432702002
+
+#### 🔄 Customer Support Specialist, International
+**Greenhouse** · justworks · Customer Success, International Products
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7695046?gh_jid=7695046)
+🕐 Updated: 2026-05-28T16:33:48-04:00 | ID: 7695046
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · brex · Product
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://www.brex.com/careers/8432698002?gh_jid=8432698002)
+🕐 Updated: 2026-05-28T16:33:30-04:00 | ID: 8432698002
+
+#### 🔄 Software Quality Operations Specialist / ソフトウェア品質運用
+**Greenhouse** · waymo · MPCI (SQZ)
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7597044)
+🕐 Updated: 2026-05-28T16:33:16-04:00 | ID: 7597044
+
+#### 🔄 Senior Cloud Database Engineer
+**Greenhouse** · marqeta · Cloud Platform
+📍 Toronto, Canada; Vancouver, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7926736)
+🕐 Updated: 2026-05-28T16:31:53-04:00 | ID: 7926736
+
+#### 🔄 Staff Technical Lead Manager, Prediction & Planning, ML Eval
+**Greenhouse** · waymo · Planner (7LU)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7963516)
+🕐 Updated: 2026-05-28T16:31:40-04:00 | ID: 7963516
+
+#### 🔄 Senior Cloud Database Engineer
+**Greenhouse** · marqeta · Cloud Platform
+📍 Remote, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/marqeta/jobs/7891942)
+🕐 Updated: 2026-05-28T16:31:34-04:00 | ID: 7891942
+
+## ATS Summary
+- **Greenhouse**: 2 new, 13429 fetched, 41 updated, 25 cap-skipped, 2 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 13520 fetched, 41 updated, 25 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-28 20:31 UTC
 
 ### Greenhouse
