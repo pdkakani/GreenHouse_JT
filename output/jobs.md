@@ -1,3 +1,32 @@
+## 📅 Run: 2026-05-30 11:05 UTC
+
+### Greenhouse
+
+#### 🔄 Enterprise Account Executive - Canada (Toronto, Ottawa, Montreal)
+**Greenhouse** · abnormalsecurity · Enterprise
+📍 Remote - Canada | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7491505003?gh_jid=7491505003)
+🕐 Updated: 2026-05-30T07:04:43-04:00 | ID: 7491505003
+
+#### 🔄 Mid Market Sales Manager, Toronto
+**Greenhouse** · abnormalsecurity · MidMarket
+📍 Remote - Canada | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7526979003?gh_jid=7526979003)
+🕐 Updated: 2026-05-30T07:04:43-04:00 | ID: 7526979003
+
+#### 🔄 Senior Customer Success Manager, Canada (French speaking)
+**Greenhouse** · abnormalsecurity · CSM & Renewals
+📍 Remote - Canada | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7634675003?gh_jid=7634675003)
+🕐 Updated: 2026-05-30T07:04:43-04:00 | ID: 7634675003
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13367 fetched, 3 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13455 fetched, 3 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-30 09:32 UTC
 
 ### Greenhouse
