@@ -1,3 +1,37 @@
+## 📅 Run: 2026-05-30 15:34 UTC
+
+### Greenhouse
+
+#### 🔄 Lakebase Account Executive
+**Greenhouse** · databricks · HQ Management
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8449848002)
+🕐 Updated: 2026-05-30T10:59:34-04:00 | ID: 8449848002
+
+#### 🆕 Senior Staff Software Engineer, Storage
+**Greenhouse** · airbnb · Software Engineering · 🎯 75%
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7702735?gh_jid=7702735)
+🕐 Updated: 2026-05-30T10:28:25-04:00 | ID: 7702735
+
+#### 🔄 Senior AI Application Engineer
+**Greenhouse** · klaviyo · IT & Security
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7688489003)
+🕐 Updated: 2026-05-30T10:17:38-04:00 | ID: 7688489003
+
+#### 🔄 Senior AI Application Engineer
+**Greenhouse** · klaviyo · IT & Security
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs?gh_jid=7688488003)
+🕐 Updated: 2026-05-30T10:17:03-04:00 | ID: 7688488003
+
+## ATS Summary
+- **Greenhouse**: 1 new, 13362 fetched, 3 updated, 1 cap-skipped, 1 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 13450 fetched, 3 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-30 14:06 UTC
 
 ### Greenhouse
