@@ -1,3 +1,22 @@
+## 📅 Run: 2026-05-30 19:03 UTC
+
+### Greenhouse
+
+#### 🔄 Pricing Manager
+**Greenhouse** · newrelic · G&A, Executive
+📍 Atlanta, Georgia, USA; Dallas, Texas, USA; Portland, Oregon, USA; San Francisco, California, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5189793008)
+🕐 Updated: 2026-05-30T14:19:05-04:00 | ID: 5189793008
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13357 fetched, 1 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13445 fetched, 1 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-30 16:41 UTC
 
 ### Greenhouse
