@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-30 22:37 UTC
+
+### Greenhouse
+
+#### 🔄 Full Stack Engineer, Money as a Service
+**Greenhouse** · stripe · 8514 Connect - Eng
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6606581)
+🕐 Updated: 2026-05-30T17:39:07-04:00 | ID: 6606581
+
+#### 🔄 Full Stack Engineer, Ecosystem
+**Greenhouse** · stripe · 8712 Enterprise Engine
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7403151)
+🕐 Updated: 2026-05-30T17:38:50-04:00 | ID: 7403151
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13358 fetched, 2 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13446 fetched, 2 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-30 20:16 UTC
 
 ### Greenhouse
