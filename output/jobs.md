@@ -1,3 +1,57 @@
+## 📅 Run: 2026-05-30 07:31 UTC
+
+### Greenhouse
+
+#### 🔄 IT Support Engineer
+**Greenhouse** · anthropic · Security
+📍 Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4802076008)
+🕐 Updated: 2026-05-30T02:57:48-04:00 | ID: 4802076008
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-30T01:01:51-04:00 | ID: 7870845
+
+#### 🔄 Customer Success Manager - Turkish Speaker
+**Greenhouse** · mongodb · Customer Success EMEA
+📍 Dubai | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7696235)
+🕐 Updated: 2026-05-30T00:42:32-04:00 | ID: 7696235
+
+#### 🔄 Senior Customer Success Manager - Italian Speaking
+**Greenhouse** · mongodb · Customer Success EMEA
+📍 Dublin; Milan; Rome | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7908592)
+🕐 Updated: 2026-05-30T00:42:32-04:00 | ID: 7908592
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · mongodb · Customer Success International
+📍 Amsterdam | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7959690)
+🕐 Updated: 2026-05-30T00:42:29-04:00 | ID: 7959690
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · mongodb · Customer Success
+📍 Stockholm | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7836453)
+🕐 Updated: 2026-05-30T00:42:29-04:00 | ID: 7836453
+
+#### 🔄 Customer Success Manager - French Speaking
+**Greenhouse** · mongodb · Customer Success EMEA
+📍 Paris | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7757113)
+🕐 Updated: 2026-05-30T00:42:14-04:00 | ID: 7757113
+
+#### 🔄 Customer Success Manager - French Speaking
+**Greenhouse** · mongodb · Customer Success EMEA
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7761063)
+🕐 Updated: 2026-05-30T00:42:14-04:00 | ID: 7761063
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13366 fetched, 8 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13454 fetched, 8 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-30 04:31 UTC
 
 ### Greenhouse
