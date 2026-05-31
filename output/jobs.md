@@ -1,3 +1,42 @@
+## 📅 Run: 2026-05-31 20:41 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Director, Business Development (New Verticals)
+**Greenhouse** · flex · Business Development
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4627497005)
+🕐 Updated: 2026-05-31T16:23:47-04:00 | ID: 4627497005
+
+#### 🔄 Director, Strategic Partnerships (New Verticals)
+**Greenhouse** · flex · Business Development
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4685871005)
+🕐 Updated: 2026-05-31T16:22:36-04:00 | ID: 4685871005
+
+#### 🔄 Senior Product Manager, Onboarding
+**Greenhouse** · flex · Product
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4679930005)
+🕐 Updated: 2026-05-31T16:16:21-04:00 | ID: 4679930005
+
+#### 🔄 Director of Talent Development and Performance
+**Greenhouse** · flex · People Ops
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4654930005)
+🕐 Updated: 2026-05-31T16:11:40-04:00 | ID: 4654930005
+
+#### 🔄 Lead Product Manager, Platform
+**Greenhouse** · flex · Product
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4678155005)
+🕐 Updated: 2026-05-31T16:10:25-04:00 | ID: 4678155005
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13352 fetched, 5 updated, 3 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13440 fetched, 5 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-31 19:39 UTC
 
 ### Greenhouse
