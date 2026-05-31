@@ -1,3 +1,27 @@
+## 📅 Run: 2026-05-31 11:13 UTC
+
+### Greenhouse
+
+#### 🔄 Manager, Account Executive - Enterprise Sales
+**Greenhouse** · anthropic · Sales
+📍 New York City, NY; San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5175782008)
+🕐 Updated: 2026-05-31T07:04:35-04:00 | ID: 5175782008
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-05-31T05:32:45-04:00 | ID: 7870845
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13351 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 57 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13439 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-05-31 09:23 UTC
 
 ### Greenhouse
