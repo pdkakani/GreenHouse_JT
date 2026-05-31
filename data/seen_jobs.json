@@ -180758,5 +180758,13 @@
     "ats": "greenhouse",
     "source_slug": "formlabs",
     "alerted": false
+  },
+  "greenhouse:celonis:7754989003": {
+    "updated_at": "2026-05-30T12:22:54-04:00",
+    "title": "Vice President, Engineering, Core Platform & Infrastructure",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
   }
 }
