@@ -1,3 +1,1477 @@
+## 📅 Run: 2026-06-01 21:57 UTC
+
+### Greenhouse
+
+#### 🔄 Software Engineer 3, App Analysis & Modelling
+**Greenhouse** · mongodb · PTO App Modernization ENG
+📍 Sydney | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523878)
+🕐 Updated: 2026-06-01T17:56:17-04:00 | ID: 7523878
+
+#### 🔄 Staff Technical Program Manager
+**Greenhouse** · mongodb · PTO Developer Experience ENG
+📍 Atlanta; Austin; Baltimore; Boston; Charlotte; Chicago; Columbus; Dallas; Miami; Nashville; New York City; Philadelphia; Raleigh; Tysons; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7907745)
+🕐 Updated: 2026-06-01T17:54:12-04:00 | ID: 7907745
+
+#### 🔄 Onboarding Consultant III, Enterprise
+**Greenhouse** · toast · Onboarding : Enterprise
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7926249)
+🕐 Updated: 2026-06-01T17:54:01-04:00 | ID: 7926249
+
+#### 🔄 Accountant
+**Greenhouse** · convera · Tax & Accounting - Financial Reporting
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4861130101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4861130101
+
+#### 🔄 Accounting Manager
+**Greenhouse** · convera · Tax & Accounting - Financial Reporting
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4861138101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4861138101
+
+#### 🔄 Associate Business Development Manager
+**Greenhouse** · convera · Growth Payments
+📍 Milan | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4802453101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4802453101
+
+#### 🔄 Commercial Finance Manager - Channels and Partnerships
+**Greenhouse** · convera · FP&A
+📍 New York City | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4856899101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4856899101
+
+#### 🔄 Commercial Finance Manager - Channels and Partnerships
+**Greenhouse** · convera · FP&A
+📍 Denver | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4851547101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4851547101
+
+#### 🔄 Compliance Operations Associate
+**Greenhouse** · convera · KYC
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4842968101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4842968101
+
+#### 🔄 Compliance Operations Associate
+**Greenhouse** · convera · KYC
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4842976101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4842976101
+
+#### 🔄 Compliance Program Manager - Japan
+**Greenhouse** · convera · Compliance - Financial Crime Compliance
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4834875101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4834875101
+
+#### 🔄 Convera USA LLC. in Denver, CO has opening for Senior Software Engineer
+**Greenhouse** · convera · Cloud Infrastructure Engineering
+📍 Denver | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4585038101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4585038101
+
+#### 🔄 Convera USA LLC. in Denver, CO has opening for Senior Software Engineer.
+**Greenhouse** · convera · Technology Operations & Support
+📍 Denver | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4585020101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4585020101
+
+#### 🔄 Credit Risk Manager
+**Greenhouse** · convera · Credit
+📍 Paris | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4853301101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4853301101
+
+#### 🔄 Customer Support Associate
+**Greenhouse** · convera · Education Students
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4867517101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4867517101
+
+#### 🔄 Customer Support Associate
+**Greenhouse** · convera · Education Students
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4867504101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4867504101
+
+#### 🔄 Customer Support Associate
+**Greenhouse** · convera · Fis (Ops)
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4871964101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4871964101
+
+#### 🔄 Customer Support Associate
+**Greenhouse** · convera · Education Students
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4867515101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4867515101
+
+#### 🔄 Financial Analyst (6 Months FTC) - Sales Compensation and Hedging
+**Greenhouse** · convera · Chief Financial Officer
+📍 Peterborough | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4793751101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4793751101
+
+#### 🔄 Head of Liquidity Management
+**Greenhouse** · convera · Treasury - FX
+📍 London | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4873400101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4873400101
+
+#### 🔄 Head of Payment Network Development & Oversight
+**Greenhouse** · convera · Treasury - FX
+📍 London | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4873396101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4873396101
+
+#### 🔄 HR Senior Generalist, India
+**Greenhouse** · convera · People Services & HR Technology
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4876356101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4876356101
+
+#### 🔄 ITSM Incident & Problem Manager
+**Greenhouse** · convera · Technology Operations & Support
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4792571101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4792571101
+
+#### 🔄 ITSM Incident & Problem Manager
+**Greenhouse** · convera · Technology Operations & Support
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4792585101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4792585101
+
+#### 🔄 ITSM Incident & Problem Manager
+**Greenhouse** · convera · Technology Operations & Support
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4792563101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4792563101
+
+#### 🔄 Marketing Commercialisation Manager
+**Greenhouse** · convera · Product Marketing
+📍 Work From Home - UK | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4826833101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4826833101
+
+#### 🔄 Markets Compliance Officer (Canada & US)
+**Greenhouse** · convera · Compliance - Global Markets
+📍 Toronto | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4836112101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4836112101
+
+#### 🔄 Payment Processing and Treasury Confirmations Coordinator (Night shift)
+**Greenhouse** · convera · Payments Release
+📍 Vilnius | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4869241101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4869241101
+
+#### 🔄 Payment Processing Assistant (Afternoon shift)
+**Greenhouse** · convera · VMS/Build Bene
+📍 Vilnius | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4871095101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4871095101
+
+#### 🔄 Power Platform Engineer (Automation & Copilot Development)
+**Greenhouse** · convera · Digital Workplace and End User Computing
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4796056101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4796056101
+
+#### 🔄 Product Marketing Manager, Partnerships & API Solutions
+**Greenhouse** · convera · Product Marketing
+📍 Denver | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4841425101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4841425101
+
+#### 🔄 Product Marketing Manager, Partnerships & API Solutions
+**Greenhouse** · convera · Product Marketing
+📍 London | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4853531101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4853531101
+
+#### 🔄 Senior Accountant
+**Greenhouse** · convera · Tax & Accounting - Financial Reporting
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4861122101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4861122101
+
+#### 🔄 Senior Business Development Manager
+**Greenhouse** · convera · Growth Payments
+📍 Milan | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4742353101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4742353101
+
+#### 🔄 Senior Business Development Manager
+**Greenhouse** · convera · Growth Payments
+📍 Luxembourg | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4756621101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4756621101
+
+#### 🔄 Senior Business Development Manager
+**Greenhouse** · convera · Growth Payments
+📍 Warsaw | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4741038101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4741038101
+
+#### 🔄 Senior Client Relationship Manager
+**Greenhouse** · convera · Growth Payments
+📍 Paris | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4803616101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4803616101
+
+#### 🔄 Senior Cybersecurity Engineer
+**Greenhouse** · convera · SecOps
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4831186101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4831186101
+
+#### 🔄 Senior Foreign Exchange Dealer
+**Greenhouse** · convera · Growth Payments
+📍 Singapore | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4691714101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4691714101
+
+#### 🔄 Senior Infrastructure Engineer- AWS Cloud Platform
+**Greenhouse** · convera · Cloud Infrastructure Engineering
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4795118101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4795118101
+
+#### 🔄 Senior Manager, Payment Network Development & Oversight
+**Greenhouse** · convera · Treasury - FX
+📍 London | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4873398101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4873398101
+
+#### 🔄 Senior Pre-Sales Engineer
+**Greenhouse** · convera · Sales Engineering
+📍 Work From Home - USA | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4749199101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4749199101
+
+#### 🔄 Senior Principal -  FX Counterparty Strategy & Risk Analytics
+**Greenhouse** · convera · Treasury - FX
+📍 London | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4873394101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4873394101
+
+#### 🔄 Senior Process Excellence Specialist
+**Greenhouse** · convera · Digital Solutions
+📍 Peterborough | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4691425101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4691425101
+
+#### 🔄 Senior Process Excellence Specialist
+**Greenhouse** · convera · Digital Solutions
+📍 Vilnius | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4685814101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4685814101
+
+#### 🔄 Senior Product Manager with Convera USA LLC (Denver, CO)
+**Greenhouse** · convera · Product and Design Management
+📍 Denver | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4603329101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4603329101
+
+#### 🔄 Senior Sales Training Specialist
+**Greenhouse** · convera · Sales Operations and Enablement
+📍 Peterborough | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4865193101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4865193101
+
+#### 🔄 Senior ServiceNow Developer
+**Greenhouse** · convera · Technology Operations & Support
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4707095101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4707095101
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · convera · Data Platform
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4766574101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4766574101
+
+#### 🔄 Senior Software Engineer with Convera USA LLC (Denver, CO)
+**Greenhouse** · convera · Engineering Management
+📍 Denver | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4608562101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4608562101
+
+#### 🔄 Senior Specialist / Service Delivery Manager
+**Greenhouse** · convera · Customer Service
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4846036101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4846036101
+
+#### 🔄 Treasury Confirmations and Payment Processing Coordinator (Day shift)
+**Greenhouse** · convera · Payments Release
+📍 Vilnius | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4869225101)
+🕐 Updated: 2026-06-01T17:53:20-04:00 | ID: 4869225101
+
+#### 🔄 Lead Engagement Manager, Professional Services - Digital Native Business (DNB)
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423291002)
+🕐 Updated: 2026-06-01T17:53:03-04:00 | ID: 8423291002
+
+#### 🔄 Staff Software Engineer - Query Execution
+**Greenhouse** · mongodb · PTO Query
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7915330)
+🕐 Updated: 2026-06-01T17:51:51-04:00 | ID: 7915330
+
+#### 🔄 Senior Software Engineer, Inference Platform
+**Greenhouse** · mongodb · PTO Atlas Search
+📍 Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7467701)
+🕐 Updated: 2026-06-01T17:49:50-04:00 | ID: 7467701
+
+#### 🔄 Engineering Manager, Atlas Cluster Security
+**Greenhouse** · mongodb · PTO Atlas Data Services
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7711866)
+🕐 Updated: 2026-06-01T17:49:15-04:00 | ID: 7711866
+
+#### 🔄 Software Engineer - AI Productivity
+**Greenhouse** · hightouch · Engineering
+📍 Remote (North America) | 🔗 [Apply Here](https://job-boards.greenhouse.io/hightouch/jobs/5809895004)
+🕐 Updated: 2026-06-01T17:47:13-04:00 | ID: 5809895004
+
+#### 🔄 Senior Accountant (Contract to Hire)
+**Greenhouse** · bitgo · Finance
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8540208002)
+🕐 Updated: 2026-06-01T17:46:14-04:00 | ID: 8540208002
+
+#### 🔄 Senior Staff Technical Program Manager
+**Greenhouse** · mongodb · PTO Atlas Data Services
+📍 Dublin; Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7340968)
+🕐 Updated: 2026-06-01T17:44:37-04:00 | ID: 7340968
+
+#### 🔄 Senior Technical Program Manager Atlas Clusters
+**Greenhouse** · mongodb · PTO Atlas Data Services
+📍 Dublin; Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7672303)
+🕐 Updated: 2026-06-01T17:44:37-04:00 | ID: 7672303
+
+#### 🔄 Staff Technical Program Manager
+**Greenhouse** · mongodb · PTO Atlas Data Services
+📍 Dublin; Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7465124)
+🕐 Updated: 2026-06-01T17:44:37-04:00 | ID: 7465124
+
+#### 🔄 Engineering Manager, Atlas Clusters Fleet Signal Management
+**Greenhouse** · mongodb · PTO Atlas Data Services
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7711872)
+🕐 Updated: 2026-06-01T17:43:35-04:00 | ID: 7711872
+
+#### 🔄 Software Engineer 3
+**Greenhouse** · mongodb · PTO Core Platforms
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7581876)
+🕐 Updated: 2026-06-01T17:42:39-04:00 | ID: 7581876
+
+#### 🔄 Senior Engineering Manager, Code Generation
+**Greenhouse** · mongodb · PTO App Modernization ENG
+📍 British Columbia | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7616248)
+🕐 Updated: 2026-06-01T17:40:00-04:00 | ID: 7616248
+
+#### 🔄 Senior Engineering Manager, Code Generation
+**Greenhouse** · mongodb · PTO App Modernization ENG
+📍 California; Oregon; Washington | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7616246)
+🕐 Updated: 2026-06-01T17:40:00-04:00 | ID: 7616246
+
+#### 🔄 Staff Engineer, Observability
+**Greenhouse** · mongodb · PTO Customer Observability
+📍 Cork | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7960356)
+🕐 Updated: 2026-06-01T17:37:49-04:00 | ID: 7960356
+
+#### 🔄 Staff Engineer, Observability
+**Greenhouse** · mongodb · PTO Customer Observability
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7613587)
+🕐 Updated: 2026-06-01T17:37:49-04:00 | ID: 7613587
+
+#### 🔄 Engineering Manager, Observability
+**Greenhouse** · mongodb · PTO Customer Observability
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7613568)
+🕐 Updated: 2026-06-01T17:36:44-04:00 | ID: 7613568
+
+#### 🔄 Product Management, L2
+**Greenhouse** · twilio · Product Management
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7963691)
+🕐 Updated: 2026-06-01T17:34:06-04:00 | ID: 7963691
+
+#### 🔄 Software Engineer 3
+**Greenhouse** · mongodb · PTO Developer Experience ENG
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7939397)
+🕐 Updated: 2026-06-01T17:34:03-04:00 | ID: 7939397
+
+#### 🔄 Associate Recruiter
+**Greenhouse** · verkada · Hardware Engineering
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5112051007)
+🕐 Updated: 2026-06-01T17:32:35-04:00 | ID: 5112051007
+
+#### 🔄 Senior Software Engineer - REDAPL Graph Engine
+**Greenhouse** · datadog · Dev Eng
+📍 France, Remote; Germany, Remote; Spain, Remote | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7959966/?gh_jid=7959966)
+🕐 Updated: 2026-06-01T17:32:27-04:00 | ID: 7959966
+
+#### 🔄 Manager, CS Operations
+**Greenhouse** · samsara · Revenue Operations
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7624398?gh_jid=7624398)
+🕐 Updated: 2026-06-01T17:32:26-04:00 | ID: 7624398
+
+#### 🔄 Account Executive - Enterprise Sales (Greenfield)
+**Greenhouse** · newrelic · Enterprise
+📍 Austin, Texas, USA; Chicago, Illinois, USA; Cincinnati, Ohio, USA; Cleveland, Ohio, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Houston, Texas, USA; Springfield, Illinois, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5169089008)
+🕐 Updated: 2026-06-01T17:31:53-04:00 | ID: 5169089008
+
+#### 🔄 Senior Specialist, Industry Solutions
+**Greenhouse** · mongodb · PTO Industry Solutions
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7947643)
+🕐 Updated: 2026-06-01T17:28:48-04:00 | ID: 7947643
+
+#### 🔄 Channel Sales Manager - Federal Civilian / FSI
+**Greenhouse** · rubrik · Sales
+📍 Washington DC | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7871123?gh_jid=7871123)
+🕐 Updated: 2026-06-01T17:27:34-04:00 | ID: 7871123
+
+#### 🔄 Senior Manager, Customer Support (Shift - 12 pm -9 pm EST)
+**Greenhouse** · rubrik · Support
+📍 Morrisville, NC | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7733458?gh_jid=7733458)
+🕐 Updated: 2026-06-01T17:27:10-04:00 | ID: 7733458
+
+#### 🔄 International Program Manager
+**Greenhouse** · waymo · RHO - Market Mgmt (GWE)
+📍 New York, NY, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7851903)
+🕐 Updated: 2026-06-01T17:26:02-04:00 | ID: 7851903
+
+#### 🔄 Senior Staff Engineer
+**Greenhouse** · mongodb · PTO Customer Observability
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7613559)
+🕐 Updated: 2026-06-01T17:22:13-04:00 | ID: 7613559
+
+#### 🔄 Product Manager, L2
+**Greenhouse** · twilio · Product Management
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7963689)
+🕐 Updated: 2026-06-01T17:18:16-04:00 | ID: 7963689
+
+#### 🔄 Senior Product, Privacy and Regulatory Counsel
+**Greenhouse** · dialpad · 620 - Legal
+📍 San Ramon, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8499362002)
+🕐 Updated: 2026-06-01T17:16:29-04:00 | ID: 8499362002
+
+#### 🔄 Data Engineer, Analytics Data Engineering
+**Greenhouse** · dropbox · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - US: Select locations | 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739571?gh_jid=7739571)
+🕐 Updated: 2026-06-01T17:13:13-04:00 | ID: 7739571
+
+#### 🔄 Data Engineer, Analytics Data Engineering
+**Greenhouse** · dropbox · CTO-Data Science, AI Platform & Eng (Sub Team)
+📍 Remote - Canada: Select locations | 🔗 [Apply Here](https://jobs.dropbox.com/listing/7739574?gh_jid=7739574)
+🕐 Updated: 2026-06-01T17:12:55-04:00 | ID: 7739574
+
+#### 🔄 Business Operations Lead, Commercial Launch Sales
+**Greenhouse** · spacex · Sales
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8387499002?gh_jid=8387499002)
+🕐 Updated: 2026-06-01T17:12:08-04:00 | ID: 8387499002
+
+#### 🔄 Field Solutions Engineer
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7956758?gh_jid=7956758)
+🕐 Updated: 2026-06-01T17:06:41-04:00 | ID: 7956758
+
+#### 🔄 Field Solutions Engineer
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/6660802?gh_jid=6660802)
+🕐 Updated: 2026-06-01T17:04:44-04:00 | ID: 6660802
+
+#### 🔄 Partner Account Manager - Austin
+**Greenhouse** · humaninterest · Sales
+📍 Austin, Texas, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7751380)
+🕐 Updated: 2026-06-01T17:02:44-04:00 | ID: 7751380
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · mongodb · PTO App Modernization PM
+📍 India | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7922824)
+🕐 Updated: 2026-06-01T17:02:11-04:00 | ID: 7922824
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · gitlab · Customer Experience
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8517171002)
+🕐 Updated: 2026-06-01T16:59:54-04:00 | ID: 8517171002
+
+#### 🔄 Release Manager
+**Greenhouse** · mongodb · PTO Release Quality
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7917219)
+🕐 Updated: 2026-06-01T16:59:30-04:00 | ID: 7917219
+
+#### 🔄 Staff Backline Engineer - Platform
+**Greenhouse** · databricks · Support
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8465439002)
+🕐 Updated: 2026-06-01T16:58:31-04:00 | ID: 8465439002
+
+#### 🔄 Software Engineer
+**Greenhouse** · reddit · Ads Engineering
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/6909093)
+🕐 Updated: 2026-06-01T16:58:07-04:00 | ID: 6909093
+
+#### 🔄 Senior Software Engineer, Ads
+**Greenhouse** · reddit · Ads Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/6909091)
+🕐 Updated: 2026-06-01T16:58:06-04:00 | ID: 6909091
+
+#### 🔄 Engineering Manager, AI — Brex Assistant
+**Greenhouse** · brex · Engineering
+📍 Seattle, Washington, United States | 🔗 [Apply Here](https://www.brex.com/careers/8395068002?gh_jid=8395068002)
+🕐 Updated: 2026-06-01T16:55:55-04:00 | ID: 8395068002
+
+#### 🔄 Senior Software Engineer, Server Security
+**Greenhouse** · mongodb · PTO Clusters & Interfaces
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7815677)
+🕐 Updated: 2026-06-01T16:55:46-04:00 | ID: 7815677
+
+#### 🔄 Senior Software Engineer, Server Security
+**Greenhouse** · mongodb · PTO Clusters & Interfaces
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7815679)
+🕐 Updated: 2026-06-01T16:55:46-04:00 | ID: 7815679
+
+#### 🔄 Engineering Manager, AI — Brex Assistant
+**Greenhouse** · brex · Engineering
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://www.brex.com/careers/8393583002?gh_jid=8393583002)
+🕐 Updated: 2026-06-01T16:55:41-04:00 | ID: 8393583002
+
+#### 🔄 Product Design Mechanical Engineer
+**Greenhouse** · verkada · Hardware Engineering
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135168007)
+🕐 Updated: 2026-06-01T16:50:39-04:00 | ID: 4135168007
+
+#### 🔄 Telecommunications Engineer (BICSI RCDD Certified)
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8443019002?gh_jid=8443019002)
+🕐 Updated: 2026-06-01T16:49:23-04:00 | ID: 8443019002
+
+#### 🔄 IT Network Infrastructure Engineer
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570046002?gh_jid=8570046002)
+🕐 Updated: 2026-06-01T16:49:04-04:00 | ID: 8570046002
+
+#### 🔄 RCDD / ICT Design Engineer
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570121002?gh_jid=8570121002)
+🕐 Updated: 2026-06-01T16:49:04-04:00 | ID: 8570121002
+
+#### 🔄 Senior Forward Deployed Engineer - Okta for AI Agents
+**Greenhouse** · okta · Okta for AI Agents-764
+📍 Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7961356?gh_jid=7961356)
+🕐 Updated: 2026-06-01T16:41:25-04:00 | ID: 7961356
+
+#### 🔄 Senior Engineer - GTM Tech
+**Greenhouse** · mongodb · GTM Tech
+📍 India | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779013)
+🕐 Updated: 2026-06-01T16:40:17-04:00 | ID: 7779013
+
+#### 🔄 Content Moderation Specialist
+**Greenhouse** · anthropic · Legal
+📍 San Francisco, CA | New York City, NY | Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5208205008)
+🕐 Updated: 2026-06-01T16:31:37-04:00 | ID: 5208205008
+
+#### 🔄 Strategic Account Executive, AI Native
+**Greenhouse** · airtable · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8551939002)
+🕐 Updated: 2026-06-01T16:31:14-04:00 | ID: 8551939002
+
+#### 🔄 Staff Partner Engineer
+**Greenhouse** · ripple · Service & Delivery
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7955223?gh_jid=7955223)
+🕐 Updated: 2026-06-01T16:24:27-04:00 | ID: 7955223
+
+#### 🔄 Chief of Staff, Data
+**Greenhouse** · coursera · Data Science
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/5999885004)
+🕐 Updated: 2026-06-01T16:19:52-04:00 | ID: 5999885004
+
+#### 🔄 Senior Technical Program Manager, Simulator
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7442190)
+🕐 Updated: 2026-06-01T16:17:17-04:00 | ID: 7442190
+
+#### 🔄 Manager, Software Engineering (Cloud Infrastructure)
+**Greenhouse** · ripple · Engineering
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7842893?gh_jid=7842893)
+🕐 Updated: 2026-06-01T16:16:00-04:00 | ID: 7842893
+
+#### 🔄 Distinguished Strategic Advisor (Fed Focused)
+**Greenhouse** · okta · SE Field CTO-322
+📍 Chicago, Illinois; Texas; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7558251?gh_jid=7558251)
+🕐 Updated: 2026-06-01T16:12:52-04:00 | ID: 7558251
+
+#### 🔄 Principal Forward Deployed Engineer - Okta for AI Agents
+**Greenhouse** · okta · Okta for AI Agents-764
+📍 Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7961339?gh_jid=7961339)
+🕐 Updated: 2026-06-01T16:03:27-04:00 | ID: 7961339
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7870845?gh_jid=7870845)
+🕐 Updated: 2026-06-01T16:02:41-04:00 | ID: 7870845
+
+#### 🔄 Manager, Security Engineering (Enterprise systems)
+**Greenhouse** · contentful · Security
+📍 New York City, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7536576)
+🕐 Updated: 2026-06-01T16:02:32-04:00 | ID: 7536576
+
+#### 🔄 Business Development Associate
+**Greenhouse** · applovin · Business Development - Consumer
+📍 Los Angeles/Santa Monica, CA | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4622998006?gh_jid=4622998006)
+🕐 Updated: 2026-06-01T16:01:35-04:00 | ID: 4622998006
+
+#### 🔄 Appraisal Order Analyst
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7713452003?gh_jid=7713452003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7713452003
+
+#### 🔄 Associate Manager, Workplace Experience - East
+**Greenhouse** · sofi · Human Resources
+📍 NY - New York | 🔗 [Apply Here](https://sofi.com/careers/job/7698444003?gh_jid=7698444003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7698444003
+
+#### 🔄 Bank Teller, Golden Pacific Bank, Live Oak
+**Greenhouse** · sofi · BUL
+📍 Live Oak, CA | 🔗 [Apply Here](https://sofi.com/careers/job/7732516003?gh_jid=7732516003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7732516003
+
+#### 🔄 Capital Markets, Mortgage Secondary Markets, Manager
+**Greenhouse** · sofi · Capital Markets
+📍 NY- New York, NC- Charlotte, TX- Frisco, FL- Jacksonville, CA -San Francisco, DE- Greenville, UT- Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7670947003?gh_jid=7670947003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7670947003
+
+#### 🔄 Capital Markets Structuring Manager
+**Greenhouse** · sofi · Capital Markets
+📍 NY-New York, SF- San Francisco, TX- Frisco, NC - Charlotte | 🔗 [Apply Here](https://sofi.com/careers/job/7712535003?gh_jid=7712535003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7712535003
+
+#### 🔄 Collections Associate
+**Greenhouse** · sofi · Collections
+📍 UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7727955003?gh_jid=7727955003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7727955003
+
+#### 🔄 Consumer Direct Growth and Sales Enablement
+**Greenhouse** · sofi · HL Sales
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7647935003?gh_jid=7647935003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7647935003
+
+#### 🔄 Consumer Loan Reviewer
+**Greenhouse** · sofi · Review
+📍 FL - Jacksonville | 🔗 [Apply Here](https://sofi.com/careers/job/7724679003?gh_jid=7724679003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7724679003
+
+#### 🔄 Contact Platform Engineer
+**Greenhouse** · sofi · Ops PMO
+📍 UT - Cottonwood Heights; FL - Jacksonville; TX - Frisco; NC - Charlotte; DE- Greenville | 🔗 [Apply Here](https://sofi.com/careers/job/7565483003?gh_jid=7565483003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7565483003
+
+#### 🔄 Credit Bureau Business Manager
+**Greenhouse** · sofi · Member Service Delivery Strategy
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7727545003?gh_jid=7727545003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7727545003
+
+#### 🔄 Credit Risk Oversight Director - Student Loans & RCSA
+**Greenhouse** · sofi · Risk 2LOD
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7712064003?gh_jid=7712064003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7712064003
+
+#### 🔄 Credit Risk Oversight Senior Manager (2LOD)
+**Greenhouse** · sofi · Risk 2LOD
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7718612003?gh_jid=7718612003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7718612003
+
+#### 🔄 Credit Strategy - Risk Lead
+**Greenhouse** · sofi · 1LOD Credit Portfolio Risk
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7655871003?gh_jid=7655871003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7655871003
+
+#### 🔄 Cybersecurity Incident Commander
+**Greenhouse** · sofi · Information Security
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7751404003?gh_jid=7751404003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7751404003
+
+#### 🔄 Data Science Manager, Borrow
+**Greenhouse** · sofi · Data Science and AI
+📍 CA - San Francisco; NY - New York City | 🔗 [Apply Here](https://sofi.com/careers/job/7601581003?gh_jid=7601581003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7601581003
+
+#### 🔄 Director, AI Platforms
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7704803003?gh_jid=7704803003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7704803003
+
+#### 🔄 Director Business Controls, Global Operations
+**Greenhouse** · sofi · Business Controls
+📍 TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7758677003?gh_jid=7758677003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7758677003
+
+#### 🔄 Director, Card Fraud
+**Greenhouse** · sofi · Member Service Delivery Strategy
+📍 TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7711458003?gh_jid=7711458003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7711458003
+
+#### 🔄 Director, Internal Communications
+**Greenhouse** · sofi · Comms & Policy
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7722402003?gh_jid=7722402003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7722402003
+
+#### 🔄 Director, Learning and Development - Operations
+**Greenhouse** · sofi · Ops Training Strategy
+📍 UT - Cottonwood Heights; FL - Jacksonville | 🔗 [Apply Here](https://sofi.com/careers/job/7593041003?gh_jid=7593041003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7593041003
+
+#### 🔄 Director of Product Management, Commercial Banking
+**Greenhouse** · sofi · SIPS EPD
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7639014003?gh_jid=7639014003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7639014003
+
+#### 🔄 Director, Strategic Bureau Business Manager
+**Greenhouse** · sofi · 1LOD Credit Portfolio Risk
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7693952003?gh_jid=7693952003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7693952003
+
+#### 🔄 Encompass Admin
+**Greenhouse** · sofi · Infrastructure
+📍 NC - Charlotte; TX - Frisco; NC - Remote; TX - Remote | 🔗 [Apply Here](https://sofi.com/careers/job/7674544003?gh_jid=7674544003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7674544003
+
+#### 🔄 Engineering Manager, Commercial Banking - Web
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7663516003?gh_jid=7663516003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7663516003
+
+#### 🔄 Enterprise TPRM Systems and Data Analytics Manager
+**Greenhouse** · sofi · Risk 2LOD
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7692280003?gh_jid=7692280003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7692280003
+
+#### 🔄 Fraud Model Analyst
+**Greenhouse** · sofi · Member Service Delivery Strategy
+📍 Cottonwood Heights, UT | 🔗 [Apply Here](https://sofi.com/careers/job/7743060003?gh_jid=7743060003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7743060003
+
+#### 🔄 Fraud Model Developer
+**Greenhouse** · sofi · Member Service Delivery Strategy
+📍 Jacksonville, FL; Cottonwood Heights, UT | 🔗 [Apply Here](https://sofi.com/careers/job/7637251003?gh_jid=7637251003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7637251003
+
+#### 🔄 Group Product Manager, Invest
+**Greenhouse** · sofi · SIPS EPD
+📍 CA - San Francisco; NY - New York City | 🔗 [Apply Here](https://sofi.com/careers/job/7570377003?gh_jid=7570377003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7570377003
+
+#### 🔄 Growth Marketing Manager, Referrals & Virality
+**Greenhouse** · sofi · Affiliates
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7704192003?gh_jid=7704192003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7704192003
+
+#### 🔄 Home Equity Processor
+**Greenhouse** · sofi · Home Loans Ops Strategy
+📍 Charlotte, NC | 🔗 [Apply Here](https://sofi.com/careers/job/7727594003?gh_jid=7727594003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7727594003
+
+#### 🔄 Home Loans Loss Forecasting Analytics, Senior Data Scientist
+**Greenhouse** · sofi · 1LOD Credit Portfolio Risk
+📍 TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7727059003?gh_jid=7727059003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7727059003
+
+#### 🔄 Home Loans Member Advocate
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 Charlotte, NC | 🔗 [Apply Here](https://sofi.com/careers/job/6604009003?gh_jid=6604009003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 6604009003
+
+#### 🔄 Insurance Agent, Protect
+**Greenhouse** · sofi · BUL
+📍 FL - Jacksonville | 🔗 [Apply Here](https://sofi.com/careers/job/7634836003?gh_jid=7634836003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7634836003
+
+#### 🔄 Interactive Project Manager (Contract)
+**Greenhouse** · sofi · G&A: Contract
+📍 CA - San Francisco HQ | 🔗 [Apply Here](https://sofi.com/careers/job/7701953003?gh_jid=7701953003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7701953003
+
+#### 🔄 Lifecycle Operations Manager
+**Greenhouse** · sofi · Digital Acquisitions
+📍 Cottonwood Heights, UT | 🔗 [Apply Here](https://sofi.com/careers/job/7753094003?gh_jid=7753094003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7753094003
+
+#### 🔄 Lock Desk Analyst
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 Frisco - TX ; Charlotte - NC | 🔗 [Apply Here](https://sofi.com/careers/job/7693606003?gh_jid=7693606003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7693606003
+
+#### 🔄 Mailroom Associate
+**Greenhouse** · sofi · Site Management
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7747028003?gh_jid=7747028003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7747028003
+
+#### 🔄 Mailroom Lead
+**Greenhouse** · sofi · Site Management
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7747024003?gh_jid=7747024003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7747024003
+
+#### 🔄 Manager, Fraud Risk Oversight & Analytics
+**Greenhouse** · sofi · Risk 2LOD
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7581132003?gh_jid=7581132003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7581132003
+
+#### 🔄 Marketing Affiliates Specialist
+**Greenhouse** · sofi · Affiliates
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7702054003?gh_jid=7702054003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7702054003
+
+#### 🔄 Mortgage Loan Closer
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7711466003?gh_jid=7711466003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7711466003
+
+#### 🔄 Mortgage Loan Coordinator
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 Charlotte, NC | 🔗 [Apply Here](https://sofi.com/careers/job/7713462003?gh_jid=7713462003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7713462003
+
+#### 🔄 Mortgage Loan Originator
+**Greenhouse** · sofi · HL Sales
+📍 TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7545767003?gh_jid=7545767003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7545767003
+
+#### 🔄 Mortgage Processor
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 Charlotte, NC | 🔗 [Apply Here](https://sofi.com/careers/job/7734132003?gh_jid=7734132003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7734132003
+
+#### 🔄 Operations Change Management Lead
+**Greenhouse** · sofi · Ops PMO
+📍 UT-Cottonwood Heights; FL- Jacksonville | 🔗 [Apply Here](https://sofi.com/careers/job/7704445003?gh_jid=7704445003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7704445003
+
+#### 🔄 Payroll Specialist
+**Greenhouse** · sofi · Accounting
+📍 FL - Jacksonville; NC - Charlotte | 🔗 [Apply Here](https://sofi.com/careers/job/7749904003?gh_jid=7749904003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7749904003
+
+#### 🔄 Physical Security Manager
+**Greenhouse** · sofi · Legal
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7758673003?gh_jid=7758673003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7758673003
+
+#### 🔄 Post Closing Specialist (Investor Loan Delivery Focus)
+**Greenhouse** · sofi · Home Loans Ops Strategy
+📍 UT - Cottonwood Heights; TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7730858003?gh_jid=7730858003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7730858003
+
+#### 🔄 Post Closing Specialist (Servicing Boarding & Trailing Docs Focus)
+**Greenhouse** · sofi · Home Loans Ops Strategy
+📍 Charlotte, North Carolina | 🔗 [Apply Here](https://sofi.com/careers/job/7702238003?gh_jid=7702238003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7702238003
+
+#### 🔄 Pre-Approval Specialist
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 NC - Charlotte | 🔗 [Apply Here](https://sofi.com/careers/job/7714029003?gh_jid=7714029003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7714029003
+
+#### 🔄 Pricing Analyst, Home Lending
+**Greenhouse** · sofi · Pricing
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7692284003?gh_jid=7692284003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7692284003
+
+#### 🔄 Principal, Appraisal Underwriting Strategy & Governance
+**Greenhouse** · sofi · 1LOD Credit Portfolio Risk
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7589085003?gh_jid=7589085003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7589085003
+
+#### 🔄 Principal Engineer, Digital Identity
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7679621003?gh_jid=7679621003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7679621003
+
+#### 🔄 Principal People Business Partner
+**Greenhouse** · sofi · Human Resources
+📍 Frisco, TX, Charlotte, NC | 🔗 [Apply Here](https://sofi.com/careers/job/7688438003?gh_jid=7688438003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7688438003
+
+#### 🔄 Principal People  Business Partner, Finance
+**Greenhouse** · sofi · Human Resources
+📍 NY - New York City; CA - San Francisco; UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7740954003?gh_jid=7740954003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7740954003
+
+#### 🔄 Principal Product Designer, Coach
+**Greenhouse** · sofi · Product Design
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7668597003?gh_jid=7668597003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7668597003
+
+#### 🔄 Principal Product Designer, SIPS
+**Greenhouse** · sofi · Product Design
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7605986003?gh_jid=7605986003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7605986003
+
+#### 🔄 Principal Product Manager, Ads & Measurement
+**Greenhouse** · sofi · Member EPD
+📍 CA - San Francisco, WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7580153003?gh_jid=7580153003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7580153003
+
+#### 🔄 Principal Product Manager, AI Features
+**Greenhouse** · sofi · SIPS EPD
+📍 CA - San Francisco, WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7670800003?gh_jid=7670800003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7670800003
+
+#### 🔄 Principal Product Manager - Fraud, Risk & ML Platform
+**Greenhouse** · sofi · Borrow EPD
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7638977003?gh_jid=7638977003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7638977003
+
+#### 🔄 Principal Product Manager, Marketing Technology
+**Greenhouse** · sofi · SIPS EPD
+📍 CA - San Francisco, WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7687964003?gh_jid=7687964003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7687964003
+
+#### 🔄 Principal Product Manager, Real-Time Payments Platform
+**Greenhouse** · sofi · SIPS EPD
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7697158003?gh_jid=7697158003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7697158003
+
+#### 🔄 Principal Software Engineer, Agentic Experiences
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco HQ; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7666785003?gh_jid=7666785003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7666785003
+
+#### 🔄 Principal Software Engineer, AI Accelerated SDLC
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7511157003?gh_jid=7511157003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7511157003
+
+#### 🔄 Principal Software Engineer, Loans Originations
+**Greenhouse** · sofi · Infrastructure
+📍 Seattle, Washington | 🔗 [Apply Here](https://sofi.com/careers/job/7575386003?gh_jid=7575386003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7575386003
+
+#### 🔄 Principal Software Engineer, Loans Platform
+**Greenhouse** · sofi · Infrastructure
+📍 Seattle, WA | 🔗 [Apply Here](https://sofi.com/careers/job/7575382003?gh_jid=7575382003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7575382003
+
+#### 🔄 Principal Software Engineer, Loans Platform
+**Greenhouse** · sofi · Infrastructure
+📍 Seattle, Washington | 🔗 [Apply Here](https://sofi.com/careers/job/7575354003?gh_jid=7575354003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7575354003
+
+#### 🔄 Principal Software Engineer, Member Growth
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco HQ | 🔗 [Apply Here](https://sofi.com/careers/job/7688391003?gh_jid=7688391003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7688391003
+
+#### 🔄 Production Sales Manager, Retail
+**Greenhouse** · sofi · HL Sales
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7602827003?gh_jid=7602827003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7602827003
+
+#### 🔄 Product Marketing Manager, SMB
+**Greenhouse** · sofi · Product Marketing
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7593299003?gh_jid=7593299003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7593299003
+
+#### 🔄 Programmatic Media Buyer - CTV/OTT, Video, & Audio
+**Greenhouse** · sofi · Media
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7644174003?gh_jid=7644174003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7644174003
+
+#### 🔄 Retail Loan Originator
+**Greenhouse** · sofi · HL Sales
+📍 Frisco, TX | 🔗 [Apply Here](https://sofi.com/careers/job/7573978003?gh_jid=7573978003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7573978003
+
+#### 🔄 Retail Market Manager
+**Greenhouse** · sofi · HL Sales
+📍 Frisco, TX | 🔗 [Apply Here](https://sofi.com/careers/job/7735448003?gh_jid=7735448003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7735448003
+
+#### 🔄 Sales Enablement Operations Manager
+**Greenhouse** · sofi · HL Sales
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7628707003?gh_jid=7628707003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7628707003
+
+#### 🔄 Security Product Lead – Product & AI Security
+**Greenhouse** · sofi · Information Security
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City; TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7700757003?gh_jid=7700757003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7700757003
+
+#### 🔄 Security Product Lead – Threat Intelligence & Insider Risk
+**Greenhouse** · sofi · Information Security
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7647550003?gh_jid=7647550003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7647550003
+
+#### 🔄 Security Product Lead –  Enterprise & Identity Security
+**Greenhouse** · sofi · Information Security
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7655880003?gh_jid=7655880003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7655880003
+
+#### 🔄 Senior Affiliates Manager
+**Greenhouse** · sofi · Affiliates
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7704196003?gh_jid=7704196003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7704196003
+
+#### 🔄 Senior Analyst, Workday Financials
+**Greenhouse** · sofi · Accounting
+📍 UT - Cottonwood Heights; CA - San Francisco; TX - Frisco; NY - New York City; WA - Seattle; FL - Jacksonville; NC - Charlotte | 🔗 [Apply Here](https://sofi.com/careers/job/7701996003?gh_jid=7701996003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7701996003
+
+#### 🔄 Senior Art Director (Contract)
+**Greenhouse** · sofi · G&A: Contract
+📍 CA - San Francisco HQ | 🔗 [Apply Here](https://sofi.com/careers/job/7701949003?gh_jid=7701949003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7701949003
+
+#### 🔄 Senior Associate, Market Risk Execution
+**Greenhouse** · sofi · Treasury
+📍 New York City - NY | 🔗 [Apply Here](https://sofi.com/careers/job/7693956003?gh_jid=7693956003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7693956003
+
+#### 🔄 Senior Business Operations Analyst
+**Greenhouse** · sofi · Collections
+📍 Cottonwoods, Utah - Jacksonville, FL | 🔗 [Apply Here](https://sofi.com/careers/job/7741804003?gh_jid=7741804003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7741804003
+
+#### 🔄 Senior Credit Manager
+**Greenhouse** · sofi · 1LOD Credit Portfolio Risk
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7507143003?gh_jid=7507143003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7507143003
+
+#### 🔄 Senior Data Scientist
+**Greenhouse** · sofi · Compliance
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7667953003?gh_jid=7667953003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7667953003
+
+#### 🔄 Senior Data Scientist, Borrow
+**Greenhouse** · sofi · Data Science and AI
+📍 CA - San Francisco; NY - New York City | 🔗 [Apply Here](https://sofi.com/careers/job/7692954003?gh_jid=7692954003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7692954003
+
+#### 🔄 Senior Data Scientist, Member Insights - Growth
+**Greenhouse** · sofi · Data Science and AI
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7587079003?gh_jid=7587079003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7587079003
+
+#### 🔄 Senior Editor, Newsletters
+**Greenhouse** · sofi · Creative
+📍 New York, NY | 🔗 [Apply Here](https://sofi.com/careers/job/7695787003?gh_jid=7695787003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7695787003
+
+#### 🔄 Senior Engineering Manager, Commercial Banking
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7663487003?gh_jid=7663487003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7663487003
+
+#### 🔄 Senior Engineering Manager, SoFi Money (Mobile)
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7676457003?gh_jid=7676457003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7676457003
+
+#### 🔄 Senior Full Stack Engineer
+**Greenhouse** · sofi · Risk 2LOD
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7632143003?gh_jid=7632143003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7632143003
+
+#### 🔄 Senior Lifecycle Marketing Manager, Home Equity
+**Greenhouse** · sofi · Digital Acquisitions
+📍 San Francisco, CA; New York, NY; Seattle, WA; Cottonwood Heights, UT | 🔗 [Apply Here](https://sofi.com/careers/job/7712005003?gh_jid=7712005003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7712005003
+
+#### 🔄 Senior Lifecycle Marketing Manager, Home Loans
+**Greenhouse** · sofi · Digital Acquisitions
+📍 San Francisco, CA; New York; Seattle, WA | 🔗 [Apply Here](https://sofi.com/careers/job/7610717003?gh_jid=7610717003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7610717003
+
+#### 🔄 Senior Manager, Capital Markets
+**Greenhouse** · sofi · Capital Markets
+📍 NY-New York, SF-San Francisco. TX-Frisco, FL-Jacksonville, DE-Greenville, UT-Cottonwood Heights, NC-Charlotte | 🔗 [Apply Here](https://sofi.com/careers/job/7704156003?gh_jid=7704156003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7704156003
+
+#### 🔄 Senior Manager Corporate Communications (Crypto)
+**Greenhouse** · sofi · Comms & Policy
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7722398003?gh_jid=7722398003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7722398003
+
+#### 🔄 Senior Manager, Data Engineering
+**Greenhouse** · sofi · Risk 2LOD
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7718604003?gh_jid=7718604003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7718604003
+
+#### 🔄 Senior Manager, Data Science
+**Greenhouse** · sofi · Data Science and AI
+📍 CA - San Francisco; NY - New York City | 🔗 [Apply Here](https://sofi.com/careers/job/7691570003?gh_jid=7691570003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7691570003
+
+#### 🔄 Senior Manager, Government Affairs
+**Greenhouse** · sofi · Comms & Policy
+📍 DC, Remote | 🔗 [Apply Here](https://sofi.com/careers/job/7545775003?gh_jid=7545775003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7545775003
+
+#### 🔄 Senior Manager Operations Enablement, Member & Account Safety
+**Greenhouse** · sofi · Ops PMO
+📍 FL - Jacksonville; UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7713448003?gh_jid=7713448003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7713448003
+
+#### 🔄 Senior Manager, Underwriting
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 Frisco, Texas | 🔗 [Apply Here](https://sofi.com/careers/job/7691465003?gh_jid=7691465003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7691465003
+
+#### 🔄 Senior Manager, Workday HCM
+**Greenhouse** · sofi · Human Resources
+📍 San Francisco - CA; Seattle - WA; Cottonwood Heights - UT | 🔗 [Apply Here](https://sofi.com/careers/job/7723574003?gh_jid=7723574003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7723574003
+
+#### 🔄 Senior Member Risk & Experience Analyst
+**Greenhouse** · sofi · Member Service Delivery Strategy
+📍 UT- Cottonwood Heights; FL- Jacksonville | 🔗 [Apply Here](https://sofi.com/careers/job/7724670003?gh_jid=7724670003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7724670003
+
+#### 🔄 Senior Mobile Engineer, Invest
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7702411003?gh_jid=7702411003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7702411003
+
+#### 🔄 Senior People Business Partner
+**Greenhouse** · sofi · Human Resources
+📍 Cottonwood Heights, UT | 🔗 [Apply Here](https://sofi.com/careers/job/7740948003?gh_jid=7740948003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7740948003
+
+#### 🔄 Senior Product Manager, Commercial Banking
+**Greenhouse** · sofi · SIPS EPD
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7697154003?gh_jid=7697154003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7697154003
+
+#### 🔄 Senior Product Manager, Home Loans Consumer Experience
+**Greenhouse** · sofi · SIPS EPD
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7720241003?gh_jid=7720241003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7720241003
+
+#### 🔄 Senior Product Manager, Member Account Safety
+**Greenhouse** · sofi · SIPS EPD
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7616217003?gh_jid=7616217003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7616217003
+
+#### 🔄 Senior Product Manager, Money
+**Greenhouse** · sofi · Infrastructure
+📍 Add ALL locations here | 🔗 [Apply Here](https://sofi.com/careers/job/7741776003?gh_jid=7741776003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7741776003
+
+#### 🔄 Senior Product Manager, Originations Core
+**Greenhouse** · sofi · SIPS EPD
+📍 CA - San Francisco, WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7717851003?gh_jid=7717851003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7717851003
+
+#### 🔄 Senior Product Manager, Personal Loans New Initiatives
+**Greenhouse** · sofi · SIPS EPD
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7644783003?gh_jid=7644783003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7644783003
+
+#### 🔄 Senior Product Manager, Servicing
+**Greenhouse** · sofi · Member EPD
+📍 CA - San Francisco, WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7720245003?gh_jid=7720245003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7720245003
+
+#### 🔄 Senior Product Manager, Transactional Risk
+**Greenhouse** · sofi · SIPS EPD
+📍 WA - Seattle, CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7676573003?gh_jid=7676573003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7676573003
+
+#### 🔄 Senior Product Manager, Underwriting
+**Greenhouse** · sofi · SIPS EPD
+📍 CA - San Francisco; WA - Seattle; MT - Helena | 🔗 [Apply Here](https://sofi.com/careers/job/7616225003?gh_jid=7616225003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7616225003
+
+#### 🔄 Senior Program Manager, Operational Excellence
+**Greenhouse** · sofi · Ops WFM
+📍 UT-Cottonwood Heights; FL- Jacksonville | 🔗 [Apply Here](https://sofi.com/careers/job/7705625003?gh_jid=7705625003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7705625003
+
+#### 🔄 Senior Security Compliance Manager
+**Greenhouse** · sofi · Business Controls
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7723579003?gh_jid=7723579003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7723579003
+
+#### 🔄 Senior Software Engineer, Cloud Platform
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7695845003?gh_jid=7695845003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7695845003
+
+#### 🔄 Senior Software Engineer, Crypto
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle;  UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7594162003?gh_jid=7594162003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7594162003
+
+#### 🔄 Senior Software Engineer, Data Trust
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7727874003?gh_jid=7727874003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7727874003
+
+#### 🔄 Senior Software Engineer, Engineering Enablement
+**Greenhouse** · sofi · Infrastructure
+📍 WA- Seattle ; CA- San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7726028003?gh_jid=7726028003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7726028003
+
+#### 🔄 Senior Software Engineer, Invest
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7589449003?gh_jid=7589449003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7589449003
+
+#### 🔄 Senior Staff AI Engineer
+**Greenhouse** · sofi · Risk 2LOD
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7593403003?gh_jid=7593403003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7593403003
+
+#### 🔄 Senior Staff Data Engineer
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco; WA - Seattle; UT - Salt Lake | 🔗 [Apply Here](https://sofi.com/careers/job/7644799003?gh_jid=7644799003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7644799003
+
+#### 🔄 Senior Staff Data Scientist, Borrow
+**Greenhouse** · sofi · Data Science and AI
+📍 NC - Charlotte; CA - San Francisco; NY - New York City; TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7601577003?gh_jid=7601577003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7601577003
+
+#### 🔄 Senior Staff Data Scientist, Invest
+**Greenhouse** · sofi · Data Science and AI
+📍 CA - San Francisco; NY - New York City | 🔗 [Apply Here](https://sofi.com/careers/job/7655116003?gh_jid=7655116003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7655116003
+
+#### 🔄 Senior Staff Product Designer, Money
+**Greenhouse** · sofi · Product Design
+📍 CA - San Francisco; WA - Seattle; NY - New York | 🔗 [Apply Here](https://sofi.com/careers/job/6685926003?gh_jid=6685926003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 6685926003
+
+#### 🔄 Senior Staff Software Engineer, Agentic Test Platform
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7589416003?gh_jid=7589416003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7589416003
+
+#### 🔄 Senior Staff Software Engineer, AI Accelerated SDLC
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7589427003?gh_jid=7589427003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7589427003
+
+#### 🔄 Senior Staff Software Engineer, Crypto
+**Greenhouse** · sofi · Infrastructure
+📍 UT - Cottonwood Heights; CA - San Francisco; NY - New York City | 🔗 [Apply Here](https://sofi.com/careers/job/7611030003?gh_jid=7611030003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7611030003
+
+#### 🔄 Senior Staff Software Engineer, Loans Platform
+**Greenhouse** · sofi · Infrastructure
+📍 UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7575336003?gh_jid=7575336003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7575336003
+
+#### 🔄 Software Engineering Manager, Digital Identity — Access & Rights
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7676577003?gh_jid=7676577003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7676577003
+
+#### 🔄 Software Engineer, Loans Originations
+**Greenhouse** · sofi · Infrastructure
+📍 UT - Cottonwood Heights ; MT - Helena | 🔗 [Apply Here](https://sofi.com/careers/job/7713729003?gh_jid=7713729003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7713729003
+
+#### 🔄 Sr Software Engineer, Data Foundations
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco; WA - Seattle; UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7695839003?gh_jid=7695839003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7695839003
+
+#### 🔄 Staff AI Engineer
+**Greenhouse** · sofi · Risk 2LOD
+📍 CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7718803003?gh_jid=7718803003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7718803003
+
+#### 🔄 Staff Credit Policy Analyst
+**Greenhouse** · sofi · Loans Ops - Processing
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7698678003?gh_jid=7698678003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7698678003
+
+#### 🔄 Staff Data Scientist
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco HQ ; CA - Remote | 🔗 [Apply Here](https://sofi.com/careers/job/7741762003?gh_jid=7741762003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7741762003
+
+#### 🔄 Staff Data Scientist
+**Greenhouse** · sofi · Infrastructure
+📍 CA - San Francisco HQ ; CA - Remote | 🔗 [Apply Here](https://sofi.com/careers/job/7741755003?gh_jid=7741755003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7741755003
+
+#### 🔄 Staff Data Scientist, Member Insights - Subscriptions
+**Greenhouse** · sofi · Data Science and AI
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7634890003?gh_jid=7634890003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7634890003
+
+#### 🔄 Staff Enterprise Architect
+**Greenhouse** · sofi · Information Technology
+📍 CA - San Francisco; WA - Seattle; TX - Frisco; UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7661740003?gh_jid=7661740003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7661740003
+
+#### 🔄 Staff Fraud Analyst
+**Greenhouse** · sofi · Member Service Delivery Strategy
+📍 NY - New York | 🔗 [Apply Here](https://sofi.com/careers/job/7698656003?gh_jid=7698656003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7698656003
+
+#### 🔄 Staff Full Stack Engineer
+**Greenhouse** · sofi · Risk 2LOD
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7559888003?gh_jid=7559888003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7559888003
+
+#### 🔄 Staff IAM Engineer
+**Greenhouse** · sofi · Information Security
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; MT - Helena; NY - New York City; TX - Frisco | 🔗 [Apply Here](https://sofi.com/careers/job/7525493003?gh_jid=7525493003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7525493003
+
+#### 🔄 Staff Product Designer, Borrow
+**Greenhouse** · sofi · Product Design
+📍 CA - San Francisco; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7594190003?gh_jid=7594190003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7594190003
+
+#### 🔄 Staff Risk AI & Data Engineer
+**Greenhouse** · sofi · 1LOD Credit Portfolio Risk
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7704502003?gh_jid=7704502003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7704502003
+
+#### 🔄 Staff Software Engineer, AI - Member Growth
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/7621305003?gh_jid=7621305003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7621305003
+
+#### 🔄 Staff Software Engineer, Bank
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7687969003?gh_jid=7687969003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7687969003
+
+#### 🔄 Staff Software Engineer, Loans Originations
+**Greenhouse** · sofi · Infrastructure
+📍 UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7701314003?gh_jid=7701314003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7701314003
+
+#### 🔄 Staff Software Engineer, Loans Platform
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle; MT - Helena | 🔗 [Apply Here](https://sofi.com/careers/job/7632139003?gh_jid=7632139003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7632139003
+
+#### 🔄 Staff Software Engineer, Servicing Platform
+**Greenhouse** · sofi · Infrastructure
+📍 WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7676471003?gh_jid=7676471003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7676471003
+
+#### 🔄 Staff UX Researcher
+**Greenhouse** · sofi · Research
+📍 CA - San Francisco; NY - New York; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7589435003?gh_jid=7589435003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7589435003
+
+#### 🔄 Treasury Manager - Capital Management
+**Greenhouse** · sofi · Treasury
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/7723570003?gh_jid=7723570003)
+🕐 Updated: 2026-06-01T16:00:43-04:00 | ID: 7723570003
+
+#### 🔄 Manager, Treasury Accounting
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4667632006&board=coreweave&gh_jid=4667632006)
+🕐 Updated: 2026-06-01T16:00:40-04:00 | ID: 4667632006
+
+#### 🔄 Senior Manager, Operations Accounting Data Center Infrastructure
+**Greenhouse** · coreweave · Finance
+📍 Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4661606006&board=coreweave&gh_jid=4661606006)
+🕐 Updated: 2026-06-01T15:59:01-04:00 | ID: 4661606006
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · sendbird · Sales
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8202724002)
+🕐 Updated: 2026-06-01T15:56:57-04:00 | ID: 8202724002
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · godaddy · Engineering
+📍 British Columbia, Canada | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7722392003)
+🕐 Updated: 2026-06-01T15:56:07-04:00 | ID: 7722392003
+
+#### 🔄 Business Development Associate
+**Greenhouse** · applovin · Business Development - eCommerce
+📍 New York | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4611567006?gh_jid=4611567006)
+🕐 Updated: 2026-06-01T15:54:29-04:00 | ID: 4611567006
+
+#### 🔄 Global Enterprise Account Executive
+**Greenhouse** · verkada · Global
+📍 Phoenix, AZ United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4128860007)
+🕐 Updated: 2026-06-01T15:53:42-04:00 | ID: 4128860007
+
+#### 🔄 Security Engineer, Threat Response
+**Greenhouse** · asana · Infrastructure Engineering
+📍 New York City | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: 2026-06-01T15:50:53-04:00 | ID: 7964363
+
+#### 🔄 Security Engineer, Threat Response
+**Greenhouse** · asana · Infrastructure Engineering
+📍 San Francisco | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7696209?gh_jid=7696209)
+🕐 Updated: 2026-06-01T15:50:48-04:00 | ID: 7696209
+
+#### 🔄 Manager, Account Executives - Sales
+**Greenhouse** · justworks · Sales
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7801522?gh_jid=7801522)
+🕐 Updated: 2026-06-01T15:49:47-04:00 | ID: 7801522
+
+#### 🔄 Account Executive, Growth
+**Greenhouse** · mongodb · Sales LatAm
+📍 São Paulo | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6531094)
+🕐 Updated: 2026-06-01T15:47:29-04:00 | ID: 6531094
+
+#### 🔄 Senior Staff Data Scientist - Consumer Experimentation
+**Greenhouse** · reddit · Consumer Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7974507)
+🕐 Updated: 2026-06-01T15:35:10-04:00 | ID: 7974507
+
+#### 🔄 Senior Software Engineer, Identity & Trust
+**Greenhouse** · ripple · Engineering
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7664173?gh_jid=7664173)
+🕐 Updated: 2026-06-01T15:31:54-04:00 | ID: 7664173
+
+#### 🔄 Senior Director, Product Compliance
+**Greenhouse** · flex · Compliance
+📍 New York, NY; Salt Lake City, UT; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4676449005)
+🕐 Updated: 2026-06-01T15:27:47-04:00 | ID: 4676449005
+
+#### 🔄 Sr. Data Scientist - Capacity Data
+**Greenhouse** · coreweave · Supply Chain & Capacity Operations - G&A
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4663051006&board=coreweave&gh_jid=4663051006)
+🕐 Updated: 2026-06-01T15:21:20-04:00 | ID: 4663051006
+
+#### 🔄 Growth Marketing
+**Greenhouse** · verkada · Growth
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5068617007)
+🕐 Updated: 2026-06-01T15:20:28-04:00 | ID: 5068617007
+
+#### 🔄 Growth Senior Associate
+**Greenhouse** · verkada · Growth
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5024738007)
+🕐 Updated: 2026-06-01T15:20:28-04:00 | ID: 5024738007
+
+#### 🔄 Director, Developer Relations
+**Greenhouse** · coreweave · Marketing
+📍 Livingston, NJ / New York, NY / San Francisco, CA /Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4656231006&board=coreweave&gh_jid=4656231006)
+🕐 Updated: 2026-06-01T15:14:59-04:00 | ID: 4656231006
+
+#### 🔄 Senior Specialist Field Engineer - Networking
+**Greenhouse** · coreweave · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4568528006&board=coreweave&gh_jid=4568528006)
+🕐 Updated: 2026-06-01T15:12:36-04:00 | ID: 4568528006
+
+#### 🔄 Manager, Sales Development EMEA
+**Greenhouse** · starburst · Sales Development
+📍 London, UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5169677008)
+🕐 Updated: 2026-06-01T15:12:21-04:00 | ID: 5169677008
+
+#### 🔄 Enterprise Application AI Architect
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7369003)
+🕐 Updated: 2026-06-01T15:09:14-04:00 | ID: 7369003
+
+#### 🔄 Senior Systems Engineer, Vehicle Security
+**Greenhouse** · waymo · HW Systems (7SH)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7974252)
+🕐 Updated: 2026-06-01T15:03:53-04:00 | ID: 7974252
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · okta · Enterprise Sales-340
+📍 Alabama; Mississippi | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7789100?gh_jid=7789100)
+🕐 Updated: 2026-06-01T15:03:52-04:00 | ID: 7789100
+
+#### 🔄 Senior Specialist Field Engineer - Kubernetes
+**Greenhouse** · coreweave · Technology - COR
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4557835006&board=coreweave&gh_jid=4557835006)
+🕐 Updated: 2026-06-01T15:03:19-04:00 | ID: 4557835006
+
+#### 🔄 Commercial Account Executive - Toronto, Canada
+**Greenhouse** · elastic · Sales - AMER Canada
+📍 Toronto, Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7859023&gh_jid=7859023)
+🕐 Updated: 2026-06-01T15:02:47-04:00 | ID: 7859023
+
+#### 🔄 CX Learning Experience Designer
+**Greenhouse** · dialpad · 130 - Customer Support
+📍 Austin, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8477019002)
+🕐 Updated: 2026-06-01T15:01:43-04:00 | ID: 8477019002
+
+#### 🔄 Experience Partner, Programs
+**Greenhouse** · reddit · Experience
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7973810)
+🕐 Updated: 2026-06-01T14:56:19-04:00 | ID: 7973810
+
+#### 🔄 Staff Technical Program Manager
+**Greenhouse** · okta · Eng Program Mgmt-615
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7939890?gh_jid=7939890)
+🕐 Updated: 2026-06-01T14:54:15-04:00 | ID: 7939890
+
+#### 🔄 Associate Solutions Engineer, San Mateo
+**Greenhouse** · verkada · Solutions Engineering
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135277007)
+🕐 Updated: 2026-06-01T14:54:10-04:00 | ID: 4135277007
+
+#### 🔄 Senior Database Reliability Engineer (DBRE)
+**Greenhouse** · okta · Tech Ops-610
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976)
+🕐 Updated: 2026-06-01T14:52:33-04:00 | ID: 7617976
+
+## ATS Summary
+- **Greenhouse**: 0 new, 13335 fetched, 292 updated, 84 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 55 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 13420 fetched, 292 updated, 84 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-06-01 18:50 UTC
 
 ### Greenhouse
