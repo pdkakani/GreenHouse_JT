@@ -7680,7 +7680,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7736482": {
-    "updated_at": "2026-05-20T16:58:18-04:00",
+    "updated_at": "2026-06-04T19:32:49-04:00",
     "title": "Corporate Network Engineering Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -22912,7 +22912,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5174743008": {
-    "updated_at": "2026-06-04T18:43:08-04:00",
+    "updated_at": "2026-06-04T19:42:45-04:00",
     "title": "Senior Software Engineer, Full-stack",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -36496,7 +36496,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8463169002": {
-    "updated_at": "2026-06-04T15:26:19-04:00",
+    "updated_at": "2026-06-04T20:01:13-04:00",
     "title": "Sr. IT Endpoint Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -48320,7 +48320,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7714098": {
-    "updated_at": "2026-06-04T08:30:21-04:00",
+    "updated_at": "2026-06-04T20:15:40-04:00",
     "title": "Senior Client Partner, Global Strategic Accounts (Telco)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -48328,7 +48328,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7822910": {
-    "updated_at": "2026-06-04T08:30:21-04:00",
+    "updated_at": "2026-06-04T20:15:40-04:00",
     "title": "Senior Director, Global Strategic Accounts",
     "company": "reddit",
     "ats": "greenhouse",
@@ -48336,7 +48336,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7746588": {
-    "updated_at": "2026-06-04T08:30:21-04:00",
+    "updated_at": "2026-06-04T20:15:40-04:00",
     "title": "Senior Director, Global Strategic Accounts",
     "company": "reddit",
     "ats": "greenhouse",
@@ -82184,7 +82184,7 @@
     "alerted": false
   },
   "greenhouse:sendbird:8276047002": {
-    "updated_at": "2026-04-13T01:44:44-04:00",
+    "updated_at": "2026-06-04T19:42:07-04:00",
     "title": "Forward Deployed Product Manager, Intern",
     "company": "sendbird",
     "ats": "greenhouse",
@@ -93296,7 +93296,7 @@
     "alerted": false
   },
   "greenhouse:carta:5115724003": {
-    "updated_at": "2026-04-08T12:22:14-04:00",
+    "updated_at": "2026-06-04T19:40:49-04:00",
     "title": "Customer Support Analyst, Fund Administration",
     "company": "carta",
     "ats": "greenhouse",
@@ -98248,8 +98248,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7685312": {
-    "updated_at": "2026-06-04T12:46:46-04:00",
-    "title": "Staff Software Engineer - Infrastructure",
+    "updated_at": "2026-06-04T19:12:36-04:00",
+    "title": "Staff Infrastructure Engineer",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -102416,7 +102416,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5104753008": {
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-06-04T20:13:21-04:00",
     "title": "Enterprise Account Executive, Financial Services & Insurance",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -102480,7 +102480,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5096041008": {
-    "updated_at": "2026-04-01T10:49:08-04:00",
+    "updated_at": "2026-06-04T20:15:14-04:00",
     "title": "Enterprise Account Executive, Telecommunications",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -125376,7 +125376,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7366524": {
-    "updated_at": "2026-06-04T05:37:37-04:00",
+    "updated_at": "2026-06-04T19:38:37-04:00",
     "title": "Solutions Architect (Australia)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -178824,7 +178824,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7964801": {
-    "updated_at": "2026-06-04T19:01:16-04:00",
+    "updated_at": "2026-06-04T19:29:16-04:00",
     "title": "Consumer Money Support Specialist, Tier 2",
     "company": "gusto",
     "ats": "greenhouse",
@@ -183952,7 +183952,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975544": {
-    "updated_at": "2026-06-04T12:41:40-04:00",
+    "updated_at": "2026-06-04T19:27:35-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183960,7 +183960,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975519": {
-    "updated_at": "2026-06-04T12:41:22-04:00",
+    "updated_at": "2026-06-04T19:28:44-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184480,7 +184480,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7960697": {
-    "updated_at": "2026-06-04T12:39:07-04:00",
+    "updated_at": "2026-06-04T19:35:18-04:00",
     "title": "Senior Product Designer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184944,7 +184944,7 @@
     "alerted": false
   },
   "greenhouse:postman:7752221003": {
-    "updated_at": "2026-06-02T19:17:11-04:00",
+    "updated_at": "2026-06-04T19:13:36-04:00",
     "title": "Senior Sales Operations Manager, Enterprise",
     "company": "postman",
     "ats": "greenhouse",
@@ -186344,7 +186344,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7832401": {
-    "updated_at": "2026-06-04T08:30:21-04:00",
+    "updated_at": "2026-06-04T20:15:40-04:00",
     "title": "Senior Client Account Manager, Global Strategic Accounts (Enterprise Tech)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -189222,5 +189222,69 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": true
+  },
+  "greenhouse:spacex:8576014002": {
+    "updated_at": "2026-06-04T19:45:02-04:00",
+    "title": "HVAC Technician - Level 4/5 (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8579719002": {
+    "updated_at": "2026-06-04T19:37:19-04:00",
+    "title": "Mechanical Superintendent (HVAC)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8579716002": {
+    "updated_at": "2026-06-04T19:37:18-04:00",
+    "title": "Electrical Superintendent",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8579649002": {
+    "updated_at": "2026-06-04T19:19:26-04:00",
+    "title": "Sr. Business Analyst (Starlink Enterprise)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8577167002": {
+    "updated_at": "2026-06-04T19:11:30-04:00",
+    "title": "Gateway Site Development Engineer (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8577318002": {
+    "updated_at": "2026-06-04T19:11:28-04:00",
+    "title": "Sr. Gateway Site Development Engineer (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7964809": {
+    "updated_at": "2026-06-04T18:57:00-04:00",
+    "title": "Director of Developer Events",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:tabapay:4687089006": {
+    "updated_at": "2026-06-04T18:38:13-04:00",
+    "title": "Implementation Manager",
+    "company": "tabapay",
+    "ats": "greenhouse",
+    "source_slug": "tabapay",
+    "alerted": false
   }
 }
