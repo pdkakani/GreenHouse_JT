@@ -3680,7 +3680,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:7736191": {
-    "updated_at": "2026-06-04T14:30:04-04:00",
+    "updated_at": "2026-06-05T00:42:33-04:00",
     "title": "Senior Software Engineer, Atlas Clusters Fleet Management",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -12232,7 +12232,7 @@
     "alerted": true
   },
   "greenhouse:instabase:8419974002": {
-    "updated_at": "2026-05-01T13:22:14-04:00",
+    "updated_at": "2026-06-05T00:52:14-04:00",
     "title": "Engineering Manager, Product Engineering",
     "company": "instabase",
     "ats": "greenhouse",
@@ -12656,7 +12656,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7453448003": {
-    "updated_at": "2026-05-18T03:01:46-04:00",
+    "updated_at": "2026-06-04T20:57:48-04:00",
     "title": "Engineering Manager, Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12944,8 +12944,8 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7502768003": {
-    "updated_at": "2026-04-25T03:46:54-04:00",
-    "title": "Senior AI Engineer",
+    "updated_at": "2026-06-04T20:57:19-04:00",
+    "title": "Senior AI Engineer - Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
@@ -12976,7 +12976,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7548896003": {
-    "updated_at": "2026-05-30T03:47:29-04:00",
+    "updated_at": "2026-06-04T20:57:37-04:00",
     "title": "Senior Full Stack Engineer - Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -15456,7 +15456,7 @@
     "alerted": true
   },
   "greenhouse:flex:4668753005": {
-    "updated_at": "2026-06-02T14:33:13-04:00",
+    "updated_at": "2026-06-04T20:48:02-04:00",
     "title": "Senior Software Engineer, Risk Engineering",
     "company": "flex",
     "ats": "greenhouse",
@@ -29768,7 +29768,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7445224": {
-    "updated_at": "2026-06-04T08:31:36-04:00",
+    "updated_at": "2026-06-04T20:27:05-04:00",
     "title": "Senior Analytics Engineer",
     "company": "reddit",
     "ats": "greenhouse",
@@ -34400,7 +34400,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4570674006": {
-    "updated_at": "2026-06-02T20:47:31-04:00",
+    "updated_at": "2026-06-04T23:47:11-04:00",
     "title": "Applied Research Scientist",
     "company": "applovin",
     "ats": "greenhouse",
@@ -34456,7 +34456,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4601725006": {
-    "updated_at": "2026-06-02T12:00:30-04:00",
+    "updated_at": "2026-06-04T23:47:15-04:00",
     "title": "Foundational Research Scientist",
     "company": "applovin",
     "ats": "greenhouse",
@@ -37296,7 +37296,7 @@
     "alerted": true
   },
   "greenhouse:databricks:7932280002": {
-    "updated_at": "2026-04-09T16:51:13-04:00",
+    "updated_at": "2026-06-04T23:46:28-04:00",
     "title": "Staff Security Software Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -40456,7 +40456,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8451998002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-06-05T00:09:15-04:00",
     "title": "Software Engineer, Telemetry (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -46208,7 +46208,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7430296": {
-    "updated_at": "2026-05-21T15:59:18-04:00",
+    "updated_at": "2026-06-04T22:01:30-04:00",
     "title": "Risk Operations Analyst, Financial Crimes Programs",
     "company": "stripe",
     "ats": "greenhouse",
@@ -46752,7 +46752,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7746721": {
-    "updated_at": "2026-05-20T16:58:18-04:00",
+    "updated_at": "2026-06-04T22:02:11-04:00",
     "title": "Staff Software Engineer, Stripe Dashboard",
     "company": "stripe",
     "ats": "greenhouse",
@@ -48896,7 +48896,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7767765": {
-    "updated_at": "2026-06-04T08:31:36-04:00",
+    "updated_at": "2026-06-04T20:27:05-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -48912,7 +48912,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7749330": {
-    "updated_at": "2026-06-04T08:31:39-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Pharma)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -48920,7 +48920,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7746500": {
-    "updated_at": "2026-06-04T08:31:39-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Pharma)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -48928,7 +48928,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7561756": {
-    "updated_at": "2026-06-04T08:31:22-04:00",
+    "updated_at": "2026-06-04T20:21:21-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Tech)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -48936,7 +48936,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7696013": {
-    "updated_at": "2026-06-04T08:31:22-04:00",
+    "updated_at": "2026-06-04T20:21:21-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Tech)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -48968,7 +48968,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7728843": {
-    "updated_at": "2026-06-04T08:31:22-04:00",
+    "updated_at": "2026-06-04T20:21:21-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Tech)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -51728,7 +51728,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5194529008": {
-    "updated_at": "2026-04-20T19:09:52-04:00",
+    "updated_at": "2026-06-04T23:03:48-04:00",
     "title": "Events Lead, Brand",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -78624,7 +78624,7 @@
     "alerted": false
   },
   "greenhouse:flexport:6896152": {
-    "updated_at": "2026-04-14T11:07:06-04:00",
+    "updated_at": "2026-06-04T22:53:46-04:00",
     "title": "Senior Ocean Operations Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -82008,8 +82008,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7795869": {
-    "updated_at": "2026-04-13T04:51:55-04:00",
-    "title": "Associate Legal Counsel, Korea",
+    "updated_at": "2026-06-04T22:42:04-04:00",
+    "title": "Associate Counsel, Korea",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -88176,8 +88176,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8445817002": {
-    "updated_at": "2026-06-03T22:59:29-04:00",
-    "title": "Manager, Professional Services",
+    "updated_at": "2026-06-04T23:59:54-04:00",
+    "title": "Manager, Forward Deployed Engineering",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -97984,7 +97984,7 @@
     "alerted": false
   },
   "greenhouse:toast:7776608": {
-    "updated_at": "2026-05-27T10:41:27-04:00",
+    "updated_at": "2026-06-05T00:20:13-04:00",
     "title": "Territory Account Executive, Retail - Burlington, VT",
     "company": "toast",
     "ats": "greenhouse",
@@ -97992,7 +97992,7 @@
     "alerted": false
   },
   "greenhouse:toast:7658165": {
-    "updated_at": "2026-05-27T14:23:54-04:00",
+    "updated_at": "2026-06-05T00:20:13-04:00",
     "title": "Territory Account Executive, Retail - Middlebury, VT",
     "company": "toast",
     "ats": "greenhouse",
@@ -98000,7 +98000,7 @@
     "alerted": false
   },
   "greenhouse:toast:7575004": {
-    "updated_at": "2026-05-27T10:41:27-04:00",
+    "updated_at": "2026-06-05T00:20:13-04:00",
     "title": "Territory Account Executive, Retail - Burlington, VT",
     "company": "toast",
     "ats": "greenhouse",
@@ -100024,7 +100024,7 @@
     "alerted": false
   },
   "greenhouse:datadog:6512326": {
-    "updated_at": "2026-05-27T22:46:03-04:00",
+    "updated_at": "2026-06-04T23:59:58-04:00",
     "title": "Commercial Account Executive",
     "company": "datadog",
     "ats": "greenhouse",
@@ -104256,8 +104256,8 @@
     "alerted": false
   },
   "greenhouse:flex:4649069005": {
-    "updated_at": "2026-06-02T14:25:53-04:00",
-    "title": "Director of Product, Martech",
+    "updated_at": "2026-06-04T20:22:58-04:00",
+    "title": "Director of Product, Martech & Growth Platform",
     "company": "flex",
     "ats": "greenhouse",
     "source_slug": "flex",
@@ -125376,7 +125376,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7366524": {
-    "updated_at": "2026-06-04T19:38:37-04:00",
+    "updated_at": "2026-06-04T23:33:58-04:00",
     "title": "Solutions Architect (Australia)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -136240,7 +136240,7 @@
     "alerted": false
   },
   "greenhouse:justworks:7868291": {
-    "updated_at": "2026-05-18T15:30:13-04:00",
+    "updated_at": "2026-06-04T23:10:35-04:00",
     "title": "Senior Security Engineer (Detection & Response)",
     "company": "justworks",
     "ats": "greenhouse",
@@ -138864,7 +138864,7 @@
     "alerted": true
   },
   "greenhouse:airbnb:7870802": {
-    "updated_at": "2026-06-03T15:32:48-04:00",
+    "updated_at": "2026-06-04T21:05:25-04:00",
     "title": "Safety Specialist",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -139512,7 +139512,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7746549": {
-    "updated_at": "2026-06-04T08:31:36-04:00",
+    "updated_at": "2026-06-04T20:27:05-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -142256,7 +142256,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7869277": {
-    "updated_at": "2026-06-04T08:31:22-04:00",
+    "updated_at": "2026-06-04T20:21:22-04:00",
     "title": "Client Partner, Large Customer Sales (Retail, Ecomm)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -142264,7 +142264,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7843673": {
-    "updated_at": "2026-06-04T08:31:22-04:00",
+    "updated_at": "2026-06-04T20:21:22-04:00",
     "title": "Client Partner, Large Customer Sales (Retail, Ecomm)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -149024,7 +149024,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7905466": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Technical Solutions Manager, Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -149032,7 +149032,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7905432": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Technical Solutions Manager, Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -149040,7 +149040,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7905488": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Technical Solutions Manager, Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -149048,7 +149048,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7905472": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Technical Solutions Manager, Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -149288,7 +149288,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7905731": {
-    "updated_at": "2026-06-01T11:24:06-04:00",
+    "updated_at": "2026-06-04T21:03:10-04:00",
     "title": "Principal Product Marketing Manager - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -149296,7 +149296,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7843346": {
-    "updated_at": "2026-06-01T11:24:06-04:00",
+    "updated_at": "2026-06-04T21:02:38-04:00",
     "title": "Principal Product Marketing Manager - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -150304,7 +150304,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7862928": {
-    "updated_at": "2026-05-08T11:15:14-04:00",
+    "updated_at": "2026-06-04T20:29:57-04:00",
     "title": "Customer Services Specialist (Shift: 3pm to 12am, Wed-Sun MST)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -150592,7 +150592,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7851388": {
-    "updated_at": "2026-06-04T14:30:04-04:00",
+    "updated_at": "2026-06-05T00:42:25-04:00",
     "title": "Software Engineer, Developer Productivity",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -151024,7 +151024,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7616791": {
-    "updated_at": "2026-06-04T08:31:35-04:00",
+    "updated_at": "2026-06-04T20:27:04-04:00",
     "title": "Agency Development Partnerships Lead I",
     "company": "reddit",
     "ats": "greenhouse",
@@ -162560,7 +162560,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7937043": {
-    "updated_at": "2026-06-04T08:31:34-04:00",
+    "updated_at": "2026-06-04T20:27:03-04:00",
     "title": "Agency Development Partnerships Lead - Independent Agencies",
     "company": "reddit",
     "ats": "greenhouse",
@@ -163848,7 +163848,7 @@
     "alerted": false
   },
   "greenhouse:workato:8540962002": {
-    "updated_at": "2026-06-03T01:40:34-04:00",
+    "updated_at": "2026-06-04T23:19:07-04:00",
     "title": "Lead Compliance Accountant (Incentive Compensation)",
     "company": "workato",
     "ats": "greenhouse",
@@ -165480,7 +165480,7 @@
     "alerted": true
   },
   "greenhouse:reddit:7769017": {
-    "updated_at": "2026-06-04T08:31:35-04:00",
+    "updated_at": "2026-06-04T20:27:03-04:00",
     "title": "Creative Strategist - Tech & Telco",
     "company": "reddit",
     "ats": "greenhouse",
@@ -165744,7 +165744,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7769002": {
-    "updated_at": "2026-06-04T08:31:35-04:00",
+    "updated_at": "2026-06-04T20:27:03-04:00",
     "title": "Creative Strategist - App Dev",
     "company": "reddit",
     "ats": "greenhouse",
@@ -165752,7 +165752,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7944226": {
-    "updated_at": "2026-06-04T08:31:39-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Creative Strategist - Pharma",
     "company": "reddit",
     "ats": "greenhouse",
@@ -165960,7 +165960,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7768983": {
-    "updated_at": "2026-06-04T08:31:36-04:00",
+    "updated_at": "2026-06-04T20:27:04-04:00",
     "title": "Creative Technologist, KarmaLab",
     "company": "reddit",
     "ats": "greenhouse",
@@ -166024,8 +166024,8 @@
     "alerted": false
   },
   "greenhouse:smartsheet:7945625": {
-    "updated_at": "2026-06-02T01:51:32-04:00",
-    "title": "Sr Salesforce Engineer II, Integration Specialist (Hybrid)",
+    "updated_at": "2026-06-04T23:58:28-04:00",
+    "title": "Sr Salesforce Engineer, Integration Specialist (Hybrid)",
     "company": "smartsheet",
     "ats": "greenhouse",
     "source_slug": "smartsheet",
@@ -166536,7 +166536,7 @@
     "alerted": false
   },
   "greenhouse:asana:7917204": {
-    "updated_at": "2026-06-04T12:53:39-04:00",
+    "updated_at": "2026-06-04T21:42:00-04:00",
     "title": "Competitive Intelligence Analyst",
     "company": "asana",
     "ats": "greenhouse",
@@ -169208,7 +169208,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7917818": {
-    "updated_at": "2026-06-04T08:31:36-04:00",
+    "updated_at": "2026-06-04T20:27:04-04:00",
     "title": "Lead Program Manager, Business Process Transformation",
     "company": "reddit",
     "ats": "greenhouse",
@@ -170760,7 +170760,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7954001": {
-    "updated_at": "2026-06-04T08:31:37-04:00",
+    "updated_at": "2026-06-04T20:27:05-04:00",
     "title": "Staff Technical Product Manager, Ads ML Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -171632,7 +171632,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7954598": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:07-04:00",
     "title": "Senior Business Engineer - Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -172368,7 +172368,7 @@
     "alerted": false
   },
   "greenhouse:okta:7182169": {
-    "updated_at": "2026-06-01T14:11:49-04:00",
+    "updated_at": "2026-06-04T22:10:33-04:00",
     "title": "Strategic Account Executive",
     "company": "okta",
     "ats": "greenhouse",
@@ -174120,7 +174120,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7396638": {
-    "updated_at": "2026-06-04T08:31:36-04:00",
+    "updated_at": "2026-06-04T20:27:04-04:00",
     "title": "Program Manager, Vendor Operations",
     "company": "reddit",
     "ats": "greenhouse",
@@ -174152,7 +174152,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7958403": {
-    "updated_at": "2026-06-04T08:31:36-04:00",
+    "updated_at": "2026-06-04T20:27:05-04:00",
     "title": "Senior Analytics Engineer",
     "company": "reddit",
     "ats": "greenhouse",
@@ -174160,7 +174160,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7958354": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:07-04:00",
     "title": "Analytics Engineer",
     "company": "reddit",
     "ats": "greenhouse",
@@ -174168,7 +174168,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7958385": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:07-04:00",
     "title": "Analytics Engineer",
     "company": "reddit",
     "ats": "greenhouse",
@@ -176336,7 +176336,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7947897": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:07-04:00",
     "title": "Sr. Manager, Large Customer Sales (Big Box Retail)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -178320,7 +178320,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8568512002": {
-    "updated_at": "2026-05-28T14:18:09-04:00",
+    "updated_at": "2026-06-05T00:29:24-04:00",
     "title": "Data Analyst, Operations Planning",
     "company": "lyft",
     "ats": "greenhouse",
@@ -178736,7 +178736,7 @@
     "alerted": true
   },
   "greenhouse:reddit:7965014": {
-    "updated_at": "2026-06-04T08:31:35-04:00",
+    "updated_at": "2026-06-04T20:27:04-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Sports Apparel)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -178960,7 +178960,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7962471": {
-    "updated_at": "2026-06-04T08:31:35-04:00",
+    "updated_at": "2026-06-04T20:27:03-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Sports Apparel)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -178968,7 +178968,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7965011": {
-    "updated_at": "2026-06-04T08:31:35-04:00",
+    "updated_at": "2026-06-04T20:27:04-04:00",
     "title": "Senior Client Partner, Large Customer Sales (Sports Apparel)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -180368,7 +180368,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7961073": {
-    "updated_at": "2026-06-04T08:31:37-04:00",
+    "updated_at": "2026-06-04T20:27:06-04:00",
     "title": "Client Partner, Mid-Market (B2B Services Acquisitions)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182152,7 +182152,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974647": {
-    "updated_at": "2026-06-04T08:31:39-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Staff Data Scientist - Consumer Relevance",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182232,7 +182232,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974605": {
-    "updated_at": "2026-06-04T08:31:39-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Staff Data Scientist - Consumer Relevance",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182488,7 +182488,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7966985": {
-    "updated_at": "2026-06-04T08:31:37-04:00",
+    "updated_at": "2026-06-04T20:27:05-04:00",
     "title": "Engineering Manager, Advanced Signals (SWE)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182624,8 +182624,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7529800": {
-    "updated_at": "2026-06-02T01:12:17-04:00",
-    "title": "Solution Architect, AI / Cloudflare Developer Platform",
+    "updated_at": "2026-06-04T22:10:01-04:00",
+    "title": "Solutions Architect, AI / Cloudflare Developer Platform",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -184544,7 +184544,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7746526": {
-    "updated_at": "2026-06-04T08:31:37-04:00",
+    "updated_at": "2026-06-04T20:27:06-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Pharma)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -184552,7 +184552,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7977257": {
-    "updated_at": "2026-06-04T08:31:37-04:00",
+    "updated_at": "2026-06-04T20:27:06-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Pharma)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -184712,7 +184712,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7976852": {
-    "updated_at": "2026-06-04T08:31:38-04:00",
+    "updated_at": "2026-06-04T20:27:08-04:00",
     "title": "Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -186232,8 +186232,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7978488": {
-    "updated_at": "2026-06-03T15:13:13-04:00",
-    "title": "CDMX Data Analyst",
+    "updated_at": "2026-06-04T23:18:35-04:00",
+    "title": "Data Analyst",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -187160,7 +187160,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7980795": {
-    "updated_at": "2026-06-04T08:31:37-04:00",
+    "updated_at": "2026-06-04T20:27:06-04:00",
     "title": "Frontend Engineer, Ads Growth",
     "company": "reddit",
     "ats": "greenhouse",
@@ -187712,7 +187712,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7982607": {
-    "updated_at": "2026-06-04T11:33:50-04:00",
+    "updated_at": "2026-06-04T20:27:05-04:00",
     "title": "Sr. Engineering Manager, Shopping Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -187984,7 +187984,7 @@
     "alerted": false
   },
   "greenhouse:squarespace:7974868": {
-    "updated_at": "2026-06-04T09:39:40-04:00",
+    "updated_at": "2026-06-05T00:02:11-04:00",
     "title": "Product Engagement Lead",
     "company": "squarespace",
     "ats": "greenhouse",
@@ -188272,7 +188272,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7982928": {
-    "updated_at": "2026-06-04T13:16:27-04:00",
+    "updated_at": "2026-06-04T20:27:06-04:00",
     "title": "Client Account Manager, Large Customer Sales (Financial Services)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -188280,7 +188280,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7982927": {
-    "updated_at": "2026-06-04T13:16:26-04:00",
+    "updated_at": "2026-06-04T20:27:06-04:00",
     "title": "Client Account Manager, Large Customer Sales (Financial Services)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -188288,7 +188288,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7982890": {
-    "updated_at": "2026-06-04T13:16:25-04:00",
+    "updated_at": "2026-06-04T20:27:06-04:00",
     "title": "Client Account Manager, Large Customer Sales (Financial Services)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -189285,6 +189285,102 @@
     "company": "tabapay",
     "ats": "greenhouse",
     "source_slug": "tabapay",
+    "alerted": false
+  },
+  "greenhouse:flexport:5578487": {
+    "updated_at": "2026-06-04T22:56:09-04:00",
+    "title": "Air Planning Associate, Hanoi",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:flexport:7981862": {
+    "updated_at": "2026-06-04T22:55:02-04:00",
+    "title": "Senior Air Operations Associate, Hanoi",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:stripe:7919288": {
+    "updated_at": "2026-06-04T22:32:20-04:00",
+    "title": "Risk Operations Analyst - PRO",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:flexport:7981879": {
+    "updated_at": "2026-06-04T21:52:37-04:00",
+    "title": "Content Marketing Manager, Mumbai",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:stripe:7977745": {
+    "updated_at": "2026-06-04T21:30:40-04:00",
+    "title": "Designer, Web Presence & Platform",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:pagerduty:6014660004": {
+    "updated_at": "2026-06-04T21:11:10-04:00",
+    "title": "Software Engineer II - Authorization Team",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
+    "alerted": false
+  },
+  "greenhouse:intercom:7961835": {
+    "updated_at": "2026-06-04T21:00:54-04:00",
+    "title": "Principal Program Manager",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7695230003": {
+    "updated_at": "2026-06-04T20:58:08-04:00",
+    "title": "Senior Software Engineer - Customer Agent",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:robinhood:7983883": {
+    "updated_at": "2026-06-04T20:36:52-04:00",
+    "title": "Senior Corporate Accountant, Crypto",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5248895008": {
+    "updated_at": "2026-06-04T20:15:21-04:00",
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7764082003": {
+    "updated_at": "2026-06-04T20:06:42-04:00",
+    "title": "Senior Finance Transformation Manager",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:7976893": {
+    "updated_at": "2026-06-04T20:02:53-04:00",
+    "title": "Service Resolution Manager",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
     "alerted": false
   }
 }
