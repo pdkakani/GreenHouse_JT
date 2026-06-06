@@ -7976,7 +7976,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7392697": {
-    "updated_at": "2026-06-05T14:37:50-04:00",
+    "updated_at": "2026-06-06T11:11:42-04:00",
     "title": "Product Manager, Link Consumer Product",
     "company": "stripe",
     "ats": "greenhouse",
@@ -10824,8 +10824,8 @@
     "alerted": true
   },
   "greenhouse:anthropic:4980335008": {
-    "updated_at": "2026-06-04T17:00:51-04:00",
-    "title": "Engineering Manager, GRC",
+    "updated_at": "2026-06-06T11:05:26-04:00",
+    "title": "Engineering Manager, GRC Platform",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -190792,7 +190792,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7986113": {
-    "updated_at": "2026-06-05T17:53:49-04:00",
+    "updated_at": "2026-06-06T11:59:31-04:00",
     "title": "Director, HR Business Partnership",
     "company": "instacart",
     "ats": "greenhouse",
