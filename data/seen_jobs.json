@@ -188992,8 +188992,8 @@
     "alerted": false
   },
   "greenhouse:sofi:7763809003": {
-    "updated_at": "2026-06-04T13:51:21-04:00",
-    "title": "Senior Director, Business Operations - SoFi Technology Solutions",
+    "updated_at": "2026-06-07T15:31:41-04:00",
+    "title": "Senior Director, Business Operations - SoFi Tech Solutions",
     "company": "sofi",
     "ats": "greenhouse",
     "source_slug": "sofi",
@@ -191230,5 +191230,21 @@
     "ats": "greenhouse",
     "source_slug": "fireblocks",
     "alerted": false
+  },
+  "greenhouse:datadog:7978468": {
+    "updated_at": "2026-06-07T09:41:23-04:00",
+    "title": "Technical Support Engineer 1",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:cribl:5992317004": {
+    "updated_at": "2026-06-07T16:36:48-04:00",
+    "title": "Staff Software Engineer, Cribl AI",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
+    "alerted": true
   }
 }
