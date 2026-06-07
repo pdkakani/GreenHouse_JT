@@ -26872,7 +26872,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4647607006": {
-    "updated_at": "2026-06-05T15:58:48-04:00",
+    "updated_at": "2026-06-07T00:53:50-04:00",
     "title": "Staff Software Engineer, Applied Training",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55160,7 +55160,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7841782002": {
-    "updated_at": "2026-04-20T14:08:51-04:00",
+    "updated_at": "2026-06-07T00:54:32-04:00",
     "title": "Senior Software Engineer - Search",
     "company": "databricks",
     "ats": "greenhouse",
@@ -55168,7 +55168,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7619811002": {
-    "updated_at": "2026-04-20T14:08:48-04:00",
+    "updated_at": "2026-06-07T00:54:14-04:00",
     "title": "Senior Software Engineer - Observability",
     "company": "databricks",
     "ats": "greenhouse",
@@ -120336,7 +120336,7 @@
     "alerted": false
   },
   "ashby:Ashby:2b401986-a491-4f9b-9c22-63079bcd64c2": {
-    "updated_at": "2026-04-27T15:50:31.170+00:00",
+    "updated_at": "2026-05-14T21:18:31.371+00:00",
     "title": "Strategic Customer Success Manager - Americas",
     "company": "Ashby",
     "ats": "ashby",
@@ -122056,7 +122056,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7830335": {
-    "updated_at": "2026-06-04T10:02:30-04:00",
+    "updated_at": "2026-06-07T00:25:44-04:00",
     "title": "Senior Territory Account Executive, Digital Native",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -147064,7 +147064,7 @@
     "alerted": false
   },
   "ashby:Ashby:1cf7c730-caba-4fc3-8b98-52a0735ef14b": {
-    "updated_at": "2026-04-20T20:39:13.038+00:00",
+    "updated_at": "2026-05-14T03:30:09.890+00:00",
     "title": "Strategic Customer Success Manager, EMEA",
     "company": "Ashby",
     "ats": "ashby",
@@ -191141,6 +191141,22 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:squarespace:7962046": {
+    "updated_at": "2026-06-06T05:22:47-04:00",
+    "title": "Database Engineering Team Manager",
+    "company": "squarespace",
+    "ats": "greenhouse",
+    "source_slug": "squarespace",
+    "alerted": false
+  },
+  "greenhouse:airbnb:7987859": {
+    "updated_at": "2026-06-05T23:37:52-04:00",
+    "title": "Senior Creative Director, Social & Content",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
     "alerted": false
   }
 }
