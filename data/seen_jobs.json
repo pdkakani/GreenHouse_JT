@@ -3456,7 +3456,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:7656724": {
-    "updated_at": "2026-06-04T14:30:04-04:00",
+    "updated_at": "2026-06-09T13:00:17-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -5408,8 +5408,8 @@
     "alerted": true
   },
   "greenhouse:datadog:7743369": {
-    "updated_at": "2026-05-15T08:44:57-04:00",
-    "title": "Staff Software Engineer - Logs Observability Pipelines [New York]",
+    "updated_at": "2026-06-09T12:54:14-04:00",
+    "title": "Staff Software Engineer - Logs Observability Pipelines",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -8016,8 +8016,8 @@
     "alerted": true
   },
   "greenhouse:stripe:6651889": {
-    "updated_at": "2026-06-05T15:02:22-04:00",
-    "title": "Product Manager, Stripe Infrastructure",
+    "updated_at": "2026-06-09T14:11:02-04:00",
+    "title": "Product Manager, Infrastructure",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -8304,8 +8304,8 @@
     "alerted": true
   },
   "greenhouse:adyen:7703237": {
-    "updated_at": "2026-06-05T13:55:33-04:00",
-    "title": "Commercial Lead - Agentic Commerce",
+    "updated_at": "2026-06-09T13:14:48-04:00",
+    "title": "Strategic Growth Manager - Agentic Commerce",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -18944,8 +18944,8 @@
     "alerted": true
   },
   "greenhouse:airbnb:7739337": {
-    "updated_at": "2026-05-06T12:56:37-04:00",
-    "title": "Staff Software Engineer, Build",
+    "updated_at": "2026-06-09T13:27:10-04:00",
+    "title": "Staff Software Engineer, Build (Bazel)",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -21408,7 +21408,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7171180": {
-    "updated_at": "2026-06-08T10:39:47-04:00",
+    "updated_at": "2026-06-09T14:03:04-04:00",
     "title": "Staff Product Manager - Core Commerce Platform",
     "company": "twilio",
     "ats": "greenhouse",
@@ -22088,7 +22088,7 @@
     "alerted": true
   },
   "greenhouse:altruist:5857174004": {
-    "updated_at": "2026-04-07T16:20:46-04:00",
+    "updated_at": "2026-06-09T13:37:16-04:00",
     "title": "Junior IT Support Engineer",
     "company": "altruist",
     "ats": "greenhouse",
@@ -23056,7 +23056,7 @@
     "alerted": true
   },
   "greenhouse:adyen:7819584": {
-    "updated_at": "2026-06-05T13:54:15-04:00",
+    "updated_at": "2026-06-09T13:37:52-04:00",
     "title": "Commercial Lead - Financial Products",
     "company": "adyen",
     "ats": "greenhouse",
@@ -23064,7 +23064,7 @@
     "alerted": true
   },
   "greenhouse:adyen:7673540": {
-    "updated_at": "2026-06-05T13:54:15-04:00",
+    "updated_at": "2026-06-09T13:37:39-04:00",
     "title": "Commercial Lead - Financial Products",
     "company": "adyen",
     "ats": "greenhouse",
@@ -26456,7 +26456,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4569069006": {
-    "updated_at": "2026-06-05T12:25:25-04:00",
+    "updated_at": "2026-06-09T13:41:48-04:00",
     "title": "Senior Security Production Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -33856,7 +33856,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7458098": {
-    "updated_at": "2026-06-08T20:15:49-04:00",
+    "updated_at": "2026-06-09T12:58:32-04:00",
     "title": "Software Quality Operations Specialist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -35000,7 +35000,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266713": {
-    "updated_at": "2026-06-06T04:34:48-04:00",
+    "updated_at": "2026-06-09T14:02:28-04:00",
     "title": "Staff Mobile Engineer - Mobile Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -36600,7 +36600,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8476423002": {
-    "updated_at": "2026-06-05T12:33:43-04:00",
+    "updated_at": "2026-06-09T13:13:47-04:00",
     "title": "Sr. Manager, Field Engineering - Emerging Enterprise",
     "company": "databricks",
     "ats": "greenhouse",
@@ -46504,7 +46504,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7600792": {
-    "updated_at": "2026-05-04T11:52:00-04:00",
+    "updated_at": "2026-06-09T13:59:45-04:00",
     "title": "Software Engineer, Experimental Projects",
     "company": "stripe",
     "ats": "greenhouse",
@@ -48192,7 +48192,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7792997": {
-    "updated_at": "2026-05-15T13:07:32-04:00",
+    "updated_at": "2026-06-09T13:18:55-04:00",
     "title": "Commercial Account Executive - Sao Paulo (Portuguese Speaking)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -51952,7 +51952,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7822882": {
-    "updated_at": "2026-04-20T17:45:56-04:00",
+    "updated_at": "2026-06-09T12:48:11-04:00",
     "title": "Head of SOX and Internal Controls",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -55688,7 +55688,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4655467006": {
-    "updated_at": "2026-06-04T14:40:08-04:00",
+    "updated_at": "2026-06-09T15:03:55-04:00",
     "title": "Director, Operations Accounting Enablement",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56320,7 +56320,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4664178006": {
-    "updated_at": "2026-06-04T13:50:40-04:00",
+    "updated_at": "2026-06-09T13:03:53-04:00",
     "title": "Technical Deployment Lead",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -59384,7 +59384,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7514758": {
-    "updated_at": "2026-05-06T14:11:07-04:00",
+    "updated_at": "2026-06-09T14:15:36-04:00",
     "title": "Staff Product Designer, Retirement",
     "company": "gusto",
     "ats": "greenhouse",
@@ -60656,7 +60656,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7435909": {
-    "updated_at": "2026-06-08T20:15:49-04:00",
+    "updated_at": "2026-06-09T13:53:30-04:00",
     "title": "SAP Finance IT Business Analyst",
     "company": "waymo",
     "ats": "greenhouse",
@@ -62760,7 +62760,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7792926": {
-    "updated_at": "2026-04-17T11:38:45-04:00",
+    "updated_at": "2026-06-09T12:46:23-04:00",
     "title": "Head of SOX and Internal Controls",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -65744,8 +65744,8 @@
     "alerted": false
   },
   "greenhouse:samsara:7638108": {
-    "updated_at": "2026-05-04T06:05:45-04:00",
-    "title": "Renewals Program Manager (Enablement & Execution)",
+    "updated_at": "2026-06-09T13:21:04-04:00",
+    "title": "Senior Renewals Strategy & Retention Manager",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -66512,7 +66512,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7304881": {
-    "updated_at": "2026-06-06T04:34:48-04:00",
+    "updated_at": "2026-06-09T14:02:28-04:00",
     "title": "Staff Mobile Engineer - Mobile Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -67688,7 +67688,7 @@
     "alerted": false
   },
   "greenhouse:postman:7595710003": {
-    "updated_at": "2026-06-02T13:47:37-04:00",
+    "updated_at": "2026-06-09T14:53:28-04:00",
     "title": "Key Account Director",
     "company": "postman",
     "ats": "greenhouse",
@@ -70352,7 +70352,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804725": {
-    "updated_at": "2026-06-02T17:02:48-04:00",
+    "updated_at": "2026-06-09T13:44:00-04:00",
     "title": "Customer Experience Manager, Investment Accounts",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -77352,7 +77352,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804765": {
-    "updated_at": "2026-06-08T12:44:27-04:00",
+    "updated_at": "2026-06-09T14:02:52-04:00",
     "title": "Capacity Planning & Forecasting Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -79128,7 +79128,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8503590002": {
-    "updated_at": "2026-05-21T06:56:34-04:00",
+    "updated_at": "2026-06-09T13:13:51-04:00",
     "title": "Named Core Account Executive - Manufacturing",
     "company": "databricks",
     "ats": "greenhouse",
@@ -82288,7 +82288,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5175782008": {
-    "updated_at": "2026-06-05T09:46:43-04:00",
+    "updated_at": "2026-06-09T12:50:23-04:00",
     "title": "Manager, Account Executive - Enterprise Sales",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -85880,7 +85880,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7739553": {
-    "updated_at": "2026-06-08T10:03:28-04:00",
+    "updated_at": "2026-06-09T13:55:13-04:00",
     "title": "Data Engineer",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -85976,7 +85976,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7539803": {
-    "updated_at": "2026-06-08T10:03:28-04:00",
+    "updated_at": "2026-06-09T13:53:42-04:00",
     "title": "Network Engineer",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -86144,7 +86144,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7539817": {
-    "updated_at": "2026-06-08T10:03:28-04:00",
+    "updated_at": "2026-06-09T13:55:43-04:00",
     "title": "Site Reliability Engineer",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -86176,7 +86176,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7739568": {
-    "updated_at": "2026-06-08T10:03:28-04:00",
+    "updated_at": "2026-06-09T13:54:42-04:00",
     "title": "Staff Data Engineer",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -86992,7 +86992,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7597078": {
-    "updated_at": "2026-04-10T00:41:31-04:00",
+    "updated_at": "2026-06-09T12:54:34-04:00",
     "title": "Senior Manager, Compliance Product Data",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -100616,7 +100616,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7426752": {
-    "updated_at": "2026-05-15T08:44:57-04:00",
+    "updated_at": "2026-06-09T14:01:38-04:00",
     "title": "Enterprise Sales Executive (SLED)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -118736,7 +118736,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7361295": {
-    "updated_at": "2026-06-03T17:48:24-04:00",
+    "updated_at": "2026-06-09T14:24:25-04:00",
     "title": "Senior Majors Account Executive - San Francisco, Bay Area",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -125216,7 +125216,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7838644": {
-    "updated_at": "2026-06-08T12:44:27-04:00",
+    "updated_at": "2026-06-09T14:21:03-04:00",
     "title": "Senior Software Engineer - Robinhood Command Center",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -126264,7 +126264,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673866006": {
-    "updated_at": "2026-06-05T12:19:12-04:00",
+    "updated_at": "2026-06-09T15:02:47-04:00",
     "title": "Director of Controllership Transformation",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -132416,7 +132416,7 @@
     "alerted": false
   },
   "greenhouse:toast:7861784": {
-    "updated_at": "2026-05-01T13:12:08-04:00",
+    "updated_at": "2026-06-09T12:48:55-04:00",
     "title": "Territory Account Executive , SMB - Brandon , FL",
     "company": "toast",
     "ats": "greenhouse",
@@ -135528,8 +135528,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7819426": {
-    "updated_at": "2026-05-20T16:58:18-04:00",
-    "title": "Integration Engineer (US)",
+    "updated_at": "2026-06-09T13:39:14-04:00",
+    "title": "Integration Engineer (Chicago)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -147032,7 +147032,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7721836003": {
-    "updated_at": "2026-05-06T18:15:28-04:00",
+    "updated_at": "2026-06-09T13:59:08-04:00",
     "title": "Quality Assurance Analyst",
     "company": "sofi",
     "ats": "greenhouse",
@@ -149672,7 +149672,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7895238": {
-    "updated_at": "2026-06-09T11:33:18-04:00",
+    "updated_at": "2026-06-09T13:02:51-04:00",
     "title": "Technical Support Engineer - 2, Platform and Applications",
     "company": "twilio",
     "ats": "greenhouse",
@@ -155408,7 +155408,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7863527": {
-    "updated_at": "2026-06-04T11:27:25-04:00",
+    "updated_at": "2026-06-09T14:47:34-04:00",
     "title": "AR Accountant - Cash Application",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-09T12:33:03-04:00",
+    "updated_at": "2026-06-09T13:32:34-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -163688,7 +163688,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8555722002": {
-    "updated_at": "2026-06-08T15:15:35-04:00",
+    "updated_at": "2026-06-09T14:04:13-04:00",
     "title": "Global Supply Manager, Pipeline and Gas (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -166496,7 +166496,7 @@
     "alerted": false
   },
   "greenhouse:mercury:6000972004": {
-    "updated_at": "2026-05-21T18:33:57-04:00",
+    "updated_at": "2026-06-09T13:58:18-04:00",
     "title": "Customer Support Specialist - EMEA",
     "company": "mercury",
     "ats": "greenhouse",
@@ -167696,8 +167696,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7947546": {
-    "updated_at": "2026-05-20T18:31:58-04:00",
-    "title": "Principal Security Engineer, Privy",
+    "updated_at": "2026-06-09T13:23:16-04:00",
+    "title": "Engineering Manager, Forward Deployed (Privy)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -172240,7 +172240,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7900901": {
-    "updated_at": "2026-06-08T12:44:27-04:00",
+    "updated_at": "2026-06-09T15:03:06-04:00",
     "title": "Risk Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -178360,8 +178360,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8568855002": {
-    "updated_at": "2026-05-28T14:07:05-04:00",
-    "title": "Production Coordinator, Heathshield (Starship) - Night Shift",
+    "updated_at": "2026-06-09T14:32:26-04:00",
+    "title": "Production Coordinator, Heatshield (Starship) - Night Shift",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -179536,7 +179536,7 @@
     "alerted": false
   },
   "greenhouse:intercom:7960889": {
-    "updated_at": "2026-06-02T10:50:41-04:00",
+    "updated_at": "2026-06-09T15:01:07-04:00",
     "title": "Staff Creative Copywriter",
     "company": "intercom",
     "ats": "greenhouse",
@@ -179696,7 +179696,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7967561": {
-    "updated_at": "2026-05-29T14:48:18-04:00",
+    "updated_at": "2026-06-09T13:47:44-04:00",
     "title": "Senior Machine Learning Engineer II, Growth Modeling",
     "company": "instacart",
     "ats": "greenhouse",
@@ -183128,8 +183128,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7974164": {
-    "updated_at": "2026-06-04T15:40:24-04:00",
-    "title": "Sourcing Manager, Data Center Services",
+    "updated_at": "2026-06-09T15:06:52-04:00",
+    "title": "Global Vendor Manager, Data Center Services",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -183432,7 +183432,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7753678003": {
-    "updated_at": "2026-06-02T14:39:55-04:00",
+    "updated_at": "2026-06-09T14:27:44-04:00",
     "title": "Business Process Analyst, Systems Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -184432,7 +184432,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7753098003": {
-    "updated_at": "2026-06-09T12:05:54-04:00",
+    "updated_at": "2026-06-09T15:01:51-04:00",
     "title": "Senior Content Strategist",
     "company": "sofi",
     "ats": "greenhouse",
@@ -186480,8 +186480,8 @@
     "alerted": false
   },
   "greenhouse:fivetran:7758876003": {
-    "updated_at": "2026-06-09T11:31:27-04:00",
-    "title": "Staff Technical Product Manager, Lead to Order",
+    "updated_at": "2026-06-09T14:37:38-04:00",
+    "title": "Staff Technical Product Manager, Quote to Order",
     "company": "fivetran",
     "ats": "greenhouse",
     "source_slug": "fivetran",
@@ -187024,8 +187024,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8578086002": {
-    "updated_at": "2026-06-03T20:35:53-04:00",
-    "title": "Enterprise Account Manager",
+    "updated_at": "2026-06-09T13:25:40-04:00",
+    "title": "Enterprise Customer Success Manager",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -187752,7 +187752,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8578710002": {
-    "updated_at": "2026-06-04T11:18:48-04:00",
+    "updated_at": "2026-06-09T14:17:38-04:00",
     "title": "Satellite Policy Associate (Starlink Mobile)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -189200,7 +189200,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5248754008": {
-    "updated_at": "2026-06-04T17:56:17-04:00",
+    "updated_at": "2026-06-09T13:01:35-04:00",
     "title": "Executive Briefing Manager",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -189368,7 +189368,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7764082003": {
-    "updated_at": "2026-06-09T12:40:46-04:00",
+    "updated_at": "2026-06-09T12:52:59-04:00",
     "title": "Senior Finance Transformation Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -190200,8 +190200,8 @@
     "alerted": false
   },
   "greenhouse:godaddy:6620837003": {
-    "updated_at": "2026-06-09T11:42:51-04:00",
-    "title": "Senior Software Development Engineer",
+    "updated_at": "2026-06-09T14:40:46-04:00",
+    "title": "Senior Software Engineer- Backend/Infrastructure",
     "company": "godaddy",
     "ats": "greenhouse",
     "source_slug": "godaddy",
@@ -190696,7 +190696,7 @@
     "alerted": false
   },
   "greenhouse:brex:8580837002": {
-    "updated_at": "2026-06-05T15:48:05-04:00",
+    "updated_at": "2026-06-09T13:31:10-04:00",
     "title": "Customer Marketing Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -190704,7 +190704,7 @@
     "alerted": false
   },
   "greenhouse:brex:8580423002": {
-    "updated_at": "2026-06-05T15:48:04-04:00",
+    "updated_at": "2026-06-09T13:30:16-04:00",
     "title": "Customer Marketing Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -191288,7 +191288,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7957356": {
-    "updated_at": "2026-06-09T11:17:02-04:00",
+    "updated_at": "2026-06-09T13:21:11-04:00",
     "title": "Principal Data Scientist - Agent Builder",
     "company": "elastic",
     "ats": "greenhouse",
@@ -192352,7 +192352,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8581956002": {
-    "updated_at": "2026-06-08T15:15:35-04:00",
+    "updated_at": "2026-06-09T14:04:13-04:00",
     "title": "Global Supply Manager, Pipeline and Gas (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -192616,7 +192616,7 @@
     "alerted": false
   },
   "greenhouse:asana:7977983": {
-    "updated_at": "2026-06-08T14:37:00-04:00",
+    "updated_at": "2026-06-09T14:59:51-04:00",
     "title": "Senior Product Manager, Payment Platform",
     "company": "asana",
     "ats": "greenhouse",
@@ -192984,7 +192984,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7988852": {
-    "updated_at": "2026-06-08T16:13:30-04:00",
+    "updated_at": "2026-06-09T14:40:08-04:00",
     "title": "Corporate Counsel",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -193736,15 +193736,15 @@
     "alerted": false
   },
   "greenhouse:workato:8583070002": {
-    "updated_at": "2026-06-08T23:41:16-04:00",
-    "title": "Lead Analytics Engineer",
+    "updated_at": "2026-06-09T14:40:52-04:00",
+    "title": "Staff Analytics Engineer",
     "company": "workato",
     "ats": "greenhouse",
     "source_slug": "workato",
     "alerted": true
   },
   "greenhouse:workato:8583067002": {
-    "updated_at": "2026-06-08T23:37:43-04:00",
+    "updated_at": "2026-06-09T14:43:03-04:00",
     "title": "Senior Technical Instructor",
     "company": "workato",
     "ats": "greenhouse",
@@ -194056,8 +194056,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7989111": {
-    "updated_at": "2026-06-09T04:44:39-04:00",
-    "title": "Integration Engineer, Professional Services",
+    "updated_at": "2026-06-09T14:36:43-04:00",
+    "title": "Integration Engineer (German Speaking), Professional Services",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -194584,7 +194584,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7976825": {
-    "updated_at": "2026-06-09T12:41:54-04:00",
+    "updated_at": "2026-06-09T15:06:35-04:00",
     "title": "People Operations Apprentice",
     "company": "datadog",
     "ats": "greenhouse",
@@ -194856,8 +194856,8 @@
     "alerted": false
   },
   "greenhouse:samsara:7946971": {
-    "updated_at": "2026-06-09T11:28:45-04:00",
-    "title": "Sales Engineer, Mid-Market",
+    "updated_at": "2026-06-09T13:20:29-04:00",
+    "title": "Sales Engineer, Mid-Market Mexico",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -195125,6 +195125,374 @@
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
+    "alerted": true
+  },
+  "greenhouse:waymo:7944201": {
+    "updated_at": "2026-06-09T14:57:40-04:00",
+    "title": "Senior Software Engineer, Planner Evaluation",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:asana:7964326": {
+    "updated_at": "2026-06-09T14:56:54-04:00",
+    "title": "Senior Software Engineer, Logging & Experiments",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:adyen:7677369": {
+    "updated_at": "2026-06-09T14:44:22-04:00",
+    "title": "Team Lead -  Business Enablement (AI/Finance Innovation)",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:cribl:6009315004": {
+    "updated_at": "2026-06-09T14:38:57-04:00",
+    "title": "Staff Professional Services Consultant",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
+    "alerted": false
+  },
+  "greenhouse:spacex:8584481002": {
+    "updated_at": "2026-06-09T14:35:46-04:00",
+    "title": "Production Supervisor, Injection Molding - Night Shift (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:duolingo:8584465002": {
+    "updated_at": "2026-06-09T14:35:18-04:00",
+    "title": "Senior Director of Engineering, New Subjects",
+    "company": "duolingo",
+    "ats": "greenhouse",
+    "source_slug": "duolingo",
+    "alerted": false
+  },
+  "greenhouse:spacex:8584468002": {
+    "updated_at": "2026-06-09T14:35:10-04:00",
+    "title": "Production Supervisor, Injection Molding (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:7993516": {
+    "updated_at": "2026-06-09T14:32:20-04:00",
+    "title": "Senior Analyst, SEM Bidding",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:datadog:7991343": {
+    "updated_at": "2026-06-09T14:27:06-04:00",
+    "title": "Product Operations Manager",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:robinhood:7993511": {
+    "updated_at": "2026-06-09T14:24:39-04:00",
+    "title": "Senior Software Engineer, Robinhood Command Center",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5251864008": {
+    "updated_at": "2026-06-09T14:23:23-04:00",
+    "title": "Chief of Staff, Global Partnerships",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:faire:8584437002": {
+    "updated_at": "2026-06-09T14:18:21-04:00",
+    "title": "Tax Senior Analyst",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:coinbase:7993472": {
+    "updated_at": "2026-06-09T14:17:31-04:00",
+    "title": "Senior Manager, Assistant Controller, Global GL Operations",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7963389": {
+    "updated_at": "2026-06-09T14:16:47-04:00",
+    "title": "Senior Customer Success Manager",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:automox:5252633008": {
+    "updated_at": "2026-06-09T14:14:40-04:00",
+    "title": "Associate Technical Support Engineer",
+    "company": "automox",
+    "ats": "greenhouse",
+    "source_slug": "automox",
+    "alerted": false
+  },
+  "greenhouse:stripe:7298935": {
+    "updated_at": "2026-06-09T14:11:46-04:00",
+    "title": "Account Executive, Platforms (New Business)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:circleci:8582995002": {
+    "updated_at": "2026-06-09T14:08:29-04:00",
+    "title": "Marketing Manager",
+    "company": "circleci",
+    "ats": "greenhouse",
+    "source_slug": "circleci",
+    "alerted": false
+  },
+  "greenhouse:coinbase:7993445": {
+    "updated_at": "2026-06-09T14:08:22-04:00",
+    "title": "Accounting and Regulatory Reporting Manager, Canada",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4704401005": {
+    "updated_at": "2026-06-09T14:02:31-04:00",
+    "title": "Corporate Account Executive",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:7993147": {
+    "updated_at": "2026-06-09T13:59:05-04:00",
+    "title": "Corporate Counsel",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:spacex:8584217002": {
+    "updated_at": "2026-06-09T13:55:00-04:00",
+    "title": "Mechanical Engineer (Super Heavy Booster)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:toast:7927103": {
+    "updated_at": "2026-06-09T13:54:49-04:00",
+    "title": "Tax Health Check Specialist",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:7993390": {
+    "updated_at": "2026-06-09T13:51:35-04:00",
+    "title": "Director of Globalization",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:yugabyte:4688005006": {
+    "updated_at": "2026-06-09T13:46:14-04:00",
+    "title": "Sr Software Engineer-DevOps",
+    "company": "yugabyte",
+    "ats": "greenhouse",
+    "source_slug": "yugabyte",
+    "alerted": false
+  },
+  "greenhouse:twilio:7985177": {
+    "updated_at": "2026-06-09T13:41:53-04:00",
+    "title": "Strategic Account Executive 3",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:airbnb:7991769": {
+    "updated_at": "2026-06-09T13:41:03-04:00",
+    "title": "Project Manager, Early Career and Emerging Talent",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:waymo:7991303": {
+    "updated_at": "2026-06-09T13:38:47-04:00",
+    "title": "Senior Software Engineer, ML/Eval Data Platforms & Infrastructure",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:stripe:7993151": {
+    "updated_at": "2026-06-09T13:38:22-04:00",
+    "title": "Account Executive - Enterprise, Grower",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7953808": {
+    "updated_at": "2026-06-09T13:35:52-04:00",
+    "title": "Senior Designated Services Engineer, FlashBlade (Shift: Mon- Fri 7:00 AM to 4:00 PM Mountain Time)",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:flex:4704271005": {
+    "updated_at": "2026-06-09T13:34:43-04:00",
+    "title": "Staff Software Engineer, Partner Integrations",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:okta:7993236": {
+    "updated_at": "2026-06-09T13:21:45-04:00",
+    "title": "LCA- Senior Software Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:elastic:7976572": {
+    "updated_at": "2026-06-09T13:19:27-04:00",
+    "title": "Senior SRE  - Platform (MKI)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:7993242": {
+    "updated_at": "2026-06-09T13:16:04-04:00",
+    "title": "Software Engineer II",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:coinbase:7991763": {
+    "updated_at": "2026-06-09T13:14:07-04:00",
+    "title": "Software Engineer, Backend (Consumer - Risk)",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:mercury:6017266004": {
+    "updated_at": "2026-06-09T13:10:42-04:00",
+    "title": "Senior People Operations Specialist",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:mercury:6017264004": {
+    "updated_at": "2026-06-09T13:04:30-04:00",
+    "title": "Senior HRIS Analyst",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:spacex:8584260002": {
+    "updated_at": "2026-06-09T13:02:38-04:00",
+    "title": "Facilities Specialist (Janitorial) - 2nd Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:waymo:7991135": {
+    "updated_at": "2026-06-09T13:02:10-04:00",
+    "title": "People Operations Program Manager, Immigration & Global Mobility",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7976326": {
+    "updated_at": "2026-06-09T12:57:46-04:00",
+    "title": "Risk and Compliance Manager",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:stripe:7984688": {
+    "updated_at": "2026-06-09T12:55:03-04:00",
+    "title": "Deal Strategist",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:circleci:8580027002": {
+    "updated_at": "2026-06-09T12:54:16-04:00",
+    "title": "Commercial Client Account Executive",
+    "company": "circleci",
+    "ats": "greenhouse",
+    "source_slug": "circleci",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7976556": {
+    "updated_at": "2026-06-09T12:54:04-04:00",
+    "title": "FP&A Manager, GTM Finance - Credit Products",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:stripe:7984686": {
+    "updated_at": "2026-06-09T12:53:24-04:00",
+    "title": "Deal Strategist",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:jumio:4701818005": {
+    "updated_at": "2026-06-09T12:45:05-04:00",
+    "title": "Account Executive, EMEA",
+    "company": "jumio",
+    "ats": "greenhouse",
+    "source_slug": "jumio",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5251699008": {
+    "updated_at": "2026-06-09T12:44:23-04:00",
+    "title": "Customer Program Manager, Executive Briefing Center",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:coinbase:7961318": {
+    "updated_at": "2026-06-09T15:08:03-04:00",
+    "title": "Senior Software Engineer",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
     "alerted": true
   }
 }
