@@ -201736,7 +201736,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7905025": {
-    "updated_at": "2026-06-12T16:26:47-04:00",
+    "updated_at": "2026-06-13T08:14:20-04:00",
     "title": "Tax Technology Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -202309,6 +202309,14 @@
     "company": "Ashby",
     "ats": "ashby",
     "source_slug": "Ashby",
+    "alerted": false
+  },
+  "greenhouse:adyen:7994249": {
+    "updated_at": "2026-06-12T23:06:13-04:00",
+    "title": "Compliance Advisory Officer",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
     "alerted": false
   }
 }
