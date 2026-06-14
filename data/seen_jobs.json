@@ -194672,8 +194672,8 @@
     "alerted": false
   },
   "greenhouse:checkr:7993115": {
-    "updated_at": "2026-06-11T18:37:55-04:00",
-    "title": "Pricing Strategy Senior Manager",
+    "updated_at": "2026-06-14T16:33:11-04:00",
+    "title": "Head of Pricing Strategy",
     "company": "checkr",
     "ats": "greenhouse",
     "source_slug": "checkr",
@@ -201928,7 +201928,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8590452002": {
-    "updated_at": "2026-06-12T18:28:00-04:00",
+    "updated_at": "2026-06-14T16:46:25-04:00",
     "title": "Web Growth Marketing Manager",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -202430,5 +202430,21 @@
     "ats": "greenhouse",
     "source_slug": "reddit",
     "alerted": true
+  },
+  "greenhouse:databricks:8589624002": {
+    "updated_at": "2026-06-14T07:25:25-04:00",
+    "title": "Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:payoneer:7955750": {
+    "updated_at": "2026-06-14T04:44:20-04:00",
+    "title": "Senior Backend Engineer-Cloud Modernization",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
   }
 }
