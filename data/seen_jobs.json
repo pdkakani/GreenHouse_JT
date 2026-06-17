@@ -4568,8 +4568,8 @@
     "alerted": true
   },
   "greenhouse:amplitude:8445406002": {
-    "updated_at": "2026-04-13T18:24:26-04:00",
-    "title": "Senior Software Engineer,  Data Management ",
+    "updated_at": "2026-06-17T17:49:38-04:00",
+    "title": "Senior Software Engineer,  Data Management",
     "company": "amplitude",
     "ats": "greenhouse",
     "source_slug": "amplitude",
@@ -6072,8 +6072,8 @@
     "alerted": true
   },
   "greenhouse:okta:7707836": {
-    "updated_at": "2026-06-11T20:54:09-04:00",
-    "title": "Staff Site Reliability Engineer - Observability",
+    "updated_at": "2026-06-17T17:30:14-04:00",
+    "title": "Staff Site Reliability Engineer - Observability GCP",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -7976,7 +7976,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7392697": {
-    "updated_at": "2026-06-17T12:14:18-04:00",
+    "updated_at": "2026-06-17T18:54:51-04:00",
     "title": "Product Manager, Link - Consumer",
     "company": "stripe",
     "ats": "greenhouse",
@@ -17824,7 +17824,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7144697": {
-    "updated_at": "2026-05-21T14:50:00-04:00",
+    "updated_at": "2026-06-17T18:42:09-04:00",
     "title": "Activation Sales Development Representative I",
     "company": "instacart",
     "ats": "greenhouse",
@@ -17960,7 +17960,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7712406": {
-    "updated_at": "2026-05-21T14:51:10-04:00",
+    "updated_at": "2026-06-17T18:42:13-04:00",
     "title": "Retention Sales Development Representative II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18848,8 +18848,8 @@
     "alerted": true
   },
   "greenhouse:airbnb:7380185": {
-    "updated_at": "2026-03-17T19:44:42-04:00",
-    "title": "Staff Android Automation Engineer",
+    "updated_at": "2026-06-17T18:44:26-04:00",
+    "title": "Staff Web Automation Engineer, Quality Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -19424,7 +19424,7 @@
     "alerted": true
   },
   "greenhouse:flexport:7720101": {
-    "updated_at": "2026-05-15T16:08:35-04:00",
+    "updated_at": "2026-06-17T18:50:41-04:00",
     "title": "Sales Development Representative",
     "company": "flexport",
     "ats": "greenhouse",
@@ -25824,7 +25824,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4560350006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Support Engineer II (Bare Metal)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25832,7 +25832,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4674028006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Command Center Systems Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25840,7 +25840,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4670558006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Construction Cost Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25848,7 +25848,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4660868006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Corporate Development Associate",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25864,7 +25864,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4656231006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Developer Relations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25880,7 +25880,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4671387006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director of Engineering, Security Products",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25888,7 +25888,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4644854006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Engineering Manager, Billing Platform",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25912,7 +25912,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4656273006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Software Engineer, Kubernetes Core Interfaces",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25928,7 +25928,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4645496006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Firmware Engineering Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25936,7 +25936,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4615564006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Firmware Engineer, SPX",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25952,7 +25952,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4627287006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior GPU Infrastructure Software Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -25984,7 +25984,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4617112006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Hardware Engineer - Liquid Cooling",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26000,7 +26000,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4601657006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "HPC Performance Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26008,7 +26008,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4617135006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Program Manager, IaaS",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26040,7 +26040,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4657803006": {
-    "updated_at": "2026-06-17T16:50:12-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Offensive Security Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26048,7 +26048,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4617382006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Operations Engineer, Fleet Reliability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26056,7 +26056,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673462006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Operations Engineer, HPC Networking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26080,7 +26080,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4660956006": {
-    "updated_at": "2026-06-16T20:20:34-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal, Data Center Development",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26088,7 +26088,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658799006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Engineer, Cluster Orchestration",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26096,7 +26096,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4607747006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Engineer - Managed Databases",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26104,7 +26104,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4581198006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Engineer - Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26112,7 +26112,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4627302006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Engineer - Perf and Benchmarking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26120,7 +26120,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4646276006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Engineer, Storage",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26144,7 +26144,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4617128006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Production Engineer, Support tooling (Tooling and Frameworks)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26192,7 +26192,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652801006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Associate, Energy Market Development",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26208,7 +26208,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4671896006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Business Systems Engineer - GTM Systems (Salesforce)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26216,7 +26216,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4582453006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Business Systems Engineer \u2013 Supply Chain Systems",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26224,7 +26224,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4568136006": {
-    "updated_at": "2026-06-16T22:02:54-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Support Engineer - III (Cloud)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26232,7 +26232,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4665386006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Developer Relations Engineer - Marimo",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26240,7 +26240,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4606485006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Electrical Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26256,7 +26256,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4556808006": {
-    "updated_at": "2026-06-17T13:45:37-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Engineer, Compute Services (Kubernetes, Bare Metal)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26264,7 +26264,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658736006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Engineer, Core API - W&B",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26288,7 +26288,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4613074006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Engineer, Network Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26304,7 +26304,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4452431006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Firmware Engineer, OpenBMC",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26328,7 +26328,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4661606006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, Operations Accounting Data Center Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26352,7 +26352,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4607559006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Platform Engineer II, Compute Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26360,7 +26360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4670172006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Production Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26400,7 +26400,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673536006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Product Manager, GTM",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26416,7 +26416,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4653764006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Security Engineer, Enterprise Security",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26440,7 +26440,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4650308006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Security Engineer, SOAR",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26456,7 +26456,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4569069006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Security Production Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26464,7 +26464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4671535006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Site Reliability Engineer, Data Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26496,7 +26496,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4666814006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Cluster Orchestration",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26504,7 +26504,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658311006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Data Center Infrastructure Tooling",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26512,7 +26512,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4671479006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer - Data Infrastructure Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26536,7 +26536,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4647595006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer II, AI Workload Orchestration",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26552,7 +26552,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4604832006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Inference",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26560,7 +26560,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4647603006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer I, Inference",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26568,7 +26568,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4554201006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26576,7 +26576,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4650163006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Observability Insights",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26584,7 +26584,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4659153006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Sandboxes & Virtualization",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26592,7 +26592,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4651859006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Security",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26600,7 +26600,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4553828006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Server Fleet Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26608,7 +26608,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4643524006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Storage Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26632,7 +26632,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4396057006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Systems Engineer, OS Automation",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26648,7 +26648,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4671477006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Software Engineer - Data Infrastructure Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26664,7 +26664,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4609928006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Software Engineer, Inference AI/ML",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26672,7 +26672,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4577764006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Software Engineer, Kubernetes",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26680,7 +26680,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4569274006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Software Engineer, Network Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26688,7 +26688,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4587675006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Software Engineer, Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26696,7 +26696,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4412177006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - HPC/AI/ML",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26712,7 +26712,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4568528006": {
-    "updated_at": "2026-06-16T13:44:33-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - Networking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26720,7 +26720,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4568555006": {
-    "updated_at": "2026-06-16T13:39:44-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer  - Security",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26728,7 +26728,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4568531006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - Storage",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26736,7 +26736,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4665964006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "VP of Product, Research and Training Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26744,7 +26744,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4664429006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Engineer, Storage",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26752,7 +26752,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4627277006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr GPU Infrastructure Software Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26760,7 +26760,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4626698006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Software Engineer - Perf and Benchmarking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26800,7 +26800,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4669836006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Engineer, Storage Control Plane",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26808,7 +26808,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4612047006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Engineer, Storage Engine",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26816,7 +26816,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4663670006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Engineer, Storage Engine",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26824,7 +26824,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4659095006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Frontend Engineer, DC Infrastructure Tooling",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26832,7 +26832,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4644302006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Production Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26840,7 +26840,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4620164006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Security Engineer, Network Security",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26848,7 +26848,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4663202006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Security Engineer, SOAR",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26856,7 +26856,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4653130006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Security Engineer, Vulnerability Management",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26864,7 +26864,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4647586006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer- AI Workload Orchestration",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26872,7 +26872,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4647607006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer, Applied Training",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26888,7 +26888,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658801006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer, Cluster Orchestration",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26896,7 +26896,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4603505006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer, Compute Architecture",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26904,7 +26904,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4577361006": {
-    "updated_at": "2026-06-16T19:46:23-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer, Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26920,7 +26920,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4651528006": {
-    "updated_at": "2026-06-16T13:47:24-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Thermal Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26936,7 +26936,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4599319006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Systems Engineer, Kernel",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -43856,7 +43856,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673538006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Product Manager, Data Center",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -51904,7 +51904,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8498915002": {
-    "updated_at": "2026-06-10T13:31:42-04:00",
+    "updated_at": "2026-06-17T18:53:50-04:00",
     "title": "Senior Solutions Architect",
     "company": "airtable",
     "ats": "greenhouse",
@@ -55560,7 +55560,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4649178006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Energy Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55568,7 +55568,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4591950006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Manager - Ellendale, ND",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55584,7 +55584,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658270006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center OFCI Quality Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55624,7 +55624,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4579319006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Ellendale, ND",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55632,7 +55632,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652977006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician \u2013 Express Your Interest",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55648,7 +55648,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673492006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Mesa, AZ",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55672,7 +55672,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4639505006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Field Enablement",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55680,7 +55680,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4626282006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Financial &  Corporate Communications",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55688,7 +55688,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4655467006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Operations Accounting Enablement - Fixed Assets",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55712,7 +55712,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4664093006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Technical Revenue Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55728,7 +55728,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652765006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Energy & Climate Policy Engagement Lead",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55816,7 +55816,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4643503006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Head of Market Intelligence",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55880,7 +55880,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4666800006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Manager, Data Center Operations Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55888,7 +55888,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4653331006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Manager, Energy & Power Transaction Management",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55896,7 +55896,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4667632006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Manager, Treasury Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55904,7 +55904,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4644273006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Master Scheduler",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55920,7 +55920,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4666808006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Inventory Accounting Manager, Operations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55936,7 +55936,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4662825006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Product Enablement Specialist",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55944,7 +55944,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658647006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Product Strategy Principal",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55968,7 +55968,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4650165006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Reliability Lead, Common Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -55976,7 +55976,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4649884006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "SDR",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56008,7 +56008,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4661614006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Analyst, Financial Reporting- Fixed Assets",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56016,7 +56016,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4649049006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Cloud Support Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56072,7 +56072,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4660498006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Finance Transformation, Senior Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56088,7 +56088,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652717006": {
-    "updated_at": "2026-06-16T22:07:01-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, Data Center Logistics & Inventory",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56104,7 +56104,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4657668006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, International Reporting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56120,7 +56120,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4656905006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, SOX-Business Process",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56136,7 +56136,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4646569006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, Technical Solutions Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56160,7 +56160,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4663425006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Marketing Performance Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56184,7 +56184,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4654116006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Product Marketing Manager, SUNK",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56192,7 +56192,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4615476006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Revenue Accountant",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56200,7 +56200,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4667794006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Scheduler (Data Center)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56208,7 +56208,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4627964006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Supply Chain Compliance Analyst (SOX)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56216,7 +56216,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4655160006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Supply Materials Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56232,7 +56232,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4650927006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:37:11-04:00",
     "title": "Senior Data Center Site Selection Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56248,7 +56248,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4649044006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - HPC/AI/ML",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56256,7 +56256,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4649036006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - Kubernetes",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56264,7 +56264,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4663051006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Data Scientist - Capacity Data",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56272,7 +56272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4663073006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Manager, Supplier Materials Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56296,7 +56296,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4651535006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Product Manager, Insights",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56304,7 +56304,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4642612006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Product Manager, Networking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56320,7 +56320,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4664178006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Deployment Lead",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56336,7 +56336,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4380852006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Solutions Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -56352,7 +56352,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4671136006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Sourcing Manager - Networking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -66776,7 +66776,7 @@
     "alerted": false
   },
   "greenhouse:cribl:5826710004": {
-    "updated_at": "2026-06-17T17:17:52-04:00",
+    "updated_at": "2026-06-17T17:59:22-04:00",
     "title": "Channel Sales Manager, LATAM",
     "company": "cribl",
     "ats": "greenhouse",
@@ -66808,7 +66808,7 @@
     "alerted": false
   },
   "greenhouse:cribl:5817387004": {
-    "updated_at": "2026-05-27T16:18:18-04:00",
+    "updated_at": "2026-06-17T17:28:19-04:00",
     "title": "Regional Sales Manager, Atlanta (Enterprise)",
     "company": "cribl",
     "ats": "greenhouse",
@@ -67216,7 +67216,7 @@
     "alerted": false
   },
   "greenhouse:brex:8213586002": {
-    "updated_at": "2026-06-10T13:59:16-04:00",
+    "updated_at": "2026-06-17T17:46:00-04:00",
     "title": "Sales Manager, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -67224,7 +67224,7 @@
     "alerted": false
   },
   "greenhouse:brex:8198217002": {
-    "updated_at": "2026-06-10T13:59:16-04:00",
+    "updated_at": "2026-06-17T17:45:59-04:00",
     "title": "Sales Manager, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -67240,7 +67240,7 @@
     "alerted": false
   },
   "greenhouse:brex:8045208002": {
-    "updated_at": "2026-06-10T13:59:16-04:00",
+    "updated_at": "2026-06-17T17:45:58-04:00",
     "title": "Sales Manager, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -115392,8 +115392,8 @@
     "alerted": false
   },
   "greenhouse:checkr:7697852": {
-    "updated_at": "2026-06-11T18:37:55-04:00",
-    "title": "Staff Product Manager, Identity Risk Solutions",
+    "updated_at": "2026-06-17T18:45:17-04:00",
+    "title": "Staff Product Manager, Hiring Fraud Solutions",
     "company": "checkr",
     "ats": "greenhouse",
     "source_slug": "checkr",
@@ -121672,7 +121672,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4674395006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Production Engineer \u2013 Team Lead",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -123088,7 +123088,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7821726": {
-    "updated_at": "2026-06-11T11:33:57-04:00",
+    "updated_at": "2026-06-17T18:02:48-04:00",
     "title": "Sr. Growth Marketing Manager - New Products",
     "company": "samsara",
     "ats": "greenhouse",
@@ -123336,7 +123336,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675120006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Facilities Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -123360,7 +123360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675342006": {
-    "updated_at": "2026-06-16T21:57:50-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Project Manager - East Region",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -123608,7 +123608,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673956006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Systems Engineer, People Systems",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -123656,7 +123656,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675297006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Production Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -125256,7 +125256,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7846885": {
-    "updated_at": "2026-05-14T13:59:42-04:00",
+    "updated_at": "2026-06-17T17:56:32-04:00",
     "title": "Machine Learning Manager, Notifications Relevance",
     "company": "reddit",
     "ats": "greenhouse",
@@ -126264,7 +126264,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4673866006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director of Controllership Transformation",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -127352,7 +127352,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676074006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Benefits Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -127648,7 +127648,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675477006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Data Center Security Initiatives Project Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -128048,7 +128048,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676216006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Security Engineering Manager, Platform Security",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -128072,7 +128072,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676234006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Integration Engineer Enterprise Systems",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -128176,7 +128176,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676274006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Data Center Security Site Evaluation Program Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -128328,7 +128328,7 @@
     "alerted": true
   },
   "greenhouse:coreweave:4676207006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Security Engineer, PKI & Secrets",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -128488,7 +128488,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675378006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Quality Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -130496,7 +130496,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676602006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Business Systems Engineer- Data Center Systems II",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -132296,7 +132296,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676770006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:37:48-04:00",
     "title": "Site Selection Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -132464,7 +132464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676674006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Business Systems Engineer, Data Center Systems",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -132512,7 +132512,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676685006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Security Engineer, PKI & Secrets",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -135280,7 +135280,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4677479006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Engineer, Storage Control Plane",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -135288,7 +135288,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676913006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Software Engineer - Source Control And Governance",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -137480,7 +137480,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4677783006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "IT Operations Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -137632,7 +137632,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675051006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -137688,7 +137688,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676692006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff AI Security Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -138208,7 +138208,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4667932006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Counsel, Employment",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -138248,7 +138248,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4671513006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Product Manager, Data Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -141272,7 +141272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678606006": {
-    "updated_at": "2026-06-16T13:47:23-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Software Engineer II, Developer Experience",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -141296,7 +141296,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678602006": {
-    "updated_at": "2026-06-16T13:47:09-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Developer Experience",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -141304,7 +141304,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678600006": {
-    "updated_at": "2026-06-16T13:47:49-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer, Developer Experience",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -141312,7 +141312,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4674279006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Systems Engineer (Architect)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -141904,7 +141904,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4677204006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Business Operations Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -142424,7 +142424,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678462006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Operations Engineering Manager, Fleet Reliability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -143824,7 +143824,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4651112006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "IT Operations Specialist",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -144640,7 +144640,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679053006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Financial Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -145824,7 +145824,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652799006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Energy Market Development",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -146104,7 +146104,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7894772": {
-    "updated_at": "2026-06-11T18:37:56-04:00",
+    "updated_at": "2026-06-17T18:45:56-04:00",
     "title": "Senior Staff Product Manager, Fraud Hiring Solutions",
     "company": "checkr",
     "ats": "greenhouse",
@@ -146144,7 +146144,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679327006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Executive - M&E",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -146496,7 +146496,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678458006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Technical Program Manager - Cluster Orchestration & Applied Training",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -146952,7 +146952,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679701006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "AV Operations Specialist",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -148448,7 +148448,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679718006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Product Manager, Finance",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -148744,7 +148744,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4670593006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer, Inference",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -148864,7 +148864,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679896006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Infrastructure Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -148872,7 +148872,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679899006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Manager, Joint Venture & VIE",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -150272,7 +150272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678827006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Regional Director, US South Central, Data Center Operations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -150640,7 +150640,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680115006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Regional Inventory Control Specialist",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -151448,7 +151448,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680390006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:53:07-04:00",
     "title": "Staff Software Engineer, IAM",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -151456,7 +151456,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680395006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:54:27-04:00",
     "title": "Senior Software Engineer, IAM",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -151504,7 +151504,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680366006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Engineer, Security Products \u2014 Cryptography and Key Lifecycle Management",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -152960,7 +152960,7 @@
     "alerted": true
   },
   "greenhouse:coreweave:4680351006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Security Engineer I, Advanced Response",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -153312,7 +153312,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4677750006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Government Affairs (Federal)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -153360,7 +153360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4679939006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Credit & Collections Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -153608,7 +153608,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680715006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Business Systems Engineer- Supply Chain Systems",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -154464,7 +154464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680206006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Strategic Treasury Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-17T15:47:42-04:00",
+    "updated_at": "2026-06-17T18:47:15-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -157800,7 +157800,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4694661005": {
-    "updated_at": "2026-05-14T16:02:15-04:00",
+    "updated_at": "2026-06-17T17:52:41-04:00",
     "title": "Enterprise Account Executive",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -158160,7 +158160,7 @@
     "alerted": false
   },
   "greenhouse:brex:8549073002": {
-    "updated_at": "2026-06-10T13:59:16-04:00",
+    "updated_at": "2026-06-17T17:46:01-04:00",
     "title": "Sales Manager, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -158184,7 +158184,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4681508006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Managing Associate General Counsel, Real Estate Development",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -159128,7 +159128,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4681716006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer - Perf and Benchmarking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -159328,7 +159328,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4681303006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Security Operations Engineer II",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -160272,7 +160272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680062006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Manager, Corporate Development Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -160752,7 +160752,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4681918006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Strategic Financing Associate",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -162464,7 +162464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652254006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Core Open-Source- Marimo",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -162616,7 +162616,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4665402006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, molab",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -162624,7 +162624,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4680945006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Global People Operations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -164728,7 +164728,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4682764006": {
-    "updated_at": "2026-06-16T22:13:09-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "EHS Global Office and Communication Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -166592,7 +166592,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683042006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Business Systems Engineer \u2013 Core Financials & Tax",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -166632,7 +166632,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683040006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Business Systems Engineer \u2013 Order to Cash (OTC)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -168584,7 +168584,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683488006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Technology Design Manager - White Space Fit Out",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -168616,7 +168616,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683502006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Threat Intelligence Specialist (Supply Chain & Geopolitical Security)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -168664,7 +168664,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683528006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Phased Delivery SME; Staff Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -169352,7 +169352,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683562006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Infrastructure & Community Communications",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -170632,7 +170632,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4681297006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Compute Architecture",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -170984,7 +170984,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683876006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "IT Operations Specialist",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -173744,7 +173744,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4683027006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Vice President, Americas Sales",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -176704,7 +176704,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4684900006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Manager, Event Production",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -176736,7 +176736,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4684887006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Product Marketing Manager, AI Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -179376,7 +179376,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4612429006": {
-    "updated_at": "2026-06-16T15:04:21-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Recruiter/Sr. GTM & Business Operations (Contract)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -180096,7 +180096,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4685378006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Hardware Engineer (Metal Classic)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -180512,7 +180512,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4685531006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Financial Accountant",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -180960,7 +180960,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4685504006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Executive Researcher",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -181288,7 +181288,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4684346006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Product Manager, Finance",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -181544,7 +181544,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4685554006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Business Development",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -182112,7 +182112,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8570047002": {
-    "updated_at": "2026-06-01T16:12:08-04:00",
+    "updated_at": "2026-06-17T18:49:16-04:00",
     "title": "Sr. Industrial Hygienist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -182128,7 +182128,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8570042002": {
-    "updated_at": "2026-06-01T16:12:07-04:00",
+    "updated_at": "2026-06-17T18:49:05-04:00",
     "title": "Sr. Industrial Hygienist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -183392,7 +183392,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686050006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Strategic Finance Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -183656,7 +183656,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4624132006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Software Engineer, Infrastructure - Marimo",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -184568,7 +184568,7 @@
     "alerted": true
   },
   "greenhouse:coreweave:4686203006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:38:28-04:00",
     "title": "Principal, Land Acquisition",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -184616,7 +184616,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686166006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Staff Technical Program Manager, Expansion PMO",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -184624,7 +184624,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686136006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Expansion PMO, Data Center Planning",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -184632,7 +184632,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686267006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Construction Security Program Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -184960,7 +184960,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4685542006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Regional Director - U.S. East Data Center Operations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -185848,7 +185848,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686327006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Preconstruction Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -185952,7 +185952,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7976163": {
-    "updated_at": "2026-06-16T18:15:53-04:00",
+    "updated_at": "2026-06-17T18:51:12-04:00",
     "title": "Hong Kong Regulatory Compliance & Money Laundering Reporting Officer",
     "company": "stripe",
     "ats": "greenhouse",
@@ -186152,7 +186152,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686624006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Parsippany, NJ",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -186280,7 +186280,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686538006": {
-    "updated_at": "2026-06-16T15:28:58-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Orangeburg, NY",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -186944,7 +186944,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686509006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Strategic Account Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -187672,7 +187672,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686712006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Hardware Engineering Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -188096,7 +188096,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686696006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Solution Architect",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -188104,7 +188104,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686701006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Solution Architect",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -188136,7 +188136,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686665006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Solution Architect",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -188704,7 +188704,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686324006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Security Engineer II, Cloud Security",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -188800,7 +188800,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4653329006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Energy Market Development, Utility & Energy Partnerships Lead",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -189184,7 +189184,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686960006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Weehawken, NJ",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -190200,7 +190200,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:6620837003": {
-    "updated_at": "2026-06-10T15:01:44-04:00",
+    "updated_at": "2026-06-17T18:30:35-04:00",
     "title": "Senior Software Engineer- Backend/Infrastructure",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -190824,7 +190824,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687131006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Master Data Specialist",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -191608,7 +191608,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687417006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Associate, SEC Reporting & Technical Accounting",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -191888,7 +191888,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686914006": {
-    "updated_at": "2026-06-17T12:50:43-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Solution Architect",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -191976,7 +191976,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687081006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Inventory Control Specialist - Sparks, NV",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -191984,7 +191984,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687124006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Regional Logistics Specialist, Global Logistics Operations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -192032,7 +192032,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687121006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Global Inventory Control & Accuracy Lead",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -192040,7 +192040,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687129006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Global Business Process Owner, Logistics",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -192176,7 +192176,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687147006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Solution Specialist, Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -192184,7 +192184,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687145006": {
-    "updated_at": "2026-06-17T12:49:45-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Solution Architect - Financial Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -192272,7 +192272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686675006": {
-    "updated_at": "2026-06-17T12:52:26-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sales Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -193272,7 +193272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687824006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Afton, TX",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -194144,7 +194144,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687697006": {
-    "updated_at": "2026-06-17T12:34:20-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Front End Web Developer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -194152,7 +194152,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687702006": {
-    "updated_at": "2026-06-17T12:34:21-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. UI/UX Designer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -195120,7 +195120,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687106006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Principal Operational Readiness Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -195720,7 +195720,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687411006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Project Manager - West Coast",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -195968,7 +195968,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687706006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Manager - Kenilworth, NJ",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -196352,7 +196352,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7993078": {
-    "updated_at": "2026-06-17T06:20:17-04:00",
+    "updated_at": "2026-06-17T18:20:17-04:00",
     "title": "Technical Director, Builder Relations",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -196896,7 +196896,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4686692006": {
-    "updated_at": "2026-06-17T12:45:22-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Solution Architect",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -196960,7 +196960,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688247006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Power Procurement Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -198024,7 +198024,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688327006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Engineer, Storage Control Plane",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -198488,7 +198488,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688565006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Manager, Technical Solutions Management",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -198496,7 +198496,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688572006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - Networking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -198760,7 +198760,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688589006": {
-    "updated_at": "2026-06-16T13:43:54-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - Compute Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -198904,7 +198904,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688538006": {
-    "updated_at": "2026-06-16T22:16:53-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Software Engineer, Applied AI",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -199272,7 +199272,7 @@
     "alerted": false
   },
   "greenhouse:okta:7994928": {
-    "updated_at": "2026-06-11T20:54:14-04:00",
+    "updated_at": "2026-06-17T17:54:55-04:00",
     "title": "Staff Site Reliability Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -199528,7 +199528,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687069006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Volo, IL",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -199800,7 +199800,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687368006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Supplier Quality Engineer (OEM/ODM, Thermal & Cooling)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -200040,7 +200040,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688846006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Site Security Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -200224,7 +200224,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7981330": {
-    "updated_at": "2026-06-16T18:15:54-04:00",
+    "updated_at": "2026-06-17T18:56:10-04:00",
     "title": "Product Manager, Link - Local Payment Methods",
     "company": "stripe",
     "ats": "greenhouse",
@@ -200728,7 +200728,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688978006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, People Business Partner \u2014 Operations",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -200904,7 +200904,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689092006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Production Engineer (Reliability)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -201160,7 +201160,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688577006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Operations Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -201352,7 +201352,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688579006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - Networking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -201360,7 +201360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688583006": {
-    "updated_at": "2026-06-16T18:28:41-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Specialist Field Engineer - Storage",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -201440,7 +201440,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688540006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Executive - Greenfield",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -202616,7 +202616,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689202006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Revenue Accounting Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -202936,7 +202936,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689223006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "GPU Performance Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -203112,7 +203112,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689188006": {
-    "updated_at": "2026-06-17T11:11:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Data Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -203304,7 +203304,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688928006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Lease Administration Analyst",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -204000,7 +204000,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688167006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Electrical Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -204944,8 +204944,8 @@
     "alerted": false
   },
   "greenhouse:rubrik:8003409": {
-    "updated_at": "2026-06-17T17:23:27-04:00",
-    "title": "Senior Renewal Operations Analyst",
+    "updated_at": "2026-06-17T17:29:08-04:00",
+    "title": "Senior Renewal Operations Analyst (US / North America)",
     "company": "rubrik",
     "ats": "greenhouse",
     "source_slug": "rubrik",
@@ -204968,7 +204968,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689526006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Director, Operations Accounting - Supply Chain",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -204976,7 +204976,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689787006": {
-    "updated_at": "2026-06-16T13:31:08-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Operations Engineering Manager, Fleet Reliability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -205208,7 +205208,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7752163003": {
-    "updated_at": "2026-06-17T11:35:13-04:00",
+    "updated_at": "2026-06-17T18:18:25-04:00",
     "title": "Staff Software Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -206088,7 +206088,7 @@
     "alerted": false
   },
   "greenhouse:upstart:8011540": {
-    "updated_at": "2026-06-17T14:44:50-04:00",
+    "updated_at": "2026-06-17T18:20:21-04:00",
     "title": "Operations Manager, Loan Processing",
     "company": "upstart",
     "ats": "greenhouse",
@@ -206200,7 +206200,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689896006": {
-    "updated_at": "2026-06-16T17:26:57-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Sr. Manager, White Space Design",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -206224,7 +206224,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689627006": {
-    "updated_at": "2026-06-16T17:22:11-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Operations Program Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -206248,7 +206248,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689596006": {
-    "updated_at": "2026-06-16T17:02:55-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Manager, Electrical Engineering",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -206744,7 +206744,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4690067006": {
-    "updated_at": "2026-06-17T09:50:57-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, People Business Partner- GTM",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -206768,7 +206768,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8003605": {
-    "updated_at": "2026-06-17T11:23:44-04:00",
+    "updated_at": "2026-06-17T18:51:43-04:00",
     "title": "Software Engineer",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -206888,7 +206888,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689227006": {
-    "updated_at": "2026-06-17T08:08:53-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, Operations Accounting - Fixed Assets",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -207160,7 +207160,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4690150006": {
-    "updated_at": "2026-06-17T11:46:57-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Account Executive - Greenfield - Toronto",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -207176,7 +207176,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4689986006": {
-    "updated_at": "2026-06-17T11:41:45-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Cincinatti, OH",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -207464,7 +207464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4690200006": {
-    "updated_at": "2026-06-17T14:28:23-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Data Center Technician - Phoenix, AZ",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -207552,7 +207552,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4690181006": {
-    "updated_at": "2026-06-17T13:52:45-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Technical Program Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -207760,7 +207760,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4690266006": {
-    "updated_at": "2026-06-17T16:51:37-04:00",
+    "updated_at": "2026-06-17T18:35:51-04:00",
     "title": "Senior Manager, Security Engineering, Vulnerability Management",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -207893,6 +207893,358 @@
     "company": "instacart",
     "ats": "greenhouse",
     "source_slug": "instacart",
+    "alerted": true
+  },
+  "greenhouse:spacex:8597536002": {
+    "updated_at": "2026-06-17T18:53:31-04:00",
+    "title": "Sr. Site Reliability Engineer (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8597497002": {
+    "updated_at": "2026-06-17T18:53:30-04:00",
+    "title": "Sr. Site Reliability Engineer (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8597932002": {
+    "updated_at": "2026-06-17T18:52:28-04:00",
+    "title": "Recruiting Coordinator- Temporary (Memphis)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8575042002": {
+    "updated_at": "2026-06-17T18:51:43-04:00",
+    "title": "Sr. Director, Agentic Engineering",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:asana:7874977": {
+    "updated_at": "2026-06-17T18:47:22-04:00",
+    "title": "Head of Engineering Operations",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:oportun:4706601005": {
+    "updated_at": "2026-06-17T18:45:19-04:00",
+    "title": "English and Spanish Member Loyalty Representative (R14047)",
+    "company": "oportun",
+    "ats": "greenhouse",
+    "source_slug": "oportun",
+    "alerted": false
+  },
+  "greenhouse:oportun:4706597005": {
+    "updated_at": "2026-06-17T18:43:04-04:00",
+    "title": "English and Spanish Member Loyalty Representative (R14073)",
+    "company": "oportun",
+    "ats": "greenhouse",
+    "source_slug": "oportun",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4629535006": {
+    "updated_at": "2026-06-17T18:35:51-04:00",
+    "title": "Chief of Staff to the CFO",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8592950002": {
+    "updated_at": "2026-06-17T18:33:01-04:00",
+    "title": "Engineering Manager, Data Foundations",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:stripe:7456716": {
+    "updated_at": "2026-06-17T18:28:12-04:00",
+    "title": "Account Executive, Product Sales (BaaS)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8014610": {
+    "updated_at": "2026-06-17T18:27:38-04:00",
+    "title": "Do Not Apply A",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:brex:8597895002": {
+    "updated_at": "2026-06-17T18:27:10-04:00",
+    "title": "Payment Operations Analyst",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8597771002": {
+    "updated_at": "2026-06-17T18:27:09-04:00",
+    "title": "Payment Operations Analyst",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8595143002": {
+    "updated_at": "2026-06-17T18:21:11-04:00",
+    "title": "Technical Architect - Australia",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8591221002": {
+    "updated_at": "2026-06-17T18:16:10-04:00",
+    "title": "Senior Solutions Architect, Global SI (India)",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8592891002": {
+    "updated_at": "2026-06-17T18:15:14-04:00",
+    "title": "Engineering Manager, Growth",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:braze:8014600": {
+    "updated_at": "2026-06-17T18:06:09-04:00",
+    "title": "Solutions Consultant, Emerging Enterprise, General Business",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:7997850": {
+    "updated_at": "2026-06-17T17:59:57-04:00",
+    "title": "Solutions Consultant, Emerging Enterprise, General Business",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:7997849": {
+    "updated_at": "2026-06-17T17:59:56-04:00",
+    "title": "Solutions Consultant, Emerging Enterprise, General Business",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:7993319": {
+    "updated_at": "2026-06-17T17:59:55-04:00",
+    "title": "Solutions Consultant, Emerging Enterprise, General Business",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:7997848": {
+    "updated_at": "2026-06-17T17:59:55-04:00",
+    "title": "Solutions Consultant, Emerging Enterprise, General Business",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8013773": {
+    "updated_at": "2026-06-17T17:58:48-04:00",
+    "title": "Senior Manager, Customer Success",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4707231005": {
+    "updated_at": "2026-06-17T17:56:25-04:00",
+    "title": "Enterprise Account Executive, San Francisco",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": false
+  },
+  "greenhouse:spacex:8597796002": {
+    "updated_at": "2026-06-17T17:54:42-04:00",
+    "title": "Starlink Growth Manager, US Northeast",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7727913": {
+    "updated_at": "2026-06-17T17:51:19-04:00",
+    "title": "Site Reliability Engineer (Senior or Staff)",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7727910": {
+    "updated_at": "2026-06-17T17:51:18-04:00",
+    "title": "Site Reliability Engineer (Senior or Staff)",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:spacex:8597053002": {
+    "updated_at": "2026-06-17T17:49:45-04:00",
+    "title": "Materials Lab Technician",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8013951": {
+    "updated_at": "2026-06-17T17:49:34-04:00",
+    "title": "Prime Sales Trader",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:airtable:8584253002": {
+    "updated_at": "2026-06-17T17:48:55-04:00",
+    "title": "Technical Account Manager",
+    "company": "airtable",
+    "ats": "greenhouse",
+    "source_slug": "airtable",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8008818": {
+    "updated_at": "2026-06-17T17:48:50-04:00",
+    "title": "Creative Producer, Experiential",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:upstart:8014508": {
+    "updated_at": "2026-06-17T17:37:36-04:00",
+    "title": "Manager, Treasury Risk",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:braze:8014514": {
+    "updated_at": "2026-06-17T17:33:59-04:00",
+    "title": "Senior Account Executive, Strategic Enterprise",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8010543": {
+    "updated_at": "2026-06-17T17:33:58-04:00",
+    "title": "Senior Account Executive, Strategic Enterprise",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8014513": {
+    "updated_at": "2026-06-17T17:33:58-04:00",
+    "title": "Senior Account Executive, Strategic Enterprise",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:lyft:8555333002": {
+    "updated_at": "2026-06-17T17:30:33-04:00",
+    "title": "Candidate Experience Lead",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:lyft:8555456002": {
+    "updated_at": "2026-06-17T17:30:01-04:00",
+    "title": "Candidate Experience Lead",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:calendly:8597750002": {
+    "updated_at": "2026-06-17T17:28:46-04:00",
+    "title": "Senior Compensation Manager",
+    "company": "calendly",
+    "ats": "greenhouse",
+    "source_slug": "calendly",
+    "alerted": false
+  },
+  "greenhouse:spacex:8597472002": {
+    "updated_at": "2026-06-17T17:28:40-04:00",
+    "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8597455002": {
+    "updated_at": "2026-06-17T17:28:38-04:00",
+    "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:cribl:6015360004": {
+    "updated_at": "2026-06-17T17:27:37-04:00",
+    "title": "Regional Sales Manager, Philadelphia (Enterprise)",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
+    "alerted": false
+  },
+  "greenhouse:mercury:6093035004": {
+    "updated_at": "2026-06-17T17:25:43-04:00",
+    "title": "Senior Internal Auditor",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:carta:7775293003": {
+    "updated_at": "2026-06-17T17:22:00-04:00",
+    "title": "Technical Senior Manager, Fund Tax",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:airtable:8597941002": {
+    "updated_at": "2026-06-17T18:55:46-04:00",
+    "title": "Senior Solutions Architect- West Coast",
+    "company": "airtable",
+    "ats": "greenhouse",
+    "source_slug": "airtable",
+    "alerted": true
+  },
+  "greenhouse:spacex:8597547002": {
+    "updated_at": "2026-06-17T18:53:32-04:00",
+    "title": "Sr. Site Reliability Engineer (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
