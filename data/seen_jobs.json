@@ -11856,7 +11856,7 @@
     "alerted": true
   },
   "greenhouse:gleanwork:4520713005": {
-    "updated_at": "2026-05-28T13:33:31-04:00",
+    "updated_at": "2026-06-19T17:33:50-04:00",
     "title": "Designated Technical Support Engineer",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -74328,7 +74328,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8438476002": {
-    "updated_at": "2026-06-19T09:44:17-04:00",
+    "updated_at": "2026-06-19T16:48:55-04:00",
     "title": "Technical Satellite Policy Analyst",
     "company": "spacex",
     "ats": "greenhouse",
@@ -86280,7 +86280,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4677723005": {
-    "updated_at": "2026-05-14T15:35:24-04:00",
+    "updated_at": "2026-06-19T17:14:32-04:00",
     "title": "Enterprise Account Executive, Canada",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -92712,7 +92712,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4635139005": {
-    "updated_at": "2026-05-14T15:35:24-04:00",
+    "updated_at": "2026-06-19T17:14:57-04:00",
     "title": "Commercial Account Executive, Canada",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -106576,8 +106576,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8380340002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
-    "title": "Lead Technician - Starlink Satellite Mech and Electronic Production (Starlink) - 2nd shift",
+    "updated_at": "2026-06-19T17:22:29-04:00",
+    "title": "Lead Technician, Dopey (Starlink) - 2nd shift",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-19T15:17:25-04:00",
+    "updated_at": "2026-06-19T17:32:13-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -159672,7 +159672,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8550748002": {
-    "updated_at": "2026-05-14T16:47:12-04:00",
+    "updated_at": "2026-06-19T17:39:34-04:00",
     "title": "Global Supply Manager, Contingent Labor",
     "company": "spacex",
     "ats": "greenhouse",
@@ -206208,7 +206208,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8589950002": {
-    "updated_at": "2026-06-16T17:25:49-04:00",
+    "updated_at": "2026-06-19T16:56:41-04:00",
     "title": "Lead Supplier Development Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -211373,6 +211373,14 @@
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
+    "alerted": true
+  },
+  "greenhouse:spacex:8601223002": {
+    "updated_at": "2026-06-19T16:34:09-04:00",
+    "title": "Site Reliability Engineer (Top Secret Clearance)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
