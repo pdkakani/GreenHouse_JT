@@ -32152,7 +32152,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8395053002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-06-19T18:58:27-04:00",
     "title": "GNC Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-19T18:32:21-04:00",
+    "updated_at": "2026-06-19T18:48:12-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -211168,7 +211168,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8018517": {
-    "updated_at": "2026-06-19T11:04:08-04:00",
+    "updated_at": "2026-06-19T19:13:39-04:00",
     "title": "Senior Machine Learning Engineer, Ads Foundational Representations",
     "company": "reddit",
     "ats": "greenhouse",
@@ -211176,7 +211176,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8018513": {
-    "updated_at": "2026-06-19T11:04:08-04:00",
+    "updated_at": "2026-06-19T19:13:02-04:00",
     "title": "Senior Machine Learning Engineer, Ads Foundational Representations",
     "company": "reddit",
     "ats": "greenhouse",
@@ -211414,5 +211414,45 @@
     "ats": "greenhouse",
     "source_slug": "lyft",
     "alerted": false
+  },
+  "greenhouse:spacex:8601438002": {
+    "updated_at": "2026-06-19T18:43:07-04:00",
+    "title": "Sr. Site Reliability Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8601695002": {
+    "updated_at": "2026-06-19T18:37:32-04:00",
+    "title": "Supervisor, Materials Management (Starship) - Night Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:stripe:6786324": {
+    "updated_at": "2026-06-19T18:35:42-04:00",
+    "title": "Full Stack Engineer, Billing",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8601643002": {
+    "updated_at": "2026-06-19T18:12:01-04:00",
+    "title": "Process Technician, Injection Molding (Starlink) - 2nd shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8601722002": {
+    "updated_at": "2026-06-19T19:02:56-04:00",
+    "title": "GNC Engineer (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
