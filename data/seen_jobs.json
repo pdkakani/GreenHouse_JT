@@ -138408,7 +138408,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8532395002": {
-    "updated_at": "2026-06-04T15:20:23-04:00",
+    "updated_at": "2026-06-19T18:01:05-04:00",
     "title": "Software Engineer, Development Test (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-19T17:32:13-04:00",
+    "updated_at": "2026-06-19T18:32:21-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -196352,7 +196352,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7993078": {
-    "updated_at": "2026-06-19T07:36:53-04:00",
+    "updated_at": "2026-06-19T18:20:15-04:00",
     "title": "Technical Director, Builder Relations",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -197552,8 +197552,8 @@
     "alerted": false
   },
   "greenhouse:coinbase:7997785": {
-    "updated_at": "2026-06-18T12:30:59-04:00",
-    "title": "Group Product Manager, Core Infra and Reliability",
+    "updated_at": "2026-06-19T18:00:31-04:00",
+    "title": "Group Product Manager, Core Infrastructure & Reliability",
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
@@ -206208,7 +206208,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8589950002": {
-    "updated_at": "2026-06-19T16:56:41-04:00",
+    "updated_at": "2026-06-19T18:26:48-04:00",
     "title": "Lead Supplier Development Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -210008,7 +210008,7 @@
     "alerted": false
   },
   "greenhouse:workato:8579637002": {
-    "updated_at": "2026-06-18T18:16:22-04:00",
+    "updated_at": "2026-06-19T18:24:58-04:00",
     "title": "Director, Field Marketing & Executive Engagement",
     "company": "workato",
     "ats": "greenhouse",
@@ -211382,5 +211382,37 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:spacex:8601649002": {
+    "updated_at": "2026-06-19T18:11:59-04:00",
+    "title": "Injection Molding Technician - 2nd Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4707972005": {
+    "updated_at": "2026-06-19T17:44:36-04:00",
+    "title": "Strategic Account Executive, New England",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": false
+  },
+  "greenhouse:spacex:8601388002": {
+    "updated_at": "2026-06-19T15:16:48-04:00",
+    "title": "Launch Pad Technician (Starship) - Multiple Shifts",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:lyft:8599050002": {
+    "updated_at": "2026-06-19T15:06:30-04:00",
+    "title": "Paralegal II, Litigation",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
   }
 }
