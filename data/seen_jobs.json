@@ -211566,5 +211566,13 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:rubrik:8016012": {
+    "updated_at": "2026-06-20T11:56:14-04:00",
+    "title": "Senior Learning Experience Engineer",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": true
   }
 }
