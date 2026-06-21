@@ -211614,5 +211614,13 @@
     "ats": "greenhouse",
     "source_slug": "coinbase",
     "alerted": false
+  },
+  "greenhouse:purestorage:8001469": {
+    "updated_at": "2026-06-21T08:15:35-04:00",
+    "title": "Engagement Manager",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
   }
 }
