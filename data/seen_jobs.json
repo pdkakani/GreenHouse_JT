@@ -1240,7 +1240,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7518684": {
-    "updated_at": "2026-06-19T14:39:05-04:00",
+    "updated_at": "2026-06-23T14:06:04-04:00",
     "title": "Senior Solutions Engineer - Digital Native Enterprise - West",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -7480,7 +7480,7 @@
     "alerted": true
   },
   "greenhouse:airtable:8400373002": {
-    "updated_at": "2026-05-01T15:19:12-04:00",
+    "updated_at": "2026-06-23T14:43:02-04:00",
     "title": "Software Engineer, Infrastructure (4-8 YOE)",
     "company": "airtable",
     "ats": "greenhouse",
@@ -7488,7 +7488,7 @@
     "alerted": true
   },
   "greenhouse:airtable:8400388002": {
-    "updated_at": "2026-05-26T15:01:45-04:00",
+    "updated_at": "2026-06-23T14:46:15-04:00",
     "title": "Software Engineer, Infrastructure (8+ YOE)",
     "company": "airtable",
     "ats": "greenhouse",
@@ -10768,8 +10768,8 @@
     "alerted": true
   },
   "greenhouse:anthropic:4980436008": {
-    "updated_at": "2026-04-03T12:07:44-04:00",
-    "title": " [Expression of Interest] Research Manager, Interpretability",
+    "updated_at": "2026-06-23T13:22:29-04:00",
+    "title": "[Expression of Interest] Research Manager, Interpretability",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -10856,7 +10856,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5123851008": {
-    "updated_at": "2026-06-18T16:47:19-04:00",
+    "updated_at": "2026-06-23T15:12:29-04:00",
     "title": "Infrastructure Tax Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -12632,7 +12632,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7631404003": {
-    "updated_at": "2026-06-23T12:36:02-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Engineering Enablement Program Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12656,7 +12656,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7453448003": {
-    "updated_at": "2026-06-23T08:45:54-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Engineering Manager, Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12664,7 +12664,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7570250003": {
-    "updated_at": "2026-06-22T04:02:43-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Engineering Manager - Data Automation",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12712,7 +12712,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7670555003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Head of Engineering, Finance Systems",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12832,7 +12832,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7684381003": {
-    "updated_at": "2026-06-23T10:39:30-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "HRIS Manager (Workday)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12840,7 +12840,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7641196003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Outbound Business Development Representative",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12896,7 +12896,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7559750003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Principal Engineer, Core Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12904,7 +12904,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7554273003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Principal Software Engineer, Enterprise Scalability",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12944,7 +12944,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7502768003": {
-    "updated_at": "2026-06-22T04:02:31-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior AI Engineer - Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12976,7 +12976,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7548896003": {
-    "updated_at": "2026-06-22T04:02:36-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Full Stack Engineer - Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -12992,7 +12992,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7517734003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Lead Product Manager, Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13000,7 +13000,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7453469003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Lead Program Manager, Technical Programs",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13008,7 +13008,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7587257003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Lead Software Engineer - Developer Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13016,7 +13016,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7664323003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Lead Software Engineer - Developer Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13024,7 +13024,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7688488003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior AI Application Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13048,7 +13048,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7660012003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Security Engineer - Detection and Response",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13056,7 +13056,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7659972003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Security Engineer - Detection and Response",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13120,7 +13120,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7597868003": {
-    "updated_at": "2026-06-22T04:02:45-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer - Profiles, Lists and Segments",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13160,7 +13160,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7453478003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Software Engineer II, Data Automation",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13256,7 +13256,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7669343003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Lead AI Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13312,7 +13312,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7647696003": {
-    "updated_at": "2026-06-20T03:47:39-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Manager, Orchestrate",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13320,7 +13320,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7685163003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Solutions Engineer, Mid- Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13328,7 +13328,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7682021003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Solutions Engineer, Mid- Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -13336,7 +13336,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7685162003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Solutions Engineer, Mid- Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -15112,7 +15112,7 @@
     "alerted": true
   },
   "greenhouse:duolingo:8468556002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Senior Engineering Manager, Growth",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -15128,7 +15128,7 @@
     "alerted": true
   },
   "greenhouse:duolingo:8318257002": {
-    "updated_at": "2026-06-22T13:50:08-04:00",
+    "updated_at": "2026-06-23T14:41:51-04:00",
     "title": "Senior/iOS Engineer II",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -15136,7 +15136,7 @@
     "alerted": true
   },
   "greenhouse:duolingo:8400738002": {
-    "updated_at": "2026-06-22T13:50:12-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Product Manager, In-App Purchases",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -15144,7 +15144,7 @@
     "alerted": true
   },
   "greenhouse:duolingo:8377539002": {
-    "updated_at": "2026-06-22T13:50:07-04:00",
+    "updated_at": "2026-06-23T14:41:51-04:00",
     "title": "Senior Product Manager, Learning",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -15160,7 +15160,7 @@
     "alerted": true
   },
   "greenhouse:duolingo:8474673002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Senior Product Manager, Monetization",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -16888,7 +16888,7 @@
     "alerted": true
   },
   "greenhouse:gemini:7768460": {
-    "updated_at": "2026-06-23T08:36:26-04:00",
+    "updated_at": "2026-06-23T14:01:33-04:00",
     "title": "Lead Product Manager",
     "company": "gemini",
     "ats": "greenhouse",
@@ -16928,7 +16928,7 @@
     "alerted": true
   },
   "greenhouse:gemini:7768456": {
-    "updated_at": "2026-06-23T08:36:23-04:00",
+    "updated_at": "2026-06-23T14:06:31-04:00",
     "title": "Senior Software Engineer, Risk Engineering",
     "company": "gemini",
     "ats": "greenhouse",
@@ -19264,7 +19264,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8430552002": {
-    "updated_at": "2026-06-18T02:53:49-04:00",
+    "updated_at": "2026-06-23T14:54:32-04:00",
     "title": "Senior Machine Learning Engineer, Recommendations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -19512,7 +19512,7 @@
     "alerted": true
   },
   "greenhouse:asana:5745634": {
-    "updated_at": "2026-06-22T19:55:21-04:00",
+    "updated_at": "2026-06-23T15:10:03-04:00",
     "title": "Inbound Sales Development Representative",
     "company": "asana",
     "ats": "greenhouse",
@@ -20816,7 +20816,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7694788003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Product Owner, GTM Sales Systems",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -21568,7 +21568,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7694223003": {
-    "updated_at": "2026-06-22T04:02:56-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Software Engineer II - Amplify Demos",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -22816,7 +22816,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7702128003": {
-    "updated_at": "2026-06-22T04:02:30-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Product Manager, Developer Experience",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -22832,7 +22832,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7702118003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Lead Product Manager, Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -23376,7 +23376,7 @@
     "alerted": true
   },
   "greenhouse:duolingo:8409034002": {
-    "updated_at": "2026-06-22T13:50:12-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Product Manager, Notifications",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -24312,7 +24312,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7696724003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer - Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -24656,7 +24656,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5191785008": {
-    "updated_at": "2026-06-03T13:41:43-04:00",
+    "updated_at": "2026-06-23T13:28:12-04:00",
     "title": "Research Engineer, Safeguards Labs",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -25264,7 +25264,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8468545002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Senior Engineering Manager, Growth",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -25272,7 +25272,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8393272002": {
-    "updated_at": "2026-06-22T13:50:09-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior iOS Engineer",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -43728,7 +43728,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8510921002": {
-    "updated_at": "2026-06-16T22:52:19-04:00",
+    "updated_at": "2026-06-23T14:43:46-04:00",
     "title": "Sr. Engineering Manager - App Frameworks",
     "company": "databricks",
     "ats": "greenhouse",
@@ -43824,7 +43824,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7708059003": {
-    "updated_at": "2026-06-22T04:03:04-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Manager, Platform Integrity",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -43832,7 +43832,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7709709003": {
-    "updated_at": "2026-06-22T04:03:04-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Manager, Platform Integrity",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -43920,7 +43920,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7709682003": {
-    "updated_at": "2026-06-22T04:03:07-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Manager, Profiles Platform",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -46208,7 +46208,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7430296": {
-    "updated_at": "2026-06-19T12:11:02-04:00",
+    "updated_at": "2026-06-23T13:05:06-04:00",
     "title": "Risk Operations Analyst, Financial Crimes Programs",
     "company": "stripe",
     "ats": "greenhouse",
@@ -48776,7 +48776,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7657684": {
-    "updated_at": "2026-06-18T18:20:38-04:00",
+    "updated_at": "2026-06-23T15:00:21-04:00",
     "title": "Principal Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -48784,7 +48784,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7564234": {
-    "updated_at": "2026-06-18T18:20:38-04:00",
+    "updated_at": "2026-06-23T15:00:21-04:00",
     "title": "Principal Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -48792,7 +48792,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7657688": {
-    "updated_at": "2026-06-18T18:20:38-04:00",
+    "updated_at": "2026-06-23T15:00:21-04:00",
     "title": "Principal Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -49200,7 +49200,7 @@
     "alerted": false
   },
   "greenhouse:asana:7818833": {
-    "updated_at": "2026-06-23T12:27:13-04:00",
+    "updated_at": "2026-06-23T15:09:30-04:00",
     "title": "AI Engineer",
     "company": "asana",
     "ats": "greenhouse",
@@ -49632,7 +49632,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7694248003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Commercial AE Customer Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -54440,7 +54440,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8489189002": {
-    "updated_at": "2026-06-22T13:50:08-04:00",
+    "updated_at": "2026-06-23T14:41:51-04:00",
     "title": "Senior Product Designer",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -54448,7 +54448,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8200010002": {
-    "updated_at": "2026-06-22T13:50:07-04:00",
+    "updated_at": "2026-06-23T14:41:51-04:00",
     "title": "Staff Product Designer",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -54456,7 +54456,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8200009002": {
-    "updated_at": "2026-06-22T13:50:07-04:00",
+    "updated_at": "2026-06-23T14:41:51-04:00",
     "title": "Staff Product Designer",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -56688,7 +56688,7 @@
     "alerted": false
   },
   "greenhouse:asana:7494313": {
-    "updated_at": "2026-06-22T19:55:23-04:00",
+    "updated_at": "2026-06-23T13:14:50-04:00",
     "title": "Commercial Counsel, Procurement",
     "company": "asana",
     "ats": "greenhouse",
@@ -56696,7 +56696,7 @@
     "alerted": false
   },
   "greenhouse:asana:7776643": {
-    "updated_at": "2026-06-22T19:55:23-04:00",
+    "updated_at": "2026-06-23T13:14:50-04:00",
     "title": "Commercial Counsel, Procurement",
     "company": "asana",
     "ats": "greenhouse",
@@ -58848,7 +58848,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8196585002": {
-    "updated_at": "2026-04-22T19:23:39-04:00",
+    "updated_at": "2026-06-23T14:07:37-04:00",
     "title": "Sr. Financial Analyst",
     "company": "databricks",
     "ats": "greenhouse",
@@ -63792,7 +63792,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4247996007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-23T14:39:06-04:00",
     "title": "Account Executive, Select, Salt Lake City (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63968,7 +63968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140486007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-23T14:26:26-04:00",
     "title": "Enterprise Account Executive - France",
     "company": "verkada",
     "ats": "greenhouse",
@@ -66608,7 +66608,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7763623": {
-    "updated_at": "2026-06-11T11:30:13-04:00",
+    "updated_at": "2026-06-23T15:17:18-04:00",
     "title": "Technical Account Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -67120,7 +67120,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8400588002": {
-    "updated_at": "2026-06-22T13:50:11-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Product Marketing Manager, Duolingo Math",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -67136,7 +67136,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8480283002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Director of Communications, DET UK",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -67152,7 +67152,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8442934002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Creative Director, Marketing",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -67160,7 +67160,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8455252002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Business Development Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -68624,7 +68624,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8444717002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-06-23T15:08:09-04:00",
     "title": "Sr. Business Analyst, Workforce Planning (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -68632,7 +68632,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8444844002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
+    "updated_at": "2026-06-23T15:05:03-04:00",
     "title": "Sr. Business Analyst, Workforce Planning (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -69208,7 +69208,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7702330003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Data Science Analyst, GTM Strategic Analytics and Insights",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -69216,7 +69216,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7687789003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Data Science Analyst, GTM Strategic Analytics and Insights",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -71256,7 +71256,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8240009002": {
-    "updated_at": "2026-06-22T13:50:08-04:00",
+    "updated_at": "2026-06-23T14:41:51-04:00",
     "title": "Regional Marketing Manager, MENA",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -71296,7 +71296,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8448693002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Country Marketing Manager, Turkey",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -79296,7 +79296,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7634487003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Support Specialist, French (Weekend Shift)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -79304,7 +79304,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7644818003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Support Specialist, German (Weekend Shift)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -81840,7 +81840,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7636105003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Product Designer, AI & Analytics",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -84232,7 +84232,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7697003003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Head of Business Operations",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -86808,7 +86808,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7643703003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Product Manager, Internationalization",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -89120,8 +89120,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8367942002": {
-    "updated_at": "2026-06-16T12:52:43-04:00",
-    "title": "Forward Deployed Engineer (FDE, Full Stack)",
+    "updated_at": "2026-06-23T14:45:59-04:00",
+    "title": "Senior Forward Deployed Engineer (FDE, Full Stack)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -91128,7 +91128,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8442932002": {
-    "updated_at": "2026-06-22T13:50:12-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Creative Director, Marketing",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -91928,7 +91928,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7520366": {
-    "updated_at": "2026-05-14T13:40:53-04:00",
+    "updated_at": "2026-06-23T13:15:05-04:00",
     "title": "International Strategic Finance, London",
     "company": "reddit",
     "ats": "greenhouse",
@@ -94960,7 +94960,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7602229003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -94968,7 +94968,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7602220003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -94976,7 +94976,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7602227003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -94984,7 +94984,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7602221003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -94992,7 +94992,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7588382003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -95000,7 +95000,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7529251003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -95008,7 +95008,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7602247003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -95016,7 +95016,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7519959003": {
-    "updated_at": "2026-06-22T04:02:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -97776,7 +97776,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:7833425002": {
-    "updated_at": "2026-06-22T13:50:06-04:00",
+    "updated_at": "2026-06-23T14:41:51-04:00",
     "title": "Senior Product Manager, Learning",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -98576,7 +98576,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8492085002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "VP of Finance",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -99576,7 +99576,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7635660003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Integrated Marketing Lead - K:Service",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -103104,7 +103104,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5074995008": {
-    "updated_at": "2026-06-03T09:05:35-04:00",
+    "updated_at": "2026-06-23T13:27:07-04:00",
     "title": "Strategic Account Executive, Life Sciences",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -103216,7 +103216,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8489240002": {
-    "updated_at": "2026-06-22T13:50:13-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Manager, Strategy and Business Operations",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -103544,7 +103544,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7685123003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Inbound Growth Specialist",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104288,7 +104288,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7624149003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Mid-Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104296,7 +104296,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7624147003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Mid-Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104304,7 +104304,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7624146003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Mid-Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104328,7 +104328,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7577984003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Commercial Account Executive",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104336,7 +104336,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7577985003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Commercial Account Executive",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104368,7 +104368,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7583995003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Growth Account Executive, Commercial",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104376,7 +104376,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7583994003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Growth Account Executive, Commercial",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104384,7 +104384,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7597631003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Success Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104392,7 +104392,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7656199003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Success Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104488,7 +104488,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7635994003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Integrated Marketing Lead - K:Service",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104568,7 +104568,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7617363003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Marketing Operations Lead",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104576,7 +104576,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7608379003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Marketing Operations Lead",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104592,7 +104592,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7659849003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Outbound BDR - French Speaking",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104608,7 +104608,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7678193003": {
-    "updated_at": "2026-06-22T18:27:39-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Principal Enablement Partner, BDR",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104616,7 +104616,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7503712003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Product Designer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104752,7 +104752,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7503717003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Designer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104760,7 +104760,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7664279003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Marketing Manager - Verticals",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104768,7 +104768,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7664280003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Marketing Manager - Verticals",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104800,7 +104800,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7609150003": {
-    "updated_at": "2026-06-19T03:54:16-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer, Reliability",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104816,7 +104816,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7609528003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Software Engineer II, Infrastructure Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -104824,7 +104824,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7609149003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Software Engineer II, Reliability",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -105280,7 +105280,7 @@
     "alerted": false
   },
   "greenhouse:elastic:6666023": {
-    "updated_at": "2026-06-11T11:28:47-04:00",
+    "updated_at": "2026-06-23T13:30:35-04:00",
     "title": "Security Enterprise Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -112560,7 +112560,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8374797002": {
-    "updated_at": "2026-06-22T13:50:10-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Account Executive",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -112568,7 +112568,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8385180002": {
-    "updated_at": "2026-06-22T13:50:09-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Community Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -112576,7 +112576,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8345186002": {
-    "updated_at": "2026-06-22T13:50:09-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Community Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -114272,7 +114272,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8385195002": {
-    "updated_at": "2026-06-22T16:27:11-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Product Design Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -114280,7 +114280,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8385193002": {
-    "updated_at": "2026-06-22T16:27:11-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Product Design Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -117472,7 +117472,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8400553002": {
-    "updated_at": "2026-06-22T13:50:11-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Product Marketing Manager, Duolingo Math",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -117984,8 +117984,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7565550": {
-    "updated_at": "2026-06-15T16:48:20-04:00",
-    "title": "Senior Software Engineer, Infrastructure",
+    "updated_at": "2026-06-23T14:34:30-04:00",
+    "title": "Senior Software Engineer, Reliability Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -120944,7 +120944,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8517138002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Senior Product Recruiter",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -120952,7 +120952,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8517116002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:53-04:00",
     "title": "Senior Product Recruiter",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -121168,7 +121168,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710126003": {
-    "updated_at": "2026-06-18T09:16:06-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Product Marketing Manager - Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -121256,7 +121256,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710023003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Manager, Mid- Enterprise Partner Sales",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -121264,7 +121264,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710022003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Manager, Mid- Enterprise Partner Sales",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -121272,7 +121272,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7709950003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Manager, Mid- Enterprise Partner Sales",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -121320,7 +121320,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7703120003": {
-    "updated_at": "2026-06-18T09:16:06-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Product Marketing Manager - Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -123016,7 +123016,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710839003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Partner Account Manager, Mid-Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -123024,7 +123024,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710838003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Partner Account Manager, Mid-Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -123032,7 +123032,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7709951003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Partner Account Manager, Mid-Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -123928,7 +123928,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710199003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Language Manager, German (8 month FTC)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -125288,7 +125288,7 @@
     "alerted": false
   },
   "greenhouse:imply:7711230003": {
-    "updated_at": "2026-04-23T14:31:43-04:00",
+    "updated_at": "2026-06-23T14:02:53-04:00",
     "title": "Business Development Representative (Remote)",
     "company": "imply",
     "ats": "greenhouse",
@@ -125552,7 +125552,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7712122003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -125560,7 +125560,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710202003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -125568,7 +125568,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7712029003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Product Expert - Portuguese Speaking",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -125576,7 +125576,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7712045003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Support Specialist - Portuguese Speaking",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -125968,7 +125968,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8521468002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Creative Technology Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -125976,7 +125976,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8521484002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Creative Technology Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -127656,7 +127656,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7713310003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Onboarding Specialist (French Speaking)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -127984,7 +127984,7 @@
     "alerted": false
   },
   "greenhouse:asana:6806660": {
-    "updated_at": "2026-06-22T19:55:22-04:00",
+    "updated_at": "2026-06-23T15:15:07-04:00",
     "title": "Business Development Representative",
     "company": "asana",
     "ats": "greenhouse",
@@ -129920,7 +129920,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8524827002": {
-    "updated_at": "2026-06-22T13:50:09-04:00",
+    "updated_at": "2026-06-23T14:41:52-04:00",
     "title": "Senior Community Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -132632,7 +132632,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8526793002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Software Engineer I",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -135032,7 +135032,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7711217003": {
-    "updated_at": "2026-06-23T09:51:29-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer - Developer Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -135576,7 +135576,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8529915002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Senior Accountant, Indirect Taxes",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -135584,7 +135584,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8529896002": {
-    "updated_at": "2026-06-22T13:50:14-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Senior Accountant, Indirect Taxes",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -135632,7 +135632,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7720001003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Mid-Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -136080,7 +136080,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8530395002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Senior Product Manager, DET",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -138872,7 +138872,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8532790002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Director of Communications",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -138904,7 +138904,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7662735003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Proposal Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -139896,7 +139896,7 @@
     "alerted": false
   },
   "greenhouse:asana:7867751": {
-    "updated_at": "2026-06-22T19:55:25-04:00",
+    "updated_at": "2026-06-23T13:13:08-04:00",
     "title": "Public Sector Channel Partner Manager",
     "company": "asana",
     "ats": "greenhouse",
@@ -141216,7 +141216,7 @@
     "alerted": false
   },
   "greenhouse:mercury:5987513004": {
-    "updated_at": "2026-06-12T16:03:39-04:00",
+    "updated_at": "2026-06-23T15:14:17-04:00",
     "title": "Senior Design Operations Program Manager",
     "company": "mercury",
     "ats": "greenhouse",
@@ -142160,7 +142160,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7724068003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead GTM Data Operations Analyst, AI Workflows",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -142168,7 +142168,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7718967003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead GTM Data Operations Analyst, AI Workflows",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -142176,7 +142176,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7724065003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead GTM Data Operations Analyst, AI Workflows",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -143208,7 +143208,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7723890003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Compliance Operations Analyst",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -143216,7 +143216,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7723889003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Compliance Operations Analyst",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -143224,7 +143224,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7710203003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Compliance Operations Analyst",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -143848,7 +143848,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7720047003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Designer, Editors",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -144000,7 +144000,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7708678003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Product Designer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -144104,7 +144104,7 @@
     "alerted": false
   },
   "greenhouse:asana:7895275": {
-    "updated_at": "2026-06-22T19:55:23-04:00",
+    "updated_at": "2026-06-23T13:14:50-04:00",
     "title": "Commercial Counsel, Procurement",
     "company": "asana",
     "ats": "greenhouse",
@@ -145328,7 +145328,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7636622003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Solution Architect - Professional Services",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -146160,7 +146160,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8537884002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Senior Engineering Manager, Ads Monetization",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -146168,7 +146168,7 @@
     "alerted": true
   },
   "greenhouse:duolingo:8534630002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Senior Engineering Manager, Ads Monetization",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -146400,7 +146400,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7726333003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sales Manager, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -146408,7 +146408,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7726332003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sales Manager, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -148496,7 +148496,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7726722003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Pre-Sales Solutions Engineer (Italian Speaking)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -149080,7 +149080,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7727831003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sales Manager, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -149088,7 +149088,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7727832003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sales Manager, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -149496,7 +149496,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7725524003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Commercial AE - APAC",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -150280,7 +150280,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7726721003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Business Development Representative",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -152472,7 +152472,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7727704003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Technical Program Manager, Information Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -152688,7 +152688,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7728345003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Principal, APAC Partner Enablement",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -152768,7 +152768,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8543375002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Senior Manager, Scaling Operations",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -152776,7 +152776,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8543137002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:54-04:00",
     "title": "Senior Manager, Scaling Operations",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -154272,7 +154272,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7728333003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Sales Operations Analyst",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -154456,7 +154456,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7724606003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Digital Strategist",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -155632,7 +155632,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7660502003": {
-    "updated_at": "2026-06-22T04:02:53-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Software Engineer II - Identity & Access Management",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -157832,7 +157832,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7733880003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Mid-Enterprise Account Executive, Southern",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -157840,7 +157840,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7733867003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Mid-Enterprise Account Executive, Southern",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -157864,7 +157864,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8548803002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Head of Influencers & Community",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -157872,7 +157872,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8548793002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Head of Influencers & Community",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -158528,7 +158528,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7725304003": {
-    "updated_at": "2026-06-22T04:03:11-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Manager, Product Experience",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -160984,7 +160984,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7734678003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer, Infrastructure Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -163992,7 +163992,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7737859003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Outbound BDR Manager - Southern Europe",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -164424,7 +164424,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7701296003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Customer Success Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -164768,7 +164768,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7740544003": {
-    "updated_at": "2026-06-23T07:27:30-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Commercial, French Speaker",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -164984,7 +164984,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550717002": {
-    "updated_at": "2026-06-23T12:30:19-04:00",
+    "updated_at": "2026-06-23T14:10:43-04:00",
     "title": "Analytics Lead, Market Insights",
     "company": "lyft",
     "ats": "greenhouse",
@@ -166664,7 +166664,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7740830003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Partner Sales Specialist (France, Middle East & Africa), French-Speaker",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -167224,7 +167224,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7742054003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Security Engineer, Enterprise Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -167232,7 +167232,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7740028003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Security Engineer, Enterprise Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -168056,7 +168056,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7740829003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Partner Account Manager (Commercial) - Northern Europe",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -168168,7 +168168,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7738446003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Renewal Specialist",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -168576,7 +168576,7 @@
     "alerted": false
   },
   "greenhouse:carta:7742705003": {
-    "updated_at": "2026-05-21T11:37:12-04:00",
+    "updated_at": "2026-06-23T15:15:56-04:00",
     "title": "Fund Accountant",
     "company": "carta",
     "ats": "greenhouse",
@@ -170640,7 +170640,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8562334002": {
-    "updated_at": "2026-06-22T13:50:16-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "VP of Strategy and Corporate Development",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -170648,7 +170648,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8562297002": {
-    "updated_at": "2026-06-22T13:50:15-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "VP of Strategy and Corporate Development",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -170720,7 +170720,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7746932003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Language Manager, German (8 month FTC)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -171472,7 +171472,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8562780002": {
-    "updated_at": "2026-06-22T13:50:16-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Performance Marketing Lead",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -172248,7 +172248,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7747511003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Manager of GTM Incentive Compensation",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -172256,7 +172256,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7742671003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Manager of GTM Incentive Compensation",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -172304,7 +172304,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7747510003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Manager of GTM Incentive Compensation",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -173128,7 +173128,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7748320003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Financial Analyst \u2013 R&D",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -173552,7 +173552,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4103490007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-23T14:19:11-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -173584,7 +173584,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8517068002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
+    "updated_at": "2026-06-23T14:46:03-04:00",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -173720,7 +173720,7 @@
     "alerted": false
   },
   "greenhouse:gemini:7954981": {
-    "updated_at": "2026-06-23T08:36:28-04:00",
+    "updated_at": "2026-06-23T14:01:35-04:00",
     "title": "Director, Fraud",
     "company": "gemini",
     "ats": "greenhouse",
@@ -174504,7 +174504,7 @@
     "alerted": false
   },
   "greenhouse:coursera:5999885004": {
-    "updated_at": "2026-06-23T12:33:54-04:00",
+    "updated_at": "2026-06-23T13:37:47-04:00",
     "title": "Chief of Staff, Data",
     "company": "coursera",
     "ats": "greenhouse",
@@ -175104,7 +175104,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7748290003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Outbound Business Development Representative - Central (German speaking)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -175360,7 +175360,7 @@
     "alerted": false
   },
   "greenhouse:asana:5677728": {
-    "updated_at": "2026-06-22T19:58:25-04:00",
+    "updated_at": "2026-06-23T14:59:17-04:00",
     "title": "Inbound Sales Development Representative",
     "company": "asana",
     "ats": "greenhouse",
@@ -175648,7 +175648,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7701796003": {
-    "updated_at": "2026-06-22T04:03:01-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Product Manager, AI",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -175768,7 +175768,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7749877003": {
-    "updated_at": "2026-06-22T04:02:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer, Agent Platform",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -177064,7 +177064,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7737858003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Partner Account Manager - Mid Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -177712,7 +177712,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5224198008": {
-    "updated_at": "2026-06-17T12:19:57-04:00",
+    "updated_at": "2026-06-23T14:54:49-04:00",
     "title": "Senior Tax Accountant",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -178928,8 +178928,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7702714": {
-    "updated_at": "2026-06-15T16:37:55-04:00",
-    "title": "Staff Software Engineer, Infrastructure",
+    "updated_at": "2026-06-23T14:29:15-04:00",
+    "title": "Staff Software Engineer, Storage",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -179224,7 +179224,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7728408003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Commercial Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -179520,7 +179520,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8570910002": {
-    "updated_at": "2026-06-22T13:50:16-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Recruiter II",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -179528,7 +179528,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8570880002": {
-    "updated_at": "2026-06-22T13:50:16-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Recruiter II",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -179792,7 +179792,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7727703003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead People Systems Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -181528,7 +181528,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7963211": {
-    "updated_at": "2026-06-11T11:38:27-04:00",
+    "updated_at": "2026-06-23T15:17:20-04:00",
     "title": "Renewal Account Executive - Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -181696,7 +181696,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7573545003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Customer Success Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -183080,7 +183080,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7751631003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Enterprise Partner Account Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -184064,8 +184064,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7951682": {
-    "updated_at": "2026-06-13T03:01:59-04:00",
-    "title": "Program Manager, DEI",
+    "updated_at": "2026-06-23T14:25:23-04:00",
+    "title": "Learning Community Specialist",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -185904,7 +185904,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8576434002": {
-    "updated_at": "2026-06-22T13:50:16-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Corporate Counsel",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -186016,7 +186016,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7718462003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "MM Account Executive",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -187016,7 +187016,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8573696002": {
-    "updated_at": "2026-06-22T13:50:16-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Staff Accountant",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -189344,7 +189344,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7695230003": {
-    "updated_at": "2026-06-22T04:02:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer - Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -189936,7 +189936,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7764600003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Associate Growth Specialist, Italian & Spanish Speaker",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -190072,7 +190072,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7746935003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Director, Professional Services, EMEA",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -190640,7 +190640,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7982720": {
-    "updated_at": "2026-06-22T10:31:27-04:00",
+    "updated_at": "2026-06-23T14:33:16-04:00",
     "title": "Secure Device Mobile Engineer",
     "company": "stripe",
     "ats": "greenhouse",
@@ -190808,7 +190808,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8579044002": {
-    "updated_at": "2026-06-05T17:45:46-04:00",
+    "updated_at": "2026-06-23T13:32:30-04:00",
     "title": "Professional Services Engagement Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -191136,7 +191136,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8581359002": {
-    "updated_at": "2026-06-05T22:15:12-04:00",
+    "updated_at": "2026-06-23T14:11:58-04:00",
     "title": "Propulsion Technician (Starship) - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -192440,7 +192440,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7763747003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Commercial - Northern Europe",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -192672,7 +192672,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7636082003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Product Designer - Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -194960,7 +194960,7 @@
     "alerted": false
   },
   "greenhouse:imply:7767020003": {
-    "updated_at": "2026-06-23T12:31:51-04:00",
+    "updated_at": "2026-06-23T14:02:53-04:00",
     "title": "Senior Business Development Representative (Remote UK)",
     "company": "imply",
     "ats": "greenhouse",
@@ -195016,7 +195016,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8583866002": {
-    "updated_at": "2026-06-22T13:50:16-04:00",
+    "updated_at": "2026-06-23T14:41:55-04:00",
     "title": "Senior AI Engineering Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -195024,7 +195024,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8583896002": {
-    "updated_at": "2026-06-22T13:50:17-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Senior AI Engineering Manager",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -195080,7 +195080,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7766993003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Lead AI Software Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -195168,7 +195168,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8584465002": {
-    "updated_at": "2026-06-22T13:50:17-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Senior Director of Engineering, New Subjects",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -195648,7 +195648,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7767546003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive, Mid-Enterprise (Hospitality)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -197272,7 +197272,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5205497008": {
-    "updated_at": "2026-06-10T13:42:46-04:00",
+    "updated_at": "2026-06-23T15:17:50-04:00",
     "title": "Tax Principal, Business Advisory",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -198536,7 +198536,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7767581003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Deliverability Strategist",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -198920,7 +198920,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8582822002": {
-    "updated_at": "2026-06-18T02:53:49-04:00",
+    "updated_at": "2026-06-23T13:30:24-04:00",
     "title": "Chief of Staff, Policy",
     "company": "lyft",
     "ats": "greenhouse",
@@ -200208,7 +200208,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7728815003": {
-    "updated_at": "2026-06-22T04:03:12-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Product Manager, Core Data",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -201344,7 +201344,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8000779": {
-    "updated_at": "2026-06-19T14:39:05-04:00",
+    "updated_at": "2026-06-23T14:34:08-04:00",
     "title": "Principal People Team Business Partner - M&A / Strategy",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -201400,7 +201400,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7772013003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Director, Product Marketing",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -201408,7 +201408,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7771965003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Director, Product Marketing",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -201440,7 +201440,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688540006": {
-    "updated_at": "2026-06-17T18:35:51-04:00",
+    "updated_at": "2026-06-23T13:16:16-04:00",
     "title": "Account Executive - Greenfield",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -201648,7 +201648,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8590178002": {
-    "updated_at": "2026-06-22T13:50:17-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Head of Talent Management Programs and PMO",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -201728,7 +201728,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8590308002": {
-    "updated_at": "2026-06-22T13:50:17-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Senior B2B Marketing Manager, DET (UK, Europe & ANZ)",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -201888,7 +201888,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8590229002": {
-    "updated_at": "2026-06-22T13:50:17-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Staff Program Manager Brand Campaigns",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -201896,7 +201896,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8590215002": {
-    "updated_at": "2026-06-22T13:50:17-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Staff Program Manager Brand Campaigns",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -202032,7 +202032,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8590390002": {
-    "updated_at": "2026-06-22T13:50:17-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Senior People Technology Analyst",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -202040,7 +202040,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8590394002": {
-    "updated_at": "2026-06-22T13:50:18-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Senior People Technology Analyst",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -203296,7 +203296,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7688416003": {
-    "updated_at": "2026-06-22T04:02:55-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Software Engineer, AI Enablement",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -203496,7 +203496,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7773419003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -203504,7 +203504,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7773417003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -203512,7 +203512,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7773407003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -203520,7 +203520,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7773398003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -203536,7 +203536,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7768263003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Director of Engineering, Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -204872,7 +204872,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7762361003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Director of Sales, Commercial (Europe)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -205352,7 +205352,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8010251": {
-    "updated_at": "2026-06-16T11:28:23-04:00",
+    "updated_at": "2026-06-23T13:57:52-04:00",
     "title": "Lead Supplier API Account Manager (Viator)",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -205368,7 +205368,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7773703003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Manager - Security Risk Engineering",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -205376,7 +205376,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7765049003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Leaves and Accommodations Analyst",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -205384,7 +205384,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7775007003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Leaves and Accommodations Analyst",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -206000,7 +206000,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7774761003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Product Leader, Finance Engineering",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -206008,7 +206008,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7774760003": {
-    "updated_at": "2026-06-23T12:17:47-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Order to Cash Track Lead, Finance Engineering",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -206600,7 +206600,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7967994": {
-    "updated_at": "2026-06-22T12:33:56-04:00",
+    "updated_at": "2026-06-23T14:48:09-04:00",
     "title": "Sales Development Representative",
     "company": "twilio",
     "ats": "greenhouse",
@@ -206816,7 +206816,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7776017003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Commercial Account Executive (Spanish and/or Portuguese Speaking)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -207328,7 +207328,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:8000770": {
-    "updated_at": "2026-06-19T08:32:31-04:00",
+    "updated_at": "2026-06-23T15:14:03-04:00",
     "title": "Partner\u00a0Growth\u00a0Manager",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -208168,7 +208168,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8555333002": {
-    "updated_at": "2026-06-18T02:53:49-04:00",
+    "updated_at": "2026-06-23T13:10:58-04:00",
     "title": "Candidate Experience Lead",
     "company": "lyft",
     "ats": "greenhouse",
@@ -208576,7 +208576,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7776857003": {
-    "updated_at": "2026-06-18T04:27:57-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive Commercial, Spanish Speaker",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -208584,7 +208584,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7775157003": {
-    "updated_at": "2026-06-18T04:27:34-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Outbound Business Development Representative - Southern (Spain)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -208824,8 +208824,8 @@
     "alerted": true
   },
   "greenhouse:cloudflare:8015719": {
-    "updated_at": "2026-06-18T11:44:39-04:00",
-    "title": "Senior Account Executive, Start-ups (Bay Area)",
+    "updated_at": "2026-06-23T15:10:24-04:00",
+    "title": "Senior Account Executive, Startups (San Francisco)",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -209304,7 +209304,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8014904": {
-    "updated_at": "2026-06-18T13:34:30-04:00",
+    "updated_at": "2026-06-23T14:00:41-04:00",
     "title": "Senior Machine Learning Engineer, Customer Support Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -209528,7 +209528,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8013764": {
-    "updated_at": "2026-06-23T13:02:12-04:00",
+    "updated_at": "2026-06-23T14:02:11-04:00",
     "title": "Customer Success Support Associate",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -209624,7 +209624,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8010197": {
-    "updated_at": "2026-06-18T16:51:27-04:00",
+    "updated_at": "2026-06-23T15:07:10-04:00",
     "title": "Product Marketing Manager",
     "company": "ripple",
     "ats": "greenhouse",
@@ -209640,7 +209640,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8010199": {
-    "updated_at": "2026-06-18T16:50:51-04:00",
+    "updated_at": "2026-06-23T15:07:29-04:00",
     "title": "Product Marketing Manager",
     "company": "ripple",
     "ats": "greenhouse",
@@ -209656,7 +209656,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8010164": {
-    "updated_at": "2026-06-18T16:47:40-04:00",
+    "updated_at": "2026-06-23T15:12:19-04:00",
     "title": "Senior Content Marketing Specialist",
     "company": "ripple",
     "ats": "greenhouse",
@@ -209688,7 +209688,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8010162": {
-    "updated_at": "2026-06-18T16:44:54-04:00",
+    "updated_at": "2026-06-23T15:12:02-04:00",
     "title": "Senior Content Marketing Specialist",
     "company": "ripple",
     "ats": "greenhouse",
@@ -210232,7 +210232,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7774824003": {
-    "updated_at": "2026-06-18T17:21:35-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Software Engineer II, Messaging Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -210240,7 +210240,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7774823003": {
-    "updated_at": "2026-06-23T08:40:42-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Sr. Software Engineer, Messaging Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -210248,7 +210248,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7774822003": {
-    "updated_at": "2026-06-18T17:19:06-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Lead Software Engineer, Messaging Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -210472,7 +210472,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8003458": {
-    "updated_at": "2026-06-18T18:55:07-04:00",
+    "updated_at": "2026-06-23T14:22:51-04:00",
     "title": "Assistant General Counsel, Regulatory",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -210496,7 +210496,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7777531003": {
-    "updated_at": "2026-06-19T01:49:03-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Mid Enterprise Customer Success Manager",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -210728,7 +210728,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7777760003": {
-    "updated_at": "2026-06-19T04:15:01-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Principal Commercial Sales Enablement Partner, EMEA",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -210752,8 +210752,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:7302418": {
-    "updated_at": "2026-06-22T16:23:52-04:00",
-    "title": "Director Product Strategy  \u2013 AI Product Line",
+    "updated_at": "2026-06-23T14:24:53-04:00",
+    "title": "Director Business Strategy  \u2013 AI Product Line",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -210800,7 +210800,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8594126002": {
-    "updated_at": "2026-06-19T09:34:01-04:00",
+    "updated_at": "2026-06-23T13:47:33-04:00",
     "title": "Operations Technology Product Designer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -210808,7 +210808,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8594314002": {
-    "updated_at": "2026-06-19T09:33:29-04:00",
+    "updated_at": "2026-06-23T13:47:02-04:00",
     "title": "Concepteur de Produits Technologiques Op\u00e9rationnels",
     "company": "lyft",
     "ats": "greenhouse",
@@ -210864,7 +210864,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7776856003": {
-    "updated_at": "2026-06-19T09:05:32-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Account Executive Commercial, Italian Speaker",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -211928,7 +211928,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8589259002": {
-    "updated_at": "2026-06-23T09:28:09-04:00",
+    "updated_at": "2026-06-23T14:15:23-04:00",
     "title": "Account Receivable Associate ( 6 Months Contract)",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -212448,7 +212448,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8594866002": {
-    "updated_at": "2026-06-22T09:57:26-04:00",
+    "updated_at": "2026-06-23T15:11:03-04:00",
     "title": "Operations Associate, Flexdrive",
     "company": "lyft",
     "ats": "greenhouse",
@@ -212520,7 +212520,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7777369003": {
-    "updated_at": "2026-06-22T09:32:17-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer - Infrastructure Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -212960,7 +212960,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8016561": {
-    "updated_at": "2026-06-22T13:58:41-04:00",
+    "updated_at": "2026-06-23T14:33:38-04:00",
     "title": "Principal People Team Business Partner - GTM",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -212984,7 +212984,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8602852002": {
-    "updated_at": "2026-06-22T13:50:18-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Executive Assistant to the CEO",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -212992,7 +212992,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8602840002": {
-    "updated_at": "2026-06-22T13:50:18-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Executive Assistant to the CEO",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -213216,7 +213216,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7751100003": {
-    "updated_at": "2026-06-22T16:52:17-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Software Engineer - Flows AI",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -213416,7 +213416,7 @@
     "alerted": false
   },
   "greenhouse:postman:7780627003": {
-    "updated_at": "2026-06-22T18:37:38-04:00",
+    "updated_at": "2026-06-23T13:23:51-04:00",
     "title": "Regional Channel Sales Leader, North America",
     "company": "postman",
     "ats": "greenhouse",
@@ -213424,7 +213424,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7780563003": {
-    "updated_at": "2026-06-22T18:36:19-04:00",
+    "updated_at": "2026-06-23T14:32:03-04:00",
     "title": "Home Equity Loan Processor",
     "company": "sofi",
     "ats": "greenhouse",
@@ -213464,7 +213464,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7780642003": {
-    "updated_at": "2026-06-22T18:28:02-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Principal Enablement Partner, BDR",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -213480,7 +213480,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5170619007": {
-    "updated_at": "2026-06-22T18:26:39-04:00",
+    "updated_at": "2026-06-23T14:24:00-04:00",
     "title": "Sales Recruiter, Atlanta",
     "company": "verkada",
     "ats": "greenhouse",
@@ -214032,7 +214032,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8603653002": {
-    "updated_at": "2026-06-23T10:20:06-04:00",
+    "updated_at": "2026-06-23T14:55:47-04:00",
     "title": "Senior Machine Learning Engineer, Rider Applied AI",
     "company": "lyft",
     "ats": "greenhouse",
@@ -214128,7 +214128,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8016354": {
-    "updated_at": "2026-06-23T08:42:49-04:00",
+    "updated_at": "2026-06-23T13:05:50-04:00",
     "title": "Channels Operations Manager, Managed Services",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -214168,7 +214168,7 @@
     "alerted": false
   },
   "greenhouse:okta:8023904": {
-    "updated_at": "2026-06-23T12:54:41-04:00",
+    "updated_at": "2026-06-23T14:48:53-04:00",
     "title": "Staff Product Designer",
     "company": "okta",
     "ats": "greenhouse",
@@ -214264,7 +214264,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7659484003": {
-    "updated_at": "2026-06-23T12:36:50-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Software Engineer II - Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -214272,7 +214272,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8017556": {
-    "updated_at": "2026-06-23T12:36:03-04:00",
+    "updated_at": "2026-06-23T14:46:18-04:00",
     "title": "Senior Software Engineer, Community Support Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -214328,8 +214328,8 @@
     "alerted": false
   },
   "greenhouse:instabase:8600315002": {
-    "updated_at": "2026-06-23T12:12:19-04:00",
-    "title": "Customer Engagement Manager",
+    "updated_at": "2026-06-23T13:42:28-04:00",
+    "title": "Senior Customer Engagement Manager",
     "company": "instabase",
     "ats": "greenhouse",
     "source_slug": "instabase",
@@ -214432,7 +214432,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8014761": {
-    "updated_at": "2026-06-23T11:47:51-04:00",
+    "updated_at": "2026-06-23T14:23:50-04:00",
     "title": "Product Marketing Manager, Market Intelligence",
     "company": "stripe",
     "ats": "greenhouse",
@@ -214560,7 +214560,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7766942003": {
-    "updated_at": "2026-06-23T10:50:59-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Director, Product Management - Channel Infrastructure & Mobile",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -214584,7 +214584,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7780011003": {
-    "updated_at": "2026-06-23T10:42:43-04:00",
+    "updated_at": "2026-06-23T13:49:02-04:00",
     "title": "Senior Security Compliance Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -214592,7 +214592,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8604113002": {
-    "updated_at": "2026-06-23T10:38:04-04:00",
+    "updated_at": "2026-06-23T14:41:56-04:00",
     "title": "Product Marketing Lead",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -214621,6 +214621,438 @@
     "company": "robinhood",
     "ats": "greenhouse",
     "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:bitgo:8604773002": {
+    "updated_at": "2026-06-23T15:13:58-04:00",
+    "title": "Head of Internal Audit",
+    "company": "bitgo",
+    "ats": "greenhouse",
+    "source_slug": "bitgo",
+    "alerted": false
+  },
+  "greenhouse:bitgo:8224387002": {
+    "updated_at": "2026-06-23T15:13:28-04:00",
+    "title": "Head of Internal Audit",
+    "company": "bitgo",
+    "ats": "greenhouse",
+    "source_slug": "bitgo",
+    "alerted": false
+  },
+  "greenhouse:carta:7596522003": {
+    "updated_at": "2026-06-23T15:13:11-04:00",
+    "title": "Senior Fund Accountant",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8604744002": {
+    "updated_at": "2026-06-23T15:07:21-04:00",
+    "title": "Supervisor, Security",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:toast:8013579": {
+    "updated_at": "2026-06-23T15:06:58-04:00",
+    "title": "Tulsa, OK Territory Account Executive",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:airtable:8382119002": {
+    "updated_at": "2026-06-23T15:00:47-04:00",
+    "title": "Senior Manager, Marketing AI Operations",
+    "company": "airtable",
+    "ats": "greenhouse",
+    "source_slug": "airtable",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8023815": {
+    "updated_at": "2026-06-23T14:58:13-04:00",
+    "title": "Senior Manager, Institutional Sales",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:betterment:8014433": {
+    "updated_at": "2026-06-23T14:57:41-04:00",
+    "title": "Sr. Manager, Licensed Customer Experience",
+    "company": "betterment",
+    "ats": "greenhouse",
+    "source_slug": "betterment",
+    "alerted": false
+  },
+  "greenhouse:spacex:8604697002": {
+    "updated_at": "2026-06-23T14:56:51-04:00",
+    "title": "IT Network Administrator",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8023818": {
+    "updated_at": "2026-06-23T14:52:56-04:00",
+    "title": "Counsel, Event Partnerships",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:faire:8604742002": {
+    "updated_at": "2026-06-23T14:50:30-04:00",
+    "title": "Senior Platform Analytics Engineer",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8024262": {
+    "updated_at": "2026-06-23T14:50:13-04:00",
+    "title": "Staff Workday Integration Engineer",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:faire:8604627002": {
+    "updated_at": "2026-06-23T14:48:20-04:00",
+    "title": "Recruiter (6 Month Contract)",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:stripe:8022463": {
+    "updated_at": "2026-06-23T14:47:17-04:00",
+    "title": "KYB/KYC Operations Associate, Bridge (CDMX)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:reddit:8024327": {
+    "updated_at": "2026-06-23T14:47:05-04:00",
+    "title": "Curriculum Lead, GTM Enablement",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8024322": {
+    "updated_at": "2026-06-23T14:47:04-04:00",
+    "title": "Curriculum Lead, GTM Enablement",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8024321": {
+    "updated_at": "2026-06-23T14:47:03-04:00",
+    "title": "Curriculum Lead, GTM Enablement",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8016926": {
+    "updated_at": "2026-06-23T14:47:02-04:00",
+    "title": "Curriculum Lead, GTM Enablement",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:alloy:8603583002": {
+    "updated_at": "2026-06-23T14:44:49-04:00",
+    "title": "Senior Technical Success Manager, Partnerships",
+    "company": "alloy",
+    "ats": "greenhouse",
+    "source_slug": "alloy",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7997100": {
+    "updated_at": "2026-06-23T14:36:30-04:00",
+    "title": "CX Finance Director",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4691389006": {
+    "updated_at": "2026-06-23T14:34:47-04:00",
+    "title": "Senior Accountant, Intercompany Accounting",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:databricks:8576249002": {
+    "updated_at": "2026-06-23T14:32:43-04:00",
+    "title": "Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4691415006": {
+    "updated_at": "2026-06-23T14:29:20-04:00",
+    "title": "Strategic Sourcing Manager - Global Network Acquisition",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:spacex:8604664002": {
+    "updated_at": "2026-06-23T14:28:30-04:00",
+    "title": "Application Software Engineer (C#/ Python), Data",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:okta:8021037": {
+    "updated_at": "2026-06-23T14:23:54-04:00",
+    "title": "Senior Manager, Technical Architecture",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:databricks:8560779002": {
+    "updated_at": "2026-06-23T14:22:46-04:00",
+    "title": "Software Engineer, Web Products",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:mercury:6099697004": {
+    "updated_at": "2026-06-23T14:20:26-04:00",
+    "title": "Senior Product Designer - Disputes",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:mercury:6099695004": {
+    "updated_at": "2026-06-23T14:19:42-04:00",
+    "title": "Senior Brand Designer - Growth",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4691064006": {
+    "updated_at": "2026-06-23T14:19:23-04:00",
+    "title": "Staff Medium Voltage Substation/Distribution Design Engineer",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:reddit:8021867": {
+    "updated_at": "2026-06-23T14:17:27-04:00",
+    "title": "Client Account Executive, Mid-Market (Goods)",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:spacex:8604523002": {
+    "updated_at": "2026-06-23T14:14:53-04:00",
+    "title": "Pipe Welder (Night Shift) - Level 4",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:datadog:7857714": {
+    "updated_at": "2026-06-23T14:03:55-04:00",
+    "title": "Enterprise Sales Engineer - Rockies",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4691403006": {
+    "updated_at": "2026-06-23T13:59:12-04:00",
+    "title": "People Business Partner- G&A",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:justworks:7914223": {
+    "updated_at": "2026-06-23T13:57:54-04:00",
+    "title": "Engineering Manager, Product Foundations",
+    "company": "justworks",
+    "ats": "greenhouse",
+    "source_slug": "justworks",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8002854": {
+    "updated_at": "2026-06-23T13:52:54-04:00",
+    "title": "Terminations and Deconversions Analyst",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:spacex:8601804002": {
+    "updated_at": "2026-06-23T13:51:56-04:00",
+    "title": "Sr. Cyber Assurance Analyst, Starlink",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8603677002": {
+    "updated_at": "2026-06-23T13:51:55-04:00",
+    "title": "Sr. Cyber Assurance Analyst, Starlink",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8601801002": {
+    "updated_at": "2026-06-23T13:51:43-04:00",
+    "title": "Sr. Cyber Assurance Analyst, Launch",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8601792002": {
+    "updated_at": "2026-06-23T13:51:42-04:00",
+    "title": "Sr. Cyber Assurance Analyst, Launch",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:marqeta:8023420": {
+    "updated_at": "2026-06-23T13:44:00-04:00",
+    "title": "Risk and Compliance Manager - Marketing",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7781597003": {
+    "updated_at": "2026-06-23T13:34:06-04:00",
+    "title": "Senior Technical Product Marketing Manager",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:cribl:6092852004": {
+    "updated_at": "2026-06-23T13:24:19-04:00",
+    "title": "Regional Sales Manager, Tampa (Enterprise)",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
+    "alerted": false
+  },
+  "greenhouse:sofi:7782071003": {
+    "updated_at": "2026-06-23T13:22:51-04:00",
+    "title": "Director Business Controls, Global Operations",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:spacex:8603028002": {
+    "updated_at": "2026-06-23T13:22:28-04:00",
+    "title": "Sr. CAM Engineer, PCB (STARLINK)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8602985002": {
+    "updated_at": "2026-06-23T13:22:06-04:00",
+    "title": "Mechanical Design Engineer, PCB (STARLINK)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8604474002": {
+    "updated_at": "2026-06-23T13:19:44-04:00",
+    "title": "Security Hardware Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8015792": {
+    "updated_at": "2026-06-23T13:05:51-04:00",
+    "title": "Software Engineer 3",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:intercom:8023343": {
+    "updated_at": "2026-06-23T13:05:38-04:00",
+    "title": "Startup Partnership Manager",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:ripple:8010492": {
+    "updated_at": "2026-06-23T13:04:41-04:00",
+    "title": "Staff Software Engineer",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:datadog:8015631": {
+    "updated_at": "2026-06-23T13:03:40-04:00",
+    "title": "Partner Solutions Architect (GSI) - AMER West",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:datadog:8010455": {
+    "updated_at": "2026-06-23T13:03:40-04:00",
+    "title": "Partner Solutions Architect (GSI) - AMER West",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8022540": {
+    "updated_at": "2026-06-23T13:01:21-04:00",
+    "title": "Specialist, Market Operations",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8599677002": {
+    "updated_at": "2026-06-23T13:00:23-04:00",
+    "title": "Software Engineer (Growth)",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7780480003": {
+    "updated_at": "2026-06-23T12:57:53-04:00",
+    "title": "Enterprise Account Executive (Chicago)",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
     "alerted": false
   }
 }
