@@ -20584,7 +20584,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7707977": {
-    "updated_at": "2026-06-22T12:33:51-04:00",
+    "updated_at": "2026-06-23T05:55:00-04:00",
     "title": "Senior Principal, Technical Program Management (Research & Development)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -48400,8 +48400,8 @@
     "alerted": false
   },
   "greenhouse:datadog:7747026": {
-    "updated_at": "2026-06-11T03:24:38-04:00",
-    "title": "Principal Partner Manager - Channels (South EMEA GSI)",
+    "updated_at": "2026-06-23T05:17:59-04:00",
+    "title": "Principal Partner Manager - Channels (EMEA GSI)",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -63768,7 +63768,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5074752007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-23T06:31:08-04:00",
     "title": "Account Executive, Nordics",
     "company": "verkada",
     "ats": "greenhouse",
@@ -84960,7 +84960,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7785533": {
-    "updated_at": "2026-06-17T14:01:22-04:00",
+    "updated_at": "2026-06-23T05:41:26-04:00",
     "title": "Senior Security Risk Management Analyst",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -85096,7 +85096,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7704236": {
-    "updated_at": "2026-06-17T14:00:59-04:00",
+    "updated_at": "2026-06-23T05:40:40-04:00",
     "title": "Field Marketing Manager UKI",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -85632,7 +85632,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7372314": {
-    "updated_at": "2026-06-17T13:57:49-04:00",
+    "updated_at": "2026-06-23T05:40:53-04:00",
     "title": "Mid Market Account Executive (Alpine region)",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -88448,8 +88448,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8439078002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
-    "title": "Manager, Professional Services (Forward Deployed Engineering)",
+    "updated_at": "2026-06-23T07:29:21-04:00",
+    "title": "Manager, Professional Services (Forward Deployed Engineering-Full Stack)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -93776,7 +93776,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7777384": {
-    "updated_at": "2026-06-19T07:54:40-04:00",
+    "updated_at": "2026-06-23T06:48:35-04:00",
     "title": "Commercial Account Executive - CEE",
     "company": "datadog",
     "ats": "greenhouse",
@@ -113664,8 +113664,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:7431085": {
-    "updated_at": "2026-06-09T12:23:30-04:00",
-    "title": "R&D Team Lead (Fullstack)",
+    "updated_at": "2026-06-23T07:15:10-04:00",
+    "title": "Tech Lead",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -146376,8 +146376,8 @@
     "alerted": false
   },
   "greenhouse:fastly:7899422": {
-    "updated_at": "2026-05-18T12:22:06-04:00",
-    "title": "Enterprise Account Manager - MENA",
+    "updated_at": "2026-06-23T06:38:38-04:00",
+    "title": "Enterprise Customer Success Manager - Dubai",
     "company": "fastly",
     "ats": "greenhouse",
     "source_slug": "fastly",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-23T03:47:28-04:00",
+    "updated_at": "2026-06-23T07:47:16-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -164768,7 +164768,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7740544003": {
-    "updated_at": "2026-06-17T17:06:58-04:00",
+    "updated_at": "2026-06-23T07:27:30-04:00",
     "title": "Account Executive, Commercial, French Speaker",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -165984,7 +165984,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7945163": {
-    "updated_at": "2026-06-03T02:25:40-04:00",
+    "updated_at": "2026-06-23T06:54:26-04:00",
     "title": "Software Engineer, Community Support Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -178952,7 +178952,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7964996": {
-    "updated_at": "2026-06-05T15:04:15-04:00",
+    "updated_at": "2026-06-23T05:55:10-04:00",
     "title": "Safety Specialist",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -179208,7 +179208,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8570587002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
+    "updated_at": "2026-06-23T06:02:05-04:00",
     "title": "Senior Solutions Architect - Lakebase",
     "company": "databricks",
     "ats": "greenhouse",
@@ -179216,7 +179216,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8570586002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
+    "updated_at": "2026-06-23T06:02:05-04:00",
     "title": "Senior Solutions Architect - Lakebase",
     "company": "databricks",
     "ats": "greenhouse",
@@ -182424,8 +182424,8 @@
     "alerted": false
   },
   "greenhouse:amplitude:8573721002": {
-    "updated_at": "2026-06-18T10:32:51-04:00",
-    "title": "Customer Success Trainer - EMEA",
+    "updated_at": "2026-06-23T04:53:19-04:00",
+    "title": "Technical Trainer - EMEA",
     "company": "amplitude",
     "ats": "greenhouse",
     "source_slug": "amplitude",
@@ -183912,7 +183912,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8568868002": {
-    "updated_at": "2026-06-05T16:18:10-04:00",
+    "updated_at": "2026-06-23T07:45:40-04:00",
     "title": "Senior Product Manager, AI Platform Management",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -187456,7 +187456,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7960367": {
-    "updated_at": "2026-06-19T05:59:17-04:00",
+    "updated_at": "2026-06-23T06:36:23-04:00",
     "title": "Product Support Engineer III",
     "company": "samsara",
     "ats": "greenhouse",
@@ -192656,7 +192656,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8569522002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
+    "updated_at": "2026-06-23T05:52:12-04:00",
     "title": "Lakebase Sales Specialist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -196352,7 +196352,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7993078": {
-    "updated_at": "2026-06-22T18:20:10-04:00",
+    "updated_at": "2026-06-23T06:20:35-04:00",
     "title": "Technical Director, Builder Relations",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -204712,7 +204712,7 @@
     "alerted": false
   },
   "greenhouse:toast:8007706": {
-    "updated_at": "2026-06-22T05:15:06-04:00",
+    "updated_at": "2026-06-23T06:52:35-04:00",
     "title": "Manager, Customer Care - International",
     "company": "toast",
     "ats": "greenhouse",
@@ -206936,7 +206936,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8012744": {
-    "updated_at": "2026-06-17T06:57:44-04:00",
+    "updated_at": "2026-06-23T06:17:26-04:00",
     "title": "Senior Client Partner, Mid-Market - UK",
     "company": "reddit",
     "ats": "greenhouse",
@@ -206944,7 +206944,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8012700": {
-    "updated_at": "2026-06-17T06:53:29-04:00",
+    "updated_at": "2026-06-23T06:16:58-04:00",
     "title": "Acquisition Account Manager, Mid-Market EMEA",
     "company": "reddit",
     "ats": "greenhouse",
@@ -208760,8 +208760,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:8015553": {
-    "updated_at": "2026-06-18T06:31:12-04:00",
-    "title": "Senior Workplace Senior Manager",
+    "updated_at": "2026-06-23T07:16:16-04:00",
+    "title": "Regional Senior Workplace Manager",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -210872,8 +210872,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8585601002": {
-    "updated_at": "2026-06-19T08:58:14-04:00",
-    "title": "Specialist Solutions Architect",
+    "updated_at": "2026-06-23T07:21:00-04:00",
+    "title": "Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -211872,7 +211872,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4688759006": {
-    "updated_at": "2026-06-22T04:31:27-04:00",
+    "updated_at": "2026-06-23T05:04:40-04:00",
     "title": "Sales Director",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -211912,7 +211912,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8020266": {
-    "updated_at": "2026-06-22T03:48:00-04:00",
+    "updated_at": "2026-06-23T05:01:29-04:00",
     "title": "Senior Manager, Account Management",
     "company": "flexport",
     "ats": "greenhouse",
@@ -212360,7 +212360,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020871": {
-    "updated_at": "2026-06-22T10:11:46-04:00",
+    "updated_at": "2026-06-23T05:46:49-04:00",
     "title": "Principal Software Engineer - Search Scaling - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212408,7 +212408,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020846": {
-    "updated_at": "2026-06-22T10:06:27-04:00",
+    "updated_at": "2026-06-23T05:46:15-04:00",
     "title": "Principal Software Engineer - Vector Search - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -213128,7 +213128,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8012503": {
-    "updated_at": "2026-06-22T12:17:30-04:00",
+    "updated_at": "2026-06-23T07:37:42-04:00",
     "title": "Senior Video Editor, Wanderlab",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -213752,7 +213752,7 @@
     "alerted": true
   },
   "greenhouse:elastic:8022947": {
-    "updated_at": "2026-06-23T04:07:17-04:00",
+    "updated_at": "2026-06-23T07:06:18-04:00",
     "title": "Lifecycle Marketing Manager - Self Service Cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -213760,7 +213760,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8022946": {
-    "updated_at": "2026-06-23T04:07:15-04:00",
+    "updated_at": "2026-06-23T07:06:18-04:00",
     "title": "Lifecycle Marketing Manager - Self Service Cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -213768,7 +213768,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002710": {
-    "updated_at": "2026-06-23T04:07:14-04:00",
+    "updated_at": "2026-06-23T07:06:18-04:00",
     "title": "Lifecycle Marketing Manager - Self Service Cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -213821,6 +213821,214 @@
     "company": "godaddy",
     "ats": "greenhouse",
     "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:huntress:7776835003": {
+    "updated_at": "2026-06-23T06:48:28-04:00",
+    "title": "Principal Software Engineer, SOC Experience (Ruby/Rails)",
+    "company": "huntress",
+    "ats": "greenhouse",
+    "source_slug": "huntress",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8012858": {
+    "updated_at": "2026-06-23T06:47:58-04:00",
+    "title": "Partner Development Representative (PDR)",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:stripe:8023120": {
+    "updated_at": "2026-06-23T06:37:15-04:00",
+    "title": "Sales Development Representative (German Fluency)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:8023124": {
+    "updated_at": "2026-06-23T06:36:56-04:00",
+    "title": "Sales Development Representative (French Fluency)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8023165": {
+    "updated_at": "2026-06-23T06:27:49-04:00",
+    "title": "Principal Software Engineer - Digital Systems",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8019869": {
+    "updated_at": "2026-06-23T06:24:18-04:00",
+    "title": "Program Manager, Stablecoin and PAYO Digital Bank",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:databricks:8600818002": {
+    "updated_at": "2026-06-23T06:09:26-04:00",
+    "title": "Senior Specialist Solutions Engineer (AI/ML)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7920608": {
+    "updated_at": "2026-06-23T06:07:06-04:00",
+    "title": "Member of Technical Staff - Drive Qual",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8014957": {
+    "updated_at": "2026-06-23T06:01:05-04:00",
+    "title": "Technical Writer",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:stripe:8023136": {
+    "updated_at": "2026-06-23T05:56:12-04:00",
+    "title": "Integration Engineer (Client facing), Professional Services",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8023118": {
+    "updated_at": "2026-06-23T05:55:55-04:00",
+    "title": "Lead Advanced Analytics, Marketplace",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:stripe:8023134": {
+    "updated_at": "2026-06-23T05:54:35-04:00",
+    "title": "Integration Engineer (Client facing), Professional Services",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8007613": {
+    "updated_at": "2026-06-23T05:53:22-04:00",
+    "title": "Technical Services Engineer",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8007293": {
+    "updated_at": "2026-06-23T05:44:34-04:00",
+    "title": "PCIe Hardware System Engineer",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8007246": {
+    "updated_at": "2026-06-23T05:42:18-04:00",
+    "title": "Hardware Design Engineer",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7645865": {
+    "updated_at": "2026-06-23T05:39:42-04:00",
+    "title": "Proposal Manager",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:workato:8598428002": {
+    "updated_at": "2026-06-23T05:29:05-04:00",
+    "title": "Regional Vice President - Sales, ANZ",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8023104": {
+    "updated_at": "2026-06-23T05:17:58-04:00",
+    "title": "Sales Account Manager",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8015833": {
+    "updated_at": "2026-06-23T05:13:22-04:00",
+    "title": "Sales Operations Analyst",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:flexport:8022960": {
+    "updated_at": "2026-06-23T05:00:50-04:00",
+    "title": "Staff Product Manager",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:6629769": {
+    "updated_at": "2026-06-23T04:54:25-04:00",
+    "title": "Senior Renewals Account Manager - German Speaking",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:databricks:8603380002": {
+    "updated_at": "2026-06-23T04:50:55-04:00",
+    "title": "Executive Assistant",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7728678003": {
+    "updated_at": "2026-06-23T04:48:22-04:00",
+    "title": "Security Engineer",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:databricks:8569524002": {
+    "updated_at": "2026-06-23T04:33:16-04:00",
+    "title": "Lakebase Sales Specialist",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8020830": {
+    "updated_at": "2026-06-23T04:31:37-04:00",
+    "title": "Sales Project Manager Intern (AI Innovation) (Fall 2026)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:datadog:8018696": {
+    "updated_at": "2026-06-23T04:20:53-04:00",
+    "title": "Technical Account Manager 2 - South Africa",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
     "alerted": false
   }
 }
