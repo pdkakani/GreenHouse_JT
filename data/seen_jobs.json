@@ -8048,7 +8048,7 @@
     "alerted": true
   },
   "greenhouse:stripe:6570253": {
-    "updated_at": "2026-05-14T13:08:51-04:00",
+    "updated_at": "2026-06-24T18:45:23-04:00",
     "title": "Sales Development Representative",
     "company": "stripe",
     "ats": "greenhouse",
@@ -9808,7 +9808,7 @@
     "alerted": true
   },
   "greenhouse:coinbase:7580292": {
-    "updated_at": "2026-06-08T12:09:15-04:00",
+    "updated_at": "2026-06-24T18:28:58-04:00",
     "title": "Senior Staff Software Engineer, Core Automation",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -10192,8 +10192,8 @@
     "alerted": true
   },
   "greenhouse:robinhood:6675127": {
-    "updated_at": "2026-06-24T16:17:10-04:00",
-    "title": "Senior iOS Engineer",
+    "updated_at": "2026-06-24T18:35:35-04:00",
+    "title": "Senior iOS Engineer, Retirement & Accounts",
     "company": "robinhood",
     "ats": "greenhouse",
     "source_slug": "robinhood",
@@ -33896,8 +33896,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7658914": {
-    "updated_at": "2026-06-16T23:09:54-04:00",
-    "title": "Software Technical Lead Manager, Test Automation Infrastructure",
+    "updated_at": "2026-06-24T17:44:12-04:00",
+    "title": "Software Technical Lead Manager, Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -35072,7 +35072,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5112051007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Associate Recruiter",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35080,7 +35080,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4595354007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Associate Solutions Engineering Program Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35096,7 +35096,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4915101007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Backend Engineer - Access Control",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35104,7 +35104,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128767007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Backend Engineer - Alerts and Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35112,7 +35112,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5099422007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Backend Software Engineering Intern - Fall 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35136,7 +35136,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4970811007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Growth Marketing Manager, Channel Technical Programs",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35144,7 +35144,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5081188007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Director of Firmware Engineering, Cameras",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35160,7 +35160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5057188007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Director of Public Sector Business Development",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35168,7 +35168,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4706884007": {
-    "updated_at": "2026-06-24T16:12:57-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Director of Enablement, Solutions Engineering",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35192,7 +35192,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4129347007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Embedded Linux Security Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35248,7 +35248,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140679007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Development Representative",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35256,7 +35256,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4669998007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineer, Central Corp",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35280,7 +35280,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5069449007": {
-    "updated_at": "2026-06-18T14:25:49-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineer, Ohio/Indiana, SLED",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35288,7 +35288,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4834059007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineer, West Coast",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35312,7 +35312,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5099529007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Frontend Software Engineering Intern - Fall 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35320,7 +35320,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5101666007": {
-    "updated_at": "2026-06-16T15:29:55-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Full Stack Engineer, Go-to-Market Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35328,7 +35328,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140713007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Global Solutions Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35336,7 +35336,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4207342007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Hardware Engineering Program Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35360,7 +35360,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4548335007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Lead Embedded Linux Engineer - Intercom",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35368,7 +35368,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4989832007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Lead Software Engineer - Fleet Management",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35392,7 +35392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135168007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Product Design Mechanical Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35400,7 +35400,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4086535007": {
-    "updated_at": "2026-06-24T16:07:52-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Development Representative (AAE), Bay Area",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35416,7 +35416,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087170007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Development Representative (AAE), Salt Lake City",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35424,7 +35424,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135271007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Development Representative (AAE), Tampa",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35432,7 +35432,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5044898007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Android Engineer - Mobile Platform & Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35448,7 +35448,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5051023007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Backend Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35464,7 +35464,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128700007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Backend Engineer - Alerts and Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35472,7 +35472,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4234743007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Backend Engineer - Camera Foundation",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35512,7 +35512,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4261270007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior BSP Engineer - Cameras",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35568,7 +35568,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4816589007": {
-    "updated_at": "2026-06-24T16:16:43-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Product Manager, Video Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35608,7 +35608,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4949035007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Project Engineer, Global Services",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35616,7 +35616,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4818850007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Software Engineer, Business Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35624,7 +35624,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128752007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Software Engineer - C++",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35640,7 +35640,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4129305007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Software Engineer, Data Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35664,7 +35664,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5066093007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Software Engineer \u2013 Storage Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35696,7 +35696,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4997665007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Technical Support Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35704,7 +35704,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5083834007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Test Engineer, Cameras",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35720,7 +35720,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128624007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineer - Computer Vision",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35728,7 +35728,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135093007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineer - Fleet Management",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35736,7 +35736,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4134234007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineer - Imaging Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35768,7 +35768,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5044258007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineering Manager, Growth",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35776,7 +35776,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5087511007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineering Manager - Intercom",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35784,7 +35784,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5029725007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineer, Platform Infrastructure",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35816,7 +35816,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4138083007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Solutions Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35840,7 +35840,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4185105007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Solutions Engineering Manager, Select & Territory",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35896,7 +35896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5029602007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Embedded Software Engineer - Camera Firmware",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35952,7 +35952,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5063200007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35960,7 +35960,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5017082007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineering Intern - Fall 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35968,7 +35968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4715534007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -37544,8 +37544,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8439170002": {
-    "updated_at": "2026-06-16T19:56:56-04:00",
-    "title": "Strategic Alliance Operations Director",
+    "updated_at": "2026-06-24T17:56:44-04:00",
+    "title": "Sr. Program Manager, Accenture Business Group",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -47216,7 +47216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5112325007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Germany",
     "company": "verkada",
     "ats": "greenhouse",
@@ -51776,7 +51776,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4771706007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Wisconsin)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -51784,7 +51784,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5109636007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Illinois)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52272,7 +52272,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5018489007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, UK",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52312,7 +52312,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087134007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, France",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52336,7 +52336,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5113136007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Internal Channel Enablement Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52344,7 +52344,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5082585007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Manager, Strategic Finance & Business Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52360,7 +52360,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5107049007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Partner Experience Specialist (US)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52368,7 +52368,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5107093007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Partner Experience Specialist (US + Canada)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52376,7 +52376,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5107091007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Partner Experience Specialist (US + LATAM)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52384,7 +52384,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5089108007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Privacy Counsel",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52392,7 +52392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5113097007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sr. Channel Enablement Program Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52400,7 +52400,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5093518007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sr. Recruiter, Strategy & Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52408,7 +52408,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5062005007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Global Monitoring Operations Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52440,7 +52440,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5056364007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Wisconsin / Iowa",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52448,7 +52448,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5055722007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Wisconsin / Iowa",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52456,7 +52456,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5064464007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Data Strategy Associate, Global Revenue Informatics",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52472,7 +52472,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5043530007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Northeast - State)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52480,7 +52480,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5059245007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (NOVA/MD - Muni)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52488,7 +52488,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5056778007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Ohio - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52504,7 +52504,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5085014007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Field Marketing Manager - Mid-Market, East",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52512,7 +52512,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5082442007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Field Marketing Manager - Mid-Market, East",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52520,7 +52520,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5085013007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Field Marketing Manager - Mid-Market, East",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52528,7 +52528,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5085015007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52536,7 +52536,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5082424007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52568,7 +52568,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5092459007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Project Manager, Global Revenue Informatics",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52584,7 +52584,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5056474007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Manager, Government Contracts",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52592,7 +52592,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5082376007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Product Counsel",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52600,7 +52600,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5082756007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Product Counsel",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52608,7 +52608,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5059796007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Technical Recruiter - Product",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52616,7 +52616,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5037062007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:49:20-04:00",
     "title": "Sr. Product Marketing Manager/Product Marketing Manager, Solutions",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52632,7 +52632,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5027198007": {
-    "updated_at": "2026-06-17T00:52:16-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52640,7 +52640,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5026955007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52656,7 +52656,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4999244007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Customer Advocacy Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52664,7 +52664,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4998116007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Chicago - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52672,7 +52672,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5034197007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Houston - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52680,7 +52680,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5035394007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Rio Grande Valley - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52688,7 +52688,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5007620007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Account Executive,  State",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52696,7 +52696,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5029686007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Account Executive,  State (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52704,7 +52704,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5018852007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Head of Marketing Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52712,7 +52712,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5023364007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Lead Product Manager, New Alarms Product",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52720,7 +52720,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5015165007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Legal Operations,  Billing & Spend Management",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52768,7 +52768,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5031132007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Product Marketing Manager, GovTech",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52776,7 +52776,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5019152007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Field Marketing Manager (Global)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52784,7 +52784,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5027435007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Growth Product Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52912,7 +52912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5041521007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory, Chicago",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52920,7 +52920,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4945957007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Associate, Pricing & Commercial Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52936,7 +52936,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4978267007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Kansas - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52944,7 +52944,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5068617007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Growth Marketing",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52952,7 +52952,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5024738007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Growth Senior Associate",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52968,7 +52968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4964448007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Business Systems - Product Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52976,7 +52976,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5087065007": {
-    "updated_at": "2026-06-23T15:33:04-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Recruiter - Marketing",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53000,7 +53000,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4855762007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Strategy & Operations | Enterprise Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53032,7 +53032,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5104945007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Product Manager, New Alarms Product",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53040,7 +53040,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4980976007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sr. Recruiter - Marketing",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53048,7 +53048,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4855765007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr) Associate, Strategic Finance & Business Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53056,7 +53056,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4921524007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Director/ Head of Compensation",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53072,7 +53072,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4855766007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Manager, Strategic Finance & Business Operations - Marketing",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53080,7 +53080,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4388198007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Select, San Mateo (Corp)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53088,7 +53088,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4267265007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory, Canada",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53096,7 +53096,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4651001007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market CORP)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53104,7 +53104,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4650714007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53112,7 +53112,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5035168007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Enablement Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53120,7 +53120,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4733685007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Enablement Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53136,7 +53136,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5059662007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Program & Marketing Manager, Executive Customer Programs",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53152,7 +53152,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4733698007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Enablement, Onboarding Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53160,7 +53160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4613974007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Strategy and Operations Division Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53168,7 +53168,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4719445007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Channel Marketing Manager, Southeast (Remote)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53176,7 +53176,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4721339007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Strategic Sourcing Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53184,7 +53184,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4247993007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Select, Phoenix",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53200,7 +53200,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5114867007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Lead Product Designer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53208,7 +53208,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4103493007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53216,7 +53216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128860007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Global Enterprise Account Executive",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53224,7 +53224,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4086576007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Strategy and Operations Associate",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63760,7 +63760,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140723007": {
-    "updated_at": "2026-06-22T19:12:07-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive, LATAM",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63768,7 +63768,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5074752007": {
-    "updated_at": "2026-06-23T06:31:08-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Nordics",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63776,7 +63776,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4866484007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive (Osaka, Japan)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63784,7 +63784,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4248001007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Select, Austin",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63792,7 +63792,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4247996007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Select, Salt Lake City (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63800,7 +63800,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4388200007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Select, San Mateo (SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63808,7 +63808,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4911923007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Seoul",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63824,7 +63824,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4086589007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Sydney",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63832,7 +63832,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4134175007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63840,7 +63840,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087051007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63848,7 +63848,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087046007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63856,7 +63856,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135236007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63864,7 +63864,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4915934007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Tokyo",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63872,7 +63872,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135260007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, UK",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63888,7 +63888,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5077895007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Business Value Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63896,7 +63896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5055794007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Bay Area",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63912,7 +63912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4568144007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Japan",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63920,7 +63920,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5009999007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Sweden",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63928,7 +63928,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5092583007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Demand Generation Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63936,7 +63936,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4134166007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Embedded Automated Test & Test System Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63952,7 +63952,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5043028007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Calgary)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63968,7 +63968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140486007": {
-    "updated_at": "2026-06-23T14:26:26-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive - France",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63984,7 +63984,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4913872007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive, Tokyo",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64000,7 +64000,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5007627007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (West - State)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64008,7 +64008,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4431168007": {
-    "updated_at": "2026-06-22T21:15:54-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Development Representative, LATAM",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64016,7 +64016,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5029695007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Account Executive,  State",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64032,7 +64032,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4992817007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineering Manager, Canada",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64040,7 +64040,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4184018007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineer - London, UK",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64048,7 +64048,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5011910007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Field Marketing Manager (Japan)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64056,7 +64056,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5017855007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Field Marketing Manager - Northern Europe",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64104,7 +64104,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4702541007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Go Software Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64120,7 +64120,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5034529007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Junior Structural Packaging Designer - Taiwan",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64128,7 +64128,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4134153007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Linux Embedded Software Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64136,7 +64136,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4714156007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Marketing Operations Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64144,7 +64144,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5102058007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Marketing (Sales) Development Representative - Dutch speaking",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64152,7 +64152,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4945720007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (Eastern US)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64168,7 +64168,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5057504007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64176,7 +64176,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5057506007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64184,7 +64184,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4824487007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Midwest",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64192,7 +64192,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5081074007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, US Remote",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64200,7 +64200,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5054866007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Occupancy Planner",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64216,7 +64216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4350342007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Product Design Mechanical Engineer (Taiwan)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64224,7 +64224,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5034450007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Project Architect, Global Services",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64240,7 +64240,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4987362007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, LATAM",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64248,7 +64248,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140340007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, Mid-Market",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64272,7 +64272,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4992015007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Enablement Lead, Mexico City",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64280,7 +64280,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5038150007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Strategy and Operations Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64288,7 +64288,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5042173007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Manager, Accounting",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64296,7 +64296,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5019825007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Solutions Engineering Manager, EMEA",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64320,7 +64320,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5100151007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Program Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -80856,7 +80856,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:7811973": {
-    "updated_at": "2026-05-19T12:30:35-04:00",
+    "updated_at": "2026-06-24T18:12:48-04:00",
     "title": "Employment and Compliance Counsel",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -84616,7 +84616,7 @@
     "alerted": false
   },
   "greenhouse:mercury:5922062004": {
-    "updated_at": "2026-06-12T16:03:39-04:00",
+    "updated_at": "2026-06-24T17:54:44-04:00",
     "title": "Senior Internal Auditor - Finance",
     "company": "mercury",
     "ats": "greenhouse",
@@ -92104,7 +92104,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7718773": {
-    "updated_at": "2026-05-18T18:41:10-04:00",
+    "updated_at": "2026-06-24T18:12:32-04:00",
     "title": "Sales Executive II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -122248,7 +122248,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7768979": {
-    "updated_at": "2026-06-24T17:40:43-04:00",
+    "updated_at": "2026-06-24T17:48:34-04:00",
     "title": "Product Lead, EMEA Payments",
     "company": "stripe",
     "ats": "greenhouse",
@@ -126216,7 +126216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5119627007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Backend Engineer - Alarms",
     "company": "verkada",
     "ats": "greenhouse",
@@ -126488,7 +126488,7 @@
     "alerted": true
   },
   "greenhouse:verkada:5082745007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Test Engineer \u2013 Alarms",
     "company": "verkada",
     "ats": "greenhouse",
@@ -126560,7 +126560,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5119684007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Backend Engineer - Virtual Guard",
     "company": "verkada",
     "ats": "greenhouse",
@@ -126776,7 +126776,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5116424007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sr. Analyst Business Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -127400,7 +127400,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4388997007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Hardware Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -128120,8 +128120,8 @@
     "alerted": false
   },
   "greenhouse:gusto:7844197": {
-    "updated_at": "2026-06-18T10:59:45-04:00",
-    "title": "Growth Marketing Lead",
+    "updated_at": "2026-06-24T17:59:04-04:00",
+    "title": "Growth Marketing Leader",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -128720,7 +128720,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5120808007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Backend Software Engineer - Workplace Products",
     "company": "verkada",
     "ats": "greenhouse",
@@ -129176,7 +129176,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5120893007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Product Marketing Manager / Sr. Product Marketing Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -129560,7 +129560,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5075713007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Director, UK",
     "company": "verkada",
     "ats": "greenhouse",
@@ -130136,7 +130136,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5121434007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior-Staff Software Engineer, Platform Infrastructure",
     "company": "verkada",
     "ats": "greenhouse",
@@ -130824,7 +130824,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5055134007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, Channel (West)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -130832,7 +130832,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5055130007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, Channel (West)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -130840,7 +130840,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5044895007": {
-    "updated_at": "2026-06-24T10:58:58-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, Channel (West)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -133368,7 +133368,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5100608007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Washington)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -133376,7 +133376,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5104166007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Idaho)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -134080,7 +134080,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5022552007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineering Manager - Search",
     "company": "verkada",
     "ats": "greenhouse",
@@ -136088,7 +136088,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5124500007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Engineering Manager, Platform Infrastructure",
     "company": "verkada",
     "ats": "greenhouse",
@@ -136392,7 +136392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5124588007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineering Manager - Alarms",
     "company": "verkada",
     "ats": "greenhouse",
@@ -139488,7 +139488,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128663007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Frontend Engineer - Cameras,  Motion & Analytics",
     "company": "verkada",
     "ats": "greenhouse",
@@ -140360,7 +140360,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5124829007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Solutions Engineering Director, Associate Program",
     "company": "verkada",
     "ats": "greenhouse",
@@ -141704,7 +141704,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5126612007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Fullstack Engineer - New Product",
     "company": "verkada",
     "ats": "greenhouse",
@@ -141728,7 +141728,7 @@
     "alerted": false
   },
   "greenhouse:cribl:5987795004": {
-    "updated_at": "2026-06-09T17:35:03-04:00",
+    "updated_at": "2026-06-24T18:02:33-04:00",
     "title": "Systems Analyst Lead",
     "company": "cribl",
     "ats": "greenhouse",
@@ -142032,7 +142032,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5074111007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior-Staff Software Engineer, Engineering Productivity",
     "company": "verkada",
     "ats": "greenhouse",
@@ -142056,7 +142056,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5123192007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Visual Production Designer, Packaging",
     "company": "verkada",
     "ats": "greenhouse",
@@ -142104,7 +142104,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5128183007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Content Architect",
     "company": "verkada",
     "ats": "greenhouse",
@@ -143568,7 +143568,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5127722007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Strategy and Operations Division Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -143584,7 +143584,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5127843007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Strategy and Operations Division Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -144584,7 +144584,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5129653007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Digital Growth Manager, Generalist",
     "company": "verkada",
     "ats": "greenhouse",
@@ -145584,7 +145584,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4930888007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, CDW (East)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -145592,7 +145592,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5130265007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, CDW (East)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -146672,7 +146672,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4134221007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -146832,7 +146832,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5124617007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior G&A Recruiter",
     "company": "verkada",
     "ats": "greenhouse",
@@ -146912,7 +146912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5130977007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Associate, Pricing & Commercial Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -147456,7 +147456,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5116237007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Supplier Quality Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -148360,7 +148360,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5131737007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Software Engineering Manager, Data Protection Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -148384,7 +148384,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5131735007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Embedded Linux Engineer - Connectivity",
     "company": "verkada",
     "ats": "greenhouse",
@@ -148856,7 +148856,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5132134007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Backend Engineer - Device Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -150808,7 +150808,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5133085007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Field Marketing Manager, Global",
     "company": "verkada",
     "ats": "greenhouse",
@@ -150832,7 +150832,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5133082007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Field Marketing Manager, Global",
     "company": "verkada",
     "ats": "greenhouse",
@@ -150840,7 +150840,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5133081007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Field Marketing Manager, Global",
     "company": "verkada",
     "ats": "greenhouse",
@@ -150856,7 +150856,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5133072007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
     "company": "verkada",
     "ats": "greenhouse",
@@ -152008,7 +152008,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5132545007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Osaka)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -153744,7 +153744,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5134248007": {
-    "updated_at": "2026-06-18T12:42:55-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Manager, People Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -155968,7 +155968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4321159007": {
-    "updated_at": "2026-06-16T19:39:01-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Hardware Engineer (Fall Co-op)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -156968,7 +156968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5136810007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineering Manager, Central SLED",
     "company": "verkada",
     "ats": "greenhouse",
@@ -159736,7 +159736,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5138265007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Director, Global Enterprise Accounts",
     "company": "verkada",
     "ats": "greenhouse",
@@ -159800,7 +159800,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7927447": {
-    "updated_at": "2026-06-18T10:59:45-04:00",
+    "updated_at": "2026-06-24T17:43:50-04:00",
     "title": "Future Opportunities: HR Constultant",
     "company": "gusto",
     "ats": "greenhouse",
@@ -159896,7 +159896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5132351007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Washington - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -159976,7 +159976,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5138458007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Solutions Engineer, ASEAN",
     "company": "verkada",
     "ats": "greenhouse",
@@ -161160,7 +161160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5138344007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Trainer, VCE",
     "company": "verkada",
     "ats": "greenhouse",
@@ -161880,7 +161880,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5139539007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Data Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -162752,7 +162752,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140198007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Compensation Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -162816,7 +162816,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5139532007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Solutions Engineer - ATL",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163216,7 +163216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5139505007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "IT Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163400,7 +163400,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140637007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Growth Manager, JAPAC",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163736,7 +163736,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140253007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Digital Growth Manager, JAPAC",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163744,7 +163744,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140211007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Digital Growth Manager, JAPAC",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163880,7 +163880,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4428728007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Manufacturing Engineer (Taiwan)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -164240,7 +164240,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140617007": {
-    "updated_at": "2026-06-18T18:18:14-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Director, Enterprise SLED",
     "company": "verkada",
     "ats": "greenhouse",
@@ -164896,7 +164896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140952007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Stock Administrator",
     "company": "verkada",
     "ats": "greenhouse",
@@ -165016,7 +165016,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5142130007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Communications Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -166768,7 +166768,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5142374007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (North East)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -166776,7 +166776,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5142373007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (North East)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -167944,7 +167944,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5143766007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Software Engineer - Detection and Response Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -167960,7 +167960,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5143763007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Software Engineer - Data Protection",
     "company": "verkada",
     "ats": "greenhouse",
@@ -168216,7 +168216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4818526007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Germany",
     "company": "verkada",
     "ats": "greenhouse",
@@ -168544,7 +168544,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144160007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff+ Software Engineer, Security Infrastructure",
     "company": "verkada",
     "ats": "greenhouse",
@@ -169968,7 +169968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144827007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (Eastern US)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -169976,7 +169976,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4950450007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (Eastern US)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -169984,7 +169984,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4950449007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "National Channel Sales Manager, Convergint (Eastern US)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -170224,7 +170224,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4650872007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market West SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -171976,7 +171976,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144834007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineering Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -172024,7 +172024,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5145739007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Engineering Manager - Storage Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -173552,7 +173552,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4103490007": {
-    "updated_at": "2026-06-23T14:19:11-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -173568,7 +173568,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5132507007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Development Representative (French-Speaking)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -173928,7 +173928,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5146916007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Frontend Engineer, Business Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -174360,7 +174360,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5146977007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Wisconsin / Iowa",
     "company": "verkada",
     "ats": "greenhouse",
@@ -174432,7 +174432,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5147150007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Bay Area",
     "company": "verkada",
     "ats": "greenhouse",
@@ -174640,7 +174640,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4481783007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Product Designer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -174920,7 +174920,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5145829007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sr. Manager, Global Channel Marketing Programs (Remote)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -175304,7 +175304,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5147217007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineer, Alberta",
     "company": "verkada",
     "ats": "greenhouse",
@@ -175400,7 +175400,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5146832007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Sourcer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -175592,7 +175592,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5147165007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "GRC Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -176168,7 +176168,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5148169007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Privacy Counsel",
     "company": "verkada",
     "ats": "greenhouse",
@@ -176176,7 +176176,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5062987007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Lead Product Manager, Security Trailers",
     "company": "verkada",
     "ats": "greenhouse",
@@ -176368,7 +176368,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5148270007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Solutions Engineer, West Coast",
     "company": "verkada",
     "ats": "greenhouse",
@@ -176496,7 +176496,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5148388007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Engineering Manager, Agentic Workflows",
     "company": "verkada",
     "ats": "greenhouse",
@@ -176552,7 +176552,7 @@
     "alerted": true
   },
   "greenhouse:verkada:5140568007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Toronto)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -176560,7 +176560,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144641007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Nashville)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -176808,7 +176808,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5148053007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Android Embedded UI Engineer - Alarms",
     "company": "verkada",
     "ats": "greenhouse",
@@ -178976,7 +178976,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5148663007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Southern Europe",
     "company": "verkada",
     "ats": "greenhouse",
@@ -178984,7 +178984,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5148608007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Benelux",
     "company": "verkada",
     "ats": "greenhouse",
@@ -179424,7 +179424,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5149616007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Embedded Linux Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -179680,7 +179680,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5150337007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Product Marketing Manager, Privacy and Video Security",
     "company": "verkada",
     "ats": "greenhouse",
@@ -180680,7 +180680,7 @@
     "alerted": true
   },
   "greenhouse:verkada:4288855007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Hardware Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -183200,7 +183200,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5152703007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Account Executive,  State",
     "company": "verkada",
     "ats": "greenhouse",
@@ -183208,7 +183208,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5152697007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Account Executive,  State (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -183216,7 +183216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5152696007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Sales Account Executive,  State (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -184952,7 +184952,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7976912": {
-    "updated_at": "2026-06-24T16:17:10-04:00",
+    "updated_at": "2026-06-24T18:21:32-04:00",
     "title": "Crypto Product Compliance Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -185640,7 +185640,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5154370007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Backend Engineer - Device Security",
     "company": "verkada",
     "ats": "greenhouse",
@@ -186608,7 +186608,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5130716007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical University Recruiter",
     "company": "verkada",
     "ats": "greenhouse",
@@ -186648,7 +186648,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5065295007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (LA - Corporate)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -186672,7 +186672,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5065266007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (New York - Corporate)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -186904,7 +186904,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5155004007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Engineering Manager - Clients Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -189056,7 +189056,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5155848007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Director of Global Security",
     "company": "verkada",
     "ats": "greenhouse",
@@ -189176,7 +189176,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5156322007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Frontend Engineer - Web Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -190216,7 +190216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5155962007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (Southern California - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -191128,7 +191128,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5158181007": {
-    "updated_at": "2026-06-23T20:30:10-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive , Quebec",
     "company": "verkada",
     "ats": "greenhouse",
@@ -192584,7 +192584,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5158264007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Strategy & Operations Renewals Associate (Sr)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -192880,7 +192880,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5146680007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sr. IT Systems Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -193240,8 +193240,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8577262002": {
-    "updated_at": "2026-06-24T17:43:24-04:00",
-    "title": "Software Engineer, Observability (Starlink)",
+    "updated_at": "2026-06-24T17:44:58-04:00",
+    "title": "Software Engineer, Network Observability (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -193712,7 +193712,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5158660007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Field Marketing Manager - Enterprise",
     "company": "verkada",
     "ats": "greenhouse",
@@ -196032,7 +196032,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5159031007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Licensing Operations Analyst",
     "company": "verkada",
     "ats": "greenhouse",
@@ -196352,7 +196352,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7993078": {
-    "updated_at": "2026-06-24T06:20:13-04:00",
+    "updated_at": "2026-06-24T18:20:12-04:00",
     "title": "Technical Director, Builder Relations",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -197856,7 +197856,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7997435": {
-    "updated_at": "2026-06-11T18:37:56-04:00",
+    "updated_at": "2026-06-24T18:45:53-04:00",
     "title": "Financial Systems Integration Lead",
     "company": "checkr",
     "ats": "greenhouse",
@@ -198088,7 +198088,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5161396007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Software Engineer - Command Connector",
     "company": "verkada",
     "ats": "greenhouse",
@@ -198872,7 +198872,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5161632007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -200200,7 +200200,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5162415007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Channel Sales Manager, Southwest",
     "company": "verkada",
     "ats": "greenhouse",
@@ -200320,7 +200320,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7976919": {
-    "updated_at": "2026-06-24T16:17:10-04:00",
+    "updated_at": "2026-06-24T18:22:00-04:00",
     "title": "Crypto Product Compliance Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -200928,7 +200928,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5160091007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, Mid-Market Select",
     "company": "verkada",
     "ats": "greenhouse",
@@ -201104,7 +201104,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5163351007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Engineering Manager, Quality & Test Engineering, Cameras",
     "company": "verkada",
     "ats": "greenhouse",
@@ -201392,7 +201392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5162794007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Data Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -201440,7 +201440,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688540006": {
-    "updated_at": "2026-06-23T13:16:16-04:00",
+    "updated_at": "2026-06-24T17:52:15-04:00",
     "title": "Account Executive - Greenfield",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -202160,7 +202160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5164234007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "NPI Project Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -202264,7 +202264,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5160587007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Global Operations Specialist",
     "company": "verkada",
     "ats": "greenhouse",
@@ -202760,7 +202760,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5162206007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineer - Industrial Placement 2027 (12-months)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -203368,7 +203368,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5162154007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Head of Channel UKI",
     "company": "verkada",
     "ats": "greenhouse",
@@ -204240,7 +204240,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5165419007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Frontend Engineer - Access Control",
     "company": "verkada",
     "ats": "greenhouse",
@@ -204440,7 +204440,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5164973007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior Industrial Designer - Taiwan",
     "company": "verkada",
     "ats": "greenhouse",
@@ -205840,7 +205840,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5165978007": {
-    "updated_at": "2026-06-16T15:33:02-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "GTM Recruiter, Tokyo",
     "company": "verkada",
     "ats": "greenhouse",
@@ -206096,7 +206096,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5165396007": {
-    "updated_at": "2026-06-23T16:53:10-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Deputy / Associate General Counsel, Corporate",
     "company": "verkada",
     "ats": "greenhouse",
@@ -206256,7 +206256,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5166334007": {
-    "updated_at": "2026-06-16T16:55:56-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior-Staff Software Engineer, Tooling",
     "company": "verkada",
     "ats": "greenhouse",
@@ -207312,7 +207312,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5165980007": {
-    "updated_at": "2026-06-17T10:36:29-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior People Partner",
     "company": "verkada",
     "ats": "greenhouse",
@@ -207752,7 +207752,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5167632007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Frontend Engineer - Mapping & Spatial Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -208248,7 +208248,7 @@
     "alerted": true
   },
   "greenhouse:verkada:5167243007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Compliance TPM - Device Security",
     "company": "verkada",
     "ats": "greenhouse",
@@ -210152,7 +210152,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5167601007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Security Engineer, Core Command",
     "company": "verkada",
     "ats": "greenhouse",
@@ -210160,7 +210160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5167607007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff+ Security Engineer, Developer Tools",
     "company": "verkada",
     "ats": "greenhouse",
@@ -210896,7 +210896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4185963007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Marketing (Sales) Development Representative - UKI",
     "company": "verkada",
     "ats": "greenhouse",
@@ -212672,7 +212672,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5159983007": {
-    "updated_at": "2026-06-22T15:27:48-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, Mid-Market",
     "company": "verkada",
     "ats": "greenhouse",
@@ -212800,7 +212800,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5170725007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (New Jersey - Muni)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -212824,7 +212824,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5156789007": {
-    "updated_at": "2026-06-22T14:51:39-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Enterprise Account Executive (New York City - Muni)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -213480,7 +213480,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5170619007": {
-    "updated_at": "2026-06-23T14:24:00-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Recruiter, Atlanta",
     "company": "verkada",
     "ats": "greenhouse",
@@ -214400,7 +214400,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4690497006": {
-    "updated_at": "2026-06-23T11:53:54-04:00",
+    "updated_at": "2026-06-24T18:37:54-04:00",
     "title": "Staff Specialist Field Engineer, Autonomous Vehicles",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -215224,7 +215224,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8603624002": {
-    "updated_at": "2026-06-23T15:59:21-04:00",
+    "updated_at": "2026-06-24T18:10:38-04:00",
     "title": "Autonomous Vehicle  Partnership Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -215904,7 +215904,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5171282007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Recruiter, EMEA",
     "company": "verkada",
     "ats": "greenhouse",
@@ -216008,7 +216008,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4775290007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Sales Development Representative - Sydney",
     "company": "verkada",
     "ats": "greenhouse",
@@ -216912,7 +216912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172974007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -216928,7 +216928,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172999007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Technical Support Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -217120,7 +217120,7 @@
     "alerted": false
   },
   "greenhouse:planetscale:4295139009": {
-    "updated_at": "2026-06-24T12:13:42-04:00",
+    "updated_at": "2026-06-24T18:49:14-04:00",
     "title": "Field Marketing Coordinator",
     "company": "planetscale",
     "ats": "greenhouse",
@@ -217456,7 +217456,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5171971007": {
-    "updated_at": "2026-06-24T17:43:18-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Regional Sales Manager, Channel (South Central)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -217616,7 +217616,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172992007": {
-    "updated_at": "2026-06-24T17:43:47-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Senior GTM Recruiter, London",
     "company": "verkada",
     "ats": "greenhouse",
@@ -217800,7 +217800,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8025144": {
-    "updated_at": "2026-06-24T16:55:34-04:00",
+    "updated_at": "2026-06-24T18:32:24-04:00",
     "title": "Account Executive - Norcal",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -217816,7 +217816,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5173337007": {
-    "updated_at": "2026-06-24T16:52:14-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Staff Frontend Engineer - Design Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -217832,7 +217832,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5173327007": {
-    "updated_at": "2026-06-24T16:47:07-04:00",
+    "updated_at": "2026-06-24T17:45:17-04:00",
     "title": "Engineering Manager, Atlas (Spatial Systems)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -217848,7 +217848,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8025138": {
-    "updated_at": "2026-06-24T16:39:36-04:00",
+    "updated_at": "2026-06-24T18:32:23-04:00",
     "title": "Account Executive - PNW",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -217966,5 +217966,117 @@
     "ats": "greenhouse",
     "source_slug": "flexport",
     "alerted": false
+  },
+  "greenhouse:sofi:7762673003": {
+    "updated_at": "2026-06-24T18:24:26-04:00",
+    "title": "Senior Analyst, Workday Financials",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:databricks:8605976002": {
+    "updated_at": "2026-06-24T18:24:04-04:00",
+    "title": "Strategy & Execution Manager",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7998023": {
+    "updated_at": "2026-06-24T18:20:37-04:00",
+    "title": "Senior Enterprise Account Executive, Growth",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8027239": {
+    "updated_at": "2026-06-24T18:14:39-04:00",
+    "title": "Sr Director, Revenue Enablement",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:mercury:6101085004": {
+    "updated_at": "2026-06-24T18:13:31-04:00",
+    "title": "Senior Financial Partnerships Manager - Lending",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:faire:8606859002": {
+    "updated_at": "2026-06-24T18:06:23-04:00",
+    "title": "Senior Manager, Global Equity",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:gusto:8008009": {
+    "updated_at": "2026-06-24T17:57:04-04:00",
+    "title": "Product Marketing Leader, Gusto Core Products",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:stripe:8027435": {
+    "updated_at": "2026-06-24T17:48:22-04:00",
+    "title": "Product Lead, EMEA Payments",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:waymo:8027386": {
+    "updated_at": "2026-06-24T17:47:13-04:00",
+    "title": "Staff Software Engineer, Compute Reliability",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:toast:8022248": {
+    "updated_at": "2026-06-24T17:44:41-04:00",
+    "title": "El Paso, TX - Strategic Cuisines Account Executive - Spanish",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8027418": {
+    "updated_at": "2026-06-24T17:44:26-04:00",
+    "title": "Senior Software Engineer II - AI Engineering (Remote Eligible)",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8597847002": {
+    "updated_at": "2026-06-24T17:36:07-04:00",
+    "title": "Senior Professional Services Partners Manager, Subcontractor Partner Solutions",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:asana:8027399": {
+    "updated_at": "2026-06-24T17:30:25-04:00",
+    "title": "Senior Solutions Architect",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8027506": {
+    "updated_at": "2026-06-24T18:38:16-04:00",
+    "title": "Senior iOS Engineer, Crypto Trading",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": true
   }
 }
