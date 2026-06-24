@@ -1576,7 +1576,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7505582": {
-    "updated_at": "2026-06-19T14:39:05-04:00",
+    "updated_at": "2026-06-24T17:02:12-04:00",
     "title": "Solutions Architect, AI/Cloudflare Developer Platform",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -5888,8 +5888,8 @@
     "alerted": true
   },
   "greenhouse:okta:7727835": {
-    "updated_at": "2026-06-24T15:10:43-04:00",
-    "title": "Senior Solutions Engineer (MST Time Zone)",
+    "updated_at": "2026-06-24T17:37:00-04:00",
+    "title": "Solutions Engineer (MST Time Zone)",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -6208,7 +6208,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7559181003": {
-    "updated_at": "2026-04-24T19:39:37-04:00",
+    "updated_at": "2026-06-24T17:25:59-04:00",
     "title": "Product Manager - Integrations",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6800,7 +6800,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8341795002": {
-    "updated_at": "2026-06-23T10:04:23-04:00",
+    "updated_at": "2026-06-24T17:23:47-04:00",
     "title": "Principal Solutions Architect, AI / Core DevOps SME",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -10024,7 +10024,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:6669758": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10048,7 +10048,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7350823": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10104,7 +10104,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:6674980": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "iOS Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10144,7 +10144,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7747728": {
-    "updated_at": "2026-06-16T13:07:39-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Product Manager, Money Movement",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10152,7 +10152,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7697725": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10168,7 +10168,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7412393": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10176,7 +10176,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7178427": {
-    "updated_at": "2026-06-12T15:47:34-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Cloud Security Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10192,7 +10192,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:6675127": {
-    "updated_at": "2026-06-17T15:36:09-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior iOS Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10240,7 +10240,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489675": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Capacity & Efficiency",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10248,7 +10248,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:4738660": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Data Engineering",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10264,7 +10264,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7729014": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Staff Software Engineer, Data Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10280,7 +10280,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7263592": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer, Backend",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10304,7 +10304,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7460167": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Offensive Security Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10312,7 +10312,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7587151": {
-    "updated_at": "2026-06-16T13:07:19-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Product Manager, Banking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10320,7 +10320,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7754299": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Security Engineer, Application Security",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -10344,7 +10344,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7489950": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Software Engineer, Web3",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -17824,7 +17824,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7144697": {
-    "updated_at": "2026-06-24T11:27:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Activation Sales Development Representative I",
     "company": "instacart",
     "ats": "greenhouse",
@@ -17880,7 +17880,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7759475": {
-    "updated_at": "2026-05-18T18:41:12-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Engineering Manager, Machine Learning (Caper)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -17960,7 +17960,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7712406": {
-    "updated_at": "2026-06-24T11:27:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Retention Sales Development Representative II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18056,7 +18056,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7565508": {
-    "updated_at": "2026-06-04T12:05:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Machine Learning Engineer II, Search & Recommendations Ranking",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18104,7 +18104,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7769924": {
-    "updated_at": "2026-06-23T19:16:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, Fraud & Trust",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18112,7 +18112,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7769926": {
-    "updated_at": "2026-06-23T19:16:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, Fraud & Trust",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18304,7 +18304,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7728839": {
-    "updated_at": "2026-05-18T18:41:11-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Software Engineer, Ads Data Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18312,7 +18312,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7778620": {
-    "updated_at": "2026-05-28T09:54:06-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Software Engineer,  Data Infrastructure",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18320,7 +18320,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7778618": {
-    "updated_at": "2026-05-28T09:55:15-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Software Engineer, Data Infrastructure",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18336,7 +18336,7 @@
     "alerted": true
   },
   "greenhouse:instacart:6819435": {
-    "updated_at": "2026-06-12T14:17:24-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Strategic Partner Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -19264,7 +19264,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8430552002": {
-    "updated_at": "2026-06-23T14:54:32-04:00",
+    "updated_at": "2026-06-24T16:52:03-04:00",
     "title": "Senior Machine Learning Engineer, Recommendations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -21896,7 +21896,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7542965": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Engineering Manager, Concierge",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -23200,7 +23200,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7773503": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Technical Program Manager, Privacy",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -23296,7 +23296,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7794027": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "iOS Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -23488,7 +23488,7 @@
     "alerted": true
   },
   "greenhouse:instacart:6932499": {
-    "updated_at": "2026-06-24T15:02:12-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Technical Program Manager, Enterprise",
     "company": "instacart",
     "ats": "greenhouse",
@@ -23728,7 +23728,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7793089": {
-    "updated_at": "2026-06-03T12:33:00-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Machine Learning Engineer, Operations Research",
     "company": "instacart",
     "ats": "greenhouse",
@@ -23800,7 +23800,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7821803": {
-    "updated_at": "2026-06-16T13:07:55-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Product Manager, Cortex",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -24056,7 +24056,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7793661": {
-    "updated_at": "2026-06-18T10:27:55-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Detection Engineer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -24064,7 +24064,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7813002": {
-    "updated_at": "2026-05-28T18:26:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Director, Enterprise Delivery and Growth",
     "company": "instacart",
     "ats": "greenhouse",
@@ -24072,7 +24072,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7813000": {
-    "updated_at": "2026-05-28T18:26:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Director, Enterprise Delivery and Growth",
     "company": "instacart",
     "ats": "greenhouse",
@@ -24312,7 +24312,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7696724003": {
-    "updated_at": "2026-06-23T16:43:49-04:00",
+    "updated_at": "2026-06-24T17:28:39-04:00",
     "title": "Senior Software Engineer - Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -24720,7 +24720,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7826880": {
-    "updated_at": "2026-05-18T18:41:14-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Bilingual Staff Technical Program Manager, Global Enterprise Fulfillment Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -25528,7 +25528,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7658241": {
-    "updated_at": "2026-05-26T10:55:40-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Ads AI Analytics Lead II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -25544,7 +25544,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7779563": {
-    "updated_at": "2026-06-16T12:09:27-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist II - AI for Analytics",
     "company": "instacart",
     "ats": "greenhouse",
@@ -25552,7 +25552,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7779561": {
-    "updated_at": "2026-06-16T12:08:38-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist II - AI for Analytics",
     "company": "instacart",
     "ats": "greenhouse",
@@ -34992,7 +34992,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7721193": {
-    "updated_at": "2026-06-24T13:48:40-04:00",
+    "updated_at": "2026-06-24T17:21:12-04:00",
     "title": "Lead Machine Learning Engineer - ML Infrastructure",
     "company": "samsara",
     "ats": "greenhouse",
@@ -35096,7 +35096,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4915101007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Backend Engineer - Access Control",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35144,7 +35144,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5081188007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Director of Firmware Engineering, Cameras",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35160,7 +35160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5057188007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Director of Public Sector Business Development",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35168,7 +35168,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4706884007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T16:12:57-04:00",
     "title": "Director of Enablement, Solutions Engineering",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35336,7 +35336,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4207342007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Hardware Engineering Program Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35400,7 +35400,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4086535007": {
-    "updated_at": "2026-06-17T20:17:34-04:00",
+    "updated_at": "2026-06-24T16:07:52-04:00",
     "title": "Sales Development Representative (AAE), Bay Area",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35416,7 +35416,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087170007": {
-    "updated_at": "2026-06-22T13:53:50-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Sales Development Representative (AAE), Salt Lake City",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35464,7 +35464,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128700007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior Backend Engineer - Alerts and Operations",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35568,7 +35568,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4816589007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T16:16:43-04:00",
     "title": "Senior Product Manager, Video Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35704,7 +35704,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5083834007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior Test Engineer, Cameras",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35952,7 +35952,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5063200007": {
-    "updated_at": "2026-06-24T13:40:10-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Technical Support Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35968,7 +35968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4715534007": {
-    "updated_at": "2026-06-24T13:41:15-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -47624,7 +47624,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7572155": {
-    "updated_at": "2026-06-17T14:55:47-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Sales Associate",
     "company": "instacart",
     "ats": "greenhouse",
@@ -47632,7 +47632,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7558978": {
-    "updated_at": "2026-06-17T14:55:47-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Sales Associate - New York",
     "company": "instacart",
     "ats": "greenhouse",
@@ -47640,7 +47640,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7560993": {
-    "updated_at": "2026-06-17T14:55:47-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Sales Associate - San Francisco/Los Angeles",
     "company": "instacart",
     "ats": "greenhouse",
@@ -51784,7 +51784,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5109636007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Enterprise Account Executive (Illinois)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52272,7 +52272,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5018489007": {
-    "updated_at": "2026-06-22T12:40:27-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Regional Sales Manager, UK",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52480,7 +52480,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5059245007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Enterprise Account Executive (NOVA/MD - Muni)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52584,7 +52584,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5056474007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Senior Manager, Government Contracts",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52600,7 +52600,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5082756007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Senior Product Counsel",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52688,7 +52688,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5007620007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Enterprise Sales Account Executive,  State",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52952,7 +52952,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5024738007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Growth Senior Associate",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53072,7 +53072,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4855766007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "(Sr.) Manager, Strategic Finance & Business Operations - Marketing",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53080,7 +53080,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4388198007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Account Executive, Select, San Mateo (Corp)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53088,7 +53088,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4267265007": {
-    "updated_at": "2026-06-17T19:26:37-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Account Executive, Territory, Canada",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53096,7 +53096,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4651001007": {
-    "updated_at": "2026-06-22T14:43:45-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Account Executive, Territory (Mid-Market CORP)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53120,7 +53120,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4733685007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Enterprise Sales Enablement Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53136,7 +53136,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5059662007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Program & Marketing Manager, Executive Customer Programs",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53152,7 +53152,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4733698007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Sales Enablement, Onboarding Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53184,7 +53184,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4247993007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Account Executive, Select, Phoenix",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53240,7 +53240,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7685092": {
-    "updated_at": "2026-06-17T16:33:05-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Deal Lead, Robinhood Ventures",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -55336,7 +55336,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7816451": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Partnerships Manager, Crypto",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -59376,7 +59376,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7642776": {
-    "updated_at": "2026-06-17T16:57:41-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Account Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -59496,8 +59496,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8512656002": {
-    "updated_at": "2026-04-30T13:10:25-04:00",
-    "title": "EMC/EMI Test Technician",
+    "updated_at": "2026-06-24T16:32:27-04:00",
+    "title": "EMC/EMI Test Technician (Second Shift)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -59896,7 +59896,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7793391": {
-    "updated_at": "2026-06-17T09:29:06-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Applied Scientist II, Ads Optimization",
     "company": "instacart",
     "ats": "greenhouse",
@@ -63144,7 +63144,7 @@
     "alerted": false
   },
   "greenhouse:instacart:4949339": {
-    "updated_at": "2026-06-16T12:08:54-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist (I & II)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -63152,7 +63152,7 @@
     "alerted": false
   },
   "greenhouse:instacart:4949335": {
-    "updated_at": "2026-06-16T12:09:41-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist (I & II)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -63496,7 +63496,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7729315": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Salesforce Applications Developer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63512,7 +63512,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7716679": {
-    "updated_at": "2026-06-19T04:48:09-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Software Engineer, Core Exchange",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63528,7 +63528,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7697727": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63560,7 +63560,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7648454": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Cloud Integration",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63592,7 +63592,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7589432": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer, Cloud Engineering",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63600,7 +63600,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7542975": {
-    "updated_at": "2026-06-19T04:48:06-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Engineering Manager, Derivatives",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63624,7 +63624,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7460169": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Offensive Security Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63640,7 +63640,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7412037": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Data Scientist, Fraud",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63656,7 +63656,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6913966": {
-    "updated_at": "2026-06-16T13:06:48-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Staff Software Developer, Developer Productivity & AI Tooling",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -63792,7 +63792,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4247996007": {
-    "updated_at": "2026-06-23T14:39:06-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Account Executive, Select, Salt Lake City (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63808,7 +63808,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4911923007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Account Executive, Seoul",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63824,7 +63824,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4086589007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Account Executive, Sydney",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63840,7 +63840,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087051007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63848,7 +63848,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087046007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63928,7 +63928,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5092583007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Demand Generation Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -63952,7 +63952,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5043028007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Enterprise Account Executive (Calgary)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64104,7 +64104,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4702541007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Go Software Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64152,7 +64152,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4945720007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "National Channel Sales Manager, Convergint (Eastern US)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64168,7 +64168,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5057504007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "National Channel Sales Manager, Convergint (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64192,7 +64192,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5081074007": {
-    "updated_at": "2026-06-22T17:37:04-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "National Channel Sales Manager, US Remote",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64216,7 +64216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4350342007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Product Design Mechanical Engineer (Taiwan)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64240,7 +64240,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4987362007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Regional Sales Manager, LATAM",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64272,7 +64272,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4992015007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Sales Enablement Lead, Mexico City",
     "company": "verkada",
     "ats": "greenhouse",
@@ -64288,7 +64288,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5042173007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior Manager, Accounting",
     "company": "verkada",
     "ats": "greenhouse",
@@ -66504,7 +66504,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7746586": {
-    "updated_at": "2026-06-24T13:50:57-04:00",
+    "updated_at": "2026-06-24T17:21:29-04:00",
     "title": "Lead Machine Learning Engineer - ML Infrastructure",
     "company": "samsara",
     "ats": "greenhouse",
@@ -68696,7 +68696,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489952": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Software Engineer, Web3",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -69856,7 +69856,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7815625": {
-    "updated_at": "2026-06-16T13:07:53-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Workplace Operations Specialist",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -70352,7 +70352,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804725": {
-    "updated_at": "2026-06-23T11:53:01-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Manager, Investment Accounts",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -70816,7 +70816,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7819293": {
-    "updated_at": "2026-06-16T12:09:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist - Shopping Experience (Search)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -70928,7 +70928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7819163": {
-    "updated_at": "2026-06-16T12:09:02-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist - Shopping Experience (Search)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -71472,7 +71472,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6889390": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Developer, Infrastructure",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -71480,7 +71480,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:4829946": {
-    "updated_at": "2026-06-22T13:18:50-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Developer, Provisioning",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72304,7 +72304,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7539106": {
-    "updated_at": "2026-06-16T13:06:53-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72312,7 +72312,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7539100": {
-    "updated_at": "2026-06-16T13:06:53-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72320,7 +72320,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7473824": {
-    "updated_at": "2026-06-16T13:06:53-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -81800,7 +81800,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489427": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Product Manager, International Growth & Expansion",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -85080,7 +85080,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7729737": {
-    "updated_at": "2026-06-17T14:02:09-04:00",
+    "updated_at": "2026-06-24T16:46:00-04:00",
     "title": "Director of Web Marketing",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -85168,7 +85168,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7729782": {
-    "updated_at": "2026-06-17T13:57:46-04:00",
+    "updated_at": "2026-06-24T16:41:13-04:00",
     "title": "Sr. Product Marketing Manager, Partners",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -92056,7 +92056,7 @@
     "alerted": false
   },
   "greenhouse:instacart:4995818": {
-    "updated_at": "2026-05-18T18:41:04-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Fraud & Identity Specialist (Contract)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -92128,7 +92128,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7783158": {
-    "updated_at": "2026-06-10T13:05:49-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Analyst",
     "company": "instacart",
     "ats": "greenhouse",
@@ -92136,7 +92136,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7783160": {
-    "updated_at": "2026-06-10T13:05:59-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Analyst",
     "company": "instacart",
     "ats": "greenhouse",
@@ -92240,7 +92240,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7705901": {
-    "updated_at": "2026-05-18T18:41:10-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Strategic Finance Manager, Retailer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -92248,7 +92248,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7706355": {
-    "updated_at": "2026-05-18T18:41:10-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Strategic Finance Manager, Retailer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -93888,7 +93888,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7490012": {
-    "updated_at": "2026-06-16T13:07:08-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Product Designer, Prediction Markets",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -93896,7 +93896,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:6494244": {
-    "updated_at": "2026-06-16T13:06:46-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Product Designer, Redesign",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -95656,7 +95656,7 @@
     "alerted": false
   },
   "greenhouse:okta:7767720": {
-    "updated_at": "2026-06-24T14:05:46-04:00",
+    "updated_at": "2026-06-24T17:17:37-04:00",
     "title": "Sr. Training and Knowledge Management Manager (Legal)",
     "company": "okta",
     "ats": "greenhouse",
@@ -96840,7 +96840,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7599307": {
-    "updated_at": "2026-06-16T13:07:22-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Director of Creative",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -102704,7 +102704,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:4976328008": {
-    "updated_at": "2026-06-16T14:31:43-04:00",
+    "updated_at": "2026-06-24T16:14:27-04:00",
     "title": "Manager\u2013 Growth Sales (AI-Native)",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -105432,8 +105432,8 @@
     "alerted": false
   },
   "greenhouse:okta:7648611": {
-    "updated_at": "2026-06-24T12:05:02-04:00",
-    "title": "Group Product Manager, Okta Identity Threat Detection and Response Products",
+    "updated_at": "2026-06-24T17:13:57-04:00",
+    "title": "Director, Product Manager - Okta Identity Threat Detection and Response Products",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -105720,7 +105720,7 @@
     "alerted": false
   },
   "greenhouse:okta:7766533": {
-    "updated_at": "2026-06-24T14:05:46-04:00",
+    "updated_at": "2026-06-24T17:34:06-04:00",
     "title": "Strategic Account Executive",
     "company": "okta",
     "ats": "greenhouse",
@@ -106088,7 +106088,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7511787": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Product Designer, Banking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -110912,7 +110912,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7117648": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Engineering Manager, Toronto",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -120960,7 +120960,7 @@
     "alerted": false
   },
   "greenhouse:braze:7811361": {
-    "updated_at": "2026-05-21T08:27:03-04:00",
+    "updated_at": "2026-06-24T17:01:46-04:00",
     "title": "Lead Solutions Consultant",
     "company": "braze",
     "ats": "greenhouse",
@@ -121024,7 +121024,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7532267": {
-    "updated_at": "2026-06-10T12:52:12-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Machine Learning PhD Intern, Economics (Fall)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -121128,7 +121128,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7838938": {
-    "updated_at": "2026-05-18T18:41:15-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Software Engineer, Shopper Activation & Engagement",
     "company": "instacart",
     "ats": "greenhouse",
@@ -121136,7 +121136,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7838936": {
-    "updated_at": "2026-05-18T18:41:15-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Software Engineer, Shopper Activation & Engagement",
     "company": "instacart",
     "ats": "greenhouse",
@@ -122248,8 +122248,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7768979": {
-    "updated_at": "2026-06-19T12:11:02-04:00",
-    "title": "Product Manager, EMEA Payments Lead",
+    "updated_at": "2026-06-24T17:40:43-04:00",
+    "title": "Product Lead, EMEA Payments",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -125216,7 +125216,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7838644": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer - Robinhood Command Center",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -125584,7 +125584,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7844218": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Engineering Manager, AI Research and Development",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -126488,7 +126488,7 @@
     "alerted": true
   },
   "greenhouse:verkada:5082745007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Senior Test Engineer \u2013 Alarms",
     "company": "verkada",
     "ats": "greenhouse",
@@ -128088,7 +128088,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7729758": {
-    "updated_at": "2026-06-17T14:00:56-04:00",
+    "updated_at": "2026-06-24T16:44:02-04:00",
     "title": "Sr. Manager, Strategic Marketing",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -128408,7 +128408,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7707200": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-24T16:51:25-04:00",
     "title": "Customer & Partner Advocate, Office of the CCO",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -128416,7 +128416,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8520747002": {
-    "updated_at": "2026-06-16T10:52:47-04:00",
+    "updated_at": "2026-06-24T17:00:42-04:00",
     "title": "Sales Development Representative II",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -128720,7 +128720,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5120808007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Senior Backend Software Engineer - Workplace Products",
     "company": "verkada",
     "ats": "greenhouse",
@@ -130136,7 +130136,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5121434007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior-Staff Software Engineer, Platform Infrastructure",
     "company": "verkada",
     "ats": "greenhouse",
@@ -131032,7 +131032,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7852014": {
-    "updated_at": "2026-06-16T13:08:01-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Real Estate Project Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -132760,7 +132760,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489553": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Engineering Manager, Equities",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -134568,7 +134568,7 @@
     "alerted": false
   },
   "greenhouse:instacart:5917202": {
-    "updated_at": "2026-06-10T12:52:22-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Machine Learning Engineer, PhD Intern (Fall)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -135464,7 +135464,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7863631": {
-    "updated_at": "2026-06-23T17:16:25-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Enterprise Sales Manager, Caper",
     "company": "instacart",
     "ats": "greenhouse",
@@ -135472,7 +135472,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7863629": {
-    "updated_at": "2026-06-10T18:48:34-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Enterprise Sales Manager, Caper",
     "company": "instacart",
     "ats": "greenhouse",
@@ -137512,7 +137512,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7729424": {
-    "updated_at": "2026-06-15T16:18:39-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Team Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -138232,7 +138232,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7872336": {
-    "updated_at": "2026-06-24T09:52:44-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Security Engineer, Infrastructure",
     "company": "instacart",
     "ats": "greenhouse",
@@ -138240,7 +138240,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7872338": {
-    "updated_at": "2026-06-24T09:52:31-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Security Engineer, Infrastructure",
     "company": "instacart",
     "ats": "greenhouse",
@@ -139488,7 +139488,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128663007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Senior Frontend Engineer - Cameras,  Motion & Analytics",
     "company": "verkada",
     "ats": "greenhouse",
@@ -140112,7 +140112,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7875637": {
-    "updated_at": "2026-05-18T18:41:18-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Director, Media Analytics, Commercial Strategy & Acceleration",
     "company": "instacart",
     "ats": "greenhouse",
@@ -140136,7 +140136,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7875518": {
-    "updated_at": "2026-05-18T18:41:17-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "AI Field Consultant",
     "company": "instacart",
     "ats": "greenhouse",
@@ -140144,7 +140144,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7875516": {
-    "updated_at": "2026-05-18T18:41:17-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "AI Field Consultant",
     "company": "instacart",
     "ats": "greenhouse",
@@ -140184,7 +140184,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7875387": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "CFP\u00ae Relationship Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -140360,7 +140360,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5124829007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Solutions Engineering Director, Associate Program",
     "company": "verkada",
     "ats": "greenhouse",
@@ -141704,7 +141704,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5126612007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Senior Fullstack Engineer - New Product",
     "company": "verkada",
     "ats": "greenhouse",
@@ -141784,7 +141784,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7868994": {
-    "updated_at": "2026-06-16T13:08:15-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Visual Designer, Product Creative",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -141896,7 +141896,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7852072": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Chief Compliance Officer, RHD",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -142032,7 +142032,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5074111007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior-Staff Software Engineer, Engineering Productivity",
     "company": "verkada",
     "ats": "greenhouse",
@@ -142136,7 +142136,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7875639": {
-    "updated_at": "2026-05-18T18:41:18-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Director, Media Analytics, Commercial Strategy & Acceleration",
     "company": "instacart",
     "ats": "greenhouse",
@@ -142336,7 +142336,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7819461": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Software Engineer, Security",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -144624,7 +144624,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7896276": {
-    "updated_at": "2026-05-18T18:41:18-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Strategic Financial Analyst \u2013 Growth",
     "company": "instacart",
     "ats": "greenhouse",
@@ -144896,7 +144896,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7896278": {
-    "updated_at": "2026-05-18T18:41:18-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Strategic Financial Analyst \u2013 Growth",
     "company": "instacart",
     "ats": "greenhouse",
@@ -145912,7 +145912,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7852355": {
-    "updated_at": "2026-06-16T13:08:04-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "IT Financial Compliance Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -145944,7 +145944,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804648": {
-    "updated_at": "2026-06-16T13:07:48-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Product Designer, Brokerage",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -146232,7 +146232,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7899482": {
-    "updated_at": "2026-06-16T13:08:23-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Security Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -146672,7 +146672,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4134221007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Technical Support Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -147896,7 +147896,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7872483": {
-    "updated_at": "2026-05-18T18:41:17-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Software Engineer, Home & Cross-Retailer Search",
     "company": "instacart",
     "ats": "greenhouse",
@@ -148120,7 +148120,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7904851": {
-    "updated_at": "2026-05-20T20:32:35-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, Shopping Experience",
     "company": "instacart",
     "ats": "greenhouse",
@@ -148784,7 +148784,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7904917": {
-    "updated_at": "2026-05-18T18:41:19-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Corporate Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -148792,7 +148792,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7904915": {
-    "updated_at": "2026-05-18T18:41:19-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Corporate Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -153216,7 +153216,7 @@
     "alerted": false
   },
   "greenhouse:chime:8531775002": {
-    "updated_at": "2026-06-22T17:45:35-04:00",
+    "updated_at": "2026-06-24T17:43:20-04:00",
     "title": "Director, Associate General Counsel, Privacy, Cybersecurity, and AI",
     "company": "chime",
     "ats": "greenhouse",
@@ -158920,7 +158920,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7456663": {
-    "updated_at": "2026-06-16T13:06:49-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Finance & Strategy Senior Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -159664,7 +159664,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7927378": {
-    "updated_at": "2026-05-26T11:04:57-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Engineering Manager, Software, Catalog Enrichment",
     "company": "instacart",
     "ats": "greenhouse",
@@ -159688,7 +159688,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7927224": {
-    "updated_at": "2026-06-10T18:54:33-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Strategic Finance Manager \u2013 Partnerships",
     "company": "instacart",
     "ats": "greenhouse",
@@ -159696,7 +159696,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7927222": {
-    "updated_at": "2026-06-10T18:54:21-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Strategic Finance Manager \u2013 Partnerships",
     "company": "instacart",
     "ats": "greenhouse",
@@ -159720,7 +159720,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7760310": {
-    "updated_at": "2026-06-16T13:07:41-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Crypto AML Investigator",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -159896,7 +159896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5132351007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Enterprise Account Executive (Washington - SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -161392,7 +161392,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7931358": {
-    "updated_at": "2026-06-17T14:55:47-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Sales Associate",
     "company": "instacart",
     "ats": "greenhouse",
@@ -161880,7 +161880,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5139539007": {
-    "updated_at": "2026-06-18T13:41:06-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior Data Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163048,7 +163048,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7939638": {
-    "updated_at": "2026-06-17T13:19:34-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Enterprise Sales Manager, StoreFront Pro",
     "company": "instacart",
     "ats": "greenhouse",
@@ -163056,7 +163056,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7939636": {
-    "updated_at": "2026-06-17T13:19:34-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Enterprise Sales Manager, StoreFront Pro",
     "company": "instacart",
     "ats": "greenhouse",
@@ -163216,7 +163216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5139505007": {
-    "updated_at": "2026-06-23T21:30:22-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "IT Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163344,7 +163344,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7734972003": {
-    "updated_at": "2026-05-22T03:01:32-04:00",
+    "updated_at": "2026-06-24T16:31:19-04:00",
     "title": "Business Development Representative, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -163880,7 +163880,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4428728007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Manufacturing Engineer (Taiwan)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -164264,7 +164264,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7942696": {
-    "updated_at": "2026-05-19T16:23:27-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "International Finance Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -164272,7 +164272,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7942690": {
-    "updated_at": "2026-05-19T16:23:25-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "International Finance Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -164896,7 +164896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140952007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Stock Administrator",
     "company": "verkada",
     "ats": "greenhouse",
@@ -165352,7 +165352,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7943853": {
-    "updated_at": "2026-05-21T14:42:40-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Measurement Science Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -165808,7 +165808,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7944564": {
-    "updated_at": "2026-05-19T20:44:17-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior SOX Manager \u2013 IT",
     "company": "instacart",
     "ats": "greenhouse",
@@ -167192,7 +167192,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7947508": {
-    "updated_at": "2026-06-02T16:27:14-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Engineering Manager, Enterprise Foundations",
     "company": "instacart",
     "ats": "greenhouse",
@@ -167200,7 +167200,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7947506": {
-    "updated_at": "2026-06-02T16:27:07-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Engineering Manager, Enterprise Foundations",
     "company": "instacart",
     "ats": "greenhouse",
@@ -167624,7 +167624,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7943216": {
-    "updated_at": "2026-06-16T13:08:45-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Assistant General Counsel, Employment",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -167944,7 +167944,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5143766007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Staff Software Engineer - Detection and Response Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -167960,7 +167960,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5143763007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Staff Software Engineer - Data Protection",
     "company": "verkada",
     "ats": "greenhouse",
@@ -168368,7 +168368,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7264931": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Backend",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -168544,7 +168544,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144160007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Staff+ Software Engineer, Security Infrastructure",
     "company": "verkada",
     "ats": "greenhouse",
@@ -169240,7 +169240,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804654": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Engineering Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -169704,7 +169704,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951046": {
-    "updated_at": "2026-05-21T14:42:42-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Media Analytics Manager, Measurement & Attribution",
     "company": "instacart",
     "ats": "greenhouse",
@@ -169968,7 +169968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144827007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "National Channel Sales Manager, Convergint (Eastern US)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -170000,7 +170000,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7940165": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Director of Crypto Operations",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -170056,7 +170056,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7918258": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Security Engineer, Application Security",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -170536,7 +170536,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7921576": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Fraud Prevention Officer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -170616,7 +170616,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7847491": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Support Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -170912,7 +170912,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7939818": {
-    "updated_at": "2026-06-22T16:47:51-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -171976,7 +171976,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144834007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Technical Support Engineering Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -172024,7 +172024,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5145739007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Engineering Manager - Storage Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -172072,7 +172072,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7955208": {
-    "updated_at": "2026-06-12T14:38:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Engineering Manager, Privacy Security",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173592,7 +173592,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958220": {
-    "updated_at": "2026-06-18T14:20:28-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Knowledge Strategist Team Lead",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173600,7 +173600,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958218": {
-    "updated_at": "2026-06-18T14:20:27-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Knowledge Strategist Team Lead",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173752,7 +173752,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958122": {
-    "updated_at": "2026-06-09T12:18:33-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior People Data Scientist",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173760,7 +173760,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958121": {
-    "updated_at": "2026-06-09T12:18:23-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior People Data Scientist",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173936,7 +173936,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958561": {
-    "updated_at": "2026-06-18T14:20:29-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Knowledge Strategist Team Lead, Governance",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173944,7 +173944,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958563": {
-    "updated_at": "2026-06-18T14:20:30-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Knowledge Strategist Team Lead, Governance",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173952,7 +173952,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7871254": {
-    "updated_at": "2026-06-16T13:08:17-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Developer, Kubernetes Compute",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -174120,7 +174120,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7396638": {
-    "updated_at": "2026-06-24T08:27:13-04:00",
+    "updated_at": "2026-06-24T16:45:41-04:00",
     "title": "Program Manager, Vendor Operations",
     "company": "reddit",
     "ats": "greenhouse",
@@ -174176,7 +174176,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958331": {
-    "updated_at": "2026-05-26T14:28:51-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Financial Analyst, Retailer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -174184,7 +174184,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958329": {
-    "updated_at": "2026-05-26T14:28:50-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Financial Analyst, Retailer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -174280,7 +174280,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7958750": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Representative, Core Services",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -174296,7 +174296,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7958747": {
-    "updated_at": "2026-06-23T17:32:27-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Representative, Advanced Services",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -174640,7 +174640,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4481783007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior Product Designer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -175896,7 +175896,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7958748": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Representative, Concierge",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -175920,7 +175920,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7960988": {
-    "updated_at": "2026-06-23T23:07:03-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Engineering Manager, Service Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -175928,7 +175928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7960958": {
-    "updated_at": "2026-06-23T23:07:02-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Engineering Manager, Service Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -176536,7 +176536,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7962105": {
-    "updated_at": "2026-06-03T17:50:27-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Strategy & Planning Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -176544,7 +176544,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7962103": {
-    "updated_at": "2026-06-03T17:50:17-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Strategy & Planning Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -176560,7 +176560,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5144641007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Enterprise Account Executive (Nashville)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -177424,7 +177424,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963780": {
-    "updated_at": "2026-05-28T13:25:21-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Marketing Decision Scientist II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -177432,7 +177432,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963779": {
-    "updated_at": "2026-05-28T13:25:10-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Marketing Decision Scientist II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -177520,7 +177520,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963724": {
-    "updated_at": "2026-05-28T12:58:39-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, In-Store Tasks",
     "company": "instacart",
     "ats": "greenhouse",
@@ -177528,7 +177528,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963726": {
-    "updated_at": "2026-05-28T12:58:39-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, In-Store Tasks",
     "company": "instacart",
     "ats": "greenhouse",
@@ -178128,7 +178128,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963838": {
-    "updated_at": "2026-05-28T15:10:27-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Machine Learning Engineer II, Ads Response Prediction",
     "company": "instacart",
     "ats": "greenhouse",
@@ -178504,7 +178504,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7964683": {
-    "updated_at": "2026-05-28T17:09:24-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Program Manager, Quality Assurance",
     "company": "instacart",
     "ats": "greenhouse",
@@ -178512,7 +178512,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7964681": {
-    "updated_at": "2026-05-28T17:09:23-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Program Manager, Quality Assurance",
     "company": "instacart",
     "ats": "greenhouse",
@@ -178632,7 +178632,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7964589": {
-    "updated_at": "2026-05-28T19:25:33-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Account Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -178976,7 +178976,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5148663007": {
-    "updated_at": "2026-06-16T13:06:49-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Channel Sales Manager, Southern Europe",
     "company": "verkada",
     "ats": "greenhouse",
@@ -179248,7 +179248,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7967233": {
-    "updated_at": "2026-06-10T16:20:02-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Director of Product, Agentic Commerce",
     "company": "instacart",
     "ats": "greenhouse",
@@ -179256,7 +179256,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7967235": {
-    "updated_at": "2026-06-10T16:23:53-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Director of Product, Agentic Commerce",
     "company": "instacart",
     "ats": "greenhouse",
@@ -179272,7 +179272,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963661": {
-    "updated_at": "2026-05-29T14:06:51-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Software Engineer II, Technical Search Visibility",
     "company": "instacart",
     "ats": "greenhouse",
@@ -179680,7 +179680,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5150337007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Product Marketing Manager, Privacy and Video Security",
     "company": "verkada",
     "ats": "greenhouse",
@@ -179784,7 +179784,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7490017": {
-    "updated_at": "2026-06-16T13:07:10-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Product Designer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -179896,7 +179896,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7967305": {
-    "updated_at": "2026-05-29T13:59:40-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Catalog Operations Analyst II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180328,7 +180328,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951938": {
-    "updated_at": "2026-05-29T18:54:37-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180336,7 +180336,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951926": {
-    "updated_at": "2026-05-29T18:54:29-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Core Experience",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180344,7 +180344,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7939947": {
-    "updated_at": "2026-05-29T18:54:24-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180376,7 +180376,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951118": {
-    "updated_at": "2026-05-29T18:44:24-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Storage",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180384,7 +180384,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951096": {
-    "updated_at": "2026-05-29T18:44:09-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer II, Storage",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180392,7 +180392,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951087": {
-    "updated_at": "2026-05-29T18:44:02-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer II, (ML/AI Platform)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180400,7 +180400,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951076": {
-    "updated_at": "2026-05-29T18:43:51-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer II, Logistic Foundation",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180408,7 +180408,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951060": {
-    "updated_at": "2026-05-29T18:43:36-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer II, Core Experience",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180416,7 +180416,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951041": {
-    "updated_at": "2026-05-29T18:43:14-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer II, AI Labs & Foundations",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180424,7 +180424,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951036": {
-    "updated_at": "2026-05-29T18:43:08-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Data Governance & Foundations",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180432,7 +180432,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7950935": {
-    "updated_at": "2026-05-29T18:43:03-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180672,7 +180672,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7684760": {
-    "updated_at": "2026-06-22T13:00:02-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Trade PMR",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -181344,7 +181344,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7943204": {
-    "updated_at": "2026-06-16T13:08:41-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Assistant General Counsel, Credit Cards",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -181704,7 +181704,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7939813": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Penetration Tester",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -182280,7 +182280,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7974567": {
-    "updated_at": "2026-06-01T15:19:35-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Developer Experience",
     "company": "instacart",
     "ats": "greenhouse",
@@ -182296,7 +182296,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7974573": {
-    "updated_at": "2026-06-01T15:19:23-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, AI Productivity",
     "company": "instacart",
     "ats": "greenhouse",
@@ -182320,7 +182320,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7974559": {
-    "updated_at": "2026-06-01T15:14:45-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Backend Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -183208,7 +183208,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5152697007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Enterprise Sales Account Executive,  State (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -183216,7 +183216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5152696007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Enterprise Sales Account Executive,  State (Southeast)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -183344,7 +183344,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7914059": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Deputy CCO - Sanctions Officer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183536,7 +183536,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7724380": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183832,7 +183832,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975477": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer, Agentic AI",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183840,7 +183840,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975550": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183848,7 +183848,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975549": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183856,7 +183856,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975531": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183864,7 +183864,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975530": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183872,7 +183872,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976869": {
-    "updated_at": "2026-06-04T12:25:46-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Product Designer - Shopping Experiences",
     "company": "instacart",
     "ats": "greenhouse",
@@ -183880,7 +183880,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976867": {
-    "updated_at": "2026-06-04T12:26:05-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Product Designer - Shopping Experiences",
     "company": "instacart",
     "ats": "greenhouse",
@@ -183888,7 +183888,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975529": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183896,7 +183896,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975526": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183904,7 +183904,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975516": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183920,7 +183920,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975507": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183928,7 +183928,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975480": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183936,7 +183936,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7960734": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183944,7 +183944,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975551": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183952,7 +183952,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975544": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183960,7 +183960,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975519": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183968,7 +183968,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7960708": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Manager, Capital Markets",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183976,7 +183976,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975475": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Credit Business Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -183984,7 +183984,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975474": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Futures Risk Program Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184000,7 +184000,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7976543": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Benchmarking & Strategy Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184008,7 +184008,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975558": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184016,7 +184016,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975557": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184024,7 +184024,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7975563": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184032,7 +184032,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7976534": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Network Reliability Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184040,7 +184040,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7976529": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Machine Learning Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184048,7 +184048,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7960680": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Machine Learning Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184480,7 +184480,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7960697": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Product Designer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -184488,7 +184488,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7977344": {
-    "updated_at": "2026-06-16T12:09:35-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist II - Core Delivery",
     "company": "instacart",
     "ats": "greenhouse",
@@ -184496,7 +184496,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7977331": {
-    "updated_at": "2026-06-16T12:08:44-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Data Scientist II - Core Delivery",
     "company": "instacart",
     "ats": "greenhouse",
@@ -184648,7 +184648,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7977861": {
-    "updated_at": "2026-06-02T18:48:37-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Director, International Strategy & Planning",
     "company": "instacart",
     "ats": "greenhouse",
@@ -184656,7 +184656,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7977859": {
-    "updated_at": "2026-06-02T18:48:36-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Director, International Strategy & Planning",
     "company": "instacart",
     "ats": "greenhouse",
@@ -184952,7 +184952,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7976912": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Crypto Product Compliance Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -185376,7 +185376,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7979781": {
-    "updated_at": "2026-06-03T13:02:05-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer II \u2014 Self-Serve Productivity",
     "company": "instacart",
     "ats": "greenhouse",
@@ -185632,7 +185632,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7961175": {
-    "updated_at": "2026-06-16T13:08:47-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Credit Business Analyst, Growth",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -186040,7 +186040,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7979769": {
-    "updated_at": "2026-06-03T13:02:27-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer I \u2014 Agentic Analytics",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186056,7 +186056,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976883": {
-    "updated_at": "2026-06-24T13:07:09-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Implementation Specialist - Caper (Contractor)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186192,7 +186192,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7979719": {
-    "updated_at": "2026-06-03T15:29:51-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Machine Learning Engineer II, Fulfillment, Matching and Positioning",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186504,7 +186504,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7979707": {
-    "updated_at": "2026-06-23T17:24:38-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Risk and Compliance Senior Associate",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -186672,7 +186672,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5065266007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Enterprise Account Executive (New York - Corporate)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -186744,7 +186744,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980422": {
-    "updated_at": "2026-06-03T17:32:53-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Program Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186752,7 +186752,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980420": {
-    "updated_at": "2026-06-03T17:32:51-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Program Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186832,7 +186832,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7980523": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "iOS Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -186840,7 +186840,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980129": {
-    "updated_at": "2026-06-03T17:05:33-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Field Sales Representative  (Contractor)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186848,7 +186848,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980000": {
-    "updated_at": "2026-06-03T17:05:27-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Field Sales Representative  (Contractor)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186920,7 +186920,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980376": {
-    "updated_at": "2026-06-03T16:37:39-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Corporate Finance Manager, G&A",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186928,7 +186928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980374": {
-    "updated_at": "2026-06-03T16:37:38-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Corporate Finance Manager, G&A",
     "company": "instacart",
     "ats": "greenhouse",
@@ -188208,7 +188208,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7982868": {
-    "updated_at": "2026-06-10T16:16:51-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Engineering Manager, Search",
     "company": "instacart",
     "ats": "greenhouse",
@@ -188216,7 +188216,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7982867": {
-    "updated_at": "2026-06-10T16:04:05-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Engineering Manager, Search",
     "company": "instacart",
     "ats": "greenhouse",
@@ -188312,7 +188312,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976934": {
-    "updated_at": "2026-06-19T12:12:02-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "AI Solutions Architect",
     "company": "instacart",
     "ats": "greenhouse",
@@ -188320,7 +188320,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976932": {
-    "updated_at": "2026-06-19T12:12:02-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "AI Solutions Architect",
     "company": "instacart",
     "ats": "greenhouse",
@@ -188384,7 +188384,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7982870": {
-    "updated_at": "2026-06-24T15:47:24-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Storage Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -188512,7 +188512,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7982640": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Android Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -188688,7 +188688,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804599": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Software Engineer, Retirements Account",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -189656,7 +189656,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7473817": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -189664,7 +189664,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7984878": {
-    "updated_at": "2026-06-11T17:14:08-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Android Engineer, Shopper Activation and Engagement",
     "company": "instacart",
     "ats": "greenhouse",
@@ -190432,7 +190432,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7983431": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Manager of Fraud Strategy",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -190688,7 +190688,7 @@
     "alerted": false
   },
   "greenhouse:toast:7958439": {
-    "updated_at": "2026-06-05T15:48:11-04:00",
+    "updated_at": "2026-06-24T16:57:10-04:00",
     "title": "Senior Manager, Care Experience Management",
     "company": "toast",
     "ats": "greenhouse",
@@ -190800,7 +190800,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7985466": {
-    "updated_at": "2026-06-08T13:14:51-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "People Experience Program Manager - San Francisco",
     "company": "instacart",
     "ats": "greenhouse",
@@ -191016,7 +191016,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7589765": {
-    "updated_at": "2026-06-16T13:07:21-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Product Manager, Crypto Trading",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -192000,7 +192000,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7989245": {
-    "updated_at": "2026-06-24T14:08:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Manager, IT PMO & Corporate Engineering",
     "company": "instacart",
     "ats": "greenhouse",
@@ -192008,7 +192008,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7989243": {
-    "updated_at": "2026-06-24T14:08:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Manager, IT PMO & Corporate Engineering",
     "company": "instacart",
     "ats": "greenhouse",
@@ -192016,7 +192016,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7989205": {
-    "updated_at": "2026-06-08T12:16:21-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Forward Deployed Engineer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -192024,7 +192024,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7989203": {
-    "updated_at": "2026-06-08T12:16:20-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Forward Deployed Engineer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -192936,7 +192936,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7979657": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Underwriting Operations Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -193000,7 +193000,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7964038": {
-    "updated_at": "2026-06-16T20:32:52-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Fraud Investigator - Customer Protection",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -193016,7 +193016,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7495338": {
-    "updated_at": "2026-06-08T16:04:26-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Ads AI Analytics Lead II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -193240,8 +193240,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8577262002": {
-    "updated_at": "2026-06-24T14:40:15-04:00",
-    "title": "Software Engineer, Network Monitoring (Starlink)",
+    "updated_at": "2026-06-24T17:43:24-04:00",
+    "title": "Software Engineer, Observability (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -193408,7 +193408,7 @@
     "alerted": false
   },
   "greenhouse:postman:7761719003": {
-    "updated_at": "2026-06-08T17:48:42-04:00",
+    "updated_at": "2026-06-24T17:11:03-04:00",
     "title": "Global Field Events Lead",
     "company": "postman",
     "ats": "greenhouse",
@@ -194624,7 +194624,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7985592": {
-    "updated_at": "2026-06-11T17:14:16-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Android Engineer, Transactions",
     "company": "instacart",
     "ats": "greenhouse",
@@ -194688,7 +194688,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7991599": {
-    "updated_at": "2026-06-11T11:23:33-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Director, Enterprise Product Marketing",
     "company": "instacart",
     "ats": "greenhouse",
@@ -194696,7 +194696,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7991597": {
-    "updated_at": "2026-06-11T11:23:15-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Director, Enterprise Product Marketing",
     "company": "instacart",
     "ats": "greenhouse",
@@ -194784,7 +194784,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7992784": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Engineering Manager, Advisory Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -194904,7 +194904,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7716677": {
-    "updated_at": "2026-06-19T04:48:09-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -195048,7 +195048,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7990844": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Compliance Communications Senior Specialist",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -195200,7 +195200,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7993511": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Software Engineer, Robinhood Command Center",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -195776,7 +195776,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7991566": {
-    "updated_at": "2026-06-09T15:27:46-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Sales Development Representative II, Emerging - Instacart Business",
     "company": "instacart",
     "ats": "greenhouse",
@@ -195784,7 +195784,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7991564": {
-    "updated_at": "2026-06-09T15:27:45-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Sales Development Representative II, Emerging - Instacart Business",
     "company": "instacart",
     "ats": "greenhouse",
@@ -196872,7 +196872,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7697788": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Security Analyst, Threat Intelligence",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -196912,7 +196912,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7697786": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Security Analyst, Threat Intelligence",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -196928,7 +196928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7994245": {
-    "updated_at": "2026-06-10T16:16:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "AI Engagement Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -196936,7 +196936,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7994243": {
-    "updated_at": "2026-06-10T16:16:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "AI Engagement Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -197040,7 +197040,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7996528": {
-    "updated_at": "2026-06-10T09:02:01-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Machine Learning Engineer, Search & Recommendations",
     "company": "instacart",
     "ats": "greenhouse",
@@ -197416,7 +197416,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7997014": {
-    "updated_at": "2026-06-10T12:14:55-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer, Marketing Enablement & Technology",
     "company": "instacart",
     "ats": "greenhouse",
@@ -197496,7 +197496,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7968044": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Product Manager, Government Products",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -197616,7 +197616,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7997218": {
-    "updated_at": "2026-06-16T13:09:03-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Staff Data Scientist,  ML (Credit Risk)",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -197984,7 +197984,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7988210": {
-    "updated_at": "2026-06-16T12:17:53-04:00",
+    "updated_at": "2026-06-24T16:06:28-04:00",
     "title": "Sr. Production Designer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -198088,7 +198088,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5161396007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Staff Software Engineer - Command Connector",
     "company": "verkada",
     "ats": "greenhouse",
@@ -198200,7 +198200,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7847004": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Web Engineer, Legend",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -199360,7 +199360,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612978": {
-    "updated_at": "2026-06-24T10:41:19-04:00",
+    "updated_at": "2026-06-24T17:37:35-04:00",
     "title": "Public Sector Major Account Executive",
     "company": "samsara",
     "ats": "greenhouse",
@@ -199432,7 +199432,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8001140": {
-    "updated_at": "2026-06-11T14:44:20-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Finance Transformation Senior Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -199584,7 +199584,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8001105": {
-    "updated_at": "2026-06-12T17:20:35-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Trust & Safety Specialist, Law Enforcement Response",
     "company": "instacart",
     "ats": "greenhouse",
@@ -200184,7 +200184,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7998348": {
-    "updated_at": "2026-06-11T17:46:41-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Chief of Staff, GM Advertising",
     "company": "instacart",
     "ats": "greenhouse",
@@ -200192,7 +200192,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7998350": {
-    "updated_at": "2026-06-11T17:46:41-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Chief of Staff, GM Advertising",
     "company": "instacart",
     "ats": "greenhouse",
@@ -200232,7 +200232,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8001889": {
-    "updated_at": "2026-06-12T13:30:29-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Insights Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -200320,7 +200320,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7976919": {
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Crypto Product Compliance Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -200976,8 +200976,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8589834002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
-    "title": "Specialist Solutions Architect - GCP Infrastructure",
+    "updated_at": "2026-06-24T16:14:52-04:00",
+    "title": "Specialist Solutions Architect - Google Cloud Platform & Infrastructure",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -201320,7 +201320,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7955210": {
-    "updated_at": "2026-06-12T14:38:52-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Engineering Manager, Privacy Security",
     "company": "instacart",
     "ats": "greenhouse",
@@ -201392,7 +201392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5162794007": {
-    "updated_at": "2026-06-18T13:39:48-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Staff Data Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -201520,7 +201520,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8001891": {
-    "updated_at": "2026-06-12T13:27:28-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Insights Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -201824,7 +201824,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8569993002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
+    "updated_at": "2026-06-24T16:05:59-04:00",
     "title": "Program Manager, Product",
     "company": "databricks",
     "ats": "greenhouse",
@@ -201904,7 +201904,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7943194": {
-    "updated_at": "2026-06-16T13:08:32-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Manager of Technical Talent Acquisition",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -202160,7 +202160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5164234007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "NPI Project Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -202232,7 +202232,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8004097": {
-    "updated_at": "2026-06-12T18:48:36-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Corporate Engineer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -202240,7 +202240,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8004095": {
-    "updated_at": "2026-06-12T18:48:35-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Staff Corporate Engineer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -202760,7 +202760,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5162206007": {
-    "updated_at": "2026-06-16T13:06:25-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Technical Support Engineer - Industrial Placement 2027 (12-months)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -203368,7 +203368,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5162154007": {
-    "updated_at": "2026-06-19T05:35:01-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Head of Channel UKI",
     "company": "verkada",
     "ats": "greenhouse",
@@ -204944,8 +204944,8 @@
     "alerted": false
   },
   "greenhouse:rubrik:8003409": {
-    "updated_at": "2026-06-17T17:29:08-04:00",
-    "title": "Senior Renewal Operations Analyst (US / North America)",
+    "updated_at": "2026-06-24T16:38:22-04:00",
+    "title": "Senior Renewal Operations Analyst",
     "company": "rubrik",
     "ats": "greenhouse",
     "source_slug": "rubrik",
@@ -205152,7 +205152,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8009366": {
-    "updated_at": "2026-06-16T12:33:57-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Solutions Architect II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -206344,7 +206344,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8011599": {
-    "updated_at": "2026-06-23T17:32:53-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Representative, Active Trader",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -207704,7 +207704,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8008723": {
-    "updated_at": "2026-06-22T15:58:22-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Full Stack Software Engineer, Credit Cards & Banking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -207720,7 +207720,7 @@
     "alerted": true
   },
   "greenhouse:instacart:8014062": {
-    "updated_at": "2026-06-22T12:38:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, Retailer Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -207752,7 +207752,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5167632007": {
-    "updated_at": "2026-06-17T16:59:45-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Staff Frontend Engineer - Mapping & Spatial Platform",
     "company": "verkada",
     "ats": "greenhouse",
@@ -207888,7 +207888,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8014060": {
-    "updated_at": "2026-06-22T12:38:36-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, Retailer Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -208248,7 +208248,7 @@
     "alerted": true
   },
   "greenhouse:verkada:5167243007": {
-    "updated_at": "2026-06-17T19:38:55-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Compliance TPM - Device Security",
     "company": "verkada",
     "ats": "greenhouse",
@@ -208840,7 +208840,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8014051": {
-    "updated_at": "2026-06-18T11:39:11-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Software Engineer,  Instacart Business",
     "company": "instacart",
     "ats": "greenhouse",
@@ -209264,7 +209264,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8014801": {
-    "updated_at": "2026-06-19T03:03:35-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Senior Network Developer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -209728,7 +209728,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8017073": {
-    "updated_at": "2026-06-19T12:53:21-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Security Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -209736,7 +209736,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8017071": {
-    "updated_at": "2026-06-19T12:52:56-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Security Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -210152,7 +210152,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5167601007": {
-    "updated_at": "2026-06-18T17:52:32-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Security Engineer, Core Command",
     "company": "verkada",
     "ats": "greenhouse",
@@ -210160,7 +210160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5167607007": {
-    "updated_at": "2026-06-18T17:49:21-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Staff+ Security Engineer, Developer Tools",
     "company": "verkada",
     "ats": "greenhouse",
@@ -210416,7 +210416,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8017419": {
-    "updated_at": "2026-06-18T19:26:05-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Project Manager, CX PMO",
     "company": "instacart",
     "ats": "greenhouse",
@@ -210424,7 +210424,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8017417": {
-    "updated_at": "2026-06-18T19:26:04-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Project Manager, CX PMO",
     "company": "instacart",
     "ats": "greenhouse",
@@ -210472,7 +210472,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8003458": {
-    "updated_at": "2026-06-23T14:22:51-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Assistant General Counsel, Regulatory",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -210896,7 +210896,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4185963007": {
-    "updated_at": "2026-06-19T08:17:57-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Marketing (Sales) Development Representative - UKI",
     "company": "verkada",
     "ats": "greenhouse",
@@ -211600,7 +211600,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8016809": {
-    "updated_at": "2026-06-21T06:52:03-04:00",
+    "updated_at": "2026-06-24T17:05:00-04:00",
     "title": "Hardware Procurement Analyst, Infrastructure Operation",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -212800,7 +212800,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5170725007": {
-    "updated_at": "2026-06-22T14:54:34-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Enterprise Account Executive (New Jersey - Muni)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -212832,7 +212832,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7739588": {
-    "updated_at": "2026-06-22T14:50:19-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Quality Engineer, iOS/Android",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -214032,7 +214032,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8603653002": {
-    "updated_at": "2026-06-23T14:55:47-04:00",
+    "updated_at": "2026-06-24T16:52:47-04:00",
     "title": "Senior Machine Learning Engineer, Rider Applied AI",
     "company": "lyft",
     "ats": "greenhouse",
@@ -214176,7 +214176,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8014047": {
-    "updated_at": "2026-06-23T12:54:21-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Manager, RHM Executive Office",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -214272,7 +214272,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8017556": {
-    "updated_at": "2026-06-23T14:46:18-04:00",
+    "updated_at": "2026-06-24T16:18:19-04:00",
     "title": "Senior Software Engineer, Community Support Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -214616,7 +214616,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7982916": {
-    "updated_at": "2026-06-23T10:23:45-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Specialist, Executive Office",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -215232,7 +215232,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8024530": {
-    "updated_at": "2026-06-23T15:59:11-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -215904,7 +215904,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5171282007": {
-    "updated_at": "2026-06-24T04:24:55-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Sales Recruiter, EMEA",
     "company": "verkada",
     "ats": "greenhouse",
@@ -216008,7 +216008,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4775290007": {
-    "updated_at": "2026-06-24T01:15:28-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Sales Development Representative - Sydney",
     "company": "verkada",
     "ats": "greenhouse",
@@ -216160,7 +216160,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:8025713": {
-    "updated_at": "2026-06-24T06:11:01-04:00",
+    "updated_at": "2026-06-24T16:58:31-04:00",
     "title": "Sr. Product Operations Manager I (Remote Eligible in Bulgaria)",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -216536,7 +216536,7 @@
     "alerted": false
   },
   "greenhouse:okta:7939834": {
-    "updated_at": "2026-06-24T15:33:38-04:00",
+    "updated_at": "2026-06-24T16:15:27-04:00",
     "title": "Staff Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -216624,7 +216624,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7778135003": {
-    "updated_at": "2026-06-24T10:47:06-04:00",
+    "updated_at": "2026-06-24T16:18:56-04:00",
     "title": "Account Executive - Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -216912,7 +216912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172974007": {
-    "updated_at": "2026-06-24T13:42:13-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -216928,7 +216928,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172999007": {
-    "updated_at": "2026-06-24T13:39:27-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Technical Support Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -216976,7 +216976,7 @@
     "alerted": false
   },
   "greenhouse:everlaw:4691763006": {
-    "updated_at": "2026-06-24T13:22:07-04:00",
+    "updated_at": "2026-06-24T17:34:58-04:00",
     "title": "Senior Software Security Engineer",
     "company": "everlaw",
     "ats": "greenhouse",
@@ -216992,7 +216992,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8008962": {
-    "updated_at": "2026-06-24T13:15:45-04:00",
+    "updated_at": "2026-06-24T17:00:58-04:00",
     "title": "Customer Experience Manager, Money",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -217288,8 +217288,8 @@
     "alerted": false
   },
   "greenhouse:robinhood:7974199": {
-    "updated_at": "2026-06-24T15:39:03-04:00",
-    "title": "Customer Experience Manager, Core Services",
+    "updated_at": "2026-06-24T17:02:57-04:00",
+    "title": "Customer Experience Manager, Advanced Services",
     "company": "robinhood",
     "ats": "greenhouse",
     "source_slug": "robinhood",
@@ -217440,7 +217440,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8024359": {
-    "updated_at": "2026-06-24T14:59:32-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Principal Product Manager, AI",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217448,7 +217448,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8024357": {
-    "updated_at": "2026-06-24T14:58:30-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Principal Product Manager, AI",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217456,7 +217456,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5171971007": {
-    "updated_at": "2026-06-24T14:56:51-04:00",
+    "updated_at": "2026-06-24T17:43:18-04:00",
     "title": "Regional Sales Manager, Channel (South Central)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -217464,7 +217464,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8024430": {
-    "updated_at": "2026-06-24T14:54:47-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, AI",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217472,7 +217472,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8024428": {
-    "updated_at": "2026-06-24T14:54:19-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Senior Product Manager, AI",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217488,7 +217488,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8026686": {
-    "updated_at": "2026-06-24T14:52:04-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Sr. Product Designer II - Design Systems",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217504,7 +217504,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8026684": {
-    "updated_at": "2026-06-24T14:51:48-04:00",
+    "updated_at": "2026-06-24T16:24:24-04:00",
     "title": "Sr. Product Designer II - Design Systems",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217616,7 +217616,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172992007": {
-    "updated_at": "2026-06-24T14:13:16-04:00",
+    "updated_at": "2026-06-24T17:43:47-04:00",
     "title": "Senior GTM Recruiter, London",
     "company": "verkada",
     "ats": "greenhouse",
@@ -217664,11 +217664,307 @@
     "alerted": true
   },
   "greenhouse:cribl:6099643004": {
-    "updated_at": "2026-06-24T16:03:13-04:00",
+    "updated_at": "2026-06-24T16:05:39-04:00",
     "title": "Staff Technical Program manager, AI",
     "company": "cribl",
     "ats": "greenhouse",
     "source_slug": "cribl",
     "alerted": true
+  },
+  "greenhouse:brex:8606890002": {
+    "updated_at": "2026-06-24T17:25:11-04:00",
+    "title": "AI Engineer, Ecosystem",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8606885002": {
+    "updated_at": "2026-06-24T17:25:10-04:00",
+    "title": "AI Engineer, Ecosystem",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:waymo:8012269": {
+    "updated_at": "2026-06-24T17:24:34-04:00",
+    "title": "Staff Software Engineer, DUE Experience",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8014045": {
+    "updated_at": "2026-06-24T17:24:30-04:00",
+    "title": "Customer Experience Lead, Money",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:stripe:8010011": {
+    "updated_at": "2026-06-24T17:24:02-04:00",
+    "title": "Product Manager, EMEA Local Payment Methods",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:databricks:8571971002": {
+    "updated_at": "2026-06-24T17:12:57-04:00",
+    "title": "Sr. Director, Field Engineering (Lakebase)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:marqeta:7922382": {
+    "updated_at": "2026-06-24T17:08:00-04:00",
+    "title": "Senior Software Engineer - Kubernetes Operations",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": false
+  },
+  "greenhouse:reddit:8011163": {
+    "updated_at": "2026-06-24T17:06:13-04:00",
+    "title": "Director, Technology FP&A",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5278065008": {
+    "updated_at": "2026-06-24T17:05:14-04:00",
+    "title": "Research Engineer, Rule of Law",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:contentstack:7768514003": {
+    "updated_at": "2026-06-24T17:04:53-04:00",
+    "title": "Manager, BDRs and Agentic Outbound",
+    "company": "contentstack",
+    "ats": "greenhouse",
+    "source_slug": "contentstack",
+    "alerted": false
+  },
+  "greenhouse:brex:8606845002": {
+    "updated_at": "2026-06-24T17:03:04-04:00",
+    "title": "AI Engineer, Product",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8606833002": {
+    "updated_at": "2026-06-24T17:00:46-04:00",
+    "title": "Finance Manager",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8606825002": {
+    "updated_at": "2026-06-24T16:58:50-04:00",
+    "title": "Finance Manager",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8606210002": {
+    "updated_at": "2026-06-24T16:58:17-04:00",
+    "title": "Finance Manager",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:squarespace:8027306": {
+    "updated_at": "2026-06-24T16:56:34-04:00",
+    "title": "Senior Analyst, Product Analytics",
+    "company": "squarespace",
+    "ats": "greenhouse",
+    "source_slug": "squarespace",
+    "alerted": false
+  },
+  "greenhouse:carta:7784260003": {
+    "updated_at": "2026-06-24T16:55:56-04:00",
+    "title": "Senior IT Support Engineer",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8025144": {
+    "updated_at": "2026-06-24T16:55:34-04:00",
+    "title": "Account Executive - Norcal",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:checkr:8027310": {
+    "updated_at": "2026-06-24T16:54:28-04:00",
+    "title": "Senior Account Executive, Insurance",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:verkada:5173337007": {
+    "updated_at": "2026-06-24T16:52:14-04:00",
+    "title": "Staff Frontend Engineer - Design Systems",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:checkr:8027296": {
+    "updated_at": "2026-06-24T16:49:56-04:00",
+    "title": "Commercial Account Executive",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:verkada:5173327007": {
+    "updated_at": "2026-06-24T16:47:07-04:00",
+    "title": "Engineering Manager, Atlas (Spatial Systems)",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:checkr:8027284": {
+    "updated_at": "2026-06-24T16:47:04-04:00",
+    "title": "Senior Field Marketing Manager",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8025138": {
+    "updated_at": "2026-06-24T16:39:36-04:00",
+    "title": "Account Executive - PNW",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:fastly:8011076": {
+    "updated_at": "2026-06-24T16:35:33-04:00",
+    "title": "Senior Engineer - Security Products (Backend APIs)",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8025505": {
+    "updated_at": "2026-06-24T16:29:22-04:00",
+    "title": "Staff Software Engineer - AI Platform Team",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5258583008": {
+    "updated_at": "2026-06-24T16:24:48-04:00",
+    "title": "Copy Lead, Claude",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8025140": {
+    "updated_at": "2026-06-24T16:22:46-04:00",
+    "title": "Account Executive - New York",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8023794": {
+    "updated_at": "2026-06-24T16:22:14-04:00",
+    "title": "Manager, UX Research",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8025142": {
+    "updated_at": "2026-06-24T16:20:02-04:00",
+    "title": "Account Executive - Mid-Atlantic",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:fastly:8027022": {
+    "updated_at": "2026-06-24T16:19:53-04:00",
+    "title": "Senior Partnerships Lead",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:okta:6597058": {
+    "updated_at": "2026-06-24T16:19:23-04:00",
+    "title": "Staff Software Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:workato:8583100002": {
+    "updated_at": "2026-06-24T16:19:08-04:00",
+    "title": "Intern, Customer Success Program Management",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:spacex:8606729002": {
+    "updated_at": "2026-06-24T16:17:52-04:00",
+    "title": "Project Architect (Facilities)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:workato:8581287002": {
+    "updated_at": "2026-06-24T16:17:31-04:00",
+    "title": "Senior Strategy and Pricing Analyst",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:spacex:8606724002": {
+    "updated_at": "2026-06-24T16:12:31-04:00",
+    "title": "Software Engineer, Telemetry (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:datadog:8026520": {
+    "updated_at": "2026-06-24T16:08:29-04:00",
+    "title": "Director, Engineering - Detection Platform",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:flexport:8027188": {
+    "updated_at": "2026-06-24T16:02:41-04:00",
+    "title": "Account Manager, Flexport Capital",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
   }
 }
