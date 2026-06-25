@@ -1904,7 +1904,7 @@
     "alerted": true
   },
   "greenhouse:abnormalsecurity:7602802003": {
-    "updated_at": "2026-05-29T13:44:27-04:00",
+    "updated_at": "2026-06-24T18:55:01-04:00",
     "title": "Senior Software Engineer - Backend - Multi-Product Platform (Customer Journey)",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -16016,7 +16016,7 @@
     "alerted": true
   },
   "greenhouse:gusto:7458337": {
-    "updated_at": "2026-06-18T10:59:45-04:00",
+    "updated_at": "2026-06-24T19:06:45-04:00",
     "title": "Staff Software Engineer, Core Products",
     "company": "gusto",
     "ats": "greenhouse",
@@ -123360,7 +123360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4675342006": {
-    "updated_at": "2026-06-17T18:35:51-04:00",
+    "updated_at": "2026-06-24T19:50:14-04:00",
     "title": "Technical Project Manager - East Region",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -149016,7 +149016,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8490611002": {
-    "updated_at": "2026-05-07T16:49:43-04:00",
+    "updated_at": "2026-06-24T19:42:45-04:00",
     "title": "Global Payroll Manager",
     "company": "airtable",
     "ats": "greenhouse",
@@ -149120,7 +149120,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7826328": {
-    "updated_at": "2026-06-18T10:59:45-04:00",
+    "updated_at": "2026-06-24T20:02:13-04:00",
     "title": "Partner Account Executive",
     "company": "gusto",
     "ats": "greenhouse",
@@ -159848,7 +159848,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7602965003": {
-    "updated_at": "2026-05-25T00:01:11-04:00",
+    "updated_at": "2026-06-24T19:08:45-04:00",
     "title": "Senior Product Manager",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -174072,7 +174072,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7741016003": {
-    "updated_at": "2026-05-29T13:44:27-04:00",
+    "updated_at": "2026-06-24T19:00:23-04:00",
     "title": "Software Engineer 2",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -195720,7 +195720,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687411006": {
-    "updated_at": "2026-06-17T18:35:51-04:00",
+    "updated_at": "2026-06-24T19:52:58-04:00",
     "title": "Technical Project Manager - West Coast",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -202160,7 +202160,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5164234007": {
-    "updated_at": "2026-06-24T17:45:17-04:00",
+    "updated_at": "2026-06-24T19:04:50-04:00",
     "title": "NPI Project Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -202272,8 +202272,8 @@
     "alerted": false
   },
   "greenhouse:okta:7997345": {
-    "updated_at": "2026-06-24T14:06:41-04:00",
-    "title": "Senior Manager, Technical Product Marketing",
+    "updated_at": "2026-06-24T19:38:52-04:00",
+    "title": "Director, Technical Product Marketing",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -207632,7 +207632,7 @@
     "alerted": false
   },
   "greenhouse:hightouch:6002979004": {
-    "updated_at": "2026-06-23T11:41:55-04:00",
+    "updated_at": "2026-06-24T19:09:18-04:00",
     "title": "Renewals Manager",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -207640,7 +207640,7 @@
     "alerted": false
   },
   "greenhouse:hightouch:6092016004": {
-    "updated_at": "2026-06-23T11:43:52-04:00",
+    "updated_at": "2026-06-24T19:08:30-04:00",
     "title": "Account Manager",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -215424,7 +215424,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8024892": {
-    "updated_at": "2026-06-23T18:17:13-04:00",
+    "updated_at": "2026-06-24T19:53:21-04:00",
     "title": "Senior Software Engineer, Presence",
     "company": "reddit",
     "ats": "greenhouse",
@@ -217800,8 +217800,8 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8025144": {
-    "updated_at": "2026-06-24T18:32:24-04:00",
-    "title": "Account Executive - Norcal",
+    "updated_at": "2026-06-24T19:19:02-04:00",
+    "title": "Account Executive - NorCal (PST/MDT Timezones)",
     "company": "humaninterest",
     "ats": "greenhouse",
     "source_slug": "humaninterest",
@@ -217848,8 +217848,8 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8025138": {
-    "updated_at": "2026-06-24T18:32:23-04:00",
-    "title": "Account Executive - PNW",
+    "updated_at": "2026-06-24T19:20:03-04:00",
+    "title": "Account Executive - PNW (PST/MDT Timezones)",
     "company": "humaninterest",
     "ats": "greenhouse",
     "source_slug": "humaninterest",
@@ -218077,6 +218077,118 @@
     "company": "robinhood",
     "ats": "greenhouse",
     "source_slug": "robinhood",
+    "alerted": true
+  },
+  "greenhouse:altruist:6101157004": {
+    "updated_at": "2026-06-24T20:01:20-04:00",
+    "title": "Customer Success Automation Engineer",
+    "company": "altruist",
+    "ats": "greenhouse",
+    "source_slug": "altruist",
+    "alerted": false
+  },
+  "greenhouse:okta:8002014": {
+    "updated_at": "2026-06-24T19:55:18-04:00",
+    "title": "Senior Data Analyst, Marketing Analytics",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:okta:8026169": {
+    "updated_at": "2026-06-24T19:54:33-04:00",
+    "title": "Senior Data Analyst, Marketing Analytics",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7782567003": {
+    "updated_at": "2026-06-24T19:50:32-04:00",
+    "title": "Software Engineer II - Cloud Infrastructure Engineer",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:hightouch:6101147004": {
+    "updated_at": "2026-06-24T19:48:35-04:00",
+    "title": "Strategic Finance Manager, Corporate",
+    "company": "hightouch",
+    "ats": "greenhouse",
+    "source_slug": "hightouch",
+    "alerted": false
+  },
+  "greenhouse:databricks:8605158002": {
+    "updated_at": "2026-06-24T19:46:06-04:00",
+    "title": "Solutions Architect - Financial Services (Asset and Wealth Management)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:flex:4709341005": {
+    "updated_at": "2026-06-24T19:37:57-04:00",
+    "title": "Sr. Associate Performance Marketing",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:asana:7962954": {
+    "updated_at": "2026-06-24T19:27:17-04:00",
+    "title": "Administrative Business Partner",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:waymo:8027001": {
+    "updated_at": "2026-06-24T18:55:23-04:00",
+    "title": "Product Manager, Growth",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:twilio:7818575": {
+    "updated_at": "2026-06-24T18:42:00-04:00",
+    "title": "Project Manager 3",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:airtable:8603626002": {
+    "updated_at": "2026-06-24T18:39:51-04:00",
+    "title": "Procurement Operations Manager",
+    "company": "airtable",
+    "ats": "greenhouse",
+    "source_slug": "airtable",
+    "alerted": false
+  },
+  "greenhouse:altruist:6101158004": {
+    "updated_at": "2026-06-24T20:02:39-04:00",
+    "title": "Customer Success Automation Engineer",
+    "company": "altruist",
+    "ats": "greenhouse",
+    "source_slug": "altruist",
+    "alerted": true
+  },
+  "greenhouse:altruist:6101159004": {
+    "updated_at": "2026-06-24T20:02:35-04:00",
+    "title": "Customer Success Automation Engineer",
+    "company": "altruist",
+    "ats": "greenhouse",
+    "source_slug": "altruist",
+    "alerted": true
+  },
+  "greenhouse:gusto:8008696": {
+    "updated_at": "2026-06-24T20:02:35-04:00",
+    "title": "Staff Software Engineer, Core Products",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
     "alerted": true
   }
 }
