@@ -196352,7 +196352,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7993078": {
-    "updated_at": "2026-06-26T18:20:47-04:00",
+    "updated_at": "2026-06-27T06:20:13-04:00",
     "title": "Technical Director, Builder Relations",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -222353,6 +222353,14 @@
   },
   "greenhouse:twitch:8610651002": {
     "updated_at": "2026-06-26T21:57:28-04:00",
+    "title": "Customer Experience Specialist",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:twitch:8611233002": {
+    "updated_at": "2026-06-26T21:57:29-04:00",
     "title": "Customer Experience Specialist",
     "company": "twitch",
     "ats": "greenhouse",
