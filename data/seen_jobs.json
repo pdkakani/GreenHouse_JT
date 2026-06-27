@@ -3680,7 +3680,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:7736191": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Senior Software Engineer, Atlas Clusters Fleet Management",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -3736,7 +3736,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:7617019": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Senior Staff Engineer, AMP",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -24792,7 +24792,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5179882008": {
-    "updated_at": "2026-04-11T22:14:11-04:00",
+    "updated_at": "2026-06-27T00:31:57-04:00",
     "title": "Product Operations Manager, Feedback Loops",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -27624,7 +27624,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7651773": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:45-04:00",
     "title": "Designated Support Engineer, Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27640,7 +27640,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7714337": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:50-04:00",
     "title": "Engineering Manager, DFM Firmware",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27760,7 +27760,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7648093": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:44-04:00",
     "title": "Pre-Sales System Engineer (Eastern Saudi Arabia)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27776,7 +27776,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7776197": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:56-04:00",
     "title": "Pre-Sales Systems Engineer, SLED (New Jersey)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27816,7 +27816,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7759948": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:55-04:00",
     "title": "Quality Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27824,7 +27824,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7688316": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:48-04:00",
     "title": "Senior Business Development Manager, AI Native Ecosystems & Strategic Influence",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27832,7 +27832,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7485500": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:31-04:00",
     "title": "Senior Firmware Engineer - PCIe, Systems Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27848,7 +27848,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7420631": {
-    "updated_at": "2026-06-23T22:41:12-04:00",
+    "updated_at": "2026-06-27T01:15:23-04:00",
     "title": "Senior Hardware Design Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27864,7 +27864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7506262": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:31-04:00",
     "title": "Senior Platform Networking Software Engineer, Systems Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27872,7 +27872,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7384706": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:19-04:00",
     "title": "Senior Platform Software Engineer, System Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27912,7 +27912,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7809731": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:58-04:00",
     "title": "Senior Pre-Sales Systems Engineer, Enterprise - Cincinnati/Dayton",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27936,7 +27936,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7761477": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:55-04:00",
     "title": "Senior Pre-Sales Systems Engineer, Everpure Protect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -27992,7 +27992,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7707470": {
-    "updated_at": "2026-06-23T08:43:01-04:00",
+    "updated_at": "2026-06-27T01:15:49-04:00",
     "title": "Senior Software Engineer - Production Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -28056,7 +28056,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7681034": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:47-04:00",
     "title": "Software Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -28064,7 +28064,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7608922": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:42-04:00",
     "title": "Software Engineer, Hyperscale Line of Business",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -28096,7 +28096,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7714281": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:50-04:00",
     "title": "Sr. SSD Firmware Architect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -28136,7 +28136,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7296073": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:11-04:00",
     "title": "Technical Lead, Distributed Systems, Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -43312,7 +43312,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7523920": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:46-04:00",
     "title": "Software Engineer 3, Atlas Search Systems",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -49680,7 +49680,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7457367": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:28-04:00",
     "title": "Account Executive, Central Government, Japan",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49720,7 +49720,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7464039": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:29-04:00",
     "title": "Account Executive, Emerging (SocialInfra accounts), Japan",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49768,7 +49768,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7559479": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:37-04:00",
     "title": "Account Executive, Enterprise (UK)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49776,7 +49776,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7370999": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:17-04:00",
     "title": "Account Executive, Enterprise Germany",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49824,7 +49824,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7282418": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:08-04:00",
     "title": "Sales Account Executive (FSI)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49840,7 +49840,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7374277": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:17-04:00",
     "title": "Account Executive (Low Enterprise, SBF-120, & Mid-Market) - France",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49864,7 +49864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7597448": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:41-04:00",
     "title": "Account Executive, Portworx - Strategic Accounts Manufacturing (EMEA)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49872,7 +49872,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7597451": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:41-04:00",
     "title": "Account Executive, Portworx - Strategic Accounts - Telco (EMEA)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49880,7 +49880,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7715903": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:50-04:00",
     "title": "Account Executive, Portworx UK",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49888,7 +49888,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7402605": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:21-04:00",
     "title": "Account Executive, Public Sector (Central Government)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49928,7 +49928,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7418412": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:23-04:00",
     "title": "Account Executive, Taiwan",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49936,7 +49936,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7457382": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:28-04:00",
     "title": "Sales Account Executive (Public sector)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49952,7 +49952,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7396661": {
-    "updated_at": "2026-06-23T01:08:14-04:00",
+    "updated_at": "2026-06-27T01:15:20-04:00",
     "title": "Regional Business Development Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50032,7 +50032,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7654941": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:46-04:00",
     "title": "Senior Business Systems Analyst, Legal Operations",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50064,7 +50064,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7805575": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:57-04:00",
     "title": "Client Solutions Director, Strategic Accounts (FSI) UK",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50072,7 +50072,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7818651": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:59-04:00",
     "title": "Cloud Native Architect, Portworx (Germany)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50088,7 +50088,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7587856": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:40-04:00",
     "title": "Cloud Native Architect, Strategic Accounts, Telco (EMEA)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50096,7 +50096,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7618842": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:43-04:00",
     "title": "Cloud Software Engineer, Everpure Cloud",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50112,7 +50112,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7647799": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:44-04:00",
     "title": "Commercial Strategy & Transformation Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50136,7 +50136,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7815858": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:58-04:00",
     "title": "Consulting Solution Architect, SLED- Austin",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50192,7 +50192,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7453575": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:27-04:00",
     "title": "Director, Cisco Global Alliance",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50200,7 +50200,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7597163": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:41-04:00",
     "title": "Director, CTO Architect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50264,7 +50264,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7759581": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:55-04:00",
     "title": "Employee Relations Business Partner (EMEA)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50296,7 +50296,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7705438": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:49-04:00",
     "title": "Engineering Manager, Identity Access Management (On-Site / Relocation to Prague)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50352,7 +50352,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7722360": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:51-04:00",
     "title": "Executive Sponsorship Program Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50360,7 +50360,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7765128": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:55-04:00",
     "title": "Field Solution Architect - AI/Analytics (Tokyo)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50368,7 +50368,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7732925": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:51-04:00",
     "title": "Finance Analyst - Internship",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50376,7 +50376,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7593524": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:40-04:00",
     "title": "Finance Director APAC",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50456,7 +50456,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7698320": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:48-04:00",
     "title": "Kubernetes & Bare Metal Engineer, ISS",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50480,7 +50480,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7644074": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:44-04:00",
     "title": "Legal Counsel (IP & Product)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50536,7 +50536,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7605898": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:42-04:00",
     "title": "Member of Technical Staff- Flash Blade",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50544,7 +50544,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7681472": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:47-04:00",
     "title": "Member of Technical Staff,FlashBlade",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50576,7 +50576,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7775252": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:56-04:00",
     "title": "Member of Technical Staff, Kernel",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50584,7 +50584,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7775450": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:56-04:00",
     "title": "Member of Technical Staff, Networking",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50728,7 +50728,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7548554": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:36-04:00",
     "title": "Payroll Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50752,7 +50752,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7779275": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:57-04:00",
     "title": "Principal Product Manager, OEM Growth",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50776,7 +50776,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7601923": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:41-04:00",
     "title": "Principal Systems Architect \u2013 Platforms & AI Integration, DTG",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50808,7 +50808,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7671846": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:47-04:00",
     "title": "Product Manager, Systems, FlashArray & FlashBlade",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50840,7 +50840,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7715274": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:50-04:00",
     "title": "Sales Development Representative - Polish speaking - (UK based for CEE)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50848,7 +50848,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7770133": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:56-04:00",
     "title": "Sales Development Representative (Singapore)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50864,7 +50864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7780080": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:57-04:00",
     "title": "Sales Enablement Business Partner (Tokyo)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50920,7 +50920,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7535145": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:35-04:00",
     "title": "Senior Account Executive, GSI Sales",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -50976,7 +50976,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7815714": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:58-04:00",
     "title": "Senior Data Engineering Manager -  Conversational AI & Finance Control Tower",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51000,7 +51000,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7782240": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:57-04:00",
     "title": "Senior Engineering Manager, Kernel",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51048,7 +51048,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7767968": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:55-04:00",
     "title": "Senior HW Test Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51120,7 +51120,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7671835": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:47-04:00",
     "title": "Senior Product Manager, FlashArray Core",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51184,7 +51184,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7464066": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:29-04:00",
     "title": "Senior System Engineer (Enterprise)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51208,7 +51208,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7442916": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:26-04:00",
     "title": "Senior Systems Engineer, Japan (Public Sector)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51256,7 +51256,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7721088": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:50-04:00",
     "title": "Service Account Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51480,7 +51480,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7727981": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:51-04:00",
     "title": "Talent Acquisition Sourcer (maternity cover)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51576,7 +51576,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7440838": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:25-04:00",
     "title": "Territory Systems Engineer, Commercial, Germany",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -51584,7 +51584,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7400767": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:21-04:00",
     "title": "Territory Systems Engineer, Commercial, (Nordics)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -62472,7 +62472,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7728309": {
-    "updated_at": "2026-06-19T00:58:00-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Manager, Solutions Architecture",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -75320,7 +75320,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7604011": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76712,7 +76712,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7678147": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Senior Staff Engineer, AMP",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -122720,7 +122720,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7842564": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:01-04:00",
     "title": "ServiceNow Platform Developer Intern",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -123104,7 +123104,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7833628": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:46-04:00",
     "title": "Senior Software Engineer - Query Integration",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -123112,7 +123112,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7833626": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:46-04:00",
     "title": "Senior Software Engineer - Query Integration",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -124456,7 +124456,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7418370": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:23-04:00",
     "title": "Territory Systems Engineer, SE Excellence Center - IND",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -124584,7 +124584,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7418374": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:23-04:00",
     "title": "Territory Systems Engineer, SE Excellence Center - ANZ",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -125392,7 +125392,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7702100": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:49-04:00",
     "title": "Principal Software Engineer, Datapath",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -126152,7 +126152,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7843387": {
-    "updated_at": "2026-06-24T13:45:46-04:00",
+    "updated_at": "2026-06-27T01:16:01-04:00",
     "title": "GTM, Talent Attraction Specialist (Sourcer)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -127816,7 +127816,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7816135": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:48-04:00",
     "title": "Software Engineer 3 - Query Optimization",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -127824,7 +127824,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7846877": {
-    "updated_at": "2026-06-19T00:58:50-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Senior Data Analyst II, Product",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -128312,7 +128312,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7851710": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:02-04:00",
     "title": "Senior Pre-Sales Systems Engineer, SLED (Iowa / Kansas / Missouri / Nebraska)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -128872,7 +128872,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7848672": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:02-04:00",
     "title": "Territory Account Executive - San Diego, Arizona, New Mexico",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -129024,7 +129024,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7834266": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "Senior Pre-Sales Systems Engineer, Enterprise - Pittsburgh",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -129536,7 +129536,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7835498": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "System Engineer, Perth",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -130568,7 +130568,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7851168": {
-    "updated_at": "2026-06-24T05:40:13-04:00",
+    "updated_at": "2026-06-27T00:34:46-04:00",
     "title": "Senior Product Manager, Replication & Storage Engines",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -130576,7 +130576,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7851166": {
-    "updated_at": "2026-06-24T05:40:13-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Senior Product Manager, Replication & Storage Engines",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -130872,7 +130872,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7824493": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "Director Cloud Native Architects, EMEA",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -131896,7 +131896,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7859929": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:03-04:00",
     "title": "Account Executive, SLED (VIC)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -132664,7 +132664,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7824178": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "Lead Technical Support Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -134352,7 +134352,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7775309": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:56-04:00",
     "title": "Member of Technical Staff, Kernel",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -134584,7 +134584,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7844300": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:01-04:00",
     "title": "District Sales Manager, Growth Accounts - France",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -137136,7 +137136,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7824325": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "Business Intelligence Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -137144,7 +137144,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7823868": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:59-04:00",
     "title": "Senior AI Knowledge Graph Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -138520,7 +138520,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7254748": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:04-04:00",
     "title": "Growth Product Manager, Subscription Products & Lifecycle",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -140208,7 +140208,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7872380": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:04-04:00",
     "title": "Solutions Director, Life Sciences",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -140520,7 +140520,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7863451": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:03-04:00",
     "title": "Senior Account Executive, GSI - Kyndryl and Accenture",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -140536,7 +140536,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7862650": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:03-04:00",
     "title": "Sr. Product Manager, Data Protection",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -140560,7 +140560,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7857995": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:02-04:00",
     "title": "Security Product Manager, FlashArray",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -140624,7 +140624,7 @@
     "alerted": true
   },
   "greenhouse:purestorage:7858951": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:02-04:00",
     "title": "Principal Product Manager, FB Foundation",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -140632,7 +140632,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7858128": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:02-04:00",
     "title": "Sr. Manager of Product Management, Data Protection",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -142200,7 +142200,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7847107": {
-    "updated_at": "2026-06-26T11:51:26-04:00",
+    "updated_at": "2026-06-27T01:16:01-04:00",
     "title": "Principal Hardware Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -142208,7 +142208,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7891159": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:10:48-04:00",
     "title": "Product Quality Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -142808,7 +142808,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7893040": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "Product Manager || Join the PURE Talent Community",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -142872,7 +142872,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7865549": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:03-04:00",
     "title": "FP&A Finance Specialist",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -142896,7 +142896,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7865610": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:03-04:00",
     "title": "FP&A Finance Manager, G&A Corporate Functions",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -142960,7 +142960,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7883198": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "Frontend Engineer (1touch.io)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -143232,7 +143232,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7893945": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "System Software Engineer, Cloud (C++/Python)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -143264,7 +143264,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7862956": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:03-04:00",
     "title": "Business Operations Manager - Global Real Estate",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -145352,7 +145352,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7495848": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:31-04:00",
     "title": "Datapath Engineer, Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -145400,7 +145400,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7898642": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Engineering Manager || Join the PURE Talent Community",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -145656,7 +145656,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7898953": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Senior Fullstack Engineer with a frontend focus (Angular)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -146112,7 +146112,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7899072": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Member of Technical Staff - Linux Kernel - FlashArray",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -147528,7 +147528,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7903559": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:07-04:00",
     "title": "Java Software Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -147624,7 +147624,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7903476": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:07-04:00",
     "title": "Product Manager, Pure1",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -147672,7 +147672,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7904144": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:07-04:00",
     "title": "Software Engineer (Containers)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -147680,7 +147680,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7897210": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Python Software Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -148552,7 +148552,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7875671": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:04-04:00",
     "title": "Workday Time & Absence, Senior Product Owner",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -148904,7 +148904,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7838283": {
-    "updated_at": "2026-06-23T10:02:02-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "Principal Product Manager, Cloud",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -149504,7 +149504,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7892631": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "Territory Account Executive - Los Angeles",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -149568,7 +149568,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7709689003": {
-    "updated_at": "2026-05-29T13:44:27-04:00",
+    "updated_at": "2026-06-26T22:40:43-04:00",
     "title": "Software Engineer 2 - Backend Engineer",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -149696,7 +149696,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7606856": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:42-04:00",
     "title": "Recruiter",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -150608,7 +150608,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7901626": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "SSD Qualification Engineer - PCIe Validation",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -150624,7 +150624,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7907745": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Staff Technical Program Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -151864,7 +151864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7906042": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:07-04:00",
     "title": "Technical Program Manager, Hardware",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -151904,7 +151904,7 @@
     "alerted": true
   },
   "greenhouse:purestorage:7894564": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "Japan IT Support Specialist",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -152208,7 +152208,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7856738": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:02-04:00",
     "title": "Paralegal, Transactions & Contracts",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -152312,7 +152312,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7400479": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:21-04:00",
     "title": "Member of Technical Staff - Golang / Java",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -153000,7 +153000,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7839539": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "Talent Sourcer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -153112,7 +153112,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7821564": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:59-04:00",
     "title": "Senior Software Release Technical Program Manager, Hyperscale Line of Business",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -154000,7 +154000,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7895348": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Senior Test Engineer, Service Logistics",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -154320,7 +154320,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7906854": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:08-04:00",
     "title": "Member of Technical Staff, Network Architect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -155016,7 +155016,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7903583": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:07-04:00",
     "title": "Account Executive, Enterprise (Switzerland)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -155592,7 +155592,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7902175": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:07-04:00",
     "title": "Hardware Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-26T20:32:25-04:00",
+    "updated_at": "2026-06-27T01:16:45-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156424,7 +156424,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7810781": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:58-04:00",
     "title": "Enterprise Account Executive, Mining",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -156432,7 +156432,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7912239": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:08-04:00",
     "title": "Account Executive- BFSI, Mumbai",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -157632,7 +157632,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7915330": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Staff Software Engineer - Query Execution",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -157824,7 +157824,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7680359": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:47-04:00",
     "title": "Data Center Operations Technician",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -158104,7 +158104,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7779282": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:57-04:00",
     "title": "Senior Release Engineer, Hyperscale Line of Business",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -158264,7 +158264,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7851349": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:02-04:00",
     "title": "AI Project Management Intern",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -158800,7 +158800,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7913857": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:08-04:00",
     "title": "Healthcare Solutions Principal (Healthcare & Life Sciences)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -158832,7 +158832,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7912429": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:08-04:00",
     "title": "Network Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -159424,7 +159424,7 @@
     "alerted": false
   },
   "greenhouse:doximity:7913409": {
-    "updated_at": "2026-06-08T11:48:44-04:00",
+    "updated_at": "2026-06-27T01:02:41-04:00",
     "title": "Associate Director, Business Analytics",
     "company": "doximity",
     "ats": "greenhouse",
@@ -160088,7 +160088,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7925131": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Engineering Manager, Diag",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -160256,7 +160256,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929346": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Senior Product Manager, Data Management",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -160288,7 +160288,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7882753": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "Field Solutions Architect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -160384,7 +160384,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7918042": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "Channel Sales Director - METCA (UAE)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -161024,7 +161024,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7930600": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "System Software Engineer, Object team",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -162160,7 +162160,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7938215": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Backend Engineer, Secrets Management (C++/Java)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -162472,7 +162472,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7915181": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "Program Manager, DTG",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -163864,7 +163864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929336": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Senior Sales Planning Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -163984,7 +163984,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929620": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Member of Technical Staff, Networking",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -164392,7 +164392,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7916879": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "Senior General Ledger Accountant",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -164936,7 +164936,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7933280": {
-    "updated_at": "2026-06-23T16:53:06-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Senior Manager, Field Solution Architects",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -164976,7 +164976,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7938780": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Account Executive, Federal Defense (Washington, DC)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -165456,7 +165456,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7939537": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Account Executive, SLED (San Francisco / East Bay)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -165512,7 +165512,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7938769": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Senior Program Governance & Compliance Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -165792,7 +165792,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7937163": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Inventory Analyst & Buyer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -165880,7 +165880,7 @@
     "alerted": true
   },
   "greenhouse:purestorage:7811400": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:58-04:00",
     "title": "Senior Analyst - Data & Analytics",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -165944,7 +165944,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7925847": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Member of Technical Staff- Firmware Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -166048,7 +166048,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7920639": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:10-04:00",
     "title": "Member of Technical Staff- Firmware Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -166064,7 +166064,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7917637": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "Member of Technical Staff, Diag",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -166400,7 +166400,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7896824": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Global Security Systems Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -167896,7 +167896,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7938086": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "SDET, FlashBlade",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -168152,7 +168152,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7418376": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:23-04:00",
     "title": "Associate System Engineer  CoE",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -168296,7 +168296,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7944064": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "DC Devops Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -168656,7 +168656,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7946949": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Account Executive, Enterprise (South Florida)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -169048,7 +169048,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7950833": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:10:49-04:00",
     "title": "Senior Product Marketing Manager, FlashBlade",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -169168,7 +169168,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7901636": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Global Account Manager, Enterprise (Wisconsin)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -170248,7 +170248,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7946936": {
-    "updated_at": "2026-06-25T23:22:53-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Member of Technical Staff, Production / DevOps Platform Engineering (On-Premise)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -170424,7 +170424,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7920652": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:10-04:00",
     "title": "Account Executive, Enterprise (BeLux)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -170792,7 +170792,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7954084": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:15-04:00",
     "title": "Software Engineer, Pure Protect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -170808,7 +170808,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7954059": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:15-04:00",
     "title": "Python Software Engineer, Octilion",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -170888,7 +170888,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7904822": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:07-04:00",
     "title": "Solutions Architect with focus data mobility",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -171000,7 +171000,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7940253": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Principal Product Manager, Commercial Systems",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -172336,7 +172336,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7917356": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "Member of Technical Staff, Diag",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -173184,7 +173184,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7942151": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:48-04:00",
     "title": "Senior Partner Manager, Technology Partnerships (ISVs)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -173224,7 +173224,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7907776": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:08-04:00",
     "title": "Field Marketing Manager, Commercial / Germany",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -175808,7 +175808,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7943241": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Principal Field Business Development Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -175840,7 +175840,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7955362": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-27T00:34:47-04:00",
     "title": "Senior Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -176568,7 +176568,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929039": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Application Engineer (AI Automation)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -176904,7 +176904,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7962832": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Frontend Engineer, CPBU",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -177152,7 +177152,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7963123": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Java/Kotlin Software Engineer, Pure Protect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -177240,7 +177240,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7921405": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:10-04:00",
     "title": "Reverse Logistics Returns Specialist",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -177960,7 +177960,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7819635": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:59-04:00",
     "title": "Account Executive, Research & Higher Education",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -178048,7 +178048,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7466168": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:29-04:00",
     "title": "Senior Pre-Sales Systems Engineer, Enterprise - Ft. Lauderdale",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -178120,7 +178120,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7957949": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Sales Specialist, Everpure Protect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -178904,7 +178904,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7882542": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "Security Operations Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -179008,7 +179008,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7962624": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Indirect Tax Compliance Senior Analyst role",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -180872,7 +180872,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7942189": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Member of Technical Staff- Production Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -180880,7 +180880,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7942136": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Member of Technical Staff- Production Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -180936,7 +180936,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7922768": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:10-04:00",
     "title": "Senior LLM AI Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -181264,7 +181264,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7964686": {
-    "updated_at": "2026-06-25T14:42:18-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "District Manager, SLED (Southeast)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -181424,7 +181424,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7922807": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:10-04:00",
     "title": "Mainframe Software Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -181520,7 +181520,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7922783": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:10-04:00",
     "title": "Senior Golang Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -181744,7 +181744,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7922815": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:10-04:00",
     "title": "Machine Learning Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -182712,7 +182712,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7920222": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "ERP Program Manager, DTG",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -183480,7 +183480,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7974257": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "District Manager, SLED (Golden State)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -184304,7 +184304,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7971493": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Backend Software Engineer, Fusion",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -184640,7 +184640,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7932214": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Zuora Developer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -184976,7 +184976,7 @@
     "alerted": true
   },
   "greenhouse:purestorage:7925875": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Member of Technical Staff - Firmware Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -185040,7 +185040,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7946214": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Sr. Data Mobility Architect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -185360,7 +185360,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929695": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Member of Technical Staff - Drive Qual",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -185368,7 +185368,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929682": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:11-04:00",
     "title": "Member of Technical Staff - Drive Qual",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -187080,7 +187080,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7974981": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Territory Account Manager - Central Region",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -187472,7 +187472,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7953513": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:14-04:00",
     "title": "Associate System Engineer, SE Excellence Center - ANZ",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -188752,7 +188752,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7982787": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:18-04:00",
     "title": "Account Executive, SLED (New York City)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -188760,7 +188760,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7980698": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Account Executive, SLED (Kansas / Missouri)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -189472,7 +189472,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7960106": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Senior Security Engineering Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -189504,7 +189504,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7606566": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:42-04:00",
     "title": "Talent Acquisition Sourcer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -190992,7 +190992,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7977285": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Senior Pre-Sales Systems Engineer, Commercial - Detroit/Grand Rapids",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -191960,7 +191960,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7977846": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Consulting Field Solutions Architect, AI/Analytics - SLED",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -192360,7 +192360,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7964072": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Consulting  Pre-Sales Systems Engineer, Data Management",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -192736,8 +192736,8 @@
     "alerted": false
   },
   "greenhouse:gitlab:8575667002": {
-    "updated_at": "2026-06-08T13:36:12-04:00",
-    "title": "Public Sector Strategic Account Executive - SLED, Texas",
+    "updated_at": "2026-06-26T22:45:44-04:00",
+    "title": "Public Sector Strategic Account Executive, SLED - Texas",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
@@ -193280,7 +193280,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7980137": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Principal Technology Strategist - Central Commercial",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -194136,7 +194136,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7976747": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Recruiter - EMEA Go to Market",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -195056,7 +195056,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7982106": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Sales Development Representative, UK",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -195688,7 +195688,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7982576": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:18-04:00",
     "title": "Senior Analytics Engineer, GTM",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -196008,7 +196008,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7944089": {
-    "updated_at": "2026-06-24T10:14:54-04:00",
+    "updated_at": "2026-06-27T00:34:49-04:00",
     "title": "Senior Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -196264,7 +196264,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7996234": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "Sales Enablement Business Partner (Japanese speaking)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -196272,7 +196272,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7992761": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "HR Operations Process Specialist",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -196288,7 +196288,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7978658": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Senior Manager, BI Solution Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -196480,7 +196480,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7984569": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:18-04:00",
     "title": "Senior Manager, Physical Security & Safety",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -196576,7 +196576,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7978578": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Account Executive, Healthcare(Hospital)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -196600,7 +196600,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7988570": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Manager, Service Account Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -197120,7 +197120,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7996431": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "Sales Enablement Business Partner (Japanese speaking)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -197392,7 +197392,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7994936": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "Member of Technical Staff, Release/Production Engineering Lead",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -197512,7 +197512,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7901542": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:06-04:00",
     "title": "Territory Account Executive, Commercial (Germany)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -197520,7 +197520,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7648000": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:15:44-04:00",
     "title": "SDR Munich",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -197968,7 +197968,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7931842": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Senior Customer Success Manager, Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -198120,7 +198120,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7892137": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:05-04:00",
     "title": "AI Channel Partner Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -198272,7 +198272,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7994862": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "Partner Operations Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -198544,7 +198544,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7981839": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "AI Senior Solutions Architect, Global Advanced Services - UK/US",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -198672,7 +198672,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7988992": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Identity and Access Management Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -198960,7 +198960,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7984375": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:18-04:00",
     "title": "Partner Content Governance Lead",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -199088,7 +199088,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7993419": {
-    "updated_at": "2026-06-25T12:20:54-04:00",
+    "updated_at": "2026-06-27T00:34:48-04:00",
     "title": "Senior Staff Product Manager, Query",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -199136,7 +199136,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7993270": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "Global Events Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -199424,7 +199424,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7968190": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:16-04:00",
     "title": "Senior Product Owner - Sales Application",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -199856,7 +199856,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8001303": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "Territory Account Executive - Philadelphia",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -200384,7 +200384,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7984382": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:18-04:00",
     "title": "Integrations Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -200704,7 +200704,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7997917": {
-    "updated_at": "2026-06-25T19:48:11-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "Director, Planning and Performance, Global Partner Organization",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -202176,7 +202176,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7998282": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "National Partner Manager - Managed Services Providers",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -202248,7 +202248,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8001253": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "National Partner Manager - WWT",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -202536,7 +202536,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7917289": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "Database Solutions Architect - Elob",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -202792,7 +202792,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7998451": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "CDP Platform Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -203344,7 +203344,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7980562": {
-    "updated_at": "2026-06-23T16:30:36-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Director of Software Engineering, Core Platform",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -204632,7 +204632,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7989144": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Engineering Manager - Drive Qualification",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -204680,7 +204680,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7983892": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:18-04:00",
     "title": "Sr. Systems (Presales) Engineer, FSI - Strategics",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -204920,7 +204920,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7999730": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "Technical Services Engineer Representative",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -205024,7 +205024,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8000890": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "Senior Storage Benchmarking Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -205448,7 +205448,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8009217": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Senior CDP Consultant",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -205464,7 +205464,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8009880": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Backend Software Engineer (GO), FlashBlade",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -205656,7 +205656,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7939359": {
-    "updated_at": "2026-06-23T23:08:37-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Member Of Technical Staff, Linux Kernel Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -206464,7 +206464,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7985390": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:18-04:00",
     "title": "Production Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -206632,7 +206632,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8001037": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "Senior Developer, Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -206864,7 +206864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8000171": {
-    "updated_at": "2026-06-23T00:22:02-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "Payroll Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -208656,7 +208656,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7989092": {
-    "updated_at": "2026-06-24T13:14:16-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Member of Technical Staff, Backend - Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -208680,7 +208680,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7955776": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:15-04:00",
     "title": "Security Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -208688,7 +208688,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7988140": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Software Engineer - Production Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -208704,7 +208704,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7988125": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Software Engineer - DDI Solution, ISS",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -209048,7 +209048,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8013564": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Senior Monetization Strategy Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -209752,7 +209752,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7991645": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Designated Services Engineer, Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -210640,7 +210640,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8015327": {
-    "updated_at": "2026-06-26T10:27:17-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Member of Technical Staff - C/C++, Networking",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -210648,7 +210648,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8015331": {
-    "updated_at": "2026-06-26T10:26:56-04:00",
+    "updated_at": "2026-06-27T01:16:23-04:00",
     "title": "Member of Technical Staff - C/C++, Networking",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -210744,7 +210744,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8009965": {
-    "updated_at": "2026-06-22T07:20:21-04:00",
+    "updated_at": "2026-06-27T00:34:48-04:00",
     "title": "Director, Web Platform & Technology",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -210752,7 +210752,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7302418": {
-    "updated_at": "2026-06-23T14:24:53-04:00",
+    "updated_at": "2026-06-27T01:15:11-04:00",
     "title": "Director Business Strategy  \u2013 AI Product Line",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -210760,7 +210760,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7940813": {
-    "updated_at": "2026-06-23T23:09:41-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Member Of Technical Staff, Linux Kernel Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -211032,7 +211032,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8003055": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Account Director GSI, (NTT) EMEA & LATAM",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -211616,7 +211616,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8001469": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "Engagement Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -211632,7 +211632,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8001588": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:21-04:00",
     "title": "AI/HPC/NeoCloud Pre-Sales System Engineer UAE",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -211776,7 +211776,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7930669": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:12-04:00",
     "title": "Data Support Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -211976,7 +211976,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7919572": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:09-04:00",
     "title": "Member of Technical Staff- Firmware Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -212272,7 +212272,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7974801": {
-    "updated_at": "2026-06-22T11:05:07-04:00",
+    "updated_at": "2026-06-27T00:34:49-04:00",
     "title": "Staff Product Manager \u2013 IT Go-to-Market (Post Sales)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -212904,7 +212904,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7950430": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:14-04:00",
     "title": "SDET, Flash Blade",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -212912,7 +212912,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8010739": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Senior Finance Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -213528,7 +213528,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7977446": {
-    "updated_at": "2026-06-22T17:59:54-04:00",
+    "updated_at": "2026-06-27T01:16:17-04:00",
     "title": "Global Strategic Account Service Director",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -213688,7 +213688,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7829609": {
-    "updated_at": "2026-06-22T22:21:10-04:00",
+    "updated_at": "2026-06-27T01:16:00-04:00",
     "title": "Senior Manager, Direct Flash Module Operations Engineering",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -213888,7 +213888,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8014957": {
-    "updated_at": "2026-06-23T06:01:05-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Technical Writer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -213928,7 +213928,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8007293": {
-    "updated_at": "2026-06-23T05:44:34-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "PCIe Hardware System Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -213936,7 +213936,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8007246": {
-    "updated_at": "2026-06-23T05:42:18-04:00",
+    "updated_at": "2026-06-27T01:16:22-04:00",
     "title": "Hardware Design Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -213944,7 +213944,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7645865": {
-    "updated_at": "2026-06-23T05:39:42-04:00",
+    "updated_at": "2026-06-27T01:15:44-04:00",
     "title": "Proposal Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -214152,7 +214152,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7996469": {
-    "updated_at": "2026-06-23T07:11:30-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "DevOps Solution Architect (Tokyo)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -214256,7 +214256,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7948256": {
-    "updated_at": "2026-06-23T12:36:52-04:00",
+    "updated_at": "2026-06-27T01:16:13-04:00",
     "title": "Software Engineering Manager, Platform",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -214776,7 +214776,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7997100": {
-    "updated_at": "2026-06-23T14:36:30-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "CX Finance Director",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -215296,7 +215296,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7986182": {
-    "updated_at": "2026-06-23T15:48:52-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Senior Product Manager, Data Management",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -215832,7 +215832,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8017577": {
-    "updated_at": "2026-06-23T22:53:31-04:00",
+    "updated_at": "2026-06-27T01:16:23-04:00",
     "title": "System Engineer, Melbourne",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -216848,7 +216848,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8015628": {
-    "updated_at": "2026-06-24T09:56:29-04:00",
+    "updated_at": "2026-06-27T01:16:23-04:00",
     "title": "Lead AI Data Trainer & AI Model Optimization Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -216864,7 +216864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8015765": {
-    "updated_at": "2026-06-24T09:52:19-04:00",
+    "updated_at": "2026-06-27T01:16:23-04:00",
     "title": "AI Data Trainer & AI Model Optimization Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -217000,7 +217000,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7989830": {
-    "updated_at": "2026-06-24T13:15:23-04:00",
+    "updated_at": "2026-06-27T01:16:19-04:00",
     "title": "Member of Technical Staff, Backend - Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -217568,7 +217568,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8025954": {
-    "updated_at": "2026-06-24T14:34:27-04:00",
+    "updated_at": "2026-06-27T00:34:49-04:00",
     "title": "Senior Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -218824,7 +218824,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7996475": {
-    "updated_at": "2026-06-25T10:17:42-04:00",
+    "updated_at": "2026-06-27T01:16:20-04:00",
     "title": "SW Engineer Internship",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -219280,7 +219280,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8028587": {
-    "updated_at": "2026-06-25T12:23:55-04:00",
+    "updated_at": "2026-06-27T00:34:48-04:00",
     "title": "Senior Staff Product Manager, Query",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -219288,7 +219288,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8028593": {
-    "updated_at": "2026-06-25T12:23:40-04:00",
+    "updated_at": "2026-06-27T00:34:48-04:00",
     "title": "Senior Staff Product Manager, Query",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -219336,7 +219336,7 @@
     "alerted": true
   },
   "greenhouse:purestorage:8027653": {
-    "updated_at": "2026-06-25T16:16:01-04:00",
+    "updated_at": "2026-06-27T01:16:25-04:00",
     "title": "Internal Audit Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -219672,7 +219672,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8023953": {
-    "updated_at": "2026-06-25T17:42:56-04:00",
+    "updated_at": "2026-06-27T01:16:24-04:00",
     "title": "Technical Program Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -219920,7 +219920,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8027655": {
-    "updated_at": "2026-06-25T16:16:37-04:00",
+    "updated_at": "2026-06-27T01:16:25-04:00",
     "title": "Internal Audit Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -220256,7 +220256,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8025158": {
-    "updated_at": "2026-06-25T22:51:17-04:00",
+    "updated_at": "2026-06-27T01:16:24-04:00",
     "title": "Sales Operations Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -220352,7 +220352,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8018265": {
-    "updated_at": "2026-06-26T03:37:16-04:00",
+    "updated_at": "2026-06-27T01:16:23-04:00",
     "title": "Quality Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -220640,7 +220640,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8019995": {
-    "updated_at": "2026-06-26T11:43:29-04:00",
+    "updated_at": "2026-06-27T01:16:23-04:00",
     "title": "Consulting Systems Engineer, Data Management  (EMEA)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -221672,7 +221672,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8025883": {
-    "updated_at": "2026-06-26T17:00:09-04:00",
+    "updated_at": "2026-06-27T01:16:25-04:00",
     "title": "EMEA Enterprise Field Marketing Specialist, 12 month fixed term contract",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -222349,6 +222349,14 @@
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:twitch:8610651002": {
+    "updated_at": "2026-06-26T21:57:28-04:00",
+    "title": "Customer Experience Specialist",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
     "alerted": false
   }
 }
