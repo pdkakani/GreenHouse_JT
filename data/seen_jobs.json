@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-28T16:32:18-04:00",
+    "updated_at": "2026-06-28T17:47:24-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -222477,6 +222477,14 @@
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:amplitude:8611333002": {
+    "updated_at": "2026-06-28T14:34:11-04:00",
+    "title": "Sr. Order Management Analyst",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
     "alerted": false
   }
 }
