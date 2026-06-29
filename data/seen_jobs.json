@@ -10392,7 +10392,7 @@
     "alerted": true
   },
   "greenhouse:chime:8477424002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Engineering Manager, Data Platform",
     "company": "chime",
     "ats": "greenhouse",
@@ -10400,7 +10400,7 @@
     "alerted": true
   },
   "greenhouse:chime:8393494002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Product Design Director, Growth",
     "company": "chime",
     "ats": "greenhouse",
@@ -10448,7 +10448,7 @@
     "alerted": true
   },
   "greenhouse:chime:8141068002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Product Security Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -10488,7 +10488,7 @@
     "alerted": true
   },
   "greenhouse:chime:8121830002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Offensive Security Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -10504,7 +10504,7 @@
     "alerted": true
   },
   "greenhouse:chime:8400999002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Software Engineer (Chicago)",
     "company": "chime",
     "ats": "greenhouse",
@@ -21240,7 +21240,7 @@
     "alerted": true
   },
   "greenhouse:chime:8219793002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, Credit Risk Platform",
     "company": "chime",
     "ats": "greenhouse",
@@ -22328,7 +22328,7 @@
     "alerted": true
   },
   "greenhouse:chime:8485955002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Full-Stack Engineer, App Journey (GraphQL)",
     "company": "chime",
     "ats": "greenhouse",
@@ -22336,7 +22336,7 @@
     "alerted": true
   },
   "greenhouse:chime:8499450002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, MyPay",
     "company": "chime",
     "ats": "greenhouse",
@@ -22976,7 +22976,7 @@
     "alerted": true
   },
   "greenhouse:chime:8478204002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Product Manager, AI & App Experience",
     "company": "chime",
     "ats": "greenhouse",
@@ -24280,7 +24280,7 @@
     "alerted": true
   },
   "greenhouse:chime:8433840002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, Instant Loans",
     "company": "chime",
     "ats": "greenhouse",
@@ -24792,7 +24792,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5179882008": {
-    "updated_at": "2026-06-27T00:31:57-04:00",
+    "updated_at": "2026-06-29T18:17:22-04:00",
     "title": "Product Operations Manager, Feedback Loops",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -34736,8 +34736,8 @@
     "alerted": false
   },
   "greenhouse:samsara:7311741": {
-    "updated_at": "2026-06-29T16:35:11-04:00",
-    "title": "Sales Engineer II, SE Desk",
+    "updated_at": "2026-06-29T18:56:36-04:00",
+    "title": "Sales Engineer II, SE Desk - Northeast",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -48640,7 +48640,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7585369": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-29T18:20:25-04:00",
     "title": "Director, Regional Employee Experience",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -53104,7 +53104,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4650714007": {
-    "updated_at": "2026-06-24T17:45:17-04:00",
+    "updated_at": "2026-06-29T18:22:42-04:00",
     "title": "Account Executive, Territory (Mid-Market SLED)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53136,7 +53136,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5059662007": {
-    "updated_at": "2026-06-24T17:45:17-04:00",
+    "updated_at": "2026-06-29T18:11:47-04:00",
     "title": "Program & Marketing Manager, Executive Customer Programs",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53496,7 +53496,7 @@
     "alerted": false
   },
   "greenhouse:chime:8391630002": {
-    "updated_at": "2026-06-29T17:21:49-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Accountant",
     "company": "chime",
     "ats": "greenhouse",
@@ -53528,7 +53528,7 @@
     "alerted": false
   },
   "greenhouse:chime:8510657002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Associate Creative Director",
     "company": "chime",
     "ats": "greenhouse",
@@ -53624,7 +53624,7 @@
     "alerted": false
   },
   "greenhouse:chime:8476410002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Director, People Strategy & Program Management",
     "company": "chime",
     "ats": "greenhouse",
@@ -53680,7 +53680,7 @@
     "alerted": false
   },
   "greenhouse:chime:8397325002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Lead Employee Relations Partner",
     "company": "chime",
     "ats": "greenhouse",
@@ -53704,7 +53704,7 @@
     "alerted": false
   },
   "greenhouse:chime:8342899002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Principal Product Designer, Spending",
     "company": "chime",
     "ats": "greenhouse",
@@ -53752,7 +53752,7 @@
     "alerted": false
   },
   "greenhouse:chime:8440967002": {
-    "updated_at": "2026-06-29T17:22:25-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Associate, Business Compliance",
     "company": "chime",
     "ats": "greenhouse",
@@ -53816,7 +53816,7 @@
     "alerted": false
   },
   "greenhouse:chime:8326233002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior People Partner",
     "company": "chime",
     "ats": "greenhouse",
@@ -53880,7 +53880,7 @@
     "alerted": false
   },
   "greenhouse:chime:8420669002": {
-    "updated_at": "2026-06-29T17:23:04-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Strategic Finance Manager",
     "company": "chime",
     "ats": "greenhouse",
@@ -124152,7 +124152,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7679574003": {
-    "updated_at": "2026-05-13T17:51:02-04:00",
+    "updated_at": "2026-06-29T18:46:29-04:00",
     "title": "Sr. Embedded Detection Analyst",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -125696,7 +125696,7 @@
     "alerted": false
   },
   "greenhouse:chime:8505462002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Software Engineer, Data Engineering",
     "company": "chime",
     "ats": "greenhouse",
@@ -127840,7 +127840,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5197538008": {
-    "updated_at": "2026-06-09T16:17:22-04:00",
+    "updated_at": "2026-06-29T18:49:58-04:00",
     "title": "Manager of Applied AI Architecture, Enterprise Tech (Cyber)",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -128976,7 +128976,7 @@
     "alerted": false
   },
   "greenhouse:flex:4688803005": {
-    "updated_at": "2026-06-25T17:37:08-04:00",
+    "updated_at": "2026-06-29T18:15:16-04:00",
     "title": "Account Executive, SMB",
     "company": "flex",
     "ats": "greenhouse",
@@ -129752,8 +129752,8 @@
     "alerted": true
   },
   "greenhouse:samsara:7311768": {
-    "updated_at": "2026-06-29T16:26:31-04:00",
-    "title": "Sales Engineer II, SE Desk",
+    "updated_at": "2026-06-29T18:58:52-04:00",
+    "title": "Sales Engineer II, SE Desk - West",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -129792,16 +129792,16 @@
     "alerted": false
   },
   "greenhouse:samsara:7848363": {
-    "updated_at": "2026-06-29T16:29:41-04:00",
-    "title": "Sales Engineer II, SE Desk",
+    "updated_at": "2026-06-29T18:59:26-04:00",
+    "title": "Sales Engineer II, SE Desk - TOLA",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": false
   },
   "greenhouse:samsara:7848351": {
-    "updated_at": "2026-06-29T16:30:51-04:00",
-    "title": "Sales Engineer II, SE Desk",
+    "updated_at": "2026-06-29T18:58:26-04:00",
+    "title": "Sales Engineer II, SE Desk - Southeast",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -129816,8 +129816,8 @@
     "alerted": false
   },
   "greenhouse:samsara:7311761": {
-    "updated_at": "2026-06-29T16:32:29-04:00",
-    "title": "Sales Engineer II, SE Desk",
+    "updated_at": "2026-06-29T18:57:20-04:00",
+    "title": "Sales Engineer II, SE Desk - Mid West",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -132264,7 +132264,7 @@
     "alerted": false
   },
   "greenhouse:chime:8525098002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Data Governance Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -135840,7 +135840,7 @@
     "alerted": false
   },
   "greenhouse:chime:8530184002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Product Manager, Trust & Safety",
     "company": "chime",
     "ats": "greenhouse",
@@ -135904,7 +135904,7 @@
     "alerted": true
   },
   "greenhouse:chime:8530421002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Product Manager, AI & App Experience",
     "company": "chime",
     "ats": "greenhouse",
@@ -140288,7 +140288,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7873817": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-06-29T18:21:04-04:00",
     "title": "Senior Director, Compensation",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -141944,7 +141944,7 @@
     "alerted": false
   },
   "greenhouse:flex:4692186005": {
-    "updated_at": "2026-06-25T17:37:08-04:00",
+    "updated_at": "2026-06-29T18:16:29-04:00",
     "title": "Senior Manager, Revenue Enablement",
     "company": "flex",
     "ats": "greenhouse",
@@ -142184,7 +142184,7 @@
     "alerted": false
   },
   "greenhouse:chime:8526680002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Manager, Product Security",
     "company": "chime",
     "ats": "greenhouse",
@@ -142552,7 +142552,7 @@
     "alerted": false
   },
   "greenhouse:chime:8523547002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, Deposits & Insights",
     "company": "chime",
     "ats": "greenhouse",
@@ -146792,7 +146792,7 @@
     "alerted": false
   },
   "greenhouse:chime:8525321002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Product Designer, Disputes",
     "company": "chime",
     "ats": "greenhouse",
@@ -153208,7 +153208,7 @@
     "alerted": false
   },
   "greenhouse:chime:8531757002": {
-    "updated_at": "2026-06-29T17:22:44-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Associate, Finance",
     "company": "chime",
     "ats": "greenhouse",
@@ -153216,7 +153216,7 @@
     "alerted": false
   },
   "greenhouse:chime:8531775002": {
-    "updated_at": "2026-06-29T17:23:14-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Director, Associate General Counsel, Privacy, Cybersecurity, and AI",
     "company": "chime",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-06-29T16:47:29-04:00",
+    "updated_at": "2026-06-29T19:02:29-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156680,7 +156680,7 @@
     "alerted": false
   },
   "greenhouse:chime:8531753002": {
-    "updated_at": "2026-06-29T17:22:52-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Manager, Strategic Finance",
     "company": "chime",
     "ats": "greenhouse",
@@ -157480,7 +157480,7 @@
     "alerted": false
   },
   "greenhouse:chime:8529549002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Director, Strategy and Growth Initiatives",
     "company": "chime",
     "ats": "greenhouse",
@@ -157896,7 +157896,7 @@
     "alerted": true
   },
   "greenhouse:chime:8499443002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Ruby Full-Stack Software Engineer, Disputes Intake",
     "company": "chime",
     "ats": "greenhouse",
@@ -160952,7 +160952,7 @@
     "alerted": false
   },
   "greenhouse:chime:8505460002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, Machine Learning Platform",
     "company": "chime",
     "ats": "greenhouse",
@@ -161112,7 +161112,7 @@
     "alerted": false
   },
   "greenhouse:chime:8535340002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Engineering Manager, Spending, Savings, & Investing",
     "company": "chime",
     "ats": "greenhouse",
@@ -163312,8 +163312,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5222289008": {
-    "updated_at": "2026-06-06T00:26:30-04:00",
-    "title": "Manager of Solutions Architecture, Applied AI (Enterprise Tech)",
+    "updated_at": "2026-06-29T18:50:48-04:00",
+    "title": "Manager of Applied AI Architecture, Enterprise Tech",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -165584,7 +165584,7 @@
     "alerted": false
   },
   "greenhouse:chime:8535338002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Mobile Software Engineer, Lending",
     "company": "chime",
     "ats": "greenhouse",
@@ -166744,8 +166744,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:7932060": {
-    "updated_at": "2026-06-22T14:32:41-04:00",
-    "title": "Sr. Manager, People Analytics",
+    "updated_at": "2026-06-29T18:34:56-04:00",
+    "title": "Director, People Analytics",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -168888,7 +168888,7 @@
     "alerted": false
   },
   "greenhouse:flex:4698390005": {
-    "updated_at": "2026-06-25T17:37:08-04:00",
+    "updated_at": "2026-06-29T18:16:29-04:00",
     "title": "GTM Enablement Coordinator",
     "company": "flex",
     "ats": "greenhouse",
@@ -169832,7 +169832,7 @@
     "alerted": false
   },
   "greenhouse:chime:8548875002": {
-    "updated_at": "2026-06-29T17:22:58-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Sr. Associate, Corporate Finance",
     "company": "chime",
     "ats": "greenhouse",
@@ -173952,7 +173952,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7871254": {
-    "updated_at": "2026-06-24T16:17:10-04:00",
+    "updated_at": "2026-06-29T18:47:47-04:00",
     "title": "Senior Software Developer, Kubernetes Compute",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -177792,7 +177792,7 @@
     "alerted": false
   },
   "greenhouse:chime:8565199002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Insights Analyst, Dispute Experience",
     "company": "chime",
     "ats": "greenhouse",
@@ -178688,7 +178688,7 @@
     "alerted": false
   },
   "greenhouse:chime:8552459002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Program Manager, AI Enablement",
     "company": "chime",
     "ats": "greenhouse",
@@ -179264,7 +179264,7 @@
     "alerted": false
   },
   "greenhouse:chime:8564916002": {
-    "updated_at": "2026-06-29T17:31:59-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Partner Manager",
     "company": "chime",
     "ats": "greenhouse",
@@ -182304,7 +182304,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7956594": {
-    "updated_at": "2026-06-16T23:09:54-04:00",
+    "updated_at": "2026-06-29T18:49:01-04:00",
     "title": "Demand Operations Manager  - San Francisco",
     "company": "waymo",
     "ats": "greenhouse",
@@ -184360,7 +184360,7 @@
     "alerted": false
   },
   "greenhouse:chime:8575572002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Security Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -185688,7 +185688,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4702368005": {
-    "updated_at": "2026-06-03T11:34:22-04:00",
+    "updated_at": "2026-06-29T18:18:17-04:00",
     "title": "Product Manager, Core Experience",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -185728,7 +185728,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4702147005": {
-    "updated_at": "2026-06-03T11:29:19-04:00",
+    "updated_at": "2026-06-29T18:18:16-04:00",
     "title": "Product Manager, Core Experience",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -186400,8 +186400,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8574353002": {
-    "updated_at": "2026-06-29T17:55:16-04:00",
-    "title": "Manufacturing engineer, Tool & Die Machining - 2nd Shift",
+    "updated_at": "2026-06-29T19:03:55-04:00",
+    "title": "Manufacturing Engineer, Tool & Die Machining - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -188184,7 +188184,7 @@
     "alerted": false
   },
   "greenhouse:chime:8568166002": {
-    "updated_at": "2026-06-29T17:28:40-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Manager, Global Workforce Management",
     "company": "chime",
     "ats": "greenhouse",
@@ -188968,7 +188968,7 @@
     "alerted": false
   },
   "greenhouse:chime:8579106002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Director, Growth Marketing (TV & Offline Media)",
     "company": "chime",
     "ats": "greenhouse",
@@ -192128,7 +192128,7 @@
     "alerted": false
   },
   "greenhouse:chime:8569368002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "AI/ML Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -192200,7 +192200,7 @@
     "alerted": false
   },
   "greenhouse:chime:8569366002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior AI/ML Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -192544,7 +192544,7 @@
     "alerted": false
   },
   "greenhouse:chime:8576707002": {
-    "updated_at": "2026-06-29T17:23:38-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Lead Data Analyst, MyPay",
     "company": "chime",
     "ats": "greenhouse",
@@ -194232,7 +194232,7 @@
     "alerted": false
   },
   "greenhouse:convera:4890560101": {
-    "updated_at": "2026-06-24T20:10:01-04:00",
+    "updated_at": "2026-06-29T18:26:16-04:00",
     "title": "Sales Development Manager - Melbourne",
     "company": "convera",
     "ats": "greenhouse",
@@ -195936,7 +195936,7 @@
     "alerted": false
   },
   "greenhouse:chime:8580790002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Creative Director, Brand Marketing",
     "company": "chime",
     "ats": "greenhouse",
@@ -196352,7 +196352,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7993078": {
-    "updated_at": "2026-06-29T06:20:58-04:00",
+    "updated_at": "2026-06-29T18:20:14-04:00",
     "title": "Technical Director, Builder Relations",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -197656,7 +197656,7 @@
     "alerted": false
   },
   "greenhouse:chime:8586463002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Data Scientist, Trust & Safety",
     "company": "chime",
     "ats": "greenhouse",
@@ -197664,7 +197664,7 @@
     "alerted": false
   },
   "greenhouse:chime:8586462002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Data Scientist, Spending",
     "company": "chime",
     "ats": "greenhouse",
@@ -197680,7 +197680,7 @@
     "alerted": false
   },
   "greenhouse:chime:8586430002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Data Scientist, Growth Product",
     "company": "chime",
     "ats": "greenhouse",
@@ -198144,7 +198144,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8585613002": {
-    "updated_at": "2026-06-29T17:55:19-04:00",
+    "updated_at": "2026-06-29T18:39:47-04:00",
     "title": "Starlink Gateway Production Technician - Temporary",
     "company": "spacex",
     "ats": "greenhouse",
@@ -198152,7 +198152,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8585699002": {
-    "updated_at": "2026-06-29T17:55:19-04:00",
+    "updated_at": "2026-06-29T18:39:26-04:00",
     "title": "Entry Level Production Technician - Temporary",
     "company": "spacex",
     "ats": "greenhouse",
@@ -198984,7 +198984,7 @@
     "alerted": false
   },
   "greenhouse:chime:8584112002": {
-    "updated_at": "2026-06-29T17:28:35-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Genesys Platform Program Lead",
     "company": "chime",
     "ats": "greenhouse",
@@ -200984,7 +200984,7 @@
     "alerted": false
   },
   "greenhouse:chime:8573625002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, Infrastructure",
     "company": "chime",
     "ats": "greenhouse",
@@ -201184,7 +201184,7 @@
     "alerted": false
   },
   "greenhouse:chime:8580788002": {
-    "updated_at": "2026-06-29T17:22:35-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Lead, Chime Enterprise Compliance",
     "company": "chime",
     "ats": "greenhouse",
@@ -204504,7 +204504,7 @@
     "alerted": false
   },
   "greenhouse:chime:8593036002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Creative Director, Growth and Product Marketing",
     "company": "chime",
     "ats": "greenhouse",
@@ -206520,7 +206520,7 @@
     "alerted": false
   },
   "greenhouse:chime:8595102002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Media Manager, Strategy and Planning",
     "company": "chime",
     "ats": "greenhouse",
@@ -208912,7 +208912,7 @@
     "alerted": false
   },
   "greenhouse:chime:8584952002": {
-    "updated_at": "2026-06-29T17:22:18-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Associate, Product Compliance",
     "company": "chime",
     "ats": "greenhouse",
@@ -212712,7 +212712,7 @@
     "alerted": false
   },
   "greenhouse:chime:8593034002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Growth Product Marketing Manager",
     "company": "chime",
     "ats": "greenhouse",
@@ -212760,7 +212760,7 @@
     "alerted": false
   },
   "greenhouse:chime:8584954002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Program Manager",
     "company": "chime",
     "ats": "greenhouse",
@@ -213072,7 +213072,7 @@
     "alerted": false
   },
   "greenhouse:chime:8594959002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, Financial Platform",
     "company": "chime",
     "ats": "greenhouse",
@@ -215624,7 +215624,7 @@
     "alerted": false
   },
   "greenhouse:chime:8605078002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Software Engineer, Data Engineering",
     "company": "chime",
     "ats": "greenhouse",
@@ -215672,7 +215672,7 @@
     "alerted": false
   },
   "greenhouse:chime:8605105002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Engineering Manager",
     "company": "chime",
     "ats": "greenhouse",
@@ -215680,7 +215680,7 @@
     "alerted": false
   },
   "greenhouse:chime:8605099002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Software Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -216960,8 +216960,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4691804006": {
-    "updated_at": "2026-06-29T12:49:59-04:00",
-    "title": "Staff DevOps Engineer (Cloud & On Prem)",
+    "updated_at": "2026-06-29T18:26:22-04:00",
+    "title": "Staff Software Engineer - SaaS Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -218264,7 +218264,7 @@
     "alerted": false
   },
   "greenhouse:chime:8602160002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Executive Assistant",
     "company": "chime",
     "ats": "greenhouse",
@@ -218688,7 +218688,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8011682": {
-    "updated_at": "2026-06-26T17:05:48-04:00",
+    "updated_at": "2026-06-29T19:10:40-04:00",
     "title": "Operations Associate - Managed Support (CDMX)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -219992,7 +219992,7 @@
     "alerted": false
   },
   "greenhouse:chime:8580447002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Software Engineer, Lending",
     "company": "chime",
     "ats": "greenhouse",
@@ -221104,7 +221104,7 @@
     "alerted": false
   },
   "greenhouse:chime:8599884002": {
-    "updated_at": "2026-06-29T17:23:23-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Lead Counsel, Litigation and Regulatory",
     "company": "chime",
     "ats": "greenhouse",
@@ -221152,7 +221152,7 @@
     "alerted": false
   },
   "greenhouse:chime:8584568002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Processor Implementation Manager",
     "company": "chime",
     "ats": "greenhouse",
@@ -221176,7 +221176,7 @@
     "alerted": false
   },
   "greenhouse:chime:8604563002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Software Engineer, Risk: Identity, Suspensions, & Closures",
     "company": "chime",
     "ats": "greenhouse",
@@ -221752,7 +221752,7 @@
     "alerted": false
   },
   "greenhouse:everlaw:4691963006": {
-    "updated_at": "2026-06-26T16:34:26-04:00",
+    "updated_at": "2026-06-29T18:46:56-04:00",
     "title": "Senior Corporate Paralegal",
     "company": "everlaw",
     "ats": "greenhouse",
@@ -222096,8 +222096,8 @@
     "alerted": false
   },
   "greenhouse:sofi:7780165003": {
-    "updated_at": "2026-06-26T17:23:55-04:00",
-    "title": "Director, SEC Reporting",
+    "updated_at": "2026-06-29T18:32:48-04:00",
+    "title": "SEC Reporting Director",
     "company": "sofi",
     "ats": "greenhouse",
     "source_slug": "sofi",
@@ -222432,7 +222432,7 @@
     "alerted": false
   },
   "greenhouse:chime:8343779002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Product Manager, Growth",
     "company": "chime",
     "ats": "greenhouse",
@@ -223224,7 +223224,7 @@
     "alerted": false
   },
   "greenhouse:chime:8612037002": {
-    "updated_at": "2026-06-29T17:21:33-04:00",
+    "updated_at": "2026-06-29T18:23:24-04:00",
     "title": "Senior Data Scientist, Lending",
     "company": "chime",
     "ats": "greenhouse",
@@ -223472,7 +223472,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8031883": {
-    "updated_at": "2026-06-29T14:49:55-04:00",
+    "updated_at": "2026-06-29T18:25:50-04:00",
     "title": "Foundation Model Data, Software Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -224245,6 +224245,46 @@
     "company": "justworks",
     "ats": "greenhouse",
     "source_slug": "justworks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8612903002": {
+    "updated_at": "2026-06-29T18:14:58-04:00",
+    "title": "Factory Build Engineer (Starlink Production)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:waymo:8027424": {
+    "updated_at": "2026-06-29T18:09:11-04:00",
+    "title": "Staff ML Engineer, Generative Model Performance & Efficiency",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:toast:8036935": {
+    "updated_at": "2026-06-29T18:06:35-04:00",
+    "title": "Territory Account Executive, Retail - Mountain Brook, AL",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8036938": {
+    "updated_at": "2026-06-29T18:06:33-04:00",
+    "title": "Territory Account Executive, Retail - Hoover, AL",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:lyft:8609720002": {
+    "updated_at": "2026-06-29T18:05:02-04:00",
+    "title": "Product Design Manager, Design Systems",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
     "alerted": false
   }
 }
