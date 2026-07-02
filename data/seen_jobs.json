@@ -21760,7 +21760,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8503985002": {
-    "updated_at": "2026-07-01T15:20:40-04:00",
+    "updated_at": "2026-07-01T21:15:17-04:00",
     "title": "Analytics Lead, Market Insights",
     "company": "lyft",
     "ats": "greenhouse",
@@ -25080,8 +25080,8 @@
     "alerted": false
   },
   "greenhouse:sendbird:8445772002": {
-    "updated_at": "2026-06-03T13:58:49-04:00",
-    "title": "Product Marketing Manager (AI-First, Full-Stack)",
+    "updated_at": "2026-07-01T19:41:13-04:00",
+    "title": "Product Marketing Manager, delight.ai",
     "company": "sendbird",
     "ats": "greenhouse",
     "source_slug": "sendbird",
@@ -26976,7 +26976,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7072348": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:03:55-04:00",
     "title": "Director, Developer Relations",
     "company": "ripple",
     "ats": "greenhouse",
@@ -26984,7 +26984,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7072360": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:03:55-04:00",
     "title": "Director of Developer Relations",
     "company": "ripple",
     "ats": "greenhouse",
@@ -27064,7 +27064,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7786549": {
-    "updated_at": "2026-06-17T14:00:18-04:00",
+    "updated_at": "2026-07-01T20:04:52-04:00",
     "title": "Senior Manager, Software Engineering \u2013 Payments Orchestration",
     "company": "ripple",
     "ats": "greenhouse",
@@ -27080,7 +27080,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7664258": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:34-04:00",
     "title": "Senior Software Engineer, C++ / Rust",
     "company": "ripple",
     "ats": "greenhouse",
@@ -27096,7 +27096,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7724653": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:38-04:00",
     "title": "Senior Software Engineer (Full Stack)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -27136,7 +27136,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7561581": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:07-04:00",
     "title": "Senior Staff Partner Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -27176,7 +27176,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7791472": {
-    "updated_at": "2026-06-11T16:31:37-04:00",
+    "updated_at": "2026-07-01T20:04:50-04:00",
     "title": "Staff Data Scientist",
     "company": "ripple",
     "ats": "greenhouse",
@@ -27256,7 +27256,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7624480": {
-    "updated_at": "2026-06-17T13:12:16-04:00",
+    "updated_at": "2026-07-01T20:04:27-04:00",
     "title": "Vice President of Engineering, Fiat Infrastructure",
     "company": "ripple",
     "ats": "greenhouse",
@@ -43816,7 +43816,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7836928": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:54-04:00",
     "title": "Staff Security Engineer, Secure Digital Asset Operations",
     "company": "ripple",
     "ats": "greenhouse",
@@ -49024,7 +49024,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7575543": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:12-04:00",
     "title": "Staff Software Engineer, Frontend",
     "company": "ripple",
     "ats": "greenhouse",
@@ -72304,7 +72304,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7539106": {
-    "updated_at": "2026-07-01T17:25:32-04:00",
+    "updated_at": "2026-07-01T21:47:36-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72312,7 +72312,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7539100": {
-    "updated_at": "2026-07-01T17:25:32-04:00",
+    "updated_at": "2026-07-01T21:47:36-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -72320,7 +72320,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7473824": {
-    "updated_at": "2026-07-01T17:25:32-04:00",
+    "updated_at": "2026-07-01T21:47:36-04:00",
     "title": "Derivatives Risk Oversight Lead",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -80880,7 +80880,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7664254": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:34-04:00",
     "title": "Senior Software Engineer, C++ / Rust",
     "company": "ripple",
     "ats": "greenhouse",
@@ -94888,7 +94888,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7729908": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:40-04:00",
     "title": "Senior Software Engineer, Banking Connectivity",
     "company": "ripple",
     "ats": "greenhouse",
@@ -98200,7 +98200,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7742944": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:43-04:00",
     "title": "Senior Ecosystem Growth Manager",
     "company": "ripple",
     "ats": "greenhouse",
@@ -98440,7 +98440,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7585966": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:14-04:00",
     "title": "Director, Ecosystem Growth",
     "company": "ripple",
     "ats": "greenhouse",
@@ -98448,7 +98448,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7585978": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:14-04:00",
     "title": "Director, Ecosystem Growth",
     "company": "ripple",
     "ats": "greenhouse",
@@ -98544,7 +98544,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7072356": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:03:55-04:00",
     "title": "Director of Developer Relations",
     "company": "ripple",
     "ats": "greenhouse",
@@ -117408,7 +117408,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7405115": {
-    "updated_at": "2026-04-21T15:53:17-04:00",
+    "updated_at": "2026-07-01T21:02:13-04:00",
     "title": "Senior Named Account Executive, Bengaluru/Delhi",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -122952,7 +122952,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7836523": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:59-04:00",
     "title": "Manager, Software Engineering (.Net & Azure)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -124800,7 +124800,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7742977": {
-    "updated_at": "2026-06-29T10:46:37-04:00",
+    "updated_at": "2026-07-01T20:04:45-04:00",
     "title": "Staff Software Engineer, Ruby on Rails",
     "company": "ripple",
     "ats": "greenhouse",
@@ -125808,7 +125808,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7842893": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:04:57-04:00",
     "title": "Manager, Software Engineering (Cloud Infrastructure)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -132392,7 +132392,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7861823": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:07-04:00",
     "title": "Staff Security Engineer, Secure Digital Asset Operations",
     "company": "ripple",
     "ats": "greenhouse",
@@ -139840,7 +139840,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8532641002": {
-    "updated_at": "2026-06-29T17:55:03-04:00",
+    "updated_at": "2026-07-01T20:42:16-04:00",
     "title": "Development Test Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -141384,7 +141384,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7872439": {
-    "updated_at": "2026-06-18T13:14:26-04:00",
+    "updated_at": "2026-07-01T20:05:16-04:00",
     "title": "Senior Software Engineer, Data Engineering",
     "company": "ripple",
     "ats": "greenhouse",
@@ -142632,7 +142632,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7851613": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:05-04:00",
     "title": "Lead Product Manager, Settlement & Billing",
     "company": "ripple",
     "ats": "greenhouse",
@@ -145544,7 +145544,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7896103": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:25-04:00",
     "title": "Staff Full-Stack Software Engineer (.NET & Azure)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -145616,7 +145616,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7896217": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:18-04:00",
     "title": "Senior Full-Stack Software Engineer (Azure &.NET)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -148840,7 +148840,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7904773": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:27-04:00",
     "title": "Principal Technical Program Manager",
     "company": "ripple",
     "ats": "greenhouse",
@@ -148848,7 +148848,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7904761": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:27-04:00",
     "title": "Principal Technical Program Manager",
     "company": "ripple",
     "ats": "greenhouse",
@@ -152232,7 +152232,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7905896": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:29-04:00",
     "title": "Senior Software Engineer, Authentication & Authorisation (Backend)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -152680,7 +152680,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7912314": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:23-04:00",
     "title": "Staff Software Engineer - Authentication & Authorization",
     "company": "ripple",
     "ats": "greenhouse",
@@ -153144,7 +153144,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7913369": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:31-04:00",
     "title": "Senior Director, Security Engineering",
     "company": "ripple",
     "ats": "greenhouse",
@@ -155464,7 +155464,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7918366": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:38-04:00",
     "title": "Staff Software Engineer, GenAI Platform",
     "company": "ripple",
     "ats": "greenhouse",
@@ -159040,7 +159040,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7922838": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:44-04:00",
     "title": "Senior Software Engineer, Financial Crimes",
     "company": "ripple",
     "ats": "greenhouse",
@@ -166752,7 +166752,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7944385": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:48-04:00",
     "title": "Manager, Software Engineering",
     "company": "ripple",
     "ats": "greenhouse",
@@ -168272,7 +168272,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7930279": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:40-04:00",
     "title": "Staff Software Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -170296,7 +170296,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7930645": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:42-04:00",
     "title": "Staff Software Engineer, Infrastructure",
     "company": "ripple",
     "ats": "greenhouse",
@@ -170368,7 +170368,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7931875": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:36-04:00",
     "title": "Staff Partner Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -170376,7 +170376,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7931854": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:36-04:00",
     "title": "Staff Partner Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -170384,7 +170384,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7931850": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:36-04:00",
     "title": "Staff Partner Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -170944,7 +170944,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7944457": {
-    "updated_at": "2026-06-11T17:01:48-04:00",
+    "updated_at": "2026-07-01T20:06:03-04:00",
     "title": "Senior Software Engineer, Liquidity Management",
     "company": "ripple",
     "ats": "greenhouse",
@@ -171624,7 +171624,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7944348": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:05:46-04:00",
     "title": "Staff Software Engineer, Liquidity Management",
     "company": "ripple",
     "ats": "greenhouse",
@@ -171888,7 +171888,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7954763": {
-    "updated_at": "2026-06-29T14:31:45-04:00",
+    "updated_at": "2026-07-01T20:05:58-04:00",
     "title": "Senior Manager, Software Engineering",
     "company": "ripple",
     "ats": "greenhouse",
@@ -172936,7 +172936,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7954180": {
-    "updated_at": "2026-07-01T16:39:16-04:00",
+    "updated_at": "2026-07-01T20:16:43-04:00",
     "title": "Senior Security Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -172944,7 +172944,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7954184": {
-    "updated_at": "2026-07-01T16:39:16-04:00",
+    "updated_at": "2026-07-01T20:16:43-04:00",
     "title": "Senior Security Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -173440,7 +173440,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7955314": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:00-04:00",
     "title": "Staff Software Engineer, Cloud Infrastructure",
     "company": "ripple",
     "ats": "greenhouse",
@@ -173448,7 +173448,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7955335": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:00-04:00",
     "title": "Staff Software Engineer, Cloud Infrastructure",
     "company": "ripple",
     "ats": "greenhouse",
@@ -173704,7 +173704,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7947800": {
-    "updated_at": "2026-06-30T13:40:23-04:00",
+    "updated_at": "2026-07-01T20:06:05-04:00",
     "title": "Site Reliability Engineer, Observability",
     "company": "ripple",
     "ats": "greenhouse",
@@ -173712,7 +173712,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7947821": {
-    "updated_at": "2026-06-30T13:08:15-04:00",
+    "updated_at": "2026-07-01T20:06:05-04:00",
     "title": "Site Reliability Engineer, Observability",
     "company": "ripple",
     "ats": "greenhouse",
@@ -175024,7 +175024,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7960183": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:23-04:00",
     "title": "Staff Network Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -176784,7 +176784,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7955223": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:10-04:00",
     "title": "Staff Partner Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -177184,7 +177184,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7963068": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:17-04:00",
     "title": "Lead Product Manager, Connectivity",
     "company": "ripple",
     "ats": "greenhouse",
@@ -177200,7 +177200,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7963101": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:17-04:00",
     "title": "Lead Product Manager, Connectivity",
     "company": "ripple",
     "ats": "greenhouse",
@@ -177216,7 +177216,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7961902": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:11-04:00",
     "title": "Senior Staff Security Engineer, AI",
     "company": "ripple",
     "ats": "greenhouse",
@@ -179088,7 +179088,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7966503": {
-    "updated_at": "2026-06-05T19:22:10-04:00",
+    "updated_at": "2026-07-01T20:06:19-04:00",
     "title": "Manager, Software Engineering",
     "company": "ripple",
     "ats": "greenhouse",
@@ -184752,7 +184752,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7976291": {
-    "updated_at": "2026-06-17T10:31:53-04:00",
+    "updated_at": "2026-07-01T20:06:30-04:00",
     "title": "Senior Software Engineer, Identity & Trust",
     "company": "ripple",
     "ats": "greenhouse",
@@ -196104,7 +196104,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7990051": {
-    "updated_at": "2026-06-09T22:44:48-04:00",
+    "updated_at": "2026-07-01T20:06:41-04:00",
     "title": "Lead Product Manager, Platform Experience",
     "company": "ripple",
     "ats": "greenhouse",
@@ -196112,7 +196112,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7990084": {
-    "updated_at": "2026-06-09T22:43:54-04:00",
+    "updated_at": "2026-07-01T20:06:41-04:00",
     "title": "Lead Product Manager, Platform Experience",
     "company": "ripple",
     "ats": "greenhouse",
@@ -196544,7 +196544,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7992322": {
-    "updated_at": "2026-06-26T17:16:46-04:00",
+    "updated_at": "2026-07-01T20:06:45-04:00",
     "title": "Client Support Analyst",
     "company": "ripple",
     "ats": "greenhouse",
@@ -197256,7 +197256,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7997267": {
-    "updated_at": "2026-06-10T13:52:49-04:00",
+    "updated_at": "2026-07-01T20:06:47-04:00",
     "title": "Senior Staff Security Engineer, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -197264,7 +197264,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7997234": {
-    "updated_at": "2026-06-10T13:50:33-04:00",
+    "updated_at": "2026-07-01T20:06:47-04:00",
     "title": "Senior Staff Security Engineer, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -201208,7 +201208,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8002049": {
-    "updated_at": "2026-06-12T10:24:56-04:00",
+    "updated_at": "2026-07-01T20:06:49-04:00",
     "title": "Senior Staff DevOps Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -201216,7 +201216,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8002028": {
-    "updated_at": "2026-06-12T10:24:04-04:00",
+    "updated_at": "2026-07-01T20:06:49-04:00",
     "title": "Senior Staff DevOps Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -203584,7 +203584,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8008251": {
-    "updated_at": "2026-06-15T14:12:05-04:00",
+    "updated_at": "2026-07-01T20:06:55-04:00",
     "title": "Staff Software Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -203888,7 +203888,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8008216": {
-    "updated_at": "2026-06-22T12:54:58-04:00",
+    "updated_at": "2026-07-01T20:06:51-04:00",
     "title": "Staff DevSecOps Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -206368,8 +206368,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7984077": {
-    "updated_at": "2026-06-16T18:22:35-04:00",
-    "title": "RFP Specialist (Americas)",
+    "updated_at": "2026-07-01T21:15:15-04:00",
+    "title": "Proposal Specialist",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -210288,7 +210288,7 @@
     "alerted": false
   },
   "greenhouse:flex:4707757005": {
-    "updated_at": "2026-06-25T17:37:08-04:00",
+    "updated_at": "2026-07-01T21:08:30-04:00",
     "title": "Lead Product Manager, Self Service",
     "company": "flex",
     "ats": "greenhouse",
@@ -215008,7 +215008,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8010492": {
-    "updated_at": "2026-06-23T13:04:41-04:00",
+    "updated_at": "2026-07-01T20:06:57-04:00",
     "title": "Staff Software Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -218968,7 +218968,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8013623": {
-    "updated_at": "2026-06-25T13:52:19-04:00",
+    "updated_at": "2026-07-01T20:07:01-04:00",
     "title": "Senior Staff Partner Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -219112,7 +219112,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8008743": {
-    "updated_at": "2026-06-25T13:21:50-04:00",
+    "updated_at": "2026-07-01T20:07:05-04:00",
     "title": "Staff Data Scientist",
     "company": "ripple",
     "ats": "greenhouse",
@@ -222112,7 +222112,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8030741": {
-    "updated_at": "2026-06-26T18:34:51-04:00",
+    "updated_at": "2026-07-01T20:07:06-04:00",
     "title": "Senior Manager, Software Engineering \u2013 Identity Platform",
     "company": "ripple",
     "ats": "greenhouse",
@@ -223048,7 +223048,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8030778": {
-    "updated_at": "2026-06-29T12:39:11-04:00",
+    "updated_at": "2026-07-01T20:07:09-04:00",
     "title": "Staff Software Engineer, Data Engineering",
     "company": "ripple",
     "ats": "greenhouse",
@@ -223536,7 +223536,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8036091": {
-    "updated_at": "2026-06-29T14:25:39-04:00",
+    "updated_at": "2026-07-01T20:07:27-04:00",
     "title": "Senior Data Scientist",
     "company": "ripple",
     "ats": "greenhouse",
@@ -224176,7 +224176,7 @@
     "alerted": false
   },
   "greenhouse:fellow:5176439007": {
-    "updated_at": "2026-06-29T17:07:56-04:00",
+    "updated_at": "2026-07-01T20:19:41-04:00",
     "title": "Creative Director",
     "company": "fellow",
     "ats": "greenhouse",
@@ -224480,7 +224480,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8037355": {
-    "updated_at": "2026-06-30T01:03:35-04:00",
+    "updated_at": "2026-07-01T20:07:11-04:00",
     "title": "Executive Assistant",
     "company": "ripple",
     "ats": "greenhouse",
@@ -225608,7 +225608,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787901003": {
-    "updated_at": "2026-07-01T12:04:49-04:00",
+    "updated_at": "2026-07-01T20:02:33-04:00",
     "title": "Senior Customer Resident Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -225784,7 +225784,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787909003": {
-    "updated_at": "2026-07-01T12:05:04-04:00",
+    "updated_at": "2026-07-01T20:02:38-04:00",
     "title": "Global Alliance Lead, Microsoft",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -226008,7 +226008,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787929003": {
-    "updated_at": "2026-07-01T16:04:17-04:00",
+    "updated_at": "2026-07-01T20:02:41-04:00",
     "title": "Global Alliance Lead, Accenture",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -227104,7 +227104,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790852003": {
-    "updated_at": "2026-07-01T12:05:22-04:00",
+    "updated_at": "2026-07-01T19:46:25-04:00",
     "title": "Global Alliance Lead",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -228672,7 +228672,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8617157002": {
-    "updated_at": "2026-07-01T19:08:56-04:00",
+    "updated_at": "2026-07-01T20:38:27-04:00",
     "title": "Starlink Enterprise Account Director, Aviation",
     "company": "spacex",
     "ats": "greenhouse",
@@ -228798,5 +228798,109 @@
     "ats": "greenhouse",
     "source_slug": "airbnb",
     "alerted": true
+  },
+  "greenhouse:databricks:8614926002": {
+    "updated_at": "2026-07-01T20:52:31-04:00",
+    "title": "Director, Ventures Partner Portfolio",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8617201002": {
+    "updated_at": "2026-07-01T20:46:10-04:00",
+    "title": "Automation & Controls Engineer (Raptor Manufacturing Systems)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:toast:8028382": {
+    "updated_at": "2026-07-01T20:44:27-04:00",
+    "title": "Senior Solutions Engineer",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:flexe:4693881006": {
+    "updated_at": "2026-07-01T20:31:56-04:00",
+    "title": "Digital Marketing Manager",
+    "company": "flexe",
+    "ats": "greenhouse",
+    "source_slug": "flexe",
+    "alerted": false
+  },
+  "greenhouse:toast:8042801": {
+    "updated_at": "2026-07-01T20:21:10-04:00",
+    "title": "Sales District Manager, Retail - Tennessee",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:spacex:8615562002": {
+    "updated_at": "2026-07-01T20:15:11-04:00",
+    "title": "Environmental Health & Safety Specialist (Construction Safety)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:toast:8042788": {
+    "updated_at": "2026-07-01T20:14:35-04:00",
+    "title": "Territory Account Executive , SMB - Oklahoma",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8042787": {
+    "updated_at": "2026-07-01T20:14:34-04:00",
+    "title": "Territory Account Executive , SMB - Oklahoma",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8031920": {
+    "updated_at": "2026-07-01T19:59:17-04:00",
+    "title": "Growth Marketing Lead, Guest Engagement",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:instacart:8042669": {
+    "updated_at": "2026-07-01T19:54:24-04:00",
+    "title": "Manager II, Credit & Collections",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:gusto:8029194": {
+    "updated_at": "2026-07-01T19:47:42-04:00",
+    "title": "People Partner Lead, Engineering",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:gusto:8029182": {
+    "updated_at": "2026-07-01T19:44:42-04:00",
+    "title": "People Partner Lead, CX",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:celonis:7775179003": {
+    "updated_at": "2026-07-01T19:43:31-04:00",
+    "title": "Client Value Partner - Banking",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
   }
 }
