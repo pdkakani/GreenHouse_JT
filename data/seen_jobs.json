@@ -151392,7 +151392,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8541634002": {
-    "updated_at": "2026-06-29T16:41:34-04:00",
+    "updated_at": "2026-07-03T15:11:40-04:00",
     "title": "Senior Software Engineer",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -161304,7 +161304,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7922458": {
-    "updated_at": "2026-07-02T17:21:50-04:00",
+    "updated_at": "2026-07-03T15:10:15-04:00",
     "title": "IT Support Technician",
     "company": "elastic",
     "ats": "greenhouse",
@@ -228632,7 +228632,7 @@
     "alerted": false
   },
   "greenhouse:faire:8617151002": {
-    "updated_at": "2026-07-03T12:48:03-04:00",
+    "updated_at": "2026-07-03T16:25:27-04:00",
     "title": "Head of Revenue Operations & AI",
     "company": "faire",
     "ats": "greenhouse",
@@ -231069,6 +231069,30 @@
     "company": "postman",
     "ats": "greenhouse",
     "source_slug": "postman",
+    "alerted": true
+  },
+  "greenhouse:convera:4912023101": {
+    "updated_at": "2026-07-03T13:26:08-04:00",
+    "title": "Customer Support Associate",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "ashby:Ashby:a854e693-7bca-4f3a-80da-147ab2f48638": {
+    "updated_at": "2026-06-16T12:49:19.202+00:00",
+    "title": "Mid-Market Account Executive - Americas (East)",
+    "company": "Ashby",
+    "ats": "ashby",
+    "source_slug": "Ashby",
+    "alerted": false
+  },
+  "ashby:Ashby:7d8ec4fe-50aa-4d7e-9eec-db7b2d14bcbd": {
+    "updated_at": "2026-07-03T19:53:25.134+00:00",
+    "title": "Mid-Market Solutions Engineering Manager",
+    "company": "Ashby",
+    "ats": "ashby",
+    "source_slug": "Ashby",
     "alerted": true
   }
 }
