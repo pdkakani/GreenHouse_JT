@@ -140744,8 +140744,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8432827002": {
-    "updated_at": "2026-06-09T20:30:58-04:00",
-    "title": "Sr. Big Data Engineer",
+    "updated_at": "2026-07-03T13:18:43-04:00",
+    "title": "Forward Deployed Engineer",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -150376,7 +150376,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8535144002": {
-    "updated_at": "2026-07-01T15:20:40-04:00",
+    "updated_at": "2026-07-03T13:10:47-04:00",
     "title": "Business Operations Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -151608,7 +151608,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7891607": {
-    "updated_at": "2026-06-30T00:47:42-04:00",
+    "updated_at": "2026-07-03T12:32:23-04:00",
     "title": "CX Strategy Solutions Lead",
     "company": "samsara",
     "ats": "greenhouse",
@@ -152224,8 +152224,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8501125002": {
-    "updated_at": "2026-07-01T18:31:36-04:00",
-    "title": "Resident Solutions Architect",
+    "updated_at": "2026-07-03T12:12:57-04:00",
+    "title": "Senior Forward Deployed Engineer",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -194016,7 +194016,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7992190": {
-    "updated_at": "2026-06-30T00:47:42-04:00",
+    "updated_at": "2026-07-03T12:32:23-04:00",
     "title": "CX Strategy Solutions Lead",
     "company": "samsara",
     "ats": "greenhouse",
@@ -210304,8 +210304,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5271346008": {
-    "updated_at": "2026-06-18T21:05:18-04:00",
-    "title": "Platform Security Engineering - OpenBMC",
+    "updated_at": "2026-07-03T13:05:18-04:00",
+    "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -228632,7 +228632,7 @@
     "alerted": false
   },
   "greenhouse:faire:8617151002": {
-    "updated_at": "2026-07-02T09:12:11-04:00",
+    "updated_at": "2026-07-03T12:48:03-04:00",
     "title": "Head of Revenue Operations & AI",
     "company": "faire",
     "ats": "greenhouse",
@@ -230922,6 +230922,126 @@
   "greenhouse:purestorage:7601744": {
     "updated_at": "2026-07-03T10:15:11-04:00",
     "title": "Member Of Technical Staff- Production Engineering",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:twilio:8042071": {
+    "updated_at": "2026-07-03T12:52:44-04:00",
+    "title": "Staff Engineer, Security Engineering Partners",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619993002": {
+    "updated_at": "2026-07-03T12:39:11-04:00",
+    "title": "Sourcing Manager, Contract Manufacturing (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619991002": {
+    "updated_at": "2026-07-03T12:37:41-04:00",
+    "title": "Global Supply Manager, Contract Manufacturing (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619988002": {
+    "updated_at": "2026-07-03T12:35:27-04:00",
+    "title": "Global Supply Manager, Custom Silicon and Semiconductor (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619984002": {
+    "updated_at": "2026-07-03T12:34:11-04:00",
+    "title": "International Infrastructure Operations Specialist (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619968002": {
+    "updated_at": "2026-07-03T12:32:43-04:00",
+    "title": "Sourcing Manager, Ground Infrastructure (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619966002": {
+    "updated_at": "2026-07-03T12:31:22-04:00",
+    "title": "Sourcing Specialist, Contracts (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619961002": {
+    "updated_at": "2026-07-03T12:29:06-04:00",
+    "title": "Sourcing Manager, Capital Equipment & Construction (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619816002": {
+    "updated_at": "2026-07-03T12:25:28-04:00",
+    "title": "Global Supply Manager, Capital Equipment & Construction (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619669002": {
+    "updated_at": "2026-07-03T12:23:15-04:00",
+    "title": "Sourcing Manager, OPEX (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8619483002": {
+    "updated_at": "2026-07-03T12:20:31-04:00",
+    "title": "Global Supply Manager, Mechanical (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:ripple:8043676": {
+    "updated_at": "2026-07-03T12:17:14-04:00",
+    "title": "Senior Manager, Finance",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:jumio:4708116005": {
+    "updated_at": "2026-07-03T11:54:43-04:00",
+    "title": "Machine Learning Engineer - IV (Fraud)",
+    "company": "jumio",
+    "ats": "greenhouse",
+    "source_slug": "jumio",
+    "alerted": false
+  },
+  "greenhouse:jumio:4708282005": {
+    "updated_at": "2026-07-03T11:53:28-04:00",
+    "title": "SDE IV - QA",
+    "company": "jumio",
+    "ats": "greenhouse",
+    "source_slug": "jumio",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8027636": {
+    "updated_at": "2026-07-03T11:51:18-04:00",
+    "title": "Director, Customer Success - Data Management",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
