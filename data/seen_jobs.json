@@ -161336,7 +161336,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8362737002": {
-    "updated_at": "2026-07-01T18:31:29-04:00",
+    "updated_at": "2026-07-03T14:01:32-04:00",
     "title": "Sr Forward Deployed Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -215352,7 +215352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8001822": {
-    "updated_at": "2026-06-28T03:06:09-04:00",
+    "updated_at": "2026-07-03T14:26:14-04:00",
     "title": "Enterprise Core Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -229912,7 +229912,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8039605": {
-    "updated_at": "2026-07-03T11:19:45-04:00",
+    "updated_at": "2026-07-03T14:17:57-04:00",
     "title": "Forward Deployed Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -231046,5 +231046,29 @@
     "ats": "greenhouse",
     "source_slug": "purestorage",
     "alerted": false
+  },
+  "greenhouse:samsara:7960376": {
+    "updated_at": "2026-07-03T12:58:51-04:00",
+    "title": "Strategic Customer Success Manager",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:spacex:8606550002": {
+    "updated_at": "2026-07-03T12:57:34-04:00",
+    "title": "Sourcing Manager, Datacenter (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:postman:7790835003": {
+    "updated_at": "2026-07-03T13:52:01-04:00",
+    "title": "Senior Manager, Customer Success Engineering",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": true
   }
 }
