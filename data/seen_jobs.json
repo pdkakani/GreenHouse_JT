@@ -14912,7 +14912,7 @@
     "alerted": true
   },
   "greenhouse:calendly:8450989002": {
-    "updated_at": "2026-06-30T21:02:17-04:00",
+    "updated_at": "2026-07-04T13:06:35-04:00",
     "title": "Staff Product Manager, New Products",
     "company": "calendly",
     "ats": "greenhouse",
@@ -231134,5 +231134,13 @@
     "ats": "greenhouse",
     "source_slug": "ripple",
     "alerted": false
+  },
+  "ashby:Ashby:dfc35159-ffe5-4d42-bea3-552b5dc17628": {
+    "updated_at": "2026-07-04T17:21:51.478+00:00",
+    "title": "Enterprise Solutions Engineering Manager",
+    "company": "Ashby",
+    "ats": "ashby",
+    "source_slug": "Ashby",
+    "alerted": true
   }
 }
