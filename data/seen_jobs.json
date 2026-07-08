@@ -1424,7 +1424,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7309174": {
-    "updated_at": "2026-07-02T20:09:27-04:00",
+    "updated_at": "2026-07-08T07:36:36-04:00",
     "title": "Threat Intelligence Software Engineer, Cloudforce One",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -57568,7 +57568,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7688855": {
-    "updated_at": "2026-07-06T10:35:29-04:00",
+    "updated_at": "2026-07-08T07:32:57-04:00",
     "title": "Digital Sales Representative",
     "company": "twilio",
     "ats": "greenhouse",
@@ -73712,8 +73712,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7626370": {
-    "updated_at": "2026-04-23T09:53:52-04:00",
-    "title": "Senior IT Risk Officer",
+    "updated_at": "2026-07-08T06:38:11-04:00",
+    "title": "Tech Resilience Risk Officer",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -88496,7 +88496,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8437026002": {
-    "updated_at": "2026-07-01T18:31:33-04:00",
+    "updated_at": "2026-07-08T06:29:37-04:00",
     "title": "Solutions Architect (Pre-sales) - Digital Native",
     "company": "databricks",
     "ats": "greenhouse",
@@ -88512,7 +88512,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8437028002": {
-    "updated_at": "2026-07-01T18:31:33-04:00",
+    "updated_at": "2026-07-08T06:29:42-04:00",
     "title": "Solutions Architect (Pre-sales) - Kansai Region",
     "company": "databricks",
     "ats": "greenhouse",
@@ -92720,8 +92720,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4629292005": {
-    "updated_at": "2026-07-07T02:11:13-04:00",
-    "title": "Product Manager",
+    "updated_at": "2026-07-08T06:15:44-04:00",
+    "title": "Product Manager, Connectors",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -92848,8 +92848,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4597178005": {
-    "updated_at": "2026-05-14T15:35:24-04:00",
-    "title": "Product Manager, Connectors",
+    "updated_at": "2026-07-08T06:15:18-04:00",
+    "title": "Product Manager",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -93520,7 +93520,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7764822": {
-    "updated_at": "2026-07-02T08:21:50-04:00",
+    "updated_at": "2026-07-08T06:19:40-04:00",
     "title": "Mid Market Account Executive (New Logo)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -94920,8 +94920,8 @@
     "alerted": false
   },
   "greenhouse:elastic:7505982": {
-    "updated_at": "2026-06-22T09:19:01-04:00",
-    "title": "Account Executive",
+    "updated_at": "2026-07-08T06:23:27-04:00",
+    "title": "Enterprise Account Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -143144,7 +143144,7 @@
     "alerted": false
   },
   "greenhouse:okta:7893046": {
-    "updated_at": "2026-06-24T14:05:50-04:00",
+    "updated_at": "2026-07-08T07:30:09-04:00",
     "title": "Staff Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -150440,7 +150440,7 @@
     "alerted": false
   },
   "greenhouse:okta:7902820": {
-    "updated_at": "2026-06-24T14:05:51-04:00",
+    "updated_at": "2026-07-08T07:27:19-04:00",
     "title": "Staff Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -152848,8 +152848,8 @@
     "alerted": false
   },
   "greenhouse:mongodb:7906059": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
-    "title": "Strategic Customer Success Manager",
+    "updated_at": "2026-07-08T07:38:45-04:00",
+    "title": "Senior Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -154328,7 +154328,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7709777": {
-    "updated_at": "2026-06-03T15:07:03-04:00",
+    "updated_at": "2026-07-08T07:47:38-04:00",
     "title": "Infrastructure Developer (Go)",
     "company": "adyen",
     "ats": "greenhouse",
@@ -156352,7 +156352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7870845": {
-    "updated_at": "2026-07-08T06:02:54-04:00",
+    "updated_at": "2026-07-08T07:32:43-04:00",
     "title": "Senior Sales Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156456,7 +156456,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8546367002": {
-    "updated_at": "2026-06-01T10:20:48-04:00",
+    "updated_at": "2026-07-08T07:40:58-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -163936,7 +163936,7 @@
     "alerted": false
   },
   "greenhouse:okta:7926062": {
-    "updated_at": "2026-06-24T14:05:51-04:00",
+    "updated_at": "2026-07-08T07:19:27-04:00",
     "title": "Data Quality Analyst II",
     "company": "okta",
     "ats": "greenhouse",
@@ -201168,7 +201168,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7767795003": {
-    "updated_at": "2026-06-22T16:18:44-04:00",
+    "updated_at": "2026-07-08T06:25:23-04:00",
     "title": "Creative Principal",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -213872,7 +213872,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8600818002": {
-    "updated_at": "2026-07-01T18:31:44-04:00",
+    "updated_at": "2026-07-08T06:29:49-04:00",
     "title": "Senior Specialist Solutions Engineer (AI/ML)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -222544,7 +222544,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8406090002": {
-    "updated_at": "2026-07-01T18:31:30-04:00",
+    "updated_at": "2026-07-08T06:29:31-04:00",
     "title": "Pre-sales Senior Technical Solutions Engineer (Data and AI) x4",
     "company": "databricks",
     "ats": "greenhouse",
@@ -224904,7 +224904,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8026173": {
-    "updated_at": "2026-06-30T08:07:44-04:00",
+    "updated_at": "2026-07-08T06:12:47-04:00",
     "title": "Sales Sector Lead - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -228344,8 +228344,8 @@
     "alerted": false
   },
   "greenhouse:datadog:8036788": {
-    "updated_at": "2026-07-01T15:01:44-04:00",
-    "title": "Senior Product Solutions Architect",
+    "updated_at": "2026-07-08T07:42:49-04:00",
+    "title": "Senior Product Solutions Architect - Synthetics",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -229312,7 +229312,7 @@
     "alerted": false
   },
   "greenhouse:braze:8025693": {
-    "updated_at": "2026-07-02T10:28:48-04:00",
+    "updated_at": "2026-07-08T06:53:23-04:00",
     "title": "Senior Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -231176,7 +231176,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8613435002": {
-    "updated_at": "2026-07-08T05:42:52-04:00",
+    "updated_at": "2026-07-08T06:29:52-04:00",
     "title": "Pre-sales Senior Technical Solutions Engineer (AI/ML - Digital Native Business) x2",
     "company": "databricks",
     "ats": "greenhouse",
@@ -235046,5 +235046,77 @@
     "ats": "greenhouse",
     "source_slug": "cribl",
     "alerted": true
+  },
+  "greenhouse:asana:8048682": {
+    "updated_at": "2026-07-08T07:09:02-04:00",
+    "title": "Corporate Account Executive",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7687229003": {
+    "updated_at": "2026-07-08T06:42:10-04:00",
+    "title": "Senior Software Engineer",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:okta:7930018": {
+    "updated_at": "2026-07-08T06:33:55-04:00",
+    "title": "Staff Software Engineer - Linux Platform Foundations",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8620720002": {
+    "updated_at": "2026-07-08T06:30:39-04:00",
+    "title": "Backend Engineer (Ruby), AI Engineering: Agent Observability",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:databricks:8623640002": {
+    "updated_at": "2026-07-08T06:21:51-04:00",
+    "title": "Sr. Solutions Engineer (Indonesia)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:payoneer:7606931": {
+    "updated_at": "2026-07-08T06:16:03-04:00",
+    "title": "AML Monitoring Analyst",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8050026": {
+    "updated_at": "2026-07-08T06:13:58-04:00",
+    "title": "Senior Enterprise Account Executive, Growth",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:datadog:8046660": {
+    "updated_at": "2026-07-08T06:13:17-04:00",
+    "title": "Office Operations Associate - NYC",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:databricks:8530855002": {
+    "updated_at": "2026-07-08T06:09:48-04:00",
+    "title": "Staff Forward Deployed Engineer",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
   }
 }
