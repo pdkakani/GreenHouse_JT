@@ -21112,7 +21112,7 @@
     "alerted": true
   },
   "greenhouse:upstart:7531113": {
-    "updated_at": "2026-07-06T18:12:14-04:00",
+    "updated_at": "2026-07-08T23:12:12-04:00",
     "title": "Principal Software Engineer, Unsecured Installments",
     "company": "upstart",
     "ats": "greenhouse",
@@ -22160,8 +22160,8 @@
     "alerted": true
   },
   "greenhouse:databricks:8488399002": {
-    "updated_at": "2026-07-08T17:44:39-04:00",
-    "title": "Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business",
+    "updated_at": "2026-07-09T00:12:45-04:00",
+    "title": "Sr. Forward Deployed Engineer - FDE - Digital Native Business",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -70992,8 +70992,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4676087005": {
-    "updated_at": "2026-06-30T06:10:50-04:00",
-    "title": "Solutions Engineering Manager",
+    "updated_at": "2026-07-09T01:05:17-04:00",
+    "title": "Solutions Engineering Manager- APAC",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -78600,7 +78600,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7238381": {
-    "updated_at": "2026-06-26T18:17:52-04:00",
+    "updated_at": "2026-07-08T22:39:14-04:00",
     "title": "Senior Manager, Strategic Initiatives (Fulfillment)",
     "company": "flexport",
     "ats": "greenhouse",
@@ -110152,8 +110152,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7551863": {
-    "updated_at": "2026-06-01T00:02:37-04:00",
-    "title": "Senior Full-Stack Engineer, App Experience and Frameworks (Frontend-Heavy)",
+    "updated_at": "2026-07-09T01:18:46-04:00",
+    "title": "Senior Frontend Engineer, App Experience and Frameworks",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -163864,7 +163864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929336": {
-    "updated_at": "2026-06-29T22:16:15-04:00",
+    "updated_at": "2026-07-08T23:20:12-04:00",
     "title": "Senior Sales Planning Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -164168,8 +164168,8 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4681268006": {
-    "updated_at": "2026-07-08T12:43:52-04:00",
-    "title": "SecOps Specialist",
+    "updated_at": "2026-07-08T22:05:50-04:00",
+    "title": "SecOps Expert",
     "company": "fireblocks",
     "ats": "greenhouse",
     "source_slug": "fireblocks",
@@ -178872,7 +178872,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8568524002": {
-    "updated_at": "2026-06-18T02:53:49-04:00",
+    "updated_at": "2026-07-08T22:04:04-04:00",
     "title": "Associate Counsel, Corporate",
     "company": "lyft",
     "ats": "greenhouse",
@@ -198272,7 +198272,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7994862": {
-    "updated_at": "2026-06-27T01:16:20-04:00",
+    "updated_at": "2026-07-08T22:00:10-04:00",
     "title": "Partner Operations Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -200776,7 +200776,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7996779": {
-    "updated_at": "2026-06-30T10:30:51-04:00",
+    "updated_at": "2026-07-09T00:21:59-04:00",
     "title": "Software Engineer (L3)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -209120,7 +209120,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6092704004": {
-    "updated_at": "2026-07-07T14:24:34-04:00",
+    "updated_at": "2026-07-09T00:42:17-04:00",
     "title": "Instructional Designer (Delhi/NCR)",
     "company": "coursera",
     "ats": "greenhouse",
@@ -210568,7 +210568,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8593411002": {
-    "updated_at": "2026-07-01T18:31:43-04:00",
+    "updated_at": "2026-07-09T01:28:36-04:00",
     "title": "Sr. Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -236312,7 +236312,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8050322": {
-    "updated_at": "2026-07-08T17:33:55-04:00",
+    "updated_at": "2026-07-08T21:52:08-04:00",
     "title": "Principal Recruiter",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -236918,5 +236918,125 @@
     "ats": "greenhouse",
     "source_slug": "ripple",
     "alerted": true
+  },
+  "greenhouse:twilio:8016229": {
+    "updated_at": "2026-07-09T00:17:59-04:00",
+    "title": "Technical Support Engineer 1",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:stripe:8043052": {
+    "updated_at": "2026-07-08T23:44:22-04:00",
+    "title": "Data Scientist, Global Growth",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:okta:8050396": {
+    "updated_at": "2026-07-08T23:36:39-04:00",
+    "title": "Regional Alliances Manager - Asia",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7779650003": {
+    "updated_at": "2026-07-08T23:34:37-04:00",
+    "title": "Principal Product Manager",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:upstart:8047138": {
+    "updated_at": "2026-07-08T23:24:08-04:00",
+    "title": "Senior Software Engineer, Unsecured Installments",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:upstart:8047140": {
+    "updated_at": "2026-07-08T23:18:38-04:00",
+    "title": "Software Engineer, Unsecured Installments",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8050386": {
+    "updated_at": "2026-07-08T23:12:28-04:00",
+    "title": "Forward Deployed Engineer, Professional Services",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7573757": {
+    "updated_at": "2026-07-08T22:56:38-04:00",
+    "title": "Principal Partner Account Manager - Service Provider, APAC (Based in Singapore)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:twitch:8625665002": {
+    "updated_at": "2026-07-08T22:35:28-04:00",
+    "title": "Data Scientist",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:twitch:8625664002": {
+    "updated_at": "2026-07-08T22:35:28-04:00",
+    "title": "Data Scientist",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:twitch:8623477002": {
+    "updated_at": "2026-07-08T22:35:27-04:00",
+    "title": "Data Scientist",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:twitch:8625630002": {
+    "updated_at": "2026-07-08T21:38:28-04:00",
+    "title": "Tax Manager",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:adyen:6761898": {
+    "updated_at": "2026-07-08T21:27:40-04:00",
+    "title": "Software Engineer II (Java) - Pricing",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:twitch:8623401002": {
+    "updated_at": "2026-07-08T21:26:03-04:00",
+    "title": "Tax Manager",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:twilio:8049158": {
+    "updated_at": "2026-07-08T21:05:16-04:00",
+    "title": "Technical Talent Advisor",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
   }
 }
