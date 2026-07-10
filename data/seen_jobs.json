@@ -7480,7 +7480,7 @@
     "alerted": true
   },
   "greenhouse:airtable:8400373002": {
-    "updated_at": "2026-06-23T14:43:02-04:00",
+    "updated_at": "2026-07-10T19:13:30-04:00",
     "title": "Software Engineer, Infrastructure (4-8 YOE)",
     "company": "airtable",
     "ats": "greenhouse",
@@ -15560,8 +15560,8 @@
     "alerted": true
   },
   "greenhouse:altruist:5781991004": {
-    "updated_at": "2026-06-22T16:05:50-04:00",
-    "title": "Founding Sales Development Representative, Hazel AI",
+    "updated_at": "2026-07-10T19:01:44-04:00",
+    "title": "Sales Development Representative, Hazel AI",
     "company": "altruist",
     "ats": "greenhouse",
     "source_slug": "altruist",
@@ -25936,8 +25936,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4615564006": {
-    "updated_at": "2026-07-01T11:54:53-04:00",
-    "title": "Firmware Engineer, SPX",
+    "updated_at": "2026-07-10T18:50:10-04:00",
+    "title": "Firmware Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -26304,8 +26304,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4452431006": {
-    "updated_at": "2026-07-01T11:54:53-04:00",
-    "title": "Senior Firmware Engineer, OpenBMC",
+    "updated_at": "2026-07-10T18:51:47-04:00",
+    "title": "Senior Firmware Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -33072,7 +33072,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7249525": {
-    "updated_at": "2026-06-23T20:07:59-04:00",
+    "updated_at": "2026-07-10T19:02:12-04:00",
     "title": "Senior Machine Learning Engineer, Computer Vision/VLM",
     "company": "waymo",
     "ats": "greenhouse",
@@ -37016,8 +37016,8 @@
     "alerted": true
   },
   "greenhouse:databricks:7823561002": {
-    "updated_at": "2026-06-15T18:30:50-04:00",
-    "title": "Sr. Staff Software Engineer - Data Platform",
+    "updated_at": "2026-07-10T18:47:40-04:00",
+    "title": "Sr. Staff Production Engineer - Data Platform",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -43696,7 +43696,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7833918": {
-    "updated_at": "2026-06-11T16:39:21-04:00",
+    "updated_at": "2026-07-10T18:57:46-04:00",
     "title": "Senior Solutions Architect - SLED",
     "company": "elastic",
     "ats": "greenhouse",
@@ -71176,7 +71176,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7410347": {
-    "updated_at": "2026-07-06T13:36:56-04:00",
+    "updated_at": "2026-07-10T18:28:50-04:00",
     "title": "Senior Communication Business Partner - Tech",
     "company": "adyen",
     "ats": "greenhouse",
@@ -73656,7 +73656,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7684100": {
-    "updated_at": "2026-07-10T17:45:04-04:00",
+    "updated_at": "2026-07-10T18:37:16-04:00",
     "title": "Senior Demand Generation Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -92848,7 +92848,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4597178005": {
-    "updated_at": "2026-07-08T06:15:18-04:00",
+    "updated_at": "2026-07-10T18:31:04-04:00",
     "title": "Product Manager",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -150904,7 +150904,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7866517": {
-    "updated_at": "2026-06-28T03:05:50-04:00",
+    "updated_at": "2026-07-10T18:47:16-04:00",
     "title": "Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -161096,7 +161096,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7905036": {
-    "updated_at": "2026-07-10T17:42:51-04:00",
+    "updated_at": "2026-07-10T18:36:30-04:00",
     "title": "Event Marketing Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -166536,7 +166536,7 @@
     "alerted": false
   },
   "greenhouse:asana:7917204": {
-    "updated_at": "2026-06-30T21:57:32-04:00",
+    "updated_at": "2026-07-10T18:30:34-04:00",
     "title": "Competitive Intelligence Analyst",
     "company": "asana",
     "ats": "greenhouse",
@@ -190856,7 +190856,7 @@
     "alerted": false
   },
   "greenhouse:postman:7559037003": {
-    "updated_at": "2026-06-05T17:08:33-04:00",
+    "updated_at": "2026-07-10T19:06:58-04:00",
     "title": "Named Account Executive",
     "company": "postman",
     "ats": "greenhouse",
@@ -213552,7 +213552,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4691088006": {
-    "updated_at": "2026-07-01T11:54:53-04:00",
+    "updated_at": "2026-07-10T18:34:18-04:00",
     "title": "Senior Firmware Engineer, FPGA",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -230480,7 +230480,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8040735": {
-    "updated_at": "2026-07-02T18:48:12-04:00",
+    "updated_at": "2026-07-10T19:12:46-04:00",
     "title": "Financial Services Compliance Lead",
     "company": "gusto",
     "ats": "greenhouse",
@@ -231312,7 +231312,7 @@
     "alerted": false
   },
   "greenhouse:okta:8036362": {
-    "updated_at": "2026-07-06T04:34:27-04:00",
+    "updated_at": "2026-07-10T18:39:55-04:00",
     "title": "Partner Marketing Manager - ANZ",
     "company": "okta",
     "ats": "greenhouse",
@@ -240440,7 +240440,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8047260": {
-    "updated_at": "2026-07-10T16:20:01-04:00",
+    "updated_at": "2026-07-10T19:12:37-04:00",
     "title": "Legal Operations Manager",
     "company": "gusto",
     "ats": "greenhouse",
@@ -240622,5 +240622,101 @@
     "ats": "greenhouse",
     "source_slug": "postman",
     "alerted": false
+  },
+  "greenhouse:samsara:8041418": {
+    "updated_at": "2026-07-10T18:57:24-04:00",
+    "title": "Director, Enablement - Skills and Leadership Excellence",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:calendly:8628979002": {
+    "updated_at": "2026-07-10T18:55:23-04:00",
+    "title": "Staff Platform Engineer",
+    "company": "calendly",
+    "ats": "greenhouse",
+    "source_slug": "calendly",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5320469008": {
+    "updated_at": "2026-07-10T18:50:56-04:00",
+    "title": "Red Team Engineer, Safeguards",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:upstart:8054529": {
+    "updated_at": "2026-07-10T18:48:07-04:00",
+    "title": "Funding Delivery Manager",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:okta:8056315": {
+    "updated_at": "2026-07-10T18:47:06-04:00",
+    "title": "Senior Product Manager - Cloud Infrastructure",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:reddit:7922994": {
+    "updated_at": "2026-07-10T18:27:31-04:00",
+    "title": "Backend Engineer, Moderation Enforcement",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:samsara:8039914": {
+    "updated_at": "2026-07-10T18:25:36-04:00",
+    "title": "Senior Data Engineer II",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8056301": {
+    "updated_at": "2026-07-10T18:15:59-04:00",
+    "title": "Sr. Data Scientist II (Remote Eligible)",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5107489008": {
+    "updated_at": "2026-07-10T18:08:57-04:00",
+    "title": "Finance & Strategy, Datacenter FP&A",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:carta:7801706003": {
+    "updated_at": "2026-07-10T17:55:19-04:00",
+    "title": "Senior Paralegal, Contracts",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:carta:7801309003": {
+    "updated_at": "2026-07-10T17:55:08-04:00",
+    "title": "Junior Paralegal, Contracts",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8629084002": {
+    "updated_at": "2026-07-10T19:13:22-04:00",
+    "title": "Operations Engineer (Production)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
