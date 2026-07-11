@@ -237304,7 +237304,7 @@
     "alerted": false
   },
   "greenhouse:toast:8051430": {
-    "updated_at": "2026-07-09T04:26:48-04:00",
+    "updated_at": "2026-07-11T17:48:19-04:00",
     "title": "Sales Development Representative",
     "company": "toast",
     "ats": "greenhouse",
@@ -240981,6 +240981,14 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:stripe:8050878": {
+    "updated_at": "2026-07-11T16:10:04-04:00",
+    "title": "Administrative Business Partner, Office of the CEO",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
