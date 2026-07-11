@@ -131568,7 +131568,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8525768002": {
-    "updated_at": "2026-07-09T19:10:06-04:00",
+    "updated_at": "2026-07-11T16:30:11-04:00",
     "title": "Sr. Financial Analyst",
     "company": "spacex",
     "ats": "greenhouse",
@@ -181888,7 +181888,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8574100002": {
-    "updated_at": "2026-06-01T17:13:31-04:00",
+    "updated_at": "2026-07-11T16:28:32-04:00",
     "title": "Financial Analyst",
     "company": "spacex",
     "ats": "greenhouse",
@@ -240966,5 +240966,21 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:databricks:8437030002": {
+    "updated_at": "2026-07-11T09:02:25-04:00",
+    "title": "Sr. Solutions Engineer (Pre-sales) - Kansai Region",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8437012002": {
+    "updated_at": "2026-07-11T09:00:01-04:00",
+    "title": "Solutions Architect (Pre-sales) - Kansai Region",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
   }
 }
