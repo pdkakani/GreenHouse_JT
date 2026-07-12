@@ -241038,5 +241038,13 @@
     "ats": "greenhouse",
     "source_slug": "payoneer",
     "alerted": false
+  },
+  "greenhouse:braze:8002284": {
+    "updated_at": "2026-07-12T06:32:28-04:00",
+    "title": "Account Executive, Commercial",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
   }
 }
