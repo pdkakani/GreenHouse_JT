@@ -6096,7 +6096,7 @@
     "alerted": true
   },
   "greenhouse:okta:7674814": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-13T18:44:26-04:00",
     "title": "Staff Software Engineer, Data Platform (FedRamp)",
     "company": "okta",
     "ats": "greenhouse",
@@ -25336,7 +25336,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7747640": {
-    "updated_at": "2026-06-26T17:05:35-04:00",
+    "updated_at": "2026-07-13T19:33:22-04:00",
     "title": "Forward Deployed AI Accelerator, Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -52720,7 +52720,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5015165007": {
-    "updated_at": "2026-06-24T17:45:17-04:00",
+    "updated_at": "2026-07-13T19:27:24-04:00",
     "title": "Legal Operations,  Billing & Spend Management",
     "company": "verkada",
     "ats": "greenhouse",
@@ -56072,7 +56072,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4660498006": {
-    "updated_at": "2026-07-01T11:54:53-04:00",
+    "updated_at": "2026-07-13T19:11:41-04:00",
     "title": "Finance Transformation, Senior Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -86408,8 +86408,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7799240": {
-    "updated_at": "2026-07-02T20:08:46-04:00",
-    "title": "Senior Named Account Executive, Dallas",
+    "updated_at": "2026-07-13T18:42:47-04:00",
+    "title": "Senior Named Account Executive (Dallas/Austin/Houston)",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -133944,7 +133944,7 @@
     "alerted": false
   },
   "greenhouse:coursera:5982730004": {
-    "updated_at": "2026-07-13T14:08:29-04:00",
+    "updated_at": "2026-07-13T19:10:48-04:00",
     "title": "Chief of Staff - CTO",
     "company": "coursera",
     "ats": "greenhouse",
@@ -151600,7 +151600,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7708224": {
-    "updated_at": "2026-07-01T19:34:46-04:00",
+    "updated_at": "2026-07-13T18:58:07-04:00",
     "title": "Machine Learning Engineer, Relevance and Personalization",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -186504,8 +186504,8 @@
     "alerted": false
   },
   "greenhouse:robinhood:7979707": {
-    "updated_at": "2026-07-09T19:02:18-04:00",
-    "title": "Risk and Compliance Senior Associate",
+    "updated_at": "2026-07-13T18:45:45-04:00",
+    "title": "Risk and Compliance Manager",
     "company": "robinhood",
     "ats": "greenhouse",
     "source_slug": "robinhood",
@@ -194616,7 +194616,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7991283": {
-    "updated_at": "2026-07-02T20:08:06-04:00",
+    "updated_at": "2026-07-13T19:03:01-04:00",
     "title": "Senior Named Account Executive, Houston",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -231728,16 +231728,16 @@
     "alerted": false
   },
   "greenhouse:asana:8044789": {
-    "updated_at": "2026-07-06T11:43:19-04:00",
-    "title": "Forward Deployed Engineer",
+    "updated_at": "2026-07-13T18:58:40-04:00",
+    "title": "Forward Deployed Engineer, Command by Asana",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
     "alerted": false
   },
   "greenhouse:asana:8031595": {
-    "updated_at": "2026-07-06T11:42:54-04:00",
-    "title": "Forward Deployed Engineer",
+    "updated_at": "2026-07-13T18:58:27-04:00",
+    "title": "Forward Deployed Engineer, Command by Asana",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -235824,7 +235824,7 @@
     "alerted": false
   },
   "greenhouse:coursera:5751617004": {
-    "updated_at": "2026-07-08T12:15:19-04:00",
+    "updated_at": "2026-07-13T19:12:58-04:00",
     "title": "Principal Product Manager",
     "company": "coursera",
     "ats": "greenhouse",
@@ -236824,7 +236824,7 @@
     "alerted": false
   },
   "greenhouse:asana:8049872": {
-    "updated_at": "2026-07-08T20:44:40-04:00",
+    "updated_at": "2026-07-13T18:40:07-04:00",
     "title": "Head of Technical Recruiting",
     "company": "asana",
     "ats": "greenhouse",
@@ -241752,7 +241752,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7800393003": {
-    "updated_at": "2026-07-13T11:08:30-04:00",
+    "updated_at": "2026-07-13T19:08:55-04:00",
     "title": "Deal Desk Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -242784,7 +242784,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5231612008": {
-    "updated_at": "2026-07-13T18:19:12-04:00",
+    "updated_at": "2026-07-13T19:27:58-04:00",
     "title": "Research Engineer, Chip Design RL (Reinforcement Learning)",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -242944,11 +242944,123 @@
     "alerted": true
   },
   "greenhouse:reddit:8008648": {
-    "updated_at": "2026-07-13T18:23:42-04:00",
+    "updated_at": "2026-07-13T18:46:25-04:00",
     "title": "Senior Machine Learning Engineer, Ads Content Understanding",
     "company": "reddit",
     "ats": "greenhouse",
     "source_slug": "reddit",
+    "alerted": true
+  },
+  "greenhouse:stripe:8062305": {
+    "updated_at": "2026-07-13T19:11:57-04:00",
+    "title": "Full Stack Engineer, Link",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:okta:8052761": {
+    "updated_at": "2026-07-13T19:11:31-04:00",
+    "title": "Senior Director of Corporate Messaging",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8632240002": {
+    "updated_at": "2026-07-13T19:10:34-04:00",
+    "title": "Manager, Machine Maintenance - Solar Cell Factory (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:stripe:8062299": {
+    "updated_at": "2026-07-13T19:07:43-04:00",
+    "title": "Backend Engineer, Financial Connections",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:reddit:8062300": {
+    "updated_at": "2026-07-13T19:04:57-04:00",
+    "title": "Revenue Growth & Strategy Partner",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8062298": {
+    "updated_at": "2026-07-13T19:03:55-04:00",
+    "title": "Revenue Growth & Strategy Partner",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8062296": {
+    "updated_at": "2026-07-13T19:02:32-04:00",
+    "title": "Revenue Growth & Strategy Partner",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8062273": {
+    "updated_at": "2026-07-13T19:01:14-04:00",
+    "title": "Revenue Growth & Strategy Partner",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8061819": {
+    "updated_at": "2026-07-13T18:59:58-04:00",
+    "title": "Revenue Growth & Strategy Partner",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8052721": {
+    "updated_at": "2026-07-13T18:59:53-04:00",
+    "title": "Brand Media Lead",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:fastly:8060158": {
+    "updated_at": "2026-07-13T18:54:03-04:00",
+    "title": "Senior Data Engineer",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:spacex:8627375002": {
+    "updated_at": "2026-07-13T18:51:19-04:00",
+    "title": "Environmental Health & Safety Specialist (Falcon/Dragon)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:workato:8613000002": {
+    "updated_at": "2026-07-13T18:22:45-04:00",
+    "title": "Field Chief Technology Officer",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:stripe:8055930": {
+    "updated_at": "2026-07-13T19:32:38-04:00",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": true
   }
 }
