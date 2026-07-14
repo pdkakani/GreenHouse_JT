@@ -58352,7 +58352,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7766067": {
-    "updated_at": "2026-06-22T07:55:07-04:00",
+    "updated_at": "2026-07-14T06:30:17-04:00",
     "title": "Recruiting Coordinator",
     "company": "elastic",
     "ats": "greenhouse",
@@ -71176,7 +71176,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7410347": {
-    "updated_at": "2026-07-10T18:28:50-04:00",
+    "updated_at": "2026-07-14T05:04:54-04:00",
     "title": "Senior Communication Business Partner - Tech",
     "company": "adyen",
     "ats": "greenhouse",
@@ -84960,7 +84960,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7785533": {
-    "updated_at": "2026-07-06T17:24:26-04:00",
+    "updated_at": "2026-07-14T05:31:01-04:00",
     "title": "Senior Security Risk Management Analyst",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -85632,7 +85632,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7372314": {
-    "updated_at": "2026-07-06T17:24:25-04:00",
+    "updated_at": "2026-07-14T05:30:20-04:00",
     "title": "Mid Market Account Executive (Alpine region)",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -88344,7 +88344,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8438983002": {
-    "updated_at": "2026-07-01T18:31:33-04:00",
+    "updated_at": "2026-07-14T06:16:31-04:00",
     "title": "Account Executive - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -131872,8 +131872,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7325482": {
-    "updated_at": "2026-06-05T13:39:23-04:00",
-    "title": "Staff Software Engineer - IPO (Identity & Performance Optimizations)",
+    "updated_at": "2026-07-14T05:18:48-04:00",
+    "title": "Staff Software Engineer - Identity & Risk Intelligence",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -163944,7 +163944,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7436699": {
-    "updated_at": "2026-07-06T17:24:26-04:00",
+    "updated_at": "2026-07-14T05:30:46-04:00",
     "title": "Senior Field Consultant, EMEA",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -194024,8 +194024,8 @@
     "alerted": false
   },
   "greenhouse:asana:7380414": {
-    "updated_at": "2026-07-07T18:08:07-04:00",
-    "title": "Group Tech Lead, Security Threat Operations &\u00a0Response Management",
+    "updated_at": "2026-07-14T06:17:53-04:00",
+    "title": "Group Tech Lead, Security Operations",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -220432,7 +220432,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7992288": {
-    "updated_at": "2026-07-06T17:24:27-04:00",
+    "updated_at": "2026-07-14T05:30:33-04:00",
     "title": "Mid Market AE Germany",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -222648,7 +222648,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7784391003": {
-    "updated_at": "2026-07-06T12:54:52-04:00",
+    "updated_at": "2026-07-14T05:27:20-04:00",
     "title": "Associate Value Engineering - Orbit India",
     "company": "celonis",
     "ats": "greenhouse",
@@ -231264,8 +231264,8 @@
     "alerted": false
   },
   "greenhouse:gitlab:8589163002": {
-    "updated_at": "2026-07-05T20:50:30-04:00",
-    "title": "Commercial Account Executive (Mid-Market) - Australia",
+    "updated_at": "2026-07-14T06:16:43-04:00",
+    "title": "Commercial Account Executive- Australia and New Zealand",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
@@ -231440,7 +231440,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615946002": {
-    "updated_at": "2026-07-06T09:34:36-04:00",
+    "updated_at": "2026-07-14T06:04:38-04:00",
     "title": "Engineering Manager, Cell Infrastructure",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241008,7 +241008,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4692079006": {
-    "updated_at": "2026-07-14T02:52:50-04:00",
+    "updated_at": "2026-07-14T05:52:11-04:00",
     "title": "GRC Expert",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -241424,7 +241424,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7541032": {
-    "updated_at": "2026-07-13T08:22:14-04:00",
+    "updated_at": "2026-07-14T05:32:59-04:00",
     "title": "Software Engineer - Network Platforms",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -241448,8 +241448,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:8059499": {
-    "updated_at": "2026-07-13T08:10:03-04:00",
-    "title": "R&D Architect",
+    "updated_at": "2026-07-14T04:57:09-04:00",
+    "title": "R&D Architect Director",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -243326,5 +243326,85 @@
     "ats": "greenhouse",
     "source_slug": "rubrik",
     "alerted": false
+  },
+  "greenhouse:stripe:8063857": {
+    "updated_at": "2026-07-14T06:03:17-04:00",
+    "title": "Fraud Operations Team Lead",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:elastic:8021466": {
+    "updated_at": "2026-07-14T05:48:59-04:00",
+    "title": "Account Executive",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8059520": {
+    "updated_at": "2026-07-14T05:37:25-04:00",
+    "title": "Enterprise Account Executive",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8050418": {
+    "updated_at": "2026-07-14T05:27:00-04:00",
+    "title": "Advisory Partner Solutions Architect",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:databricks:8628080002": {
+    "updated_at": "2026-07-14T05:23:22-04:00",
+    "title": "Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:stripe:8045340": {
+    "updated_at": "2026-07-14T05:17:49-04:00",
+    "title": "User Escalation Specialist",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8025549": {
+    "updated_at": "2026-07-14T04:38:06-04:00",
+    "title": "Marketing Specialist",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8055471": {
+    "updated_at": "2026-07-14T04:36:39-04:00",
+    "title": "Senior Software Engineer",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8048186": {
+    "updated_at": "2026-07-14T04:34:31-04:00",
+    "title": "HR Operations Specialist",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:datadog:8051616": {
+    "updated_at": "2026-07-14T06:13:37-04:00",
+    "title": "Engineering Compensation Partner",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": true
   }
 }
