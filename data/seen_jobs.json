@@ -10552,7 +10552,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5023394008": {
-    "updated_at": "2026-05-06T18:20:05-04:00",
+    "updated_at": "2026-07-13T23:06:50-04:00",
     "title": "Anthropic Fellows Program",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -11064,7 +11064,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5153924008": {
-    "updated_at": "2026-06-17T20:34:53-04:00",
+    "updated_at": "2026-07-13T21:29:34-04:00",
     "title": "Product Manager, Multi-Cloud Growth - Google",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -11120,7 +11120,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5071132008": {
-    "updated_at": "2026-06-18T16:37:03-04:00",
+    "updated_at": "2026-07-13T23:56:43-04:00",
     "title": "Research Engineer, Economic Research Data Platform",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -26800,7 +26800,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4669836006": {
-    "updated_at": "2026-07-09T15:59:53-04:00",
+    "updated_at": "2026-07-13T23:22:51-04:00",
     "title": "Staff Engineer, Storage Control Plane",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -54096,7 +54096,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8515377002": {
-    "updated_at": "2026-07-06T11:46:25-04:00",
+    "updated_at": "2026-07-14T00:10:46-04:00",
     "title": "Senior Software  Engineer, AI-Powered Developer Productivity",
     "company": "lyft",
     "ats": "greenhouse",
@@ -191488,7 +191488,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7694675003": {
-    "updated_at": "2026-07-01T07:10:48-04:00",
+    "updated_at": "2026-07-14T00:03:47-04:00",
     "title": "Software Engineer - AI GTM",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -193288,7 +193288,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8582792002": {
-    "updated_at": "2026-07-09T19:10:26-04:00",
+    "updated_at": "2026-07-13T21:07:23-04:00",
     "title": "Build Supervisor (Starship) - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -198024,7 +198024,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4688327006": {
-    "updated_at": "2026-07-09T10:00:50-04:00",
+    "updated_at": "2026-07-13T23:22:36-04:00",
     "title": "Senior Engineer, Storage Control Plane",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -200048,7 +200048,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5139628008": {
-    "updated_at": "2026-06-11T15:49:45-04:00",
+    "updated_at": "2026-07-13T23:42:56-04:00",
     "title": "Product Manager, Safeguards Rare Harms",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -219104,8 +219104,8 @@
     "alerted": false
   },
   "greenhouse:asana:8027437": {
-    "updated_at": "2026-06-30T21:57:32-04:00",
-    "title": "AI Strategist, Service Management Implementation",
+    "updated_at": "2026-07-13T21:06:59-04:00",
+    "title": "AI Implementation Manager, Service Management",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -230712,7 +230712,7 @@
     "alerted": false
   },
   "greenhouse:workato:8619069002": {
-    "updated_at": "2026-07-08T14:14:31-04:00",
+    "updated_at": "2026-07-13T21:38:55-04:00",
     "title": "Chief Strategic Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -236128,7 +236128,7 @@
     "alerted": false
   },
   "greenhouse:chime:8604565002": {
-    "updated_at": "2026-07-08T18:01:34-04:00",
+    "updated_at": "2026-07-13T23:34:22-04:00",
     "title": "Senior Mobile Cross Platform Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -243118,5 +243118,93 @@
     "ats": "greenhouse",
     "source_slug": "ziprecruiter",
     "alerted": false
+  },
+  "greenhouse:anthropic:5319592008": {
+    "updated_at": "2026-07-13T23:07:48-04:00",
+    "title": "Safeguards Enforcement Analyst, Ban Evasion & Recidivism",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5319624008": {
+    "updated_at": "2026-07-13T23:05:18-04:00",
+    "title": "Safeguards Enforcement Analyst, Account Takeover & Credential Abuse",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5319626008": {
+    "updated_at": "2026-07-13T23:01:10-04:00",
+    "title": "Safeguards Enforcement Analyst, Access Controls & Identity",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:waymo:8002068": {
+    "updated_at": "2026-07-13T22:50:23-04:00",
+    "title": "Technical Recruiter (Product)",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:stripe:8055659": {
+    "updated_at": "2026-07-13T22:19:39-04:00",
+    "title": "Risk PMO Program Manager",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:hightouch:6114304004": {
+    "updated_at": "2026-07-13T21:33:22-04:00",
+    "title": "Associate Talent Partner",
+    "company": "hightouch",
+    "ats": "greenhouse",
+    "source_slug": "hightouch",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8037952": {
+    "updated_at": "2026-07-13T21:10:07-04:00",
+    "title": "Procurement Technology & AI Systems Analyst (Bangalore)",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:asana:7983998": {
+    "updated_at": "2026-07-13T20:32:17-04:00",
+    "title": "AV & Events Engineer",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:databricks:8603684002": {
+    "updated_at": "2026-07-13T20:30:01-04:00",
+    "title": "Sr. Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7787889003": {
+    "updated_at": "2026-07-13T20:22:02-04:00",
+    "title": "Enterprise Sales Director (PNW)",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:spacex:8632389002": {
+    "updated_at": "2026-07-13T23:27:03-04:00",
+    "title": "Propulsion Engineer (Merlin Hardware Development)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
