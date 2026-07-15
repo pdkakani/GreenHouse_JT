@@ -1176,7 +1176,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7629805": {
-    "updated_at": "2026-07-07T14:12:17-04:00",
+    "updated_at": "2026-07-15T17:57:17-04:00",
     "title": "Senior Software Engineer, Storage Infrastructure",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -10296,7 +10296,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7676714": {
-    "updated_at": "2026-07-15T09:08:20-04:00",
+    "updated_at": "2026-07-15T17:58:36-04:00",
     "title": "Engineering Manager, Agentic AI",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -36448,7 +36448,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8436912002": {
-    "updated_at": "2026-07-01T18:31:32-04:00",
+    "updated_at": "2026-07-15T18:07:37-04:00",
     "title": "Sr. Engineering Manager - Customer Experience Intelligence (CXI)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -36736,7 +36736,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8416951002": {
-    "updated_at": "2026-07-01T18:31:31-04:00",
+    "updated_at": "2026-07-15T18:14:33-04:00",
     "title": "Sr Software Engineer- Customer Experience Intelligence (CXI)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -37360,7 +37360,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8416959002": {
-    "updated_at": "2026-07-01T18:31:31-04:00",
+    "updated_at": "2026-07-15T18:12:13-04:00",
     "title": "Staff Software Engineer \u2013 Customer Experience Intelligence (CXI)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -52640,7 +52640,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5026955007": {
-    "updated_at": "2026-06-24T17:45:17-04:00",
+    "updated_at": "2026-07-15T17:40:34-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52784,7 +52784,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5027435007": {
-    "updated_at": "2026-07-07T18:29:24-04:00",
+    "updated_at": "2026-07-15T18:02:17-04:00",
     "title": "Senior Growth Product Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -133944,7 +133944,7 @@
     "alerted": false
   },
   "greenhouse:coursera:5982730004": {
-    "updated_at": "2026-07-15T13:34:58-04:00",
+    "updated_at": "2026-07-15T17:37:59-04:00",
     "title": "Chief of Staff - CTO",
     "company": "coursera",
     "ats": "greenhouse",
@@ -146880,7 +146880,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7851972": {
-    "updated_at": "2026-06-16T23:09:54-04:00",
+    "updated_at": "2026-07-15T17:50:35-04:00",
     "title": "Ride-Hail Market Operations Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -157568,7 +157568,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7896462": {
-    "updated_at": "2026-07-07T14:10:04-04:00",
+    "updated_at": "2026-07-15T17:59:53-04:00",
     "title": "Senior Software Engineer, Distributed Databases",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -161264,7 +161264,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7769005": {
-    "updated_at": "2026-06-26T17:05:35-04:00",
+    "updated_at": "2026-07-15T18:25:53-04:00",
     "title": "Engineering Manager, Terminal",
     "company": "stripe",
     "ats": "greenhouse",
@@ -165456,7 +165456,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7939537": {
-    "updated_at": "2026-06-27T01:16:12-04:00",
+    "updated_at": "2026-07-15T18:23:09-04:00",
     "title": "Account Executive, SLED (San Francisco / East Bay)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -199800,7 +199800,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687368006": {
-    "updated_at": "2026-07-01T11:54:53-04:00",
+    "updated_at": "2026-07-15T18:14:49-04:00",
     "title": "Supplier Quality Engineer (OEM/ODM, Thermal & Cooling)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -213416,7 +213416,7 @@
     "alerted": false
   },
   "greenhouse:postman:7780627003": {
-    "updated_at": "2026-07-02T14:06:55-04:00",
+    "updated_at": "2026-07-15T17:43:20-04:00",
     "title": "Regional Channel Sales Leader, North America",
     "company": "postman",
     "ats": "greenhouse",
@@ -213920,7 +213920,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8007613": {
-    "updated_at": "2026-07-15T13:30:40-04:00",
+    "updated_at": "2026-07-15T18:24:21-04:00",
     "title": "Technical Services Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -215256,8 +215256,8 @@
     "alerted": false
   },
   "greenhouse:waymo:8021971": {
-    "updated_at": "2026-06-23T15:55:50-04:00",
-    "title": "Product Manager, Sensing Resilience",
+    "updated_at": "2026-07-15T18:27:16-04:00",
+    "title": "Senior Product Manager, Sensing Resilience",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -221552,8 +221552,8 @@
     "alerted": false
   },
   "greenhouse:verkada:5174707007": {
-    "updated_at": "2026-06-26T14:01:31-04:00",
-    "title": "Associate Sales Recruiter",
+    "updated_at": "2026-07-15T18:16:53-04:00",
+    "title": "Sales Recruiter",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -223760,7 +223760,7 @@
     "alerted": false
   },
   "greenhouse:okta:7917002": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-15T17:40:06-04:00",
     "title": "Staff Software Engineer, AI-Core (Federal)",
     "company": "okta",
     "ats": "greenhouse",
@@ -227096,7 +227096,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790860003": {
-    "updated_at": "2026-07-11T01:05:18-04:00",
+    "updated_at": "2026-07-15T18:01:33-04:00",
     "title": "Senior Business Value Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -230536,7 +230536,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8029252": {
-    "updated_at": "2026-07-13T20:38:55-04:00",
+    "updated_at": "2026-07-15T18:30:03-04:00",
     "title": "Technical Operations Engineer, Payments",
     "company": "stripe",
     "ats": "greenhouse",
@@ -242728,8 +242728,8 @@
     "alerted": false
   },
   "greenhouse:gitlab:8618795002": {
-    "updated_at": "2026-07-13T16:53:10-04:00",
-    "title": "Revenue Technical Analyst",
+    "updated_at": "2026-07-15T17:57:54-04:00",
+    "title": "Revenue Technology Analyst",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-15T17:35:19-04:00",
+    "updated_at": "2026-07-15T18:34:50-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-15T17:35:17-04:00",
+    "updated_at": "2026-07-15T18:34:48-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-15T17:35:20-04:00",
+    "updated_at": "2026-07-15T18:34:52-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -247296,8 +247296,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8064702": {
-    "updated_at": "2026-07-15T16:50:35-04:00",
-    "title": "[TEMPLATE S1] Default Template - Privy Engineering",
+    "updated_at": "2026-07-15T17:46:25-04:00",
+    "title": "Account Manager, Privy",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -247333,6 +247333,110 @@
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
+    "alerted": true
+  },
+  "greenhouse:databricks:8584144002": {
+    "updated_at": "2026-07-15T18:19:55-04:00",
+    "title": "Staff Software Engineer- CXI",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:coursera:6020420004": {
+    "updated_at": "2026-07-15T18:14:43-04:00",
+    "title": "Global Customer Success Enablement Lead",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
+    "alerted": false
+  },
+  "greenhouse:databricks:8632401002": {
+    "updated_at": "2026-07-15T18:05:57-04:00",
+    "title": "Alliance RVP, Boston Consulting Group (BCG)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8632403002": {
+    "updated_at": "2026-07-15T18:02:31-04:00",
+    "title": "Alliance RVP, McKinsey",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:okta:8067534": {
+    "updated_at": "2026-07-15T17:57:03-04:00",
+    "title": "Creative Director, Demand Gen",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8635288002": {
+    "updated_at": "2026-07-15T17:54:31-04:00",
+    "title": "CNC Machinist, Deburr (Raptor)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8635900002": {
+    "updated_at": "2026-07-15T17:49:06-04:00",
+    "title": "Senior Software Engineer, Foundation Model API",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:rubrik:7921809": {
+    "updated_at": "2026-07-15T17:46:52-04:00",
+    "title": "Channel Marketing Manager",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8060959": {
+    "updated_at": "2026-07-15T17:41:57-04:00",
+    "title": "Security Engineer Intern (Fall 2026)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5097490008": {
+    "updated_at": "2026-07-15T17:40:32-04:00",
+    "title": "Product Manager, Safeguards (Verticals)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:upstart:8064636": {
+    "updated_at": "2026-07-15T17:34:24-04:00",
+    "title": "Asset Quality & Model Analyst",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:adyen:8009963": {
+    "updated_at": "2026-07-15T17:26:15-04:00",
+    "title": "Senior Account Executive, Financial Services",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:databricks:8617901002": {
+    "updated_at": "2026-07-15T18:24:48-04:00",
+    "title": "Sr Software Engineer- CXI",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
     "alerted": true
   }
 }
