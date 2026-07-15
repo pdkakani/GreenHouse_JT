@@ -16200,8 +16200,8 @@
     "alerted": true
   },
   "greenhouse:upstart:7370621": {
-    "updated_at": "2026-07-10T00:10:52-04:00",
-    "title": "Staff+ Machine Learning Engineer",
+    "updated_at": "2026-07-15T07:14:36-04:00",
+    "title": "Staff/Principal Machine Learning Engineer",
     "company": "upstart",
     "ats": "greenhouse",
     "source_slug": "upstart",
@@ -45464,7 +45464,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7664667": {
-    "updated_at": "2026-06-26T17:05:33-04:00",
+    "updated_at": "2026-07-15T07:01:03-04:00",
     "title": "Manager, Technical Account Management",
     "company": "stripe",
     "ats": "greenhouse",
@@ -63168,7 +63168,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7527949": {
-    "updated_at": "2026-07-15T05:10:50-04:00",
+    "updated_at": "2026-07-15T06:27:51-04:00",
     "title": "Senior Manager, Martech Transformation",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -75216,7 +75216,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7453323": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T06:55:29-04:00",
     "title": "Cloud Operations Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76384,7 +76384,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7388900": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T07:03:27-04:00",
     "title": "Senior Product Manager, AI Builders Experience",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76392,7 +76392,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7378931": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T07:03:13-04:00",
     "title": "Senior Product Manager, AI Builders Experience",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76464,7 +76464,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7581876": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T06:59:48-04:00",
     "title": "Software Engineer 3",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76544,7 +76544,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7392902": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T07:05:39-04:00",
     "title": "Senior Software Engineer, Forward Deployed AI Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76888,7 +76888,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7699932": {
-    "updated_at": "2026-07-15T05:16:16-04:00",
+    "updated_at": "2026-07-15T06:29:03-04:00",
     "title": "Software Engineer 3, Query Execution",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -119272,8 +119272,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7585042": {
-    "updated_at": "2026-07-15T06:24:55-04:00",
-    "title": "Senior Business Developer Gift Card - UK",
+    "updated_at": "2026-07-15T06:33:18-04:00",
+    "title": "Senior B2B Partnerships Manager \u2013 Gift Cards",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -156456,7 +156456,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8546367002": {
-    "updated_at": "2026-07-08T09:54:04-04:00",
+    "updated_at": "2026-07-15T07:34:33-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -160208,7 +160208,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5220007008": {
-    "updated_at": "2026-06-18T08:36:08-04:00",
+    "updated_at": "2026-07-15T06:44:50-04:00",
     "title": "Senior Technical Training Specialist",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -160320,7 +160320,7 @@
     "alerted": false
   },
   "greenhouse:okta:7929542": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-15T07:19:32-04:00",
     "title": "Staff Fullstack Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -172616,7 +172616,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7956226": {
-    "updated_at": "2026-07-15T05:15:31-04:00",
+    "updated_at": "2026-07-15T06:28:39-04:00",
     "title": "Senior Product Security Engineer, Server",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -172624,7 +172624,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7484909": {
-    "updated_at": "2026-07-15T05:13:31-04:00",
+    "updated_at": "2026-07-15T06:28:28-04:00",
     "title": "Senior Product Security Engineer, Server",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -176968,7 +176968,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7859378": {
-    "updated_at": "2026-07-15T05:18:09-04:00",
+    "updated_at": "2026-07-15T06:30:10-04:00",
     "title": "Software Engineer 3",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -213872,7 +213872,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8600818002": {
-    "updated_at": "2026-07-10T12:16:54-04:00",
+    "updated_at": "2026-07-15T07:04:51-04:00",
     "title": "Senior Specialist Solutions Engineer (AI/ML)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -225200,7 +225200,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8028546": {
-    "updated_at": "2026-07-01T03:32:01-04:00",
+    "updated_at": "2026-07-15T06:43:55-04:00",
     "title": "Sr Analyst, Financial Planning and Analysis -Professional Services and Partner Support",
     "company": "elastic",
     "ats": "greenhouse",
@@ -227464,7 +227464,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8039417": {
-    "updated_at": "2026-07-01T10:34:45-04:00",
+    "updated_at": "2026-07-15T07:20:39-04:00",
     "title": "Office Manager, Paris",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -227496,7 +227496,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8039399": {
-    "updated_at": "2026-07-01T10:34:25-04:00",
+    "updated_at": "2026-07-15T07:20:17-04:00",
     "title": "Office Manager, London",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -227520,7 +227520,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8039365": {
-    "updated_at": "2026-07-01T10:34:13-04:00",
+    "updated_at": "2026-07-15T07:19:59-04:00",
     "title": "Office Manager, Berlin",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -235064,7 +235064,7 @@
     "alerted": false
   },
   "greenhouse:okta:7930018": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-15T07:18:52-04:00",
     "title": "Staff Software Engineer - Linux Platform Foundations",
     "company": "okta",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-15T06:19:20-04:00",
+    "updated_at": "2026-07-15T07:50:00-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-15T06:19:19-04:00",
+    "updated_at": "2026-07-15T07:49:58-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-15T06:19:22-04:00",
+    "updated_at": "2026-07-15T07:50:01-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244984,7 +244984,7 @@
     "alerted": true
   },
   "greenhouse:okta:7980649": {
-    "updated_at": "2026-07-14T18:32:38-04:00",
+    "updated_at": "2026-07-15T07:31:40-04:00",
     "title": "Principal Forward Deployed Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -245552,7 +245552,7 @@
     "alerted": false
   },
   "greenhouse:okta:7902410": {
-    "updated_at": "2026-07-15T03:49:27-04:00",
+    "updated_at": "2026-07-15T07:20:17-04:00",
     "title": "Staff UI Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -245717,6 +245717,70 @@
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8066740": {
+    "updated_at": "2026-07-15T07:22:30-04:00",
+    "title": "AI Analytics Specialist",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:stripe:8041655": {
+    "updated_at": "2026-07-15T07:01:45-04:00",
+    "title": "Product Manager, E-Invoicing",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:okta:8007704": {
+    "updated_at": "2026-07-15T06:58:41-04:00",
+    "title": "Sales Development Representative - UK&I",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8064055": {
+    "updated_at": "2026-07-15T06:50:31-04:00",
+    "title": "Insider Threat Engineer",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7996557": {
+    "updated_at": "2026-07-15T06:42:00-04:00",
+    "title": "Engagement Manager",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:jumio:4713778005": {
+    "updated_at": "2026-07-15T06:27:46-04:00",
+    "title": "Principal iOS Engineer",
+    "company": "jumio",
+    "ats": "greenhouse",
+    "source_slug": "jumio",
+    "alerted": false
+  },
+  "greenhouse:fastly:8064565": {
+    "updated_at": "2026-07-15T06:11:16-04:00",
+    "title": "Senior Deal Strategy Manager, APJ",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:elastic:7995008": {
+    "updated_at": "2026-07-15T05:40:39-04:00",
+    "title": "Partner Solution Architect - France",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
     "alerted": false
   }
 }
