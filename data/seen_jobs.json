@@ -27936,7 +27936,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7761477": {
-    "updated_at": "2026-07-07T18:53:42-04:00",
+    "updated_at": "2026-07-16T01:55:11-04:00",
     "title": "Senior Pre-Sales Systems Engineer, Everpure Protect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -49320,8 +49320,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:7699213": {
-    "updated_at": "2026-07-13T12:21:57-04:00",
-    "title": "Commercial Operations Associate",
+    "updated_at": "2026-07-16T01:42:14-04:00",
+    "title": "Commercial Operations Manager",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -168288,7 +168288,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7940246": {
-    "updated_at": "2026-07-07T16:25:04-04:00",
+    "updated_at": "2026-07-16T02:26:50-04:00",
     "title": "Principal Product Manager, AI agents - Search",
     "company": "elastic",
     "ats": "greenhouse",
@@ -169360,7 +169360,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7950454": {
-    "updated_at": "2026-07-07T16:25:04-04:00",
+    "updated_at": "2026-07-16T02:26:50-04:00",
     "title": "Principal Product Manager, AI agents - Search",
     "company": "elastic",
     "ats": "greenhouse",
@@ -169368,7 +169368,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7950453": {
-    "updated_at": "2026-07-07T16:25:04-04:00",
+    "updated_at": "2026-07-16T02:26:50-04:00",
     "title": "Principal Product Manager, AI agents - Search",
     "company": "elastic",
     "ats": "greenhouse",
@@ -196304,7 +196304,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995187": {
-    "updated_at": "2026-07-07T16:25:04-04:00",
+    "updated_at": "2026-07-16T02:26:50-04:00",
     "title": "Principal Product Manager, AI agents - Search",
     "company": "elastic",
     "ats": "greenhouse",
@@ -196320,7 +196320,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995182": {
-    "updated_at": "2026-07-07T16:25:04-04:00",
+    "updated_at": "2026-07-16T02:26:50-04:00",
     "title": "Principal Product Manager, AI agents - Search",
     "company": "elastic",
     "ats": "greenhouse",
@@ -196360,7 +196360,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995138": {
-    "updated_at": "2026-07-07T16:25:04-04:00",
+    "updated_at": "2026-07-16T02:26:50-04:00",
     "title": "Principal Product Manager, AI agents - Search",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200672,8 +200672,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8589257002": {
-    "updated_at": "2026-07-15T14:26:20-04:00",
-    "title": "Entry Level Production Technician - Starlink",
+    "updated_at": "2026-07-16T02:34:57-04:00",
+    "title": "Starlink Production Technician - Entry Level",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-16T00:20:38-04:00",
+    "updated_at": "2026-07-16T02:33:59-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-16T00:20:36-04:00",
+    "updated_at": "2026-07-16T02:33:58-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-16T00:20:39-04:00",
+    "updated_at": "2026-07-16T02:34:01-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -247702,5 +247702,45 @@
     "ats": "greenhouse",
     "source_slug": "verkada",
     "alerted": true
+  },
+  "greenhouse:stripe:8029128": {
+    "updated_at": "2026-07-16T01:35:49-04:00",
+    "title": "Account Executive, Billing",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:waymo:6815910": {
+    "updated_at": "2026-07-16T01:31:10-04:00",
+    "title": "Staff Machine Learning Engineer, DUE",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:databricks:8622166002": {
+    "updated_at": "2026-07-16T00:46:19-04:00",
+    "title": "Sr. Solutions Engineer",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8633640002": {
+    "updated_at": "2026-07-16T00:39:48-04:00",
+    "title": "Quality Systems Engineer (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:stripe:8068669": {
+    "updated_at": "2026-07-15T23:48:19-04:00",
+    "title": "Payment Performance Specialist",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
   }
 }
