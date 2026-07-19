@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-19T10:05:23-04:00",
+    "updated_at": "2026-07-19T11:04:28-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-19T10:05:20-04:00",
+    "updated_at": "2026-07-19T11:04:26-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-19T10:05:24-04:00",
+    "updated_at": "2026-07-19T11:04:29-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250376,7 +250376,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8626215002": {
-    "updated_at": "2026-07-18T01:09:27-04:00",
+    "updated_at": "2026-07-19T10:13:22-04:00",
     "title": "Strategic Account Executive, Life Science",
     "company": "databricks",
     "ats": "greenhouse",
@@ -251997,6 +251997,14 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5305402008": {
+    "updated_at": "2026-07-19T10:58:02-04:00",
+    "title": "Software Engineer, Web Platform",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }
