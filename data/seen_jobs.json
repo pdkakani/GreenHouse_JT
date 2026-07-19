@@ -21760,7 +21760,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8503985002": {
-    "updated_at": "2026-07-07T18:10:52-04:00",
+    "updated_at": "2026-07-19T03:12:19-04:00",
     "title": "Analytics Lead, Market Insights",
     "company": "lyft",
     "ats": "greenhouse",
@@ -238576,7 +238576,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8626589002": {
-    "updated_at": "2026-07-09T17:41:58-04:00",
+    "updated_at": "2026-07-19T03:10:53-04:00",
     "title": "Manager, Revenue Systems & Product Operations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-19T02:18:39-04:00",
+    "updated_at": "2026-07-19T04:34:01-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-19T02:18:37-04:00",
+    "updated_at": "2026-07-19T04:34:00-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-19T02:18:40-04:00",
+    "updated_at": "2026-07-19T04:34:03-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245144,7 +245144,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7834459": {
-    "updated_at": "2026-07-14T17:48:38-04:00",
+    "updated_at": "2026-07-19T03:03:02-04:00",
     "title": "Senior Business Recruiter",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -245608,7 +245608,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7753820003": {
-    "updated_at": "2026-07-15T02:28:45-04:00",
+    "updated_at": "2026-07-19T03:31:10-04:00",
     "title": "FullStack Senior Software Development Engineer (Frontend Heavy)",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -251942,5 +251942,61 @@
     "ats": "greenhouse",
     "source_slug": "purestorage",
     "alerted": false
+  },
+  "greenhouse:spacex:8637712002": {
+    "updated_at": "2026-07-19T02:31:00-04:00",
+    "title": "Software Engineer, Applied AI (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8639279002": {
+    "updated_at": "2026-07-19T00:35:48-04:00",
+    "title": "Supervisor, Heatshield Materials Management (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8636229002": {
+    "updated_at": "2026-07-19T00:31:38-04:00",
+    "title": "Supervisor, Starship Heatshield - Night Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:sofi:7809098003": {
+    "updated_at": "2026-07-18T23:54:57-04:00",
+    "title": "Senior Manager, Capital Markets",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:spacex:8637755002": {
+    "updated_at": "2026-07-19T02:31:03-04:00",
+    "title": "Software Engineer, Starlink UX (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8637713002": {
+    "updated_at": "2026-07-19T02:31:02-04:00",
+    "title": "Software Engineer, Design Engineering (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8637756002": {
+    "updated_at": "2026-07-19T02:31:02-04:00",
+    "title": "Software Engineer, Mobile Apps (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
