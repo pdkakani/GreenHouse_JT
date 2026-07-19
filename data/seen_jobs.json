@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-19T11:04:28-04:00",
+    "updated_at": "2026-07-19T12:04:26-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-19T11:04:26-04:00",
+    "updated_at": "2026-07-19T12:04:24-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-19T11:04:29-04:00",
+    "updated_at": "2026-07-19T12:04:27-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -252005,6 +252005,14 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:chime:8606606002": {
+    "updated_at": "2026-07-19T11:35:47-04:00",
+    "title": "Senior Engineering Manager, Data",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
     "alerted": true
   }
 }
