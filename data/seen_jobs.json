@@ -88640,7 +88640,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8409447002": {
-    "updated_at": "2026-07-18T00:23:18-04:00",
+    "updated_at": "2026-07-22T18:58:09-04:00",
     "title": "Director,Technical Solutions (Big Data/ AI)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -95240,7 +95240,7 @@
     "alerted": false
   },
   "greenhouse:everlaw:4658009006": {
-    "updated_at": "2026-04-06T15:54:59-04:00",
+    "updated_at": "2026-07-22T19:20:36-04:00",
     "title": "Senior Product Designer",
     "company": "everlaw",
     "ats": "greenhouse",
@@ -121848,7 +121848,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7826916": {
-    "updated_at": "2026-07-22T18:49:27-04:00",
+    "updated_at": "2026-07-22T19:03:21-04:00",
     "title": "Manager, Customer Engineer, Associate Programs",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -128528,7 +128528,7 @@
     "alerted": false
   },
   "greenhouse:ziprecruiter:7852619": {
-    "updated_at": "2026-07-08T14:59:56-04:00",
+    "updated_at": "2026-07-22T19:26:52-04:00",
     "title": "Inside Sales - Existing Account Manager",
     "company": "ziprecruiter",
     "ats": "greenhouse",
@@ -215208,7 +215208,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8595123002": {
-    "updated_at": "2026-07-22T17:30:57-04:00",
+    "updated_at": "2026-07-22T18:58:20-04:00",
     "title": "Solutions Architect - Casino / iGaming",
     "company": "databricks",
     "ats": "greenhouse",
@@ -221752,7 +221752,7 @@
     "alerted": false
   },
   "greenhouse:everlaw:4691963006": {
-    "updated_at": "2026-07-21T20:53:00-04:00",
+    "updated_at": "2026-07-22T19:20:34-04:00",
     "title": "Senior Corporate Paralegal",
     "company": "everlaw",
     "ats": "greenhouse",
@@ -240288,7 +240288,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7793233003": {
-    "updated_at": "2026-07-16T11:58:52-04:00",
+    "updated_at": "2026-07-22T19:11:58-04:00",
     "title": "Senior Analyst, Field Operations",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -241864,7 +241864,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8628172002": {
-    "updated_at": "2026-07-20T18:01:37-04:00",
+    "updated_at": "2026-07-22T19:20:20-04:00",
     "title": "Sr. Corporate Counsel, Securities",
     "company": "spacex",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-22T18:49:25-04:00",
+    "updated_at": "2026-07-22T19:49:02-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-22T18:49:23-04:00",
+    "updated_at": "2026-07-22T19:49:01-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-22T18:49:26-04:00",
+    "updated_at": "2026-07-22T19:49:04-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246424,7 +246424,7 @@
     "alerted": false
   },
   "greenhouse:asana:8022122": {
-    "updated_at": "2026-07-21T22:25:03-04:00",
+    "updated_at": "2026-07-22T19:13:29-04:00",
     "title": "Product Designer, Adapt",
     "company": "asana",
     "ats": "greenhouse",
@@ -258352,7 +258352,7 @@
     "alerted": true
   },
   "greenhouse:stripe:8080614": {
-    "updated_at": "2026-07-22T17:46:55-04:00",
+    "updated_at": "2026-07-22T19:30:10-04:00",
     "title": "Data Scientist, Core Infrastructure",
     "company": "stripe",
     "ats": "greenhouse",
@@ -258456,7 +258456,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8039987": {
-    "updated_at": "2026-07-22T16:54:10-04:00",
+    "updated_at": "2026-07-22T19:44:46-04:00",
     "title": "Benefits Escalation Services Manager",
     "company": "gusto",
     "ats": "greenhouse",
@@ -258608,7 +258608,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7799655": {
-    "updated_at": "2026-07-22T17:59:56-04:00",
+    "updated_at": "2026-07-22T19:13:06-04:00",
     "title": "Engineering Manager, International Expansion",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -258621,6 +258621,86 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8080028": {
+    "updated_at": "2026-07-22T19:23:41-04:00",
+    "title": "Associate Manager, Premium & Wealth",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8623375002": {
+    "updated_at": "2026-07-22T19:21:02-04:00",
+    "title": "Lead Customer Success Specialist",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:spacex:8646433002": {
+    "updated_at": "2026-07-22T19:20:49-04:00",
+    "title": "Sr. Corporate Counsel, Securities",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8643542002": {
+    "updated_at": "2026-07-22T19:20:31-04:00",
+    "title": "Partner Engineer: Partner Intelligence, AI & Apps",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8077424": {
+    "updated_at": "2026-07-22T19:20:02-04:00",
+    "title": "Director, Customer Engineering",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:gusto:8020155": {
+    "updated_at": "2026-07-22T19:11:19-04:00",
+    "title": "Head of Design, Unified Service Platform",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:airtable:8625370002": {
+    "updated_at": "2026-07-22T19:01:37-04:00",
+    "title": "Engineering Manager, Admin & Governance",
+    "company": "airtable",
+    "ats": "greenhouse",
+    "source_slug": "airtable",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:7560174": {
+    "updated_at": "2026-07-22T18:51:18-04:00",
+    "title": "Senior Systems Engineer, AI Gateway",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:spacex:8645990002": {
+    "updated_at": "2026-07-22T18:45:02-04:00",
+    "title": "Sales Operations Manager (Starlink Channel Sales)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coursera:6120396004": {
+    "updated_at": "2026-07-22T18:44:54-04:00",
+    "title": "Chief of Staff, Enterprise",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
     "alerted": false
   }
 }
