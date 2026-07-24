@@ -10656,8 +10656,8 @@
     "alerted": true
   },
   "greenhouse:anthropic:5097186008": {
-    "updated_at": "2026-07-14T18:35:00-04:00",
-    "title": "Design Engineer, Education Labs",
+    "updated_at": "2026-07-24T13:07:50-04:00",
+    "title": "Full Stack Engineer, Education Labs",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -13728,7 +13728,7 @@
     "alerted": true
   },
   "greenhouse:yugabyte:4655788006": {
-    "updated_at": "2026-05-05T15:38:53-04:00",
+    "updated_at": "2026-07-24T12:25:46-04:00",
     "title": "Director of Engineering, Core Database",
     "company": "yugabyte",
     "ats": "greenhouse",
@@ -13776,7 +13776,7 @@
     "alerted": true
   },
   "greenhouse:yugabyte:4651496006": {
-    "updated_at": "2026-05-05T15:35:30-04:00",
+    "updated_at": "2026-07-24T12:31:03-04:00",
     "title": "Staff Engineer Distributed Storage and Transaction",
     "company": "yugabyte",
     "ats": "greenhouse",
@@ -13784,7 +13784,7 @@
     "alerted": true
   },
   "greenhouse:yugabyte:4651508006": {
-    "updated_at": "2026-05-05T15:35:08-04:00",
+    "updated_at": "2026-07-24T12:31:38-04:00",
     "title": "Staff Engineer SQL Engine",
     "company": "yugabyte",
     "ats": "greenhouse",
@@ -22984,8 +22984,8 @@
     "alerted": true
   },
   "greenhouse:airbnb:7453202": {
-    "updated_at": "2026-06-25T16:29:29-04:00",
-    "title": "Senior iOS Software Engineer, Quality Platform",
+    "updated_at": "2026-07-24T13:09:38-04:00",
+    "title": "Senior Software Engineer, Infrastructure",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -23040,8 +23040,8 @@
     "alerted": true
   },
   "greenhouse:mongodb:7727920": {
-    "updated_at": "2026-07-21T10:26:00-04:00",
-    "title": "Staff Site Reliability Engineer, Fabric",
+    "updated_at": "2026-07-24T13:14:13-04:00",
+    "title": "Site Reliability Engineering, Fabric (Mid, Senior, or Staff)",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -24720,7 +24720,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7826880": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-07-24T12:49:03-04:00",
     "title": "Bilingual Staff Technical Program Manager, Global Enterprise Fulfillment Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -27320,7 +27320,7 @@
     "alerted": false
   },
   "greenhouse:convera:4585038101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Convera USA LLC. in Denver, CO has opening for Senior Software Engineer",
     "company": "convera",
     "ats": "greenhouse",
@@ -27328,7 +27328,7 @@
     "alerted": false
   },
   "greenhouse:convera:4585020101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Convera USA LLC. in Denver, CO has opening for Senior Software Engineer.",
     "company": "convera",
     "ats": "greenhouse",
@@ -27392,7 +27392,7 @@
     "alerted": false
   },
   "greenhouse:convera:4608562101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Senior Software Engineer with Convera USA LLC (Denver, CO)",
     "company": "convera",
     "ats": "greenhouse",
@@ -35248,7 +35248,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140679007": {
-    "updated_at": "2026-07-22T20:14:25-04:00",
+    "updated_at": "2026-07-24T13:05:11-04:00",
     "title": "Enterprise Development Representative",
     "company": "verkada",
     "ats": "greenhouse",
@@ -52912,7 +52912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5041521007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-07-24T13:19:19-04:00",
     "title": "Account Executive, Territory, Chicago",
     "company": "verkada",
     "ats": "greenhouse",
@@ -53216,7 +53216,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128860007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-07-24T12:46:32-04:00",
     "title": "Global Enterprise Account Executive",
     "company": "verkada",
     "ats": "greenhouse",
@@ -62944,7 +62944,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7777476": {
-    "updated_at": "2026-07-14T18:19:54-04:00",
+    "updated_at": "2026-07-24T13:15:20-04:00",
     "title": "Sr. Email Marketing Manager",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -75080,7 +75080,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7318049": {
-    "updated_at": "2026-06-18T15:34:16-04:00",
+    "updated_at": "2026-07-24T11:59:39-04:00",
     "title": "Account Development Representative",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -77112,8 +77112,8 @@
     "alerted": false
   },
   "greenhouse:mongodb:7727923": {
-    "updated_at": "2026-07-21T10:26:00-04:00",
-    "title": "Staff Site Reliability Engineer, Fabric",
+    "updated_at": "2026-07-24T13:14:27-04:00",
+    "title": "Site Reliability Engineering, Fabric (Mid, Senior, or Staff)",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -93520,7 +93520,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7764822": {
-    "updated_at": "2026-07-20T13:36:17-04:00",
+    "updated_at": "2026-07-24T12:11:22-04:00",
     "title": "Mid Market Account Executive (New Logo)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -98808,7 +98808,7 @@
     "alerted": false
   },
   "greenhouse:okta:7446931": {
-    "updated_at": "2026-05-20T21:58:07-04:00",
+    "updated_at": "2026-07-24T12:07:13-04:00",
     "title": "Senior SMB Customer Account Executive",
     "company": "okta",
     "ats": "greenhouse",
@@ -103312,7 +103312,7 @@
     "alerted": false
   },
   "greenhouse:convera:4793751101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Financial Analyst (6 Months FTC) - Sales Compensation and Hedging",
     "company": "convera",
     "ats": "greenhouse",
@@ -117600,7 +117600,7 @@
     "alerted": false
   },
   "greenhouse:convera:4782627101": {
-    "updated_at": "2026-07-09T21:02:37-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Head of Sales, NSW & Qld",
     "company": "convera",
     "ats": "greenhouse",
@@ -117752,7 +117752,7 @@
     "alerted": false
   },
   "greenhouse:convera:4766574101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Senior Software Engineer",
     "company": "convera",
     "ats": "greenhouse",
@@ -119984,7 +119984,7 @@
     "alerted": false
   },
   "greenhouse:convera:4691714101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Senior Foreign Exchange Dealer",
     "company": "convera",
     "ats": "greenhouse",
@@ -119992,7 +119992,7 @@
     "alerted": false
   },
   "greenhouse:convera:4603329101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Senior Product Manager with Convera USA LLC (Denver, CO)",
     "company": "convera",
     "ats": "greenhouse",
@@ -131408,8 +131408,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7859047": {
-    "updated_at": "2026-06-13T03:01:51-04:00",
-    "title": "Senior Corporate Counsel",
+    "updated_at": "2026-07-24T12:11:19-04:00",
+    "title": "Corporate Counsel",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -140424,7 +140424,7 @@
     "alerted": false
   },
   "greenhouse:convera:4851547101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Commercial Finance Manager - Channels and Partnerships",
     "company": "convera",
     "ats": "greenhouse",
@@ -142008,7 +142008,7 @@
     "alerted": true
   },
   "greenhouse:convera:4856899101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Commercial Finance Manager - Channels and Partnerships",
     "company": "convera",
     "ats": "greenhouse",
@@ -151096,7 +151096,7 @@
     "alerted": false
   },
   "greenhouse:convera:4861122101": {
-    "updated_at": "2026-07-23T18:40:25-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Accountant",
     "company": "convera",
     "ats": "greenhouse",
@@ -170904,8 +170904,8 @@
     "alerted": false
   },
   "greenhouse:yugabyte:4683728006": {
-    "updated_at": "2026-07-09T09:58:25-04:00",
-    "title": "Technical Support Engineer US",
+    "updated_at": "2026-07-24T12:41:12-04:00",
+    "title": "Technical Support Engineer",
     "company": "yugabyte",
     "ats": "greenhouse",
     "source_slug": "yugabyte",
@@ -172104,7 +172104,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8550097002": {
-    "updated_at": "2026-07-01T16:19:42-04:00",
+    "updated_at": "2026-07-24T12:46:33-04:00",
     "title": "Account Executive",
     "company": "lattice",
     "ats": "greenhouse",
@@ -174504,7 +174504,7 @@
     "alerted": false
   },
   "greenhouse:coursera:5999885004": {
-    "updated_at": "2026-07-23T12:35:19-04:00",
+    "updated_at": "2026-07-24T12:34:01-04:00",
     "title": "Chief of Staff, Data",
     "company": "coursera",
     "ats": "greenhouse",
@@ -177576,7 +177576,7 @@
     "alerted": false
   },
   "greenhouse:convera:4873400101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Head of Liquidity Management",
     "company": "convera",
     "ats": "greenhouse",
@@ -178384,7 +178384,7 @@
     "alerted": false
   },
   "greenhouse:convera:4873396101": {
-    "updated_at": "2026-07-10T04:16:08-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Head of Payment Network Development & Oversight",
     "company": "convera",
     "ats": "greenhouse",
@@ -181360,7 +181360,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8570083002": {
-    "updated_at": "2026-07-01T16:19:43-04:00",
+    "updated_at": "2026-07-24T12:46:33-04:00",
     "title": "GTM Engineer",
     "company": "lattice",
     "ats": "greenhouse",
@@ -182912,7 +182912,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5191636008": {
-    "updated_at": "2026-07-14T18:35:00-04:00",
+    "updated_at": "2026-07-24T12:50:48-04:00",
     "title": "Head of APAC Accounting",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -187832,7 +187832,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8568033002": {
-    "updated_at": "2026-07-24T10:07:37-04:00",
+    "updated_at": "2026-07-24T13:16:45-04:00",
     "title": "Sr. Manager/Director, Field Engineering - Telco",
     "company": "databricks",
     "ats": "greenhouse",
@@ -192744,7 +192744,7 @@
     "alerted": false
   },
   "greenhouse:convera:4889271101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Manager, Sales Development - Madrid",
     "company": "convera",
     "ats": "greenhouse",
@@ -193840,7 +193840,7 @@
     "alerted": false
   },
   "greenhouse:convera:4882434101": {
-    "updated_at": "2026-06-30T07:20:36-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Junior Accountant",
     "company": "convera",
     "ats": "greenhouse",
@@ -193880,7 +193880,7 @@
     "alerted": false
   },
   "greenhouse:convera:4862627101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Staff Technical Program Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -194232,7 +194232,7 @@
     "alerted": false
   },
   "greenhouse:convera:4890560101": {
-    "updated_at": "2026-06-29T18:26:16-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Sales Development Manager - Melbourne",
     "company": "convera",
     "ats": "greenhouse",
@@ -196864,7 +196864,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8581363002": {
-    "updated_at": "2026-07-08T18:22:35-04:00",
+    "updated_at": "2026-07-24T12:46:33-04:00",
     "title": "GTM Analytics Manager",
     "company": "lattice",
     "ats": "greenhouse",
@@ -198344,7 +198344,7 @@
     "alerted": false
   },
   "greenhouse:convera:4880934101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -198800,7 +198800,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8576037002": {
-    "updated_at": "2026-07-01T16:19:43-04:00",
+    "updated_at": "2026-07-24T12:46:33-04:00",
     "title": "Account Executive, Mid Market",
     "company": "lattice",
     "ats": "greenhouse",
@@ -203936,7 +203936,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7942501": {
-    "updated_at": "2026-07-15T13:13:40-04:00",
+    "updated_at": "2026-07-24T11:57:39-04:00",
     "title": "Senior Machine Learning Engineer",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -204120,8 +204120,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7960954": {
-    "updated_at": "2026-07-20T16:53:01-04:00",
-    "title": "Team Lead, Deal Desk- Platforms",
+    "updated_at": "2026-07-24T13:17:16-04:00",
+    "title": "Managing Commercial Counsel, Deal Desk - Platforms",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -204432,8 +204432,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7680591": {
-    "updated_at": "2026-07-20T16:56:11-04:00",
-    "title": "Team Lead, Deal Desk- Enterprise",
+    "updated_at": "2026-07-24T13:19:10-04:00",
+    "title": "Managing Commercial Counsel, Deal Desk - Enterprise",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -207568,7 +207568,7 @@
     "alerted": false
   },
   "greenhouse:convera:4895992101": {
-    "updated_at": "2026-06-30T00:27:55-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager - B2B (FX and Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -208640,7 +208640,7 @@
     "alerted": false
   },
   "greenhouse:convera:4896450101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -208648,7 +208648,7 @@
     "alerted": false
   },
   "greenhouse:convera:4766562101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Staff - Software Engineering",
     "company": "convera",
     "ats": "greenhouse",
@@ -208896,7 +208896,7 @@
     "alerted": false
   },
   "greenhouse:convera:4896293101": {
-    "updated_at": "2026-07-21T02:24:07-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager, Business Clients (FX & Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -211240,7 +211240,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8018436": {
-    "updated_at": "2026-07-22T14:30:08-04:00",
+    "updated_at": "2026-07-24T13:14:33-04:00",
     "title": "Software Engineer, Post-Silicon Testing",
     "company": "waymo",
     "ats": "greenhouse",
@@ -211936,7 +211936,7 @@
     "alerted": false
   },
   "greenhouse:convera:4896438101": {
-    "updated_at": "2026-06-22T02:57:05-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -213808,7 +213808,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899054101": {
-    "updated_at": "2026-06-25T08:49:07-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Compliance Operations Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -215776,7 +215776,7 @@
     "alerted": false
   },
   "greenhouse:convera:4884203101": {
-    "updated_at": "2026-06-24T00:58:58-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Senior Business Development Manager \u2013 Japan",
     "company": "convera",
     "ats": "greenhouse",
@@ -216304,7 +216304,7 @@
     "alerted": false
   },
   "greenhouse:convera:4901889101": {
-    "updated_at": "2026-06-25T08:44:41-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Associate Deal Desk Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -216312,7 +216312,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899046101": {
-    "updated_at": "2026-06-25T08:43:26-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Associate Deal Desk Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -216384,7 +216384,7 @@
     "alerted": false
   },
   "greenhouse:convera:4901867101": {
-    "updated_at": "2026-06-25T08:54:31-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Associate Deal Desk Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -217296,7 +217296,7 @@
     "alerted": false
   },
   "greenhouse:yugabyte:4682542006": {
-    "updated_at": "2026-06-24T15:37:38-04:00",
+    "updated_at": "2026-07-24T12:29:15-04:00",
     "title": "Senior Sales Engineer",
     "company": "yugabyte",
     "ats": "greenhouse",
@@ -218296,7 +218296,7 @@
     "alerted": false
   },
   "greenhouse:convera:4901915101": {
-    "updated_at": "2026-06-25T03:36:34-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -218312,7 +218312,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899016101": {
-    "updated_at": "2026-06-25T03:29:22-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -218328,7 +218328,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899097101": {
-    "updated_at": "2026-06-29T05:54:14-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Manager - Customer Support",
     "company": "convera",
     "ats": "greenhouse",
@@ -218552,7 +218552,7 @@
     "alerted": false
   },
   "greenhouse:convera:4901886101": {
-    "updated_at": "2026-07-02T07:13:44-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Associate Deal Desk Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -218576,7 +218576,7 @@
     "alerted": false
   },
   "greenhouse:convera:4897897101": {
-    "updated_at": "2026-06-25T08:38:35-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -221584,7 +221584,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:8025105": {
-    "updated_at": "2026-07-09T05:12:23-04:00",
+    "updated_at": "2026-07-24T13:01:37-04:00",
     "title": "Alliances & Partners Manager",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -221592,7 +221592,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:8025040": {
-    "updated_at": "2026-07-09T05:59:23-04:00",
+    "updated_at": "2026-07-24T13:01:36-04:00",
     "title": "Alliances & Partners Manager",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -222096,7 +222096,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7780165003": {
-    "updated_at": "2026-07-15T14:54:52-04:00",
+    "updated_at": "2026-07-24T12:56:39-04:00",
     "title": "SEC Reporting Director",
     "company": "sofi",
     "ats": "greenhouse",
@@ -223248,7 +223248,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8035679": {
-    "updated_at": "2026-07-02T20:07:38-04:00",
+    "updated_at": "2026-07-24T12:24:57-04:00",
     "title": "Senior Software Engineer, People Ops and AI Tools",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -229768,7 +229768,7 @@
     "alerted": false
   },
   "greenhouse:convera:4918024101": {
-    "updated_at": "2026-07-08T13:10:11-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Principal Software Engineer (REF# AT0630)",
     "company": "convera",
     "ats": "greenhouse",
@@ -230312,7 +230312,7 @@
     "alerted": false
   },
   "greenhouse:convera:4915021101": {
-    "updated_at": "2026-07-21T11:05:58-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Payments Support Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -230640,7 +230640,7 @@
     "alerted": false
   },
   "greenhouse:convera:4907669101": {
-    "updated_at": "2026-07-08T20:31:25-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Sales Support Coordinator - Hong Kong",
     "company": "convera",
     "ats": "greenhouse",
@@ -231072,7 +231072,7 @@
     "alerted": true
   },
   "greenhouse:convera:4912023101": {
-    "updated_at": "2026-07-23T11:07:33-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -232776,16 +232776,16 @@
     "alerted": true
   },
   "greenhouse:lyft:8620998002": {
-    "updated_at": "2026-07-24T11:10:46-04:00",
-    "title": "Senior Data Scientist, Algorithms, Forecasting and Realtime Optimization Platform",
+    "updated_at": "2026-07-24T13:16:11-04:00",
+    "title": "Senior Data Scientist, Algorithm Lyft Ads",
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
     "alerted": false
   },
   "greenhouse:lyft:8621789002": {
-    "updated_at": "2026-07-24T11:10:46-04:00",
-    "title": "Senior Data Scientist, Algorithms, Forecasting and Realtime Optimization Platform",
+    "updated_at": "2026-07-24T13:16:12-04:00",
+    "title": "Senior Data Scientist, Algorithms, Lyft Ads",
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
@@ -234264,7 +234264,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8623297002": {
-    "updated_at": "2026-07-07T17:39:44-04:00",
+    "updated_at": "2026-07-24T12:46:33-04:00",
     "title": "Engineering Manager, AI",
     "company": "lattice",
     "ats": "greenhouse",
@@ -234272,7 +234272,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8614333002": {
-    "updated_at": "2026-07-07T17:39:43-04:00",
+    "updated_at": "2026-07-24T12:46:33-04:00",
     "title": "Engineering Manager, AI",
     "company": "lattice",
     "ats": "greenhouse",
@@ -234792,7 +234792,7 @@
     "alerted": false
   },
   "greenhouse:convera:4389771101": {
-    "updated_at": "2026-07-08T03:29:56-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Senior Business Development Manager - Singapore",
     "company": "convera",
     "ats": "greenhouse",
@@ -235192,7 +235192,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8045914": {
-    "updated_at": "2026-07-08T08:58:31-04:00",
+    "updated_at": "2026-07-24T12:23:40-04:00",
     "title": "GRC Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -236864,7 +236864,7 @@
     "alerted": false
   },
   "greenhouse:convera:4906571101": {
-    "updated_at": "2026-07-23T01:59:38-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Sales Support Coordinator",
     "company": "convera",
     "ats": "greenhouse",
@@ -237064,7 +237064,7 @@
     "alerted": false
   },
   "greenhouse:convera:4898366101": {
-    "updated_at": "2026-07-10T06:27:54-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Care Associate (Italian speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -237088,7 +237088,7 @@
     "alerted": false
   },
   "greenhouse:convera:4898364101": {
-    "updated_at": "2026-07-10T05:16:56-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Compliance Operations \u2013 Sales Support Coordinator",
     "company": "convera",
     "ats": "greenhouse",
@@ -237096,7 +237096,7 @@
     "alerted": false
   },
   "greenhouse:convera:4898349101": {
-    "updated_at": "2026-07-10T05:13:53-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Compliance Operations \u2013 Sales Support Coordinator (Preferably French or German speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -237408,7 +237408,7 @@
     "alerted": false
   },
   "greenhouse:convera:4912273101": {
-    "updated_at": "2026-07-09T09:20:36-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "KYC Analyst (Banking & Counterparty Due Diligence)",
     "company": "convera",
     "ats": "greenhouse",
@@ -237424,7 +237424,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899881101": {
-    "updated_at": "2026-07-09T09:16:10-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "European Tax Manager (Direct Tax)",
     "company": "convera",
     "ats": "greenhouse",
@@ -237992,7 +237992,7 @@
     "alerted": false
   },
   "greenhouse:convera:4921951101": {
-    "updated_at": "2026-07-16T12:26:46-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Account Manager, B2B (FX & Payments) - Must be fluent in French",
     "company": "convera",
     "ats": "greenhouse",
@@ -239184,7 +239184,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913743101": {
-    "updated_at": "2026-07-10T06:49:58-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate (German Speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -239192,7 +239192,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913739101": {
-    "updated_at": "2026-07-10T06:45:50-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate (French speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -239368,7 +239368,7 @@
     "alerted": false
   },
   "greenhouse:convera:4922560101": {
-    "updated_at": "2026-07-10T07:46:43-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -239376,7 +239376,7 @@
     "alerted": false
   },
   "greenhouse:convera:4901295101": {
-    "updated_at": "2026-07-10T07:43:23-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Sales Support Assistant",
     "company": "convera",
     "ats": "greenhouse",
@@ -239392,7 +239392,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913749101": {
-    "updated_at": "2026-07-20T04:59:12-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -242176,7 +242176,7 @@
     "alerted": true
   },
   "greenhouse:formlabs:8060447": {
-    "updated_at": "2026-07-20T10:58:46-04:00",
+    "updated_at": "2026-07-24T12:40:37-04:00",
     "title": "Senior 3D Printing R&D Engineer",
     "company": "formlabs",
     "ats": "greenhouse",
@@ -242192,7 +242192,7 @@
     "alerted": false
   },
   "greenhouse:formlabs:8060443": {
-    "updated_at": "2026-07-20T10:58:46-04:00",
+    "updated_at": "2026-07-24T12:40:05-04:00",
     "title": "R&D Engineer",
     "company": "formlabs",
     "ats": "greenhouse",
@@ -242408,7 +242408,7 @@
     "alerted": true
   },
   "greenhouse:formlabs:8060448": {
-    "updated_at": "2026-07-20T10:58:46-04:00",
+    "updated_at": "2026-07-24T12:40:52-04:00",
     "title": "Senior Product Design Engineer",
     "company": "formlabs",
     "ats": "greenhouse",
@@ -242936,7 +242936,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8621017002": {
-    "updated_at": "2026-07-14T14:23:48-04:00",
+    "updated_at": "2026-07-24T12:10:49-04:00",
     "title": "Senior Platform Engineer, Workday Extend & Integrations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -243288,7 +243288,7 @@
     "alerted": false
   },
   "greenhouse:convera:4914639101": {
-    "updated_at": "2026-07-14T03:11:42-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Compliance Operations Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-24T11:49:20-04:00",
+    "updated_at": "2026-07-24T13:19:22-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-24T11:49:19-04:00",
+    "updated_at": "2026-07-24T13:19:20-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-24T11:49:22-04:00",
+    "updated_at": "2026-07-24T13:19:23-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245872,7 +245872,7 @@
     "alerted": false
   },
   "greenhouse:convera:4924913101": {
-    "updated_at": "2026-07-15T08:17:55-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate (Fixed term)",
     "company": "convera",
     "ats": "greenhouse",
@@ -247632,7 +247632,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913778101": {
-    "updated_at": "2026-07-21T04:01:02-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -248816,8 +248816,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8637143002": {
-    "updated_at": "2026-07-17T16:19:40-04:00",
-    "title": "Staff Software Engineer, Foundation Model API",
+    "updated_at": "2026-07-24T12:50:30-04:00",
+    "title": "Staff Software Engineer, Foundation Model Inference",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -249696,7 +249696,7 @@
     "alerted": false
   },
   "greenhouse:convera:4930370101": {
-    "updated_at": "2026-07-21T02:24:07-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager, Business Clients (FX & Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -249784,7 +249784,7 @@
     "alerted": false
   },
   "greenhouse:convera:4923229101": {
-    "updated_at": "2026-07-17T04:16:34-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -249800,7 +249800,7 @@
     "alerted": false
   },
   "greenhouse:convera:4906569101": {
-    "updated_at": "2026-07-17T03:15:25-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Sales Support Coordinator",
     "company": "convera",
     "ats": "greenhouse",
@@ -250000,8 +250000,8 @@
     "alerted": false
   },
   "greenhouse:fivetran:7792160003": {
-    "updated_at": "2026-07-21T11:58:53-04:00",
-    "title": "Sales Development Representative - Texas",
+    "updated_at": "2026-07-24T12:14:00-04:00",
+    "title": "Sales Development Representative",
     "company": "fivetran",
     "ats": "greenhouse",
     "source_slug": "fivetran",
@@ -250288,7 +250288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8052685": {
-    "updated_at": "2026-07-17T11:30:08-04:00",
+    "updated_at": "2026-07-24T12:03:12-04:00",
     "title": "Senior Software Engineer- Agentic Platform & Integrations (Full Stack)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -250320,7 +250320,7 @@
     "alerted": false
   },
   "greenhouse:convera:4905949101": {
-    "updated_at": "2026-07-17T11:23:48-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Employee Engagement Lead Specialist - Work From Home United Kingdom (remote)",
     "company": "convera",
     "ats": "greenhouse",
@@ -251856,7 +251856,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8636182002": {
-    "updated_at": "2026-07-21T18:29:17-04:00",
+    "updated_at": "2026-07-24T12:46:33-04:00",
     "title": "Lead Compensation Business Partner",
     "company": "lattice",
     "ats": "greenhouse",
@@ -252200,7 +252200,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913751101": {
-    "updated_at": "2026-07-20T07:27:35-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate (Polish speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -253760,7 +253760,7 @@
     "alerted": true
   },
   "greenhouse:convera:4912030101": {
-    "updated_at": "2026-07-23T18:51:52-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -254136,7 +254136,7 @@
     "alerted": false
   },
   "greenhouse:convera:4931800101": {
-    "updated_at": "2026-07-21T02:29:14-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager, Business Clients (FX & Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -255096,7 +255096,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8075908": {
-    "updated_at": "2026-07-21T18:24:27-04:00",
+    "updated_at": "2026-07-24T12:11:59-04:00",
     "title": "Senior Performance Marketing Manager, GTM Experimentation",
     "company": "gusto",
     "ats": "greenhouse",
@@ -255712,7 +255712,7 @@
     "alerted": false
   },
   "greenhouse:convera:4926334101": {
-    "updated_at": "2026-07-21T15:15:37-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Portfolio Manager, Business Clients (FX & Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -256456,7 +256456,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899541101": {
-    "updated_at": "2026-07-23T01:22:21-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Supervisor (Operations)",
     "company": "convera",
     "ats": "greenhouse",
@@ -256464,7 +256464,7 @@
     "alerted": false
   },
   "greenhouse:convera:4898999101": {
-    "updated_at": "2026-07-22T02:55:25-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Customer Support Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -256792,7 +256792,7 @@
     "alerted": false
   },
   "greenhouse:convera:4922724101": {
-    "updated_at": "2026-07-23T01:31:18-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Payment Processor (Operations)",
     "company": "convera",
     "ats": "greenhouse",
@@ -256816,7 +256816,7 @@
     "alerted": false
   },
   "greenhouse:convera:4898971101": {
-    "updated_at": "2026-07-22T05:55:14-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Supervisor - Customer Support",
     "company": "convera",
     "ats": "greenhouse",
@@ -256840,7 +256840,7 @@
     "alerted": false
   },
   "greenhouse:convera:4926988101": {
-    "updated_at": "2026-07-22T05:45:16-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Payment Processing Assistant",
     "company": "convera",
     "ats": "greenhouse",
@@ -257088,7 +257088,7 @@
     "alerted": false
   },
   "greenhouse:convera:4798646101": {
-    "updated_at": "2026-07-22T09:50:52-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Senior Business Development Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -257208,8 +257208,8 @@
     "alerted": false
   },
   "greenhouse:datadog:8052114": {
-    "updated_at": "2026-07-22T14:42:50-04:00",
-    "title": "Enterprise Customer Success Manager - Chicago/Denver",
+    "updated_at": "2026-07-24T12:25:16-04:00",
+    "title": "Enterprise Customer Success Manager - Chicago",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -258840,7 +258840,7 @@
     "alerted": true
   },
   "greenhouse:convera:4898337101": {
-    "updated_at": "2026-07-23T03:18:36-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Manager, Quality Assurance",
     "company": "convera",
     "ats": "greenhouse",
@@ -259040,7 +259040,7 @@
     "alerted": false
   },
   "greenhouse:convera:4936091101": {
-    "updated_at": "2026-07-23T05:34:02-04:00",
+    "updated_at": "2026-07-24T12:15:25-04:00",
     "title": "Compliance Operations \u2013 Sales Support Coordinator (French and German speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -259128,7 +259128,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7980239": {
-    "updated_at": "2026-07-23T16:18:16-04:00",
+    "updated_at": "2026-07-24T12:04:29-04:00",
     "title": "Marketing Programs Specialist, Symmetry",
     "company": "gusto",
     "ats": "greenhouse",
@@ -261032,7 +261032,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8080182": {
-    "updated_at": "2026-07-24T03:06:04-04:00",
+    "updated_at": "2026-07-24T12:18:18-04:00",
     "title": "Senior Growth Engagement Manager, International",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -261040,7 +261040,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8080181": {
-    "updated_at": "2026-07-24T03:06:04-04:00",
+    "updated_at": "2026-07-24T12:18:18-04:00",
     "title": "Senior Growth Engagement Manager, International",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -261048,7 +261048,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8080179": {
-    "updated_at": "2026-07-24T03:06:04-04:00",
+    "updated_at": "2026-07-24T12:18:18-04:00",
     "title": "Senior Growth Engagement Manager, International",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -261536,7 +261536,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7815294003": {
-    "updated_at": "2026-07-24T11:25:58-04:00",
+    "updated_at": "2026-07-24T13:13:13-04:00",
     "title": "Manager, Business Development (SaaS Sales)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -261592,7 +261592,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8081997": {
-    "updated_at": "2026-07-24T11:00:55-04:00",
+    "updated_at": "2026-07-24T12:11:54-04:00",
     "title": "Supply Operations Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261600,8 +261600,8 @@
     "alerted": false
   },
   "greenhouse:waymo:8077778": {
-    "updated_at": "2026-07-24T10:57:20-04:00",
-    "title": "East Regional Fleet Readiness Manager",
+    "updated_at": "2026-07-24T12:13:52-04:00",
+    "title": "Regional Fleet Readiness Manager - EAST",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -261656,7 +261656,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8648083002": {
-    "updated_at": "2026-07-24T10:39:54-04:00",
+    "updated_at": "2026-07-24T12:45:17-04:00",
     "title": "Operations Lead",
     "company": "lyft",
     "ats": "greenhouse",
@@ -261693,6 +261693,294 @@
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
+    "alerted": true
+  },
+  "greenhouse:rubrik:8053682": {
+    "updated_at": "2026-07-24T13:21:28-04:00",
+    "title": "Sr Product Marketing Manager, Cloud Data Protection",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:squarespace:8079462": {
+    "updated_at": "2026-07-24T13:20:12-04:00",
+    "title": "Director, Strategic Procurement",
+    "company": "squarespace",
+    "ats": "greenhouse",
+    "source_slug": "squarespace",
+    "alerted": false
+  },
+  "greenhouse:verkada:5194598007": {
+    "updated_at": "2026-07-24T13:18:48-04:00",
+    "title": "Backend Engineer - Connectivity",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4699712006": {
+    "updated_at": "2026-07-24T13:17:48-04:00",
+    "title": "Engineering Manager, Infrastructure Engineering",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4699742006": {
+    "updated_at": "2026-07-24T13:16:58-04:00",
+    "title": "Senior Supply Chain Analytics Engineer",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:waymo:8078276": {
+    "updated_at": "2026-07-24T13:09:30-04:00",
+    "title": "Full Vehicle Platform Architect",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:waymo:8080824": {
+    "updated_at": "2026-07-24T13:09:05-04:00",
+    "title": "Senior Occupant Package and Human Factors Engineer",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:amplitude:8649332002": {
+    "updated_at": "2026-07-24T13:06:49-04:00",
+    "title": "Executive Assistant",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
+    "alerted": false
+  },
+  "greenhouse:stripe:8083685": {
+    "updated_at": "2026-07-24T13:03:49-04:00",
+    "title": "Sales Development Representative (Hebrew Fluency)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8078793": {
+    "updated_at": "2026-07-24T13:02:59-04:00",
+    "title": "Senior Commercial Strategy & Transformation Manager",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:coursera:6106455004": {
+    "updated_at": "2026-07-24T13:01:11-04:00",
+    "title": "Lead, Retention Strategy",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
+    "alerted": false
+  },
+  "greenhouse:waymo:8083286": {
+    "updated_at": "2026-07-24T13:00:30-04:00",
+    "title": "Senior Corporate Accountant - Assets & Inventory Operations",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:databricks:8642617002": {
+    "updated_at": "2026-07-24T13:00:13-04:00",
+    "title": "Sr. Specialist Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8649185002": {
+    "updated_at": "2026-07-24T12:58:53-04:00",
+    "title": "Global Supply Manager, Raw Materials (Raptor)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8649279002": {
+    "updated_at": "2026-07-24T12:50:38-04:00",
+    "title": "Staff Software Engineer- Foundation Model Inference",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8643675002": {
+    "updated_at": "2026-07-24T12:47:01-04:00",
+    "title": "Sr. Supply Chain Planner (Launch Vehicle Electronic Systems)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5176201008": {
+    "updated_at": "2026-07-24T12:46:17-04:00",
+    "title": "Brand Marketing Lead, Enterprise",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:brex:8649258002": {
+    "updated_at": "2026-07-24T12:45:25-04:00",
+    "title": "Bill Pay Counsel",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8649253002": {
+    "updated_at": "2026-07-24T12:45:24-04:00",
+    "title": "Bill Pay Counsel",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8649243002": {
+    "updated_at": "2026-07-24T12:45:18-04:00",
+    "title": "Bill Pay Counsel",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8649220002": {
+    "updated_at": "2026-07-24T12:45:18-04:00",
+    "title": "Bill Pay Counsel",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8642850002": {
+    "updated_at": "2026-07-24T12:38:17-04:00",
+    "title": "Senior Manager, Internal Audit - Audit Automation & Technology Risk",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8647939002": {
+    "updated_at": "2026-07-24T12:37:53-04:00",
+    "title": "Electrical Engineer - Energy & Generation",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8646188002": {
+    "updated_at": "2026-07-24T12:37:27-04:00",
+    "title": "Telecommunications Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:amplitude:8649234002": {
+    "updated_at": "2026-07-24T12:33:52-04:00",
+    "title": "Sr. Field Marketing Manager",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
+    "alerted": false
+  },
+  "greenhouse:waymo:8082652": {
+    "updated_at": "2026-07-24T12:32:25-04:00",
+    "title": "Component Engineer",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8083758": {
+    "updated_at": "2026-07-24T12:30:40-04:00",
+    "title": "Senior Strategic Program Lead",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:instacart:8082703": {
+    "updated_at": "2026-07-24T12:21:37-04:00",
+    "title": "BGC Compliance Specialist",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7811667003": {
+    "updated_at": "2026-07-24T12:20:12-04:00",
+    "title": "Software Engineer - Advanced Reporting",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8083716": {
+    "updated_at": "2026-07-24T12:20:11-04:00",
+    "title": "Senior Sales Operations Lead",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7814524003": {
+    "updated_at": "2026-07-24T12:13:01-04:00",
+    "title": "Senior Customer Success Manager, Strategic (East)",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8083523": {
+    "updated_at": "2026-07-24T12:09:34-04:00",
+    "title": "Enterprise Technical Solutions Engineer",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:cribl:5839618004": {
+    "updated_at": "2026-07-24T11:59:52-04:00",
+    "title": "Business Systems Analyst, Enterprise Applications",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
+    "alerted": false
+  },
+  "greenhouse:braze:8083535": {
+    "updated_at": "2026-07-24T11:45:40-04:00",
+    "title": "Applications and Integrations Lead",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8083557": {
+    "updated_at": "2026-07-24T11:45:39-04:00",
+    "title": "Applications and Integrations Lead",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:samsara:8063736": {
+    "updated_at": "2026-07-24T13:23:29-04:00",
+    "title": "Senior Software Engineer II",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
     "alerted": true
   }
 }
