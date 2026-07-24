@@ -4952,7 +4952,7 @@
     "alerted": true
   },
   "greenhouse:datadog:7449072": {
-    "updated_at": "2026-07-21T13:48:24-04:00",
+    "updated_at": "2026-07-23T23:01:23-04:00",
     "title": "Technical Support Engineer 2, Premier - San Francisco",
     "company": "datadog",
     "ats": "greenhouse",
@@ -46288,7 +46288,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6470774": {
-    "updated_at": "2026-07-22T13:25:41-04:00",
+    "updated_at": "2026-07-23T23:22:40-04:00",
     "title": "Sales Development Representative",
     "company": "stripe",
     "ats": "greenhouse",
@@ -146816,7 +146816,7 @@
     "alerted": false
   },
   "greenhouse:fastly:7858457": {
-    "updated_at": "2026-07-22T16:08:32-04:00",
+    "updated_at": "2026-07-23T23:16:23-04:00",
     "title": "Performance Center - Program Lead",
     "company": "fastly",
     "ats": "greenhouse",
@@ -161512,8 +161512,8 @@
     "alerted": false
   },
   "greenhouse:asana:7920814": {
-    "updated_at": "2026-07-21T22:25:03-04:00",
-    "title": "Principal Product Marketing Manager, Asana Service Management",
+    "updated_at": "2026-07-23T22:36:30-04:00",
+    "title": "Product Marketing Director, Asana Service Management",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -161528,8 +161528,8 @@
     "alerted": false
   },
   "greenhouse:asana:7920824": {
-    "updated_at": "2026-07-21T22:25:03-04:00",
-    "title": "Principal Product Marketing Manager, Command by Asana",
+    "updated_at": "2026-07-23T22:34:25-04:00",
+    "title": "Product Marketing Director, Command by Asana",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -187832,7 +187832,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8568033002": {
-    "updated_at": "2026-07-18T00:47:57-04:00",
+    "updated_at": "2026-07-23T22:14:28-04:00",
     "title": "Sr. Manager, Field Engineering - Lakebase",
     "company": "databricks",
     "ats": "greenhouse",
@@ -192432,7 +192432,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8581417002": {
-    "updated_at": "2026-07-20T18:01:24-04:00",
+    "updated_at": "2026-07-23T23:11:30-04:00",
     "title": "Hardware Reliability Specialist (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -212344,8 +212344,8 @@
     "alerted": false
   },
   "greenhouse:hometap:5169548007": {
-    "updated_at": "2026-06-22T10:19:45-04:00",
-    "title": "National Title and Escrow Processor",
+    "updated_at": "2026-07-23T22:40:44-04:00",
+    "title": "Administrative Coordinator - Title",
     "company": "hometap",
     "ats": "greenhouse",
     "source_slug": "hometap",
@@ -224976,8 +224976,8 @@
     "alerted": false
   },
   "greenhouse:asana:8038670": {
-    "updated_at": "2026-07-21T22:25:03-04:00",
-    "title": "Principal Product Marketing Manager, Asana Service Management",
+    "updated_at": "2026-07-23T22:36:59-04:00",
+    "title": "Product Marketing Director, Asana Service Management",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -225568,8 +225568,8 @@
     "alerted": false
   },
   "greenhouse:asana:8038684": {
-    "updated_at": "2026-07-21T22:25:03-04:00",
-    "title": "Principal Product Marketing Manager, Command by Asana",
+    "updated_at": "2026-07-23T22:34:51-04:00",
+    "title": "Product Marketing Director, Command by Asana",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -225584,8 +225584,8 @@
     "alerted": false
   },
   "greenhouse:asana:8038678": {
-    "updated_at": "2026-07-21T22:25:03-04:00",
-    "title": "Principal Product Marketing Manager, Asana Service Management",
+    "updated_at": "2026-07-23T22:36:47-04:00",
+    "title": "Product Marketing Director, Asana Service Management",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -239024,24 +239024,24 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8040010": {
-    "updated_at": "2026-07-17T16:53:41-04:00",
-    "title": "Senior Account Executive",
+    "updated_at": "2026-07-23T22:28:28-04:00",
+    "title": "Senior Account Executive - ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
     "alerted": false
   },
   "greenhouse:mixpanel:8039991": {
-    "updated_at": "2026-07-17T16:53:41-04:00",
-    "title": "Senior Solutions Engineer",
+    "updated_at": "2026-07-23T22:29:43-04:00",
+    "title": "Senior Solutions Engineer - ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
     "alerted": false
   },
   "greenhouse:mixpanel:8039885": {
-    "updated_at": "2026-07-23T02:19:01-04:00",
-    "title": "Senior Partner Sales Manager",
+    "updated_at": "2026-07-23T22:24:27-04:00",
+    "title": "Senior Partner Sales Manager - ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-23T20:49:22-04:00",
+    "updated_at": "2026-07-24T00:06:06-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-23T20:49:20-04:00",
+    "updated_at": "2026-07-24T00:06:05-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-23T20:49:23-04:00",
+    "updated_at": "2026-07-24T00:06:08-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244704,8 +244704,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8052394": {
-    "updated_at": "2026-07-17T16:52:32-04:00",
-    "title": "Supply Chain Program Manager, Product Workstream Lead",
+    "updated_at": "2026-07-23T21:56:29-04:00",
+    "title": "Technical Program Manager, Supply Chain Product Workstream Lead",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -247736,8 +247736,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8068669": {
-    "updated_at": "2026-07-22T13:25:41-04:00",
-    "title": "Payment Performance Specialist",
+    "updated_at": "2026-07-23T22:57:13-04:00",
+    "title": "Payment Performance Strategist (Greater China)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -253424,7 +253424,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8075709": {
-    "updated_at": "2026-07-20T16:54:30-04:00",
+    "updated_at": "2026-07-23T23:18:21-04:00",
     "title": "Product Designer II, Metrics",
     "company": "datadog",
     "ats": "greenhouse",
@@ -258888,8 +258888,8 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080828": {
-    "updated_at": "2026-07-23T02:13:14-04:00",
-    "title": "APAC Partnerships Manager",
+    "updated_at": "2026-07-23T22:25:14-04:00",
+    "title": "Senior Partner Sales Manager - Asia and India",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
@@ -258944,8 +258944,8 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080835": {
-    "updated_at": "2026-07-23T02:04:29-04:00",
-    "title": "APAC Partnerships Manager, Japan and Korea",
+    "updated_at": "2026-07-23T22:25:52-04:00",
+    "title": "Senior Partner Sales Manager - Japan and Korea",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
@@ -259088,7 +259088,7 @@
     "alerted": false
   },
   "greenhouse:okta:8080906": {
-    "updated_at": "2026-07-23T04:49:02-04:00",
+    "updated_at": "2026-07-23T22:17:12-04:00",
     "title": "Director, Sales Development, Japan",
     "company": "okta",
     "ats": "greenhouse",
@@ -259640,7 +259640,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8079636": {
-    "updated_at": "2026-07-23T15:28:15-04:00",
+    "updated_at": "2026-07-23T21:46:00-04:00",
     "title": "Agentic AI Engineer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -260448,8 +260448,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8611108002": {
-    "updated_at": "2026-07-23T16:58:52-04:00",
-    "title": "Forward Deployed Engineer - Remote",
+    "updated_at": "2026-07-23T22:08:42-04:00",
+    "title": "Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -260925,6 +260925,102 @@
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
+    "alerted": true
+  },
+  "greenhouse:reddit:8082867": {
+    "updated_at": "2026-07-23T22:37:44-04:00",
+    "title": "Senior Frontend Engineer, Ads Creative",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:asana:8052206": {
+    "updated_at": "2026-07-23T22:34:43-04:00",
+    "title": "Senior Engineering Manager, Agent Context",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:flexport:8082850": {
+    "updated_at": "2026-07-23T21:49:30-04:00",
+    "title": "Site Leader",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:carta:7772786003": {
+    "updated_at": "2026-07-23T21:36:54-04:00",
+    "title": "Senior Software Engineer II",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:carta:7814824003": {
+    "updated_at": "2026-07-23T21:36:52-04:00",
+    "title": "Staff Software Engineer",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8648206002": {
+    "updated_at": "2026-07-23T21:25:12-04:00",
+    "title": "Sr. Mission Integration Engineer, AI (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:twitch:8643186002": {
+    "updated_at": "2026-07-23T21:06:52-04:00",
+    "title": "Business Development Manager",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:spacex:8648213002": {
+    "updated_at": "2026-07-23T21:00:59-04:00",
+    "title": "Full Stack Software Engineer (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8648134002": {
+    "updated_at": "2026-07-23T20:59:48-04:00",
+    "title": "Physical Security Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8082787": {
+    "updated_at": "2026-07-23T20:48:30-04:00",
+    "title": "Staff Software Engineer, Core Reliability",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:twitch:8648201002": {
+    "updated_at": "2026-07-23T20:40:53-04:00",
+    "title": "Localization Program Manager",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:asana:7917226": {
+    "updated_at": "2026-07-23T23:33:00-04:00",
+    "title": "Senior Technical Program Manager",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
     "alerted": true
   }
 }
