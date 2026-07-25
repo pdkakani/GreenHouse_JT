@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-25T14:34:17-04:00",
+    "updated_at": "2026-07-25T15:50:01-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-25T14:34:16-04:00",
+    "updated_at": "2026-07-25T15:49:59-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-25T14:34:19-04:00",
+    "updated_at": "2026-07-25T15:50:03-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -262949,6 +262949,22 @@
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
+    "alerted": true
+  },
+  "greenhouse:stripe:8083464": {
+    "updated_at": "2026-07-25T05:13:12-04:00",
+    "title": "Investment Lead",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8080734": {
+    "updated_at": "2026-07-25T15:44:03-04:00",
+    "title": "Engineering Manager, CRM Systems",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
     "alerted": true
   }
 }
