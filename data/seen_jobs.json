@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-25T04:34:30-04:00",
+    "updated_at": "2026-07-25T06:19:59-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-25T04:34:29-04:00",
+    "updated_at": "2026-07-25T06:19:58-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-25T04:34:31-04:00",
+    "updated_at": "2026-07-25T06:20:00-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -247904,7 +247904,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8060152": {
-    "updated_at": "2026-07-22T13:25:41-04:00",
+    "updated_at": "2026-07-25T04:58:23-04:00",
     "title": "Science Lead, Intercept",
     "company": "stripe",
     "ats": "greenhouse",
@@ -262926,5 +262926,13 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:twilio:8084593": {
+    "updated_at": "2026-07-24T22:59:01-04:00",
+    "title": "Senior Counsel, Commercial",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
   }
 }
