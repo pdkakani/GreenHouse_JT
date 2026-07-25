@@ -238904,7 +238904,7 @@
     "alerted": false
   },
   "greenhouse:braze:8052816": {
-    "updated_at": "2026-07-10T00:19:19-04:00",
+    "updated_at": "2026-07-25T07:06:58-04:00",
     "title": "Executive Assistant",
     "company": "braze",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-25T06:19:59-04:00",
+    "updated_at": "2026-07-25T07:34:31-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-25T06:19:58-04:00",
+    "updated_at": "2026-07-25T07:34:29-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-25T06:20:00-04:00",
+    "updated_at": "2026-07-25T07:34:33-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -262640,7 +262640,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7960476": {
-    "updated_at": "2026-07-24T18:02:54-04:00",
+    "updated_at": "2026-07-25T07:11:55-04:00",
     "title": "Sr Architect - Emerging Technologies (Fraud Detection and Governance)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -262934,5 +262934,21 @@
     "ats": "greenhouse",
     "source_slug": "twilio",
     "alerted": false
+  },
+  "greenhouse:waymo:7901943": {
+    "updated_at": "2026-07-24T23:04:25-04:00",
+    "title": "Sr. Staff TLM, Fleet Orchestration Core",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:twilio:8039186": {
+    "updated_at": "2026-07-25T07:07:24-04:00",
+    "title": "Senior Principal Field Architect - AI Agents",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": true
   }
 }
