@@ -2024,7 +2024,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8099751002": {
-    "updated_at": "2026-07-24T01:54:54-04:00",
+    "updated_at": "2026-07-24T22:31:16-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -21760,7 +21760,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8503985002": {
-    "updated_at": "2026-07-19T03:12:19-04:00",
+    "updated_at": "2026-07-24T22:10:41-04:00",
     "title": "Analytics Lead, Market Insights",
     "company": "lyft",
     "ats": "greenhouse",
@@ -44648,7 +44648,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7774312": {
-    "updated_at": "2026-07-22T13:25:41-04:00",
+    "updated_at": "2026-07-24T21:53:04-04:00",
     "title": "Crypto Product Accounting",
     "company": "stripe",
     "ats": "greenhouse",
@@ -181888,7 +181888,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8574100002": {
-    "updated_at": "2026-07-20T18:01:01-04:00",
+    "updated_at": "2026-07-24T21:28:57-04:00",
     "title": "Financial Analyst",
     "company": "spacex",
     "ats": "greenhouse",
@@ -186048,7 +186048,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7979245": {
-    "updated_at": "2026-07-24T10:24:30-04:00",
+    "updated_at": "2026-07-24T22:06:35-04:00",
     "title": "Staff Solutions Architect, Contract LifeCycle Management",
     "company": "twilio",
     "ats": "greenhouse",
@@ -189696,7 +189696,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7979240": {
-    "updated_at": "2026-07-24T10:24:30-04:00",
+    "updated_at": "2026-07-24T22:08:02-04:00",
     "title": "Staff Solutions Architect, Opportunity LifeCycle Management",
     "company": "twilio",
     "ats": "greenhouse",
@@ -207776,7 +207776,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8008538": {
-    "updated_at": "2026-07-24T10:24:31-04:00",
+    "updated_at": "2026-07-24T22:05:18-04:00",
     "title": "Staff, Analytics Engineer, GTM Data Science & Analytics",
     "company": "twilio",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-24T21:05:14-04:00",
+    "updated_at": "2026-07-25T00:19:36-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-24T21:05:12-04:00",
+    "updated_at": "2026-07-25T00:19:35-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-24T21:05:16-04:00",
+    "updated_at": "2026-07-25T00:19:38-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -262838,5 +262838,93 @@
     "ats": "greenhouse",
     "source_slug": "stripe",
     "alerted": false
+  },
+  "greenhouse:upstart:8072962": {
+    "updated_at": "2026-07-24T22:13:01-04:00",
+    "title": "Compliance & Controls Manager, Growth",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:twilio:8081781": {
+    "updated_at": "2026-07-24T22:11:59-04:00",
+    "title": "Senior Counsel, Commercial",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:spacex:8650242002": {
+    "updated_at": "2026-07-24T21:32:37-04:00",
+    "title": "Security Engineer (Detection Engineering)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8650241002": {
+    "updated_at": "2026-07-24T21:29:23-04:00",
+    "title": "Security Analyst (Threat Detection)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8650239002": {
+    "updated_at": "2026-07-24T21:29:22-04:00",
+    "title": "Security Analyst (SOC)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8650240002": {
+    "updated_at": "2026-07-24T21:29:21-04:00",
+    "title": "Security Analyst (Blue Team)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:4989155008": {
+    "updated_at": "2026-07-24T21:13:10-04:00",
+    "title": "Senior Manager, Technical Accounting - M&A and Investments",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8649964002": {
+    "updated_at": "2026-07-24T20:58:02-04:00",
+    "title": "Accounts Payable Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8076097": {
+    "updated_at": "2026-07-24T20:15:25-04:00",
+    "title": "Technical Accounting Manager, New Product",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8083051": {
+    "updated_at": "2026-07-24T20:13:11-04:00",
+    "title": "Staff Applied Data Scientist, Pricing",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:spacex:8649509002": {
+    "updated_at": "2026-07-24T22:49:13-04:00",
+    "title": "Sr. Full Stack Engineer, Employee Experience",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
