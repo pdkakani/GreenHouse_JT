@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-26T17:34:07-04:00",
+    "updated_at": "2026-07-26T18:33:25-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-26T17:34:05-04:00",
+    "updated_at": "2026-07-26T18:33:24-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-26T17:34:09-04:00",
+    "updated_at": "2026-07-26T18:33:27-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -263021,6 +263021,14 @@
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
+    "alerted": true
+  },
+  "greenhouse:spacex:8650986002": {
+    "updated_at": "2026-07-26T18:27:58-04:00",
+    "title": "Sr. Full Stack Engineer (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
