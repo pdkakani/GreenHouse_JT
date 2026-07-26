@@ -225576,8 +225576,8 @@
     "alerted": false
   },
   "greenhouse:asana:8038681": {
-    "updated_at": "2026-07-21T22:25:03-04:00",
-    "title": "Principal Product Marketing Manager, Command by Asana",
+    "updated_at": "2026-07-25T23:35:12-04:00",
+    "title": "Product Marketing Director, Command by Asana",
     "company": "asana",
     "ats": "greenhouse",
     "source_slug": "asana",
@@ -238904,7 +238904,7 @@
     "alerted": false
   },
   "greenhouse:braze:8052816": {
-    "updated_at": "2026-07-25T07:06:58-04:00",
+    "updated_at": "2026-07-25T23:19:45-04:00",
     "title": "Executive Assistant",
     "company": "braze",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-25T21:04:56-04:00",
+    "updated_at": "2026-07-26T00:33:46-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-25T21:04:55-04:00",
+    "updated_at": "2026-07-26T00:33:44-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-25T21:04:57-04:00",
+    "updated_at": "2026-07-26T00:33:47-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -262966,5 +262966,13 @@
     "ats": "greenhouse",
     "source_slug": "humaninterest",
     "alerted": true
+  },
+  "greenhouse:celonis:7800476003": {
+    "updated_at": "2026-07-25T08:04:52-04:00",
+    "title": "Principal Enterprise Architect",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
   }
 }
