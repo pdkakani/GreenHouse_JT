@@ -57832,7 +57832,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7683572003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:03-04:00",
     "title": "Senior Applied AI Solutions Consultant (Public Sector)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -57840,7 +57840,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7683575003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:04-04:00",
     "title": "Senior Management & Technology Consultant - AI & Process Analytics (Public Sector)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -57848,7 +57848,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7683570003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:02-04:00",
     "title": "Senior Applied AI Solutions Architect - Process Intelligence (Public Sector)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -57856,7 +57856,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7681606003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:03-04:00",
     "title": "Senior/Lead Value Engineer - Public Sector & Defense",
     "company": "celonis",
     "ats": "greenhouse",
@@ -202984,7 +202984,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773716003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:05-04:00",
     "title": "Senior Process Intelligence and Digital Transformation Consultant - AI & Process Analytics (Public Sector)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -206584,7 +206584,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773309003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:23-04:00",
     "title": "Value Engineer (Supply Chain) - Iberia & Latam",
     "company": "celonis",
     "ats": "greenhouse",
@@ -206608,7 +206608,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7775887003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:22-04:00",
     "title": "Strategic Value & Process Optimisation Consultant - Supply Chain",
     "company": "celonis",
     "ats": "greenhouse",
@@ -206616,7 +206616,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7775886003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:21-04:00",
     "title": "Management & Technology Consultant - Supply Chain",
     "company": "celonis",
     "ats": "greenhouse",
@@ -211528,7 +211528,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7779591003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:22-04:00",
     "title": "Value Consultant - Data Analytics & Supply Chain Transformation",
     "company": "celonis",
     "ats": "greenhouse",
@@ -211536,7 +211536,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773313003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-26T14:29:35-04:00",
     "title": "Manager, Value Engineering",
     "company": "celonis",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-26T13:04:17-04:00",
+    "updated_at": "2026-07-26T14:18:48-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-26T13:04:15-04:00",
+    "updated_at": "2026-07-26T14:18:46-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-26T13:04:18-04:00",
+    "updated_at": "2026-07-26T14:18:50-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -262986,6 +262986,14 @@
   "greenhouse:coreweave:4699572006": {
     "updated_at": "2026-07-25T22:20:54-04:00",
     "title": "Global Director, Field Process & Automation",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4699648006": {
+    "updated_at": "2026-07-25T22:21:32-04:00",
+    "title": "Director, Deal Strategy & Execution",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
