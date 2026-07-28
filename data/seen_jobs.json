@@ -4576,7 +4576,7 @@
     "alerted": true
   },
   "greenhouse:amplitude:8493911002": {
-    "updated_at": "2026-04-13T18:24:26-04:00",
+    "updated_at": "2026-07-28T19:18:30-04:00",
     "title": "Software Engineering Manager",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -6272,7 +6272,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:6648548003": {
-    "updated_at": "2026-07-28T17:01:30-04:00",
+    "updated_at": "2026-07-28T19:16:15-04:00",
     "title": "Senior Product Manager, Observability & Monitoring",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6280,7 +6280,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:6645141003": {
-    "updated_at": "2026-07-28T17:01:30-04:00",
+    "updated_at": "2026-07-28T19:16:15-04:00",
     "title": "Senior Product Manager, Observability & Monitoring",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -135672,7 +135672,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4690516005": {
-    "updated_at": "2026-07-28T18:29:55-04:00",
+    "updated_at": "2026-07-28T19:07:43-04:00",
     "title": "Principal Product Manager, Savings (R13997)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -162216,7 +162216,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4645260005": {
-    "updated_at": "2026-07-28T06:57:01-04:00",
+    "updated_at": "2026-07-28T19:24:59-04:00",
     "title": "Staff Software Engineer (R13719)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -180800,7 +180800,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4700838005": {
-    "updated_at": "2026-07-02T12:33:29-04:00",
+    "updated_at": "2026-07-28T19:14:56-04:00",
     "title": "Principal Product Manager (R14043)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -212976,7 +212976,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4649210005": {
-    "updated_at": "2026-07-01T01:09:50-04:00",
+    "updated_at": "2026-07-28T18:47:04-04:00",
     "title": "Senior Manager, Information Security Architecture & Engineering (R13753)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -215384,7 +215384,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4708644005": {
-    "updated_at": "2026-07-28T18:38:43-04:00",
+    "updated_at": "2026-07-28T19:02:22-04:00",
     "title": "Enterprise Service Desk Agent (R14080)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -221952,7 +221952,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4709629005": {
-    "updated_at": "2026-07-01T19:23:12-04:00",
+    "updated_at": "2026-07-28T19:11:38-04:00",
     "title": "Sr. Manager, Capital Markets & Treasury (R14076)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -225896,7 +225896,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8039191": {
-    "updated_at": "2026-07-23T11:23:09-04:00",
+    "updated_at": "2026-07-28T18:51:32-04:00",
     "title": "Software Engineer, Planner",
     "company": "waymo",
     "ats": "greenhouse",
@@ -236320,7 +236320,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4713271005": {
-    "updated_at": "2026-07-08T17:33:24-04:00",
+    "updated_at": "2026-07-28T18:52:29-04:00",
     "title": "Sr. IT Asset Data Engineer (R14103)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -236776,7 +236776,7 @@
     "alerted": true
   },
   "greenhouse:oportun:4712944005": {
-    "updated_at": "2026-07-09T17:12:44-04:00",
+    "updated_at": "2026-07-28T19:05:06-04:00",
     "title": "Senior Staff Software Engineer (R14082)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -243448,7 +243448,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-28T18:34:40-04:00",
+    "updated_at": "2026-07-28T19:34:23-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-28T18:34:39-04:00",
+    "updated_at": "2026-07-28T19:34:21-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-28T18:34:41-04:00",
+    "updated_at": "2026-07-28T19:34:24-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -255520,7 +255520,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4716780005": {
-    "updated_at": "2026-07-28T18:39:45-04:00",
+    "updated_at": "2026-07-28T19:13:23-04:00",
     "title": "Supervisor Repossession/Remarketing (R14121)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -262608,7 +262608,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:8075088": {
-    "updated_at": "2026-07-24T18:08:22-04:00",
+    "updated_at": "2026-07-28T18:53:05-04:00",
     "title": "Field Marketing Manager",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -262616,7 +262616,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:8075899": {
-    "updated_at": "2026-07-24T18:05:54-04:00",
+    "updated_at": "2026-07-28T19:09:08-04:00",
     "title": "Responsable du marketing terrain",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -263504,7 +263504,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:8075912": {
-    "updated_at": "2026-07-27T10:53:25-04:00",
+    "updated_at": "2026-07-28T18:53:54-04:00",
     "title": "Field Marketing Manager",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -265056,7 +265056,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8090190": {
-    "updated_at": "2026-07-27T20:27:44-04:00",
+    "updated_at": "2026-07-28T19:18:45-04:00",
     "title": "Financial Operations Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -266032,8 +266032,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8639995002": {
-    "updated_at": "2026-07-28T13:20:48-04:00",
-    "title": "Partner Sales Director, Manufacturing & Energy",
+    "updated_at": "2026-07-28T18:48:04-04:00",
+    "title": "Partner Sales Director, Digital Native",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -266232,7 +266232,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8076964": {
-    "updated_at": "2026-07-28T18:40:30-04:00",
+    "updated_at": "2026-07-28T18:42:55-04:00",
     "title": "Safety Engineer - Risk Management",
     "company": "waymo",
     "ats": "greenhouse",
@@ -266984,40 +266984,40 @@
     "alerted": true
   },
   "greenhouse:brex:8654461002": {
-    "updated_at": "2026-07-28T18:16:28-04:00",
-    "title": "Senior Manager, GTM AI Engineer \u2014 Revenue Enablement",
+    "updated_at": "2026-07-28T19:30:06-04:00",
+    "title": "GTM AI Revenue Enablement, Senior Manager",
     "company": "brex",
     "ats": "greenhouse",
     "source_slug": "brex",
     "alerted": false
   },
   "greenhouse:brex:8654459002": {
-    "updated_at": "2026-07-28T18:16:26-04:00",
-    "title": "Senior Manager, GTM AI Engineer \u2014 Revenue Enablement",
+    "updated_at": "2026-07-28T19:29:54-04:00",
+    "title": "GTM AI Revenue Enablement, Senior Manager",
     "company": "brex",
     "ats": "greenhouse",
     "source_slug": "brex",
     "alerted": false
   },
   "greenhouse:brex:8654453002": {
-    "updated_at": "2026-07-28T18:13:48-04:00",
-    "title": "Senior Manager, GTM AI Engineer \u2014 Revenue Enablement",
+    "updated_at": "2026-07-28T19:29:34-04:00",
+    "title": "GTM AI Revenue Enablement, Senior Manager",
     "company": "brex",
     "ats": "greenhouse",
     "source_slug": "brex",
     "alerted": false
   },
   "greenhouse:brex:8654424002": {
-    "updated_at": "2026-07-28T18:13:46-04:00",
-    "title": "Senior Manager, GTM AI Engineer \u2014 Revenue Enablement",
+    "updated_at": "2026-07-28T19:29:06-04:00",
+    "title": "GTM AI Revenue Enablement, Senior Manager",
     "company": "brex",
     "ats": "greenhouse",
     "source_slug": "brex",
     "alerted": false
   },
   "greenhouse:brex:8654358002": {
-    "updated_at": "2026-07-28T18:13:44-04:00",
-    "title": "Senior Manager, GTM AI Engineer \u2014 Revenue Enablement",
+    "updated_at": "2026-07-28T19:28:52-04:00",
+    "title": "GTM AI Revenue Enablement, Senior Manager",
     "company": "brex",
     "ats": "greenhouse",
     "source_slug": "brex",
@@ -267086,5 +267086,181 @@
     "ats": "greenhouse",
     "source_slug": "toast",
     "alerted": false
+  },
+  "greenhouse:spacex:8652304002": {
+    "updated_at": "2026-07-28T19:21:51-04:00",
+    "title": "Operations Engineer, Applied AI (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652301002": {
+    "updated_at": "2026-07-28T19:21:50-04:00",
+    "title": "Operations Engineer, Applied AI (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652299002": {
+    "updated_at": "2026-07-28T19:21:49-04:00",
+    "title": "Operations Engineer, Applied AI (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652296002": {
+    "updated_at": "2026-07-28T19:21:48-04:00",
+    "title": "Operations Engineer, Applied AI (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652236002": {
+    "updated_at": "2026-07-28T19:21:47-04:00",
+    "title": "Operations Engineer, Applied AI (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652235002": {
+    "updated_at": "2026-07-28T19:21:46-04:00",
+    "title": "Operations Engineer, Applied AI (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652229002": {
+    "updated_at": "2026-07-28T19:21:45-04:00",
+    "title": "Operations Engineer, Applied AI (Application Software)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:instacart:8093206": {
+    "updated_at": "2026-07-28T19:21:08-04:00",
+    "title": "Marketing Manager II, Canada",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:amplitude:8654510002": {
+    "updated_at": "2026-07-28T19:17:42-04:00",
+    "title": "Engineering Manager, Data Connections",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
+    "alerted": false
+  },
+  "greenhouse:databricks:8639997002": {
+    "updated_at": "2026-07-28T19:13:13-04:00",
+    "title": "Partner Sales Director, Manufacturing & Energy",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7819883003": {
+    "updated_at": "2026-07-28T19:08:02-04:00",
+    "title": "Senior Revenue Accountant",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:coursera:6123433004": {
+    "updated_at": "2026-07-28T19:06:08-04:00",
+    "title": "Senior Reporting Analyst",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
+    "alerted": false
+  },
+  "greenhouse:okta:8092855": {
+    "updated_at": "2026-07-28T19:02:17-04:00",
+    "title": "Digital Marketing Scrum Lead",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:adyen:8003083": {
+    "updated_at": "2026-07-28T18:50:49-04:00",
+    "title": "Staff Java Engineer - Merchant Fraud Prevention",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:spacex:8654443002": {
+    "updated_at": "2026-07-28T18:46:33-04:00",
+    "title": "Raptor Manufacturing Specialist (Maintenance)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:gusto:8075935": {
+    "updated_at": "2026-07-28T18:45:59-04:00",
+    "title": "Retirement Sales Account Executive",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652841002": {
+    "updated_at": "2026-07-28T18:43:36-04:00",
+    "title": "Reliability Engineer, Satellite Systems (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8638943002": {
+    "updated_at": "2026-07-28T18:37:44-04:00",
+    "title": "Sr. Partner Sales Director",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652202002": {
+    "updated_at": "2026-07-28T18:34:42-04:00",
+    "title": "Environmental Health & Safety Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8652223002": {
+    "updated_at": "2026-07-28T18:34:21-04:00",
+    "title": "Environmental Health & Safety Technician",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8533808002": {
+    "updated_at": "2026-07-28T19:34:47-04:00",
+    "title": "Materials Technician, Glue Factory (Starship) - 2nd Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:marqeta:8077189": {
+    "updated_at": "2026-07-28T19:23:28-04:00",
+    "title": "Senior Production Support Engineer",
+    "company": "marqeta",
+    "ats": "greenhouse",
+    "source_slug": "marqeta",
+    "alerted": true
   }
 }
