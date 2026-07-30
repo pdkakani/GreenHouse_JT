@@ -3104,7 +3104,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8368209002": {
-    "updated_at": "2026-07-28T07:20:10-04:00",
+    "updated_at": "2026-07-30T05:33:11-04:00",
     "title": "Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -34856,7 +34856,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7742662": {
-    "updated_at": "2026-07-29T05:08:46-04:00",
+    "updated_at": "2026-07-30T06:02:38-04:00",
     "title": "Program Manager II, Sales and AI Programs",
     "company": "samsara",
     "ats": "greenhouse",
@@ -45064,7 +45064,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7597613": {
-    "updated_at": "2026-07-29T23:40:05-04:00",
+    "updated_at": "2026-07-30T05:28:03-04:00",
     "title": "Finance and Strategy Specialist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -58920,7 +58920,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4655907006": {
-    "updated_at": "2026-07-23T10:16:19-04:00",
+    "updated_at": "2026-07-30T06:21:42-04:00",
     "title": "Security Operations Team Lead",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -91528,7 +91528,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7676432003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-07-30T06:08:24-04:00",
     "title": "Engineering Manager - Orchestration and Automation",
     "company": "celonis",
     "ats": "greenhouse",
@@ -91648,8 +91648,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7694626003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
-    "title": "Principal Client Value Partner",
+    "updated_at": "2026-07-30T05:15:00-04:00",
+    "title": "Client Value Partner",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -93640,8 +93640,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7693390003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
-    "title": "Principal Client Value Partner",
+    "updated_at": "2026-07-30T05:14:47-04:00",
+    "title": "Client Value Partner",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -99976,7 +99976,7 @@
     "alerted": false
   },
   "greenhouse:datadog:6652564": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
+    "updated_at": "2026-07-30T04:53:28-04:00",
     "title": "AI Research Scientist - Datadog AI Research (DAIR)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -127104,7 +127104,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7369650": {
-    "updated_at": "2026-07-28T14:48:24-04:00",
+    "updated_at": "2026-07-30T06:11:18-04:00",
     "title": "Business Analyst - Payments Pricing",
     "company": "adyen",
     "ats": "greenhouse",
@@ -134344,7 +134344,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7861422": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-07-30T06:18:12-04:00",
     "title": "Product Designer, Global",
     "company": "stripe",
     "ats": "greenhouse",
@@ -141608,7 +141608,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:7882595": {
-    "updated_at": "2026-05-14T08:38:58-04:00",
+    "updated_at": "2026-07-30T04:56:04-04:00",
     "title": "Accountant",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -147736,7 +147736,7 @@
     "alerted": false
   },
   "greenhouse:hightouch:5990367004": {
-    "updated_at": "2026-07-17T09:02:47-04:00",
+    "updated_at": "2026-07-30T06:05:57-04:00",
     "title": "Solutions Engineer, Mid-Market, EMEA",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -174768,8 +174768,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7749204003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
-    "title": "Principal Client Value Partner - Retail",
+    "updated_at": "2026-07-30T05:15:10-04:00",
+    "title": "Client Value Partner - Retail",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -174784,8 +174784,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7749202003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
-    "title": "Principal Client Value Partner - Retail",
+    "updated_at": "2026-07-30T05:14:34-04:00",
+    "title": "Client Value Partner - Retail",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -179592,7 +179592,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7966680": {
-    "updated_at": "2026-05-29T09:49:42-04:00",
+    "updated_at": "2026-07-30T05:02:39-04:00",
     "title": "Senior Machine Learning Scientist (Experiences)",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -182944,7 +182944,7 @@
     "alerted": false
   },
   "greenhouse:melio:7748138003": {
-    "updated_at": "2026-06-28T07:59:31-04:00",
+    "updated_at": "2026-07-30T06:14:30-04:00",
     "title": "Data Scientist",
     "company": "melio",
     "ats": "greenhouse",
@@ -191344,7 +191344,7 @@
     "alerted": false
   },
   "greenhouse:melio:7765818003": {
-    "updated_at": "2026-06-28T07:59:32-04:00",
+    "updated_at": "2026-07-30T06:14:31-04:00",
     "title": "Senior Data Scientist",
     "company": "melio",
     "ats": "greenhouse",
@@ -198688,7 +198688,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7068985": {
-    "updated_at": "2026-07-02T17:16:36-04:00",
+    "updated_at": "2026-07-30T04:53:01-04:00",
     "title": "Senior Data Platform Engineer - OLAP",
     "company": "adyen",
     "ats": "greenhouse",
@@ -199240,7 +199240,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7997198": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
+    "updated_at": "2026-07-30T05:01:50-04:00",
     "title": "Partner Solutions Architect (Pan-EMEA GSI)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -215480,7 +215480,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8012365": {
-    "updated_at": "2026-06-23T18:01:29-04:00",
+    "updated_at": "2026-07-30T06:17:31-04:00",
     "title": "Sr. Manager, Support Readiness & Quality Insights",
     "company": "samsara",
     "ats": "greenhouse",
@@ -234848,8 +234848,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7635246003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
-    "title": "Lead Applied Value Engineer - UKI | Healthcare & Lifesciences",
+    "updated_at": "2026-07-30T06:39:09-04:00",
+    "title": "Senior Applied Value Engineer - UKI | HLS",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -241032,8 +241032,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:8053094": {
-    "updated_at": "2026-07-15T10:59:51-04:00",
-    "title": "Procurement Specialist (Temp position)",
+    "updated_at": "2026-07-30T05:34:47-04:00",
+    "title": "Procurement Specialist - Temporary position",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -243616,7 +243616,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8059793": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-07-30T05:07:29-04:00",
     "title": "Demand Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-30T04:34:12-04:00",
+    "updated_at": "2026-07-30T06:48:48-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-30T04:34:15-04:00",
+    "updated_at": "2026-07-30T06:48:51-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -252128,8 +252128,8 @@
     "alerted": false
   },
   "greenhouse:elastic:8046246": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
-    "title": "Revenue Operations Specialist",
+    "updated_at": "2026-07-30T06:20:05-04:00",
+    "title": "Sales Strategy & Operations Specialist",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -254216,8 +254216,8 @@
     "alerted": false
   },
   "greenhouse:elastic:8053074": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
-    "title": "Analyst, Sales Strategy & Operations - Public Sector",
+    "updated_at": "2026-07-30T06:31:27-04:00",
+    "title": "Senior Analyst, Sales Strategy & Operations - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -259712,7 +259712,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:8081490": {
-    "updated_at": "2026-07-23T13:37:16-04:00",
+    "updated_at": "2026-07-30T05:09:05-04:00",
     "title": "Data Analyst",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -261248,7 +261248,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7815160003": {
-    "updated_at": "2026-07-29T14:43:14-04:00",
+    "updated_at": "2026-07-30T06:48:53-04:00",
     "title": "Technical Support Engineer - AI Cybersecurity Platform",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -264040,8 +264040,8 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7817147003": {
-    "updated_at": "2026-07-27T12:04:57-04:00",
-    "title": "Senior Human Resources Business Partner, EMEA",
+    "updated_at": "2026-07-30T06:16:19-04:00",
+    "title": "Senior HR Business Partner (GTM), EMEA",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
@@ -264168,7 +264168,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817240003": {
-    "updated_at": "2026-07-27T11:03:39-04:00",
+    "updated_at": "2026-07-30T06:56:27-04:00",
     "title": "Client Value Partner",
     "company": "celonis",
     "ats": "greenhouse",
@@ -267704,7 +267704,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8090745": {
-    "updated_at": "2026-07-29T11:36:04-04:00",
+    "updated_at": "2026-07-30T06:20:14-04:00",
     "title": "Regional Vice President, Enterprise, Acquisition",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -269821,6 +269821,134 @@
     "company": "rubrik",
     "ats": "greenhouse",
     "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:asana:8092044": {
+    "updated_at": "2026-07-30T06:34:21-04:00",
+    "title": "Analytical Engineer",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8074154": {
+    "updated_at": "2026-07-30T06:22:04-04:00",
+    "title": "Sales Engineer, Netherlands",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8095997": {
+    "updated_at": "2026-07-30T05:56:16-04:00",
+    "title": "Field Sales Representative - Rotterdam/The Hague",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:samsara:8095996": {
+    "updated_at": "2026-07-30T05:48:09-04:00",
+    "title": "Entry Level Tech Sales - Benelux Market (Dutch speaking)",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:flexport:8095780": {
+    "updated_at": "2026-07-30T05:26:22-04:00",
+    "title": "Air Operations Associate",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:ripple:8009442": {
+    "updated_at": "2026-07-30T05:18:50-04:00",
+    "title": "Professional Services Consultant (German-Speaking)",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:iterable:8092997": {
+    "updated_at": "2026-07-30T05:13:25-04:00",
+    "title": "Senior Machine Learning Engineer",
+    "company": "iterable",
+    "ats": "greenhouse",
+    "source_slug": "iterable",
+    "alerted": false
+  },
+  "greenhouse:datadog:8094179": {
+    "updated_at": "2026-07-30T05:08:44-04:00",
+    "title": "Partner Solutions Architect (EMEA)",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:datadog:8095963": {
+    "updated_at": "2026-07-30T05:01:43-04:00",
+    "title": "Partner Solutions Architect (Pan-EMEA GSI)",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:iterable:8061348": {
+    "updated_at": "2026-07-30T04:59:32-04:00",
+    "title": "Senior Product Manager, Data Products",
+    "company": "iterable",
+    "ats": "greenhouse",
+    "source_slug": "iterable",
+    "alerted": false
+  },
+  "greenhouse:adyen:8095959": {
+    "updated_at": "2026-07-30T04:59:25-04:00",
+    "title": "Senior software engineer - Data Platform Engineer (OLAP)",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:celonis:7807025003": {
+    "updated_at": "2026-07-30T04:53:58-04:00",
+    "title": "Intern Competitive Value Engineering & Management Consulting",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:databricks:8637736002": {
+    "updated_at": "2026-07-30T04:51:02-04:00",
+    "title": "Deployment Strategist",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:elastic:8091978": {
+    "updated_at": "2026-07-30T04:41:51-04:00",
+    "title": "Inside Account Executive - UKI (English speaking)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8656202002": {
+    "updated_at": "2026-07-30T04:34:49-04:00",
+    "title": "Forward Deployed Engineering - Senior Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8091920": {
+    "updated_at": "2026-07-30T04:34:09-04:00",
+    "title": "Partner Readiness Architect",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
     "alerted": false
   }
 }
