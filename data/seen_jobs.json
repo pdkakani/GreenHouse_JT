@@ -5616,7 +5616,7 @@
     "alerted": true
   },
   "greenhouse:okta:7442186": {
-    "updated_at": "2026-07-13T16:17:02-04:00",
+    "updated_at": "2026-07-30T14:31:38-04:00",
     "title": "Enterprise Architect, Finance & Legal Systems",
     "company": "okta",
     "ats": "greenhouse",
@@ -5832,7 +5832,7 @@
     "alerted": true
   },
   "greenhouse:okta:7658254": {
-    "updated_at": "2026-07-13T16:17:04-04:00",
+    "updated_at": "2026-07-30T14:37:45-04:00",
     "title": "Staff Site Reliability Engineer - Splunk",
     "company": "okta",
     "ats": "greenhouse",
@@ -5888,7 +5888,7 @@
     "alerted": true
   },
   "greenhouse:okta:7727835": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T14:46:41-04:00",
     "title": "Solutions Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -5936,7 +5936,7 @@
     "alerted": true
   },
   "greenhouse:okta:6907820": {
-    "updated_at": "2026-07-13T16:17:01-04:00",
+    "updated_at": "2026-07-30T15:34:57-04:00",
     "title": "Senior Solutions Engineer, Strategic (Chicago)",
     "company": "okta",
     "ats": "greenhouse",
@@ -6024,7 +6024,7 @@
     "alerted": true
   },
   "greenhouse:okta:7695691": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T14:31:43-04:00",
     "title": "Staff Full Stack Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -6072,7 +6072,7 @@
     "alerted": true
   },
   "greenhouse:okta:7707836": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T14:36:15-04:00",
     "title": "Staff Site Reliability Engineer - Observability GCP",
     "company": "okta",
     "ats": "greenhouse",
@@ -19584,7 +19584,7 @@
     "alerted": true
   },
   "greenhouse:asana:7607510": {
-    "updated_at": "2026-07-27T18:47:08-04:00",
+    "updated_at": "2026-07-30T15:43:39-04:00",
     "title": "Senior Solutions Architect",
     "company": "asana",
     "ats": "greenhouse",
@@ -21176,8 +21176,8 @@
     "alerted": true
   },
   "greenhouse:databricks:6049142002": {
-    "updated_at": "2026-07-29T15:33:21-04:00",
-    "title": "Solutions Architect, Retail",
+    "updated_at": "2026-07-30T15:41:53-04:00",
+    "title": "Solutions Architect - Retail, Travel & Hospitality",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -22160,7 +22160,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8488399002": {
-    "updated_at": "2026-07-29T13:50:41-04:00",
+    "updated_at": "2026-07-30T14:34:05-04:00",
     "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
     "company": "databricks",
     "ats": "greenhouse",
@@ -45264,7 +45264,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7589400": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-07-30T14:12:25-04:00",
     "title": "Indirect Tax Advisory Consultant",
     "company": "stripe",
     "ats": "greenhouse",
@@ -45320,7 +45320,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7678541": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-07-30T14:13:30-04:00",
     "title": "Internal Audit - Treasury",
     "company": "stripe",
     "ats": "greenhouse",
@@ -51832,7 +51832,7 @@
     "alerted": false
   },
   "greenhouse:okta:7821930": {
-    "updated_at": "2026-07-13T16:17:06-04:00",
+    "updated_at": "2026-07-30T15:39:55-04:00",
     "title": "Staff Software Engineer, End User Protection (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -57448,7 +57448,7 @@
     "alerted": false
   },
   "greenhouse:okta:7789100": {
-    "updated_at": "2026-07-13T16:17:06-04:00",
+    "updated_at": "2026-07-30T14:12:33-04:00",
     "title": "Enterprise Account Executive (Alabama, Mississippi)",
     "company": "okta",
     "ats": "greenhouse",
@@ -58416,7 +58416,7 @@
     "alerted": false
   },
   "greenhouse:okta:7768480": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T15:44:41-04:00",
     "title": "Senior Solutions Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -58736,7 +58736,7 @@
     "alerted": false
   },
   "greenhouse:okta:7685798": {
-    "updated_at": "2026-07-24T03:28:02-04:00",
+    "updated_at": "2026-07-30T15:46:16-04:00",
     "title": "Senior Technical Writer",
     "company": "okta",
     "ats": "greenhouse",
@@ -67448,7 +67448,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4684631005": {
-    "updated_at": "2026-07-04T03:51:33-04:00",
+    "updated_at": "2026-07-30T14:45:44-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R13972)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -68664,7 +68664,7 @@
     "alerted": false
   },
   "greenhouse:okta:7821640": {
-    "updated_at": "2026-07-14T10:31:09-04:00",
+    "updated_at": "2026-07-30T14:15:55-04:00",
     "title": "Brand Designer, Social Media",
     "company": "okta",
     "ats": "greenhouse",
@@ -70224,7 +70224,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4655717005": {
-    "updated_at": "2026-07-23T20:31:09-04:00",
+    "updated_at": "2026-07-30T14:31:06-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R13825)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -84032,7 +84032,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7551946003": {
-    "updated_at": "2026-07-27T14:16:14-04:00",
+    "updated_at": "2026-07-30T15:01:30-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -96656,7 +96656,7 @@
     "alerted": false
   },
   "greenhouse:okta:7779196": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T14:25:08-04:00",
     "title": "Corporate Counsel, IP",
     "company": "okta",
     "ats": "greenhouse",
@@ -96664,7 +96664,7 @@
     "alerted": false
   },
   "greenhouse:okta:7779195": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T14:25:07-04:00",
     "title": "Corporate Counsel, IP",
     "company": "okta",
     "ats": "greenhouse",
@@ -96672,7 +96672,7 @@
     "alerted": false
   },
   "greenhouse:okta:7779191": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T14:25:07-04:00",
     "title": "Corporate Counsel, IP",
     "company": "okta",
     "ats": "greenhouse",
@@ -96680,7 +96680,7 @@
     "alerted": false
   },
   "greenhouse:okta:7695786": {
-    "updated_at": "2026-07-13T16:17:05-04:00",
+    "updated_at": "2026-07-30T14:25:06-04:00",
     "title": "Corporate Counsel, IP",
     "company": "okta",
     "ats": "greenhouse",
@@ -103224,7 +103224,7 @@
     "alerted": false
   },
   "greenhouse:okta:7555117": {
-    "updated_at": "2026-07-13T16:17:03-04:00",
+    "updated_at": "2026-07-30T14:29:25-04:00",
     "title": "Enterprise Account Executive, Brazil",
     "company": "okta",
     "ats": "greenhouse",
@@ -103344,7 +103344,7 @@
     "alerted": false
   },
   "greenhouse:okta:7771673": {
-    "updated_at": "2026-07-14T11:47:38-04:00",
+    "updated_at": "2026-07-30T15:47:06-04:00",
     "title": "Software Architect, Lifecycle Management",
     "company": "okta",
     "ats": "greenhouse",
@@ -111176,7 +111176,7 @@
     "alerted": false
   },
   "greenhouse:okta:7544341": {
-    "updated_at": "2026-07-13T16:31:04-04:00",
+    "updated_at": "2026-07-30T14:43:46-04:00",
     "title": "Key Account Executive, Auth0",
     "company": "okta",
     "ats": "greenhouse",
@@ -111568,7 +111568,7 @@
     "alerted": false
   },
   "greenhouse:okta:7588683": {
-    "updated_at": "2026-07-13T16:17:04-04:00",
+    "updated_at": "2026-07-30T15:30:00-04:00",
     "title": "Sr. Commercial Account Executive, North LATAM",
     "company": "okta",
     "ats": "greenhouse",
@@ -111648,7 +111648,7 @@
     "alerted": false
   },
   "greenhouse:okta:7559020": {
-    "updated_at": "2026-07-13T16:17:03-04:00",
+    "updated_at": "2026-07-30T14:36:37-04:00",
     "title": "Staff Product Marketing Manager, Security",
     "company": "okta",
     "ats": "greenhouse",
@@ -111736,7 +111736,7 @@
     "alerted": false
   },
   "greenhouse:okta:7599312": {
-    "updated_at": "2026-07-13T16:17:04-04:00",
+    "updated_at": "2026-07-30T15:47:55-04:00",
     "title": "Senior Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -111864,7 +111864,7 @@
     "alerted": false
   },
   "greenhouse:okta:7660357": {
-    "updated_at": "2026-07-13T16:17:04-04:00",
+    "updated_at": "2026-07-30T14:14:18-04:00",
     "title": "Vice President of Enterprise Sales, East",
     "company": "okta",
     "ats": "greenhouse",
@@ -131600,7 +131600,7 @@
     "alerted": false
   },
   "greenhouse:okta:7839840": {
-    "updated_at": "2026-07-13T16:17:07-04:00",
+    "updated_at": "2026-07-30T15:39:45-04:00",
     "title": "Staff Product Designer",
     "company": "okta",
     "ats": "greenhouse",
@@ -133088,7 +133088,7 @@
     "alerted": false
   },
   "greenhouse:okta:6923203": {
-    "updated_at": "2026-07-22T12:40:37-04:00",
+    "updated_at": "2026-07-30T15:42:39-04:00",
     "title": "Staff Product Designer \u2014 AX & Growth (DLG)",
     "company": "okta",
     "ats": "greenhouse",
@@ -134432,7 +134432,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7864993": {
-    "updated_at": "2026-07-05T09:13:48-04:00",
+    "updated_at": "2026-07-30T15:25:47-04:00",
     "title": "Senior Machine Learning Scientist",
     "company": "adyen",
     "ats": "greenhouse",
@@ -134944,7 +134944,7 @@
     "alerted": false
   },
   "greenhouse:okta:7862418": {
-    "updated_at": "2026-07-13T16:17:07-04:00",
+    "updated_at": "2026-07-30T14:41:23-04:00",
     "title": "GTM Process & Productivity Tools Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -138272,7 +138272,7 @@
     "alerted": false
   },
   "greenhouse:okta:7607557": {
-    "updated_at": "2026-07-13T16:17:04-04:00",
+    "updated_at": "2026-07-30T14:12:25-04:00",
     "title": "Senior Solutions Engineer (North East)",
     "company": "okta",
     "ats": "greenhouse",
@@ -144232,7 +144232,7 @@
     "alerted": false
   },
   "greenhouse:okta:7895353": {
-    "updated_at": "2026-07-13T16:17:07-04:00",
+    "updated_at": "2026-07-30T15:42:35-04:00",
     "title": "Staff Software Engineer, Core Service Interfaces (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -144672,7 +144672,7 @@
     "alerted": false
   },
   "greenhouse:okta:7617976": {
-    "updated_at": "2026-07-13T16:17:04-04:00",
+    "updated_at": "2026-07-30T14:46:28-04:00",
     "title": "Senior Database Reliability Engineer (DBRE)",
     "company": "okta",
     "ats": "greenhouse",
@@ -145648,7 +145648,7 @@
     "alerted": false
   },
   "greenhouse:okta:7783603": {
-    "updated_at": "2026-07-13T16:17:06-04:00",
+    "updated_at": "2026-07-30T15:48:33-04:00",
     "title": "Engineering Architect  - DX/AX/UX",
     "company": "okta",
     "ats": "greenhouse",
@@ -150456,7 +150456,7 @@
     "alerted": false
   },
   "greenhouse:okta:7897125": {
-    "updated_at": "2026-07-13T16:17:07-04:00",
+    "updated_at": "2026-07-30T15:40:38-04:00",
     "title": "Senior Solutions Engineer, Auth0",
     "company": "okta",
     "ats": "greenhouse",
@@ -153064,7 +153064,7 @@
     "alerted": false
   },
   "greenhouse:okta:7909360": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-30T14:15:25-04:00",
     "title": "Vice President, Engineering - Authentication",
     "company": "okta",
     "ats": "greenhouse",
@@ -155272,7 +155272,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8535311002": {
-    "updated_at": "2026-07-24T19:29:00-04:00",
+    "updated_at": "2026-07-30T15:19:47-04:00",
     "title": "Senior Customer Enablement Program Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -155480,7 +155480,7 @@
     "alerted": false
   },
   "greenhouse:okta:7918102": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-30T14:16:22-04:00",
     "title": "Vice President, Global Field Operations",
     "company": "okta",
     "ats": "greenhouse",
@@ -159568,7 +159568,7 @@
     "alerted": false
   },
   "greenhouse:okta:7839824": {
-    "updated_at": "2026-07-13T16:17:06-04:00",
+    "updated_at": "2026-07-30T14:15:16-04:00",
     "title": "Product Design Architect",
     "company": "okta",
     "ats": "greenhouse",
@@ -160320,7 +160320,7 @@
     "alerted": false
   },
   "greenhouse:okta:7929542": {
-    "updated_at": "2026-07-15T07:19:32-04:00",
+    "updated_at": "2026-07-30T15:30:07-04:00",
     "title": "Staff Fullstack Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -160544,7 +160544,7 @@
     "alerted": false
   },
   "greenhouse:okta:7872569": {
-    "updated_at": "2026-07-13T16:17:07-04:00",
+    "updated_at": "2026-07-30T14:43:26-04:00",
     "title": "Senior Software Engineer, AI Authentication (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -163752,7 +163752,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7309137": {
-    "updated_at": "2026-06-30T10:28:17-04:00",
+    "updated_at": "2026-07-30T15:25:37-04:00",
     "title": "Senior Software Engineer, GraphQL",
     "company": "reddit",
     "ats": "greenhouse",
@@ -168480,7 +168480,7 @@
     "alerted": false
   },
   "greenhouse:hightouch:6000330004": {
-    "updated_at": "2026-06-16T17:07:05-04:00",
+    "updated_at": "2026-07-30T15:07:52-04:00",
     "title": "Technical Account Manager, Enterprise (East)",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -171168,7 +171168,7 @@
     "alerted": false
   },
   "greenhouse:okta:7927435": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-30T14:34:47-04:00",
     "title": "Staff Product Designer - Enterprise Access",
     "company": "okta",
     "ats": "greenhouse",
@@ -177208,7 +177208,7 @@
     "alerted": false
   },
   "greenhouse:okta:7961356": {
-    "updated_at": "2026-07-13T16:17:09-04:00",
+    "updated_at": "2026-07-30T15:04:29-04:00",
     "title": "Senior Forward Deployed Engineer - Okta for AI Agents",
     "company": "okta",
     "ats": "greenhouse",
@@ -177664,7 +177664,7 @@
     "alerted": false
   },
   "greenhouse:okta:7927644": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-30T14:11:00-04:00",
     "title": "Digital Solutions Manager (Recruiting Tech & Learning Platforms)",
     "company": "okta",
     "ats": "greenhouse",
@@ -179120,7 +179120,7 @@
     "alerted": false
   },
   "greenhouse:okta:7839826": {
-    "updated_at": "2026-07-29T09:22:34-04:00",
+    "updated_at": "2026-07-30T15:48:09-04:00",
     "title": "Staff SRE for K8s Platform Team (AWS, Kubernetes, Platform Creation, Helm, Karpenter, Istio)",
     "company": "okta",
     "ats": "greenhouse",
@@ -180064,7 +180064,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6009496004": {
-    "updated_at": "2026-07-07T13:35:31-04:00",
+    "updated_at": "2026-07-30T15:21:08-04:00",
     "title": "Research Scientist - RL Training",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -183488,7 +183488,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4701626005": {
-    "updated_at": "2026-07-04T03:51:45-04:00",
+    "updated_at": "2026-07-30T14:45:45-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14045)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -185992,7 +185992,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7960873": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-07-30T15:33:05-04:00",
     "title": "EMEA Deal Pricing Strategist",
     "company": "stripe",
     "ats": "greenhouse",
@@ -188360,7 +188360,7 @@
     "alerted": false
   },
   "greenhouse:okta:7982838": {
-    "updated_at": "2026-07-13T16:17:09-04:00",
+    "updated_at": "2026-07-30T14:37:50-04:00",
     "title": "Finance Manager, Products & Technology",
     "company": "okta",
     "ats": "greenhouse",
@@ -189016,7 +189016,7 @@
     "alerted": true
   },
   "greenhouse:okta:7983770": {
-    "updated_at": "2026-07-24T17:21:30-04:00",
+    "updated_at": "2026-07-30T14:48:42-04:00",
     "title": "Senior Financial Analyst, Products & Technology",
     "company": "okta",
     "ats": "greenhouse",
@@ -191872,7 +191872,7 @@
     "alerted": false
   },
   "greenhouse:okta:7983535": {
-    "updated_at": "2026-07-13T16:17:10-04:00",
+    "updated_at": "2026-07-30T14:13:12-04:00",
     "title": "Technical Consultant, Auth0",
     "company": "okta",
     "ats": "greenhouse",
@@ -195952,7 +195952,7 @@
     "alerted": false
   },
   "greenhouse:okta:7852859": {
-    "updated_at": "2026-07-13T16:17:07-04:00",
+    "updated_at": "2026-07-30T14:45:42-04:00",
     "title": "Solutions Engineer, Okta (West Coast)",
     "company": "okta",
     "ats": "greenhouse",
@@ -196088,7 +196088,7 @@
     "alerted": true
   },
   "greenhouse:okta:7882676": {
-    "updated_at": "2026-07-13T16:17:07-04:00",
+    "updated_at": "2026-07-30T15:45:24-04:00",
     "title": "Software Architect, Java Backend",
     "company": "okta",
     "ats": "greenhouse",
@@ -197024,7 +197024,7 @@
     "alerted": false
   },
   "greenhouse:okta:7977730": {
-    "updated_at": "2026-07-13T16:17:09-04:00",
+    "updated_at": "2026-07-30T14:29:16-04:00",
     "title": "Demo Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -198840,7 +198840,7 @@
     "alerted": false
   },
   "greenhouse:okta:7997292": {
-    "updated_at": "2026-07-13T16:17:10-04:00",
+    "updated_at": "2026-07-30T14:20:28-04:00",
     "title": "Proposal Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -204320,7 +204320,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7988466": {
-    "updated_at": "2026-07-23T14:37:32-04:00",
+    "updated_at": "2026-07-30T15:27:14-04:00",
     "title": "Senior Product Manager - Integration Testing & Enablement",
     "company": "adyen",
     "ats": "greenhouse",
@@ -204608,7 +204608,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4704849005": {
-    "updated_at": "2026-07-07T18:25:55-04:00",
+    "updated_at": "2026-07-30T14:36:52-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative R14053",
     "company": "oportun",
     "ats": "greenhouse",
@@ -207528,7 +207528,7 @@
     "alerted": false
   },
   "greenhouse:okta:8003734": {
-    "updated_at": "2026-07-13T16:17:11-04:00",
+    "updated_at": "2026-07-30T14:23:54-04:00",
     "title": "Community Content Strategist",
     "company": "okta",
     "ats": "greenhouse",
@@ -207688,7 +207688,7 @@
     "alerted": false
   },
   "greenhouse:okta:8010671": {
-    "updated_at": "2026-07-13T16:17:11-04:00",
+    "updated_at": "2026-07-30T14:33:43-04:00",
     "title": "Staff Software Engineer in Test, Linux",
     "company": "okta",
     "ats": "greenhouse",
@@ -207696,7 +207696,7 @@
     "alerted": false
   },
   "greenhouse:okta:7975372": {
-    "updated_at": "2026-07-14T12:39:50-04:00",
+    "updated_at": "2026-07-30T14:32:46-04:00",
     "title": "Staff Software Engineer in Test, iOS",
     "company": "okta",
     "ats": "greenhouse",
@@ -208592,7 +208592,7 @@
     "alerted": false
   },
   "greenhouse:okta:8015032": {
-    "updated_at": "2026-07-13T16:17:11-04:00",
+    "updated_at": "2026-07-30T15:47:05-04:00",
     "title": "Staff Site Reliability Engineer - (Infra)",
     "company": "okta",
     "ats": "greenhouse",
@@ -212728,16 +212728,16 @@
     "alerted": false
   },
   "greenhouse:samsara:8018876": {
-    "updated_at": "2026-06-22T15:15:21-04:00",
-    "title": "Senior Product Designer",
+    "updated_at": "2026-07-30T15:17:10-04:00",
+    "title": "Lead Product Designer",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": false
   },
   "greenhouse:samsara:8007939": {
-    "updated_at": "2026-06-22T15:15:20-04:00",
-    "title": "Senior Product Designer",
+    "updated_at": "2026-07-30T15:17:02-04:00",
+    "title": "Lead Product Designer",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -213368,7 +213368,7 @@
     "alerted": false
   },
   "greenhouse:okta:8007650": {
-    "updated_at": "2026-07-13T16:17:11-04:00",
+    "updated_at": "2026-07-30T14:17:42-04:00",
     "title": "Enterprise Account Executive, Auth0",
     "company": "okta",
     "ats": "greenhouse",
@@ -214168,7 +214168,7 @@
     "alerted": false
   },
   "greenhouse:okta:8023904": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T15:40:48-04:00",
     "title": "Staff Product Designer",
     "company": "okta",
     "ats": "greenhouse",
@@ -215496,7 +215496,7 @@
     "alerted": false
   },
   "greenhouse:okta:8022189": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T14:14:09-04:00",
     "title": "Enterprise Account Executive",
     "company": "okta",
     "ats": "greenhouse",
@@ -215760,7 +215760,7 @@
     "alerted": false
   },
   "greenhouse:okta:8021689": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T14:50:09-04:00",
     "title": "Senior Software Engineer- Okta Identity Governance",
     "company": "okta",
     "ats": "greenhouse",
@@ -216448,7 +216448,7 @@
     "alerted": false
   },
   "greenhouse:okta:8024818": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T14:40:44-04:00",
     "title": "Senior Software Engineer, Observability",
     "company": "okta",
     "ats": "greenhouse",
@@ -218064,7 +218064,7 @@
     "alerted": false
   },
   "greenhouse:asana:8027399": {
-    "updated_at": "2026-07-27T18:47:08-04:00",
+    "updated_at": "2026-07-30T15:43:39-04:00",
     "title": "Senior Solutions Architect",
     "company": "asana",
     "ats": "greenhouse",
@@ -219776,7 +219776,7 @@
     "alerted": false
   },
   "greenhouse:okta:8015013": {
-    "updated_at": "2026-07-15T15:18:31-04:00",
+    "updated_at": "2026-07-30T14:34:49-04:00",
     "title": "Staff Security Engineer, TDI",
     "company": "okta",
     "ats": "greenhouse",
@@ -221272,7 +221272,7 @@
     "alerted": false
   },
   "greenhouse:okta:8031353": {
-    "updated_at": "2026-07-23T12:41:22-04:00",
+    "updated_at": "2026-07-30T15:42:19-04:00",
     "title": "Software Architect (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -221280,7 +221280,7 @@
     "alerted": false
   },
   "greenhouse:okta:8031281": {
-    "updated_at": "2026-07-23T12:43:19-04:00",
+    "updated_at": "2026-07-30T15:42:17-04:00",
     "title": "Principal Software Engineer (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -221288,7 +221288,7 @@
     "alerted": false
   },
   "greenhouse:okta:8031355": {
-    "updated_at": "2026-07-23T12:43:31-04:00",
+    "updated_at": "2026-07-30T15:42:18-04:00",
     "title": "Principal Software Engineer (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -221296,7 +221296,7 @@
     "alerted": false
   },
   "greenhouse:okta:8031094": {
-    "updated_at": "2026-07-23T12:41:00-04:00",
+    "updated_at": "2026-07-30T15:42:18-04:00",
     "title": "Software Architect (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -221416,7 +221416,7 @@
     "alerted": false
   },
   "greenhouse:okta:8001886": {
-    "updated_at": "2026-07-13T16:17:10-04:00",
+    "updated_at": "2026-07-30T14:28:11-04:00",
     "title": "Customer Success Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -221744,7 +221744,7 @@
     "alerted": false
   },
   "greenhouse:okta:8031553": {
-    "updated_at": "2026-07-14T12:38:04-04:00",
+    "updated_at": "2026-07-30T14:39:49-04:00",
     "title": "Group Product Manager - Privileged Access Management",
     "company": "okta",
     "ats": "greenhouse",
@@ -222216,7 +222216,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4709615005": {
-    "updated_at": "2026-07-04T03:51:50-04:00",
+    "updated_at": "2026-07-30T14:45:47-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14086)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -223616,7 +223616,7 @@
     "alerted": false
   },
   "greenhouse:okta:8036149": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T14:37:46-04:00",
     "title": "Customer First GEO Content Specialist",
     "company": "okta",
     "ats": "greenhouse",
@@ -223792,7 +223792,7 @@
     "alerted": false
   },
   "greenhouse:okta:8029109": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T14:41:40-04:00",
     "title": "Senior Software Engineer, Organizations (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -224864,7 +224864,7 @@
     "alerted": false
   },
   "greenhouse:okta:8037616": {
-    "updated_at": "2026-07-13T16:17:13-04:00",
+    "updated_at": "2026-07-30T15:45:48-04:00",
     "title": "Senior Engineering Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -225384,7 +225384,7 @@
     "alerted": false
   },
   "greenhouse:okta:8024173": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T14:44:34-04:00",
     "title": "Senior Software Engineer, Frontend (Web)",
     "company": "okta",
     "ats": "greenhouse",
@@ -226968,7 +226968,7 @@
     "alerted": false
   },
   "greenhouse:okta:8041376": {
-    "updated_at": "2026-07-13T16:17:13-04:00",
+    "updated_at": "2026-07-30T14:42:40-04:00",
     "title": "Senior Software Engineer, Platform Network (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -227336,7 +227336,7 @@
     "alerted": false
   },
   "greenhouse:okta:8039368": {
-    "updated_at": "2026-07-27T12:47:31-04:00",
+    "updated_at": "2026-07-30T14:51:21-04:00",
     "title": "Senior Financial Analyst, G&A",
     "company": "okta",
     "ats": "greenhouse",
@@ -231792,7 +231792,7 @@
     "alerted": false
   },
   "greenhouse:okta:8043955": {
-    "updated_at": "2026-07-13T16:17:13-04:00",
+    "updated_at": "2026-07-30T14:34:52-04:00",
     "title": "Manager, Enterprise Launch & Business Operations",
     "company": "okta",
     "ats": "greenhouse",
@@ -234640,7 +234640,7 @@
     "alerted": false
   },
   "greenhouse:okta:8031522": {
-    "updated_at": "2026-07-13T16:17:12-04:00",
+    "updated_at": "2026-07-30T14:13:48-04:00",
     "title": "Director, Commercial Strategy & Buying Programs",
     "company": "okta",
     "ats": "greenhouse",
@@ -236448,7 +236448,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4712918005": {
-    "updated_at": "2026-07-08T17:10:45-04:00",
+    "updated_at": "2026-07-30T15:01:17-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative R14096",
     "company": "oportun",
     "ats": "greenhouse",
@@ -236608,8 +236608,8 @@
     "alerted": false
   },
   "greenhouse:oportun:4712920005": {
-    "updated_at": "2026-07-17T15:55:37-04:00",
-    "title": "Bilingual English and Spanish Member Loyalty Representative R14101",
+    "updated_at": "2026-07-30T15:16:12-04:00",
+    "title": "Bilingual English and Spanish Member Loyalty Representative (R14101)",
     "company": "oportun",
     "ats": "greenhouse",
     "source_slug": "oportun",
@@ -236848,7 +236848,7 @@
     "alerted": false
   },
   "greenhouse:okta:8046884": {
-    "updated_at": "2026-07-13T16:17:13-04:00",
+    "updated_at": "2026-07-30T14:26:01-04:00",
     "title": "Customer Marketing Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -237400,7 +237400,7 @@
     "alerted": false
   },
   "greenhouse:okta:8050798": {
-    "updated_at": "2026-07-13T16:17:13-04:00",
+    "updated_at": "2026-07-30T14:15:16-04:00",
     "title": "Director, Corporate Counsel - Privacy",
     "company": "okta",
     "ats": "greenhouse",
@@ -238216,7 +238216,7 @@
     "alerted": false
   },
   "greenhouse:okta:8004104": {
-    "updated_at": "2026-07-20T15:39:53-04:00",
+    "updated_at": "2026-07-30T14:23:03-04:00",
     "title": "Cloud Infrastructure Architect, Okta Federal",
     "company": "okta",
     "ats": "greenhouse",
@@ -239936,7 +239936,7 @@
     "alerted": false
   },
   "greenhouse:okta:8013137": {
-    "updated_at": "2026-07-13T16:17:11-04:00",
+    "updated_at": "2026-07-30T14:26:32-04:00",
     "title": "Director, Engineering - Okta Integration Network",
     "company": "okta",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-30T14:05:02-04:00",
+    "updated_at": "2026-07-30T15:48:47-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-30T14:05:05-04:00",
+    "updated_at": "2026-07-30T15:48:50-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244120,7 +244120,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8054250": {
-    "updated_at": "2026-07-29T11:36:04-04:00",
+    "updated_at": "2026-07-30T14:40:22-04:00",
     "title": "Staff Product Manager, Security and Compliance (Public Sector)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -244360,7 +244360,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4714720005": {
-    "updated_at": "2026-07-17T15:56:10-04:00",
+    "updated_at": "2026-07-30T15:16:15-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14107)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -244376,7 +244376,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4714716005": {
-    "updated_at": "2026-07-17T15:56:48-04:00",
+    "updated_at": "2026-07-30T15:16:14-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14108)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -246272,7 +246272,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5185633007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-07-30T14:51:43-04:00",
     "title": "Senior Project Engineer, Global Services",
     "company": "verkada",
     "ats": "greenhouse",
@@ -247784,7 +247784,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8045862": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-07-30T14:15:05-04:00",
     "title": "Tech Ops Team Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -248288,7 +248288,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4715735005": {
-    "updated_at": "2026-07-17T15:54:45-04:00",
+    "updated_at": "2026-07-30T15:45:16-04:00",
     "title": "English & Spanish Member Loyalty Representative (R14117)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -248976,7 +248976,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4697720006": {
-    "updated_at": "2026-07-30T12:56:21-04:00",
+    "updated_at": "2026-07-30T15:25:07-04:00",
     "title": "Technology Alliances Director",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -248984,7 +248984,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4697718006": {
-    "updated_at": "2026-07-30T12:58:00-04:00",
+    "updated_at": "2026-07-30T15:25:33-04:00",
     "title": "Consultant and SI Alliances Director",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -249560,7 +249560,7 @@
     "alerted": false
   },
   "greenhouse:formlabs:8070797": {
-    "updated_at": "2026-07-20T10:58:46-04:00",
+    "updated_at": "2026-07-30T14:46:30-04:00",
     "title": "Supplier Industrialization Engineer",
     "company": "formlabs",
     "ats": "greenhouse",
@@ -249960,7 +249960,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8067706": {
-    "updated_at": "2026-07-29T11:36:04-04:00",
+    "updated_at": "2026-07-30T14:20:26-04:00",
     "title": "Customer Experience Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -253192,7 +253192,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4716744005": {
-    "updated_at": "2026-07-24T15:55:40-04:00",
+    "updated_at": "2026-07-30T15:46:01-04:00",
     "title": "Bilingual and Spanish Member Loyalty Representative (R14123)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -253472,7 +253472,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4716742005": {
-    "updated_at": "2026-07-24T15:56:44-04:00",
+    "updated_at": "2026-07-30T15:45:59-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14124)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -255720,7 +255720,7 @@
     "alerted": false
   },
   "greenhouse:brex:8643416002": {
-    "updated_at": "2026-07-24T16:40:54-04:00",
+    "updated_at": "2026-07-30T14:33:20-04:00",
     "title": "Director, Technical Accounting and Financial Reporting",
     "company": "brex",
     "ats": "greenhouse",
@@ -255728,7 +255728,7 @@
     "alerted": false
   },
   "greenhouse:brex:8643415002": {
-    "updated_at": "2026-07-24T16:40:39-04:00",
+    "updated_at": "2026-07-30T14:33:18-04:00",
     "title": "Director, Technical Accounting and Financial Reporting",
     "company": "brex",
     "ats": "greenhouse",
@@ -255736,7 +255736,7 @@
     "alerted": false
   },
   "greenhouse:brex:8615152002": {
-    "updated_at": "2026-07-24T16:40:23-04:00",
+    "updated_at": "2026-07-30T14:33:18-04:00",
     "title": "Director, Technical Accounting and Financial Reporting",
     "company": "brex",
     "ats": "greenhouse",
@@ -257672,7 +257672,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8077887": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-07-30T15:05:36-04:00",
     "title": "Account Executive, Bridge",
     "company": "stripe",
     "ats": "greenhouse",
@@ -258272,7 +258272,7 @@
     "alerted": false
   },
   "greenhouse:braze:8071592": {
-    "updated_at": "2026-07-22T15:53:41-04:00",
+    "updated_at": "2026-07-30T15:31:34-04:00",
     "title": "Financial Analyst II",
     "company": "braze",
     "ats": "greenhouse",
@@ -258280,7 +258280,7 @@
     "alerted": false
   },
   "greenhouse:braze:8080351": {
-    "updated_at": "2026-07-22T15:53:41-04:00",
+    "updated_at": "2026-07-30T15:31:34-04:00",
     "title": "Financial Analyst II",
     "company": "braze",
     "ats": "greenhouse",
@@ -258664,7 +258664,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8020155": {
-    "updated_at": "2026-07-30T13:13:12-04:00",
+    "updated_at": "2026-07-30T15:31:19-04:00",
     "title": "Head of Design, Unified Service Platform",
     "company": "gusto",
     "ats": "greenhouse",
@@ -260160,7 +260160,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7737707003": {
-    "updated_at": "2026-07-23T14:00:53-04:00",
+    "updated_at": "2026-07-30T15:00:21-04:00",
     "title": "Analytics Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -260360,7 +260360,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8647743002": {
-    "updated_at": "2026-07-29T13:50:41-04:00",
+    "updated_at": "2026-07-30T14:34:05-04:00",
     "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
     "company": "databricks",
     "ats": "greenhouse",
@@ -263496,7 +263496,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8045874": {
-    "updated_at": "2026-07-30T12:19:03-04:00",
+    "updated_at": "2026-07-30T15:21:01-04:00",
     "title": "Senior Software Engineer - Customer Interfaces",
     "company": "adyen",
     "ats": "greenhouse",
@@ -264264,7 +264264,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7817959003": {
-    "updated_at": "2026-07-27T14:16:25-04:00",
+    "updated_at": "2026-07-30T15:01:30-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264824,7 +264824,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8084261": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-07-30T14:34:50-04:00",
     "title": "Regional Vice President - West",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265024,7 +265024,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8089290": {
-    "updated_at": "2026-07-30T14:02:44-04:00",
+    "updated_at": "2026-07-30T14:17:56-04:00",
     "title": "Senior Global Event Manager, Content Operations & Production",
     "company": "twilio",
     "ats": "greenhouse",
@@ -266320,7 +266320,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8567957002": {
-    "updated_at": "2026-07-28T12:17:11-04:00",
+    "updated_at": "2026-07-30T14:42:18-04:00",
     "title": "Senior Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -267936,7 +267936,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094078": {
-    "updated_at": "2026-07-29T09:28:22-04:00",
+    "updated_at": "2026-07-30T15:45:37-04:00",
     "title": "Territory Account Executive, SMB - Fort Lauderdale/Pompano, FL",
     "company": "toast",
     "ats": "greenhouse",
@@ -268632,7 +268632,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094646": {
-    "updated_at": "2026-07-29T14:21:46-04:00",
+    "updated_at": "2026-07-30T15:26:20-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - South Austin, TX",
     "company": "toast",
     "ats": "greenhouse",
@@ -269264,7 +269264,7 @@
     "alerted": false
   },
   "greenhouse:faire:8656341002": {
-    "updated_at": "2026-07-29T20:18:17-04:00",
+    "updated_at": "2026-07-30T15:02:59-04:00",
     "title": "Staff Product Manager, Data & ML Platform",
     "company": "faire",
     "ats": "greenhouse",
@@ -269680,7 +269680,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7489707": {
-    "updated_at": "2026-07-29T22:36:51-04:00",
+    "updated_at": "2026-07-30T15:47:54-04:00",
     "title": "Staff Software Engineer, Observability",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -270064,7 +270064,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080876": {
-    "updated_at": "2026-07-30T11:09:54-04:00",
+    "updated_at": "2026-07-30T15:43:54-04:00",
     "title": "Partner Solutions Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -270248,7 +270248,7 @@
     "alerted": false
   },
   "greenhouse:starburst:5374995008": {
-    "updated_at": "2026-07-30T09:24:00-04:00",
+    "updated_at": "2026-07-30T15:47:13-04:00",
     "title": "Sales Development Representative",
     "company": "starburst",
     "ats": "greenhouse",
@@ -270728,7 +270728,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7905702": {
-    "updated_at": "2026-07-30T13:59:24-04:00",
+    "updated_at": "2026-07-30T15:28:53-04:00",
     "title": "Product Designer, HR Experiences",
     "company": "gusto",
     "ats": "greenhouse",
@@ -270910,5 +270910,325 @@
     "ats": "greenhouse",
     "source_slug": "gusto",
     "alerted": true
+  },
+  "greenhouse:datadog:8080606": {
+    "updated_at": "2026-07-30T15:36:14-04:00",
+    "title": "Mid-Market Sales Engineer (Sao Paulo)",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:elastic:8080862": {
+    "updated_at": "2026-07-30T15:35:56-04:00",
+    "title": "Partner Solution Architect - LATAM (Portuguese/Spanish/English-speaking)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:braze:8097449": {
+    "updated_at": "2026-07-30T15:31:59-04:00",
+    "title": "Account Executive, Retail Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8097447": {
+    "updated_at": "2026-07-30T15:31:58-04:00",
+    "title": "Account Executive, Retail Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8075042": {
+    "updated_at": "2026-07-30T15:31:57-04:00",
+    "title": "Account Executive, Retail Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8097434": {
+    "updated_at": "2026-07-30T15:31:56-04:00",
+    "title": "Account Executive, Retail Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:sofi:7819499003": {
+    "updated_at": "2026-07-30T15:30:28-04:00",
+    "title": "Senior Data Scientist",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:adyen:8071079": {
+    "updated_at": "2026-07-30T15:24:33-04:00",
+    "title": "Technical Program Manager \u2013 Data Foundations",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:okta:8069537": {
+    "updated_at": "2026-07-30T15:23:45-04:00",
+    "title": "Principal Technical Program Manager, Engineering",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:betterment:8094734": {
+    "updated_at": "2026-07-30T15:22:32-04:00",
+    "title": "Sr. Accountant",
+    "company": "betterment",
+    "ats": "greenhouse",
+    "source_slug": "betterment",
+    "alerted": false
+  },
+  "greenhouse:gusto:8075975": {
+    "updated_at": "2026-07-30T15:22:08-04:00",
+    "title": "Workday Developer - People Tech",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:databricks:8567849002": {
+    "updated_at": "2026-07-30T15:21:11-04:00",
+    "title": "Sr. Solutions Architect - Lakebase",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8642263002": {
+    "updated_at": "2026-07-30T15:17:41-04:00",
+    "title": "Manager, Delivery Solutions Architects - Emerging Enterprise",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:reddit:8094764": {
+    "updated_at": "2026-07-30T15:17:35-04:00",
+    "title": "Staff People Integrations Engineer",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8097292": {
+    "updated_at": "2026-07-30T15:14:47-04:00",
+    "title": "Internal Audit Manager",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:faire:8658935002": {
+    "updated_at": "2026-07-30T15:12:53-04:00",
+    "title": "GTM Systems Engineer",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:faire:8659413002": {
+    "updated_at": "2026-07-30T15:10:29-04:00",
+    "title": "Senior Enterprise Security Engineer",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:stripe:8090126": {
+    "updated_at": "2026-07-30T15:08:54-04:00",
+    "title": "Partnerships Development Manager, Link - Payments Partnerships",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:mercury:6131020004": {
+    "updated_at": "2026-07-30T15:07:21-04:00",
+    "title": "Sales Development Representative",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:faire:8658909002": {
+    "updated_at": "2026-07-30T15:01:38-04:00",
+    "title": "IT Support Technician",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:melio:7822176003": {
+    "updated_at": "2026-07-30T15:00:11-04:00",
+    "title": "Senior Account Executive, Strategic Partnerships & Affiliates",
+    "company": "melio",
+    "ats": "greenhouse",
+    "source_slug": "melio",
+    "alerted": false
+  },
+  "greenhouse:spacex:8649800002": {
+    "updated_at": "2026-07-30T14:59:56-04:00",
+    "title": "Security Operator 3",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:mercury:6130879004": {
+    "updated_at": "2026-07-30T14:56:51-04:00",
+    "title": "Payment Operations Lead",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:melio:7822163003": {
+    "updated_at": "2026-07-30T14:56:34-04:00",
+    "title": "Senior Account Executive - UHV Payors",
+    "company": "melio",
+    "ats": "greenhouse",
+    "source_slug": "melio",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8097350": {
+    "updated_at": "2026-07-30T14:50:49-04:00",
+    "title": "Global Supply Manager",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:formlabs:7889751": {
+    "updated_at": "2026-07-30T14:50:31-04:00",
+    "title": "Global Sourcing Manager",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8097334": {
+    "updated_at": "2026-07-30T14:46:00-04:00",
+    "title": "Staff Software Engineer, Capacity and Efficiency Engineering",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:asana:8078142": {
+    "updated_at": "2026-07-30T14:39:27-04:00",
+    "title": "Head of Digital and Scaled Customer Success",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:cribl:5789384004": {
+    "updated_at": "2026-07-30T14:30:43-04:00",
+    "title": "CX Ops Associate Analyst",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
+    "alerted": false
+  },
+  "greenhouse:oportun:4719783005": {
+    "updated_at": "2026-07-30T14:25:54-04:00",
+    "title": "Bilingual English and Spanish Member Loyalty Representative (R14146)",
+    "company": "oportun",
+    "ats": "greenhouse",
+    "source_slug": "oportun",
+    "alerted": false
+  },
+  "greenhouse:verkada:5199100007": {
+    "updated_at": "2026-07-30T14:24:50-04:00",
+    "title": "Senior Manager IT Systems",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:spacex:8658865002": {
+    "updated_at": "2026-07-30T14:24:27-04:00",
+    "title": "Sr. Electrical Engineer, Hardware Reliability (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4663228006": {
+    "updated_at": "2026-07-30T14:21:34-04:00",
+    "title": "Applied AI Engineer, Inference",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4626644006": {
+    "updated_at": "2026-07-30T14:21:05-04:00",
+    "title": "Sr. Engineering Manager, Inference",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:gusto:8075984": {
+    "updated_at": "2026-07-30T14:16:06-04:00",
+    "title": "Senior Platform Operations Analyst",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:elastic:8097064": {
+    "updated_at": "2026-07-30T14:12:51-04:00",
+    "title": "Software Engineer II - Full Stack - Web Engineering",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:chime:8609159002": {
+    "updated_at": "2026-07-30T14:12:14-04:00",
+    "title": "Engineering Manager, Deals and Offers",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:dialpad:7102395002": {
+    "updated_at": "2026-07-30T14:11:15-04:00",
+    "title": "Dialership Program",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:spacex:8657538002": {
+    "updated_at": "2026-07-30T14:09:01-04:00",
+    "title": "(Entry Level) Production Technician - PCBA",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8657511002": {
+    "updated_at": "2026-07-30T14:09:00-04:00",
+    "title": "Starlink Production Technician - PCBA",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
   }
 }
