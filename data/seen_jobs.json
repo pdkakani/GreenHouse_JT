@@ -47784,7 +47784,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8437014002": {
-    "updated_at": "2026-07-24T19:28:56-04:00",
+    "updated_at": "2026-07-30T22:02:57-04:00",
     "title": "Sr. Solutions Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -85280,7 +85280,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7576642": {
-    "updated_at": "2026-07-27T16:07:02-04:00",
+    "updated_at": "2026-07-31T00:22:02-04:00",
     "title": "Director, Product Design",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -88024,7 +88024,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8458134002": {
-    "updated_at": "2026-07-29T14:09:11-04:00",
+    "updated_at": "2026-07-30T22:48:32-04:00",
     "title": "Sr. Partner Delivery Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -156096,7 +156096,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7918616": {
-    "updated_at": "2026-07-30T13:30:12-04:00",
+    "updated_at": "2026-07-30T22:00:15-04:00",
     "title": "Senior Director, Partner Specialists (Greater China + Korea)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -157104,7 +157104,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7908293": {
-    "updated_at": "2026-07-29T11:36:04-04:00",
+    "updated_at": "2026-07-31T00:31:26-04:00",
     "title": "Product Manager, Internal Financial Data",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -160240,7 +160240,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7919037": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
+    "updated_at": "2026-07-30T22:06:39-04:00",
     "title": "Commercial Account Executive (Hong Kong Market)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -194144,7 +194144,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687697006": {
-    "updated_at": "2026-07-27T14:47:04-04:00",
+    "updated_at": "2026-07-30T21:41:44-04:00",
     "title": "Senior Front End Web Developer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -194152,7 +194152,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687702006": {
-    "updated_at": "2026-07-27T14:47:04-04:00",
+    "updated_at": "2026-07-30T21:50:24-04:00",
     "title": "Sr. Website UI/UX Designer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -232016,7 +232016,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8036664": {
-    "updated_at": "2026-07-17T03:05:47-04:00",
+    "updated_at": "2026-07-31T00:34:59-04:00",
     "title": "Engineering Manager, Prediction Markets",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -243152,8 +243152,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8055659": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
-    "title": "Risk Operations Program Manager",
+    "updated_at": "2026-07-30T22:50:50-04:00",
+    "title": "Strategy & Operations Program Manager",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-30T20:49:20-04:00",
+    "updated_at": "2026-07-31T00:35:54-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-30T20:49:23-04:00",
+    "updated_at": "2026-07-31T00:35:57-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244120,7 +244120,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8054250": {
-    "updated_at": "2026-07-30T14:40:22-04:00",
+    "updated_at": "2026-07-31T00:31:14-04:00",
     "title": "Staff Product Manager, Security and Compliance (Public Sector)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -247600,8 +247600,8 @@
     "alerted": true
   },
   "greenhouse:stripe:8066735": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
-    "title": "Specialist Solutions Architect - Money Management",
+    "updated_at": "2026-07-30T22:03:52-04:00",
+    "title": "Specialist Solutions Architect - Money Management (APAC and Greater China)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -247704,8 +247704,8 @@
     "alerted": true
   },
   "greenhouse:stripe:8029128": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
-    "title": "Account Executive, Billing",
+    "updated_at": "2026-07-30T22:48:06-04:00",
+    "title": "Enterprise Account Executive, Revenue Suite",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -257376,7 +257376,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8020464": {
-    "updated_at": "2026-07-29T11:36:04-04:00",
+    "updated_at": "2026-07-30T22:30:15-04:00",
     "title": "Partner Specialist",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -259032,7 +259032,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8074863": {
-    "updated_at": "2026-07-29T11:36:04-04:00",
+    "updated_at": "2026-07-30T22:10:51-04:00",
     "title": "Commercial Growth Account Executive - Turkish Speaker",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -261248,7 +261248,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7815160003": {
-    "updated_at": "2026-07-30T06:48:53-04:00",
+    "updated_at": "2026-07-31T00:00:24-04:00",
     "title": "Technical Support Engineer - AI Cybersecurity Platform",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -263208,8 +263208,8 @@
     "alerted": false
   },
   "greenhouse:datadog:8074700": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
-    "title": "Senior Partner Manager - Channels (Global GSI)",
+    "updated_at": "2026-07-30T21:55:08-04:00",
+    "title": "Senior Partner Manager - Channels (Indian GSI)",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -263768,7 +263768,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8089031": {
-    "updated_at": "2026-07-27T13:16:41-04:00",
+    "updated_at": "2026-07-30T21:55:12-04:00",
     "title": "Systems Engineer, Product Platform Tools",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -268280,7 +268280,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6127484004": {
-    "updated_at": "2026-07-29T13:35:14-04:00",
+    "updated_at": "2026-07-30T23:23:01-04:00",
     "title": "Senior Manager, Deal Desk",
     "company": "coursera",
     "ats": "greenhouse",
@@ -268840,7 +268840,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6129514004": {
-    "updated_at": "2026-07-29T13:35:50-04:00",
+    "updated_at": "2026-07-30T23:21:42-04:00",
     "title": "Senior Deal Desk Analyst",
     "company": "coursera",
     "ats": "greenhouse",
@@ -271958,5 +271958,101 @@
     "ats": "greenhouse",
     "source_slug": "sofi",
     "alerted": false
+  },
+  "greenhouse:spacex:8659087002": {
+    "updated_at": "2026-07-30T23:34:04-04:00",
+    "title": "Electrical Test and Reliability Engineer, Satellites (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:brex:8660218002": {
+    "updated_at": "2026-07-30T23:22:27-04:00",
+    "title": "Outbound Sales Development Representative",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:twilio:8092234": {
+    "updated_at": "2026-07-30T22:52:02-04:00",
+    "title": "Senior Customer Success Manager",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:databricks:8604587002": {
+    "updated_at": "2026-07-30T22:00:28-04:00",
+    "title": "Payroll Tax Manager",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8092731": {
+    "updated_at": "2026-07-30T21:41:30-04:00",
+    "title": "Software Engineer, Registrar",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:datadog:8095826": {
+    "updated_at": "2026-07-30T21:39:53-04:00",
+    "title": "Technical Escalations Engineer 2 (Revenue and Cost Management) - APJ",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:samsara:8083539": {
+    "updated_at": "2026-07-30T21:25:55-04:00",
+    "title": "Senior People Technology Analyst - Workday",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7807807003": {
+    "updated_at": "2026-07-30T21:23:19-04:00",
+    "title": "Software Engineer II - Identity Security Posture Management (ISPM)",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7822456003": {
+    "updated_at": "2026-07-30T20:43:54-04:00",
+    "title": "Senior Product Design Manager",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:workato:8645758002": {
+    "updated_at": "2026-07-30T20:27:09-04:00",
+    "title": "Partner Marketing Manager",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8097944": {
+    "updated_at": "2026-07-30T20:09:18-04:00",
+    "title": "Senior Software Engineer, Core Reliability",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:elastic:8066505": {
+    "updated_at": "2026-07-31T00:34:43-04:00",
+    "title": "Senior Information Security Engineer - Security Architecture - InfoSec",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": true
   }
 }
