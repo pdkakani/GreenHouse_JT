@@ -4568,7 +4568,7 @@
     "alerted": true
   },
   "greenhouse:amplitude:8445406002": {
-    "updated_at": "2026-06-17T17:49:38-04:00",
+    "updated_at": "2026-07-31T19:32:43-04:00",
     "title": "Senior Software Engineer,  Data Management",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -79792,7 +79792,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8503043002": {
-    "updated_at": "2026-07-24T17:17:59-04:00",
+    "updated_at": "2026-07-31T19:15:25-04:00",
     "title": "Communications Lead",
     "company": "spacex",
     "ats": "greenhouse",
@@ -151120,7 +151120,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7902277": {
-    "updated_at": "2026-06-30T10:28:19-04:00",
+    "updated_at": "2026-07-31T19:23:51-04:00",
     "title": "Senior Software Engineer, Compute Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -152536,7 +152536,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7722392003": {
-    "updated_at": "2026-07-29T20:42:27-04:00",
+    "updated_at": "2026-07-31T20:01:08-04:00",
     "title": "Staff Software Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -192872,7 +192872,7 @@
     "alerted": false
   },
   "greenhouse:okta:7991335": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-07-31T20:06:04-04:00",
     "title": "Sr. TAM, Solutions Architect",
     "company": "okta",
     "ats": "greenhouse",
@@ -218248,7 +218248,7 @@
     "alerted": false
   },
   "greenhouse:workato:8583096002": {
-    "updated_at": "2026-07-20T22:29:20-04:00",
+    "updated_at": "2026-07-31T20:07:00-04:00",
     "title": "Senior Software Engineer",
     "company": "workato",
     "ats": "greenhouse",
@@ -222312,7 +222312,7 @@
     "alerted": false
   },
   "greenhouse:okta:8031891": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-07-31T20:06:04-04:00",
     "title": "Sr. Technical Account Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -223600,7 +223600,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8030591": {
-    "updated_at": "2026-06-29T13:40:57-04:00",
+    "updated_at": "2026-07-31T19:47:54-04:00",
     "title": "Senior Litigation Paralegal",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-31T19:04:25-04:00",
+    "updated_at": "2026-07-31T20:04:45-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-31T19:04:29-04:00",
+    "updated_at": "2026-07-31T20:04:48-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -271984,7 +271984,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604587002": {
-    "updated_at": "2026-07-31T16:34:15-04:00",
+    "updated_at": "2026-07-31T19:48:04-04:00",
     "title": "Payroll Tax Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-07-31T13:32:35-04:00",
+    "updated_at": "2026-07-31T19:47:13-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -272936,7 +272936,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8053933": {
-    "updated_at": "2026-07-31T13:36:13-04:00",
+    "updated_at": "2026-07-31T19:21:13-04:00",
     "title": "Strategy & Ops, Enterprise",
     "company": "stripe",
     "ats": "greenhouse",
@@ -273296,7 +273296,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8099735": {
-    "updated_at": "2026-07-31T14:12:56-04:00",
+    "updated_at": "2026-07-31T19:17:04-04:00",
     "title": "Staff Performance Marketing Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -273400,7 +273400,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8100160": {
-    "updated_at": "2026-07-31T16:09:23-04:00",
+    "updated_at": "2026-07-31T19:33:35-04:00",
     "title": "Senior Android Engineer, Crypto Expansion",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -273696,7 +273696,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7822951003": {
-    "updated_at": "2026-07-31T19:10:14-04:00",
+    "updated_at": "2026-07-31T19:15:13-04:00",
     "title": "Senior Business Value Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -273710,5 +273710,29 @@
     "ats": "greenhouse",
     "source_slug": "lyft",
     "alerted": true
+  },
+  "greenhouse:justworks:8089455": {
+    "updated_at": "2026-07-31T19:36:31-04:00",
+    "title": "Senior Associate, Medical Benefits",
+    "company": "justworks",
+    "ats": "greenhouse",
+    "source_slug": "justworks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8646129002": {
+    "updated_at": "2026-07-31T19:35:53-04:00",
+    "title": "Production Scheduler (Starship Mechanisms)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8663972002": {
+    "updated_at": "2026-07-31T19:30:47-04:00",
+    "title": "Staff Software Engineer - Streaming",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
   }
 }
