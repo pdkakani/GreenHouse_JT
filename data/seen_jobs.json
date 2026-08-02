@@ -159864,8 +159864,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7927488": {
-    "updated_at": "2026-05-14T19:38:02-04:00",
-    "title": "Engineering Manager, Marketing Technology - Segmentation Platform & Insights Platform",
+    "updated_at": "2026-08-02T17:59:19-04:00",
+    "title": "Manager, Engineering - Marketing Technology",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-02T17:33:34-04:00",
+    "updated_at": "2026-08-02T18:34:36-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-02T17:33:37-04:00",
+    "updated_at": "2026-08-02T18:34:44-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-02T17:32:15-04:00",
+    "updated_at": "2026-08-02T18:17:24-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -273853,6 +273853,14 @@
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:coursera:6127488004": {
+    "updated_at": "2026-08-02T14:51:25-04:00",
+    "title": "Senior Category Growth Manager",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
     "alerted": false
   }
 }
