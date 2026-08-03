@@ -88952,7 +88952,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8399878002": {
-    "updated_at": "2026-07-24T19:28:55-04:00",
+    "updated_at": "2026-08-02T23:31:40-04:00",
     "title": "Strategic Enterprise Sales Leader",
     "company": "databricks",
     "ats": "greenhouse",
@@ -159840,7 +159840,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8548980002": {
-    "updated_at": "2026-07-09T03:06:31-04:00",
+    "updated_at": "2026-08-02T22:16:06-04:00",
     "title": "Customer Success Manager - Australia",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -163864,7 +163864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7929336": {
-    "updated_at": "2026-07-08T23:20:12-04:00",
+    "updated_at": "2026-08-03T00:19:58-04:00",
     "title": "Senior Sales Planning Analyst",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -185808,7 +185808,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7963860": {
-    "updated_at": "2026-07-26T21:50:01-04:00",
+    "updated_at": "2026-08-02T23:12:47-04:00",
     "title": "GTM Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -226672,7 +226672,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8040751": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-03T00:31:30-04:00",
     "title": "Operations Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-02T21:04:22-04:00",
+    "updated_at": "2026-08-03T00:34:44-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-02T21:04:25-04:00",
+    "updated_at": "2026-08-03T00:34:47-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245600,7 +245600,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8041307": {
-    "updated_at": "2026-07-15T03:19:06-04:00",
+    "updated_at": "2026-08-03T00:24:00-04:00",
     "title": "Senior Backend Engineer (Java)",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-02T19:32:11-04:00",
+    "updated_at": "2026-08-02T23:47:14-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -273858,6 +273858,30 @@
   "greenhouse:coursera:6127488004": {
     "updated_at": "2026-08-02T14:51:25-04:00",
     "title": "Senior Category Growth Manager",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
+    "alerted": false
+  },
+  "greenhouse:databricks:7811355002": {
+    "updated_at": "2026-08-02T18:29:30-04:00",
+    "title": "Specialist Solutions Architect - AI/ML",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8073777": {
+    "updated_at": "2026-08-02T16:13:25-04:00",
+    "title": "Senior Backend Engineer",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:coursera:6119477004": {
+    "updated_at": "2026-08-02T15:19:00-04:00",
+    "title": "VP, Enterprise Marketing",
     "company": "coursera",
     "ats": "greenhouse",
     "source_slug": "coursera",
