@@ -4480,7 +4480,7 @@
     "alerted": true
   },
   "greenhouse:mixpanel:7776048": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Engineering Manager, Stateful Distributed Systems",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -10856,7 +10856,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5123851008": {
-    "updated_at": "2026-08-04T15:26:03-04:00",
+    "updated_at": "2026-08-05T17:00:41-04:00",
     "title": "Infrastructure Tax Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -17824,7 +17824,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7144697": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:21-04:00",
     "title": "Activation Sales Development Representative I",
     "company": "instacart",
     "ats": "greenhouse",
@@ -17960,7 +17960,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7712406": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:21-04:00",
     "title": "Retention Sales Development Representative II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18056,7 +18056,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7565508": {
-    "updated_at": "2026-07-27T22:24:49-04:00",
+    "updated_at": "2026-08-05T16:40:22-04:00",
     "title": "Senior Machine Learning Engineer II, Search & Recommendations Ranking",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18104,7 +18104,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7769924": {
-    "updated_at": "2026-07-22T11:51:39-04:00",
+    "updated_at": "2026-08-05T16:40:22-04:00",
     "title": "Senior Product Manager, Risk Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18112,7 +18112,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7769926": {
-    "updated_at": "2026-07-22T11:52:18-04:00",
+    "updated_at": "2026-08-05T16:40:22-04:00",
     "title": "Senior Product Manager, Risk Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18312,7 +18312,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7778620": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:23-04:00",
     "title": "Staff Software Engineer,  Data Infrastructure",
     "company": "instacart",
     "ats": "greenhouse",
@@ -18320,7 +18320,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7778618": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:23-04:00",
     "title": "Staff Software Engineer, Data Infrastructure",
     "company": "instacart",
     "ats": "greenhouse",
@@ -20592,7 +20592,7 @@
     "alerted": true
   },
   "greenhouse:mixpanel:7779504": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Product Manager, Platform",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -22376,8 +22376,8 @@
     "alerted": true
   },
   "greenhouse:gusto:7673980": {
-    "updated_at": "2026-07-23T18:50:18-04:00",
-    "title": "Senior Product Manager, Gusto Pro Workflows",
+    "updated_at": "2026-08-05T17:20:21-04:00",
+    "title": "Principal Product Manager, Gusto Pro Workflows",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -23728,7 +23728,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7793089": {
-    "updated_at": "2026-07-27T22:29:46-04:00",
+    "updated_at": "2026-08-05T16:40:24-04:00",
     "title": "Senior Machine Learning Engineer, Operations Research",
     "company": "instacart",
     "ats": "greenhouse",
@@ -24064,7 +24064,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7813002": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:25-04:00",
     "title": "Senior Director, Enterprise Delivery and Growth",
     "company": "instacart",
     "ats": "greenhouse",
@@ -24072,7 +24072,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7813000": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:25-04:00",
     "title": "Senior Director, Enterprise Delivery and Growth",
     "company": "instacart",
     "ats": "greenhouse",
@@ -24720,7 +24720,7 @@
     "alerted": true
   },
   "greenhouse:instacart:7826880": {
-    "updated_at": "2026-07-24T12:49:03-04:00",
+    "updated_at": "2026-08-05T16:40:25-04:00",
     "title": "Bilingual Staff Technical Program Manager, Global Enterprise Fulfillment Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -25528,7 +25528,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7658241": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:21-04:00",
     "title": "Ads AI Analytics Lead II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -25752,8 +25752,8 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5970324004": {
-    "updated_at": "2026-08-05T16:36:55-04:00",
-    "title": "Software Engineer \u2014 AI Infrastructure",
+    "updated_at": "2026-08-05T16:46:59-04:00",
+    "title": "Senior Software Engineer \u2014 AI Infrastructure",
     "company": "snorkelai",
     "ats": "greenhouse",
     "source_slug": "snorkelai",
@@ -25824,8 +25824,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4560350006": {
-    "updated_at": "2026-07-27T14:47:04-04:00",
-    "title": "Technical Support Engineer II (Bare Metal)",
+    "updated_at": "2026-08-05T17:08:14-04:00",
+    "title": "Technical Support Engineer (Bare Metal)",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -41096,7 +41096,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8397574002": {
-    "updated_at": "2026-07-24T17:17:50-04:00",
+    "updated_at": "2026-08-05T17:19:26-04:00",
     "title": "Sr. Environmental Health & Safety Engineer (Starship)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -44448,8 +44448,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7793636": {
-    "updated_at": "2026-07-29T20:29:28-04:00",
-    "title": "Brand Designer, Advertising",
+    "updated_at": "2026-08-05T17:12:14-04:00",
+    "title": "Senior Designer, Brand Advertising",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -59896,7 +59896,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7793391": {
-    "updated_at": "2026-07-27T22:39:09-04:00",
+    "updated_at": "2026-08-05T16:40:23-04:00",
     "title": "Senior Applied Scientist II, Ads Optimization",
     "company": "instacart",
     "ats": "greenhouse",
@@ -63144,7 +63144,7 @@
     "alerted": false
   },
   "greenhouse:instacart:4949339": {
-    "updated_at": "2026-08-03T12:26:00-04:00",
+    "updated_at": "2026-08-05T16:40:20-04:00",
     "title": "Senior Data Scientist (I & II)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -63152,7 +63152,7 @@
     "alerted": false
   },
   "greenhouse:instacart:4949335": {
-    "updated_at": "2026-08-03T12:27:09-04:00",
+    "updated_at": "2026-08-05T16:40:20-04:00",
     "title": "Senior Data Scientist (I & II)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -70816,7 +70816,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7819293": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:20-04:00",
     "title": "Senior Data Scientist - Shopping Experience (Search)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -70928,7 +70928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7819163": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:20-04:00",
     "title": "Senior Data Scientist - Shopping Experience (Search)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -74856,7 +74856,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7478741": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Account Executive",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -74896,7 +74896,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7246274": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Account Manager (German Speaker)",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -74960,7 +74960,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7511828": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Procurement Counsel",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -75056,7 +75056,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7008408": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Customer Strategy & Operations Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -92056,7 +92056,7 @@
     "alerted": false
   },
   "greenhouse:instacart:4995818": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:21-04:00",
     "title": "Fraud & Identity Specialist (Contract)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -92104,7 +92104,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7718773": {
-    "updated_at": "2026-06-24T18:12:32-04:00",
+    "updated_at": "2026-08-05T16:40:22-04:00",
     "title": "Sales Executive II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -92128,7 +92128,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7783158": {
-    "updated_at": "2026-07-27T17:24:03-04:00",
+    "updated_at": "2026-08-05T16:40:24-04:00",
     "title": "Senior Data Analyst",
     "company": "instacart",
     "ats": "greenhouse",
@@ -92136,7 +92136,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7783160": {
-    "updated_at": "2026-07-27T17:24:17-04:00",
+    "updated_at": "2026-08-05T16:40:24-04:00",
     "title": "Senior Data Analyst",
     "company": "instacart",
     "ats": "greenhouse",
@@ -118848,7 +118848,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7374554": {
-    "updated_at": "2026-08-05T16:02:26-04:00",
+    "updated_at": "2026-08-05T17:27:10-04:00",
     "title": "Senior Customer Engineer, Majors",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -127456,7 +127456,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7850982": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Director of Engineering",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -129144,7 +129144,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7850960": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Software Engineer, AI Product Insights",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -135464,7 +135464,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7863631": {
-    "updated_at": "2026-07-16T18:55:33-04:00",
+    "updated_at": "2026-08-05T16:40:25-04:00",
     "title": "Enterprise Sales Manager, Caper",
     "company": "instacart",
     "ats": "greenhouse",
@@ -135472,7 +135472,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7863629": {
-    "updated_at": "2026-07-16T18:51:41-04:00",
+    "updated_at": "2026-08-05T16:40:25-04:00",
     "title": "Enterprise Sales Manager, Caper",
     "company": "instacart",
     "ats": "greenhouse",
@@ -148120,7 +148120,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7904851": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:26-04:00",
     "title": "Senior Product Manager, Shopping Experience",
     "company": "instacart",
     "ats": "greenhouse",
@@ -152984,7 +152984,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7871823": {
-    "updated_at": "2026-07-20T15:05:28-04:00",
+    "updated_at": "2026-08-05T16:40:26-04:00",
     "title": "Director of Customer Success",
     "company": "instacart",
     "ats": "greenhouse",
@@ -159664,7 +159664,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7927378": {
-    "updated_at": "2026-07-07T15:59:15-04:00",
+    "updated_at": "2026-08-05T16:40:27-04:00",
     "title": "Engineering Manager, Software, Catalog Enrichment",
     "company": "instacart",
     "ats": "greenhouse",
@@ -163048,7 +163048,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7939638": {
-    "updated_at": "2026-07-16T18:55:17-04:00",
+    "updated_at": "2026-08-05T16:40:27-04:00",
     "title": "Enterprise Sales Manager, StoreFront Pro",
     "company": "instacart",
     "ats": "greenhouse",
@@ -163056,7 +163056,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7939636": {
-    "updated_at": "2026-07-16T18:51:38-04:00",
+    "updated_at": "2026-08-05T16:40:27-04:00",
     "title": "Enterprise Sales Manager, StoreFront Pro",
     "company": "instacart",
     "ats": "greenhouse",
@@ -165352,7 +165352,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7943853": {
-    "updated_at": "2026-06-26T17:50:17-04:00",
+    "updated_at": "2026-08-05T16:40:29-04:00",
     "title": "Measurement Science Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -165680,7 +165680,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7943584": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Security Engineer",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -166744,7 +166744,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7932060": {
-    "updated_at": "2026-06-29T18:34:56-04:00",
+    "updated_at": "2026-08-05T17:54:01-04:00",
     "title": "Director, People Analytics",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -167200,7 +167200,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7947506": {
-    "updated_at": "2026-07-17T11:06:15-04:00",
+    "updated_at": "2026-08-05T16:40:30-04:00",
     "title": "Senior Engineering Manager, Enterprise Foundations",
     "company": "instacart",
     "ats": "greenhouse",
@@ -167680,7 +167680,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7948237": {
-    "updated_at": "2026-08-04T17:35:29-04:00",
+    "updated_at": "2026-08-05T16:40:30-04:00",
     "title": "Social Content Producer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -167688,7 +167688,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7948239": {
-    "updated_at": "2026-08-04T17:35:31-04:00",
+    "updated_at": "2026-08-05T16:40:30-04:00",
     "title": "Social Content Producer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -169704,7 +169704,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951046": {
-    "updated_at": "2026-06-26T17:50:11-04:00",
+    "updated_at": "2026-08-05T16:40:29-04:00",
     "title": "Media Analytics Manager, Measurement & Attribution",
     "company": "instacart",
     "ats": "greenhouse",
@@ -170464,7 +170464,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7950721": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Revenue Strategy & Operations Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -170472,7 +170472,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7950662": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Revenue Strategy & Operations Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -173752,7 +173752,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958122": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:22-04:00",
     "title": "Senior People Data Scientist",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173760,7 +173760,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958121": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:22-04:00",
     "title": "Senior People Data Scientist",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173936,7 +173936,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958561": {
-    "updated_at": "2026-07-22T13:42:59-04:00",
+    "updated_at": "2026-08-05T16:40:31-04:00",
     "title": "Knowledge Strategist Team Lead, Governance",
     "company": "instacart",
     "ats": "greenhouse",
@@ -173944,7 +173944,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958563": {
-    "updated_at": "2026-07-22T13:43:00-04:00",
+    "updated_at": "2026-08-05T16:40:31-04:00",
     "title": "Knowledge Strategist Team Lead, Governance",
     "company": "instacart",
     "ats": "greenhouse",
@@ -174176,7 +174176,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958331": {
-    "updated_at": "2026-07-27T17:30:00-04:00",
+    "updated_at": "2026-08-05T16:40:32-04:00",
     "title": "Senior Financial Analyst, Retailer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -174184,7 +174184,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7958329": {
-    "updated_at": "2026-07-27T17:29:39-04:00",
+    "updated_at": "2026-08-05T16:40:31-04:00",
     "title": "Senior Financial Analyst, Retailer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -175512,7 +175512,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7943893": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Customer Success Architect",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -175920,7 +175920,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7960988": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:32-04:00",
     "title": "Engineering Manager, Service Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -175928,7 +175928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7960958": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:32-04:00",
     "title": "Engineering Manager, Service Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -177304,7 +177304,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7962972": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Customer Strategy & Operations Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -177424,7 +177424,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963780": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:34-04:00",
     "title": "Senior Marketing Decision Scientist II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -177432,7 +177432,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963779": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:34-04:00",
     "title": "Senior Marketing Decision Scientist II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -177520,7 +177520,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963724": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:33-04:00",
     "title": "Senior Product Manager, In-Store Tasks",
     "company": "instacart",
     "ats": "greenhouse",
@@ -177528,7 +177528,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963726": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:33-04:00",
     "title": "Senior Product Manager, In-Store Tasks",
     "company": "instacart",
     "ats": "greenhouse",
@@ -178128,7 +178128,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963838": {
-    "updated_at": "2026-07-28T12:44:18-04:00",
+    "updated_at": "2026-08-05T16:40:34-04:00",
     "title": "Senior Machine Learning Engineer II, Ads Response Prediction",
     "company": "instacart",
     "ats": "greenhouse",
@@ -178424,7 +178424,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7963797": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Strategic Finance Associate",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -179248,7 +179248,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7967233": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:35-04:00",
     "title": "Director of Product, Agentic Commerce",
     "company": "instacart",
     "ats": "greenhouse",
@@ -179256,7 +179256,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7967235": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:35-04:00",
     "title": "Director of Product, Agentic Commerce",
     "company": "instacart",
     "ats": "greenhouse",
@@ -179272,7 +179272,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7963661": {
-    "updated_at": "2026-07-29T13:26:10-04:00",
+    "updated_at": "2026-08-05T16:40:33-04:00",
     "title": "Software Engineer II, Technical Search Visibility",
     "company": "instacart",
     "ats": "greenhouse",
@@ -179368,16 +179368,16 @@
     "alerted": false
   },
   "greenhouse:ziprecruiter:7964938": {
-    "updated_at": "2026-06-02T13:51:14-04:00",
-    "title": "Inside Sales - Account Executive, IVR",
+    "updated_at": "2026-08-05T17:39:56-04:00",
+    "title": "Inside Sales - Account Executive, Inbound",
     "company": "ziprecruiter",
     "ats": "greenhouse",
     "source_slug": "ziprecruiter",
     "alerted": false
   },
   "greenhouse:coreweave:4612429006": {
-    "updated_at": "2026-07-27T14:47:04-04:00",
-    "title": "Recruiter GTM & Business Operations (Contract)",
+    "updated_at": "2026-08-05T16:47:21-04:00",
+    "title": "Recruiter GTM & Business (Contract)",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -179896,7 +179896,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7967305": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:35-04:00",
     "title": "Catalog Operations Analyst II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180328,7 +180328,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951938": {
-    "updated_at": "2026-07-27T18:25:11-04:00",
+    "updated_at": "2026-08-05T16:40:27-04:00",
     "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180336,7 +180336,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7951926": {
-    "updated_at": "2026-07-27T18:23:50-04:00",
+    "updated_at": "2026-08-05T16:40:27-04:00",
     "title": "Senior Software Engineer, Core Experience",
     "company": "instacart",
     "ats": "greenhouse",
@@ -180344,7 +180344,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7939947": {
-    "updated_at": "2026-07-27T18:22:54-04:00",
+    "updated_at": "2026-08-05T16:40:27-04:00",
     "title": "Senior Software Engineer, Ads",
     "company": "instacart",
     "ats": "greenhouse",
@@ -181088,7 +181088,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974507": {
-    "updated_at": "2026-07-10T11:49:33-04:00",
+    "updated_at": "2026-08-05T17:32:35-04:00",
     "title": "Senior Staff Data Scientist - Consumer Experimentation",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182152,7 +182152,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974647": {
-    "updated_at": "2026-08-05T08:25:08-04:00",
+    "updated_at": "2026-08-05T17:27:07-04:00",
     "title": "Senior Staff Data Scientist - Consumer Relevance",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182232,7 +182232,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974605": {
-    "updated_at": "2026-08-05T08:25:08-04:00",
+    "updated_at": "2026-08-05T17:27:07-04:00",
     "title": "Senior Staff Data Scientist - Consumer Relevance",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182248,7 +182248,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974504": {
-    "updated_at": "2026-07-10T11:49:33-04:00",
+    "updated_at": "2026-08-05T17:32:35-04:00",
     "title": "Senior Staff Data Scientist - Consumer Experimentation",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182280,7 +182280,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7974567": {
-    "updated_at": "2026-07-27T18:24:06-04:00",
+    "updated_at": "2026-08-05T16:40:28-04:00",
     "title": "Senior Software Engineer, Developer Experience",
     "company": "instacart",
     "ats": "greenhouse",
@@ -182296,7 +182296,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7974573": {
-    "updated_at": "2026-07-27T18:23:36-04:00",
+    "updated_at": "2026-08-05T16:40:28-04:00",
     "title": "Senior Software Engineer, AI Productivity",
     "company": "instacart",
     "ats": "greenhouse",
@@ -184368,7 +184368,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7943560": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Software Engineer, Data Foundation",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -186040,7 +186040,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7979769": {
-    "updated_at": "2026-07-27T18:24:23-04:00",
+    "updated_at": "2026-08-05T16:40:28-04:00",
     "title": "Senior Software Engineer I \u2014 Agentic Analytics",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186056,7 +186056,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976883": {
-    "updated_at": "2026-06-29T12:17:11-04:00",
+    "updated_at": "2026-08-05T16:40:36-04:00",
     "title": "Implementation Specialist - Caper (Contractor)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186840,7 +186840,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980129": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:37-04:00",
     "title": "Field Sales Representative  (Contractor)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186848,7 +186848,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980000": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:37-04:00",
     "title": "Field Sales Representative  (Contractor)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186920,7 +186920,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980376": {
-    "updated_at": "2026-07-27T17:15:19-04:00",
+    "updated_at": "2026-08-05T16:40:37-04:00",
     "title": "Corporate Finance Manager, G&A",
     "company": "instacart",
     "ats": "greenhouse",
@@ -186928,7 +186928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7980374": {
-    "updated_at": "2026-07-27T17:14:59-04:00",
+    "updated_at": "2026-08-05T16:40:37-04:00",
     "title": "Corporate Finance Manager, G&A",
     "company": "instacart",
     "ats": "greenhouse",
@@ -187680,7 +187680,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7979892": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Technical Accountant",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -188312,7 +188312,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976934": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:36-04:00",
     "title": "AI Solutions Architect",
     "company": "instacart",
     "ats": "greenhouse",
@@ -188320,7 +188320,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7976932": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:36-04:00",
     "title": "AI Solutions Architect",
     "company": "instacart",
     "ats": "greenhouse",
@@ -190800,7 +190800,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7985466": {
-    "updated_at": "2026-08-04T14:15:43-04:00",
+    "updated_at": "2026-08-05T16:40:37-04:00",
     "title": "People Experience Program Manager - San Francisco",
     "company": "instacart",
     "ats": "greenhouse",
@@ -193016,7 +193016,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7495338": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:21-04:00",
     "title": "Ads AI Analytics Lead II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -193080,8 +193080,8 @@
     "alerted": false
   },
   "greenhouse:gitlab:8574978002": {
-    "updated_at": "2026-08-03T16:43:10-04:00",
-    "title": "Principal HRIS Analyst, People Technology - Workday",
+    "updated_at": "2026-08-05T17:15:26-04:00",
+    "title": "Staff HRIS Analyst, People Technology - Workday",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
@@ -194688,7 +194688,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7991599": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:38-04:00",
     "title": "Director, Enterprise Product Marketing",
     "company": "instacart",
     "ats": "greenhouse",
@@ -194696,7 +194696,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7991597": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:38-04:00",
     "title": "Director, Enterprise Product Marketing",
     "company": "instacart",
     "ats": "greenhouse",
@@ -196000,7 +196000,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5251832008": {
-    "updated_at": "2026-06-16T17:48:07-04:00",
+    "updated_at": "2026-08-05T17:04:04-04:00",
     "title": "Marketing Events Producer",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -196928,7 +196928,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7994245": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:38-04:00",
     "title": "AI Engagement Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -196936,7 +196936,7 @@
     "alerted": false
   },
   "greenhouse:instacart:7994243": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:38-04:00",
     "title": "AI Engagement Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -205152,7 +205152,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8009366": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:39-04:00",
     "title": "Senior Solutions Architect II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -205776,7 +205776,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7772283003": {
-    "updated_at": "2026-07-16T11:58:52-04:00",
+    "updated_at": "2026-08-05T17:16:32-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -207504,7 +207504,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8013866": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Development Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -207512,7 +207512,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8011396": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Development Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -207720,7 +207720,7 @@
     "alerted": true
   },
   "greenhouse:instacart:8014062": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:39-04:00",
     "title": "Senior Product Manager, Retailer Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -207888,7 +207888,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8014060": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:39-04:00",
     "title": "Senior Product Manager, Retailer Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -209728,7 +209728,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8017073": {
-    "updated_at": "2026-07-29T11:11:42-04:00",
+    "updated_at": "2026-08-05T16:40:41-04:00",
     "title": "Senior Product Security Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -209736,7 +209736,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8017071": {
-    "updated_at": "2026-07-29T11:11:42-04:00",
+    "updated_at": "2026-08-05T16:40:41-04:00",
     "title": "Senior Product Security Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -212848,7 +212848,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8021875": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Account Manager (German Speaker - Offering Relocation Support to London)",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -212856,7 +212856,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8021869": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Account Manager (German Speaker - Offering Relocation Support to London)",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -216512,7 +216512,7 @@
     "alerted": false
   },
   "greenhouse:okta:7930857": {
-    "updated_at": "2026-07-14T18:40:50-04:00",
+    "updated_at": "2026-08-05T17:51:02-04:00",
     "title": "Sr. Customer Success Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -217464,7 +217464,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8024430": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:41-04:00",
     "title": "Senior Product Manager, AI",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217472,7 +217472,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8024428": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:41-04:00",
     "title": "Senior Product Manager, AI",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217488,7 +217488,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8026686": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:42-04:00",
     "title": "Sr. Product Designer II - Design Systems",
     "company": "instacart",
     "ats": "greenhouse",
@@ -217504,7 +217504,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8026684": {
-    "updated_at": "2026-06-24T16:24:24-04:00",
+    "updated_at": "2026-08-05T16:40:42-04:00",
     "title": "Sr. Product Designer II - Design Systems",
     "company": "instacart",
     "ats": "greenhouse",
@@ -218776,7 +218776,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8028380": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Development Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -219224,7 +219224,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8028738": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Development Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -219400,7 +219400,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7943169": {
-    "updated_at": "2026-07-10T19:37:43-04:00",
+    "updated_at": "2026-08-05T17:34:44-04:00",
     "title": "Staff Software Engineer, Pricing and Packaging Engineering",
     "company": "gusto",
     "ats": "greenhouse",
@@ -219584,7 +219584,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7941929": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Software Engineer, DevInfra",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -220072,7 +220072,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8029697": {
-    "updated_at": "2026-07-13T18:01:08-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Senior Account Executive, Eversight",
     "company": "instacart",
     "ats": "greenhouse",
@@ -220128,7 +220128,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8029663": {
-    "updated_at": "2026-06-30T15:47:41-04:00",
+    "updated_at": "2026-08-05T16:40:42-04:00",
     "title": "Sales Development Representative II, Local Independent Grocery - Toronto",
     "company": "instacart",
     "ats": "greenhouse",
@@ -220136,7 +220136,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8029661": {
-    "updated_at": "2026-06-30T15:46:59-04:00",
+    "updated_at": "2026-08-05T16:40:42-04:00",
     "title": "Sales Development Representative II, Local Independent Grocery - New York",
     "company": "instacart",
     "ats": "greenhouse",
@@ -221248,7 +221248,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8031379": {
-    "updated_at": "2026-06-26T17:50:14-04:00",
+    "updated_at": "2026-08-05T16:40:29-04:00",
     "title": "Measurement Science Manager II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -223728,7 +223728,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8036055": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Customer Success Architect",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -223832,7 +223832,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8036533": {
-    "updated_at": "2026-07-27T18:25:29-04:00",
+    "updated_at": "2026-08-05T16:40:28-04:00",
     "title": "Senior Software Engineer II - Shopper Activation & Engagement",
     "company": "instacart",
     "ats": "greenhouse",
@@ -223872,7 +223872,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8036469": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Development Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -224184,7 +224184,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8036703": {
-    "updated_at": "2026-07-10T13:18:27-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Growth Partnerships Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -224192,7 +224192,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8036701": {
-    "updated_at": "2026-07-10T13:18:20-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Growth Partnerships Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -227704,7 +227704,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8041911": {
-    "updated_at": "2026-07-27T17:18:45-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Eversight Senior Account Executive, Enterprise Team",
     "company": "instacart",
     "ats": "greenhouse",
@@ -228432,7 +228432,7 @@
     "alerted": true
   },
   "greenhouse:gusto:8001872": {
-    "updated_at": "2026-07-07T11:14:57-04:00",
+    "updated_at": "2026-08-05T16:59:37-04:00",
     "title": "HR Consultant",
     "company": "gusto",
     "ats": "greenhouse",
@@ -228552,7 +228552,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4693507006": {
-    "updated_at": "2026-07-27T14:47:04-04:00",
+    "updated_at": "2026-08-05T17:20:04-04:00",
     "title": "Staff Engineer, Network Observability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -230464,7 +230464,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8044053": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Customer Success Architect",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -230528,7 +230528,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8044048": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Customer Success Architect",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -232488,7 +232488,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8039126": {
-    "updated_at": "2026-08-04T16:38:20-04:00",
+    "updated_at": "2026-08-05T17:47:07-04:00",
     "title": "Strategic Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -232744,7 +232744,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8047516": {
-    "updated_at": "2026-07-29T16:09:09-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Product Counsel",
     "company": "instacart",
     "ats": "greenhouse",
@@ -234656,7 +234656,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8049868": {
-    "updated_at": "2026-07-15T12:34:34-04:00",
+    "updated_at": "2026-08-05T16:40:29-04:00",
     "title": "Senior SOX Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -238288,7 +238288,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8053868": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Staff Design Engineer",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -239016,7 +239016,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8040016": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Head of Sales ANZ, Sydney",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -239024,7 +239024,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8040010": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Account Executive - ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -239032,7 +239032,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8039991": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Solutions Engineer - ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -239040,7 +239040,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8039885": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Sales Manager - ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -243472,7 +243472,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8056751": {
-    "updated_at": "2026-08-05T10:50:19-04:00",
+    "updated_at": "2026-08-05T17:00:13-04:00",
     "title": "Vice President, Solutions Architecture - EMEA",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -243552,7 +243552,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8064216": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Software Engineer, AI Platform",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-05T16:35:32-04:00",
+    "updated_at": "2026-08-05T17:49:52-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-05T16:35:36-04:00",
+    "updated_at": "2026-08-05T17:49:56-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246816,7 +246816,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8067969": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Strategic Finance Associate - GTM",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -246824,7 +246824,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8067964": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Strategic Finance Associate - GTM",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -248120,7 +248120,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8625636002": {
-    "updated_at": "2026-08-05T11:49:23-04:00",
+    "updated_at": "2026-08-05T17:28:09-04:00",
     "title": "Solutions Architect - Agencies",
     "company": "databricks",
     "ats": "greenhouse",
@@ -248376,7 +248376,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8068467": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-05T17:29:48-04:00",
     "title": "Program Manager, Revenue Journey Office",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248840,7 +248840,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8069983": {
-    "updated_at": "2026-07-16T14:13:32-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Sales Development Representative II, Local Independent Grocery - Boston",
     "company": "instacart",
     "ats": "greenhouse",
@@ -248848,7 +248848,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8069980": {
-    "updated_at": "2026-07-16T14:11:16-04:00",
+    "updated_at": "2026-08-05T16:40:42-04:00",
     "title": "Sales Development Representative II, Local Independent Grocery - Chicago",
     "company": "instacart",
     "ats": "greenhouse",
@@ -251672,7 +251672,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8070678": {
-    "updated_at": "2026-07-30T12:26:26-04:00",
+    "updated_at": "2026-08-05T16:42:30-04:00",
     "title": "Senior Machine Learning Engineer, Price Modeling",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -253232,7 +253232,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8074453": {
-    "updated_at": "2026-07-20T15:12:44-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Manager, IT Operations",
     "company": "instacart",
     "ats": "greenhouse",
@@ -254544,7 +254544,7 @@
     "alerted": true
   },
   "greenhouse:instacart:8060210": {
-    "updated_at": "2026-07-21T12:13:58-04:00",
+    "updated_at": "2026-08-05T16:40:36-04:00",
     "title": "Implementation Specialist - Caper (Contractor)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -256256,8 +256256,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8077995": {
-    "updated_at": "2026-07-21T19:33:46-04:00",
-    "title": "Staff Backend Engineer, Host Serving and Access",
+    "updated_at": "2026-08-05T16:53:07-04:00",
+    "title": "Staff Software Engineer, Guest & Host",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -256472,8 +256472,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8643452002": {
-    "updated_at": "2026-07-22T02:51:37-04:00",
-    "title": "Sr. Partner Engineer - Security Partners",
+    "updated_at": "2026-08-05T17:53:19-04:00",
+    "title": "Staff Partner Engineer, AI Partnerships",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -257872,7 +257872,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8077679": {
-    "updated_at": "2026-07-27T13:33:04-04:00",
+    "updated_at": "2026-08-05T16:40:44-04:00",
     "title": "Senior Manager, Technical Account Management (Enterprise)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258040,7 +258040,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080139": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Channel Sales Manager, EMEA",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -258328,7 +258328,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8080312": {
-    "updated_at": "2026-07-22T16:44:32-04:00",
+    "updated_at": "2026-08-05T16:40:45-04:00",
     "title": "Staff Software Engineer, Bazel & Go",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258336,7 +258336,7 @@
     "alerted": true
   },
   "greenhouse:instacart:8080310": {
-    "updated_at": "2026-07-22T16:44:32-04:00",
+    "updated_at": "2026-08-05T16:40:44-04:00",
     "title": "Staff Software Engineer, Bazel & Go",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258432,7 +258432,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8080474": {
-    "updated_at": "2026-07-22T17:00:21-04:00",
+    "updated_at": "2026-08-05T16:40:45-04:00",
     "title": "Sales Executive",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258472,7 +258472,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8080532": {
-    "updated_at": "2026-07-22T16:50:24-04:00",
+    "updated_at": "2026-08-05T16:40:25-04:00",
     "title": "Detection Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258480,7 +258480,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8080512": {
-    "updated_at": "2026-07-22T16:48:21-04:00",
+    "updated_at": "2026-08-05T16:40:24-04:00",
     "title": "Detection Engineer II",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258760,7 +258760,7 @@
     "alerted": true
   },
   "greenhouse:instacart:8077512": {
-    "updated_at": "2026-07-24T11:08:45-04:00",
+    "updated_at": "2026-08-05T16:40:44-04:00",
     "title": "Senior Product Manager, Ads Quality",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258768,7 +258768,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8077510": {
-    "updated_at": "2026-07-24T11:08:35-04:00",
+    "updated_at": "2026-08-05T16:40:43-04:00",
     "title": "Senior Product Manager, Ads Quality",
     "company": "instacart",
     "ats": "greenhouse",
@@ -258856,7 +258856,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080832": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Enterprise Account Executive, Japan",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -258872,7 +258872,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080833": {
-    "updated_at": "2026-08-04T18:36:19-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Enterprise Account Executive, Malaysia & Indonesia",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -258880,7 +258880,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080826": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Head of Sales, India",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -258888,7 +258888,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080828": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Sales Manager - Asia and India",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -258944,7 +258944,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080835": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Partner Sales Manager - Japan and Korea",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -259680,7 +259680,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8079821": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Strategic Account Executive",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -259800,7 +259800,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8081974": {
-    "updated_at": "2026-07-31T14:27:16-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Director, Internal Analysis",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -260432,7 +260432,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8082556": {
-    "updated_at": "2026-07-27T11:45:38-04:00",
+    "updated_at": "2026-08-05T17:51:00-04:00",
     "title": "Senior Forward Deployed Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -261912,7 +261912,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8082703": {
-    "updated_at": "2026-07-24T12:21:37-04:00",
+    "updated_at": "2026-08-05T16:40:45-04:00",
     "title": "BGC Compliance Specialist",
     "company": "instacart",
     "ats": "greenhouse",
@@ -263632,7 +263632,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8084090": {
-    "updated_at": "2026-07-27T09:34:15-04:00",
+    "updated_at": "2026-08-05T16:40:45-04:00",
     "title": "Staff Experience Designer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -263640,7 +263640,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8084089": {
-    "updated_at": "2026-07-27T09:34:05-04:00",
+    "updated_at": "2026-08-05T16:40:45-04:00",
     "title": "Staff Experience Designer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -264240,7 +264240,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8089322": {
-    "updated_at": "2026-07-27T14:23:33-04:00",
+    "updated_at": "2026-08-05T16:40:39-04:00",
     "title": "Senior Software Engineer, Marketing Enablement & Technology",
     "company": "instacart",
     "ats": "greenhouse",
@@ -264560,7 +264560,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8084166": {
-    "updated_at": "2026-07-27T15:40:59-04:00",
+    "updated_at": "2026-08-05T16:40:45-04:00",
     "title": "Senior Engineering Manager, Activation & Engagement",
     "company": "instacart",
     "ats": "greenhouse",
@@ -266824,7 +266824,7 @@
     "alerted": false
   },
   "greenhouse:toast:8093040": {
-    "updated_at": "2026-07-28T17:22:03-04:00",
+    "updated_at": "2026-08-05T16:50:57-04:00",
     "title": "Inside Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -266840,7 +266840,7 @@
     "alerted": false
   },
   "greenhouse:toast:8088325": {
-    "updated_at": "2026-07-28T17:21:15-04:00",
+    "updated_at": "2026-08-05T16:50:49-04:00",
     "title": "Inside Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -266968,7 +266968,7 @@
     "alerted": false
   },
   "greenhouse:toast:8088329": {
-    "updated_at": "2026-07-30T09:42:47-04:00",
+    "updated_at": "2026-08-05T16:52:22-04:00",
     "title": "Territory Account Executive- East Ottawa",
     "company": "toast",
     "ats": "greenhouse",
@@ -267080,7 +267080,7 @@
     "alerted": false
   },
   "greenhouse:toast:8093044": {
-    "updated_at": "2026-07-28T17:22:28-04:00",
+    "updated_at": "2026-08-05T16:51:22-04:00",
     "title": "Inside Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -267144,7 +267144,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8093206": {
-    "updated_at": "2026-07-28T19:21:08-04:00",
+    "updated_at": "2026-08-05T16:40:46-04:00",
     "title": "Marketing Manager II, Canada",
     "company": "instacart",
     "ats": "greenhouse",
@@ -267296,7 +267296,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8093228": {
-    "updated_at": "2026-07-28T20:03:09-04:00",
+    "updated_at": "2026-08-05T16:40:46-04:00",
     "title": "Sales Executive, Mid Market",
     "company": "instacart",
     "ats": "greenhouse",
@@ -267960,7 +267960,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8091193": {
-    "updated_at": "2026-07-29T15:19:53-04:00",
+    "updated_at": "2026-08-05T16:40:46-04:00",
     "title": "Senior Risk & Compliance Engineer - Data",
     "company": "instacart",
     "ats": "greenhouse",
@@ -267968,7 +267968,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8091191": {
-    "updated_at": "2026-07-29T15:19:26-04:00",
+    "updated_at": "2026-08-05T16:40:46-04:00",
     "title": "Senior Risk & Compliance Engineer - Data",
     "company": "instacart",
     "ats": "greenhouse",
@@ -268808,7 +268808,7 @@
     "alerted": false
   },
   "greenhouse:toast:8088327": {
-    "updated_at": "2026-07-29T13:43:55-04:00",
+    "updated_at": "2026-08-05T16:52:56-04:00",
     "title": "Territory Account Executive- Vaughan",
     "company": "toast",
     "ats": "greenhouse",
@@ -269392,7 +269392,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8090105": {
-    "updated_at": "2026-07-29T17:06:10-04:00",
+    "updated_at": "2026-08-05T16:39:33-04:00",
     "title": "Corporate Finance Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -270224,7 +270224,7 @@
     "alerted": false
   },
   "greenhouse:toast:8096162": {
-    "updated_at": "2026-07-31T11:31:08-04:00",
+    "updated_at": "2026-08-05T16:51:38-04:00",
     "title": "Territory Account Executive- Brampton/Mississauga",
     "company": "toast",
     "ats": "greenhouse",
@@ -271328,7 +271328,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8097510": {
-    "updated_at": "2026-07-30T16:11:54-04:00",
+    "updated_at": "2026-08-05T16:40:38-04:00",
     "title": "Forward Deployed Engineer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -271336,7 +271336,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8097507": {
-    "updated_at": "2026-07-30T16:11:53-04:00",
+    "updated_at": "2026-08-05T16:40:38-04:00",
     "title": "Forward Deployed Engineer",
     "company": "instacart",
     "ats": "greenhouse",
@@ -271808,8 +271808,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8023773": {
-    "updated_at": "2026-07-30T18:17:58-04:00",
-    "title": "Solutions Architect, Enterprise Hunter",
+    "updated_at": "2026-08-05T17:00:25-04:00",
+    "title": "Solutions Architect, Enterprise (Pre-sales)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -272528,7 +272528,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8099277": {
-    "updated_at": "2026-07-31T12:23:00-04:00",
+    "updated_at": "2026-08-05T16:40:26-04:00",
     "title": "Senior Android Engineer, Shopper Activation and Engagement",
     "company": "instacart",
     "ats": "greenhouse",
@@ -272784,7 +272784,7 @@
     "alerted": false
   },
   "greenhouse:toast:8098718": {
-    "updated_at": "2026-07-31T11:17:17-04:00",
+    "updated_at": "2026-08-05T16:53:11-04:00",
     "title": "Territory Account Executive- West Toronto",
     "company": "toast",
     "ats": "greenhouse",
@@ -273040,7 +273040,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8077677": {
-    "updated_at": "2026-07-31T12:59:17-04:00",
+    "updated_at": "2026-08-05T16:40:44-04:00",
     "title": "Senior Manager, Technical Account Management (Enterprise)",
     "company": "instacart",
     "ats": "greenhouse",
@@ -274456,7 +274456,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8569640002": {
-    "updated_at": "2026-08-03T11:56:12-04:00",
+    "updated_at": "2026-08-05T16:54:50-04:00",
     "title": "Solutions Architect - Digital Native Business, Named Accounts",
     "company": "databricks",
     "ats": "greenhouse",
@@ -274496,7 +274496,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8603543002": {
-    "updated_at": "2026-08-03T11:48:26-04:00",
+    "updated_at": "2026-08-05T16:55:09-04:00",
     "title": "Sr. Solutions Engineer - Digital Native Business, FinTech",
     "company": "databricks",
     "ats": "greenhouse",
@@ -274816,7 +274816,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8100150": {
-    "updated_at": "2026-08-03T14:27:35-04:00",
+    "updated_at": "2026-08-05T16:40:46-04:00",
     "title": "Senior Product Manager, Caper Recommendations & Personalization",
     "company": "instacart",
     "ats": "greenhouse",
@@ -274824,7 +274824,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8100148": {
-    "updated_at": "2026-08-03T14:27:33-04:00",
+    "updated_at": "2026-08-05T16:40:46-04:00",
     "title": "Senior Product Manager, Caper Recommendations & Personalization",
     "company": "instacart",
     "ats": "greenhouse",
@@ -275416,7 +275416,7 @@
     "alerted": false
   },
   "greenhouse:convera:4942136101": {
-    "updated_at": "2026-08-03T14:53:28-04:00",
+    "updated_at": "2026-08-05T17:53:04-04:00",
     "title": "Accounting Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -276672,7 +276672,7 @@
     "alerted": true
   },
   "greenhouse:intercom:8092351": {
-    "updated_at": "2026-08-04T12:45:39-04:00",
+    "updated_at": "2026-08-05T17:21:25-04:00",
     "title": "Business Development Representative",
     "company": "intercom",
     "ats": "greenhouse",
@@ -276688,7 +276688,7 @@
     "alerted": false
   },
   "greenhouse:ziprecruiter:8078317": {
-    "updated_at": "2026-08-04T12:42:20-04:00",
+    "updated_at": "2026-08-05T16:48:31-04:00",
     "title": "Manager, Enterprise Staffing",
     "company": "ziprecruiter",
     "ats": "greenhouse",
@@ -276728,7 +276728,7 @@
     "alerted": false
   },
   "greenhouse:braze:8105946": {
-    "updated_at": "2026-08-04T13:44:43-04:00",
+    "updated_at": "2026-08-05T17:02:13-04:00",
     "title": "Staff Software Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -276736,7 +276736,7 @@
     "alerted": false
   },
   "greenhouse:braze:8105613": {
-    "updated_at": "2026-08-04T13:44:34-04:00",
+    "updated_at": "2026-08-05T17:02:13-04:00",
     "title": "Staff Software Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -277024,7 +277024,7 @@
     "alerted": true
   },
   "greenhouse:instacart:8104343": {
-    "updated_at": "2026-08-05T13:36:50-04:00",
+    "updated_at": "2026-08-05T16:40:47-04:00",
     "title": "Senior Revenue Operations Manager - Eversight",
     "company": "instacart",
     "ats": "greenhouse",
@@ -277032,7 +277032,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8104341": {
-    "updated_at": "2026-08-05T13:36:37-04:00",
+    "updated_at": "2026-08-05T16:40:47-04:00",
     "title": "Senior Revenue Operations Manager - Eversight",
     "company": "instacart",
     "ats": "greenhouse",
@@ -277784,7 +277784,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8107376": {
-    "updated_at": "2026-08-04T19:04:00-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior PR & Communications Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -277816,7 +277816,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8106351": {
-    "updated_at": "2026-08-04T18:59:21-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior PR & Communications Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -277912,7 +277912,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8107391": {
-    "updated_at": "2026-08-05T12:04:53-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Field Enablement Manager, EMEA",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -277944,7 +277944,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8107396": {
-    "updated_at": "2026-08-04T19:49:17-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Field Enablement Manager, APAC",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -278264,7 +278264,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8106851": {
-    "updated_at": "2026-08-04T21:26:19-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Regional Marketing Manager, ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -278488,7 +278488,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8107284": {
-    "updated_at": "2026-08-05T05:24:21-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Senior Campaign Manager, APAC",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -278776,7 +278776,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8106376": {
-    "updated_at": "2026-08-05T11:27:52-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Field Marketing Manager, DACH",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -279096,7 +279096,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7820703003": {
-    "updated_at": "2026-08-05T13:20:49-04:00",
+    "updated_at": "2026-08-05T16:49:42-04:00",
     "title": "Sr. AI Systems & Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -279208,7 +279208,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8109324": {
-    "updated_at": "2026-08-05T12:51:41-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Lifecycle Marketing Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -279304,7 +279304,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8097544": {
-    "updated_at": "2026-08-05T12:21:13-04:00",
+    "updated_at": "2026-08-05T17:27:17-04:00",
     "title": "Lifecycle Marketing Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -279576,7 +279576,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8096323": {
-    "updated_at": "2026-08-05T14:05:36-04:00",
+    "updated_at": "2026-08-05T17:36:07-04:00",
     "title": "Executive Assistant II - Paris",
     "company": "datadog",
     "ats": "greenhouse",
@@ -280142,5 +280142,261 @@
     "ats": "greenhouse",
     "source_slug": "braze",
     "alerted": true
+  },
+  "greenhouse:purestorage:8095681": {
+    "updated_at": "2026-08-05T17:41:01-04:00",
+    "title": "Sr. Business Operations Manager \u2014 Hyperscale Line of Business",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:snorkelai:6135754004": {
+    "updated_at": "2026-08-05T17:40:11-04:00",
+    "title": "Accounting Manager, Technical Accounting & Financial Reporting",
+    "company": "snorkelai",
+    "ats": "greenhouse",
+    "source_slug": "snorkelai",
+    "alerted": false
+  },
+  "greenhouse:stripe:8100129": {
+    "updated_at": "2026-08-05T17:39:11-04:00",
+    "title": "Head of Enterprise Sales",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8686286002": {
+    "updated_at": "2026-08-05T17:36:31-04:00",
+    "title": "Full Stack Software Engineer, Internal Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8686122002": {
+    "updated_at": "2026-08-05T17:30:52-04:00",
+    "title": "Test Technician, Hardware-in-the-Loop (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8109575": {
+    "updated_at": "2026-08-05T17:30:32-04:00",
+    "title": "Internal Audit Analytics Associate",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:spacex:8686064002": {
+    "updated_at": "2026-08-05T17:29:32-04:00",
+    "title": "Apprentice Instrumentation Fitter - 2nd Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8685947002": {
+    "updated_at": "2026-08-05T17:29:31-04:00",
+    "title": "Apprentice Fabrication Technician - 2nd Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:twilio:8098732": {
+    "updated_at": "2026-08-05T17:29:21-04:00",
+    "title": "Senior Field Enablement Business Partner",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8110111": {
+    "updated_at": "2026-08-05T17:21:14-04:00",
+    "title": "Sr. Security Engineer II \u2013 IRAP Program Lead (Remote Eligible)",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:toast:8102936": {
+    "updated_at": "2026-08-05T17:14:48-04:00",
+    "title": "Territory Account Executive-Oakville/Burlington",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5380379008": {
+    "updated_at": "2026-08-05T17:10:41-04:00",
+    "title": "Technical Program Manager, Hardware Systems",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5380327008": {
+    "updated_at": "2026-08-05T17:06:57-04:00",
+    "title": "Technical Program Manager, RL Research",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:stripe:8104302": {
+    "updated_at": "2026-08-05T17:06:13-04:00",
+    "title": "Manager, Solution Architecture Platforms",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:checkr:8110103": {
+    "updated_at": "2026-08-05T17:05:56-04:00",
+    "title": "Senior Strategic Finance Manager - Go-To-Market",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:okta:8069407": {
+    "updated_at": "2026-08-05T17:05:26-04:00",
+    "title": "Sr. Customer Success Manager",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:braze:8105611": {
+    "updated_at": "2026-08-05T17:05:22-04:00",
+    "title": "Lifecycle Marketing Analyst, Prospect",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8096677": {
+    "updated_at": "2026-08-05T17:04:17-04:00",
+    "title": "Lifecycle Marketing Senior Specialist",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:spacex:8681172002": {
+    "updated_at": "2026-08-05T17:01:39-04:00",
+    "title": "Business Operations Analyst (Starlink Growth)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:faire:8686191002": {
+    "updated_at": "2026-08-05T16:58:06-04:00",
+    "title": "Staff Product Manager, Inspire & App",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8094824": {
+    "updated_at": "2026-08-05T16:54:53-04:00",
+    "title": "Senior Knowledge Program Manager",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:faire:8686167002": {
+    "updated_at": "2026-08-05T16:51:43-04:00",
+    "title": "Staff Product Manager, Search Algorithms",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7829675003": {
+    "updated_at": "2026-08-05T16:50:16-04:00",
+    "title": "Sr. AI Systems & Solutions Architect",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:okta:8108855": {
+    "updated_at": "2026-08-05T16:44:50-04:00",
+    "title": "Staff FullStack Engineer, Okta Secures AI",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8686155002": {
+    "updated_at": "2026-08-05T16:42:59-04:00",
+    "title": "Client Account Executive, Mid-Market",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:spacex:8683596002": {
+    "updated_at": "2026-08-05T16:40:50-04:00",
+    "title": "Starlink Enterprise Sales Director, SLED",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8642583002": {
+    "updated_at": "2026-08-05T16:40:37-04:00",
+    "title": "Client Account Executive, Commercial",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8094754": {
+    "updated_at": "2026-08-05T16:40:15-04:00",
+    "title": "Senior Knowledge Manager",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8648247002": {
+    "updated_at": "2026-08-05T16:39:39-04:00",
+    "title": "Client Account Executive, Mid-Market",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:postman:7824502003": {
+    "updated_at": "2026-08-05T16:39:21-04:00",
+    "title": "Account Executive",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": false
+  },
+  "greenhouse:spacex:8684403002": {
+    "updated_at": "2026-08-05T16:38:56-04:00",
+    "title": "Sr. Software Engineer (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:braze:8110018": {
+    "updated_at": "2026-08-05T16:34:15-04:00",
+    "title": "Senior Lead Systems Engineer, AI & Automation",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
   }
 }
