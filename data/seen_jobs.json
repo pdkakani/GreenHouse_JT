@@ -4600,7 +4600,7 @@
     "alerted": true
   },
   "greenhouse:amplitude:8444770002": {
-    "updated_at": "2026-06-04T14:48:20-04:00",
+    "updated_at": "2026-08-07T15:42:46-04:00",
     "title": "Staff Fullstack Engineer, Core Analytics",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -8248,7 +8248,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7778643": {
-    "updated_at": "2026-06-26T17:05:28-04:00",
+    "updated_at": "2026-08-07T15:48:12-04:00",
     "title": "Technical Program Manager,  Extensibility Programs",
     "company": "stripe",
     "ats": "greenhouse",
@@ -14192,8 +14192,8 @@
     "alerted": true
   },
   "greenhouse:hightouch:5727573004": {
-    "updated_at": "2026-06-17T01:39:08-04:00",
-    "title": "Manager, Solutions Engineering",
+    "updated_at": "2026-08-07T16:01:40-04:00",
+    "title": "Solutions Engineering Manager",
     "company": "hightouch",
     "ats": "greenhouse",
     "source_slug": "hightouch",
@@ -66112,7 +66112,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7700461": {
-    "updated_at": "2026-08-04T16:38:20-04:00",
+    "updated_at": "2026-08-07T15:32:14-04:00",
     "title": "Senior Product Manager, Growth",
     "company": "samsara",
     "ats": "greenhouse",
@@ -93896,8 +93896,8 @@
     "alerted": false
   },
   "greenhouse:robinhood:6494244": {
-    "updated_at": "2026-07-17T15:17:43-04:00",
-    "title": "Product Designer, Redesign",
+    "updated_at": "2026-08-07T15:55:00-04:00",
+    "title": "Senior Product Designer, Redesign",
     "company": "robinhood",
     "ats": "greenhouse",
     "source_slug": "robinhood",
@@ -121624,7 +121624,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514422002": {
-    "updated_at": "2026-07-06T11:46:25-04:00",
+    "updated_at": "2026-08-07T16:01:09-04:00",
     "title": "Senior Analyst, Global Expansion Strategy",
     "company": "lyft",
     "ats": "greenhouse",
@@ -149040,7 +149040,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7905488": {
-    "updated_at": "2026-08-07T08:26:34-04:00",
+    "updated_at": "2026-08-07T15:43:37-04:00",
     "title": "Senior Technical Solutions Manager, Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -149048,7 +149048,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7905472": {
-    "updated_at": "2026-08-07T08:26:34-04:00",
+    "updated_at": "2026-08-07T15:43:37-04:00",
     "title": "Senior Technical Solutions Manager, Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -169240,7 +169240,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7804654": {
-    "updated_at": "2026-07-09T19:02:18-04:00",
+    "updated_at": "2026-08-07T16:17:40-04:00",
     "title": "Senior Engineering Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -203984,7 +203984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8002074": {
-    "updated_at": "2026-08-03T18:03:38-04:00",
+    "updated_at": "2026-08-07T15:44:52-04:00",
     "title": "Senior Business Recruiter",
     "company": "waymo",
     "ats": "greenhouse",
@@ -207816,7 +207816,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7990647": {
-    "updated_at": "2026-08-07T15:18:22-04:00",
+    "updated_at": "2026-08-07T15:32:55-04:00",
     "title": "Strategic Account Executive 3 - ISV",
     "company": "twilio",
     "ats": "greenhouse",
@@ -219104,7 +219104,7 @@
     "alerted": false
   },
   "greenhouse:asana:8027437": {
-    "updated_at": "2026-08-05T19:02:55-04:00",
+    "updated_at": "2026-08-07T16:08:49-04:00",
     "title": "AI Implementation Manager, Service Management",
     "company": "asana",
     "ats": "greenhouse",
@@ -221944,7 +221944,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8611081002": {
-    "updated_at": "2026-08-06T12:37:38-04:00",
+    "updated_at": "2026-08-07T15:35:25-04:00",
     "title": "Senior AI Engineer",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -222184,8 +222184,8 @@
     "alerted": false
   },
   "greenhouse:verkada:5175755007": {
-    "updated_at": "2026-07-22T14:20:39-04:00",
-    "title": "Global Sourcing Specialist (Co-op)",
+    "updated_at": "2026-08-07T16:11:19-04:00",
+    "title": "Global Sourcing Specialist",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -227976,7 +227976,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5288742008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
+    "updated_at": "2026-08-07T16:19:22-04:00",
     "title": "Staff+ Software Engineer, Enterprise",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -234016,7 +234016,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8047228": {
-    "updated_at": "2026-07-07T15:25:42-04:00",
+    "updated_at": "2026-08-07T16:12:56-04:00",
     "title": "Senior Director, GTM Executive Communications",
     "company": "elastic",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-07T15:19:54-04:00",
+    "updated_at": "2026-08-07T16:05:52-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243920,7 +243920,7 @@
     "alerted": false
   },
   "greenhouse:faire:8632193002": {
-    "updated_at": "2026-07-20T16:04:03-04:00",
+    "updated_at": "2026-08-07T16:09:36-04:00",
     "title": "Strategy & Analytics Experimentation Director",
     "company": "faire",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-07T15:19:58-04:00",
+    "updated_at": "2026-08-07T16:05:55-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245464,7 +245464,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8634061002": {
-    "updated_at": "2026-07-31T13:55:50-04:00",
+    "updated_at": "2026-08-07T15:41:23-04:00",
     "title": "Senior Software Engineer; Analytics Compute Platform team",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -247304,7 +247304,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8635752002": {
-    "updated_at": "2026-07-15T16:44:54-04:00",
+    "updated_at": "2026-08-07T15:39:00-04:00",
     "title": "Senior Software Engineer - SDK iOS",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -262088,7 +262088,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5369181008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
+    "updated_at": "2026-08-07T15:47:29-04:00",
     "title": "Cloud Partner Enablement Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -268768,7 +268768,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8079632": {
-    "updated_at": "2026-07-29T13:50:02-04:00",
+    "updated_at": "2026-08-07T15:44:34-04:00",
     "title": "Principal Security ML Research Engineer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-07T13:47:15-04:00",
+    "updated_at": "2026-08-07T15:47:43-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -277264,7 +277264,7 @@
     "alerted": false
   },
   "greenhouse:toast:8097331": {
-    "updated_at": "2026-08-05T10:30:37-04:00",
+    "updated_at": "2026-08-07T15:48:51-04:00",
     "title": "Customer Care Tax Expert",
     "company": "toast",
     "ats": "greenhouse",
@@ -283912,8 +283912,8 @@
     "alerted": false
   },
   "greenhouse:alloy:8687389002": {
-    "updated_at": "2026-08-07T13:45:49-04:00",
-    "title": "Senior Software Engineer, Build Oak",
+    "updated_at": "2026-08-07T15:50:59-04:00",
+    "title": "Senior Software Engineer, Product",
     "company": "alloy",
     "ats": "greenhouse",
     "source_slug": "alloy",
@@ -284053,6 +284053,110 @@
     "company": "toast",
     "ats": "greenhouse",
     "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8114364": {
+    "updated_at": "2026-08-07T16:11:11-04:00",
+    "title": "Manager, Insider Trust",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:databricks:8661542002": {
+    "updated_at": "2026-08-07T16:03:22-04:00",
+    "title": "Director, FDE (SLED/CIV)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:asana:8075917": {
+    "updated_at": "2026-08-07T15:58:13-04:00",
+    "title": "Senior Analytics Engineer",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8109753": {
+    "updated_at": "2026-08-07T15:57:06-04:00",
+    "title": "Privacy Engineer",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:databricks:8493148002": {
+    "updated_at": "2026-08-07T15:53:15-04:00",
+    "title": "Staff Technical Project Manager - Cleared/Security",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8109416": {
+    "updated_at": "2026-08-07T15:44:46-04:00",
+    "title": "Senior Named Account Executive, Federal Government (Ottawa)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:elastic:8114127": {
+    "updated_at": "2026-08-07T15:34:10-04:00",
+    "title": "Enterprise Account Executive - Expand Northeast",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8649994002": {
+    "updated_at": "2026-08-07T15:26:49-04:00",
+    "title": "Public Sector Strategic Account Executive, SLED - Mountain Plains",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:huntress:7835873003": {
+    "updated_at": "2026-08-07T15:18:39-04:00",
+    "title": "Security Operations Analyst- UK",
+    "company": "huntress",
+    "ats": "greenhouse",
+    "source_slug": "huntress",
+    "alerted": false
+  },
+  "greenhouse:huntress:7835871003": {
+    "updated_at": "2026-08-07T15:18:38-04:00",
+    "title": "Security Operations Analyst- Ireland",
+    "company": "huntress",
+    "ats": "greenhouse",
+    "source_slug": "huntress",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4722386005": {
+    "updated_at": "2026-08-07T16:19:24-04:00",
+    "title": "Solutions Engineer (Strategic)",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": true
+  },
+  "greenhouse:gleanwork:4614349005": {
+    "updated_at": "2026-08-07T16:19:23-04:00",
+    "title": "Solutions Engineer (Strategic)",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": true
+  },
+  "ashby:Ashby:833e4cf9-3e12-4da6-ad66-30026724c6ff": {
+    "updated_at": "2026-08-05T17:01:26.313+00:00",
+    "title": "Content Lead, Startups",
+    "company": "Ashby",
+    "ats": "ashby",
+    "source_slug": "Ashby",
     "alerted": false
   }
 }
