@@ -11824,8 +11824,8 @@
     "alerted": true
   },
   "greenhouse:anthropic:5026097008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Staff Software Engineer, Claude.ai",
+    "updated_at": "2026-08-07T16:57:05-04:00",
+    "title": "Staff Software Engineer, Front-End",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -52784,7 +52784,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5027435007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-07T17:01:55-04:00",
     "title": "Senior Growth Product Manager",
     "company": "verkada",
     "ats": "greenhouse",
@@ -75208,7 +75208,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7742585": {
-    "updated_at": "2026-05-08T10:27:40-04:00",
+    "updated_at": "2026-08-07T16:45:37-04:00",
     "title": "Candidate Experience Coordinator, Contract",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -121632,7 +121632,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8514400002": {
-    "updated_at": "2026-07-06T11:46:25-04:00",
+    "updated_at": "2026-08-07T16:24:22-04:00",
     "title": "Data Analyst - Global Growth Luxury Strategy",
     "company": "lyft",
     "ats": "greenhouse",
@@ -133784,8 +133784,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7863336": {
-    "updated_at": "2026-08-06T12:09:56-04:00",
-    "title": "Sales Engineer (Presales)",
+    "updated_at": "2026-08-07T16:24:06-04:00",
+    "title": "Solutions Architect, SMB (Presales)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -153960,8 +153960,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7827184": {
-    "updated_at": "2026-08-07T15:20:02-04:00",
-    "title": "Solutions Architect, Enterprise",
+    "updated_at": "2026-08-07T16:29:00-04:00",
+    "title": "Solutions Architect, Enterprise (Pre-sales)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -163312,7 +163312,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5222289008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
+    "updated_at": "2026-08-07T16:55:24-04:00",
     "title": "Manager of Applied AI Architecture, Enterprise Tech",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -194648,7 +194648,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7993066": {
-    "updated_at": "2026-06-18T03:33:07-04:00",
+    "updated_at": "2026-08-07T17:02:43-04:00",
     "title": "Staff Software Engineer, Backend - Payments Platform",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -221272,32 +221272,32 @@
     "alerted": false
   },
   "greenhouse:okta:8031353": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Software Architect (Auth0)",
+    "updated_at": "2026-08-07T17:04:56-04:00",
+    "title": "Applied AI Scientist Architect (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
     "alerted": false
   },
   "greenhouse:okta:8031281": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Principal Software Engineer (Auth0)",
+    "updated_at": "2026-08-07T17:04:57-04:00",
+    "title": "Principal Applied AI Scientist (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
     "alerted": false
   },
   "greenhouse:okta:8031355": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Principal Software Engineer (Auth0)",
+    "updated_at": "2026-08-07T17:04:58-04:00",
+    "title": "Principal Applied AI Scientist (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
     "alerted": false
   },
   "greenhouse:okta:8031094": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Software Architect (Auth0)",
+    "updated_at": "2026-08-07T17:04:55-04:00",
+    "title": "Applied AI Scientist Architect (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -223512,7 +223512,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7938452": {
-    "updated_at": "2026-06-30T13:16:03-04:00",
+    "updated_at": "2026-08-07T17:07:04-04:00",
     "title": "Team Lead, Implementation",
     "company": "adyen",
     "ats": "greenhouse",
@@ -235384,7 +235384,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8049685": {
-    "updated_at": "2026-07-09T19:02:18-04:00",
+    "updated_at": "2026-08-07T16:21:34-04:00",
     "title": "Staff Technical Recruiter, Engineering",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-07T16:05:52-04:00",
+    "updated_at": "2026-08-07T17:05:17-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-07T16:05:55-04:00",
+    "updated_at": "2026-08-07T17:05:26-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259512,8 +259512,8 @@
     "alerted": false
   },
   "greenhouse:amplitude:8647263002": {
-    "updated_at": "2026-07-28T13:42:06-04:00",
-    "title": "Engineering Manager, Experimentation Data Infrastructure",
+    "updated_at": "2026-08-07T16:59:22-04:00",
+    "title": "Engineering Manager of Experimentation Data Infrastructure",
     "company": "amplitude",
     "ats": "greenhouse",
     "source_slug": "amplitude",
@@ -259536,8 +259536,8 @@
     "alerted": false
   },
   "greenhouse:amplitude:8647257002": {
-    "updated_at": "2026-07-28T13:43:38-04:00",
-    "title": "Manager of Engineering, Delivery & SDK",
+    "updated_at": "2026-08-07T16:51:34-04:00",
+    "title": "Manager of Engineering",
     "company": "amplitude",
     "ats": "greenhouse",
     "source_slug": "amplitude",
@@ -264208,7 +264208,7 @@
     "alerted": true
   },
   "greenhouse:toast:8089146": {
-    "updated_at": "2026-08-04T10:21:17-04:00",
+    "updated_at": "2026-08-07T17:03:57-04:00",
     "title": "Language Partner, Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -281472,8 +281472,8 @@
     "alerted": false
   },
   "greenhouse:okta:8107083": {
-    "updated_at": "2026-08-06T19:06:56-04:00",
-    "title": "FedRAMP Moderate Template",
+    "updated_at": "2026-08-07T16:52:34-04:00",
+    "title": "Manager,  Engineering Access Requests Team",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -284088,8 +284088,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8493148002": {
-    "updated_at": "2026-08-07T15:53:15-04:00",
-    "title": "Staff Technical Project Manager - Cleared/Security",
+    "updated_at": "2026-08-07T16:48:26-04:00",
+    "title": "Staff Technical Program Manager - Cleared/Security",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -284136,16 +284136,16 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4722386005": {
-    "updated_at": "2026-08-07T16:19:24-04:00",
-    "title": "Solutions Engineer (Strategic)",
+    "updated_at": "2026-08-07T17:05:08-04:00",
+    "title": "Strategic Solutions Engineer",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
     "alerted": true
   },
   "greenhouse:gleanwork:4614349005": {
-    "updated_at": "2026-08-07T16:19:23-04:00",
-    "title": "Solutions Engineer (Strategic)",
+    "updated_at": "2026-08-07T17:04:35-04:00",
+    "title": "Strategic Solutions Engineer",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -284158,5 +284158,77 @@
     "ats": "ashby",
     "source_slug": "Ashby",
     "alerted": false
+  },
+  "greenhouse:stripe:8114514": {
+    "updated_at": "2026-08-07T16:54:29-04:00",
+    "title": "IT SOX Controls Specialist",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:gusto:8105993": {
+    "updated_at": "2026-08-07T16:52:26-04:00",
+    "title": "Sales Operations Analyst",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:verkada:4129304007": {
+    "updated_at": "2026-08-07T16:46:36-04:00",
+    "title": "Software Engineer - Data Platform",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:pagerduty:6134916004": {
+    "updated_at": "2026-08-07T16:46:17-04:00",
+    "title": "Senior Developer Advocate",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8114877": {
+    "updated_at": "2026-08-07T16:42:46-04:00",
+    "title": "Staff Software Engineer (Platform - Access & Authorization)",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:lyft:8688637002": {
+    "updated_at": "2026-08-07T16:39:04-04:00",
+    "title": "Financial Analyst",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:okta:8114891": {
+    "updated_at": "2026-08-07T16:30:05-04:00",
+    "title": "Senior Developer Advocate (Auth0)",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:samsara:7679053": {
+    "updated_at": "2026-08-07T16:16:06-04:00",
+    "title": "Core Enterprise Account Executive TOLA",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5383484008": {
+    "updated_at": "2026-08-07T17:05:58-04:00",
+    "title": "Sales Development Representative",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": true
   }
 }
