@@ -88144,8 +88144,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8451296002": {
-    "updated_at": "2026-07-31T12:35:03-04:00",
-    "title": "Lakebase Sales Specialist",
+    "updated_at": "2026-08-07T06:22:41-04:00",
+    "title": "Lakebase Sales Specialist, Associate Director (Germany)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -91832,8 +91832,8 @@
     "alerted": false
   },
   "greenhouse:faire:8445628002": {
-    "updated_at": "2026-07-20T16:04:03-04:00",
-    "title": "Staff Product Designer (Multiple Openings)",
+    "updated_at": "2026-08-07T06:17:49-04:00",
+    "title": "Staff Product Designer",
     "company": "faire",
     "ats": "greenhouse",
     "source_slug": "faire",
@@ -100096,7 +100096,7 @@
     "alerted": false
   },
   "greenhouse:datadog:5283132": {
-    "updated_at": "2026-08-07T04:54:48-04:00",
+    "updated_at": "2026-08-07T06:15:16-04:00",
     "title": "Commercial Account Executive (DACH)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -100136,7 +100136,7 @@
     "alerted": false
   },
   "greenhouse:datadog:6427176": {
-    "updated_at": "2026-08-06T11:56:43-04:00",
+    "updated_at": "2026-08-07T06:20:18-04:00",
     "title": "Commercial Account Executive UKI/Nordics",
     "company": "datadog",
     "ats": "greenhouse",
@@ -168776,7 +168776,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7950350": {
-    "updated_at": "2026-07-27T04:42:22-04:00",
+    "updated_at": "2026-08-07T06:03:37-04:00",
     "title": "Principal Product Analyst",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -189832,16 +189832,16 @@
     "alerted": false
   },
   "greenhouse:databricks:8569510002": {
-    "updated_at": "2026-07-31T12:37:54-04:00",
-    "title": "Lakebase Sales Specialist (Central)",
+    "updated_at": "2026-08-07T06:23:28-04:00",
+    "title": "Lakebase Sales Specialist, Associate Director (Germany)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
     "alerted": false
   },
   "greenhouse:databricks:8569518002": {
-    "updated_at": "2026-07-31T12:38:08-04:00",
-    "title": "Senior Lakebase Sales Specialist (Central)",
+    "updated_at": "2026-08-07T06:23:04-04:00",
+    "title": "Lakebase Sales Specialist, Director (Germany)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -208664,7 +208664,7 @@
     "alerted": false
   },
   "greenhouse:okta:7648985": {
-    "updated_at": "2026-07-20T03:14:09-04:00",
+    "updated_at": "2026-08-07T06:02:41-04:00",
     "title": "Senior Data Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -212640,8 +212640,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8569516002": {
-    "updated_at": "2026-07-31T12:38:05-04:00",
-    "title": "Lakebase Sales Specialist (Central region)",
+    "updated_at": "2026-08-07T06:24:46-04:00",
+    "title": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-07T05:48:49-04:00",
+    "updated_at": "2026-08-07T06:34:39-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-07T05:48:52-04:00",
+    "updated_at": "2026-08-07T06:34:42-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272208,7 +272208,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7682449003": {
-    "updated_at": "2026-08-06T20:04:59-04:00",
+    "updated_at": "2026-08-07T06:43:20-04:00",
     "title": "Director Product  - Developer Experience and UX Platform",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-07T05:33:01-04:00",
+    "updated_at": "2026-08-07T06:02:38-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -283005,6 +283005,30 @@
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:adyen:8113747": {
+    "updated_at": "2026-08-07T05:39:48-04:00",
+    "title": "Machine Learning Scientist I - Protect",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:convera:4944307101": {
+    "updated_at": "2026-08-07T05:33:57-04:00",
+    "title": "Client Setup Associate",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8113735": {
+    "updated_at": "2026-08-07T05:30:32-04:00",
+    "title": "Regional People Operations Specialist",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
     "alerted": false
   }
 }
