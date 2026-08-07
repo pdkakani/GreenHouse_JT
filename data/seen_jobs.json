@@ -10400,8 +10400,8 @@
     "alerted": true
   },
   "greenhouse:chime:8393494002": {
-    "updated_at": "2026-07-17T11:56:59-04:00",
-    "title": "Director, Product Design",
+    "updated_at": "2026-08-07T18:55:54-04:00",
+    "title": "Design Director",
     "company": "chime",
     "ats": "greenhouse",
     "source_slug": "chime",
@@ -34144,7 +34144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7600766": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-07T18:56:01-04:00",
     "title": "Staff Technical Program Manager, Simulation Infrastructure Resource Management",
     "company": "waymo",
     "ats": "greenhouse",
@@ -35968,7 +35968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4715534007": {
-    "updated_at": "2026-08-05T18:33:49-04:00",
+    "updated_at": "2026-08-07T18:44:46-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -36864,7 +36864,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8417705002": {
-    "updated_at": "2026-07-27T14:33:55-04:00",
+    "updated_at": "2026-08-07T18:33:21-04:00",
     "title": "Sr. Solutions Architect - Public Sector (Hunter)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -207872,7 +207872,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8013718": {
-    "updated_at": "2026-06-17T15:42:58-04:00",
+    "updated_at": "2026-08-07T19:03:06-04:00",
     "title": "Operations Senior Associate",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -214672,7 +214672,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8023815": {
-    "updated_at": "2026-06-26T12:24:23-04:00",
+    "updated_at": "2026-08-07T19:02:57-04:00",
     "title": "Senior Manager, Institutional Sales",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -214904,7 +214904,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8601804002": {
-    "updated_at": "2026-07-24T17:18:13-04:00",
+    "updated_at": "2026-08-07T18:56:41-04:00",
     "title": "Sr. Cyber Assurance Analyst, Starlink",
     "company": "spacex",
     "ats": "greenhouse",
@@ -214912,7 +214912,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8603677002": {
-    "updated_at": "2026-07-24T17:18:13-04:00",
+    "updated_at": "2026-08-07T18:57:10-04:00",
     "title": "Sr. Cyber Assurance Analyst, Starlink",
     "company": "spacex",
     "ats": "greenhouse",
@@ -214928,7 +214928,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8601792002": {
-    "updated_at": "2026-07-24T17:18:13-04:00",
+    "updated_at": "2026-08-07T19:01:05-04:00",
     "title": "Sr. Cyber Assurance Analyst, Launch",
     "company": "spacex",
     "ats": "greenhouse",
@@ -216912,7 +216912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172974007": {
-    "updated_at": "2026-08-05T18:33:49-04:00",
+    "updated_at": "2026-08-07T18:44:46-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-07T18:20:07-04:00",
+    "updated_at": "2026-08-07T19:04:43-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-07T18:20:11-04:00",
+    "updated_at": "2026-08-07T19:04:46-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246328,7 +246328,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8059216": {
-    "updated_at": "2026-08-06T18:25:35-04:00",
+    "updated_at": "2026-08-07T18:51:33-04:00",
     "title": "Senior Data Scientist, Trust (Inference)",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -259640,7 +259640,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8079636": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-07T18:43:55-04:00",
     "title": "Agentic AI Engineer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-07T15:47:43-04:00",
+    "updated_at": "2026-08-07T19:02:11-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -284390,5 +284390,85 @@
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": false
+  },
+  "greenhouse:spacex:8692434002": {
+    "updated_at": "2026-08-07T18:55:08-04:00",
+    "title": "Sr. Sourcing Specialist, Mechanical (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5383335008": {
+    "updated_at": "2026-08-07T18:47:18-04:00",
+    "title": "Applied AI Architect, Enterprise Tech",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8692396002": {
+    "updated_at": "2026-08-07T18:42:57-04:00",
+    "title": "Starlink Production Technician",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:instacart:8115834": {
+    "updated_at": "2026-08-07T18:32:55-04:00",
+    "title": "Insights Lead, Instacart Business",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8115836": {
+    "updated_at": "2026-08-07T18:32:55-04:00",
+    "title": "Insights Lead, Instacart Business",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8029509": {
+    "updated_at": "2026-08-07T18:31:48-04:00",
+    "title": "Director, Product Security",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:spacex:8692387002": {
+    "updated_at": "2026-08-07T18:22:34-04:00",
+    "title": "Welding Supervisor (Starship Mechanisms)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:altruist:6130107004": {
+    "updated_at": "2026-08-07T18:19:51-04:00",
+    "title": "Advisor Onboarding Specialist",
+    "company": "altruist",
+    "ats": "greenhouse",
+    "source_slug": "altruist",
+    "alerted": false
+  },
+  "greenhouse:altruist:6130109004": {
+    "updated_at": "2026-08-07T18:16:24-04:00",
+    "title": "Advisor Onboarding Specialist",
+    "company": "altruist",
+    "ats": "greenhouse",
+    "source_slug": "altruist",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5383242008": {
+    "updated_at": "2026-08-07T18:59:02-04:00",
+    "title": "AI Fluency Education Lead",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
   }
 }
