@@ -238984,7 +238984,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8052814": {
-    "updated_at": "2026-08-06T12:10:15-04:00",
+    "updated_at": "2026-08-07T19:07:15-04:00",
     "title": "Customer Success Manager, Revenue Suite",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-07T19:04:43-04:00",
+    "updated_at": "2026-08-07T19:35:10-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-07T19:04:46-04:00",
+    "updated_at": "2026-08-07T19:35:13-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-07T19:02:11-04:00",
+    "updated_at": "2026-08-07T19:32:31-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -284470,5 +284470,69 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": true
+  },
+  "greenhouse:waymo:8113233": {
+    "updated_at": "2026-08-07T19:27:50-04:00",
+    "title": "Staff ML Engineer, Perception Research",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:waymo:8113176": {
+    "updated_at": "2026-08-07T19:27:28-04:00",
+    "title": "Senior ML Engineer, Perception Research",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8112770": {
+    "updated_at": "2026-08-07T19:13:30-04:00",
+    "title": "Startup Program Manager",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8107402": {
+    "updated_at": "2026-08-07T19:13:29-04:00",
+    "title": "Startup Program Manager",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:reddit:8115838": {
+    "updated_at": "2026-08-07T19:10:34-04:00",
+    "title": "Staff Machine Learning Engineer, Shopping Ads",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:anthropic:4970314008": {
+    "updated_at": "2026-08-07T19:06:23-04:00",
+    "title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8692450002": {
+    "updated_at": "2026-08-07T18:58:09-04:00",
+    "title": "Sourcing Specialist, Mechanical (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8692443002": {
+    "updated_at": "2026-08-07T18:56:07-04:00",
+    "title": "Sr. Cyber Assurance Analyst, Finance",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
   }
 }
