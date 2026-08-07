@@ -14840,7 +14840,7 @@
     "alerted": true
   },
   "greenhouse:calendly:8464846002": {
-    "updated_at": "2026-07-23T19:01:58-04:00",
+    "updated_at": "2026-08-07T12:45:15-04:00",
     "title": "Senior Full Stack Engineer, AI Scheduling",
     "company": "calendly",
     "ats": "greenhouse",
@@ -14920,8 +14920,8 @@
     "alerted": true
   },
   "greenhouse:calendly:8139892002": {
-    "updated_at": "2026-08-03T11:45:17-04:00",
-    "title": "Staff Product Manager",
+    "updated_at": "2026-08-07T13:28:34-04:00",
+    "title": "Staff Product Manager, AI Scheduling",
     "company": "calendly",
     "ats": "greenhouse",
     "source_slug": "calendly",
@@ -23192,7 +23192,7 @@
     "alerted": true
   },
   "greenhouse:humaninterest:7747268": {
-    "updated_at": "2026-06-13T03:01:11-04:00",
+    "updated_at": "2026-08-07T12:47:16-04:00",
     "title": "Senior Salesforce Developer",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -88040,7 +88040,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8462811002": {
-    "updated_at": "2026-07-24T19:28:58-04:00",
+    "updated_at": "2026-08-07T13:31:10-04:00",
     "title": "Sr.Staff Software Engineer- Network Platform",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90352,7 +90352,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7654347002": {
-    "updated_at": "2026-07-24T19:28:47-04:00",
+    "updated_at": "2026-08-07T13:31:51-04:00",
     "title": "Senior Software Engineer (Money)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90648,7 +90648,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8357216002": {
-    "updated_at": "2026-08-04T00:52:25-04:00",
+    "updated_at": "2026-08-07T13:31:17-04:00",
     "title": "Engineering Manager (Ingestion)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -131656,7 +131656,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7006090002": {
-    "updated_at": "2026-07-27T09:31:24-04:00",
+    "updated_at": "2026-08-07T13:31:13-04:00",
     "title": "Engineering Manager - Core Experiences",
     "company": "databricks",
     "ats": "greenhouse",
@@ -136592,7 +136592,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8530800002": {
-    "updated_at": "2026-07-24T17:18:01-04:00",
+    "updated_at": "2026-08-07T13:11:39-04:00",
     "title": "Machine Maintenance Technician, Solar Cells (Starlink) - Day Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -139176,7 +139176,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8532274002": {
-    "updated_at": "2026-08-03T16:43:10-04:00",
+    "updated_at": "2026-08-07T12:55:47-04:00",
     "title": "Business Development Representative",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -139200,7 +139200,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8532272002": {
-    "updated_at": "2026-08-03T16:43:10-04:00",
+    "updated_at": "2026-08-07T12:56:21-04:00",
     "title": "Business Development Representative",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -154376,7 +154376,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7882492": {
-    "updated_at": "2026-08-07T12:16:26-04:00",
+    "updated_at": "2026-08-07T13:05:01-04:00",
     "title": "Solutions Architect, Enterprise, UK",
     "company": "stripe",
     "ats": "greenhouse",
@@ -171112,7 +171112,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7951884": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-07T12:48:15-04:00",
     "title": "Safety Documentation - Regulatory Permits",
     "company": "waymo",
     "ats": "greenhouse",
@@ -184056,7 +184056,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7950044": {
-    "updated_at": "2026-08-04T16:38:20-04:00",
+    "updated_at": "2026-08-07T13:17:25-04:00",
     "title": "Strategic Implementation Consultant - Public Sector",
     "company": "samsara",
     "ats": "greenhouse",
@@ -207416,7 +207416,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7776505003": {
-    "updated_at": "2026-07-17T16:40:07-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -207424,7 +207424,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7768985003": {
-    "updated_at": "2026-07-17T16:40:06-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -217824,7 +217824,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8027296": {
-    "updated_at": "2026-07-08T17:11:17-04:00",
+    "updated_at": "2026-08-07T12:57:43-04:00",
     "title": "Commercial Account Executive",
     "company": "checkr",
     "ats": "greenhouse",
@@ -239864,7 +239864,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8049521": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
+    "updated_at": "2026-08-07T13:29:09-04:00",
     "title": "GTM Operations Associate",
     "company": "datadog",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-07T12:35:00-04:00",
+    "updated_at": "2026-08-07T13:34:17-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-07T12:35:04-04:00",
+    "updated_at": "2026-08-07T13:34:26-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250816,7 +250816,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8069671": {
-    "updated_at": "2026-07-17T15:07:44-04:00",
+    "updated_at": "2026-08-07T13:20:12-04:00",
     "title": "Manager, Corporate Programs",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -250912,7 +250912,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7808558003": {
-    "updated_at": "2026-07-17T16:40:19-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250920,7 +250920,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808568003": {
-    "updated_at": "2026-07-17T16:40:19-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250928,7 +250928,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808527003": {
-    "updated_at": "2026-07-17T16:40:17-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250936,7 +250936,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808552003": {
-    "updated_at": "2026-07-17T16:40:17-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250944,7 +250944,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808500003": {
-    "updated_at": "2026-07-17T16:40:16-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250952,7 +250952,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808498003": {
-    "updated_at": "2026-07-17T16:40:15-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250960,7 +250960,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808493003": {
-    "updated_at": "2026-07-17T16:40:14-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250968,7 +250968,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808489003": {
-    "updated_at": "2026-07-17T16:40:13-04:00",
+    "updated_at": "2026-08-07T13:01:39-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250976,7 +250976,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808465003": {
-    "updated_at": "2026-07-17T16:40:12-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250984,7 +250984,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808390003": {
-    "updated_at": "2026-07-17T16:40:11-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250992,7 +250992,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808380003": {
-    "updated_at": "2026-07-17T16:40:10-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251000,7 +251000,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808376003": {
-    "updated_at": "2026-07-17T16:40:09-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251008,7 +251008,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808340003": {
-    "updated_at": "2026-07-17T16:40:08-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251016,7 +251016,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808410003": {
-    "updated_at": "2026-07-17T16:40:06-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251024,7 +251024,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808398003": {
-    "updated_at": "2026-07-17T18:53:02-04:00",
+    "updated_at": "2026-08-07T13:01:38-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -252464,7 +252464,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8039836": {
-    "updated_at": "2026-08-01T01:47:02-04:00",
+    "updated_at": "2026-08-07T12:47:17-04:00",
     "title": "Customer Success Support Associate I",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -252680,7 +252680,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810003003": {
-    "updated_at": "2026-07-20T13:51:50-04:00",
+    "updated_at": "2026-08-07T13:01:40-04:00",
     "title": "Product Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -258184,7 +258184,7 @@
     "alerted": false
   },
   "greenhouse:workato:8561580002": {
-    "updated_at": "2026-08-06T17:39:33-04:00",
+    "updated_at": "2026-08-07T13:15:04-04:00",
     "title": "Presales Solutions Architect",
     "company": "workato",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-07T10:18:20-04:00",
+    "updated_at": "2026-08-07T13:32:15-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -280320,7 +280320,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7829675003": {
-    "updated_at": "2026-08-05T16:50:16-04:00",
+    "updated_at": "2026-08-07T13:09:13-04:00",
     "title": "Sr. AI Systems & Solutions Architect",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -281512,8 +281512,8 @@
     "alerted": false
   },
   "greenhouse:twitch:8688065002": {
-    "updated_at": "2026-08-06T18:40:11-04:00",
-    "title": "Sr. Tech Business Developer",
+    "updated_at": "2026-08-07T12:48:52-04:00",
+    "title": "Senior Manager, Business Development",
     "company": "twitch",
     "ats": "greenhouse",
     "source_slug": "twitch",
@@ -283416,7 +283416,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8114254": {
-    "updated_at": "2026-08-07T11:27:24-04:00",
+    "updated_at": "2026-08-07T12:45:46-04:00",
     "title": "Strategic Account Executive - West",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283568,7 +283568,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8111736": {
-    "updated_at": "2026-08-07T12:41:52-04:00",
+    "updated_at": "2026-08-07T12:52:53-04:00",
     "title": "Staff Product Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -283600,7 +283600,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8114354": {
-    "updated_at": "2026-08-07T12:11:45-04:00",
+    "updated_at": "2026-08-07T13:19:23-04:00",
     "title": "Procurement Enablement Lead",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -283608,7 +283608,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8107411": {
-    "updated_at": "2026-08-07T12:11:45-04:00",
+    "updated_at": "2026-08-07T13:19:37-04:00",
     "title": "Procurement Enablement Lead",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -283681,6 +283681,126 @@
   },
   "greenhouse:ripple:7913393": {
     "updated_at": "2026-08-07T12:43:22-04:00",
+    "title": "Senior Director, Security Engineering",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": true
+  },
+  "greenhouse:faire:8691459002": {
+    "updated_at": "2026-08-07T13:26:17-04:00",
+    "title": "Staff Engineer - Experimentation Platform",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:faire:8691384002": {
+    "updated_at": "2026-08-07T13:26:17-04:00",
+    "title": "Staff Engineer - Experimentation Platform",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:stripe:8114397": {
+    "updated_at": "2026-08-07T13:22:56-04:00",
+    "title": "Technical Program Manager, Extensibility Platform (CA)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:lyft:8662378002": {
+    "updated_at": "2026-08-07T13:12:59-04:00",
+    "title": "Engineering Manager, Global Growth",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:stripe:8063717": {
+    "updated_at": "2026-08-07T13:11:55-04:00",
+    "title": "Fraud Operations Associate SDC",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8114351": {
+    "updated_at": "2026-08-07T12:59:43-04:00",
+    "title": "Account Maintenance Associate",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:fireblocks:4703082006": {
+    "updated_at": "2026-08-07T12:57:38-04:00",
+    "title": "Fullstack Engineer, Embedded Wallet",
+    "company": "fireblocks",
+    "ats": "greenhouse",
+    "source_slug": "fireblocks",
+    "alerted": false
+  },
+  "greenhouse:elastic:8114256": {
+    "updated_at": "2026-08-07T12:57:10-04:00",
+    "title": "Strategic Account Executive - West",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8687381002": {
+    "updated_at": "2026-08-07T12:54:52-04:00",
+    "title": "Business Development Representative - UKI",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:carta:7832101003": {
+    "updated_at": "2026-08-07T12:49:09-04:00",
+    "title": "Consultant, Contracts",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8099671": {
+    "updated_at": "2026-08-07T12:47:38-04:00",
+    "title": "Network Deployment Engineer",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:ripple:7913381": {
+    "updated_at": "2026-08-07T12:46:43-04:00",
+    "title": "Senior Director, Security Engineering",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8103727": {
+    "updated_at": "2026-08-07T12:44:37-04:00",
+    "title": "Market Research Strategy Intern",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:celonis:7834892003": {
+    "updated_at": "2026-08-07T12:42:42-04:00",
+    "title": "Training Specialist (Portuguese Speaker)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:ripple:7913402": {
+    "updated_at": "2026-08-07T13:28:25-04:00",
     "title": "Senior Director, Security Engineering",
     "company": "ripple",
     "ats": "greenhouse",
