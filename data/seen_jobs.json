@@ -4624,7 +4624,7 @@
     "alerted": true
   },
   "greenhouse:datadog:7683226": {
-    "updated_at": "2026-08-06T14:19:18-04:00",
+    "updated_at": "2026-08-07T15:30:36-04:00",
     "title": "Commercial Sales Engineer (AMER - West)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -25368,7 +25368,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7655023": {
-    "updated_at": "2026-08-06T12:09:55-04:00",
+    "updated_at": "2026-08-07T15:15:15-04:00",
     "title": "Staff Product Manager, AI",
     "company": "stripe",
     "ats": "greenhouse",
@@ -35424,7 +35424,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135271007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-07T15:14:02-04:00",
     "title": "Sales Development Representative (AAE), Tampa",
     "company": "verkada",
     "ats": "greenhouse",
@@ -65352,7 +65352,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7487344": {
-    "updated_at": "2026-08-04T16:38:20-04:00",
+    "updated_at": "2026-08-07T15:17:24-04:00",
     "title": "Manager II, Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -100088,7 +100088,7 @@
     "alerted": false
   },
   "greenhouse:datadog:1497543": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
+    "updated_at": "2026-08-07T14:38:07-04:00",
     "title": "Commercial Account Executive - Boston",
     "company": "datadog",
     "ats": "greenhouse",
@@ -153960,8 +153960,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7827184": {
-    "updated_at": "2026-08-06T12:10:02-04:00",
-    "title": "Solutions Architect, Enterprise (Pre-sales)",
+    "updated_at": "2026-08-07T15:20:02-04:00",
+    "title": "Solutions Architect, Enterprise",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -157440,8 +157440,8 @@
     "alerted": false
   },
   "greenhouse:carta:7721906003": {
-    "updated_at": "2026-05-13T14:38:48-04:00",
-    "title": "Content Marketer, Carta Law",
+    "updated_at": "2026-08-07T15:16:13-04:00",
+    "title": "Lead Product Marketing Manager, Carta Law",
     "company": "carta",
     "ats": "greenhouse",
     "source_slug": "carta",
@@ -207816,7 +207816,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7990647": {
-    "updated_at": "2026-08-04T17:50:42-04:00",
+    "updated_at": "2026-08-07T15:18:22-04:00",
     "title": "Strategic Account Executive 3 - ISV",
     "company": "twilio",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-07T14:20:16-04:00",
+    "updated_at": "2026-08-07T15:19:54-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-07T14:20:24-04:00",
+    "updated_at": "2026-08-07T15:19:58-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -248336,7 +248336,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8053714": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
+    "updated_at": "2026-08-07T14:43:31-04:00",
     "title": "Commercial Sales Engineer 2 (AMER - West)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -250008,7 +250008,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7737164": {
-    "updated_at": "2026-07-17T10:24:22-04:00",
+    "updated_at": "2026-08-07T15:17:26-04:00",
     "title": "Software Developer, Ops Platform and Fraud Investigations",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -253808,7 +253808,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7435595": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-07T14:46:49-04:00",
     "title": "Operations Planning Manager (New Markets & Platforms)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -257944,7 +257944,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8080244": {
-    "updated_at": "2026-08-06T23:35:45-04:00",
+    "updated_at": "2026-08-07T15:17:30-04:00",
     "title": "Senior Software Engineer, Cloud Networking",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -269416,8 +269416,8 @@
     "alerted": false
   },
   "greenhouse:lyft:8654514002": {
-    "updated_at": "2026-08-06T16:10:30-04:00",
-    "title": "Director, Corporate (Global Head of M&A Legal)",
+    "updated_at": "2026-08-07T15:14:02-04:00",
+    "title": "Director, Global M&A Legal",
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
@@ -271360,7 +271360,7 @@
     "alerted": false
   },
   "greenhouse:formlabs:8097508": {
-    "updated_at": "2026-07-30T17:10:32-04:00",
+    "updated_at": "2026-08-07T15:10:11-04:00",
     "title": "Finance and Operations Analyst",
     "company": "formlabs",
     "ats": "greenhouse",
@@ -275720,7 +275720,7 @@
     "alerted": false
   },
   "greenhouse:justworks:8080336": {
-    "updated_at": "2026-08-04T09:22:52-04:00",
+    "updated_at": "2026-08-07T14:51:56-04:00",
     "title": "Senior Onboarding Specialist, International",
     "company": "justworks",
     "ats": "greenhouse",
@@ -280112,7 +280112,7 @@
     "alerted": false
   },
   "greenhouse:expel:8684505002": {
-    "updated_at": "2026-08-06T12:53:58-04:00",
+    "updated_at": "2026-08-07T15:29:46-04:00",
     "title": "Senior People Operations Generalist",
     "company": "expel",
     "ats": "greenhouse",
@@ -281376,7 +281376,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8109939": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-07T14:54:22-04:00",
     "title": "Principal Content Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -282296,7 +282296,7 @@
     "alerted": false
   },
   "greenhouse:altruist:6137933004": {
-    "updated_at": "2026-08-06T14:19:17-04:00",
+    "updated_at": "2026-08-07T14:42:44-04:00",
     "title": "Event Marketing Manager",
     "company": "altruist",
     "ats": "greenhouse",
@@ -283304,7 +283304,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7829979003": {
-    "updated_at": "2026-08-07T10:15:09-04:00",
+    "updated_at": "2026-08-07T15:08:25-04:00",
     "title": "Software Engineer II, Model Platform",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -283360,7 +283360,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7832743003": {
-    "updated_at": "2026-08-07T11:58:13-04:00",
+    "updated_at": "2026-08-07T14:41:49-04:00",
     "title": "Application Security Engineer II",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -283520,7 +283520,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8114029": {
-    "updated_at": "2026-08-07T11:01:12-04:00",
+    "updated_at": "2026-08-07T14:44:41-04:00",
     "title": "Mid-Market Sales Engineer (NYC)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -283784,7 +283784,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8103727": {
-    "updated_at": "2026-08-07T12:44:37-04:00",
+    "updated_at": "2026-08-07T14:30:28-04:00",
     "title": "Market Research Strategy Intern",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -283864,7 +283864,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8108776": {
-    "updated_at": "2026-08-07T14:00:14-04:00",
+    "updated_at": "2026-08-07T14:57:44-04:00",
     "title": "Sr. Principal Product Manager",
     "company": "twilio",
     "ats": "greenhouse",
@@ -283958,5 +283958,101 @@
     "ats": "greenhouse",
     "source_slug": "waymo",
     "alerted": true
+  },
+  "greenhouse:coreweave:4703200006": {
+    "updated_at": "2026-08-07T15:12:53-04:00",
+    "title": "Forward Deployed Engineer, AI Agents",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8677784002": {
+    "updated_at": "2026-08-07T15:08:40-04:00",
+    "title": "AI Transformation Architect",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7833508003": {
+    "updated_at": "2026-08-07T15:01:22-04:00",
+    "title": "Enterprise Platform Engineer",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:melio:7828585003": {
+    "updated_at": "2026-08-07T15:01:03-04:00",
+    "title": "Senior Accountant",
+    "company": "melio",
+    "ats": "greenhouse",
+    "source_slug": "melio",
+    "alerted": false
+  },
+  "greenhouse:starburst:5382403008": {
+    "updated_at": "2026-08-07T14:58:09-04:00",
+    "title": "Senior Solution Architect",
+    "company": "starburst",
+    "ats": "greenhouse",
+    "source_slug": "starburst",
+    "alerted": false
+  },
+  "greenhouse:databricks:8679974002": {
+    "updated_at": "2026-08-07T14:50:24-04:00",
+    "title": "Staff Product Manager, SAP",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:intercom:8084056": {
+    "updated_at": "2026-08-07T14:42:43-04:00",
+    "title": "Relationship Manager, Mid Market (LATAM)",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7836516003": {
+    "updated_at": "2026-08-07T14:36:17-04:00",
+    "title": "Software Engineer II, Model Platform",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:upstart:8114482": {
+    "updated_at": "2026-08-07T14:35:04-04:00",
+    "title": "Finance Manager, Bank Finance",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:lyft:8691539002": {
+    "updated_at": "2026-08-07T14:30:22-04:00",
+    "title": "Software Engineer, Async Platform",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:stripe:8053587": {
+    "updated_at": "2026-08-07T14:25:27-04:00",
+    "title": "Commercial Counsel",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:toast:8113999": {
+    "updated_at": "2026-08-07T14:14:09-04:00",
+    "title": "Payments Pricing & Operations Analyst II",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
   }
 }
