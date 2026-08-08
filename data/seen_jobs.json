@@ -197256,7 +197256,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7997267": {
-    "updated_at": "2026-07-20T15:06:15-04:00",
+    "updated_at": "2026-08-08T10:31:44-04:00",
     "title": "Senior Staff Security Engineer, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -197264,7 +197264,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7997234": {
-    "updated_at": "2026-07-20T15:06:15-04:00",
+    "updated_at": "2026-08-08T10:30:20-04:00",
     "title": "Senior Staff Security Engineer, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-08T10:19:14-04:00",
+    "updated_at": "2026-08-08T10:48:49-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-08T10:19:18-04:00",
+    "updated_at": "2026-08-08T10:48:52-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -284637,6 +284637,14 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": true
+  },
+  "greenhouse:ripple:7997246": {
+    "updated_at": "2026-08-08T10:34:14-04:00",
+    "title": "Senior Staff Security Engineer, Ripple Treasury",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
     "alerted": true
   }
 }
