@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-08T09:49:52-04:00",
+    "updated_at": "2026-08-08T10:19:14-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-08T09:49:55-04:00",
+    "updated_at": "2026-08-08T10:19:18-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -284621,6 +284621,22 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5382033008": {
+    "updated_at": "2026-08-07T20:49:01-04:00",
+    "title": "GSOC Response & Policy Program Specialist",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8688812002": {
+    "updated_at": "2026-08-08T10:01:51-04:00",
+    "title": "AI Transformation Leader",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
     "alerted": true
   }
 }
