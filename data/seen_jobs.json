@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-08T21:04:28-04:00",
+    "updated_at": "2026-08-08T23:05:35-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-08T21:04:31-04:00",
+    "updated_at": "2026-08-08T23:05:44-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-08T20:17:34-04:00",
+    "updated_at": "2026-08-08T23:02:06-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -284654,5 +284654,21 @@
     "ats": "greenhouse",
     "source_slug": "cloudflare",
     "alerted": false
+  },
+  "greenhouse:klaviyo:7836335003": {
+    "updated_at": "2026-08-08T05:51:16-04:00",
+    "title": "Senior Recruiter (Contract)",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:waymo:8116209": {
+    "updated_at": "2026-08-08T23:01:29-04:00",
+    "title": "ML ASIC Design Engineer",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": true
   }
 }
