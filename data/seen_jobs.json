@@ -240864,7 +240864,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8629130002": {
-    "updated_at": "2026-07-24T17:18:18-04:00",
+    "updated_at": "2026-08-09T14:36:13-04:00",
     "title": "Electrical Design Engineer (Falcon & Dragon Avionics)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-09T14:34:05-04:00",
+    "updated_at": "2026-08-09T15:04:53-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-09T14:34:08-04:00",
+    "updated_at": "2026-08-09T15:04:56-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -284686,5 +284686,37 @@
     "ats": "greenhouse",
     "source_slug": "flex",
     "alerted": false
+  },
+  "greenhouse:melio:7820154003": {
+    "updated_at": "2026-08-09T05:45:29-04:00",
+    "title": "Engineering Manager, AP",
+    "company": "melio",
+    "ats": "greenhouse",
+    "source_slug": "melio",
+    "alerted": false
+  },
+  "greenhouse:databricks:8037500002": {
+    "updated_at": "2026-08-09T00:36:36-04:00",
+    "title": "Staff Software Engineer - Fullstack",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8692896002": {
+    "updated_at": "2026-08-09T14:42:32-04:00",
+    "title": "Sr. Power Electronics Engineer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8692894002": {
+    "updated_at": "2026-08-09T14:42:26-04:00",
+    "title": "Power Electronics Engineer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
