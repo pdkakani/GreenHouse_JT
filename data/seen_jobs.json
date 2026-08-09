@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-09T12:04:24-04:00",
+    "updated_at": "2026-08-09T12:48:37-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-09T12:04:26-04:00",
+    "updated_at": "2026-08-09T12:48:40-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-09T12:02:34-04:00",
+    "updated_at": "2026-08-09T12:46:57-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -284677,6 +284677,14 @@
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:flex:4722531005": {
+    "updated_at": "2026-08-08T16:29:51-04:00",
+    "title": "Staff Product Designer (Contract)",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
     "alerted": false
   }
 }
