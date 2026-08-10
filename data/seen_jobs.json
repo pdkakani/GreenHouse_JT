@@ -100024,7 +100024,7 @@
     "alerted": false
   },
   "greenhouse:datadog:6512326": {
-    "updated_at": "2026-08-07T03:14:17-04:00",
+    "updated_at": "2026-08-09T23:23:15-04:00",
     "title": "Commercial Account Executive",
     "company": "datadog",
     "ats": "greenhouse",
@@ -172456,7 +172456,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7955967": {
-    "updated_at": "2026-08-04T03:54:58-04:00",
+    "updated_at": "2026-08-09T22:49:03-04:00",
     "title": "Senior Sales Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-09T22:19:51-04:00",
+    "updated_at": "2026-08-10T00:06:44-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-09T22:19:54-04:00",
+    "updated_at": "2026-08-10T00:06:47-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -265488,7 +265488,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8076692": {
-    "updated_at": "2026-07-29T01:40:57-04:00",
+    "updated_at": "2026-08-09T22:47:29-04:00",
     "title": "Senior Renewals Operations Analyst II",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -265496,7 +265496,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8007286": {
-    "updated_at": "2026-07-28T07:55:51-04:00",
+    "updated_at": "2026-08-09T22:41:35-04:00",
     "title": "Renewal Sales Specialist",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-09T20:17:36-04:00",
+    "updated_at": "2026-08-10T00:02:35-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -278240,7 +278240,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8022686": {
-    "updated_at": "2026-08-05T00:52:37-04:00",
+    "updated_at": "2026-08-09T22:42:25-04:00",
     "title": "Senior Quoting Analyst",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -284741,6 +284741,14 @@
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:samsara:8036774": {
+    "updated_at": "2026-08-09T20:14:21-04:00",
+    "title": "Senior Hardware Product Manager",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
     "alerted": false
   }
 }
