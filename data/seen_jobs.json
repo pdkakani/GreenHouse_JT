@@ -1920,8 +1920,8 @@
     "alerted": true
   },
   "greenhouse:abnormalsecurity:7623522003": {
-    "updated_at": "2026-07-29T14:43:14-04:00",
-    "title": "Technical Lead - Message Security Detection",
+    "updated_at": "2026-08-10T01:22:04-04:00",
+    "title": "Senior Software Engineer / Tech Lead - Message Security Detection",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
     "source_slug": "abnormalsecurity",
@@ -94904,7 +94904,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:7731632": {
-    "updated_at": "2026-06-09T12:23:30-04:00",
+    "updated_at": "2026-08-10T01:15:52-04:00",
     "title": "Director of Data - India Site",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -204568,7 +204568,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7952822": {
-    "updated_at": "2026-07-27T16:07:03-04:00",
+    "updated_at": "2026-08-10T00:47:37-04:00",
     "title": "Senior Manager, Product Operation - CPQ Strategy & Operations (Night Shift 5:30 PM to 2:30 AM IST)",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -204576,7 +204576,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7949660": {
-    "updated_at": "2026-07-27T16:07:03-04:00",
+    "updated_at": "2026-08-10T00:47:02-04:00",
     "title": "Senior Accountant",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -209384,7 +209384,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8598730002": {
-    "updated_at": "2026-07-31T13:18:27-04:00",
+    "updated_at": "2026-08-10T00:31:00-04:00",
     "title": "Geo Core Account Executive",
     "company": "databricks",
     "ats": "greenhouse",
@@ -210640,7 +210640,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8015327": {
-    "updated_at": "2026-06-27T01:16:22-04:00",
+    "updated_at": "2026-08-10T01:44:05-04:00",
     "title": "Member of Technical Staff - C/C++, Networking",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -211624,7 +211624,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8014902": {
-    "updated_at": "2026-07-06T08:19:58-04:00",
+    "updated_at": "2026-08-10T01:33:18-04:00",
     "title": "Full Stack Engineer - Internal Audit",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-10T00:06:44-04:00",
+    "updated_at": "2026-08-10T01:48:48-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-10T00:06:47-04:00",
+    "updated_at": "2026-08-10T01:48:50-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -253856,7 +253856,7 @@
     "alerted": false
   },
   "greenhouse:workato:8627710002": {
-    "updated_at": "2026-08-06T17:39:33-04:00",
+    "updated_at": "2026-08-10T01:44:56-04:00",
     "title": "Partner Sales Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -257432,7 +257432,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8072932": {
-    "updated_at": "2026-07-31T16:37:19-04:00",
+    "updated_at": "2026-08-10T01:32:37-04:00",
     "title": "Forward Deployed Engineer, Finance [Office of the CTO]",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -266616,8 +266616,8 @@
     "alerted": false
   },
   "greenhouse:altruist:6129054004": {
-    "updated_at": "2026-07-28T15:50:14-04:00",
-    "title": "Sales Development Manager, Hazel AI",
+    "updated_at": "2026-08-10T01:46:42-04:00",
+    "title": "BDR Manager, Hazel AI",
     "company": "altruist",
     "ats": "greenhouse",
     "source_slug": "altruist",
@@ -269704,8 +269704,8 @@
     "alerted": false
   },
   "greenhouse:okta:8087945": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Staff Software Engineer-Salesforce development",
+    "updated_at": "2026-08-10T01:19:45-04:00",
+    "title": "Staff Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -284749,6 +284749,38 @@
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:celonis:7835258003": {
+    "updated_at": "2026-08-10T00:29:03-04:00",
+    "title": "Senior Payroll Specialist",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:databricks:8679970002": {
+    "updated_at": "2026-08-09T22:33:09-04:00",
+    "title": "SAP Functional SME",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8679980002": {
+    "updated_at": "2026-08-09T22:29:46-04:00",
+    "title": "Sr SAP Developer",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:celonis:7845369003": {
+    "updated_at": "2026-08-09T21:04:50-04:00",
+    "title": "Business Development Representative",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
     "alerted": false
   }
 }
