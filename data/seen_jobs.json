@@ -147576,7 +147576,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7903556": {
-    "updated_at": "2026-07-13T03:36:37-04:00",
+    "updated_at": "2026-08-10T06:57:08-04:00",
     "title": "Data Analyst - Regulatory Reporting",
     "company": "adyen",
     "ats": "greenhouse",
@@ -179120,7 +179120,7 @@
     "alerted": false
   },
   "greenhouse:okta:7839826": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-08-10T06:38:55-04:00",
     "title": "Staff SRE for K8s Platform Team (AWS, Kubernetes, Platform Creation, Helm, Karpenter, Istio)",
     "company": "okta",
     "ats": "greenhouse",
@@ -216504,7 +216504,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5267253008": {
-    "updated_at": "2026-07-31T06:14:50-04:00",
+    "updated_at": "2026-08-10T07:00:01-04:00",
     "title": "Senior Solutions Consultant",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -230776,7 +230776,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8045052": {
-    "updated_at": "2026-07-22T16:08:32-04:00",
+    "updated_at": "2026-08-10T07:12:41-04:00",
     "title": "Senior SRE - Networks",
     "company": "fastly",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-10T06:04:52-04:00",
+    "updated_at": "2026-08-10T07:18:57-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-10T06:04:55-04:00",
+    "updated_at": "2026-08-10T07:18:59-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245480,7 +245480,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7957302": {
-    "updated_at": "2026-07-22T13:25:41-04:00",
+    "updated_at": "2026-08-10T07:09:02-04:00",
     "title": "Bridge Operations Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -261248,8 +261248,8 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7815160003": {
-    "updated_at": "2026-07-31T00:00:24-04:00",
-    "title": "Technical Support Engineer - AI Cybersecurity Platform",
+    "updated_at": "2026-08-10T06:35:11-04:00",
+    "title": "Technical Support Engineer",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
     "source_slug": "abnormalsecurity",
@@ -269808,7 +269808,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8079708": {
-    "updated_at": "2026-08-10T06:02:45-04:00",
+    "updated_at": "2026-08-10T06:18:03-04:00",
     "title": "Technical Support Engineer 2",
     "company": "twilio",
     "ats": "greenhouse",
@@ -270792,8 +270792,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8071586": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
-    "title": "Solutions Engineer - Madrid based",
+    "updated_at": "2026-08-10T06:25:07-04:00",
+    "title": "Senior Solutions Engineer - Madrid based",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-10T06:02:33-04:00",
+    "updated_at": "2026-08-10T07:17:35-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -284885,6 +284885,70 @@
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7822402003": {
+    "updated_at": "2026-08-10T06:49:45-04:00",
+    "title": "Senior Software Engineer - Core Databases",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:stripe:8108391": {
+    "updated_at": "2026-08-10T06:49:20-04:00",
+    "title": "Marketing Operations Associate (Automation)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:8079514": {
+    "updated_at": "2026-08-10T06:49:09-04:00",
+    "title": "Account Executive, hunter",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:okta:8119091": {
+    "updated_at": "2026-08-10T06:43:39-04:00",
+    "title": "Senior Software Engineer, Fullstack",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7820531003": {
+    "updated_at": "2026-08-10T06:41:11-04:00",
+    "title": "Software Engineer",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:stripe:8114157": {
+    "updated_at": "2026-08-10T06:30:55-04:00",
+    "title": "Account Executive, Existing Business (Benelux)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8119059": {
+    "updated_at": "2026-08-10T06:10:51-04:00",
+    "title": "KYC Representative",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5380573008": {
+    "updated_at": "2026-08-10T06:02:01-04:00",
+    "title": "Software Engineer II",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
     "alerted": false
   }
 }
