@@ -185224,7 +185224,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7978732": {
-    "updated_at": "2026-07-06T05:19:21-04:00",
+    "updated_at": "2026-08-10T07:39:18-04:00",
     "title": "Principal Product Data Scientist",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -231896,7 +231896,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8046270": {
-    "updated_at": "2026-07-27T04:43:14-04:00",
+    "updated_at": "2026-08-10T07:33:23-04:00",
     "title": "Senior Data Science Manager (Experimentation)",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-10T07:18:57-04:00",
+    "updated_at": "2026-08-10T08:05:15-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-10T07:18:59-04:00",
+    "updated_at": "2026-08-10T08:05:19-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -278928,7 +278928,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8046272": {
-    "updated_at": "2026-08-05T10:46:20-04:00",
+    "updated_at": "2026-08-10T07:33:23-04:00",
     "title": "Senior Manager, Product Data Science & Experimentation",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -283072,7 +283072,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8687171002": {
-    "updated_at": "2026-08-07T06:33:05-04:00",
+    "updated_at": "2026-08-10T07:21:47-04:00",
     "title": "Associate Solutions Architect (French or German fluency)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -283080,7 +283080,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8675543002": {
-    "updated_at": "2026-08-07T06:32:39-04:00",
+    "updated_at": "2026-08-10T07:21:07-04:00",
     "title": "Associate Solutions Architect (French or German fluency)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -284949,6 +284949,30 @@
     "company": "newrelic",
     "ats": "greenhouse",
     "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7523084003": {
+    "updated_at": "2026-08-10T07:24:15-04:00",
+    "title": "Principal Product Manager",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8675560002": {
+    "updated_at": "2026-08-10T07:19:57-04:00",
+    "title": "Strategic Account Executive, Poland",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7847762003": {
+    "updated_at": "2026-08-10T06:52:24-04:00",
+    "title": "Senior Software Engineer - C Programmer",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
     "alerted": false
   }
 }
