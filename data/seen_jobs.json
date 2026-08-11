@@ -8312,7 +8312,7 @@
     "alerted": true
   },
   "greenhouse:adyen:7585767": {
-    "updated_at": "2026-08-06T15:45:10-04:00",
+    "updated_at": "2026-08-11T17:13:23-04:00",
     "title": "Senior Commercial Partnerships Manager, Private Equity and Venture Capital",
     "company": "adyen",
     "ats": "greenhouse",
@@ -21352,7 +21352,7 @@
     "alerted": true
   },
   "greenhouse:postman:7691486003": {
-    "updated_at": "2026-08-06T17:56:03-04:00",
+    "updated_at": "2026-08-11T16:46:42-04:00",
     "title": "Enterprise Solutions Engineer",
     "company": "postman",
     "ats": "greenhouse",
@@ -21360,7 +21360,7 @@
     "alerted": true
   },
   "greenhouse:postman:7691477003": {
-    "updated_at": "2026-08-06T17:56:03-04:00",
+    "updated_at": "2026-08-11T16:46:42-04:00",
     "title": "Enterprise Solutions Engineer",
     "company": "postman",
     "ats": "greenhouse",
@@ -34472,7 +34472,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4657264006": {
-    "updated_at": "2026-08-07T12:21:17-04:00",
+    "updated_at": "2026-08-11T17:02:26-04:00",
     "title": "Manager, Business Development",
     "company": "applovin",
     "ats": "greenhouse",
@@ -38120,7 +38120,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8417814002": {
-    "updated_at": "2026-07-31T14:43:25-04:00",
+    "updated_at": "2026-08-11T17:18:33-04:00",
     "title": "Mechanical Development Test Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -98616,8 +98616,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7681220": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
-    "title": "Senior Account Executive, Startups (NYC)",
+    "updated_at": "2026-08-11T16:53:06-04:00",
+    "title": "Senior Account Executive, Startups (NYC OR Boston)",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -144288,7 +144288,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8533825002": {
-    "updated_at": "2026-07-24T17:18:02-04:00",
+    "updated_at": "2026-08-11T17:01:36-04:00",
     "title": "Sr. Mechanical Design Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -163344,7 +163344,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7734972003": {
-    "updated_at": "2026-08-11T12:46:26-04:00",
+    "updated_at": "2026-08-11T16:46:28-04:00",
     "title": "Business Development Representative, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -167720,7 +167720,7 @@
     "alerted": false
   },
   "greenhouse:justworks:7927887": {
-    "updated_at": "2026-08-03T11:11:15-04:00",
+    "updated_at": "2026-08-11T17:22:03-04:00",
     "title": "Program Manager, Product",
     "company": "justworks",
     "ats": "greenhouse",
@@ -202072,8 +202072,8 @@
     "alerted": false
   },
   "greenhouse:stripe:7368924": {
-    "updated_at": "2026-08-06T12:09:55-04:00",
-    "title": "Manager, Startups Account Executives - Existing Business",
+    "updated_at": "2026-08-11T16:42:25-04:00",
+    "title": "Sales Manager, Account Executives - Startups (Grower)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -219040,7 +219040,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7785892003": {
-    "updated_at": "2026-08-11T12:46:27-04:00",
+    "updated_at": "2026-08-11T16:46:28-04:00",
     "title": "Business Development Representative, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -219048,7 +219048,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7785884003": {
-    "updated_at": "2026-08-11T12:46:26-04:00",
+    "updated_at": "2026-08-11T16:46:28-04:00",
     "title": "Business Development Representative, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -223520,7 +223520,7 @@
     "alerted": false
   },
   "greenhouse:faire:8612420002": {
-    "updated_at": "2026-07-29T16:05:50-04:00",
+    "updated_at": "2026-08-11T16:40:59-04:00",
     "title": "Senior Staff Data Engineer - Platform Data and Analytics",
     "company": "faire",
     "ats": "greenhouse",
@@ -223528,7 +223528,7 @@
     "alerted": false
   },
   "greenhouse:faire:8612419002": {
-    "updated_at": "2026-07-29T16:11:37-04:00",
+    "updated_at": "2026-08-11T16:40:57-04:00",
     "title": "Senior Staff Data Engineer - Platform Data and Analytics",
     "company": "faire",
     "ats": "greenhouse",
@@ -226568,7 +226568,7 @@
     "alerted": false
   },
   "greenhouse:hightouch:6105396004": {
-    "updated_at": "2026-06-30T20:00:34-04:00",
+    "updated_at": "2026-08-11T17:11:03-04:00",
     "title": "ISV Partner Sales Snowflake",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -230480,8 +230480,8 @@
     "alerted": false
   },
   "greenhouse:gusto:8040735": {
-    "updated_at": "2026-08-10T14:09:47-04:00",
-    "title": "Financial Services Compliance Lead",
+    "updated_at": "2026-08-11T16:46:29-04:00",
+    "title": "Financial Services Compliance",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-11T16:35:04-04:00",
+    "updated_at": "2026-08-11T17:18:52-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-11T16:35:08-04:00",
+    "updated_at": "2026-08-11T17:18:56-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244976,7 +244976,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8628799002": {
-    "updated_at": "2026-07-24T17:18:17-04:00",
+    "updated_at": "2026-08-11T17:13:15-04:00",
     "title": "Mechanical Integration and Test Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -253800,7 +253800,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8639486002": {
-    "updated_at": "2026-08-03T13:09:30-04:00",
+    "updated_at": "2026-08-11T16:46:38-04:00",
     "title": "Partner Marketing Coordinator",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -257992,7 +257992,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7813005003": {
-    "updated_at": "2026-08-03T19:16:40-04:00",
+    "updated_at": "2026-08-11T16:46:31-04:00",
     "title": "Manager Business Development, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -260128,7 +260128,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8643901002": {
-    "updated_at": "2026-07-24T17:18:20-04:00",
+    "updated_at": "2026-08-11T17:06:23-04:00",
     "title": "Physical Security Hardware Specialist",
     "company": "spacex",
     "ats": "greenhouse",
@@ -266424,7 +266424,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8652488002": {
-    "updated_at": "2026-07-28T14:04:02-04:00",
+    "updated_at": "2026-08-11T17:04:40-04:00",
     "title": "Mechanical Design Engineer, Production (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -267208,7 +267208,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8075935": {
-    "updated_at": "2026-08-10T14:13:00-04:00",
+    "updated_at": "2026-08-11T17:24:52-04:00",
     "title": "Retirement Sales Account Executive",
     "company": "gusto",
     "ats": "greenhouse",
@@ -268408,7 +268408,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8093273": {
-    "updated_at": "2026-08-10T22:52:30-04:00",
+    "updated_at": "2026-08-11T16:54:17-04:00",
     "title": "Corporate Counsel - Legal Product, IP, and Marketing",
     "company": "elastic",
     "ats": "greenhouse",
@@ -268776,7 +268776,7 @@
     "alerted": false
   },
   "greenhouse:braze:8082433": {
-    "updated_at": "2026-08-04T10:35:05-04:00",
+    "updated_at": "2026-08-11T17:24:48-04:00",
     "title": "AE - Emerging Enterprise - MEGS",
     "company": "braze",
     "ats": "greenhouse",
@@ -271800,7 +271800,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8659658002": {
-    "updated_at": "2026-07-30T18:21:13-04:00",
+    "updated_at": "2026-08-11T16:45:05-04:00",
     "title": "Global Supply Manager (Raptor)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-11T14:47:45-04:00",
+    "updated_at": "2026-08-11T17:17:24-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -281464,8 +281464,8 @@
     "alerted": false
   },
   "greenhouse:mercury:6138316004": {
-    "updated_at": "2026-08-10T17:50:43-04:00",
-    "title": "Senior Compliance Risk Manager - Prudential (Reg W, Reg O)",
+    "updated_at": "2026-08-11T17:08:58-04:00",
+    "title": "Senior Compliance Risk Manager - Prudential",
     "company": "mercury",
     "ats": "greenhouse",
     "source_slug": "mercury",
@@ -282528,7 +282528,7 @@
     "alerted": false
   },
   "greenhouse:lattice:8684299002": {
-    "updated_at": "2026-08-06T13:04:50-04:00",
+    "updated_at": "2026-08-11T17:07:19-04:00",
     "title": "Sales Development Representative",
     "company": "lattice",
     "ats": "greenhouse",
@@ -283584,7 +283584,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4703378006": {
-    "updated_at": "2026-08-11T13:25:48-04:00",
+    "updated_at": "2026-08-11T17:02:26-04:00",
     "title": "Account Executive",
     "company": "applovin",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-11T16:35:12-04:00",
+    "updated_at": "2026-08-11T17:18:59-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -288406,5 +288406,125 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:oportun:4723214005": {
+    "updated_at": "2026-08-11T17:19:03-04:00",
+    "title": "Senior Manager, Networking (R14154)",
+    "company": "oportun",
+    "ats": "greenhouse",
+    "source_slug": "oportun",
+    "alerted": false
+  },
+  "greenhouse:stripe:8110416": {
+    "updated_at": "2026-08-11T17:12:37-04:00",
+    "title": "Head of AMER Startups (Grower)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8696568002": {
+    "updated_at": "2026-08-11T17:11:48-04:00",
+    "title": "Loads & Dynamics Engineer (Starfall)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:instacart:8122333": {
+    "updated_at": "2026-08-11T17:11:20-04:00",
+    "title": "Senior Manager, Legal Technology, Operations & AI Enablement",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8122176": {
+    "updated_at": "2026-08-11T17:11:19-04:00",
+    "title": "Senior Manager, Legal Technology, Operations & AI Enablement",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:sofi:7855528003": {
+    "updated_at": "2026-08-11T17:11:01-04:00",
+    "title": "Investment Specialist II",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:verkada:5209578007": {
+    "updated_at": "2026-08-11T16:53:44-04:00",
+    "title": "Operations Lead, Security Trailers & Edge Products",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:spacex:8693664002": {
+    "updated_at": "2026-08-11T16:51:32-04:00",
+    "title": "Sr. Equipment Engineer, Insource Manufacturing",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8688026002": {
+    "updated_at": "2026-08-11T16:50:27-04:00",
+    "title": "Telecommunications Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8122777": {
+    "updated_at": "2026-08-11T16:46:47-04:00",
+    "title": "Specialist, CSIRT",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:asana:8100442": {
+    "updated_at": "2026-08-11T16:46:00-04:00",
+    "title": "Head of SEO & AEO",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:mercury:6141465004": {
+    "updated_at": "2026-08-11T16:45:36-04:00",
+    "title": "Senior Account Executive - Credit & Lending Products",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8119799": {
+    "updated_at": "2026-08-11T16:43:47-04:00",
+    "title": "Senior Manager, M&A Integration",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8121019": {
+    "updated_at": "2026-08-11T16:39:47-04:00",
+    "title": "Sr. Sales Enablement Program Manager",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8114206": {
+    "updated_at": "2026-08-11T16:31:57-04:00",
+    "title": "Director, CXO Intelligence",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
   }
 }
