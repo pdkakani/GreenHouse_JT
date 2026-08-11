@@ -2712,7 +2712,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8356289002": {
-    "updated_at": "2026-08-10T12:58:25-04:00",
+    "updated_at": "2026-08-11T14:18:58-04:00",
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -7640,7 +7640,7 @@
     "alerted": true
   },
   "greenhouse:stripe:6163230": {
-    "updated_at": "2026-08-06T12:09:50-04:00",
+    "updated_at": "2026-08-11T14:50:08-04:00",
     "title": "Backend Engineer, Payments and Risk",
     "company": "stripe",
     "ats": "greenhouse",
@@ -10816,8 +10816,8 @@
     "alerted": true
   },
   "greenhouse:anthropic:5082402008": {
-    "updated_at": "2026-08-10T18:55:06-04:00",
-    "title": "Partner Alliance Manager \u2013 Regional & Specialist Systems Integrators",
+    "updated_at": "2026-08-11T14:11:21-04:00",
+    "title": "Senior Partner Account Manager \u2013Global Systems Integrator Alliances",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -16024,8 +16024,8 @@
     "alerted": true
   },
   "greenhouse:gusto:7413644": {
-    "updated_at": "2026-08-10T14:02:34-04:00",
-    "title": "Sr Software Engineer, Database Infrastructure",
+    "updated_at": "2026-08-11T14:20:13-04:00",
+    "title": "Software Engineer, Database Infrastructure",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -26768,7 +26768,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4654110006": {
-    "updated_at": "2026-06-09T16:20:16-04:00",
+    "updated_at": "2026-08-11T14:52:34-04:00",
     "title": "Sr. Technical Program Manager, Capacity Delivery",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26800,8 +26800,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4669836006": {
-    "updated_at": "2026-08-04T20:15:19-04:00",
-    "title": "Staff Software Engineer, Storage",
+    "updated_at": "2026-08-11T14:27:18-04:00",
+    "title": "Staff Storage Engineer, File & Block",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -35392,7 +35392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135168007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-11T14:29:24-04:00",
     "title": "Product Design Mechanical Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35736,8 +35736,8 @@
     "alerted": false
   },
   "greenhouse:verkada:4134234007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
-    "title": "Software Engineer - Imaging Systems",
+    "updated_at": "2026-08-11T14:07:56-04:00",
+    "title": "Embedded Engineer - Computer Vision",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -56088,7 +56088,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652717006": {
-    "updated_at": "2026-07-27T15:54:07-04:00",
+    "updated_at": "2026-08-11T14:02:38-04:00",
     "title": "Senior Manager, Data Center Logistics & Inventory",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -81840,8 +81840,8 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7636105003": {
-    "updated_at": "2026-08-05T13:56:28-04:00",
-    "title": "Senior Product Designer, Growth",
+    "updated_at": "2026-08-11T14:14:55-04:00",
+    "title": "Senior Product Designer",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
@@ -100736,7 +100736,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7409236": {
-    "updated_at": "2026-07-28T10:04:33-04:00",
+    "updated_at": "2026-08-11T14:35:47-04:00",
     "title": "Key Accounts Executive",
     "company": "datadog",
     "ats": "greenhouse",
@@ -101128,8 +101128,8 @@
     "alerted": false
   },
   "greenhouse:datadog:7732564": {
-    "updated_at": "2026-08-11T13:52:04-04:00",
-    "title": "Real Estate Project Manager",
+    "updated_at": "2026-08-11T13:57:06-04:00",
+    "title": "Real Estate Associate Project Manager",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -101792,7 +101792,7 @@
     "alerted": false
   },
   "greenhouse:datadog:6430945": {
-    "updated_at": "2026-07-28T05:41:06-04:00",
+    "updated_at": "2026-08-11T14:36:46-04:00",
     "title": "Strategic Account Executive (SLED)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -180680,7 +180680,7 @@
     "alerted": true
   },
   "greenhouse:verkada:4288855007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-11T14:32:04-04:00",
     "title": "Hardware Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -193272,7 +193272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4687824006": {
-    "updated_at": "2026-07-27T14:47:04-04:00",
+    "updated_at": "2026-08-11T13:55:17-04:00",
     "title": "Data Center Technician - Afton, TX",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -208912,7 +208912,7 @@
     "alerted": false
   },
   "greenhouse:chime:8584952002": {
-    "updated_at": "2026-07-01T02:34:59-04:00",
+    "updated_at": "2026-08-11T14:16:46-04:00",
     "title": "Senior Associate, Product Compliance",
     "company": "chime",
     "ats": "greenhouse",
@@ -224000,7 +224000,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8607174002": {
-    "updated_at": "2026-07-24T17:18:14-04:00",
+    "updated_at": "2026-08-11T14:24:22-04:00",
     "title": "Material Transfer Driver - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -230384,7 +230384,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7974884": {
-    "updated_at": "2026-08-04T16:38:20-04:00",
+    "updated_at": "2026-08-11T14:47:43-04:00",
     "title": "Sr. Social Producer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-11T13:49:53-04:00",
+    "updated_at": "2026-08-11T14:49:59-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-11T13:49:56-04:00",
+    "updated_at": "2026-08-11T14:50:02-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -258784,7 +258784,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:8080890": {
-    "updated_at": "2026-08-06T17:45:58-04:00",
+    "updated_at": "2026-08-11T14:01:50-04:00",
     "title": "Principal Product Manager - AI Creation & Growth (Remote Eligible)",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -259968,7 +259968,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8011777": {
-    "updated_at": "2026-08-11T09:59:28-04:00",
+    "updated_at": "2026-08-11T14:47:50-04:00",
     "title": "Solutions Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -260448,7 +260448,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8611108002": {
-    "updated_at": "2026-07-24T19:29:05-04:00",
+    "updated_at": "2026-08-11T14:19:14-04:00",
     "title": "Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -260976,8 +260976,8 @@
     "alerted": false
   },
   "greenhouse:twitch:8643186002": {
-    "updated_at": "2026-07-23T21:06:52-04:00",
-    "title": "Business Development Manager",
+    "updated_at": "2026-08-11T14:37:09-04:00",
+    "title": "Manager, Product & Platforms Business Development",
     "company": "twitch",
     "ats": "greenhouse",
     "source_slug": "twitch",
@@ -263912,7 +263912,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8643531002": {
-    "updated_at": "2026-07-29T16:06:26-04:00",
+    "updated_at": "2026-08-11T14:39:32-04:00",
     "title": "Inventory Control Analyst, Maintenance (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -270760,7 +270760,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8632188002": {
-    "updated_at": "2026-07-30T13:54:42-04:00",
+    "updated_at": "2026-08-11T14:19:18-04:00",
     "title": "Sr. Forward Deployed Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-11T13:47:25-04:00",
+    "updated_at": "2026-08-11T14:47:45-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -277680,8 +277680,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4702521006": {
-    "updated_at": "2026-08-04T20:15:01-04:00",
-    "title": "Staff Software Engineer, Storage",
+    "updated_at": "2026-08-11T14:26:33-04:00",
+    "title": "Staff Storage Engineer, File & Block",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-11T13:49:59-04:00",
+    "updated_at": "2026-08-11T14:50:05-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -285720,7 +285720,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8423310002": {
-    "updated_at": "2026-08-10T13:50:41-04:00",
+    "updated_at": "2026-08-11T14:19:06-04:00",
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -287768,7 +287768,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5209473007": {
-    "updated_at": "2026-08-11T13:40:09-04:00",
+    "updated_at": "2026-08-11T14:08:50-04:00",
     "title": "Software Engineering Manager - Alarms",
     "company": "verkada",
     "ats": "greenhouse",
@@ -287973,6 +287973,142 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:starburst:5384527008": {
+    "updated_at": "2026-08-11T14:28:29-04:00",
+    "title": "Sr Director, Pipeline Strategy & Analytics",
+    "company": "starburst",
+    "ats": "greenhouse",
+    "source_slug": "starburst",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4704233006": {
+    "updated_at": "2026-08-11T14:27:57-04:00",
+    "title": "Staff Storage Engineer, File & Block",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:elastic:8121037": {
+    "updated_at": "2026-08-11T14:27:34-04:00",
+    "title": "Director, Cloud Operations",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:sofi:7855265003": {
+    "updated_at": "2026-08-11T14:22:13-04:00",
+    "title": "Director of Compliance, Invest",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:verkada:5208742007": {
+    "updated_at": "2026-08-11T14:20:47-04:00",
+    "title": "Sales Enablement Lead",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:toast:8122281": {
+    "updated_at": "2026-08-11T14:16:01-04:00",
+    "title": "Strategic Cuisines Account Executive, Spanish - Central, CA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4702795006": {
+    "updated_at": "2026-08-11T14:14:23-04:00",
+    "title": "Data Center Operations Cost Analyst",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:postman:7491499003": {
+    "updated_at": "2026-08-11T14:13:45-04:00",
+    "title": "Account Development Representative (Portuguese Speaking)",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": false
+  },
+  "greenhouse:toast:8122276": {
+    "updated_at": "2026-08-11T14:11:54-04:00",
+    "title": "Territory Account Executive-Sydney",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8638276002": {
+    "updated_at": "2026-08-11T14:11:16-04:00",
+    "title": "Sr. Customer Success Manager",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:toast:8122273": {
+    "updated_at": "2026-08-11T14:10:47-04:00",
+    "title": "Territory Account Executive-Melbourne",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:stripe:6786568": {
+    "updated_at": "2026-08-11T13:59:48-04:00",
+    "title": "Full Stack Engineer, Expansion",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8696779002": {
+    "updated_at": "2026-08-11T13:58:07-04:00",
+    "title": "Software Engineer (Starlink/Akoustis)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8120458": {
+    "updated_at": "2026-08-11T13:50:34-04:00",
+    "title": "Lead Localization Operations Program Manager",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:spacex:8696459002": {
+    "updated_at": "2026-08-11T13:49:59-04:00",
+    "title": "Supply Chain Planner, xAI (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:elastic:8099224": {
+    "updated_at": "2026-08-11T14:49:48-04:00",
+    "title": "Senior Software Engineer, Security Solution \u2014 Triage & Investigation",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": true
+  },
+  "greenhouse:verkada:5209588007": {
+    "updated_at": "2026-08-11T14:43:52-04:00",
+    "title": "Senior Embedded Linux Engineer - Connectivity",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
     "alerted": true
   }
 }
