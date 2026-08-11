@@ -3312,7 +3312,7 @@
     "alerted": true
   },
   "greenhouse:elastic:6907907": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Sales Development Representative Emerging Talent - Austin, TX On-Site",
     "company": "elastic",
     "ats": "greenhouse",
@@ -3328,7 +3328,7 @@
     "alerted": true
   },
   "greenhouse:elastic:7734567": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -3360,7 +3360,7 @@
     "alerted": true
   },
   "greenhouse:elastic:7747631": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Solutions Architect - SLED",
     "company": "elastic",
     "ats": "greenhouse",
@@ -3368,7 +3368,7 @@
     "alerted": true
   },
   "greenhouse:elastic:7747112": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Solutions Architect - SLED",
     "company": "elastic",
     "ats": "greenhouse",
@@ -33416,8 +33416,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7429718": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
-    "title": "Senior Software Engineer, Simulation ML Infrastructure",
+    "updated_at": "2026-08-10T21:17:46-04:00",
+    "title": "Staff Software Engineer, Simulation ML Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -46256,7 +46256,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7697973": {
-    "updated_at": "2026-08-10T11:11:11-04:00",
+    "updated_at": "2026-08-10T22:02:21-04:00",
     "title": "Risk Strategist, Onboarding & Compliance",
     "company": "stripe",
     "ats": "greenhouse",
@@ -58560,7 +58560,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7821378": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Enterprise Account Executive (FSI) - Mumbai",
     "company": "elastic",
     "ats": "greenhouse",
@@ -63112,7 +63112,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7817941": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Senior Solution Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -71952,7 +71952,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7811848": {
-    "updated_at": "2026-08-04T04:19:40-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Solution Architect - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -80584,7 +80584,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7812397": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Federal Account Executive -  Dept of Commerce",
     "company": "elastic",
     "ats": "greenhouse",
@@ -84760,7 +84760,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7769649": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Federal Account Executive - UN, World Bank, NARA",
     "company": "elastic",
     "ats": "greenhouse",
@@ -90848,7 +90848,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7802531": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "FedCiv Account Executive - Dept of Treasury",
     "company": "elastic",
     "ats": "greenhouse",
@@ -94632,7 +94632,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7769639": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Federal Account Executive - NIH / CDC",
     "company": "elastic",
     "ats": "greenhouse",
@@ -103392,7 +103392,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7061643": {
-    "updated_at": "2026-08-03T07:39:16-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Mid Market Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -106072,7 +106072,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7728182": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Public Sector Account Executive (DWP)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -113240,7 +113240,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7734579": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Developer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -114856,7 +114856,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7635520": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Solutions Architect - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -134192,7 +134192,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7663327": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Sr. Solutions Architect - Enterprise Expand, West Coast (Presales)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -134360,7 +134360,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7817931": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Senior Solution Architect, Thailand",
     "company": "elastic",
     "ats": "greenhouse",
@@ -141528,7 +141528,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7885940": {
-    "updated_at": "2026-08-01T04:39:09-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Global PR Director, US",
     "company": "elastic",
     "ats": "greenhouse",
@@ -147440,7 +147440,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7843348": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Principal Software Engineer - Vector Search - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -147448,7 +147448,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7903238": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Principal Software Engineer - Vector Search - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -147712,7 +147712,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7349982": {
-    "updated_at": "2026-08-10T08:17:48-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Senior Solutions Architect (NATO)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -152488,7 +152488,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7896538": {
-    "updated_at": "2026-08-06T12:10:04-04:00",
+    "updated_at": "2026-08-10T22:09:55-04:00",
     "title": "Manager, Sales Development",
     "company": "stripe",
     "ats": "greenhouse",
@@ -162344,7 +162344,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7768040": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Account Executive Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -165552,7 +165552,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7944199": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Solutions Architect - General Business, East (Presales)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -165560,7 +165560,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7939709": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Solutions Architect -  General Business, East (Presales)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -173048,7 +173048,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7882324": {
-    "updated_at": "2026-07-30T02:54:58-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Enterprise Account Executive Retail Market",
     "company": "elastic",
     "ats": "greenhouse",
@@ -175232,7 +175232,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7954418": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Sr. Director, Field Technology and AI",
     "company": "elastic",
     "ats": "greenhouse",
@@ -176128,7 +176128,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7866561": {
-    "updated_at": "2026-08-03T15:39:02-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Senior Account Executive | Canada Ministry of National Defence",
     "company": "elastic",
     "ats": "greenhouse",
@@ -180568,7 +180568,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7968189": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "ABM Manager, Global Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -182664,7 +182664,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8570023002": {
-    "updated_at": "2026-08-10T14:44:11-04:00",
+    "updated_at": "2026-08-10T23:05:03-04:00",
     "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Emerging Business)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -191376,7 +191376,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7817945": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Senior Solution Architect, Mumbai",
     "company": "elastic",
     "ats": "greenhouse",
@@ -192864,7 +192864,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7988387": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Search Consulting Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -193552,7 +193552,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7991482": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Search Consulting Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -197152,7 +197152,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7997315": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Inside Account Executive (Hunter)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -197160,7 +197160,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7997314": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Inside Account Executive (Hunter)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -197168,7 +197168,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7993839": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Inside Account Executive (Hunter)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -198440,7 +198440,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7991494": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Cloud Billing Associate",
     "company": "elastic",
     "ats": "greenhouse",
@@ -198520,7 +198520,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7578418": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Mid Market Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -199664,7 +199664,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001192": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -199672,7 +199672,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001191": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -199680,7 +199680,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001190": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -199688,7 +199688,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001189": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -199696,7 +199696,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001186": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -199712,7 +199712,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001166": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200448,7 +200448,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002561": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200456,7 +200456,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002560": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200464,7 +200464,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002559": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200472,7 +200472,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002558": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200488,7 +200488,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002555": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200496,7 +200496,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7982102": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Developer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200512,7 +200512,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7982100": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200832,7 +200832,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995039": {
-    "updated_at": "2026-07-29T12:19:48-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Senior Solutions Architect - Security Specialist",
     "company": "elastic",
     "ats": "greenhouse",
@@ -200864,7 +200864,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002562": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -202960,7 +202960,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995010": {
-    "updated_at": "2026-08-01T04:39:24-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Senior Partner Manager, Korea",
     "company": "elastic",
     "ats": "greenhouse",
@@ -203472,7 +203472,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001092": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "ABM Regional Manager, AMER",
     "company": "elastic",
     "ats": "greenhouse",
@@ -205632,7 +205632,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8009085": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Sr. Manager, ABM (Team Lead)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -206752,7 +206752,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995012": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Mid-Market Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -210576,7 +210576,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8011801": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Solutions Architect, Security Specialist",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212320,7 +212320,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7960049": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Senior Solution Architect (Pre-sales)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212368,7 +212368,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020864": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212376,7 +212376,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020857": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212384,7 +212384,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020854": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212416,7 +212416,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020845": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Principal Software Engineer - Vector Search - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212424,7 +212424,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020844": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Principal Software Engineer - Vector Search - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212432,7 +212432,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8020842": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Principal Software Engineer - Vector Search - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -212880,7 +212880,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8013219": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Sr. Director, Global Public Sector Marketing",
     "company": "elastic",
     "ats": "greenhouse",
@@ -213752,7 +213752,7 @@
     "alerted": true
   },
   "greenhouse:elastic:8022947": {
-    "updated_at": "2026-07-30T03:18:41-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Lifecycle Marketing Manager - Self Service Cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -213760,7 +213760,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8022946": {
-    "updated_at": "2026-07-30T03:18:39-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Lifecycle Marketing Manager - Self Service Cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -213768,7 +213768,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8002710": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Lifecycle Marketing Manager - Self Service Cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -217016,7 +217016,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8026175": {
-    "updated_at": "2026-07-30T07:02:14-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Public Sector Partner Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -222272,7 +222272,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8568122002": {
-    "updated_at": "2026-08-03T16:19:33-04:00",
+    "updated_at": "2026-08-10T23:09:45-04:00",
     "title": "Sr. Specialist Solutions Architect - Data Engineering & Warehousing",
     "company": "databricks",
     "ats": "greenhouse",
@@ -224688,7 +224688,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8028548": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "German Commercial Counsel",
     "company": "elastic",
     "ats": "greenhouse",
@@ -224704,7 +224704,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8037181": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Deal Desk Analyst (EMEA)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -224904,7 +224904,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8026173": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Sales Sector Lead - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -224944,7 +224944,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8023745": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Business Strategy Developer - International",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226736,7 +226736,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8041209": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Product Manager - Self service cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226744,7 +226744,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8041208": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Product Manager - Self service cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226752,7 +226752,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8041203": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Product Manager - Self service cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226760,7 +226760,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8041202": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Product Manager - Self service cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226768,7 +226768,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8028261": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Product Manager - Self service cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226816,7 +226816,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8034945": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Sr Analyst, FP&A",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226832,7 +226832,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8009973": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Senior Go To Market Recruiter",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226856,7 +226856,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8026177": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Public Sector Account Executive (NHS)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226928,7 +226928,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8040943": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Principal Solutions Architect, Security Specialist",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226976,7 +226976,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8035002": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Solutions Architect - PreSales",
     "company": "elastic",
     "ats": "greenhouse",
@@ -227048,7 +227048,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8041211": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Product Manager - Self service cloud",
     "company": "elastic",
     "ats": "greenhouse",
@@ -227120,7 +227120,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8031519": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Sales Compensation Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -230760,7 +230760,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:7979542": {
-    "updated_at": "2026-07-03T01:48:50-04:00",
+    "updated_at": "2026-08-10T22:34:37-04:00",
     "title": "Business Development Representative, WFM",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -231520,7 +231520,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7811850": {
-    "updated_at": "2026-08-10T16:18:26-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Solution Architect (Pre-sales)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -234008,7 +234008,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8047187": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Program Manager, Revenue Journey Office",
     "company": "elastic",
     "ats": "greenhouse",
@@ -234016,7 +234016,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8047228": {
-    "updated_at": "2026-08-07T16:12:56-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Director, GTM Executive Communications",
     "company": "elastic",
     "ats": "greenhouse",
@@ -234280,7 +234280,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8048350": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Mid Market Account Executive - Bay Area",
     "company": "elastic",
     "ats": "greenhouse",
@@ -234960,7 +234960,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8044321": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "UK Commercial Counsel Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -234976,7 +234976,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8050499": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Business Strategy Developer - International",
     "company": "elastic",
     "ats": "greenhouse",
@@ -234984,7 +234984,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8050495": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Business Strategy Developer - International",
     "company": "elastic",
     "ats": "greenhouse",
@@ -234992,7 +234992,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8050489": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Business Strategy Developer - International",
     "company": "elastic",
     "ats": "greenhouse",
@@ -235688,7 +235688,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8045325": {
-    "updated_at": "2026-08-01T04:39:29-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Public Sector Account Executive (Education)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -235952,7 +235952,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8047349": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Platform Engineer - Kubernetes",
     "company": "elastic",
     "ats": "greenhouse",
@@ -236528,7 +236528,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8047231": {
-    "updated_at": "2026-08-03T12:18:20-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Program Manager, Revenue Operations",
     "company": "elastic",
     "ats": "greenhouse",
@@ -237104,7 +237104,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8045062": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "International Revenue Strategy & Operations Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -237168,7 +237168,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8041466": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Revenue Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -237512,7 +237512,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8045331": {
-    "updated_at": "2026-08-10T03:26:18-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Elastic Consultant - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -237784,7 +237784,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8035491": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Sales Development Representative UK&I (English speaking)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -239312,7 +239312,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8055111": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Sales Development Representative - Barcelona (Hybrid)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -240040,7 +240040,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8054612": {
-    "updated_at": "2026-08-04T03:32:07-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Enterprise Account Executive - Expand - Bay Area",
     "company": "elastic",
     "ats": "greenhouse",
@@ -241992,7 +241992,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8053209": {
-    "updated_at": "2026-08-10T15:18:38-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Sales Operations Analyst - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -243344,7 +243344,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8059520": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Enterprise Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -243560,7 +243560,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8035004": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Enterprise Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-10T21:05:51-04:00",
+    "updated_at": "2026-08-10T23:06:10-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243784,7 +243784,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8059843": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Customer Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-10T21:05:54-04:00",
+    "updated_at": "2026-08-10T23:06:13-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245160,7 +245160,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8054405": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Revenue Analyst",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245216,7 +245216,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8065489": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Principal AI Ecosystem Architect - OpenAI/Anthropic",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245224,7 +245224,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8047165": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Principal AI Ecosystem Architect - OpenAI/Anthropic",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245560,7 +245560,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066516": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Product Manager, Logs - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245568,7 +245568,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066508": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Product Manager, Logs - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245576,7 +245576,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066510": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Product Manager, Logs - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245584,7 +245584,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066512": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Product Manager, Logs - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245648,7 +245648,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066646": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Product Manager, Logs - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245656,7 +245656,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8053907": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Product Manager, Logs - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245776,7 +245776,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995008": {
-    "updated_at": "2026-07-30T08:05:08-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Senior Partner Solutions Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -245904,7 +245904,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8067211": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Sr. Manager, ABM (Team Lead)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -246024,7 +246024,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8067100": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Principal Software Engineer  - Search Infra - Elasticsearch -",
     "company": "elastic",
     "ats": "greenhouse",
@@ -246032,7 +246032,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8067101": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -246536,7 +246536,7 @@
     "alerted": true
   },
   "greenhouse:elastic:8035673": {
-    "updated_at": "2026-08-05T03:23:12-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Associate Creative Director",
     "company": "elastic",
     "ats": "greenhouse",
@@ -246544,7 +246544,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8035675": {
-    "updated_at": "2026-08-05T03:23:17-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Video Creative Lead",
     "company": "elastic",
     "ats": "greenhouse",
@@ -247560,7 +247560,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8065315": {
-    "updated_at": "2026-08-04T11:44:58-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Paid Social Analyst",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248296,7 +248296,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8042302": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Manager, Global Events (AMER)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248376,7 +248376,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8068467": {
-    "updated_at": "2026-08-05T17:29:48-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Program Manager, Revenue Journey Office",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248488,7 +248488,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8028992": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Procurement Operations Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248744,7 +248744,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8044137": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Public Sector Marketing Manager (SLED)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248808,7 +248808,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8070011": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Principal Product Manager Agents and Context - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248824,7 +248824,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7602101": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:21-04:00",
     "title": "Principal Product Manager Agents and Context - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -249968,7 +249968,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8059920": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Tech Lead, Agent Framework - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -249976,7 +249976,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8071582": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Tech Lead, Agent Framework - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -249984,7 +249984,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8071620": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Tech Lead, Agent Framework - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -249992,7 +249992,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8071641": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Tech Lead, Agent Framework - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -250208,7 +250208,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8068458": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Sr. Director, Enablement, Strategy & Partner Operations",
     "company": "elastic",
     "ats": "greenhouse",
@@ -250344,7 +250344,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8065886": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Enterprise Account Executive - Midwest",
     "company": "elastic",
     "ats": "greenhouse",
@@ -250856,7 +250856,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8068023": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Senior Solutions Architect - Federal Civilian",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252128,7 +252128,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8046246": {
-    "updated_at": "2026-07-30T06:20:05-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Sales Strategy & Operations Specialist",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252424,7 +252424,7 @@
     "alerted": true
   },
   "greenhouse:elastic:8074819": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Principal Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252584,7 +252584,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8053886": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Java Engineer - Core/Infra - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252592,7 +252592,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074285": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Java Developer - Core/Infra - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252840,7 +252840,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074895": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252848,7 +252848,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074894": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252856,7 +252856,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074886": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252864,7 +252864,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074889": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252872,7 +252872,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074855": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252880,7 +252880,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074854": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252896,7 +252896,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074844": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Developer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -252904,7 +252904,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066491": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -253040,7 +253040,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8074820": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Principal Software Developer - Storage Engine - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -254024,7 +254024,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8067205": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Inside Account Executive (Arabic & French speaking)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -254152,7 +254152,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8068807": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Financial Planning and Analysis Manager -Professional Services and Partner Support",
     "company": "elastic",
     "ats": "greenhouse",
@@ -254208,7 +254208,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8069237": {
-    "updated_at": "2026-07-21T07:38:51-04:00",
+    "updated_at": "2026-08-10T23:09:17-04:00",
     "title": "Team Lead - Software Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -254216,7 +254216,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8053074": {
-    "updated_at": "2026-07-30T06:31:27-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Senior Analyst, Sales Strategy & Operations - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -254880,7 +254880,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8059813": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Help Desk Operations Manager, Partner Revenue Strategy & Operations",
     "company": "elastic",
     "ats": "greenhouse",
@@ -257896,7 +257896,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080260": {
-    "updated_at": "2026-08-03T12:37:44-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Software Engineer II - Full Stack - Web Engineering",
     "company": "elastic",
     "ats": "greenhouse",
@@ -257904,7 +257904,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8079441": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Channel and Alliances Manager - Austin, TX",
     "company": "elastic",
     "ats": "greenhouse",
@@ -257912,7 +257912,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080264": {
-    "updated_at": "2026-08-03T12:37:44-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Software Engineer II - Full Stack - Web Engineering",
     "company": "elastic",
     "ats": "greenhouse",
@@ -257920,7 +257920,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080263": {
-    "updated_at": "2026-08-03T12:37:44-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Software Engineer II - Full Stack - Web Engineering",
     "company": "elastic",
     "ats": "greenhouse",
@@ -257960,7 +257960,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8079448": {
-    "updated_at": "2026-07-29T15:58:49-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Channel and Alliances Manager - Brazil",
     "company": "elastic",
     "ats": "greenhouse",
@@ -258368,7 +258368,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8068060": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "RVP - Search",
     "company": "elastic",
     "ats": "greenhouse",
@@ -258440,7 +258440,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080011": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Mid-Market Account Executive - Pursuit/Hunter (Southeast)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -258448,7 +258448,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8048317": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Mid-Market Account Executive - Pursuit/Hunter (Northeast)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -259328,7 +259328,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8065898": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Federal Sales Development Representative - Arlington, VA",
     "company": "elastic",
     "ats": "greenhouse",
@@ -259640,7 +259640,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8079636": {
-    "updated_at": "2026-08-07T18:43:55-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Agentic AI Engineer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -259744,7 +259744,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8079412": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Channel and Alliances Manager - Canada",
     "company": "elastic",
     "ats": "greenhouse",
@@ -259968,7 +259968,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8011777": {
-    "updated_at": "2026-07-28T18:11:12-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Solutions Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -260280,7 +260280,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8078791": {
-    "updated_at": "2026-08-05T03:23:21-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Content Producer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -260592,7 +260592,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8082612": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Principal Software Engineer - Security - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -260600,7 +260600,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8082617": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Principal Software Developer - Security - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -260688,7 +260688,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8082602": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Senior Software Developer - Security - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -260696,7 +260696,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8082598": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Senior Software Engineer - Security - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -261584,7 +261584,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7972639": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Director, Solutions Architecture (Technical Sales)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -261640,7 +261640,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8048319": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Mid Market Account Executive, Pursuit",
     "company": "elastic",
     "ats": "greenhouse",
@@ -264824,7 +264824,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8084261": {
-    "updated_at": "2026-08-04T03:32:12-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Regional Vice President - West",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265064,7 +265064,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8088272": {
-    "updated_at": "2026-07-31T09:52:46-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Senior Customer Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265408,7 +265408,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8091748": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265416,7 +265416,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8091674": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265424,7 +265424,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8091613": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265432,7 +265432,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8091526": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265448,7 +265448,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8091367": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265464,7 +265464,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066481": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -265888,7 +265888,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8089443": {
-    "updated_at": "2026-08-01T04:40:09-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Marketing Program Manager, France",
     "company": "elastic",
     "ats": "greenhouse",
@@ -266664,7 +266664,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8089274": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Inside Channel & Alliances Representative - Federal Civilian",
     "company": "elastic",
     "ats": "greenhouse",
@@ -266672,7 +266672,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8089245": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Inside Channel & Alliances Representative - National Security",
     "company": "elastic",
     "ats": "greenhouse",
@@ -266680,7 +266680,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8089242": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Inside Channel & Alliances Representative - Public Sector West",
     "company": "elastic",
     "ats": "greenhouse",
@@ -266736,7 +266736,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8089240": {
-    "updated_at": "2026-07-28T17:33:22-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Inside Channel & Alliances Representative - Public Sector East",
     "company": "elastic",
     "ats": "greenhouse",
@@ -267480,7 +267480,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8083459": {
-    "updated_at": "2026-07-29T01:07:49-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "VP, Threat Research - Security Intelligence",
     "company": "elastic",
     "ats": "greenhouse",
@@ -267488,7 +267488,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8093637": {
-    "updated_at": "2026-07-29T01:07:48-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "VP, Threat Research - Security Intelligence",
     "company": "elastic",
     "ats": "greenhouse",
@@ -267544,7 +267544,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8088818": {
-    "updated_at": "2026-07-29T05:28:46-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Senior Product Manager, Control Plane - Platform",
     "company": "elastic",
     "ats": "greenhouse",
@@ -267552,7 +267552,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8093933": {
-    "updated_at": "2026-07-29T05:28:45-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Senior Product Manager, Control Plane - Platform",
     "company": "elastic",
     "ats": "greenhouse",
@@ -267576,7 +267576,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8092159": {
-    "updated_at": "2026-07-29T05:03:11-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Mid Market Account Executive - Indonesia",
     "company": "elastic",
     "ats": "greenhouse",
@@ -267648,7 +267648,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8090490": {
-    "updated_at": "2026-08-03T19:57:05-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "\u30a2\u30ab\u30a6\u30f3\u30c8\u55b6\u696d/\u30ea\u30c6\u30fc\u30eb",
     "company": "elastic",
     "ats": "greenhouse",
@@ -268104,7 +268104,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080867": {
-    "updated_at": "2026-07-29T11:29:41-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Enterprise Account Executive - FSI Strategic Accounts",
     "company": "elastic",
     "ats": "greenhouse",
@@ -268216,7 +268216,7 @@
     "alerted": true
   },
   "greenhouse:elastic:8079640": {
-    "updated_at": "2026-08-10T14:21:29-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "AI Security - Principal Security Research Engineer I",
     "company": "elastic",
     "ats": "greenhouse",
@@ -268408,7 +268408,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8093273": {
-    "updated_at": "2026-07-29T12:59:57-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Corporate Counsel - Legal Product, IP, and Marketing",
     "company": "elastic",
     "ats": "greenhouse",
@@ -268736,7 +268736,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8093275": {
-    "updated_at": "2026-08-01T04:40:15-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Okta Identity Engineer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -268936,7 +268936,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8089209": {
-    "updated_at": "2026-07-29T15:14:52-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "FedCiv Account Executive - Financial Regulatory & SSA",
     "company": "elastic",
     "ats": "greenhouse",
@@ -269712,7 +269712,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8067200": {
-    "updated_at": "2026-07-30T04:30:12-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Inside Account Executive (French speaking)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -269928,7 +269928,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8091978": {
-    "updated_at": "2026-07-30T04:41:51-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Inside Account Executive - UKI (English speaking)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -270064,7 +270064,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080876": {
-    "updated_at": "2026-07-30T15:43:54-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Partner Solutions Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -270216,7 +270216,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8092122": {
-    "updated_at": "2026-08-03T15:39:07-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "RFP Proposal Analyst, AMER",
     "company": "elastic",
     "ats": "greenhouse",
@@ -270416,7 +270416,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080932": {
-    "updated_at": "2026-07-30T12:00:08-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Senior Manager, Finance Transformation (Cloud & Marketplaces)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -270920,7 +270920,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080862": {
-    "updated_at": "2026-07-30T15:55:03-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Partner Solution Architect - LATAM (Portuguese/Spanish/English-speaking)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -271192,7 +271192,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8097064": {
-    "updated_at": "2026-08-03T12:37:44-04:00",
+    "updated_at": "2026-08-10T22:52:22-04:00",
     "title": "Software Engineer II - Full Stack - Web Engineering",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272048,7 +272048,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066505": {
-    "updated_at": "2026-08-06T18:00:33-04:00",
+    "updated_at": "2026-08-10T22:52:28-04:00",
     "title": "Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272104,7 +272104,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098422": {
-    "updated_at": "2026-07-31T05:48:10-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Principal Software Engineer - Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272112,7 +272112,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098420": {
-    "updated_at": "2026-07-31T05:47:21-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Principal Software Engineer - Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272128,7 +272128,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098417": {
-    "updated_at": "2026-07-31T05:45:40-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Principal Software Engineer - Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272136,7 +272136,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8066479": {
-    "updated_at": "2026-07-31T05:44:48-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Principal Software Engineer - Relevance in ES|QL - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-10T12:17:24-04:00",
+    "updated_at": "2026-08-10T22:02:55-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -272408,7 +272408,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8092029": {
-    "updated_at": "2026-07-31T09:47:39-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Senior Value Engineer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -272512,7 +272512,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8090553": {
-    "updated_at": "2026-08-08T04:26:54-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "AWS Alliance Director \u2014 EMEA",
     "company": "elastic",
     "ats": "greenhouse",
@@ -273848,7 +273848,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080858": {
-    "updated_at": "2026-08-01T11:55:13-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Public Sector Account Executive - SLED Tennessee / Mississippi",
     "company": "elastic",
     "ats": "greenhouse",
@@ -274616,7 +274616,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8103077": {
-    "updated_at": "2026-08-03T11:22:46-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Regional Vice President",
     "company": "elastic",
     "ats": "greenhouse",
@@ -275880,7 +275880,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8092084": {
-    "updated_at": "2026-08-10T14:12:11-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Principal, Security Specialization",
     "company": "elastic",
     "ats": "greenhouse",
@@ -275984,7 +275984,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8091860": {
-    "updated_at": "2026-08-06T10:54:30-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Sr. Customer Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -276480,7 +276480,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098486": {
-    "updated_at": "2026-08-05T04:27:11-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Partner Manager - CEE",
     "company": "elastic",
     "ats": "greenhouse",
@@ -277216,7 +277216,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8106089": {
-    "updated_at": "2026-08-04T12:57:01-04:00",
+    "updated_at": "2026-08-10T22:52:27-04:00",
     "title": "Principal software developer/Tech Lead, Agent Framework - Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -277544,7 +277544,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8053898": {
-    "updated_at": "2026-08-04T16:10:16-04:00",
+    "updated_at": "2026-08-10T22:52:26-04:00",
     "title": "Principal Threat Hunting and Emulation Engineer - InfoSec",
     "company": "elastic",
     "ats": "greenhouse",
@@ -277632,7 +277632,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8025629": {
-    "updated_at": "2026-08-05T13:18:39-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -277640,7 +277640,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8025626": {
-    "updated_at": "2026-08-05T13:18:39-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -277648,7 +277648,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8025625": {
-    "updated_at": "2026-08-05T13:18:38-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -277656,7 +277656,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7976542": {
-    "updated_at": "2026-08-05T13:18:38-04:00",
+    "updated_at": "2026-08-10T22:52:23-04:00",
     "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -278656,7 +278656,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8018328": {
-    "updated_at": "2026-08-05T06:44:20-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Elastic Consulting Architect - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -278744,7 +278744,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8097184": {
-    "updated_at": "2026-08-08T04:26:59-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Sr. Manager, Renewal Revenue Strategy & Operations",
     "company": "elastic",
     "ats": "greenhouse",
@@ -280504,7 +280504,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8107090": {
-    "updated_at": "2026-08-10T15:50:55-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Sr. Business Systems Analyst",
     "company": "elastic",
     "ats": "greenhouse",
@@ -280656,7 +280656,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8109521": {
-    "updated_at": "2026-08-10T19:55:47-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Program Manager, Strategic Projects",
     "company": "elastic",
     "ats": "greenhouse",
@@ -280688,7 +280688,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8110414": {
-    "updated_at": "2026-08-05T21:00:04-04:00",
+    "updated_at": "2026-08-10T21:16:37-04:00",
     "title": "Forward Deployed Consultant- Supply Chain Solutions",
     "company": "flexport",
     "ats": "greenhouse",
@@ -281056,8 +281056,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:8110781": {
-    "updated_at": "2026-08-06T04:21:03-04:00",
-    "title": "Mid Market Sales Manager, APAC",
+    "updated_at": "2026-08-10T22:09:38-04:00",
+    "title": "Mid Market Sales Associate, APAC",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -281128,7 +281128,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098488": {
-    "updated_at": "2026-08-07T05:20:13-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Partner Manager - Channel Acceleration Team",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281160,7 +281160,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8103695": {
-    "updated_at": "2026-08-06T08:02:20-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Senior VDI/ VPN (Network Engineer)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281240,7 +281240,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8111966": {
-    "updated_at": "2026-08-06T10:02:44-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Software Engineer - SSC",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281248,7 +281248,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8111965": {
-    "updated_at": "2026-08-06T10:02:43-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Software Engineer - SSC",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281256,7 +281256,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8111793": {
-    "updated_at": "2026-08-06T10:02:42-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Software Engineer - SSC",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281264,7 +281264,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8111792": {
-    "updated_at": "2026-08-06T10:02:41-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "Senior Software Engineer - SSC",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281312,7 +281312,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8110185": {
-    "updated_at": "2026-08-06T09:27:13-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Sr. Director, Demand and Digital Marketing",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281328,7 +281328,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8111731": {
-    "updated_at": "2026-08-06T09:15:18-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Senior Solution Architect - Sydney based",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281448,7 +281448,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8037179": {
-    "updated_at": "2026-08-06T19:26:02-04:00",
+    "updated_at": "2026-08-10T22:52:25-04:00",
     "title": "VP, Product Marketing, Observability",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281616,7 +281616,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8113280": {
-    "updated_at": "2026-08-06T18:10:31-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Inside Account Executive (Hunter)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -282680,7 +282680,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8088306": {
-    "updated_at": "2026-08-06T11:40:45-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Enterprise Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283056,7 +283056,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8007202": {
-    "updated_at": "2026-08-07T06:54:51-04:00",
+    "updated_at": "2026-08-10T22:52:24-04:00",
     "title": "Customer Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283064,7 +283064,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098185": {
-    "updated_at": "2026-08-07T06:44:29-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Enterprise Account Executive",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283224,7 +283224,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8083417": {
-    "updated_at": "2026-08-07T07:54:09-04:00",
+    "updated_at": "2026-08-10T22:52:29-04:00",
     "title": "Marketplace Sales Specialist",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283416,7 +283416,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8114254": {
-    "updated_at": "2026-08-07T12:45:46-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Strategic Account Executive - West",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283432,7 +283432,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8114222": {
-    "updated_at": "2026-08-07T11:21:22-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "RVP - AI Natives",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283744,7 +283744,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8114256": {
-    "updated_at": "2026-08-07T12:57:10-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Strategic Account Executive - West",
     "company": "elastic",
     "ats": "greenhouse",
@@ -283888,7 +283888,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8114454": {
-    "updated_at": "2026-08-07T13:52:42-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Sr. Campaigns Manager, Security",
     "company": "elastic",
     "ats": "greenhouse",
@@ -284104,7 +284104,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8114127": {
-    "updated_at": "2026-08-07T15:34:10-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Enterprise Account Executive - Expand Northeast",
     "company": "elastic",
     "ats": "greenhouse",
@@ -284552,7 +284552,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8111876": {
-    "updated_at": "2026-08-07T20:05:06-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Principal Partner Value Engineer",
     "company": "elastic",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-10T21:05:58-04:00",
+    "updated_at": "2026-08-10T23:06:16-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -285312,7 +285312,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8104333": {
-    "updated_at": "2026-08-10T12:20:05-04:00",
+    "updated_at": "2026-08-10T22:52:30-04:00",
     "title": "Partner Solutions Architect - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -285928,7 +285928,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8120048": {
-    "updated_at": "2026-08-10T14:51:54-04:00",
+    "updated_at": "2026-08-10T22:52:31-04:00",
     "title": "Workplace Coordinator",
     "company": "elastic",
     "ats": "greenhouse",
@@ -285936,7 +285936,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8694074002": {
-    "updated_at": "2026-08-10T14:44:16-04:00",
+    "updated_at": "2026-08-10T23:04:49-04:00",
     "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -285944,7 +285944,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5383710008": {
-    "updated_at": "2026-08-10T14:43:38-04:00",
+    "updated_at": "2026-08-10T22:18:04-04:00",
     "title": "AV Operations Specialist",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -286040,7 +286040,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8692962002": {
-    "updated_at": "2026-08-10T14:20:46-04:00",
+    "updated_at": "2026-08-10T23:06:35-04:00",
     "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -286630,5 +286630,77 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": true
+  },
+  "greenhouse:spacex:8694879002": {
+    "updated_at": "2026-08-10T22:54:20-04:00",
+    "title": "Sr. Technical Recruiter (Redmond)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8694882002": {
+    "updated_at": "2026-08-10T22:54:12-04:00",
+    "title": "Technical Recruiter (Redmond)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8695154002": {
+    "updated_at": "2026-08-10T22:53:18-04:00",
+    "title": "Technical Recruiter (Palo Alto)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8661245002": {
+    "updated_at": "2026-08-10T22:53:05-04:00",
+    "title": "Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8118845": {
+    "updated_at": "2026-08-10T22:49:28-04:00",
+    "title": "Software Engineer Intern (Fall 2026)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:databricks:8693320002": {
+    "updated_at": "2026-08-10T22:18:48-04:00",
+    "title": "Director, Field Engineering (CPG & Retail)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5383702008": {
+    "updated_at": "2026-08-10T22:16:55-04:00",
+    "title": "Personnel Security Management Specialist",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:stripe:8109607": {
+    "updated_at": "2026-08-10T20:42:07-04:00",
+    "title": "Enterprise Account Executive - Hunter",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8114069": {
+    "updated_at": "2026-08-10T20:22:37-04:00",
+    "title": "VoidZero Engineer",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
   }
 }
