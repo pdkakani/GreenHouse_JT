@@ -223776,7 +223776,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8030628": {
-    "updated_at": "2026-08-04T17:18:24-04:00",
+    "updated_at": "2026-08-11T01:50:41-04:00",
     "title": "Staff Fullstack Engineer, User Auth Experience",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-11T01:36:02-04:00",
+    "updated_at": "2026-08-11T02:20:53-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-11T01:36:05-04:00",
+    "updated_at": "2026-08-11T02:20:56-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245552,7 +245552,7 @@
     "alerted": false
   },
   "greenhouse:okta:7902410": {
-    "updated_at": "2026-07-21T08:10:04-04:00",
+    "updated_at": "2026-08-11T01:45:57-04:00",
     "title": "Staff UI Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -262024,8 +262024,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8080954": {
-    "updated_at": "2026-07-24T14:15:02-04:00",
-    "title": "Lead Advanced Analytics, Guest Product",
+    "updated_at": "2026-08-11T02:11:01-04:00",
+    "title": "Lead Advanced Analytics, Product",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-11T01:32:33-04:00",
+    "updated_at": "2026-08-11T02:32:14-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -272672,7 +272672,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8090147": {
-    "updated_at": "2026-08-06T12:10:18-04:00",
+    "updated_at": "2026-08-11T02:34:14-04:00",
     "title": "Engineering Manager, Startup Products",
     "company": "stripe",
     "ats": "greenhouse",
@@ -274048,7 +274048,7 @@
     "alerted": false
   },
   "greenhouse:okta:8102359": {
-    "updated_at": "2026-08-03T04:41:26-04:00",
+    "updated_at": "2026-08-11T02:12:57-04:00",
     "title": "Senior Software Engineer - Backup & Restore",
     "company": "okta",
     "ats": "greenhouse",
@@ -281872,7 +281872,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8113221": {
-    "updated_at": "2026-08-06T17:14:57-04:00",
+    "updated_at": "2026-08-11T01:48:11-04:00",
     "title": "Staff Fullstack Engineer, User Auth Experience",
     "company": "stripe",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-11T01:36:07-04:00",
+    "updated_at": "2026-08-11T02:20:59-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -285928,7 +285928,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8120048": {
-    "updated_at": "2026-08-10T22:52:31-04:00",
+    "updated_at": "2026-08-11T01:59:21-04:00",
     "title": "Workplace Coordinator",
     "company": "elastic",
     "ats": "greenhouse",
@@ -286837,6 +286837,38 @@
     "company": "rubrik",
     "ats": "greenhouse",
     "source_slug": "rubrik",
+    "alerted": true
+  },
+  "greenhouse:altruist:6140715004": {
+    "updated_at": "2026-08-11T01:45:31-04:00",
+    "title": "Senior QA Engineer",
+    "company": "altruist",
+    "ats": "greenhouse",
+    "source_slug": "altruist",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8662116002": {
+    "updated_at": "2026-08-11T00:02:57-04:00",
+    "title": "Recruiter, Sales (Contract)",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:cribl:6133637004": {
+    "updated_at": "2026-08-10T23:56:31-04:00",
+    "title": "Revenue Strategy & Planning, Sr. Analyst",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
+    "alerted": false
+  },
+  "greenhouse:altruist:6140714004": {
+    "updated_at": "2026-08-11T01:45:32-04:00",
+    "title": "Senior QA Engineer",
+    "company": "altruist",
+    "ats": "greenhouse",
+    "source_slug": "altruist",
     "alerted": true
   }
 }
