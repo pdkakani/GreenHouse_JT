@@ -103488,7 +103488,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:7751372": {
-    "updated_at": "2026-05-03T10:31:58-04:00",
+    "updated_at": "2026-08-12T13:00:42-04:00",
     "title": "Partner Account Manager - Manhattan",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -103536,7 +103536,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:7213387": {
-    "updated_at": "2026-07-24T07:05:08-04:00",
+    "updated_at": "2026-08-12T13:21:39-04:00",
     "title": "Procurement Lead",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -131336,8 +131336,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5193428008": {
-    "updated_at": "2026-04-27T16:49:23-04:00",
-    "title": "Accounts Receivable Specialist",
+    "updated_at": "2026-08-12T13:18:54-04:00",
+    "title": "Sr. Manager, Cash Application",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -137760,7 +137760,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8530056002": {
-    "updated_at": "2026-07-24T17:18:01-04:00",
+    "updated_at": "2026-08-12T13:31:18-04:00",
     "title": "Inventory Specialist - Multiple Shifts (Starshield)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -170480,7 +170480,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550113002": {
-    "updated_at": "2026-08-10T16:25:03-04:00",
+    "updated_at": "2026-08-12T13:17:36-04:00",
     "title": "Enterprise Account Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -171600,7 +171600,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7917933": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-12T13:09:13-04:00",
     "title": "Technical Lead Manager, Query & Storage SWE",
     "company": "waymo",
     "ats": "greenhouse",
@@ -201432,7 +201432,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7985610": {
-    "updated_at": "2026-07-17T10:28:18-04:00",
+    "updated_at": "2026-08-12T12:48:53-04:00",
     "title": "Lead Product Designer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -226568,8 +226568,8 @@
     "alerted": false
   },
   "greenhouse:hightouch:6105396004": {
-    "updated_at": "2026-08-11T17:11:03-04:00",
-    "title": "ISV Partner Sales Snowflake",
+    "updated_at": "2026-08-12T13:05:26-04:00",
+    "title": "ISV Partner Sales Manager",
     "company": "hightouch",
     "ats": "greenhouse",
     "source_slug": "hightouch",
@@ -230304,7 +230304,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7785999003": {
-    "updated_at": "2026-07-27T11:31:35-04:00",
+    "updated_at": "2026-08-12T13:22:50-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239840,7 +239840,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7801104003": {
-    "updated_at": "2026-07-27T11:31:35-04:00",
+    "updated_at": "2026-08-12T13:23:29-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239848,7 +239848,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7801100003": {
-    "updated_at": "2026-07-27T11:31:35-04:00",
+    "updated_at": "2026-08-12T13:23:09-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239856,7 +239856,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7801099003": {
-    "updated_at": "2026-07-27T11:31:35-04:00",
+    "updated_at": "2026-08-12T13:22:38-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-12T12:20:42-04:00",
+    "updated_at": "2026-08-12T13:34:09-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-12T12:20:49-04:00",
+    "updated_at": "2026-08-12T13:34:12-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245776,7 +245776,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7995008": {
-    "updated_at": "2026-08-10T22:52:24-04:00",
+    "updated_at": "2026-08-12T13:25:07-04:00",
     "title": "Senior Partner Solutions Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -248744,7 +248744,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8044137": {
-    "updated_at": "2026-08-12T12:29:55-04:00",
+    "updated_at": "2026-08-12T12:39:37-04:00",
     "title": "Public Sector Marketing Manager (SLED)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -249528,7 +249528,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8070648": {
-    "updated_at": "2026-08-06T12:10:16-04:00",
+    "updated_at": "2026-08-12T13:05:41-04:00",
     "title": "Strategic Programs Lead, New Markets",
     "company": "stripe",
     "ats": "greenhouse",
@@ -255712,8 +255712,8 @@
     "alerted": false
   },
   "greenhouse:convera:4926334101": {
-    "updated_at": "2026-07-31T10:57:50-04:00",
-    "title": "Portfolio Manager, Business Clients (FX & Payments) - United States Hybrid",
+    "updated_at": "2026-08-12T12:43:34-04:00",
+    "title": "Account Manager, Business Clients (FX & Payments) - United States Hybrid",
     "company": "convera",
     "ats": "greenhouse",
     "source_slug": "convera",
@@ -266128,7 +266128,7 @@
     "alerted": false
   },
   "greenhouse:doximity:8079716": {
-    "updated_at": "2026-07-28T16:25:03-04:00",
+    "updated_at": "2026-08-12T13:19:16-04:00",
     "title": "Technical Senior Revenue Analyst",
     "company": "doximity",
     "ats": "greenhouse",
@@ -266888,7 +266888,7 @@
     "alerted": false
   },
   "greenhouse:intercom:8092030": {
-    "updated_at": "2026-08-04T10:50:06-04:00",
+    "updated_at": "2026-08-12T13:27:14-04:00",
     "title": "Regional Account Executive",
     "company": "intercom",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-12T12:32:36-04:00",
+    "updated_at": "2026-08-12T13:17:28-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -278000,7 +278000,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5379593008": {
-    "updated_at": "2026-08-07T21:35:22-04:00",
+    "updated_at": "2026-08-12T12:56:14-04:00",
     "title": "AV Production Specialist",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -278328,7 +278328,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8096726": {
-    "updated_at": "2026-08-06T12:10:18-04:00",
+    "updated_at": "2026-08-12T12:56:27-04:00",
     "title": "Product Design Manager, Global Payments",
     "company": "stripe",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-12T12:20:55-04:00",
+    "updated_at": "2026-08-12T13:34:16-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -285944,7 +285944,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5383710008": {
-    "updated_at": "2026-08-10T22:18:04-04:00",
+    "updated_at": "2026-08-12T12:59:02-04:00",
     "title": "AV Operations Specialist",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -286576,7 +286576,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8113284": {
-    "updated_at": "2026-08-10T18:55:52-04:00",
+    "updated_at": "2026-08-12T13:30:00-04:00",
     "title": "Staff UX Researcher, Payments Growth (Mixed Methods)",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -288016,7 +288016,7 @@
     "alerted": false
   },
   "greenhouse:toast:8122281": {
-    "updated_at": "2026-08-11T14:16:01-04:00",
+    "updated_at": "2026-08-12T12:51:58-04:00",
     "title": "Strategic Cuisines Account Executive, Spanish - Central, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -288224,7 +288224,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8120503": {
-    "updated_at": "2026-08-12T08:29:52-04:00",
+    "updated_at": "2026-08-12T13:33:10-04:00",
     "title": "Senior Product Manager, Ads -  Shopping Catalogs",
     "company": "reddit",
     "ats": "greenhouse",
@@ -288232,7 +288232,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7895241": {
-    "updated_at": "2026-08-11T14:59:56-04:00",
+    "updated_at": "2026-08-12T13:32:40-04:00",
     "title": "Program Manager",
     "company": "twilio",
     "ats": "greenhouse",
@@ -288648,7 +288648,7 @@
     "alerted": false
   },
   "greenhouse:convera:4944188101": {
-    "updated_at": "2026-08-11T17:37:30-04:00",
+    "updated_at": "2026-08-12T13:15:41-04:00",
     "title": "Field Operations Director",
     "company": "convera",
     "ats": "greenhouse",
@@ -290045,6 +290045,78 @@
     "company": "amplitude",
     "ats": "greenhouse",
     "source_slug": "amplitude",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5385590008": {
+    "updated_at": "2026-08-12T13:12:57-04:00",
+    "title": "AV Engineer",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8122634": {
+    "updated_at": "2026-08-12T13:08:39-04:00",
+    "title": "Pricing & Monetization Associate",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5385588008": {
+    "updated_at": "2026-08-12T13:07:32-04:00",
+    "title": "AV Engineer",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8700554002": {
+    "updated_at": "2026-08-12T13:00:37-04:00",
+    "title": "Supplier Development Engineer (PCB/PCBA)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:instacart:8126023": {
+    "updated_at": "2026-08-12T12:58:43-04:00",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7830053003": {
+    "updated_at": "2026-08-12T12:49:17-04:00",
+    "title": "Senior Manager, Solutions Engineering",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:spacex:8700616002": {
+    "updated_at": "2026-08-12T12:27:51-04:00",
+    "title": "Machining Technician (Starlink) - Entry Level",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4704258006": {
+    "updated_at": "2026-08-12T12:23:50-04:00",
+    "title": "Inventory Control Specialist - Sparks, NV",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:stripe:8126047": {
+    "updated_at": "2026-08-12T13:14:52-04:00",
+    "title": "Technical Program Manager, Infrastructure",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": true
   }
 }
