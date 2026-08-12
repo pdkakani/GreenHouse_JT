@@ -220376,8 +220376,8 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7786392003": {
-    "updated_at": "2026-08-03T18:19:18-04:00",
-    "title": "Senior Customer Success Manager - Commercial",
+    "updated_at": "2026-08-12T06:38:54-04:00",
+    "title": "Senior Customer Success Manager - Commercial (Mandarin Speaker)",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-12T05:34:14-04:00",
+    "updated_at": "2026-08-12T06:34:40-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-12T05:34:17-04:00",
+    "updated_at": "2026-08-12T06:34:43-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245752,7 +245752,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7996557": {
-    "updated_at": "2026-08-11T15:55:02-04:00",
+    "updated_at": "2026-08-12T06:21:22-04:00",
     "title": "Engagement Manager (Services Sales)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -264040,7 +264040,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7817147003": {
-    "updated_at": "2026-08-06T04:32:29-04:00",
+    "updated_at": "2026-08-12T06:33:23-04:00",
     "title": "Senior HR Business Partner (GTM), EMEA",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-12T05:34:25-04:00",
+    "updated_at": "2026-08-12T06:34:46-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -289416,7 +289416,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5382792008": {
-    "updated_at": "2026-08-12T04:51:38-04:00",
+    "updated_at": "2026-08-12T06:34:48-04:00",
     "title": "Customer Success Manager, DACH",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -289456,7 +289456,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8096029": {
-    "updated_at": "2026-08-12T03:48:55-04:00",
+    "updated_at": "2026-08-12T05:38:57-04:00",
     "title": "Consulting Systems Engineer (Singapore)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -289477,6 +289477,46 @@
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:twilio:8121976": {
+    "updated_at": "2026-08-12T05:51:34-04:00",
+    "title": "Senior Manager, Strategic Sales South",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:workato:8659313002": {
+    "updated_at": "2026-08-12T05:46:27-04:00",
+    "title": "Senior Technical Architect",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8121651": {
+    "updated_at": "2026-08-12T05:32:49-04:00",
+    "title": "Senior Manager, Incentives Strategy and Operations",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8124461": {
+    "updated_at": "2026-08-12T05:32:20-04:00",
+    "title": "Chief of Staff to Chief Operating Officer (COO)",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8124191": {
+    "updated_at": "2026-08-12T05:30:18-04:00",
+    "title": "Financial Operations Lead, Vendor Operations",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
     "alerted": false
   }
 }
