@@ -73336,7 +73336,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7607691": {
-    "updated_at": "2026-06-30T04:31:54-04:00",
+    "updated_at": "2026-08-12T07:31:45-04:00",
     "title": "Senior Observability Infrastructure Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -226808,7 +226808,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604577002": {
-    "updated_at": "2026-08-11T14:54:41-04:00",
+    "updated_at": "2026-08-12T07:54:55-04:00",
     "title": "Senior Manager, Finance Data and AI",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-12T07:20:42-04:00",
+    "updated_at": "2026-08-12T08:04:33-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-12T07:20:45-04:00",
+    "updated_at": "2026-08-12T08:04:36-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259616,7 +259616,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8059167": {
-    "updated_at": "2026-07-23T11:03:44-04:00",
+    "updated_at": "2026-08-12T07:32:08-04:00",
     "title": "Software Engineer - PostgresSQL",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-12T04:47:33-04:00",
+    "updated_at": "2026-08-12T08:02:26-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-12T07:20:47-04:00",
+    "updated_at": "2026-08-12T08:04:38-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -289541,6 +289541,14 @@
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8113930": {
+    "updated_at": "2026-08-12T06:45:52-04:00",
+    "title": "Account Manager",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
     "alerted": false
   }
 }
