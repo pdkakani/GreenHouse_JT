@@ -117672,7 +117672,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7589006": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-13T05:30:20-04:00",
     "title": "Senior Product Manager - Enterprise (API & SDK)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -168696,8 +168696,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7950046": {
-    "updated_at": "2026-07-29T05:29:29-04:00",
-    "title": "Principal Machine Learning Scientist (Experiences)",
+    "updated_at": "2026-08-13T05:30:02-04:00",
+    "title": "Staff/Principal Machine Learning Scientist - Ranking & Retrieval",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -201112,7 +201112,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7892030": {
-    "updated_at": "2026-08-04T16:38:20-04:00",
+    "updated_at": "2026-08-13T04:32:48-04:00",
     "title": "Staff Software Engineer, Routing",
     "company": "samsara",
     "ats": "greenhouse",
@@ -224720,8 +224720,8 @@
     "alerted": false
   },
   "greenhouse:mongodb:8018420": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
-    "title": "Lead, Bus Sys Engineering - PS + CSM + TS",
+    "updated_at": "2026-08-13T05:23:29-04:00",
+    "title": "Lead Salesforce Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -226120,7 +226120,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8613194002": {
-    "updated_at": "2026-08-11T14:54:41-04:00",
+    "updated_at": "2026-08-13T04:50:32-04:00",
     "title": "Pre-sales Solutions Architect (Manufacturing, Defence & Automotive)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -235456,7 +235456,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:8043457": {
-    "updated_at": "2026-08-07T03:00:02-04:00",
+    "updated_at": "2026-08-13T05:01:03-04:00",
     "title": "Senior Solution Consultant (Pre-sales) - French/Spanish Fluent (M/F)",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -235592,7 +235592,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7792539003": {
-    "updated_at": "2026-08-10T03:32:39-04:00",
+    "updated_at": "2026-08-13T04:32:54-04:00",
     "title": "Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -237784,7 +237784,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8035491": {
-    "updated_at": "2026-08-10T22:52:25-04:00",
+    "updated_at": "2026-08-13T04:26:50-04:00",
     "title": "Sales Development Representative UK&I (English speaking)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -239032,8 +239032,8 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8039991": {
-    "updated_at": "2026-08-12T14:20:38-04:00",
-    "title": "Senior Solutions Engineer - ANZ",
+    "updated_at": "2026-08-13T04:27:56-04:00",
+    "title": "Senior Customer Engineer - ANZ",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
@@ -239280,7 +239280,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8053011": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-08-13T04:56:50-04:00",
     "title": "Operations Manager, Stripe Delivery Centre",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-13T04:05:23-04:00",
+    "updated_at": "2026-08-13T05:18:48-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-13T04:05:26-04:00",
+    "updated_at": "2026-08-13T05:18:51-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245600,7 +245600,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8041307": {
-    "updated_at": "2026-08-12T02:26:16-04:00",
+    "updated_at": "2026-08-13T04:28:25-04:00",
     "title": "Senior Backend Engineer (Java)",
     "company": "adyen",
     "ats": "greenhouse",
@@ -255024,7 +255024,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8065687": {
-    "updated_at": "2026-08-04T16:38:20-04:00",
+    "updated_at": "2026-08-13T04:18:32-04:00",
     "title": "Sr. Manager, New Products Strategy",
     "company": "samsara",
     "ats": "greenhouse",
@@ -259024,7 +259024,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8074476": {
-    "updated_at": "2026-07-29T08:45:36-04:00",
+    "updated_at": "2026-08-13T04:48:34-04:00",
     "title": "Senior Systems Engineer, Enterprise (Netherlands)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -259176,7 +259176,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7807064003": {
-    "updated_at": "2026-07-27T09:47:36-04:00",
+    "updated_at": "2026-08-13T04:49:24-04:00",
     "title": "People & Culture Automation & AI Project Manager",
     "company": "celonis",
     "ats": "greenhouse",
@@ -259184,7 +259184,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7799733003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-08-13T04:17:27-04:00",
     "title": "Senior Design Engineer, Design System",
     "company": "celonis",
     "ats": "greenhouse",
@@ -260208,7 +260208,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7799736003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-08-13T04:16:49-04:00",
     "title": "Senior Design Engineer, Design System",
     "company": "celonis",
     "ats": "greenhouse",
@@ -262912,7 +262912,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8083051": {
-    "updated_at": "2026-07-24T20:13:11-04:00",
+    "updated_at": "2026-08-13T05:03:17-04:00",
     "title": "Staff Applied Data Scientist, Pricing",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -269840,8 +269840,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8095997": {
-    "updated_at": "2026-08-04T10:52:59-04:00",
-    "title": "Field Sales Representative - Rotterdam/The Hague",
+    "updated_at": "2026-08-13T05:06:52-04:00",
+    "title": "Account Executive - Rotterdam/The Hague",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -272336,8 +272336,8 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-13T00:02:33-04:00",
-    "title": "Manager, Inside Sales",
+    "updated_at": "2026-08-13T04:43:38-04:00",
+    "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -276480,7 +276480,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098486": {
-    "updated_at": "2026-08-10T22:52:30-04:00",
+    "updated_at": "2026-08-13T04:47:02-04:00",
     "title": "Partner Manager - CEE",
     "company": "elastic",
     "ats": "greenhouse",
@@ -281128,7 +281128,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8098488": {
-    "updated_at": "2026-08-10T22:52:30-04:00",
+    "updated_at": "2026-08-13T04:47:07-04:00",
     "title": "Partner Manager - Channel Acceleration Team",
     "company": "elastic",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-13T04:05:30-04:00",
+    "updated_at": "2026-08-13T05:18:54-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -287088,7 +287088,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8111799": {
-    "updated_at": "2026-08-11T06:43:23-04:00",
+    "updated_at": "2026-08-13T05:22:11-04:00",
     "title": "Legal Operations Team Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -287280,8 +287280,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7853314003": {
-    "updated_at": "2026-08-12T03:44:11-04:00",
-    "title": "Content Strategist, Executive Briefing Center (EBC)",
+    "updated_at": "2026-08-13T04:49:18-04:00",
+    "title": "Executive Briefing Center Lead (Content & Immersive Experience)",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -291349,6 +291349,78 @@
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8127555": {
+    "updated_at": "2026-08-13T05:09:49-04:00",
+    "title": "Account Executive - Rotterdam/The Hague",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8097585": {
+    "updated_at": "2026-08-13T05:08:47-04:00",
+    "title": "Senior Sales Engineer, Switzerland",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:adyen:8098671": {
+    "updated_at": "2026-08-13T04:54:52-04:00",
+    "title": "Senior Software Engineer (Android - Kotlin Expert)",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8124416": {
+    "updated_at": "2026-08-13T04:47:41-04:00",
+    "title": "Senior Solutions Engineer, French Speaking Africa",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:dropbox:8092296": {
+    "updated_at": "2026-08-13T04:37:11-04:00",
+    "title": "Technical Solutions Specialist",
+    "company": "dropbox",
+    "ats": "greenhouse",
+    "source_slug": "dropbox",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8025164": {
+    "updated_at": "2026-08-13T04:31:14-04:00",
+    "title": "Sales Operations Analyst (Subscriptions)",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:stripe:8120185": {
+    "updated_at": "2026-08-13T04:22:56-04:00",
+    "title": "Workplace Operations Manager - Dublin",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:adyen:8110058": {
+    "updated_at": "2026-08-13T04:13:06-04:00",
+    "title": "Infrastructure Developer",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:okta:7920042": {
+    "updated_at": "2026-08-13T04:12:25-04:00",
+    "title": "Staff Software Engineer in Test",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
     "alerted": false
   }
 }
