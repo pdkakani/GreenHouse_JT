@@ -35248,7 +35248,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4140679007": {
-    "updated_at": "2026-08-12T14:29:38-04:00",
+    "updated_at": "2026-08-13T19:18:12-04:00",
     "title": "Enterprise Development Representative",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35968,7 +35968,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4715534007": {
-    "updated_at": "2026-08-07T18:44:46-04:00",
+    "updated_at": "2026-08-13T19:07:06-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -82312,8 +82312,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5179891008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Product Operations Manager, Claude.ai (Consumer & Growth)",
+    "updated_at": "2026-08-13T19:02:45-04:00",
+    "title": "Product Operations Manager, Embedded",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -141912,7 +141912,7 @@
     "alerted": false
   },
   "greenhouse:okta:7883456": {
-    "updated_at": "2026-06-24T14:05:50-04:00",
+    "updated_at": "2026-08-13T19:39:54-04:00",
     "title": "Strategic Account Executive, New England",
     "company": "okta",
     "ats": "greenhouse",
@@ -145016,7 +145016,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8533693002": {
-    "updated_at": "2026-08-13T19:00:15-04:00",
+    "updated_at": "2026-08-13T19:11:00-04:00",
     "title": "Environmental Health & Safety Engineer",
     "company": "spacex",
     "ats": "greenhouse",
@@ -177072,7 +177072,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7957677": {
-    "updated_at": "2026-08-11T03:02:02-04:00",
+    "updated_at": "2026-08-13T19:43:04-04:00",
     "title": "Enterprise Account Executive, Malaysia",
     "company": "elastic",
     "ats": "greenhouse",
@@ -216512,7 +216512,7 @@
     "alerted": false
   },
   "greenhouse:okta:7930857": {
-    "updated_at": "2026-08-05T17:51:02-04:00",
+    "updated_at": "2026-08-13T19:45:15-04:00",
     "title": "Sr. Customer Success Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -216912,7 +216912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172974007": {
-    "updated_at": "2026-08-07T18:44:46-04:00",
+    "updated_at": "2026-08-13T19:07:06-04:00",
     "title": "Technical Support Engineer - University Graduate 2026",
     "company": "verkada",
     "ats": "greenhouse",
@@ -235888,7 +235888,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5304879008": {
-    "updated_at": "2026-08-12T19:43:48-04:00",
+    "updated_at": "2026-08-13T19:02:23-04:00",
     "title": "Partner Enablement Lead, System Integrators",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -236872,7 +236872,7 @@
     "alerted": false
   },
   "greenhouse:iterable:8052477": {
-    "updated_at": "2026-08-07T11:36:57-04:00",
+    "updated_at": "2026-08-13T19:32:25-04:00",
     "title": "Senior Mid-Market Account Executive",
     "company": "iterable",
     "ats": "greenhouse",
@@ -240584,7 +240584,7 @@
     "alerted": false
   },
   "greenhouse:postman:7801699003": {
-    "updated_at": "2026-08-04T18:55:25-04:00",
+    "updated_at": "2026-08-13T19:30:07-04:00",
     "title": "Senior Commercial Counsel",
     "company": "postman",
     "ats": "greenhouse",
@@ -240616,7 +240616,7 @@
     "alerted": false
   },
   "greenhouse:postman:7789299003": {
-    "updated_at": "2026-08-04T18:55:25-04:00",
+    "updated_at": "2026-08-13T19:26:14-04:00",
     "title": "Commercial Counsel",
     "company": "postman",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-13T18:49:23-04:00",
+    "updated_at": "2026-08-13T19:34:24-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-13T18:49:26-04:00",
+    "updated_at": "2026-08-13T19:34:26-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -287912,7 +287912,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5385546008": {
-    "updated_at": "2026-08-11T13:08:30-04:00",
+    "updated_at": "2026-08-13T19:46:08-04:00",
     "title": "Compute Country Lead, Canada",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -290552,7 +290552,7 @@
     "alerted": false
   },
   "greenhouse:asana:8044815": {
-    "updated_at": "2026-08-12T16:01:14-04:00",
+    "updated_at": "2026-08-13T19:26:50-04:00",
     "title": "Senior Product Manager, AI Studio",
     "company": "asana",
     "ats": "greenhouse",
@@ -292989,6 +292989,54 @@
     "company": "ziprecruiter",
     "ats": "greenhouse",
     "source_slug": "ziprecruiter",
+    "alerted": true
+  },
+  "greenhouse:airbnb:8129371": {
+    "updated_at": "2026-08-13T19:22:22-04:00",
+    "title": "Staff Machine Learning Engineer, Traffic Intelligence",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:ziprecruiter:8129365": {
+    "updated_at": "2026-08-13T19:19:31-04:00",
+    "title": "Trust & Safety Associate",
+    "company": "ziprecruiter",
+    "ats": "greenhouse",
+    "source_slug": "ziprecruiter",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8108530": {
+    "updated_at": "2026-08-13T19:13:31-04:00",
+    "title": "Sr. Sales Engineer, Healthcare (TOLA)",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:brex:8706688002": {
+    "updated_at": "2026-08-13T19:07:03-04:00",
+    "title": "Senior Candidate Experience Coordinator",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:braze:8122824": {
+    "updated_at": "2026-08-13T18:32:50-04:00",
+    "title": "Support Engagement Lead",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:spacex:8700149002": {
+    "updated_at": "2026-08-13T19:41:43-04:00",
+    "title": "Sr. Environmental Health & Safety Engineer (Raptor/Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
