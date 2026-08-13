@@ -106072,7 +106072,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7728182": {
-    "updated_at": "2026-08-10T22:52:22-04:00",
+    "updated_at": "2026-08-13T06:38:11-04:00",
     "title": "Public Sector Account Executive (DWP)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -117672,7 +117672,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7589006": {
-    "updated_at": "2026-08-13T05:30:20-04:00",
+    "updated_at": "2026-08-13T05:34:25-04:00",
     "title": "Senior Product Manager - Enterprise (API & SDK)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -173472,7 +173472,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7921059": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-13T05:49:24-04:00",
     "title": "Staff Software Engineer: Platform",
     "company": "flexport",
     "ats": "greenhouse",
@@ -217016,7 +217016,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8026175": {
-    "updated_at": "2026-08-10T22:52:25-04:00",
+    "updated_at": "2026-08-13T06:39:15-04:00",
     "title": "Public Sector Partner Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -224904,7 +224904,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8026173": {
-    "updated_at": "2026-08-10T22:52:25-04:00",
+    "updated_at": "2026-08-13T06:40:24-04:00",
     "title": "Sales Sector Lead - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -226856,7 +226856,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8026177": {
-    "updated_at": "2026-08-10T22:52:25-04:00",
+    "updated_at": "2026-08-13T06:38:46-04:00",
     "title": "Public Sector Account Executive (NHS)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -231824,8 +231824,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4694608006": {
-    "updated_at": "2026-07-27T14:47:04-04:00",
-    "title": "Employee Lifecycle Partner",
+    "updated_at": "2026-08-13T06:35:30-04:00",
+    "title": "People Operations Partner, Employee Lifecycle",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -235688,7 +235688,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8045325": {
-    "updated_at": "2026-08-10T22:52:25-04:00",
+    "updated_at": "2026-08-13T06:40:06-04:00",
     "title": "Public Sector Account Executive (Education)",
     "company": "elastic",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-13T05:18:48-04:00",
+    "updated_at": "2026-08-13T06:34:47-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-13T05:18:51-04:00",
+    "updated_at": "2026-08-13T06:34:50-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -267640,7 +267640,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8089396": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
+    "updated_at": "2026-08-13T06:04:35-04:00",
     "title": "Associate TSE II",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-13T05:18:54-04:00",
+    "updated_at": "2026-08-13T06:34:53-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -287088,7 +287088,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8111799": {
-    "updated_at": "2026-08-13T05:22:11-04:00",
+    "updated_at": "2026-08-13T06:09:40-04:00",
     "title": "Legal Operations Team Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -291421,6 +291421,38 @@
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:stripe:8007639": {
+    "updated_at": "2026-08-13T05:41:43-04:00",
+    "title": "Strategy & Transformation Advisor (Growth & Monetization specialization)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8052941": {
+    "updated_at": "2026-08-13T05:32:17-04:00",
+    "title": "Lead Advanced Analytics - Gurgaon",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8108721": {
+    "updated_at": "2026-08-13T05:22:11-04:00",
+    "title": "Account Executive, Sweden",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8615322002": {
+    "updated_at": "2026-08-13T05:15:44-04:00",
+    "title": "Senior Backend Engineer - Platform Integrations (Monetization)",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
     "alerted": false
   }
 }
