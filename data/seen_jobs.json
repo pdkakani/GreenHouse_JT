@@ -29576,7 +29576,7 @@
     "alerted": false
   },
   "greenhouse:ziprecruiter:6557032": {
-    "updated_at": "2026-07-14T16:52:47-04:00",
+    "updated_at": "2026-08-13T18:45:16-04:00",
     "title": "Senior Software Engineer, Big Data",
     "company": "ziprecruiter",
     "ats": "greenhouse",
@@ -29584,7 +29584,7 @@
     "alerted": false
   },
   "greenhouse:ziprecruiter:6530760": {
-    "updated_at": "2026-04-28T13:08:28-04:00",
+    "updated_at": "2026-08-13T18:46:51-04:00",
     "title": "Senior Software Engineer, Big Data",
     "company": "ziprecruiter",
     "ats": "greenhouse",
@@ -35736,8 +35736,8 @@
     "alerted": false
   },
   "greenhouse:verkada:4134234007": {
-    "updated_at": "2026-08-11T14:07:56-04:00",
-    "title": "Embedded Engineer - Computer Vision",
+    "updated_at": "2026-08-13T18:30:38-04:00",
+    "title": "Software Engineer - Imaging Systems",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -129040,7 +129040,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7852206": {
-    "updated_at": "2026-08-11T11:46:14-04:00",
+    "updated_at": "2026-08-13T18:37:34-04:00",
     "title": "Senior Manager, Talent Acquisition Operations & Process Engineering",
     "company": "waymo",
     "ats": "greenhouse",
@@ -145016,8 +145016,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8533693002": {
-    "updated_at": "2026-07-24T17:18:02-04:00",
-    "title": "Environmental Health & Safety Engineer (Falcon/Dragon)",
+    "updated_at": "2026-08-13T19:00:15-04:00",
+    "title": "Environmental Health & Safety Engineer",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -220880,7 +220880,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8609148002": {
-    "updated_at": "2026-07-15T14:26:20-04:00",
+    "updated_at": "2026-08-13T18:03:34-04:00",
     "title": "Sr. Corporate Counsel",
     "company": "spacex",
     "ats": "greenhouse",
@@ -223600,8 +223600,8 @@
     "alerted": false
   },
   "greenhouse:coinbase:8030591": {
-    "updated_at": "2026-08-01T04:09:21-04:00",
-    "title": "Senior Litigation Paralegal",
+    "updated_at": "2026-08-13T18:38:32-04:00",
+    "title": "Litigation Paralegal",
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
@@ -227256,7 +227256,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8615367002": {
-    "updated_at": "2026-07-07T16:29:13-04:00",
+    "updated_at": "2026-08-13T18:10:53-04:00",
     "title": "Sr. Associate, Compassionate Care (Overnight)",
     "company": "lyft",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-13T17:49:42-04:00",
+    "updated_at": "2026-08-13T18:49:23-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-13T17:49:45-04:00",
+    "updated_at": "2026-08-13T18:49:26-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246976,7 +246976,7 @@
     "alerted": false
   },
   "greenhouse:upstart:8067686": {
-    "updated_at": "2026-08-13T16:05:20-04:00",
+    "updated_at": "2026-08-13T18:14:11-04:00",
     "title": "Licensed Loan Advisor",
     "company": "upstart",
     "ats": "greenhouse",
@@ -266136,7 +266136,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8088201": {
-    "updated_at": "2026-07-28T13:01:09-04:00",
+    "updated_at": "2026-08-13T18:36:49-04:00",
     "title": "Senior Software Engineer - Frontend - Coinbase Card team",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -271608,7 +271608,7 @@
     "alerted": false
   },
   "greenhouse:brex:8659953002": {
-    "updated_at": "2026-08-05T14:34:41-04:00",
+    "updated_at": "2026-08-13T18:56:47-04:00",
     "title": "Senior Manager, Supplier Enablement & Spend Conversion",
     "company": "brex",
     "ats": "greenhouse",
@@ -271616,7 +271616,7 @@
     "alerted": false
   },
   "greenhouse:brex:8659951002": {
-    "updated_at": "2026-08-05T14:34:21-04:00",
+    "updated_at": "2026-08-13T18:56:47-04:00",
     "title": "Senior Manager, Supplier Enablement & Spend Conversion",
     "company": "brex",
     "ats": "greenhouse",
@@ -271624,7 +271624,7 @@
     "alerted": false
   },
   "greenhouse:brex:8659948002": {
-    "updated_at": "2026-08-05T14:34:06-04:00",
+    "updated_at": "2026-08-13T18:56:46-04:00",
     "title": "Senior Manager, Supplier Enablement & Spend Conversion",
     "company": "brex",
     "ats": "greenhouse",
@@ -271632,7 +271632,7 @@
     "alerted": false
   },
   "greenhouse:brex:8659945002": {
-    "updated_at": "2026-08-05T14:33:49-04:00",
+    "updated_at": "2026-08-13T18:56:45-04:00",
     "title": "Senior Manager, Supplier Enablement & Spend Conversion",
     "company": "brex",
     "ats": "greenhouse",
@@ -271640,7 +271640,7 @@
     "alerted": false
   },
   "greenhouse:brex:8606572002": {
-    "updated_at": "2026-08-05T14:33:35-04:00",
+    "updated_at": "2026-08-13T18:56:45-04:00",
     "title": "Senior Manager, Supplier Enablement & Spend Conversion",
     "company": "brex",
     "ats": "greenhouse",
@@ -281504,7 +281504,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8687405002": {
-    "updated_at": "2026-08-06T18:45:02-04:00",
+    "updated_at": "2026-08-13T18:05:02-04:00",
     "title": "Counsel, Litigation & Risk",
     "company": "lyft",
     "ats": "greenhouse",
@@ -285808,7 +285808,7 @@
     "alerted": false
   },
   "greenhouse:postman:7828580003": {
-    "updated_at": "2026-08-13T17:45:09-04:00",
+    "updated_at": "2026-08-13T18:44:06-04:00",
     "title": "Head of GTM Tools & Technology",
     "company": "postman",
     "ats": "greenhouse",
@@ -287240,7 +287240,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7827510003": {
-    "updated_at": "2026-08-11T08:32:04-04:00",
+    "updated_at": "2026-08-13T18:27:54-04:00",
     "title": "Modernization Specialist",
     "company": "celonis",
     "ats": "greenhouse",
@@ -287328,7 +287328,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7818836003": {
-    "updated_at": "2026-08-11T10:03:41-04:00",
+    "updated_at": "2026-08-13T18:31:55-04:00",
     "title": "Senior Product Pricing Manager",
     "company": "celonis",
     "ats": "greenhouse",
@@ -290016,7 +290016,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8698618002": {
-    "updated_at": "2026-08-12T11:41:05-04:00",
+    "updated_at": "2026-08-13T18:32:37-04:00",
     "title": "IT Systems Administrator, Launch",
     "company": "spacex",
     "ats": "greenhouse",
@@ -290040,7 +290040,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8700618002": {
-    "updated_at": "2026-08-12T12:33:28-04:00",
+    "updated_at": "2026-08-13T18:48:07-04:00",
     "title": "Software Engineer II, Growth",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -292893,6 +292893,102 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:coreweave:4705059006": {
+    "updated_at": "2026-08-13T18:26:17-04:00",
+    "title": "Inventory Control Specialist - Denton, TX",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8129190": {
+    "updated_at": "2026-08-13T18:22:04-04:00",
+    "title": "Compliance Administrator",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:braze:8129309": {
+    "updated_at": "2026-08-13T18:18:39-04:00",
+    "title": "Account Executive, Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8129303": {
+    "updated_at": "2026-08-13T18:18:38-04:00",
+    "title": "Account Executive, Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8129299": {
+    "updated_at": "2026-08-13T18:18:37-04:00",
+    "title": "Account Executive, Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8128627": {
+    "updated_at": "2026-08-13T18:18:37-04:00",
+    "title": "Account Executive, Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8127060": {
+    "updated_at": "2026-08-13T18:15:52-04:00",
+    "title": "Associate Director of Advisor Sales",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:postman:7452188003": {
+    "updated_at": "2026-08-13T18:12:40-04:00",
+    "title": "Account Development Representative",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": false
+  },
+  "greenhouse:databricks:8709386002": {
+    "updated_at": "2026-08-13T18:12:34-04:00",
+    "title": "Engineering Manager, CustomerLake Profile Agents",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:postman:7866800003": {
+    "updated_at": "2026-08-13T18:11:32-04:00",
+    "title": "Account Development Representative",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": false
+  },
+  "greenhouse:waymo:8127006": {
+    "updated_at": "2026-08-13T18:58:13-04:00",
+    "title": "Perception Machine Learning Engineer - Continuous Learning",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": true
+  },
+  "greenhouse:ziprecruiter:8129327": {
+    "updated_at": "2026-08-13T18:34:58-04:00",
+    "title": "Engineering Manager, Big Data",
+    "company": "ziprecruiter",
+    "ats": "greenhouse",
+    "source_slug": "ziprecruiter",
     "alerted": true
   }
 }
