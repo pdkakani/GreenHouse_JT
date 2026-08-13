@@ -141016,7 +141016,7 @@
     "alerted": false
   },
   "greenhouse:adyen:6761873": {
-    "updated_at": "2026-07-28T07:48:39-04:00",
+    "updated_at": "2026-08-13T07:55:49-04:00",
     "title": "Java Software Engineer / Senior Java Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-13T07:19:07-04:00",
+    "updated_at": "2026-08-13T08:04:12-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-13T07:19:10-04:00",
+    "updated_at": "2026-08-13T08:04:15-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -264056,7 +264056,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8078992": {
-    "updated_at": "2026-08-10T17:24:12-04:00",
+    "updated_at": "2026-08-13T07:29:39-04:00",
     "title": "GAM - Indian GSIs",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-13T07:17:23-04:00",
+    "updated_at": "2026-08-13T08:02:13-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -291453,6 +291453,30 @@
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8127612": {
+    "updated_at": "2026-08-13T06:34:47-04:00",
+    "title": "Payment Partner Lead, Bangalore",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8127563": {
+    "updated_at": "2026-08-13T06:10:49-04:00",
+    "title": "Principal Machine Learning Scientist",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:elastic:8127255": {
+    "updated_at": "2026-08-13T05:51:25-04:00",
+    "title": "Regional Vice President",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
     "alerted": false
   }
 }
