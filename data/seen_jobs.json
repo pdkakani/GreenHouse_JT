@@ -45928,7 +45928,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7625842": {
-    "updated_at": "2026-08-06T12:09:59-04:00",
+    "updated_at": "2026-08-13T01:33:18-04:00",
     "title": "Product Manager, Risk & Compliance",
     "company": "stripe",
     "ats": "greenhouse",
@@ -49048,7 +49048,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7230941": {
-    "updated_at": "2026-07-13T01:54:59-04:00",
+    "updated_at": "2026-08-13T02:21:21-04:00",
     "title": "Member of Technical Staff - Portworx Enterprise",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -121800,7 +121800,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7834234": {
-    "updated_at": "2026-05-14T15:30:18-04:00",
+    "updated_at": "2026-08-13T01:21:25-04:00",
     "title": "Partner Manager",
     "company": "gusto",
     "ats": "greenhouse",
@@ -187864,7 +187864,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7725748003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-08-13T02:51:17-04:00",
     "title": "Client Value Partner - Public Sector",
     "company": "celonis",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-13T01:05:09-04:00",
+    "updated_at": "2026-08-13T02:49:17-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-13T01:05:12-04:00",
+    "updated_at": "2026-08-13T02:49:21-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -254136,7 +254136,7 @@
     "alerted": false
   },
   "greenhouse:convera:4931800101": {
-    "updated_at": "2026-08-12T21:32:59-04:00",
+    "updated_at": "2026-08-13T01:20:30-04:00",
     "title": "Portfolio Manager, Business Clients (FX & Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -256688,8 +256688,8 @@
     "alerted": false
   },
   "greenhouse:okta:8077108": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Fullstack Staff Software Engineer - PAM",
+    "updated_at": "2026-08-13T01:21:51-04:00",
+    "title": "Staff Software Engineer - PAM",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-13T01:05:15-04:00",
+    "updated_at": "2026-08-13T02:49:23-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -287080,8 +287080,8 @@
     "alerted": false
   },
   "greenhouse:mongodb:8119297": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
-    "title": "Advisory Solutions Architect",
+    "updated_at": "2026-08-13T01:18:17-04:00",
+    "title": "Advisory / Senior Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -290928,7 +290928,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5385651008": {
-    "updated_at": "2026-08-12T18:31:17-04:00",
+    "updated_at": "2026-08-13T01:23:19-04:00",
     "title": "Product Marketing Manager, Knowledge Work - Core Products",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -291253,6 +291253,38 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8105013": {
+    "updated_at": "2026-08-13T01:40:20-04:00",
+    "title": "GRC Security Analyst",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8127229": {
+    "updated_at": "2026-08-13T00:45:52-04:00",
+    "title": "\u30af\u30e9\u30a6\u30c9\u30cd\u30a4\u30c6\u30a3\u30d6\u5c0e\u5165\u652f\u63f4\u30a8\u30f3\u30b8\u30cb\u30a2",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:okta:8081016": {
+    "updated_at": "2026-08-13T00:42:14-04:00",
+    "title": "Staff Software Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:celonis:7827470003": {
+    "updated_at": "2026-08-13T00:37:55-04:00",
+    "title": "Partner Account Manager",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
     "alerted": false
   }
 }
