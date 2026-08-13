@@ -208952,8 +208952,8 @@
     "alerted": false
   },
   "greenhouse:braze:7997454": {
-    "updated_at": "2026-07-16T15:07:13-04:00",
-    "title": "People Solutions Coordinator (fixed term)",
+    "updated_at": "2026-08-12T20:48:25-04:00",
+    "title": "People Solutions Coordinator",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -221064,8 +221064,8 @@
     "alerted": false
   },
   "greenhouse:hightouch:6103070004": {
-    "updated_at": "2026-07-14T17:53:23-04:00",
-    "title": "Senior Product Designer, AI Creative Tools",
+    "updated_at": "2026-08-12T23:05:06-04:00",
+    "title": "Staff Product Designer, AI Creative Tools",
     "company": "hightouch",
     "ats": "greenhouse",
     "source_slug": "hightouch",
@@ -234760,7 +234760,7 @@
     "alerted": false
   },
   "greenhouse:okta:8048078": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-08-12T21:19:51-04:00",
     "title": "Okta on Okta Principal Identity Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-12T20:33:41-04:00",
+    "updated_at": "2026-08-12T23:06:04-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-12T20:33:44-04:00",
+    "updated_at": "2026-08-12T23:06:07-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -254136,7 +254136,7 @@
     "alerted": false
   },
   "greenhouse:convera:4931800101": {
-    "updated_at": "2026-08-12T20:34:36-04:00",
+    "updated_at": "2026-08-12T21:32:59-04:00",
     "title": "Portfolio Manager, Business Clients (FX & Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -257376,8 +257376,8 @@
     "alerted": false
   },
   "greenhouse:mongodb:8020464": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
-    "title": "Partner Specialist",
+    "updated_at": "2026-08-12T21:05:27-04:00",
+    "title": "Principal Partner Specialist",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-12T20:32:21-04:00",
+    "updated_at": "2026-08-12T22:17:54-04:00",
     "title": "Manager, Inside Sales",
     "company": "samsara",
     "ats": "greenhouse",
@@ -275248,7 +275248,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8075998": {
-    "updated_at": "2026-08-10T14:13:28-04:00",
+    "updated_at": "2026-08-12T22:32:57-04:00",
     "title": "Treasury Manager",
     "company": "gusto",
     "ats": "greenhouse",
@@ -276304,7 +276304,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8102152": {
-    "updated_at": "2026-08-06T12:00:02-04:00",
+    "updated_at": "2026-08-12T21:10:21-04:00",
     "title": "Office Operations Associate",
     "company": "datadog",
     "ats": "greenhouse",
@@ -281440,8 +281440,8 @@
     "alerted": false
   },
   "greenhouse:okta:8098292": {
-    "updated_at": "2026-08-06T19:29:58-04:00",
-    "title": "Digital Media Senior Specialist, APJ (Japan)",
+    "updated_at": "2026-08-12T21:42:06-04:00",
+    "title": "Digital Media Senior Specialist",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -285192,7 +285192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8104096": {
-    "updated_at": "2026-08-12T20:33:47-04:00",
+    "updated_at": "2026-08-12T23:06:11-04:00",
     "title": "Enterprise Sales Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -285808,7 +285808,7 @@
     "alerted": false
   },
   "greenhouse:postman:7828580003": {
-    "updated_at": "2026-08-10T13:34:15-04:00",
+    "updated_at": "2026-08-12T22:14:24-04:00",
     "title": "Head of GTM Tools & Technology",
     "company": "postman",
     "ats": "greenhouse",
@@ -289592,7 +289592,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6138720004": {
-    "updated_at": "2026-08-12T08:14:33-04:00",
+    "updated_at": "2026-08-12T22:37:37-04:00",
     "title": "Staff Product Manager",
     "company": "coursera",
     "ats": "greenhouse",
@@ -290616,8 +290616,8 @@
     "alerted": true
   },
   "greenhouse:databricks:8695183002": {
-    "updated_at": "2026-08-12T17:00:56-04:00",
-    "title": "Strategic Hunter Account Executive - CMEG - Ryan Bogden",
+    "updated_at": "2026-08-12T22:44:14-04:00",
+    "title": "Strategic Hunter Account Executive - CMEG",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -291158,5 +291158,77 @@
     "ats": "greenhouse",
     "source_slug": "doximity",
     "alerted": false
+  },
+  "greenhouse:klaviyo:7861843003": {
+    "updated_at": "2026-08-12T21:19:21-04:00",
+    "title": "Sr. Staff Engineer - Customer Agent",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8127109": {
+    "updated_at": "2026-08-12T21:11:49-04:00",
+    "title": "Senior Frontend Engineer, Agent Core Products",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:datadog:8108349": {
+    "updated_at": "2026-08-12T21:08:58-04:00",
+    "title": "Senior Manager, Enterprise Customer Success",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8089932": {
+    "updated_at": "2026-08-12T20:55:56-04:00",
+    "title": "Regional Employee Experience Manager",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:carta:7805345003": {
+    "updated_at": "2026-08-12T20:41:27-04:00",
+    "title": "Funds Paralegal",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:carta:7805343003": {
+    "updated_at": "2026-08-12T20:37:22-04:00",
+    "title": "Senior Funds Lawyer",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:carta:7805335003": {
+    "updated_at": "2026-08-12T20:32:02-04:00",
+    "title": "Inbound KYC - Analyst",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8703540002": {
+    "updated_at": "2026-08-12T21:21:22-04:00",
+    "title": "Full Stack Software Engineer, Manufacturing Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:klaviyo:7861870003": {
+    "updated_at": "2026-08-12T21:20:20-04:00",
+    "title": "Sr. Staff Engineer - Customer Agent",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": true
   }
 }
