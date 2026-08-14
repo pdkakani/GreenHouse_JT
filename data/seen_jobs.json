@@ -8288,7 +8288,7 @@
     "alerted": true
   },
   "greenhouse:adyen:7684222": {
-    "updated_at": "2026-08-04T14:35:06-04:00",
+    "updated_at": "2026-08-14T16:09:16-04:00",
     "title": "Senior CI/CD Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -43824,8 +43824,8 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7708059003": {
-    "updated_at": "2026-08-03T18:18:16-04:00",
-    "title": "Senior Product Manager, Platform Integrity",
+    "updated_at": "2026-08-14T16:26:06-04:00",
+    "title": "Senior Product Manager, Identity and Access Management",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
@@ -121528,7 +121528,7 @@
     "alerted": false
   },
   "greenhouse:okta:7838837": {
-    "updated_at": "2026-07-31T11:51:02-04:00",
+    "updated_at": "2026-08-14T16:08:13-04:00",
     "title": "Head of Recruiting Operations",
     "company": "okta",
     "ats": "greenhouse",
@@ -126392,7 +126392,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5197597008": {
-    "updated_at": "2026-07-14T18:35:00-04:00",
+    "updated_at": "2026-08-14T16:05:30-04:00",
     "title": "Technical Specialist, Claude Code",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -223976,8 +223976,8 @@
     "alerted": false
   },
   "greenhouse:samsara:8029097": {
-    "updated_at": "2026-08-14T09:12:52-04:00",
-    "title": "Customer Success Manager",
+    "updated_at": "2026-08-14T16:27:00-04:00",
+    "title": "Customer Success Manager - French Speaker",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -230168,7 +230168,7 @@
     "alerted": false
   },
   "greenhouse:upstart:8044541": {
-    "updated_at": "2026-07-31T13:32:14-04:00",
+    "updated_at": "2026-08-14T16:03:19-04:00",
     "title": "Portfolio Manager, Risk Capital",
     "company": "upstart",
     "ats": "greenhouse",
@@ -236200,7 +236200,7 @@
     "alerted": false
   },
   "greenhouse:okta:7875175": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-08-14T16:14:09-04:00",
     "title": "Senior Full Stack Software Engineer \u2013 Acquisitions and Activation (Auth0)",
     "company": "okta",
     "ats": "greenhouse",
@@ -240736,7 +240736,7 @@
     "alerted": false
   },
   "greenhouse:sendbird:8293482002": {
-    "updated_at": "2026-07-10T19:43:15-04:00",
+    "updated_at": "2026-08-14T16:12:57-04:00",
     "title": "Forward Deployed Product Manager",
     "company": "sendbird",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-14T15:49:00-04:00",
+    "updated_at": "2026-08-14T16:19:42-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-14T15:49:03-04:00",
+    "updated_at": "2026-08-14T16:19:45-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250688,7 +250688,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7938450": {
-    "updated_at": "2026-07-29T14:59:18-04:00",
+    "updated_at": "2026-08-14T16:05:45-04:00",
     "title": "Team Lead - Implementation",
     "company": "adyen",
     "ats": "greenhouse",
@@ -278456,7 +278456,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7958409": {
-    "updated_at": "2026-08-05T09:43:48-04:00",
+    "updated_at": "2026-08-14T16:01:05-04:00",
     "title": "Infrastructure Software Engineer, Metadata Core",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -291208,7 +291208,7 @@
     "alerted": false
   },
   "greenhouse:carta:7805335003": {
-    "updated_at": "2026-08-12T20:32:02-04:00",
+    "updated_at": "2026-08-14T16:00:51-04:00",
     "title": "Inbound KYC - Analyst",
     "company": "carta",
     "ats": "greenhouse",
@@ -294464,8 +294464,8 @@
     "alerted": false
   },
   "greenhouse:samsara:8121312": {
-    "updated_at": "2026-08-14T13:25:26-04:00",
-    "title": "Enterprise Core Implementation Consultant - West/Central",
+    "updated_at": "2026-08-14T16:07:43-04:00",
+    "title": "Enterprise Core Implementation Consultant - West",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -294765,6 +294765,174 @@
     "company": "teamsnap",
     "ats": "lever",
     "source_slug": "teamsnap",
+    "alerted": false
+  },
+  "greenhouse:spacex:8716296002": {
+    "updated_at": "2026-08-14T16:24:49-04:00",
+    "title": "TIG Welder, Combustion Devices (RAPTOR)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8716713002": {
+    "updated_at": "2026-08-14T16:22:44-04:00",
+    "title": "Manager, Developer Relations - Open Source",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8716189002": {
+    "updated_at": "2026-08-14T16:22:43-04:00",
+    "title": "Manager, Developer Relations - Open Source",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:elastic:8105634": {
+    "updated_at": "2026-08-14T16:20:37-04:00",
+    "title": "Senior Software Engineer - Integrations 3P - Platform",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8131023": {
+    "updated_at": "2026-08-14T16:20:36-04:00",
+    "title": "Senior Software Engineer - Integrations 3P - Platform",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8131024": {
+    "updated_at": "2026-08-14T16:20:35-04:00",
+    "title": "Senior Software Engineer - Integrations 3P - Platform",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8131025": {
+    "updated_at": "2026-08-14T16:20:34-04:00",
+    "title": "Senior Software Engineer - Integrations 3P - Platform",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:stripe:8097838": {
+    "updated_at": "2026-08-14T16:19:27-04:00",
+    "title": "Program Manager, Customer Success Efficiency and Scale",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:mercury:6144592004": {
+    "updated_at": "2026-08-14T16:17:18-04:00",
+    "title": "Senior Customer Support Operations Readiness Program Manager",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:postman:7871968003": {
+    "updated_at": "2026-08-14T16:15:03-04:00",
+    "title": "Senior Mid-Market Account Executive",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": false
+  },
+  "greenhouse:postman:7871879003": {
+    "updated_at": "2026-08-14T16:14:30-04:00",
+    "title": "Senior Mid-Market Account Executive",
+    "company": "postman",
+    "ats": "greenhouse",
+    "source_slug": "postman",
+    "alerted": false
+  },
+  "greenhouse:twitch:8700578002": {
+    "updated_at": "2026-08-14T16:13:21-04:00",
+    "title": "Software Engineer I, Payments",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:toast:8131006": {
+    "updated_at": "2026-08-14T16:12:51-04:00",
+    "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:mercury:6144590004": {
+    "updated_at": "2026-08-14T16:11:34-04:00",
+    "title": "Senior Customer Support Controls & Governance Program Manager",
+    "company": "mercury",
+    "ats": "greenhouse",
+    "source_slug": "mercury",
+    "alerted": false
+  },
+  "greenhouse:lyft:8716220002": {
+    "updated_at": "2026-08-14T16:06:59-04:00",
+    "title": "Software Engineer, Observability",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:pagerduty:6144613004": {
+    "updated_at": "2026-08-14T16:04:53-04:00",
+    "title": "Senior Paralegal",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8130817": {
+    "updated_at": "2026-08-14T16:03:51-04:00",
+    "title": "Staff Software Engineer, Passport & Commerce (Backend)",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:adyen:8128101": {
+    "updated_at": "2026-08-14T16:00:59-04:00",
+    "title": "Senior Software Engineer (Java) - Banking Accounts",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:humaninterest:8127144": {
+    "updated_at": "2026-08-14T15:53:57-04:00",
+    "title": "Manager, Payroll Connections",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:toast:8106205": {
+    "updated_at": "2026-08-14T15:51:53-04:00",
+    "title": "Principal HR Business Partner (G&A)",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8691859002": {
+    "updated_at": "2026-08-14T15:49:22-04:00",
+    "title": "Manager, Customer Success",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
     "alerted": false
   }
 }
