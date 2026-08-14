@@ -18408,7 +18408,7 @@
     "alerted": true
   },
   "greenhouse:faire:8426107002": {
-    "updated_at": "2026-08-14T17:08:47-04:00",
+    "updated_at": "2026-08-14T17:19:04-04:00",
     "title": "Staff Machine Learning Platform Engineer",
     "company": "faire",
     "ats": "greenhouse",
@@ -151624,7 +151624,7 @@
     "alerted": false
   },
   "greenhouse:faire:8542017002": {
-    "updated_at": "2026-08-14T17:08:47-04:00",
+    "updated_at": "2026-08-14T17:22:12-04:00",
     "title": "Staff Machine Learning Platform Engineer",
     "company": "faire",
     "ats": "greenhouse",
@@ -196000,7 +196000,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5251832008": {
-    "updated_at": "2026-08-05T17:04:04-04:00",
+    "updated_at": "2026-08-14T17:27:57-04:00",
     "title": "Marketing Events Producer",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -216888,7 +216888,7 @@
     "alerted": false
   },
   "greenhouse:twitch:8603477002": {
-    "updated_at": "2026-06-24T13:51:15-04:00",
+    "updated_at": "2026-08-14T17:24:19-04:00",
     "title": "Director of Engineering, Ads",
     "company": "twitch",
     "ats": "greenhouse",
@@ -230224,7 +230224,7 @@
     "alerted": false
   },
   "greenhouse:faire:8618464002": {
-    "updated_at": "2026-08-14T17:08:47-04:00",
+    "updated_at": "2026-08-14T17:21:36-04:00",
     "title": "Senior Staff Machine Learning Platform Engineer",
     "company": "faire",
     "ats": "greenhouse",
@@ -232712,7 +232712,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8603824002": {
-    "updated_at": "2026-08-10T16:52:46-04:00",
+    "updated_at": "2026-08-14T17:40:35-04:00",
     "title": "Engineering Manager, AI Engineering: Chat",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-14T17:05:00-04:00",
+    "updated_at": "2026-08-14T17:35:19-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-14T17:05:04-04:00",
+    "updated_at": "2026-08-14T17:35:22-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -280712,7 +280712,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8646544002": {
-    "updated_at": "2026-08-10T16:52:46-04:00",
+    "updated_at": "2026-08-14T17:45:57-04:00",
     "title": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -280760,7 +280760,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8646556002": {
-    "updated_at": "2026-08-14T14:25:59-04:00",
+    "updated_at": "2026-08-14T17:44:09-04:00",
     "title": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -293056,8 +293056,8 @@
     "alerted": false
   },
   "greenhouse:applovin:4705264006": {
-    "updated_at": "2026-08-13T20:34:46-04:00",
-    "title": "Measurement Analyst",
+    "updated_at": "2026-08-14T17:27:22-04:00",
+    "title": "Measurement Data Scientist",
     "company": "applovin",
     "ats": "greenhouse",
     "source_slug": "applovin",
@@ -294112,7 +294112,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8072886": {
-    "updated_at": "2026-08-14T11:58:47-04:00",
+    "updated_at": "2026-08-14T17:32:22-04:00",
     "title": "Executive Recruiter",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -294904,7 +294904,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8128101": {
-    "updated_at": "2026-08-14T16:00:59-04:00",
+    "updated_at": "2026-08-14T17:45:52-04:00",
     "title": "Senior Software Engineer (Java) - Banking Accounts",
     "company": "adyen",
     "ats": "greenhouse",
@@ -295141,6 +295141,14 @@
     "company": "fivetran",
     "ats": "greenhouse",
     "source_slug": "fivetran",
+    "alerted": true
+  },
+  "greenhouse:airbnb:8130355": {
+    "updated_at": "2026-08-14T17:27:57-04:00",
+    "title": "Senior Machine Learning Engineer, Trust",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
     "alerted": true
   }
 }
