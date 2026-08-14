@@ -7640,7 +7640,7 @@
     "alerted": true
   },
   "greenhouse:stripe:6163230": {
-    "updated_at": "2026-08-11T14:50:08-04:00",
+    "updated_at": "2026-08-14T13:17:58-04:00",
     "title": "Backend Engineer, Payments and Risk",
     "company": "stripe",
     "ats": "greenhouse",
@@ -14840,7 +14840,7 @@
     "alerted": true
   },
   "greenhouse:calendly:8464846002": {
-    "updated_at": "2026-08-07T12:45:15-04:00",
+    "updated_at": "2026-08-14T12:52:04-04:00",
     "title": "Senior Full Stack Engineer, AI Scheduling",
     "company": "calendly",
     "ats": "greenhouse",
@@ -27320,7 +27320,7 @@
     "alerted": false
   },
   "greenhouse:convera:4585038101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Convera USA LLC. in Denver, CO has opening for Senior Software Engineer",
     "company": "convera",
     "ats": "greenhouse",
@@ -27328,7 +27328,7 @@
     "alerted": false
   },
   "greenhouse:convera:4585020101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Convera USA LLC. in Denver, CO has opening for Senior Software Engineer.",
     "company": "convera",
     "ats": "greenhouse",
@@ -27392,7 +27392,7 @@
     "alerted": false
   },
   "greenhouse:convera:4608562101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Software Engineer with Convera USA LLC (Denver, CO)",
     "company": "convera",
     "ats": "greenhouse",
@@ -32672,7 +32672,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7361509": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Embedded Software Technical Lead & Manager, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32688,7 +32688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7808260": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Hardware Engineer, LIDAR Performance Validation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32728,7 +32728,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7819946": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32744,7 +32744,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7429791": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer - Mapping",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32776,7 +32776,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7446279": {
-    "updated_at": "2026-08-06T17:43:52-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Perception Machine Learning Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32784,7 +32784,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6506689": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, Prediction & Planning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32792,7 +32792,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6506008": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, Runtime & Optimization",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32800,7 +32800,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6499165": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, Simulation Realism",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32808,7 +32808,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6688617": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, Simulation Realism",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32824,7 +32824,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7409556": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Mechanical Engineer, Vehicle Engineering",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32832,7 +32832,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7509005": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "ML Accelerator Architect",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32864,7 +32864,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7561934": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "OEM Platform Integration Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32888,7 +32888,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7461103": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Onboard Infrastructure Senior Software Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32904,7 +32904,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7743717": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Platform Enablement Operations Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32928,7 +32928,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6989523": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Principal Software Engineer, Perception Pretraining",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32952,7 +32952,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7684041": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Quality Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32960,7 +32960,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7656333": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Specialist, ML Data",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32968,7 +32968,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7458409": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager, New Markets & Platforms",
     "company": "waymo",
     "ats": "greenhouse",
@@ -32992,7 +32992,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7469425": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Research Scientist, RL for Autonomous Planning & World Modeling",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33008,7 +33008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6976239": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Android Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33016,7 +33016,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7759769": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Android Engineer, In-Car Experience Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33024,7 +33024,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7382506": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Android Platform Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33040,7 +33040,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7593534": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Formal Verification Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33072,7 +33072,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7249525": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer, Computer Vision/VLM",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33088,7 +33088,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7819951": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33104,7 +33104,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7488596": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33128,7 +33128,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7430187": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33152,7 +33152,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7490150": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Motion Systems Engineer, Actuators",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33216,7 +33216,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7160937": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Security Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33248,7 +33248,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7747032": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Eval Authoring APIs",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33272,7 +33272,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7510368": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Inertial Navigation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33288,7 +33288,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7028511": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Linux Kernel",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33312,7 +33312,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6773081": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer - Multiverse",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33336,7 +33336,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7456936": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Planner",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33352,7 +33352,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7336953": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Planner Reasoning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33376,7 +33376,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7477172": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Quantitative Evaluations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33392,7 +33392,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7456696": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer, Robotics",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33416,7 +33416,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7429718": {
-    "updated_at": "2026-08-10T21:17:46-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Simulation ML Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33424,7 +33424,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7540809": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Simulation, Vehicle & Autonomous Driving Realism",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33440,7 +33440,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7222566": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Simulator Platform",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33448,7 +33448,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7121224": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Training Efficiency",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33456,7 +33456,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7822756": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Vehicle Platforms C++",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33488,7 +33488,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6669555": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior/Staff ML Engineer, 3D/4D World Modeling, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33496,7 +33496,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7421737": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff ML Engineer, Driver Understanding and Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33504,7 +33504,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7449213": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead, Self Driving Eval Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33544,7 +33544,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7540248": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Tech Lead Manager, Simulator Efficiency",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33552,7 +33552,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7429968": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Software Engineer, TLM",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33560,7 +33560,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7495240": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Technical Lead Manager, Perception Optimization",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33576,7 +33576,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7763316": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior System Safety Engineer, Operations & Fleet Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33600,7 +33600,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7497046": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Systems Engineer,  Rider Journeys",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33608,7 +33608,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7625366": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Automotive Testing Lead, Japan",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33632,7 +33632,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7786381": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Vehicle Dynamics Simulation Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33664,7 +33664,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7683884": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Signal Integrity Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33672,7 +33672,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7466529": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Bulk/Interactive Inference",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33680,7 +33680,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7429873": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Vehicle Platforms C++",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33688,7 +33688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7554830": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, GPU",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33720,7 +33720,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7609435": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Model Lifecycle",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33728,7 +33728,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7531397": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Multiverse",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33752,7 +33752,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7449712": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Perception Scaling Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33784,7 +33784,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7141380": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Planner Vehicle Dynamics",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33792,7 +33792,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7547529": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Privacy",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33800,7 +33800,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7466534": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Quantitative Evaluations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33824,7 +33824,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7543520": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Statistical Evaluation and Sampling",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33856,7 +33856,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7458098": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Operations Specialist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33872,7 +33872,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7421839": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Operations Specialist, Domain Expansion",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33880,7 +33880,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7456161": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Ops Scenarios Specialist (DiscSim)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33896,7 +33896,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7658914": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Technical Lead Manager, Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33912,7 +33912,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7438645": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Sr Software Engineer, Telematics",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33920,7 +33920,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7438665": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Sr Software Engineer, Android Automotive",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33928,7 +33928,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7484320": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Android Engineer, In-Car Experience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33944,7 +33944,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7438635": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33960,7 +33960,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7483051": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Technical Lead Manager, Simulation, Machine Learning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33968,7 +33968,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7719332": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer, Tech Lead, Labeling Automation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33976,7 +33976,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7595124": {
-    "updated_at": "2026-08-10T02:40:11-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer \u2013 VLM/LLM Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -33984,7 +33984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7671532": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff PCBA DFM and Manufacturing Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34024,7 +34024,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7170802": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Machine Learning, Planner Selection",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34040,7 +34040,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7177351": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, ML Evaluation Infra and Efficiency",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34048,7 +34048,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7593522": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer, Data Flywheel",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34056,7 +34056,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7531466": {
-    "updated_at": "2026-08-12T19:56:35-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Multiverse",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34080,7 +34080,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7602321": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Tech Lead Manager, Machine Learning, Simulator Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34088,7 +34088,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7680942": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer / Technical Lead Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34128,7 +34128,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7094669": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Technical Lead Manager, ML Sensor Validation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34136,7 +34136,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7486113": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Technical Lead Manager, Planner Reasoning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34144,7 +34144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7600766": {
-    "updated_at": "2026-08-07T18:56:01-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Technical Program Manager, Simulation Infrastructure Resource Management",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34160,7 +34160,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7782847": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategic Partnerships Development Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34208,7 +34208,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7367785": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Systems Engineer, Perception",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34216,7 +34216,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7572411": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Systems Engineer, Power Systems (Low Voltage)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34232,7 +34232,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7804301": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Systems Integration Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34256,7 +34256,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7773691": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Systems Test Engineer, Pipeline and Test Health",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34264,7 +34264,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7669316": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Systems Test Engineer, Sensing",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34288,7 +34288,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7686010": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead  Manager ML Optimization",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34296,7 +34296,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7387093": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead Manager- Onboard Software Performance",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34320,7 +34320,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7460470": {
-    "updated_at": "2026-08-05T20:39:34-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Lead Manager, Route & Motion Generation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34352,7 +34352,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7403855": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Program Manager, Onboard Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -34360,7 +34360,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7733791": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Program Manager, Systems Engineering",
     "company": "waymo",
     "ats": "greenhouse",
@@ -35512,7 +35512,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4261270007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-14T13:01:49-04:00",
     "title": "Senior BSP Engineer - Cameras",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35624,7 +35624,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4128752007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-14T13:02:17-04:00",
     "title": "Senior Software Engineer - C++",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35664,7 +35664,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5066093007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-14T13:03:00-04:00",
     "title": "Senior Software Engineer \u2013 Storage Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -35736,7 +35736,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4134234007": {
-    "updated_at": "2026-08-13T18:30:38-04:00",
+    "updated_at": "2026-08-14T13:04:07-04:00",
     "title": "Software Engineer - Imaging Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -43496,7 +43496,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7550770": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Statistical Evaluation and Sampling",
     "company": "waymo",
     "ats": "greenhouse",
@@ -43504,7 +43504,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7442152": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer, Driver Understanding and Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -49648,7 +49648,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7584885": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Compute Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -58648,7 +58648,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7703602": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Machine Learning Performance",
     "company": "waymo",
     "ats": "greenhouse",
@@ -59984,7 +59984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7744053": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Director of Engineering, London",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60088,7 +60088,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7682770": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Administrative Business Partner",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60096,7 +60096,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7438172": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Analysis Infra SWE",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60112,7 +60112,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7488508": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60168,7 +60168,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7651108": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Business Development & Strategic Partnerships Lead, Japan | \u30d3\u30b8\u30cd\u30b9\u30c7\u30d9\u30ed\u30c3\u30d7\u30e1\u30f3\u30c8 & \u30b9\u30c8\u30e9\u30c6\u30b8\u30c3\u30af\u30d1\u30fc\u30c8\u30ca\u30fc\u30b7\u30c3\u30d7\u30fb\u30ea\u30fc\u30c9 (\u65e5\u672c)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60296,7 +60296,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7658411": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "EHS Manager, Americas Subregional",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60312,7 +60312,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7490278": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Electrical Engineer, Design Validation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60352,7 +60352,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7724801": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Field Safety Engineer, Japan / \u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u30bb\u30fc\u30d5\u30c6\u30a3\u30fb\u30a8\u30f3\u30b8\u30cb\u30a2\uff08\u65e5\u672c\uff09",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60528,7 +60528,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7474033": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60624,7 +60624,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7435061": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Public Relations Lead, Japan / PR\u30ea\u30fc\u30c9\uff08\u65e5\u672c)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60648,7 +60648,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7309064": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer / Applied Scientist, Prediction & Planning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60656,7 +60656,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7435909": {
-    "updated_at": "2026-08-06T18:47:56-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "SAP Finance System Architect & Automation Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60760,7 +60760,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7774345": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior ML Compiler Engineer, Compute",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60816,7 +60816,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7426432": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Fleet Orchestration and Optimization",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60832,7 +60832,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7442326": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Industrial Designer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60864,7 +60864,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7596467": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff TLM, Perception, Sensor Pipelines",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60912,7 +60912,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7307289": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer Backend - Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60928,7 +60928,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7596990": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Full Stack",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60944,7 +60944,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7698498": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Machine Learning Tooling",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60976,7 +60976,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7458393": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Operations Specialist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -60984,7 +60984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7456135": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Operations Specialist, Safety Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61008,7 +61008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7458013": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Data Scientist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61016,7 +61016,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7239320": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Data Science Manager, Driving Quality",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61024,7 +61024,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7493959": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61096,7 +61096,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7450694": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff TLM, Perception, Continuous Learning & Monitoring",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61104,7 +61104,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7450653": {
-    "updated_at": "2026-08-13T13:50:57-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Tech Lead, Perception, Fine-Tuning & Model Releases",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61112,7 +61112,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7561880": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Lead Manager, Perception, Traffic Control Understanding",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61144,7 +61144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7435672": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Fleet and Supply Market Operations Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61152,7 +61152,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7436009": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Team Lead, Global Enterprise Outsourcing Services Category Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -61160,7 +61160,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7527054": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead Manager, Backend",
     "company": "waymo",
     "ats": "greenhouse",
@@ -67896,7 +67896,7 @@
     "alerted": false
   },
   "greenhouse:postman:7701509003": {
-    "updated_at": "2026-08-01T15:45:58-04:00",
+    "updated_at": "2026-08-14T13:00:59-04:00",
     "title": "Senior Engineer, Search",
     "company": "postman",
     "ats": "greenhouse",
@@ -103312,7 +103312,7 @@
     "alerted": false
   },
   "greenhouse:convera:4793751101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Financial Analyst (6 Months FTC) - Sales Compensation and Hedging",
     "company": "convera",
     "ats": "greenhouse",
@@ -114328,7 +114328,7 @@
     "alerted": false
   },
   "greenhouse:convera:4742353101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Business Development Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -117600,7 +117600,7 @@
     "alerted": false
   },
   "greenhouse:convera:4782627101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Head of Sales, NSW & Qld",
     "company": "convera",
     "ats": "greenhouse",
@@ -117752,7 +117752,7 @@
     "alerted": false
   },
   "greenhouse:convera:4766574101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Software Engineer",
     "company": "convera",
     "ats": "greenhouse",
@@ -119968,7 +119968,7 @@
     "alerted": false
   },
   "greenhouse:convera:4703439101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Business Development Manager - Sydney",
     "company": "convera",
     "ats": "greenhouse",
@@ -119992,7 +119992,7 @@
     "alerted": false
   },
   "greenhouse:convera:4603329101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Product Manager with Convera USA LLC (Denver, CO)",
     "company": "convera",
     "ats": "greenhouse",
@@ -120688,8 +120688,8 @@
     "alerted": false
   },
   "ashby:Ashby:fe44e5a8-1b61-4330-a02d-7f7b66f5ade2": {
-    "updated_at": "2026-06-23T21:23:40.596+00:00",
-    "title": "Strategic Implementation Specialist - Americas",
+    "updated_at": "2026-08-14T17:03:04.184+00:00",
+    "title": "Senior Strategic Implementation Specialist - Americas (East)",
     "company": "Ashby",
     "ats": "ashby",
     "source_slug": "Ashby",
@@ -122008,7 +122008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7839759": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Technical Lead Manager, Behaviors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -122424,7 +122424,7 @@
     "alerted": false
   },
   "greenhouse:convera:4826833101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Lead Marketing Commercialisation Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -126952,7 +126952,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7848797": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Electrical Engineer, Sensors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -128376,7 +128376,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7361677": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "System Safety Engineer, Operations & Fleet Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -129032,7 +129032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7852156": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Head of Technical Talent Acquisition",
     "company": "waymo",
     "ats": "greenhouse",
@@ -129040,7 +129040,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7852206": {
-    "updated_at": "2026-08-13T18:37:34-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Manager, Talent Acquisition Operations & Process Engineering",
     "company": "waymo",
     "ats": "greenhouse",
@@ -129048,7 +129048,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7839621": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Manager, Talent Intelligence & Sourcing",
     "company": "waymo",
     "ats": "greenhouse",
@@ -131456,7 +131456,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7851742": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Escalation Manager, Event Response Team; \u30a8\u30b9\u30ab\u30ec\u30fc\u30b7\u30e7\u30f3 \u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u3001\u30a4\u30d9\u30f3\u30c8\u5bfe\u5fdc\u30c1\u30fc\u30e0",
     "company": "waymo",
     "ats": "greenhouse",
@@ -133928,7 +133928,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7848842": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Principal Software Engineer, Onboard Field Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -134312,7 +134312,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7845732": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer, Runtime and Serving",
     "company": "waymo",
     "ats": "greenhouse",
@@ -135096,7 +135096,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7863159": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer,  DevAI",
     "company": "waymo",
     "ats": "greenhouse",
@@ -137352,7 +137352,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7826677": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior FP&A Analyst - Supply Chain",
     "company": "waymo",
     "ats": "greenhouse",
@@ -138296,7 +138296,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7852966": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Program Manager, AV Compliance - Japan, Regulatory / \u30b7\u30cb\u30a2\u30fb\u30d7\u30ed\u30b0\u30e9\u30e0\u30fb\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\uff08AV\u30b3\u30f3\u30d7\u30e9\u30a4\u30a2\u30f3\u30b9 - APAC\u898f\u5236\u62c5\u5f53\uff09",
     "company": "waymo",
     "ats": "greenhouse",
@@ -138352,7 +138352,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7859522": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Backend Engineer, Fleet Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -138552,7 +138552,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7859111": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Head of Technical Services",
     "company": "waymo",
     "ats": "greenhouse",
@@ -139264,7 +139264,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7852098": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager - Vehicle Recovery, Safety, & Logistics",
     "company": "waymo",
     "ats": "greenhouse",
@@ -139344,7 +139344,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7858106": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Planning Manager - GOC",
     "company": "waymo",
     "ats": "greenhouse",
@@ -139736,7 +139736,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7872767": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Hardware Engineer, Charging Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -140424,7 +140424,7 @@
     "alerted": false
   },
   "greenhouse:convera:4851547101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Commercial Finance Manager - Channels and Partnerships",
     "company": "convera",
     "ats": "greenhouse",
@@ -140672,7 +140672,7 @@
     "alerted": true
   },
   "greenhouse:waymo:7851856": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Waymo Training Solutions Program Manager Waymo \u30c8\u30ec\u30fc\u30cb\u30f3\u30b0 \u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 \u30d7\u30ed\u30b0\u30e9\u30e0 \u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
     "company": "waymo",
     "ats": "greenhouse",
@@ -142008,7 +142008,7 @@
     "alerted": true
   },
   "greenhouse:convera:4856899101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Commercial Finance Manager - Channels and Partnerships",
     "company": "convera",
     "ats": "greenhouse",
@@ -143744,7 +143744,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7851847": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Regional Fleet Readiness Manager - WEST",
     "company": "waymo",
     "ats": "greenhouse",
@@ -143912,7 +143912,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7851976": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Fleet Vendor Performance Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -145160,7 +145160,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7838891": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Marketing Manager, Market Growth & Expansion",
     "company": "waymo",
     "ats": "greenhouse",
@@ -145552,7 +145552,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7895859": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Executive Business Partner",
     "company": "waymo",
     "ats": "greenhouse",
@@ -146504,7 +146504,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7899420": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Training Manager (WRA/RS)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -146552,7 +146552,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7895442": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager, Labeling Operations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -146880,7 +146880,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7851972": {
-    "updated_at": "2026-08-06T20:48:30-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Head of Market Operations - San Francisco",
     "company": "waymo",
     "ats": "greenhouse",
@@ -147232,7 +147232,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7429828": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Mapping Field Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -149000,7 +149000,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7905387": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Systems Engineer, Motion Control",
     "company": "waymo",
     "ats": "greenhouse",
@@ -149240,7 +149240,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7815237": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff iOS Engineer, Growth",
     "company": "waymo",
     "ats": "greenhouse",
@@ -149272,7 +149272,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7896159": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, ML Data Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -151440,7 +151440,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7484282": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Android Engineer, In-Car Experience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -151488,7 +151488,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7435977": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Charging Automation Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -151816,7 +151816,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7902413": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Manager, Pickup and Dropoff Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -152344,7 +152344,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7882199": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Vehicle Recovery, Safety, & Logistics - West",
     "company": "waymo",
     "ats": "greenhouse",
@@ -153120,7 +153120,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7909382": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Director, Global Operations Control",
     "company": "waymo",
     "ats": "greenhouse",
@@ -153352,7 +153352,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7433481": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Android Engineer, Growth",
     "company": "waymo",
     "ats": "greenhouse",
@@ -154024,7 +154024,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7905693": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Sr. Machine Learning Engineer, Marketplace ML Platform",
     "company": "waymo",
     "ats": "greenhouse",
@@ -154608,7 +154608,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7901976": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Fullstack Engineer, Mission Planning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -154816,7 +154816,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7902617": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Speciality PUDO",
     "company": "waymo",
     "ats": "greenhouse",
@@ -155208,7 +155208,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7852501": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, Depot Automation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -155256,7 +155256,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7908814": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Reliability Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -155376,7 +155376,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7905643": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, Marketplace Pricing",
     "company": "waymo",
     "ats": "greenhouse",
@@ -156248,7 +156248,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7905678": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Trip Platform",
     "company": "waymo",
     "ats": "greenhouse",
@@ -157400,7 +157400,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7890744": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "International Standardization Lead (Staff Researcher)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -157416,7 +157416,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7891021": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Safety Researcher, Computational Behavior Modeling",
     "company": "waymo",
     "ats": "greenhouse",
@@ -157600,7 +157600,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7599912": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior System Test Engineer, Perception",
     "company": "waymo",
     "ats": "greenhouse",
@@ -159856,7 +159856,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7927507": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Systems Engineer, Hardware Architecture",
     "company": "waymo",
     "ats": "greenhouse",
@@ -162872,7 +162872,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7927430": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Sensor Placement and Analysis Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -162952,7 +162952,7 @@
     "alerted": true
   },
   "greenhouse:waymo:7939542": {
-    "updated_at": "2026-08-10T18:43:44-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, Fleet Monitoring & Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -163296,7 +163296,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7932205": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Android Engineer, In-Car Experience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -163512,7 +163512,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7926270": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Regulatory and Compliance Systems Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -164600,7 +164600,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7939648": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager, Risk & Insurance",
     "company": "waymo",
     "ats": "greenhouse",
@@ -165536,7 +165536,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7901957": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Fleet Orchestration Core",
     "company": "waymo",
     "ats": "greenhouse",
@@ -166720,7 +166720,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7947024": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Group Product Manager, Perception Modeling - Semantics",
     "company": "waymo",
     "ats": "greenhouse",
@@ -169912,7 +169912,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7947334": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead Manager, Data Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -171112,7 +171112,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7951884": {
-    "updated_at": "2026-08-07T12:48:15-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Safety Documentation - Regulatory Permits",
     "company": "waymo",
     "ats": "greenhouse",
@@ -171600,7 +171600,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7917933": {
-    "updated_at": "2026-08-12T13:09:13-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Lead Manager, Query & Storage SWE",
     "company": "waymo",
     "ats": "greenhouse",
@@ -171880,7 +171880,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7884982": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Safety Case Research - Product Development Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -171936,7 +171936,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7954299": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Ridehailing, Site Reliability Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -172024,7 +172024,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5145739007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-14T12:38:56-04:00",
     "title": "Engineering Manager - Storage Systems",
     "company": "verkada",
     "ats": "greenhouse",
@@ -173680,7 +173680,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7955532": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Manager, Construction",
     "company": "waymo",
     "ats": "greenhouse",
@@ -173960,7 +173960,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7456042": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Data Scientist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -173976,7 +173976,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7455592": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Data Scientist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -174328,7 +174328,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7426471": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff TLM, Data Mining and Sampling for ML and Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -175656,7 +175656,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7902119": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Full Stack Software Engineer, Depot UX",
     "company": "waymo",
     "ats": "greenhouse",
@@ -175800,7 +175800,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7943238": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Quantitative Evaluations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -176208,7 +176208,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7912801": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Driver Validation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -177416,7 +177416,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7963516": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Lead Manager, Prediction, ML Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -177576,7 +177576,7 @@
     "alerted": false
   },
   "greenhouse:convera:4873400101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Head of Liquidity Management",
     "company": "convera",
     "ats": "greenhouse",
@@ -177848,7 +177848,7 @@
     "alerted": true
   },
   "greenhouse:waymo:7964147": {
-    "updated_at": "2026-08-14T10:52:12-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Field Quality Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -180144,7 +180144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7926526": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Operational/ Process Efficiency",
     "company": "waymo",
     "ats": "greenhouse",
@@ -180264,7 +180264,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7964897": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Manager, Product Data Science - Fleet Optimization and Orchestration",
     "company": "waymo",
     "ats": "greenhouse",
@@ -181136,7 +181136,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7947310": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Infrastructure Engineer, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -181144,7 +181144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7974252": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Systems Engineer, Vehicle Security",
     "company": "waymo",
     "ats": "greenhouse",
@@ -181152,7 +181152,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7912824": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Automation Platform & Workflows",
     "company": "waymo",
     "ats": "greenhouse",
@@ -181160,7 +181160,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7912827": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, Fleet Orchestration Infra",
     "company": "waymo",
     "ats": "greenhouse",
@@ -181168,7 +181168,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7947253": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -182032,7 +182032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7961704": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -182080,7 +182080,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7943932": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Infrastructure Engineer, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -182304,7 +182304,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7956594": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Demand Operations Manager  - San Francisco",
     "company": "waymo",
     "ats": "greenhouse",
@@ -182480,7 +182480,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7974331": {
-    "updated_at": "2026-08-11T15:54:16-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead Manager, Foundation Models",
     "company": "waymo",
     "ats": "greenhouse",
@@ -183272,7 +183272,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7947052": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Depot UX",
     "company": "waymo",
     "ats": "greenhouse",
@@ -183504,7 +183504,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7976352": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, In-field Behavior Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -183640,7 +183640,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7944176": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Operations Specialist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -183688,7 +183688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7912831": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Chassis",
     "company": "waymo",
     "ats": "greenhouse",
@@ -184472,7 +184472,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7975025": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Research Scientist, Perception",
     "company": "waymo",
     "ats": "greenhouse",
@@ -184776,7 +184776,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7959074": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Business Intelligence Analyst",
     "company": "waymo",
     "ats": "greenhouse",
@@ -187200,7 +187200,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7978589": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Simulator Orchestration",
     "company": "waymo",
     "ats": "greenhouse",
@@ -188856,7 +188856,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7977950": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Head of Global EHS",
     "company": "waymo",
     "ats": "greenhouse",
@@ -189040,7 +189040,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7983686": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead Manager, Simulation Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -191104,7 +191104,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7948185": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Perception Future Sensing Platforms",
     "company": "waymo",
     "ats": "greenhouse",
@@ -191576,7 +191576,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7980606": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
+    "updated_at": "2026-08-14T13:10:18-04:00",
     "title": "Payroll Tax Analyst",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -192264,7 +192264,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7964793": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Android Engineer, Mission Planning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -192528,7 +192528,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7456163": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Operations Specialist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -192560,7 +192560,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7981535": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Systems Engineer,  Vehicle Body Control Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -192832,7 +192832,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7991190": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer, Multi-Modal Perception",
     "company": "waymo",
     "ats": "greenhouse",
@@ -192864,7 +192864,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7988387": {
-    "updated_at": "2026-08-10T22:52:24-04:00",
+    "updated_at": "2026-08-14T12:25:25-04:00",
     "title": "Principal Search Consulting Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -193008,7 +193008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7939991": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Indirect Procurement Category Manager, Marketing",
     "company": "waymo",
     "ats": "greenhouse",
@@ -193032,7 +193032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7942677": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Quality Operations Specialist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -193552,7 +193552,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7991482": {
-    "updated_at": "2026-08-10T22:52:24-04:00",
+    "updated_at": "2026-08-14T12:25:25-04:00",
     "title": "Principal Search Consulting Architect",
     "company": "elastic",
     "ats": "greenhouse",
@@ -195128,7 +195128,7 @@
     "alerted": true
   },
   "greenhouse:waymo:7944201": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Planner Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -195336,7 +195336,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7991303": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, ML/Eval Data Platforms & Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -195792,7 +195792,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7944582": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Planner Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -197792,7 +197792,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7991417": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "ASIC Design Verification Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -197800,7 +197800,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7843377": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Engineering & Hardware Category Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -198264,7 +198264,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7909457": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, 3D & Data Visualization Tools",
     "company": "waymo",
     "ats": "greenhouse",
@@ -198344,7 +198344,7 @@
     "alerted": false
   },
   "greenhouse:convera:4880934101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Support Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -198816,7 +198816,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8001059": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Planner",
     "company": "waymo",
     "ats": "greenhouse",
@@ -199152,7 +199152,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7770073003": {
-    "updated_at": "2026-08-10T11:52:48-04:00",
+    "updated_at": "2026-08-14T12:36:07-04:00",
     "title": "Lead/Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -199160,7 +199160,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7770069003": {
-    "updated_at": "2026-08-10T11:52:47-04:00",
+    "updated_at": "2026-08-14T12:36:07-04:00",
     "title": "Lead/Principal Management & Technology Consultant  - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -199168,7 +199168,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7765927003": {
-    "updated_at": "2026-08-10T11:52:47-04:00",
+    "updated_at": "2026-08-14T12:36:06-04:00",
     "title": "Lead/Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -199608,7 +199608,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7916876": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Quality & Training Program Manager, Mapping Operations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -201048,7 +201048,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7997947": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "ML Microarchitect",
     "company": "waymo",
     "ats": "greenhouse",
@@ -202088,7 +202088,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8003626": {
-    "updated_at": "2026-08-11T15:55:14-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Research Scientist, Perception",
     "company": "waymo",
     "ats": "greenhouse",
@@ -202336,7 +202336,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8001797": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer, Simulation Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -203744,7 +203744,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773834003": {
-    "updated_at": "2026-08-10T11:52:49-04:00",
+    "updated_at": "2026-08-14T12:36:08-04:00",
     "title": "Lead/Principal Value Engineer - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -203768,7 +203768,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8004234": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Silicon Emulation Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -203984,7 +203984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8002074": {
-    "updated_at": "2026-08-07T15:44:52-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Business Recruiter",
     "company": "waymo",
     "ats": "greenhouse",
@@ -207568,7 +207568,7 @@
     "alerted": false
   },
   "greenhouse:convera:4895992101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Portfolio Manager - B2B (FX and Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -207800,7 +207800,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8013843": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer/ Tech Lead - Onboard Model Consolidation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -208608,7 +208608,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773301003": {
-    "updated_at": "2026-08-10T12:10:57-04:00",
+    "updated_at": "2026-08-14T12:35:48-04:00",
     "title": "Client Account Lead - Strategy & Transformation (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -208616,7 +208616,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7777097003": {
-    "updated_at": "2026-08-10T12:10:58-04:00",
+    "updated_at": "2026-08-14T12:35:48-04:00",
     "title": "Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -208624,7 +208624,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7777096003": {
-    "updated_at": "2026-08-10T12:11:00-04:00",
+    "updated_at": "2026-08-14T12:35:50-04:00",
     "title": "Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -208648,7 +208648,7 @@
     "alerted": false
   },
   "greenhouse:convera:4766562101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Staff - Software Engineering",
     "company": "convera",
     "ats": "greenhouse",
@@ -211240,7 +211240,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8018436": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Software Engineer, System-on-Chip (SoC) Testing",
     "company": "waymo",
     "ats": "greenhouse",
@@ -212304,7 +212304,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7961706": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -212312,7 +212312,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7985945": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -213280,7 +213280,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8010005": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Recruiter, AI/ML",
     "company": "waymo",
     "ats": "greenhouse",
@@ -213408,7 +213408,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8022298": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Machine Learning Engineer, LLM/VLM Model Architecture & Optimization",
     "company": "waymo",
     "ats": "greenhouse",
@@ -213808,7 +213808,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899054101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Compliance Operations Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -215256,7 +215256,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8021971": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Product Manager, Sensing Resilience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -215560,7 +215560,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7435961": {
-    "updated_at": "2026-08-11T12:39:11-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Regional Security Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -215776,7 +215776,7 @@
     "alerted": false
   },
   "greenhouse:convera:4884203101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Business Development Manager \u2013 Japan",
     "company": "convera",
     "ats": "greenhouse",
@@ -217688,7 +217688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8012269": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, DUE Experience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -218032,7 +218032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8027386": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Compute Reliability",
     "company": "waymo",
     "ats": "greenhouse",
@@ -218144,7 +218144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8027001": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Manager, Growth",
     "company": "waymo",
     "ats": "greenhouse",
@@ -219008,7 +219008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8026543": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Technical Program Manager, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -220008,7 +220008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8028435": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Product Manager, Fleet Optimization",
     "company": "waymo",
     "ats": "greenhouse",
@@ -221688,7 +221688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8029653": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Event Response Global Service Delivery Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -222016,7 +222016,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8027348": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior/Staff Machine Learning Engineer, Simulation Realism",
     "company": "waymo",
     "ats": "greenhouse",
@@ -222104,7 +222104,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8029672": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Lead Technical Program Manager, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -222160,7 +222160,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8031880": {
-    "updated_at": "2026-08-14T09:12:52-04:00",
+    "updated_at": "2026-08-14T13:02:30-04:00",
     "title": "Business Technology Engineer II",
     "company": "samsara",
     "ats": "greenhouse",
@@ -222168,7 +222168,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8022729": {
-    "updated_at": "2026-08-14T09:12:52-04:00",
+    "updated_at": "2026-08-14T13:02:30-04:00",
     "title": "Business Technology Engineer II",
     "company": "samsara",
     "ats": "greenhouse",
@@ -223008,7 +223008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8034894": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Product Data Scientist, Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -223472,7 +223472,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8031883": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Foundation Model Data, Software Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -224112,7 +224112,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8031918": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Systems Modeling & Optimization Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -224136,7 +224136,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8032339": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Business Intelligence Analyst, Growth",
     "company": "waymo",
     "ats": "greenhouse",
@@ -224256,7 +224256,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8027424": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff ML Engineer, Generative Model Performance & Efficiency",
     "company": "waymo",
     "ats": "greenhouse",
@@ -224800,7 +224800,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604610002": {
-    "updated_at": "2026-08-11T14:54:41-04:00",
+    "updated_at": "2026-08-14T12:36:29-04:00",
     "title": "Sales Compensation Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -225408,7 +225408,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8031615": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer - Simulation Realism",
     "company": "waymo",
     "ats": "greenhouse",
@@ -225944,7 +225944,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7944317": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Sensor Simulation Platform",
     "company": "waymo",
     "ats": "greenhouse",
@@ -226312,7 +226312,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7951885": {
-    "updated_at": "2026-08-14T09:12:50-04:00",
+    "updated_at": "2026-08-14T13:16:27-04:00",
     "title": "Sr. Knowledge Developer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -226800,8 +226800,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8604579002": {
-    "updated_at": "2026-08-11T14:54:41-04:00",
-    "title": "Senior - Finance Data and AI Specialist",
+    "updated_at": "2026-08-14T12:35:54-04:00",
+    "title": "Senior Finance Specialist (Data & AI)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -227624,7 +227624,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8036947": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Emergency Management Program Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -228504,7 +228504,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042365": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Automotive HVAC Systems Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -228688,7 +228688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8039786": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Head of Logistics",
     "company": "waymo",
     "ats": "greenhouse",
@@ -228704,7 +228704,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8035798": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Program Manager, Mapping Operations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -229080,7 +229080,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7947071": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Tech Lead, Fleet Response Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -229768,7 +229768,7 @@
     "alerted": false
   },
   "greenhouse:convera:4918024101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Principal Software Engineer (REF# AT0630)",
     "company": "convera",
     "ats": "greenhouse",
@@ -230320,7 +230320,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8013480": {
-    "updated_at": "2026-08-10T14:08:29-04:00",
+    "updated_at": "2026-08-14T13:02:18-04:00",
     "title": "Senior Staff Engineer - Tax Platform Engineering",
     "company": "gusto",
     "ats": "greenhouse",
@@ -232232,7 +232232,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8031401": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Data Scientist, Weather",
     "company": "waymo",
     "ats": "greenhouse",
@@ -232624,7 +232624,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042086": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Program Manager, AV Compliance - External Reporting",
     "company": "waymo",
     "ats": "greenhouse",
@@ -232664,7 +232664,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042088": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager, Driver and Vehicle Compliance",
     "company": "waymo",
     "ats": "greenhouse",
@@ -234256,7 +234256,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8031521": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Product Data Scientist, Paid Media",
     "company": "waymo",
     "ats": "greenhouse",
@@ -234480,7 +234480,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042307": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager, External Reporting",
     "company": "waymo",
     "ats": "greenhouse",
@@ -234520,7 +234520,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8038526": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "System Disruption Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -234792,7 +234792,7 @@
     "alerted": false
   },
   "greenhouse:convera:4389771101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Business Development Manager - Singapore",
     "company": "convera",
     "ats": "greenhouse",
@@ -235032,7 +235032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8048991": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Head of Workplace Strategy and Services",
     "company": "waymo",
     "ats": "greenhouse",
@@ -236568,7 +236568,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042585": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Service Capacity and Automation Program Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -237064,7 +237064,7 @@
     "alerted": false
   },
   "greenhouse:convera:4898366101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Care Associate (Italian speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -237424,7 +237424,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899881101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "European Tax Manager (Direct Tax)",
     "company": "convera",
     "ats": "greenhouse",
@@ -237696,7 +237696,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8038560": {
-    "updated_at": "2026-08-06T10:33:04-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategy & Ops Manager, Marketplace & Demand Ops Enablement",
     "company": "waymo",
     "ats": "greenhouse",
@@ -237776,7 +237776,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042093": {
-    "updated_at": "2026-08-12T17:26:53-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager, Road Rules Readiness & Enablement",
     "company": "waymo",
     "ats": "greenhouse",
@@ -237904,7 +237904,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8009982": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Recruiter (AI + ML)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -238272,7 +238272,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8047527": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Validation Manager (Platforms)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -238424,7 +238424,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8052746": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff Engineer, Agentic AI Engineering",
     "company": "waymo",
     "ats": "greenhouse",
@@ -238584,7 +238584,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042096": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Engagement Marketing Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -238704,7 +238704,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8053726": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Materials Program Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -238800,7 +238800,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8047454": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "System Safety Engineer - Onboard SW Safety",
     "company": "waymo",
     "ats": "greenhouse",
@@ -239368,7 +239368,7 @@
     "alerted": false
   },
   "greenhouse:convera:4922560101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Portfolio Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -239376,7 +239376,7 @@
     "alerted": false
   },
   "greenhouse:convera:4901295101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Sales Support Assistant",
     "company": "convera",
     "ats": "greenhouse",
@@ -239384,7 +239384,7 @@
     "alerted": false
   },
   "greenhouse:convera:4898361101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Support Specialist (German or French speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -239952,7 +239952,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8054688": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Silicon Product Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -240952,7 +240952,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8053284": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Operations Analyst, Demand Operations & Service Quality",
     "company": "waymo",
     "ats": "greenhouse",
@@ -242144,7 +242144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8054704": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Analyst - Deals Finance",
     "company": "waymo",
     "ats": "greenhouse",
@@ -242168,7 +242168,7 @@
     "alerted": true
   },
   "greenhouse:waymo:8053872": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Policy & Quality Specialist- ML Perception Data",
     "company": "waymo",
     "ats": "greenhouse",
@@ -242664,7 +242664,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042491": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Regulatory Counsel",
     "company": "waymo",
     "ats": "greenhouse",
@@ -242672,7 +242672,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8055975": {
-    "updated_at": "2026-08-10T15:57:51-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Manager, Safety Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -242800,7 +242800,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8056720": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -242824,7 +242824,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8052332": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategic Partner Manager, Commercialization",
     "company": "waymo",
     "ats": "greenhouse",
@@ -242920,7 +242920,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8055373": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Manager, Fleet Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -243144,7 +243144,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8002068": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Recruiter (Compute and AI Foundations)",
     "company": "waymo",
     "ats": "greenhouse",
@@ -243624,7 +243624,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042090": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "International Brand Media & Analytics Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-14T12:19:27-04:00",
+    "updated_at": "2026-08-14T13:19:32-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243712,7 +243712,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8044454": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Network Delivery Program Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -243760,7 +243760,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8044544": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Network Operations Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-14T12:19:35-04:00",
+    "updated_at": "2026-08-14T13:19:35-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244192,7 +244192,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8062544": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Program Manager, UK Regulatory",
     "company": "waymo",
     "ats": "greenhouse",
@@ -244352,7 +244352,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8036812": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Account Executive- Waymo for Business",
     "company": "waymo",
     "ats": "greenhouse",
@@ -244424,7 +244424,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8064716": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -244960,7 +244960,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042508": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Cybersecurity Counsel",
     "company": "waymo",
     "ats": "greenhouse",
@@ -245136,7 +245136,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042493": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Counsel - Commercial Legal",
     "company": "waymo",
     "ats": "greenhouse",
@@ -245384,7 +245384,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8052726": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Machine Learning Engineer, GPU Kernel and Runtime",
     "company": "waymo",
     "ats": "greenhouse",
@@ -245872,7 +245872,7 @@
     "alerted": false
   },
   "greenhouse:convera:4924913101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Support Associate (Fixed term)",
     "company": "convera",
     "ats": "greenhouse",
@@ -245944,7 +245944,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8012271": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Sr. Staff Software Engineer, DUE Experience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -246464,7 +246464,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8065639": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Regional Head of U.S. State and Local Policy, WEST",
     "company": "waymo",
     "ats": "greenhouse",
@@ -247136,7 +247136,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042485": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Legal Specialist - Litigation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -247176,7 +247176,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042495": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Commercial Counsel",
     "company": "waymo",
     "ats": "greenhouse",
@@ -247464,7 +247464,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8052324": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategic Partnerships Development Manager - International Charging as a Service",
     "company": "waymo",
     "ats": "greenhouse",
@@ -247472,7 +247472,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8052326": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategic Partnerships Development Manager - New Market Entry - International",
     "company": "waymo",
     "ats": "greenhouse",
@@ -247496,7 +247496,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8056369": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Systems Engineering Lead, New Product Initiatives",
     "company": "waymo",
     "ats": "greenhouse",
@@ -247632,7 +247632,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913778101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -249400,7 +249400,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8068768": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Aftermarket Planning & Procurement Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -249456,7 +249456,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8039229": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Partnerships Manager- Transit and Demand Integrations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -249464,7 +249464,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8036781": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Partnerships Development Manager- In car experience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -249600,7 +249600,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8049986": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior ML Compiler Engineer, Compute",
     "company": "waymo",
     "ats": "greenhouse",
@@ -250808,7 +250808,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8056411": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Silicon Validation Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -251816,7 +251816,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8044534": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "AI Enablement Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -251848,7 +251848,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8004261": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Sustainability and Environmental Manager, International",
     "company": "waymo",
     "ats": "greenhouse",
@@ -251904,7 +251904,7 @@
     "alerted": true
   },
   "greenhouse:waymo:8070184": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Program Manager, Expansion",
     "company": "waymo",
     "ats": "greenhouse",
@@ -252200,7 +252200,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913751101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Support Associate (Polish speaker)",
     "company": "convera",
     "ats": "greenhouse",
@@ -253008,7 +253008,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8067489": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer (TLM), Field Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -253248,7 +253248,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8048675": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "UK Operations Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -253264,7 +253264,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8073643": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Manager, Fleet Management Tools",
     "company": "waymo",
     "ats": "greenhouse",
@@ -253744,7 +253744,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8075690": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Director, Foundation Model Data Recipes",
     "company": "waymo",
     "ats": "greenhouse",
@@ -254136,7 +254136,7 @@
     "alerted": false
   },
   "greenhouse:convera:4931800101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Portfolio Manager, Business Clients (FX & Payments)",
     "company": "convera",
     "ats": "greenhouse",
@@ -255032,7 +255032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8070602": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, ICX Graphics",
     "company": "waymo",
     "ats": "greenhouse",
@@ -255712,7 +255712,7 @@
     "alerted": false
   },
   "greenhouse:convera:4926334101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Account Manager, Business Clients (FX & Payments) - United States Hybrid",
     "company": "convera",
     "ats": "greenhouse",
@@ -256328,7 +256328,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8056275": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Business System Analyst, ServiceNow Solution Architect",
     "company": "waymo",
     "ats": "greenhouse",
@@ -256456,7 +256456,7 @@
     "alerted": false
   },
   "greenhouse:convera:4899541101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Supervisor (Operations)",
     "company": "convera",
     "ats": "greenhouse",
@@ -256792,7 +256792,7 @@
     "alerted": false
   },
   "greenhouse:convera:4922724101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Payment Processor (Operations)",
     "company": "convera",
     "ats": "greenhouse",
@@ -256840,7 +256840,7 @@
     "alerted": false
   },
   "greenhouse:convera:4926988101": {
-    "updated_at": "2026-08-14T03:36:02-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Payment Processing Assistant",
     "company": "convera",
     "ats": "greenhouse",
@@ -257088,7 +257088,7 @@
     "alerted": false
   },
   "greenhouse:convera:4798646101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Business Development Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -257208,7 +257208,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8052114": {
-    "updated_at": "2026-08-12T15:59:08-04:00",
+    "updated_at": "2026-08-14T12:45:22-04:00",
     "title": "Enterprise Customer Success Manager - Chicago",
     "company": "datadog",
     "ats": "greenhouse",
@@ -257216,7 +257216,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8065697": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Market Security Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -257976,7 +257976,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8068677": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Lead, System Disruption Management",
     "company": "waymo",
     "ats": "greenhouse",
@@ -258024,7 +258024,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8049816": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Escalation Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -258072,7 +258072,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8077474": {
-    "updated_at": "2026-08-12T15:59:08-04:00",
+    "updated_at": "2026-08-14T12:45:13-04:00",
     "title": "Enterprise Customer Success Manager - East",
     "company": "datadog",
     "ats": "greenhouse",
@@ -258136,7 +258136,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7947243": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Software Engineer, Fleet Response Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -258408,7 +258408,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8077479": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Manager, Product Data Science - Operations & Intelligence",
     "company": "waymo",
     "ats": "greenhouse",
@@ -258776,7 +258776,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8080909": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Machine Learning Engineer - Vision-Language Foundation Models",
     "company": "waymo",
     "ats": "greenhouse",
@@ -260112,7 +260112,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8081719": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Machine Learning Engineer, Driving Behaviors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261552,7 +261552,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8074506": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Digital Media Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261592,7 +261592,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8081997": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Supply Operations Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261600,7 +261600,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8077778": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Regional Fleet Readiness Manager - EAST",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261736,7 +261736,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8078276": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Full Vehicle Platform Architect",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261744,7 +261744,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8080824": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Occupant Package and Human Factors Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261784,7 +261784,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8083286": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Corporate Accountant - Assets & Inventory Operations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -261896,7 +261896,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8082652": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Component Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -262672,7 +262672,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8082480": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Product Data Scientist, Planning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -262744,7 +262744,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8078241": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Product Data Scientist, Experimentation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -262752,7 +262752,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8078061": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Business Intelligence Analyst, Resilience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -262936,7 +262936,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7901943": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Sr. Staff TLM, Fleet Orchestration Core",
     "company": "waymo",
     "ats": "greenhouse",
@@ -263872,7 +263872,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042499": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Counsel, Employment, UK",
     "company": "waymo",
     "ats": "greenhouse",
@@ -264296,7 +264296,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8087812": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Product Development Mechanical Engineer, Sensors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -264688,7 +264688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8089198": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Vehicle Package and Integration Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -264952,7 +264952,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8085209": {
-    "updated_at": "2026-08-13T13:47:09-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Product Manager, Driving Performance Expansion",
     "company": "waymo",
     "ats": "greenhouse",
@@ -264960,7 +264960,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8084419": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "People Operations Program Manager \u2013 People Systems & Process Design",
     "company": "waymo",
     "ats": "greenhouse",
@@ -266232,7 +266232,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8076964": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Safety Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -266832,7 +266832,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8049630": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Vehicle Systems Safety",
     "company": "waymo",
     "ats": "greenhouse",
@@ -267680,7 +267680,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7820049003": {
-    "updated_at": "2026-08-10T12:10:59-04:00",
+    "updated_at": "2026-08-14T12:35:49-04:00",
     "title": "Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -267688,7 +267688,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7820048003": {
-    "updated_at": "2026-08-10T12:10:57-04:00",
+    "updated_at": "2026-08-14T12:35:48-04:00",
     "title": "Client Account Lead - Strategy & Transformation (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -269224,7 +269224,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8094412": {
-    "updated_at": "2026-08-13T12:55:49-04:00",
+    "updated_at": "2026-08-14T13:12:44-04:00",
     "title": "Product Program Manager, Roadmap Planning & Program Management",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -269440,7 +269440,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5195862007": {
-    "updated_at": "2026-07-29T18:49:40-04:00",
+    "updated_at": "2026-08-14T13:03:34-04:00",
     "title": "Embedded Engineer - Streaming",
     "company": "verkada",
     "ats": "greenhouse",
@@ -269744,7 +269744,7 @@
     "alerted": false
   },
   "greenhouse:convera:4936640101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Associate Portfolio Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -270408,7 +270408,7 @@
     "alerted": false
   },
   "greenhouse:convera:4918453101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Compliance Analyst",
     "company": "convera",
     "ats": "greenhouse",
@@ -270904,7 +270904,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8075990": {
-    "updated_at": "2026-08-10T14:13:31-04:00",
+    "updated_at": "2026-08-14T12:31:05-04:00",
     "title": "Platform Operations Analyst",
     "company": "gusto",
     "ats": "greenhouse",
@@ -271184,7 +271184,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8075984": {
-    "updated_at": "2026-08-11T16:17:21-04:00",
+    "updated_at": "2026-08-14T12:31:41-04:00",
     "title": "Platform Operations Specialist",
     "company": "gusto",
     "ats": "greenhouse",
@@ -271288,7 +271288,7 @@
     "alerted": false
   },
   "greenhouse:convera:4936606101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Campaign Operations Program Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -271296,7 +271296,7 @@
     "alerted": false
   },
   "greenhouse:convera:4932901101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Channel Partner Manager - Referrals",
     "company": "convera",
     "ats": "greenhouse",
@@ -271344,7 +271344,7 @@
     "alerted": false
   },
   "greenhouse:convera:4942060101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Campaign Operations Program Manager",
     "company": "convera",
     "ats": "greenhouse",
@@ -271368,7 +271368,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7820050003": {
-    "updated_at": "2026-08-10T12:11:01-04:00",
+    "updated_at": "2026-08-14T12:35:51-04:00",
     "title": "Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -271840,7 +271840,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042571": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Operations Partner Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -272592,7 +272592,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817387003": {
-    "updated_at": "2026-08-10T11:44:01-04:00",
+    "updated_at": "2026-08-14T12:36:36-04:00",
     "title": "Senior Value Engineer - Scale Team",
     "company": "celonis",
     "ats": "greenhouse",
@@ -272968,7 +272968,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8097992": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Product Manager, Simulation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -272984,7 +272984,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7823005003": {
-    "updated_at": "2026-08-10T11:44:00-04:00",
+    "updated_at": "2026-08-14T12:36:35-04:00",
     "title": "Customer Success Program Manager - Scale Team",
     "company": "celonis",
     "ats": "greenhouse",
@@ -272992,7 +272992,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7823007003": {
-    "updated_at": "2026-08-10T11:43:59-04:00",
+    "updated_at": "2026-08-14T12:36:35-04:00",
     "title": "Customer Engagement Program Manager - Scale Team",
     "company": "celonis",
     "ats": "greenhouse",
@@ -273080,7 +273080,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8095684": {
-    "updated_at": "2026-08-11T15:53:23-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Research Scientist, AI Foundations Recipes",
     "company": "waymo",
     "ats": "greenhouse",
@@ -273152,7 +273152,7 @@
     "alerted": false
   },
   "greenhouse:convera:4941199101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Oracle FUSION Solution Architect",
     "company": "convera",
     "ats": "greenhouse",
@@ -273224,7 +273224,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8049319": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Accountant",
     "company": "waymo",
     "ats": "greenhouse",
@@ -273240,7 +273240,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8049315": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Accountant",
     "company": "waymo",
     "ats": "greenhouse",
@@ -273264,7 +273264,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8072156": {
-    "updated_at": "2026-08-12T00:13:21-04:00",
+    "updated_at": "2026-08-14T12:58:49-04:00",
     "title": "Sales Engineer, Cloud Product Specialist",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -273528,7 +273528,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8090186": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategic Partnerships Development Manager - Telco Partnerships",
     "company": "waymo",
     "ats": "greenhouse",
@@ -273536,7 +273536,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8052321": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategic Partner Development Manager, Payments Partnerships",
     "company": "waymo",
     "ats": "greenhouse",
@@ -274256,7 +274256,7 @@
     "alerted": false
   },
   "greenhouse:convera:4917644101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Accountant",
     "company": "convera",
     "ats": "greenhouse",
@@ -275416,7 +275416,7 @@
     "alerted": false
   },
   "greenhouse:convera:4942136101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Accounting Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -275656,7 +275656,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8070708": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Insurance Risk Management Analyst",
     "company": "waymo",
     "ats": "greenhouse",
@@ -275696,7 +275696,7 @@
     "alerted": false
   },
   "greenhouse:convera:4912009101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Customer Support Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -275864,7 +275864,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8075587": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Research Scientist, Foundation Models Recipes",
     "company": "waymo",
     "ats": "greenhouse",
@@ -276024,7 +276024,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8100282": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Strategy Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -276208,7 +276208,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7825970003": {
-    "updated_at": "2026-08-10T11:47:59-04:00",
+    "updated_at": "2026-08-14T12:36:22-04:00",
     "title": "Senior Value Engineer - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -276216,7 +276216,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7825969003": {
-    "updated_at": "2026-08-10T11:47:59-04:00",
+    "updated_at": "2026-08-14T12:36:21-04:00",
     "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -276224,7 +276224,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7825968003": {
-    "updated_at": "2026-08-10T11:47:58-04:00",
+    "updated_at": "2026-08-14T12:36:20-04:00",
     "title": "Senior Management & Technology Consultant  - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -276232,7 +276232,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817273003": {
-    "updated_at": "2026-08-10T11:47:57-04:00",
+    "updated_at": "2026-08-14T12:36:20-04:00",
     "title": "Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -276360,7 +276360,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7826212003": {
-    "updated_at": "2026-08-10T11:44:00-04:00",
+    "updated_at": "2026-08-14T12:36:35-04:00",
     "title": "Senior Digital Transformation & Process Optimisation Consultant (Senior Value Engineer) - Scale Team",
     "company": "celonis",
     "ats": "greenhouse",
@@ -277064,7 +277064,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8095404": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Operations Controller",
     "company": "waymo",
     "ats": "greenhouse",
@@ -277328,7 +277328,7 @@
     "alerted": false
   },
   "greenhouse:convera:4944777101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Account Manager, B2B (FX & Payments) - Canada Hybrid",
     "company": "convera",
     "ats": "greenhouse",
@@ -277368,7 +277368,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8068962": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Staff TL, Chassis",
     "company": "waymo",
     "ats": "greenhouse",
@@ -277376,7 +277376,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8101187": {
-    "updated_at": "2026-08-05T20:35:37-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Systems Engineer, Driving Behaviors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -277520,7 +277520,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8102997": {
-    "updated_at": "2026-08-11T19:50:35-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff SoC Design Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -279688,7 +279688,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8109523": {
-    "updated_at": "2026-08-07T20:58:15-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Technical Program Manager, Vehicle Security",
     "company": "waymo",
     "ats": "greenhouse",
@@ -280536,7 +280536,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8106385": {
-    "updated_at": "2026-08-12T13:49:24-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -280832,7 +280832,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8107088": {
-    "updated_at": "2026-08-05T22:56:15-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "ML Engineer, Foundation Model Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -281704,7 +281704,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042613": {
-    "updated_at": "2026-08-06T17:38:15-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "System Disruption Manager \u30a4\u30f3\u30b7\u30c7\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
     "company": "waymo",
     "ats": "greenhouse",
@@ -282560,7 +282560,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8110366": {
-    "updated_at": "2026-08-06T12:53:25-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Software Engineer, Collision Avoidance Testing",
     "company": "waymo",
     "ats": "greenhouse",
@@ -283016,7 +283016,7 @@
     "alerted": false
   },
   "greenhouse:convera:4944307101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Client Setup Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -283032,7 +283032,7 @@
     "alerted": false
   },
   "greenhouse:convera:4945499101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Accountant (Maternity cover)",
     "company": "convera",
     "ats": "greenhouse",
@@ -283088,7 +283088,7 @@
     "alerted": false
   },
   "greenhouse:convera:4942122101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Payment Processing Coordinator (Evening shift, Fixed term)",
     "company": "convera",
     "ats": "greenhouse",
@@ -283112,7 +283112,7 @@
     "alerted": false
   },
   "greenhouse:convera:4944038101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Payment Processing Assistant (Fixed term)",
     "company": "convera",
     "ats": "greenhouse",
@@ -283184,7 +283184,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8049256": {
-    "updated_at": "2026-08-07T09:04:38-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "International Creative Studio Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -283352,7 +283352,7 @@
     "alerted": false
   },
   "greenhouse:convera:4903924101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "FX Sales/Structuring Representative - North America (French Speaker Preferred)",
     "company": "convera",
     "ats": "greenhouse",
@@ -283504,7 +283504,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7798567003": {
-    "updated_at": "2026-08-14T07:59:05-04:00",
+    "updated_at": "2026-08-14T12:44:13-04:00",
     "title": "Senior Producer - Customer Testimonials",
     "company": "celonis",
     "ats": "greenhouse",
@@ -283952,7 +283952,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8113098": {
-    "updated_at": "2026-08-07T14:15:48-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Structured Testing Vendor Engineering Lead",
     "company": "waymo",
     "ats": "greenhouse",
@@ -284056,7 +284056,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8114364": {
-    "updated_at": "2026-08-09T03:02:51-04:00",
+    "updated_at": "2026-08-14T13:18:14-04:00",
     "title": "Manager, Insider Trust",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -284472,7 +284472,7 @@
     "alerted": true
   },
   "greenhouse:waymo:8113233": {
-    "updated_at": "2026-08-11T15:53:48-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff ML Engineer, Perception Research",
     "company": "waymo",
     "ats": "greenhouse",
@@ -284664,7 +284664,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8116209": {
-    "updated_at": "2026-08-08T23:01:29-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "ML ASIC Design Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -284760,7 +284760,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8679970002": {
-    "updated_at": "2026-08-11T14:54:43-04:00",
+    "updated_at": "2026-08-14T12:36:45-04:00",
     "title": "SAP Functional SME",
     "company": "databricks",
     "ats": "greenhouse",
@@ -284768,7 +284768,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8679980002": {
-    "updated_at": "2026-08-11T14:54:43-04:00",
+    "updated_at": "2026-08-14T12:36:23-04:00",
     "title": "Sr SAP Developer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -285168,7 +285168,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8109035": {
-    "updated_at": "2026-08-10T10:40:16-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "ML Engineer, Foundation Model Recipes",
     "company": "waymo",
     "ats": "greenhouse",
@@ -285480,7 +285480,7 @@
     "alerted": false
   },
   "greenhouse:sendbird:8689193002": {
-    "updated_at": "2026-08-10T17:58:03-04:00",
+    "updated_at": "2026-08-14T12:46:36-04:00",
     "title": "Sales Development Representative",
     "company": "sendbird",
     "ats": "greenhouse",
@@ -285872,7 +285872,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8110347": {
-    "updated_at": "2026-08-10T15:01:34-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Japan Vehicle Recovery, Safety, & Logistics \u65e5\u672c\u306e\u8eca\u4e21\u30ea\u30ab\u30d0\u30ea\u30fc\u3001\u5b89\u5168\u6027\u3001\u7269\u6d41.",
     "company": "waymo",
     "ats": "greenhouse",
@@ -285984,7 +285984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8116188": {
-    "updated_at": "2026-08-10T14:36:26-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Lead Noise, Vibration, and Harshness (NVH) Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -286032,7 +286032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8110214": {
-    "updated_at": "2026-08-10T14:21:07-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Vehicle Interior Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -286184,7 +286184,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7847485": {
-    "updated_at": "2026-08-13T12:32:48-04:00",
+    "updated_at": "2026-08-14T12:32:45-04:00",
     "title": "Senior Corporate Security Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -286872,7 +286872,7 @@
     "alerted": true
   },
   "greenhouse:convera:4933954101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Sales Support Coordinator",
     "company": "convera",
     "ats": "greenhouse",
@@ -286952,7 +286952,7 @@
     "alerted": false
   },
   "greenhouse:convera:4925931101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Sales Support Coordinator",
     "company": "convera",
     "ats": "greenhouse",
@@ -287136,7 +287136,7 @@
     "alerted": false
   },
   "greenhouse:convera:4940948101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Care Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -287424,7 +287424,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8108995": {
-    "updated_at": "2026-08-11T11:23:02-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Senior Seating and Restraints Architecture Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -287760,7 +287760,7 @@
     "alerted": false
   },
   "greenhouse:convera:4948193101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Total Rewards Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -287888,7 +287888,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8077628": {
-    "updated_at": "2026-08-11T13:20:43-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Security Technology Specialist",
     "company": "waymo",
     "ats": "greenhouse",
@@ -288648,7 +288648,7 @@
     "alerted": false
   },
   "greenhouse:convera:4944188101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Field Operations Director",
     "company": "convera",
     "ats": "greenhouse",
@@ -288656,7 +288656,7 @@
     "alerted": false
   },
   "greenhouse:convera:4951080101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Field Operations Director",
     "company": "convera",
     "ats": "greenhouse",
@@ -289744,7 +289744,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8121986": {
-    "updated_at": "2026-08-12T09:47:55-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Global Threat Intelligence Regional Lead - Europe",
     "company": "waymo",
     "ats": "greenhouse",
@@ -290344,7 +290344,7 @@
     "alerted": false
   },
   "greenhouse:convera:4951823101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Principal Revenue Operations Analyst, AI and Sales Productivity",
     "company": "convera",
     "ats": "greenhouse",
@@ -290360,7 +290360,7 @@
     "alerted": false
   },
   "greenhouse:convera:4944973101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Principal Revenue Operations Analyst, AI and Sales Productivity",
     "company": "convera",
     "ats": "greenhouse",
@@ -290624,7 +290624,7 @@
     "alerted": false
   },
   "greenhouse:convera:4942247101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Compliance Analyst",
     "company": "convera",
     "ats": "greenhouse",
@@ -290648,7 +290648,7 @@
     "alerted": false
   },
   "greenhouse:convera:4941739101": {
-    "updated_at": "2026-08-13T17:03:14-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Senior Manager, Marketing Operations",
     "company": "convera",
     "ats": "greenhouse",
@@ -291032,7 +291032,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8124243": {
-    "updated_at": "2026-08-12T18:54:47-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Staff Hardware Reliability Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -291424,7 +291424,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8007639": {
-    "updated_at": "2026-08-14T11:09:02-04:00",
+    "updated_at": "2026-08-14T13:05:32-04:00",
     "title": "Strategy & Transformation Advisor (Growth & Monetization specialization)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -292280,7 +292280,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8614977002": {
-    "updated_at": "2026-08-13T14:32:41-04:00",
+    "updated_at": "2026-08-14T13:10:18-04:00",
     "title": "Sr. Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -292584,16 +292584,16 @@
     "alerted": false
   },
   "greenhouse:samsara:8121329": {
-    "updated_at": "2026-08-14T09:12:56-04:00",
-    "title": "Enterprise Select Implementation Consultant - ET/CT Zone",
+    "updated_at": "2026-08-14T13:25:30-04:00",
+    "title": "Enterprise Select Implementation Consultant East/Central",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": false
   },
   "greenhouse:samsara:8121327": {
-    "updated_at": "2026-08-14T09:12:56-04:00",
-    "title": "Enterprise Select Implementation Consultant - PT/MT Zone",
+    "updated_at": "2026-08-14T13:25:13-04:00",
+    "title": "Enterprise Select Implementation Consultant West/Central",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -292976,7 +292976,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8127006": {
-    "updated_at": "2026-08-13T18:58:13-04:00",
+    "updated_at": "2026-08-14T12:42:55-04:00",
     "title": "Perception Machine Learning Engineer - Continuous Learning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -293392,7 +293392,7 @@
     "alerted": false
   },
   "greenhouse:convera:4949942101": {
-    "updated_at": "2026-08-14T04:16:11-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Junior Accountant",
     "company": "convera",
     "ats": "greenhouse",
@@ -293472,7 +293472,7 @@
     "alerted": false
   },
   "greenhouse:convera:4913755101": {
-    "updated_at": "2026-08-14T05:22:41-04:00",
+    "updated_at": "2026-08-14T12:58:37-04:00",
     "title": "Customer Support Associate",
     "company": "convera",
     "ats": "greenhouse",
@@ -293712,7 +293712,7 @@
     "alerted": true
   },
   "greenhouse:airbnb:8127647": {
-    "updated_at": "2026-08-14T10:40:07-04:00",
+    "updated_at": "2026-08-14T12:55:38-04:00",
     "title": "Vendor Performance Manager, APAC",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -293872,7 +293872,7 @@
     "alerted": false
   },
   "greenhouse:asana:8104491": {
-    "updated_at": "2026-08-14T12:22:13-04:00",
+    "updated_at": "2026-08-14T12:57:38-04:00",
     "title": "Head of Technical Revenue Accounting",
     "company": "asana",
     "ats": "greenhouse",
@@ -294269,6 +294269,134 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:formlabs:8130552": {
+    "updated_at": "2026-08-14T13:16:01-04:00",
+    "title": "Technical Program Manager",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8130537": {
+    "updated_at": "2026-08-14T13:15:26-04:00",
+    "title": "Senior Technical Program Manager",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:bitgo:8709045002": {
+    "updated_at": "2026-08-14T13:10:17-04:00",
+    "title": "Senior Full Stack Engineer - BitGo Labs",
+    "company": "bitgo",
+    "ats": "greenhouse",
+    "source_slug": "bitgo",
+    "alerted": false
+  },
+  "greenhouse:samsara:8121318": {
+    "updated_at": "2026-08-14T12:52:10-04:00",
+    "title": "Enterprise Core Implementation Consultant - East/Central",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:pagerduty:6141604004": {
+    "updated_at": "2026-08-14T12:51:52-04:00",
+    "title": "Product Marketing Launch Manager",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
+    "alerted": false
+  },
+  "greenhouse:spacex:8703151002": {
+    "updated_at": "2026-08-14T12:47:46-04:00",
+    "title": "Starlink Growth Lead, US Northeast",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8703146002": {
+    "updated_at": "2026-08-14T12:47:45-04:00",
+    "title": "Starlink Growth Lead, US Northeast",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:toast:8126201": {
+    "updated_at": "2026-08-14T12:43:52-04:00",
+    "title": "Customer Success Manager II, Payroll",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:stripe:8114153": {
+    "updated_at": "2026-08-14T12:42:12-04:00",
+    "title": "Account Executive, Product Sales (Data)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8715950002": {
+    "updated_at": "2026-08-14T12:40:47-04:00",
+    "title": "Sr. Environmental Health & Safety Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8703144002": {
+    "updated_at": "2026-08-14T12:36:17-04:00",
+    "title": "Test Specialist - Antenna Lab, Satellites (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8703623002": {
+    "updated_at": "2026-08-14T12:36:06-04:00",
+    "title": "Principal Electrical Engineer, Satellites (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:everlaw:4705279006": {
+    "updated_at": "2026-08-14T12:35:51-04:00",
+    "title": "Content Marketing Manager",
+    "company": "everlaw",
+    "ats": "greenhouse",
+    "source_slug": "everlaw",
+    "alerted": false
+  },
+  "greenhouse:spacex:8703636002": {
+    "updated_at": "2026-08-14T12:34:40-04:00",
+    "title": "Sr. Electrical Design Engineer, Satellites (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:celonis:7870782003": {
+    "updated_at": "2026-08-14T12:24:53-04:00",
+    "title": "Lead Talent Acquisition Partner",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:gusto:8099751": {
+    "updated_at": "2026-08-14T13:17:45-04:00",
+    "title": "Senior Data Engineer",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
     "alerted": true
   }
 }
