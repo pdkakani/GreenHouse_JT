@@ -10984,7 +10984,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5171950008": {
-    "updated_at": "2026-04-02T14:29:01-04:00",
+    "updated_at": "2026-08-14T18:11:43-04:00",
     "title": "Partner Sales Manager, Systems Integrators",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -66480,7 +66480,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7621277": {
-    "updated_at": "2026-08-14T09:12:43-04:00",
+    "updated_at": "2026-08-14T18:02:46-04:00",
     "title": "Sr. Support Product Manager, Tooling and Ops",
     "company": "samsara",
     "ats": "greenhouse",
@@ -66488,7 +66488,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7583834": {
-    "updated_at": "2026-08-14T09:12:43-04:00",
+    "updated_at": "2026-08-14T18:02:46-04:00",
     "title": "Sr. Support Product Manager, Tooling and Ops",
     "company": "samsara",
     "ats": "greenhouse",
@@ -220152,7 +220152,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8598732002": {
-    "updated_at": "2026-08-11T14:54:40-04:00",
+    "updated_at": "2026-08-14T18:01:16-04:00",
     "title": "Geo Hunter Account Executive",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-14T17:35:19-04:00",
+    "updated_at": "2026-08-14T18:04:43-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-14T17:35:22-04:00",
+    "updated_at": "2026-08-14T18:04:46-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246384,7 +246384,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8549248002": {
-    "updated_at": "2026-08-11T14:54:38-04:00",
+    "updated_at": "2026-08-14T18:01:11-04:00",
     "title": "Delivery Solutions Architect - Startups & Emerging Enterprise",
     "company": "databricks",
     "ats": "greenhouse",
@@ -250536,7 +250536,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8637101002": {
-    "updated_at": "2026-08-10T16:52:46-04:00",
+    "updated_at": "2026-08-14T17:48:09-04:00",
     "title": "Director, Pipeline Excellence",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -264952,7 +264952,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8085209": {
-    "updated_at": "2026-08-14T12:42:55-04:00",
+    "updated_at": "2026-08-14T18:11:17-04:00",
     "title": "Product Manager, Driving Performance Expansion",
     "company": "waymo",
     "ats": "greenhouse",
@@ -271008,7 +271008,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8642263002": {
-    "updated_at": "2026-08-11T14:54:42-04:00",
+    "updated_at": "2026-08-14T18:01:21-04:00",
     "title": "Manager, Delivery Solutions Architects - Emerging Enterprise",
     "company": "databricks",
     "ats": "greenhouse",
@@ -273680,7 +273680,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079702": {
-    "updated_at": "2026-08-14T09:12:54-04:00",
+    "updated_at": "2026-08-14T18:01:11-04:00",
     "title": "Supervisor, Sales and Contract Administration",
     "company": "samsara",
     "ats": "greenhouse",
@@ -284584,7 +284584,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8646573002": {
-    "updated_at": "2026-08-10T16:52:46-04:00",
+    "updated_at": "2026-08-14T17:49:04-04:00",
     "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -295096,7 +295096,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8131047": {
-    "updated_at": "2026-08-14T16:55:11-04:00",
+    "updated_at": "2026-08-14T18:13:23-04:00",
     "title": "Vendor Operations Senior Associate",
     "company": "instacart",
     "ats": "greenhouse",
@@ -295104,7 +295104,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8130849": {
-    "updated_at": "2026-08-14T16:55:10-04:00",
+    "updated_at": "2026-08-14T18:13:02-04:00",
     "title": "Vendor Operations Senior Associate",
     "company": "instacart",
     "ats": "greenhouse",
@@ -295149,6 +295149,54 @@
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5391155008": {
+    "updated_at": "2026-08-14T18:06:50-04:00",
+    "title": "Global Technology Partner Manager",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:reddit:8131228": {
+    "updated_at": "2026-08-14T18:01:25-04:00",
+    "title": "Staff Software Engineer , Observability",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:spacex:8716792002": {
+    "updated_at": "2026-08-14T17:56:55-04:00",
+    "title": "Tooling Inspector (Starship) - Level 4/5",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:flexe:4705586006": {
+    "updated_at": "2026-08-14T17:53:19-04:00",
+    "title": "Senior Manager, Demand Generation & Marketing Operations",
+    "company": "flexe",
+    "ats": "greenhouse",
+    "source_slug": "flexe",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391151008": {
+    "updated_at": "2026-08-14T18:07:17-04:00",
+    "title": "AI Operations Engineer, Partnerships",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5391191008": {
+    "updated_at": "2026-08-14T18:07:04-04:00",
+    "title": "Strategic Business Development Lead",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }
