@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-14T22:05:25-04:00",
+    "updated_at": "2026-08-14T22:49:47-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-14T22:05:27-04:00",
+    "updated_at": "2026-08-14T22:49:50-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -258344,8 +258344,8 @@
     "alerted": true
   },
   "greenhouse:anthropic:5367417008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Evals Infrastructure Tech Lead / Manager",
+    "updated_at": "2026-08-14T22:39:37-04:00",
+    "title": "Pre-training Distributed Systems Tech Lead / Manager",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -291312,8 +291312,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5197562008": {
-    "updated_at": "2026-08-13T13:11:03-04:00",
-    "title": "Finance & Strategy, Machines (Manager)",
+    "updated_at": "2026-08-14T22:45:15-04:00",
+    "title": "Finance & Strategy Manager, Machines",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -293480,7 +293480,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4705312006": {
-    "updated_at": "2026-08-14T07:55:51-04:00",
+    "updated_at": "2026-08-14T22:16:05-04:00",
     "title": "Account Executive",
     "company": "applovin",
     "ats": "greenhouse",
@@ -293496,7 +293496,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4705311006": {
-    "updated_at": "2026-08-14T07:49:10-04:00",
+    "updated_at": "2026-08-14T22:14:37-04:00",
     "title": "Business Development Associate",
     "company": "applovin",
     "ats": "greenhouse",
@@ -293664,7 +293664,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4705316006": {
-    "updated_at": "2026-08-14T08:14:06-04:00",
+    "updated_at": "2026-08-14T22:13:58-04:00",
     "title": "Agency Partnerships Associate",
     "company": "applovin",
     "ats": "greenhouse",
@@ -293680,7 +293680,7 @@
     "alerted": false
   },
   "greenhouse:applovin:4705313006": {
-    "updated_at": "2026-08-14T07:59:33-04:00",
+    "updated_at": "2026-08-14T22:17:37-04:00",
     "title": "Director of Business Development",
     "company": "applovin",
     "ats": "greenhouse",
