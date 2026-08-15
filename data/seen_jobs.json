@@ -22800,7 +22800,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5157847008": {
-    "updated_at": "2026-08-10T12:42:20-04:00",
+    "updated_at": "2026-08-15T16:10:18-04:00",
     "title": "Staff+ Software Engineer, Platform",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-15T15:49:34-04:00",
+    "updated_at": "2026-08-15T16:04:54-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-15T15:49:37-04:00",
+    "updated_at": "2026-08-15T16:04:57-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -295421,6 +295421,14 @@
     "company": "expel",
     "ats": "greenhouse",
     "source_slug": "expel",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5392335008": {
+    "updated_at": "2026-08-15T16:10:51-04:00",
+    "title": "Staff+ Software Engineer, Platform Ecosystem",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }
