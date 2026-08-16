@@ -239512,7 +239512,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8625551002": {
-    "updated_at": "2026-07-24T17:18:17-04:00",
+    "updated_at": "2026-08-16T12:25:23-04:00",
     "title": "Food Services Specialist - Stocking",
     "company": "spacex",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-16T12:18:36-04:00",
+    "updated_at": "2026-08-16T12:34:19-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-16T12:18:39-04:00",
+    "updated_at": "2026-08-16T12:34:22-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -295445,6 +295445,22 @@
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8615268002": {
+    "updated_at": "2026-08-16T09:04:52-04:00",
+    "title": "Staff Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5390155008": {
+    "updated_at": "2026-08-15T17:34:03-04:00",
+    "title": "Customer Marketing Manager, Industries",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": false
   }
 }
