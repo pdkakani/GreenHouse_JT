@@ -187376,7 +187376,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7978788": {
-    "updated_at": "2026-08-16T16:13:31-04:00",
+    "updated_at": "2026-08-16T16:13:37-04:00",
     "title": "Solutions Engineer, Central & Eastern Europe - Hebrew Speaking",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -199152,7 +199152,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7770073003": {
-    "updated_at": "2026-08-14T12:36:07-04:00",
+    "updated_at": "2026-08-16T16:34:31-04:00",
     "title": "Lead/Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -199160,7 +199160,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7770069003": {
-    "updated_at": "2026-08-14T12:36:07-04:00",
+    "updated_at": "2026-08-16T16:34:31-04:00",
     "title": "Lead/Principal Management & Technology Consultant  - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -199168,7 +199168,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7765927003": {
-    "updated_at": "2026-08-14T12:36:06-04:00",
+    "updated_at": "2026-08-16T16:34:30-04:00",
     "title": "Lead/Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -203744,7 +203744,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773834003": {
-    "updated_at": "2026-08-14T12:36:08-04:00",
+    "updated_at": "2026-08-16T16:34:32-04:00",
     "title": "Lead/Principal Value Engineer - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -208608,7 +208608,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773301003": {
-    "updated_at": "2026-08-14T12:35:48-04:00",
+    "updated_at": "2026-08-16T16:38:18-04:00",
     "title": "Client Account Lead - Strategy & Transformation (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -208616,7 +208616,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7777097003": {
-    "updated_at": "2026-08-14T12:35:48-04:00",
+    "updated_at": "2026-08-16T16:38:19-04:00",
     "title": "Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -208624,7 +208624,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7777096003": {
-    "updated_at": "2026-08-14T12:35:50-04:00",
+    "updated_at": "2026-08-16T16:38:21-04:00",
     "title": "Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-16T16:04:07-04:00",
+    "updated_at": "2026-08-16T16:33:54-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-16T16:04:11-04:00",
+    "updated_at": "2026-08-16T16:33:57-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -267680,7 +267680,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7820049003": {
-    "updated_at": "2026-08-14T12:35:49-04:00",
+    "updated_at": "2026-08-16T16:38:20-04:00",
     "title": "Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -267688,7 +267688,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7820048003": {
-    "updated_at": "2026-08-14T12:35:48-04:00",
+    "updated_at": "2026-08-16T16:38:19-04:00",
     "title": "Client Account Lead - Strategy & Transformation (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -271368,7 +271368,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7820050003": {
-    "updated_at": "2026-08-14T12:35:51-04:00",
+    "updated_at": "2026-08-16T16:38:22-04:00",
     "title": "Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -295477,6 +295477,14 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7820541003": {
+    "updated_at": "2026-08-16T13:11:14-04:00",
+    "title": "Senior Software Development Engineer",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
     "alerted": false
   }
 }
