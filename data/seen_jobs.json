@@ -9352,8 +9352,8 @@
     "alerted": true
   },
   "greenhouse:mercury:5847987004": {
-    "updated_at": "2026-08-17T13:11:09-04:00",
-    "title": "Senior Software Engineer - Fraud",
+    "updated_at": "2026-08-17T19:55:45-04:00",
+    "title": "Staff Software Engineer - Fraud",
     "company": "mercury",
     "ats": "greenhouse",
     "source_slug": "mercury",
@@ -102336,7 +102336,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5082455008": {
-    "updated_at": "2026-07-17T14:37:43-04:00",
+    "updated_at": "2026-08-17T19:52:20-04:00",
     "title": "Customer Success Manager, Strategics",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -161112,7 +161112,7 @@
     "alerted": false
   },
   "greenhouse:chime:8535340002": {
-    "updated_at": "2026-07-01T02:34:27-04:00",
+    "updated_at": "2026-08-17T19:49:15-04:00",
     "title": "Engineering Manager, Spending, Savings, & Investing",
     "company": "chime",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T19:33:36-04:00",
+    "updated_at": "2026-08-17T19:49:17-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T19:33:39-04:00",
+    "updated_at": "2026-08-17T19:49:20-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259584,7 +259584,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8081633": {
-    "updated_at": "2026-08-17T19:31:26-04:00",
+    "updated_at": "2026-08-17T19:46:25-04:00",
     "title": "Senior Sales Manager, Ripple Treasury (Account Executive)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -259600,7 +259600,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8051996": {
-    "updated_at": "2026-08-17T19:31:26-04:00",
+    "updated_at": "2026-08-17T19:46:25-04:00",
     "title": "Account Executive, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -271200,7 +271200,7 @@
     "alerted": false
   },
   "greenhouse:chime:8609159002": {
-    "updated_at": "2026-08-06T16:46:46-04:00",
+    "updated_at": "2026-08-17T19:52:02-04:00",
     "title": "Engineering Manager, Deals and Offers",
     "company": "chime",
     "ats": "greenhouse",
@@ -274512,7 +274512,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8644006002": {
-    "updated_at": "2026-08-11T14:54:42-04:00",
+    "updated_at": "2026-08-17T19:57:57-04:00",
     "title": "Lead GTM Enablement & Scale Architect, Field Engineering - Customer Skills",
     "company": "databricks",
     "ats": "greenhouse",
@@ -277360,7 +277360,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8106246": {
-    "updated_at": "2026-08-04T20:42:49-04:00",
+    "updated_at": "2026-08-17T19:45:35-04:00",
     "title": "Senior Software Engineer - Messaging",
     "company": "reddit",
     "ats": "greenhouse",
@@ -292976,7 +292976,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8127006": {
-    "updated_at": "2026-08-17T19:00:15-04:00",
+    "updated_at": "2026-08-17T19:50:33-04:00",
     "title": "Perception Machine Learning Engineer - Continuous Learning",
     "company": "waymo",
     "ats": "greenhouse",
