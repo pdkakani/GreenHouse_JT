@@ -67120,8 +67120,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8400588002": {
-    "updated_at": "2026-07-23T09:04:47-04:00",
-    "title": "Product Marketing Manager, Duolingo Math",
+    "updated_at": "2026-08-17T11:45:42-04:00",
+    "title": "Product Marketing Manager, Math",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -87040,7 +87040,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8501179002": {
-    "updated_at": "2026-07-24T17:17:58-04:00",
+    "updated_at": "2026-08-17T11:46:57-04:00",
     "title": "Starlink Enterprise Account Manager (Channel Partners)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -117472,8 +117472,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8400553002": {
-    "updated_at": "2026-07-23T09:04:47-04:00",
-    "title": "Product Marketing Manager, Duolingo Math",
+    "updated_at": "2026-08-17T11:45:49-04:00",
+    "title": "Product Marketing Manager, Math",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -155152,7 +155152,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7905695": {
-    "updated_at": "2026-07-22T14:30:08-04:00",
+    "updated_at": "2026-08-17T11:46:13-04:00",
     "title": "Software Engineer, Booking",
     "company": "waymo",
     "ats": "greenhouse",
@@ -187600,7 +187600,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8556371002": {
-    "updated_at": "2026-08-11T14:54:39-04:00",
+    "updated_at": "2026-08-17T11:46:39-04:00",
     "title": "Senior Forward Deployed Engineer - Full stack",
     "company": "databricks",
     "ats": "greenhouse",
@@ -212008,8 +212008,8 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7774637003": {
-    "updated_at": "2026-08-06T02:53:00-04:00",
-    "title": "Software Engineer II - Entity Intelligence",
+    "updated_at": "2026-08-17T11:42:51-04:00",
+    "title": "Software Engineer II - ADEX",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
     "source_slug": "abnormalsecurity",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T11:19:19-04:00",
+    "updated_at": "2026-08-17T11:49:05-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T11:19:22-04:00",
+    "updated_at": "2026-08-17T11:49:08-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -264904,7 +264904,7 @@
     "alerted": false
   },
   "greenhouse:okta:8088636": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-08-17T11:44:31-04:00",
     "title": "Sr. Manager, GTM FP&A",
     "company": "okta",
     "ats": "greenhouse",
@@ -274264,8 +274264,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8657746002": {
-    "updated_at": "2026-08-11T14:54:43-04:00",
-    "title": "Sr. Solutions Architect (Pre-sales) - Utilities/Energy",
+    "updated_at": "2026-08-17T11:42:59-04:00",
+    "title": "Solutions Architect (Pre-sales) - Utilities/Energy",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -290608,7 +290608,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7806010003": {
-    "updated_at": "2026-08-12T16:33:49-04:00",
+    "updated_at": "2026-08-17T11:32:35-04:00",
     "title": "Senior GTM Partner Systems Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -293216,7 +293216,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4723663005": {
-    "updated_at": "2026-08-13T21:48:17-04:00",
+    "updated_at": "2026-08-17T11:45:00-04:00",
     "title": "Senior Data Scientist, Growth",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -293224,7 +293224,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4723427005": {
-    "updated_at": "2026-08-13T21:48:02-04:00",
+    "updated_at": "2026-08-17T11:44:35-04:00",
     "title": "Senior Data Scientist, Growth",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -295624,7 +295624,7 @@
     "alerted": true
   },
   "greenhouse:toast:8131117": {
-    "updated_at": "2026-08-16T23:54:54-04:00",
+    "updated_at": "2026-08-17T11:33:14-04:00",
     "title": "Staff Software Engineer, Voice AI Platform",
     "company": "toast",
     "ats": "greenhouse",
@@ -296366,5 +296366,45 @@
     "ats": "greenhouse",
     "source_slug": "klaviyo",
     "alerted": true
+  },
+  "greenhouse:anthropic:5391297008": {
+    "updated_at": "2026-08-17T11:46:01-04:00",
+    "title": "Enterprise Account Executive, Financial Services",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8721103002": {
+    "updated_at": "2026-08-17T11:44:27-04:00",
+    "title": "Design Criteria Engineer (Falcon & Dragon)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8127859": {
+    "updated_at": "2026-08-17T11:41:45-04:00",
+    "title": "Senior Consulting Engineer",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:spacex:8721074002": {
+    "updated_at": "2026-08-17T11:27:54-04:00",
+    "title": "Sr. Partnerships Manager (Starlink Business Aviation)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4705803006": {
+    "updated_at": "2026-08-17T11:16:26-04:00",
+    "title": "Account Manager - Engaged - New York",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
   }
 }
