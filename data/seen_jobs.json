@@ -90240,7 +90240,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7897431002": {
-    "updated_at": "2026-05-24T11:45:55-04:00",
+    "updated_at": "2026-08-16T23:03:10-04:00",
     "title": "Senior Software Engineer - Data + AI Observability",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-16T22:04:43-04:00",
+    "updated_at": "2026-08-16T23:20:20-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-16T22:04:46-04:00",
+    "updated_at": "2026-08-16T23:20:24-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-16T22:02:24-04:00",
+    "updated_at": "2026-08-16T22:47:31-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -280728,7 +280728,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8686805002": {
-    "updated_at": "2026-08-05T20:37:15-04:00",
+    "updated_at": "2026-08-16T23:07:15-04:00",
     "title": "Sourcing Specialist, Natural Gas",
     "company": "spacex",
     "ats": "greenhouse",
@@ -280736,7 +280736,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8686804002": {
-    "updated_at": "2026-08-05T20:37:14-04:00",
+    "updated_at": "2026-08-16T23:07:15-04:00",
     "title": "Sourcing Specialist, LNG Capital",
     "company": "spacex",
     "ats": "greenhouse",
@@ -282864,7 +282864,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8110442": {
-    "updated_at": "2026-08-07T01:01:20-04:00",
+    "updated_at": "2026-08-16T23:05:12-04:00",
     "title": "Territory Account Executive (Based in Melbourne)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -295517,6 +295517,110 @@
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
+    "alerted": true
+  },
+  "greenhouse:spacex:8706249002": {
+    "updated_at": "2026-08-16T22:41:32-04:00",
+    "title": "Supply Chain Planner (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8706220002": {
+    "updated_at": "2026-08-16T22:40:38-04:00",
+    "title": "Sr. Sourcing Specialist (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8703131002": {
+    "updated_at": "2026-08-16T22:40:12-04:00",
+    "title": "Sourcing Manager (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:ripple:8030786": {
+    "updated_at": "2026-08-16T22:39:30-04:00",
+    "title": "Staff Software Engineer, Data Engineering",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:spacex:8692371002": {
+    "updated_at": "2026-08-16T22:39:24-04:00",
+    "title": "Mechanical Engineer, Mechanisms (Crew Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8716953002": {
+    "updated_at": "2026-08-16T22:38:12-04:00",
+    "title": "Mechanical Engineer, Cabin Structures (Crew Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8702837002": {
+    "updated_at": "2026-08-16T22:37:45-04:00",
+    "title": "Global Supply Manager (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8702782002": {
+    "updated_at": "2026-08-16T22:37:20-04:00",
+    "title": "Fulfillment Buyer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:ripple:7872447": {
+    "updated_at": "2026-08-16T22:34:34-04:00",
+    "title": "Senior Software Engineer, Data Engineering",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8129566": {
+    "updated_at": "2026-08-16T21:48:16-04:00",
+    "title": "Senior Territory Account Executive, South China",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8127210": {
+    "updated_at": "2026-08-16T21:29:27-04:00",
+    "title": "Senior Customer Experience Manager",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:spacex:8720190002": {
+    "updated_at": "2026-08-16T23:11:17-04:00",
+    "title": "Sourcing Specialist, Natural Gas",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8720189002": {
+    "updated_at": "2026-08-16T23:10:24-04:00",
+    "title": "Sourcing Specialist, LNG Capital",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
