@@ -22160,7 +22160,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8488399002": {
-    "updated_at": "2026-08-11T14:54:37-04:00",
+    "updated_at": "2026-08-17T08:35:31-04:00",
     "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
     "company": "databricks",
     "ats": "greenhouse",
@@ -23312,7 +23312,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8025494002": {
-    "updated_at": "2026-08-11T14:54:32-04:00",
+    "updated_at": "2026-08-17T09:00:57-04:00",
     "title": "Senior Solutions Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -87792,7 +87792,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8465963002": {
-    "updated_at": "2026-08-11T14:54:37-04:00",
+    "updated_at": "2026-08-17T09:01:01-04:00",
     "title": "Delivery Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -89120,8 +89120,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8367942002": {
-    "updated_at": "2026-08-11T14:54:35-04:00",
-    "title": "Senior Forward Deployed Engineer - Solutions Architect",
+    "updated_at": "2026-08-17T08:32:08-04:00",
+    "title": "Senior Forward Deployed Engineer - Senior Architect",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -188504,7 +188504,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7982715": {
-    "updated_at": "2026-06-08T12:19:47-04:00",
+    "updated_at": "2026-08-17T08:48:20-04:00",
     "title": "Community Engagement Lead, Spain and Portugal",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -233152,7 +233152,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8622164002": {
-    "updated_at": "2026-08-11T14:54:41-04:00",
+    "updated_at": "2026-08-17T09:01:10-04:00",
     "title": "Specialist Solutions Architect (Security)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -237464,8 +237464,8 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787893003": {
-    "updated_at": "2026-07-16T11:58:52-04:00",
-    "title": "Enterprise Sales Director, EMEA",
+    "updated_at": "2026-08-17T09:08:37-04:00",
+    "title": "Enterprise Account Executive",
     "company": "fivetran",
     "ats": "greenhouse",
     "source_slug": "fivetran",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T08:18:50-04:00",
+    "updated_at": "2026-08-17T09:19:19-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T08:18:53-04:00",
+    "updated_at": "2026-08-17T09:19:23-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -252984,7 +252984,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8069527": {
-    "updated_at": "2026-08-10T17:24:11-04:00",
+    "updated_at": "2026-08-17T08:32:14-04:00",
     "title": "VP, Sales Engineering, EMEA",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -263792,7 +263792,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8077495": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
+    "updated_at": "2026-08-17T08:52:14-04:00",
     "title": "Senior Manager, Sales Plays & Offerings",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-17T07:32:36-04:00",
+    "updated_at": "2026-08-17T09:17:22-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -286616,7 +286616,7 @@
     "alerted": false
   },
   "greenhouse:upstart:8120597": {
-    "updated_at": "2026-08-10T19:24:09-04:00",
+    "updated_at": "2026-08-17T09:08:56-04:00",
     "title": "Customer Experience Specialist, Home Lending",
     "company": "upstart",
     "ats": "greenhouse",
@@ -295976,7 +295976,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8129890": {
-    "updated_at": "2026-08-17T07:38:30-04:00",
+    "updated_at": "2026-08-17T08:47:06-04:00",
     "title": "Senior Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -295989,6 +295989,62 @@
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:workato:8658905002": {
+    "updated_at": "2026-08-17T09:10:15-04:00",
+    "title": "Alliances Manager",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8121324": {
+    "updated_at": "2026-08-17T09:03:05-04:00",
+    "title": "Coordinator, Shared Services",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:celonis:7886038003": {
+    "updated_at": "2026-08-17T09:02:29-04:00",
+    "title": "Senior Value Engineer - Technology Consultant",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391301008": {
+    "updated_at": "2026-08-17T08:43:07-04:00",
+    "title": "Enterprise Account Executive, Industries",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:celonis:7885744003": {
+    "updated_at": "2026-08-17T08:29:00-04:00",
+    "title": "Werktudent/in mit Schwerpunkt Gesellschaftsrecht",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8132114": {
+    "updated_at": "2026-08-17T08:18:35-04:00",
+    "title": "Senior Application Security Engineer",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:flexport:8017046": {
+    "updated_at": "2026-08-17T08:08:20-04:00",
+    "title": "Account Manager",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
     "alerted": false
   }
 }
