@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T00:48:51-04:00",
+    "updated_at": "2026-08-17T01:18:50-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T00:48:54-04:00",
+    "updated_at": "2026-08-17T01:18:53-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-16T22:47:31-04:00",
+    "updated_at": "2026-08-17T01:17:08-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -289520,7 +289520,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8113537": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
+    "updated_at": "2026-08-17T01:08:29-04:00",
     "title": "Associate TSE II",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -289568,7 +289568,7 @@
     "alerted": false
   },
   "greenhouse:okta:7471202": {
-    "updated_at": "2026-08-12T09:18:06-04:00",
+    "updated_at": "2026-08-17T01:26:49-04:00",
     "title": "Staff Full-Stack Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -295000,7 +295000,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4724225005": {
-    "updated_at": "2026-08-14T16:36:23-04:00",
+    "updated_at": "2026-08-17T01:25:55-04:00",
     "title": "Content Marketing Manager, Japan",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -295630,5 +295630,21 @@
     "ats": "greenhouse",
     "source_slug": "toast",
     "alerted": true
+  },
+  "greenhouse:purestorage:8118751": {
+    "updated_at": "2026-08-17T00:38:58-04:00",
+    "title": "Territory Account Executive - California",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:braze:8127694": {
+    "updated_at": "2026-08-16T23:03:43-04:00",
+    "title": "Senior Deal Execution Analyst",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
   }
 }
