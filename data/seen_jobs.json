@@ -11400,7 +11400,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5134895008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
+    "updated_at": "2026-08-17T12:39:49-04:00",
     "title": "Senior Staff Software Engineer, API",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -34816,7 +34816,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7731751": {
-    "updated_at": "2026-07-15T16:21:21-04:00",
+    "updated_at": "2026-08-17T12:43:28-04:00",
     "title": "Senior Manager, Safety AI",
     "company": "samsara",
     "ats": "greenhouse",
@@ -90848,8 +90848,8 @@
     "alerted": false
   },
   "greenhouse:elastic:7802531": {
-    "updated_at": "2026-08-10T22:52:22-04:00",
-    "title": "FedCiv Account Executive - Dept of Treasury",
+    "updated_at": "2026-08-17T12:33:36-04:00",
+    "title": "Federal Account Executive  - Dept of Treasury",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -177872,7 +177872,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7964461": {
-    "updated_at": "2026-08-14T15:40:39-04:00",
+    "updated_at": "2026-08-17T12:30:15-04:00",
     "title": "Senior Software Engineer, Ads Creative Effectiveness",
     "company": "reddit",
     "ats": "greenhouse",
@@ -202672,7 +202672,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8589349002": {
-    "updated_at": "2026-08-11T14:54:40-04:00",
+    "updated_at": "2026-08-17T12:37:21-04:00",
     "title": "Enterprise Account Executive, Benelux",
     "company": "databricks",
     "ats": "greenhouse",
@@ -212976,7 +212976,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4649210005": {
-    "updated_at": "2026-07-28T18:47:04-04:00",
+    "updated_at": "2026-08-17T12:45:41-04:00",
     "title": "Senior Manager, Information Security Architecture & Engineering (R13753)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -228136,7 +228136,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790795003": {
-    "updated_at": "2026-07-28T18:31:28-04:00",
+    "updated_at": "2026-08-17T12:23:36-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -236888,7 +236888,7 @@
     "alerted": false
   },
   "greenhouse:toast:8039434": {
-    "updated_at": "2026-07-28T18:28:49-04:00",
+    "updated_at": "2026-08-17T12:52:25-04:00",
     "title": "Software Engineer, Orders API",
     "company": "toast",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T12:05:18-04:00",
+    "updated_at": "2026-08-17T12:49:44-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T12:05:21-04:00",
+    "updated_at": "2026-08-17T12:49:48-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -261728,7 +261728,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4699742006": {
-    "updated_at": "2026-08-13T13:15:06-04:00",
+    "updated_at": "2026-08-17T12:20:23-04:00",
     "title": "Senior Supply Chain Analytics Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -270576,8 +270576,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8658615002": {
-    "updated_at": "2026-08-13T14:50:11-04:00",
-    "title": "Talent Attraction Partner",
+    "updated_at": "2026-08-17T12:19:50-04:00",
+    "title": "Technical Sourcer",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -285224,7 +285224,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8104427": {
-    "updated_at": "2026-08-17T10:41:53-04:00",
+    "updated_at": "2026-08-17T12:46:54-04:00",
     "title": "Partner Development Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -285400,7 +285400,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8109295": {
-    "updated_at": "2026-08-17T12:18:11-04:00",
+    "updated_at": "2026-08-17T12:20:44-04:00",
     "title": "Senior Consulting Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -285488,7 +285488,7 @@
     "alerted": false
   },
   "greenhouse:imply:7532582003": {
-    "updated_at": "2026-08-10T12:53:34-04:00",
+    "updated_at": "2026-08-17T12:44:32-04:00",
     "title": "Senior Software Engineer (Remote)",
     "company": "imply",
     "ats": "greenhouse",
@@ -287192,7 +287192,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:8121444": {
-    "updated_at": "2026-08-12T01:10:41-04:00",
+    "updated_at": "2026-08-17T12:35:29-04:00",
     "title": "Senior AI ML Operations Engineer",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -292024,7 +292024,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5211024007": {
-    "updated_at": "2026-08-13T12:52:52-04:00",
+    "updated_at": "2026-08-17T12:39:07-04:00",
     "title": "Associate Recruiter",
     "company": "verkada",
     "ats": "greenhouse",
@@ -292360,8 +292360,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8707700002": {
-    "updated_at": "2026-08-13T14:50:13-04:00",
-    "title": "Talent Attraction Partner",
+    "updated_at": "2026-08-17T12:19:53-04:00",
+    "title": "Technical Sourcer",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -296461,6 +296461,46 @@
     "company": "expel",
     "ats": "greenhouse",
     "source_slug": "expel",
+    "alerted": true
+  },
+  "greenhouse:fastly:8119283": {
+    "updated_at": "2026-08-17T12:22:53-04:00",
+    "title": "Order Management Manager",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7818274003": {
+    "updated_at": "2026-08-17T12:19:10-04:00",
+    "title": "Customer Solutions Engineer II",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:stripe:8118929": {
+    "updated_at": "2026-08-17T11:59:47-04:00",
+    "title": "Full Stack Engineer, Enterprise & Ecosystem",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8721106002": {
+    "updated_at": "2026-08-17T12:46:30-04:00",
+    "title": "Sr. Manager, Power Plant (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:instacart:8132846": {
+    "updated_at": "2026-08-17T12:40:40-04:00",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
     "alerted": true
   }
 }
