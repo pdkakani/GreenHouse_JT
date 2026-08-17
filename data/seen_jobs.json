@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-16T20:48:41-04:00",
+    "updated_at": "2026-08-16T22:04:43-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-16T20:48:44-04:00",
+    "updated_at": "2026-08-16T22:04:46-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246776,7 +246776,7 @@
     "alerted": false
   },
   "greenhouse:huntress:7796340003": {
-    "updated_at": "2026-08-04T11:50:32-04:00",
+    "updated_at": "2026-08-16T21:09:02-04:00",
     "title": "Product Support Specialist",
     "company": "huntress",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-16T20:32:21-04:00",
+    "updated_at": "2026-08-16T22:02:24-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -295486,5 +295486,37 @@
     "ats": "greenhouse",
     "source_slug": "godaddy",
     "alerted": false
+  },
+  "greenhouse:gitlab:8595154002": {
+    "updated_at": "2026-08-16T20:40:00-04:00",
+    "title": "Commercial Account Executive - Japan",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:waymo:8131788": {
+    "updated_at": "2026-08-16T15:25:50-04:00",
+    "title": "Software Engineer, Compute Systems",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:jumio:4722695005": {
+    "updated_at": "2026-08-16T13:26:01-04:00",
+    "title": "SDE II - QA, (Fixed term Contract)",
+    "company": "jumio",
+    "ats": "greenhouse",
+    "source_slug": "jumio",
+    "alerted": false
+  },
+  "greenhouse:samsara:8074536": {
+    "updated_at": "2026-08-16T22:11:13-04:00",
+    "title": "Staff Firmware Engineer",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": true
   }
 }
