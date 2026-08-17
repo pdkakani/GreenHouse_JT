@@ -136568,8 +136568,8 @@
     "alerted": false
   },
   "greenhouse:gusto:7357545": {
-    "updated_at": "2026-05-29T17:29:50-04:00",
-    "title": "Senior Manager, Growth Data Science",
+    "updated_at": "2026-08-17T11:16:53-04:00",
+    "title": "Growth Data Science Leader",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -234176,7 +234176,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8623018002": {
-    "updated_at": "2026-07-07T14:35:14-04:00",
+    "updated_at": "2026-08-17T11:23:13-04:00",
     "title": "Senior Software Engineer - SDK",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -236680,7 +236680,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8052691": {
-    "updated_at": "2026-08-06T19:28:47-04:00",
+    "updated_at": "2026-08-17T11:00:56-04:00",
     "title": "3PL Customer Success Manager",
     "company": "flexport",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T10:49:40-04:00",
+    "updated_at": "2026-08-17T11:19:19-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T10:49:43-04:00",
+    "updated_at": "2026-08-17T11:19:22-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -266128,8 +266128,8 @@
     "alerted": false
   },
   "greenhouse:doximity:8079716": {
-    "updated_at": "2026-08-14T18:45:09-04:00",
-    "title": "Technical Senior Revenue Analyst",
+    "updated_at": "2026-08-17T11:27:07-04:00",
+    "title": "Technical Senior Revenue Accountant",
     "company": "doximity",
     "ats": "greenhouse",
     "source_slug": "doximity",
@@ -293736,7 +293736,7 @@
     "alerted": false
   },
   "greenhouse:toast:8129964": {
-    "updated_at": "2026-08-14T10:15:17-04:00",
+    "updated_at": "2026-08-17T11:09:02-04:00",
     "title": "Manager, Hybrid Sales Development",
     "company": "toast",
     "ats": "greenhouse",
@@ -294704,7 +294704,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8111984": {
-    "updated_at": "2026-08-14T19:27:24-04:00",
+    "updated_at": "2026-08-17T11:18:24-04:00",
     "title": "Design Systems, Product Designer",
     "company": "gusto",
     "ats": "greenhouse",
@@ -295936,7 +295936,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5391309008": {
-    "updated_at": "2026-08-17T07:09:31-04:00",
+    "updated_at": "2026-08-17T11:07:21-04:00",
     "title": "Growth Account Executive, Startups",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -295944,7 +295944,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5391305008": {
-    "updated_at": "2026-08-17T06:52:47-04:00",
+    "updated_at": "2026-08-17T11:08:22-04:00",
     "title": "Manager, Growth Account Executives, Startups",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -296309,6 +296309,62 @@
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
+    "alerted": true
+  },
+  "greenhouse:coreweave:4705797006": {
+    "updated_at": "2026-08-17T11:16:20-04:00",
+    "title": "Account Manager - Engaged - New York",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8130735": {
+    "updated_at": "2026-08-17T11:11:06-04:00",
+    "title": "Senior Account Executive, Startups (SoCal)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8128846": {
+    "updated_at": "2026-08-17T11:10:44-04:00",
+    "title": "Oracle Operations Manager",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:amplitude:8721028002": {
+    "updated_at": "2026-08-17T11:08:43-04:00",
+    "title": "People Operations Analyst",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8132320": {
+    "updated_at": "2026-08-17T11:01:07-04:00",
+    "title": "Quality Technician",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8131310": {
+    "updated_at": "2026-08-17T10:50:31-04:00",
+    "title": "Market Manager",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7855726003": {
+    "updated_at": "2026-08-17T11:19:11-04:00",
+    "title": "Senior Lead Technical Program Manager - Infrastructure",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
     "alerted": true
   }
 }
