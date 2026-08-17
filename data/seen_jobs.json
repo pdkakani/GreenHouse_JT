@@ -97584,7 +97584,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5821400004": {
-    "updated_at": "2026-07-29T18:26:49-04:00",
+    "updated_at": "2026-08-17T12:17:54-04:00",
     "title": "Senior Product Manager - Data & Quality",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -166752,8 +166752,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7944385": {
-    "updated_at": "2026-08-03T17:01:55-04:00",
-    "title": "Manager, Software Engineering",
+    "updated_at": "2026-08-17T12:12:51-04:00",
+    "title": "Manager, Software Engineering - Liquidity Management (C#/.NET)",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -227880,7 +227880,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790909003": {
-    "updated_at": "2026-08-17T09:52:50-04:00",
+    "updated_at": "2026-08-17T12:01:32-04:00",
     "title": "Staff Product Manager- Developer Experience",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239584,7 +239584,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8626596002": {
-    "updated_at": "2026-08-04T18:49:46-04:00",
+    "updated_at": "2026-08-17T11:54:35-04:00",
     "title": "Barista",
     "company": "spacex",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T11:49:05-04:00",
+    "updated_at": "2026-08-17T12:05:18-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T11:49:08-04:00",
+    "updated_at": "2026-08-17T12:05:21-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -270528,8 +270528,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8658654002": {
-    "updated_at": "2026-07-30T11:24:29-04:00",
-    "title": "Talent Attraction Partner",
+    "updated_at": "2026-08-17T12:18:34-04:00",
+    "title": "Creative Sourcer",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -285400,8 +285400,8 @@
     "alerted": false
   },
   "greenhouse:mongodb:8109295": {
-    "updated_at": "2026-08-12T11:27:25-04:00",
-    "title": "Principal Consulting Engineer",
+    "updated_at": "2026-08-17T12:18:11-04:00",
+    "title": "Senior Consulting Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -296406,5 +296406,61 @@
     "ats": "greenhouse",
     "source_slug": "coreweave",
     "alerted": false
+  },
+  "greenhouse:starburst:5386733008": {
+    "updated_at": "2026-08-17T11:55:49-04:00",
+    "title": "Onboarding Engineer - Presales",
+    "company": "starburst",
+    "ats": "greenhouse",
+    "source_slug": "starburst",
+    "alerted": false
+  },
+  "greenhouse:doximity:8126522": {
+    "updated_at": "2026-08-17T11:52:58-04:00",
+    "title": "Locum Tenens - Recruiter",
+    "company": "doximity",
+    "ats": "greenhouse",
+    "source_slug": "doximity",
+    "alerted": false
+  },
+  "greenhouse:celonis:7886106003": {
+    "updated_at": "2026-08-17T11:50:06-04:00",
+    "title": "Intern / Working Student Online Training Translation (Korean speaking)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7886290003": {
+    "updated_at": "2026-08-17T11:50:05-04:00",
+    "title": "(Graduated) Intern Online Training Translation (Korean speaking)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:ripple:8129029": {
+    "updated_at": "2026-08-17T11:47:56-04:00",
+    "title": "Director, Product Management, Global Payouts",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:spacex:8716210002": {
+    "updated_at": "2026-08-17T11:57:37-04:00",
+    "title": "Mechanical Engineer - Battery Pack, Satellites (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:expel:8718734002": {
+    "updated_at": "2026-08-17T11:57:06-04:00",
+    "title": "Managed SIEM Detection Engineer",
+    "company": "expel",
+    "ats": "greenhouse",
+    "source_slug": "expel",
+    "alerted": true
   }
 }
