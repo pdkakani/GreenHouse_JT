@@ -25728,7 +25728,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5844049004": {
-    "updated_at": "2026-06-10T18:58:05-04:00",
+    "updated_at": "2026-08-18T19:42:56-04:00",
     "title": "Senior Software Engineer - Developer Experience",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25736,7 +25736,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5848145004": {
-    "updated_at": "2026-06-10T14:42:51-04:00",
+    "updated_at": "2026-08-18T19:43:08-04:00",
     "title": "Senior Software Engineer - Expert Contributor Lifecycle",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25752,7 +25752,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5970324004": {
-    "updated_at": "2026-08-05T16:46:59-04:00",
+    "updated_at": "2026-08-18T19:42:41-04:00",
     "title": "Senior Software Engineer \u2014 AI Infrastructure",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -134736,7 +134736,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5984577004": {
-    "updated_at": "2026-08-07T00:19:47-04:00",
+    "updated_at": "2026-08-18T19:43:42-04:00",
     "title": "Software Engineer \u2014 AI Infrastructure",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -210296,7 +210296,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8001341": {
-    "updated_at": "2026-06-26T17:05:47-04:00",
+    "updated_at": "2026-08-18T19:47:00-04:00",
     "title": "Creative Director, Copy & Campaigns",
     "company": "stripe",
     "ats": "greenhouse",
@@ -239408,7 +239408,7 @@
     "alerted": true
   },
   "greenhouse:snorkelai:6113165004": {
-    "updated_at": "2026-07-10T12:10:18-04:00",
+    "updated_at": "2026-08-18T19:43:31-04:00",
     "title": "Staff Software Engineer - Expert Contributor Lifecycle",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T19:34:42-04:00",
+    "updated_at": "2026-08-18T19:49:34-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T19:34:44-04:00",
+    "updated_at": "2026-08-18T19:49:37-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-18T19:32:42-04:00",
+    "updated_at": "2026-08-18T19:47:10-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -275360,7 +275360,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4720817005": {
-    "updated_at": "2026-08-18T19:35:46-04:00",
+    "updated_at": "2026-08-18T19:45:30-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14147)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -275624,7 +275624,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4720849005": {
-    "updated_at": "2026-08-18T19:37:53-04:00",
+    "updated_at": "2026-08-18T19:45:31-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14149)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -286232,7 +286232,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4722135005": {
-    "updated_at": "2026-08-10T15:15:48-04:00",
+    "updated_at": "2026-08-18T19:45:33-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14162)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -286288,7 +286288,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4722881005": {
-    "updated_at": "2026-08-10T16:18:07-04:00",
+    "updated_at": "2026-08-18T19:53:21-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14164)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -296272,7 +296272,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7885745003": {
-    "updated_at": "2026-08-17T10:46:56-04:00",
+    "updated_at": "2026-08-18T19:46:20-04:00",
     "title": "Business Development Representative",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -297056,7 +297056,7 @@
     "alerted": true
   },
   "greenhouse:oportun:4724902005": {
-    "updated_at": "2026-08-17T18:46:43-04:00",
+    "updated_at": "2026-08-18T19:56:00-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14174)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -299989,6 +299989,30 @@
     "company": "smartsheet",
     "ats": "greenhouse",
     "source_slug": "smartsheet",
+    "alerted": true
+  },
+  "greenhouse:sofi:7894776003": {
+    "updated_at": "2026-08-18T19:29:18-04:00",
+    "title": "Principal Product Manager, Commercial Banking",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4725320005": {
+    "updated_at": "2026-08-18T19:24:31-04:00",
+    "title": "Enterprise Account Executive, Texas",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": false
+  },
+  "greenhouse:carta:7866977003": {
+    "updated_at": "2026-08-18T19:56:02-04:00",
+    "title": "Staff Software Engineer, Middle Office",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
     "alerted": true
   }
 }
