@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T07:05:12-04:00",
+    "updated_at": "2026-08-18T07:34:05-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T07:05:15-04:00",
+    "updated_at": "2026-08-18T07:34:08-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-18T01:32:26-04:00",
+    "updated_at": "2026-08-18T07:47:49-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -298029,6 +298029,38 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:stripe:8097801": {
+    "updated_at": "2026-08-18T07:19:46-04:00",
+    "title": "Software Engineer, Intern",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:8129954": {
+    "updated_at": "2026-08-18T06:47:04-04:00",
+    "title": "Strategic Account Executive, Platforms",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:celonis:7817395003": {
+    "updated_at": "2026-08-18T06:44:02-04:00",
+    "title": "Client Value Partner",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:intercom:8132076": {
+    "updated_at": "2026-08-18T06:33:34-04:00",
+    "title": "Staff Data Engineer - GTM",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
     "alerted": false
   }
 }
