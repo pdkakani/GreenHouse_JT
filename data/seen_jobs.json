@@ -172456,7 +172456,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7955967": {
-    "updated_at": "2026-08-17T03:28:42-04:00",
+    "updated_at": "2026-08-17T21:49:59-04:00",
     "title": "Senior Sales Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -231824,7 +231824,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4694608006": {
-    "updated_at": "2026-08-13T13:15:06-04:00",
+    "updated_at": "2026-08-17T22:32:15-04:00",
     "title": "People Operations Partner, Employee Lifecycle",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -232752,7 +232752,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8025116": {
-    "updated_at": "2026-08-14T14:08:42-04:00",
+    "updated_at": "2026-08-17T21:38:14-04:00",
     "title": "Senior Financial Analyst, North America Sales & Operations Finance",
     "company": "flexport",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T21:19:48-04:00",
+    "updated_at": "2026-08-17T22:20:20-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T21:19:51-04:00",
+    "updated_at": "2026-08-17T22:20:23-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245968,7 +245968,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8067033": {
-    "updated_at": "2026-08-11T00:15:27-04:00",
+    "updated_at": "2026-08-17T21:36:43-04:00",
     "title": "Senior Software Engineer, Consumer",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -259584,7 +259584,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8081633": {
-    "updated_at": "2026-08-17T21:16:40-04:00",
+    "updated_at": "2026-08-17T22:31:38-04:00",
     "title": "Senior Sales Manager, Ripple Treasury (Account Executive)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -259600,7 +259600,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8051996": {
-    "updated_at": "2026-08-17T21:16:40-04:00",
+    "updated_at": "2026-08-17T22:31:38-04:00",
     "title": "Account Executive, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -287936,7 +287936,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8120259": {
-    "updated_at": "2026-08-11T12:52:15-04:00",
+    "updated_at": "2026-08-17T21:59:26-04:00",
     "title": "Vendor Manager, Operational Vendor Support",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -297614,5 +297614,21 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "ashby:Ashby:a6b309d5-fa4b-42b9-a1a2-653a882a5e60": {
+    "updated_at": "2026-08-14T17:03:06.669+00:00",
+    "title": "Senior Strategic Implementation Specialist - Americas (West)",
+    "company": "Ashby",
+    "ats": "ashby",
+    "source_slug": "Ashby",
+    "alerted": false
+  },
+  "ashby:Ashby:95aecf44-abba-4d06-8fea-7987b6ea9db5": {
+    "updated_at": "2026-08-07T19:48:36.937+00:00",
+    "title": "Manager, Product Support - APAC",
+    "company": "Ashby",
+    "ats": "ashby",
+    "source_slug": "Ashby",
+    "alerted": false
   }
 }
