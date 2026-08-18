@@ -85600,7 +85600,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7315060": {
-    "updated_at": "2026-08-12T00:37:18-04:00",
+    "updated_at": "2026-08-18T00:35:26-04:00",
     "title": "Software Engineer - Jarvis",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -102336,7 +102336,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5082455008": {
-    "updated_at": "2026-08-17T19:52:20-04:00",
+    "updated_at": "2026-08-18T00:27:06-04:00",
     "title": "Customer Success Manager, Strategics",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -141712,8 +141712,8 @@
     "alerted": true
   },
   "greenhouse:fellow:5128096007": {
-    "updated_at": "2026-07-14T16:25:15-04:00",
-    "title": "Senior Manager / Director of Integrated Brand Marketing",
+    "updated_at": "2026-08-18T00:41:38-04:00",
+    "title": "Director of Integrated Brand Marketing",
     "company": "fellow",
     "ats": "greenhouse",
     "source_slug": "fellow",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-17T23:49:51-04:00",
+    "updated_at": "2026-08-18T00:35:58-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-17T23:49:54-04:00",
+    "updated_at": "2026-08-18T00:36:01-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259584,7 +259584,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8081633": {
-    "updated_at": "2026-08-18T00:01:57-04:00",
+    "updated_at": "2026-08-18T00:46:39-04:00",
     "title": "Senior Sales Manager, Ripple Treasury (Account Executive)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -259600,7 +259600,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8051996": {
-    "updated_at": "2026-08-18T00:01:57-04:00",
+    "updated_at": "2026-08-18T00:46:39-04:00",
     "title": "Account Executive, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -265344,7 +265344,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7809609003": {
-    "updated_at": "2026-08-03T18:20:06-04:00",
+    "updated_at": "2026-08-18T00:47:00-04:00",
     "title": "Senior Product Manager, ML Modeling & Platform",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -297696,7 +297696,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8131984": {
-    "updated_at": "2026-08-17T23:22:56-04:00",
+    "updated_at": "2026-08-18T00:11:24-04:00",
     "title": "Ocean Planning Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -297726,5 +297726,21 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:mixpanel:8138334": {
+    "updated_at": "2026-08-17T23:30:09-04:00",
+    "title": "Account Executive, LATAM",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:flexport:8131998": {
+    "updated_at": "2026-08-17T23:23:24-04:00",
+    "title": "Senior Ocean Planning Associate",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
   }
 }
