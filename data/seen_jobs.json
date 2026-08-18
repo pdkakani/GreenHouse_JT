@@ -85336,7 +85336,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7486469": {
-    "updated_at": "2026-08-13T13:06:33-04:00",
+    "updated_at": "2026-08-18T02:07:47-04:00",
     "title": "Cyber Resilience Architect, APJ",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -161992,8 +161992,8 @@
     "alerted": false
   },
   "greenhouse:godaddy:7704977003": {
-    "updated_at": "2026-07-01T11:24:50-04:00",
-    "title": "Senior Software Development Engineer(Tech Lead)",
+    "updated_at": "2026-08-18T02:16:49-04:00",
+    "title": "Staff Technical Program Manager",
     "company": "godaddy",
     "ats": "greenhouse",
     "source_slug": "godaddy",
@@ -168256,7 +168256,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7949896": {
-    "updated_at": "2026-08-13T13:06:33-04:00",
+    "updated_at": "2026-08-18T02:07:47-04:00",
     "title": "Cyber Resilience Architect, APJ",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T01:50:53-04:00",
+    "updated_at": "2026-08-18T02:20:48-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T01:50:56-04:00",
+    "updated_at": "2026-08-18T02:20:51-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259584,7 +259584,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8081633": {
-    "updated_at": "2026-08-18T01:46:33-04:00",
+    "updated_at": "2026-08-18T02:16:44-04:00",
     "title": "Senior Sales Manager, Ripple Treasury (Account Executive)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -259600,7 +259600,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8051996": {
-    "updated_at": "2026-08-18T01:46:33-04:00",
+    "updated_at": "2026-08-18T02:16:44-04:00",
     "title": "Account Executive, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -264056,7 +264056,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8078992": {
-    "updated_at": "2026-08-13T07:29:39-04:00",
+    "updated_at": "2026-08-18T02:16:41-04:00",
     "title": "GAM - Indian GSIs",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -281440,8 +281440,8 @@
     "alerted": false
   },
   "greenhouse:okta:8098292": {
-    "updated_at": "2026-08-12T21:42:06-04:00",
-    "title": "Digital Media Senior Specialist",
+    "updated_at": "2026-08-18T02:19:13-04:00",
+    "title": "Digital Media Specialist",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -297798,5 +297798,37 @@
     "ats": "greenhouse",
     "source_slug": "formlabs",
     "alerted": false
+  },
+  "greenhouse:rubrik:8121344": {
+    "updated_at": "2026-08-18T01:45:04-04:00",
+    "title": "Senior Renewal Sales Specialist I - Night Shift (5:30 PM to 2:30 AM)",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8121351": {
+    "updated_at": "2026-08-18T01:44:49-04:00",
+    "title": "Renewal Sales Specialist",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5237171008": {
+    "updated_at": "2026-08-18T01:36:49-04:00",
+    "title": "Senior Software Engineer",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8697987002": {
+    "updated_at": "2026-08-18T01:56:59-04:00",
+    "title": "Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": true
   }
 }
