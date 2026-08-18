@@ -117088,7 +117088,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8421525002": {
-    "updated_at": "2026-08-18T17:46:10-04:00",
+    "updated_at": "2026-08-18T18:29:39-04:00",
     "title": "Security Engineer, Corporate Security",
     "company": "lyft",
     "ats": "greenhouse",
@@ -162952,7 +162952,7 @@
     "alerted": true
   },
   "greenhouse:waymo:7939542": {
-    "updated_at": "2026-08-14T12:42:55-04:00",
+    "updated_at": "2026-08-18T18:37:26-04:00",
     "title": "Machine Learning Engineer, Fleet Monitoring & Response",
     "company": "waymo",
     "ats": "greenhouse",
@@ -194680,7 +194680,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8584091002": {
-    "updated_at": "2026-08-12T16:47:42-04:00",
+    "updated_at": "2026-08-18T18:48:27-04:00",
     "title": "Product Design Manager, Design Systems",
     "company": "lyft",
     "ats": "greenhouse",
@@ -224280,7 +224280,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8609720002": {
-    "updated_at": "2026-08-12T16:48:25-04:00",
+    "updated_at": "2026-08-18T18:48:13-04:00",
     "title": "Product Design Manager, Design Systems",
     "company": "lyft",
     "ats": "greenhouse",
@@ -236448,7 +236448,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4712918005": {
-    "updated_at": "2026-07-30T15:01:17-04:00",
+    "updated_at": "2026-08-18T18:46:12-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative R14096",
     "company": "oportun",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T18:19:28-04:00",
+    "updated_at": "2026-08-18T18:49:44-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T18:19:31-04:00",
+    "updated_at": "2026-08-18T18:49:53-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -253192,7 +253192,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4716744005": {
-    "updated_at": "2026-07-30T15:46:01-04:00",
+    "updated_at": "2026-08-18T18:49:06-04:00",
     "title": "Bilingual and Spanish Member Loyalty Representative (R14123)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -270040,7 +270040,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8023928": {
-    "updated_at": "2026-08-18T17:57:24-04:00",
+    "updated_at": "2026-08-18T18:36:58-04:00",
     "title": "Account Executive, Bridge (Stripe Crypto and Stablecoins)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -299861,6 +299861,38 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:ripple:8069849": {
+    "updated_at": "2026-08-18T18:28:53-04:00",
+    "title": "Senior Software Engineer",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:adyen:7989158": {
+    "updated_at": "2026-08-18T18:23:12-04:00",
+    "title": "Staff Engineer - Observability",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:okta:8129269": {
+    "updated_at": "2026-08-18T18:16:15-04:00",
+    "title": "Regional Sales Manager, Enterprise",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5386971008": {
+    "updated_at": "2026-08-18T18:33:12-04:00",
+    "title": "Front End Engineer, Marketing",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }
