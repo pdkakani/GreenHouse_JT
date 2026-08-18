@@ -218384,7 +218384,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:7964256": {
-    "updated_at": "2026-08-17T04:18:45-04:00",
+    "updated_at": "2026-08-18T06:09:01-04:00",
     "title": "KYC Team Leader",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -237832,7 +237832,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8053546": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-18T06:19:47-04:00",
     "title": "Marketing Events and Campaigns Intern (Fall 2026)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T05:49:16-04:00",
+    "updated_at": "2026-08-18T06:20:22-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T05:49:19-04:00",
+    "updated_at": "2026-08-18T06:20:24-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246048,7 +246048,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6109402004": {
-    "updated_at": "2026-08-03T07:29:38-04:00",
+    "updated_at": "2026-08-18T06:20:12-04:00",
     "title": "Senior Privacy Counsel",
     "company": "coursera",
     "ats": "greenhouse",
@@ -278672,7 +278672,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:6674775": {
-    "updated_at": "2026-08-05T11:59:21-04:00",
+    "updated_at": "2026-08-18T06:17:12-04:00",
     "title": "Senior Software Engineer (Android)",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -297926,5 +297926,37 @@
     "ats": "greenhouse",
     "source_slug": "celonis",
     "alerted": false
+  },
+  "greenhouse:databricks:8721005002": {
+    "updated_at": "2026-08-18T05:55:48-04:00",
+    "title": "Sr. Solutions Engineer",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:stripe:8114458": {
+    "updated_at": "2026-08-18T05:47:49-04:00",
+    "title": "Account Executive, Enterprise (Grower, Israel)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8138627": {
+    "updated_at": "2026-08-18T05:41:12-04:00",
+    "title": "C++ Engineer, File",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:elastic:8119454": {
+    "updated_at": "2026-08-18T06:19:44-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": true
   }
 }
