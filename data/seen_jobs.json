@@ -192304,7 +192304,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7762505003": {
-    "updated_at": "2026-07-28T15:53:59-04:00",
+    "updated_at": "2026-08-18T06:37:40-04:00",
     "title": "Associate (AI) Solution Consultant (Scale EMEA/German-Speaking) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -231800,7 +231800,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7795949003": {
-    "updated_at": "2026-07-28T15:54:17-04:00",
+    "updated_at": "2026-08-18T06:37:39-04:00",
     "title": "Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -237056,8 +237056,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4712434005": {
-    "updated_at": "2026-07-10T14:48:17-04:00",
-    "title": "Tech Lead Manager",
+    "updated_at": "2026-08-18T06:43:34-04:00",
+    "title": "Software Engineer, Agents Governance",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T06:20:22-04:00",
+    "updated_at": "2026-08-18T06:49:30-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T06:20:24-04:00",
+    "updated_at": "2026-08-18T06:49:33-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -278672,7 +278672,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:6674775": {
-    "updated_at": "2026-08-18T06:17:12-04:00",
+    "updated_at": "2026-08-18T06:47:54-04:00",
     "title": "Senior Software Engineer (Android)",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -297936,8 +297936,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8114458": {
-    "updated_at": "2026-08-18T05:47:49-04:00",
-    "title": "Account Executive, Enterprise (Grower, Israel)",
+    "updated_at": "2026-08-18T06:49:04-04:00",
+    "title": "Account Executive, Enterprise Grower (Israel)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -297958,5 +297958,77 @@
     "ats": "greenhouse",
     "source_slug": "elastic",
     "alerted": true
+  },
+  "greenhouse:elastic:8138694": {
+    "updated_at": "2026-08-18T06:31:07-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138696": {
+    "updated_at": "2026-08-18T06:31:04-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138699": {
+    "updated_at": "2026-08-18T06:31:00-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138692": {
+    "updated_at": "2026-08-18T06:28:20-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138690": {
+    "updated_at": "2026-08-18T06:28:19-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138687": {
+    "updated_at": "2026-08-18T06:28:16-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138683": {
+    "updated_at": "2026-08-18T06:28:13-04:00",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138661": {
+    "updated_at": "2026-08-18T06:19:46-04:00",
+    "title": "Principal Software Developer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8569514002": {
+    "updated_at": "2026-08-18T05:58:03-04:00",
+    "title": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
   }
 }
