@@ -185280,7 +185280,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7908806": {
-    "updated_at": "2026-07-27T10:48:04-04:00",
+    "updated_at": "2026-08-18T04:12:10-04:00",
     "title": "Senior AI Research Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243352,7 +243352,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8050418": {
-    "updated_at": "2026-08-17T18:50:34-04:00",
+    "updated_at": "2026-08-18T04:18:15-04:00",
     "title": "Advisory Partner Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T03:49:55-04:00",
+    "updated_at": "2026-08-18T04:49:06-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T03:49:58-04:00",
+    "updated_at": "2026-08-18T04:49:09-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -289728,7 +289728,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8121863": {
-    "updated_at": "2026-08-17T18:50:39-04:00",
+    "updated_at": "2026-08-18T04:22:58-04:00",
     "title": "Staff Technical Product Marketing Manager, Context Engineering",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -297838,5 +297838,45 @@
     "ats": "greenhouse",
     "source_slug": "abnormalsecurity",
     "alerted": false
+  },
+  "greenhouse:convera:4944452101": {
+    "updated_at": "2026-08-18T04:08:33-04:00",
+    "title": "Agentic AI Engineer (ITSM & Enterprise Automation)",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:celonis:7885808003": {
+    "updated_at": "2026-08-18T03:33:24-04:00",
+    "title": "AI Engineer - Quality",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8104985": {
+    "updated_at": "2026-08-18T02:32:34-04:00",
+    "title": "Director of AI-Native Engineer",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8131811": {
+    "updated_at": "2026-08-18T02:25:13-04:00",
+    "title": "Manager, Technical Services",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:elastic:8119450": {
+    "updated_at": "2026-08-18T04:27:53-04:00",
+    "title": "Senior Software Engineer - Performance Tuning - Elasticsearch",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": true
   }
 }
