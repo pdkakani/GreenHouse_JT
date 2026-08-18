@@ -69984,7 +69984,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8441857002": {
-    "updated_at": "2026-08-11T14:54:37-04:00",
+    "updated_at": "2026-08-18T01:13:45-04:00",
     "title": "Geo Core Account Executive",
     "company": "databricks",
     "ats": "greenhouse",
@@ -70992,7 +70992,7 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4676087005": {
-    "updated_at": "2026-07-09T17:41:29-04:00",
+    "updated_at": "2026-08-18T01:19:02-04:00",
     "title": "Solutions Engineering Manager, APAC",
     "company": "gleanwork",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T00:35:58-04:00",
+    "updated_at": "2026-08-18T01:21:18-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T00:36:01-04:00",
+    "updated_at": "2026-08-18T01:21:21-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259584,7 +259584,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8081633": {
-    "updated_at": "2026-08-18T00:46:39-04:00",
+    "updated_at": "2026-08-18T01:16:44-04:00",
     "title": "Senior Sales Manager, Ripple Treasury (Account Executive)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -259600,7 +259600,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8051996": {
-    "updated_at": "2026-08-18T00:46:39-04:00",
+    "updated_at": "2026-08-18T01:16:44-04:00",
     "title": "Account Executive, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-17T23:02:31-04:00",
+    "updated_at": "2026-08-18T01:17:31-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -278192,7 +278192,7 @@
     "alerted": true
   },
   "greenhouse:newrelic:5320804008": {
-    "updated_at": "2026-08-05T04:44:30-04:00",
+    "updated_at": "2026-08-18T00:50:53-04:00",
     "title": "Senior Software Engineer",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -286800,7 +286800,7 @@
     "alerted": false
   },
   "greenhouse:postman:7829503003": {
-    "updated_at": "2026-08-17T18:15:55-04:00",
+    "updated_at": "2026-08-18T01:06:19-04:00",
     "title": "Revenue Enablement Manager",
     "company": "postman",
     "ats": "greenhouse",
@@ -297738,6 +297738,38 @@
   "greenhouse:flexport:8131998": {
     "updated_at": "2026-08-17T23:23:24-04:00",
     "title": "Senior Ocean Planning Associate",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:3426405": {
+    "updated_at": "2026-08-18T00:55:16-04:00",
+    "title": "APJ Partner Enablement Manager",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391112008": {
+    "updated_at": "2026-08-18T00:32:10-04:00",
+    "title": "Customer Success Manager",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:stripe:8095866": {
+    "updated_at": "2026-08-18T00:18:44-04:00",
+    "title": "Legal Operations Associate",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:flexport:8132042": {
+    "updated_at": "2026-08-18T00:11:00-04:00",
+    "title": "Ocean Planning Manager",
     "company": "flexport",
     "ats": "greenhouse",
     "source_slug": "flexport",
