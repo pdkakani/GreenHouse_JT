@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T02:19:17-04:00",
+    "updated_at": "2026-08-19T03:19:08-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T02:19:25-04:00",
+    "updated_at": "2026-08-19T03:19:11-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -254760,7 +254760,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:8075225": {
-    "updated_at": "2026-08-05T09:43:48-04:00",
+    "updated_at": "2026-08-19T03:01:17-04:00",
     "title": "Senior Sales Strategy & Operations Manager - APJ (Remote)",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -257128,7 +257128,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7809608003": {
-    "updated_at": "2026-08-18T03:02:23-04:00",
+    "updated_at": "2026-08-19T03:00:33-04:00",
     "title": "Senior Lead Software Engineer - Data Platform",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -268104,7 +268104,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8080867": {
-    "updated_at": "2026-08-10T22:52:29-04:00",
+    "updated_at": "2026-08-19T03:21:53-04:00",
     "title": "Enterprise Account Executive - FSI Strategic Accounts",
     "company": "elastic",
     "ats": "greenhouse",
@@ -268560,7 +268560,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7802698003": {
-    "updated_at": "2026-08-18T03:02:21-04:00",
+    "updated_at": "2026-08-19T03:00:32-04:00",
     "title": "Sr. Lead Engineer, Applied AI (Customer Agent)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -268568,7 +268568,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7780010003": {
-    "updated_at": "2026-08-18T03:02:18-04:00",
+    "updated_at": "2026-08-19T03:00:31-04:00",
     "title": "Sr. Lead Engineer, Applied AI (Customer Agent)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -291160,7 +291160,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7861843003": {
-    "updated_at": "2026-08-18T03:02:18-04:00",
+    "updated_at": "2026-08-19T03:00:31-04:00",
     "title": "Sr. Staff Engineer, Applied AI (Customer Agent)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -291224,7 +291224,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7861870003": {
-    "updated_at": "2026-08-18T03:02:21-04:00",
+    "updated_at": "2026-08-19T03:00:32-04:00",
     "title": "Sr. Staff Engineer, Applied AI (Customer Agent)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -293608,7 +293608,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8128533": {
-    "updated_at": "2026-08-17T17:29:55-04:00",
+    "updated_at": "2026-08-19T03:01:46-04:00",
     "title": "Senior DataCenter Provisioning Engineer",
     "company": "fastly",
     "ats": "greenhouse",
@@ -298712,7 +298712,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8132616": {
-    "updated_at": "2026-08-18T12:14:40-04:00",
+    "updated_at": "2026-08-19T03:03:02-04:00",
     "title": "Senior Software Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -299384,7 +299384,7 @@
     "alerted": false
   },
   "greenhouse:asana:8140029": {
-    "updated_at": "2026-08-18T15:11:00-04:00",
+    "updated_at": "2026-08-19T03:11:58-04:00",
     "title": "Software Engineer, Development Infrastructure",
     "company": "asana",
     "ats": "greenhouse",
@@ -300270,5 +300270,29 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": false
+  },
+  "greenhouse:spacex:8729124002": {
+    "updated_at": "2026-08-19T01:55:03-04:00",
+    "title": "New Graduate Engineer, Electrical (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:elastic:8121805": {
+    "updated_at": "2026-08-19T01:17:31-04:00",
+    "title": "Senior Support Engineer",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:verkada:5215882007": {
+    "updated_at": "2026-08-19T02:35:54-04:00",
+    "title": "Senior Software Engineer, Data Platform",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": true
   }
 }
