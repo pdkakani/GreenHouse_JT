@@ -52912,7 +52912,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5041521007": {
-    "updated_at": "2026-08-19T01:01:29-04:00",
+    "updated_at": "2026-08-19T17:59:49-04:00",
     "title": "Account Executive, Territory, Chicago",
     "company": "verkada",
     "ats": "greenhouse",
@@ -67392,8 +67392,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4619072005": {
-    "updated_at": "2026-05-14T16:00:19-04:00",
-    "title": "Enterprise Account Executive",
+    "updated_at": "2026-08-19T17:55:05-04:00",
+    "title": "Enterprise Account Executive - San Francisco",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -127992,7 +127992,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7819181": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-19T17:49:43-04:00",
     "title": "Staff Software Engineer, Autonomous Freight Systems",
     "company": "flexport",
     "ats": "greenhouse",
@@ -150872,8 +150872,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4693862005": {
-    "updated_at": "2026-05-14T16:01:15-04:00",
-    "title": "Enterprise Account Executive",
+    "updated_at": "2026-08-19T17:56:10-04:00",
+    "title": "Enterprise Account Executive - Sacramento",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -157800,8 +157800,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4694661005": {
-    "updated_at": "2026-06-17T17:52:41-04:00",
-    "title": "Enterprise Account Executive",
+    "updated_at": "2026-08-19T17:56:28-04:00",
+    "title": "Enterprise Account Executive - Washington",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -159296,8 +159296,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4695585005": {
-    "updated_at": "2026-05-14T16:03:52-04:00",
-    "title": "Enterprise Account Executive, San Francisco",
+    "updated_at": "2026-08-19T17:55:26-04:00",
+    "title": "Enterprise Account Executive - Mountain View",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -178720,7 +178720,7 @@
     "alerted": false
   },
   "greenhouse:mercury:6008667004": {
-    "updated_at": "2026-08-18T11:49:30-04:00",
+    "updated_at": "2026-08-19T17:54:40-04:00",
     "title": "Underwriting & Servicing Operations Manager - Cards",
     "company": "mercury",
     "ats": "greenhouse",
@@ -203632,8 +203632,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4706212005": {
-    "updated_at": "2026-08-17T14:46:55-04:00",
-    "title": "Strategic Account Executive, West",
+    "updated_at": "2026-08-19T17:52:13-04:00",
+    "title": "Strategic Account Executive, San Francisco",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -208072,8 +208072,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4707231005": {
-    "updated_at": "2026-06-17T17:56:25-04:00",
-    "title": "Enterprise Account Executive, San Francisco",
+    "updated_at": "2026-08-19T17:57:24-04:00",
+    "title": "Enterprise Account Executive - Oregon",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -240560,7 +240560,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8051477": {
-    "updated_at": "2026-08-13T13:58:08-04:00",
+    "updated_at": "2026-08-19T18:02:51-04:00",
     "title": "Senior Partner Enablement Manager",
     "company": "twilio",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T17:35:07-04:00",
+    "updated_at": "2026-08-19T18:05:20-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T17:35:11-04:00",
+    "updated_at": "2026-08-19T18:05:23-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250648,7 +250648,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8056278": {
-    "updated_at": "2026-08-13T13:58:08-04:00",
+    "updated_at": "2026-08-19T17:56:07-04:00",
     "title": "Global Events Marketing Manager",
     "company": "twilio",
     "ats": "greenhouse",
@@ -271952,7 +271952,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7820964003": {
-    "updated_at": "2026-07-30T18:51:28-04:00",
+    "updated_at": "2026-08-19T17:55:03-04:00",
     "title": "Data Analyst, Pricing",
     "company": "sofi",
     "ats": "greenhouse",
@@ -287464,7 +287464,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8694517002": {
-    "updated_at": "2026-08-11T10:59:05-04:00",
+    "updated_at": "2026-08-19T18:11:04-04:00",
     "title": "Executive Business Partner",
     "company": "lyft",
     "ats": "greenhouse",
@@ -302334,5 +302334,53 @@
     "ats": "greenhouse",
     "source_slug": "cribl",
     "alerted": true
+  },
+  "greenhouse:humaninterest:8140491": {
+    "updated_at": "2026-08-19T17:58:32-04:00",
+    "title": "Partner Account Manager - San Diego",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "source_slug": "humaninterest",
+    "alerted": false
+  },
+  "greenhouse:spacex:8730731002": {
+    "updated_at": "2026-08-19T17:52:50-04:00",
+    "title": "Trader, Natural Gas (Supply Chain)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8731013002": {
+    "updated_at": "2026-08-19T17:52:50-04:00",
+    "title": "Trader, Natural Gas (Supply Chain)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8136554": {
+    "updated_at": "2026-08-19T17:50:25-04:00",
+    "title": "Staff Platform Manager, Conversational Products",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:gusto:8104201": {
+    "updated_at": "2026-08-19T17:46:16-04:00",
+    "title": "Head of Engineering, AI Platform",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:convera:4953750101": {
+    "updated_at": "2026-08-19T17:37:01-04:00",
+    "title": "Key Account Manager, Education sector",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
   }
 }
