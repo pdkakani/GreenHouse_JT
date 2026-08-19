@@ -54576,7 +54576,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8499362002": {
-    "updated_at": "2026-08-11T18:24:17-04:00",
+    "updated_at": "2026-08-19T13:16:48-04:00",
     "title": "Sr. Product, Privacy & Regulatory Counsel",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -192888,7 +192888,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:6784618": {
-    "updated_at": "2026-07-07T12:35:56-04:00",
+    "updated_at": "2026-08-19T13:00:03-04:00",
     "title": "Staff Software Engineer, EAA CX",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -219592,7 +219592,7 @@
     "alerted": false
   },
   "greenhouse:brex:8584366002": {
-    "updated_at": "2026-07-07T12:10:24-04:00",
+    "updated_at": "2026-08-19T12:59:51-04:00",
     "title": "Staff Application Security Engineer",
     "company": "brex",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T12:49:45-04:00",
+    "updated_at": "2026-08-19T13:18:55-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T12:49:53-04:00",
+    "updated_at": "2026-08-19T13:18:59-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -261464,7 +261464,7 @@
     "alerted": false
   },
   "greenhouse:formlabs:8083368": {
-    "updated_at": "2026-07-24T09:44:12-04:00",
+    "updated_at": "2026-08-19T13:13:48-04:00",
     "title": "Senior Growth Marketing Manager",
     "company": "formlabs",
     "ats": "greenhouse",
@@ -267440,7 +267440,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8089959": {
-    "updated_at": "2026-08-06T21:01:23-04:00",
+    "updated_at": "2026-08-19T12:54:56-04:00",
     "title": "3rd Party Partnerships Manager - Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -285376,7 +285376,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8115028": {
-    "updated_at": "2026-08-12T14:20:38-04:00",
+    "updated_at": "2026-08-19T13:19:36-04:00",
     "title": "Senior Data Scientist, AI Product Insights",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -287064,8 +287064,8 @@
     "alerted": false
   },
   "greenhouse:samsara:8103806": {
-    "updated_at": "2026-08-14T09:12:55-04:00",
-    "title": "Specialist Seller, EMEA Enterprise",
+    "updated_at": "2026-08-19T13:18:43-04:00",
+    "title": "Account Executive - EMEA Specialist",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -287568,7 +287568,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8688635002": {
-    "updated_at": "2026-08-12T18:24:40-04:00",
+    "updated_at": "2026-08-19T13:10:46-04:00",
     "title": "Sales Technology Lead, Lyft Ads",
     "company": "lyft",
     "ats": "greenhouse",
@@ -291360,7 +291360,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8097585": {
-    "updated_at": "2026-08-19T12:38:38-04:00",
+    "updated_at": "2026-08-19T13:00:57-04:00",
     "title": "Senior Sales Engineer, Switzerland",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -291592,7 +291592,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8124247": {
-    "updated_at": "2026-08-17T17:55:18-04:00",
+    "updated_at": "2026-08-19T13:12:38-04:00",
     "title": "Customer Value Architect, EMEA",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -292248,7 +292248,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865591003": {
-    "updated_at": "2026-08-19T10:17:39-04:00",
+    "updated_at": "2026-08-19T13:05:10-04:00",
     "title": "Senior Software Engineer - Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292256,7 +292256,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865559003": {
-    "updated_at": "2026-08-19T10:17:39-04:00",
+    "updated_at": "2026-08-19T13:09:09-04:00",
     "title": "Senior Software Engineer - Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292584,16 +292584,16 @@
     "alerted": false
   },
   "greenhouse:samsara:8121329": {
-    "updated_at": "2026-08-14T13:25:30-04:00",
-    "title": "Enterprise Select Implementation Consultant East/Central",
+    "updated_at": "2026-08-19T13:18:02-04:00",
+    "title": "Enterprise Select Implementation Consultant (Central or East)",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": false
   },
   "greenhouse:samsara:8121327": {
-    "updated_at": "2026-08-14T13:25:13-04:00",
-    "title": "Enterprise Select Implementation Consultant West/Central",
+    "updated_at": "2026-08-19T13:18:55-04:00",
+    "title": "Enterprise Select Implementation Consultant (West)",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -301136,7 +301136,7 @@
     "alerted": false
   },
   "greenhouse:jumio:4715803005": {
-    "updated_at": "2026-08-19T12:25:01-04:00",
+    "updated_at": "2026-08-19T13:13:39-04:00",
     "title": "Director, Strategic Alliances & Partnerships - APAC",
     "company": "jumio",
     "ats": "greenhouse",
@@ -301181,6 +301181,46 @@
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
+    "alerted": true
+  },
+  "greenhouse:pagerduty:6144823004": {
+    "updated_at": "2026-08-19T13:09:48-04:00",
+    "title": "Senior AI/ML Engineer",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
+    "alerted": false
+  },
+  "greenhouse:stripe:8138662": {
+    "updated_at": "2026-08-19T13:05:25-04:00",
+    "title": "Account Executive , Grower - Iberia Market",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:chime:8692087002": {
+    "updated_at": "2026-08-19T13:04:59-04:00",
+    "title": "Senior Analyst, Ecosystem Risk",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:carta:7904721003": {
+    "updated_at": "2026-08-19T12:56:13-04:00",
+    "title": "Junior Inbound Compliance Analyst (KYC)",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:amplitude:8730197002": {
+    "updated_at": "2026-08-19T13:16:15-04:00",
+    "title": "Senior Enterprise Engineer",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
     "alerted": true
   }
 }
