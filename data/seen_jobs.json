@@ -4952,7 +4952,7 @@
     "alerted": true
   },
   "greenhouse:datadog:7449072": {
-    "updated_at": "2026-08-17T23:05:39-04:00",
+    "updated_at": "2026-08-19T15:50:25-04:00",
     "title": "Technical Support Engineer 1, Premier - USA",
     "company": "datadog",
     "ats": "greenhouse",
@@ -135448,7 +135448,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7866617": {
-    "updated_at": "2026-08-17T08:15:11-04:00",
+    "updated_at": "2026-08-19T15:40:58-04:00",
     "title": "Financial Controller",
     "company": "ripple",
     "ats": "greenhouse",
@@ -135480,7 +135480,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7866596": {
-    "updated_at": "2026-08-17T08:15:11-04:00",
+    "updated_at": "2026-08-19T15:40:59-04:00",
     "title": "Financial Controller",
     "company": "ripple",
     "ats": "greenhouse",
@@ -170480,7 +170480,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8550113002": {
-    "updated_at": "2026-08-12T13:17:36-04:00",
+    "updated_at": "2026-08-19T15:38:46-04:00",
     "title": "Enterprise Account Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -231128,7 +231128,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8043686": {
-    "updated_at": "2026-08-17T08:15:11-04:00",
+    "updated_at": "2026-08-19T15:40:59-04:00",
     "title": "Senior Manager, Finance",
     "company": "ripple",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T15:34:55-04:00",
+    "updated_at": "2026-08-19T15:49:04-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T15:34:58-04:00",
+    "updated_at": "2026-08-19T15:49:08-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259680,8 +259680,8 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8079821": {
-    "updated_at": "2026-08-12T14:20:38-04:00",
-    "title": "Strategic Account Executive",
+    "updated_at": "2026-08-19T15:43:13-04:00",
+    "title": "Strategic Account Executive, Select Accounts",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-19T14:17:52-04:00",
+    "updated_at": "2026-08-19T15:47:34-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -280544,7 +280544,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8089358": {
-    "updated_at": "2026-08-18T17:38:47-04:00",
+    "updated_at": "2026-08-19T15:43:00-04:00",
     "title": "Product Communications: crypto products",
     "company": "stripe",
     "ats": "greenhouse",
@@ -284336,8 +284336,8 @@
     "alerted": false
   },
   "greenhouse:verkada:5207125007": {
-    "updated_at": "2026-08-19T01:02:18-04:00",
-    "title": "National Channel Sales Manager, Federal",
+    "updated_at": "2026-08-19T15:53:41-04:00",
+    "title": "National Channel Sales Manager, Public Sector",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -296744,7 +296744,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5212485007": {
-    "updated_at": "2026-08-19T01:02:19-04:00",
+    "updated_at": "2026-08-19T15:46:08-04:00",
     "title": "Federal Enterprise Account Executive (U.S. Marine Corps)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -301536,7 +301536,7 @@
     "alerted": false
   },
   "greenhouse:toast:8142357": {
-    "updated_at": "2026-08-19T15:32:09-04:00",
+    "updated_at": "2026-08-19T15:41:07-04:00",
     "title": "Modesto, CA Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -301710,5 +301710,213 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": false
+  },
+  "greenhouse:mixpanel:8142660": {
+    "updated_at": "2026-08-19T15:56:35-04:00",
+    "title": "Delivery Engineer II",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8142657": {
+    "updated_at": "2026-08-19T15:55:55-04:00",
+    "title": "Customer Engineer",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8142656": {
+    "updated_at": "2026-08-19T15:55:34-04:00",
+    "title": "Delivery Engineer II",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8126545": {
+    "updated_at": "2026-08-19T15:55:33-04:00",
+    "title": "Delivery Engineer II",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7894458003": {
+    "updated_at": "2026-08-19T15:55:17-04:00",
+    "title": "Regional Sales Director (Northwest)",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8126041": {
+    "updated_at": "2026-08-19T15:55:10-04:00",
+    "title": "Customer Engineer",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8710061002": {
+    "updated_at": "2026-08-19T15:53:54-04:00",
+    "title": "Senior Migration Engineer - GitLab Dedicated",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8142652": {
+    "updated_at": "2026-08-19T15:51:23-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:stripe:8142649": {
+    "updated_at": "2026-08-19T15:50:49-04:00",
+    "title": "Staff Product Manager, Local Payment Methods Growth",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:7737526": {
+    "updated_at": "2026-08-19T15:50:48-04:00",
+    "title": "Staff Product Manager, Local Payment Methods Growth",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8142651": {
+    "updated_at": "2026-08-19T15:50:17-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8130618": {
+    "updated_at": "2026-08-19T15:49:45-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:toast:8142648": {
+    "updated_at": "2026-08-19T15:48:54-04:00",
+    "title": "Tri-Valley, CA Strategic Cuisines Account Executive - Spanish",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:spacex:8731073002": {
+    "updated_at": "2026-08-19T15:47:58-04:00",
+    "title": "Fire Protection Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:toast:8142646": {
+    "updated_at": "2026-08-19T15:47:07-04:00",
+    "title": "Strategic Cuisines Account Executive - Spanish - Tri-Valley, CA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8142644": {
+    "updated_at": "2026-08-19T15:46:07-04:00",
+    "title": "Delivery Engineer III",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:toast:8142566": {
+    "updated_at": "2026-08-19T15:43:40-04:00",
+    "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Southeast Cities, CA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8142608": {
+    "updated_at": "2026-08-19T15:38:20-04:00",
+    "title": "Senior Account Executive, Enterprise - UK",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:spacex:8731020002": {
+    "updated_at": "2026-08-19T15:36:55-04:00",
+    "title": "Civil Engineer, Land Development (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:reddit:8142623": {
+    "updated_at": "2026-08-19T15:35:57-04:00",
+    "title": "Senior Principal Program Manager, GTM Excellence",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8142622": {
+    "updated_at": "2026-08-19T15:35:56-04:00",
+    "title": "Senior Principal Program Manager, GTM Excellence",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:reddit:8142621": {
+    "updated_at": "2026-08-19T15:35:55-04:00",
+    "title": "Senior Principal Program Manager, GTM Excellence",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:expel:8730561002": {
+    "updated_at": "2026-08-19T15:34:24-04:00",
+    "title": "Executive Assistant",
+    "company": "expel",
+    "ats": "greenhouse",
+    "source_slug": "expel",
+    "alerted": false
+  },
+  "greenhouse:spacex:8696881002": {
+    "updated_at": "2026-08-19T15:57:54-04:00",
+    "title": "Automation Build Engineer, Development (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8730129002": {
+    "updated_at": "2026-08-19T15:57:44-04:00",
+    "title": "Global Supply Manager (Industrial Gases Sourcing & Logistics)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:mixpanel:8142661": {
+    "updated_at": "2026-08-19T15:56:57-04:00",
+    "title": "Customer Engineer",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": true
   }
 }
