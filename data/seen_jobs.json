@@ -400,7 +400,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7462803": {
-    "updated_at": "2026-08-19T09:06:43-04:00",
+    "updated_at": "2026-08-19T09:37:08-04:00",
     "title": "Distributed Systems Engineer - Data Platform - Analytics and Alerts",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -408,7 +408,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7462801": {
-    "updated_at": "2026-08-19T09:06:26-04:00",
+    "updated_at": "2026-08-19T09:37:25-04:00",
     "title": "Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -9064,7 +9064,7 @@
     "alerted": true
   },
   "greenhouse:brex:8461333002": {
-    "updated_at": "2026-08-12T18:15:14-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Senior Software Engineer, Backend (Product Engineering)",
     "company": "brex",
     "ats": "greenhouse",
@@ -9072,7 +9072,7 @@
     "alerted": true
   },
   "greenhouse:brex:8461469002": {
-    "updated_at": "2026-08-12T18:15:14-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Senior Software Engineer, Backend (Product Engineering)",
     "company": "brex",
     "ats": "greenhouse",
@@ -9080,7 +9080,7 @@
     "alerted": true
   },
   "greenhouse:brex:8465003002": {
-    "updated_at": "2026-08-12T18:15:14-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Senior Software Engineer, Backend (Product Engineering)",
     "company": "brex",
     "ats": "greenhouse",
@@ -73904,8 +73904,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7342888": {
-    "updated_at": "2026-08-15T10:33:21-04:00",
-    "title": "Software Engineer (Java) - Invoicing & Collections",
+    "updated_at": "2026-08-19T09:50:45-04:00",
+    "title": "Software Engineer I (Java) - Invoicing & Collections",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -83248,7 +83248,7 @@
     "alerted": false
   },
   "greenhouse:brex:8310523002": {
-    "updated_at": "2026-07-16T10:26:49-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Software Engineer II, Frontend",
     "company": "brex",
     "ats": "greenhouse",
@@ -130456,7 +130456,7 @@
     "alerted": false
   },
   "greenhouse:brex:8524941002": {
-    "updated_at": "2026-07-07T13:04:22-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Software Engineer II, Product",
     "company": "brex",
     "ats": "greenhouse",
@@ -136192,7 +136192,7 @@
     "alerted": false
   },
   "greenhouse:justworks:7846681": {
-    "updated_at": "2026-08-17T13:59:12-04:00",
+    "updated_at": "2026-08-19T09:50:16-04:00",
     "title": "Manager, Sales Development",
     "company": "justworks",
     "ats": "greenhouse",
@@ -143952,7 +143952,7 @@
     "alerted": false
   },
   "greenhouse:brex:8536424002": {
-    "updated_at": "2026-06-12T15:58:42-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Software Engineer II, Backend",
     "company": "brex",
     "ats": "greenhouse",
@@ -143960,7 +143960,7 @@
     "alerted": false
   },
   "greenhouse:brex:8459783002": {
-    "updated_at": "2026-06-10T13:59:16-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Software Engineer II, Backend",
     "company": "brex",
     "ats": "greenhouse",
@@ -144920,7 +144920,7 @@
     "alerted": true
   },
   "greenhouse:brex:8536985002": {
-    "updated_at": "2026-07-22T18:22:10-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Implementation Consultant I, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -144928,7 +144928,7 @@
     "alerted": false
   },
   "greenhouse:brex:8536983002": {
-    "updated_at": "2026-07-22T18:22:09-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Implementation Consultant I, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -144952,7 +144952,7 @@
     "alerted": false
   },
   "greenhouse:brex:8536968002": {
-    "updated_at": "2026-07-22T18:22:08-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Implementation Consultant I, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -145176,7 +145176,7 @@
     "alerted": false
   },
   "greenhouse:brex:8536988002": {
-    "updated_at": "2026-07-22T18:22:13-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Implementation Consultant I, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -145184,7 +145184,7 @@
     "alerted": false
   },
   "greenhouse:brex:8536986002": {
-    "updated_at": "2026-07-22T18:22:11-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Implementation Consultant I, Commercial",
     "company": "brex",
     "ats": "greenhouse",
@@ -154048,7 +154048,7 @@
     "alerted": false
   },
   "greenhouse:brex:8544882002": {
-    "updated_at": "2026-06-29T12:57:26-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Compliance Manager, Marketing",
     "company": "brex",
     "ats": "greenhouse",
@@ -154056,7 +154056,7 @@
     "alerted": false
   },
   "greenhouse:brex:8544881002": {
-    "updated_at": "2026-06-29T12:57:18-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Compliance Manager, Marketing",
     "company": "brex",
     "ats": "greenhouse",
@@ -154064,7 +154064,7 @@
     "alerted": false
   },
   "greenhouse:brex:8544757002": {
-    "updated_at": "2026-06-29T12:57:05-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Compliance Manager, Marketing",
     "company": "brex",
     "ats": "greenhouse",
@@ -174832,8 +174832,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7342892": {
-    "updated_at": "2026-05-27T03:19:49-04:00",
-    "title": "Senior Software Engineer (Java) - Banking Network",
+    "updated_at": "2026-08-19T09:46:41-04:00",
+    "title": "Software Engineer (Java) - Screening Team",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -190696,7 +190696,7 @@
     "alerted": false
   },
   "greenhouse:brex:8580837002": {
-    "updated_at": "2026-06-10T13:59:16-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Customer Marketing Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -190704,7 +190704,7 @@
     "alerted": false
   },
   "greenhouse:brex:8580423002": {
-    "updated_at": "2026-06-10T13:59:16-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Customer Marketing Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -197840,7 +197840,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7985010": {
-    "updated_at": "2026-08-17T16:41:35-04:00",
+    "updated_at": "2026-08-19T09:33:42-04:00",
     "title": "Global Campaigns Manager",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -200992,7 +200992,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7462802": {
-    "updated_at": "2026-08-19T09:06:13-04:00",
+    "updated_at": "2026-08-19T09:37:37-04:00",
     "title": "Distributed Systems Engineer - Data Platform - Logs and Audit Logs",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -201000,7 +201000,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7462799": {
-    "updated_at": "2026-08-19T09:07:07-04:00",
+    "updated_at": "2026-08-19T09:36:30-04:00",
     "title": "Distributed Systems Engineer, Analytical Database Platform",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -202328,7 +202328,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7904142": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-19T09:51:20-04:00",
     "title": "Product Manager, AI Access",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -213440,7 +213440,7 @@
     "alerted": false
   },
   "greenhouse:brex:8603327002": {
-    "updated_at": "2026-06-26T12:20:14-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Software Engineer II, Backend",
     "company": "brex",
     "ats": "greenhouse",
@@ -213448,7 +213448,7 @@
     "alerted": false
   },
   "greenhouse:brex:8603330002": {
-    "updated_at": "2026-06-25T17:35:35-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Senior Software Engineer, Backend",
     "company": "brex",
     "ats": "greenhouse",
@@ -217672,7 +217672,7 @@
     "alerted": true
   },
   "greenhouse:brex:8606890002": {
-    "updated_at": "2026-08-04T13:35:30-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "AI Engineer, Ecosystem",
     "company": "brex",
     "ats": "greenhouse",
@@ -217680,7 +217680,7 @@
     "alerted": false
   },
   "greenhouse:brex:8606885002": {
-    "updated_at": "2026-08-04T13:35:19-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "AI Engineer, Ecosystem",
     "company": "brex",
     "ats": "greenhouse",
@@ -217752,7 +217752,7 @@
     "alerted": false
   },
   "greenhouse:brex:8606845002": {
-    "updated_at": "2026-06-25T17:33:54-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "AI Engineer, Product",
     "company": "brex",
     "ats": "greenhouse",
@@ -229272,8 +229272,8 @@
     "alerted": false
   },
   "greenhouse:datadog:8041622": {
-    "updated_at": "2026-08-12T15:59:08-04:00",
-    "title": "Manager, Customer Success - LATAM (Portuguese-Speaking)",
+    "updated_at": "2026-08-19T09:45:17-04:00",
+    "title": "Manager, Customer Success",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -230240,7 +230240,7 @@
     "alerted": false
   },
   "greenhouse:brex:8387049002": {
-    "updated_at": "2026-07-30T10:53:54-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Account Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T09:19:22-04:00",
+    "updated_at": "2026-08-19T10:05:54-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T09:19:25-04:00",
+    "updated_at": "2026-08-19T10:05:58-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -261832,7 +261832,7 @@
     "alerted": false
   },
   "greenhouse:brex:8649258002": {
-    "updated_at": "2026-08-04T16:53:52-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Bill Pay Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -261840,7 +261840,7 @@
     "alerted": false
   },
   "greenhouse:brex:8649253002": {
-    "updated_at": "2026-08-04T16:52:03-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Bill Pay Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -261848,7 +261848,7 @@
     "alerted": false
   },
   "greenhouse:brex:8649243002": {
-    "updated_at": "2026-08-04T16:51:52-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Bill Pay Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -261856,7 +261856,7 @@
     "alerted": false
   },
   "greenhouse:brex:8649220002": {
-    "updated_at": "2026-08-04T16:51:39-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Bill Pay Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -274784,7 +274784,7 @@
     "alerted": false
   },
   "greenhouse:brex:8672997002": {
-    "updated_at": "2026-08-03T14:39:53-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Partnerships Manager, Accounting Channel",
     "company": "brex",
     "ats": "greenhouse",
@@ -274792,7 +274792,7 @@
     "alerted": false
   },
   "greenhouse:brex:8672976002": {
-    "updated_at": "2026-08-03T14:39:16-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Partnerships Manager, Accounting Channel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277456,7 +277456,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678396002": {
-    "updated_at": "2026-08-04T16:49:53-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277464,7 +277464,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678831002": {
-    "updated_at": "2026-08-04T16:47:50-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277472,7 +277472,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678771002": {
-    "updated_at": "2026-08-04T16:47:28-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277480,7 +277480,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678769002": {
-    "updated_at": "2026-08-04T16:46:54-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -281488,8 +281488,8 @@
     "alerted": false
   },
   "greenhouse:okta:8098282": {
-    "updated_at": "2026-08-06T18:48:05-04:00",
-    "title": "Digital Design Lead",
+    "updated_at": "2026-08-19T09:56:03-04:00",
+    "title": "Digital Art Director",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -281632,7 +281632,7 @@
     "alerted": false
   },
   "greenhouse:brex:8688112002": {
-    "updated_at": "2026-08-06T18:06:24-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Account Executive, Small Business",
     "company": "brex",
     "ats": "greenhouse",
@@ -281640,7 +281640,7 @@
     "alerted": false
   },
   "greenhouse:brex:8688110002": {
-    "updated_at": "2026-08-06T18:06:23-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Account Executive, Small Business",
     "company": "brex",
     "ats": "greenhouse",
@@ -281648,7 +281648,7 @@
     "alerted": false
   },
   "greenhouse:brex:8686667002": {
-    "updated_at": "2026-08-06T18:06:22-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Account Executive, Small Business",
     "company": "brex",
     "ats": "greenhouse",
@@ -288992,7 +288992,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698360002": {
-    "updated_at": "2026-08-18T17:34:26-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -289000,7 +289000,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698359002": {
-    "updated_at": "2026-08-18T17:34:11-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -289008,7 +289008,7 @@
     "alerted": false
   },
   "greenhouse:brex:8697069002": {
-    "updated_at": "2026-08-18T17:33:43-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -289016,7 +289016,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698358002": {
-    "updated_at": "2026-08-18T17:33:56-04:00",
+    "updated_at": "2026-08-19T09:52:58-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -290912,7 +290912,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8126982": {
-    "updated_at": "2026-08-12T19:00:45-04:00",
+    "updated_at": "2026-08-19T09:56:39-04:00",
     "title": "Staff Machine Learning Infrastructure Engineer, Embedding Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -291080,7 +291080,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8127022": {
-    "updated_at": "2026-08-12T19:02:49-04:00",
+    "updated_at": "2026-08-19T09:56:39-04:00",
     "title": "Senior Machine Learning Infrastructure Engineer, Embedding Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -292184,7 +292184,7 @@
     "alerted": false
   },
   "greenhouse:brex:8706917002": {
-    "updated_at": "2026-08-13T16:54:30-04:00",
+    "updated_at": "2026-08-19T09:53:00-04:00",
     "title": "Senior Software Engineer, Accounting Engineering",
     "company": "brex",
     "ats": "greenhouse",
@@ -293016,7 +293016,7 @@
     "alerted": false
   },
   "greenhouse:brex:8706688002": {
-    "updated_at": "2026-08-13T19:07:03-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Senior Candidate Experience Coordinator",
     "company": "brex",
     "ats": "greenhouse",
@@ -293144,7 +293144,7 @@
     "alerted": false
   },
   "greenhouse:brex:8709977002": {
-    "updated_at": "2026-08-13T19:29:40-04:00",
+    "updated_at": "2026-08-19T09:52:59-04:00",
     "title": "Senior Candidate Experience Coordinator",
     "company": "brex",
     "ats": "greenhouse",
@@ -296856,7 +296856,7 @@
     "alerted": false
   },
   "greenhouse:brex:8721806002": {
-    "updated_at": "2026-08-17T14:48:31-04:00",
+    "updated_at": "2026-08-19T09:53:00-04:00",
     "title": "Account Executive, YC",
     "company": "brex",
     "ats": "greenhouse",
@@ -300606,5 +300606,141 @@
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
     "alerted": false
+  },
+  "greenhouse:instacart:8141483": {
+    "updated_at": "2026-08-19T09:54:53-04:00",
+    "title": "Staff User Researcher - Consumer",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8141481": {
+    "updated_at": "2026-08-19T09:54:23-04:00",
+    "title": "Staff User Researcher - Consumer",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8141535": {
+    "updated_at": "2026-08-19T09:50:06-04:00",
+    "title": "Senior Software Engineer II, Marketing Enablement",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8141533": {
+    "updated_at": "2026-08-19T09:50:05-04:00",
+    "title": "Senior Software Engineer II, Marketing Enablement",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:databricks:8727545002": {
+    "updated_at": "2026-08-19T09:48:40-04:00",
+    "title": "Emerging Enterprise Core Account Executive",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8132153": {
+    "updated_at": "2026-08-19T09:48:07-04:00",
+    "title": "Senior .NET Developer - Application Infrastructure - Temporary Position",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:betterment:8137849": {
+    "updated_at": "2026-08-19T09:47:04-04:00",
+    "title": "Social Media & Content Associate",
+    "company": "betterment",
+    "ats": "greenhouse",
+    "source_slug": "betterment",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7895144003": {
+    "updated_at": "2026-08-19T09:45:38-04:00",
+    "title": "Outbound BDR - Central Europe (Polish speaking)",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:betterment:8139698": {
+    "updated_at": "2026-08-19T09:43:55-04:00",
+    "title": "Sr. Technical Product & Program Manager, Platform Engineering",
+    "company": "betterment",
+    "ats": "greenhouse",
+    "source_slug": "betterment",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8704363002": {
+    "updated_at": "2026-08-19T09:42:28-04:00",
+    "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8726028002": {
+    "updated_at": "2026-08-19T09:38:24-04:00",
+    "title": "Welder - 2nd Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:convera:4913741101": {
+    "updated_at": "2026-08-19T09:37:23-04:00",
+    "title": "Customer Care Associate (Italian speaker)",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:okta:8106012": {
+    "updated_at": "2026-08-19T09:32:58-04:00",
+    "title": "AI Journey Operations Manager",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7865248003": {
+    "updated_at": "2026-08-19T09:31:00-04:00",
+    "title": "Senior Product Manager, Enterprise & Deployments",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391108008": {
+    "updated_at": "2026-08-19T09:10:10-04:00",
+    "title": "Technical Deployment Lead",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5393720008": {
+    "updated_at": "2026-08-19T09:01:25-04:00",
+    "title": "Field Marketing Manager, APAC",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5387827008": {
+    "updated_at": "2026-08-19T09:55:32-04:00",
+    "title": "Applied AI Architect, Startups",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
   }
 }
