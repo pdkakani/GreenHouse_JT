@@ -53976,7 +53976,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8509683002": {
-    "updated_at": "2026-08-18T14:08:06-04:00",
+    "updated_at": "2026-08-19T13:43:07-04:00",
     "title": "Senior Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -162504,7 +162504,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8554470002": {
-    "updated_at": "2026-08-18T14:11:48-04:00",
+    "updated_at": "2026-08-19T13:43:12-04:00",
     "title": "Senior Solutions Architect - Digital Natives",
     "company": "databricks",
     "ats": "greenhouse",
@@ -165848,8 +165848,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7944540": {
-    "updated_at": "2026-05-19T20:17:07-04:00",
-    "title": "Program Manager, Community Support",
+    "updated_at": "2026-08-19T13:46:34-04:00",
+    "title": "Program Manager",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -177280,7 +177280,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8568420002": {
-    "updated_at": "2026-08-18T14:08:06-04:00",
+    "updated_at": "2026-08-19T13:43:07-04:00",
     "title": "Senior Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -190976,7 +190976,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6015781004": {
-    "updated_at": "2026-08-13T13:12:32-04:00",
+    "updated_at": "2026-08-19T13:23:58-04:00",
     "title": "Payroll, Global Payroll & Compliance Manager",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -209704,7 +209704,7 @@
     "alerted": false
   },
   "greenhouse:cribl:6026759004": {
-    "updated_at": "2026-08-14T10:23:37-04:00",
+    "updated_at": "2026-08-19T13:25:10-04:00",
     "title": "Regional Sales Manager, Miami (Enterprise)",
     "company": "cribl",
     "ats": "greenhouse",
@@ -229096,7 +229096,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8613192002": {
-    "updated_at": "2026-08-18T14:30:57-04:00",
+    "updated_at": "2026-08-19T13:43:21-04:00",
     "title": "Manager, Forward Deployed Engineering",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T13:18:55-04:00",
+    "updated_at": "2026-08-19T13:34:47-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T13:18:59-04:00",
+    "updated_at": "2026-08-19T13:34:50-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -253056,7 +253056,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7797439003": {
-    "updated_at": "2026-07-21T10:26:06-04:00",
+    "updated_at": "2026-08-19T13:36:05-04:00",
     "title": "Senior Solutions Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -255304,7 +255304,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8069245": {
-    "updated_at": "2026-08-19T11:03:27-04:00",
+    "updated_at": "2026-08-19T13:32:49-04:00",
     "title": "Principal Product Manager - Product Catalog",
     "company": "twilio",
     "ats": "greenhouse",
@@ -273200,7 +273200,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8089185": {
-    "updated_at": "2026-08-17T14:27:22-04:00",
+    "updated_at": "2026-08-19T13:30:14-04:00",
     "title": "Staff Forward Deployed Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -273328,24 +273328,24 @@
     "alerted": false
   },
   "greenhouse:braze:8081973": {
-    "updated_at": "2026-08-04T10:34:56-04:00",
-    "title": "Senior Solutions Consultant",
+    "updated_at": "2026-08-19T13:38:04-04:00",
+    "title": "Senior Solutions Consultant, Retail (SC3)",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
     "alerted": false
   },
   "greenhouse:braze:8081972": {
-    "updated_at": "2026-08-04T10:34:55-04:00",
-    "title": "Senior Solutions Consultant",
+    "updated_at": "2026-08-19T13:37:49-04:00",
+    "title": "Senior Solutions Consultant, Retail (SC3)",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
     "alerted": false
   },
   "greenhouse:braze:8081875": {
-    "updated_at": "2026-08-04T10:34:55-04:00",
-    "title": "Senior Solutions Consultant",
+    "updated_at": "2026-08-19T13:37:42-04:00",
+    "title": "Senior Solutions Consultant, Retail (SC3)",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -273568,8 +273568,8 @@
     "alerted": false
   },
   "greenhouse:braze:8081975": {
-    "updated_at": "2026-08-04T10:34:56-04:00",
-    "title": "Senior Solutions Consultant",
+    "updated_at": "2026-08-19T13:38:15-04:00",
+    "title": "Senior Solutions Consultant, Retail (SC3)",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -280152,7 +280152,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6135754004": {
-    "updated_at": "2026-08-13T13:12:32-04:00",
+    "updated_at": "2026-08-19T13:23:14-04:00",
     "title": "Accounting Manager, Technical Accounting & Financial Reporting",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -299088,7 +299088,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8139662": {
-    "updated_at": "2026-08-18T17:01:43-04:00",
+    "updated_at": "2026-08-19T13:22:11-04:00",
     "title": "Developer Advocate - Service Management",
     "company": "datadog",
     "ats": "greenhouse",
@@ -299488,7 +299488,7 @@
     "alerted": false
   },
   "greenhouse:postman:7855314003": {
-    "updated_at": "2026-08-18T15:39:09-04:00",
+    "updated_at": "2026-08-19T13:39:30-04:00",
     "title": "Manager, Account Development",
     "company": "postman",
     "ats": "greenhouse",
@@ -301216,11 +301216,91 @@
     "alerted": false
   },
   "greenhouse:amplitude:8730197002": {
-    "updated_at": "2026-08-19T13:16:15-04:00",
-    "title": "Senior Enterprise Engineer",
+    "updated_at": "2026-08-19T13:25:49-04:00",
+    "title": "Senior Software Engineer, Enterprise Engineering",
     "company": "amplitude",
     "ats": "greenhouse",
     "source_slug": "amplitude",
+    "alerted": true
+  },
+  "greenhouse:spacex:8694545002": {
+    "updated_at": "2026-08-19T13:45:36-04:00",
+    "title": "Additive Manufacturing Specialist (Starlink Development)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8697078002": {
+    "updated_at": "2026-08-19T13:45:26-04:00",
+    "title": "CNC Programmer, Development (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391999008": {
+    "updated_at": "2026-08-19T13:38:27-04:00",
+    "title": "Community Engagement Manager, Data Centres (Australia)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:celonis:7905008003": {
+    "updated_at": "2026-08-19T13:36:05-04:00",
+    "title": "Senior Solutions Architect",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:spacex:8727547002": {
+    "updated_at": "2026-08-19T13:29:39-04:00",
+    "title": "Executive Producer, Broadcast",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391974008": {
+    "updated_at": "2026-08-19T13:27:30-04:00",
+    "title": "Community Engagement Manager, Data Centres (Canada)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391983008": {
+    "updated_at": "2026-08-19T13:26:24-04:00",
+    "title": "Community Engagement Manager, Data Centers (Texas)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:lyft:8716218002": {
+    "updated_at": "2026-08-19T13:18:38-04:00",
+    "title": "Senior Software Engineer, Recommendations",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:pagerduty:6147470004": {
+    "updated_at": "2026-08-19T13:11:50-04:00",
+    "title": "AI/ML Engineer",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
+    "alerted": false
+  },
+  "greenhouse:spacex:8696914002": {
+    "updated_at": "2026-08-19T13:46:05-04:00",
+    "title": "Development Technician (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
