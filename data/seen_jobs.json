@@ -175496,7 +175496,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7919064": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-08-19T11:48:27-04:00",
     "title": "Business Partner Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -214728,8 +214728,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8022463": {
-    "updated_at": "2026-08-18T17:37:28-04:00",
-    "title": "KYB/KYC Operations Associate, Bridge (CDMX)",
+    "updated_at": "2026-08-19T11:53:44-04:00",
+    "title": "KYB/KYC Operations Associate, Bridge (English fluency)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -223512,7 +223512,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7938452": {
-    "updated_at": "2026-08-19T10:50:25-04:00",
+    "updated_at": "2026-08-19T11:29:57-04:00",
     "title": "Team Lead, Implementation",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T11:19:20-04:00",
+    "updated_at": "2026-08-19T11:49:44-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T11:19:24-04:00",
+    "updated_at": "2026-08-19T11:49:47-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -253768,8 +253768,8 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7807564003": {
-    "updated_at": "2026-07-20T20:18:33-04:00",
-    "title": "Financial Analyst, Marketing",
+    "updated_at": "2026-08-19T11:50:41-04:00",
+    "title": "R&D Finance Manager",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
     "source_slug": "abnormalsecurity",
@@ -257144,7 +257144,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:8078715": {
-    "updated_at": "2026-07-22T09:10:55-04:00",
+    "updated_at": "2026-08-19T11:26:22-04:00",
     "title": "Customer Application Engineer",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -257208,7 +257208,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8052114": {
-    "updated_at": "2026-08-14T12:45:22-04:00",
+    "updated_at": "2026-08-19T11:54:00-04:00",
     "title": "Enterprise Customer Success Manager - Chicago",
     "company": "datadog",
     "ats": "greenhouse",
@@ -272464,7 +272464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4701270006": {
-    "updated_at": "2026-08-03T16:02:44-04:00",
+    "updated_at": "2026-08-19T11:33:00-04:00",
     "title": "Finance Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -273656,7 +273656,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8661853002": {
-    "updated_at": "2026-07-31T18:36:09-04:00",
+    "updated_at": "2026-08-19T11:50:35-04:00",
     "title": "Technical Training Specialist (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -276984,7 +276984,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8104994": {
-    "updated_at": "2026-08-14T09:12:55-04:00",
+    "updated_at": "2026-08-19T11:30:00-04:00",
     "title": "Entry Level Tech Sales - UK&I Market",
     "company": "samsara",
     "ats": "greenhouse",
@@ -296248,7 +296248,7 @@
     "alerted": true
   },
   "greenhouse:airbnb:8131269": {
-    "updated_at": "2026-08-17T19:04:55-04:00",
+    "updated_at": "2026-08-19T11:40:14-04:00",
     "title": "Market Manager",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -296256,7 +296256,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8129510": {
-    "updated_at": "2026-08-17T10:49:53-04:00",
+    "updated_at": "2026-08-19T11:27:09-04:00",
     "title": "Market Manager",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -296264,7 +296264,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8129515": {
-    "updated_at": "2026-08-17T10:49:50-04:00",
+    "updated_at": "2026-08-19T11:28:39-04:00",
     "title": "Market Manager",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -297536,7 +297536,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8138055": {
-    "updated_at": "2026-08-17T19:14:18-04:00",
+    "updated_at": "2026-08-19T11:41:24-04:00",
     "title": "Senior Market Manager",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -300896,7 +300896,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850882003": {
-    "updated_at": "2026-08-19T11:06:58-04:00",
+    "updated_at": "2026-08-19T11:33:59-04:00",
     "title": "Global Technology Alliance Manager, Databricks",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -300934,5 +300934,93 @@
     "ats": "greenhouse",
     "source_slug": "mongodb",
     "alerted": false
+  },
+  "greenhouse:spacex:8717350002": {
+    "updated_at": "2026-08-19T11:41:33-04:00",
+    "title": "Software Engineer, Inference (AI Data Engineering)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8687246002": {
+    "updated_at": "2026-08-19T11:40:19-04:00",
+    "title": "Senior Program Manager, Enterprise Technology and AI",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:okta:8131237": {
+    "updated_at": "2026-08-19T11:38:01-04:00",
+    "title": "Staff Product Marketing Launch Operations Manager",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:okta:8074824": {
+    "updated_at": "2026-08-19T11:34:51-04:00",
+    "title": "Principal Business Systems Analyst",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8586667002": {
+    "updated_at": "2026-08-19T11:33:14-04:00",
+    "title": "Engineering Manager, Build",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7896729003": {
+    "updated_at": "2026-08-19T11:32:44-04:00",
+    "title": "Director, Renewals",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7903003003": {
+    "updated_at": "2026-08-19T11:31:34-04:00",
+    "title": "National Channel Account Manager- SHI",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8141752": {
+    "updated_at": "2026-08-19T11:21:14-04:00",
+    "title": "Partner Enablement Manager (Remote Eligible - Costa Rica)",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5390795008": {
+    "updated_at": "2026-08-19T11:20:58-04:00",
+    "title": "Applied AI Engineer, Enterprise",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:celonis:7853419003": {
+    "updated_at": "2026-08-19T11:19:51-04:00",
+    "title": "Executive Assistant",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7894691003": {
+    "updated_at": "2026-08-19T11:48:43-04:00",
+    "title": "MidMarket Sales Engineer (Ohio Valley)",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": true
   }
 }
