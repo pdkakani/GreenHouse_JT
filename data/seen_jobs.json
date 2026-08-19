@@ -73800,7 +73800,7 @@
     "alerted": false
   },
   "greenhouse:adyen:6924441": {
-    "updated_at": "2026-08-18T05:18:18-04:00",
+    "updated_at": "2026-08-19T05:23:24-04:00",
     "title": "Senior Software Engineer (Java)",
     "company": "adyen",
     "ats": "greenhouse",
@@ -240048,7 +240048,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8041640": {
-    "updated_at": "2026-08-17T14:27:22-04:00",
+    "updated_at": "2026-08-19T05:05:05-04:00",
     "title": "Associate TSE II",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T04:48:39-04:00",
+    "updated_at": "2026-08-19T05:19:31-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T04:48:43-04:00",
+    "updated_at": "2026-08-19T05:19:34-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -246640,7 +246640,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8046973": {
-    "updated_at": "2026-08-15T13:30:00-04:00",
+    "updated_at": "2026-08-19T05:02:33-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-19T04:47:08-04:00",
+    "updated_at": "2026-08-19T05:17:16-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -294384,7 +294384,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7870782003": {
-    "updated_at": "2026-08-14T12:24:53-04:00",
+    "updated_at": "2026-08-19T05:00:19-04:00",
     "title": "Lead Talent Acquisition Partner",
     "company": "celonis",
     "ats": "greenhouse",
@@ -299864,7 +299864,7 @@
     "alerted": true
   },
   "greenhouse:ripple:8069849": {
-    "updated_at": "2026-08-18T18:28:53-04:00",
+    "updated_at": "2026-08-19T05:16:28-04:00",
     "title": "Senior Software Engineer",
     "company": "ripple",
     "ats": "greenhouse",
@@ -300389,6 +300389,38 @@
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:flexport:8141246": {
+    "updated_at": "2026-08-19T04:53:54-04:00",
+    "title": "Senior Software Engineer, Applied AI",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5376124008": {
+    "updated_at": "2026-08-19T04:52:31-04:00",
+    "title": "Senior Account Executive - Enterprise Sales",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8725981002": {
+    "updated_at": "2026-08-19T04:52:01-04:00",
+    "title": "Senior Engagement Manager - Germany",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:stripe:8128011": {
+    "updated_at": "2026-08-19T04:50:30-04:00",
+    "title": "University Recruiter (Fixed Term)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
