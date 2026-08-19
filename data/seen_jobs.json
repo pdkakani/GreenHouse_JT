@@ -221360,7 +221360,7 @@
     "alerted": false
   },
   "greenhouse:toast:8024446": {
-    "updated_at": "2026-07-21T11:57:37-04:00",
+    "updated_at": "2026-08-18T22:37:50-04:00",
     "title": "Territory Account Executive - Lexington KY",
     "company": "toast",
     "ats": "greenhouse",
@@ -221368,7 +221368,7 @@
     "alerted": false
   },
   "greenhouse:toast:8031231": {
-    "updated_at": "2026-07-21T11:57:37-04:00",
+    "updated_at": "2026-08-18T22:37:49-04:00",
     "title": "Territory Account Executive - Frankfort KY",
     "company": "toast",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-18T22:20:58-04:00",
+    "updated_at": "2026-08-18T23:19:32-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-18T22:21:02-04:00",
+    "updated_at": "2026-08-18T23:19:35-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -278792,8 +278792,8 @@
     "alerted": false
   },
   "greenhouse:okta:8080578": {
-    "updated_at": "2026-08-05T11:13:32-04:00",
-    "title": "Manager, Scaled Customer Success",
+    "updated_at": "2026-08-18T22:38:17-04:00",
+    "title": "Manager, Customer Success",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -298832,7 +298832,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8128738": {
-    "updated_at": "2026-08-18T13:20:45-04:00",
+    "updated_at": "2026-08-18T23:22:24-04:00",
     "title": "Customer Experience Associate, Pathways - New Graduates",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -300080,8 +300080,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8129494": {
-    "updated_at": "2026-08-18T21:27:41-04:00",
-    "title": "Territory Sales Manager, ASEAN DNB",
+    "updated_at": "2026-08-18T23:23:25-04:00",
+    "title": "Sales Manager, Digital Native (ASEAN)",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -300102,5 +300102,77 @@
     "ats": "lever",
     "source_slug": "leantaas",
     "alerted": false
+  },
+  "greenhouse:verkada:5215839007": {
+    "updated_at": "2026-08-18T23:25:13-04:00",
+    "title": "Staff Frontend Engineer - Mapping & Spatial Platform",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:verkada:5215838007": {
+    "updated_at": "2026-08-18T23:24:31-04:00",
+    "title": "Senior Backend Engineer - Access Control",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:flexport:8140695": {
+    "updated_at": "2026-08-18T23:22:00-04:00",
+    "title": "Ocean Planning Associate",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:verkada:5215837007": {
+    "updated_at": "2026-08-18T23:19:31-04:00",
+    "title": "Senior Frontend Engineer - Web Platform",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8133845": {
+    "updated_at": "2026-08-18T22:28:30-04:00",
+    "title": "Renewal Sales Specialist",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8134102": {
+    "updated_at": "2026-08-18T22:27:35-04:00",
+    "title": "Senior Renewal Sales Specialist I - Night Shift (5:30 PM to 2:30 AM)",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8140673": {
+    "updated_at": "2026-08-18T22:23:33-04:00",
+    "title": "Senior Manager, Customer Success APAC (Team Leader)",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:verkada:5215842007": {
+    "updated_at": "2026-08-18T23:26:47-04:00",
+    "title": "Senior Backend Engineer - Device Platform",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": true
+  },
+  "greenhouse:verkada:5215840007": {
+    "updated_at": "2026-08-18T23:25:58-04:00",
+    "title": "Senior Frontend Engineer - Access Control",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": true
   }
 }
