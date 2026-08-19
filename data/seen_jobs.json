@@ -149696,8 +149696,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:7606856": {
-    "updated_at": "2026-06-27T01:15:42-04:00",
-    "title": "Recruiter",
+    "updated_at": "2026-08-19T07:44:36-04:00",
+    "title": "Technical Recruiter",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T07:05:07-04:00",
+    "updated_at": "2026-08-19T07:34:24-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T07:05:10-04:00",
+    "updated_at": "2026-08-19T07:34:27-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-19T07:17:06-04:00",
+    "updated_at": "2026-08-19T07:32:45-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -299080,7 +299080,7 @@
     "alerted": false
   },
   "greenhouse:squarespace:8139231": {
-    "updated_at": "2026-08-18T15:05:57-04:00",
+    "updated_at": "2026-08-19T07:46:03-04:00",
     "title": "Customer Support Associate (Remote)",
     "company": "squarespace",
     "ats": "greenhouse",
@@ -300509,6 +300509,30 @@
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8138785": {
+    "updated_at": "2026-08-19T07:14:49-04:00",
+    "title": "Customer Resilience Manager",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391102008": {
+    "updated_at": "2026-08-19T06:40:31-04:00",
+    "title": "Customer Success Manager",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5390750008": {
+    "updated_at": "2026-08-19T06:31:25-04:00",
+    "title": "Partner Solutions Architect,Applied AI",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": false
   }
 }
