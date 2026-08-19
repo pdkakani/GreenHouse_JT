@@ -1416,7 +1416,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7558153": {
-    "updated_at": "2026-08-18T10:13:16-04:00",
+    "updated_at": "2026-08-19T14:56:24-04:00",
     "title": "Senior Threat Intelligence Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -30760,7 +30760,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8488324002": {
-    "updated_at": "2026-08-04T14:18:53-04:00",
+    "updated_at": "2026-08-19T14:59:47-04:00",
     "title": "Battery Test Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32312,7 +32312,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8440972002": {
-    "updated_at": "2026-07-24T17:17:54-04:00",
+    "updated_at": "2026-08-19T15:00:10-04:00",
     "title": "Hardware Test Automation Engineer, Satellites (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -32328,7 +32328,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8497592002": {
-    "updated_at": "2026-07-24T17:17:58-04:00",
+    "updated_at": "2026-08-19T14:59:33-04:00",
     "title": "Hardware Test Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -69072,7 +69072,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7242446003": {
-    "updated_at": "2026-06-26T18:39:23-04:00",
+    "updated_at": "2026-08-19T14:44:42-04:00",
     "title": "Commerce Lifecycle Marketing Manager",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -123896,7 +123896,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7440963": {
-    "updated_at": "2026-08-18T17:38:40-04:00",
+    "updated_at": "2026-08-19T14:48:01-04:00",
     "title": "Data Science Manager, Finance and Strategy",
     "company": "stripe",
     "ats": "greenhouse",
@@ -144312,7 +144312,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8536021002": {
-    "updated_at": "2026-08-06T18:44:08-04:00",
+    "updated_at": "2026-08-19T15:01:01-04:00",
     "title": "Integration Specialist (Starlink Aviation)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -153880,7 +153880,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7913702": {
-    "updated_at": "2026-08-06T12:10:06-04:00",
+    "updated_at": "2026-08-19T14:44:08-04:00",
     "title": "Staff Product Manager, Dashboard",
     "company": "stripe",
     "ats": "greenhouse",
@@ -171800,7 +171800,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8559982002": {
-    "updated_at": "2026-07-24T17:18:06-04:00",
+    "updated_at": "2026-08-19T14:42:58-04:00",
     "title": "Mechanical Engineer, PCB (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -175512,8 +175512,8 @@
     "alerted": false
   },
   "greenhouse:mixpanel:7943893": {
-    "updated_at": "2026-08-12T14:20:38-04:00",
-    "title": "Delivery Engineer",
+    "updated_at": "2026-08-19T14:53:32-04:00",
+    "title": "Delivery Engineer III",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
@@ -182096,7 +182096,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8562076002": {
-    "updated_at": "2026-07-24T17:18:07-04:00",
+    "updated_at": "2026-08-19T14:42:04-04:00",
     "title": "Chemical Engineer, PCB (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -187160,7 +187160,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7980795": {
-    "updated_at": "2026-08-19T08:08:18-04:00",
+    "updated_at": "2026-08-19T14:59:44-04:00",
     "title": "Staff Engineer, Ads Business Manager",
     "company": "reddit",
     "ats": "greenhouse",
@@ -223728,8 +223728,8 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8036055": {
-    "updated_at": "2026-08-12T14:20:38-04:00",
-    "title": "Delivery Engineer",
+    "updated_at": "2026-08-19T14:54:26-04:00",
+    "title": "Delivery Engineer III",
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T14:20:03-04:00",
+    "updated_at": "2026-08-19T14:49:17-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T14:20:06-04:00",
+    "updated_at": "2026-08-19T14:49:20-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245744,7 +245744,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8064055": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-19T14:57:51-04:00",
     "title": "Insider Threat Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -262464,7 +262464,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8083755": {
-    "updated_at": "2026-08-14T00:03:28-04:00",
+    "updated_at": "2026-08-19T15:00:52-04:00",
     "title": "Manager, Client Relationship Management",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -264584,7 +264584,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8081734": {
-    "updated_at": "2026-08-17T09:32:29-04:00",
+    "updated_at": "2026-08-19T14:46:33-04:00",
     "title": "Senior Analyst - Pricing & Packaging",
     "company": "fastly",
     "ats": "greenhouse",
@@ -279480,7 +279480,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8096901": {
-    "updated_at": "2026-08-14T09:12:55-04:00",
+    "updated_at": "2026-08-19T14:33:04-04:00",
     "title": "Renewal Account Executive - CML",
     "company": "samsara",
     "ats": "greenhouse",
@@ -287624,7 +287624,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8119292": {
-    "updated_at": "2026-08-17T14:27:22-04:00",
+    "updated_at": "2026-08-19T14:33:33-04:00",
     "title": "Senior Solutions Architect (Pre-Sales)",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -291480,7 +291480,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8705194002": {
-    "updated_at": "2026-08-13T09:23:52-04:00",
+    "updated_at": "2026-08-19T14:54:07-04:00",
     "title": "Senior Sales Engineer - Enterprise (Fluent Spanish Speaking)",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -292592,7 +292592,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8121327": {
-    "updated_at": "2026-08-19T13:18:55-04:00",
+    "updated_at": "2026-08-19T15:00:45-04:00",
     "title": "Enterprise Select Implementation Consultant (West)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -299880,7 +299880,7 @@
     "alerted": false
   },
   "greenhouse:okta:8129269": {
-    "updated_at": "2026-08-18T18:16:15-04:00",
+    "updated_at": "2026-08-19T14:39:36-04:00",
     "title": "Regional Sales Manager, Enterprise",
     "company": "okta",
     "ats": "greenhouse",
@@ -301400,7 +301400,7 @@
     "alerted": false
   },
   "greenhouse:chime:8728271002": {
-    "updated_at": "2026-08-19T13:47:27-04:00",
+    "updated_at": "2026-08-19T14:58:53-04:00",
     "title": "Program Manager, Member Experience",
     "company": "chime",
     "ats": "greenhouse",
@@ -301418,6 +301418,102 @@
   "greenhouse:spacex:8728763002": {
     "updated_at": "2026-08-19T14:20:18-04:00",
     "title": "Build Engineer (Starship Mechanisms)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:purestorage:8104235": {
+    "updated_at": "2026-08-19T14:57:09-04:00",
+    "title": "Firmware Simulation Engineer",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:tabapay:4706660006": {
+    "updated_at": "2026-08-19T14:54:46-04:00",
+    "title": "Strategic Partner Manager",
+    "company": "tabapay",
+    "ats": "greenhouse",
+    "source_slug": "tabapay",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8131181": {
+    "updated_at": "2026-08-19T14:54:38-04:00",
+    "title": "Staff Product Manager-  Integrations & Advisor Platform",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:stripe:8129958": {
+    "updated_at": "2026-08-19T14:51:45-04:00",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:ivalua:8142293": {
+    "updated_at": "2026-08-19T14:44:41-04:00",
+    "title": "Services Advisory Lead",
+    "company": "ivalua",
+    "ats": "greenhouse",
+    "source_slug": "ivalua",
+    "alerted": false
+  },
+  "greenhouse:fastly:8136477": {
+    "updated_at": "2026-08-19T14:44:08-04:00",
+    "title": "Staff Software Engineer - Customer Identity & Access Management (CIAM)",
+    "company": "fastly",
+    "ats": "greenhouse",
+    "source_slug": "fastly",
+    "alerted": false
+  },
+  "greenhouse:ivalua:7651685": {
+    "updated_at": "2026-08-19T14:41:48-04:00",
+    "title": "Services Advisory Lead",
+    "company": "ivalua",
+    "ats": "greenhouse",
+    "source_slug": "ivalua",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5392856008": {
+    "updated_at": "2026-08-19T14:33:07-04:00",
+    "title": "DevOps / AgentOps Engineer, GTM Systems",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:hightouch:6147539004": {
+    "updated_at": "2026-08-19T14:31:13-04:00",
+    "title": "Executive Assistant, Revenue Leadership",
+    "company": "hightouch",
+    "ats": "greenhouse",
+    "source_slug": "hightouch",
+    "alerted": false
+  },
+  "greenhouse:flex:4725823005": {
+    "updated_at": "2026-08-19T14:28:37-04:00",
+    "title": "Staff Software Engineer, Fullstack-MarTech",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8140013": {
+    "updated_at": "2026-08-19T14:26:09-04:00",
+    "title": "Customer Retention Manager",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:spacex:8716875002": {
+    "updated_at": "2026-08-19T14:59:24-04:00",
+    "title": "Environmental Health & Safety Engineer",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
