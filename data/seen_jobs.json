@@ -161760,7 +161760,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8552428002": {
-    "updated_at": "2026-07-24T17:18:04-04:00",
+    "updated_at": "2026-08-19T17:26:19-04:00",
     "title": "Instrumentation & Controls Technician",
     "company": "spacex",
     "ats": "greenhouse",
@@ -168544,8 +168544,8 @@
     "alerted": false
   },
   "greenhouse:verkada:5144160007": {
-    "updated_at": "2026-08-19T16:03:22-04:00",
-    "title": "Staff+ Software Engineer, Agentic Security",
+    "updated_at": "2026-08-19T17:35:32-04:00",
+    "title": "Staff+ Software Engineer, Agentic Software Security",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -169304,8 +169304,8 @@
     "alerted": false
   },
   "greenhouse:gusto:7899871": {
-    "updated_at": "2026-06-16T10:56:59-04:00",
-    "title": "Strategic Operations Lead",
+    "updated_at": "2026-08-19T17:47:51-04:00",
+    "title": "Benefits Operations Lead",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -199144,7 +199144,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7992903": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-19T17:21:34-04:00",
     "title": "Senior Network Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T17:04:51-04:00",
+    "updated_at": "2026-08-19T17:35:07-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T17:04:55-04:00",
+    "updated_at": "2026-08-19T17:35:11-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -290568,7 +290568,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5386949008": {
-    "updated_at": "2026-08-17T14:36:32-04:00",
+    "updated_at": "2026-08-19T17:37:48-04:00",
     "title": "IT Support Engineer",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -298704,8 +298704,8 @@
     "alerted": true
   },
   "greenhouse:airbnb:8138069": {
-    "updated_at": "2026-08-18T12:15:04-04:00",
-    "title": "Senior Software Engineer, Community Support Engineering (Agent Core Products)",
+    "updated_at": "2026-08-19T17:19:07-04:00",
+    "title": "Senior Software Engineer, Community Support Engineering (Frontend)",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -302245,6 +302245,94 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:verkada:5213991007": {
+    "updated_at": "2026-08-19T17:37:00-04:00",
+    "title": "Sales Recruiter, Channel",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:twilio:8142281": {
+    "updated_at": "2026-08-19T17:35:44-04:00",
+    "title": "Onboarding Operations Specialist 1",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:faire:8731172002": {
+    "updated_at": "2026-08-19T17:29:53-04:00",
+    "title": "Senior Staff Machine Learning Platform Engineer",
+    "company": "faire",
+    "ats": "greenhouse",
+    "source_slug": "faire",
+    "alerted": false
+  },
+  "greenhouse:verkada:5193871007": {
+    "updated_at": "2026-08-19T17:25:24-04:00",
+    "title": "Senior Product Designer",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:samsara:8132385": {
+    "updated_at": "2026-08-19T17:22:45-04:00",
+    "title": "Manager, Mid Market (West)",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:8132381": {
+    "updated_at": "2026-08-19T17:22:40-04:00",
+    "title": "Manager, Mid Market (East)",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:8132379": {
+    "updated_at": "2026-08-19T17:22:36-04:00",
+    "title": "Manager, Mid Market (Central)",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:chime:8731531002": {
+    "updated_at": "2026-08-19T17:18:53-04:00",
+    "title": "Program Manager, Voice of the Member",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:justworks:8139741": {
+    "updated_at": "2026-08-19T17:18:48-04:00",
+    "title": "Group Product Manager, Product Foundations",
+    "company": "justworks",
+    "ats": "greenhouse",
+    "source_slug": "justworks",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8142219": {
+    "updated_at": "2026-08-19T17:18:00-04:00",
+    "title": "Senior Customer Engineer, SLED West (California or Arizona)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:cribl:6144377004": {
+    "updated_at": "2026-08-19T17:47:29-04:00",
+    "title": "Software Engineer, Edge",
+    "company": "cribl",
+    "ats": "greenhouse",
+    "source_slug": "cribl",
     "alerted": true
   }
 }
