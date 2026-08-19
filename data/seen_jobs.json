@@ -79352,7 +79352,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:7593617": {
-    "updated_at": "2026-06-03T08:12:00-04:00",
+    "updated_at": "2026-08-19T06:50:13-04:00",
     "title": "Technical Support Specialist",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -79360,7 +79360,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:7593618": {
-    "updated_at": "2026-06-03T08:12:01-04:00",
+    "updated_at": "2026-08-19T06:47:20-04:00",
     "title": "Technical Support Specialist - L1 (Hybrid)",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -223120,8 +223120,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8612120002": {
-    "updated_at": "2026-08-19T01:08:56-04:00",
-    "title": "Software Engineer II, iOS",
+    "updated_at": "2026-08-19T06:32:30-04:00",
+    "title": "Software Engineer II, iOS, Growth",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -223144,8 +223144,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8612080002": {
-    "updated_at": "2026-08-19T01:12:57-04:00",
-    "title": "Software Engineer I, iOS",
+    "updated_at": "2026-08-19T06:33:04-04:00",
+    "title": "Software Engineer I, iOS, Growth",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -233056,8 +233056,8 @@
     "alerted": false
   },
   "greenhouse:celonis:7791267003": {
-    "updated_at": "2026-07-07T05:35:26-04:00",
-    "title": "Software Engineer - Java",
+    "updated_at": "2026-08-19T06:48:06-04:00",
+    "title": "Associate Software Engineer - Java",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -241128,7 +241128,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8048082": {
-    "updated_at": "2026-08-13T13:01:42-04:00",
+    "updated_at": "2026-08-19T06:50:01-04:00",
     "title": "Enterprise Account Executive",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T06:19:22-04:00",
+    "updated_at": "2026-08-19T06:49:12-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T06:19:25-04:00",
+    "updated_at": "2026-08-19T06:49:14-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -247752,7 +247752,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8015771": {
-    "updated_at": "2026-08-07T10:36:00-04:00",
+    "updated_at": "2026-08-19T06:43:59-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -264056,7 +264056,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8078992": {
-    "updated_at": "2026-08-18T02:16:41-04:00",
+    "updated_at": "2026-08-19T06:49:21-04:00",
     "title": "GAM - Indian GSIs",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -281136,7 +281136,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7957439": {
-    "updated_at": "2026-08-19T04:37:52-04:00",
+    "updated_at": "2026-08-19T06:52:14-04:00",
     "title": "Senior Sales Engineer",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -285136,8 +285136,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8693210002": {
-    "updated_at": "2026-08-19T00:22:26-04:00",
-    "title": "Senior Software Engineer, iOS",
+    "updated_at": "2026-08-19T06:31:20-04:00",
+    "title": "Senior Software Engineer, iOS, Growth",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -287232,7 +287232,7 @@
     "alerted": false
   },
   "greenhouse:cribl:6140843004": {
-    "updated_at": "2026-08-13T13:57:14-04:00",
+    "updated_at": "2026-08-19T06:52:13-04:00",
     "title": "Partner Solutions Engineer, Southern Europe",
     "company": "cribl",
     "ats": "greenhouse",
@@ -290368,8 +290368,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8701378002": {
-    "updated_at": "2026-08-19T00:17:01-04:00",
-    "title": "Senior Software Engineer, iOS",
+    "updated_at": "2026-08-19T06:30:33-04:00",
+    "title": "Senior Software Engineer, iOS, Monetization",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -290664,8 +290664,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8702391002": {
-    "updated_at": "2026-08-19T00:19:25-04:00",
-    "title": "Senior Software Engineer, Android",
+    "updated_at": "2026-08-19T06:34:46-04:00",
+    "title": "Senior Software Engineer, Android, Monetization",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -290688,8 +290688,8 @@
     "alerted": false
   },
   "greenhouse:duolingo:8702288002": {
-    "updated_at": "2026-08-19T00:21:08-04:00",
-    "title": "Senior Software Engineer, Backend",
+    "updated_at": "2026-08-19T06:34:01-04:00",
+    "title": "Senior Software Engineer, Backend, Monetization",
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
@@ -291568,7 +291568,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8121716": {
-    "updated_at": "2026-08-14T05:30:11-04:00",
+    "updated_at": "2026-08-19T06:51:01-04:00",
     "title": "GAM - GSIs",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -300477,6 +300477,38 @@
     "company": "convera",
     "ats": "greenhouse",
     "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5247989008": {
+    "updated_at": "2026-08-19T06:29:48-04:00",
+    "title": "Solution Architect, Applied AI",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:datadog:6485604": {
+    "updated_at": "2026-08-19T06:17:40-04:00",
+    "title": "Key Accounts Executive - EMEA",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8122010": {
+    "updated_at": "2026-08-19T06:17:36-04:00",
+    "title": "Member of Technical Staff,  Portworx - Fullstack Engineering Lead (React & Go)",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:braze:8131999": {
+    "updated_at": "2026-08-19T06:16:17-04:00",
+    "title": "Account Executive - Open Application",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
     "alerted": false
   }
 }
