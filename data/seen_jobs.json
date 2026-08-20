@@ -6160,7 +6160,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7679244003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Customer Support Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6168,7 +6168,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7626166003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Customer Support Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6240,7 +6240,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7524547003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Product Manager, Data & Integrations",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6248,7 +6248,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7524543003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Product Manager, Data & Integrations",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6256,7 +6256,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7547715003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Product Manager, Enterprise Platform",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6264,7 +6264,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7535819003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Product Manager, Enterprise Platform",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6288,7 +6288,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:6666499003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Product Manager, Reverse ETL",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6296,7 +6296,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:6648720003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Product Manager, Reverse ETL",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6464,7 +6464,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7651403003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Sr. Principal AI Systems Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -6472,7 +6472,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7644168003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Staff Product Manager, Reverse ETL",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -25632,7 +25632,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5709067004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Applied AI Engineer - Enterprise Solutions",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25640,7 +25640,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5721276004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Applied AI Engineer, Federal - Top Secret Clearance",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25656,7 +25656,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5689470004": {
-    "updated_at": "2026-08-20T11:59:17-04:00",
+    "updated_at": "2026-08-20T12:36:19-04:00",
     "title": "Forward Deployed Engineer - Data as a Service",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25672,7 +25672,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5828338004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Head of Forward Deployed Engineering",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25680,7 +25680,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5839660004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Software Engineer - Infrastructure Cloud Security",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25696,7 +25696,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5830807004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Manager, Forward Deployed Engineering",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25720,7 +25720,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5971772004": {
-    "updated_at": "2026-08-20T12:07:39-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Software Engineer - AI / ML",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25728,7 +25728,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5844049004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Software Engineer - Developer Experience",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25736,7 +25736,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5848145004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Software Engineer - Expert Contributor Lifecycle",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25744,7 +25744,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5842319004": {
-    "updated_at": "2026-08-20T12:08:53-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Software Engineer - Expert Data Collection Platform",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25752,7 +25752,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5970324004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:41:18-04:00",
     "title": "Senior Software Engineer \u2014 AI Infrastructure",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25760,7 +25760,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5844047004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Software Engineer in Test - Infrastructure",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -25768,7 +25768,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5831080004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Staff Applied AI Engineer - Pre-Sales",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -26360,7 +26360,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4670172006": {
-    "updated_at": "2026-08-13T13:15:06-04:00",
+    "updated_at": "2026-08-20T12:50:07-04:00",
     "title": "Senior Production Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -33728,7 +33728,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7531397": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-20T12:27:02-04:00",
     "title": "Software Engineer, Multiverse",
     "company": "waymo",
     "ats": "greenhouse",
@@ -49672,7 +49672,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7656004003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Principal Product Designer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -52072,7 +52072,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7708796003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -52080,7 +52080,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7708787003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -52096,7 +52096,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7708774003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -52104,7 +52104,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7702143003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -59248,7 +59248,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5690608004": {
-    "updated_at": "2026-08-20T11:59:17-04:00",
+    "updated_at": "2026-08-20T12:36:19-04:00",
     "title": "Research Scientist",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -61256,7 +61256,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5837448004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Director, Forward Deployed Researcher - Data as a Service",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -62848,7 +62848,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5798456004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Director, Research - Human Data Systems",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -66408,8 +66408,8 @@
     "alerted": false
   },
   "greenhouse:samsara:7786156": {
-    "updated_at": "2026-08-14T09:12:47-04:00",
-    "title": "Sr. Product Manager I, In-vehicle Experience",
+    "updated_at": "2026-08-20T12:55:21-04:00",
+    "title": "Sr. Product Manager, Driver Management",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -67000,7 +67000,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7674622003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Marketing Insights Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -83448,7 +83448,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7688674003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Site Reliability Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -83456,7 +83456,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7687902003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Staff Software Development Engineer in Test",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -83696,7 +83696,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7659463003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -83792,7 +83792,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7655370003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Software Development Engineer in Test",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -83800,7 +83800,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7649908003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Technical Product Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -83808,7 +83808,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7661577003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Technical Product Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -83992,7 +83992,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7618979003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:49:38-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -84000,7 +84000,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7618988003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:49:38-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -84008,7 +84008,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7618982003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:49:38-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -84016,7 +84016,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7583477003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -84024,7 +84024,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7618992003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:38-04:00",
     "title": "Regional Director, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -97584,7 +97584,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5821400004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Product Manager - Data & Quality",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -97592,7 +97592,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5822681004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Strategy & Operations Manager",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -97632,7 +97632,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5669696004": {
-    "updated_at": "2026-08-20T11:59:17-04:00",
+    "updated_at": "2026-08-20T12:36:19-04:00",
     "title": "Manager, Technical Delivery",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -98168,7 +98168,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7503045003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:49:38-04:00",
     "title": "Senior Account Executive, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -101920,7 +101920,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7496253": {
-    "updated_at": "2026-08-12T15:59:08-04:00",
+    "updated_at": "2026-08-20T12:57:27-04:00",
     "title": "Technical Support Engineer 2, Premier - EMEA",
     "company": "datadog",
     "ats": "greenhouse",
@@ -109080,7 +109080,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7494261003": {
-    "updated_at": "2026-08-20T10:55:41-04:00",
+    "updated_at": "2026-08-20T12:49:38-04:00",
     "title": "Senior Account Executive, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -109416,8 +109416,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7757167": {
-    "updated_at": "2026-05-06T13:17:06-04:00",
-    "title": "Sales Development Associate- B\u00f3kun",
+    "updated_at": "2026-08-20T12:44:21-04:00",
+    "title": "Sales Development Associate- B\u00f3kun (6 month fixed term contract)",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -128496,7 +128496,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7711200003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Principal Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -134736,7 +134736,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5984577004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Software Engineer \u2014 AI Infrastructure",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -138624,7 +138624,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5986019004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Engagement Manager - Data as a Service",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -146896,7 +146896,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5990079004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Business Operations Manager",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -148400,7 +148400,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7725857003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Full Stack Engineer - Developer Productivity",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -150208,7 +150208,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7724750003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:55:24-04:00",
     "title": "Business Development Representative, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -158416,7 +158416,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7723267003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Site Reliability Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -163736,7 +163736,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140253007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-20T12:59:53-04:00",
     "title": "Senior Digital Growth Manager, JAPAC",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163744,7 +163744,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140211007": {
-    "updated_at": "2026-07-16T19:36:26-04:00",
+    "updated_at": "2026-08-20T12:59:53-04:00",
     "title": "Senior Digital Growth Manager, JAPAC",
     "company": "verkada",
     "ats": "greenhouse",
@@ -163976,7 +163976,7 @@
     "alerted": false
   },
   "greenhouse:okta:7919336": {
-    "updated_at": "2026-08-19T01:36:59-04:00",
+    "updated_at": "2026-08-20T12:28:17-04:00",
     "title": "Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -164096,7 +164096,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7735025003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer - Database Connectors",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -164360,7 +164360,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7727208003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer - SaaS Connectors",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -166704,7 +166704,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6001496004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Staff Product Manager - Infrastructure, Data & Security",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -171184,7 +171184,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6004431004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Operations Manager - Enterprise AI Solutions",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -171920,7 +171920,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6004711004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Product Marketing Manager - Frontier Labs",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -172504,7 +172504,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7735002003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Product Manager, Monetization Platform",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -172576,7 +172576,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7747624003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Staff DevOps Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -175408,7 +175408,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7742243003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Sales Engineer, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -176112,7 +176112,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7961297": {
-    "updated_at": "2026-08-20T09:01:50-04:00",
+    "updated_at": "2026-08-20T12:52:19-04:00",
     "title": "Partner Technology Solutions Engineer",
     "company": "datadog",
     "ats": "greenhouse",
@@ -178432,7 +178432,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7955200": {
-    "updated_at": "2026-06-02T14:49:30-04:00",
+    "updated_at": "2026-08-20T12:27:49-04:00",
     "title": "Senior Frontend Engineer, Community Builders",
     "company": "reddit",
     "ats": "greenhouse",
@@ -178496,7 +178496,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6008612004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Staff HR Business Partner",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -179040,7 +179040,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7747140003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:55:24-04:00",
     "title": "Customer Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -179744,7 +179744,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7746783003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Sales Engineer, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -180064,7 +180064,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6009496004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Research Scientist - RL Training",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -180072,7 +180072,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6009489004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Research Scientist - Frontier Benchmarks",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -181976,7 +181976,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7430555": {
-    "updated_at": "2026-06-08T20:15:49-04:00",
+    "updated_at": "2026-08-20T12:32:17-04:00",
     "title": "Software Engineer, Simulation Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -190528,7 +190528,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6015385004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Head of Data Quality",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -190976,7 +190976,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6015781004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Payroll, Global Payroll & Compliance Manager",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -196336,7 +196336,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7655493003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:55:24-04:00",
     "title": "Senior Tax Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -198048,7 +198048,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7735422003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Product Manager, Growth",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -200088,7 +200088,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6020877004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Director, Research - Evaluation & Training",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -205432,7 +205432,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7771684003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Principal Software Engineer - Data Lakes",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -205776,7 +205776,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7772283003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -205872,7 +205872,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6089316004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Mission Account Executive \u2013 Intelligence Community",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -206048,7 +206048,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8010600": {
-    "updated_at": "2026-06-20T03:32:53-04:00",
+    "updated_at": "2026-08-20T12:47:58-04:00",
     "title": "Strategic Intelligence Manager, Protective Intelligence",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -209232,7 +209232,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7688580003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:58:41-04:00",
     "title": "Senior Site Reliability Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -213296,7 +213296,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7780519003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Technical Product Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -213592,7 +213592,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7768594003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -214944,7 +214944,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7781597003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Technical Product Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -218256,7 +218256,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7778979003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -218424,7 +218424,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7739966003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Systems Engineer - R&D Business Systems",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -218800,7 +218800,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7785674003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Sales Engineer, Enterprise - German Speaking",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -218808,7 +218808,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7785672003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Sales Engineer, Enterprise - German Speaking",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -225640,7 +225640,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6104260004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Lead Data Scientist",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -225696,7 +225696,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787879003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Technical Writer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -225720,7 +225720,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787915003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Software Engineer - Semantic Layer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -225936,7 +225936,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787885003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Product Manager - Fusion",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -225984,7 +225984,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787927003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Senior Sales Onboarding Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -226000,7 +226000,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787881003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:55:24-04:00",
     "title": "Enterprise Sales Director",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -226072,7 +226072,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787897003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Commercial Sales Director (Benelux)",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -226200,7 +226200,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787911003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer - Semantic Layer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -226368,7 +226368,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790605003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer - Infrastructure",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -226936,7 +226936,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790607003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Manager, Customer Support Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -227104,7 +227104,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790852003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Global Alliance Lead",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -227880,7 +227880,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790909003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Product Manager, Developer Experience",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -228136,7 +228136,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7790795003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -229696,7 +229696,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5984033004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Head of Supply",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -229920,7 +229920,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7786001003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Revenue Operations Manager, Global Commercial Expansion",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -230304,7 +230304,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7785999003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -232880,7 +232880,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7780075003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -234200,7 +234200,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7789375003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Software Engineer, Fullstack",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -235960,7 +235960,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7799051003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Technical Product Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -237504,7 +237504,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787917003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Software Engineer - Prism",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239408,7 +239408,7 @@
     "alerted": true
   },
   "greenhouse:snorkelai:6113165004": {
-    "updated_at": "2026-08-20T11:59:19-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Staff Software Engineer - Expert Contributor Lifecycle",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -239456,7 +239456,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7796551003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Business Development Representative - DACH",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239840,7 +239840,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7801104003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239848,7 +239848,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7801100003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -239856,7 +239856,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7801099003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Director, GTM Strategy & Planning",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -240280,7 +240280,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7801673003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Senior Analyst, Field Operations",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -240288,7 +240288,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7793233003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Senior Analyst, Field Operations",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -241752,7 +241752,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7800393003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Deal Desk Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -243192,7 +243192,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787889003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Enterprise Sales Director (PNW)",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T12:19:40-04:00",
+    "updated_at": "2026-08-20T12:49:36-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T12:19:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244648,7 +244648,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7805078003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Global Alliance Lead",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -245640,7 +245640,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7735023003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Sales Engineer, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -247896,7 +247896,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7799116003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Site Reliability Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -248512,7 +248512,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787891003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Majors Sales Director (Bay Area)",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -249096,7 +249096,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7807482003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Staff Web Growth Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -249104,7 +249104,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7807040003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Staff Web Growth Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -249200,7 +249200,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7799030003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Global Ecosystem Technology Partner Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -249848,7 +249848,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7806328003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Account Executive, Commercial - Middle East/Africa",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250000,7 +250000,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7792160003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Sales Development Representative",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250056,7 +250056,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7796447003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Commercial Sales Director",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250368,7 +250368,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7796453003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Customer Sales Director",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -250456,7 +250456,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7796439003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Customer Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -252536,7 +252536,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7809734003": {
-    "updated_at": "2026-08-20T10:55:42-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Marketing Insights Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253616,7 +253616,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810468003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253624,7 +253624,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810467003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253632,7 +253632,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810466003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253640,7 +253640,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810218003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253672,7 +253672,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810451003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253680,7 +253680,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810450003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253688,7 +253688,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810446003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -253696,7 +253696,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810361003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -254056,7 +254056,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7806295003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Pricing Data Scientist",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -255336,7 +255336,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7812006003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -255344,7 +255344,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7812000003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -255352,7 +255352,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7811996003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -255368,7 +255368,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810220003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff R&D Software Engineer, Fivetran AI",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -257592,7 +257592,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787925003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Senior Instructional Designer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -257992,7 +257992,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7813005003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Manager Business Development, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -259848,7 +259848,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7812269003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Principal Software Engineer, AI Tooling & Adoption",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -262056,7 +262056,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808191003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Product Design Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -262424,7 +262424,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7811889003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264016,7 +264016,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7792166003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Commercial Solutions Architect - Texas",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264104,7 +264104,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6122605004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Head of TA Operations & Insights",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -264480,7 +264480,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818063003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264488,7 +264488,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818058003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264496,7 +264496,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818053003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264504,7 +264504,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818051003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264528,7 +264528,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7812261003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Account Executive, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -264832,7 +264832,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6122801004": {
-    "updated_at": "2026-08-20T11:59:18-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Head of Talent Sourcing, Data-as-a-Service",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -265480,7 +265480,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7814036003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Site Reliability Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -267560,7 +267560,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7747138003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -267920,7 +267920,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7820250003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Senior Sales Engineer, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -267984,7 +267984,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8083128": {
-    "updated_at": "2026-08-12T15:59:08-04:00",
+    "updated_at": "2026-08-20T12:57:39-04:00",
     "title": "Technical Support Engineer 3, Premier - EMEA",
     "company": "datadog",
     "ats": "greenhouse",
@@ -268312,7 +268312,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6129848004": {
-    "updated_at": "2026-08-20T11:59:19-04:00",
+    "updated_at": "2026-08-20T12:36:20-04:00",
     "title": "Senior Manager, Forward Deployed Research",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -269544,7 +269544,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6122805004": {
-    "updated_at": "2026-08-20T11:59:19-04:00",
+    "updated_at": "2026-08-20T12:36:21-04:00",
     "title": "Head of Technical Recruiting",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -270592,7 +270592,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7810395003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -272024,7 +272024,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7822456003": {
-    "updated_at": "2026-08-20T10:55:46-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Senior Product Design Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -273208,7 +273208,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7823099003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Organic Growth Lead, SEO & GEO",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -273232,7 +273232,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7816739003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Organic Growth Lead, SEO & GEO",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -273696,7 +273696,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7822951003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Senior Business Value Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -273736,7 +273736,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6132492004": {
-    "updated_at": "2026-08-20T11:59:19-04:00",
+    "updated_at": "2026-08-20T12:36:21-04:00",
     "title": "Engagement Manager, AI Solutions - Federal",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -274160,7 +274160,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818306003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Software Engineer - Developer Productivity",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -274216,7 +274216,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818252003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Staff Software Engineer - Developer Productivity",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -275904,7 +275904,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7786036003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Customer Solutions Architect 3",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -276864,7 +276864,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7796528003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Senior Solutions Architect, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -278544,7 +278544,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818368003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Software Engineer - Pricing & Buying Experience",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -279296,7 +279296,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818324003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Manager, Software Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -279352,7 +279352,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818352003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Staff Software Engineer_dbt core",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -280152,7 +280152,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6135754004": {
-    "updated_at": "2026-08-20T11:59:19-04:00",
+    "updated_at": "2026-08-20T12:36:21-04:00",
     "title": "Accounting Manager, Technical Accounting & Financial Reporting",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -281040,7 +281040,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7822654003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Sales Engineer, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -281352,7 +281352,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818276003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Marketing Operations Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -283200,7 +283200,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7812779003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:55:25-04:00",
     "title": "Business Development Rep, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -283848,7 +283848,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818382003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:55:25-04:00",
     "title": "Sales Director",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -283896,7 +283896,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818344003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:55:25-04:00",
     "title": "Partner Sales Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -284784,7 +284784,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818294003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Staff Software Engineer - Infrastructure",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -284848,7 +284848,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818372003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Engineering Manager, Automations & Internal Tooling",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -284888,7 +284888,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7822402003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Software Engineer - Core Databases",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -284968,7 +284968,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7847762003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Software Engineer - C Programmer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -285408,7 +285408,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818433003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Sales Director",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -285464,7 +285464,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787887003": {
-    "updated_at": "2026-08-20T10:55:44-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Customer Solutions Architect, Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286176,7 +286176,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7823193003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Staff Software Engineer, Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286408,7 +286408,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850596003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286416,7 +286416,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850560003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286424,7 +286424,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850542003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286432,7 +286432,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818318003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286528,7 +286528,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850660003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286536,7 +286536,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850655003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286544,7 +286544,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850598003": {
-    "updated_at": "2026-08-20T10:55:50-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286704,7 +286704,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851635003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286712,7 +286712,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851633003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286720,7 +286720,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851595003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286728,7 +286728,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851585003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286736,7 +286736,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851583003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286744,7 +286744,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851581003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286752,7 +286752,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851535003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286760,7 +286760,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851489003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286768,7 +286768,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851487003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286776,7 +286776,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851446003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286784,7 +286784,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851441003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -286792,7 +286792,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851439003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -287040,7 +287040,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7823195003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Engineering Manager, Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -287520,7 +287520,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7851682003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -289368,7 +289368,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7857955003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:49:40-04:00",
     "title": "Business Development Representative - DACH",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -289560,7 +289560,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7859203003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Engineering Manager, Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -290088,7 +290088,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7830053003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -291560,7 +291560,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818250003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Staff Software Engineer_Fusion Adapters",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -291824,7 +291824,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7865148003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Product Manager, Enterprise & Deployments",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -291856,7 +291856,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818304003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Product Manager, Enterprise & Deployments",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292040,7 +292040,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7854831003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292056,7 +292056,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7864668003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Staff Software Engineer, Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292064,7 +292064,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7864598003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Staff Software Engineer, Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292072,7 +292072,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865037003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Engineering Manager, Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292080,7 +292080,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865163003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Product Manager, Enterprise & Deployments",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292088,7 +292088,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865162003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Product Manager, Enterprise & Deployments",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292120,7 +292120,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6143275004": {
-    "updated_at": "2026-08-20T11:59:19-04:00",
+    "updated_at": "2026-08-20T12:36:21-04:00",
     "title": "Director, Corporate Legal (AGC)",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -292248,7 +292248,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865591003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Senior Software Engineer - Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292256,7 +292256,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865559003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Software Engineer - Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292264,7 +292264,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818374003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Senior Software Engineer - Metadata",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292504,7 +292504,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861358003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292512,7 +292512,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861356003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292520,7 +292520,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861354003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292528,7 +292528,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861353003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292536,7 +292536,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861285003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292544,7 +292544,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861268003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292672,7 +292672,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861360003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292680,7 +292680,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7861361003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292800,7 +292800,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7866562003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292808,7 +292808,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7866563003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292816,7 +292816,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7866561003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292824,7 +292824,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7866559003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292832,7 +292832,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7866560003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292840,7 +292840,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7866558003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292848,7 +292848,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7862460003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -292856,7 +292856,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818399003": {
-    "updated_at": "2026-08-20T10:55:51-04:00",
+    "updated_at": "2026-08-20T12:49:42-04:00",
     "title": "Senior Manager, Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -293352,7 +293352,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7811646003": {
-    "updated_at": "2026-08-20T10:55:47-04:00",
+    "updated_at": "2026-08-20T12:55:25-04:00",
     "title": "Strategic Finance Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -295080,7 +295080,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8125586": {
-    "updated_at": "2026-08-18T17:38:48-04:00",
+    "updated_at": "2026-08-20T12:39:00-04:00",
     "title": "Regional Security Manager, Americas",
     "company": "stripe",
     "ats": "greenhouse",
@@ -295120,7 +295120,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7872211003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Business Development Representative, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -295128,7 +295128,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7872209003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Business Development Representative, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -295136,7 +295136,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7734857003": {
-    "updated_at": "2026-08-20T10:55:43-04:00",
+    "updated_at": "2026-08-20T12:49:39-04:00",
     "title": "Business Development Representative, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -295896,7 +295896,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7859686003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Staff Technical Program Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -296224,7 +296224,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7868539003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Technical Program Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -296272,7 +296272,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7885745003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Business Development Representative",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -296472,7 +296472,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818274003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Customer Solutions Engineer II",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -297456,7 +297456,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818263003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Resident Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -298080,7 +298080,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7868797003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:55:25-04:00",
     "title": "Senior Billing AR Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -299080,7 +299080,7 @@
     "alerted": false
   },
   "greenhouse:squarespace:8139231": {
-    "updated_at": "2026-08-19T10:43:27-04:00",
+    "updated_at": "2026-08-20T12:35:56-04:00",
     "title": "Customer Support Associate (Remote)",
     "company": "squarespace",
     "ats": "greenhouse",
@@ -299112,7 +299112,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7894115003": {
-    "updated_at": "2026-08-20T10:55:48-04:00",
+    "updated_at": "2026-08-20T12:49:41-04:00",
     "title": "Partner Solutions Architect",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -299520,7 +299520,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7894333003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Product Manager, Developer Experience",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -299560,7 +299560,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7894342003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Product Manager, Developer Experience",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -299568,7 +299568,7 @@
     "alerted": true
   },
   "greenhouse:fivetran:7894337003": {
-    "updated_at": "2026-08-20T10:55:45-04:00",
+    "updated_at": "2026-08-20T12:58:42-04:00",
     "title": "Staff Product Manager, Developer Experience",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -299752,7 +299752,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7894565003": {
-    "updated_at": "2026-08-20T10:55:53-04:00",
+    "updated_at": "2026-08-20T12:58:44-04:00",
     "title": "Technical Program Manager, Security",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -299800,7 +299800,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7875706003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Senior Sales Engineer, Enterprise",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -300712,7 +300712,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7865248003": {
-    "updated_at": "2026-08-20T10:55:49-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Product Manager, Enterprise & Deployments",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -300896,7 +300896,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850882003": {
-    "updated_at": "2026-08-20T10:55:52-04:00",
+    "updated_at": "2026-08-20T12:49:43-04:00",
     "title": "Global Technology Alliance Manager, Databricks",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -301552,7 +301552,7 @@
     "alerted": false
   },
   "greenhouse:cribl:6147586004": {
-    "updated_at": "2026-08-19T15:25:38-04:00",
+    "updated_at": "2026-08-20T12:39:47-04:00",
     "title": "Revenue Strategy & Planning, Sr. Manager",
     "company": "cribl",
     "ats": "greenhouse",
@@ -302648,7 +302648,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818388003": {
-    "updated_at": "2026-08-20T10:58:31-04:00",
+    "updated_at": "2026-08-20T12:58:43-04:00",
     "title": "Senior Developer Experience Advocate",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -303518,5 +303518,133 @@
     "ats": "lever",
     "source_slug": "teamsnap",
     "alerted": false
+  },
+  "greenhouse:formlabs:8144586": {
+    "updated_at": "2026-08-20T12:52:33-04:00",
+    "title": "Senior Advanced Manufacturing Engineer",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391289008": {
+    "updated_at": "2026-08-20T12:47:32-04:00",
+    "title": "Enterprise Account Executive, Insurance",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8121962": {
+    "updated_at": "2026-08-20T12:43:48-04:00",
+    "title": "Principal Product Manager II, AI/Vectors",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:alloy:8733608002": {
+    "updated_at": "2026-08-20T12:42:38-04:00",
+    "title": "Senior Solutions Engineer",
+    "company": "alloy",
+    "ats": "greenhouse",
+    "source_slug": "alloy",
+    "alerted": false
+  },
+  "greenhouse:verkada:5216322007": {
+    "updated_at": "2026-08-20T12:38:44-04:00",
+    "title": "Sales Strategy and Operations Division Lead",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5393526008": {
+    "updated_at": "2026-08-20T12:35:52-04:00",
+    "title": "Product Manager, Cyber Security",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:samsara:8129501": {
+    "updated_at": "2026-08-20T12:35:27-04:00",
+    "title": "AV Events Engineer",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:braze:8140049": {
+    "updated_at": "2026-08-20T12:30:49-04:00",
+    "title": "Technical Support Specialist",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8139484": {
+    "updated_at": "2026-08-20T12:30:48-04:00",
+    "title": "Technical Support Specialist",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8130853": {
+    "updated_at": "2026-08-20T12:30:47-04:00",
+    "title": "Technical Support Specialist",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8139467": {
+    "updated_at": "2026-08-20T12:30:47-04:00",
+    "title": "Technical Support Specialist",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8118855": {
+    "updated_at": "2026-08-20T12:26:40-04:00",
+    "title": "Software Engineer Intern (Fall 2026)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:toast:8103687": {
+    "updated_at": "2026-08-20T12:22:11-04:00",
+    "title": "Territory Account Executive, SMB - Eastmont, WA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:duolingo:8733672002": {
+    "updated_at": "2026-08-20T12:05:28-04:00",
+    "title": "Senior Localization Program Manager",
+    "company": "duolingo",
+    "ats": "greenhouse",
+    "source_slug": "duolingo",
+    "alerted": false
+  },
+  "greenhouse:stripe:8138000": {
+    "updated_at": "2026-08-20T12:59:03-04:00",
+    "title": "Communities Partner Development Manager, SaaS Platforms",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": true
+  },
+  "greenhouse:stripe:8103952": {
+    "updated_at": "2026-08-20T12:54:21-04:00",
+    "title": "Communities Partner Development Manager, SaaS Platforms",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": true
   }
 }
