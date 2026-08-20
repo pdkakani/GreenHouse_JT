@@ -205488,7 +205488,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8007449": {
-    "updated_at": "2026-08-19T10:27:19-04:00",
+    "updated_at": "2026-08-20T04:11:06-04:00",
     "title": "Senior/Staff Applied Research Software Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -231216,8 +231216,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8568043002": {
-    "updated_at": "2026-08-18T14:15:09-04:00",
-    "title": "Sr. Manager, Field Engineering - Lakebase",
+    "updated_at": "2026-08-20T04:50:54-04:00",
+    "title": "APJ Field Engineering Leader - Lakebase",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T03:48:33-04:00",
+    "updated_at": "2026-08-20T04:48:46-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T03:48:36-04:00",
+    "updated_at": "2026-08-20T04:48:49-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-19T21:17:15-04:00",
+    "updated_at": "2026-08-20T04:32:42-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -286984,7 +286984,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8108891": {
-    "updated_at": "2026-08-18T17:37:34-04:00",
+    "updated_at": "2026-08-20T04:27:28-04:00",
     "title": "Account Executive - SEA, Platforms (Grower)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -287232,7 +287232,7 @@
     "alerted": false
   },
   "greenhouse:cribl:6140843004": {
-    "updated_at": "2026-08-19T06:52:13-04:00",
+    "updated_at": "2026-08-20T04:39:43-04:00",
     "title": "Partner Solutions Engineer, Southern Europe",
     "company": "cribl",
     "ats": "greenhouse",
@@ -302853,6 +302853,46 @@
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:adyen:8143458": {
+    "updated_at": "2026-08-20T04:20:27-04:00",
+    "title": "Customer Risk Review Analyst",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:braze:8131990": {
+    "updated_at": "2026-08-20T04:11:11-04:00",
+    "title": "AVP, Partner Sales",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:workato:8716961002": {
+    "updated_at": "2026-08-20T03:50:26-04:00",
+    "title": "Intern, Communications",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:datadog:8131949": {
+    "updated_at": "2026-08-20T03:21:03-04:00",
+    "title": "Commercial & Mid-Market Sales Engineer",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:datadog:8130580": {
+    "updated_at": "2026-08-20T03:21:02-04:00",
+    "title": "Commercial & Mid-Market Sales Engineer",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
     "alerted": false
   }
 }
