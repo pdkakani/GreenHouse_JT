@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-19T21:35:36-04:00",
+    "updated_at": "2026-08-19T22:34:56-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-19T21:35:39-04:00",
+    "updated_at": "2026-08-19T22:34:59-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -302629,6 +302629,38 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5396397008": {
+    "updated_at": "2026-08-19T21:25:09-04:00",
+    "title": "IT Support Engineer",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8731991002": {
+    "updated_at": "2026-08-19T20:53:29-04:00",
+    "title": "New Graduate Engineer, Civil/Structural (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7818388003": {
+    "updated_at": "2026-08-19T22:37:31-04:00",
+    "title": "Senior Developer Experience Advocate",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": true
+  },
+  "greenhouse:spacex:8730577002": {
+    "updated_at": "2026-08-19T22:13:42-04:00",
+    "title": "Automation & Controls Technician, Infrastructure & Utility (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
