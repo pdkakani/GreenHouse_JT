@@ -121048,8 +121048,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7807860": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
-    "title": "Senior Named Account Executive, Las Vegas",
+    "updated_at": "2026-08-20T14:01:04-04:00",
+    "title": "Senior Territory Account Executive, Oregon",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -166744,7 +166744,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7932060": {
-    "updated_at": "2026-08-09T05:11:55-04:00",
+    "updated_at": "2026-08-20T13:51:57-04:00",
     "title": "Director, People Analytics & Enablement",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -190744,7 +190744,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8564989002": {
-    "updated_at": "2026-08-20T12:01:24-04:00",
+    "updated_at": "2026-08-20T13:54:08-04:00",
     "title": "Production Supervisor (Cleanroom) - 2nd Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -207648,7 +207648,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8013533": {
-    "updated_at": "2026-08-17T09:32:29-04:00",
+    "updated_at": "2026-08-20T13:52:52-04:00",
     "title": "Senior Account Executive, Enterprise (SoCal)",
     "company": "fastly",
     "ats": "greenhouse",
@@ -237384,8 +237384,8 @@
     "alerted": false
   },
   "greenhouse:squarespace:8046062": {
-    "updated_at": "2026-08-19T10:44:18-04:00",
-    "title": "Marketing Programs Manager",
+    "updated_at": "2026-08-20T13:57:28-04:00",
+    "title": "GTM Marketing Programs Manager",
     "company": "squarespace",
     "ats": "greenhouse",
     "source_slug": "squarespace",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T13:34:15-04:00",
+    "updated_at": "2026-08-20T13:49:16-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T13:34:18-04:00",
+    "updated_at": "2026-08-20T13:49:19-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -280376,7 +280376,7 @@
     "alerted": false
   },
   "greenhouse:postman:7824502003": {
-    "updated_at": "2026-08-05T16:39:21-04:00",
+    "updated_at": "2026-08-20T13:57:21-04:00",
     "title": "Account Executive",
     "company": "postman",
     "ats": "greenhouse",
@@ -301544,7 +301544,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8730689002": {
-    "updated_at": "2026-08-19T15:31:29-04:00",
+    "updated_at": "2026-08-20T13:49:28-04:00",
     "title": "Sr. Sourcing Specialist (Starship Pad)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -301560,7 +301560,7 @@
     "alerted": false
   },
   "greenhouse:braze:8139241": {
-    "updated_at": "2026-08-19T16:21:28-04:00",
+    "updated_at": "2026-08-20T13:59:55-04:00",
     "title": "Partner Development Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -302336,7 +302336,7 @@
     "alerted": true
   },
   "greenhouse:humaninterest:8140491": {
-    "updated_at": "2026-08-19T17:58:32-04:00",
+    "updated_at": "2026-08-20T13:54:45-04:00",
     "title": "Partner Account Manager - San Diego",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -303728,11 +303728,99 @@
     "alerted": false
   },
   "greenhouse:gitlab:8709925002": {
-    "updated_at": "2026-08-20T13:31:45-04:00",
+    "updated_at": "2026-08-20T13:37:13-04:00",
     "title": "Senior Assigned Support Engineer (AMER)",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
     "alerted": true
+  },
+  "greenhouse:newrelic:5396746008": {
+    "updated_at": "2026-08-20T13:54:38-04:00",
+    "title": "Manager, GTM Engineering (Automation & AI)",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8701290002": {
+    "updated_at": "2026-08-20T13:51:05-04:00",
+    "title": "Senior Assigned Support Engineer (EMEA)",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8144765": {
+    "updated_at": "2026-08-20T13:47:35-04:00",
+    "title": "Renewals Manager",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:sofi:7871448003": {
+    "updated_at": "2026-08-20T13:46:18-04:00",
+    "title": "Associate AI Engineer, Finance Transformation",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8144760": {
+    "updated_at": "2026-08-20T13:45:45-04:00",
+    "title": "Renewals Manager",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8143229": {
+    "updated_at": "2026-08-20T13:45:33-04:00",
+    "title": "Renewals Manager",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:intercom:8123007": {
+    "updated_at": "2026-08-20T13:41:01-04:00",
+    "title": "Solutions Engineer",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:intercom:8144743": {
+    "updated_at": "2026-08-20T13:41:00-04:00",
+    "title": "Solutions Engineer",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:lyft:8733650002": {
+    "updated_at": "2026-08-20T13:35:41-04:00",
+    "title": "Software Engineer, iOS Integrity",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7821360003": {
+    "updated_at": "2026-08-20T13:32:41-04:00",
+    "title": "R&D Recruiting Lead",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8108586": {
+    "updated_at": "2026-08-20T13:29:11-04:00",
+    "title": "Senior Sales Engineer",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
   }
 }
