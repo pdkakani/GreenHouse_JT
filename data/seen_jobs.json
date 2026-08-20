@@ -79976,7 +79976,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:7686222": {
-    "updated_at": "2026-07-31T04:09:11-04:00",
+    "updated_at": "2026-08-20T02:35:11-04:00",
     "title": "Senior AI/ML Ops Engineer-II (Hybrid in Bangalore)",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -217904,7 +217904,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8027022": {
-    "updated_at": "2026-08-17T09:32:29-04:00",
+    "updated_at": "2026-08-20T03:01:01-04:00",
     "title": "Senior Partnerships Lead",
     "company": "fastly",
     "ats": "greenhouse",
@@ -225720,7 +225720,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787915003": {
-    "updated_at": "2026-08-19T10:13:23-04:00",
+    "updated_at": "2026-08-20T02:44:13-04:00",
     "title": "Staff Software Engineer - Semantic Layer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T02:19:37-04:00",
+    "updated_at": "2026-08-20T03:19:07-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T02:19:40-04:00",
+    "updated_at": "2026-08-20T03:19:10-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -252112,7 +252112,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8066310": {
-    "updated_at": "2026-07-20T04:48:03-04:00",
+    "updated_at": "2026-08-20T03:02:46-04:00",
     "title": "Fraud Operations Associate SDC",
     "company": "stripe",
     "ats": "greenhouse",
@@ -283504,7 +283504,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7798567003": {
-    "updated_at": "2026-08-14T12:44:13-04:00",
+    "updated_at": "2026-08-20T03:22:20-04:00",
     "title": "Senior Producer - Customer Testimonials",
     "company": "celonis",
     "ats": "greenhouse",
@@ -295880,7 +295880,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5390742008": {
-    "updated_at": "2026-08-17T06:17:58-04:00",
+    "updated_at": "2026-08-20T03:13:32-04:00",
     "title": "Solutions Architect, Applied AI",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -297016,7 +297016,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5392968008": {
-    "updated_at": "2026-08-17T16:02:14-04:00",
+    "updated_at": "2026-08-20T03:03:54-04:00",
     "title": "Regional Safety & Security Manager, Americas",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -302797,6 +302797,54 @@
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8141031": {
+    "updated_at": "2026-08-20T03:07:18-04:00",
+    "title": "Engineering Manager, Flash Blade",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8141033": {
+    "updated_at": "2026-08-20T03:02:33-04:00",
+    "title": "Member of Technical Staff, FlashBlade",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:toast:8138812": {
+    "updated_at": "2026-08-20T03:01:25-04:00",
+    "title": "Senior Software Engineer",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8695815002": {
+    "updated_at": "2026-08-20T02:29:08-04:00",
+    "title": "Senior Backend Engineer (Ruby on Rails), Plan: Planning Views",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:braze:8130268": {
+    "updated_at": "2026-08-20T02:14:31-04:00",
+    "title": "Account Executive, SMB",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8121053": {
+    "updated_at": "2026-08-20T02:04:40-04:00",
+    "title": "Software Engineer - Cloud Native Protection",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
     "alerted": false
   }
 }
