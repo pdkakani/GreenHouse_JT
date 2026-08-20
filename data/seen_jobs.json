@@ -46192,7 +46192,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7230921": {
-    "updated_at": "2026-08-18T17:38:39-04:00",
+    "updated_at": "2026-08-20T18:27:19-04:00",
     "title": "Risk Operations Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -60776,8 +60776,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7762871": {
-    "updated_at": "2026-07-31T14:19:16-04:00",
-    "title": "Senior Product Manager, DevAI & Agentic Workflows",
+    "updated_at": "2026-08-20T18:51:10-04:00",
+    "title": "Group Product Manager, DevAI & Agentic Workflows",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -78144,7 +78144,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7472386": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-20T18:47:51-04:00",
     "title": "Enterprise Account Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -202264,7 +202264,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5160587007": {
-    "updated_at": "2026-08-19T01:02:14-04:00",
+    "updated_at": "2026-08-20T18:33:25-04:00",
     "title": "Senior Global Operations Specialist",
     "company": "verkada",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T18:05:09-04:00",
+    "updated_at": "2026-08-20T18:48:52-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T18:05:13-04:00",
+    "updated_at": "2026-08-20T18:48:55-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -260624,7 +260624,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5194132007": {
-    "updated_at": "2026-08-19T01:02:16-04:00",
+    "updated_at": "2026-08-20T18:46:21-04:00",
     "title": "Enterprise Account Executive (Vancouver)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -262272,7 +262272,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8084124": {
-    "updated_at": "2026-07-24T15:24:29-04:00",
+    "updated_at": "2026-08-20T18:23:19-04:00",
     "title": "Inbound Sales Development Representative",
     "company": "flexport",
     "ats": "greenhouse",
@@ -266232,8 +266232,8 @@
     "alerted": false
   },
   "greenhouse:waymo:8076964": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
-    "title": "Safety Engineer",
+    "updated_at": "2026-08-20T18:38:27-04:00",
+    "title": "Safety Engineer - Risk Management",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -267352,7 +267352,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8054121": {
-    "updated_at": "2026-08-18T17:37:30-04:00",
+    "updated_at": "2026-08-20T18:35:23-04:00",
     "title": "Technical Program Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -287472,7 +287472,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8042309": {
-    "updated_at": "2026-08-18T17:38:46-04:00",
+    "updated_at": "2026-08-20T18:32:59-04:00",
     "title": "Program Manager, GTM Strategic Programs",
     "company": "stripe",
     "ats": "greenhouse",
@@ -303752,7 +303752,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8144765": {
-    "updated_at": "2026-08-20T13:47:35-04:00",
+    "updated_at": "2026-08-20T18:20:13-04:00",
     "title": "Renewals Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -304632,7 +304632,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8144140": {
-    "updated_at": "2026-08-20T18:16:12-04:00",
+    "updated_at": "2026-08-20T18:32:02-04:00",
     "title": "Staff Software Engineer, Salesforce Developer",
     "company": "gusto",
     "ats": "greenhouse",
@@ -304645,6 +304645,70 @@
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
+    "alerted": true
+  },
+  "greenhouse:dropbox:8094537": {
+    "updated_at": "2026-08-20T18:30:37-04:00",
+    "title": "Renewals Strategy Principal Program Manager",
+    "company": "dropbox",
+    "ats": "greenhouse",
+    "source_slug": "dropbox",
+    "alerted": false
+  },
+  "greenhouse:workato:8676088002": {
+    "updated_at": "2026-08-20T18:27:04-04:00",
+    "title": "Customer Success Program Manager",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:instacart:8146070": {
+    "updated_at": "2026-08-20T18:21:59-04:00",
+    "title": "AI Solutions Lead, Marketing",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8145998": {
+    "updated_at": "2026-08-20T18:21:58-04:00",
+    "title": "AI Solutions Lead, Marketing",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8145979": {
+    "updated_at": "2026-08-20T18:21:35-04:00",
+    "title": "Program Manager Contingent Workforce",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:instacart:8145958": {
+    "updated_at": "2026-08-20T18:21:34-04:00",
+    "title": "Program Manager Contingent Workforce",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:verkada:5218033007": {
+    "updated_at": "2026-08-20T18:16:37-04:00",
+    "title": "People Operations Associate",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:adyen:8137858": {
+    "updated_at": "2026-08-20T18:51:58-04:00",
+    "title": "Senior Vertical Manager, Digital Content, Media & Communications",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
     "alerted": true
   }
 }
