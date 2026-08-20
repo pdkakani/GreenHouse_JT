@@ -21728,8 +21728,8 @@
     "alerted": true
   },
   "greenhouse:fellow:5100473007": {
-    "updated_at": "2026-08-20T15:58:06-04:00",
-    "title": "VP of Software",
+    "updated_at": "2026-08-20T16:51:12-04:00",
+    "title": "Vice President, Software",
     "company": "fellow",
     "ats": "greenhouse",
     "source_slug": "fellow",
@@ -26048,7 +26048,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4617382006": {
-    "updated_at": "2026-08-20T13:20:00-04:00",
+    "updated_at": "2026-08-20T16:24:32-04:00",
     "title": "Operations Engineer, Fleet Reliability",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -53184,7 +53184,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4247993007": {
-    "updated_at": "2026-06-24T17:45:17-04:00",
+    "updated_at": "2026-08-20T16:49:57-04:00",
     "title": "Account Executive, Select, Phoenix",
     "company": "verkada",
     "ats": "greenhouse",
@@ -54696,7 +54696,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8495374002": {
-    "updated_at": "2026-08-06T07:25:22-04:00",
+    "updated_at": "2026-08-20T16:46:52-04:00",
     "title": "Sr. SDET",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -162752,7 +162752,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5140198007": {
-    "updated_at": "2026-08-20T16:00:05-04:00",
+    "updated_at": "2026-08-20T16:26:58-04:00",
     "title": "Sales Compensation Manager (Sr)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -174104,7 +174104,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7895287": {
-    "updated_at": "2026-08-18T17:59:14-04:00",
+    "updated_at": "2026-08-20T16:31:44-04:00",
     "title": "Backend Engineer, Payments Experiences",
     "company": "stripe",
     "ats": "greenhouse",
@@ -205744,7 +205744,7 @@
     "alerted": false
   },
   "greenhouse:huntress:7766484003": {
-    "updated_at": "2026-06-16T16:07:11-04:00",
+    "updated_at": "2026-08-20T16:43:15-04:00",
     "title": "Senior Production Artist",
     "company": "huntress",
     "ats": "greenhouse",
@@ -232440,7 +232440,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8027573": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-08-20T16:47:38-04:00",
     "title": "Partner Development Manager, Financial Connections",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T16:18:46-04:00",
+    "updated_at": "2026-08-20T16:49:45-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T16:18:52-04:00",
+    "updated_at": "2026-08-20T16:49:49-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250600,7 +250600,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8044218": {
-    "updated_at": "2026-08-17T14:27:22-04:00",
+    "updated_at": "2026-08-20T16:50:11-04:00",
     "title": "Associate Technical Services Engineer II",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -258360,7 +258360,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8065812": {
-    "updated_at": "2026-08-17T14:27:22-04:00",
+    "updated_at": "2026-08-20T16:49:53-04:00",
     "title": "Technical Services Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -280544,7 +280544,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8089358": {
-    "updated_at": "2026-08-19T15:43:00-04:00",
+    "updated_at": "2026-08-20T16:42:28-04:00",
     "title": "Product Communications: crypto products",
     "company": "stripe",
     "ats": "greenhouse",
@@ -287936,8 +287936,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8120259": {
-    "updated_at": "2026-08-17T21:59:26-04:00",
-    "title": "Vendor Manager, Operational Vendor Support",
+    "updated_at": "2026-08-20T16:29:36-04:00",
+    "title": "Vendor Manager, Operational Vendor Support (Insurance)",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -290072,7 +290072,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8700554002": {
-    "updated_at": "2026-08-12T13:00:37-04:00",
+    "updated_at": "2026-08-20T16:43:12-04:00",
     "title": "Supplier Development Engineer (PCB/PCBA)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -301528,8 +301528,8 @@
     "alerted": false
   },
   "greenhouse:braze:8115092": {
-    "updated_at": "2026-08-19T15:34:22-04:00",
-    "title": "Senior Partner Account Director",
+    "updated_at": "2026-08-20T16:29:22-04:00",
+    "title": "Senior Partner Account Director - Technology Partnerships - AWS",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -304192,7 +304192,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8734207002": {
-    "updated_at": "2026-08-20T15:54:16-04:00",
+    "updated_at": "2026-08-20T16:30:07-04:00",
     "title": "Engineering Manager, Product",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -304288,11 +304288,171 @@
     "alerted": false
   },
   "greenhouse:coinbase:8144772": {
-    "updated_at": "2026-08-20T16:19:35-04:00",
-    "title": "Sr. Staff Software Engineer, Unified Trading Architect",
+    "updated_at": "2026-08-20T16:39:04-04:00",
+    "title": "Sr. Staff Technical Architect, Unified Trading",
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
+    "alerted": true
+  },
+  "greenhouse:instacart:8143263": {
+    "updated_at": "2026-08-20T16:48:48-04:00",
+    "title": "Machine Learning Engineer II, Ads - Response Prediction",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8144769": {
+    "updated_at": "2026-08-20T16:42:47-04:00",
+    "title": "Staff Infrastructure Engineer, Trading",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8081430": {
+    "updated_at": "2026-08-20T16:41:48-04:00",
+    "title": "Senior Software Engineer",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391376008": {
+    "updated_at": "2026-08-20T16:41:32-04:00",
+    "title": "Account Executive - DNB",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:snorkelai:6148958004": {
+    "updated_at": "2026-08-20T16:41:08-04:00",
+    "title": "Software Engineer \u2014 Platform",
+    "company": "snorkelai",
+    "ats": "greenhouse",
+    "source_slug": "snorkelai",
+    "alerted": false
+  },
+  "greenhouse:braze:8139393": {
+    "updated_at": "2026-08-20T16:36:59-04:00",
+    "title": "Account Executive, Enterprise",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:twitch:8734520002": {
+    "updated_at": "2026-08-20T16:36:59-04:00",
+    "title": "People Partner",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": false
+  },
+  "greenhouse:braze:8139390": {
+    "updated_at": "2026-08-20T16:36:58-04:00",
+    "title": "Account Executive, Enterprise",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8128818": {
+    "updated_at": "2026-08-20T16:36:58-04:00",
+    "title": "Account Executive, Enterprise",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4725753005": {
+    "updated_at": "2026-08-20T16:36:19-04:00",
+    "title": "Strategic Account Executive, Los Angeles",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": false
+  },
+  "greenhouse:snorkelai:6148803004": {
+    "updated_at": "2026-08-20T16:36:13-04:00",
+    "title": "Software Engineer \u2014 Product",
+    "company": "snorkelai",
+    "ats": "greenhouse",
+    "source_slug": "snorkelai",
+    "alerted": false
+  },
+  "greenhouse:braze:8145911": {
+    "updated_at": "2026-08-20T16:29:41-04:00",
+    "title": "Senior Partner Account Director - Technology Partnerships - AWS",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8145908": {
+    "updated_at": "2026-08-20T16:29:34-04:00",
+    "title": "Senior Partner Account Director - Technology Partnerships - AWS",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:braze:8145903": {
+    "updated_at": "2026-08-20T16:29:28-04:00",
+    "title": "Senior Partner Account Director - Technology Partnerships - AWS",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4726168005": {
+    "updated_at": "2026-08-20T16:27:14-04:00",
+    "title": "Enterprise Account Executive, Denver",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391322008": {
+    "updated_at": "2026-08-20T16:24:35-04:00",
+    "title": "Enterprise Account Executive - Industries Generalist",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:samsara:7618028": {
+    "updated_at": "2026-08-20T16:18:39-04:00",
+    "title": "Mid-Market Account Executive - Mexico",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:spacex:8734205002": {
+    "updated_at": "2026-08-20T16:06:24-04:00",
+    "title": "Supervisor, Equipment Maintenance - Silicon Assembly (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:snorkelai:6149003004": {
+    "updated_at": "2026-08-20T16:52:45-04:00",
+    "title": "Software Engineer \u2014 Test",
+    "company": "snorkelai",
+    "ats": "greenhouse",
+    "source_slug": "snorkelai",
+    "alerted": true
+  },
+  "greenhouse:snorkelai:6148995004": {
+    "updated_at": "2026-08-20T16:52:13-04:00",
+    "title": "Software Engineer \u2014 Security",
+    "company": "snorkelai",
+    "ats": "greenhouse",
+    "source_slug": "snorkelai",
     "alerted": true
   }
 }
