@@ -63456,8 +63456,8 @@
     "alerted": false
   },
   "greenhouse:okta:7703326": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Staff Engineer, Developer Platform",
+    "updated_at": "2026-08-20T03:54:55-04:00",
+    "title": "Staff Engineer, FGA DevEx",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -142864,8 +142864,8 @@
     "alerted": false
   },
   "greenhouse:okta:7780942": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
-    "title": "Senior Engineer, FGA Developer Tooling",
+    "updated_at": "2026-08-20T03:52:58-04:00",
+    "title": "Senior Engineer, FGA DevEx",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -212704,7 +212704,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8021857": {
-    "updated_at": "2026-07-08T15:18:14-04:00",
+    "updated_at": "2026-08-20T03:48:06-04:00",
     "title": "Derivative Sales Analyst (Prosumer Sales)",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -231384,7 +231384,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7703720": {
-    "updated_at": "2026-07-08T19:34:51-04:00",
+    "updated_at": "2026-08-20T03:29:25-04:00",
     "title": "Recruiter - Sales Organization",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T03:19:07-04:00",
+    "updated_at": "2026-08-20T03:48:33-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T03:19:10-04:00",
+    "updated_at": "2026-08-20T03:48:36-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -274360,7 +274360,7 @@
     "alerted": false
   },
   "greenhouse:workato:8659240002": {
-    "updated_at": "2026-08-10T03:39:11-04:00",
+    "updated_at": "2026-08-20T04:02:58-04:00",
     "title": "Commercial Customer Success Manager - Contract",
     "company": "workato",
     "ats": "greenhouse",
@@ -295448,7 +295448,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615268002": {
-    "updated_at": "2026-08-16T09:04:52-04:00",
+    "updated_at": "2026-08-20T03:45:37-04:00",
     "title": "Staff Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -297832,7 +297832,7 @@
     "alerted": true
   },
   "greenhouse:abnormalsecurity:7884804003": {
-    "updated_at": "2026-08-19T01:57:00-04:00",
+    "updated_at": "2026-08-20T03:45:52-04:00",
     "title": "Software Engineer II - Full Stack_Identity Platform",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -298296,7 +298296,7 @@
     "alerted": true
   },
   "greenhouse:flexport:8050483": {
-    "updated_at": "2026-08-18T10:25:33-04:00",
+    "updated_at": "2026-08-20T03:58:20-04:00",
     "title": "Senior Software Engineer, Customs",
     "company": "flexport",
     "ats": "greenhouse",
@@ -302845,6 +302845,14 @@
     "company": "rubrik",
     "ats": "greenhouse",
     "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:purestorage:7882477": {
+    "updated_at": "2026-08-20T03:14:39-04:00",
+    "title": "Security Operations Engineer",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
     "alerted": false
   }
 }
