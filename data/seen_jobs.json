@@ -235040,7 +235040,7 @@
     "alerted": false
   },
   "greenhouse:cribl:6109420004": {
-    "updated_at": "2026-08-13T13:57:14-04:00",
+    "updated_at": "2026-08-20T05:03:14-04:00",
     "title": "Senior Site Reliability Engineer",
     "company": "cribl",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T04:48:46-04:00",
+    "updated_at": "2026-08-20T05:19:23-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T04:48:49-04:00",
+    "updated_at": "2026-08-20T05:19:26-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -265216,7 +265216,7 @@
     "alerted": false
   },
   "greenhouse:toast:8038726": {
-    "updated_at": "2026-08-18T16:34:44-04:00",
+    "updated_at": "2026-08-20T05:17:16-04:00",
     "title": "Inside Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -298440,7 +298440,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8119523": {
-    "updated_at": "2026-08-18T10:54:12-04:00",
+    "updated_at": "2026-08-20T05:20:16-04:00",
     "title": "Senior Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -300728,7 +300728,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5393720008": {
-    "updated_at": "2026-08-19T09:01:25-04:00",
+    "updated_at": "2026-08-20T05:24:05-04:00",
     "title": "Field Marketing Manager, APAC",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -302893,6 +302893,30 @@
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8073775": {
+    "updated_at": "2026-08-20T04:50:49-04:00",
+    "title": "Senior Backend Engineer",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:braze:8143478": {
+    "updated_at": "2026-08-20T04:40:02-04:00",
+    "title": "Network Engineer II",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:stripe:8007692": {
+    "updated_at": "2026-08-20T04:34:41-04:00",
+    "title": "Product Manager, Professional Services",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
