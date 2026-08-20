@@ -21728,7 +21728,7 @@
     "alerted": true
   },
   "greenhouse:fellow:5100473007": {
-    "updated_at": "2026-07-08T13:21:12-04:00",
+    "updated_at": "2026-08-20T15:58:06-04:00",
     "title": "VP of Software",
     "company": "fellow",
     "ats": "greenhouse",
@@ -35392,7 +35392,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4135168007": {
-    "updated_at": "2026-08-19T01:00:22-04:00",
+    "updated_at": "2026-08-20T16:21:04-04:00",
     "title": "Product Design Mechanical Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -68120,7 +68120,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7673202": {
-    "updated_at": "2026-08-13T12:23:52-04:00",
+    "updated_at": "2026-08-20T15:57:29-04:00",
     "title": "Head of Global Sales Enablement and AI Adoption",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -68128,7 +68128,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7673207": {
-    "updated_at": "2026-08-13T12:24:15-04:00",
+    "updated_at": "2026-08-20T15:57:29-04:00",
     "title": "Head of Global Sales Enablement and AI Adoption",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -85200,7 +85200,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7668585": {
-    "updated_at": "2026-08-17T16:41:34-04:00",
+    "updated_at": "2026-08-20T16:03:15-04:00",
     "title": "Senior People Partner, GTM",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -97592,7 +97592,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5822681004": {
-    "updated_at": "2026-08-20T12:36:20-04:00",
+    "updated_at": "2026-08-20T16:02:16-04:00",
     "title": "Senior Strategy & Operations Manager",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -97632,7 +97632,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5669696004": {
-    "updated_at": "2026-08-20T12:36:19-04:00",
+    "updated_at": "2026-08-20T15:58:57-04:00",
     "title": "Manager, Technical Delivery",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -162752,8 +162752,8 @@
     "alerted": false
   },
   "greenhouse:verkada:5140198007": {
-    "updated_at": "2026-08-19T01:02:13-04:00",
-    "title": "Sales Compensation Manager",
+    "updated_at": "2026-08-20T16:00:05-04:00",
+    "title": "Sales Compensation Manager (Sr)",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -174112,7 +174112,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7895284": {
-    "updated_at": "2026-08-18T17:59:14-04:00",
+    "updated_at": "2026-08-20T16:14:48-04:00",
     "title": "Full Stack Software Engineer, Brazil",
     "company": "stripe",
     "ats": "greenhouse",
@@ -178496,7 +178496,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6008612004": {
-    "updated_at": "2026-08-20T15:33:17-04:00",
+    "updated_at": "2026-08-20T16:07:39-04:00",
     "title": "Staff HR Business Partner",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -182184,7 +182184,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7974481": {
-    "updated_at": "2026-08-20T09:01:50-04:00",
+    "updated_at": "2026-08-20T15:57:49-04:00",
     "title": "Senior Product Manager - Search",
     "company": "datadog",
     "ats": "greenhouse",
@@ -212776,7 +212776,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8017300": {
-    "updated_at": "2026-08-20T15:21:32-04:00",
+    "updated_at": "2026-08-20T16:04:09-04:00",
     "title": "Senior Counsel, Privacy and Regulatory",
     "company": "fastly",
     "ats": "greenhouse",
@@ -216880,7 +216880,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5277834008": {
-    "updated_at": "2026-08-03T18:25:22-04:00",
+    "updated_at": "2026-08-20T16:19:13-04:00",
     "title": "Manager, Applied AI Engineering,  Beneficial Deployments (Life Sciences)",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -225640,7 +225640,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6104260004": {
-    "updated_at": "2026-08-20T15:55:07-04:00",
+    "updated_at": "2026-08-20T15:57:01-04:00",
     "title": "Lead Data Scientist",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T15:49:40-04:00",
+    "updated_at": "2026-08-20T16:18:46-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T15:49:43-04:00",
+    "updated_at": "2026-08-20T16:18:52-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -261776,7 +261776,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6106455004": {
-    "updated_at": "2026-08-02T14:51:25-04:00",
+    "updated_at": "2026-08-20T16:15:20-04:00",
     "title": "Lead, Retention Strategy",
     "company": "coursera",
     "ats": "greenhouse",
@@ -274104,8 +274104,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8658859002": {
-    "updated_at": "2026-08-03T09:57:20-04:00",
-    "title": "Electric Engineer, Energy Infrastructure & Generation",
+    "updated_at": "2026-08-20T16:07:28-04:00",
+    "title": "Electrical Engineer, Energy Infrastructure & Generation",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -275472,7 +275472,7 @@
     "alerted": true
   },
   "greenhouse:samsara:8104166": {
-    "updated_at": "2026-08-20T14:53:45-04:00",
+    "updated_at": "2026-08-20T16:02:36-04:00",
     "title": "AI Architect - GTM Systems",
     "company": "samsara",
     "ats": "greenhouse",
@@ -275480,7 +275480,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7578952": {
-    "updated_at": "2026-08-20T14:53:45-04:00",
+    "updated_at": "2026-08-20T16:02:36-04:00",
     "title": "AI Architect - GTM Systems",
     "company": "samsara",
     "ats": "greenhouse",
@@ -279040,8 +279040,8 @@
     "alerted": false
   },
   "greenhouse:justworks:8106946": {
-    "updated_at": "2026-08-05T10:19:09-04:00",
-    "title": "Demand Generation Campaign Manager",
+    "updated_at": "2026-08-20T16:14:12-04:00",
+    "title": "Demand Campaign Manager",
     "company": "justworks",
     "ats": "greenhouse",
     "source_slug": "justworks",
@@ -298544,7 +298544,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8139360": {
-    "updated_at": "2026-08-19T19:14:27-04:00",
+    "updated_at": "2026-08-20T15:59:05-04:00",
     "title": "Senior Account Executive, Select Accounts",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -298944,7 +298944,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:8129878": {
-    "updated_at": "2026-08-19T09:10:51-04:00",
+    "updated_at": "2026-08-20T15:59:51-04:00",
     "title": "Regional Marketing Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -301624,8 +301624,8 @@
     "alerted": false
   },
   "greenhouse:waymo:8142158": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
-    "title": "Director, FP&A - Supply Chain",
+    "updated_at": "2026-08-20T16:02:06-04:00",
+    "title": "Director, FP&A - HW Engineering & Supply Chain",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -302576,8 +302576,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5390952008": {
-    "updated_at": "2026-08-19T20:23:16-04:00",
-    "title": "Strategy & Operations - Frontier",
+    "updated_at": "2026-08-20T16:02:40-04:00",
+    "title": "GTM Strategy & Operations, Frontier",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -303184,7 +303184,7 @@
     "alerted": true
   },
   "greenhouse:mixpanel:8143101": {
-    "updated_at": "2026-08-20T10:15:20-04:00",
+    "updated_at": "2026-08-20T16:18:54-04:00",
     "title": "Customer Value Architect",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -304197,6 +304197,102 @@
     "company": "duolingo",
     "ats": "greenhouse",
     "source_slug": "duolingo",
+    "alerted": true
+  },
+  "greenhouse:mixpanel:8145568": {
+    "updated_at": "2026-08-20T16:01:28-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145438": {
+    "updated_at": "2026-08-20T15:59:43-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145425": {
+    "updated_at": "2026-08-20T15:59:42-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145170": {
+    "updated_at": "2026-08-20T15:59:14-04:00",
+    "title": "Senior Account Executive, Select Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145152": {
+    "updated_at": "2026-08-20T15:59:14-04:00",
+    "title": "Senior Account Executive, Select Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145139": {
+    "updated_at": "2026-08-20T15:59:12-04:00",
+    "title": "Senior Account Executive, Select Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145135": {
+    "updated_at": "2026-08-20T15:59:11-04:00",
+    "title": "Senior Account Executive, Select Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145131": {
+    "updated_at": "2026-08-20T15:59:10-04:00",
+    "title": "Senior Account Executive, Select Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:upstart:8142745": {
+    "updated_at": "2026-08-20T15:57:14-04:00",
+    "title": "Senior Manager, Product Design - Design Platform",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145316": {
+    "updated_at": "2026-08-20T15:56:33-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8145244": {
+    "updated_at": "2026-08-20T15:52:06-04:00",
+    "title": "Senior Account Executive, Vertical Accounts",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8144772": {
+    "updated_at": "2026-08-20T16:19:35-04:00",
+    "title": "Sr. Staff Software Engineer, Unified Trading Architect",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
     "alerted": true
   }
 }
