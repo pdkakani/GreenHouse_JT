@@ -5944,7 +5944,7 @@
     "alerted": true
   },
   "greenhouse:okta:7536447": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-08-20T17:09:20-04:00",
     "title": "Senior Solutions Engineer- West Coast",
     "company": "okta",
     "ats": "greenhouse",
@@ -19440,7 +19440,7 @@
     "alerted": true
   },
   "greenhouse:flexport:7740282": {
-    "updated_at": "2026-07-20T19:36:45-04:00",
+    "updated_at": "2026-08-20T16:56:58-04:00",
     "title": "Senior Product Manager",
     "company": "flexport",
     "ats": "greenhouse",
@@ -33312,7 +33312,7 @@
     "alerted": false
   },
   "greenhouse:waymo:6773081": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-20T16:59:41-04:00",
     "title": "Senior Software Engineer - Multiverse",
     "company": "waymo",
     "ats": "greenhouse",
@@ -122008,8 +122008,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7839759": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
-    "title": "Staff Technical Lead Manager, Onboard Map Expansion",
+    "updated_at": "2026-08-20T16:57:22-04:00",
+    "title": "Staff Technical Lead Manager, Scenes, Onboard Map Expansion",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -218016,8 +218016,8 @@
     "alerted": false
   },
   "greenhouse:gusto:8008009": {
-    "updated_at": "2026-07-10T12:46:46-04:00",
-    "title": "Product Marketing Leader, Gusto Core Products",
+    "updated_at": "2026-08-20T17:17:14-04:00",
+    "title": "Product Marketing Leader - Innovation & Experimentation",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -242080,7 +242080,7 @@
     "alerted": false
   },
   "greenhouse:faire:8631486002": {
-    "updated_at": "2026-08-20T14:48:57-04:00",
+    "updated_at": "2026-08-20T17:03:09-04:00",
     "title": "Principal Product Manager, Financial Products",
     "company": "faire",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T16:49:45-04:00",
+    "updated_at": "2026-08-20T17:19:03-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T16:49:49-04:00",
+    "updated_at": "2026-08-20T17:19:07-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -249904,7 +249904,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8629113002": {
-    "updated_at": "2026-08-18T15:16:19-04:00",
+    "updated_at": "2026-08-20T17:14:02-04:00",
     "title": "Solutions Architect - Strat Media",
     "company": "databricks",
     "ats": "greenhouse",
@@ -254656,8 +254656,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8064601": {
-    "updated_at": "2026-08-12T18:03:52-04:00",
-    "title": "Technical Product Management Manager, Hyperscale Line of Business",
+    "updated_at": "2026-08-20T17:08:32-04:00",
+    "title": "Principal Technical Product Manager, Hyperscale Line of Business",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -295248,7 +295248,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5391215008": {
-    "updated_at": "2026-08-20T15:42:32-04:00",
+    "updated_at": "2026-08-20T17:00:31-04:00",
     "title": "Partner Success Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -304328,7 +304328,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6148958004": {
-    "updated_at": "2026-08-20T16:41:08-04:00",
+    "updated_at": "2026-08-20T16:57:37-04:00",
     "title": "Software Engineer \u2014 Platform",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -304440,7 +304440,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6149003004": {
-    "updated_at": "2026-08-20T16:52:45-04:00",
+    "updated_at": "2026-08-20T17:15:42-04:00",
     "title": "Software Engineer \u2014 Test",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -304454,5 +304454,85 @@
     "ats": "greenhouse",
     "source_slug": "snorkelai",
     "alerted": true
+  },
+  "greenhouse:adyen:8114423": {
+    "updated_at": "2026-08-20T17:15:48-04:00",
+    "title": "Head of Growth, Scheme Compliance",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:toast:8146082": {
+    "updated_at": "2026-08-20T17:14:08-04:00",
+    "title": "Bilingual Strategic Cuisines Flex Account Executive - San Angelo, TX (Spanish)",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8146078": {
+    "updated_at": "2026-08-20T17:13:04-04:00",
+    "title": "Bilingual Strategic Cuisines Flex Account Executive - Brownsville TX (Spanish)",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5390960008": {
+    "updated_at": "2026-08-20T17:09:21-04:00",
+    "title": "Sales Leader Enablement",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:waymo:8140624": {
+    "updated_at": "2026-08-20T17:09:20-04:00",
+    "title": "Incident Readiness Exercises",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8144836": {
+    "updated_at": "2026-08-20T17:05:21-04:00",
+    "title": "Staff Data Engineer, Market Data",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:stripe:8120501": {
+    "updated_at": "2026-08-20T16:56:15-04:00",
+    "title": "Senior Workday Analyst, Payroll",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391381008": {
+    "updated_at": "2026-08-20T16:55:45-04:00",
+    "title": "Account Executive - Public Sector (ASEAN)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8727899002": {
+    "updated_at": "2026-08-20T16:54:59-04:00",
+    "title": "Yield Engineer, RF Final Test Integration (Starlink/Akoustis)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5391372008": {
+    "updated_at": "2026-08-20T16:50:53-04:00",
+    "title": "Enterprise Account Executive - Industries Generalist (ASEAN)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
   }
 }
