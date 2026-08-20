@@ -97584,7 +97584,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:5821400004": {
-    "updated_at": "2026-08-20T12:36:20-04:00",
+    "updated_at": "2026-08-20T18:08:26-04:00",
     "title": "Senior Product Manager - Data & Quality",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -166704,7 +166704,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6001496004": {
-    "updated_at": "2026-08-20T12:36:20-04:00",
+    "updated_at": "2026-08-20T18:07:47-04:00",
     "title": "Staff Product Manager - Infrastructure, Data & Security",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -194744,7 +194744,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7993050": {
-    "updated_at": "2026-08-13T18:00:00-04:00",
+    "updated_at": "2026-08-20T18:00:03-04:00",
     "title": "Senior Security Certification Expert",
     "company": "adyen",
     "ats": "greenhouse",
@@ -229408,7 +229408,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7848280": {
-    "updated_at": "2026-07-08T17:11:17-04:00",
+    "updated_at": "2026-08-20T18:10:49-04:00",
     "title": "Senior Enterprise and Strategic Account Specialist",
     "company": "checkr",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T17:49:47-04:00",
+    "updated_at": "2026-08-20T18:05:09-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T17:49:50-04:00",
+    "updated_at": "2026-08-20T18:05:13-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250848,7 +250848,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8437614002": {
-    "updated_at": "2026-07-24T17:17:54-04:00",
+    "updated_at": "2026-08-20T18:09:30-04:00",
     "title": "Fabrication Technician (Fluid Systems) - Night Shift",
     "company": "spacex",
     "ats": "greenhouse",
@@ -261784,7 +261784,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8083286": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-20T18:08:09-04:00",
     "title": "Senior Corporate Accountant - Assets & Inventory Operations",
     "company": "waymo",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-20T14:53:51-04:00",
+    "updated_at": "2026-08-20T18:17:36-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -303768,7 +303768,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8144760": {
-    "updated_at": "2026-08-20T13:45:45-04:00",
+    "updated_at": "2026-08-20T18:17:18-04:00",
     "title": "Renewals Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -303776,7 +303776,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8143229": {
-    "updated_at": "2026-08-20T17:25:07-04:00",
+    "updated_at": "2026-08-20T18:17:31-04:00",
     "title": "Renewals Manager",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -304184,7 +304184,7 @@
     "alerted": false
   },
   "greenhouse:fellow:5217855007": {
-    "updated_at": "2026-08-20T17:28:28-04:00",
+    "updated_at": "2026-08-20T17:52:28-04:00",
     "title": "Retail Store Associate (part-time) @ Valencia",
     "company": "fellow",
     "ats": "greenhouse",
@@ -304586,6 +304586,62 @@
   "greenhouse:gitlab:8698314002": {
     "updated_at": "2026-08-20T17:46:45-04:00",
     "title": "Backend Engineer, AI Engineering: Duo Chat",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": true
+  },
+  "greenhouse:spacex:8735057002": {
+    "updated_at": "2026-08-20T18:04:40-04:00",
+    "title": "Sr. Mechanical Design Engineer (Starfall)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8023251": {
+    "updated_at": "2026-08-20T18:00:55-04:00",
+    "title": "Product Manager, File",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:flex:4726266005": {
+    "updated_at": "2026-08-20T17:58:23-04:00",
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:dropbox:8142720": {
+    "updated_at": "2026-08-20T17:48:13-04:00",
+    "title": "Director of Marketing Strategy",
+    "company": "dropbox",
+    "ats": "greenhouse",
+    "source_slug": "dropbox",
+    "alerted": false
+  },
+  "greenhouse:verkada:5217938007": {
+    "updated_at": "2026-08-20T17:32:55-04:00",
+    "title": "Sr. Global Operations Trade & Compliance Manager",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:gusto:8144140": {
+    "updated_at": "2026-08-20T18:16:12-04:00",
+    "title": "Staff Software Engineer, Salesforce Developer",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": true
+  },
+  "greenhouse:gitlab:8722934002": {
+    "updated_at": "2026-08-20T18:11:09-04:00",
+    "title": "Senior Manager, Product Security Engineering (Security Posture and Supply Chain)",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
