@@ -2024,7 +2024,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8099751002": {
-    "updated_at": "2026-07-31T02:13:14-04:00",
+    "updated_at": "2026-08-21T03:24:25-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -95896,8 +95896,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7767743": {
-    "updated_at": "2026-08-21T01:19:56-04:00",
-    "title": "Senior Manager, Sales (Digital Native) (Based in Tokyo)",
+    "updated_at": "2026-08-21T03:08:39-04:00",
+    "title": "Senior Manager, Territory Sales (Based in Tokyo)",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -179504,7 +179504,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8560496002": {
-    "updated_at": "2026-08-18T14:12:30-04:00",
+    "updated_at": "2026-08-21T03:15:06-04:00",
     "title": "Solutions Architect Digital Natives Mid Market France",
     "company": "databricks",
     "ats": "greenhouse",
@@ -211536,7 +211536,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773313003": {
-    "updated_at": "2026-07-26T14:29:35-04:00",
+    "updated_at": "2026-08-21T03:24:04-04:00",
     "title": "Manager, Value Engineering",
     "company": "celonis",
     "ats": "greenhouse",
@@ -239680,7 +239680,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7798572003": {
-    "updated_at": "2026-08-03T18:19:36-04:00",
+    "updated_at": "2026-08-21T03:01:08-04:00",
     "title": "Customer Support Specialist, Bilingual English & Japanese",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T02:33:46-04:00",
+    "updated_at": "2026-08-21T03:18:37-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T02:33:48-04:00",
+    "updated_at": "2026-08-21T03:18:41-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -263040,7 +263040,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7779590003": {
-    "updated_at": "2026-07-26T14:29:36-04:00",
+    "updated_at": "2026-08-21T03:24:04-04:00",
     "title": "Manager, Pre-Sales & Solution Engineering",
     "company": "celonis",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-21T00:32:25-04:00",
+    "updated_at": "2026-08-21T03:18:26-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -273584,7 +273584,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8656822002": {
-    "updated_at": "2026-08-11T11:10:45-04:00",
+    "updated_at": "2026-08-21T03:10:40-04:00",
     "title": "Senior Education Content Producer, Video/Motion Graphics",
     "company": "lyft",
     "ats": "greenhouse",
@@ -273704,7 +273704,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8657416002": {
-    "updated_at": "2026-08-11T11:10:45-04:00",
+    "updated_at": "2026-08-21T03:10:40-04:00",
     "title": "Senior Education Content Producer, Video/Motion Graphics",
     "company": "lyft",
     "ats": "greenhouse",
@@ -301560,7 +301560,7 @@
     "alerted": false
   },
   "greenhouse:braze:8139241": {
-    "updated_at": "2026-08-20T13:59:55-04:00",
+    "updated_at": "2026-08-21T03:02:52-04:00",
     "title": "Partner Development Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -302008,7 +302008,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8142285": {
-    "updated_at": "2026-08-20T10:44:44-04:00",
+    "updated_at": "2026-08-21T03:03:45-04:00",
     "title": "Senior Quality Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -305046,5 +305046,45 @@
     "ats": "greenhouse",
     "source_slug": "mongodb",
     "alerted": true
+  },
+  "greenhouse:mixpanel:8140706": {
+    "updated_at": "2026-08-21T02:45:00-04:00",
+    "title": "Senior Global Benefits Manager",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:mixpanel:8140986": {
+    "updated_at": "2026-08-21T02:44:17-04:00",
+    "title": "Senior Global Benefits Manager",
+    "company": "mixpanel",
+    "ats": "greenhouse",
+    "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8131766": {
+    "updated_at": "2026-08-21T01:40:37-04:00",
+    "title": "Senior Engineering Manager - Exa",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8119843": {
+    "updated_at": "2026-08-21T01:24:10-04:00",
+    "title": "Software Engineer 3, Networking & Observability",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:stripe:8144223": {
+    "updated_at": "2026-08-21T01:13:27-04:00",
+    "title": "Solutions Architect (Greater China)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
   }
 }
