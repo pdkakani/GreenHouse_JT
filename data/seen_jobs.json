@@ -44680,7 +44680,7 @@
     "alerted": false
   },
   "greenhouse:stripe:5416444": {
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-08-21T12:03:48-04:00",
     "title": "Data Analyst",
     "company": "stripe",
     "ats": "greenhouse",
@@ -78144,7 +78144,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7472386": {
-    "updated_at": "2026-08-20T18:47:51-04:00",
+    "updated_at": "2026-08-21T11:50:41-04:00",
     "title": "Enterprise Account Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -82728,7 +82728,7 @@
     "alerted": false
   },
   "greenhouse:brex:8461601002": {
-    "updated_at": "2026-08-13T15:41:15-04:00",
+    "updated_at": "2026-08-21T12:06:19-04:00",
     "title": "Enterprise Account Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -82736,7 +82736,7 @@
     "alerted": false
   },
   "greenhouse:brex:8461476002": {
-    "updated_at": "2026-08-13T15:40:48-04:00",
+    "updated_at": "2026-08-21T12:04:34-04:00",
     "title": "Enterprise Account Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -82744,7 +82744,7 @@
     "alerted": false
   },
   "greenhouse:brex:8461603002": {
-    "updated_at": "2026-08-13T15:41:35-04:00",
+    "updated_at": "2026-08-21T12:06:41-04:00",
     "title": "Enterprise Account Manager",
     "company": "brex",
     "ats": "greenhouse",
@@ -145824,7 +145824,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4652799006": {
-    "updated_at": "2026-08-13T13:15:06-04:00",
+    "updated_at": "2026-08-21T12:08:37-04:00",
     "title": "Director, Energy Market Development",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -173576,7 +173576,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7947658": {
-    "updated_at": "2026-08-14T19:27:24-04:00",
+    "updated_at": "2026-08-21T12:17:08-04:00",
     "title": "Staff Software Engineer, Developer Productivity Async",
     "company": "gusto",
     "ats": "greenhouse",
@@ -177216,8 +177216,8 @@
     "alerted": false
   },
   "greenhouse:ripple:7961902": {
-    "updated_at": "2026-07-20T15:05:15-04:00",
-    "title": "Senior Staff Security Engineer, AI",
+    "updated_at": "2026-08-21T12:10:31-04:00",
+    "title": "Senior Staff Security Engineer, AI Security",
     "company": "ripple",
     "ats": "greenhouse",
     "source_slug": "ripple",
@@ -180640,7 +180640,7 @@
     "alerted": false
   },
   "greenhouse:asana:7961454": {
-    "updated_at": "2026-08-10T17:12:07-04:00",
+    "updated_at": "2026-08-21T12:16:19-04:00",
     "title": "Software Engineer, Product",
     "company": "asana",
     "ats": "greenhouse",
@@ -180656,7 +180656,7 @@
     "alerted": false
   },
   "greenhouse:asana:7968154": {
-    "updated_at": "2026-08-10T17:12:07-04:00",
+    "updated_at": "2026-08-21T12:16:52-04:00",
     "title": "Senior Software Engineer, Web App Performance",
     "company": "asana",
     "ats": "greenhouse",
@@ -184160,7 +184160,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7905168": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-21T12:05:18-04:00",
     "title": "Enterprise Account Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -190856,8 +190856,8 @@
     "alerted": false
   },
   "greenhouse:postman:7559037003": {
-    "updated_at": "2026-08-19T14:17:00-04:00",
-    "title": "Digital Native Account Executive",
+    "updated_at": "2026-08-21T12:15:11-04:00",
+    "title": "Digital Named Enterprise Account Executive",
     "company": "postman",
     "ats": "greenhouse",
     "source_slug": "postman",
@@ -192712,7 +192712,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7954920": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-21T12:01:30-04:00",
     "title": "Enterprise Account Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -197256,7 +197256,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7997267": {
-    "updated_at": "2026-08-08T10:31:44-04:00",
+    "updated_at": "2026-08-21T12:08:46-04:00",
     "title": "Senior Staff Security Engineer, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -197264,7 +197264,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7997234": {
-    "updated_at": "2026-08-08T10:30:20-04:00",
+    "updated_at": "2026-08-21T12:08:38-04:00",
     "title": "Senior Staff Security Engineer, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -209416,7 +209416,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8016307": {
-    "updated_at": "2026-08-17T13:03:48-04:00",
+    "updated_at": "2026-08-21T11:51:49-04:00",
     "title": "Sales Manager, Strategic Accounts",
     "company": "ripple",
     "ats": "greenhouse",
@@ -215320,7 +215320,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7896356": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-21T11:56:10-04:00",
     "title": "Enterprise Account Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -221792,7 +221792,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8031531": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-08-21T12:01:37-04:00",
     "title": "Enterprise Account Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -228504,7 +228504,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042365": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-21T12:10:56-04:00",
     "title": "Automotive HVAC Systems Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T11:34:23-04:00",
+    "updated_at": "2026-08-21T12:19:41-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T11:34:26-04:00",
+    "updated_at": "2026-08-21T12:19:44-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-21T09:32:33-04:00",
+    "updated_at": "2026-08-21T12:17:34-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -273368,7 +273368,7 @@
     "alerted": false
   },
   "greenhouse:brex:8662162002": {
-    "updated_at": "2026-08-13T15:42:08-04:00",
+    "updated_at": "2026-08-21T12:07:01-04:00",
     "title": "Enterprise Client Sales Executive",
     "company": "brex",
     "ats": "greenhouse",
@@ -273376,7 +273376,7 @@
     "alerted": false
   },
   "greenhouse:brex:8662157002": {
-    "updated_at": "2026-08-13T15:42:19-04:00",
+    "updated_at": "2026-08-21T12:07:11-04:00",
     "title": "Enterprise Client Sales Executive",
     "company": "brex",
     "ats": "greenhouse",
@@ -273384,7 +273384,7 @@
     "alerted": false
   },
   "greenhouse:brex:8662161002": {
-    "updated_at": "2026-08-13T15:41:49-04:00",
+    "updated_at": "2026-08-21T12:06:51-04:00",
     "title": "Enterprise Client Sales Executive",
     "company": "brex",
     "ats": "greenhouse",
@@ -283304,7 +283304,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7829979003": {
-    "updated_at": "2026-08-07T15:08:25-04:00",
+    "updated_at": "2026-08-21T11:50:19-04:00",
     "title": "Software Engineer II, Model Platform",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -284016,7 +284016,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7836516003": {
-    "updated_at": "2026-08-07T14:36:17-04:00",
+    "updated_at": "2026-08-21T11:50:53-04:00",
     "title": "Software Engineer II, Model Platform",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -284640,7 +284640,7 @@
     "alerted": true
   },
   "greenhouse:ripple:7997246": {
-    "updated_at": "2026-08-08T10:34:14-04:00",
+    "updated_at": "2026-08-21T12:08:43-04:00",
     "title": "Senior Staff Security Engineer, Ripple Treasury",
     "company": "ripple",
     "ats": "greenhouse",
@@ -293728,7 +293728,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8130034": {
-    "updated_at": "2026-08-14T10:19:35-04:00",
+    "updated_at": "2026-08-21T12:20:28-04:00",
     "title": "Senior Software Engineer, Digital Twin Platform",
     "company": "instacart",
     "ats": "greenhouse",
@@ -300672,7 +300672,7 @@
     "alerted": false
   },
   "greenhouse:betterment:8139698": {
-    "updated_at": "2026-08-19T09:43:55-04:00",
+    "updated_at": "2026-08-21T11:50:12-04:00",
     "title": "Sr. Technical Product & Program Manager, Platform Engineering",
     "company": "betterment",
     "ats": "greenhouse",
@@ -303760,7 +303760,7 @@
     "alerted": false
   },
   "greenhouse:sofi:7871448003": {
-    "updated_at": "2026-08-20T13:46:18-04:00",
+    "updated_at": "2026-08-21T12:15:56-04:00",
     "title": "Associate AI Engineer, Finance Transformation",
     "company": "sofi",
     "ats": "greenhouse",
@@ -303984,7 +303984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8047200": {
-    "updated_at": "2026-08-20T15:06:09-04:00",
+    "updated_at": "2026-08-21T12:09:47-04:00",
     "title": "Partner Audit Remediation Program Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -304368,8 +304368,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4725753005": {
-    "updated_at": "2026-08-20T16:36:19-04:00",
-    "title": "Strategic Account Executive, Los Angeles",
+    "updated_at": "2026-08-21T12:16:38-04:00",
+    "title": "Strategic Account Executive, Southern California",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -304696,7 +304696,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5218033007": {
-    "updated_at": "2026-08-20T18:16:37-04:00",
+    "updated_at": "2026-08-21T12:19:50-04:00",
     "title": "People Operations Associate",
     "company": "verkada",
     "ats": "greenhouse",
@@ -304768,7 +304768,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8688078002": {
-    "updated_at": "2026-08-20T19:22:50-04:00",
+    "updated_at": "2026-08-21T12:14:28-04:00",
     "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -305536,7 +305536,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8135458": {
-    "updated_at": "2026-08-21T10:48:17-04:00",
+    "updated_at": "2026-08-21T12:14:02-04:00",
     "title": "Senior Data Scientist",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -305678,5 +305678,101 @@
     "ats": "greenhouse",
     "source_slug": "celonis",
     "alerted": false
+  },
+  "greenhouse:ripple:7961910": {
+    "updated_at": "2026-08-21T12:10:21-04:00",
+    "title": "Senior Staff Security Engineer, AI Security",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:toast:8122630": {
+    "updated_at": "2026-08-21T12:01:55-04:00",
+    "title": "Senior Associate, Strategic Finance (International)",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8147502": {
+    "updated_at": "2026-08-21T12:01:54-04:00",
+    "title": "Senior Associate, Strategic Finance (International)",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8147506": {
+    "updated_at": "2026-08-21T12:01:54-04:00",
+    "title": "Senior Associate, Strategic Finance (International)",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:spacex:8733796002": {
+    "updated_at": "2026-08-21T11:54:04-04:00",
+    "title": "Electronics Technician (Falcon Test)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:checkr:8144106": {
+    "updated_at": "2026-08-21T11:46:27-04:00",
+    "title": "Enterprise Account Executive",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8142261": {
+    "updated_at": "2026-08-21T11:30:49-04:00",
+    "title": "Systems Engineer, Network Automation",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:celonis:7928952003": {
+    "updated_at": "2026-08-21T11:25:16-04:00",
+    "title": "Lead Deployment Architect - AI",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:toast:8147381": {
+    "updated_at": "2026-08-21T11:12:38-04:00",
+    "title": "Customer Growth Sales Account Executive",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5398227008": {
+    "updated_at": "2026-08-21T12:17:20-04:00",
+    "title": "Staff+ Software Engineer, Platform Ecosystem",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:ripple:7961914": {
+    "updated_at": "2026-08-21T12:13:14-04:00",
+    "title": "Senior Staff Security Engineer, AI Security",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5398218008": {
+    "updated_at": "2026-08-21T12:11:03-04:00",
+    "title": "Staff+ Software Engineer, Developer Experience",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
   }
 }
