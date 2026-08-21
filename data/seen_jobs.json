@@ -73360,7 +73360,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7711957": {
-    "updated_at": "2026-08-20T10:21:12-04:00",
+    "updated_at": "2026-08-21T06:25:34-04:00",
     "title": "Payment Partnerships Lead",
     "company": "adyen",
     "ats": "greenhouse",
@@ -86960,7 +86960,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7611263": {
-    "updated_at": "2026-08-20T01:43:34-04:00",
+    "updated_at": "2026-08-21T06:18:31-04:00",
     "title": "Senior Compliance Associate",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -198040,7 +198040,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7942306": {
-    "updated_at": "2026-08-15T00:41:03-04:00",
+    "updated_at": "2026-08-21T06:18:52-04:00",
     "title": "AMLCO & Senior Compliance Associate",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -199840,7 +199840,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8001778": {
-    "updated_at": "2026-08-15T00:41:07-04:00",
+    "updated_at": "2026-08-21T06:18:56-04:00",
     "title": "Manager, Derivatives Compliance",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T05:48:49-04:00",
+    "updated_at": "2026-08-21T06:33:44-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T05:48:53-04:00",
+    "updated_at": "2026-08-21T06:33:47-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244032,7 +244032,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8064692": {
-    "updated_at": "2026-08-15T00:41:23-04:00",
+    "updated_at": "2026-08-21T06:19:15-04:00",
     "title": "Compliance, Threat & Risk Assessment Manager",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-21T05:47:42-04:00",
+    "updated_at": "2026-08-21T06:17:10-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -273456,7 +273456,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8099099": {
-    "updated_at": "2026-08-15T00:41:35-04:00",
+    "updated_at": "2026-08-21T06:03:02-04:00",
     "title": "Forward Deployed Engineer, Compliance [Office of the CTO]",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -301304,7 +301304,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:8138788": {
-    "updated_at": "2026-08-19T14:19:28-04:00",
+    "updated_at": "2026-08-21T06:43:48-04:00",
     "title": "Lead Vulnerability Management Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -305205,6 +305205,30 @@
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:databricks:8629999002": {
+    "updated_at": "2026-08-21T05:58:07-04:00",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:elastic:8143969": {
+    "updated_at": "2026-08-21T05:43:37-04:00",
+    "title": "Senior Account Executive - Public Sector",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8078674": {
+    "updated_at": "2026-08-21T05:40:49-04:00",
+    "title": "Senior Territory Account Executive, Taiwan",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
     "alerted": false
   }
 }
