@@ -59728,7 +59728,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7761103": {
-    "updated_at": "2026-08-20T14:53:47-04:00",
+    "updated_at": "2026-08-21T04:47:23-04:00",
     "title": "Business Operations Manager, Technical Support Ops",
     "company": "samsara",
     "ats": "greenhouse",
@@ -128664,7 +128664,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7852547": {
-    "updated_at": "2026-08-20T14:53:47-04:00",
+    "updated_at": "2026-08-21T04:47:23-04:00",
     "title": "Business Operations Manager, Technical Support Ops",
     "company": "samsara",
     "ats": "greenhouse",
@@ -156008,8 +156008,8 @@
     "alerted": false
   },
   "greenhouse:applovin:4681211006": {
-    "updated_at": "2026-08-06T06:41:31-04:00",
-    "title": "(Senior) Manager, Business Development",
+    "updated_at": "2026-08-21T04:31:24-04:00",
+    "title": "Manager, Business Development (Apps)",
     "company": "applovin",
     "ats": "greenhouse",
     "source_slug": "applovin",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T03:49:07-04:00",
+    "updated_at": "2026-08-21T04:49:38-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T03:49:10-04:00",
+    "updated_at": "2026-08-21T04:49:41-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -263728,8 +263728,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8055523": {
-    "updated_at": "2026-07-29T07:52:46-04:00",
-    "title": "Lead Platform Services Engineer, Advanced Services - UK",
+    "updated_at": "2026-08-21T04:43:59-04:00",
+    "title": "Principal Product Services Engineer, Advanced Services - UK",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-21T03:18:26-04:00",
+    "updated_at": "2026-08-21T04:32:23-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -274448,8 +274448,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8102684": {
-    "updated_at": "2026-08-03T11:56:35-04:00",
-    "title": "Tech Lead Manager, Finance Integrations & Automation - BizTech",
+    "updated_at": "2026-08-21T04:10:46-04:00",
+    "title": "Tech Lead Manager, Oracle ERP",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -305117,6 +305117,30 @@
     "company": "mixpanel",
     "ats": "greenhouse",
     "source_slug": "mixpanel",
+    "alerted": false
+  },
+  "greenhouse:elastic:8142822": {
+    "updated_at": "2026-08-21T04:03:17-04:00",
+    "title": "Strategic Sourcing Analyst",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8725566002": {
+    "updated_at": "2026-08-21T03:59:16-04:00",
+    "title": "Engineering Manager - Database Change Management",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:stripe:8130377": {
+    "updated_at": "2026-08-21T03:53:55-04:00",
+    "title": "Staff Software Engineer - Sail Services",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
