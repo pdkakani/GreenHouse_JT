@@ -197464,7 +197464,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7997916": {
-    "updated_at": "2026-07-17T15:44:18-04:00",
+    "updated_at": "2026-08-21T19:22:00-04:00",
     "title": "Sr. Software Engineer II - IAM",
     "company": "samsara",
     "ats": "greenhouse",
@@ -197528,7 +197528,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7892022": {
-    "updated_at": "2026-07-17T15:44:07-04:00",
+    "updated_at": "2026-08-21T19:21:55-04:00",
     "title": "Sr. Software Engineer II - IAM",
     "company": "samsara",
     "ats": "greenhouse",
@@ -213224,8 +213224,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8603048002": {
-    "updated_at": "2026-07-24T17:18:13-04:00",
-    "title": "Executive Sous Chef",
+    "updated_at": "2026-08-21T19:39:28-04:00",
+    "title": "Executive Sous Chef - Moon Corps",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -239160,7 +239160,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8031833": {
-    "updated_at": "2026-08-18T17:37:29-04:00",
+    "updated_at": "2026-08-21T19:31:29-04:00",
     "title": "Software Engineer, Intern",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T19:04:22-04:00",
+    "updated_at": "2026-08-21T19:33:33-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T19:04:25-04:00",
+    "updated_at": "2026-08-21T19:33:37-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -269224,7 +269224,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8094412": {
-    "updated_at": "2026-08-21T16:31:05-04:00",
+    "updated_at": "2026-08-21T19:20:53-04:00",
     "title": "Product Program Manager, Roadmap Planning & Program Management",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -288576,8 +288576,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8694679002": {
-    "updated_at": "2026-08-11T17:54:11-04:00",
-    "title": "Facilities Supervisor",
+    "updated_at": "2026-08-21T19:44:12-04:00",
+    "title": "Facilities Supervisor - Moon Corps",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -293160,8 +293160,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8710395002": {
-    "updated_at": "2026-08-13T22:45:30-04:00",
-    "title": "Executive Chef",
+    "updated_at": "2026-08-21T19:46:01-04:00",
+    "title": "Executive Chef - Moon Corps",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -295384,7 +295384,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8131378": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-21T19:40:17-04:00",
     "title": "Senior Vehicle Structures Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -298032,7 +298032,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8097801": {
-    "updated_at": "2026-08-21T18:13:55-04:00",
+    "updated_at": "2026-08-21T19:26:21-04:00",
     "title": "Software Engineer, Intern",
     "company": "stripe",
     "ats": "greenhouse",
@@ -299928,7 +299928,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4705544006": {
-    "updated_at": "2026-08-21T18:22:57-04:00",
+    "updated_at": "2026-08-21T19:21:49-04:00",
     "title": "Senior Software Engineer, Infrastructure Engineering",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -306624,7 +306624,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:8148577": {
-    "updated_at": "2026-08-21T17:57:22-04:00",
+    "updated_at": "2026-08-21T19:44:58-04:00",
     "title": "VP, Strategic Finance",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -306765,6 +306765,54 @@
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
+    "alerted": true
+  },
+  "greenhouse:lyft:8734839002": {
+    "updated_at": "2026-08-21T19:34:28-04:00",
+    "title": "Manager, Campaigns & Political Giving",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5398753008": {
+    "updated_at": "2026-08-21T19:32:13-04:00",
+    "title": "Business Systems Analyst",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8129176": {
+    "updated_at": "2026-08-21T19:23:24-04:00",
+    "title": "Account Executive, Enterprise (S\u00e3o Paulo)",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:databricks:7987657002": {
+    "updated_at": "2026-08-21T19:19:12-04:00",
+    "title": "Senior Engineering Manager for Self-Serve (Learning)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7882557003": {
+    "updated_at": "2026-08-21T18:51:36-04:00",
+    "title": "Technical Program Manager - AWS Cloud Infrastructure",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:spacex:8738842002": {
+    "updated_at": "2026-08-21T19:34:57-04:00",
+    "title": "Manager, Data Center Hardware & Infrastructure (TS/SCI)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
