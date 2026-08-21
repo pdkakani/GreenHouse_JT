@@ -95896,8 +95896,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7767743": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
-    "title": "Senior Manager, Territory Sales (Based in Tokyo)",
+    "updated_at": "2026-08-21T01:19:56-04:00",
+    "title": "Senior Manager, Sales (Digital Native) (Based in Tokyo)",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T00:50:27-04:00",
+    "updated_at": "2026-08-21T01:21:11-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T00:50:35-04:00",
+    "updated_at": "2026-08-21T01:21:13-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -295216,7 +295216,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8697991002": {
-    "updated_at": "2026-08-18T14:52:58-04:00",
+    "updated_at": "2026-08-21T01:12:08-04:00",
     "title": "Specialist Solutions Architect - AI/ML",
     "company": "databricks",
     "ats": "greenhouse",
@@ -305005,6 +305005,46 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:purestorage:8132031": {
+    "updated_at": "2026-08-21T01:03:30-04:00",
+    "title": "HR System Admin",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5397699008": {
+    "updated_at": "2026-08-20T23:29:27-04:00",
+    "title": "Head of Vulnerability Disclosure & Security Community",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5397708008": {
+    "updated_at": "2026-08-20T23:26:00-04:00",
+    "title": "Senior Cyber Policy Lead",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5397711008": {
+    "updated_at": "2026-08-20T23:22:33-04:00",
+    "title": "Safeguards Policy Analyst, Cyber Harms",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8119841": {
+    "updated_at": "2026-08-21T01:24:09-04:00",
+    "title": "Software Engineer 3, Networking & Observability",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
     "alerted": true
   }
 }
