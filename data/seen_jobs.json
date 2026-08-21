@@ -11824,8 +11824,8 @@
     "alerted": true
   },
   "greenhouse:anthropic:5026097008": {
-    "updated_at": "2026-08-21T12:49:47-04:00",
-    "title": "Staff Software Engineer, Front-End",
+    "updated_at": "2026-08-21T19:09:57-04:00",
+    "title": "Staff Software Engineer, Product Engineer",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -243104,7 +243104,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8062708": {
-    "updated_at": "2026-08-06T12:10:11-04:00",
+    "updated_at": "2026-08-21T18:55:39-04:00",
     "title": "Full Stack Engineer, Support Experience",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T18:34:22-04:00",
+    "updated_at": "2026-08-21T19:04:22-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T18:34:25-04:00",
+    "updated_at": "2026-08-21T19:04:25-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -261752,7 +261752,7 @@
     "alerted": false
   },
   "greenhouse:amplitude:8649332002": {
-    "updated_at": "2026-08-13T14:56:59-04:00",
+    "updated_at": "2026-08-21T18:53:22-04:00",
     "title": "Executive Assistant",
     "company": "amplitude",
     "ats": "greenhouse",
@@ -266128,7 +266128,7 @@
     "alerted": false
   },
   "greenhouse:doximity:8079716": {
-    "updated_at": "2026-08-17T11:27:07-04:00",
+    "updated_at": "2026-08-21T18:51:46-04:00",
     "title": "Technical Senior Revenue Accountant",
     "company": "doximity",
     "ats": "greenhouse",
@@ -268112,7 +268112,7 @@
     "alerted": false
   },
   "greenhouse:chime:8643775002": {
-    "updated_at": "2026-08-19T19:48:07-04:00",
+    "updated_at": "2026-08-21T19:01:33-04:00",
     "title": "Lead Technical Recruiter",
     "company": "chime",
     "ats": "greenhouse",
@@ -280832,7 +280832,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8107088": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-21T19:05:56-04:00",
     "title": "ML Engineer, Foundation Model Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -285168,7 +285168,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8109035": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-21T19:06:54-04:00",
     "title": "ML Engineer, Foundation Model Recipes",
     "company": "waymo",
     "ats": "greenhouse",
@@ -291152,7 +291152,7 @@
     "alerted": false
   },
   "greenhouse:doximity:8120522": {
-    "updated_at": "2026-08-12T19:52:12-04:00",
+    "updated_at": "2026-08-21T18:51:46-04:00",
     "title": "Senior Manager, Financial Reporting & Technical Accounting",
     "company": "doximity",
     "ats": "greenhouse",
@@ -301720,7 +301720,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8142657": {
-    "updated_at": "2026-08-19T19:00:19-04:00",
+    "updated_at": "2026-08-21T19:13:42-04:00",
     "title": "Customer Engineer",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -301912,7 +301912,7 @@
     "alerted": true
   },
   "greenhouse:mixpanel:8142661": {
-    "updated_at": "2026-08-19T19:00:19-04:00",
+    "updated_at": "2026-08-21T19:13:54-04:00",
     "title": "Customer Engineer",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -302792,7 +302792,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8143042": {
-    "updated_at": "2026-08-21T18:41:48-04:00",
+    "updated_at": "2026-08-21T19:00:00-04:00",
     "title": "Conversion Operations Associate",
     "company": "gusto",
     "ats": "greenhouse",
@@ -306734,5 +306734,37 @@
     "ats": "greenhouse",
     "source_slug": "twitch",
     "alerted": false
+  },
+  "greenhouse:verkada:5219108007": {
+    "updated_at": "2026-08-21T18:33:00-04:00",
+    "title": "Fulfillment Specialist, Salt Lake City",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:lyft:8737764002": {
+    "updated_at": "2026-08-21T18:30:29-04:00",
+    "title": "Analytics Lead, Safety Reporting",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:spacex:8733400002": {
+    "updated_at": "2026-08-21T19:12:44-04:00",
+    "title": "Test Specialist (Starlink Aviation)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:purestorage:8146194": {
+    "updated_at": "2026-08-21T18:52:20-04:00",
+    "title": "Regional AI Business Lead",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": true
   }
 }
