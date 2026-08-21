@@ -123072,7 +123072,7 @@
     "alerted": false
   },
   "ashby:Ashby:62d4f71e-f56c-447a-a965-a9c2ea8eac5e": {
-    "updated_at": "2026-05-12T16:26:52.352+00:00",
+    "updated_at": "2026-08-21T21:26:45.297+00:00",
     "title": "Mid-Market Customer Success Manager - EMEA",
     "company": "Ashby",
     "ats": "ashby",
@@ -220168,7 +220168,7 @@
     "alerted": false
   },
   "greenhouse:carta:7782040003": {
-    "updated_at": "2026-08-13T12:01:24-04:00",
+    "updated_at": "2026-08-21T17:46:07-04:00",
     "title": "Account Executive, SMB",
     "company": "carta",
     "ats": "greenhouse",
@@ -237016,7 +237016,7 @@
     "alerted": false
   },
   "greenhouse:adyen:6761898": {
-    "updated_at": "2026-07-08T21:27:40-04:00",
+    "updated_at": "2026-08-21T17:21:57-04:00",
     "title": "Software Engineer II (Java) - Pricing",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T17:04:38-04:00",
+    "updated_at": "2026-08-21T17:33:57-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T17:04:41-04:00",
+    "updated_at": "2026-08-21T17:34:05-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -251560,7 +251560,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808648003": {
-    "updated_at": "2026-08-20T13:00:19-04:00",
+    "updated_at": "2026-08-21T17:46:21-04:00",
     "title": "Commercial Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251568,7 +251568,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808643003": {
-    "updated_at": "2026-08-20T13:00:19-04:00",
+    "updated_at": "2026-08-21T17:46:21-04:00",
     "title": "Commercial Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251576,7 +251576,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808646003": {
-    "updated_at": "2026-08-20T13:00:19-04:00",
+    "updated_at": "2026-08-21T17:46:21-04:00",
     "title": "Commercial Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251584,7 +251584,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808640003": {
-    "updated_at": "2026-08-20T13:00:19-04:00",
+    "updated_at": "2026-08-21T17:46:21-04:00",
     "title": "Commercial Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -251592,7 +251592,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7807405003": {
-    "updated_at": "2026-08-20T13:00:19-04:00",
+    "updated_at": "2026-08-21T17:46:21-04:00",
     "title": "Commercial Counsel",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -275248,7 +275248,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8075998": {
-    "updated_at": "2026-08-14T19:27:24-04:00",
+    "updated_at": "2026-08-21T17:32:06-04:00",
     "title": "Treasury Manager",
     "company": "gusto",
     "ats": "greenhouse",
@@ -277856,7 +277856,7 @@
     "alerted": false
   },
   "greenhouse:carta:7824339003": {
-    "updated_at": "2026-08-04T18:38:21-04:00",
+    "updated_at": "2026-08-21T17:46:09-04:00",
     "title": "Account Executive, PE Standard",
     "company": "carta",
     "ats": "greenhouse",
@@ -306541,6 +306541,70 @@
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5391257008": {
+    "updated_at": "2026-08-21T17:34:55-04:00",
+    "title": "Channel Account Manager, Reseller",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8737007002": {
+    "updated_at": "2026-08-21T17:26:26-04:00",
+    "title": "Starlink Aviation Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5357965008": {
+    "updated_at": "2026-08-21T17:17:24-04:00",
+    "title": "Accounting Analytics & BI Engineer",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:twilio:8140436": {
+    "updated_at": "2026-08-21T17:14:45-04:00",
+    "title": "Technical Support Engineer 2",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:sofi:7932000003": {
+    "updated_at": "2026-08-21T17:12:17-04:00",
+    "title": "Vice President, Head of Business Controls \u2013 Technology & Cybersecurity",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:twitch:8739185002": {
+    "updated_at": "2026-08-21T17:46:08-04:00",
+    "title": "Software Development Engineer, Security Platform",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": true
+  },
+  "greenhouse:twitch:8739196002": {
+    "updated_at": "2026-08-21T17:46:08-04:00",
+    "title": "Software Development Engineer, Security Platform",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
+    "alerted": true
+  },
+  "greenhouse:twitch:8739060002": {
+    "updated_at": "2026-08-21T17:45:58-04:00",
+    "title": "Software Development Engineer, Security Platform",
+    "company": "twitch",
+    "ats": "greenhouse",
+    "source_slug": "twitch",
     "alerted": true
   }
 }
