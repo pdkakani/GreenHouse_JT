@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-20T20:49:46-04:00",
+    "updated_at": "2026-08-20T22:20:06-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-20T20:49:54-04:00",
+    "updated_at": "2026-08-20T22:20:09-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -264584,8 +264584,8 @@
     "alerted": false
   },
   "greenhouse:fastly:8081734": {
-    "updated_at": "2026-08-20T15:21:32-04:00",
-    "title": "Senior Analyst - Pricing & Packaging",
+    "updated_at": "2026-08-20T22:09:23-04:00",
+    "title": "Senior Pricing & Packaging Manager",
     "company": "fastly",
     "ats": "greenhouse",
     "source_slug": "fastly",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-20T18:17:36-04:00",
+    "updated_at": "2026-08-20T21:32:33-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -287528,7 +287528,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8115098": {
-    "updated_at": "2026-08-14T00:03:28-04:00",
+    "updated_at": "2026-08-20T21:09:09-04:00",
     "title": "401k Benefits Processing Associate",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -299152,7 +299152,7 @@
     "alerted": false
   },
   "greenhouse:alloy:8723194002": {
-    "updated_at": "2026-08-18T13:41:13-04:00",
+    "updated_at": "2026-08-20T22:11:12-04:00",
     "title": "Senior Sourcer",
     "company": "alloy",
     "ats": "greenhouse",
@@ -301440,7 +301440,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8131181": {
-    "updated_at": "2026-08-20T15:38:16-04:00",
+    "updated_at": "2026-08-20T22:11:37-04:00",
     "title": "Staff Product Manager-  Integrations & Advisor Platform",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -301704,7 +301704,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8730559002": {
-    "updated_at": "2026-08-19T14:58:13-04:00",
+    "updated_at": "2026-08-20T20:57:37-04:00",
     "title": "Executive Producer, Broadcast",
     "company": "spacex",
     "ats": "greenhouse",
@@ -304760,7 +304760,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4726250005": {
-    "updated_at": "2026-08-20T19:23:37-04:00",
+    "updated_at": "2026-08-20T21:00:50-04:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14181)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -304776,7 +304776,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5397445008": {
-    "updated_at": "2026-08-20T19:19:53-04:00",
+    "updated_at": "2026-08-20T21:57:34-04:00",
     "title": "Data Center Supply Planning Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -304800,7 +304800,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:8143252": {
-    "updated_at": "2026-08-20T20:33:55-04:00",
+    "updated_at": "2026-08-20T21:25:59-04:00",
     "title": "Business Development Representative (Cantonese Speaking)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -304853,6 +304853,102 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:brex:8735520002": {
+    "updated_at": "2026-08-20T21:55:54-04:00",
+    "title": "Business Development (Embedded Finance) Lead",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5390894008": {
+    "updated_at": "2026-08-20T21:55:46-04:00",
+    "title": "Manager Applied AI Architecture, Financial Services",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:brex:8735431002": {
+    "updated_at": "2026-08-20T21:55:12-04:00",
+    "title": "Business Development (Embedded Finance) Lead",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5390890008": {
+    "updated_at": "2026-08-20T21:53:08-04:00",
+    "title": "Manager Applied AI Architecture, Healthcare & Life Sciences",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:snorkelai:6149138004": {
+    "updated_at": "2026-08-20T21:48:18-04:00",
+    "title": "Senior Technical Recruiter - Product",
+    "company": "snorkelai",
+    "ats": "greenhouse",
+    "source_slug": "snorkelai",
+    "alerted": false
+  },
+  "greenhouse:twilio:8141694": {
+    "updated_at": "2026-08-20T21:32:56-04:00",
+    "title": "Deal Desk Analyst",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8698330002": {
+    "updated_at": "2026-08-20T21:22:41-04:00",
+    "title": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8731959002": {
+    "updated_at": "2026-08-20T21:08:51-04:00",
+    "title": "Full Stack Software Engineer - Simulation & Flight Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8735368002": {
+    "updated_at": "2026-08-20T21:07:25-04:00",
+    "title": "Software Engineer - Simulation & Flight Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5396755008": {
+    "updated_at": "2026-08-20T20:35:30-04:00",
+    "title": "Account Executive - Enterprise Sales (Greenfield)",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:workato:8731391002": {
+    "updated_at": "2026-08-20T20:34:27-04:00",
+    "title": "Account Manager",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:databricks:8735460002": {
+    "updated_at": "2026-08-20T22:18:14-04:00",
+    "title": "Delivery Solutions Architect - Communications, Media, Entertainment & Games",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
     "alerted": true
   }
 }
