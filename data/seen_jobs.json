@@ -55160,7 +55160,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7841782002": {
-    "updated_at": "2026-06-07T00:54:32-04:00",
+    "updated_at": "2026-08-22T00:28:21-04:00",
     "title": "Senior Software Engineer - Search",
     "company": "databricks",
     "ats": "greenhouse",
@@ -55168,7 +55168,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7619811002": {
-    "updated_at": "2026-08-18T13:17:05-04:00",
+    "updated_at": "2026-08-22T00:40:30-04:00",
     "title": "Senior Software Engineer - Observability",
     "company": "databricks",
     "ats": "greenhouse",
@@ -55176,8 +55176,8 @@
     "alerted": false
   },
   "greenhouse:databricks:7619810002": {
-    "updated_at": "2026-08-11T14:54:28-04:00",
-    "title": "Senior Software Engineer - Networking Infra",
+    "updated_at": "2026-08-22T00:41:13-04:00",
+    "title": "Senior Software Engineer (Infra)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -89568,7 +89568,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8294304002": {
-    "updated_at": "2026-08-18T13:17:10-04:00",
+    "updated_at": "2026-08-22T00:40:12-04:00",
     "title": "Senior Software Engineer (App-Framework)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90240,7 +90240,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7897431002": {
-    "updated_at": "2026-08-18T13:17:08-04:00",
+    "updated_at": "2026-08-22T00:40:05-04:00",
     "title": "Senior Software Engineer - Data + AI Observability",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90336,7 +90336,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7647369002": {
-    "updated_at": "2026-08-18T13:17:07-04:00",
+    "updated_at": "2026-08-22T00:40:18-04:00",
     "title": "Senior Software Engineer (Data Platform)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90648,7 +90648,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8357216002": {
-    "updated_at": "2026-08-18T13:17:06-04:00",
+    "updated_at": "2026-08-22T00:41:26-04:00",
     "title": "Engineering Manager (Ingestion)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-22T00:19:13-04:00",
+    "updated_at": "2026-08-22T00:49:32-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-22T00:19:16-04:00",
+    "updated_at": "2026-08-22T00:49:35-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-22T00:17:08-04:00",
+    "updated_at": "2026-08-22T00:32:08-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
