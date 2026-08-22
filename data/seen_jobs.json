@@ -98584,8 +98584,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:4461450008": {
-    "updated_at": "2026-08-21T12:49:36-04:00",
-    "title": "Account Executive, Startups",
+    "updated_at": "2026-08-21T21:32:54-04:00",
+    "title": "Account Executive, AI Native",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T20:48:43-04:00",
+    "updated_at": "2026-08-21T22:04:32-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T20:48:46-04:00",
+    "updated_at": "2026-08-21T22:04:35-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-21T20:17:24-04:00",
+    "updated_at": "2026-08-21T21:46:54-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -293072,8 +293072,8 @@
     "alerted": false
   },
   "greenhouse:coinbase:8129321": {
-    "updated_at": "2026-08-15T00:41:38-04:00",
-    "title": "Legal Ops Associate, OC Management",
+    "updated_at": "2026-08-21T21:01:49-04:00",
+    "title": "Legal Ops Associate",
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
@@ -295240,7 +295240,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5391211008": {
-    "updated_at": "2026-08-21T20:24:24-04:00",
+    "updated_at": "2026-08-21T21:16:36-04:00",
     "title": "Partnerships Business Operations Manager",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -295248,7 +295248,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5391215008": {
-    "updated_at": "2026-08-21T12:50:59-04:00",
+    "updated_at": "2026-08-21T21:02:15-04:00",
     "title": "Partner Success Lead",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -306424,7 +306424,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5398280008": {
-    "updated_at": "2026-08-21T16:33:17-04:00",
+    "updated_at": "2026-08-21T22:03:18-04:00",
     "title": "Data Center Operations Lead - Partner Site Operations",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -306893,6 +306893,62 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": true
+  },
+  "greenhouse:spacex:8738176002": {
+    "updated_at": "2026-08-21T21:20:11-04:00",
+    "title": "Sr. Sourcing Specialist, Construction",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8738256002": {
+    "updated_at": "2026-08-21T21:15:54-04:00",
+    "title": "Sourcing Specialist, Construction",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8738226002": {
+    "updated_at": "2026-08-21T21:15:51-04:00",
+    "title": "Sourcing Specialist, Construction",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8739506002": {
+    "updated_at": "2026-08-21T21:12:03-04:00",
+    "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8739507002": {
+    "updated_at": "2026-08-21T21:12:03-04:00",
+    "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8739484002": {
+    "updated_at": "2026-08-21T20:23:39-04:00",
+    "title": "Sr. Forward Deployed Engineer",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8737683002": {
+    "updated_at": "2026-08-21T21:26:02-04:00",
+    "title": "Process Engineer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
