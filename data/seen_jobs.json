@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-22T12:33:49-04:00",
+    "updated_at": "2026-08-22T13:05:01-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-22T12:33:52-04:00",
+    "updated_at": "2026-08-22T13:05:04-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -307006,5 +307006,13 @@
     "ats": "greenhouse",
     "source_slug": "waymo",
     "alerted": true
+  },
+  "greenhouse:doximity:8149237": {
+    "updated_at": "2026-08-22T09:39:32-04:00",
+    "title": "Senior Manager, Pricing & Yield",
+    "company": "doximity",
+    "ats": "greenhouse",
+    "source_slug": "doximity",
+    "alerted": false
   }
 }
