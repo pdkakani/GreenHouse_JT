@@ -90336,7 +90336,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7647369002": {
-    "updated_at": "2026-08-22T00:40:18-04:00",
+    "updated_at": "2026-08-22T09:29:26-04:00",
     "title": "Senior Software Engineer (Data Platform)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90352,7 +90352,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7654347002": {
-    "updated_at": "2026-08-18T13:17:07-04:00",
+    "updated_at": "2026-08-22T09:28:58-04:00",
     "title": "Senior Software Engineer (Money)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -212576,7 +212576,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8602402002": {
-    "updated_at": "2026-08-18T13:17:16-04:00",
+    "updated_at": "2026-08-22T09:28:38-04:00",
     "title": "Senior Software Engineer - Multi Cloud Efficiency",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-22T09:04:14-04:00",
+    "updated_at": "2026-08-22T09:34:45-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-22T09:04:18-04:00",
+    "updated_at": "2026-08-22T09:34:53-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -269776,7 +269776,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8632126002": {
-    "updated_at": "2026-08-11T01:37:28-04:00",
+    "updated_at": "2026-08-22T09:21:54-04:00",
     "title": "Full Stack Developer (AI Agents)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -306981,6 +306981,14 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5398641008": {
+    "updated_at": "2026-08-21T23:57:13-04:00",
+    "title": "Safety & Security Counsel",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": false
   }
 }
