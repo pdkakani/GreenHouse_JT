@@ -224800,7 +224800,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604610002": {
-    "updated_at": "2026-08-18T14:28:45-04:00",
+    "updated_at": "2026-08-22T00:20:11-04:00",
     "title": "Sales Compensation Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -226800,7 +226800,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604579002": {
-    "updated_at": "2026-08-18T14:27:57-04:00",
+    "updated_at": "2026-08-22T00:19:54-04:00",
     "title": "Senior Finance Specialist (Data & AI)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-21T23:49:21-04:00",
+    "updated_at": "2026-08-22T00:19:13-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-21T23:49:25-04:00",
+    "updated_at": "2026-08-22T00:19:16-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-21T23:32:13-04:00",
+    "updated_at": "2026-08-22T00:17:08-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -306958,5 +306958,29 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:anthropic:5392184008": {
+    "updated_at": "2026-08-21T23:46:05-04:00",
+    "title": "Policy Design Manager, Conventional Weapons",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8739460002": {
+    "updated_at": "2026-08-21T23:08:32-04:00",
+    "title": "Equipment Maintenance Technician",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8737677002": {
+    "updated_at": "2026-08-21T21:26:00-04:00",
+    "title": "Build Reliability Engineer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
   }
 }
