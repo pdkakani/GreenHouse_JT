@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-23T00:48:44-04:00",
+    "updated_at": "2026-08-23T01:19:03-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-23T00:48:47-04:00",
+    "updated_at": "2026-08-23T01:19:07-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -307013,6 +307013,14 @@
     "company": "doximity",
     "ats": "greenhouse",
     "source_slug": "doximity",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5398659008": {
+    "updated_at": "2026-08-22T12:21:35-04:00",
+    "title": "Safety & Security Counsel, EMEA",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": false
   }
 }
