@@ -153960,7 +153960,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7827184": {
-    "updated_at": "2026-08-18T17:38:42-04:00",
+    "updated_at": "2026-08-23T15:25:21-04:00",
     "title": "Solutions Architect, Enterprise (Pre-sales)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-23T15:04:23-04:00",
+    "updated_at": "2026-08-23T15:33:59-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-23T15:04:25-04:00",
+    "updated_at": "2026-08-23T15:34:02-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -307101,6 +307101,30 @@
     "company": "flexport",
     "ats": "greenhouse",
     "source_slug": "flexport",
+    "alerted": true
+  },
+  "greenhouse:cloudflare:8147213": {
+    "updated_at": "2026-08-23T10:39:14-04:00",
+    "title": "Senior Customer Engineer, iGaming",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:stripe:8144212": {
+    "updated_at": "2026-08-23T15:36:47-04:00",
+    "title": "Solutions Architect, SMB (Presales)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": true
+  },
+  "greenhouse:stripe:8152145": {
+    "updated_at": "2026-08-23T15:36:21-04:00",
+    "title": "Solutions Architect, Platforms (Presales)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": true
   }
 }
