@@ -241056,7 +241056,7 @@
     "alerted": false
   },
   "greenhouse:melio:7792385003": {
-    "updated_at": "2026-08-17T03:47:44-04:00",
+    "updated_at": "2026-08-23T06:55:34-04:00",
     "title": "Senior Data Analyst",
     "company": "melio",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-23T06:34:09-04:00",
+    "updated_at": "2026-08-23T07:03:51-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-23T06:34:12-04:00",
+    "updated_at": "2026-08-23T07:03:54-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-23T06:47:20-04:00",
+    "updated_at": "2026-08-23T07:02:45-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -307037,6 +307037,14 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:okta:8147071": {
+    "updated_at": "2026-08-23T00:55:05-04:00",
+    "title": "Staff Software Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
     "alerted": false
   }
 }
