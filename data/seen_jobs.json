@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-23T09:48:59-04:00",
+    "updated_at": "2026-08-23T10:34:08-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-23T09:49:02-04:00",
+    "updated_at": "2026-08-23T10:34:11-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -307054,5 +307054,29 @@
     "ats": "greenhouse",
     "source_slug": "okta",
     "alerted": false
+  },
+  "greenhouse:melio:7820287003": {
+    "updated_at": "2026-08-23T06:55:36-04:00",
+    "title": "Senior Data Analyst",
+    "company": "melio",
+    "ats": "greenhouse",
+    "source_slug": "melio",
+    "alerted": false
+  },
+  "greenhouse:okta:8146815": {
+    "updated_at": "2026-08-23T03:15:04-04:00",
+    "title": "Senior Software Engineer, Identity Administration",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:waymo:8152061": {
+    "updated_at": "2026-08-23T10:30:20-04:00",
+    "title": "Senior Signal and Power Integrity Engineer",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": true
   }
 }
