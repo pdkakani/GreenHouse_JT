@@ -8072,7 +8072,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7776179": {
-    "updated_at": "2026-08-18T17:38:41-04:00",
+    "updated_at": "2026-08-24T15:06:35-04:00",
     "title": "Security Engineer, Bridge",
     "company": "stripe",
     "ats": "greenhouse",
@@ -27936,8 +27936,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:7761477": {
-    "updated_at": "2026-08-24T14:59:16-04:00",
-    "title": "Senior Pre-Sales Systems Engineer, Everpure Protect",
+    "updated_at": "2026-08-24T15:00:20-04:00",
+    "title": "Senior Pre-Sales Systems Engineer, Everpure Resilience",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -102384,7 +102384,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5079916008": {
-    "updated_at": "2026-08-21T12:49:51-04:00",
+    "updated_at": "2026-08-24T15:31:48-04:00",
     "title": "Growth Account Executive, Startups",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -116120,7 +116120,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:6852954": {
-    "updated_at": "2026-03-06T18:57:12-05:00",
+    "updated_at": "2026-08-24T15:32:11-04:00",
     "title": "Specialist, Premium Support",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -127552,7 +127552,7 @@
     "alerted": false
   },
   "greenhouse:brex:8522876002": {
-    "updated_at": "2026-08-17T16:42:58-04:00",
+    "updated_at": "2026-08-24T15:22:29-04:00",
     "title": "Director, Organic Growth & Discoverability",
     "company": "brex",
     "ats": "greenhouse",
@@ -127560,7 +127560,7 @@
     "alerted": false
   },
   "greenhouse:brex:8522919002": {
-    "updated_at": "2026-08-17T16:42:58-04:00",
+    "updated_at": "2026-08-24T15:23:11-04:00",
     "title": "Director, Organic Growth & Discoverability",
     "company": "brex",
     "ats": "greenhouse",
@@ -127568,7 +127568,7 @@
     "alerted": false
   },
   "greenhouse:brex:8522918002": {
-    "updated_at": "2026-08-17T16:42:58-04:00",
+    "updated_at": "2026-08-24T15:22:52-04:00",
     "title": "Director, Organic Growth & Discoverability",
     "company": "brex",
     "ats": "greenhouse",
@@ -160952,7 +160952,7 @@
     "alerted": false
   },
   "greenhouse:chime:8505460002": {
-    "updated_at": "2026-08-20T13:01:46-04:00",
+    "updated_at": "2026-08-24T15:16:45-04:00",
     "title": "Senior Software Engineer, Machine Learning Platform",
     "company": "chime",
     "ats": "greenhouse",
@@ -176736,7 +176736,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4684887006": {
-    "updated_at": "2026-08-21T18:22:57-04:00",
+    "updated_at": "2026-08-24T15:19:39-04:00",
     "title": "Product Marketing Manager, AI Infrastructure/Compute/Networking",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -187848,7 +187848,7 @@
     "alerted": false
   },
   "greenhouse:huntress:7761899003": {
-    "updated_at": "2026-06-04T10:39:43-04:00",
+    "updated_at": "2026-08-24T15:04:56-04:00",
     "title": "Vice President, Threat Detection & Response",
     "company": "huntress",
     "ats": "greenhouse",
@@ -190352,7 +190352,7 @@
     "alerted": false
   },
   "greenhouse:brex:8579396002": {
-    "updated_at": "2026-08-21T14:49:43-04:00",
+    "updated_at": "2026-08-24T15:31:40-04:00",
     "title": "Manager, Back Office & Payment Operations",
     "company": "brex",
     "ats": "greenhouse",
@@ -194872,7 +194872,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8584012002": {
-    "updated_at": "2026-07-10T10:47:22-04:00",
+    "updated_at": "2026-08-24T15:16:45-04:00",
     "title": "Senior Software Engineer, Backend",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -194880,7 +194880,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8583977002": {
-    "updated_at": "2026-07-10T10:47:11-04:00",
+    "updated_at": "2026-08-24T15:16:42-04:00",
     "title": "Senior Software Engineer, Backend",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -195976,7 +195976,7 @@
     "alerted": false
   },
   "greenhouse:workato:8570102002": {
-    "updated_at": "2026-08-06T17:39:33-04:00",
+    "updated_at": "2026-08-24T15:00:12-04:00",
     "title": "Staff Developer Advocate",
     "company": "workato",
     "ats": "greenhouse",
@@ -196080,7 +196080,7 @@
     "alerted": false
   },
   "greenhouse:workato:8579256002": {
-    "updated_at": "2026-08-06T17:39:33-04:00",
+    "updated_at": "2026-08-24T15:00:12-04:00",
     "title": "Staff Developer Advocate",
     "company": "workato",
     "ats": "greenhouse",
@@ -214048,7 +214048,7 @@
     "alerted": false
   },
   "greenhouse:okta:8022139": {
-    "updated_at": "2026-07-31T11:23:35-04:00",
+    "updated_at": "2026-08-24T15:17:46-04:00",
     "title": "Manager, Technology Alliance Partners",
     "company": "okta",
     "ats": "greenhouse",
@@ -216008,7 +216008,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4775290007": {
-    "updated_at": "2026-08-24T12:13:24-04:00",
+    "updated_at": "2026-08-24T15:06:26-04:00",
     "title": "Sales Development Representative - Sydney",
     "company": "verkada",
     "ats": "greenhouse",
@@ -226448,7 +226448,7 @@
     "alerted": true
   },
   "greenhouse:brex:8615155002": {
-    "updated_at": "2026-07-01T00:22:51-04:00",
+    "updated_at": "2026-08-24T15:23:28-04:00",
     "title": "Manager, CX AI Strategy",
     "company": "brex",
     "ats": "greenhouse",
@@ -226456,7 +226456,7 @@
     "alerted": false
   },
   "greenhouse:brex:8615154002": {
-    "updated_at": "2026-07-01T00:21:04-04:00",
+    "updated_at": "2026-08-24T15:23:17-04:00",
     "title": "Manager, CX AI Strategy",
     "company": "brex",
     "ats": "greenhouse",
@@ -226576,7 +226576,7 @@
     "alerted": false
   },
   "greenhouse:brex:8615157002": {
-    "updated_at": "2026-07-01T00:25:15-04:00",
+    "updated_at": "2026-08-24T15:23:04-04:00",
     "title": "Manager, CX AI Strategy",
     "company": "brex",
     "ats": "greenhouse",
@@ -226584,7 +226584,7 @@
     "alerted": true
   },
   "greenhouse:brex:8615156002": {
-    "updated_at": "2026-07-01T00:23:34-04:00",
+    "updated_at": "2026-08-24T15:23:41-04:00",
     "title": "Manager, CX AI Strategy",
     "company": "brex",
     "ats": "greenhouse",
@@ -226728,7 +226728,7 @@
     "alerted": false
   },
   "greenhouse:brex:8615158002": {
-    "updated_at": "2026-07-01T00:27:38-04:00",
+    "updated_at": "2026-08-24T15:24:01-04:00",
     "title": "Manager, CX AI Strategy",
     "company": "brex",
     "ats": "greenhouse",
@@ -242680,7 +242680,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8055459": {
-    "updated_at": "2026-07-13T17:02:35-04:00",
+    "updated_at": "2026-08-24T15:31:59-04:00",
     "title": "Global Law Enforcement Operations Enablement Manager",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T14:49:14-04:00",
+    "updated_at": "2026-08-24T15:19:59-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T14:49:17-04:00",
+    "updated_at": "2026-08-24T15:20:02-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -269152,7 +269152,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5369200008": {
-    "updated_at": "2026-07-29T16:48:30-04:00",
+    "updated_at": "2026-08-24T15:16:58-04:00",
     "title": "Account Executive- Expansion",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -303456,7 +303456,7 @@
     "alerted": true
   },
   "greenhouse:godaddy:7447658003": {
-    "updated_at": "2026-08-20T12:00:39-04:00",
+    "updated_at": "2026-08-24T15:01:48-04:00",
     "title": "Senior AI, Automation & Analytics - Assurance, Risk and Compliance (ARC)",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -308416,8 +308416,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8123184": {
-    "updated_at": "2026-08-24T14:51:48-04:00",
-    "title": "Pre-Sales Systems Engineer, Everpure Protect",
+    "updated_at": "2026-08-24T15:05:26-04:00",
+    "title": "Pre-Sales Systems Engineer, Everpure Resilience",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -308429,6 +308429,70 @@
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
+    "alerted": true
+  },
+  "greenhouse:coursera:6150740004": {
+    "updated_at": "2026-08-24T15:13:40-04:00",
+    "title": "Account Director, Education",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8716306002": {
+    "updated_at": "2026-08-24T15:07:33-04:00",
+    "title": "Lead Legal Counsel, Employment (EMEA)",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:datadog:8139161": {
+    "updated_at": "2026-08-24T15:07:12-04:00",
+    "title": "Principal CRO and Web Analyst",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:yugabyte:4707689006": {
+    "updated_at": "2026-08-24T15:06:04-04:00",
+    "title": "Enterprise Account Executive",
+    "company": "yugabyte",
+    "ats": "greenhouse",
+    "source_slug": "yugabyte",
+    "alerted": false
+  },
+  "greenhouse:stripe:8144185": {
+    "updated_at": "2026-08-24T15:04:44-04:00",
+    "title": "Solutions Architect, Enterprise (Presales)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8139767": {
+    "updated_at": "2026-08-24T14:50:03-04:00",
+    "title": "Customer Resilience Manager",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5400012008": {
+    "updated_at": "2026-08-24T15:24:05-04:00",
+    "title": "Staff + Sr. Software Engineer, Scaling",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:waymo:8152556": {
+    "updated_at": "2026-08-24T15:15:00-04:00",
+    "title": "Software Engineer",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
     "alerted": true
   }
 }
