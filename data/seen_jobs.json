@@ -3600,7 +3600,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:7683484": {
-    "updated_at": "2026-08-21T15:40:40-04:00",
+    "updated_at": "2026-08-24T17:30:19-04:00",
     "title": "Senior Partner Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -24592,8 +24592,8 @@
     "alerted": true
   },
   "greenhouse:chime:8384241002": {
-    "updated_at": "2026-04-20T15:40:08-04:00",
-    "title": "Senior Software Engineer, GenAI Platform",
+    "updated_at": "2026-08-24T17:39:34-04:00",
+    "title": "Senior Software Engineer, AI & App Experience",
     "company": "chime",
     "ats": "greenhouse",
     "source_slug": "chime",
@@ -76344,7 +76344,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7700740": {
-    "updated_at": "2026-08-21T15:40:40-04:00",
+    "updated_at": "2026-08-24T17:30:19-04:00",
     "title": "Senior Partner Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -113072,8 +113072,8 @@
     "alerted": false
   },
   "greenhouse:reddit:6909093": {
-    "updated_at": "2026-06-17T14:31:22-04:00",
-    "title": "Software Engineer",
+    "updated_at": "2026-08-24T17:47:42-04:00",
+    "title": "Senior Software Engineer, Ads",
     "company": "reddit",
     "ats": "greenhouse",
     "source_slug": "reddit",
@@ -201344,8 +201344,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8000779": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
-    "title": "Principal People Team Business Partner - M&A / Strategy",
+    "updated_at": "2026-08-24T17:26:40-04:00",
+    "title": "HR M&A Director",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -210744,7 +210744,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8009965": {
-    "updated_at": "2026-08-21T15:40:40-04:00",
+    "updated_at": "2026-08-24T17:50:32-04:00",
     "title": "Director, Web Platform & Technology",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -214048,7 +214048,7 @@
     "alerted": false
   },
   "greenhouse:okta:8022139": {
-    "updated_at": "2026-08-24T16:11:02-04:00",
+    "updated_at": "2026-08-24T17:30:53-04:00",
     "title": "Senior Manager, ISV Ecosystem & Partner Programs",
     "company": "okta",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T17:19:11-04:00",
+    "updated_at": "2026-08-24T17:49:18-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T17:19:14-04:00",
+    "updated_at": "2026-08-24T17:49:22-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243984,15 +243984,15 @@
     "alerted": false
   },
   "greenhouse:chime:8625622002": {
-    "updated_at": "2026-07-14T14:16:42-04:00",
-    "title": "Engineering Manager, AI & App Experience",
+    "updated_at": "2026-08-24T17:34:32-04:00",
+    "title": "Tech Lead Manager, AI & App Experience",
     "company": "chime",
     "ats": "greenhouse",
     "source_slug": "chime",
     "alerted": false
   },
   "greenhouse:chime:8618419002": {
-    "updated_at": "2026-07-28T21:47:34-04:00",
+    "updated_at": "2026-08-24T17:37:13-04:00",
     "title": "Staff Full-Stack Software Engineer, AI & App Experience",
     "company": "chime",
     "ats": "greenhouse",
@@ -269440,8 +269440,8 @@
     "alerted": false
   },
   "greenhouse:verkada:5195862007": {
-    "updated_at": "2026-08-24T14:08:46-04:00",
-    "title": "Embedded Engineer - Streaming",
+    "updated_at": "2026-08-24T17:32:26-04:00",
+    "title": "Senior Systems Engineer - Streaming",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -271176,7 +271176,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4626644006": {
-    "updated_at": "2026-08-21T18:22:57-04:00",
+    "updated_at": "2026-08-24T17:38:10-04:00",
     "title": "Sr. Engineering Manager, Inference",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -275128,7 +275128,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5200761007": {
-    "updated_at": "2026-08-24T14:08:46-04:00",
+    "updated_at": "2026-08-24T17:46:42-04:00",
     "title": "Enterprise Solutions Engineer, SouthCentral - SLED",
     "company": "verkada",
     "ats": "greenhouse",
@@ -294296,7 +294296,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8121318": {
-    "updated_at": "2026-08-20T14:53:52-04:00",
+    "updated_at": "2026-08-24T17:41:47-04:00",
     "title": "Enterprise Core Implementation Consultant - East/Central",
     "company": "samsara",
     "ats": "greenhouse",
@@ -296624,7 +296624,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8128632": {
-    "updated_at": "2026-08-18T17:38:49-04:00",
+    "updated_at": "2026-08-24T17:39:16-04:00",
     "title": "Account Executive, Velocity Platforms (Hunter)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -306760,7 +306760,7 @@
     "alerted": true
   },
   "greenhouse:purestorage:8146194": {
-    "updated_at": "2026-08-21T18:52:20-04:00",
+    "updated_at": "2026-08-24T17:41:58-04:00",
     "title": "Regional AI Business Lead",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -307072,7 +307072,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8152061": {
-    "updated_at": "2026-08-23T10:30:20-04:00",
+    "updated_at": "2026-08-24T17:22:12-04:00",
     "title": "Senior Signal and Power Integrity Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -307648,7 +307648,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8131784": {
-    "updated_at": "2026-08-24T12:53:17-04:00",
+    "updated_at": "2026-08-24T17:47:37-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -308846,5 +308846,101 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": true
+  },
+  "greenhouse:elastic:8155348": {
+    "updated_at": "2026-08-24T17:26:36-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155330": {
+    "updated_at": "2026-08-24T17:26:34-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155329": {
+    "updated_at": "2026-08-24T17:26:32-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155328": {
+    "updated_at": "2026-08-24T17:26:30-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155327": {
+    "updated_at": "2026-08-24T17:26:28-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155326": {
+    "updated_at": "2026-08-24T17:26:26-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155325": {
+    "updated_at": "2026-08-24T17:26:24-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155216": {
+    "updated_at": "2026-08-24T17:26:18-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8130124": {
+    "updated_at": "2026-08-24T17:26:04-04:00",
+    "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:braze:8140251": {
+    "updated_at": "2026-08-24T17:25:22-04:00",
+    "title": "Account Executive, Scale",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8145906": {
+    "updated_at": "2026-08-24T17:19:53-04:00",
+    "title": "Account Executive, Commercial (Upstate New York)",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:braze:8155340": {
+    "updated_at": "2026-08-24T17:17:40-04:00",
+    "title": "Account Executive, Enterprise",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
   }
 }
