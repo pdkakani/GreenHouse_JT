@@ -27176,7 +27176,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7791472": {
-    "updated_at": "2026-08-14T14:01:45-04:00",
+    "updated_at": "2026-08-24T15:38:27-04:00",
     "title": "Staff Data Scientist",
     "company": "ripple",
     "ats": "greenhouse",
@@ -63168,7 +63168,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7527949": {
-    "updated_at": "2026-08-21T15:40:40-04:00",
+    "updated_at": "2026-08-24T16:00:24-04:00",
     "title": "Senior Manager, Martech Transformation",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -150552,7 +150552,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7428796": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-24T15:59:21-04:00",
     "title": "Head of GTM, AI Inference",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -200760,7 +200760,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7950376": {
-    "updated_at": "2026-08-24T08:10:15-04:00",
+    "updated_at": "2026-08-24T15:50:27-04:00",
     "title": "Senior Legal Counsel, Public Sector",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -214048,8 +214048,8 @@
     "alerted": false
   },
   "greenhouse:okta:8022139": {
-    "updated_at": "2026-08-24T15:17:46-04:00",
-    "title": "Manager, Technology Alliance Partners",
+    "updated_at": "2026-08-24T15:59:09-04:00",
+    "title": "Senior Manager, ISV Ecosystem & Partner Programs",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -219920,7 +219920,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8027655": {
-    "updated_at": "2026-08-09T05:11:55-04:00",
+    "updated_at": "2026-08-24T15:51:26-04:00",
     "title": "Internal Audit Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T15:19:59-04:00",
+    "updated_at": "2026-08-24T15:49:34-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T15:20:02-04:00",
+    "updated_at": "2026-08-24T15:49:37-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -260376,7 +260376,7 @@
     "alerted": false
   },
   "greenhouse:asana:7981443": {
-    "updated_at": "2026-08-17T17:36:18-04:00",
+    "updated_at": "2026-08-24T15:55:58-04:00",
     "title": "Product Support Specialist - French Speaking",
     "company": "asana",
     "ats": "greenhouse",
@@ -289528,7 +289528,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5371209008": {
-    "updated_at": "2026-08-17T18:48:00-04:00",
+    "updated_at": "2026-08-24T16:00:32-04:00",
     "title": "Software Engineer II",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -291800,8 +291800,8 @@
     "alerted": false
   },
   "greenhouse:expel:8706149002": {
-    "updated_at": "2026-08-24T10:52:10-04:00",
-    "title": "Product Manager, Integrations",
+    "updated_at": "2026-08-24T15:37:34-04:00",
+    "title": "Product Manager, Detection Pipeline",
     "company": "expel",
     "ats": "greenhouse",
     "source_slug": "expel",
@@ -300040,7 +300040,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8107347": {
-    "updated_at": "2026-08-24T10:59:20-04:00",
+    "updated_at": "2026-08-24T15:49:25-04:00",
     "title": "Senior AI Governance Counsel",
     "company": "adyen",
     "ats": "greenhouse",
@@ -306920,7 +306920,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8739506002": {
-    "updated_at": "2026-08-21T21:12:03-04:00",
+    "updated_at": "2026-08-24T15:33:32-04:00",
     "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -306928,7 +306928,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8739507002": {
-    "updated_at": "2026-08-21T21:12:03-04:00",
+    "updated_at": "2026-08-24T15:33:32-04:00",
     "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -308328,8 +308328,8 @@
     "alerted": false
   },
   "greenhouse:twilio:8145984": {
-    "updated_at": "2026-08-24T14:06:34-04:00",
-    "title": "Principal Presales Engineer",
+    "updated_at": "2026-08-24T15:57:42-04:00",
+    "title": "Principal Presales Engineer - ISV",
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
@@ -308352,7 +308352,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8103468": {
-    "updated_at": "2026-08-24T14:43:38-04:00",
+    "updated_at": "2026-08-24T15:42:59-04:00",
     "title": "Staff Engineer - Payments (Mobile & Terminal Experiences)",
     "company": "adyen",
     "ats": "greenhouse",
@@ -308493,6 +308493,102 @@
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
+    "alerted": true
+  },
+  "greenhouse:gitlab:8734888002": {
+    "updated_at": "2026-08-24T15:52:44-04:00",
+    "title": "Staff Corporate Security Engineer",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:toast:8155033": {
+    "updated_at": "2026-08-24T15:48:03-04:00",
+    "title": "Territory Account Executive, Retail - Newark, NJ",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:checkr:8145302": {
+    "updated_at": "2026-08-24T15:47:30-04:00",
+    "title": "Strategic Finance Senior Analyst",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:stripe:8155002": {
+    "updated_at": "2026-08-24T15:46:34-04:00",
+    "title": "Product Designer, Link",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:elastic:8140318": {
+    "updated_at": "2026-08-24T15:43:41-04:00",
+    "title": "Enterprise Account Executive, West",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8154749": {
+    "updated_at": "2026-08-24T15:41:54-04:00",
+    "title": "Automation Engineer, Quality Engineering",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:sofi:7963974003": {
+    "updated_at": "2026-08-24T15:41:04-04:00",
+    "title": "Senior Data Engineer- People Analytics",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8139783": {
+    "updated_at": "2026-08-24T15:37:31-04:00",
+    "title": "Manager, Customer Resilience Management",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:sofi:7963969003": {
+    "updated_at": "2026-08-24T15:33:29-04:00",
+    "title": "Senior Engineering Manager-People Analytics",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5400010008": {
+    "updated_at": "2026-08-24T15:27:59-04:00",
+    "title": "Product Policy Manager, Product Risk",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:adyen:8146108": {
+    "updated_at": "2026-08-24T15:59:39-04:00",
+    "title": "Engineering Manager - Issuing",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": true
+  },
+  "greenhouse:coinbase:8154983": {
+    "updated_at": "2026-08-24T15:58:52-04:00",
+    "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
     "alerted": true
   }
 }
