@@ -45744,7 +45744,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7554002": {
-    "updated_at": "2026-08-18T17:57:23-04:00",
+    "updated_at": "2026-08-24T09:47:40-04:00",
     "title": "Payments Fraud Investigator",
     "company": "stripe",
     "ats": "greenhouse",
@@ -66256,7 +66256,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7717540": {
-    "updated_at": "2026-08-22T14:32:40-04:00",
+    "updated_at": "2026-08-24T10:02:55-04:00",
     "title": "Senior Software Engineer II, Developer Experience / Operational Excellence",
     "company": "samsara",
     "ats": "greenhouse",
@@ -85080,7 +85080,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7729737": {
-    "updated_at": "2026-08-20T10:55:18-04:00",
+    "updated_at": "2026-08-24T09:50:10-04:00",
     "title": "Director, Web Marketing",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -89288,7 +89288,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8353248002": {
-    "updated_at": "2026-08-18T13:54:42-04:00",
+    "updated_at": "2026-08-24T10:00:49-04:00",
     "title": "Strategic Core Account Executive - Banking, m/f/d",
     "company": "databricks",
     "ats": "greenhouse",
@@ -117672,7 +117672,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7589006": {
-    "updated_at": "2026-08-13T05:34:25-04:00",
+    "updated_at": "2026-08-24T10:20:06-04:00",
     "title": "Senior Product Manager - Enterprise (API & SDK)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -141272,7 +141272,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678606006": {
-    "updated_at": "2026-08-21T18:22:57-04:00",
+    "updated_at": "2026-08-24T09:56:42-04:00",
     "title": "Software Engineer II, Developer Experience",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -141296,7 +141296,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4678602006": {
-    "updated_at": "2026-08-21T18:22:57-04:00",
+    "updated_at": "2026-08-24T09:56:34-04:00",
     "title": "Senior Software Engineer, Developer Experience",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -142336,7 +142336,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:7819461": {
-    "updated_at": "2026-08-20T10:44:44-04:00",
+    "updated_at": "2026-08-24T10:19:28-04:00",
     "title": "Staff Software Engineer, Identity & Access Management",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -173168,7 +173168,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7752678": {
-    "updated_at": "2026-08-20T14:53:47-04:00",
+    "updated_at": "2026-08-24T10:02:57-04:00",
     "title": "Staff Software Engineer, DevEx",
     "company": "samsara",
     "ats": "greenhouse",
@@ -200840,7 +200840,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7974115": {
-    "updated_at": "2026-08-20T14:53:49-04:00",
+    "updated_at": "2026-08-24T09:47:33-04:00",
     "title": "Senior Manager, Deal Desk - EMEA & Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -215936,7 +215936,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7985544": {
-    "updated_at": "2026-08-06T07:31:57-04:00",
+    "updated_at": "2026-08-24T09:40:10-04:00",
     "title": "Business Analyst - Operations",
     "company": "adyen",
     "ats": "greenhouse",
@@ -227264,7 +227264,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7767090003": {
-    "updated_at": "2026-08-17T07:06:50-04:00",
+    "updated_at": "2026-08-24T10:22:26-04:00",
     "title": "Intern AI & Management Consulting (Value Engineering)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -232872,8 +232872,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5291731008": {
-    "updated_at": "2026-08-21T12:50:31-04:00",
-    "title": "Channel Account Manager",
+    "updated_at": "2026-08-24T10:00:01-04:00",
+    "title": "Partner Account Manager, Systems Integrators",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -241944,7 +241944,7 @@
     "alerted": false
   },
   "greenhouse:mercury:6114207004": {
-    "updated_at": "2026-08-21T16:26:17-04:00",
+    "updated_at": "2026-08-24T10:12:07-04:00",
     "title": "Strategic Partnerships Manager - VCs & Law Firms",
     "company": "mercury",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T09:34:27-04:00",
+    "updated_at": "2026-08-24T10:20:46-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243680,7 +243680,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8064526": {
-    "updated_at": "2026-08-18T17:38:42-04:00",
+    "updated_at": "2026-08-24T09:49:30-04:00",
     "title": "AI Product Manager, Professional Services",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T09:34:30-04:00",
+    "updated_at": "2026-08-24T10:20:49-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -247128,7 +247128,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8064473": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-24T10:23:39-04:00",
     "title": "Senior Product Manager - FinTech",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -253712,7 +253712,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8066716": {
-    "updated_at": "2026-08-06T15:17:31-04:00",
+    "updated_at": "2026-08-24T10:22:18-04:00",
     "title": "Senior Distributed Systems Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -270928,7 +270928,7 @@
     "alerted": false
   },
   "greenhouse:braze:8097449": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
+    "updated_at": "2026-08-24T10:17:26-04:00",
     "title": "Account Executive, Retail Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -270936,7 +270936,7 @@
     "alerted": false
   },
   "greenhouse:braze:8097447": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
+    "updated_at": "2026-08-24T10:17:26-04:00",
     "title": "Account Executive, Retail Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -270944,7 +270944,7 @@
     "alerted": false
   },
   "greenhouse:braze:8075042": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
+    "updated_at": "2026-08-24T10:17:26-04:00",
     "title": "Account Executive, Retail Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -270952,7 +270952,7 @@
     "alerted": false
   },
   "greenhouse:braze:8097434": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
+    "updated_at": "2026-08-24T10:17:26-04:00",
     "title": "Account Executive, Retail Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-24T09:32:35-04:00",
+    "updated_at": "2026-08-24T09:47:40-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -279160,7 +279160,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8109358": {
-    "updated_at": "2026-08-20T14:53:47-04:00",
+    "updated_at": "2026-08-24T10:02:57-04:00",
     "title": "Staff Software Engineer, DevEx",
     "company": "samsara",
     "ats": "greenhouse",
@@ -284504,7 +284504,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8115838": {
-    "updated_at": "2026-08-24T08:09:06-04:00",
+    "updated_at": "2026-08-24T09:45:24-04:00",
     "title": "Staff Machine Learning Engineer, Shopping Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -290488,8 +290488,8 @@
     "alerted": false
   },
   "greenhouse:datadog:8121553": {
-    "updated_at": "2026-08-20T09:01:50-04:00",
-    "title": "Product Marketing Manager - Incident Response",
+    "updated_at": "2026-08-24T09:59:47-04:00",
+    "title": "Senior Product Marketing Manager - Incident Response",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -291792,7 +291792,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8109970": {
-    "updated_at": "2026-08-17T14:27:22-04:00",
+    "updated_at": "2026-08-24T09:45:29-04:00",
     "title": "Senior Solutions Architect",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -292696,7 +292696,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8067604": {
-    "updated_at": "2026-08-20T10:44:44-04:00",
+    "updated_at": "2026-08-24T10:10:16-04:00",
     "title": "Software Engineer, Proactive Capabilities",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -304952,7 +304952,7 @@
     "alerted": true
   },
   "greenhouse:brex:8735070002": {
-    "updated_at": "2026-08-21T10:53:26-04:00",
+    "updated_at": "2026-08-24T10:20:18-04:00",
     "title": "Data Scientist II, Applied ML",
     "company": "brex",
     "ats": "greenhouse",
@@ -305384,8 +305384,8 @@
     "alerted": false
   },
   "greenhouse:toast:8147153": {
-    "updated_at": "2026-08-24T08:50:22-04:00",
-    "title": "Full-Stack Software Engineer",
+    "updated_at": "2026-08-24T10:02:19-04:00",
+    "title": "Senior Software Engineer - Data Integration",
     "company": "toast",
     "ats": "greenhouse",
     "source_slug": "toast",
@@ -307536,8 +307536,8 @@
     "alerted": false
   },
   "greenhouse:twilio:8143768": {
-    "updated_at": "2026-08-24T07:09:24-04:00",
-    "title": "New Business Account Executive",
+    "updated_at": "2026-08-24T09:44:32-04:00",
+    "title": "New Business Account Executive (German speaker)",
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
@@ -307653,6 +307653,62 @@
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:datadog:8128182": {
+    "updated_at": "2026-08-24T09:58:00-04:00",
+    "title": "Services Architect 3 - Paris/London",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:samsara:8132327": {
+    "updated_at": "2026-08-24T09:56:18-04:00",
+    "title": "Enterprise Customer Success Manager",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7855793003": {
+    "updated_at": "2026-08-24T09:50:21-04:00",
+    "title": "Software Engineer II, Test Frameworks & Tooling",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:datadog:8146986": {
+    "updated_at": "2026-08-24T09:43:57-04:00",
+    "title": "Manager, Customer Success - Boston",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:databricks:8588516002": {
+    "updated_at": "2026-08-24T09:35:34-04:00",
+    "title": "Enterprise Account Executive",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:toast:8148019": {
+    "updated_at": "2026-08-24T09:27:04-04:00",
+    "title": "Technical Support Expert, Enterprise",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:stripe:8152994": {
+    "updated_at": "2026-08-24T09:24:53-04:00",
+    "title": "Product Marketing Manager, Bridge/Stablecoins",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
