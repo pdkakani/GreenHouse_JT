@@ -84536,7 +84536,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7532645": {
-    "updated_at": "2026-08-21T10:58:46-04:00",
+    "updated_at": "2026-08-24T01:18:06-04:00",
     "title": "Accounting Manager, Lending & Credit Products",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T01:04:27-04:00",
+    "updated_at": "2026-08-24T01:48:43-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T01:04:31-04:00",
+    "updated_at": "2026-08-24T01:48:46-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -298672,7 +298672,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8692880002": {
-    "updated_at": "2026-08-18T11:27:32-04:00",
+    "updated_at": "2026-08-24T01:16:14-04:00",
     "title": "Senior Support Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -305200,7 +305200,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8143670": {
-    "updated_at": "2026-08-21T05:11:58-04:00",
+    "updated_at": "2026-08-24T01:52:16-04:00",
     "title": "Member of Technical Staff",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -307261,6 +307261,38 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:okta:8147222": {
+    "updated_at": "2026-08-24T01:16:38-04:00",
+    "title": "Staff Software Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:stripe:8148731": {
+    "updated_at": "2026-08-24T00:38:53-04:00",
+    "title": "Sales Development Representative, Japan",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:8141453": {
+    "updated_at": "2026-08-24T00:22:58-04:00",
+    "title": "GTM Recruiter, APAC",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:okta:8146575": {
+    "updated_at": "2026-08-24T00:20:22-04:00",
+    "title": "Cloud & ISV Alliances Manager \u2013  APJ (excluding ANZ)",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
     "alerted": false
   }
 }
