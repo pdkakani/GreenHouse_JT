@@ -46296,7 +46296,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6570259": {
-    "updated_at": "2026-06-08T06:27:00-04:00",
+    "updated_at": "2026-08-24T04:07:54-04:00",
     "title": "Sales Development Representative (German fluency)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -123144,7 +123144,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7750208": {
-    "updated_at": "2026-07-13T14:16:44-04:00",
+    "updated_at": "2026-08-24T03:46:22-04:00",
     "title": "Professional Services Consultant",
     "company": "ripple",
     "ats": "greenhouse",
@@ -123160,7 +123160,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7750241": {
-    "updated_at": "2026-07-13T14:16:44-04:00",
+    "updated_at": "2026-08-24T03:46:22-04:00",
     "title": "Professional Services Consultant",
     "company": "ripple",
     "ats": "greenhouse",
@@ -150192,7 +150192,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7894241": {
-    "updated_at": "2026-08-12T03:54:20-04:00",
+    "updated_at": "2026-08-24T04:05:07-04:00",
     "title": "Tech Recruitment Business Partner - 6 month contract",
     "company": "adyen",
     "ats": "greenhouse",
@@ -185064,7 +185064,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7750218": {
-    "updated_at": "2026-07-13T14:16:44-04:00",
+    "updated_at": "2026-08-24T03:46:22-04:00",
     "title": "Professional Services Consultant",
     "company": "ripple",
     "ats": "greenhouse",
@@ -187400,7 +187400,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7180929": {
-    "updated_at": "2026-08-14T09:12:22-04:00",
+    "updated_at": "2026-08-24T04:19:33-04:00",
     "title": "Technical Support Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -191296,7 +191296,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5237973008": {
-    "updated_at": "2026-07-14T18:35:00-04:00",
+    "updated_at": "2026-08-24T04:05:15-04:00",
     "title": "Enterprise Account Executive, Manufacturing",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -208720,7 +208720,7 @@
     "alerted": false
   },
   "greenhouse:cybereason:8002528": {
-    "updated_at": "2026-06-18T00:46:42-04:00",
+    "updated_at": "2026-08-24T04:17:17-04:00",
     "title": "Senior SME Sales Account Manager (Osaka)",
     "company": "cybereason",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T03:33:57-04:00",
+    "updated_at": "2026-08-24T04:20:21-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T03:34:01-04:00",
+    "updated_at": "2026-08-24T04:20:24-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -254256,8 +254256,8 @@
     "alerted": false
   },
   "greenhouse:samsara:8074109": {
-    "updated_at": "2026-08-20T14:53:51-04:00",
-    "title": "Enterprise Implementation Consultant",
+    "updated_at": "2026-08-24T04:11:43-04:00",
+    "title": "Enterprise Implementation Consultant - German Fluency",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -257720,7 +257720,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8049399": {
-    "updated_at": "2026-07-30T15:51:30-04:00",
+    "updated_at": "2026-08-24T03:46:24-04:00",
     "title": "Business Development Senior Manager",
     "company": "ripple",
     "ats": "greenhouse",
@@ -300344,7 +300344,7 @@
     "alerted": false
   },
   "greenhouse:toast:8141220": {
-    "updated_at": "2026-08-19T04:13:06-04:00",
+    "updated_at": "2026-08-24T04:04:45-04:00",
     "title": "Principal Product Manager, International Mid-Market",
     "company": "toast",
     "ats": "greenhouse",
@@ -300352,7 +300352,7 @@
     "alerted": false
   },
   "greenhouse:toast:8127661": {
-    "updated_at": "2026-08-19T04:12:20-04:00",
+    "updated_at": "2026-08-24T04:04:42-04:00",
     "title": "Principal Product Manager, International Mid-Market",
     "company": "toast",
     "ats": "greenhouse",
@@ -303160,7 +303160,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:8143427": {
-    "updated_at": "2026-08-20T08:57:35-04:00",
+    "updated_at": "2026-08-24T04:26:02-04:00",
     "title": "Senior Full Stack Developer \u2013 Core Platform",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -307336,11 +307336,19 @@
     "alerted": false
   },
   "greenhouse:gitlab:8736457002": {
-    "updated_at": "2026-08-24T01:31:34-04:00",
+    "updated_at": "2026-08-24T04:21:16-04:00",
     "title": "Business Development Representative (Sydney or Melbourne)",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8105960": {
+    "updated_at": "2026-08-24T03:25:15-04:00",
+    "title": "ICT Risk Oversight Lead",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
     "alerted": false
   }
 }
