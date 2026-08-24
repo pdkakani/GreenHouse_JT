@@ -81360,8 +81360,8 @@
     "alerted": false
   },
   "greenhouse:newrelic:5159020008": {
-    "updated_at": "2026-08-17T05:39:13-04:00",
-    "title": "Partner Development Manager - French Speaking",
+    "updated_at": "2026-08-24T07:30:24-04:00",
+    "title": "Partner Sales Manager - French Speaking",
     "company": "newrelic",
     "ats": "greenhouse",
     "source_slug": "newrelic",
@@ -197000,7 +197000,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7754695003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-08-24T07:24:52-04:00",
     "title": "Manager of Global Cyber Defense",
     "company": "celonis",
     "ats": "greenhouse",
@@ -235160,7 +235160,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7798592003": {
-    "updated_at": "2026-07-24T03:28:21-04:00",
+    "updated_at": "2026-08-24T07:23:54-04:00",
     "title": "Application Product Manager - AI System Transformations",
     "company": "celonis",
     "ats": "greenhouse",
@@ -242560,7 +242560,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627022002": {
-    "updated_at": "2026-08-03T16:43:10-04:00",
+    "updated_at": "2026-08-24T07:35:52-04:00",
     "title": "Senior Solutions Architect - Turkey",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T07:18:46-04:00",
+    "updated_at": "2026-08-24T07:49:48-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T07:18:49-04:00",
+    "updated_at": "2026-08-24T07:49:51-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -296432,7 +296432,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7886290003": {
-    "updated_at": "2026-08-19T07:14:47-04:00",
+    "updated_at": "2026-08-24T07:48:53-04:00",
     "title": "(Graduated) Intern Online Training Translation (Korean speaking)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -305632,7 +305632,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8147315": {
-    "updated_at": "2026-08-21T11:10:25-04:00",
+    "updated_at": "2026-08-24T07:30:41-04:00",
     "title": "Founding Account Executive",
     "company": "flexport",
     "ats": "greenhouse",
@@ -307533,6 +307533,22 @@
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:twilio:8143768": {
+    "updated_at": "2026-08-24T07:09:24-04:00",
+    "title": "New Business Account Executive",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:okta:8141274": {
+    "updated_at": "2026-08-24T07:04:11-04:00",
+    "title": "Staff Data Analyst, People Analytics",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
     "alerted": false
   }
 }
