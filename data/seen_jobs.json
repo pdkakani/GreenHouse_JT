@@ -77160,7 +77160,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7493634": {
-    "updated_at": "2026-07-27T01:00:19-04:00",
+    "updated_at": "2026-08-23T23:03:34-04:00",
     "title": "Staff Technical Program Manager, GTM Tech",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -101160,7 +101160,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7531575": {
-    "updated_at": "2026-08-12T15:59:08-04:00",
+    "updated_at": "2026-08-23T23:32:17-04:00",
     "title": "Sales Development Representative",
     "company": "datadog",
     "ats": "greenhouse",
@@ -232896,8 +232896,8 @@
     "alerted": false
   },
   "greenhouse:flexport:8048080": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
-    "title": "Senior Associate, Account Management",
+    "updated_at": "2026-08-23T23:16:13-04:00",
+    "title": "Associate or Senior Associate, Account Management",
     "company": "flexport",
     "ats": "greenhouse",
     "source_slug": "flexport",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-23T22:35:26-04:00",
+    "updated_at": "2026-08-23T23:34:39-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-23T22:35:29-04:00",
+    "updated_at": "2026-08-23T23:34:47-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-23T21:17:36-04:00",
+    "updated_at": "2026-08-23T23:02:53-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -294704,7 +294704,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8111984": {
-    "updated_at": "2026-08-17T11:18:24-04:00",
+    "updated_at": "2026-08-23T23:34:04-04:00",
     "title": "Design Systems, Product Designer",
     "company": "gusto",
     "ats": "greenhouse",
@@ -305144,7 +305144,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8141211": {
-    "updated_at": "2026-08-23T22:02:48-04:00",
+    "updated_at": "2026-08-23T23:11:11-04:00",
     "title": "Account Executive, Commercial Hunter",
     "company": "stripe",
     "ats": "greenhouse",
@@ -307197,6 +307197,22 @@
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8129785": {
+    "updated_at": "2026-08-23T22:12:54-04:00",
+    "title": "Staff AI & Automation Data Analyst",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:stripe:8146053": {
+    "updated_at": "2026-08-23T21:56:05-04:00",
+    "title": "Global Partnerships Lead \u2014 Greater China, Hong Kong & Singapore",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
