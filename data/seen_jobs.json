@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T00:19:48-04:00",
+    "updated_at": "2026-08-24T01:04:27-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T00:19:56-04:00",
+    "updated_at": "2026-08-24T01:04:31-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -307253,6 +307253,14 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8728551002": {
+    "updated_at": "2026-08-24T00:20:03-04:00",
+    "title": "Avionics Wire Harness Technician (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": false
   }
 }
