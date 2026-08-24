@@ -155144,7 +155144,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7782141": {
-    "updated_at": "2026-08-24T16:06:07-04:00",
+    "updated_at": "2026-08-24T18:10:07-04:00",
     "title": "Senior Territory Account Executive (NY)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -165328,7 +165328,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7943582": {
-    "updated_at": "2026-08-24T16:06:07-04:00",
+    "updated_at": "2026-08-24T18:14:09-04:00",
     "title": "Senior Named Account Executive, Salt Lake City",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -205184,7 +205184,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7958083": {
-    "updated_at": "2026-08-24T16:06:07-04:00",
+    "updated_at": "2026-08-24T18:07:38-04:00",
     "title": "Principal Account Executive, SLED West (R1 Institutions and Higher Ed)",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T17:49:18-04:00",
+    "updated_at": "2026-08-24T18:04:35-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T17:49:22-04:00",
+    "updated_at": "2026-08-24T18:04:38-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250832,7 +250832,7 @@
     "alerted": false
   },
   "greenhouse:okta:8068504": {
-    "updated_at": "2026-08-24T12:51:52-04:00",
+    "updated_at": "2026-08-24T18:06:34-04:00",
     "title": "Chief of Staff to the CPO",
     "company": "okta",
     "ats": "greenhouse",
@@ -272360,7 +272360,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8087792": {
-    "updated_at": "2026-08-24T16:06:07-04:00",
+    "updated_at": "2026-08-24T18:08:09-04:00",
     "title": "Senior Systems Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -294296,7 +294296,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8121318": {
-    "updated_at": "2026-08-24T17:41:47-04:00",
+    "updated_at": "2026-08-24T18:13:56-04:00",
     "title": "Enterprise Core Implementation Consultant - East/Central",
     "company": "samsara",
     "ats": "greenhouse",
@@ -294464,7 +294464,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8121312": {
-    "updated_at": "2026-08-20T14:53:52-04:00",
+    "updated_at": "2026-08-24T18:14:14-04:00",
     "title": "Enterprise Core Implementation Consultant - West",
     "company": "samsara",
     "ats": "greenhouse",
@@ -304936,7 +304936,7 @@
     "alerted": false
   },
   "greenhouse:workato:8731391002": {
-    "updated_at": "2026-08-20T20:34:27-04:00",
+    "updated_at": "2026-08-24T18:15:00-04:00",
     "title": "Account Manager",
     "company": "workato",
     "ats": "greenhouse",
@@ -307648,7 +307648,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8131784": {
-    "updated_at": "2026-08-24T17:47:37-04:00",
+    "updated_at": "2026-08-24T18:13:31-04:00",
     "title": "Enterprise Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -308616,7 +308616,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5398360008": {
-    "updated_at": "2026-08-24T16:25:10-04:00",
+    "updated_at": "2026-08-24T18:09:44-04:00",
     "title": "IP Counsel, Trademarks & Domains",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -308941,6 +308941,134 @@
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7918614003": {
+    "updated_at": "2026-08-24T18:09:06-04:00",
+    "title": "Senior Data Analyst, Revenue",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155427": {
+    "updated_at": "2026-08-24T18:06:04-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155426": {
+    "updated_at": "2026-08-24T18:06:01-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155425": {
+    "updated_at": "2026-08-24T18:05:59-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155424": {
+    "updated_at": "2026-08-24T18:05:57-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155423": {
+    "updated_at": "2026-08-24T18:05:55-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155419": {
+    "updated_at": "2026-08-24T18:05:53-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155418": {
+    "updated_at": "2026-08-24T18:05:51-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155416": {
+    "updated_at": "2026-08-24T18:05:49-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8155415": {
+    "updated_at": "2026-08-24T18:05:48-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8130127": {
+    "updated_at": "2026-08-24T18:05:46-04:00",
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:samsara:8148328": {
+    "updated_at": "2026-08-24T17:53:34-04:00",
+    "title": "Sales Engineer - Mid Market - West",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:samsara:8148274": {
+    "updated_at": "2026-08-24T17:52:34-04:00",
+    "title": "Sales Engineer - Mid Market - Southeast",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:lyft:8743234002": {
+    "updated_at": "2026-08-24T17:41:37-04:00",
+    "title": "Data Scientist, Optimization - Driver Incentives",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8700245002": {
+    "updated_at": "2026-08-24T17:41:11-04:00",
+    "title": "Chief of Staff, CRO",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5228098008": {
+    "updated_at": "2026-08-24T17:32:37-04:00",
+    "title": "Economic Mobility Partnerships Manager - Career Pathways",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": false
   }
 }
