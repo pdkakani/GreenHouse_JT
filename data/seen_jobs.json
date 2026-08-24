@@ -79976,7 +79976,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:7686222": {
-    "updated_at": "2026-08-21T13:53:47-04:00",
+    "updated_at": "2026-08-24T02:06:59-04:00",
     "title": "Senior AI/ML Ops Engineer-II (Hybrid in Bangalore)",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -90648,7 +90648,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8357216002": {
-    "updated_at": "2026-08-22T00:41:26-04:00",
+    "updated_at": "2026-08-24T02:09:07-04:00",
     "title": "Engineering Manager (Ingestion)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T01:48:43-04:00",
+    "updated_at": "2026-08-24T02:34:22-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T01:48:46-04:00",
+    "updated_at": "2026-08-24T02:34:25-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -251928,7 +251928,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5163060008": {
-    "updated_at": "2026-07-17T22:33:36-04:00",
+    "updated_at": "2026-08-24T02:00:59-04:00",
     "title": "Finance & Strategy, GTM - Post Sales",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -256608,7 +256608,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8050454": {
-    "updated_at": "2026-07-22T00:15:05-04:00",
+    "updated_at": "2026-08-24T02:07:16-04:00",
     "title": "Senior Technical Program Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -307290,6 +307290,22 @@
   "greenhouse:okta:8146575": {
     "updated_at": "2026-08-24T00:20:22-04:00",
     "title": "Cloud & ISV Alliances Manager \u2013  APJ (excluding ANZ)",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:elastic:8138599": {
+    "updated_at": "2026-08-24T01:29:58-04:00",
+    "title": "Consulting Architect - Security (Canberra)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:okta:7831189": {
+    "updated_at": "2026-08-24T01:19:17-04:00",
+    "title": "Staff Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
