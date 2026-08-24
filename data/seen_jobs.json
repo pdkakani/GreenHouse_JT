@@ -14144,7 +14144,7 @@
     "alerted": true
   },
   "greenhouse:hightouch:5770046004": {
-    "updated_at": "2026-08-14T10:08:51-04:00",
+    "updated_at": "2026-08-24T07:13:18-04:00",
     "title": "Customer Success Engineer",
     "company": "hightouch",
     "ats": "greenhouse",
@@ -101696,7 +101696,7 @@
     "alerted": false
   },
   "greenhouse:datadog:5511968": {
-    "updated_at": "2026-08-20T09:01:50-04:00",
+    "updated_at": "2026-08-24T06:58:10-04:00",
     "title": "Strategic Account Executive (DACH)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -114856,7 +114856,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7635520": {
-    "updated_at": "2026-08-24T04:56:25-04:00",
+    "updated_at": "2026-08-24T07:15:43-04:00",
     "title": "Senior Solutions Architect - Public Sector",
     "company": "elastic",
     "ats": "greenhouse",
@@ -215848,7 +215848,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8020530": {
-    "updated_at": "2026-08-22T07:02:25-04:00",
+    "updated_at": "2026-08-24T07:02:54-04:00",
     "title": "Technical Account Manager",
     "company": "datadog",
     "ats": "greenhouse",
@@ -215856,7 +215856,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8018694": {
-    "updated_at": "2026-08-22T07:02:25-04:00",
+    "updated_at": "2026-08-24T07:02:54-04:00",
     "title": "Technical Account Manager",
     "company": "datadog",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T06:49:06-04:00",
+    "updated_at": "2026-08-24T07:18:46-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T06:49:15-04:00",
+    "updated_at": "2026-08-24T07:18:49-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -280896,7 +280896,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8094027": {
-    "updated_at": "2026-08-06T03:34:26-04:00",
+    "updated_at": "2026-08-24T06:57:46-04:00",
     "title": "Enterprise Account Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -295408,7 +295408,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7875762003": {
-    "updated_at": "2026-08-24T05:06:21-04:00",
+    "updated_at": "2026-08-24T07:10:43-04:00",
     "title": "Senior Value Engineer - Technology Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -295504,7 +295504,7 @@
     "alerted": false
   },
   "greenhouse:jumio:4722695005": {
-    "updated_at": "2026-08-16T13:26:01-04:00",
+    "updated_at": "2026-08-24T07:05:05-04:00",
     "title": "SDE II - QA, (Fixed term Contract)",
     "company": "jumio",
     "ats": "greenhouse",
@@ -296008,7 +296008,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7886038003": {
-    "updated_at": "2026-08-24T05:06:14-04:00",
+    "updated_at": "2026-08-24T07:17:48-04:00",
     "title": "Senior Value Engineer - Technology Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -296096,7 +296096,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7886119003": {
-    "updated_at": "2026-08-24T05:06:18-04:00",
+    "updated_at": "2026-08-24T07:15:31-04:00",
     "title": "Client Value Partner - Technology Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -302696,7 +302696,7 @@
     "alerted": false
   },
   "greenhouse:braze:8130911": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
+    "updated_at": "2026-08-24T06:53:25-04:00",
     "title": "Director, Business Development JAPAC",
     "company": "braze",
     "ats": "greenhouse",
@@ -302920,7 +302920,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7852902003": {
-    "updated_at": "2026-08-20T05:03:40-04:00",
+    "updated_at": "2026-08-24T06:58:06-04:00",
     "title": "Senior Applied Value Engineer- (Hi-tech)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -303936,7 +303936,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7919165003": {
-    "updated_at": "2026-08-24T05:06:24-04:00",
+    "updated_at": "2026-08-24T07:19:36-04:00",
     "title": "Senior Value Engineer - Life Sciences Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -305192,7 +305192,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7800448003": {
-    "updated_at": "2026-08-21T05:16:42-04:00",
+    "updated_at": "2026-08-24T06:57:28-04:00",
     "title": "Senior Applied Value Engineer - UKI Energy, Oil & Gas",
     "company": "celonis",
     "ats": "greenhouse",
@@ -307509,6 +307509,30 @@
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:okta:8056218": {
+    "updated_at": "2026-08-24T05:22:17-04:00",
+    "title": "Principal Architect, Professional Services R&D",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8131760": {
+    "updated_at": "2026-08-24T05:21:39-04:00",
+    "title": "MTS-Exa",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8131758": {
+    "updated_at": "2026-08-24T05:21:29-04:00",
+    "title": "MTS-Exa",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
     "alerted": false
   }
 }
