@@ -28032,7 +28032,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7528412": {
-    "updated_at": "2026-08-21T20:07:03-04:00",
+    "updated_at": "2026-08-24T19:28:21-04:00",
     "title": "Signal Integrity Hardware Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -148648,7 +148648,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5182605008": {
-    "updated_at": "2026-05-07T14:29:08-04:00",
+    "updated_at": "2026-08-24T19:19:04-04:00",
     "title": "Data Scientist, Product",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T19:04:54-04:00",
+    "updated_at": "2026-08-24T19:35:04-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T19:04:57-04:00",
+    "updated_at": "2026-08-24T19:35:07-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245136,7 +245136,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8042493": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
+    "updated_at": "2026-08-24T19:20:56-04:00",
     "title": "Senior Counsel - Commercial Legal",
     "company": "waymo",
     "ats": "greenhouse",
@@ -268280,7 +268280,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6127484004": {
-    "updated_at": "2026-08-24T19:04:00-04:00",
+    "updated_at": "2026-08-24T19:22:52-04:00",
     "title": "Senior Manager, Deal Desk",
     "company": "coursera",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-24T17:17:35-04:00",
+    "updated_at": "2026-08-24T19:32:21-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -295184,7 +295184,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5391151008": {
-    "updated_at": "2026-08-21T12:50:59-04:00",
+    "updated_at": "2026-08-24T19:41:18-04:00",
     "title": "AI Operations Engineer, Partnerships",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -298536,7 +298536,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8139350": {
-    "updated_at": "2026-08-19T19:16:29-04:00",
+    "updated_at": "2026-08-24T19:20:47-04:00",
     "title": "Strategic Account Executive, Select Accounts",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -298544,7 +298544,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8139360": {
-    "updated_at": "2026-08-20T15:59:05-04:00",
+    "updated_at": "2026-08-24T19:17:10-04:00",
     "title": "Senior Account Executive, Select Accounts",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -298600,7 +298600,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8139341": {
-    "updated_at": "2026-08-19T19:16:02-04:00",
+    "updated_at": "2026-08-24T19:19:01-04:00",
     "title": "Strategic Account Executive, Select Accounts",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -298608,7 +298608,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8139329": {
-    "updated_at": "2026-08-19T19:15:42-04:00",
+    "updated_at": "2026-08-24T19:17:47-04:00",
     "title": "Strategic Account Executive, Select Accounts",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -300424,7 +300424,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8138860": {
-    "updated_at": "2026-08-19T06:09:20-04:00",
+    "updated_at": "2026-08-24T19:17:57-04:00",
     "title": "Director, Global Campaigns",
     "company": "twilio",
     "ats": "greenhouse",
@@ -301768,7 +301768,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8142652": {
-    "updated_at": "2026-08-20T15:53:02-04:00",
+    "updated_at": "2026-08-24T19:21:52-04:00",
     "title": "Senior Account Executive, Vertical Accounts",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -302712,7 +302712,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:8143339": {
-    "updated_at": "2026-08-23T20:36:37-04:00",
+    "updated_at": "2026-08-24T19:35:30-04:00",
     "title": "Commercial Account Executive (12 month FTC)",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -309192,7 +309192,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8632446002": {
-    "updated_at": "2026-08-24T18:50:36-04:00",
+    "updated_at": "2026-08-24T19:22:28-04:00",
     "title": "Staff Software Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -309206,5 +309206,45 @@
     "ats": "greenhouse",
     "source_slug": "fivetran",
     "alerted": false
+  },
+  "greenhouse:waymo:8140089": {
+    "updated_at": "2026-08-24T19:25:01-04:00",
+    "title": "Principal Software Engineer, Post Training",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8721124002": {
+    "updated_at": "2026-08-24T19:23:22-04:00",
+    "title": "Senior Software Engineer",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:databricks:8603390002": {
+    "updated_at": "2026-08-24T19:13:05-04:00",
+    "title": "Sr. Workplace Manager",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:okta:8155512": {
+    "updated_at": "2026-08-24T19:07:38-04:00",
+    "title": "Senior Commissions Manager",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8743394002": {
+    "updated_at": "2026-08-24T19:27:52-04:00",
+    "title": "Sr. Automation & Controls Engineer, Infrastructure & Utility (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
