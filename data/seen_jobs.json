@@ -89352,7 +89352,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8350956002": {
-    "updated_at": "2026-08-18T13:17:11-04:00",
+    "updated_at": "2026-08-24T08:54:15-04:00",
     "title": "Senior Software Engineer- Singapore",
     "company": "databricks",
     "ats": "greenhouse",
@@ -91592,8 +91592,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:7796141": {
-    "updated_at": "2026-04-09T06:44:47-04:00",
-    "title": "Inside Sales Flanders",
+    "updated_at": "2026-08-24T08:36:11-04:00",
+    "title": "Inside Sales - Belgium Market (Flemish Dutch speaking)",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -218720,8 +218720,8 @@
     "alerted": false
   },
   "greenhouse:datadog:8028422": {
-    "updated_at": "2026-08-20T09:01:50-04:00",
-    "title": "Product Manager II - Application Performance Monitoring",
+    "updated_at": "2026-08-24T08:49:11-04:00",
+    "title": "Senior Product Manager - Application Performance Monitoring",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
@@ -225720,7 +225720,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787915003": {
-    "updated_at": "2026-08-20T12:58:42-04:00",
+    "updated_at": "2026-08-24T08:46:25-04:00",
     "title": "Staff Software Engineer - Semantic Layer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-24T08:34:18-04:00",
+    "updated_at": "2026-08-24T09:34:27-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-24T08:34:21-04:00",
+    "updated_at": "2026-08-24T09:34:30-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -258792,8 +258792,8 @@
     "alerted": false
   },
   "greenhouse:braze:8079466": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
-    "title": "Account Executive, Scale (Thailand, Vietnam)",
+    "updated_at": "2026-08-24T09:33:53-04:00",
+    "title": "Account Executive, Scale (Thai Speaking)",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -270088,8 +270088,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8096307": {
-    "updated_at": "2026-07-30T10:42:41-04:00",
-    "title": "Key Account Manager (Chinese speaking)",
+    "updated_at": "2026-08-24T08:42:40-04:00",
+    "title": "Key Account Manager \u2013 Chinese Market (Mandarin-Speaking)",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-24T08:33:13-04:00",
+    "updated_at": "2026-08-24T09:32:35-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -283992,8 +283992,8 @@
     "alerted": false
   },
   "greenhouse:starburst:5382403008": {
-    "updated_at": "2026-08-18T10:17:12-04:00",
-    "title": "Senior Solution Architect",
+    "updated_at": "2026-08-24T09:17:39-04:00",
+    "title": "Senior Solution Architect (Presales)",
     "company": "starburst",
     "ats": "greenhouse",
     "source_slug": "starburst",
@@ -298480,7 +298480,7 @@
     "alerted": false
   },
   "greenhouse:braze:8119341": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
+    "updated_at": "2026-08-24T09:09:55-04:00",
     "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -305384,8 +305384,8 @@
     "alerted": false
   },
   "greenhouse:toast:8147153": {
-    "updated_at": "2026-08-21T10:03:54-04:00",
-    "title": "Senior Software Engineer - Technical Operations",
+    "updated_at": "2026-08-24T08:50:22-04:00",
+    "title": "Full-Stack Software Engineer",
     "company": "toast",
     "ats": "greenhouse",
     "source_slug": "toast",
@@ -307582,5 +307582,77 @@
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": true
+  },
+  "greenhouse:cloudflare:8152825": {
+    "updated_at": "2026-08-24T09:13:08-04:00",
+    "title": "Senior Director of Engineering, Billing Platform",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:databricks:8571578002": {
+    "updated_at": "2026-08-24T09:11:32-04:00",
+    "title": "Lakebase Associate Director- Financial Services",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:celonis:7913331003": {
+    "updated_at": "2026-08-24T09:09:02-04:00",
+    "title": "Marketing Database Operations Graduated Internship (12 months)",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7681584003": {
+    "updated_at": "2026-08-24T09:01:44-04:00",
+    "title": "Enterprise Architect Director",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7818362003": {
+    "updated_at": "2026-08-24T08:57:15-04:00",
+    "title": "Senior Software Engineer",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:databricks:8688832002": {
+    "updated_at": "2026-08-24T08:47:15-04:00",
+    "title": "Director, Alliance",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7818226003": {
+    "updated_at": "2026-08-24T08:45:50-04:00",
+    "title": "Senior Software Engineer",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8742092002": {
+    "updated_at": "2026-08-24T08:07:49-04:00",
+    "title": "Sr. Software Development Engineer in Test (Agentic)",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:samsara:8131784": {
+    "updated_at": "2026-08-24T07:56:19-04:00",
+    "title": "Enterprise Implementation Consultant",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
   }
 }
