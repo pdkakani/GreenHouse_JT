@@ -33784,8 +33784,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7141380": {
-    "updated_at": "2026-08-19T15:18:48-04:00",
-    "title": "Software Engineer, Planner Vehicle Dynamics",
+    "updated_at": "2026-08-25T18:13:34-04:00",
+    "title": "Software Engineer, Evaluation, Planner Vehicle Dynamics",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -192768,7 +192768,7 @@
     "alerted": false
   },
   "greenhouse:upstart:7989589": {
-    "updated_at": "2026-07-31T13:32:14-04:00",
+    "updated_at": "2026-08-25T18:06:09-04:00",
     "title": "Senior Manager, Technology Risk",
     "company": "upstart",
     "ats": "greenhouse",
@@ -196832,7 +196832,7 @@
     "alerted": false
   },
   "greenhouse:braze:7963381": {
-    "updated_at": "2026-08-21T07:33:33-04:00",
+    "updated_at": "2026-08-25T18:07:08-04:00",
     "title": "Senior Security Engineer, Enterprise Security",
     "company": "braze",
     "ats": "greenhouse",
@@ -233424,8 +233424,8 @@
     "alerted": false
   },
   "greenhouse:braze:8027184": {
-    "updated_at": "2026-07-21T13:01:25-04:00",
-    "title": "Senior Software Engineer I, Reporting",
+    "updated_at": "2026-08-25T18:04:20-04:00",
+    "title": "Senior Software Engineer II",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-25T17:48:55-04:00",
+    "updated_at": "2026-08-25T18:18:59-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-25T17:48:58-04:00",
+    "updated_at": "2026-08-25T18:19:02-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -250552,7 +250552,7 @@
     "alerted": false
   },
   "greenhouse:iterable:8051731": {
-    "updated_at": "2026-08-07T11:36:57-04:00",
+    "updated_at": "2026-08-25T18:28:18-04:00",
     "title": "Mid-Market Customer Success Manager - APAC",
     "company": "iterable",
     "ats": "greenhouse",
@@ -263608,7 +263608,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8649950002": {
-    "updated_at": "2026-08-17T10:30:19-04:00",
+    "updated_at": "2026-08-25T18:11:19-04:00",
     "title": "Engineering Manager, Rider",
     "company": "lyft",
     "ats": "greenhouse",
@@ -263616,7 +263616,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8649938002": {
-    "updated_at": "2026-08-17T10:30:19-04:00",
+    "updated_at": "2026-08-25T18:11:19-04:00",
     "title": "Engineering Manager, Rider",
     "company": "lyft",
     "ats": "greenhouse",
@@ -270312,7 +270312,7 @@
     "alerted": false
   },
   "greenhouse:brex:8658821002": {
-    "updated_at": "2026-07-30T12:36:31-04:00",
+    "updated_at": "2026-08-25T18:01:23-04:00",
     "title": "Servicing Collections Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -270328,7 +270328,7 @@
     "alerted": false
   },
   "greenhouse:brex:8658820002": {
-    "updated_at": "2026-07-30T12:34:19-04:00",
+    "updated_at": "2026-08-25T18:01:23-04:00",
     "title": "Servicing Collections Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -283448,7 +283448,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8680013002": {
-    "updated_at": "2026-08-17T10:30:33-04:00",
+    "updated_at": "2026-08-25T18:11:33-04:00",
     "title": "Staff Android Engineer - Rider Experience & Mobile Platform",
     "company": "lyft",
     "ats": "greenhouse",
@@ -288600,7 +288600,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8697215002": {
-    "updated_at": "2026-08-11T17:49:44-04:00",
+    "updated_at": "2026-08-25T18:25:41-04:00",
     "title": "Principal Program Manager, Go-To-Market",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -301728,7 +301728,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8142656": {
-    "updated_at": "2026-08-21T17:55:46-04:00",
+    "updated_at": "2026-08-25T18:25:10-04:00",
     "title": "Delivery Engineer II",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -301736,7 +301736,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8126545": {
-    "updated_at": "2026-08-21T17:56:52-04:00",
+    "updated_at": "2026-08-25T18:22:20-04:00",
     "title": "Delivery Engineer II",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -302408,7 +302408,7 @@
     "alerted": false
   },
   "greenhouse:toast:8121915": {
-    "updated_at": "2026-08-20T02:20:07-04:00",
+    "updated_at": "2026-08-25T18:06:01-04:00",
     "title": "Community Manager, Consumer",
     "company": "toast",
     "ats": "greenhouse",
@@ -306632,7 +306632,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8148613": {
-    "updated_at": "2026-08-21T17:56:31-04:00",
+    "updated_at": "2026-08-25T18:26:05-04:00",
     "title": "Delivery Engineer II",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -309296,7 +309296,7 @@
     "alerted": false
   },
   "greenhouse:descript:7967440003": {
-    "updated_at": "2026-08-25T16:48:18-04:00",
+    "updated_at": "2026-08-25T18:25:23-04:00",
     "title": "Applied Research Scientist, AI Research",
     "company": "descript",
     "ats": "greenhouse",
@@ -310944,8 +310944,8 @@
     "alerted": false
   },
   "greenhouse:reddit:8048988": {
-    "updated_at": "2026-08-25T15:06:38-04:00",
-    "title": "Senior Software Engineer, Media Foundations",
+    "updated_at": "2026-08-25T18:17:19-04:00",
+    "title": "Senior Software Engineer, Media Experience",
     "company": "reddit",
     "ats": "greenhouse",
     "source_slug": "reddit",
@@ -311557,6 +311557,62 @@
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
+    "alerted": true
+  },
+  "greenhouse:fivetran:7875708003": {
+    "updated_at": "2026-08-25T18:23:03-04:00",
+    "title": "Senior Manager Accounting",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8746129002": {
+    "updated_at": "2026-08-25T18:22:44-04:00",
+    "title": "Field & Events Marketing Specialist",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:ripple:8125912": {
+    "updated_at": "2026-08-25T18:14:10-04:00",
+    "title": "Senior Software Engineer, Payments",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:waymo:8157842": {
+    "updated_at": "2026-08-25T18:07:25-04:00",
+    "title": "Software Quality Ops Scenarios Specialist (DiscSim)",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:waymo:8148705": {
+    "updated_at": "2026-08-25T17:56:10-04:00",
+    "title": "Operational Risk Manager",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:lyft:8743240002": {
+    "updated_at": "2026-08-25T17:55:50-04:00",
+    "title": "Financial Analyst",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:reddit:8120262": {
+    "updated_at": "2026-08-25T18:30:56-04:00",
+    "title": "Senior Frontend Engineer, Media",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
     "alerted": true
   }
 }
