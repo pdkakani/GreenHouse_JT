@@ -21952,7 +21952,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8490477002": {
-    "updated_at": "2026-06-05T16:18:10-04:00",
+    "updated_at": "2026-08-25T05:00:45-04:00",
     "title": "Staff Backend Engineer, Developer Experience",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -48368,7 +48368,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7774534": {
-    "updated_at": "2026-04-21T15:53:17-04:00",
+    "updated_at": "2026-08-25T04:58:14-04:00",
     "title": "Senior Territory Account Executive",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -198344,7 +198344,7 @@
     "alerted": false
   },
   "greenhouse:convera:4880934101": {
-    "updated_at": "2026-08-18T14:54:19-04:00",
+    "updated_at": "2026-08-25T05:16:33-04:00",
     "title": "Customer Support Specialist",
     "company": "convera",
     "ats": "greenhouse",
@@ -210744,7 +210744,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8009965": {
-    "updated_at": "2026-08-24T17:50:32-04:00",
+    "updated_at": "2026-08-25T05:20:18-04:00",
     "title": "Director, Web Platform & Technology",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-25T04:49:09-04:00",
+    "updated_at": "2026-08-25T05:34:31-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-25T04:49:12-04:00",
+    "updated_at": "2026-08-25T05:34:34-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-25T04:02:56-04:00",
+    "updated_at": "2026-08-25T05:32:26-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -295936,7 +295936,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5391309008": {
-    "updated_at": "2026-08-21T12:51:00-04:00",
+    "updated_at": "2026-08-25T05:03:13-04:00",
     "title": "Growth Account Executive, Startups",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -309613,6 +309613,30 @@
     "company": "convera",
     "ats": "greenhouse",
     "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8153054": {
+    "updated_at": "2026-08-25T04:57:02-04:00",
+    "title": "Customer Success Manager",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8097567": {
+    "updated_at": "2026-08-25T04:39:39-04:00",
+    "title": "Global Total Rewards Program Director",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:stripe:8047791": {
+    "updated_at": "2026-08-25T04:21:44-04:00",
+    "title": "Credit Risk Operations Team Lead",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
