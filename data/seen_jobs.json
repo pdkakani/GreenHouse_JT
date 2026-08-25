@@ -5840,7 +5840,7 @@
     "alerted": true
   },
   "greenhouse:okta:7591606": {
-    "updated_at": "2026-08-24T18:26:56-04:00",
+    "updated_at": "2026-08-25T18:42:25-04:00",
     "title": "Senior Site Reliability Engineer - Security and Data Systems (Federal)",
     "company": "okta",
     "ats": "greenhouse",
@@ -194840,7 +194840,7 @@
     "alerted": false
   },
   "greenhouse:upstart:7989179": {
-    "updated_at": "2026-07-31T13:32:14-04:00",
+    "updated_at": "2026-08-25T18:59:28-04:00",
     "title": "Senior Manager, Product Quality Oversight",
     "company": "upstart",
     "ats": "greenhouse",
@@ -212120,7 +212120,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7984983": {
-    "updated_at": "2026-08-24T10:26:32-04:00",
+    "updated_at": "2026-08-25T18:38:49-04:00",
     "title": "Senior Partner Program Manager - Datadog Reseller Program",
     "company": "datadog",
     "ats": "greenhouse",
@@ -236448,8 +236448,8 @@
     "alerted": false
   },
   "greenhouse:oportun:4712918005": {
-    "updated_at": "2026-08-18T18:46:12-04:00",
-    "title": "Bilingual English and Spanish Member Loyalty Representative R14096",
+    "updated_at": "2026-08-25T18:41:09-04:00",
+    "title": "Bilingual English and Spanish Member Loyalty Representative (R14096)",
     "company": "oportun",
     "ats": "greenhouse",
     "source_slug": "oportun",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-25T18:18:59-04:00",
+    "updated_at": "2026-08-25T18:48:46-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-25T18:19:02-04:00",
+    "updated_at": "2026-08-25T18:48:49-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -257992,7 +257992,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7813005003": {
-    "updated_at": "2026-08-24T22:18:46-04:00",
+    "updated_at": "2026-08-25T18:31:43-04:00",
     "title": "Manager Business Development, Commercial",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -288408,7 +288408,7 @@
     "alerted": true
   },
   "greenhouse:oportun:4723214005": {
-    "updated_at": "2026-08-25T15:15:56-04:00",
+    "updated_at": "2026-08-25T18:45:55-04:00",
     "title": "Senior Manager, Networking (R14154)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -304480,7 +304480,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5390960008": {
-    "updated_at": "2026-08-25T15:54:30-04:00",
+    "updated_at": "2026-08-25T18:49:44-04:00",
     "title": "Sales Leader Enablement",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -309104,7 +309104,7 @@
     "alerted": false
   },
   "greenhouse:okta:7610901": {
-    "updated_at": "2026-08-24T18:27:04-04:00",
+    "updated_at": "2026-08-25T18:42:39-04:00",
     "title": "Senior Site Reliability Engineer -",
     "company": "okta",
     "ats": "greenhouse",
@@ -311613,6 +311613,30 @@
     "company": "reddit",
     "ats": "greenhouse",
     "source_slug": "reddit",
+    "alerted": true
+  },
+  "greenhouse:upstart:8157802": {
+    "updated_at": "2026-08-25T18:30:46-04:00",
+    "title": "Senior Product Manager, Payments",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7977690003": {
+    "updated_at": "2026-08-25T18:26:58-04:00",
+    "title": "Senior Manager Accounting",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5390966008": {
+    "updated_at": "2026-08-25T18:59:28-04:00",
+    "title": "AI Engineer, GTM Claudification",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }
