@@ -141016,8 +141016,8 @@
     "alerted": false
   },
   "greenhouse:adyen:6761873": {
-    "updated_at": "2026-08-13T07:55:49-04:00",
-    "title": "Java Software Engineer / Senior Java Engineer",
+    "updated_at": "2026-08-25T04:03:56-04:00",
+    "title": "Java Software Engineer / Senior Java Engineer - CX",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -177408,7 +177408,7 @@
     "alerted": false
   },
   "greenhouse:convera:4873398101": {
-    "updated_at": "2026-06-18T18:06:50-04:00",
+    "updated_at": "2026-08-25T03:56:29-04:00",
     "title": "Senior Manager, Payment Network Development & Oversight",
     "company": "convera",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-25T03:19:16-04:00",
+    "updated_at": "2026-08-25T04:05:02-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-25T03:19:19-04:00",
+    "updated_at": "2026-08-25T04:05:05-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -259064,7 +259064,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615319002": {
-    "updated_at": "2026-08-20T09:44:02-04:00",
+    "updated_at": "2026-08-25T04:02:20-04:00",
     "title": "Senior Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-25T01:32:55-04:00",
+    "updated_at": "2026-08-25T04:02:56-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -307664,7 +307664,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8132327": {
-    "updated_at": "2026-08-24T09:56:18-04:00",
+    "updated_at": "2026-08-25T04:07:21-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -308624,7 +308624,7 @@
     "alerted": false
   },
   "greenhouse:pagerduty:6152266004": {
-    "updated_at": "2026-08-24T16:24:58-04:00",
+    "updated_at": "2026-08-25T03:45:28-04:00",
     "title": "Senior HR Business Partner",
     "company": "pagerduty",
     "ats": "greenhouse",
@@ -309565,6 +309565,22 @@
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:stripe:8153331": {
+    "updated_at": "2026-08-25T03:28:16-04:00",
+    "title": "Software Quality Assurance Engineer",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:8154302": {
+    "updated_at": "2026-08-25T03:17:24-04:00",
+    "title": "European R&D Incentives Lead",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
