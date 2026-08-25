@@ -89024,7 +89024,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8382743002": {
-    "updated_at": "2026-08-18T13:55:36-04:00",
+    "updated_at": "2026-08-25T17:02:35-04:00",
     "title": "Specialist Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90392,7 +90392,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8235785002": {
-    "updated_at": "2026-08-18T13:47:13-04:00",
+    "updated_at": "2026-08-25T17:02:22-04:00",
     "title": "Sr. Product Manager, Databricks Free Edition",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90400,7 +90400,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7680573002": {
-    "updated_at": "2026-08-18T13:47:13-04:00",
+    "updated_at": "2026-08-25T17:02:22-04:00",
     "title": "Sr. Product Manager, Databricks Free Edition",
     "company": "databricks",
     "ats": "greenhouse",
@@ -155712,7 +155712,7 @@
     "alerted": false
   },
   "greenhouse:upstart:7918210": {
-    "updated_at": "2026-07-31T13:32:14-04:00",
+    "updated_at": "2026-08-25T16:47:50-04:00",
     "title": "Senior Legal Counsel, Capital Markets",
     "company": "upstart",
     "ats": "greenhouse",
@@ -192200,7 +192200,7 @@
     "alerted": false
   },
   "greenhouse:chime:8569366002": {
-    "updated_at": "2026-08-12T14:01:40-04:00",
+    "updated_at": "2026-08-25T16:49:55-04:00",
     "title": "Senior AI/ML Engineer",
     "company": "chime",
     "ats": "greenhouse",
@@ -192472,7 +192472,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:7927054": {
-    "updated_at": "2026-08-25T16:03:32-04:00",
+    "updated_at": "2026-08-25T16:47:50-04:00",
     "title": "Operations Manager, Bermuda",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -213680,7 +213680,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8022718": {
-    "updated_at": "2026-08-25T16:03:32-04:00",
+    "updated_at": "2026-08-25T16:47:50-04:00",
     "title": "Operations Manager, Bermuda",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-25T16:34:46-04:00",
+    "updated_at": "2026-08-25T16:49:01-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-25T16:34:54-04:00",
+    "updated_at": "2026-08-25T16:49:04-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -268656,8 +268656,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8018597": {
-    "updated_at": "2026-08-09T05:02:05-04:00",
-    "title": "Software Engineering Manager, Control Plane & Observability, Hyperscale Line of Business",
+    "updated_at": "2026-08-25T16:51:33-04:00",
+    "title": "Software Engineering Manager, Hyperscale Line of Business",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -284000,7 +284000,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8679974002": {
-    "updated_at": "2026-08-18T14:48:52-04:00",
+    "updated_at": "2026-08-25T17:02:43-04:00",
     "title": "Staff Product Manager, SAP",
     "company": "databricks",
     "ats": "greenhouse",
@@ -284760,7 +284760,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8679970002": {
-    "updated_at": "2026-08-25T15:35:59-04:00",
+    "updated_at": "2026-08-25T17:02:38-04:00",
     "title": "SAP Functional SME",
     "company": "databricks",
     "ats": "greenhouse",
@@ -286392,7 +286392,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8068523": {
-    "updated_at": "2026-08-20T14:53:51-04:00",
+    "updated_at": "2026-08-25T17:00:02-04:00",
     "title": "Manager I, Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -288880,8 +288880,8 @@
     "alerted": true
   },
   "greenhouse:gitlab:8673657002": {
-    "updated_at": "2026-08-11T19:42:43-04:00",
-    "title": "Commercial Account Executive, Mexico",
+    "updated_at": "2026-08-25T17:02:38-04:00",
+    "title": "Commercial Account Executive, Southern Cone",
     "company": "gitlab",
     "ats": "greenhouse",
     "source_slug": "gitlab",
@@ -306920,7 +306920,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8739506002": {
-    "updated_at": "2026-08-25T13:59:26-04:00",
+    "updated_at": "2026-08-25T16:48:24-04:00",
     "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -306928,7 +306928,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8739507002": {
-    "updated_at": "2026-08-24T15:33:32-04:00",
+    "updated_at": "2026-08-25T16:47:57-04:00",
     "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -308640,7 +308640,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8743132002": {
-    "updated_at": "2026-08-24T16:20:10-04:00",
+    "updated_at": "2026-08-25T16:45:20-04:00",
     "title": "Enterprise Account Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -309296,7 +309296,7 @@
     "alerted": false
   },
   "greenhouse:descript:7967440003": {
-    "updated_at": "2026-08-25T16:01:39-04:00",
+    "updated_at": "2026-08-25T16:48:18-04:00",
     "title": "Applied Research Scientist, AI Research",
     "company": "descript",
     "ats": "greenhouse",
@@ -311334,5 +311334,53 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:carta:7918458003": {
+    "updated_at": "2026-08-25T16:53:17-04:00",
+    "title": "Senior Support Analyst",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:lyft:8747631002": {
+    "updated_at": "2026-08-25T16:50:28-04:00",
+    "title": "Operations Associate",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8120315": {
+    "updated_at": "2026-08-25T16:48:14-04:00",
+    "title": "Customer Support Supervisor",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:justworks:8024580": {
+    "updated_at": "2026-08-25T16:44:30-04:00",
+    "title": "Program Manager, Strategic Partnerships",
+    "company": "justworks",
+    "ats": "greenhouse",
+    "source_slug": "justworks",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7976827003": {
+    "updated_at": "2026-08-25T16:44:21-04:00",
+    "title": "Senior Staff Software Engineer",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:spacex:8743978002": {
+    "updated_at": "2026-08-25T16:40:08-04:00",
+    "title": "Physical Security Hardware Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
   }
 }
