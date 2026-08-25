@@ -280,7 +280,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7736431": {
-    "updated_at": "2026-08-24T16:06:07-04:00",
+    "updated_at": "2026-08-25T17:35:05-04:00",
     "title": "Data Center Infrastructure Management (DCIM) Administrator - Infrastructure Operations",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -25304,7 +25304,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7532733": {
-    "updated_at": "2026-06-02T08:57:25-04:00",
+    "updated_at": "2026-08-25T17:40:40-04:00",
     "title": "Account Executive, AI Sales",
     "company": "stripe",
     "ats": "greenhouse",
@@ -69072,7 +69072,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7242446003": {
-    "updated_at": "2026-08-19T15:31:29-04:00",
+    "updated_at": "2026-08-25T17:07:53-04:00",
     "title": "Commerce Lifecycle Marketing Manager",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -80800,7 +80800,7 @@
     "alerted": false
   },
   "greenhouse:brex:8504608002": {
-    "updated_at": "2026-08-06T10:53:46-04:00",
+    "updated_at": "2026-08-25T17:19:15-04:00",
     "title": "Mid-Market Client Sales Executive",
     "company": "brex",
     "ats": "greenhouse",
@@ -80808,7 +80808,7 @@
     "alerted": false
   },
   "greenhouse:brex:8504607002": {
-    "updated_at": "2026-08-06T10:54:10-04:00",
+    "updated_at": "2026-08-25T17:18:51-04:00",
     "title": "Mid-Market Client Sales Executive",
     "company": "brex",
     "ats": "greenhouse",
@@ -141624,7 +141624,7 @@
     "alerted": false
   },
   "greenhouse:toast:7791610": {
-    "updated_at": "2026-07-23T12:27:00-04:00",
+    "updated_at": "2026-08-25T17:05:35-04:00",
     "title": "Senior Principal Software Engineer, GTM",
     "company": "toast",
     "ats": "greenhouse",
@@ -144464,7 +144464,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7858738": {
-    "updated_at": "2026-08-06T14:36:41-04:00",
+    "updated_at": "2026-08-25T17:17:36-04:00",
     "title": "Senior Staff Machine Learning Engineer, Post Training",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -199424,7 +199424,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7968190": {
-    "updated_at": "2026-08-11T04:09:51-04:00",
+    "updated_at": "2026-08-25T17:29:43-04:00",
     "title": "Senior Product Owner - Sales Application",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -210232,24 +210232,24 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7774824003": {
-    "updated_at": "2026-08-13T11:17:55-04:00",
-    "title": "Software Engineer II, Messaging Infrastructure",
+    "updated_at": "2026-08-25T17:09:24-04:00",
+    "title": "Software Engineer II, Distributed Systems- Messaging",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
     "alerted": false
   },
   "greenhouse:klaviyo:7774823003": {
-    "updated_at": "2026-08-03T18:19:23-04:00",
-    "title": "Sr. Software Engineer, Messaging Infrastructure",
+    "updated_at": "2026-08-25T17:10:04-04:00",
+    "title": "Senior Software Engineer, Distributed Systems - Messaging",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
     "alerted": false
   },
   "greenhouse:klaviyo:7774822003": {
-    "updated_at": "2026-08-25T16:24:28-04:00",
-    "title": "Lead Software Engineer, Real-Time Messaging Systems",
+    "updated_at": "2026-08-25T17:10:42-04:00",
+    "title": "Lead Software Engineer, Distributed Systems - Messaging",
     "company": "klaviyo",
     "ats": "greenhouse",
     "source_slug": "klaviyo",
@@ -229184,7 +229184,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8039842": {
-    "updated_at": "2026-08-13T13:58:08-04:00",
+    "updated_at": "2026-08-25T17:32:48-04:00",
     "title": "Staff Product Designer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -231488,7 +231488,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5172960007": {
-    "updated_at": "2026-08-24T14:08:45-04:00",
+    "updated_at": "2026-08-25T17:30:37-04:00",
     "title": "Sales Enablement Lead",
     "company": "verkada",
     "ats": "greenhouse",
@@ -235592,7 +235592,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7792539003": {
-    "updated_at": "2026-08-18T03:02:20-04:00",
+    "updated_at": "2026-08-25T17:17:16-04:00",
     "title": "Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-25T16:49:01-04:00",
+    "updated_at": "2026-08-25T17:34:07-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243744,7 +243744,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8055118": {
-    "updated_at": "2026-08-24T16:06:07-04:00",
+    "updated_at": "2026-08-25T17:24:29-04:00",
     "title": "Senior Data Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-25T16:49:04-04:00",
+    "updated_at": "2026-08-25T17:34:11-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -255984,7 +255984,7 @@
     "alerted": false
   },
   "greenhouse:abnormalsecurity:7802162003": {
-    "updated_at": "2026-07-21T16:29:35-04:00",
+    "updated_at": "2026-08-25T17:39:00-04:00",
     "title": "Senior Product Marketing Manager - Core Products",
     "company": "abnormalsecurity",
     "ats": "greenhouse",
@@ -268072,7 +268072,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8091841": {
-    "updated_at": "2026-08-25T11:33:27-04:00",
+    "updated_at": "2026-08-25T17:30:22-04:00",
     "title": "Product Communications Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -273264,7 +273264,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8072156": {
-    "updated_at": "2026-08-24T16:45:47-04:00",
+    "updated_at": "2026-08-25T17:06:57-04:00",
     "title": "Sales Engineer, Cloud Product Specialist",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -283288,7 +283288,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8689228002": {
-    "updated_at": "2026-08-25T12:30:40-04:00",
+    "updated_at": "2026-08-25T17:11:51-04:00",
     "title": "Operations Specialist, Capital Bikeshare",
     "company": "lyft",
     "ats": "greenhouse",
@@ -292536,7 +292536,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7861285003": {
-    "updated_at": "2026-08-24T22:18:49-04:00",
+    "updated_at": "2026-08-25T17:38:20-04:00",
     "title": "Senior Manager, Solutions Engineering",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -310456,7 +310456,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7975390003": {
-    "updated_at": "2026-08-25T14:40:18-04:00",
+    "updated_at": "2026-08-25T17:33:28-04:00",
     "title": "Senior Revenue Accountant",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -311136,7 +311136,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5400362008": {
-    "updated_at": "2026-08-25T16:35:21-04:00",
+    "updated_at": "2026-08-25T17:10:37-04:00",
     "title": "Discovery Operations Lead, Litigation & Regulatory",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -311381,6 +311381,102 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7977483003": {
+    "updated_at": "2026-08-25T17:34:47-04:00",
+    "title": "Senior Revenue Accountant",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:instacart:8157774": {
+    "updated_at": "2026-08-25T17:28:39-04:00",
+    "title": "Bilingual Customer Experience Specialist",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4708357006": {
+    "updated_at": "2026-08-25T17:25:48-04:00",
+    "title": "Associate General Counsel, Product Regulatory",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:databricks:8407186002": {
+    "updated_at": "2026-08-25T17:25:28-04:00",
+    "title": "Senior Solutions Architect - Consumer Product Goods",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8155895": {
+    "updated_at": "2026-08-25T17:24:40-04:00",
+    "title": "SAP Plan to Forecast Lead, SCM",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:spacex:8734120002": {
+    "updated_at": "2026-08-25T17:22:23-04:00",
+    "title": "Sr. Construction Superintendent - Texas Construction Projects",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4708261006": {
+    "updated_at": "2026-08-25T17:16:35-04:00",
+    "title": "Production Engineer, Support Tooling (Tooling and Frameworks)",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:sofi:7920050003": {
+    "updated_at": "2026-08-25T17:13:12-04:00",
+    "title": "Senior Dialer Analyst",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:calm:8748033002": {
+    "updated_at": "2026-08-25T17:13:10-04:00",
+    "title": "Senior Product Designer",
+    "company": "calm",
+    "ats": "greenhouse",
+    "source_slug": "calm",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5404390008": {
+    "updated_at": "2026-08-25T17:02:52-04:00",
+    "title": "Regulatory Investigations Counsel",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4708324006": {
+    "updated_at": "2026-08-25T16:59:47-04:00",
+    "title": "Senior Community Affairs & Partnerships Manager",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:pagerduty:6162220004": {
+    "updated_at": "2026-08-25T16:57:38-04:00",
+    "title": "Senior Solutions Consultant",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "source_slug": "pagerduty",
     "alerted": false
   }
 }
