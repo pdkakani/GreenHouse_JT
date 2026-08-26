@@ -27176,7 +27176,7 @@
     "alerted": false
   },
   "greenhouse:ripple:7791472": {
-    "updated_at": "2026-08-24T15:38:27-04:00",
+    "updated_at": "2026-08-26T09:20:40-04:00",
     "title": "Staff Data Scientist",
     "company": "ripple",
     "ats": "greenhouse",
@@ -65344,7 +65344,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7743690": {
-    "updated_at": "2026-08-20T14:53:47-04:00",
+    "updated_at": "2026-08-26T09:55:54-04:00",
     "title": "Manager I, Customer Success",
     "company": "samsara",
     "ats": "greenhouse",
@@ -119048,8 +119048,8 @@
     "alerted": false
   },
   "greenhouse:contentstack:7563161003": {
-    "updated_at": "2026-02-05T15:56:13-05:00",
-    "title": "Business Development Representative - EMEA - German Speaking",
+    "updated_at": "2026-08-26T09:44:32-04:00",
+    "title": "Business Development Representative - DACH - German Speaking",
     "company": "contentstack",
     "ats": "greenhouse",
     "source_slug": "contentstack",
@@ -237200,7 +237200,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8042387": {
-    "updated_at": "2026-08-22T14:24:58-04:00",
+    "updated_at": "2026-08-26T09:18:56-04:00",
     "title": "Sr. Software Engineer, Cloud Platform",
     "company": "samsara",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-26T09:04:35-04:00",
+    "updated_at": "2026-08-26T09:49:17-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-26T09:04:38-04:00",
+    "updated_at": "2026-08-26T09:49:20-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -273680,7 +273680,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079702": {
-    "updated_at": "2026-08-20T14:53:51-04:00",
+    "updated_at": "2026-08-26T09:56:16-04:00",
     "title": "Supervisor, Sales and Contract Administration",
     "company": "samsara",
     "ats": "greenhouse",
@@ -276984,7 +276984,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8104994": {
-    "updated_at": "2026-08-25T07:39:19-04:00",
+    "updated_at": "2026-08-26T10:01:02-04:00",
     "title": "Entry Level Tech Sales - UK&I Market",
     "company": "samsara",
     "ats": "greenhouse",
@@ -287176,7 +287176,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8119448": {
-    "updated_at": "2026-08-25T17:42:00-04:00",
+    "updated_at": "2026-08-26T09:21:28-04:00",
     "title": "Senior Manager, Endpoint Protections",
     "company": "elastic",
     "ats": "greenhouse",
@@ -300824,7 +300824,7 @@
     "alerted": true
   },
   "greenhouse:toast:8106804": {
-    "updated_at": "2026-08-19T11:18:32-04:00",
+    "updated_at": "2026-08-26T10:03:40-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Mandarin) - Toronto",
     "company": "toast",
     "ats": "greenhouse",
@@ -309896,7 +309896,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8148243": {
-    "updated_at": "2026-08-25T07:58:58-04:00",
+    "updated_at": "2026-08-26T09:55:35-04:00",
     "title": "Implementation Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -310176,7 +310176,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7974381003": {
-    "updated_at": "2026-08-26T04:21:01-04:00",
+    "updated_at": "2026-08-26T09:17:52-04:00",
     "title": "Engineering Intern",
     "company": "celonis",
     "ats": "greenhouse",
@@ -310224,7 +310224,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7893791003": {
-    "updated_at": "2026-08-25T12:13:20-04:00",
+    "updated_at": "2026-08-26T09:53:56-04:00",
     "title": "Client Director - AEP",
     "company": "celonis",
     "ats": "greenhouse",
@@ -311448,7 +311448,7 @@
     "alerted": false
   },
   "greenhouse:calm:8748033002": {
-    "updated_at": "2026-08-25T17:13:10-04:00",
+    "updated_at": "2026-08-26T09:51:16-04:00",
     "title": "Senior Product Designer",
     "company": "calm",
     "ats": "greenhouse",
@@ -311568,7 +311568,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8746129002": {
-    "updated_at": "2026-08-25T18:22:44-04:00",
+    "updated_at": "2026-08-26T09:51:13-04:00",
     "title": "Field & Events Marketing Specialist",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -312264,7 +312264,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8158950": {
-    "updated_at": "2026-08-26T06:49:44-04:00",
+    "updated_at": "2026-08-26T10:00:59-04:00",
     "title": "Field Sales Representative",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -312309,6 +312309,62 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8750467002": {
+    "updated_at": "2026-08-26T09:28:27-04:00",
+    "title": "Product Specialist - Gen AI  (Sr. Specialist Solutions Architect)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8746260002": {
+    "updated_at": "2026-08-26T09:24:00-04:00",
+    "title": "Product Specialist - Gen AI  (Sr. Specialist Solutions Architect)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:elastic:8119442": {
+    "updated_at": "2026-08-26T09:23:01-04:00",
+    "title": "Senior Security Research Engineer",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:toast:8147296": {
+    "updated_at": "2026-08-26T09:14:54-04:00",
+    "title": "Senior Director of Product, International",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:fireblocks:4695803006": {
+    "updated_at": "2026-08-26T08:17:33-04:00",
+    "title": "SecOps Specialist",
+    "company": "fireblocks",
+    "ats": "greenhouse",
+    "source_slug": "fireblocks",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8068891": {
+    "updated_at": "2026-08-26T08:14:40-04:00",
+    "title": "ServiceNow Developer",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5227672008": {
+    "updated_at": "2026-08-26T07:49:11-04:00",
+    "title": "Applied AI Architect",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": false
   }
 }
