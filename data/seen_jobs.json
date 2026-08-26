@@ -239112,8 +239112,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7771629": {
-    "updated_at": "2026-07-20T14:52:09-04:00",
-    "title": "Senior Software Engineer, Knowledge Engineering",
+    "updated_at": "2026-08-26T07:27:41-04:00",
+    "title": "Senior Software Engineer, Knowledge Engineer",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-26T06:49:18-04:00",
+    "updated_at": "2026-08-26T07:34:24-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-26T06:49:21-04:00",
+    "updated_at": "2026-08-26T07:34:27-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -267512,7 +267512,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8078168": {
-    "updated_at": "2026-08-18T17:37:32-04:00",
+    "updated_at": "2026-08-26T07:27:19-04:00",
     "title": "Growth Marketing Manager, Greater China",
     "company": "stripe",
     "ats": "greenhouse",
@@ -289448,7 +289448,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8682860002": {
-    "updated_at": "2026-08-17T07:10:50-04:00",
+    "updated_at": "2026-08-26T07:08:27-04:00",
     "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -289536,7 +289536,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8693103002": {
-    "updated_at": "2026-08-12T06:18:36-04:00",
+    "updated_at": "2026-08-26T07:12:18-04:00",
     "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -289544,8 +289544,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8113930": {
-    "updated_at": "2026-08-25T14:16:54-04:00",
-    "title": "Account Manager",
+    "updated_at": "2026-08-26T07:03:57-04:00",
+    "title": "Sales Account Manager",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -293824,7 +293824,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8123400": {
-    "updated_at": "2026-08-18T17:37:35-04:00",
+    "updated_at": "2026-08-26T07:25:21-04:00",
     "title": "Sales Development Representative (Mandarin-speaking)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -294552,7 +294552,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8716138002": {
-    "updated_at": "2026-08-26T03:12:17-04:00",
+    "updated_at": "2026-08-26T07:06:55-04:00",
     "title": "Senior Backend Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -303496,7 +303496,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8729451002": {
-    "updated_at": "2026-08-20T11:45:55-04:00",
+    "updated_at": "2026-08-26T07:09:22-04:00",
     "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -310016,7 +310016,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8146994": {
-    "updated_at": "2026-08-25T09:40:48-04:00",
+    "updated_at": "2026-08-26T07:07:42-04:00",
     "title": "Customer Success Associate - Tel Aviv",
     "company": "datadog",
     "ats": "greenhouse",
@@ -312197,6 +312197,78 @@
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:8093103": {
+    "updated_at": "2026-08-26T07:16:22-04:00",
+    "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8749952002": {
+    "updated_at": "2026-08-26T07:12:11-04:00",
+    "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8749951002": {
+    "updated_at": "2026-08-26T07:09:14-04:00",
+    "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8749950002": {
+    "updated_at": "2026-08-26T07:08:19-04:00",
+    "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8749946002": {
+    "updated_at": "2026-08-26T07:06:42-04:00",
+    "title": "Senior Backend Engineer",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:celonis:7886074003": {
+    "updated_at": "2026-08-26T07:06:24-04:00",
+    "title": "Analytics Engineer",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8119401": {
+    "updated_at": "2026-08-26T07:02:38-04:00",
+    "title": "Account Executive, FSI, South Africa",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:databricks:8688840002": {
+    "updated_at": "2026-08-26T06:53:41-04:00",
+    "title": "Senior Director, Alliance",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8158950": {
+    "updated_at": "2026-08-26T06:49:44-04:00",
+    "title": "Field Sales Representative",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
     "alerted": false
   }
 }
