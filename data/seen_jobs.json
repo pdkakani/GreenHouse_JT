@@ -95816,7 +95816,7 @@
     "alerted": false
   },
   "greenhouse:okta:7741663": {
-    "updated_at": "2026-08-24T12:51:52-04:00",
+    "updated_at": "2026-08-26T06:50:15-04:00",
     "title": "Principal Software Engineer, AI Engineering",
     "company": "okta",
     "ats": "greenhouse",
@@ -111752,7 +111752,7 @@
     "alerted": false
   },
   "greenhouse:okta:6687504": {
-    "updated_at": "2026-08-24T12:51:52-04:00",
+    "updated_at": "2026-08-26T06:32:17-04:00",
     "title": "Staff Software Engineer, Security",
     "company": "okta",
     "ats": "greenhouse",
@@ -115080,7 +115080,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:7307107002": {
-    "updated_at": "2026-03-16T08:01:46-04:00",
+    "updated_at": "2026-08-26T06:31:30-04:00",
     "title": "Engineering Manager  - Ecosystem",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -218688,7 +218688,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8011682": {
-    "updated_at": "2026-08-18T17:37:27-04:00",
+    "updated_at": "2026-08-26T06:55:37-04:00",
     "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-26T06:19:42-04:00",
+    "updated_at": "2026-08-26T06:49:18-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-26T06:19:44-04:00",
+    "updated_at": "2026-08-26T06:49:21-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -297744,8 +297744,8 @@
     "alerted": false
   },
   "greenhouse:smartsheet:3426405": {
-    "updated_at": "2026-08-24T14:40:02-04:00",
-    "title": "APJ Partner Enablement Manager",
+    "updated_at": "2026-08-26T06:56:12-04:00",
+    "title": "Principal Partner Enablement Manager, APJ",
     "company": "smartsheet",
     "ats": "greenhouse",
     "source_slug": "smartsheet",
@@ -309616,7 +309616,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8153054": {
-    "updated_at": "2026-08-26T00:53:36-04:00",
+    "updated_at": "2026-08-26T06:51:12-04:00",
     "title": "Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -311936,7 +311936,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8158531": {
-    "updated_at": "2026-08-26T00:53:39-04:00",
+    "updated_at": "2026-08-26T06:50:21-04:00",
     "title": "Customer Success Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -312152,7 +312152,7 @@
     "alerted": false
   },
   "greenhouse:toast:8158798": {
-    "updated_at": "2026-08-26T05:56:38-04:00",
+    "updated_at": "2026-08-26T06:43:56-04:00",
     "title": "PeopleHub Coordinator",
     "company": "toast",
     "ats": "greenhouse",
@@ -312173,6 +312173,30 @@
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:databricks:8583353002": {
+    "updated_at": "2026-08-26T06:24:07-04:00",
+    "title": "Delivery Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8578146002": {
+    "updated_at": "2026-08-26T06:22:53-04:00",
+    "title": "\u30c7\u30ea\u30d0\u30ea\u30fc\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a2\u30fc\u30ad\u30c6\u30af\u30c8",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:stripe:8142856": {
+    "updated_at": "2026-08-26T06:04:46-04:00",
+    "title": "Tech Recruiter - Full Time Contract (FTC)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
