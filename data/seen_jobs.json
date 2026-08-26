@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-25T22:35:50-04:00",
+    "updated_at": "2026-08-25T23:35:54-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-25T22:35:53-04:00",
+    "updated_at": "2026-08-25T23:35:57-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-25T19:47:23-04:00",
+    "updated_at": "2026-08-25T23:32:42-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -293320,7 +293320,7 @@
     "alerted": false
   },
   "greenhouse:flex:4724182005": {
-    "updated_at": "2026-08-17T14:17:19-04:00",
+    "updated_at": "2026-08-25T23:38:27-04:00",
     "title": "Sr. Director of Product, Bills",
     "company": "flex",
     "ats": "greenhouse",
@@ -311080,7 +311080,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8688851002": {
-    "updated_at": "2026-08-25T16:18:38-04:00",
+    "updated_at": "2026-08-25T23:35:40-04:00",
     "title": "SAP Functional SME",
     "company": "databricks",
     "ats": "greenhouse",
@@ -311894,5 +311894,21 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:braze:8158102": {
+    "updated_at": "2026-08-25T23:18:58-04:00",
+    "title": "Sales Director, South Korea",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8744318002": {
+    "updated_at": "2026-08-25T23:17:41-04:00",
+    "title": "Senior Ecosystem Sales Manager",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
   }
 }
