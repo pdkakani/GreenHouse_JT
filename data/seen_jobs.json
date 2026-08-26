@@ -226792,8 +226792,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8604598002": {
-    "updated_at": "2026-08-18T14:28:26-04:00",
-    "title": "Data and AI Lead, Finance",
+    "updated_at": "2026-08-26T02:25:54-04:00",
+    "title": "Finance Data and AI Lead",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-26T01:34:56-04:00",
+    "updated_at": "2026-08-26T02:34:14-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243976,7 +243976,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-08-26T01:34:59-04:00",
+    "updated_at": "2026-08-26T02:34:17-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -282928,7 +282928,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109032": {
-    "updated_at": "2026-08-19T07:00:33-04:00",
+    "updated_at": "2026-08-26T02:32:58-04:00",
     "title": "Lead Fraud Risk Analyst",
     "company": "toast",
     "ats": "greenhouse",
@@ -283208,7 +283208,7 @@
     "alerted": false
   },
   "greenhouse:toast:8103428": {
-    "updated_at": "2026-08-10T05:39:32-04:00",
+    "updated_at": "2026-08-26T02:17:45-04:00",
     "title": "Senior Customer Care Tech Specialist",
     "company": "toast",
     "ats": "greenhouse",
@@ -307392,7 +307392,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7916089003": {
-    "updated_at": "2026-08-24T04:30:28-04:00",
+    "updated_at": "2026-08-26T02:34:46-04:00",
     "title": "Partner Account Manager, Mid Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -310024,7 +310024,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8141400": {
-    "updated_at": "2026-08-25T09:40:07-04:00",
+    "updated_at": "2026-08-26T02:27:06-04:00",
     "title": "Senior Project Manager, Professional Services",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -310032,7 +310032,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8141404": {
-    "updated_at": "2026-08-25T09:38:05-04:00",
+    "updated_at": "2026-08-26T02:26:51-04:00",
     "title": "Senior Project Manager, Professional Services",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -311946,6 +311946,38 @@
   "greenhouse:elastic:8067085": {
     "updated_at": "2026-08-26T00:26:17-04:00",
     "title": "Sales Development Representative (Singapore Public Sector)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8741927002": {
+    "updated_at": "2026-08-26T02:00:02-04:00",
+    "title": "Sr. Manager, Sales Development",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:twilio:7616763": {
+    "updated_at": "2026-08-26T01:48:00-04:00",
+    "title": "Senior Accountant",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8143678": {
+    "updated_at": "2026-08-26T01:33:49-04:00",
+    "title": "Member of Technical Staff",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:elastic:8067061": {
+    "updated_at": "2026-08-26T01:01:49-04:00",
+    "title": "Sales Development Representative (India Public Sector)",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
