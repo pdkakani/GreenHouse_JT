@@ -496,7 +496,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7653558": {
-    "updated_at": "2026-08-27T11:14:24-04:00",
+    "updated_at": "2026-08-31T04:35:44-04:00",
     "title": "Engineering Manager - Workers Runtime, Edge Team",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -6656,7 +6656,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8463917002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Gitlab Delivery: Upgrades",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -6680,7 +6680,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8478405002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, SSCS: Supply Chain",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -6872,7 +6872,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8451512002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -6992,7 +6992,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8476375002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Solutions Architect - AI & Platforms SME",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -7056,7 +7056,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8463922002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer, Gitlab Delivery: Upgrades",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -7080,7 +7080,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8448283002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer (Ruby on Rails/AI), Verify",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -8248,8 +8248,8 @@
     "alerted": true
   },
   "greenhouse:stripe:7778643": {
-    "updated_at": "2026-08-18T17:38:40-04:00",
-    "title": "Technical Program Manager,  Extensibility Programs",
+    "updated_at": "2026-08-31T09:29:38-04:00",
+    "title": "Technical Program Manager,  Growth",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -15624,7 +15624,7 @@
     "alerted": true
   },
   "greenhouse:altruist:5692635004": {
-    "updated_at": "2026-05-18T03:48:11-04:00",
+    "updated_at": "2026-08-31T03:02:26-04:00",
     "title": "Senior Back End Engineer, Hazel AI",
     "company": "altruist",
     "ats": "greenhouse",
@@ -21952,7 +21952,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8490477002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer, Developer Experience",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -22496,7 +22496,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8488961002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer (Go), Events Platform",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -24696,7 +24696,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8480559002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer,  Software Supply Chain Security",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -25184,7 +25184,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8464608002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Product Designer, AI",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -36848,7 +36848,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8407197002": {
-    "updated_at": "2026-08-18T13:57:02-04:00",
+    "updated_at": "2026-08-31T08:47:04-04:00",
     "title": "Solutions Architect Opportunities - Lakebase (Solutions Architect, Sr. Solutions Architect)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -46576,7 +46576,7 @@
     "alerted": false
   },
   "greenhouse:stripe:6717520": {
-    "updated_at": "2026-08-18T17:57:22-04:00",
+    "updated_at": "2026-08-31T08:08:38-04:00",
     "title": "Software Engineer, Payments, Risk, & Premium Merchant Experiences",
     "company": "stripe",
     "ats": "greenhouse",
@@ -49288,8 +49288,8 @@
     "alerted": false
   },
   "greenhouse:workato:8304751002": {
-    "updated_at": "2026-06-03T03:41:28-04:00",
-    "title": "Senior AI Engineer (Agents)",
+    "updated_at": "2026-08-31T03:06:22-04:00",
+    "title": "Senior Data Scientist",
     "company": "workato",
     "ats": "greenhouse",
     "source_slug": "workato",
@@ -60048,7 +60048,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8510676002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Vice President, Data & Insights",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -61752,7 +61752,7 @@
     "alerted": false
   },
   "greenhouse:intercom:7464291": {
-    "updated_at": "2026-07-10T18:01:36-04:00",
+    "updated_at": "2026-08-31T07:04:54-04:00",
     "title": "Staff AI Product Manager",
     "company": "intercom",
     "ats": "greenhouse",
@@ -61760,7 +61760,7 @@
     "alerted": false
   },
   "greenhouse:intercom:7377200": {
-    "updated_at": "2026-07-10T18:01:36-04:00",
+    "updated_at": "2026-08-31T07:04:59-04:00",
     "title": "Staff AI Product Manager",
     "company": "intercom",
     "ats": "greenhouse",
@@ -63304,7 +63304,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8503792002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Account Executive - Italy",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -67000,7 +67000,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7674622003": {
-    "updated_at": "2026-08-24T22:18:42-04:00",
+    "updated_at": "2026-08-31T03:03:07-04:00",
     "title": "Senior Marketing Insights Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -72128,8 +72128,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:6769427": {
-    "updated_at": "2026-08-27T04:38:48-04:00",
-    "title": "Backend Developer (C# or Java)",
+    "updated_at": "2026-08-31T02:50:36-04:00",
+    "title": "Senior Backend Developer (C# or Java)",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -85176,7 +85176,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7715043": {
-    "updated_at": "2026-08-17T02:33:16-04:00",
+    "updated_at": "2026-08-31T02:32:08-04:00",
     "title": "Staff Cloud Security Architect",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -85400,7 +85400,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7510636": {
-    "updated_at": "2026-08-10T17:24:09-04:00",
+    "updated_at": "2026-08-31T02:31:31-04:00",
     "title": "Architect, AI Data Platform & Engineering",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -91752,8 +91752,8 @@
     "alerted": false
   },
   "greenhouse:workato:8499680002": {
-    "updated_at": "2026-08-06T17:39:33-04:00",
-    "title": "Senior Go Engineer (AI Lab)",
+    "updated_at": "2026-08-31T03:02:45-04:00",
+    "title": "Senior Software Engineer (Golang - Platform team)",
     "company": "workato",
     "ats": "greenhouse",
     "source_slug": "workato",
@@ -112656,7 +112656,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7721851": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:40-04:00",
     "title": "Staff Data Scientist, Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -112664,7 +112664,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7721787": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:40-04:00",
     "title": "Staff Data Scientist, Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -113080,7 +113080,7 @@
     "alerted": false
   },
   "greenhouse:reddit:6745284": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:40-04:00",
     "title": "Staff Data Scientist, Consumer",
     "company": "reddit",
     "ats": "greenhouse",
@@ -115456,7 +115456,7 @@
     "alerted": false
   },
   "greenhouse:ivalua:7379933": {
-    "updated_at": "2026-08-11T08:44:14-04:00",
+    "updated_at": "2026-08-31T04:56:24-04:00",
     "title": "Sr Account Executive",
     "company": "ivalua",
     "ats": "greenhouse",
@@ -124864,7 +124864,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7841019": {
-    "updated_at": "2026-08-26T05:35:27-04:00",
+    "updated_at": "2026-08-31T04:35:08-04:00",
     "title": "Senior Engineering Manager - Workers KV",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -130328,7 +130328,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8514960002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Infrastructure Security Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -134072,7 +134072,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8500014002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Commercial Legal Counsel, APAC",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -134488,7 +134488,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:7546762": {
-    "updated_at": "2026-08-26T23:09:17-04:00",
+    "updated_at": "2026-08-31T02:31:52-04:00",
     "title": "Corporate IT Architect",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -135512,7 +135512,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8512220002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Product Manager, Tenant Scale",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -139176,7 +139176,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8532274002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Business Development Representative",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -139200,7 +139200,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8532272002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Business Development Representative",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -143680,7 +143680,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8396674002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Solutions Architects - San Francisco",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -144048,7 +144048,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7445240": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:42-04:00",
     "title": "Staff Data Scientist, Marketing",
     "company": "reddit",
     "ats": "greenhouse",
@@ -145792,7 +145792,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7883803": {
-    "updated_at": "2026-08-25T19:38:33-04:00",
+    "updated_at": "2026-08-31T07:28:01-04:00",
     "title": "Business Development Representative - Dutch Speaking",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -146840,7 +146840,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8517171002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Forward Deployed Engineer, AI and Agentic SDLC",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -152248,7 +152248,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8524783002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Forward Deployed Engineer - META",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -152256,7 +152256,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8522265002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Forward Deployed Engineer - EMEA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -152264,7 +152264,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8522408002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Forward Deployed Engineer - EMEA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -156824,7 +156824,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8520248002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive, Germany (Ent Industry)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -159840,7 +159840,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8548980002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Customer Success Manager - Australia",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -160768,7 +160768,7 @@
     "alerted": false
   },
   "greenhouse:brex:8551691002": {
-    "updated_at": "2026-06-11T15:08:03-04:00",
+    "updated_at": "2026-08-31T08:37:25-04:00",
     "title": "BizOps Senior Manager (Technical)",
     "company": "brex",
     "ats": "greenhouse",
@@ -161256,7 +161256,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7931007": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:40-04:00",
     "title": "Staff Data Scientist, Consumer",
     "company": "reddit",
     "ats": "greenhouse",
@@ -161272,7 +161272,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7931000": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:42-04:00",
     "title": "Staff Data Scientist, Marketing",
     "company": "reddit",
     "ats": "greenhouse",
@@ -165744,7 +165744,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7769002": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:42-04:00",
     "title": "Creative Strategist - App Dev",
     "company": "reddit",
     "ats": "greenhouse",
@@ -170488,7 +170488,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8556658002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "AI Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -170760,7 +170760,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7954001": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:43-04:00",
     "title": "Staff Technical Product Manager, Ads ML Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -171632,7 +171632,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7954598": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:43-04:00",
     "title": "Senior Business Engineer - Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -172912,7 +172912,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8561622002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Commercial Account Executive - Mid-Market, Canada",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -173256,7 +173256,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8555134002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive - South Africa",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -176936,7 +176936,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8561952002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Customer Success Architect, EMEA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -176960,7 +176960,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5225003008": {
-    "updated_at": "2026-08-28T14:43:58-04:00",
+    "updated_at": "2026-08-31T06:27:09-04:00",
     "title": "Enterprise Account Executive - Energy & Utilities",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -179152,7 +179152,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8565469002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior AI Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -181088,7 +181088,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974507": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:42-04:00",
     "title": "Senior Staff Data Scientist - Consumer Experimentation",
     "company": "reddit",
     "ats": "greenhouse",
@@ -182248,7 +182248,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7974504": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:42-04:00",
     "title": "Senior Staff Data Scientist - Consumer Experimentation",
     "company": "reddit",
     "ats": "greenhouse",
@@ -184544,7 +184544,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7746526": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:11-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Pharma)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -184552,7 +184552,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7977257": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:11-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Pharma)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -185280,7 +185280,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7908806": {
-    "updated_at": "2026-08-18T04:12:10-04:00",
+    "updated_at": "2026-08-31T09:20:24-04:00",
     "title": "Senior AI Research Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -185304,7 +185304,7 @@
     "alerted": false
   },
   "greenhouse:workato:8304752002": {
-    "updated_at": "2026-08-31T02:07:23-04:00",
+    "updated_at": "2026-08-31T02:17:53-04:00",
     "title": "Senior Software Engineer (Go/Ruby) \u2013 Gateways & Enterprise AI Infrastructure",
     "company": "workato",
     "ats": "greenhouse",
@@ -187160,7 +187160,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7980795": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:43-04:00",
     "title": "Staff Engineer, Ads Business Manager",
     "company": "reddit",
     "ats": "greenhouse",
@@ -187456,7 +187456,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7960367": {
-    "updated_at": "2026-08-29T12:17:41-04:00",
+    "updated_at": "2026-08-31T06:17:47-04:00",
     "title": "Product Support Engineer III",
     "company": "samsara",
     "ats": "greenhouse",
@@ -193080,7 +193080,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8574978002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff HRIS Analyst, People Technology - Workday",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -194432,7 +194432,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8575048002": {
-    "updated_at": "2026-07-02T10:14:56-04:00",
+    "updated_at": "2026-08-31T05:31:17-04:00",
     "title": "Delivery Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -198048,7 +198048,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7735422003": {
-    "updated_at": "2026-08-28T18:17:38-04:00",
+    "updated_at": "2026-08-31T08:46:49-04:00",
     "title": "Senior Product Manager, Growth",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -199536,7 +199536,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8588547002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior TA Operations Specialist",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -204792,7 +204792,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:8002489": {
-    "updated_at": "2026-08-06T04:28:29-04:00",
+    "updated_at": "2026-08-31T08:37:40-04:00",
     "title": "Director - Engineering",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -204992,7 +204992,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8010607": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:12-04:00",
     "title": "Senior Manager, Large Customer Sales (Entertainment)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -207960,7 +207960,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8592950002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Data Foundations",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -208016,7 +208016,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8592891002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Growth",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -210192,7 +210192,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8017196": {
-    "updated_at": "2026-08-30T20:13:46-04:00",
+    "updated_at": "2026-08-31T08:19:38-04:00",
     "title": "Senior Client Partner, Global Strategic Accounts (UK)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -210200,7 +210200,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8017263": {
-    "updated_at": "2026-08-30T20:13:46-04:00",
+    "updated_at": "2026-08-31T08:19:38-04:00",
     "title": "Senior Client Account Manager, Global Strategic Accounts (UK)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -210928,7 +210928,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8002425": {
-    "updated_at": "2026-08-17T06:50:28-04:00",
+    "updated_at": "2026-08-31T08:10:10-04:00",
     "title": "Senior Forward Deployed Engineer",
     "company": "adyen",
     "ats": "greenhouse",
@@ -213176,7 +213176,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8022366": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:44-04:00",
     "title": "Engineering Manager, Ads ML Efficiency",
     "company": "reddit",
     "ats": "greenhouse",
@@ -213288,7 +213288,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8022260": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:43-04:00",
     "title": "Senior Business Engineer - Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -213936,7 +213936,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8007246": {
-    "updated_at": "2026-08-10T02:51:48-04:00",
+    "updated_at": "2026-08-31T03:58:31-04:00",
     "title": "Senior Hardware Design Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -214128,7 +214128,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8016354": {
-    "updated_at": "2026-08-17T16:41:35-04:00",
+    "updated_at": "2026-08-31T08:04:51-04:00",
     "title": "Channels Operations Manager, Managed Services",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -214264,7 +214264,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7659484003": {
-    "updated_at": "2026-08-29T03:47:18-04:00",
+    "updated_at": "2026-08-31T03:02:41-04:00",
     "title": "Software Engineer II - Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -215608,7 +215608,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8533016002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Customer Success Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -216776,7 +216776,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8604633002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "High Velocity Enablement Lead",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -217176,7 +217176,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8022663": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:11-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -217728,7 +217728,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8011163": {
-    "updated_at": "2026-08-30T20:11:03-04:00",
+    "updated_at": "2026-08-31T08:17:01-04:00",
     "title": "Senior Director, Product & Technology Finance",
     "company": "reddit",
     "ats": "greenhouse",
@@ -218888,7 +218888,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7785582003": {
-    "updated_at": "2026-08-26T11:10:55-04:00",
+    "updated_at": "2026-08-31T03:02:42-04:00",
     "title": "Customer Support Specialist, German (Weekend Shift)",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -219128,7 +219128,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8608546002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Business Development Representative - MENA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -219272,7 +219272,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8604996002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Customer Success Operations Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -221856,7 +221856,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8029120": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:44-04:00",
     "title": "Senior Machine Learning Engineer, Ads Optimization",
     "company": "reddit",
     "ats": "greenhouse",
@@ -223088,7 +223088,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8610952002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Lifecycle Marketing Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -225208,7 +225208,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8611767002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Solutions Architect",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -225216,7 +225216,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8611764002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Solutions Architect",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -227600,7 +227600,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8604630002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive, AI - San Francisco",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -228768,7 +228768,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8607104002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Director of Engineering, Security Factory",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -229024,7 +229024,7 @@
     "alerted": false
   },
   "greenhouse:toast:8029831": {
-    "updated_at": "2026-08-24T04:43:27-04:00",
+    "updated_at": "2026-08-31T03:25:48-04:00",
     "title": "IT HelpDesk Analyst",
     "company": "toast",
     "ats": "greenhouse",
@@ -229688,7 +229688,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8614945002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Software Engineer (RoR/Go), SSCS: Authentication",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -229736,7 +229736,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8021708": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:12-04:00",
     "title": "Senior Client Partner, Large Customer Sales, Pharma",
     "company": "reddit",
     "ats": "greenhouse",
@@ -229800,7 +229800,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615811002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Director, Strategic Partnerships",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -229968,7 +229968,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8597813002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Principal Product Manager, Engineering Intelligence & Insights",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -230064,7 +230064,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8597826002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Manager, Product Management: Agentic Software Delivery",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -231360,7 +231360,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8613199002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Customer Success Managers, EMEA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -231440,7 +231440,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615946002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Cell Infrastructure",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -232712,7 +232712,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8603824002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, AI Engineering: Chat",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -233728,7 +233728,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615797002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "New Business Account Executive - West",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -234440,7 +234440,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8597805002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Product Manager, Source Code",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -234552,7 +234552,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8616005002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Customer Success Manager- Public Sector",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -235072,7 +235072,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8620720002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Backend Engineer (Ruby), AI Engineering: Agent Observability",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -235208,7 +235208,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8612937002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Product Manager,  RevOps & Finance Systems",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -235592,7 +235592,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7792539003": {
-    "updated_at": "2026-08-29T03:47:24-04:00",
+    "updated_at": "2026-08-31T03:02:48-04:00",
     "title": "Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -237120,7 +237120,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8623542002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Professional Services Engineer - Japan",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -237344,7 +237344,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8592710002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Director, People Business Partner",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -239104,7 +239104,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8613165002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Fullstack Engineer - Data Products",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -239720,7 +239720,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8617538002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Tenant Scale:Git",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -240216,7 +240216,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8626198002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "FP&A Manager, R&D",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -240488,7 +240488,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8628447002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -240920,7 +240920,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8623389002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Site Reliability Engineer, Intermediate to Senior Staff \u2014 Infrastructure Platforms",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241096,7 +241096,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8623751002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Intermediate Fullstack Engineer - Data Products",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241104,7 +241104,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615439002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer - Platform Insights",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241120,7 +241120,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8623763002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Fullstack Engineer - Data Products",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241528,7 +241528,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8586632002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Switchboard",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241776,7 +241776,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8631153002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Commercial Account Executive - DACH",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241792,7 +241792,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627798002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Named Account Executive - DACH",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -241960,7 +241960,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8616308002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Revenue Analytics Analyst",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -242048,7 +242048,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8626772002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Director, Engineering, Platform Operations & Productivity",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -242064,7 +242064,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8626740002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Engineering, Git & Gitaly Operations",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -242104,7 +242104,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8626290002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Engineering Manager, Non-Linear Productivity",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -242384,7 +242384,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8616247002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Revenue Analytics Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -242544,7 +242544,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8621620002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Ruby), AI Engineering: AI Coding",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -242560,7 +242560,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627022002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Solutions Architect - Turkey",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -243648,7 +243648,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-08-31T02:05:14-04:00",
+    "updated_at": "2026-08-31T09:49:25-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243680,7 +243680,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8064526": {
-    "updated_at": "2026-08-24T09:49:30-04:00",
+    "updated_at": "2026-08-31T03:42:49-04:00",
     "title": "AI Product Manager, Professional Services",
     "company": "stripe",
     "ats": "greenhouse",
@@ -244152,7 +244152,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8628780002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Support Engineer, U.S. Government Support",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -245016,7 +245016,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8632005002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Hyperscaler Operations Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -245600,7 +245600,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8041307": {
-    "updated_at": "2026-08-13T04:28:25-04:00",
+    "updated_at": "2026-08-31T03:21:24-04:00",
     "title": "Senior Backend Engineer (Java)",
     "company": "adyen",
     "ats": "greenhouse",
@@ -245680,7 +245680,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8632388002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Engineering, Nonlinear Productivity (Friction Elimination & Solutions)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -246176,7 +246176,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8631068002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Area Vice President - Financial Services",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -246784,7 +246784,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8629005002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Director, Support (EMEA)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -246840,7 +246840,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8067911": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:44-04:00",
     "title": "Senior Client Account Executive, Mid-Market Sales (B2B Services)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -246880,7 +246880,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8618771002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Ecosystem Sales Manager, Carahsoft (Washington DC)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -247448,7 +247448,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8068464": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:42-04:00",
     "title": "Manager, Technical Solutions",
     "company": "reddit",
     "ats": "greenhouse",
@@ -247456,7 +247456,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8016897": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:43-04:00",
     "title": "Manager, Technical Solutions",
     "company": "reddit",
     "ats": "greenhouse",
@@ -247680,7 +247680,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8067983": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:44-04:00",
     "title": "Senior Vendor Performance Manager, North America",
     "company": "reddit",
     "ats": "greenhouse",
@@ -247880,7 +247880,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8617751002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive - Turkey",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -248040,7 +248040,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8629019002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Director, Support (Bengaluru)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -248056,7 +248056,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8621204002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior FP&A Analyst, Corporate Finance",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -249088,7 +249088,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8617848002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior People Business Partner, Product & Marketing",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -249096,7 +249096,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7807482003": {
-    "updated_at": "2026-08-28T18:17:49-04:00",
+    "updated_at": "2026-08-31T03:03:13-04:00",
     "title": "Staff Web Growth Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -249104,7 +249104,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7807040003": {
-    "updated_at": "2026-08-28T18:17:49-04:00",
+    "updated_at": "2026-08-31T03:03:13-04:00",
     "title": "Staff Web Growth Marketing Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -249328,7 +249328,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8637075002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Lifecycle Marketing Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -249744,7 +249744,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8626762002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Solutions Architecture - UK&I",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -249888,7 +249888,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8609979002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive - Turkey",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -250000,8 +250000,8 @@
     "alerted": false
   },
   "greenhouse:fivetran:7792160003": {
-    "updated_at": "2026-08-24T22:18:44-04:00",
-    "title": "Business Development Representative",
+    "updated_at": "2026-08-31T09:10:54-04:00",
+    "title": "Business Development Representative (Austin)",
     "company": "fivetran",
     "ats": "greenhouse",
     "source_slug": "fivetran",
@@ -250560,7 +250560,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8072076": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:45-04:00",
     "title": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
     "company": "reddit",
     "ats": "greenhouse",
@@ -250568,7 +250568,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8072046": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:45-04:00",
     "title": "Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy",
     "company": "reddit",
     "ats": "greenhouse",
@@ -252072,7 +252072,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8626770002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Solutions Architect - CEUR",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -252392,7 +252392,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8611700002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Solutions Architect - MENA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -252536,7 +252536,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7809734003": {
-    "updated_at": "2026-08-24T22:18:42-04:00",
+    "updated_at": "2026-08-31T03:03:07-04:00",
     "title": "Senior Marketing Insights Analyst",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -252552,7 +252552,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7809732003": {
-    "updated_at": "2026-08-25T12:13:20-04:00",
+    "updated_at": "2026-08-31T06:36:41-04:00",
     "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -253456,7 +253456,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8512432002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Forward Deployed Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -253608,7 +253608,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8635277002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Enablement Content Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -254056,7 +254056,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7806295003": {
-    "updated_at": "2026-08-28T18:17:47-04:00",
+    "updated_at": "2026-08-31T08:46:51-04:00",
     "title": "Senior Pricing Data Scientist",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -254184,7 +254184,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627761002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Solutions Architect - India",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -254192,7 +254192,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627764002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Manager, Solutions Architect - Australia & New Zealand",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -254232,7 +254232,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8636713002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, Deployment Environments",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -254432,7 +254432,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8637549002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Software Security Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -254568,8 +254568,8 @@
     "alerted": false
   },
   "greenhouse:godaddy:7796115003": {
-    "updated_at": "2026-07-21T13:16:45-04:00",
-    "title": "Senior Product Manager",
+    "updated_at": "2026-08-31T08:44:11-04:00",
+    "title": "Product Manager",
     "company": "godaddy",
     "ats": "greenhouse",
     "source_slug": "godaddy",
@@ -254760,8 +254760,8 @@
     "alerted": false
   },
   "greenhouse:dropbox:8075225": {
-    "updated_at": "2026-08-19T03:01:17-04:00",
-    "title": "Senior Sales Strategy & Operations Manager - APJ (Remote)",
+    "updated_at": "2026-08-31T07:47:13-04:00",
+    "title": "Regional Sales Strategy & Operations Manager - APJ (Remote)",
     "company": "dropbox",
     "ats": "greenhouse",
     "source_slug": "dropbox",
@@ -255952,7 +255952,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8639170002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Strategic Finance",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -256136,7 +256136,7 @@
     "alerted": true
   },
   "greenhouse:reddit:8070669": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:45-04:00",
     "title": "Staff Product Manager, Ads Safety (Ads Review)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -256296,7 +256296,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8621733002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, AI Engineering: Chat",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -256424,7 +256424,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627772002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Solutions Architect- Australia and New Zealand",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -256624,7 +256624,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8622433002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Professional Services Project Manager (EMEA)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -256824,7 +256824,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8637995002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive - MENA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -256832,7 +256832,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8638001002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Commercial Account Executive - MENA",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -256904,7 +256904,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8637426002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Customer Success Engineer, LATAM (Spanish, Portugese)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -256920,7 +256920,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8638385002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Absence Management Partner",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -257600,7 +257600,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8638232002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "AI Transformation Owner, CRO",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -257624,7 +257624,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8638246002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Tech Operations Specialist",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -257776,7 +257776,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8638295002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Engineer, People Technology",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -258816,7 +258816,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8073594": {
-    "updated_at": "2026-08-10T17:24:12-04:00",
+    "updated_at": "2026-08-31T02:31:10-04:00",
     "title": "Senior Manager - Corporate IT",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -259064,7 +259064,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615319002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -259888,7 +259888,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8645879002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Renewal Operations Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -260184,7 +260184,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8641816002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Benefits Analyst",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -260200,7 +260200,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8647506002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Director, Associate General Counsel",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -260424,7 +260424,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8645825002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Assigned Support Engineer (EMEA)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -260928,7 +260928,7 @@
     "alerted": true
   },
   "greenhouse:reddit:8082867": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:45-04:00",
     "title": "Staff Frontend Engineer, Ads Creative",
     "company": "reddit",
     "ats": "greenhouse",
@@ -261024,7 +261024,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8640151002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Enterprise Account Executive - Singapore",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -261336,7 +261336,7 @@
     "alerted": true
   },
   "greenhouse:okta:8079108": {
-    "updated_at": "2026-08-24T12:51:52-04:00",
+    "updated_at": "2026-08-31T09:09:46-04:00",
     "title": "Account Executive Auth0",
     "company": "okta",
     "ats": "greenhouse",
@@ -261864,7 +261864,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8642850002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Manager, Internal Audit - Audit Automation & Technology Risk",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -262056,7 +262056,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7808191003": {
-    "updated_at": "2026-08-28T18:17:52-04:00",
+    "updated_at": "2026-08-31T08:46:53-04:00",
     "title": "Senior Product Design Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -262552,7 +262552,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8643077002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Internal Auditor, Technology",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -262976,7 +262976,7 @@
     "alerted": false
   },
   "greenhouse:reddit:7762079": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:44-04:00",
     "title": "Senior Product Manager, GTM Automation",
     "company": "reddit",
     "ats": "greenhouse",
@@ -264912,7 +264912,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8633807002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Lead SEC Analyst",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -266464,7 +266464,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8092375": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:11-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -266624,7 +266624,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8643154002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, IT SOX PMO",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -267440,7 +267440,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8089959": {
-    "updated_at": "2026-08-30T20:12:21-04:00",
+    "updated_at": "2026-08-31T08:18:41-04:00",
     "title": "3rd Party Partnerships Manager - Signals",
     "company": "reddit",
     "ats": "greenhouse",
@@ -267528,7 +267528,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8640173002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Ecosystem Sales Manager, Japan",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -268664,7 +268664,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8617777002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Lead Internal Events & Production Strategist",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -268704,7 +268704,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8617615002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior People Analytics Analyst",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -269776,7 +269776,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8632126002": {
-    "updated_at": "2026-08-28T00:46:26-04:00",
+    "updated_at": "2026-08-31T07:28:06-04:00",
     "title": "Full Stack Developer (AI Agents)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -269840,7 +269840,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8095997": {
-    "updated_at": "2026-08-25T14:16:54-04:00",
+    "updated_at": "2026-08-31T06:23:51-04:00",
     "title": "Account Executive - Rotterdam/The Hague",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -270136,7 +270136,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8640317002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Ecosystem Sales Manager: Scale",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -270512,7 +270512,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8656506002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Solutions Architect - France",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -271992,7 +271992,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8092731": {
-    "updated_at": "2026-08-12T17:33:19-04:00",
+    "updated_at": "2026-08-31T09:17:17-04:00",
     "title": "Software Engineer, Registrar",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -272024,7 +272024,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7822456003": {
-    "updated_at": "2026-08-28T18:17:52-04:00",
+    "updated_at": "2026-08-31T08:46:53-04:00",
     "title": "Senior Product Design Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -272248,7 +272248,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8648304002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Customer Success Architect - Singapore",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-08-30T23:03:02-04:00",
+    "updated_at": "2026-08-31T07:47:40-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -273208,7 +273208,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7823099003": {
-    "updated_at": "2026-08-28T18:18:04-04:00",
+    "updated_at": "2026-08-31T03:03:18-04:00",
     "title": "Organic Growth Lead, SEO & GEO",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -273232,7 +273232,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7816739003": {
-    "updated_at": "2026-08-28T18:18:04-04:00",
+    "updated_at": "2026-08-31T03:03:18-04:00",
     "title": "Organic Growth Lead, SEO & GEO",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -273280,7 +273280,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8654230002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Support Engineer (AMER)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -273504,7 +273504,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8656848002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive, Southeast",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -274096,7 +274096,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8641849002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Solutions Architecture - East",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -274472,7 +274472,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8644572002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, Platform Readiness",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -274728,7 +274728,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8644569002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Intermediate Backend Engineer, Platform Readiness",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -274952,7 +274952,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8658878002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Principal Product Manager, AI Software Factory",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -275072,7 +275072,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8103609": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:45-04:00",
     "title": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
     "company": "reddit",
     "ats": "greenhouse",
@@ -275104,7 +275104,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8103594": {
-    "updated_at": "2026-08-30T20:12:22-04:00",
+    "updated_at": "2026-08-31T08:18:45-04:00",
     "title": "Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy",
     "company": "reddit",
     "ats": "greenhouse",
@@ -275176,7 +275176,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8592555002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Commercial Account Executive, Named - West",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -276424,7 +276424,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8098473": {
-    "updated_at": "2026-08-21T15:40:40-04:00",
+    "updated_at": "2026-08-31T08:16:40-04:00",
     "title": "Global Deal Strategy Sr. Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -277456,7 +277456,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678396002": {
-    "updated_at": "2026-08-19T09:52:59-04:00",
+    "updated_at": "2026-08-31T09:44:46-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277464,7 +277464,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678831002": {
-    "updated_at": "2026-08-19T09:52:59-04:00",
+    "updated_at": "2026-08-31T09:45:54-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277472,7 +277472,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678771002": {
-    "updated_at": "2026-08-19T09:52:59-04:00",
+    "updated_at": "2026-08-31T09:45:29-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277480,7 +277480,7 @@
     "alerted": false
   },
   "greenhouse:brex:8678769002": {
-    "updated_at": "2026-08-19T09:52:59-04:00",
+    "updated_at": "2026-08-31T09:45:08-04:00",
     "title": "Commercial Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -277864,7 +277864,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8648306002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Deal Desk Strategist, Philippines or India",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -278296,7 +278296,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8646852002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Customer Success Architect, CEUR",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -279120,7 +279120,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8682749002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Renewals Manager - West",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -279168,7 +279168,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8102387": {
-    "updated_at": "2026-08-06T08:05:12-04:00",
+    "updated_at": "2026-08-31T09:10:57-04:00",
     "title": "Senior Security Program Manager",
     "company": "adyen",
     "ats": "greenhouse",
@@ -279368,7 +279368,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627207002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Solutions Architect - East",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -279880,7 +279880,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8684061002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Intermediate Support Engineer (SHIFT)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -279968,7 +279968,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8684078002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Intermediate Support Engineer (SHIFT)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -280648,7 +280648,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8679047002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Analyst, Sales Strategy",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -280712,7 +280712,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8646544002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -280760,7 +280760,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8646556002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -280888,7 +280888,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8591223002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Territory Sales Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -281192,7 +281192,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8686820002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Director, Revenue Analytics",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -282160,8 +282160,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8105716": {
-    "updated_at": "2026-08-07T12:29:20-04:00",
-    "title": "Senior Billing Engineer",
+    "updated_at": "2026-08-31T09:17:31-04:00",
+    "title": "Senior Software Engineer - Fintech",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -282192,7 +282192,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8685082002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Revenue Technology Analyst",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -282216,7 +282216,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8684348002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Product Manager, Growth",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -282504,7 +282504,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8660935002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Public Sector Strategic Account Executive - Canada",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -283072,7 +283072,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8687171002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Associate Solutions Architect (French or German fluency)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -283080,7 +283080,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8675543002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Associate Solutions Architect (French or German fluency)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -283704,8 +283704,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8114397": {
-    "updated_at": "2026-08-18T17:59:42-04:00",
-    "title": "Technical Program Manager, Extensibility Platform (CA)",
+    "updated_at": "2026-08-31T09:28:34-04:00",
+    "title": "Technical Program Manager, Growth",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -283752,7 +283752,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8687381002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Business Development Representative - Nordics",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -284112,7 +284112,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8649994002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Public Sector Strategic Account Executive, SLED - Mountain Plains",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -284504,7 +284504,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8115838": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:39-04:00",
     "title": "Staff Machine Learning Engineer, Shopping Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -284584,7 +284584,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8646573002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -284592,7 +284592,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8646595002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -284736,7 +284736,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8687026002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Intermediate Support Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -284768,8 +284768,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8679980002": {
-    "updated_at": "2026-08-27T04:18:25-04:00",
-    "title": "Sr SAP Developer",
+    "updated_at": "2026-08-31T03:51:10-04:00",
+    "title": "Senior SAP Developer",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -284856,7 +284856,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8636648002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Dedicated Integrations",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -284960,7 +284960,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8675560002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive, Poland",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -285200,7 +285200,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8682707002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Ruby), Plan: Portfolio Experience",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -285280,7 +285280,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8691636002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Business Development Representative, German Speaking",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -285728,7 +285728,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8642786002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Procurement",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -286000,7 +286000,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8112967": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:39-04:00",
     "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -286296,7 +286296,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8114666": {
-    "updated_at": "2026-08-30T20:12:19-04:00",
+    "updated_at": "2026-08-31T08:18:39-04:00",
     "title": "Client Partner, Mid-Market Sales (Services - Acquisitions)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -287304,7 +287304,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8675124002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Team Member Relations Partner",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -288224,7 +288224,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8120503": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:40-04:00",
     "title": "Senior Product Manager, Ads -  Shopping Catalogs",
     "company": "reddit",
     "ats": "greenhouse",
@@ -288600,7 +288600,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8697215002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Principal Program Manager, Go-To-Market",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -288728,7 +288728,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698160002": {
-    "updated_at": "2026-08-18T14:31:40-04:00",
+    "updated_at": "2026-08-31T09:48:32-04:00",
     "title": "Fraud Operations Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -288752,7 +288752,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8697493002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Fullstack Engineer, Marketing",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -288760,7 +288760,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8113265": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:11-04:00",
     "title": "Senior Client Account Manager, Large Customer Sales (CPG)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -288880,7 +288880,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8673657002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Commercial Account Executive, Southern Cone",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -288920,7 +288920,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698277002": {
-    "updated_at": "2026-08-18T14:32:15-04:00",
+    "updated_at": "2026-08-31T09:49:19-04:00",
     "title": "Fraud Operations Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -288928,7 +288928,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698276002": {
-    "updated_at": "2026-08-18T14:32:01-04:00",
+    "updated_at": "2026-08-31T09:49:01-04:00",
     "title": "Fraud Operations Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -288944,7 +288944,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698248002": {
-    "updated_at": "2026-08-18T14:31:49-04:00",
+    "updated_at": "2026-08-31T09:48:46-04:00",
     "title": "Fraud Operations Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -288992,7 +288992,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698360002": {
-    "updated_at": "2026-08-19T09:52:58-04:00",
+    "updated_at": "2026-08-31T09:44:06-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -289000,7 +289000,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698359002": {
-    "updated_at": "2026-08-19T09:52:58-04:00",
+    "updated_at": "2026-08-31T09:43:48-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -289008,7 +289008,7 @@
     "alerted": false
   },
   "greenhouse:brex:8697069002": {
-    "updated_at": "2026-08-19T09:52:58-04:00",
+    "updated_at": "2026-08-31T09:42:57-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -289016,7 +289016,7 @@
     "alerted": false
   },
   "greenhouse:brex:8698358002": {
-    "updated_at": "2026-08-19T09:52:58-04:00",
+    "updated_at": "2026-08-31T09:43:24-04:00",
     "title": "Credit Card Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -289040,7 +289040,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8684071002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Commercial Account Executive, Northern Cone",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -289064,7 +289064,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8695515002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Backend Engineer, Geo Team",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -289448,7 +289448,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8682860002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -289536,7 +289536,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8693103002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -290920,7 +290920,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8104403": {
-    "updated_at": "2026-08-30T20:12:19-04:00",
+    "updated_at": "2026-08-31T08:18:39-04:00",
     "title": "Senior Data Scientist, Ads",
     "company": "reddit",
     "ats": "greenhouse",
@@ -290952,7 +290952,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8126946": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:40-04:00",
     "title": "Senior Data Scientist - Consumer",
     "company": "reddit",
     "ats": "greenhouse",
@@ -291104,7 +291104,7 @@
     "alerted": true
   },
   "greenhouse:reddit:8127002": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:40-04:00",
     "title": "Staff Android Engineer, Brand Ad Formats",
     "company": "reddit",
     "ats": "greenhouse",
@@ -291352,7 +291352,7 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8127555": {
-    "updated_at": "2026-08-25T14:16:54-04:00",
+    "updated_at": "2026-08-31T06:24:20-04:00",
     "title": "Account Executive - Rotterdam/The Hague",
     "company": "tripadvisor",
     "ats": "greenhouse",
@@ -291448,7 +291448,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615322002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer - Platform Integrations (Monetization)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -291616,7 +291616,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8700587002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Director, Internal Audit",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -292336,7 +292336,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8696826002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Director of Engineering, Organizations & Cells",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -292488,7 +292488,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8636539002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Frontend Engineer (Vue), Create:  Repository Management",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -293968,7 +293968,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8684201002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Ecosystem Sales Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -294536,7 +294536,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7855798003": {
-    "updated_at": "2026-08-29T03:47:29-04:00",
+    "updated_at": "2026-08-31T03:02:50-04:00",
     "title": "Software Engineer II - Recommendations",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -294544,7 +294544,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8716143002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, India",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -294552,7 +294552,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8716138002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, UK",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -294560,7 +294560,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8715968002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, AMER",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -294928,7 +294928,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8691859002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Customer Success",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -295448,7 +295448,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8615268002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -295664,7 +295664,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8627768002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Solutions Architect (Singapore)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -295728,7 +295728,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5390778008": {
-    "updated_at": "2026-08-28T16:45:54-04:00",
+    "updated_at": "2026-08-31T05:49:46-04:00",
     "title": "Applied AI Architect, Industries",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -295768,8 +295768,8 @@
     "alerted": false
   },
   "greenhouse:toast:8129966": {
-    "updated_at": "2026-08-17T04:43:50-04:00",
-    "title": "Senior Software Engineer, Analytics & Search (OLAP Platform)",
+    "updated_at": "2026-08-31T05:06:59-04:00",
+    "title": "Senior Software Engineer, Analytics & Search",
     "company": "toast",
     "ats": "greenhouse",
     "source_slug": "toast",
@@ -296640,7 +296640,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8706202002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Strategic Account Executive - Seattle",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -297080,7 +297080,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8697043002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Product Manager, Secret Detection and Vulnerability Research",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -297408,7 +297408,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8705011002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "RPA Engineer, UiPath",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -297432,7 +297432,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8705017002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Systems Engineer, IT",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -297464,7 +297464,7 @@
     "alerted": true
   },
   "greenhouse:reddit:8138163": {
-    "updated_at": "2026-08-30T20:12:31-04:00",
+    "updated_at": "2026-08-31T08:19:11-04:00",
     "title": "Senior Manager, Large Customer Sales (Entertainment)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -297904,7 +297904,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8692874002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Support Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -298672,7 +298672,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8692880002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Support Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -299392,7 +299392,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8707385002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Manager, Support Engineering, US Government",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -299720,7 +299720,7 @@
     "alerted": true
   },
   "greenhouse:brex:8728439002": {
-    "updated_at": "2026-08-18T17:20:34-04:00",
+    "updated_at": "2026-08-31T09:47:28-04:00",
     "title": "Product & Privacy Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -299728,7 +299728,7 @@
     "alerted": false
   },
   "greenhouse:brex:8728427002": {
-    "updated_at": "2026-08-18T17:20:33-04:00",
+    "updated_at": "2026-08-31T09:47:08-04:00",
     "title": "Product & Privacy Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -299736,7 +299736,7 @@
     "alerted": false
   },
   "greenhouse:brex:8728420002": {
-    "updated_at": "2026-08-18T17:20:32-04:00",
+    "updated_at": "2026-08-31T09:46:48-04:00",
     "title": "Product & Privacy Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -299744,7 +299744,7 @@
     "alerted": false
   },
   "greenhouse:brex:8727946002": {
-    "updated_at": "2026-08-18T17:20:31-04:00",
+    "updated_at": "2026-08-31T09:46:25-04:00",
     "title": "Product & Privacy Counsel",
     "company": "brex",
     "ats": "greenhouse",
@@ -300376,7 +300376,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8130589": {
-    "updated_at": "2026-08-27T12:47:58-04:00",
+    "updated_at": "2026-08-31T04:40:12-04:00",
     "title": "Senior Partner Marketing Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -300408,7 +300408,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8725981002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Engagement Manager - Germany",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -300680,7 +300680,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8704363002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -300944,7 +300944,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8687246002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Program Manager, Enterprise Technology and AI",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -300968,7 +300968,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8586667002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager, Build",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -301520,7 +301520,7 @@
     "alerted": true
   },
   "greenhouse:reddit:8125836": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:41-04:00",
     "title": "Senior Principal Program Manager, GTM Excellence",
     "company": "reddit",
     "ats": "greenhouse",
@@ -301760,7 +301760,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8710061002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Migration Engineer - GitLab Dedicated",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -301864,7 +301864,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8142623": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:41-04:00",
     "title": "Senior Principal Program Manager, GTM Excellence",
     "company": "reddit",
     "ats": "greenhouse",
@@ -301872,7 +301872,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8142622": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:41-04:00",
     "title": "Senior Principal Program Manager, GTM Excellence",
     "company": "reddit",
     "ats": "greenhouse",
@@ -301880,7 +301880,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8142621": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:41-04:00",
     "title": "Senior Principal Program Manager, GTM Excellence",
     "company": "reddit",
     "ats": "greenhouse",
@@ -302216,7 +302216,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8716179002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "AI Transformation Owner, Product & Design",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -302824,7 +302824,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8695815002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Ruby on Rails), Plan: Planning Views",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -302856,7 +302856,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8143458": {
-    "updated_at": "2026-08-25T05:53:13-04:00",
+    "updated_at": "2026-08-31T06:53:52-04:00",
     "title": "Customer Risk Review Analyst",
     "company": "adyen",
     "ats": "greenhouse",
@@ -303024,7 +303024,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7348426": {
-    "updated_at": "2026-08-27T11:26:09-04:00",
+    "updated_at": "2026-08-31T09:04:32-04:00",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "company": "elastic",
     "ats": "greenhouse",
@@ -303496,7 +303496,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8729451002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -303728,7 +303728,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8709925002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Assigned Support Engineer (AMER)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -303744,7 +303744,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8701290002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Assigned Support Engineer (EMEA)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -304424,7 +304424,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7618028": {
-    "updated_at": "2026-08-20T16:18:39-04:00",
+    "updated_at": "2026-08-31T08:55:35-04:00",
     "title": "Mid-Market Account Executive - Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -304584,7 +304584,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8698314002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Backend Engineer, AI Engineering: Duo Chat",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -304640,7 +304640,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8722934002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Manager, Product Security Engineering (Security Posture & Supply Chain)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -304768,7 +304768,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8688078002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -304784,7 +304784,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8652942002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Public Sector Strategic Account Executive, SLED - Great Lakes",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -304904,7 +304904,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8698330002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -305128,7 +305128,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8725566002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Engineering Manager - Database Change Management",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -305960,7 +305960,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8707353002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Support Engineer, U.S. Government Support",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -306136,7 +306136,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8721888002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Regional Sales Director, Public Sector - DoW",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -307336,7 +307336,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8736457002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Business Development Representative (Sydney or Melbourne)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -307552,7 +307552,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8716271002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Backend Engineer - Database Change Management",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -307560,7 +307560,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8722304002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Intermediate Backend Engineer - Database Change Management",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -307584,7 +307584,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:8152825": {
-    "updated_at": "2026-08-25T19:38:33-04:00",
+    "updated_at": "2026-08-31T04:32:45-04:00",
     "title": "Senior Director of Engineering, Billing Platform",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -308360,7 +308360,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8742716002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Customer Success Architect",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -308440,7 +308440,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8716306002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Lead Legal Counsel, Employment (EMEA)",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -308496,7 +308496,7 @@
     "alerted": true
   },
   "greenhouse:gitlab:8734888002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Corporate Security Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -308552,7 +308552,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8139783": {
-    "updated_at": "2026-08-24T15:37:31-04:00",
+    "updated_at": "2026-08-31T03:35:17-04:00",
     "title": "Manager, Customer Resilience Management",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -308944,7 +308944,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7918614003": {
-    "updated_at": "2026-08-25T13:05:49-04:00",
+    "updated_at": "2026-08-31T08:46:58-04:00",
     "title": "Senior Data Analyst, Revenue",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -309056,7 +309056,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8700245002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Chief of Staff, CRO",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -309192,7 +309192,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8632446002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Staff Software Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -309200,7 +309200,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7966168003": {
-    "updated_at": "2026-08-25T13:06:40-04:00",
+    "updated_at": "2026-08-31T08:46:58-04:00",
     "title": "Senior Data Analyst, Revenue",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -309216,7 +309216,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8721124002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Software Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -309936,8 +309936,8 @@
     "alerted": false
   },
   "greenhouse:fivetran:7837407003": {
-    "updated_at": "2026-08-25T10:07:42-04:00",
-    "title": "Senior Software Engineer",
+    "updated_at": "2026-08-31T06:38:04-04:00",
+    "title": "C Programmer - Senior Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
     "source_slug": "fivetran",
@@ -310080,7 +310080,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8731564002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior FP&A Analyst, Cloud Hosting",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -310296,7 +310296,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8140226": {
-    "updated_at": "2026-08-27T09:54:33-04:00",
+    "updated_at": "2026-08-31T08:17:42-04:00",
     "title": "Manager, Planning & Strategic Operations",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -310376,7 +310376,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7612462": {
-    "updated_at": "2026-08-25T12:13:37-04:00",
+    "updated_at": "2026-08-31T08:55:06-04:00",
     "title": "Account Executive, Commercial",
     "company": "samsara",
     "ats": "greenhouse",
@@ -310728,7 +310728,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7975857003": {
-    "updated_at": "2026-08-25T14:33:31-04:00",
+    "updated_at": "2026-08-31T08:46:56-04:00",
     "title": "Senior Data Analyst, People",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -310736,7 +310736,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7918612003": {
-    "updated_at": "2026-08-25T14:29:43-04:00",
+    "updated_at": "2026-08-31T08:46:56-04:00",
     "title": "Senior Data Analyst, People",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -310752,7 +310752,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8155392": {
-    "updated_at": "2026-08-25T13:57:55-04:00",
+    "updated_at": "2026-08-31T09:43:20-04:00",
     "title": "Senior Pre-Sales Systems Engineer, SLED (MN/WI/IL)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -310840,7 +310840,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8157275": {
-    "updated_at": "2026-08-30T20:12:20-04:00",
+    "updated_at": "2026-08-31T08:18:41-04:00",
     "title": "Senior Staff Machine Learning Systems Engineer, Ads ML Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -311552,7 +311552,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8693068002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Technical Program Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -311680,7 +311680,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8742113002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Program Manager, Enterprise Technology & AI",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -311904,7 +311904,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8744318002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Ecosystem Sales Manager",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -311992,7 +311992,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8745623002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Professional Services Engineer",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -312208,7 +312208,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8749952002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -312216,7 +312216,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8749951002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -312224,7 +312224,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8749950002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -312232,7 +312232,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8749946002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Backend Engineer, Poland",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -312432,7 +312432,7 @@
     "alerted": false
   },
   "greenhouse:huntress:7978221003": {
-    "updated_at": "2026-08-26T11:20:15-04:00",
+    "updated_at": "2026-08-31T09:18:55-04:00",
     "title": "Employee Experience Specialist",
     "company": "huntress",
     "ats": "greenhouse",
@@ -312600,7 +312600,7 @@
     "alerted": false
   },
   "greenhouse:brex:8750674002": {
-    "updated_at": "2026-08-26T10:38:24-04:00",
+    "updated_at": "2026-08-31T09:49:33-04:00",
     "title": "Fraud Operations Associate",
     "company": "brex",
     "ats": "greenhouse",
@@ -312656,7 +312656,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8750637002": {
-    "updated_at": "2026-08-26T10:25:38-04:00",
+    "updated_at": "2026-08-31T09:40:27-04:00",
     "title": "Senior Data Scientist, Growth Forecasting",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -312664,7 +312664,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8750636002": {
-    "updated_at": "2026-08-26T10:25:37-04:00",
+    "updated_at": "2026-08-31T09:39:36-04:00",
     "title": "Senior Data Scientist, Growth Forecasting",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -312696,7 +312696,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8750587002": {
-    "updated_at": "2026-08-26T10:17:10-04:00",
+    "updated_at": "2026-08-31T09:40:34-04:00",
     "title": "Senior Data Scientist, User Growth",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -312704,7 +312704,7 @@
     "alerted": false
   },
   "greenhouse:duolingo:8750527002": {
-    "updated_at": "2026-08-26T10:17:08-04:00",
+    "updated_at": "2026-08-31T09:40:31-04:00",
     "title": "Senior Data Scientist, User Growth",
     "company": "duolingo",
     "ats": "greenhouse",
@@ -313512,7 +313512,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8742248002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Senior Strategic Account Executive - California",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -313536,8 +313536,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8157701": {
-    "updated_at": "2026-08-26T14:33:33-04:00",
-    "title": "Director, Commercial Strategy & Programs (Emerging Businesses).",
+    "updated_at": "2026-08-31T09:09:41-04:00",
+    "title": "Director, GTM Operations & Programs (Emerging Businesses)",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -314096,7 +314096,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8614178002": {
-    "updated_at": "2026-08-27T13:24:21-04:00",
+    "updated_at": "2026-08-31T03:31:37-04:00",
     "title": "Sales Leader, Hunter VC-Backed Startups",
     "company": "databricks",
     "ats": "greenhouse",
@@ -314344,7 +314344,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7979427003": {
-    "updated_at": "2026-08-27T11:55:32-04:00",
+    "updated_at": "2026-08-31T03:02:55-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -314352,7 +314352,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7979426003": {
-    "updated_at": "2026-08-27T11:55:30-04:00",
+    "updated_at": "2026-08-31T03:02:55-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -314360,7 +314360,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7979425003": {
-    "updated_at": "2026-08-27T11:55:27-04:00",
+    "updated_at": "2026-08-31T03:02:55-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -314368,7 +314368,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7979424003": {
-    "updated_at": "2026-08-27T11:55:25-04:00",
+    "updated_at": "2026-08-31T03:02:55-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -314376,7 +314376,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7979422003": {
-    "updated_at": "2026-08-27T11:55:23-04:00",
+    "updated_at": "2026-08-31T03:02:55-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -314384,7 +314384,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7979420003": {
-    "updated_at": "2026-08-27T11:55:21-04:00",
+    "updated_at": "2026-08-31T03:02:55-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -314392,7 +314392,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7963078003": {
-    "updated_at": "2026-08-27T11:55:18-04:00",
+    "updated_at": "2026-08-31T03:02:55-04:00",
     "title": "Account Executive, Large Enterprise",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -315328,7 +315328,7 @@
     "alerted": true
   },
   "greenhouse:coinbase:8162914": {
-    "updated_at": "2026-08-27T21:37:43-04:00",
+    "updated_at": "2026-08-31T05:18:54-04:00",
     "title": "Senior Internal Communications Manager, People",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -315408,7 +315408,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8163425": {
-    "updated_at": "2026-08-30T20:13:46-04:00",
+    "updated_at": "2026-08-31T08:19:38-04:00",
     "title": "Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -315416,7 +315416,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8163400": {
-    "updated_at": "2026-08-30T20:13:46-04:00",
+    "updated_at": "2026-08-31T08:19:38-04:00",
     "title": "Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -315424,7 +315424,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8017242": {
-    "updated_at": "2026-08-30T20:13:46-04:00",
+    "updated_at": "2026-08-31T08:19:38-04:00",
     "title": "Senior Client Account Manager, Global Strategic Accounts (Tech/AI)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -315552,7 +315552,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8756163002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Lead Pricing Strategist",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -315800,7 +315800,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885761003": {
-    "updated_at": "2026-08-27T16:01:21-04:00",
+    "updated_at": "2026-08-31T02:51:09-04:00",
     "title": "Senior Application Product Manager - Oracle & AI",
     "company": "celonis",
     "ats": "greenhouse",
@@ -316352,8 +316352,8 @@
     "alerted": false
   },
   "greenhouse:fivetran:7980027003": {
-    "updated_at": "2026-08-28T06:03:40-04:00",
-    "title": "Software Engineer II",
+    "updated_at": "2026-08-31T07:06:21-04:00",
+    "title": "Software Engineer - SaaS Connectors",
     "company": "fivetran",
     "ats": "greenhouse",
     "source_slug": "fivetran",
@@ -316816,7 +316816,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8726744002": {
-    "updated_at": "2026-08-29T16:08:37-04:00",
+    "updated_at": "2026-08-31T08:28:38-04:00",
     "title": "Director of Recruiting, Engineering & IT, Bangalore India",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -317648,7 +317648,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8152765": {
-    "updated_at": "2026-08-28T11:26:01-04:00",
+    "updated_at": "2026-08-31T04:34:03-04:00",
     "title": "Director of Product Management, Fintech",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -317656,8 +317656,8 @@
     "alerted": false
   },
   "greenhouse:tripadvisor:8163857": {
-    "updated_at": "2026-08-28T11:24:55-04:00",
-    "title": "Field Sales Representative - Edinburgh",
+    "updated_at": "2026-08-31T04:30:27-04:00",
+    "title": "Field Sales Representative",
     "company": "tripadvisor",
     "ats": "greenhouse",
     "source_slug": "tripadvisor",
@@ -318165,6 +318165,478 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8761189002": {
+    "updated_at": "2026-08-31T09:27:45-04:00",
+    "title": "Business Operations Analyst",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8760909002": {
+    "updated_at": "2026-08-31T09:27:38-04:00",
+    "title": "Business Operations Manager",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8141221": {
+    "updated_at": "2026-08-31T09:26:38-04:00",
+    "title": "Member of Technical Staff, FlashBlade",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:toast:8158791": {
+    "updated_at": "2026-08-31T09:11:53-04:00",
+    "title": "Manager - Customer Care",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7981621003": {
+    "updated_at": "2026-08-31T09:09:13-04:00",
+    "title": "Business Development Representative (Denver)",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:flexport:8064123": {
+    "updated_at": "2026-08-31T09:06:38-04:00",
+    "title": "Staff Software Engineer: Platform SRE",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7981429003": {
+    "updated_at": "2026-08-31T09:06:32-04:00",
+    "title": "Business Development Representative (Oakland)",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:toast:8166831": {
+    "updated_at": "2026-08-31T09:03:54-04:00",
+    "title": "Territory Account Executive, Strategic Markets - Seattle, WA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8166830": {
+    "updated_at": "2026-08-31T09:03:02-04:00",
+    "title": "Territory Account Executive , SMB - NW Houston, TX",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8166829": {
+    "updated_at": "2026-08-31T09:02:04-04:00",
+    "title": "Territory Account Executive , SMB - Lincoln/West Omaha, NE",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7981617003": {
+    "updated_at": "2026-08-31T08:58:43-04:00",
+    "title": "Business Development Representative (Dublin)",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7981487003": {
+    "updated_at": "2026-08-31T08:57:48-04:00",
+    "title": "Business Development Representative (London)",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:elastic:8162070": {
+    "updated_at": "2026-08-31T08:56:58-04:00",
+    "title": "Public Sector Account Executive - SLED Texas",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:fivetran:7981431003": {
+    "updated_at": "2026-08-31T08:55:19-04:00",
+    "title": "Business Development Representative (Sydney)",
+    "company": "fivetran",
+    "ats": "greenhouse",
+    "source_slug": "fivetran",
+    "alerted": false
+  },
+  "greenhouse:toast:8166806": {
+    "updated_at": "2026-08-31T08:45:30-04:00",
+    "title": "District Manager, SMB- Atlanta, GA",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:twilio:7785025": {
+    "updated_at": "2026-08-31T08:44:25-04:00",
+    "title": "Strategic Account Executive",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8759577002": {
+    "updated_at": "2026-08-31T08:28:38-04:00",
+    "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8147938": {
+    "updated_at": "2026-08-31T08:13:55-04:00",
+    "title": "Enterprise Account Executive, AI Natives",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:elastic:8166648": {
+    "updated_at": "2026-08-31T08:03:44-04:00",
+    "title": "Senior Mid-Market Account Executive",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7728706003": {
+    "updated_at": "2026-08-31T07:58:08-04:00",
+    "title": "Senior Software Engineer - Golang",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:datadog:8147740": {
+    "updated_at": "2026-08-31T07:49:01-04:00",
+    "title": "Enterprise Customer Success Manager - Dublin/Paris",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8147945": {
+    "updated_at": "2026-08-31T07:30:16-04:00",
+    "title": "Enterprise Account Executive, AI Natives",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8147941": {
+    "updated_at": "2026-08-31T07:29:17-04:00",
+    "title": "Enterprise Account Executive, AI Natives",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8156111": {
+    "updated_at": "2026-08-31T07:09:24-04:00",
+    "title": "Senior Technical Project Manager",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8156115": {
+    "updated_at": "2026-08-31T07:09:24-04:00",
+    "title": "Technical Salesforce Project Manager",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8148001": {
+    "updated_at": "2026-08-31T07:08:17-04:00",
+    "title": "Regional Director, Enterprise, Growth",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:fireblocks:4709484006": {
+    "updated_at": "2026-08-31T07:02:49-04:00",
+    "title": "Staff Engineer, AI Platform",
+    "company": "fireblocks",
+    "ats": "greenhouse",
+    "source_slug": "fireblocks",
+    "alerted": false
+  },
+  "greenhouse:adyen:8105600": {
+    "updated_at": "2026-08-31T07:00:41-04:00",
+    "title": "Senior EPM Solution Architect (Supply Chain)",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:celonis:7981565003": {
+    "updated_at": "2026-08-31T06:38:06-04:00",
+    "title": "Associate Applied (AI) Value Engineer (France) - Orbit Program",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7885985003": {
+    "updated_at": "2026-08-31T06:37:31-04:00",
+    "title": "Associate (AI) Solution Consultant (France) - Orbit Program",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:toast:8161239": {
+    "updated_at": "2026-08-31T06:33:22-04:00",
+    "title": "IT Help Desk Analyst",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:applovin:4709498006": {
+    "updated_at": "2026-08-31T06:32:00-04:00",
+    "title": "Creative Strategist",
+    "company": "applovin",
+    "ats": "greenhouse",
+    "source_slug": "applovin",
+    "alerted": false
+  },
+  "greenhouse:celonis:7981557003": {
+    "updated_at": "2026-08-31T06:31:09-04:00",
+    "title": "Associate (AI) Solution Consultant (Nordics) - Orbit Program",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7885913003": {
+    "updated_at": "2026-08-31T06:30:06-04:00",
+    "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8141045": {
+    "updated_at": "2026-08-31T06:26:06-04:00",
+    "title": "Member of Technical Staff, FlashBlade",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5406388008": {
+    "updated_at": "2026-08-31T06:16:19-04:00",
+    "title": "Senior Manager, Enterprise Sales ANZ(Acquisition)",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5406387008": {
+    "updated_at": "2026-08-31T06:16:17-04:00",
+    "title": "Senior Manager, Enterprise Sales",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8143690": {
+    "updated_at": "2026-08-31T06:09:40-04:00",
+    "title": "Senior Sales Manager, Mid Market",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8153013": {
+    "updated_at": "2026-08-31T06:02:03-04:00",
+    "title": "Senior Platform Domain Operations Lead",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8161326": {
+    "updated_at": "2026-08-31T05:51:39-04:00",
+    "title": "Partner Readiness Architect",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:celonis:7886054003": {
+    "updated_at": "2026-08-31T05:49:04-04:00",
+    "title": "Staff Product Analytics Engineer",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:celonis:7886062003": {
+    "updated_at": "2026-08-31T05:36:28-04:00",
+    "title": "Data Scientist",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:intercom:7364402": {
+    "updated_at": "2026-08-31T05:30:56-04:00",
+    "title": "Staff Product Engineer",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:intercom:7364405": {
+    "updated_at": "2026-08-31T05:30:29-04:00",
+    "title": "Principal Engineer",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:braze:8161132": {
+    "updated_at": "2026-08-31T05:26:01-04:00",
+    "title": "Associate Support Representative",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:elastic:8067017": {
+    "updated_at": "2026-08-31T05:19:33-04:00",
+    "title": "Sales Development Representative (German speaking)",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8164269": {
+    "updated_at": "2026-08-31T05:06:59-04:00",
+    "title": "Senior Product Manager, Payments",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:adyen:8105603": {
+    "updated_at": "2026-08-31T04:52:21-04:00",
+    "title": "Supply Chain Data Engineer & Integration Manager",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8165969": {
+    "updated_at": "2026-08-31T04:29:52-04:00",
+    "title": "Money Laundering Reporting Officer",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:adyen:8146597": {
+    "updated_at": "2026-08-31T03:52:33-04:00",
+    "title": "Team Lead - Technical Support",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8154297": {
+    "updated_at": "2026-08-31T03:17:29-04:00",
+    "title": "Sanctions Investigations Analyst",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:godaddy:7882549003": {
+    "updated_at": "2026-08-31T03:07:44-04:00",
+    "title": "Senior Software Engineer - Python",
+    "company": "godaddy",
+    "ats": "greenhouse",
+    "source_slug": "godaddy",
+    "alerted": false
+  },
+  "greenhouse:workato:8288634002": {
+    "updated_at": "2026-08-31T02:37:08-04:00",
+    "title": "Senior Software Engineer (Go/Ruby) \u2013 Gateways & Enterprise AI Infrastructure",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:workato:8288637002": {
+    "updated_at": "2026-08-31T02:35:00-04:00",
+    "title": "Senior Software Engineer (Go/Ruby) \u2013 Gateways & Enterprise AI Infrastructure",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:adyen:8146582": {
+    "updated_at": "2026-08-31T02:32:05-04:00",
+    "title": "Workplace Manager",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:elastic:8164872": {
+    "updated_at": "2026-08-31T02:26:20-04:00",
+    "title": "Head of Growth Marketing, Self-Service",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:rubrik:7956918": {
+    "updated_at": "2026-08-31T02:21:26-04:00",
+    "title": "Software Engineer - IAM",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:flexport:8166224": {
+    "updated_at": "2026-08-31T01:29:30-04:00",
+    "title": "Manager, Account Manager",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8761409002": {
+    "updated_at": "2026-08-31T09:32:09-04:00",
+    "title": "Staff Security Engineer, IAM",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
     "alerted": true
   }
 }
