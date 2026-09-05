@@ -264296,7 +264296,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8087812": {
-    "updated_at": "2026-09-02T15:45:01-04:00",
+    "updated_at": "2026-09-05T13:42:10-04:00",
     "title": "Staff Product Development Mechanical Engineer, Sensors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -277376,7 +277376,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8101187": {
-    "updated_at": "2026-09-02T15:45:01-04:00",
+    "updated_at": "2026-09-05T13:42:07-04:00",
     "title": "Staff Systems Engineer, Driving Behaviors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -280536,7 +280536,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8106385": {
-    "updated_at": "2026-09-02T15:45:01-04:00",
+    "updated_at": "2026-09-05T13:42:05-04:00",
     "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -285984,7 +285984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8116188": {
-    "updated_at": "2026-09-02T15:45:01-04:00",
+    "updated_at": "2026-09-05T13:42:15-04:00",
     "title": "Lead Noise, Vibration, and Harshness (NVH) Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -291960,7 +291960,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4703221006": {
-    "updated_at": "2026-08-31T17:31:09-04:00",
+    "updated_at": "2026-09-05T12:36:43-04:00",
     "title": "Technical Support Engineer II",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -307696,7 +307696,7 @@
     "alerted": false
   },
   "greenhouse:toast:8148019": {
-    "updated_at": "2026-09-03T12:31:12-04:00",
+    "updated_at": "2026-09-05T13:24:50-04:00",
     "title": "Technical Support Expert, Enterprise",
     "company": "toast",
     "ats": "greenhouse",
@@ -329518,5 +329518,29 @@
     "ats": "greenhouse",
     "source_slug": "okta",
     "alerted": true
+  },
+  "greenhouse:celonis:7985248003": {
+    "updated_at": "2026-09-05T12:21:40-04:00",
+    "title": "Executive Assistant to the Global SVP",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:stripe:8175629": {
+    "updated_at": "2026-09-05T06:42:00-04:00",
+    "title": "Program Manager, Executive Experiences",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:stripe:7994945": {
+    "updated_at": "2026-09-05T06:40:38-04:00",
+    "title": "Contracting Operations Specialist",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
   }
 }
