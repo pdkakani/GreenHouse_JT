@@ -10552,7 +10552,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5023394008": {
-    "updated_at": "2026-09-05T02:43:12-04:00",
+    "updated_at": "2026-09-05T16:41:29-04:00",
     "title": "Anthropic Fellows Program",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -24096,7 +24096,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5183044008": {
-    "updated_at": "2026-08-28T16:46:24-04:00",
+    "updated_at": "2026-09-05T16:40:10-04:00",
     "title": "Anthropic Fellows Program, AI Safety & Security",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -126624,7 +126624,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5183053008": {
-    "updated_at": "2026-09-05T02:54:38-04:00",
+    "updated_at": "2026-09-05T16:42:14-04:00",
     "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -329542,5 +329542,29 @@
     "ats": "greenhouse",
     "source_slug": "stripe",
     "alerted": false
+  },
+  "greenhouse:gitlab:8782153002": {
+    "updated_at": "2026-09-05T13:56:27-04:00",
+    "title": "Staff Security Researcher",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8731718002": {
+    "updated_at": "2026-09-05T13:47:29-04:00",
+    "title": "Principal Security Researcher",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8784894002": {
+    "updated_at": "2026-09-05T17:50:59-04:00",
+    "title": "Manager, Facilities Infrastructure",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
