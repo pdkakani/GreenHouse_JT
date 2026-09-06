@@ -25984,7 +25984,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4617112006": {
-    "updated_at": "2026-08-31T17:31:09-04:00",
+    "updated_at": "2026-09-06T11:47:54-04:00",
     "title": "Hardware Engineer - Liquid Cooling",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26224,7 +26224,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4568136006": {
-    "updated_at": "2026-08-31T17:31:09-04:00",
+    "updated_at": "2026-09-06T12:11:29-04:00",
     "title": "Technical Support Engineer - III (Cloud)",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26552,7 +26552,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4604832006": {
-    "updated_at": "2026-08-31T17:31:09-04:00",
+    "updated_at": "2026-09-06T11:50:06-04:00",
     "title": "Senior Software Engineer, Inference",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -26600,7 +26600,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4553828006": {
-    "updated_at": "2026-08-31T17:31:09-04:00",
+    "updated_at": "2026-09-06T13:06:51-04:00",
     "title": "Senior Software Engineer, Server Fleet Infrastructure",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-06T09:47:21-04:00",
+    "updated_at": "2026-09-06T13:47:05-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -312008,7 +312008,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8152576": {
-    "updated_at": "2026-09-02T22:57:24-04:00",
+    "updated_at": "2026-09-06T13:18:57-04:00",
     "title": "Regulatory Compliance Manager",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -329637,6 +329637,22 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8166537": {
+    "updated_at": "2026-09-06T08:49:18-04:00",
+    "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8166523": {
+    "updated_at": "2026-09-06T08:42:59-04:00",
+    "title": "Software Engineer - Winter Intern",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
     "alerted": false
   }
 }
