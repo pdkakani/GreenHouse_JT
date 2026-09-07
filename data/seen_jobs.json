@@ -54528,7 +54528,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8508615002": {
-    "updated_at": "2026-09-07T16:27:03-04:00",
+    "updated_at": "2026-09-07T17:10:00-04:00",
     "title": "Sr. Software Engineer, Applied AI Systems",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -186560,7 +186560,7 @@
     "alerted": false
   },
   "greenhouse:upstart:7822393": {
-    "updated_at": "2026-08-20T17:32:14-04:00",
+    "updated_at": "2026-09-07T18:32:11-04:00",
     "title": "Legal Counsel, Commercial",
     "company": "upstart",
     "ats": "greenhouse",
@@ -231776,7 +231776,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8044686": {
-    "updated_at": "2026-09-04T14:12:09-04:00",
+    "updated_at": "2026-09-07T17:00:56-04:00",
     "title": "Credit Risk Strategy and Analytics",
     "company": "stripe",
     "ats": "greenhouse",
@@ -236656,7 +236656,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8052468": {
-    "updated_at": "2026-09-04T14:12:09-04:00",
+    "updated_at": "2026-09-07T17:00:58-04:00",
     "title": "Credit Risk Strategy and Analytics",
     "company": "stripe",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-07T14:47:23-04:00",
+    "updated_at": "2026-09-07T19:02:35-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -296064,7 +296064,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4705786006": {
-    "updated_at": "2026-09-06T02:49:26-04:00",
+    "updated_at": "2026-09-07T18:03:53-04:00",
     "title": "Account Manager, Engaged - Sunnyvale",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -298944,7 +298944,7 @@
     "alerted": true
   },
   "greenhouse:mongodb:8129878": {
-    "updated_at": "2026-09-01T03:40:27-04:00",
+    "updated_at": "2026-09-07T18:50:17-04:00",
     "title": "Regional Marketing Manager",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -307328,7 +307328,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8603672002": {
-    "updated_at": "2026-09-02T00:40:29-04:00",
+    "updated_at": "2026-09-07T19:08:34-04:00",
     "title": "Director, Enterprise",
     "company": "databricks",
     "ats": "greenhouse",
@@ -329024,7 +329024,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8112001": {
-    "updated_at": "2026-09-04T19:32:43-04:00",
+    "updated_at": "2026-09-07T17:52:55-04:00",
     "title": "Product Designer, Growth Pricing & Revenue Systems",
     "company": "gusto",
     "ats": "greenhouse",
@@ -330184,7 +330184,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8785454002": {
-    "updated_at": "2026-09-07T16:27:09-04:00",
+    "updated_at": "2026-09-07T17:10:50-04:00",
     "title": "Sr. Software Engineer, Applied AI Systems",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -330192,7 +330192,7 @@
     "alerted": false
   },
   "greenhouse:dialpad:8785453002": {
-    "updated_at": "2026-09-07T16:27:06-04:00",
+    "updated_at": "2026-09-07T17:10:25-04:00",
     "title": "Sr. Software Engineer, Applied AI Systems",
     "company": "dialpad",
     "ats": "greenhouse",
@@ -330232,11 +330232,67 @@
     "alerted": false
   },
   "greenhouse:dialpad:8785456002": {
-    "updated_at": "2026-09-07T16:27:15-04:00",
+    "updated_at": "2026-09-07T17:12:13-04:00",
     "title": "Sr. Software Engineer, Applied AI Systems",
     "company": "dialpad",
     "ats": "greenhouse",
     "source_slug": "dialpad",
+    "alerted": true
+  },
+  "greenhouse:spacex:8785505002": {
+    "updated_at": "2026-09-07T17:36:26-04:00",
+    "title": "Full Stack Software Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8785502002": {
+    "updated_at": "2026-09-07T17:23:36-04:00",
+    "title": "Full Stack Software Engineer, Internal Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8785457002": {
+    "updated_at": "2026-09-07T17:12:02-04:00",
+    "title": "Sr. Software Engineer, Applied AI Systems",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:dialpad:8785455002": {
+    "updated_at": "2026-09-07T17:11:13-04:00",
+    "title": "Sr. Software Engineer, Applied AI Systems",
+    "company": "dialpad",
+    "ats": "greenhouse",
+    "source_slug": "dialpad",
+    "alerted": false
+  },
+  "greenhouse:smartsheet:8185089": {
+    "updated_at": "2026-09-07T18:58:26-04:00",
+    "title": "Sr. Technical Program Manager I (Remote Eligible in Bulgaria)",
+    "company": "smartsheet",
+    "ats": "greenhouse",
+    "source_slug": "smartsheet",
+    "alerted": true
+  },
+  "greenhouse:spacex:8785507002": {
+    "updated_at": "2026-09-07T17:39:59-04:00",
+    "title": "Application Software Engineer, Internal Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8785506002": {
+    "updated_at": "2026-09-07T17:37:58-04:00",
+    "title": "Sr. Full Stack Engineer, MES (Manufacturing Execution System)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
