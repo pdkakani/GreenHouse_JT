@@ -145632,7 +145632,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7735313": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:36:27-04:00",
     "title": "Sales Development Representative (Swedish speaking)",
     "company": "flexport",
     "ats": "greenhouse",
@@ -172464,7 +172464,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7953626": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:29:05-04:00",
     "title": "Assistant Manager, Air Operations (Gurugram)",
     "company": "flexport",
     "ats": "greenhouse",
@@ -202768,8 +202768,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8007205": {
-    "updated_at": "2026-08-06T12:10:11-04:00",
-    "title": "Security Incident Response Manager",
+    "updated_at": "2026-09-12T13:45:45-04:00",
+    "title": "Incident Response Manager - Security",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -213656,7 +213656,7 @@
     "alerted": true
   },
   "greenhouse:flexport:7981653": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:34:05-04:00",
     "title": "Senior Ocean Operations Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -218504,7 +218504,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8011890": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:31:29-04:00",
     "title": "Ocean Operations Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -218512,7 +218512,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8002095": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:34:42-04:00",
     "title": "Senior Ocean Operations Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -228952,7 +228952,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8040182": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:41:17-04:00",
     "title": "Business Support Coordinator",
     "company": "flexport",
     "ats": "greenhouse",
@@ -234928,7 +234928,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8050576": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:36:27-04:00",
     "title": "Sales Development Representative (Danish speaking)",
     "company": "flexport",
     "ats": "greenhouse",
@@ -249592,7 +249592,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8044167": {
-    "updated_at": "2026-09-03T19:34:54-04:00",
+    "updated_at": "2026-09-12T13:30:48-04:00",
     "title": "Manager, Account Management",
     "company": "flexport",
     "ats": "greenhouse",
@@ -293312,7 +293312,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8011894": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T13:31:08-04:00",
     "title": "Ocean Operations Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -313760,7 +313760,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8136589": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-12T14:09:17-04:00",
     "title": "Mid-market Sales Manager",
     "company": "flexport",
     "ats": "greenhouse",
@@ -326392,8 +326392,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8172493": {
-    "updated_at": "2026-09-10T13:11:58-04:00",
-    "title": "Security Incident Response Manager - Abuse Operations",
+    "updated_at": "2026-09-12T14:04:43-04:00",
+    "title": "Incident Response Manager - Abuse Operations",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -326440,7 +326440,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8172487": {
-    "updated_at": "2026-09-10T13:11:58-04:00",
+    "updated_at": "2026-09-12T13:25:25-04:00",
     "title": "Abuse Investigator",
     "company": "stripe",
     "ats": "greenhouse",
@@ -329160,7 +329160,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8172300": {
-    "updated_at": "2026-09-04T18:49:30-04:00",
+    "updated_at": "2026-09-12T13:33:42-04:00",
     "title": "Rotational Development Program",
     "company": "flexport",
     "ats": "greenhouse",
@@ -333648,7 +333648,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5357945008": {
-    "updated_at": "2026-09-09T12:27:56-04:00",
+    "updated_at": "2026-09-12T13:25:14-04:00",
     "title": "Head of Accounting Policy",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -339032,7 +339032,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5363210008": {
-    "updated_at": "2026-09-12T11:27:32-04:00",
+    "updated_at": "2026-09-12T12:19:26-04:00",
     "title": "Senior Engineering Manager, Capacity Engineering",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -339325,6 +339325,22 @@
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
+    "alerted": true
+  },
+  "greenhouse:okta:8053763": {
+    "updated_at": "2026-09-12T05:33:33-04:00",
+    "title": "Staff Software Engineer-Salesforce development",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:celonis:7885897003": {
+    "updated_at": "2026-09-12T13:27:23-04:00",
+    "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
     "alerted": true
   }
 }
