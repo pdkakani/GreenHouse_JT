@@ -311896,7 +311896,7 @@
     "alerted": true
   },
   "greenhouse:braze:8158102": {
-    "updated_at": "2026-09-11T13:17:47-04:00",
+    "updated_at": "2026-09-12T09:47:03-04:00",
     "title": "Sales Director, South Korea",
     "company": "braze",
     "ats": "greenhouse",
@@ -319944,7 +319944,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8766584002": {
-    "updated_at": "2026-08-31T16:11:06-04:00",
+    "updated_at": "2026-09-12T11:32:51-04:00",
     "title": "Strategic Core Account Executive",
     "company": "databricks",
     "ats": "greenhouse",
@@ -339032,7 +339032,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5363210008": {
-    "updated_at": "2026-09-11T19:35:02-04:00",
+    "updated_at": "2026-09-12T11:27:32-04:00",
     "title": "Senior Engineering Manager, Capacity Engineering",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -339310,5 +339310,21 @@
     "ats": "greenhouse",
     "source_slug": "elastic",
     "alerted": false
+  },
+  "greenhouse:okta:8132163": {
+    "updated_at": "2026-09-12T05:32:56-04:00",
+    "title": "Senior Data Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:waymo:8197721": {
+    "updated_at": "2026-09-12T09:24:37-04:00",
+    "title": "Mechanical Engineer, Product Development",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": true
   }
 }
