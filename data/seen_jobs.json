@@ -10048,7 +10048,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7350823": {
-    "updated_at": "2026-08-25T14:36:41-04:00",
+    "updated_at": "2026-09-12T01:47:40-04:00",
     "title": "Android Engineer, Money Experience",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -23296,7 +23296,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7794027": {
-    "updated_at": "2026-08-25T14:36:41-04:00",
+    "updated_at": "2026-09-12T01:46:52-04:00",
     "title": "iOS Engineer, Money Experience",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -200936,7 +200936,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8000178": {
-    "updated_at": "2026-09-11T10:29:22-04:00",
+    "updated_at": "2026-09-12T03:49:34-04:00",
     "title": "Principal Presales Engineer (German Speaking)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -254928,7 +254928,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8045978": {
-    "updated_at": "2026-09-08T11:42:27-04:00",
+    "updated_at": "2026-09-12T03:49:14-04:00",
     "title": "Senior Account Executive",
     "company": "twilio",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-11T00:02:34-04:00",
+    "updated_at": "2026-09-12T05:17:21-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -283096,7 +283096,7 @@
     "alerted": false
   },
   "greenhouse:toast:8110866": {
-    "updated_at": "2026-09-04T04:21:53-04:00",
+    "updated_at": "2026-09-12T04:14:15-04:00",
     "title": "Manager II, Software Engineering",
     "company": "toast",
     "ats": "greenhouse",
@@ -286040,7 +286040,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8692962002": {
-    "updated_at": "2026-09-02T00:54:33-04:00",
+    "updated_at": "2026-09-12T03:00:00-04:00",
     "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -295216,7 +295216,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8697991002": {
-    "updated_at": "2026-09-02T00:59:00-04:00",
+    "updated_at": "2026-09-12T03:00:00-04:00",
     "title": "Specialist Solutions Architect - AI/ML",
     "company": "databricks",
     "ats": "greenhouse",
@@ -303504,7 +303504,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8105437": {
-    "updated_at": "2026-09-04T11:45:32-04:00",
+    "updated_at": "2026-09-12T03:32:54-04:00",
     "title": "Software Engineer, Blockchain Platform Nodes",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -306928,7 +306928,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8739507002": {
-    "updated_at": "2026-09-02T00:52:45-04:00",
+    "updated_at": "2026-09-12T03:00:00-04:00",
     "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -318288,7 +318288,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7785025": {
-    "updated_at": "2026-09-11T10:30:50-04:00",
+    "updated_at": "2026-09-12T03:49:39-04:00",
     "title": "Strategic Account Executive",
     "company": "twilio",
     "ats": "greenhouse",
@@ -322584,7 +322584,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8761732002": {
-    "updated_at": "2026-09-02T01:06:34-04:00",
+    "updated_at": "2026-09-12T03:00:00-04:00",
     "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -328112,7 +328112,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8177722": {
-    "updated_at": "2026-09-08T11:42:30-04:00",
+    "updated_at": "2026-09-12T03:49:03-04:00",
     "title": "Account Executive 3",
     "company": "twilio",
     "ats": "greenhouse",
@@ -335592,7 +335592,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8188597": {
-    "updated_at": "2026-09-10T13:31:06-04:00",
+    "updated_at": "2026-09-12T03:46:34-04:00",
     "title": "Operations Analyst",
     "company": "fastly",
     "ats": "greenhouse",
@@ -337016,7 +337016,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8756140002": {
-    "updated_at": "2026-09-11T10:34:18-04:00",
+    "updated_at": "2026-09-12T03:29:41-04:00",
     "title": "Senior Payroll Analyst",
     "company": "databricks",
     "ats": "greenhouse",
@@ -337656,7 +337656,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8791488002": {
-    "updated_at": "2026-09-11T16:55:19-04:00",
+    "updated_at": "2026-09-12T04:12:13-04:00",
     "title": "Software Engineer - Self Service Intelligence, SCC Eng",
     "company": "lyft",
     "ats": "greenhouse",
@@ -339277,6 +339277,14 @@
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:elastic:8198517": {
+    "updated_at": "2026-09-12T00:41:25-04:00",
+    "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
     "alerted": false
   }
 }
