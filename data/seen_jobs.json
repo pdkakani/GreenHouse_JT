@@ -129344,7 +129344,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8414474002": {
-    "updated_at": "2026-09-07T22:47:08-04:00",
+    "updated_at": "2026-09-13T17:01:23-04:00",
     "title": "Senior Financial Analyst",
     "company": "databricks",
     "ats": "greenhouse",
@@ -223976,7 +223976,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8029097": {
-    "updated_at": "2026-09-09T12:14:46-04:00",
+    "updated_at": "2026-09-13T17:00:01-04:00",
     "title": "Customer Success Manager - French Speaker",
     "company": "samsara",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-13T13:33:15-04:00",
+    "updated_at": "2026-09-13T17:18:13-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -339430,5 +339430,21 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": false
+  },
+  "greenhouse:ripple:8196325": {
+    "updated_at": "2026-09-13T07:50:23-04:00",
+    "title": "Sales Director, Large Enterprise/FIs - LatAm",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:spacex:8805414002": {
+    "updated_at": "2026-09-13T17:32:10-04:00",
+    "title": "Millwright (Gas/Steam Turbines)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
