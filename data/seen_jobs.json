@@ -273680,7 +273680,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079702": {
-    "updated_at": "2026-09-09T12:14:46-04:00",
+    "updated_at": "2026-09-13T19:00:01-04:00",
     "title": "Supervisor, Sales and Contract Administration",
     "company": "samsara",
     "ats": "greenhouse",
@@ -339445,6 +339445,38 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:gitlab:8790705002": {
+    "updated_at": "2026-09-13T13:51:24-04:00",
+    "title": "Senior Executive Business Partner, CFO",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:flexport:8160593": {
+    "updated_at": "2026-09-13T10:59:12-04:00",
+    "title": "Global Aid Account Manager",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8199269": {
+    "updated_at": "2026-09-13T18:54:53-04:00",
+    "title": "Print Process Intern (Winter/Spring 2027)",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": true
+  },
+  "greenhouse:formlabs:8199092": {
+    "updated_at": "2026-09-13T18:54:50-04:00",
+    "title": "Materials Intern (Winter/Spring 2027)",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
     "alerted": true
   }
 }
