@@ -26744,7 +26744,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4664429006": {
-    "updated_at": "2026-09-09T11:08:39-04:00",
+    "updated_at": "2026-09-13T14:00:51-04:00",
     "title": "Sr. Engineer, Storage",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -271984,7 +271984,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604587002": {
-    "updated_at": "2026-09-12T23:01:19-04:00",
+    "updated_at": "2026-09-13T14:59:51-04:00",
     "title": "Payroll Tax Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-13T13:17:33-04:00",
+    "updated_at": "2026-09-13T13:33:15-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -292112,7 +292112,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:8128629": {
-    "updated_at": "2026-09-10T10:37:19-04:00",
+    "updated_at": "2026-09-13T14:45:00-04:00",
     "title": "Business Development Desk Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -339422,5 +339422,13 @@
     "ats": "greenhouse",
     "source_slug": "elastic",
     "alerted": true
+  },
+  "greenhouse:spacex:8805302002": {
+    "updated_at": "2026-09-12T23:34:00-04:00",
+    "title": "Soft Goods Technician, Sewer (Starfall)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
   }
 }
