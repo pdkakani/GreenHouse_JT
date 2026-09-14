@@ -55160,7 +55160,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7841782002": {
-    "updated_at": "2026-09-04T00:16:04-04:00",
+    "updated_at": "2026-09-14T01:07:29-04:00",
     "title": "Senior Software Engineer - Search",
     "company": "databricks",
     "ats": "greenhouse",
@@ -55168,7 +55168,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7619811002": {
-    "updated_at": "2026-09-13T00:47:35-04:00",
+    "updated_at": "2026-09-14T01:07:14-04:00",
     "title": "Senior Software Engineer - Observability",
     "company": "databricks",
     "ats": "greenhouse",
@@ -55176,7 +55176,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7619810002": {
-    "updated_at": "2026-09-09T21:42:42-04:00",
+    "updated_at": "2026-09-14T01:07:16-04:00",
     "title": "Senior Software Engineer (Infra)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -89568,7 +89568,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8294304002": {
-    "updated_at": "2026-09-13T00:46:44-04:00",
+    "updated_at": "2026-09-14T01:07:38-04:00",
     "title": "Senior Software Engineer (App-Framework)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90088,7 +90088,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7934782002": {
-    "updated_at": "2026-09-13T00:46:41-04:00",
+    "updated_at": "2026-09-14T01:06:49-04:00",
     "title": "Senior Software Engineer - Ingestion",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90336,7 +90336,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7647369002": {
-    "updated_at": "2026-09-13T00:45:56-04:00",
+    "updated_at": "2026-09-14T01:07:41-04:00",
     "title": "Senior Software Engineer (Data Platform)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90648,7 +90648,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8357216002": {
-    "updated_at": "2026-09-13T00:46:06-04:00",
+    "updated_at": "2026-09-14T01:07:49-04:00",
     "title": "Engineering Manager (Ingestion)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -131656,7 +131656,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7006090002": {
-    "updated_at": "2026-09-13T00:46:01-04:00",
+    "updated_at": "2026-09-14T01:07:47-04:00",
     "title": "Engineering Manager - Core Experiences",
     "company": "databricks",
     "ats": "greenhouse",
@@ -144064,8 +144064,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8533131002": {
-    "updated_at": "2026-09-01T19:48:33-04:00",
-    "title": "Barista - Temporary",
+    "updated_at": "2026-09-14T00:12:21-04:00",
+    "title": "Barista - Temporary (Bastrop)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -168984,8 +168984,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8558191002": {
-    "updated_at": "2026-09-01T19:48:33-04:00",
-    "title": "Supervisor, Hospitality",
+    "updated_at": "2026-09-13T23:52:40-04:00",
+    "title": "Supervisor, Hospitality (Starbase)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -187536,8 +187536,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8578144002": {
-    "updated_at": "2026-09-02T10:32:55-04:00",
-    "title": "Sr. Forward Deployed Engineer",
+    "updated_at": "2026-09-14T01:23:42-04:00",
+    "title": "Technical Program Manager",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -190264,8 +190264,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8579745002": {
-    "updated_at": "2026-09-01T19:48:33-04:00",
-    "title": "Barista - Temporary",
+    "updated_at": "2026-09-14T00:10:35-04:00",
+    "title": "Barista - Temporary (Starbase)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -194848,7 +194848,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8583146002": {
-    "updated_at": "2026-09-04T12:30:27-04:00",
+    "updated_at": "2026-09-14T00:54:31-04:00",
     "title": "Senior Manager, Global Premier Support",
     "company": "databricks",
     "ats": "greenhouse",
@@ -199152,7 +199152,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7770073003": {
-    "updated_at": "2026-09-10T03:45:06-04:00",
+    "updated_at": "2026-09-14T02:31:50-04:00",
     "title": "Lead/Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -199160,7 +199160,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7770069003": {
-    "updated_at": "2026-09-10T03:45:04-04:00",
+    "updated_at": "2026-09-14T02:31:48-04:00",
     "title": "Lead/Principal Management & Technology Consultant  - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -199168,7 +199168,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7765927003": {
-    "updated_at": "2026-09-10T03:45:02-04:00",
+    "updated_at": "2026-09-14T02:31:46-04:00",
     "title": "Lead/Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -203744,7 +203744,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773834003": {
-    "updated_at": "2026-09-10T03:45:07-04:00",
+    "updated_at": "2026-09-14T02:31:52-04:00",
     "title": "Lead/Principal Value Engineer - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -212576,7 +212576,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8602402002": {
-    "updated_at": "2026-09-13T00:46:18-04:00",
+    "updated_at": "2026-09-14T01:06:55-04:00",
     "title": "Senior Software Engineer - Multi Cloud Efficiency",
     "company": "databricks",
     "ats": "greenhouse",
@@ -227008,7 +227008,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604591002": {
-    "updated_at": "2026-09-02T00:41:02-04:00",
+    "updated_at": "2026-09-14T01:06:41-04:00",
     "title": "Senior Payroll Accountant",
     "company": "databricks",
     "ats": "greenhouse",
@@ -227016,7 +227016,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604589002": {
-    "updated_at": "2026-09-02T00:40:59-04:00",
+    "updated_at": "2026-09-14T00:54:14-04:00",
     "title": "Manager, Payroll Accounting",
     "company": "databricks",
     "ats": "greenhouse",
@@ -247704,8 +247704,8 @@
     "alerted": true
   },
   "greenhouse:stripe:8029128": {
-    "updated_at": "2026-09-10T13:11:58-04:00",
-    "title": "Enterprise Account Executive, Revenue Suite",
+    "updated_at": "2026-09-14T01:07:08-04:00",
+    "title": "Enterprise Account Executive, Revenue Suite (Grower)",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -250816,7 +250816,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8069671": {
-    "updated_at": "2026-08-07T13:20:12-04:00",
+    "updated_at": "2026-09-14T03:05:14-04:00",
     "title": "Manager, Corporate Programs",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -254568,7 +254568,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7796115003": {
-    "updated_at": "2026-09-08T05:24:54-04:00",
+    "updated_at": "2026-09-14T01:40:05-04:00",
     "title": "Product Manager",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -269640,8 +269640,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8654606002": {
-    "updated_at": "2026-09-01T19:48:33-04:00",
-    "title": "Barista - Temporary",
+    "updated_at": "2026-09-14T00:11:27-04:00",
+    "title": "Barista - Temporary (Cape Canaveral)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-13T17:18:13-04:00",
+    "updated_at": "2026-09-13T23:18:13-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -273952,7 +273952,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8059209": {
-    "updated_at": "2026-08-07T03:06:20-04:00",
+    "updated_at": "2026-09-14T02:45:23-04:00",
     "title": "Optimisation Data Analyst",
     "company": "adyen",
     "ats": "greenhouse",
@@ -280960,7 +280960,7 @@
     "alerted": false
   },
   "greenhouse:okta:8110717": {
-    "updated_at": "2026-09-11T11:24:18-04:00",
+    "updated_at": "2026-09-13T22:43:46-04:00",
     "title": "Commercial Renewals Manager",
     "company": "okta",
     "ats": "greenhouse",
@@ -284768,7 +284768,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8679980002": {
-    "updated_at": "2026-09-10T03:32:15-04:00",
+    "updated_at": "2026-09-14T01:06:37-04:00",
     "title": "Senior SAP Developer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -286696,7 +286696,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8114069": {
-    "updated_at": "2026-09-04T10:59:17-04:00",
+    "updated_at": "2026-09-13T22:48:17-04:00",
     "title": "VoidZero Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -291960,7 +291960,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4703221006": {
-    "updated_at": "2026-09-11T00:38:37-04:00",
+    "updated_at": "2026-09-13T22:58:14-04:00",
     "title": "Technical Support Engineer II",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -302872,7 +302872,7 @@
     "alerted": false
   },
   "greenhouse:workato:8716961002": {
-    "updated_at": "2026-09-01T15:56:10-04:00",
+    "updated_at": "2026-09-14T02:01:50-04:00",
     "title": "Intern, Communications",
     "company": "workato",
     "ats": "greenhouse",
@@ -304968,7 +304968,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8679982002": {
-    "updated_at": "2026-09-13T00:51:15-04:00",
+    "updated_at": "2026-09-14T01:06:45-04:00",
     "title": "Sr Full Stack Developer (AI Agents)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -309616,8 +309616,8 @@
     "alerted": false
   },
   "greenhouse:mongodb:8153054": {
-    "updated_at": "2026-09-11T15:37:10-04:00",
-    "title": "Customer Success Manager",
+    "updated_at": "2026-09-14T01:25:52-04:00",
+    "title": "Customer Success Manager (Scaled)",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -311080,7 +311080,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8688851002": {
-    "updated_at": "2026-09-10T11:30:14-04:00",
+    "updated_at": "2026-09-14T01:06:33-04:00",
     "title": "SAP Functional SME",
     "company": "databricks",
     "ats": "greenhouse",
@@ -314464,16 +314464,16 @@
     "alerted": false
   },
   "greenhouse:spacex:8755737002": {
-    "updated_at": "2026-09-01T19:48:33-04:00",
-    "title": "Sr. Manager, Hospitality",
+    "updated_at": "2026-09-13T23:59:07-04:00",
+    "title": "Sr. Manager, Hospitality (Bastrop)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": false
   },
   "greenhouse:spacex:8748895002": {
-    "updated_at": "2026-09-01T19:48:33-04:00",
-    "title": "Sr. Manager, Hospitality",
+    "updated_at": "2026-09-13T23:58:58-04:00",
+    "title": "Sr. Manager, Hospitality (Starbase)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -317992,7 +317992,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8688875002": {
-    "updated_at": "2026-09-02T00:58:00-04:00",
+    "updated_at": "2026-09-14T01:06:28-04:00",
     "title": "SAP Consolidations Manager, International Accounting",
     "company": "databricks",
     "ats": "greenhouse",
@@ -318648,7 +318648,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8756138002": {
-    "updated_at": "2026-09-02T01:06:12-04:00",
+    "updated_at": "2026-09-14T00:53:43-04:00",
     "title": "Credit and Collections Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -318704,7 +318704,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8717004002": {
-    "updated_at": "2026-09-02T00:59:46-04:00",
+    "updated_at": "2026-09-14T00:54:02-04:00",
     "title": "International Accounts Payable Manager",
     "company": "databricks",
     "ats": "greenhouse",
@@ -329752,7 +329752,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8163361": {
-    "updated_at": "2026-09-10T10:53:42-04:00",
+    "updated_at": "2026-09-13T22:49:22-04:00",
     "title": "Executive Assistant II",
     "company": "datadog",
     "ats": "greenhouse",
@@ -332272,7 +332272,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8173899": {
-    "updated_at": "2026-09-09T14:04:20-04:00",
+    "updated_at": "2026-09-14T01:40:02-04:00",
     "title": "Product Manager, Browser Extension",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -335464,7 +335464,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7815061003": {
-    "updated_at": "2026-09-11T03:57:50-04:00",
+    "updated_at": "2026-09-14T02:53:11-04:00",
     "title": "Lead Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -337016,7 +337016,7 @@
     "alerted": true
   },
   "greenhouse:databricks:8756140002": {
-    "updated_at": "2026-09-12T03:29:41-04:00",
+    "updated_at": "2026-09-14T00:55:14-04:00",
     "title": "Senior Payroll Analyst",
     "company": "databricks",
     "ats": "greenhouse",
@@ -337072,7 +337072,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8174138": {
-    "updated_at": "2026-09-11T03:57:14-04:00",
+    "updated_at": "2026-09-14T00:41:56-04:00",
     "title": "SDC Business Recruiter (Fixed Term Contract)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -338240,7 +338240,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8173954": {
-    "updated_at": "2026-09-11T15:30:11-04:00",
+    "updated_at": "2026-09-14T01:38:39-04:00",
     "title": "Senior Product Manager, Email Security",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -339494,5 +339494,61 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:asana:8189734": {
+    "updated_at": "2026-09-14T02:18:37-04:00",
+    "title": "Renewals Manager",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:braze:8045088": {
+    "updated_at": "2026-09-14T01:50:42-04:00",
+    "title": "Solutions Consultant",
+    "company": "braze",
+    "ats": "greenhouse",
+    "source_slug": "braze",
+    "alerted": false
+  },
+  "greenhouse:datadog:8164122": {
+    "updated_at": "2026-09-13T23:57:43-04:00",
+    "title": "Mid-Market Sales Engineer",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:spacex:8802237002": {
+    "updated_at": "2026-09-13T23:33:29-04:00",
+    "title": "Food Services Specialist - Temporary",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:ripple:8198725": {
+    "updated_at": "2026-09-13T22:01:56-04:00",
+    "title": "Workplace Operations Specialist",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:databricks:8569570002": {
+    "updated_at": "2026-09-13T21:34:39-04:00",
+    "title": "Lakebase Specialist Sales",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:applovin:4712962006": {
+    "updated_at": "2026-09-13T20:16:52-04:00",
+    "title": "Creative Video Producer",
+    "company": "applovin",
+    "ats": "greenhouse",
+    "source_slug": "applovin",
+    "alerted": false
   }
 }
