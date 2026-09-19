@@ -7392,7 +7392,7 @@
     "alerted": true
   },
   "greenhouse:airtable:8397665002": {
-    "updated_at": "2026-08-13T17:45:55-04:00",
+    "updated_at": "2026-09-19T01:02:37-04:00",
     "title": "Engineering Manager, Enterprise Product",
     "company": "airtable",
     "ats": "greenhouse",
@@ -7472,7 +7472,7 @@
     "alerted": true
   },
   "greenhouse:airtable:8124953002": {
-    "updated_at": "2026-07-22T12:29:46-04:00",
+    "updated_at": "2026-09-19T01:02:24-04:00",
     "title": "Software Engineer, Data",
     "company": "airtable",
     "ats": "greenhouse",
@@ -7480,7 +7480,7 @@
     "alerted": true
   },
   "greenhouse:airtable:8400373002": {
-    "updated_at": "2026-08-13T14:37:35-04:00",
+    "updated_at": "2026-09-19T01:02:37-04:00",
     "title": "Software Engineer, Infrastructure (4-8 YOE)",
     "company": "airtable",
     "ats": "greenhouse",
@@ -18896,7 +18896,7 @@
     "alerted": true
   },
   "greenhouse:airbnb:7463421": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T22:42:34-04:00",
     "title": "Staff Software Engineer, Assistance Engineering",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -18952,7 +18952,7 @@
     "alerted": true
   },
   "greenhouse:airbnb:7421419": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T22:41:54-04:00",
     "title": "Staff Software Engineer, Communication & Connectivity",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -25336,7 +25336,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7747640": {
-    "updated_at": "2026-09-10T13:11:58-04:00",
+    "updated_at": "2026-09-18T20:52:49-04:00",
     "title": "Forward Deployed AI Accelerator, Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -32832,8 +32832,8 @@
     "alerted": false
   },
   "greenhouse:waymo:7509005": {
-    "updated_at": "2026-09-17T20:06:22-04:00",
-    "title": "Staff ML Accelerator Architect",
+    "updated_at": "2026-09-18T21:36:07-04:00",
+    "title": "Senior ML Accelerator Architect",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -51904,7 +51904,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8498915002": {
-    "updated_at": "2026-08-01T04:17:19-04:00",
+    "updated_at": "2026-09-19T01:02:43-04:00",
     "title": "Senior Solutions Architect",
     "company": "airtable",
     "ats": "greenhouse",
@@ -149016,7 +149016,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8490611002": {
-    "updated_at": "2026-06-24T19:42:45-04:00",
+    "updated_at": "2026-09-19T01:02:43-04:00",
     "title": "Global Payroll Manager",
     "company": "airtable",
     "ats": "greenhouse",
@@ -192896,7 +192896,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8582568002": {
-    "updated_at": "2026-08-01T04:17:01-04:00",
+    "updated_at": "2026-09-19T01:02:45-04:00",
     "title": "Senior Delivery Consultant",
     "company": "airtable",
     "ats": "greenhouse",
@@ -193720,7 +193720,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7962155": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-18T23:47:40-04:00",
     "title": "Senior Operations Manager",
     "company": "flexport",
     "ats": "greenhouse",
@@ -198176,7 +198176,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8586865002": {
-    "updated_at": "2026-06-12T10:36:34-04:00",
+    "updated_at": "2026-09-19T01:01:58-04:00",
     "title": "Program Manager, Professional Services - West",
     "company": "airtable",
     "ats": "greenhouse",
@@ -198184,7 +198184,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8586863002": {
-    "updated_at": "2026-06-12T10:35:49-04:00",
+    "updated_at": "2026-09-19T01:01:58-04:00",
     "title": "Program Manager, Professional Services - East",
     "company": "airtable",
     "ats": "greenhouse",
@@ -203952,7 +203952,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8209823002": {
-    "updated_at": "2026-06-29T13:49:13-04:00",
+    "updated_at": "2026-09-19T01:01:49-04:00",
     "title": "Senior Mid Market Account Executive, AI Native",
     "company": "airtable",
     "ats": "greenhouse",
@@ -208232,7 +208232,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8597941002": {
-    "updated_at": "2026-08-01T04:17:19-04:00",
+    "updated_at": "2026-09-19T01:02:46-04:00",
     "title": "Senior Solutions Architect- West Coast",
     "company": "airtable",
     "ats": "greenhouse",
@@ -208312,7 +208312,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8597950002": {
-    "updated_at": "2026-08-01T04:17:01-04:00",
+    "updated_at": "2026-09-19T01:02:46-04:00",
     "title": "Senior Delivery Consultant- West Coast",
     "company": "airtable",
     "ats": "greenhouse",
@@ -213016,7 +213016,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8400776002": {
-    "updated_at": "2026-06-25T16:09:33-04:00",
+    "updated_at": "2026-09-19T01:02:38-04:00",
     "title": "Product Designer (8+ YOE)",
     "company": "airtable",
     "ats": "greenhouse",
@@ -219968,7 +219968,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8029497": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T22:38:43-04:00",
     "title": "Staff Software Engineer, Event logging",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -237552,7 +237552,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8626638002": {
-    "updated_at": "2026-08-01T04:17:12-04:00",
+    "updated_at": "2026-09-19T01:02:01-04:00",
     "title": "Manager, Business Development Representatives",
     "company": "airtable",
     "ats": "greenhouse",
@@ -245288,8 +245288,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8633932002": {
-    "updated_at": "2026-09-01T19:48:33-04:00",
-    "title": "Lead Facilities Technician",
+    "updated_at": "2026-09-18T21:27:23-04:00",
+    "title": "Lead Facilities Technician (College Station)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -249544,7 +249544,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8070801": {
-    "updated_at": "2026-08-28T08:10:31-04:00",
+    "updated_at": "2026-09-18T23:36:59-04:00",
     "title": "Senior Operations Manager",
     "company": "flexport",
     "ats": "greenhouse",
@@ -255600,7 +255600,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8077683": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T22:01:10-04:00",
     "title": "Senior Manager, Technical Program Management (Search & AI Foundations)",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -266592,7 +266592,7 @@
     "alerted": false
   },
   "greenhouse:airtable:8654173002": {
-    "updated_at": "2026-08-01T04:17:01-04:00",
+    "updated_at": "2026-09-19T01:02:48-04:00",
     "title": "Delivery Consultant",
     "company": "airtable",
     "ats": "greenhouse",
@@ -270760,7 +270760,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8632188002": {
-    "updated_at": "2026-09-08T13:47:43-04:00",
+    "updated_at": "2026-09-18T21:23:16-04:00",
     "title": "Sr. Forward Deployed Engineer - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-18T18:03:21-04:00",
+    "updated_at": "2026-09-19T01:02:23-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -293168,7 +293168,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8703611002": {
-    "updated_at": "2026-09-14T12:34:13-04:00",
+    "updated_at": "2026-09-18T21:44:10-04:00",
     "title": "Spaceport Operations Specialist (Hotel Operations)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -293176,7 +293176,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8703609002": {
-    "updated_at": "2026-09-14T12:33:05-04:00",
+    "updated_at": "2026-09-18T21:51:13-04:00",
     "title": "Spaceport Operations Specialist (Transportation)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -294896,7 +294896,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8130817": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T22:03:46-04:00",
     "title": "Staff Software Engineer, Passport & Commerce (Backend)",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -294952,7 +294952,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8657468002": {
-    "updated_at": "2026-09-02T00:52:36-04:00",
+    "updated_at": "2026-09-18T21:28:26-04:00",
     "title": "Sr. Forward Deployed Engineer - National Security",
     "company": "databricks",
     "ats": "greenhouse",
@@ -297864,7 +297864,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8131811": {
-    "updated_at": "2026-08-18T02:25:13-04:00",
+    "updated_at": "2026-09-18T21:09:24-04:00",
     "title": "Manager, Technical Services",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -298320,7 +298320,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8719818002": {
-    "updated_at": "2026-09-16T11:55:52-04:00",
+    "updated_at": "2026-09-18T21:56:55-04:00",
     "title": "Civil Project Manager, Starbase Development",
     "company": "spacex",
     "ats": "greenhouse",
@@ -298968,7 +298968,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8130787": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T22:03:10-04:00",
     "title": "Staff Software Engineer, Payments Compliance",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -298984,7 +298984,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8657488002": {
-    "updated_at": "2026-09-02T00:53:34-04:00",
+    "updated_at": "2026-09-18T21:24:06-04:00",
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -327208,7 +327208,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8162344": {
-    "updated_at": "2026-09-16T14:10:39-04:00",
+    "updated_at": "2026-09-18T21:15:00-04:00",
     "title": "Events Marketing Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -331360,7 +331360,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8185136": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T21:58:50-04:00",
     "title": "Policy Manager, Quality",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -340848,7 +340848,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8202846": {
-    "updated_at": "2026-09-18T04:55:55-04:00",
+    "updated_at": "2026-09-18T22:00:01-04:00",
     "title": "Senior Technical Program Manager, Payments",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -350856,8 +350856,8 @@
     "alerted": false
   },
   "greenhouse:faire:8820890002": {
-    "updated_at": "2026-09-18T16:35:23-04:00",
-    "title": "Fulfillment Brand Operations Specialist",
+    "updated_at": "2026-09-18T21:23:59-04:00",
+    "title": "Fulfillment Operations Specialist",
     "company": "faire",
     "ats": "greenhouse",
     "source_slug": "faire",
