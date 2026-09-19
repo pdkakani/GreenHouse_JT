@@ -304424,7 +304424,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7618028": {
-    "updated_at": "2026-09-16T14:10:39-04:00",
+    "updated_at": "2026-09-19T17:15:00-04:00",
     "title": "Mid-Market Account Executive - Mexico",
     "company": "samsara",
     "ats": "greenhouse",
@@ -328728,7 +328728,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8154440": {
-    "updated_at": "2026-09-16T14:10:39-04:00",
+    "updated_at": "2026-09-19T18:00:00-04:00",
     "title": "IT Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -351109,6 +351109,54 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:spacex:8821026002": {
+    "updated_at": "2026-09-19T18:24:19-04:00",
+    "title": "Sr. Construction Safety Engineer (Terafab)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8825676002": {
+    "updated_at": "2026-09-19T18:02:00-04:00",
+    "title": "Food Service Attendant",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8825675002": {
+    "updated_at": "2026-09-19T17:58:17-04:00",
+    "title": "Food Services Specialist - Catering",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8815100002": {
+    "updated_at": "2026-09-19T14:31:31-04:00",
+    "title": "Manager, Facilities",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8822756002": {
+    "updated_at": "2026-09-19T14:31:14-04:00",
+    "title": "Sr. Spaceport Designer, Interior Design",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8818987002": {
+    "updated_at": "2026-09-19T18:25:04-04:00",
+    "title": "Sr. Environmental Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
