@@ -91832,7 +91832,7 @@
     "alerted": false
   },
   "greenhouse:faire:8445628002": {
-    "updated_at": "2026-08-07T06:17:49-04:00",
+    "updated_at": "2026-09-19T13:16:25-04:00",
     "title": "Staff Product Designer",
     "company": "faire",
     "ats": "greenhouse",
@@ -219400,7 +219400,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7943169": {
-    "updated_at": "2026-09-19T12:30:00-04:00",
+    "updated_at": "2026-09-19T12:38:22-04:00",
     "title": "Staff Software Engineer, Pricing and Packaging Engineering",
     "company": "gusto",
     "ats": "greenhouse",
@@ -232568,7 +232568,7 @@
     "alerted": false
   },
   "greenhouse:gusto:7918214": {
-    "updated_at": "2026-09-19T12:30:00-04:00",
+    "updated_at": "2026-09-19T12:43:50-04:00",
     "title": "Staff Software Engineer, Tax Experiences",
     "company": "gusto",
     "ats": "greenhouse",
@@ -275776,7 +275776,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8077301": {
-    "updated_at": "2026-09-19T12:30:00-04:00",
+    "updated_at": "2026-09-19T12:40:09-04:00",
     "title": "Staff Software Engineer, Time and Scheduling",
     "company": "gusto",
     "ats": "greenhouse",
@@ -286376,7 +286376,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8114738": {
-    "updated_at": "2026-09-10T13:11:58-04:00",
+    "updated_at": "2026-09-19T13:46:15-04:00",
     "title": "Account Executive, Product Sales (Data)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -287632,7 +287632,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8106775": {
-    "updated_at": "2026-09-04T14:12:13-04:00",
+    "updated_at": "2026-09-19T13:33:34-04:00",
     "title": "Sales Strategy & Operations Business Partner",
     "company": "stripe",
     "ats": "greenhouse",
@@ -303984,7 +303984,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8047200": {
-    "updated_at": "2026-09-18T19:22:13-04:00",
+    "updated_at": "2026-09-19T14:26:52-04:00",
     "title": "Partner Audit Remediation Program Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -310800,7 +310800,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4727179005": {
-    "updated_at": "2026-09-09T15:31:15-04:00",
+    "updated_at": "2026-09-19T12:43:00-04:00",
     "title": "Manager, Loan and Debt Accounting (R14205)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -350384,8 +350384,8 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4714217006": {
-    "updated_at": "2026-09-18T15:11:35-04:00",
-    "title": "Total Rewards Lead",
+    "updated_at": "2026-09-19T14:25:11-04:00",
+    "title": "Total Rewards Lead (1 Year Contract)",
     "company": "fireblocks",
     "ats": "greenhouse",
     "source_slug": "fireblocks",
@@ -351066,6 +351066,38 @@
   "greenhouse:spacex:8825367002": {
     "updated_at": "2026-09-19T12:02:02-04:00",
     "title": "Electrical Engineer, Battery (Falcon & Dragon)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:toast:8215834": {
+    "updated_at": "2026-09-19T13:56:40-04:00",
+    "title": "Solutions Engineer",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5413576008": {
+    "updated_at": "2026-09-19T10:48:48-04:00",
+    "title": "Product Manager, Safeguards (Account Integrity & Abuse)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:adyen:8200460": {
+    "updated_at": "2026-09-19T05:58:35-04:00",
+    "title": "Finance Support Engineer",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:spacex:8818417002": {
+    "updated_at": "2026-09-19T14:47:07-04:00",
+    "title": "Elevator Mechanic",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
