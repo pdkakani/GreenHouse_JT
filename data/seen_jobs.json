@@ -298312,7 +298312,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8719821002": {
-    "updated_at": "2026-09-16T11:51:30-04:00",
+    "updated_at": "2026-09-19T17:08:38-04:00",
     "title": "BIM Specialist (Electrical Systems Modeling)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -319744,8 +319744,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8763458002": {
-    "updated_at": "2026-09-03T20:09:16-04:00",
-    "title": "Facilities Technician - Temporary",
+    "updated_at": "2026-09-19T15:13:34-04:00",
+    "title": "Facilities Technician - Temporary (College Station)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -329504,8 +329504,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8783400002": {
-    "updated_at": "2026-09-16T11:44:36-04:00",
-    "title": "Barista - Temporary",
+    "updated_at": "2026-09-19T16:15:06-04:00",
+    "title": "Barista - Temporary (College Station)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -351101,6 +351101,14 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5427969008": {
+    "updated_at": "2026-09-19T17:12:25-04:00",
+    "title": "Compute & Infrastructure Counsel, Real Estate",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }
