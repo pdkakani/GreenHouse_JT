@@ -8168,7 +8168,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7365914": {
-    "updated_at": "2026-09-10T13:11:58-04:00",
+    "updated_at": "2026-09-22T22:29:15-04:00",
     "title": "Specialist Solutions Architect, Radar (Fraud/Risk)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -19344,7 +19344,7 @@
     "alerted": true
   },
   "greenhouse:lyft:8445493002": {
-    "updated_at": "2026-09-04T14:04:34-04:00",
+    "updated_at": "2026-09-22T21:42:16-04:00",
     "title": "Senior Software Engineer, Lyft Business",
     "company": "lyft",
     "ats": "greenhouse",
@@ -69128,7 +69128,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8479029002": {
-    "updated_at": "2026-09-02T00:22:55-04:00",
+    "updated_at": "2026-09-23T00:33:53-04:00",
     "title": "Strategic Customer Advisor, APJ",
     "company": "databricks",
     "ats": "greenhouse",
@@ -89032,7 +89032,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8384388002": {
-    "updated_at": "2026-07-24T19:28:54-04:00",
+    "updated_at": "2026-09-23T01:04:16-04:00",
     "title": "Sr. Compensation Manager, R&D",
     "company": "databricks",
     "ats": "greenhouse",
@@ -128920,8 +128920,8 @@
     "alerted": false
   },
   "greenhouse:adyen:7683100": {
-    "updated_at": "2026-06-30T04:31:54-04:00",
-    "title": "Senior Software Engineer - Financial Products",
+    "updated_at": "2026-09-22T22:54:40-04:00",
+    "title": "Senior Software Engineer - Lending",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -178928,7 +178928,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7702714": {
-    "updated_at": "2026-08-27T16:21:06-04:00",
+    "updated_at": "2026-09-23T00:20:07-04:00",
     "title": "Staff Software Engineer, Infrastructure",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -213792,8 +213792,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8598531002": {
-    "updated_at": "2026-09-21T13:22:12-04:00",
-    "title": "Field Technical Program Manager",
+    "updated_at": "2026-09-22T22:13:09-04:00",
+    "title": "Field Technical Program/Project Manager",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -223096,7 +223096,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8030594": {
-    "updated_at": "2026-08-15T00:41:18-04:00",
+    "updated_at": "2026-09-22T21:47:41-04:00",
     "title": "Counsel, Commercial",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -265360,7 +265360,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8630011002": {
-    "updated_at": "2026-09-21T13:22:12-04:00",
+    "updated_at": "2026-09-22T22:21:05-04:00",
     "title": "Deployment Strategist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -269920,7 +269920,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8637736002": {
-    "updated_at": "2026-09-21T13:22:12-04:00",
+    "updated_at": "2026-09-22T22:22:27-04:00",
     "title": "Deployment Strategist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -272336,7 +272336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-22T20:47:33-04:00",
+    "updated_at": "2026-09-23T02:03:06-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -279312,7 +279312,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8047684": {
-    "updated_at": "2026-08-11T04:17:31-04:00",
+    "updated_at": "2026-09-22T23:17:38-04:00",
     "title": "Senior Regulatory Counsel",
     "company": "adyen",
     "ats": "greenhouse",
@@ -329720,7 +329720,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8784892002": {
-    "updated_at": "2026-09-09T12:18:10-04:00",
+    "updated_at": "2026-09-22T21:39:40-04:00",
     "title": "Merchandising Associate (Starbase)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -334688,8 +334688,8 @@
     "alerted": false
   },
   "greenhouse:carta:7990404003": {
-    "updated_at": "2026-09-09T19:27:47-04:00",
-    "title": "Workday Systems Payroll- HCM Manager",
+    "updated_at": "2026-09-23T00:52:02-04:00",
+    "title": "People Systems Manager (Payroll/HCM Manager)",
     "company": "carta",
     "ats": "greenhouse",
     "source_slug": "carta",
@@ -355557,6 +355557,174 @@
     "company": "pagerduty",
     "ats": "greenhouse",
     "source_slug": "pagerduty",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5429202008": {
+    "updated_at": "2026-09-23T01:29:14-04:00",
+    "title": "[DH] Engineering Manager, AI Observability",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8184637": {
+    "updated_at": "2026-09-23T01:08:06-04:00",
+    "title": "Cloud Operations Engineer",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:ripple:8224772": {
+    "updated_at": "2026-09-23T00:05:15-04:00",
+    "title": "Program Manager",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:8003007003": {
+    "updated_at": "2026-09-22T23:59:55-04:00",
+    "title": "Senior Professional Services Engineer",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:databricks:8826668002": {
+    "updated_at": "2026-09-22T23:58:51-04:00",
+    "title": "Strategic Core Account Executive - Conglomerates",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:stripe:8186445": {
+    "updated_at": "2026-09-22T23:28:48-04:00",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:adyen:8222552": {
+    "updated_at": "2026-09-22T23:03:46-04:00",
+    "title": "Senior Regulatory Counsel",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5431285008": {
+    "updated_at": "2026-09-22T22:55:09-04:00",
+    "title": "Program Manager, Safeguards Workforce Operations",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:verkada:5246191007": {
+    "updated_at": "2026-09-22T22:44:44-04:00",
+    "title": "Recruiting Coordinator, HQ",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:datadog:8210323": {
+    "updated_at": "2026-09-22T22:29:53-04:00",
+    "title": "Regional Director - Enterprise Sales",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:datadog:8210153": {
+    "updated_at": "2026-09-22T22:29:51-04:00",
+    "title": "Regional Director - Enterprise Sales",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:spacex:8825643002": {
+    "updated_at": "2026-09-22T22:19:10-04:00",
+    "title": "Electrician (College Station)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8828069002": {
+    "updated_at": "2026-09-22T22:14:52-04:00",
+    "title": "Spaceport Operations Technician (Experiences)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8827691002": {
+    "updated_at": "2026-09-22T22:13:18-04:00",
+    "title": "Spaceport Experience Coordinator",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8827680002": {
+    "updated_at": "2026-09-22T22:12:16-04:00",
+    "title": "Food Services Specialist - Temporary (McGregor)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8788152002": {
+    "updated_at": "2026-09-22T21:59:32-04:00",
+    "title": "Revenue Accounting Manager",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:datadog:8222279": {
+    "updated_at": "2026-09-22T21:52:03-04:00",
+    "title": "Customer Success Associate (Commercial Accounts)",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:databricks:8802705002": {
+    "updated_at": "2026-09-22T21:22:18-04:00",
+    "title": "Program Manager, Public Sector (Commercial Legal)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:stripe:8189798": {
+    "updated_at": "2026-09-22T21:16:29-04:00",
+    "title": "Account Executive Product - Link",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5017202008": {
+    "updated_at": "2026-09-23T02:18:24-04:00",
+    "title": "Software Engineer, Labs",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5432558008": {
+    "updated_at": "2026-09-23T02:17:20-04:00",
+    "title": "Staff Software Engineer: Compute",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }
