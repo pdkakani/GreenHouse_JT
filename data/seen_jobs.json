@@ -226312,7 +226312,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7951885": {
-    "updated_at": "2026-09-24T08:55:55-04:00",
+    "updated_at": "2026-09-26T15:00:01-04:00",
     "title": "Sr. Knowledge Developer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -336368,8 +336368,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8184947": {
-    "updated_at": "2026-09-11T12:19:12-04:00",
-    "title": "Senior Solutions Architect, MSP",
+    "updated_at": "2026-09-26T16:47:52-04:00",
+    "title": "Senior Solutions Architect, Managed Service Providers",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -361997,6 +361997,54 @@
     "company": "expel",
     "ats": "greenhouse",
     "source_slug": "expel",
+    "alerted": true
+  },
+  "greenhouse:spacex:8848604002": {
+    "updated_at": "2026-09-26T15:19:47-04:00",
+    "title": "Full Stack Software Engineer, Internal Applications",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:datadog:8113654": {
+    "updated_at": "2026-09-26T11:08:36-04:00",
+    "title": "Senior Product Marketing Manager",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8799044002": {
+    "updated_at": "2026-09-26T06:14:32-04:00",
+    "title": "Engineering Manager",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8848613002": {
+    "updated_at": "2026-09-26T15:40:48-04:00",
+    "title": "Software Engineer, Manufacturing Infrastructure",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8848609002": {
+    "updated_at": "2026-09-26T15:24:10-04:00",
+    "title": "Full Stack Software Engineer, Manufacturing Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8848606002": {
+    "updated_at": "2026-09-26T15:21:57-04:00",
+    "title": "Sr. Full Stack Engineer, Internal Applications",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
