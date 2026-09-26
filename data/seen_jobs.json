@@ -13120,7 +13120,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7597868003": {
-    "updated_at": "2026-09-19T04:02:38-04:00",
+    "updated_at": "2026-09-26T03:47:29-04:00",
     "title": "Senior Software Engineer - Profiles, Lists and Segments",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -135032,7 +135032,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7711217003": {
-    "updated_at": "2026-09-19T04:02:41-04:00",
+    "updated_at": "2026-09-26T03:47:31-04:00",
     "title": "Senior Software Engineer - Developer Infrastructure",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -189344,7 +189344,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7695230003": {
-    "updated_at": "2026-09-19T04:02:40-04:00",
+    "updated_at": "2026-09-26T03:47:31-04:00",
     "title": "Senior Software Engineer - Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -203296,7 +203296,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7688416003": {
-    "updated_at": "2026-09-19T04:02:39-04:00",
+    "updated_at": "2026-09-26T03:47:30-04:00",
     "title": "Sr. Software Engineer, AI Enablement",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -212520,7 +212520,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7777369003": {
-    "updated_at": "2026-09-19T04:02:47-04:00",
+    "updated_at": "2026-09-26T03:47:35-04:00",
     "title": "Senior Software Engineer - Infrastructure Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -216408,7 +216408,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7767542003": {
-    "updated_at": "2026-09-19T04:02:46-04:00",
+    "updated_at": "2026-09-26T03:47:32-04:00",
     "title": "Senior Software Engineer, Composer AI Product",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -217008,7 +217008,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7780009003": {
-    "updated_at": "2026-09-19T04:02:50-04:00",
+    "updated_at": "2026-09-26T03:47:37-04:00",
     "title": "Senior Software Engineer, Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -219184,7 +219184,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7783904003": {
-    "updated_at": "2026-09-19T04:02:49-04:00",
+    "updated_at": "2026-09-26T03:47:37-04:00",
     "title": "Senior Software Engineer, Platform Engineering",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -222648,7 +222648,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7784391003": {
-    "updated_at": "2026-09-20T15:13:16-04:00",
+    "updated_at": "2026-09-26T06:18:06-04:00",
     "title": "Associate (AI) Solution Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -232552,7 +232552,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8031208": {
-    "updated_at": "2026-09-24T16:04:23-04:00",
+    "updated_at": "2026-09-26T03:23:29-04:00",
     "title": "Senior Product Manager, Help Center (CX Automation)",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -305400,7 +305400,7 @@
     "alerted": false
   },
   "greenhouse:carta:7918307003": {
-    "updated_at": "2026-09-04T16:09:24-04:00",
+    "updated_at": "2026-09-26T03:46:07-04:00",
     "title": "Lead Customer Marketing Manager",
     "company": "carta",
     "ats": "greenhouse",
@@ -322192,7 +322192,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7973663003": {
-    "updated_at": "2026-09-19T04:02:54-04:00",
+    "updated_at": "2026-09-26T03:47:41-04:00",
     "title": "Senior Software Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -342312,7 +342312,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7986459003": {
-    "updated_at": "2026-09-23T15:15:45-04:00",
+    "updated_at": "2026-09-26T03:47:43-04:00",
     "title": "Senior Software Engineer - Identity and Access Management",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -347032,7 +347032,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7997137003": {
-    "updated_at": "2026-09-19T04:02:56-04:00",
+    "updated_at": "2026-09-26T03:47:43-04:00",
     "title": "Senior Software Engineer - Data Platform",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -361949,6 +361949,22 @@
     "company": "instacart",
     "ats": "greenhouse",
     "source_slug": "instacart",
+    "alerted": false
+  },
+  "greenhouse:flex:4738246005": {
+    "updated_at": "2026-09-25T22:42:42-04:00",
+    "title": "Chief of Staff to the GM of Housing",
+    "company": "flex",
+    "ats": "greenhouse",
+    "source_slug": "flex",
+    "alerted": false
+  },
+  "greenhouse:stripe:8190046": {
+    "updated_at": "2026-09-25T22:12:33-04:00",
+    "title": "Account Executive, Product Sales - Crypto",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }
