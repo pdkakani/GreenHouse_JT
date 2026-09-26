@@ -65488,7 +65488,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7266176": {
-    "updated_at": "2026-09-24T08:55:55-04:00",
+    "updated_at": "2026-09-26T11:15:00-04:00",
     "title": "Mid Market Account Executive - DACH",
     "company": "samsara",
     "ats": "greenhouse",
@@ -276280,7 +276280,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8099216": {
-    "updated_at": "2026-09-25T16:44:52-04:00",
+    "updated_at": "2026-09-26T14:30:20-04:00",
     "title": "Services Consultant - Scaled Professional Services (SEA/GCN)",
     "company": "stripe",
     "ats": "greenhouse",
@@ -361168,8 +361168,8 @@
     "alerted": false
   },
   "greenhouse:coinbase:8234060": {
-    "updated_at": "2026-09-25T18:33:57-04:00",
-    "title": "Group Product Manager, FinHub",
+    "updated_at": "2026-09-26T13:37:56-04:00",
+    "title": "Group Product Manager, Money Movement",
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
@@ -361978,6 +361978,22 @@
   "greenhouse:expel:8836996002": {
     "updated_at": "2026-09-26T10:28:37-04:00",
     "title": "Senior Detection & Response Engineer",
+    "company": "expel",
+    "ats": "greenhouse",
+    "source_slug": "expel",
+    "alerted": true
+  },
+  "greenhouse:airbnb:8232474": {
+    "updated_at": "2026-09-26T02:40:51-04:00",
+    "title": "Senior Enterprise Account Manager",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:expel:8842731002": {
+    "updated_at": "2026-09-26T11:05:21-04:00",
+    "title": "Principal Solutions Architect",
     "company": "expel",
     "ats": "greenhouse",
     "source_slug": "expel",
