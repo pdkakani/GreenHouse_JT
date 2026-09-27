@@ -337648,7 +337648,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6186210004": {
-    "updated_at": "2026-09-21T14:07:37-04:00",
+    "updated_at": "2026-09-27T14:01:23-04:00",
     "title": "Pricing Specialist - Structural Pricing & Packaging",
     "company": "coursera",
     "ats": "greenhouse",
@@ -362046,5 +362046,13 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:celonis:7997059003": {
+    "updated_at": "2026-09-26T18:00:00-04:00",
+    "title": "(Senior) Backend Software Engineer (Java) - Metadata Platform DB",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
   }
 }
