@@ -20616,7 +20616,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7579269": {
-    "updated_at": "2026-10-02T14:24:13-04:00",
+    "updated_at": "2026-10-04T17:39:09-04:00",
     "title": "Vulnerability Management Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -173584,7 +173584,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8517068002": {
-    "updated_at": "2026-10-01T04:02:00-04:00",
+    "updated_at": "2026-10-04T17:28:49-04:00",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -241352,7 +241352,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8614459002": {
-    "updated_at": "2026-10-01T04:02:04-04:00",
+    "updated_at": "2026-10-04T17:28:54-04:00",
     "title": "Senior Solutions Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -296616,7 +296616,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8132266": {
-    "updated_at": "2026-10-02T04:18:35-04:00",
+    "updated_at": "2026-10-04T14:42:49-04:00",
     "title": "Fraud Specialist 1",
     "company": "twilio",
     "ats": "greenhouse",
@@ -297120,7 +297120,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8136763": {
-    "updated_at": "2026-10-01T10:28:56-04:00",
+    "updated_at": "2026-10-04T14:44:02-04:00",
     "title": "Product Manager L2 (mid-level)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -332832,7 +332832,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8185918": {
-    "updated_at": "2026-10-01T10:25:56-04:00",
+    "updated_at": "2026-10-04T14:42:06-04:00",
     "title": "Compliance Operations Specialist",
     "company": "twilio",
     "ats": "greenhouse",
@@ -363240,7 +363240,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5435282008": {
-    "updated_at": "2026-09-29T06:21:03-04:00",
+    "updated_at": "2026-10-04T17:15:51-04:00",
     "title": "Applied AI Engineer, DNB",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -371496,7 +371496,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8248907": {
-    "updated_at": "2026-10-02T15:04:51-04:00",
+    "updated_at": "2026-10-04T17:29:07-04:00",
     "title": "Deal Intelligence Analyst",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -373062,5 +373062,45 @@
     "ats": "greenhouse",
     "source_slug": "gleanwork",
     "alerted": false
+  },
+  "greenhouse:coreweave:4718610006": {
+    "updated_at": "2026-10-04T14:38:36-04:00",
+    "title": "Manager, Strategic Finance",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:elastic:8255438": {
+    "updated_at": "2026-10-04T14:18:47-04:00",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8255436": {
+    "updated_at": "2026-10-04T14:18:45-04:00",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8255435": {
+    "updated_at": "2026-10-04T14:18:43-04:00",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8788378002": {
+    "updated_at": "2026-10-04T17:23:44-04:00",
+    "title": "Power Electronics Engineer, Satellites (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
