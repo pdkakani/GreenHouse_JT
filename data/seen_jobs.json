@@ -132464,7 +132464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4676674006": {
-    "updated_at": "2026-09-17T15:07:50-04:00",
+    "updated_at": "2026-10-04T22:16:13-04:00",
     "title": "Staff Business Systems Engineer, Data Center Systems",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -145496,7 +145496,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5178523008": {
-    "updated_at": "2026-09-15T19:35:39-04:00",
+    "updated_at": "2026-10-04T22:47:10-04:00",
     "title": "Solutions Consultant II (Japan)",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -160200,8 +160200,8 @@
     "alerted": false
   },
   "greenhouse:newrelic:5178520008": {
-    "updated_at": "2026-09-15T19:35:39-04:00",
-    "title": "Technical Success Manager",
+    "updated_at": "2026-10-04T21:11:09-04:00",
+    "title": "Solutions Consultant II (Japan)",
     "company": "newrelic",
     "ats": "greenhouse",
     "source_slug": "newrelic",
@@ -210192,7 +210192,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8017196": {
-    "updated_at": "2026-10-04T08:27:40-04:00",
+    "updated_at": "2026-10-04T20:12:38-04:00",
     "title": "Senior Client Partner, Global Strategic Accounts (UK)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -210200,7 +210200,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8017263": {
-    "updated_at": "2026-10-04T08:27:40-04:00",
+    "updated_at": "2026-10-04T20:12:38-04:00",
     "title": "Senior Client Account Manager, Global Strategic Accounts (UK)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -234848,7 +234848,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635246003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-10-05T01:24:13-04:00",
     "title": "Senior Applied Value Engineer - UKI | HLS",
     "company": "celonis",
     "ats": "greenhouse",
@@ -291096,7 +291096,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8094367": {
-    "updated_at": "2026-09-28T03:08:06-04:00",
+    "updated_at": "2026-10-05T01:18:35-04:00",
     "title": "Account Development Representative II",
     "company": "samsara",
     "ats": "greenhouse",
@@ -315424,7 +315424,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8017242": {
-    "updated_at": "2026-10-04T08:27:40-04:00",
+    "updated_at": "2026-10-04T20:12:38-04:00",
     "title": "Senior Client Account Manager, Global Strategic Accounts (Tech/AI)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -343680,7 +343680,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8196302": {
-    "updated_at": "2026-10-04T20:10:21-04:00",
+    "updated_at": "2026-10-04T20:12:37-04:00",
     "title": "Lead Client Partner, Global Strategic Accounts (Tech)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -351560,7 +351560,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8212878": {
-    "updated_at": "2026-09-29T02:14:06-04:00",
+    "updated_at": "2026-10-05T01:36:06-04:00",
     "title": "Finance Support",
     "company": "adyen",
     "ats": "greenhouse",
@@ -352920,7 +352920,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5410288008": {
-    "updated_at": "2026-09-30T15:04:30-04:00",
+    "updated_at": "2026-10-05T01:25:02-04:00",
     "title": "Manager, Software Engineering",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -357904,7 +357904,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7630992003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-10-05T01:22:36-04:00",
     "title": "Lead Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -362336,7 +362336,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8229998": {
-    "updated_at": "2026-10-02T14:24:13-04:00",
+    "updated_at": "2026-10-05T01:22:22-04:00",
     "title": "Technical Support Engineer, Zero Trust",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -364712,7 +364712,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8174141": {
-    "updated_at": "2026-09-29T07:14:22-04:00",
+    "updated_at": "2026-10-04T23:51:43-04:00",
     "title": "Account Executive Product - Global Selling",
     "company": "stripe",
     "ats": "greenhouse",
@@ -365528,7 +365528,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5435471008": {
-    "updated_at": "2026-09-29T12:53:09-04:00",
+    "updated_at": "2026-10-04T22:32:11-04:00",
     "title": "Policy Advocacy - Political Research",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -368704,8 +368704,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8238758": {
-    "updated_at": "2026-10-02T14:24:13-04:00",
-    "title": "Digital Customer Engineer",
+    "updated_at": "2026-10-04T22:19:12-04:00",
+    "title": "Digital Presales Customer Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -372864,7 +372864,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8249469": {
-    "updated_at": "2026-10-04T20:10:21-04:00",
+    "updated_at": "2026-10-04T20:12:38-04:00",
     "title": "Lead Client Partner, Global Strategic Accounts (Tech)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -373032,7 +373032,7 @@
     "alerted": false
   },
   "greenhouse:smartsheet:8250891": {
-    "updated_at": "2026-10-03T01:09:28-04:00",
+    "updated_at": "2026-10-05T01:20:03-04:00",
     "title": "Sr. Manager, Technical Support( Hybrid- Bangalore)",
     "company": "smartsheet",
     "ats": "greenhouse",
@@ -373101,6 +373101,110 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:elastic:8111756": {
+    "updated_at": "2026-10-05T00:10:17-04:00",
+    "title": "Senior Solutions Architect - Mumbai, India",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8867531002": {
+    "updated_at": "2026-10-04T23:26:04-04:00",
+    "title": "Fluids Systems Technician (Starship) - Level 4/5",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:okta:8242557": {
+    "updated_at": "2026-10-04T22:58:50-04:00",
+    "title": "Senior Software engineer - Advanced Threat Protection",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4718789006": {
+    "updated_at": "2026-10-04T22:25:38-04:00",
+    "title": "Product Manager, Compliance",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8210093": {
+    "updated_at": "2026-10-04T21:48:36-04:00",
+    "title": "System Engineer, Queensland",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5432590008": {
+    "updated_at": "2026-10-04T20:45:42-04:00",
+    "title": "Enterprise Account Executive - Healthcare & Life Science",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5443281008": {
+    "updated_at": "2026-10-04T20:45:40-04:00",
+    "title": "Enterprise Account Executive - Manufacturing",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:databricks:8839016002": {
+    "updated_at": "2026-10-04T20:23:34-04:00",
+    "title": "Sr. Manager, Sales Development",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:upstart:8255481": {
+    "updated_at": "2026-10-04T20:12:29-04:00",
+    "title": "Senior Financial Analyst",
+    "company": "upstart",
+    "ats": "greenhouse",
+    "source_slug": "upstart",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8234338": {
+    "updated_at": "2026-10-04T19:52:00-04:00",
+    "title": "Corporate Legal Director - Securities, M&A",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4718615006": {
+    "updated_at": "2026-10-04T14:41:06-04:00",
+    "title": "Senior Accountant, Operations Accounting",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4718612006": {
+    "updated_at": "2026-10-04T14:39:50-04:00",
+    "title": "Treasury Accounting Manager",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "lever:finch:64800c60-8b89-4efa-89c2-7e07eb1d0685": {
+    "updated_at": "1654624452807",
+    "title": "Engineering Manager",
+    "company": "finch",
+    "ats": "lever",
+    "source_slug": "finch",
     "alerted": true
   }
 }
