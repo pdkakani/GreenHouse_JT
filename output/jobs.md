@@ -1,3 +1,27 @@
+## 📅 Run: 2026-10-10 22:48 UTC
+
+### Greenhouse
+
+#### 🔄 Partner Development Manager, Financial Partnership Capabilities
+**Greenhouse** · stripe · 3511 Payments Financial Partnerships
+📍 US-New York City; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238747)
+🕐 Updated: 2026-10-10T17:32:06-04:00 | ID: 8238747
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8169431?gh_jid=8169431)
+🕐 Updated: 2026-10-10T17:30:00-04:00 | ID: 8169431
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15500 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 34 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 68 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15602 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-10 19:26 UTC
 
 ### Greenhouse
