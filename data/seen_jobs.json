@@ -311432,7 +311432,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4708261006": {
-    "updated_at": "2026-10-05T13:07:30-04:00",
+    "updated_at": "2026-10-10T11:39:12-04:00",
     "title": "Senior Engineer, Prime Systems & Services",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -312880,7 +312880,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8125426": {
-    "updated_at": "2026-09-25T16:07:56-04:00",
+    "updated_at": "2026-10-10T13:00:00-04:00",
     "title": "Enterprise Core Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -379696,7 +379696,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8407875002": {
-    "updated_at": "2026-10-07T20:10:59-04:00",
+    "updated_at": "2026-10-10T12:01:05-04:00",
     "title": "Senior Production Engineer - Realtime Products",
     "company": "databricks",
     "ats": "greenhouse",
@@ -384118,5 +384118,29 @@
     "ats": "greenhouse",
     "source_slug": "coursera",
     "alerted": false
+  },
+  "greenhouse:okta:8159014": {
+    "updated_at": "2026-10-10T02:22:55-04:00",
+    "title": "Senior Java Engineer (Design & DSA)",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:flexport:8269181": {
+    "updated_at": "2026-10-09T22:49:08-04:00",
+    "title": "Payroll Manager, APAC",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:spacex:8882551002": {
+    "updated_at": "2026-10-10T13:58:56-04:00",
+    "title": "Principal Mechanical Engineer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }
