@@ -129344,8 +129344,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8414474002": {
-    "updated_at": "2026-09-28T13:47:13-04:00",
-    "title": "Senior Financial Analyst",
+    "updated_at": "2026-10-11T18:03:22-04:00",
+    "title": "Finance Manager",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -384157,6 +384157,14 @@
     "company": "flexport",
     "ats": "greenhouse",
     "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:stripe:8265686": {
+    "updated_at": "2026-10-10T21:56:41-04:00",
+    "title": "Writer, Content Marketing",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
     "alerted": false
   }
 }

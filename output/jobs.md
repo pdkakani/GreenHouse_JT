@@ -1,3 +1,22 @@
+## 📅 Run: 2026-10-11 22:52 UTC
+
+### Greenhouse
+
+#### 🔄 Finance Manager
+**Greenhouse** · databricks · Finance
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8414474002)
+🕐 Updated: 2026-10-11T18:03:22-04:00 | ID: 8414474002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15494 fetched, 1 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 34 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 68 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15596 fetched, 1 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-11 19:04 UTC
 
 ### Greenhouse
