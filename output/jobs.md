@@ -1,3 +1,202 @@
+## 📅 Run: 2026-10-12 08:49 UTC
+
+### Greenhouse
+
+#### 🔄 Inside Sales Representative - Integrated Partnerships - Peterborough, UK (hybrid)
+**Greenhouse** · convera · Sales - Channel & Employee Services
+📍 Peterborough | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4957529101)
+🕐 Updated: 2026-10-12T04:48:13-04:00 | ID: 4957529101
+
+#### 🔄 Senior Engineering Manager - Workers KV
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7841019?gh_jid=7841019)
+🕐 Updated: 2026-10-12T04:40:58-04:00 | ID: 7841019
+
+#### 🔄 Digital Solutions Manager (Recruiting Tech & Learning Platforms)
+**Greenhouse** · okta · Total Rewards-132
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8267278?gh_jid=8267278)
+🕐 Updated: 2026-10-12T04:36:11-04:00 | ID: 8267278
+
+#### 🔄 Territory Account Executive NRW
+**Greenhouse** · purestorage · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8264045)
+🕐 Updated: 2026-10-12T04:30:27-04:00 | ID: 8264045
+
+#### 🔄 Strategic Events Specialist, EMEA
+**Greenhouse** · abnormalsecurity · Strategic Events
+📍 Remote - Ireland | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8019820003?gh_jid=8019820003)
+🕐 Updated: 2026-10-12T04:17:47-04:00 | ID: 8019820003
+
+#### 🔄 Strategic Events Specialist, EMEA
+**Greenhouse** · abnormalsecurity · Strategic Events
+📍 Remote - UK | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8019603003?gh_jid=8019603003)
+🕐 Updated: 2026-10-12T04:17:33-04:00 | ID: 8019603003
+
+#### 🔄 German Translator
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8264509/apply/?gh_jid=8264509)
+🕐 Updated: 2026-10-12T04:06:20-04:00 | ID: 8264509
+
+#### 🔄 Customer Onboarding Manager, APAC (1 year contract) - JP Speaking
+**Greenhouse** · payoneer · GTM APAC
+📍 Seoul, South Korea | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8263831/?gh_jid=8263831)
+🕐 Updated: 2026-10-12T04:03:02-04:00 | ID: 8263831
+
+#### 🔄 Senior Software Engineer in Test
+**Greenhouse** · okta · Engineering Quality-630
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8239048?gh_jid=8239048)
+🕐 Updated: 2026-10-12T03:53:43-04:00 | ID: 8239048
+
+#### 🔄 Software Engineering Internship - San Francisco
+**Greenhouse** · samsara · CTO
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091)
+🕐 Updated: 2026-10-12T03:48:11-04:00 | ID: 8082091
+
+#### 🔄 Solutions Architect - Public Sector
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8637758002)
+🕐 Updated: 2026-10-12T03:47:39-04:00 | ID: 8637758002
+
+#### 🔄 Solutions Architect - Public Sector (SLED)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8633741002)
+🕐 Updated: 2026-10-12T03:47:37-04:00 | ID: 8633741002
+
+#### 🔄 Sr. Solutions Engineer - Public Sector (Defense Industrial Base)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Maryland; McLean, Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8584983002)
+🕐 Updated: 2026-10-12T03:47:36-04:00 | ID: 8584983002
+
+#### 🔄 Sr. Solutions Architect - Public Sector (Defense Industrial Base)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Delaware; Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8453645002)
+🕐 Updated: 2026-10-12T03:47:34-04:00 | ID: 8453645002
+
+#### 🔄 Sr. Solutions Engineer - Public Sector (DoW - 4th Estate)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8415025002)
+🕐 Updated: 2026-10-12T03:47:32-04:00 | ID: 8415025002
+
+#### 🔄 Sr. Solutions Architect - Public Sector (SLED)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Illinois; Michigan; Minnesota | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8397493002)
+🕐 Updated: 2026-10-12T03:47:29-04:00 | ID: 8397493002
+
+#### 🔄 Payroll Manager, APAC
+**Greenhouse** · flexport · People
+📍 Shenzhen, China | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8269181)
+🕐 Updated: 2026-10-12T03:28:04-04:00 | ID: 8269181
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · okta · Emerging Tech-694
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7703326?gh_jid=7703326)
+🕐 Updated: 2026-10-12T03:27:01-04:00 | ID: 7703326
+
+#### 🔄 Account Development Representative II - Phoenix
+**Greenhouse** · samsara · Account Development Representative
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8094314?gh_jid=8094314)
+🕐 Updated: 2026-10-12T03:05:53-04:00 | ID: 8094314
+
+#### 🔄 Account Development Representative II
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8094367?gh_jid=8094367)
+🕐 Updated: 2026-10-12T03:05:47-04:00 | ID: 8094367
+
+#### 🔄 Staff Software Engineer, Unified Services Platform
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8144140)
+🕐 Updated: 2026-10-12T03:03:43-04:00 | ID: 8144140
+
+#### 🔄 Staff Software Engineer, Gustie Assist
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8095028)
+🕐 Updated: 2026-10-12T03:03:42-04:00 | ID: 8095028
+
+#### 🔄 Account Executive - Commercial (MEA)
+**Greenhouse** · klaviyo · Sales
+📍 London, UK | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7994121003?gh_jid=7994121003)
+🕐 Updated: 2026-10-12T03:01:08-04:00 | ID: 7994121003
+
+#### 🔄 (New Grad) Account Development Representative II - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373)
+🕐 Updated: 2026-10-12T02:33:16-04:00 | ID: 8094373
+
+#### 🔄 Staff Software Engineer, Developer Experience
+**Greenhouse** · okta · Emerging Tech-694
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7703330?gh_jid=7703330)
+🕐 Updated: 2026-10-12T02:30:27-04:00 | ID: 7703330
+
+#### 🔄 Customer Support Associate (Czech Speaker, 6 months contract)
+**Greenhouse** · convera · Customer Service
+📍 Prague | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4970589101)
+🕐 Updated: 2026-10-12T02:10:53-04:00 | ID: 4970589101
+
+#### 🔄 Sr. Software Engineer II
+**Greenhouse** · smartsheet · Engineering - Developers
+📍 Bangalore, INDIA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8258836)
+🕐 Updated: 2026-10-12T02:10:03-04:00 | ID: 8258836
+
+#### 🔄 Sales Engineer (Customer Success)
+**Greenhouse** · datadog · Commercial & Mid-Market Sales Engineering
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8258855/?gh_jid=8258855)
+🕐 Updated: 2026-10-12T01:34:51-04:00 | ID: 8258855
+
+#### 🔄 Operations Program Manager
+**Greenhouse** · stripe · 4138 SDC - Tech Ops
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203653)
+🕐 Updated: 2026-10-12T01:31:02-04:00 | ID: 8203653
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · mongodb · Solutions Architecture, APAC
+📍 Singapore | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8230043)
+🕐 Updated: 2026-10-12T01:23:00-04:00 | ID: 8230043
+
+#### 🔄 Operations Manager
+**Greenhouse** · coinbase · International Operations
+📍 Remote - Singapore | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8239099?gh_jid=8239099)
+🕐 Updated: 2026-10-12T00:44:43-04:00 | ID: 8239099
+
+#### 🔄 Senior Executive Officer, ADGM
+**Greenhouse** · coinbase · International Expansion
+📍 Remote - Abu Dhabi | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8207217?gh_jid=8207217)
+🕐 Updated: 2026-10-12T00:44:17-04:00 | ID: 8207217
+
+#### 🔄 Staff Software Engineer, Retirement Financial Platform
+**Greenhouse** · gusto · Engineering
+📍 Austin, TX - Remote; Burlingame, CA - Hybrid; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8205075)
+🕐 Updated: 2026-10-12T00:02:36-04:00 | ID: 8205075
+
+#### 🔄 Software Engineer, Weather Monitoring
+**Greenhouse** · waymo · CSI (7LV)
+📍 San Francisco, CA; Mountain View, CA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8249801)
+🕐 Updated: 2026-10-11T23:02:14-04:00 | ID: 8249801
+
+#### 🔄 Physical Security Manager, APAC/MENA
+**Greenhouse** · ripple · Physical Security
+📍 Sydney, New South Wales, Australia | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8245077?gh_jid=8245077)
+🕐 Updated: 2026-10-11T22:58:49-04:00 | ID: 8245077
+
+#### 🔄 Physical Security Manager, APAC/MENA
+**Greenhouse** · ripple · Physical Security
+📍 Singapore | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8245075?gh_jid=8245075)
+🕐 Updated: 2026-10-11T22:58:40-04:00 | ID: 8245075
+
+#### 🔄 Accounts Payable Specialist (Gurugram)
+**Greenhouse** · coursera · Accounting
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6220312004)
+🕐 Updated: 2026-10-11T22:46:51-04:00 | ID: 6220312004
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15472 fetched, 37 updated, 19 cap-skipped, 0 alerts
+- **Lever**: 0 new, 34 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 66 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15572 fetched, 37 updated, 19 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-12 01:58 UTC
 
 ### Greenhouse
