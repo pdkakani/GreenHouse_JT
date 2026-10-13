@@ -1,3 +1,347 @@
+## 📅 Run: 2026-10-13 07:16 UTC
+
+### Greenhouse
+
+#### 🔄 Analytics Lead, Central Market Management
+**Greenhouse** · lyft · Central Market Management & AI
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8856440002?gh_jid=8856440002)
+🕐 Updated: 2026-10-13T03:12:59-04:00 | ID: 8856440002
+
+#### 🔄 Engineering Manager, Marketing Engineering & AI Agents - Amplify
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8004625003?gh_jid=8004625003)
+🕐 Updated: 2026-10-13T03:01:47-04:00 | ID: 8004625003
+
+#### 🔄 Sales Development Representative, AUNZ
+**Greenhouse** · stripe · 1134 APAC Sales Development Reps
+📍 Sydney | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8074892)
+🕐 Updated: 2026-10-13T02:42:03-04:00 | ID: 8074892
+
+#### 🔄 Capital Processing Specialist II
+**Greenhouse** · toast · Sales : Embedded Finance
+📍 Bangalore | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8222836)
+🕐 Updated: 2026-10-13T02:37:36-04:00 | ID: 8222836
+
+#### 🔄 Account Executive, MidMarket
+**Greenhouse** · intercom · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/6922266)
+🕐 Updated: 2026-10-13T02:25:25-04:00 | ID: 6922266
+
+#### 🔄 Account Executive, MidMarket
+**Greenhouse** · intercom · Sales
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8104888)
+🕐 Updated: 2026-10-13T02:25:03-04:00 | ID: 8104888
+
+#### 🔄 Regulatory Compliance Officer
+**Greenhouse** · adyen · Regulatory
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8266135)
+🕐 Updated: 2026-10-13T02:23:46-04:00 | ID: 8266135
+
+#### 🔄 Senior Data Engineer
+**Greenhouse** · okta · Product & Platform Data-693
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7572029?gh_jid=7572029)
+🕐 Updated: 2026-10-13T02:03:48-04:00 | ID: 7572029
+
+#### 🔄 Program Manager, Growth, Monetization & Strategic Initiatives
+**Greenhouse** · fivetran · Product Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7997442003)
+🕐 Updated: 2026-10-13T02:01:54-04:00 | ID: 7997442003
+
+#### 🔄 Lead Cloud Economics Specialist
+**Greenhouse** · celonis · Finance
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7802410003?gh_jid=7802410003)
+🕐 Updated: 2026-10-13T01:42:32-04:00 | ID: 7802410003
+
+#### 🔄 SAP Quality Assurance Analyst
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8037786)
+🕐 Updated: 2026-10-13T01:26:53-04:00 | ID: 8037786
+
+#### 🔄 Enterprise Customer Success Manager
+**Greenhouse** · datadog · Enterprise Customer Success
+📍 Delhi, India | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7650688/?gh_jid=7650688)
+🕐 Updated: 2026-10-13T01:03:58-04:00 | ID: 7650688
+
+#### 🔄 Developer Support Engineer
+**Greenhouse** · okta · Customer Support-740
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733)
+🕐 Updated: 2026-10-13T00:49:28-04:00 | ID: 7770733
+
+#### 🔄 Technical Support Engineer, Application Security
+**Greenhouse** · cloudflare · Customer Support
+📍 In-Office | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993)
+🕐 Updated: 2026-10-13T00:48:47-04:00 | ID: 8229993
+
+#### 🔄 Senior Business Applications Administrator
+**Greenhouse** · okta · BT Workplace Technology-140
+📍 Manila, Philippines | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8259188?gh_jid=8259188)
+🕐 Updated: 2026-10-13T00:46:19-04:00 | ID: 8259188
+
+#### 🔄 Product Manager
+**Greenhouse** · godaddy · Product Management
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7796115003)
+🕐 Updated: 2026-10-13T00:19:04-04:00 | ID: 7796115003
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002)
+🕐 Updated: 2026-10-13T00:01:40-04:00 | ID: 8494143002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002)
+🕐 Updated: 2026-10-13T00:01:40-04:00 | ID: 8371312002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002)
+🕐 Updated: 2026-10-13T00:01:40-04:00 | ID: 8494148002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002)
+🕐 Updated: 2026-10-13T00:01:40-04:00 | ID: 8494146002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002)
+🕐 Updated: 2026-10-13T00:01:40-04:00 | ID: 8494145002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002)
+🕐 Updated: 2026-10-13T00:01:40-04:00 | ID: 8494142002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002)
+🕐 Updated: 2026-10-13T00:01:40-04:00 | ID: 8494144002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002)
+🕐 Updated: 2026-10-13T00:01:32-04:00 | ID: 8341313002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002)
+🕐 Updated: 2026-10-13T00:01:32-04:00 | ID: 8494154002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002)
+🕐 Updated: 2026-10-13T00:01:32-04:00 | ID: 8494155002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002)
+🕐 Updated: 2026-10-13T00:01:32-04:00 | ID: 8494156002
+
+#### 🔄 Senior Product Marketing Manager, Solutions
+**Greenhouse** · verkada · Product Marketing
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5255170007)
+🕐 Updated: 2026-10-12T23:56:37-04:00 | ID: 5255170007
+
+#### 🔄 Product Marketing Manager, Solutions
+**Greenhouse** · verkada · Product Marketing
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5255097007)
+🕐 Updated: 2026-10-12T23:56:13-04:00 | ID: 5255097007
+
+#### 🔄 Employee Relations Manager
+**Greenhouse** · gusto · People
+📍 Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8241810)
+🕐 Updated: 2026-10-12T23:50:55-04:00 | ID: 8241810
+
+#### 🔄 Licensing Program Manager
+**Greenhouse** · gusto · Legal & Compliance
+📍 New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8232302)
+🕐 Updated: 2026-10-12T23:50:52-04:00 | ID: 8232302
+
+#### 🔄 Talent Development Leader, Foundational Talent Products
+**Greenhouse** · gusto · People
+📍 Denver, CO - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8231833)
+🕐 Updated: 2026-10-12T23:50:49-04:00 | ID: 8231833
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592939002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592908002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592928002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Central - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8438791002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592952002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592937002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Charlotte, North Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592951002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592938002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002)
+🕐 Updated: 2026-10-12T23:16:55-04:00 | ID: 8592942002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461220002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Los Angeles, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461168002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Raleigh, North Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461258002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461163002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461251002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Denver, Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461243002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461241002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461239002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461226002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461193002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461218002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461219002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8494153002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002)
+🕐 Updated: 2026-10-12T23:16:46-04:00 | ID: 8461222002
+
+#### 🔄 Customer Success Associate (Commercial Accounts)
+**Greenhouse** · datadog · Commercial Customer Success
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8222279/?gh_jid=8222279)
+🕐 Updated: 2026-10-12T23:14:00-04:00 | ID: 8222279
+
+#### 🔄 People Operations Associate
+**Greenhouse** · verkada · People
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5218033007)
+🕐 Updated: 2026-10-12T23:00:02-04:00 | ID: 5218033007
+
+#### 🔄 Security Engineer (Software)
+**Greenhouse** · spacex · Security Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856394002?gh_jid=8856394002)
+🕐 Updated: 2026-10-12T22:20:23-04:00 | ID: 8856394002
+
+#### 🔄 Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854707002?gh_jid=8854707002)
+🕐 Updated: 2026-10-12T22:19:57-04:00 | ID: 8854707002
+
+#### 🔄 Full Stack Engineer, Builder Experience
+**Greenhouse** · stripe · 6490 BizOps and Compass
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8206731)
+🕐 Updated: 2026-10-12T21:56:00-04:00 | ID: 8206731
+
+#### 🔄 Senior Salesforce Engineer
+**Greenhouse** · mongodb · GTM Tech
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7991447)
+🕐 Updated: 2026-10-12T21:27:38-04:00 | ID: 7991447
+
+#### 🔄 Head of Data Science, Finance & Strategy
+**Greenhouse** · robinhood · Corporate Strategy
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8180757?t=gh_src=&gh_jid=8180757)
+🕐 Updated: 2026-10-12T21:19:24-04:00 | ID: 8180757
+
+#### 🔄 Payments Fraud Investigator
+**Greenhouse** · stripe · 4896 Fraud Operations
+📍 Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7554002)
+🕐 Updated: 2026-10-12T21:18:49-04:00 | ID: 7554002
+
+#### 🔄 Senior Distributed Systems Engineer - Cache
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8163523?gh_jid=8163523)
+🕐 Updated: 2026-10-12T21:06:19-04:00 | ID: 8163523
+
+#### 🔄 Sr. Compensation Manager, R&D
+**Greenhouse** · databricks · People
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8384388002)
+🕐 Updated: 2026-10-12T20:56:04-04:00 | ID: 8384388002
+
+#### 🔄 Rack Integration Operations Engineer
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8267826?gh_jid=8267826)
+🕐 Updated: 2026-10-12T06:35:23-04:00 | ID: 8267826
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15492 fetched, 66 updated, 20 cap-skipped, 0 alerts
+- **Lever**: 0 new, 34 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 66 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15592 fetched, 66 updated, 20 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-13 00:54 UTC
 
 ### Greenhouse
