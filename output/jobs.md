@@ -1,3 +1,2042 @@
+## 📅 Run: 2026-10-15 21:36 UTC
+
+### Greenhouse
+
+#### 🔄 Global Security Operations Center Operator
+**Greenhouse** · twilio · Security
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: 2026-10-15T17:33:32-04:00 | ID: 7808464
+
+#### 🔄 Business Development Associate(Consumer)
+**Greenhouse** · applovin · Business Development - Consumer
+📍 Guangzhou - Remote; Remote - Shenzhen; Shanghai | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4681211006?gh_jid=4681211006)
+🕐 Updated: 2026-10-15T17:33:04-04:00 | ID: 4681211006
+
+#### 🔄 Software Engineer, Research Productivity
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5283063008)
+🕐 Updated: 2026-10-15T17:32:54-04:00 | ID: 5283063008
+
+#### 🔄 Senior Legal Operations Specialist (AI & Automation)
+**Greenhouse** · samsara · Legal
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8189002?gh_jid=8189002)
+🕐 Updated: 2026-10-15T17:30:31-04:00 | ID: 8189002
+
+#### 🆕 Technical Program Manager, SOX Compliance
+**Greenhouse** · anthropic · Technical Program Management · 🎯 65%
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5453550008)
+🕐 Updated: 2026-10-15T17:30:30-04:00 | ID: 5453550008
+
+#### 🔄 Senior Manager, Regional Sales - Mid-Market AI Natives
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 Arizona, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8259825&gh_jid=8259825)
+🕐 Updated: 2026-10-15T17:29:42-04:00 | ID: 8259825
+
+#### 🔄 Senior Manager, Regional Sales - Mid-Market AI Natives
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 Colorado, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8259823&gh_jid=8259823)
+🕐 Updated: 2026-10-15T17:29:24-04:00 | ID: 8259823
+
+#### 🔄 Senior Manager, Regional Sales - Mid-Market AI Natives
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 Texas, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8246143&gh_jid=8246143)
+🕐 Updated: 2026-10-15T17:29:08-04:00 | ID: 8246143
+
+#### 🔄 Principal Product Marketing Manager - Public Sector
+**Greenhouse** · samsara · Product Marketing
+📍 Remote - DC; Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8148044?gh_jid=8148044)
+🕐 Updated: 2026-10-15T17:23:32-04:00 | ID: 8148044
+
+#### 🔄 Principal Engineer - Perf and Benchmarking
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4627302006&board=coreweave&gh_jid=4627302006)
+🕐 Updated: 2026-10-15T17:18:39-04:00 | ID: 4627302006
+
+#### 🔄 Account Executive, Legal Services
+**Greenhouse** · carta · Carta Law
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/7822002003)
+🕐 Updated: 2026-10-15T17:16:02-04:00 | ID: 7822002003
+
+#### 🔄 Head of Events
+**Greenhouse** · planetscale · Marketing
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/planetscale/jobs/4339796009)
+🕐 Updated: 2026-10-15T17:14:50-04:00 | ID: 4339796009
+
+#### 🔄 Operations Associate
+**Greenhouse** · flexport · Operations
+📍 Guadalajara, Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8021749)
+🕐 Updated: 2026-10-15T17:12:21-04:00 | ID: 8021749
+
+#### 🔄 Strategic Senior Finance Analyst, Consumer
+**Greenhouse** · coinbase · Finance & Accounting
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7993006?gh_jid=7993006)
+🕐 Updated: 2026-10-15T17:11:25-04:00 | ID: 7993006
+
+#### 🔄 Senior GSI Partner Account Manager - Cognizant / TCS
+**Greenhouse** · rubrik · Sales
+📍 Remote - New Jersey | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8132457?gh_jid=8132457)
+🕐 Updated: 2026-10-15T17:08:15-04:00 | ID: 8132457
+
+#### 🔄 Responsable du marketing terrain
+**Greenhouse** · ivalua · Marketing & Communications
+📍 Montreal, QB, CAN | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8075899?gh_jid=8075899)
+🕐 Updated: 2026-10-15T17:05:54-04:00 | ID: 8075899
+
+#### 🔄 Senior Engineering Manager, Servicing
+**Greenhouse** · upstart · Engineering Department
+📍 United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8186411)
+🕐 Updated: 2026-10-15T17:05:06-04:00 | ID: 8186411
+
+#### 🔄 Field Marketing Manager
+**Greenhouse** · ivalua · Marketing & Communications
+📍 Pittsburgh, PA - USA | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8075912?gh_jid=8075912)
+🕐 Updated: 2026-10-15T17:04:04-04:00 | ID: 8075912
+
+#### 🔄 Field Marketing Manager
+**Greenhouse** · ivalua · Marketing & Communications
+📍 Montreal, Quebec | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8075088?gh_jid=8075088)
+🕐 Updated: 2026-10-15T17:03:49-04:00 | ID: 8075088
+
+#### 🔄 Associate IT Infrastructure Engineer
+**Greenhouse** · newrelic · IT
+📍 Atlanta, Georgia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Boise, Idaho, USA; Chicago, Illinois, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Madison, Wisconsin, USA; Miami, Florida, USA; Minneapolis, Minnesota, USA; Nashville, Tennessee, USA; Orlando, Florida, USA; Phoenix, Arizona, USA; Pittsburgh, Pennsylvania, USA; Portland, Oregon, USA; St. Louis, Missouri, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5453390008)
+🕐 Updated: 2026-10-15T16:59:09-04:00 | ID: 5453390008
+
+#### 🔄 Software Engineer II (Frontend) - Customer Developer Observability
+**Greenhouse** · adyen · Development
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7582298)
+🕐 Updated: 2026-10-15T16:56:27-04:00 | ID: 7582298
+
+#### 🔄 Senior Compensation Partner
+**Greenhouse** · chime · People
+📍 San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8879659002?gh_jid=8879659002)
+🕐 Updated: 2026-10-15T16:55:18-04:00 | ID: 8879659002
+
+#### 🔄 Relationship Manager
+**Greenhouse** · robinhood · TradePMR Operations Division
+📍 Clearwater, FL; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8238000?t=gh_src=&gh_jid=8238000)
+🕐 Updated: 2026-10-15T16:55:09-04:00 | ID: 8238000
+
+#### 🔄 Cashiering Support Associate
+**Greenhouse** · robinhood · TradePMR Operations Division
+📍 Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8262110?t=gh_src=&gh_jid=8262110)
+🕐 Updated: 2026-10-15T16:54:22-04:00 | ID: 8262110
+
+#### 🔄 Senior Software Engineer, Lyft Business
+**Greenhouse** · lyft · Lyft Business
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002)
+🕐 Updated: 2026-10-15T16:51:27-04:00 | ID: 8445493002
+
+#### 🔄 Compliance Trust Analyst
+**Greenhouse** · abnormalsecurity · Security
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8011830003?gh_jid=8011830003)
+🕐 Updated: 2026-10-15T16:48:36-04:00 | ID: 8011830003
+
+#### 🔄 People Business Partner, GTM (Post Sales & Sales Development)
+**Greenhouse** · brex · People
+📍 Seattle, Washington, United States | 🔗 [Apply Here](https://www.brex.com/careers/8803650002?gh_jid=8803650002)
+🕐 Updated: 2026-10-15T16:48:05-04:00 | ID: 8803650002
+
+#### 🔄 People Business Partner, GTM (Post Sales & Sales Development)
+**Greenhouse** · brex · People
+📍 New York, New York, United States | 🔗 [Apply Here](https://www.brex.com/careers/8803649002?gh_jid=8803649002)
+🕐 Updated: 2026-10-15T16:47:54-04:00 | ID: 8803649002
+
+#### 🔄 Senior Product Manager, Banking
+**Greenhouse** · adyen · Product Management
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8147288)
+🕐 Updated: 2026-10-15T16:47:49-04:00 | ID: 8147288
+
+#### 🔄 People Business Partner, GTM (Post Sales & Sales Development)
+**Greenhouse** · brex · People
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://www.brex.com/careers/8803642002?gh_jid=8803642002)
+🕐 Updated: 2026-10-15T16:47:43-04:00 | ID: 8803642002
+
+#### 🔄 System Engineering Manager, SLED (West)
+**Greenhouse** · purestorage · Sales
+📍 Remote, California; Remote, Colorado; Remote, Oregon; Remote, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8234147)
+🕐 Updated: 2026-10-15T16:42:57-04:00 | ID: 8234147
+
+#### 🔄 Solutions Architect, Manager - Public Sector
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8790538002)
+🕐 Updated: 2026-10-15T16:40:28-04:00 | ID: 8790538002
+
+#### 🔄 Senior Product Manager, Trading Tools
+**Greenhouse** · robinhood · Brokerage Product
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8257655?t=gh_src=&gh_jid=8257655)
+🕐 Updated: 2026-10-15T16:40:23-04:00 | ID: 8257655
+
+#### 🔄 Senior Engineering Manager, Distribution Platform
+**Greenhouse** · upstart · Engineering Department
+📍 United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7736025)
+🕐 Updated: 2026-10-15T16:40:02-04:00 | ID: 7736025
+
+#### 🔄 Staff Security Software Engineer - Agentic Security Engineering
+**Greenhouse** · databricks · Security
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002)
+🕐 Updated: 2026-10-15T16:36:51-04:00 | ID: 7932280002
+
+#### 🔄 Senior Director, New Vertical Sales (Mortgage)
+**Greenhouse** · flex · Business Development
+📍 New York, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4743455005)
+🕐 Updated: 2026-10-15T16:36:42-04:00 | ID: 4743455005
+
+#### 🔄 Software Engineer - Data Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)
+🕐 Updated: 2026-10-15T16:33:57-04:00 | ID: 7992889
+
+#### 🔄 Software Engineer - Data Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530)
+🕐 Updated: 2026-10-15T16:33:56-04:00 | ID: 7922530
+
+#### 🔄 Staff Software Engineer, Media Foundations
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8029641)
+🕐 Updated: 2026-10-15T16:32:21-04:00 | ID: 8029641
+
+#### 🔄 Enablement Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8231364?gh_jid=8231364)
+🕐 Updated: 2026-10-15T16:30:00-04:00 | ID: 8231364
+
+#### 🔄 Enterprise Account Executive, Growth
+**Greenhouse** · mongodb · Sales Growth EMEA
+📍 Dubai | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8051197)
+🕐 Updated: 2026-10-15T16:27:20-04:00 | ID: 8051197
+
+#### 🔄 Sr. Counsel, Commercial (Healthcare & Life Sciences)
+**Greenhouse** · databricks · Legal
+📍 Chicago, Illinois; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8570009002)
+🕐 Updated: 2026-10-15T16:27:16-04:00 | ID: 8570009002
+
+#### 🔄 Principal, Market & Competitive Intelligence Manager
+**Greenhouse** · dropbox · GTM Portfolio Marketing (Sub Team)
+📍 Remote - US: All locations | 🔗 [Apply Here](https://jobs.dropbox.com/listing/7862212?gh_jid=7862212)
+🕐 Updated: 2026-10-15T16:16:54-04:00 | ID: 7862212
+
+#### 🔄 Principal, Market & Competitive Intelligence Manager
+**Greenhouse** · dropbox · GTM Portfolio Marketing (Sub Team)
+📍 Remote - Canada: Select locations | 🔗 [Apply Here](https://jobs.dropbox.com/listing/7862213?gh_jid=7862213)
+🕐 Updated: 2026-10-15T16:16:54-04:00 | ID: 7862213
+
+#### 🔄 Software Engineer (L2) Messaging Channels Team
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8247182)
+🕐 Updated: 2026-10-15T16:16:44-04:00 | ID: 8247182
+
+#### 🔄 Operations Engineer, Fleet Reliability
+**Greenhouse** · coreweave · Technology
+📍 Washington, DC / Livingston, NJ | 🔗 [Apply Here](https://coreweave.com/careers/job?4617382006&board=coreweave&gh_jid=4617382006)
+🕐 Updated: 2026-10-15T16:10:47-04:00 | ID: 4617382006
+
+#### 🔄 IT Internal Controls
+**Greenhouse** · gusto · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7905578)
+🕐 Updated: 2026-10-15T16:08:37-04:00 | ID: 7905578
+
+#### 🔄 Data Analyst
+**Greenhouse** · cloudflare · Business Intelligence
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620)
+🕐 Updated: 2026-10-15T16:05:13-04:00 | ID: 8109620
+
+#### 🔄 Technical Program Management, Commercialization
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, US; San Francisco, CA, US | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8248314)
+🕐 Updated: 2026-10-15T16:04:58-04:00 | ID: 8248314
+
+#### 🔄 Enterprise Implementation Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8131784?gh_jid=8131784)
+🕐 Updated: 2026-10-15T16:04:14-04:00 | ID: 8131784
+
+#### 🔄 Inside Account Executive, SMB - Remote
+**Greenhouse** · toast · Sales : SMB Inside Sales AEs
+📍 Remote | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=6814934)
+🕐 Updated: 2026-10-15T16:02:08-04:00 | ID: 6814934
+
+#### 🔄 Vulnerability Management Engineer
+**Greenhouse** · cloudflare · Security
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7579269?gh_jid=7579269)
+🕐 Updated: 2026-10-15T16:00:17-04:00 | ID: 7579269
+
+#### 🔄 Integration Technician (Falcon Operations) - Multiple Shifts
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8533342002?gh_jid=8533342002)
+🕐 Updated: 2026-10-15T16:00:01-04:00 | ID: 8533342002
+
+#### 🔄 Lead Technical Enablement Specialist, Field Capability & Readiness
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8548502002)
+🕐 Updated: 2026-10-15T15:55:33-04:00 | ID: 8548502002
+
+#### 🔄 Senior Software Engineer (GOlang, AI domain)
+**Greenhouse** · workato · Product & Engineering
+📍 Sofia, Bulgaria | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8801509002#open-roles)
+🕐 Updated: 2026-10-15T15:52:03-04:00 | ID: 8801509002
+
+#### 🔄 Sr. Solutions Architect - Digital Native Business, Strategics
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Nevada; Remote - California; Remote - Colorado; Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8615045002)
+🕐 Updated: 2026-10-15T15:48:58-04:00 | ID: 8615045002
+
+#### 🔄 Director, Sanctions Program Owner and Advisor
+**Greenhouse** · sofi · Compliance
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/8011008003?gh_jid=8011008003)
+🕐 Updated: 2026-10-15T15:48:34-04:00 | ID: 8011008003
+
+#### 🔄 Senior Derivative Accountant
+**Greenhouse** · ripple · Managed Services
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8209342?gh_jid=8209342)
+🕐 Updated: 2026-10-15T15:47:17-04:00 | ID: 8209342
+
+#### 🔄 Senior Derivative Accountant
+**Greenhouse** · ripple · Managed Services
+📍 New York, NY, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8209354?gh_jid=8209354)
+🕐 Updated: 2026-10-15T15:47:17-04:00 | ID: 8209354
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8064913?gh_jid=8064913)
+🕐 Updated: 2026-10-15T15:44:15-04:00 | ID: 8064913
+
+#### 🔄 Deputy BSA Officer
+**Greenhouse** · adyen · Compliance
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8256549)
+🕐 Updated: 2026-10-15T15:41:15-04:00 | ID: 8256549
+
+#### 🔄 Senior Software Engineer II
+**Greenhouse** · samsara · Hardware Engineering
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161)
+🕐 Updated: 2026-10-15T15:35:39-04:00 | ID: 8129161
+
+#### 🔄 Manager, Operations Program Management
+**Greenhouse** · samsara · Global Ops Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7558150?gh_jid=7558150)
+🕐 Updated: 2026-10-15T15:34:37-04:00 | ID: 7558150
+
+#### 🔄 Regional Vice President - AI Natives
+**Greenhouse** · elastic · Sales - AMER Strat
+📍 San Francisco, CA | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8114222&gh_jid=8114222)
+🕐 Updated: 2026-10-15T15:34:23-04:00 | ID: 8114222
+
+#### 🔄 Staff Software Engineer, Revenue Systems
+**Greenhouse** · squarespace · Domains & Applications
+📍 New York City; Remote | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=8125420)
+🕐 Updated: 2026-10-15T15:28:48-04:00 | ID: 8125420
+
+#### 🔄 Account Executive - France
+**Greenhouse** · gitlab · EMEA - Commercial
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860302002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860302002
+
+#### 🔄 AI Transformation Owner, CRO
+**Greenhouse** · gitlab · Enablement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8638232002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8638232002
+
+#### 🔄 AI Transformation Owner, Product & Design
+**Greenhouse** · gitlab · AI
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8716179002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8716179002
+
+#### 🔄 Associate Renewals Manager
+**Greenhouse** · gitlab · Renewals
+📍 Remote Ireland; Remote, Israel | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8785825002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8785825002
+
+#### 🔄 Associate Renewals Manager
+**Greenhouse** · gitlab · Renewals
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8857185002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8857185002
+
+#### 🔄 Associate Renewals Manager, India
+**Greenhouse** · gitlab · Renewals
+📍 Remote, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8857611002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8857611002
+
+#### 🔄 Associate Revenue Operations Manager, India
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859694002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8859694002
+
+#### 🔄 Backend Engineer, Create: Repository Management
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8843512002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8843512002
+
+#### 🔄 Backend Engineer, Create: Source Code Experience (Ruby)
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8687926002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8687926002
+
+#### 🔄 Backend Engineer (Python),AI Engineering: Agent Foundations
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada; Remote, Poland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8704363002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8704363002
+
+#### 🔄 Backend Engineer (Ruby), AI Engineering: Agent Foundations
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada; Remote, Poland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8620720002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8620720002
+
+#### 🔄 Benefits Analyst
+**Greenhouse** · gitlab · Total Rewards
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8864819002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8864819002
+
+#### 🔄 Business Development Representative
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8872433002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8872433002
+
+#### 🔄 Business Development Representative
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8532274002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8532274002
+
+#### 🔄 Business Development Representative
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, North America | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8532272002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8532272002
+
+#### 🔄 Business Development Representative, Italian Speaking
+**Greenhouse** · gitlab · Sales Development
+📍 Remote Ireland; Remote, France; Remote, Netherlands; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8882365002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8882365002
+
+#### 🔄 Candidate Experience Specialist, Contractor
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8782471002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8782471002
+
+#### 🔄 Candidate Experience Specialist, Contractor
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8801523002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8801523002
+
+#### 🔄 Chief of Staff, CRO
+**Greenhouse** · gitlab · CRO Executive
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8700245002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8700245002
+
+#### 🔄 Commercial Account Executive - Mid-Market, East
+**Greenhouse** · gitlab · AMER - Commercial
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8790102002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8790102002
+
+#### 🔄 Commercial Account Executive, Named - West
+**Greenhouse** · gitlab · AMER - Commercial
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8592555002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8592555002
+
+#### 🔄 Customer Success Engineer, LATAM (Spanish, Portugese)
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Brazil; Remote, Mexico; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8637426002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8637426002
+
+#### 🔄 Demo Architect, EMEA
+**Greenhouse** · gitlab · SA
+📍 Remote Ireland; Remote, Germany; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860273002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860273002
+
+#### 🔄 Director, Analytics Engineering
+**Greenhouse** · gitlab · Data
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8883003002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8883003002
+
+#### 🔄 Director, Engineering, Platform Operations & Productivity
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8626772002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8626772002
+
+#### 🔄 Director, FP&A
+**Greenhouse** · gitlab · FP&A
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8827981002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8827981002
+
+#### 🔄 Director, Global People Operations & Compliance
+**Greenhouse** · gitlab · People Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8872500002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8872500002
+
+#### 🔄 Director, Legal - Employment
+**Greenhouse** · gitlab · Legal
+📍 Remote Ireland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8842584002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8842584002
+
+#### 🔄 Director of Engineering, Database Excellence
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8853843002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8853843002
+
+#### 🔄 Director of Product Management, Agentic Software Delivery
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8806017002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8806017002
+
+#### 🔄 Director of Recruiting, Engineering & IT, Bangalore India
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8726744002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8726744002
+
+#### 🔄 Director, Social Media
+**Greenhouse** · gitlab · Communications
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8792475002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8792475002
+
+#### 🔄 Director, Strategic Partnerships
+**Greenhouse** · gitlab · Corporate Affairs
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8615811002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8615811002
+
+#### 🔄 Director, Support (Bengaluru)
+**Greenhouse** · gitlab · Customer Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8629019002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8629019002
+
+#### 🔄 Distinguished Engineer, Core DevOps
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8831350002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8831350002
+
+#### 🔄 Engagement Manager - French Speaking
+**Greenhouse** · gitlab · Practice Management
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8809512002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8809512002
+
+#### 🔄 Engineering Manager
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8799044002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8799044002
+
+#### 🔄 Engineering Manager, Build
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8586667002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8586667002
+
+#### 🔄 Engineering Manager, Dedicated Infrastructure
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8845322002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8845322002
+
+#### 🔄 Engineering Manager, Dedicated Integrations
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8636648002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8636648002
+
+#### 🔄 Engineering Manager, Dedicated Integrations Team
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8725225002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8725225002
+
+#### 🔄 Engineering Manager - Git & Gitaly Operations
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8626740002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8626740002
+
+#### 🔄 Engineering Manager - Nonlinear Productivity (Friction Elimination & Solutions)
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8632388002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8632388002
+
+#### 🔄 Engineering Manager, SSCS: Supply Chain
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India; Remote, Australia; Remote, Canada; Remote, Israel; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8478405002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8478405002
+
+#### 🔄 Engineering Manager, Switchboard
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8586632002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8586632002
+
+#### 🔄 Enterprise Account Executive - Singapore
+**Greenhouse** · gitlab · APAC - Enterprise
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8640151002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8640151002
+
+#### 🔄 Forward Deployed Engineer - EMEA
+**Greenhouse** · gitlab · Customer Experience
+📍 Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8522265002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8522265002
+
+#### 🔄 Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8698330002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8698330002
+
+#### 🔄 Global Sales Director of SMB, New Business
+**Greenhouse** · gitlab · Direct Sales - Global Digital
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8861745002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8861745002
+
+#### 🔄 Intermediate Backend Engineer, AMER
+**Greenhouse** · gitlab · Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8773006002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8773006002
+
+#### 🔄 Intermediate Backend Engineer, India
+**Greenhouse** · gitlab · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8775507002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8775507002
+
+#### 🔄 Intermediate Security Analyst, Vulnerability Operations  (North America)
+**Greenhouse** · gitlab · Product Security
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8821526002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8821526002
+
+#### 🔄 Intermediate Security Engineer, Security Incident Response Team (SIRT)
+**Greenhouse** · gitlab · Security Operations
+📍 Remote, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8782306002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8782306002
+
+#### 🔄 Intermediate-Senior Backend Engineer (Ruby), Plan: Spec-Driven Development
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8749950002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8749950002
+
+#### 🔄 Intermediate-Senior Backend Engineer (Ruby), Plan: Spec-Driven Development
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8682860002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8682860002
+
+#### 🔄 Intermediate Software Engineer, Security Factory: Vulnerability Management
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Canada; Remote, Israel; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8688078002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8688078002
+
+#### 🔄 Intermediate Support Engineer (SHIFT)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8684061002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8684061002
+
+#### 🔄 Intermediate Technical Program Manager
+**Greenhouse** · gitlab · Office of the CTO
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8784185002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8784185002
+
+#### 🔄 Lead Internal Events & Production Strategist
+**Greenhouse** · gitlab · Engagement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8617777002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8617777002
+
+#### 🔄 Lead Legal Counsel, Corporate
+**Greenhouse** · gitlab · Legal
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8842630002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8842630002
+
+#### 🔄 Lead Pricing Strategist
+**Greenhouse** · gitlab · Monetization & Analytics
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8756163002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8756163002
+
+#### 🔄 Lead SEC Analyst
+**Greenhouse** · gitlab · FP&A
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8633807002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8633807002
+
+#### 🔄 Major Account Executive
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860093002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860093002
+
+#### 🔄 Major Account Executive, France
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860287002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860287002
+
+#### 🔄 Major Account Executive Netherlands
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860275002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860275002
+
+#### 🔄 Major Account Executive, UK Public Sector
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860271002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860271002
+
+#### 🔄 Major Account Manager, Sweden
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860281002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860281002
+
+#### 🔄 Manager, Assigned Support Engineering (EMEA)
+**Greenhouse** · gitlab · ASE
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8861795002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8861795002
+
+#### 🔄 Manager, Solutions Architects - San Francisco
+**Greenhouse** · gitlab · SA
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8396674002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8396674002
+
+#### 🔄 Manager, Support Engineering (AMER)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8877510002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8877510002
+
+#### 🔄 Migration Engineer - GitLab Dedicated
+**Greenhouse** · gitlab · Dedicated Migrations
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8710061002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8710061002
+
+#### 🔄 People Systems Engineer
+**Greenhouse** · gitlab · People Technology
+📍 Bangalore, India; Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8861748002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8861748002
+
+#### 🔄 People Technology Analyst - Workday
+**Greenhouse** · gitlab · People Technology
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8861782002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8861782002
+
+#### 🔄 Pipeline Programs Manager
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8864903002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8864903002
+
+#### 🔄 Principal Engineer, Duo Agent Platform
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada; Remote, Poland; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8786095002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8786095002
+
+#### 🔄 Principal Product Manager, AI Software Factory
+**Greenhouse** · gitlab · AI
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8658878002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8658878002
+
+#### 🔄 Principal Product Manager, Orbit
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8871798002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8871798002
+
+#### 🔄 Principal Product Marketing Manager, Competitive
+**Greenhouse** · gitlab · Product Marketing
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859224002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8859224002
+
+#### 🔄 Principal Security Researcher
+**Greenhouse** · gitlab · Product Security
+📍 Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8731718002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8731718002
+
+#### 🔄 Principal Site Reliability Engineer, Platform Engineering: Dedicated
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8623592002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8623592002
+
+#### 🔄 Principal Technical Program Manager
+**Greenhouse** · gitlab · Office of the CTO
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8693068002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8693068002
+
+#### 🔄 Principal Technical Program Manager
+**Greenhouse** · gitlab · Office of the CTO
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8784056002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8784056002
+
+#### 🔄 Professional Services - Technical Architect
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8789857002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8789857002
+
+#### 🔄 Professional Services Technical Architect - West
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8857335002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8857335002
+
+#### 🔄 Public Sector Enablement Lead
+**Greenhouse** · gitlab · Enablement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8814596002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8814596002
+
+#### 🔄 Public Sector Strategic Account Executive - Canada
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8660935002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8660935002
+
+#### 🔄 Public Sector Strategic Account Executive, DoW
+**Greenhouse** · gitlab · PubSec - FED
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8737840002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8737840002
+
+#### 🔄 Public Sector Strategic Account Executive, Federal Civilian
+**Greenhouse** · gitlab · PubSec - FED
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8737852002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8737852002
+
+#### 🔄 Recruiter,  GTM
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8869149002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8869149002
+
+#### 🔄 Recruiter, R&D
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8869167002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8869167002
+
+#### 🔄 Regional Sales Director, Commercial - LATAM
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8875275002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8875275002
+
+#### 🔄 Regional Sales Director, Enterprise - Southeast
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8879798002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8879798002
+
+#### 🔄 Regional Sales Director, Financial Services
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8853813002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8853813002
+
+#### 🔄 Regional Sales Director, National Security Group
+**Greenhouse** · gitlab · PubSec - FED
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8858174002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8858174002
+
+#### 🔄 Renewals Manager
+**Greenhouse** · gitlab · Renewals
+📍 Remote Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8885535002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8885535002
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, North America | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8530337002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8530337002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · gitlab · EMEA - Commercial
+📍 Remote, Austria | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860193002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860193002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · gitlab · EMEA - Commercial
+📍 Remote, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860183002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860183002
+
+#### 🔄 Senior AI Engineer
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8565469002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8565469002
+
+#### 🔄 Senior Assigned Support Engineer (AMER)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8709925002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8709925002
+
+#### 🔄 Senior Assigned Support Engineer (EMEA)
+**Greenhouse** · gitlab · ASE
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8701290002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8701290002
+
+#### 🔄 Senior Backend Engineer, AI Engineering: Chat
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8621733002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8621733002
+
+#### 🔄 Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8646556002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8646556002
+
+#### 🔄 Senior Backend Engineer, Core DevOps
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8689243002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8689243002
+
+#### 🔄 Senior Backend Engineer, Core DevOps: Container Registry
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8687958002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8687958002
+
+#### 🔄 Senior Backend Engineer, Database Excellence (Ruby)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8778943002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8778943002
+
+#### 🔄 Senior Backend Engineer, Deployment Environments
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8636713002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8636713002
+
+#### 🔄 Senior Backend Engineer (Go), Tenant Scale: Gitaly
+**Greenhouse** · gitlab · Tenant Scale Engineering
+📍 Remote, Canada; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8729451002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8729451002
+
+#### 🔄 Senior Backend Engineer (Go), Tenant Scale: Gitaly
+**Greenhouse** · gitlab · Tenant Scale Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8749951002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8749951002
+
+#### 🔄 Senior Backend Engineer, India
+**Greenhouse** · gitlab · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8716143002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8716143002
+
+#### 🔄 Senior Backend Engineer, Platform Enablement
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8750842002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8750842002
+
+#### 🔄 Senior Backend Engineer, Platform Readiness
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8644572002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8644572002
+
+#### 🔄 Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8867725002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8867725002
+
+#### 🔄 Senior Backend Engineer, Trusted Agentic Development
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8760233002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8760233002
+
+#### 🔄 Senior Contracts Manager, Commercial (EMEA)
+**Greenhouse** · gitlab · Legal
+📍 Remote Ireland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8811842002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8811842002
+
+#### 🔄 Senior Customer Success Architect, CEUR
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Austria; Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8844846002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8844846002
+
+#### 🔄 Senior Customer Success Architect - Singapore
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8648304002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8648304002
+
+#### 🔄 Senior Customer Success Engineer, Japan
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8808549002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8808549002
+
+#### 🔄 Senior Customer Success Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8604996002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8604996002
+
+#### 🔄 Senior CX Platform Engineer
+**Greenhouse** · gitlab · Practice Management
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8871406002
+
+#### 🔄 Senior Developer Advocate
+**Greenhouse** · gitlab · Developer Relations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8838202002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8838202002
+
+#### 🔄 Senior Director, Global SME Solutions Architecture
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8862046002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8862046002
+
+#### 🔄 Senior Distribution Engineer, Gitlab: Build
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8802261002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8802261002
+
+#### 🔄 Senior Engagement Manager - Germany
+**Greenhouse** · gitlab · Practice Management
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8725981002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8725981002
+
+#### 🔄 Senior Engineering Manager - Continuous Deployment
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8755524002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8755524002
+
+#### 🔄 Senior Frontend Engineer
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8826920002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8826920002
+
+#### 🔄 Senior Frontend Engineer (Vue), Create:  Repository Management
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8636539002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8636539002
+
+#### 🔄 Senior Fullstack Engineer, Marketing
+**Greenhouse** · gitlab · Digital Experience
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8697493002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8697493002
+
+#### 🔄 Senior Manager, Deal Desk, EMEA
+**Greenhouse** · gitlab · Field Operations
+📍 Remote Ireland; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8879219002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8879219002
+
+#### 🔄 Senior Manager of Success Architects
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8842171002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8842171002
+
+#### 🔄 Senior Manager, Technical Program Management
+**Greenhouse** · gitlab · Office of the CTO
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8845972002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8845972002
+
+#### 🔄 Senior Product Manager, Agentic Source Code
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, Canada; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8597805002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8597805002
+
+#### 🔄 Senior Product Manager, Billing Engine & Platforms Monetization
+**Greenhouse** · gitlab · Monetization & Analytics
+📍 Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8845483002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8845483002
+
+#### 🔄 Senior Product Manager, CRM & GTM Systems
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8855883002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8855883002
+
+#### 🔄 Senior Professional Services Engineer
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, Netherlands; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8745623002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8745623002
+
+#### 🔄 Senior Professional Services Engineer, Japan
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859657002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8859657002
+
+#### 🔄 Senior Professional Services Engineer- PubSec - DC Metro
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8746461002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8746461002
+
+#### 🔄 Senior Professional Services Engineer - PubSec - US Only
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8838331002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8838331002
+
+#### 🔄 Senior Professional Services Technical Architect - Security
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8795736002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8795736002
+
+#### 🔄 Senior Program Manager, Enterprise Technology and AI
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8687246002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8687246002
+
+#### 🔄 Senior Release Engineer
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8730125002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8730125002
+
+#### 🔄 Senior Renewals Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8645879002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8645879002
+
+#### 🔄 Senior Revenue Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8882059002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8882059002
+
+#### 🔄 Senior Security Engineer, Incident Response Team (Australia)
+**Greenhouse** · gitlab · Security Operations
+📍 Remote, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8815229002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8815229002
+
+#### 🔄 Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA
+**Greenhouse** · gitlab · Security Operations
+📍 Remote, Israel; Remote, Poland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8628447002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8628447002
+
+#### 🔄 Senior Security Risk Engineer
+**Greenhouse** · gitlab · Security Assurance
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8846304002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8846304002
+
+#### 🔄 Senior Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)
+**Greenhouse** · gitlab · Data Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8615319002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8615319002
+
+#### 🔄 Senior Software Engineer, Security Factory: Code Security
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8738179002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8738179002
+
+#### 🔄 Senior Software Engineer, SSCS : Authentication
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8878486002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8878486002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · gitlab · SA
+📍 Remote, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8783485002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8783485002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8856826002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8856826002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · gitlab · SA
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8731996002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8731996002
+
+#### 🔄 Senior Solutions Architect Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8770661002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8770661002
+
+#### 🔄 Senior Solutions Architect (Singapore)
+**Greenhouse** · gitlab · SA
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8627768002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8627768002
+
+#### 🔄 Senior Solutions Architect- Sydney
+**Greenhouse** · gitlab · SA
+📍 Remote, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8826637002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8826637002
+
+#### 🔄 Senior Strategic Account Executive - California
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8742248002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8742248002
+
+#### 🔄 Senior Support Engineer
+**Greenhouse** · gitlab · Customer Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8692874002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8692874002
+
+#### 🔄 Senior Support Engineer
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8692880002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8692880002
+
+#### 🔄 Senior Talent Brand Manager
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote; Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8753656002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8753656002
+
+#### 🔄 Site Reliability Engineer, Cells Infrastructure
+**Greenhouse** · gitlab · Tenant Scale Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8867756002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8867756002
+
+#### 🔄 Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8623389002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8623389002
+
+#### 🔄 Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8773546002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8773546002
+
+#### 🔄 SMB Account Executive, Growth
+**Greenhouse** · gitlab · Global Digital - AMER
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8871878002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8871878002
+
+#### 🔄 SMB New Business Account Executive
+**Greenhouse** · gitlab · Global Digital - AMER
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8871274002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8871274002
+
+#### 🔄 Social Impact Manager
+**Greenhouse** · gitlab · Corporate Affairs
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8846318002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8846318002
+
+#### 🔄 Solutions Architect, New Business, EMEA
+**Greenhouse** · gitlab · SA
+📍 Remote Ireland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860267002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860267002
+
+#### 🔄 Solutions Architect, Public Sector - East
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8790680002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8790680002
+
+#### 🔄 Solutions Architect, Public Sector - West
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8790317002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8790317002
+
+#### 🔄 Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8646544002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8646544002
+
+#### 🔄 Staff Backend Engineer, Core DevOps
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8689236002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8689236002
+
+#### 🔄 Staff Backend Engineer, Database Automation (Go)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8770702002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8770702002
+
+#### 🔄 Staff Backend Engineer - Database Change Management
+**Greenhouse** · gitlab · Data Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8716271002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8716271002
+
+#### 🔄 Staff Backend Engineer, Developer Experience
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8490477002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8490477002
+
+#### 🔄 Staff Backend Engineer, India
+**Greenhouse** · gitlab · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8775136002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8775136002
+
+#### 🔄 Staff Commercial Pricing Strategist
+**Greenhouse** · gitlab · Monetization & Analytics
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8763503002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8763503002
+
+#### 🔄 Staff Corporate Security Engineer
+**Greenhouse** · gitlab · Corporate Security
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8734888002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8734888002
+
+#### 🔄 Staff Data Analyst
+**Greenhouse** · gitlab · Customer Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8827370002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8827370002
+
+#### 🔄 Staff Engineer, People Technology
+**Greenhouse** · gitlab · People Technology
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8638295002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8638295002
+
+#### 🔄 Staff Enterprise Architect
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8828009002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8828009002
+
+#### 🔄 Staff Forward Deployed Engineer
+**Greenhouse** · gitlab · Customer Experience
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8512432002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8512432002
+
+#### 🔄 Staff Frontend Engineer
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8826965002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8826965002
+
+#### 🔄 Staff Fullstack Engineer, Data Products (Golang / Node)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8845277002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8845277002
+
+#### 🔄 Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase
+**Greenhouse** · gitlab · Monetization Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8739391002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8739391002
+
+#### 🔄 Staff Product Manager, Agentic Test Intelligence
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8871820002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8871820002
+
+#### 🔄 Staff Product Manager, AI Software Factory PLG
+**Greenhouse** · gitlab · AI
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8875518002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8875518002
+
+#### 🔄 Staff Product Manager,  RevOps & Finance Systems
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8612937002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8612937002
+
+#### 🔄 Staff Product Security Architect
+**Greenhouse** · gitlab · Product Security
+📍 Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8815140002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8815140002
+
+#### 🔄 Staff Professional Services Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8691770002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8691770002
+
+#### 🔄 Staff Program Manager, CCO Programs
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8822279002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8822279002
+
+#### 🔄 Staff Renewals Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8868652002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8868652002
+
+#### 🔄 Staff Security Governance Engineer, Policies & Standards
+**Greenhouse** · gitlab · Security Assurance
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8846277002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8846277002
+
+#### 🔄 Staff Security Researcher
+**Greenhouse** · gitlab · Product Security
+📍 Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8782153002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8782153002
+
+#### 🔄 Staff Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)
+**Greenhouse** · gitlab · Data Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8615268002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8615268002
+
+#### 🔄 Staff Software Engineer - NLP
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8781299002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8781299002
+
+#### 🔄 Staff Software Engineer, Security Factory: Static Analysis
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8693563002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8693563002
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860106002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860106002
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860127002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860127002
+
+#### 🔄 Strategic Account Executive, AI - San Francisco
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8604630002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8604630002
+
+#### 🔄 Strategic Account Executive, France
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8868220002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8868220002
+
+#### 🔄 Strategic Account Executive - MENA
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, KSA; Remote, UAE | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8637995002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8637995002
+
+#### 🔄 Strategic Account Executive, Northeast
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8786425002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8786425002
+
+#### 🔄 Strategic Account Executive, Poland
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8789017002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8789017002
+
+#### 🔄 Strategic Account Executive, Poland
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8675560002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8675560002
+
+#### 🔄 Strategic Account Executive - Public Sector
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860142002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860142002
+
+#### 🔄 Strategic Account Executive - Public Sector
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860134002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8860134002
+
+#### 🔄 Strategic Account Executive - San Francisco
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8691382002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8691382002
+
+#### 🔄 Strategic Account Executive - Seattle
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8706202002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8706202002
+
+#### 🔄 Support Engineer (AMER)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8654230002
+
+#### 🔄 Support Engineer, U.S. Government Support
+**Greenhouse** · gitlab · PubSec Customer Support
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859063002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8859063002
+
+#### 🔄 Talent Brand Manager
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote; Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8753664002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8753664002
+
+#### 🔄 Tech Operations Specialist
+**Greenhouse** · gitlab · Enablement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8638246002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8638246002
+
+#### 🔄 Territory Sales Manager
+**Greenhouse** · gitlab · JAPAN - Enterprise
+📍 Remote, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8591223002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8591223002
+
+#### 🔄 Threat Research Engineer
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8867649002)
+🕐 Updated: 2026-10-15T15:24:46-04:00 | ID: 8867649002
+
+#### 🔄 Designer, Creative Services
+**Greenhouse** · abnormalsecurity · Brand & Creative
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7767731003?gh_jid=7767731003)
+🕐 Updated: 2026-10-15T15:24:02-04:00 | ID: 7767731003
+
+#### 🔄 Product Analytics - Developer Experience, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8139998)
+🕐 Updated: 2026-10-15T15:23:35-04:00 | ID: 8139998
+
+#### 🔄 Fraud Investigations Analyst
+**Greenhouse** · gusto · Legal & Compliance
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8275021)
+🕐 Updated: 2026-10-15T15:18:17-04:00 | ID: 8275021
+
+#### 🔄 Enhanced Due Diligence Investigations Analyst
+**Greenhouse** · gusto · Legal & Compliance
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8275011)
+🕐 Updated: 2026-10-15T15:18:05-04:00 | ID: 8275011
+
+#### 🔄 Senior Product Manager, Okta for AI Agents
+**Greenhouse** · okta · Product Management-810
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918)
+🕐 Updated: 2026-10-15T15:18:00-04:00 | ID: 8249918
+
+#### 🔄 Principal Technical Program Manager
+**Greenhouse** · ripple · Engineering
+📍 New York, NY, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7904773?gh_jid=7904773)
+🕐 Updated: 2026-10-15T15:17:37-04:00 | ID: 7904773
+
+#### 🔄 Principal Technical Program Manager
+**Greenhouse** · ripple · Engineering
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7904761?gh_jid=7904761)
+🕐 Updated: 2026-10-15T15:17:37-04:00 | ID: 7904761
+
+#### 🔄 Principal Technical Program Manager
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7904769?gh_jid=7904769)
+🕐 Updated: 2026-10-15T15:17:37-04:00 | ID: 7904769
+
+#### 🔄 Manager of Accounts Payable
+**Greenhouse** · robinhood · Procurement and Insurance
+📍 Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8250279?t=gh_src=&gh_jid=8250279)
+🕐 Updated: 2026-10-15T15:10:40-04:00 | ID: 8250279
+
+#### 🔄 Strategic Partnerships Manager - VC & Accelerator Ecosystem
+**Greenhouse** · mercury · Sales & Partnerships
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/6114207004)
+🕐 Updated: 2026-10-15T15:08:16-04:00 | ID: 6114207004
+
+#### 🔄 Salesforce Administrator, CPQ
+**Greenhouse** · abnormalsecurity · Revenue Operations
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7894082003?gh_jid=7894082003)
+🕐 Updated: 2026-10-15T15:07:01-04:00 | ID: 7894082003
+
+#### 🔄 Legal Counsel, Procurement
+**Greenhouse** · mongodb · Legal & Risk Mgmt
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8257245)
+🕐 Updated: 2026-10-15T15:06:46-04:00 | ID: 8257245
+
+#### 🔄 Legal Counsel, Procurement
+**Greenhouse** · mongodb · Legal & Risk Mgmt
+📍 Austin; New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8229636)
+🕐 Updated: 2026-10-15T15:06:46-04:00 | ID: 8229636
+
+#### 🔄 Senior Manager, Revenue
+**Greenhouse** · mongodb · Revenue, OTC & QTC
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8201521)
+🕐 Updated: 2026-10-15T15:06:41-04:00 | ID: 8201521
+
+#### 🔄 Senior Solutions Architect (Banking, Financial Services)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002)
+🕐 Updated: 2026-10-15T15:06:07-04:00 | ID: 8682362002
+
+#### 🔄 Lead, Technical Services
+**Greenhouse** · mongodb · Technical Support AMER
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8263092)
+🕐 Updated: 2026-10-15T15:06:00-04:00 | ID: 8263092
+
+#### 🔄 Lead, Technical Services
+**Greenhouse** · mongodb · Technical Support AMER
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8258712)
+🕐 Updated: 2026-10-15T15:06:00-04:00 | ID: 8258712
+
+#### 🔄 Mid-Market Retail Solutions Engineer
+**Greenhouse** · toast · Sales : Retail Sales Enablement
+📍 Remote | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8257129)
+🕐 Updated: 2026-10-15T15:05:34-04:00 | ID: 8257129
+
+#### 🔄 Regional Vice President, Enterprise, Growth
+**Greenhouse** · mongodb · Sales Growth EMEA
+📍 Paris | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8221350)
+🕐 Updated: 2026-10-15T15:05:20-04:00 | ID: 8221350
+
+#### 🔄 Regional Director, Enterprise, Growth
+**Greenhouse** · mongodb · Sales Growth EMEA
+📍 Paris | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8214009)
+🕐 Updated: 2026-10-15T15:05:04-04:00 | ID: 8214009
+
+#### 🔄 Forward Deployed Researcher - Data as a Service
+**Greenhouse** · snorkelai · 415 - DaaS Sales & Success
+📍 New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/5811245004)
+🕐 Updated: 2026-10-15T15:04:37-04:00 | ID: 5811245004
+
+#### 🔄 Director, Sales Strategy & Planning
+**Greenhouse** · mongodb · GTM Operations
+📍 San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8238618)
+🕐 Updated: 2026-10-15T15:04:36-04:00 | ID: 8238618
+
+#### 🔄 Growth Marketing Manager
+**Greenhouse** · mongodb · Growth Marketing
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8265973)
+🕐 Updated: 2026-10-15T15:03:18-04:00 | ID: 8265973
+
+#### 🔄 Growth Marketing Manager
+**Greenhouse** · mongodb · Growth Marketing
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8265960)
+🕐 Updated: 2026-10-15T15:03:18-04:00 | ID: 8265960
+
+#### 🔄 Senior Manager, Security Operations - Detection Engineering & Incident Response
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8191934)
+🕐 Updated: 2026-10-15T15:03:15-04:00 | ID: 8191934
+
+#### 🔄 Finance Manager, Product Cost
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8165463)
+🕐 Updated: 2026-10-15T15:02:54-04:00 | ID: 8165463
+
+#### 🔄 Program Manager, Growth, Monetization & Strategic Initiatives
+**Greenhouse** · fivetran · Product Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7997442003)
+🕐 Updated: 2026-10-15T15:02:42-04:00 | ID: 7997442003
+
+#### 🔄 Manager, Go-to-Market Enablement Business Partners
+**Greenhouse** · stripe · 1512 Global Sales Enablement
+📍 San Francisco; Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212674)
+🕐 Updated: 2026-10-15T15:02:40-04:00 | ID: 8212674
+
+#### 🔄 Senior UX Researcher
+**Greenhouse** · fivetran · Product Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7990835003)
+🕐 Updated: 2026-10-15T15:02:39-04:00 | ID: 7990835003
+
+#### 🔄 Senior Manager, AI and People Transformation
+**Greenhouse** · mongodb · HR Operations
+📍 New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8227250)
+🕐 Updated: 2026-10-15T15:02:25-04:00 | ID: 8227250
+
+#### 🔄 Sr. Manager, Corporate Development & Ventures
+**Greenhouse** · mongodb · Ventures - Investing & Corporate Development
+📍 Austin; New York City; Palo Alto; San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8211464)
+🕐 Updated: 2026-10-15T15:01:56-04:00 | ID: 8211464
+
+#### 🔄 Senior Manager, Procurement
+**Greenhouse** · mongodb · Procurement
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8224592)
+🕐 Updated: 2026-10-15T15:01:44-04:00 | ID: 8224592
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · circleci · Engineering - Product Experience
+📍 Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid | 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8814842002/?gh_jid=8814842002)
+🕐 Updated: 2026-10-15T15:01:10-04:00 | ID: 8814842002
+
+#### 🔄 Sales Consultant, Home Equity
+**Greenhouse** · hometap · Sales
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/hometap/jobs/5163960007)
+🕐 Updated: 2026-10-15T15:00:57-04:00 | ID: 5163960007
+
+#### 🔄 Strategic Account Manager, Business Clients (FX & Payments)
+**Greenhouse** · convera · Sales - Small Business
+📍 Work From Home - USA | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4926334101)
+🕐 Updated: 2026-10-15T15:00:49-04:00 | ID: 4926334101
+
+#### 🔄 Senior Manager, Marketing
+**Greenhouse** · mongodb · International Marketing - APAC
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8167173)
+🕐 Updated: 2026-10-15T15:00:39-04:00 | ID: 8167173
+
+#### 🔄 AI/ML Engineer
+**Greenhouse** · chime · Data Science & Machine Learning
+📍 Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002)
+🕐 Updated: 2026-10-15T15:00:27-04:00 | ID: 8569366002
+
+#### 🔄 Account Executive - B2C - West Coast
+**Greenhouse** · hometap · Sales
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/hometap/jobs/5177199007)
+🕐 Updated: 2026-10-15T15:00:00-04:00 | ID: 5177199007
+
+#### 🔄 Sales Consultant, Home Equity - West Coast
+**Greenhouse** · hometap · Sales
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/hometap/jobs/5185028007)
+🕐 Updated: 2026-10-15T14:59:51-04:00 | ID: 5185028007
+
+#### 🔄 Sr. Director, Product Management
+**Greenhouse** · chime · Spending, Saving, & Investing Product
+📍 San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8569267002?gh_jid=8569267002)
+🕐 Updated: 2026-10-15T14:59:14-04:00 | ID: 8569267002
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · circleci · Engineering - Product Experience
+📍 Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid | 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8475304002/?gh_jid=8475304002)
+🕐 Updated: 2026-10-15T14:59:11-04:00 | ID: 8475304002
+
+#### 🔄 Senior Manager, Sales Operations
+**Greenhouse** · mongodb · GTM Operations
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8056742)
+🕐 Updated: 2026-10-15T14:58:41-04:00 | ID: 8056742
+
+#### 🔄 Services Sales (Engagement Manager)
+**Greenhouse** · mongodb · Engagement Manager AMER
+📍 San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7599693)
+🕐 Updated: 2026-10-15T14:57:35-04:00 | ID: 7599693
+
+#### 🔄 Senior Manager, Recruiting Operations
+**Greenhouse** · mongodb · Recruiting
+📍 Austin; Chicago; New York City; Palo Alto; San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7782383)
+🕐 Updated: 2026-10-15T14:57:09-04:00 | ID: 7782383
+
+#### 🔄 Finance Manager, Inventory Management
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8165471)
+🕐 Updated: 2026-10-15T14:56:46-04:00 | ID: 8165471
+
+#### 🔄 Staff Product Manager - Internal AI
+**Greenhouse** · mongodb · Internal AI
+📍 Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7781724)
+🕐 Updated: 2026-10-15T14:56:25-04:00 | ID: 7781724
+
+#### 🔄 Senior Manager, Technical Revenue
+**Greenhouse** · mongodb · Revenue, OTC & QTC
+📍 Austin; New York City; Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7736164)
+🕐 Updated: 2026-10-15T14:55:52-04:00 | ID: 7736164
+
+#### 🔄 Senior Product Manager, Order to Cash
+**Greenhouse** · mongodb · FIN Tech
+📍 Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8082623)
+🕐 Updated: 2026-10-15T14:55:30-04:00 | ID: 8082623
+
+#### 🔄 Product Manager, Internal Financial Data
+**Greenhouse** · mongodb · Data & Platform
+📍 Austin; New York City; Palo Alto; San Francisco; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7908293)
+🕐 Updated: 2026-10-15T14:55:25-04:00 | ID: 7908293
+
+#### 🔄 Senior Product Manager, Post Sales
+**Greenhouse** · mongodb · GTM Tech
+📍 Austin; New York City; Palo Alto; Seattle | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7975695)
+🕐 Updated: 2026-10-15T14:55:21-04:00 | ID: 7975695
+
+#### 🔄 Senior Program Manager
+**Greenhouse** · mongodb · Technical Support Escalation Management
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8267063)
+🕐 Updated: 2026-10-15T14:54:12-04:00 | ID: 8267063
+
+#### 🔄 Senior Program Manager
+**Greenhouse** · mongodb · Technical Support Escalation Management
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8267650)
+🕐 Updated: 2026-10-15T14:54:12-04:00 | ID: 8267650
+
+#### 🔄 Senior Program Manager
+**Greenhouse** · mongodb · Technical Support Escalation Management
+📍 Atlanta; New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8267061)
+🕐 Updated: 2026-10-15T14:54:12-04:00 | ID: 8267061
+
+#### 🔄 Senior IT Specialist, Executive Technology
+**Greenhouse** · mongodb · Global Enterprise Technology (GET)
+📍 Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8046751)
+🕐 Updated: 2026-10-15T14:54:07-04:00 | ID: 8046751
+
+#### 🔄 Senior Data Product Manager, Product Telemetry
+**Greenhouse** · mongodb · Data & Platform
+📍 New York City; Palo Alto; San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7428476)
+🕐 Updated: 2026-10-15T14:54:01-04:00 | ID: 7428476
+
+#### 🔄 Vice President, Global Communications
+**Greenhouse** · mongodb · Global Communications
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8205340)
+🕐 Updated: 2026-10-15T14:53:24-04:00 | ID: 8205340
+
+#### 🔄 Senior Manager, Financial Planning & Analysis
+**Greenhouse** · mongodb · FP&A - G&A & Corporate
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8072506)
+🕐 Updated: 2026-10-15T14:50:49-04:00 | ID: 8072506
+
+#### 🔄 Senior Manager, Financial Planning & Analysis
+**Greenhouse** · mongodb · FP&A - G&A & Corporate
+📍 Austin; New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8072504)
+🕐 Updated: 2026-10-15T14:50:49-04:00 | ID: 8072504
+
+#### 🔄 Senior Manager, Financial Planning & Analysis
+**Greenhouse** · mongodb · FP&A - G&A & Corporate
+📍 Austin; New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8154864)
+🕐 Updated: 2026-10-15T14:49:55-04:00 | ID: 8154864
+
+#### 🔄 Senior Manager, Financial Planning & Analysis
+**Greenhouse** · mongodb · FP&A - G&A & Corporate
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8209989)
+🕐 Updated: 2026-10-15T14:49:55-04:00 | ID: 8209989
+
+#### 🔄 Director, Partner Programs
+**Greenhouse** · mongodb · Partner Programs
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8077491)
+🕐 Updated: 2026-10-15T14:49:04-04:00 | ID: 8077491
+
+#### 🔄 Machine Learning Engineer
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7131934)
+🕐 Updated: 2026-10-15T14:48:54-04:00 | ID: 7131934
+
+#### 🔄 Machine Learning Engineer
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7131932)
+🕐 Updated: 2026-10-15T14:48:51-04:00 | ID: 7131932
+
+#### 🔄 Corporate Legal Director - Securities, M&A
+**Greenhouse** · mongodb · Legal & Risk Mgmt
+📍 New York City; Palo Alto; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8234338)
+🕐 Updated: 2026-10-15T14:48:05-04:00 | ID: 8234338
+
+#### 🔄 Senior Software Engineer (SRE), Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Austin; New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8274765)
+🕐 Updated: 2026-10-15T14:47:50-04:00 | ID: 8274765
+
+#### 🔄 Senior Site Reliability Engineer, Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Austin; New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7668289)
+🕐 Updated: 2026-10-15T14:47:41-04:00 | ID: 7668289
+
+#### 🔄 Associate Technical Services Engineer II
+**Greenhouse** · mongodb · Technical Support AMER
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8234520)
+🕐 Updated: 2026-10-15T14:47:35-04:00 | ID: 8234520
+
+#### 🔄 Regional Revenue Marketing Manager
+**Greenhouse** · mongodb · Americas Marketing
+📍 Chicago; Minneapolis | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8172166)
+🕐 Updated: 2026-10-15T14:47:26-04:00 | ID: 8172166
+
+#### 🔄 Senior Consulting Engineer
+**Greenhouse** · mongodb · PS Field Delivery
+📍 Colorado; Illinois; Texas | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8146372)
+🕐 Updated: 2026-10-15T14:47:14-04:00 | ID: 8146372
+
+#### 🔄 Senior Project Manager - Professional Services
+**Greenhouse** · mongodb · PS Project Management
+📍 Austin; Chicago; Denver; Los Angeles | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8213746)
+🕐 Updated: 2026-10-15T14:46:59-04:00 | ID: 8213746
+
+#### 🔄 Senior Project Manager - Professional Services
+**Greenhouse** · mongodb · PS Project Management
+📍 Vancouver | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8213748)
+🕐 Updated: 2026-10-15T14:46:59-04:00 | ID: 8213748
+
+#### 🔄 Senior Director Product Management, Growth
+**Greenhouse** · mongodb · Growth PM
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8157328)
+🕐 Updated: 2026-10-15T14:46:44-04:00 | ID: 8157328
+
+#### 🔄 Director, Strategic Events
+**Greenhouse** · mongodb · Strategic Events
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8069976)
+🕐 Updated: 2026-10-15T14:46:38-04:00 | ID: 8069976
+
+#### 🔄 Strategic Treasury Manager
+**Greenhouse** · coreweave · Finance
+📍 New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4680206006&board=coreweave&gh_jid=4680206006)
+🕐 Updated: 2026-10-15T14:46:38-04:00 | ID: 4680206006
+
+#### 🔄 Strategic Finance Analyst
+**Greenhouse** · coreweave · Finance
+📍 New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4718134006&board=coreweave&gh_jid=4718134006)
+🕐 Updated: 2026-10-15T14:46:06-04:00 | ID: 4718134006
+
+#### 🔄 Digital Adoption & Lifecycle Manager
+**Greenhouse** · mixpanel · Customer Engineering
+📍 New York City, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8269024)
+🕐 Updated: 2026-10-15T14:45:48-04:00 | ID: 8269024
+
+#### 🔄 Senior Manager, Treasury Operations
+**Greenhouse** · coreweave · Finance
+📍 New York, NY / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4698102006&board=coreweave&gh_jid=4698102006)
+🕐 Updated: 2026-10-15T14:45:40-04:00 | ID: 4698102006
+
+#### 🔄 Digital Adoption & Lifecycle Manager
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8268370)
+🕐 Updated: 2026-10-15T14:45:33-04:00 | ID: 8268370
+
+#### 🔄 Director, Customer Success Management
+**Greenhouse** · mongodb · Customer Success EMEA
+📍 London | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8256905)
+🕐 Updated: 2026-10-15T14:45:26-04:00 | ID: 8256905
+
+#### 🔄 Digital Adoption & Lifecycle Manager
+**Greenhouse** · mixpanel · Customer Engineering
+📍 San Francisco, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8260692)
+🕐 Updated: 2026-10-15T14:45:22-04:00 | ID: 8260692
+
+#### 🔄 Sr. Manager, Revenue Operations
+**Greenhouse** · ziprecruiter · 405 Revenue Operations
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/8072236)
+🕐 Updated: 2026-10-15T14:45:19-04:00 | ID: 8072236
+
+#### 🔄 Manager, Strategic Finance
+**Greenhouse** · coreweave · Finance
+📍 New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4718607006&board=coreweave&gh_jid=4718607006)
+🕐 Updated: 2026-10-15T14:45:13-04:00 | ID: 4718607006
+
+#### 🔄 Senior Manager, Customer Success
+**Greenhouse** · mongodb · Customer Success Americas
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8264921)
+🕐 Updated: 2026-10-15T14:45:11-04:00 | ID: 8264921
+
+#### 🔄 Manager, Strategic Finance
+**Greenhouse** · coreweave · Finance
+📍 New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4718610006&board=coreweave&gh_jid=4718610006)
+🕐 Updated: 2026-10-15T14:44:55-04:00 | ID: 4718610006
+
+#### 🔄 Strategic Account Director
+**Greenhouse** · mongodb · Sales Growth NAMER
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7967394)
+🕐 Updated: 2026-10-15T14:44:29-04:00 | ID: 7967394
+
+#### 🔄 Account Executive, SaaS Product Line Specialist
+**Greenhouse** · rubrik · Sales
+📍 Central or Western US | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8202834?gh_jid=8202834)
+🕐 Updated: 2026-10-15T14:43:49-04:00 | ID: 8202834
+
+#### 🔄 Customer Success Executive
+**Greenhouse** · okta · Customer Success Management-750
+📍 Los Angeles, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8167464?gh_jid=8167464)
+🕐 Updated: 2026-10-15T14:43:27-04:00 | ID: 8167464
+
+#### 🔄 Senior Manager, GTM Customer Recruiting
+**Greenhouse** · mongodb · Recruiting
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8229901)
+🕐 Updated: 2026-10-15T14:42:57-04:00 | ID: 8229901
+
+#### 🔄 Dec 2026 Grads: Sales Development Representative (AAE), Tampa
+**Greenhouse** · verkada · Sales Development
+📍 St. Petersburg, FL United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5226752007)
+🕐 Updated: 2026-10-15T14:42:54-04:00 | ID: 5226752007
+
+#### 🔄 Forward Deployed Engineer, Industry Solutions
+**Greenhouse** · mongodb · Industry Solutions
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8153137)
+🕐 Updated: 2026-10-15T14:40:54-04:00 | ID: 8153137
+
+#### 🔄 Spécialiste, Sécurité
+**Greenhouse** · airbnb · Community Support
+📍 Canada | 🔗 [Apply Here](https://careers.airbnb.com/positions/7417294?gh_jid=7417294)
+🕐 Updated: 2026-10-15T14:40:06-04:00 | ID: 7417294
+
+#### 🔄 Support Specialist, Safety
+**Greenhouse** · airbnb · Community Support
+📍 Canada | 🔗 [Apply Here](https://careers.airbnb.com/positions/7417293?gh_jid=7417293)
+🕐 Updated: 2026-10-15T14:39:45-04:00 | ID: 7417293
+
+#### 🔄 Senior Staff Product Manager, Query
+**Greenhouse** · mongodb · Core Product Management
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7993419)
+🕐 Updated: 2026-10-15T14:39:38-04:00 | ID: 7993419
+
+#### 🔄 Senior Staff Product Manager, Query
+**Greenhouse** · mongodb · Core Product Management
+📍 Ontario | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8028587)
+🕐 Updated: 2026-10-15T14:39:38-04:00 | ID: 8028587
+
+#### 🔄 Senior Staff Product Manager, Query
+**Greenhouse** · mongodb · Core Product Management
+📍 Alberta; British Columbia; Manitoba; Nova Scotia; Quebec | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8028593)
+🕐 Updated: 2026-10-15T14:39:38-04:00 | ID: 8028593
+
+#### 🔄 Senior Research Scientist
+**Greenhouse** · mongodb · Voyage AI Research
+📍 Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7891161)
+🕐 Updated: 2026-10-15T14:39:34-04:00 | ID: 7891161
+
+#### 🔄 Sales Development Representative (AAE), Salt Lake City
+**Greenhouse** · verkada · Sales Development
+📍 Salt Lake City, UT United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4087170007)
+🕐 Updated: 2026-10-15T14:38:27-04:00 | ID: 4087170007
+
+#### 🔄 Senior Software Engineer, Identity & Access Management (FedRamp)
+**Greenhouse** · mongodb · Identity and Access Management
+📍 Austin; Boston; Chicago; New York City; Palo Alto; Philadelphia; San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8140620)
+🕐 Updated: 2026-10-15T14:36:46-04:00 | ID: 8140620
+
+#### 🔄 Senior Software Engineer, Identity & Access Management (FedRAMP)
+**Greenhouse** · mongodb · Identity and Access Management
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8140617)
+🕐 Updated: 2026-10-15T14:36:41-04:00 | ID: 8140617
+
+#### 🔄 Staff Engineer, Atlas Agent Engine
+**Greenhouse** · mongodb · Magenta
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8173735)
+🕐 Updated: 2026-10-15T14:36:37-04:00 | ID: 8173735
+
+#### 🔄 Staff Engineer, Observability
+**Greenhouse** · mongodb · Observability & Adoption Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7613587)
+🕐 Updated: 2026-10-15T14:35:52-04:00 | ID: 7613587
+
+#### 🔄 Principal, Strategic Finance & Analytics, Acquisition
+**Greenhouse** · airbnb · Financial Planning and Analysis
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8209984?gh_jid=8209984)
+🕐 Updated: 2026-10-15T14:35:43-04:00 | ID: 8209984
+
+#### 🔄 Staff Engineer, Search Systems
+**Greenhouse** · mongodb · Atlas Search
+📍 San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8110822)
+🕐 Updated: 2026-10-15T14:34:58-04:00 | ID: 8110822
+
+#### 🔄 Senior Software Engineer, Atlas Search Systems
+**Greenhouse** · mongodb · Atlas Search
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8081430)
+🕐 Updated: 2026-10-15T14:34:54-04:00 | ID: 8081430
+
+#### 🔄 Software Engineer 3, Server Programmability
+**Greenhouse** · mongodb · Database Interfaces and Architecture
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8249278)
+🕐 Updated: 2026-10-15T14:34:49-04:00 | ID: 8249278
+
+#### 🔄 Staff Product Manager, Moderation
+**Greenhouse** · reddit · Tech Admin
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8088710)
+🕐 Updated: 2026-10-15T14:33:36-04:00 | ID: 8088710
+
+#### 🔄 Senior Software Engineer, Query Optimization
+**Greenhouse** · mongodb · Online Transaction Processing
+📍 Austin; New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7870876)
+🕐 Updated: 2026-10-15T14:33:33-04:00 | ID: 7870876
+
+#### 🔄 Senior Software Engineer, Cluster Scalability
+**Greenhouse** · mongodb · Online Transaction Processing
+📍 British Columbia; Ontario | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8221184)
+🕐 Updated: 2026-10-15T14:33:17-04:00 | ID: 8221184
+
+#### 🔄 Senior Software Engineer, Cluster Scalability
+**Greenhouse** · mongodb · Online Transaction Processing
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8221182)
+🕐 Updated: 2026-10-15T14:33:17-04:00 | ID: 8221182
+
+#### 🔄 Manager, Engineering
+**Greenhouse** · mongodb · Observability & Adoption Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8066812)
+🕐 Updated: 2026-10-15T14:33:07-04:00 | ID: 8066812
+
+#### 🔄 Product Pricing & Monetization Strategy - Associate
+**Greenhouse** · mongodb · Core Product Management
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7523751)
+🕐 Updated: 2026-10-15T14:32:50-04:00 | ID: 7523751
+
+#### 🔄 Sr. Growth Product Marketing Manager
+**Greenhouse** · chime · Growth Marketing
+📍 New York, NY, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8790029002?gh_jid=8790029002)
+🕐 Updated: 2026-10-15T14:32:46-04:00 | ID: 8790029002
+
+#### 🔄 Software Engineer 3, Atlas Clusters Platform
+**Greenhouse** · mongodb · Atlas Core Data Services
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8089859)
+🕐 Updated: 2026-10-15T14:32:36-04:00 | ID: 8089859
+
+#### 🔄 Customer Success Senior Manager
+**Greenhouse** · ripple · Customer Success
+📍 New York, NY, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8241656?gh_jid=8241656)
+🕐 Updated: 2026-10-15T14:32:35-04:00 | ID: 8241656
+
+#### 🔄 Customer Success Senior Manager
+**Greenhouse** · ripple · Customer Success
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8241644?gh_jid=8241644)
+🕐 Updated: 2026-10-15T14:32:35-04:00 | ID: 8241644
+
+#### 🔄 Lifecycle Marketing Manager
+**Greenhouse** · chime · Growth Marketing
+📍 New York, NY, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8752367002?gh_jid=8752367002)
+🕐 Updated: 2026-10-15T14:32:21-04:00 | ID: 8752367002
+
+#### 🔄 Software Engineer
+**Greenhouse** · mongodb · Observability & Adoption Engineering
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8065483)
+🕐 Updated: 2026-10-15T14:32:07-04:00 | ID: 8065483
+
+#### 🔄 Staff Product Manager, Community Builders
+**Greenhouse** · reddit · Tech Admin
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7996994)
+🕐 Updated: 2026-10-15T14:32:07-04:00 | ID: 7996994
+
+#### 🔄 Software Engineer 3, Networking & Observability
+**Greenhouse** · mongodb · Database Interfaces and Architecture
+📍 New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8119841)
+🕐 Updated: 2026-10-15T14:32:00-04:00 | ID: 8119841
+
+#### 🔄 Software Engineer 3, Networking & Observability
+**Greenhouse** · mongodb · Database Interfaces and Architecture
+📍 Alberta; British Columbia; Ontario; Quebec | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8119843)
+🕐 Updated: 2026-10-15T14:32:00-04:00 | ID: 8119843
+
+#### 🔄 Senior Software Engineer, Storage Layer Services
+**Greenhouse** · mongodb · Durability and Availability
+📍 New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7947560)
+🕐 Updated: 2026-10-15T14:31:50-04:00 | ID: 7947560
+
+#### 🔄 Senior Software Engineer, Atlas Clusters Security
+**Greenhouse** · mongodb · Atlas Core Data Services
+📍 San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8189170)
+🕐 Updated: 2026-10-15T14:31:44-04:00 | ID: 8189170
+
+#### 🔄 Staff Software Engineer - Query Execution
+**Greenhouse** · mongodb · Online Transaction Processing
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7915330)
+🕐 Updated: 2026-10-15T14:31:40-04:00 | ID: 7915330
+
+#### 🔄 Senior Engineering Manager, Storage Execution
+**Greenhouse** · mongodb · Online Transaction Processing
+📍 Ontario | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8163002)
+🕐 Updated: 2026-10-15T14:30:52-04:00 | ID: 8163002
+
+#### 🔄 Senior Engineering Manager, Storage Execution
+**Greenhouse** · mongodb · Online Transaction Processing
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8163000)
+🕐 Updated: 2026-10-15T14:30:52-04:00 | ID: 8163000
+
+#### 🔄 Head of Product - Interfaces
+**Greenhouse** · mercury · Product
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/6213000004)
+🕐 Updated: 2026-10-15T14:29:09-04:00 | ID: 6213000004
+
+#### 🔄 Counsel, Intellectual Property
+**Greenhouse** · coreweave · Legal & Government Affairs
+📍 Washington, D.C. | 🔗 [Apply Here](https://coreweave.com/careers/job?4721527006&board=coreweave&gh_jid=4721527006)
+🕐 Updated: 2026-10-15T14:28:04-04:00 | ID: 4721527006
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15484 fetched, 404 updated, 57 cap-skipped, 1 alerts
+- **Lever**: 0 new, 37 fetched, 0 updated, 1 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15582 fetched, 404 updated, 58 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-15 18:27 UTC
 
 ### Greenhouse
