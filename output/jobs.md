@@ -1,3 +1,527 @@
+## 📅 Run: 2026-10-15 00:16 UTC
+
+### Greenhouse
+
+#### 🆕 IT Network Engineer (OT)
+**Greenhouse** · spacex · Security Engineering · 🎯 35%
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8890337002?gh_jid=8890337002)
+🕐 Updated: 2026-10-14T20:16:19-04:00 | ID: 8890337002
+
+#### 🔄 Head of AI/Data Science, Finance & Strategy
+**Greenhouse** · robinhood · Corporate Strategy
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8180757?t=gh_src=&gh_jid=8180757)
+🕐 Updated: 2026-10-14T20:12:14-04:00 | ID: 8180757
+
+#### 🔄 Senior Security Operations Engineer I
+**Greenhouse** · samsara · IT Security
+📍 Remote - Vancouver | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084)
+🕐 Updated: 2026-10-14T20:07:42-04:00 | ID: 8027084
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · samsara · IT Security
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613)
+🕐 Updated: 2026-10-14T20:07:04-04:00 | ID: 8223613
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · samsara · IT Security
+📍 Remote - OR | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286)
+🕐 Updated: 2026-10-14T20:06:44-04:00 | ID: 8212286
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · samsara · IT Security
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369)
+🕐 Updated: 2026-10-14T20:06:13-04:00 | ID: 8204369
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · samsara · IT Security
+📍 Remote - Seattle | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105)
+🕐 Updated: 2026-10-14T20:05:52-04:00 | ID: 8021105
+
+#### 🔄 Program Manager, Growth, Monetization & Strategic Initiatives
+**Greenhouse** · fivetran · Product Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7997442003)
+🕐 Updated: 2026-10-14T19:57:18-04:00 | ID: 7997442003
+
+#### 🔄 Principal Data Scientist
+**Greenhouse** · upstart · Data Analytics Department
+📍 United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8171550)
+🕐 Updated: 2026-10-14T19:55:45-04:00 | ID: 8171550
+
+#### 🔄 Principal Data Scientist, Marketing Measurement
+**Greenhouse** · upstart · Data Analytics Department
+📍 United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8267029)
+🕐 Updated: 2026-10-14T19:52:55-04:00 | ID: 8267029
+
+#### 🔄 Account Executive - Government Accounts
+**Greenhouse** · smartsheet · APJ Enterprise Sales Reps
+📍 -REMOTE, AU- | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/5118912)
+🕐 Updated: 2026-10-14T19:51:13-04:00 | ID: 5118912
+
+#### 🔄 Risk & Monitoring Analyst IV
+**Greenhouse** · coinbase · Customer Experience
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686)
+🕐 Updated: 2026-10-14T19:50:27-04:00 | ID: 8030686
+
+#### 🔄 Product Marketing Lead - Growth & Revenue
+**Greenhouse** · mercury · Marketing
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/6013499004)
+🕐 Updated: 2026-10-14T19:50:20-04:00 | ID: 6013499004
+
+#### 🔄 Senior Back End Engineer, Data
+**Greenhouse** · altruist · Engineering
+📍 Los Angeles, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6220944004?gh_jid=6220944004)
+🕐 Updated: 2026-10-14T19:39:53-04:00 | ID: 6220944004
+
+#### 🔄 Senior Back End Engineer, Data
+**Greenhouse** · altruist · Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6206027004?gh_jid=6206027004)
+🕐 Updated: 2026-10-14T19:39:51-04:00 | ID: 6206027004
+
+#### 🔄 Sr. IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8797934002?gh_jid=8797934002)
+🕐 Updated: 2026-10-14T19:35:41-04:00 | ID: 8797934002
+
+#### 🔄 Presales Solutions Architect
+**Greenhouse** · workato · Sales and Customer Success
+📍 Boston, Massachusetts; New York, New York | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8561580002#open-roles)
+🕐 Updated: 2026-10-14T19:31:41-04:00 | ID: 8561580002
+
+#### 🔄 Senior Analyst, Compliance Technology
+**Greenhouse** · coinbase · Compliance & AML Operations
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8221985?gh_jid=8221985)
+🕐 Updated: 2026-10-14T19:18:30-04:00 | ID: 8221985
+
+#### 🔄 Strategy & BizOps Lead, Singapore
+**Greenhouse** · waymo · Strategy/BizOps (69X)
+📍 Singapore | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8142991)
+🕐 Updated: 2026-10-14T19:12:11-04:00 | ID: 8142991
+
+#### 🔄 Partner Account Manager - Charleston
+**Greenhouse** · humaninterest · Sales
+📍 Charleston, SC Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8165303)
+🕐 Updated: 2026-10-14T19:11:41-04:00 | ID: 8165303
+
+#### 🔄 Principal Brand Designer
+**Greenhouse** · snorkelai · 430 - Marketing
+📍 New York City, NY (Hybrid); San Francisco, CA (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/6215918004)
+🕐 Updated: 2026-10-14T19:09:45-04:00 | ID: 6215918004
+
+#### 🔄 Software Engineer, Backend
+**Greenhouse** · robinhood · ENG Platforms
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7263578?t=gh_src=&gh_jid=7263578)
+🕐 Updated: 2026-10-14T19:08:18-04:00 | ID: 7263578
+
+#### 🔄 Solutions Architect
+**Greenhouse** · smartsheet · Consulting
+📍 -REMOTE, USA- | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8178793)
+🕐 Updated: 2026-10-14T19:05:34-04:00 | ID: 8178793
+
+#### 🔄 Staff Product Manager - Developer Productivity
+**Greenhouse** · okta · Product Management-810
+📍 Dublin, Ireland; Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8247721?gh_jid=8247721)
+🕐 Updated: 2026-10-14T19:04:51-04:00 | ID: 8247721
+
+#### 🔄 Staff Product Designer, National Impact
+**Greenhouse** · robinhood · Brokerage Design
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648)
+🕐 Updated: 2026-10-14T19:03:26-04:00 | ID: 7804648
+
+#### 🔄 Business Risk Officer
+**Greenhouse** · mercury · Banking and Risk Operations
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/6193419004)
+🕐 Updated: 2026-10-14T19:03:21-04:00 | ID: 6193419004
+
+#### 🔄 Sr. Solutions Architect - Storage Hardware & Networking
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8282728)
+🕐 Updated: 2026-10-14T18:55:32-04:00 | ID: 8282728
+
+#### 🔄 Commercial Counsel, APAC
+**Greenhouse** · mixpanel · Legal
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8172398)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8172398
+
+#### 🔄 Customer Engineer
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Remote, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8142661)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8142661
+
+#### 🔄 Customer Engineer
+**Greenhouse** · mixpanel · Customer Engineering
+📍 New York City, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8142657)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8142657
+
+#### 🔄 Customer Value Architect
+**Greenhouse** · mixpanel · Revenue
+📍 Bengaluru, Karnataka, India (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8198286)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8198286
+
+#### 🔄 Customer Value Architect, EMEA
+**Greenhouse** · mixpanel · Revenue
+📍 London, UK (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8124267)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8124267
+
+#### 🔄 Customer Value Architect III
+**Greenhouse** · mixpanel · Revenue
+📍 San Francisco, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8138187)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8138187
+
+#### 🔄 Customer Value Architect III
+**Greenhouse** · mixpanel · Revenue
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8143102)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8143102
+
+#### 🔄 Delivery Engineer
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8207137)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8207137
+
+#### 🔄 Delivery Engineer, EMEA
+**Greenhouse** · mixpanel · Customer Engineering
+📍 London, UK (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8124207)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8124207
+
+#### 🔄 Digital Adoption & Lifecycle Manager
+**Greenhouse** · mixpanel · Customer Engineering
+📍 New York City, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8269024)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8269024
+
+#### 🔄 Digital Adoption & Lifecycle Manager
+**Greenhouse** · mixpanel · Customer Engineering
+📍 San Francisco, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8260692)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8260692
+
+#### 🔄 Digital Adoption & Lifecycle Manager
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8268370)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8268370
+
+#### 🔄 Engineering Manager, Query Service
+**Greenhouse** · mixpanel · Engineering
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7776048)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 7776048
+
+#### 🔄 Enterprise Account Executive, Malaysia & Indonesia
+**Greenhouse** · mixpanel · Revenue
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8080833)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8080833
+
+#### 🔄 Head of Sales, India
+**Greenhouse** · mixpanel · Revenue
+📍 Bengaluru, Karnataka, India (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8080826)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8080826
+
+#### 🔄 Inside Sales Representative, EMEA
+**Greenhouse** · mixpanel · Revenue
+📍 London, UK (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8128070)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8128070
+
+#### 🔄 Interactive Designer
+**Greenhouse** · mixpanel · Design
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8207163)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8207163
+
+#### 🔄 Marketing Systems Engineer
+**Greenhouse** · mixpanel · Marketing
+📍 New York City, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8201470)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8201470
+
+#### 🔄 Marketing Systems Engineer
+**Greenhouse** · mixpanel · Marketing
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8194551)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8194551
+
+#### 🔄 Outbound Strategist
+**Greenhouse** · mixpanel · Revenue
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8222210)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8222210
+
+#### 🔄 Production Designer
+**Greenhouse** · mixpanel · Marketing
+📍 London, UK (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8207178)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8207178
+
+#### 🔄 Product Manager
+**Greenhouse** · mixpanel · Product
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8223567)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8223567
+
+#### 🔄 Product Manager - Data
+**Greenhouse** · mixpanel · Product
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8263014)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8263014
+
+#### 🔄 Product Manager - Platform
+**Greenhouse** · mixpanel · Product
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8263237)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8263237
+
+#### 🔄 Regional Marketing Manager, ANZ
+**Greenhouse** · mixpanel · Marketing
+📍 Sydney, Australia (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8106851)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8106851
+
+#### 🔄 Renewals Manager
+**Greenhouse** · mixpanel · Revenue
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8240617)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8240617
+
+#### 🔄 Senior Account Executive - ANZ
+**Greenhouse** · mixpanel · Revenue
+📍 Sydney, Australia (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8040010)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8040010
+
+#### 🔄 Senior Account Executive, Enterprise - UK
+**Greenhouse** · mixpanel · Revenue
+📍 London, UK (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8142608)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8142608
+
+#### 🔄 Senior Account Executive, India
+**Greenhouse** · mixpanel · Revenue
+📍 Bengaluru, Karnataka, India (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8194560)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8194560
+
+#### 🔄 Senior Customer Engineer - ANZ
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Sydney, Australia (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8039991)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8039991
+
+#### 🔄 Senior Customer Engineer - LATAM
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Remote, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8248501)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8248501
+
+#### 🔄 Senior Customer Engineer - LATAM
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Texas, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8222214)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8222214
+
+#### 🔄 Senior Customer Engineer - LATAM
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Florida, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8237751)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8237751
+
+#### 🔄 Senior Customer Engineer - LATAM
+**Greenhouse** · mixpanel · Customer Engineering
+📍 Mexico City, Mexico (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8238224)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8238224
+
+#### 🔄 Senior Customer Value Architect
+**Greenhouse** · mixpanel · Revenue
+📍 Bengaluru, Karnataka, India (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8198277)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8198277
+
+#### 🔄 Senior Data Scientist, AI Product Insights
+**Greenhouse** · mixpanel · Engineering
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8115028)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8115028
+
+#### 🔄 Senior Enterprise Account Executive, Japan
+**Greenhouse** · mixpanel · Revenue
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8080832)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8080832
+
+#### 🔄 Senior Finance Manager, Product & Engineering
+**Greenhouse** · mixpanel · Finance
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8250405)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8250405
+
+#### 🔄 Senior Outbound Strategist
+**Greenhouse** · mixpanel · Revenue
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8222194)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8222194
+
+#### 🔄 Senior Partner Sales Manager - ANZ
+**Greenhouse** · mixpanel · Partnerships
+📍 Sydney, Australia (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8039885)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8039885
+
+#### 🔄 Senior Partner Sales Manager - Asia and India
+**Greenhouse** · mixpanel · Partnerships
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8080828)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8080828
+
+#### 🔄 Senior Partner Sales Manager - Japan and Korea
+**Greenhouse** · mixpanel · Partnerships
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8080835)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8080835
+
+#### 🔄 Senior People Business Partner
+**Greenhouse** · mixpanel · People
+📍 London, UK (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7776659)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 7776659
+
+#### 🔄 Senior Software Engineer, Data Foundation
+**Greenhouse** · mixpanel · Engineering
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/7943560)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 7943560
+
+#### 🔄 Senior Strategic Finance Associate, G&A
+**Greenhouse** · mixpanel · Finance
+📍 New York City, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8238551)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8238551
+
+#### 🔄 Senior Strategic Finance Associate, G&A
+**Greenhouse** · mixpanel · Finance
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8222166)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8222166
+
+#### 🔄 Software Engineer, Distributed Systems
+**Greenhouse** · mixpanel · Engineering
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8162414)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8162414
+
+#### 🔄 Staff Design Engineer
+**Greenhouse** · mixpanel · Design
+📍 San Francisco, US (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8053868)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8053868
+
+#### 🔄 Startup Program Manager
+**Greenhouse** · mixpanel · Marketing
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8107402)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8107402
+
+#### 🔄 Startup Program Manager
+**Greenhouse** · mixpanel · Marketing
+📍 New York City, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8112770)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8112770
+
+#### 🔄 Strategic Finance Associate, GTM
+**Greenhouse** · mixpanel · Finance
+📍 San Francisco, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8075971)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8075971
+
+#### 🔄 Strategic Finance Associate, GTM
+**Greenhouse** · mixpanel · Finance
+📍 New York City, US (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8075972)
+🕐 Updated: 2026-10-14T18:51:41-04:00 | ID: 8075972
+
+#### 🔄 Account Executive, Territory (Mid-Market)
+**Greenhouse** · verkada · Mid-Market Territory
+📍 Atlanta, GA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5026955007)
+🕐 Updated: 2026-10-14T18:49:15-04:00 | ID: 5026955007
+
+#### 🔄 Customer Experience Representative, Trump Accounts
+**Greenhouse** · robinhood · Customer Care
+📍 Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8230730?t=gh_src=&gh_jid=8230730)
+🕐 Updated: 2026-10-14T18:48:20-04:00 | ID: 8230730
+
+#### 🔄 Team Lead, Executive Support
+**Greenhouse** · databricks · Corporate Operations
+📍 Costa Rica | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885966002)
+🕐 Updated: 2026-10-14T18:47:28-04:00 | ID: 8885966002
+
+#### 🔄 Enterprise Account Executive, LATAM
+**Greenhouse** · verkada · Global
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4140723007)
+🕐 Updated: 2026-10-14T18:41:45-04:00 | ID: 4140723007
+
+#### 🔄 Technical Program Management, Service Quality
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, US; San Francisco, CA, US | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8248314)
+🕐 Updated: 2026-10-14T18:38:16-04:00 | ID: 8248314
+
+#### 🔄 Senior Operational Risk Manager
+**Greenhouse** · mercury · Enterprise Risk
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/6220965004)
+🕐 Updated: 2026-10-14T18:36:18-04:00 | ID: 6220965004
+
+#### 🔄 Customer Success Manager, Platforms
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 Chicago, IL; Atlanta, GA; San Francisco, CA; Seattle, WA; New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8097840)
+🕐 Updated: 2026-10-14T18:34:16-04:00 | ID: 8097840
+
+#### 🔄 Product Manager, Trust and Safety
+**Greenhouse** · chime · Trust and Safety Product
+📍 Chicago, IL, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002)
+🕐 Updated: 2026-10-14T18:33:37-04:00 | ID: 8831472002
+
+#### 🔄 Principal Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8081530)
+🕐 Updated: 2026-10-14T18:33:12-04:00 | ID: 8081530
+
+#### 🔄 Sales Development Representative (AAE), Salt Lake City
+**Greenhouse** · verkada · Sales Development
+📍 Salt Lake City, UT United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4087170007)
+🕐 Updated: 2026-10-14T18:22:54-04:00 | ID: 4087170007
+
+#### 🔄 Senior Data Management Partner
+**Greenhouse** · fivetran · HR Department
+📍 Bengaluru, Karnataka, India, APAC | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8015935003)
+🕐 Updated: 2026-10-14T18:16:13-04:00 | ID: 8015935003
+
+#### 🔄 Sr Finance Systems Admin (L1 Support & Admin)
+**Greenhouse** · mongodb · FIN Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8017380)
+🕐 Updated: 2026-10-14T18:14:42-04:00 | ID: 8017380
+
+#### 🔄 Senior Software Engineer, Network Development
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4721908006&board=coreweave&gh_jid=4721908006)
+🕐 Updated: 2026-10-14T18:14:00-04:00 | ID: 4721908006
+
+#### 🔄 Senior Administrator - Business Systems
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8036348)
+🕐 Updated: 2026-10-14T18:11:50-04:00 | ID: 8036348
+
+#### 🔄 High-Speed Electro-Optical IC Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8889891002?gh_jid=8889891002)
+🕐 Updated: 2026-10-14T18:06:32-04:00 | ID: 8889891002
+
+#### 🔄 Staff Machine Learning Engineer, TLM , Labeling Automation
+**Greenhouse** · waymo · Sys Intel and Machine Lrng (SQT)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7719332)
+🕐 Updated: 2026-10-14T18:06:24-04:00 | ID: 7719332
+
+#### 🔄 Enterprise Account Executive - Manufacturing
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8879335002)
+🕐 Updated: 2026-10-14T18:03:25-04:00 | ID: 8879335002
+
+#### 🔄 Senior Product Manager (R14156)
+**Greenhouse** · oportun · Product & Design
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4724337005)
+🕐 Updated: 2026-10-14T18:01:36-04:00 | ID: 4724337005
+
+#### 🔄 Lead Salesforce Engineer
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8018420)
+🕐 Updated: 2026-10-14T17:59:51-04:00 | ID: 8018420
+
+#### 🔄 Salesforce CPQ engineer 3
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779016)
+🕐 Updated: 2026-10-14T17:59:51-04:00 | ID: 7779016
+
+#### 🔄 Senior Salesforce Engineer
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8018423)
+🕐 Updated: 2026-10-14T17:59:51-04:00 | ID: 8018423
+
+#### 🔄 Senior Engineer - GTM Tech
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8094387)
+🕐 Updated: 2026-10-14T17:59:50-04:00 | ID: 8094387
+
+#### 🔄 People Partner, Technology
+**Greenhouse** · stripe · 6550 People Partners
+📍 San Francisco, Chicago, New York City or Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7466921)
+🕐 Updated: 2026-10-14T17:59:23-04:00 | ID: 7466921
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15472 fetched, 101 updated, 38 cap-skipped, 0 alerts
+- **Lever**: 0 new, 35 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15570 fetched, 101 updated, 38 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-14 21:56 UTC
 
 ### Greenhouse
