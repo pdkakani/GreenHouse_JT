@@ -1,3 +1,1197 @@
+## 📅 Run: 2026-10-15 04:56 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Data Scientist
+**Greenhouse** · mongodb · Analytics
+📍 Cork, Ireland; Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8135458)
+🕐 Updated: 2026-10-15T00:48:06-04:00 | ID: 8135458
+
+#### 🔄 Engineer 3 - Business Systems
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8122751)
+🕐 Updated: 2026-10-15T00:41:34-04:00 | ID: 8122751
+
+#### 🔄 Engineer 3 - GTM Tech
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7943868)
+🕐 Updated: 2026-10-15T00:41:34-04:00 | ID: 7943868
+
+#### 🔄 Salesforce Engineer III, FedRAMP
+**Greenhouse** · mongodb · GTM Tech
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7948530)
+🕐 Updated: 2026-10-15T00:41:34-04:00 | ID: 7948530
+
+#### 🔄 Senior Administrator - Business Systems
+**Greenhouse** · mongodb · GTM Tech
+📍 India | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7778975)
+🕐 Updated: 2026-10-15T00:41:34-04:00 | ID: 7778975
+
+#### 🔄 Senior Engineer - GTM Tech
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8008794)
+🕐 Updated: 2026-10-15T00:41:34-04:00 | ID: 8008794
+
+#### 🔄 Staff Engineer - Business Systems
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8122748)
+🕐 Updated: 2026-10-15T00:41:34-04:00 | ID: 8122748
+
+#### 🔄 Senior Software Engineer, Backend - Overseer (Platform)
+**Greenhouse** · coinbase · Engineering - Backend
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630)
+🕐 Updated: 2026-10-15T00:34:23-04:00 | ID: 8238630
+
+#### 🔄 Staff Site Reliability Engineer
+**Greenhouse** · okta · Tech Ops-610
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8255902?gh_jid=8255902)
+🕐 Updated: 2026-10-15T00:20:33-04:00 | ID: 8255902
+
+#### 🔄 Enterprise Account Executive, Federal Health
+**Greenhouse** · databricks · Public Sector Sales
+📍 Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870724002)
+🕐 Updated: 2026-10-15T00:01:33-04:00 | ID: 8870724002
+
+#### 🔄 Senior Analyst, Advanced Analytics - Gurugram
+**Greenhouse** · airbnb · Analytics
+📍 Gurugram, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8081180?gh_jid=8081180)
+🕐 Updated: 2026-10-14T23:53:36-04:00 | ID: 8081180
+
+#### 🔄 Senior Software Engineer - SRE
+**Greenhouse** · okta · Tech Ops-610
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+🕐 Updated: 2026-10-14T23:48:26-04:00 | ID: 8263916
+
+#### 🔄 Account Executive
+**Greenhouse** · rubrik · Sales
+📍 Paris, France | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7820794?gh_jid=7820794)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7820794
+
+#### 🔄 Account Executive, Named - Germany
+**Greenhouse** · rubrik · Sales
+📍 Germany, Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8105674?gh_jid=8105674)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8105674
+
+#### 🔄 Account Executive, NAS Product Specialist
+**Greenhouse** · rubrik · Sales
+📍 Texas | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8202815?gh_jid=8202815)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8202815
+
+#### 🔄 Account Executive, SaaS Product Line Specialist
+**Greenhouse** · rubrik · Sales
+📍 Central or Western US | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8202834?gh_jid=8202834)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8202834
+
+#### 🔄 Account Executive, Sweden
+**Greenhouse** · rubrik · Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8108721?gh_jid=8108721)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8108721
+
+#### 🔄 AI Product Sales Manager
+**Greenhouse** · rubrik · Sales
+📍 Southeast, U.S. | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8122039?gh_jid=8122039)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8122039
+
+#### 🔄 Channel Development Manager - CDW (East Coast)
+**Greenhouse** · rubrik · Sales
+📍 East Coast | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8250207?gh_jid=8250207)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8250207
+
+#### 🔄 Channel/Partner Sales Engineer - Southeast
+**Greenhouse** · rubrik · Sales Engineering
+📍 Atlanta, GA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8220615?gh_jid=8220615)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8220615
+
+#### 🔄 Channels Operations Manager, Managed Services
+**Greenhouse** · rubrik · Sales
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8016354?gh_jid=8016354)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8016354
+
+#### 🔄 Compensation Business Partner
+**Greenhouse** · rubrik · People
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8241918?gh_jid=8241918)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8241918
+
+#### 🔄 Corporate Accounting Leader
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8077844?gh_jid=8077844)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8077844
+
+#### 🔄 Customer Resilience Manager
+**Greenhouse** · rubrik · Support
+📍 Mumbai | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8242348?gh_jid=8242348)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8242348
+
+#### 🔄 Customer Resilience Manager - Customer Success (Remote)
+**Greenhouse** · rubrik · Support
+📍 US Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8139779?gh_jid=8139779)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8139779
+
+#### 🔄 Customer Success Engineer/ Sr Customer Success Engineer
+**Greenhouse** · rubrik · Support
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8143267?gh_jid=8143267)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8143267
+
+#### 🔄 Customer Success Manager - Growth and Retention
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8141059?gh_jid=8141059)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8141059
+
+#### 🔄 Customer Success Manager - Growth and Retention
+**Greenhouse** · rubrik · Support
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140013?gh_jid=8140013)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140013
+
+#### 🔄 Cyber Resilience Architect, APJ
+**Greenhouse** · rubrik · Sales Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7486469?gh_jid=7486469)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7486469
+
+#### 🔄 Director, Corporate IT — Employee Experience & AI
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8232109?gh_jid=8232109)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8232109
+
+#### 🔄 Director, Product Design
+**Greenhouse** · rubrik · Product
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7576642?gh_jid=7576642)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7576642
+
+#### 🔄 Director,Product Design
+**Greenhouse** · rubrik · Product
+📍 Bangalore,India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7508560?gh_jid=7508560)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7508560
+
+#### 🔄 Employee Relations Partner & HR for HR
+**Greenhouse** · rubrik · People
+📍 United States | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8279108?gh_jid=8279108)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8279108
+
+#### 🔄 Engineering Manager Polaris Platform
+**Greenhouse** · rubrik · Engineering
+📍 Bengaluru | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8161018
+
+#### 🔄 ENG Project/ Program - Intern
+**Greenhouse** · rubrik · Engineering
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8166514
+
+#### 🔄 Enterprise Account Executive, Melbourne (Large Enterprise) - New Logo/Hunting
+**Greenhouse** · rubrik · Sales
+📍 Melbourne, Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8223357?gh_jid=8223357)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8223357
+
+#### 🔄 Enterprise Account Executive (New Logo/Hunting) - Large Enterprise
+**Greenhouse** · rubrik · Sales
+📍 Mumbai | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8223186?gh_jid=8223186)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8223186
+
+#### 🔄 Enterprise Account Executive, Southern California
+**Greenhouse** · rubrik · Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8221800?gh_jid=8221800)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8221800
+
+#### 🔄 Enterprise Sales Engineer, UK
+**Greenhouse** · rubrik · Sales Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7394782?gh_jid=7394782)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7394782
+
+#### 🔄 Field Sales Operations Manager
+**Greenhouse** · rubrik · Sales
+📍 Remote - United States | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8173615?gh_jid=8173615)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8173615
+
+#### 🔄 Finance Manager, GTM
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8273254?gh_jid=8273254)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8273254
+
+#### 🔄 Global Professional Services Partner Leader, Professional Services
+**Greenhouse** · rubrik · Professional Services
+📍 Remote, US | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140593?gh_jid=8140593)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140593
+
+#### 🔄 Global Resource Management Leader, Professional Services
+**Greenhouse** · rubrik · Professional Services
+📍 USA , Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140591?gh_jid=8140591)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140591
+
+#### 🔄 Global Solutions Architect
+**Greenhouse** · rubrik · Support
+📍 Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8158611?gh_jid=8158611)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8158611
+
+#### 🔄 Global Solutions Architect
+**Greenhouse** · rubrik · Professional Services
+📍 USA , Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140609?gh_jid=8140609)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140609
+
+#### 🔄 Global Solutions Architect - Cloud
+**Greenhouse** · rubrik · Support
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8154541?gh_jid=8154541)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8154541
+
+#### 🔄 GSI Services Program Manager
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8196573?gh_jid=8196573)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8196573
+
+#### 🔄 HR Business Partner, Corporate Functions
+**Greenhouse** · rubrik · People
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8207122?gh_jid=8207122)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8207122
+
+#### 🔄 HR Business Partner R&D
+**Greenhouse** · rubrik · People
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8234500?gh_jid=8234500)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8234500
+
+#### 🔄 Industrial Trainee
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8266405?gh_jid=8266405)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8266405
+
+#### 🔄 Join Our Engineering Talent Community
+**Greenhouse** · rubrik · Engineering
+📍 Americas | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.2387014?gh_jid=2387014)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 2387014
+
+#### 🔄 Join Our Sales Talent Community
+**Greenhouse** · rubrik · Sales
+📍 Americas | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.5605963?gh_jid=5605963)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 5605963
+
+#### 🔄 Join Our Talent Community
+**Greenhouse** · rubrik
+📍 Americas | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.2333116?gh_jid=2333116)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 2333116
+
+#### 🔄 Large Enterprise Account Executive
+**Greenhouse** · rubrik · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8144285?gh_jid=8144285)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8144285
+
+#### 🔄 Lead, Customer Success Operations Analyst
+**Greenhouse** · rubrik · Support
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140173?gh_jid=8140173)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140173
+
+#### 🔄 Majors Account Executive
+**Greenhouse** · rubrik · Sales
+📍 Germany | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8158839?gh_jid=8158839)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8158839
+
+#### 🔄 Manager, Customer Resilience Management - Customer Success
+**Greenhouse** · rubrik · Support
+📍 US Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8139783?gh_jid=8139783)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8139783
+
+#### 🔄 Manager Customer Support
+**Greenhouse** · rubrik · Support
+📍 Cork, Ireland | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8264689?gh_jid=8264689)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8264689
+
+#### 🔄 Manager, Planning & Strategic Operations
+**Greenhouse** · rubrik · Support
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140226?gh_jid=8140226)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140226
+
+#### 🔄 Manager, Renewals
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8168820?gh_jid=8168820)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8168820
+
+#### 🔄 Mid Market Account Executive | Tokyo
+**Greenhouse** · rubrik · Sales
+📍 Tokyo | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8014986?gh_jid=8014986)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8014986
+
+#### 🔄 MM Regional Director
+**Greenhouse** · rubrik · Sales
+📍 United States | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8223492?gh_jid=8223492)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8223492
+
+#### 🔄 Partner Programs & Analytics Manager
+**Greenhouse** · rubrik · Sales
+📍 India - Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8130441?gh_jid=8130441)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8130441
+
+#### 🔄 Principal AI Architect
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8223656?gh_jid=8223656)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8223656
+
+#### 🔄 Principal Engineer
+**Greenhouse** · rubrik · Engineering
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7270376?gh_jid=7270376)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7270376
+
+#### 🔄 Product Growth Intern (MBA), Summer 2027
+**Greenhouse** · rubrik · Product
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8224424
+
+#### 🔄 Professional Services - Services Sales Manager
+**Greenhouse** · rubrik · Professional Services
+📍 USA -  Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140599?gh_jid=8140599)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140599
+
+#### 🔄 Public Sector Account Executive - Defence
+**Greenhouse** · rubrik · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8131971?gh_jid=8131971)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8131971
+
+#### 🔄 Regional Director, North Central Healthcare
+**Greenhouse** · rubrik · Sales
+📍 Chicago, IL | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8046486?gh_jid=8046486)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8046486
+
+#### 🔄 Regional Director, Strategics
+**Greenhouse** · rubrik · Sales
+📍 Arizona | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8226952?gh_jid=8226952)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8226952
+
+#### 🔄 Regional Manager, Channel Central
+**Greenhouse** · rubrik · Sales
+📍 Remote - Central US | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8237291?gh_jid=8237291)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8237291
+
+#### 🔄 Regional Sales Director, ANZ
+**Greenhouse** · rubrik · Sales
+📍 Sydney, Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8223496?gh_jid=8223496)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8223496
+
+#### 🔄 Renewal Sales Specialist
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8242331?gh_jid=8242331)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8242331
+
+#### 🔄 Revenue Accounting Manager
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8260085?gh_jid=8260085)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8260085
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · rubrik · Sales
+📍 Austin (TX) Office | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.2146030?gh_jid=2146030)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 2146030
+
+#### 🔄 Sales Development Representative, Dutch speaking
+**Greenhouse** · rubrik · Sales
+📍 London | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8222938?gh_jid=8222938)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8222938
+
+#### 🔄 Sales Development Representative, German speaking
+**Greenhouse** · rubrik · Sales
+📍 London | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8023221?gh_jid=8023221)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8023221
+
+#### 🔄 Sales Development Representative, Singapore
+**Greenhouse** · rubrik · Sales
+📍 singapore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8190483?gh_jid=8190483)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8190483
+
+#### 🔄 Sales Engineer, Germany
+**Greenhouse** · rubrik · Sales Engineering
+📍 Germany, Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8226205?gh_jid=8226205)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8226205
+
+#### 🔄 Sales Engineer, Netherlands
+**Greenhouse** · rubrik · Sales Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8074154?gh_jid=8074154)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8074154
+
+#### 🔄 Sales Engineer (Public Sector / Defence)
+**Greenhouse** · rubrik · Sales Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8246872?gh_jid=8246872)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8246872
+
+#### 🔄 Sales Operations Strategy Manager
+**Greenhouse** · rubrik · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8224061?gh_jid=8224061)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8224061
+
+#### 🔄 Security Engineer - Identity and Access
+**Greenhouse** · rubrik · Information Security
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8220011?gh_jid=8220011)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8220011
+
+#### 🔄 Senior Accountant
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7949660?gh_jid=7949660)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7949660
+
+#### 🔄 Senior AI Engineer, Agentic Systems
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8274601?gh_jid=8274601)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8274601
+
+#### 🔄 Senior Analyst, Global Alliances GTM Operation
+**Greenhouse** · rubrik · Sales
+📍 Bangalore, Karnataka, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8229860?gh_jid=8229860)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8229860
+
+#### 🔄 Senior Backend Engineer
+**Greenhouse** · rubrik · Engineering
+📍 Tel Aviv, Israel | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8073775?gh_jid=8073775)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8073775
+
+#### 🔄 Senior Business Analyst
+**Greenhouse** · rubrik · Support
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8242403?gh_jid=8242403)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8242403
+
+#### 🔄 Senior Business Analyst - NPI Operations
+**Greenhouse** · rubrik · Operations
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8108085?gh_jid=8108085)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8108085
+
+#### 🔄 Senior Commercial Compliance Analyst
+**Greenhouse** · rubrik · Information Security
+📍 Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8274666?gh_jid=8274666)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8274666
+
+#### 🔄 Senior CXO Customer Advocacy Manager
+**Greenhouse** · rubrik · Transformation
+📍 United States | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8227253?gh_jid=8227253)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8227253
+
+#### 🔄 Senior Director, IT Product Management - GTM & Customer Experience
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8144296?gh_jid=8144296)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8144296
+
+#### 🔄 Senior Engineering Manager - Dev Platform
+**Greenhouse** · rubrik · Engineering
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8239039?gh_jid=8239039)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8239039
+
+#### 🔄 Senior GSI Partner Account Manager - Cognizant / TCS
+**Greenhouse** · rubrik · Sales
+📍 Remote - New Jersey | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8132457?gh_jid=8132457)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8132457
+
+#### 🔄 Senior IT Product Manager, Accounting
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7939330?gh_jid=7939330)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7939330
+
+#### 🔄 Senior IT Product Manager, CPQ
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8130460?gh_jid=8130460)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8130460
+
+#### 🔄 Senior Machine Learning Engineer
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7942501?gh_jid=7942501)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7942501
+
+#### 🔄 Senior Manager, Enterprise Security
+**Greenhouse** · rubrik · Information Security
+📍 United States | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8237234?gh_jid=8237234)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8237234
+
+#### 🔄 Senior Manager - International Payroll
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7783894?gh_jid=7783894)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7783894
+
+#### 🔄 Senior Manager, Security Operations Center
+**Greenhouse** · rubrik · Information Security
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8241565?gh_jid=8241565)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8241565
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · rubrik · Product
+📍 Tel Aviv, Israel | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7619215?gh_jid=7619215)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7619215
+
+#### 🔄 Senior Product Manager, Control Plane, RSC-G & Government
+**Greenhouse** · rubrik · Product
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8225580?gh_jid=8225580)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8225580
+
+#### 🔄 Senior Product Manager-Identity Resilience
+**Greenhouse** · rubrik · Product
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7976001
+
+#### 🔄 Senior Project Manager - Professional Services
+**Greenhouse** · rubrik · Professional Services
+📍 United States | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140556?gh_jid=8140556)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140556
+
+#### 🔄 Senior Project Manager, Professional Services
+**Greenhouse** · rubrik · Support
+📍 Sydney | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8141400?gh_jid=8141400)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8141400
+
+#### 🔄 Senior Project Manager, Professional Services
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8141404?gh_jid=8141404)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8141404
+
+#### 🔄 Senior Project Manager, Professional Services (German Speaking)
+**Greenhouse** · rubrik · Support
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8147073?gh_jid=8147073)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8147073
+
+#### 🔄 Senior Project Manager, Professional Services (German Speaking)
+**Greenhouse** · rubrik · Support
+📍 Munich, Germany | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8255803?gh_jid=8255803)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8255803
+
+#### 🔄 Senior Renewals Account Manager, Strategic Accounts
+**Greenhouse** · rubrik · Support
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8138804?gh_jid=8138804)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8138804
+
+#### 🔄 Senior Renewal Sales Specialist I - Night Shift (5:30 PM to 2:30 AM)
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8183993?gh_jid=8183993)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8183993
+
+#### 🔄 Senior Renewal Sales Specialist I - Night Shift (5:30 PM to 2:30 AM)
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8134102?gh_jid=8134102)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8134102
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · rubrik · Sales Engineering
+📍 Mumbai | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8108586?gh_jid=8108586)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8108586
+
+#### 🔄 Senior Sales Engineer, Brisbane
+**Greenhouse** · rubrik · Sales Engineering
+📍 Brisbane, Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8187909?gh_jid=8187909)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8187909
+
+#### 🔄 Senior Sales Engineer, Chicago
+**Greenhouse** · rubrik · Sales Engineering
+📍 Chicago, IL | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8265180?gh_jid=8265180)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8265180
+
+#### 🔄 Senior Sales Engineer, Melbourne
+**Greenhouse** · rubrik · Sales Engineering
+📍 Melbourne, Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8222320?gh_jid=8222320)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8222320
+
+#### 🔄 Senior Software Engineer - Backend & Cloud Infrastructure
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8209928?gh_jid=8209928)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8209928
+
+#### 🔄 Senior Software Engineer - CPD (IAM)
+**Greenhouse** · rubrik · Engineering
+📍 Bengaluru | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7956920?gh_jid=7956920)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7956920
+
+#### 🔄 Senior Software Engineer - Enterprise AI
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8273699
+
+#### 🔄 Senior Strategic Sourcing Manager, Cloud & Strategic Partnerships
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8114559?gh_jid=8114559)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8114559
+
+#### 🔄 Senior Talent Partner, APJ (Japanese Speaking)
+**Greenhouse** · rubrik · People
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8210118?gh_jid=8210118)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8210118
+
+#### 🔄 Senior Technical Program Manager - IT GTM
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8222564?gh_jid=8222564)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8222564
+
+#### 🔄 Services Engineering Leader, Professional Services
+**Greenhouse** · rubrik · Professional Services
+📍 USA , Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140589?gh_jid=8140589)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8140589
+
+#### 🔄 SLED Account Executive (North Central)
+**Greenhouse** · rubrik · Sales
+📍 Minnesota | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8239442?gh_jid=8239442)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8239442
+
+#### 🔄 SMB Account Executive
+**Greenhouse** · rubrik · Sales
+📍 Austin, TX | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8223935?gh_jid=8223935)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8223935
+
+#### 🔄 Software Engineer, Atlas Distributed Systems
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8122613?gh_jid=8122613)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8122613
+
+#### 🔄 Software Engineer - Cloud: Azure
+**Greenhouse** · rubrik · Engineering
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8258200
+
+#### 🔄 Software Engineer (CPD) - Winter Intern
+**Greenhouse** · rubrik · Engineering
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8166537
+
+#### 🔄 Software Engineer - IAM
+**Greenhouse** · rubrik · Engineering
+📍 Pune | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7956918
+
+#### 🔄 Software Engineer - Orchestrated Application Recovery
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7844075?gh_jid=7844075)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7844075
+
+#### 🔄 Software Engineer - Product Platform Security
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8243737
+
+#### 🔄 Software Engineer - Reliability (US Citizen)
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8177762?gh_jid=8177762)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8177762
+
+#### 🔄 Software Engineer - SaaS Data Protection
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8157246
+
+#### 🔄 Software Engineer- SaaS O365
+**Greenhouse** · rubrik · Engineering
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8256407
+
+#### 🔄 Sr Finance Manager, GTM
+**Greenhouse** · rubrik · Finance & Accounting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8209069?gh_jid=8209069)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8209069
+
+#### 🔄 Sr. Manager, Digital Marketing
+**Greenhouse** · rubrik · Marketing
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8074751?gh_jid=8074751)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8074751
+
+#### 🔄 Sr Manager, Field Enablement,  North America
+**Greenhouse** · rubrik · Sales
+📍 Remote | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8111873?gh_jid=8111873)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8111873
+
+#### 🔄 Sr. Sales Engineer - Rubrik Agent Cloud
+**Greenhouse** · rubrik · Sales Engineering
+📍 New England | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8094702?gh_jid=8094702)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8094702
+
+#### 🔄 Sr. Sales Engineer - Rubrik Agent Cloud
+**Greenhouse** · rubrik · Sales Engineering
+📍 Colorado, Illinois | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7472096
+
+#### 🔄 Staff Cloud Security Architect
+**Greenhouse** · rubrik · Information Security
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7715043?gh_jid=7715043)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7715043
+
+#### 🔄 Staff Platform Product Manager, Platform & Cloud Security
+**Greenhouse** · rubrik · Product
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7423902
+
+#### 🔄 Staff Product Manager, IT - GTM
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7885055?gh_jid=7885055)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7885055
+
+#### 🔄 Staff Software Engineer - Reliability (US Citizen Only)
+**Greenhouse** · rubrik · Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7918690?gh_jid=7918690)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7918690
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · rubrik · Sales
+📍 Arizona | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7980440?gh_jid=7980440)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7980440
+
+#### 🔄 Strategic Account Executive, Bay Area
+**Greenhouse** · rubrik · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8084242?gh_jid=8084242)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8084242
+
+#### 🔄 Strategic Sales Engineer
+**Greenhouse** · rubrik · Sales Engineering
+📍 Seattle, WA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8054518?gh_jid=8054518)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8054518
+
+#### 🔄 Talent Partner
+**Greenhouse** · rubrik · People
+📍 India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8194618?gh_jid=8194618)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8194618
+
+#### 🔄 Talent Partner-G&A
+**Greenhouse** · rubrik · People
+📍 India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8189188?gh_jid=8189188)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 8189188
+
+#### 🔄 VP, Government & Legal Affairs
+**Greenhouse** · rubrik · Legal
+📍 Reston, VA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7991225?gh_jid=7991225)
+🕐 Updated: 2026-10-14T23:23:53-04:00 | ID: 7991225
+
+#### 🔄 Principal Engineer (L5)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7996776)
+🕐 Updated: 2026-10-14T23:03:56-04:00 | ID: 7996776
+
+#### 🔄 Ocean Operations Associate
+**Greenhouse** · flexport · Ocean Gateway Operations
+📍 Jakarta, Indonesia | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/7708188)
+🕐 Updated: 2026-10-14T22:56:29-04:00 | ID: 7708188
+
+#### 🔄 Sales Manager
+**Greenhouse** · flexport · Sales
+📍 Phnom Penh, Cambodia | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8172867)
+🕐 Updated: 2026-10-14T22:56:03-04:00 | ID: 8172867
+
+#### 🔄 Manager, Ocean Freight
+**Greenhouse** · flexport · Ocean Freight Management
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8280926)
+🕐 Updated: 2026-10-14T22:55:26-04:00 | ID: 8280926
+
+#### 🔄 Marketing Manager APAC
+**Greenhouse** · flexport · Marketing
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/7981879)
+🕐 Updated: 2026-10-14T22:54:49-04:00 | ID: 7981879
+
+#### 🔄 Senior Associate, Trucking & Warehousing
+**Greenhouse** · flexport · Trucking
+📍 Hanoi, Vietnam; Ho Chi Minh City, Vietnam | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8210257)
+🕐 Updated: 2026-10-14T22:54:20-04:00 | ID: 8210257
+
+#### 🔄 Enterprise Customer Success Manager
+**Greenhouse** · datadog · Enterprise Customer Success
+📍 Delhi, India | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7650688/?gh_jid=7650688)
+🕐 Updated: 2026-10-14T22:49:09-04:00 | ID: 7650688
+
+#### 🔄 Director, Corporate Accounting
+**Greenhouse** · justworks · Corporate & Finance
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/7586697?gh_jid=7586697)
+🕐 Updated: 2026-10-14T22:02:35-04:00 | ID: 7586697
+
+#### 🔄 Director, Customer Onboarding
+**Greenhouse** · justworks · Customer Success
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8265604?gh_jid=8265604)
+🕐 Updated: 2026-10-14T22:02:30-04:00 | ID: 8265604
+
+#### 🔄 Director, Customer Success
+**Greenhouse** · justworks · Customer Success
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8263097?gh_jid=8263097)
+🕐 Updated: 2026-10-14T22:01:58-04:00 | ID: 8263097
+
+#### 🔄 Design Recruiter
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8163193)
+🕐 Updated: 2026-10-14T22:00:58-04:00 | ID: 8163193
+
+#### 🔄 Global Cash & Treasury Operations Manager
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679976002)
+🕐 Updated: 2026-10-14T22:00:55-04:00 | ID: 8679976002
+
+#### 🔄 Network Security Support Engineer
+**Greenhouse** · cloudflare · Customer Support
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8028403?gh_jid=8028403)
+🕐 Updated: 2026-10-14T21:46:23-04:00 | ID: 8028403
+
+#### 🔄 Manager, Facilities
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815100002?gh_jid=8815100002)
+🕐 Updated: 2026-10-14T21:35:31-04:00 | ID: 8815100002
+
+#### 🔄 Risk Operations Analyst - SSO
+**Greenhouse** · stripe · 3110 User Policy Operations
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175824)
+🕐 Updated: 2026-10-14T21:23:58-04:00 | ID: 8175824
+
+#### 🔄 Risk Operations Analyst
+**Greenhouse** · stripe · 4891 Partner Risk Operations
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7230921)
+🕐 Updated: 2026-10-14T21:23:10-04:00 | ID: 7230921
+
+#### 🔄 Staff Product Manager, Meetings
+**Greenhouse** · calendly · Product
+📍 San Francisco (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8860525002)
+🕐 Updated: 2026-10-14T20:57:09-04:00 | ID: 8860525002
+
+#### 🔄 Inside Sales - Retention Specialist
+**Greenhouse** · ziprecruiter · 510 Customer Retention
+📍 Phoenix, AZ | 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/7743665)
+🕐 Updated: 2026-10-14T20:46:29-04:00 | ID: 7743665
+
+#### 🔄 Head of AI/Data Science, Finance & Strategy
+**Greenhouse** · robinhood · Corporate Strategy
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8180757?t=gh_src=&gh_jid=8180757)
+🕐 Updated: 2026-10-14T20:34:09-04:00 | ID: 8180757
+
+#### 🔄 Partner Manager, Global Health
+**Greenhouse** · anthropic · Sales
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5310996008)
+🕐 Updated: 2026-10-14T20:32:24-04:00 | ID: 5310996008
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816965002?gh_jid=8816965002)
+🕐 Updated: 2026-10-14T20:28:10-04:00 | ID: 8816965002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816970002?gh_jid=8816970002)
+🕐 Updated: 2026-10-14T20:28:02-04:00 | ID: 8816970002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816969002?gh_jid=8816969002)
+🕐 Updated: 2026-10-14T20:27:55-04:00 | ID: 8816969002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816966002?gh_jid=8816966002)
+🕐 Updated: 2026-10-14T20:27:47-04:00 | ID: 8816966002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816968002?gh_jid=8816968002)
+🕐 Updated: 2026-10-14T20:27:22-04:00 | ID: 8816968002
+
+#### 🔄 Lead Client Partner, Global Strategic Accounts (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249469)
+🕐 Updated: 2026-10-14T20:23:24-04:00 | ID: 8249469
+
+#### 🔄 Lead Client Partner, Global Strategic Accounts (Tech)
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8196302)
+🕐 Updated: 2026-10-14T20:23:24-04:00 | ID: 8196302
+
+#### 🔄 Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8017242)
+🕐 Updated: 2026-10-14T20:23:24-04:00 | ID: 8017242
+
+#### 🔄 Client Account Manager, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8049518)
+🕐 Updated: 2026-10-14T20:22:00-04:00 | ID: 8049518
+
+#### 🔄 Lead Client Partner, Large Customer Sales (Restaurants & Drinks)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8257083)
+🕐 Updated: 2026-10-14T20:22:00-04:00 | ID: 8257083
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Big Box Retail)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8140121)
+🕐 Updated: 2026-10-14T20:22:00-04:00 | ID: 8140121
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244090)
+🕐 Updated: 2026-10-14T20:22:00-04:00 | ID: 8244090
+
+#### 🔄 Analytics Engineer
+**Greenhouse** · reddit · ML & Search
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282760)
+🕐 Updated: 2026-10-14T20:21:07-04:00 | ID: 8282760
+
+#### 🔄 Strategic Finance Senior Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244067)
+🕐 Updated: 2026-10-14T20:21:07-04:00 | ID: 8244067
+
+#### 🔄 Ads Conversion Modeling, Machine Learning Engineering Manager
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7792848)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 7792848
+
+#### 🔄 Global Payroll Administrator
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8130311)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 8130311
+
+#### 🔄 Group Product Manager, Finance Technology
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8075185)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 8075185
+
+#### 🔄 Principal Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7330347)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 7330347
+
+#### 🔄 Senior GTM Insights Automation Manager
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8077785)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 8077785
+
+#### 🔄 Senior Litigation Paralegal
+**Greenhouse** · reddit · Legal
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8130697)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 8130697
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8188275)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 8188275
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190627)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 8190627
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - The Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190630)
+🕐 Updated: 2026-10-14T20:21:06-04:00 | ID: 8190630
+
+#### 🔄 Director, Intellectual Property
+**Greenhouse** · reddit · Legal
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8142128)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8142128
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8192369)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8192369
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8234154)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8234154
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074846)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8074846
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - British Columbia, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074860)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8074860
+
+#### 🔄 Senior Frontend Engineer, Ads Creative
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8175520)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8175520
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8103609)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8103609
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8072076)
+🕐 Updated: 2026-10-14T20:21:05-04:00 | ID: 8072076
+
+#### 🔄 Engineering Manager, Knowledge Graph Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8256326)
+🕐 Updated: 2026-10-14T20:21:04-04:00 | ID: 8256326
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - British Columbia, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8022260)
+🕐 Updated: 2026-10-14T20:21:04-04:00 | ID: 8022260
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954598)
+🕐 Updated: 2026-10-14T20:21:04-04:00 | ID: 7954598
+
+#### 🔄 Senior Program Manager, Business Process Transformation
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8010425)
+🕐 Updated: 2026-10-14T20:21:04-04:00 | ID: 8010425
+
+#### 🔄 Senior Staff Data Scientist, Consumer Relevance
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+🕐 Updated: 2026-10-14T20:21:04-04:00 | ID: 7974605
+
+#### 🔄 Staff Machine Learning Engineer, Ads Creative Effectiveness
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8250389)
+🕐 Updated: 2026-10-14T20:21:04-04:00 | ID: 8250389
+
+#### 🔄 Senior Business Analyst, Revenue Analytics
+**Greenhouse** · reddit · Sales
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8023563)
+🕐 Updated: 2026-10-14T20:21:03-04:00 | ID: 8023563
+
+#### 🔄 Senior Software Engineer, Agentic Ads Experience
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7980795)
+🕐 Updated: 2026-10-14T20:21:03-04:00 | ID: 7980795
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7445240)
+🕐 Updated: 2026-10-14T20:21:03-04:00 | ID: 7445240
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7931000)
+🕐 Updated: 2026-10-14T20:21:03-04:00 | ID: 7931000
+
+#### 🔄 Staff Technical Product Manager, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954001)
+🕐 Updated: 2026-10-14T20:21:03-04:00 | ID: 7954001
+
+#### 🔄 Client Partner, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8202510)
+🕐 Updated: 2026-10-14T20:21:02-04:00 | ID: 8202510
+
+#### 🔄 Senior Product Manager, Go-To-Market Systems
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8212175)
+🕐 Updated: 2026-10-14T20:21:02-04:00 | ID: 8212175
+
+#### 🔄 Senior Staff Machine Learning Engineer, Agentic AI Platform (Ads Ranking)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8201359)
+🕐 Updated: 2026-10-14T20:21:02-04:00 | ID: 8201359
+
+#### 🔄 Staff Machine Learning Engineer, App Ads Modeling
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187652)
+🕐 Updated: 2026-10-14T20:21:02-04:00 | ID: 8187652
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187521)
+🕐 Updated: 2026-10-14T20:21:01-04:00 | ID: 8187521
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249259)
+🕐 Updated: 2026-10-14T20:21:01-04:00 | ID: 8249259
+
+#### 🔄 Frontend Engineer, Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8194576)
+🕐 Updated: 2026-10-14T20:21:01-04:00 | ID: 8194576
+
+#### 🔄 Frontend Engineer, Ads Campaign Manager
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8240716)
+🕐 Updated: 2026-10-14T20:21:01-04:00 | ID: 8240716
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189894)
+🕐 Updated: 2026-10-14T20:21:01-04:00 | ID: 8189894
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8186566)
+🕐 Updated: 2026-10-14T20:21:01-04:00 | ID: 8186566
+
+#### 🔄 3rd Party Partnerships Manager - Signals
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8089959)
+🕐 Updated: 2026-10-14T20:21:00-04:00 | ID: 8089959
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189899)
+🕐 Updated: 2026-10-14T20:21:00-04:00 | ID: 8189899
+
+#### 🔄 Senior Client Account Manager, App Dev Enterprise
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8171546)
+🕐 Updated: 2026-10-14T20:21:00-04:00 | ID: 8171546
+
+#### 🔄 Senior Principal Program Manager, GTM Excellence
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8125836)
+🕐 Updated: 2026-10-14T20:21:00-04:00 | ID: 8125836
+
+#### 🔄 Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8157275)
+🕐 Updated: 2026-10-14T20:21:00-04:00 | ID: 8157275
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8178085)
+🕐 Updated: 2026-10-14T20:21:00-04:00 | ID: 8178085
+
+#### 🔄 Senior Data Scientist - Consumer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8126946)
+🕐 Updated: 2026-10-14T20:20:59-04:00 | ID: 8126946
+
+#### 🔄 Senior Product Manager, Ads -  Shopping Catalogs
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8120503)
+🕐 Updated: 2026-10-14T20:20:59-04:00 | ID: 8120503
+
+#### 🔄 Staff Android Engineer, Brand Ad Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8127002)
+🕐 Updated: 2026-10-14T20:20:59-04:00 | ID: 8127002
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721787)
+🕐 Updated: 2026-10-14T20:20:59-04:00 | ID: 7721787
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721851)
+🕐 Updated: 2026-10-14T20:20:59-04:00 | ID: 7721851
+
+#### 🔄 Staff Product Manager, Ads Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8167412)
+🕐 Updated: 2026-10-14T20:20:59-04:00 | ID: 8167412
+
+#### 🔄 Senior Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8104403)
+🕐 Updated: 2026-10-14T20:20:58-04:00 | ID: 8104403
+
+#### 🔄 Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8153017)
+🕐 Updated: 2026-10-14T20:17:57-04:00 | ID: 8153017
+
+#### 🔄 Senior Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8276095)
+🕐 Updated: 2026-10-14T20:17:57-04:00 | ID: 8276095
+
+#### 🔄 Partner Sales Director, Manufacturing & Energy
+**Greenhouse** · databricks · Business Development
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8639997002)
+🕐 Updated: 2026-10-14T20:17:20-04:00 | ID: 8639997002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15471 fetched, 236 updated, 22 cap-skipped, 0 alerts
+- **Lever**: 0 new, 35 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 61 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15567 fetched, 236 updated, 22 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-15 00:16 UTC
 
 ### Greenhouse
