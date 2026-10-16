@@ -1,3 +1,137 @@
+## 📅 Run: 2026-10-16 07:30 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · mongodb · Solutions Architecture, APAC
+📍 Tokyo | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8194575)
+🕐 Updated: 2026-10-16T03:24:46-04:00 | ID: 8194575
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · stripe · 8279 MaaS TPgM
+📍 Bucharest, Romania | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231202)
+🕐 Updated: 2026-10-16T03:24:15-04:00 | ID: 8231202
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · mongodb · Technical Support Premium Services
+📍 Tokyo | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8200434)
+🕐 Updated: 2026-10-16T03:23:20-04:00 | ID: 8200434
+
+#### 🔄 Principal Partner Specialist
+**Greenhouse** · mongodb · APAC Partner Specialists
+📍 Tokyo | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8020464)
+🕐 Updated: 2026-10-16T03:21:47-04:00 | ID: 8020464
+
+#### 🔄 Product Designer
+**Greenhouse** · toast · R & D : UX : Retail
+📍 Chennai | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8259363)
+🕐 Updated: 2026-10-16T03:16:19-04:00 | ID: 8259363
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · alloy · Sales
+📍 London, UK | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8872434002&gh_jid=8872434002)
+🕐 Updated: 2026-10-16T03:15:44-04:00 | ID: 8872434002
+
+#### 🔄 Loan Operations Associate
+**Greenhouse** · carta · Fund Administration
+📍 New York, NY; Hamilton, NJ | 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/7920603003)
+🕐 Updated: 2026-10-16T03:02:17-04:00 | ID: 7920603003
+
+#### 🔄 Sales Director, Scale
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8275975)
+🕐 Updated: 2026-10-16T02:51:33-04:00 | ID: 8275975
+
+#### 🔄 Corporate Counsel, Telecommunications & Regulatory
+**Greenhouse** · dialpad · 620 - Legal
+📍 Bay Area, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8590367002)
+🕐 Updated: 2026-10-16T02:25:38-04:00 | ID: 8590367002
+
+#### 🔄 Senior MDM Product Data Analyst (Bangalore, in-person)
+**Greenhouse** · purestorage · Finance
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8212868)
+🕐 Updated: 2026-10-16T02:13:21-04:00 | ID: 8212868
+
+#### 🔄 Strategic Finance & Analytics Intern (MBA)
+**Greenhouse** · airbnb · Intern
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8285171?gh_jid=8285171)
+🕐 Updated: 2026-10-16T02:02:58-04:00 | ID: 8285171
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002)
+🕐 Updated: 2026-10-16T01:53:14-04:00 | ID: 8771566002
+
+#### 🔄 Staff Product Manager, Community Builders
+**Greenhouse** · reddit · Tech Admin
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7996994)
+🕐 Updated: 2026-10-16T01:06:57-04:00 | ID: 7996994
+
+#### 🔄 Staff Product Manager, Moderation
+**Greenhouse** · reddit · Consumer Product
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8088710)
+🕐 Updated: 2026-10-16T01:06:57-04:00 | ID: 8088710
+
+#### 🔄 Enterprise Account Executive - Hunter
+**Greenhouse** · stripe · 1195 Account Executives (APAC)
+📍 Auckland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8109607)
+🕐 Updated: 2026-10-16T00:59:19-04:00 | ID: 8109607
+
+#### 🔄 Partner Sales Manager Singapore (South East Asia)
+**Greenhouse** · braze · Partnerships
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223954)
+🕐 Updated: 2026-10-16T00:54:46-04:00 | ID: 8223954
+
+#### 🔄 Global Solutions Architect
+**Greenhouse** · rubrik · Support
+📍 Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8158611?gh_jid=8158611)
+🕐 Updated: 2026-10-16T00:42:10-04:00 | ID: 8158611
+
+#### 🔄 Software Engineer, Core Technology
+**Greenhouse** · stripe · 8127 Core Infrastructure
+📍 Bangalore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7618977)
+🕐 Updated: 2026-10-16T00:38:53-04:00 | ID: 7618977
+
+#### 🔄 Senior Software Engineer, Distributed Databases
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100)
+🕐 Updated: 2026-10-16T00:13:26-04:00 | ID: 8269100
+
+#### 🔄 Senior Manager, Partner Sales
+**Greenhouse** · newrelic · Alliances & Channels
+📍 Atlanta, Georgia, USA; Baltimore, Maryland, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Provo, Utah, USA; St. Louis, Missouri, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5453056008)
+🕐 Updated: 2026-10-16T00:05:25-04:00 | ID: 5453056008
+
+#### 🔄 Staff+ Software Engineer, Enterprise (Platform)
+**Greenhouse** · anthropic · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5288742008)
+🕐 Updated: 2026-10-15T23:43:23-04:00 | ID: 5288742008
+
+#### 🔄 Product Finance Director, AI Products & GPU Investment Strategy
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8823189002)
+🕐 Updated: 2026-10-15T23:32:47-04:00 | ID: 8823189002
+
+#### 🔄 Customer Success Manager, Canada (Toronto)
+**Greenhouse** · abnormalsecurity · CSM & Renewals
+📍 Remote - Canada | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7989489003?gh_jid=7989489003)
+🕐 Updated: 2026-10-15T23:12:15-04:00 | ID: 7989489003
+
+#### 🔄 Sr. Network Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8806384002?gh_jid=8806384002)
+🕐 Updated: 2026-10-15T22:47:28-04:00 | ID: 8806384002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15479 fetched, 24 updated, 28 cap-skipped, 0 alerts
+- **Lever**: 0 new, 37 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 62 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15578 fetched, 24 updated, 28 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-16 02:38 UTC
 
 ### Greenhouse
