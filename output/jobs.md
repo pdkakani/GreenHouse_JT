@@ -1,3 +1,1267 @@
+## 📅 Run: 2026-10-16 16:58 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Software Engineer, R2 Metadata
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7276690?gh_jid=7276690)
+🕐 Updated: 2026-10-16T12:57:55-04:00 | ID: 7276690
+
+#### 🔄 Cloud Platform Engineer
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8889193002)
+🕐 Updated: 2026-10-16T12:57:01-04:00 | ID: 8889193002
+
+#### 🔄 Senior Technical Recruiter
+**Greenhouse** · adyen · People
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8108885)
+🕐 Updated: 2026-10-16T12:54:24-04:00 | ID: 8108885
+
+#### 🔄 Account Executive, Product - Tax
+**Greenhouse** · stripe · 1641 Product Sales - RFA ex Billing
+📍 London OR Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8196288)
+🕐 Updated: 2026-10-16T12:54:21-04:00 | ID: 8196288
+
+#### 🔄 Senior Customer Engineer, Named - Vancouver, BC
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736)
+🕐 Updated: 2026-10-16T12:53:31-04:00 | ID: 8223736
+
+#### 🔄 Sr. Director, Demand and Digital Marketing
+**Greenhouse** · elastic · Campaigns and Digital Marketing
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8110185&gh_jid=8110185)
+🕐 Updated: 2026-10-16T12:53:05-04:00 | ID: 8110185
+
+#### 🔄 Senior Customer Engineer, Named - Toronto Canada
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8223359?gh_jid=8223359)
+🕐 Updated: 2026-10-16T12:52:50-04:00 | ID: 8223359
+
+#### 🔄 Principal Customer Engineer, Central Majors - Toronto Canada
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8223319?gh_jid=8223319)
+🕐 Updated: 2026-10-16T12:52:04-04:00 | ID: 8223319
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8107151)
+🕐 Updated: 2026-10-16T12:51:34-04:00 | ID: 8107151
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · contentful · Sales
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8278600)
+🕐 Updated: 2026-10-16T12:49:03-04:00 | ID: 8278600
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · contentful · Sales
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8278596)
+🕐 Updated: 2026-10-16T12:48:37-04:00 | ID: 8278596
+
+#### 🔄 Manager, Lifecycle Marketing (R13983)
+**Greenhouse** · oportun · Marketing
+📍 Remote - MX | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4686702005)
+🕐 Updated: 2026-10-16T12:46:42-04:00 | ID: 4686702005
+
+#### 🔄 Fleet Operations Associate
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8586330002?gh_jid=8586330002)
+🕐 Updated: 2026-10-16T12:45:47-04:00 | ID: 8586330002
+
+#### 🔄 Fleet Operations Associate (Day Shift)
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8706916002?gh_jid=8706916002)
+🕐 Updated: 2026-10-16T12:45:42-04:00 | ID: 8706916002
+
+#### 🔄 Fleet Operations Associate (Overnight Shift)
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8706936002?gh_jid=8706936002)
+🕐 Updated: 2026-10-16T12:45:40-04:00 | ID: 8706936002
+
+#### 🔄 Fleet Operations Associate (Swing Shift)
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8706924002?gh_jid=8706924002)
+🕐 Updated: 2026-10-16T12:45:36-04:00 | ID: 8706924002
+
+#### 🔄 Staff Software Engineer, SDKs & Open Source
+**Greenhouse** · okta · Emerging Tech-694
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7703330?gh_jid=7703330)
+🕐 Updated: 2026-10-16T12:43:31-04:00 | ID: 7703330
+
+#### 🔄 Account Development Representative - English Speaking
+**Greenhouse** · mongodb · Sales Development
+📍 Kuala Lumpur | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8079914)
+🕐 Updated: 2026-10-16T12:43:30-04:00 | ID: 8079914
+
+#### 🔄 Staff Software Engineer, Developer Experience
+**Greenhouse** · okta · Emerging Tech-694
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7703326?gh_jid=7703326)
+🕐 Updated: 2026-10-16T12:43:14-04:00 | ID: 7703326
+
+#### 🔄 2027 Summer Intern, BS, Depot Automation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8234553)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8234553
+
+#### 🔄 2027 Summer Intern, BS/MS, Embedded, Software Engineer
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8221198)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8221198
+
+#### 🔄 2027 Summer Intern, BS/MS, Software Engineering, Commercialization
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Warsaw, Poland | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8268204)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8268204
+
+#### 🔄 2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Warsaw, Poland | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8214729)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8214729
+
+#### 🔄 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8224900)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8224900
+
+#### 🔄 2027 Summer Intern, BS, Software Engineering, Labeling
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8238525)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8238525
+
+#### 🔄 2027 Summer Intern, BS, Software Engineer, Model Eval
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8257660)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8257660
+
+#### 🔄 2027 Summer Intern, BS, Waymo ML Ops & Automation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8257237)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8257237
+
+#### 🔄 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8248060)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8248060
+
+#### 🔄 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8243556)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8243556
+
+#### 🔄 2027 Summer Intern, MS/PhD, Machine Learning Engineer
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8223735)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8223735
+
+#### 🔄 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8279620)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8279620
+
+#### 🔄 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8257159)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8257159
+
+#### 🔄 2027 Summer Intern, MS/PhD, Perception, Evaluation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8248327)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8248327
+
+#### 🔄 2027 Summer Intern, MS/PhD, Perception, Machine Learning
+**Greenhouse** · waymo · Perception (7LT)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8227411)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8227411
+
+#### 🔄 2027 Summer Intern, MS/PhD, Perception, Model Lifecycle
+**Greenhouse** · waymo · Perception (7LT)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8248411)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8248411
+
+#### 🔄 2027 Summer Intern, MS/PhD, Perception, Robotics
+**Greenhouse** · waymo · Perception (7LT)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8227633)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8227633
+
+#### 🔄 2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8257801)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8257801
+
+#### 🔄 2027 Summer Intern, MS/PhD, Semantics
+**Greenhouse** · waymo · Perception (7LT)
+📍 Mountain View, California, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8244128)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8244128
+
+#### 🔄 2027 Summer Intern, MS, PhD, Software Engineer
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8250220)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8250220
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software Engineer
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8224729)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8224729
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8257205)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8257205
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8234161)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8234161
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8214519)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8214519
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8240198)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8240198
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8221795)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8221795
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8233746)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8233746
+
+#### 🔄 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8221851)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8221851
+
+#### 🔄 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8231711)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8231711
+
+#### 🔄 2027 Summer Intern, PhD, Data Science
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8221956)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8221956
+
+#### 🔄 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8262154)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8262154
+
+#### 🔄 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8237997)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8237997
+
+#### 🔄 2027 Summer Intern, PhD, Machine Learning, Simulation Realism
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8265868)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8265868
+
+#### 🔄 2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8224746)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8224746
+
+#### 🔄 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8234670)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8234670
+
+#### 🔄 2027 Summer Intern, PhD, Planner Machine Learning
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8234876)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8234876
+
+#### 🔄 2027 Summer Intern, PhD, Research, AV Planning
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8258070)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8258070
+
+#### 🔄 2027 Summer Intern, PhD, Research, Post Training
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA: San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8257006)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8257006
+
+#### 🔄 2027 Summer Intern, PhD, Research, World Action Model
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8243732)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8243732
+
+#### 🔄 2027 Summer Intern, PhD, Research, World Modeling Evaluation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8265173)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8265173
+
+#### 🔄 2027 Summer Intern, PhD, Software Engineer, Simulation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8227640)
+🕐 Updated: 2026-10-16T12:42:25-04:00 | ID: 8227640
+
+#### 🔄 2027 Summer Intern, BS/MS, Global Supply Management (GSM)
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8201252)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8201252
+
+#### 🔄 2027 Summer Intern, BS/MS, Scenes
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8210170)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8210170
+
+#### 🔄 2027 Summer Intern, BS/MS, Software Engineering, Commercialization
+**Greenhouse** · waymo · CSI (7LV)
+📍 Mountain View, California, United States; San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8198218)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8198218
+
+#### 🔄 2027 Summer Intern, MBA, Operations Planning
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8165014)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8165014
+
+#### 🔄 2027 Summer Intern, MBA, Salesforce Product Owner
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Los Angeles, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8198582)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8198582
+
+#### 🔄 2027 Summer Intern, MBA, Strategic Finance
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8197014)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8197014
+
+#### 🔄 2027 Summer Intern, MS/PhD, Conflict Behavior
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8210138)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8210138
+
+#### 🔄 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8214350)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8214350
+
+#### 🔄 2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8208465)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8208465
+
+#### 🔄 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8202801)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8202801
+
+#### 🔄 2027 Summer Intern, MS/PhD, Product Data Science
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8199365)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8199365
+
+#### 🔄 2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8205680)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8205680
+
+#### 🔄 2027 Summer Intern, MS, Software Engineering, Behavior Test
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 San Francisco, California, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8174504)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8174504
+
+#### 🔄 2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8203191)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8203191
+
+#### 🔄 2027 Summer Intern, PhD, Machine Learning, Computer Vision
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8202025)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8202025
+
+#### 🔄 2027 Summer Intern, PhD, Quantitative Software Engineer
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California, United States | San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8197554)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8197554
+
+#### 🔄 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8197899)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8197899
+
+#### 🔄 2027 Summer Intern, PhD, Vehicle Intent and Prediction
+**Greenhouse** · waymo · Pipeline (N/A)
+📍 Mountain View, California | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8189848)
+🕐 Updated: 2026-10-16T12:42:24-04:00 | ID: 8189848
+
+#### 🔄 Lead Embedded Linux Engineer - Intercom
+**Greenhouse** · verkada · Intercoms
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5177232007)
+🕐 Updated: 2026-10-16T12:38:58-04:00 | ID: 5177232007
+
+#### 🔄 Senior Embedded Linux Engineer
+**Greenhouse** · verkada · Intercoms
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5149616007)
+🕐 Updated: 2026-10-16T12:38:16-04:00 | ID: 5149616007
+
+#### 🔄 Supervisor - Customer Support
+**Greenhouse** · convera · Customer Service
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4913795101)
+🕐 Updated: 2026-10-16T12:34:57-04:00 | ID: 4913795101
+
+#### 🔄 People Legal Counsel, APAC
+**Greenhouse** · anthropic · Legal
+📍 Sydney, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5433869008)
+🕐 Updated: 2026-10-16T12:31:09-04:00 | ID: 5433869008
+
+#### 🔄 Software Engineer
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Boston; Miami; New Jersey; New York City; Princeton; Raleigh; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+🕐 Updated: 2026-10-16T12:29:09-04:00 | ID: 7727910
+
+#### 🔄 Senior Product Manager, Applied AI
+**Greenhouse** · coursera · Partner Success Services
+📍 Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6211986004)
+🕐 Updated: 2026-10-16T12:29:08-04:00 | ID: 6211986004
+
+#### 🔄 Software Engineer
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+🕐 Updated: 2026-10-16T12:28:59-04:00 | ID: 7727913
+
+#### 🔄 Forward Deployed Engineering Lead - Datadog for Startups
+**Greenhouse** · datadog · Corporate Development
+📍 New York, New York, USA; San Francisco, California, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8003181/?gh_jid=8003181)
+🕐 Updated: 2026-10-16T12:21:13-04:00 | ID: 8003181
+
+#### 🔄 Senior/ Lead AI Deployment Engineer - Supply Chain
+**Greenhouse** · celonis · Services
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8007977003?gh_jid=8007977003)
+🕐 Updated: 2026-10-16T12:21:04-04:00 | ID: 8007977003
+
+#### 🔄 Bilingual Agent
+**Greenhouse** · oportun
+📍 León, Guanajuato, Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4133342005)
+🕐 Updated: 2026-10-16T12:19:56-04:00 | ID: 4133342005
+
+#### 🔄 System Engineer - Network Systems
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8207864?gh_jid=8207864)
+🕐 Updated: 2026-10-16T12:17:22-04:00 | ID: 8207864
+
+#### 🔄 Service Delivery Manager
+**Greenhouse** · convera · Customer Service
+📍 Santa Ana | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4912009101)
+🕐 Updated: 2026-10-16T12:10:56-04:00 | ID: 4912009101
+
+#### 🔄 Workplace Design Coordinator
+**Greenhouse** · stripe · 6630 Real Estate
+📍 SF, NYC, SEA, TOR | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8275261)
+🕐 Updated: 2026-10-16T12:09:20-04:00 | ID: 8275261
+
+#### 🔄 AI Engineer – Forward Deployed Engineering (AI FDE)
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002)
+🕐 Updated: 2026-10-16T12:03:14-04:00 | ID: 8546367002
+
+#### 🔄 Software Engineer II, Earnings
+**Greenhouse** · toast · R & D : Engineering : Team
+📍 Toronto, CAN | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8147829)
+🕐 Updated: 2026-10-16T12:02:26-04:00 | ID: 8147829
+
+#### 🔄 Consulting Field Solutions Architect - AI/Analytics - North Central Enterprise
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois; Detroit, Michigan; Indianapolis, Indiana; Kansas City, Kansas; Minneapolis, Minnesota; St. Louis, Missouri | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8244462)
+🕐 Updated: 2026-10-16T11:59:54-04:00 | ID: 8244462
+
+#### 🔄 Renewals Specialist
+**Greenhouse** · everlaw · Ops & Enablement
+📍 Oakland, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4672390006)
+🕐 Updated: 2026-10-16T11:59:22-04:00 | ID: 4672390006
+
+#### 🔄 Senior Site Reliability Engineer
+**Greenhouse** · godaddy · IT Ops
+📍 United Kingdom | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7882555003)
+🕐 Updated: 2026-10-16T11:54:08-04:00 | ID: 7882555003
+
+#### 🔄 Senior Software Engineer, Prime
+**Greenhouse** · robinhood · Bitstamp - Engineering Division
+📍 Ljubljana, Slovenia | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8232855?t=gh_src=&gh_jid=8232855)
+🕐 Updated: 2026-10-16T11:50:53-04:00 | ID: 8232855
+
+#### 🔄 Senior Software Engineer, Prime
+**Greenhouse** · robinhood · Bitstamp - Engineering Division
+📍 London, UK | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8232853?t=gh_src=&gh_jid=8232853)
+🕐 Updated: 2026-10-16T11:50:53-04:00 | ID: 8232853
+
+#### 🔄 Design Program Manager
+**Greenhouse** · everlaw · Product
+📍 Oakland, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4711152006)
+🕐 Updated: 2026-10-16T11:48:48-04:00 | ID: 4711152006
+
+#### 🔄 Sr. Manager, Web Strategy
+**Greenhouse** · asana · Digital Marketing
+📍 Vancouver, BC | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8241519?gh_jid=8241519)
+🕐 Updated: 2026-10-16T11:48:23-04:00 | ID: 8241519
+
+#### 🔄 Senior Staff Software Engineer, Developer Productivity
+**Greenhouse** · asana · Foundations Engineering
+📍 New York City | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8212172?gh_jid=8212172)
+🕐 Updated: 2026-10-16T11:48:14-04:00 | ID: 8212172
+
+#### 🔄 Senior Staff Software Engineer, Developer Productivity
+**Greenhouse** · asana · Foundations Engineering
+📍 San Francisco | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8095555?gh_jid=8095555)
+🕐 Updated: 2026-10-16T11:48:14-04:00 | ID: 8095555
+
+#### 🔄 Senior Account Executive, Startups (Southeast)
+**Greenhouse** · cloudflare · Mid Market
+📍 Distributed | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8275434?gh_jid=8275434)
+🕐 Updated: 2026-10-16T11:41:30-04:00 | ID: 8275434
+
+#### 🔄 Senior Account Executive, Startups (Southeast)
+**Greenhouse** · cloudflare · Mid Market
+📍 Distributed | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8275432?gh_jid=8275432)
+🕐 Updated: 2026-10-16T11:41:30-04:00 | ID: 8275432
+
+#### 🔄 Front Line Support Engineer - East Coast
+**Greenhouse** · fireblocks · Customer Operations
+📍 United States | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4704413006)
+🕐 Updated: 2026-10-16T11:29:49-04:00 | ID: 4704413006
+
+#### 🔄 Enterprise Security Sales Specialist
+**Greenhouse** · datadog · Enterprise Sales
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7129425/?gh_jid=7129425)
+🕐 Updated: 2026-10-16T11:27:20-04:00 | ID: 7129425
+
+#### 🔄 Enterprise Security Sales Specialist
+**Greenhouse** · datadog · Enterprise Sales
+📍 District of Columbia, USA, Remote; North Carolina, USA, Remote | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132)
+🕐 Updated: 2026-10-16T11:27:20-04:00 | ID: 7132132
+
+#### 🔄 Senior Software Engineer, Full-Stack
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8069867?gh_jid=8069867)
+🕐 Updated: 2026-10-16T11:17:14-04:00 | ID: 8069867
+
+#### 🔄 Senior Software Engineer, Full-Stack
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8069875?gh_jid=8069875)
+🕐 Updated: 2026-10-16T11:17:14-04:00 | ID: 8069875
+
+#### 🔄 Software Engineer 3, Data Pipeline
+**Greenhouse** · mongodb · Observability & Adoption Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7613665)
+🕐 Updated: 2026-10-16T11:13:21-04:00 | ID: 7613665
+
+#### 🔄 Senior Software Engineer, International
+**Greenhouse** · robinhood · Crypto Engineering
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8126312?t=gh_src=&gh_jid=8126312)
+🕐 Updated: 2026-10-16T11:11:07-04:00 | ID: 8126312
+
+#### 🔄 Senior Software Engineer, International
+**Greenhouse** · robinhood · Crypto Engineering
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8126314?t=gh_src=&gh_jid=8126314)
+🕐 Updated: 2026-10-16T11:06:06-04:00 | ID: 8126314
+
+#### 🔄 Director, Fund Accounting
+**Greenhouse** · carta · Fund Administration
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/8034008003)
+🕐 Updated: 2026-10-16T11:05:40-04:00 | ID: 8034008003
+
+#### 🔄 Account Executive, SLED (Chicago)
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8281752)
+🕐 Updated: 2026-10-16T11:04:25-04:00 | ID: 8281752
+
+#### 🔄 Senior Principal Industry Analyst Relations
+**Greenhouse** · pagerduty · Product Marketing
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/pagerduty/jobs/6030721004)
+🕐 Updated: 2026-10-16T11:03:37-04:00 | ID: 6030721004
+
+#### 🔄 CRM & Lifecycle Marketing Specialist - Growth Marketing
+**Greenhouse** · applovin · Growth Marketing
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4697888006?gh_jid=4697888006)
+🕐 Updated: 2026-10-16T10:59:42-04:00 | ID: 4697888006
+
+#### 🔄 Bilingual Strategic Cuisines Account Executive - South Houston, TX (Spanish)
+**Greenhouse** · toast · Sales : Strategic Cuisines Sales AEs
+📍 South Houston, TX | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8282408)
+🕐 Updated: 2026-10-16T10:58:14-04:00 | ID: 8282408
+
+#### 🔄 Field Safety Engineer
+**Greenhouse** · waymo · Safety (7GB)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8248373)
+🕐 Updated: 2026-10-16T10:57:03-04:00 | ID: 8248373
+
+#### 🔄 Senior Digital Designer
+**Greenhouse** · adyen · Marketing
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8242349)
+🕐 Updated: 2026-10-16T10:54:56-04:00 | ID: 8242349
+
+#### 🔄 Sr Field Marketing Manager
+**Greenhouse** · starburst · Field Marketing
+📍 Boston, MA, New York, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5392581008)
+🕐 Updated: 2026-10-16T10:54:47-04:00 | ID: 5392581008
+
+#### 🔄 Systems Engineer, MAPS
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7742773?gh_jid=7742773)
+🕐 Updated: 2026-10-16T10:51:29-04:00 | ID: 7742773
+
+#### 🔄 Account Development Representative
+**Greenhouse** · coursera · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6222902004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6222902004
+
+#### 🔄 Account Lead - C4B
+**Greenhouse** · coursera · Sales & Enterprise
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6208355004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6208355004
+
+#### 🔄 Accounts Payable Specialist (Gurugram)
+**Greenhouse** · coursera · Accounting
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6220312004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6220312004
+
+#### 🔄 AI Specialist II
+**Greenhouse** · coursera · Partner Success Services
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6207519004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6207519004
+
+#### 🔄 Chief of Staff, Content
+**Greenhouse** · coursera · Chief of Staff
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6193287004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6193287004
+
+#### 🔄 Enterprise Account Executive, Korea
+**Greenhouse** · coursera · Sales & Enterprise
+📍 South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6184735004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6184735004
+
+#### 🔄 Enterprise Agentic AI Architect
+**Greenhouse** · coursera · Partner Success Services
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6223129004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6223129004
+
+#### 🔄 LLMops Engineer
+**Greenhouse** · coursera · Partner Success Services
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6212857004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6212857004
+
+#### 🔄 Product Specialist
+**Greenhouse** · coursera · Product Operations
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6156821004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6156821004
+
+#### 🔄 Senior Content Business Analyst
+**Greenhouse** · coursera · Content & Credentials Operations
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6219617004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6219617004
+
+#### 🔄 Senior Manager Marketing
+**Greenhouse** · coursera · Marketing Enterprise
+📍 Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6184090004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6184090004
+
+#### 🔄 Senior Merchandising Manager
+**Greenhouse** · coursera · Consumer Marketing
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6223104004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6223104004
+
+#### 🔄 Senior Product Manager, Applied AI
+**Greenhouse** · coursera · Partner Success Services
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6207501004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6207501004
+
+#### 🔄 Senior SEO Manager
+**Greenhouse** · coursera · Consumer Marketing
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6013615004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6013615004
+
+#### 🔄 Senior Software Developer, BE
+**Greenhouse** · coursera · Engineering
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6211197004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6211197004
+
+#### 🔄 Senior Software Engineer, Applied AI and Customer Solutions
+**Greenhouse** · coursera · Partner Success Services
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6145774004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6145774004
+
+#### 🔄 Senior Software Engineer, Applied AI & Customer Solutions
+**Greenhouse** · coursera · Partner Success Services
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6217587004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6217587004
+
+#### 🔄 Senior Software Engineer, Backend & Infrastructure
+**Greenhouse** · coursera · Scaled Services
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6126490004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6126490004
+
+#### 🔄 Senior Software Test Engineer
+**Greenhouse** · coursera · Engineering
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6141559004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6141559004
+
+#### 🔄 Staff Product Manager, Search
+**Greenhouse** · coursera · Product Management
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6186173004)
+🕐 Updated: 2026-10-16T10:46:19-04:00 | ID: 6186173004
+
+#### 🔄 Lead Project Manager
+**Greenhouse** · klaviyo · IT & Security
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7806009003?gh_jid=7806009003)
+🕐 Updated: 2026-10-16T10:45:54-04:00 | ID: 7806009003
+
+#### 🔄 Language Partner, Spanish
+**Greenhouse** · toast · Sales : Strategic Cuisines Sales AEs
+📍 Remote | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8089144)
+🕐 Updated: 2026-10-16T10:44:03-04:00 | ID: 8089144
+
+#### 🔄 Senior Product Manager (Service Agent Team)
+**Greenhouse** · intercom · Product
+📍 London, England | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8264267)
+🕐 Updated: 2026-10-16T10:43:22-04:00 | ID: 8264267
+
+#### 🔄 Senior Manager, Enterprise Learning & Development
+**Greenhouse** · sofi · Human Resources
+📍 San Francisco, CA | 🔗 [Apply Here](https://sofi.com/careers/job/7982474003?gh_jid=7982474003)
+🕐 Updated: 2026-10-16T10:42:26-04:00 | ID: 7982474003
+
+#### 🔄 Growth Marketing Strategy Lead
+**Greenhouse** · waymo · O-Marketing-Corp (0K5)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7838891)
+🕐 Updated: 2026-10-16T10:41:47-04:00 | ID: 7838891
+
+#### 🔄 Senior Enterprise Account Executive, Pub Sector
+**Greenhouse** · mongodb · Sales US Public Sector
+📍 Tysons; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8155641)
+🕐 Updated: 2026-10-16T10:40:33-04:00 | ID: 8155641
+
+#### 🔄 Senior Network Engineer
+**Greenhouse** · twilio · IT
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: 2026-10-16T10:34:31-04:00 | ID: 7657993
+
+#### 🔄 Applications Engineer 2
+**Greenhouse** · twilio · Sales Operations
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781659)
+🕐 Updated: 2026-10-16T10:34:16-04:00 | ID: 7781659
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7785025)
+🕐 Updated: 2026-10-16T10:34:13-04:00 | ID: 7785025
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · twilio · Product Management
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7904293)
+🕐 Updated: 2026-10-16T10:34:01-04:00 | ID: 7904293
+
+#### 🔄 Strategic Account Executive (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7865849)
+🕐 Updated: 2026-10-16T10:33:45-04:00 | ID: 7865849
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8015771)
+🕐 Updated: 2026-10-16T10:33:32-04:00 | ID: 8015771
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7917665)
+🕐 Updated: 2026-10-16T10:33:26-04:00 | ID: 7917665
+
+#### 🔄 Machine Learning Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7996774)
+🕐 Updated: 2026-10-16T10:33:24-04:00 | ID: 7996774
+
+#### 🔄 Presales Engineer (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8000178)
+🕐 Updated: 2026-10-16T10:33:21-04:00 | ID: 8000178
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8067909)
+🕐 Updated: 2026-10-16T10:33:19-04:00 | ID: 8067909
+
+#### 🔄 Strategic Account Executive - San Francisco
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8691382002)
+🕐 Updated: 2026-10-16T10:33:18-04:00 | ID: 8691382002
+
+#### 🔄 Machine Learning Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8007455)
+🕐 Updated: 2026-10-16T10:33:17-04:00 | ID: 8007455
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8064090)
+🕐 Updated: 2026-10-16T10:33:10-04:00 | ID: 8064090
+
+#### 🔄 Senior Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8096642)
+🕐 Updated: 2026-10-16T10:32:55-04:00 | ID: 8096642
+
+#### 🔄 Fast Track Operations Specialist 2
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8097524)
+🕐 Updated: 2026-10-16T10:32:49-04:00 | ID: 8097524
+
+#### 🔄 Strategic Account Excecutive
+**Greenhouse** · twilio · Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8076981)
+🕐 Updated: 2026-10-16T10:32:00-04:00 | ID: 8076981
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8071710)
+🕐 Updated: 2026-10-16T10:31:47-04:00 | ID: 8071710
+
+#### 🔄 Security Engineer, Incident Response
+**Greenhouse** · twilio · Security
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8055481)
+🕐 Updated: 2026-10-16T10:31:34-04:00 | ID: 8055481
+
+#### 🔄 Security Engineer, Incident Response
+**Greenhouse** · twilio · Security
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8023560)
+🕐 Updated: 2026-10-16T10:31:34-04:00 | ID: 8023560
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157509)
+🕐 Updated: 2026-10-16T10:31:26-04:00 | ID: 8157509
+
+#### 🔄 Senior Strategic Account Executive (French Speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157507)
+🕐 Updated: 2026-10-16T10:31:23-04:00 | ID: 8157507
+
+#### 🔄 Digital Sales Representative
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8168599)
+🕐 Updated: 2026-10-16T10:31:05-04:00 | ID: 8168599
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8160532)
+🕐 Updated: 2026-10-16T10:30:53-04:00 | ID: 8160532
+
+#### 🔄 Associate Director - Information Security
+**Greenhouse** · contentstack · Product Development Information Security
+📍 Bangalore | 🔗 [Apply Here](https://www.contentstack.com/company/careers/7811507003?gh_jid=7811507003)
+🕐 Updated: 2026-10-16T10:30:40-04:00 | ID: 7811507003
+
+#### 🔄 Globalization Software Engineer
+**Greenhouse** · okta · Web Marketing-465
+📍 Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8093199?gh_jid=8093199)
+🕐 Updated: 2026-10-16T10:30:24-04:00 | ID: 8093199
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8206834)
+🕐 Updated: 2026-10-16T10:30:23-04:00 | ID: 8206834
+
+#### 🔄 Staff, Escalations Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8207721)
+🕐 Updated: 2026-10-16T10:30:18-04:00 | ID: 8207721
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8204407)
+🕐 Updated: 2026-10-16T10:30:15-04:00 | ID: 8204407
+
+#### 🔄 New Business Account Executive
+**Greenhouse** · twilio · Sales Development
+📍 Remote - Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8125581)
+🕐 Updated: 2026-10-16T10:30:09-04:00 | ID: 8125581
+
+#### 🔄 Phone Numbers Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8120421)
+🕐 Updated: 2026-10-16T10:30:04-04:00 | ID: 8120421
+
+#### 🔄 Solution Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8114393)
+🕐 Updated: 2026-10-16T10:29:58-04:00 | ID: 8114393
+
+#### 🔄 Technical Account Manager 4
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8201630)
+🕐 Updated: 2026-10-16T10:29:52-04:00 | ID: 8201630
+
+#### 🔄 Senior Marketing Analyst
+**Greenhouse** · twilio · Marketing
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8138870)
+🕐 Updated: 2026-10-16T10:29:45-04:00 | ID: 8138870
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8207696)
+🕐 Updated: 2026-10-16T10:29:32-04:00 | ID: 8207696
+
+#### 🔄 Customer Success Senior Manager
+**Greenhouse** · ripple · Customer Success
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8241644?gh_jid=8241644)
+🕐 Updated: 2026-10-16T10:29:28-04:00 | ID: 8241644
+
+#### 🔄 New Business Account Executive (German speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8143768)
+🕐 Updated: 2026-10-16T10:29:24-04:00 | ID: 8143768
+
+#### 🔄 Product Manager L2 (mid-level)
+**Greenhouse** · twilio · Product Management
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8136763)
+🕐 Updated: 2026-10-16T10:29:08-04:00 | ID: 8136763
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8226571)
+🕐 Updated: 2026-10-16T10:29:02-04:00 | ID: 8226571
+
+#### 🔄 Customer Success Senior Manager
+**Greenhouse** · ripple · Customer Success
+📍 New York, NY, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8241656?gh_jid=8241656)
+🕐 Updated: 2026-10-16T10:28:56-04:00 | ID: 8241656
+
+#### 🔄 Phone Number Operations Specialist
+**Greenhouse** · twilio · Sales Operations
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8235979)
+🕐 Updated: 2026-10-16T10:28:54-04:00 | ID: 8235979
+
+#### 🔄 Digital Marketing Manager
+**Greenhouse** · twilio · Marketing
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8176810)
+🕐 Updated: 2026-10-16T10:28:36-04:00 | ID: 8176810
+
+#### 🔄 DevOps Engineer (Observability)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8108771)
+🕐 Updated: 2026-10-16T10:28:21-04:00 | ID: 8108771
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8178812)
+🕐 Updated: 2026-10-16T10:28:18-04:00 | ID: 8178812
+
+#### 🔄 Compliance Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8197328)
+🕐 Updated: 2026-10-16T10:28:00-04:00 | ID: 8197328
+
+#### 🔄 Financial Manager
+**Greenhouse** · twilio · Finance
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8196096)
+🕐 Updated: 2026-10-16T10:27:50-04:00 | ID: 8196096
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261710)
+🕐 Updated: 2026-10-16T10:27:47-04:00 | ID: 8261710
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · twilio · Sales Development
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261528)
+🕐 Updated: 2026-10-16T10:27:42-04:00 | ID: 8261528
+
+#### 🔄 Presales Architect
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8262189)
+🕐 Updated: 2026-10-16T10:27:35-04:00 | ID: 8262189
+
+#### 🔄 Staff Machine Learning Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258593)
+🕐 Updated: 2026-10-16T10:27:29-04:00 | ID: 8258593
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258962)
+🕐 Updated: 2026-10-16T10:27:19-04:00 | ID: 8258962
+
+#### 🔄 Machine Learning Engineer (L3)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258587)
+🕐 Updated: 2026-10-16T10:27:16-04:00 | ID: 8258587
+
+#### 🔄 Billing Operations Analyst 1
+**Greenhouse** · twilio · Accounting
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261245)
+🕐 Updated: 2026-10-16T10:27:13-04:00 | ID: 8261245
+
+#### 🔄 Phone Numbers Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261277)
+🕐 Updated: 2026-10-16T10:27:06-04:00 | ID: 8261277
+
+#### 🔄 Principal Presales Engineer, Product Specialist
+**Greenhouse** · twilio · Sales
+📍 Remote - Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8267928)
+🕐 Updated: 2026-10-16T10:26:58-04:00 | ID: 8267928
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Solutions Engineering
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8243073)
+🕐 Updated: 2026-10-16T10:26:50-04:00 | ID: 8243073
+
+#### 🔄 Staff Software Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8240288)
+🕐 Updated: 2026-10-16T10:26:47-04:00 | ID: 8240288
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8244723)
+🕐 Updated: 2026-10-16T10:26:44-04:00 | ID: 8244723
+
+#### 🔄 Senior Internal Auditor
+**Greenhouse** · twilio · Finance
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256912)
+🕐 Updated: 2026-10-16T10:26:41-04:00 | ID: 8256912
+
+#### 🔄 Inside Sales - Representative (Active) 2
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256373)
+🕐 Updated: 2026-10-16T10:26:34-04:00 | ID: 8256373
+
+#### 🔄 People Generalist
+**Greenhouse** · twilio · People Team
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256431)
+🕐 Updated: 2026-10-16T10:26:17-04:00 | ID: 8256431
+
+#### 🔄 Senior International Payroll Analyst
+**Greenhouse** · twilio · Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8249285)
+🕐 Updated: 2026-10-16T10:25:53-04:00 | ID: 8249285
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8247286)
+🕐 Updated: 2026-10-16T10:25:43-04:00 | ID: 8247286
+
+#### 🔄 Executive Business Partner
+**Greenhouse** · twilio · Administration
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8281950)
+🕐 Updated: 2026-10-16T10:25:40-04:00 | ID: 8281950
+
+#### 🔄 Investigator
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172491)
+🕐 Updated: 2026-10-16T10:21:10-04:00 | ID: 8172491
+
+#### 🔄 Staff Analyst
+**Greenhouse** · mongodb · Analytics
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8077182)
+🕐 Updated: 2026-10-16T10:19:04-04:00 | ID: 8077182
+
+#### 🔄 Enterprise Account Executive - Southeast Florida
+**Greenhouse** · abnormalsecurity · Enterprise
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7788905003?gh_jid=7788905003)
+🕐 Updated: 2026-10-16T10:17:08-04:00 | ID: 7788905003
+
+#### 🔄 Senior Product Acceleration Specialist - Auth0
+**Greenhouse** · okta · Product Acceleration Team-394
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Toronto, Ontario, Canada; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8204750?gh_jid=8204750)
+🕐 Updated: 2026-10-16T10:14:30-04:00 | ID: 8204750
+
+#### 🔄 Senior Design Program Manager II
+**Greenhouse** · instacart · Research & Design
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8249753)
+🕐 Updated: 2026-10-16T10:13:25-04:00 | ID: 8249753
+
+#### 🔄 Senior Design Program Manager II
+**Greenhouse** · instacart · Research & Design
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8249751)
+🕐 Updated: 2026-10-16T10:13:23-04:00 | ID: 8249751
+
+#### 🔄 Regional Sales Director - France
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860248002)
+🕐 Updated: 2026-10-16T10:12:21-04:00 | ID: 8860248002
+
+#### 🔄 Senior Strategic ABM  Manager
+**Greenhouse** · purestorage · Marketing
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8211122)
+🕐 Updated: 2026-10-16T10:11:53-04:00 | ID: 8211122
+
+#### 🔄 Recruiting Coordinator (12-Month Fixed Term Contract)
+**Greenhouse** · datadog · Business Recruiting
+📍 Dublin, Ireland | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8247329/?gh_jid=8247329)
+🕐 Updated: 2026-10-16T10:09:29-04:00 | ID: 8247329
+
+#### 🔄 Enablement Designer, Recruiting - 12-Month Engagement (NYC)
+**Greenhouse** · datadog · People
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8226352/?gh_jid=8226352)
+🕐 Updated: 2026-10-16T10:08:48-04:00 | ID: 8226352
+
+#### 🔄 Business Development Representative - Danish, Norwegian or Swedish Speaking
+**Greenhouse** · cloudflare · BDR
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7657028?gh_jid=7657028)
+🕐 Updated: 2026-10-16T10:04:08-04:00 | ID: 7657028
+
+#### 🔄 Business Development Representative - Hebrew Speaking
+**Greenhouse** · cloudflare · BDR
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7694407?gh_jid=7694407)
+🕐 Updated: 2026-10-16T10:04:08-04:00 | ID: 7694407
+
+#### 🔄 Manager, Platform Offering Strategy
+**Greenhouse** · adyen · Commercial Business Development
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7760238)
+🕐 Updated: 2026-10-16T10:04:06-04:00 | ID: 7760238
+
+#### 🔄 Manager, Platform Offering Strategy
+**Greenhouse** · adyen · Commercial Business Development
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8010419)
+🕐 Updated: 2026-10-16T10:04:06-04:00 | ID: 8010419
+
+#### 🔄 Senior Product Design Manager
+**Greenhouse** · fivetran · Product Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7808191003)
+🕐 Updated: 2026-10-16T10:02:15-04:00 | ID: 7808191003
+
+#### 🔄 Senior Product Design Manager
+**Greenhouse** · fivetran · Product Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7822456003)
+🕐 Updated: 2026-10-16T10:02:15-04:00 | ID: 7822456003
+
+#### 🔄 Sales Strategy and Operations Manager
+**Greenhouse** · pagerduty · Sales Operations
+📍 Atlanta; San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/pagerduty/jobs/5835317004)
+🕐 Updated: 2026-10-16T09:59:42-04:00 | ID: 5835317004
+
+#### 🔄 Design Recruiter
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8163193)
+🕐 Updated: 2026-10-16T09:59:26-04:00 | ID: 8163193
+
+#### 🔄 Principal Product Acceleration Specialist - Auth0
+**Greenhouse** · okta · Product Acceleration Team-394
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Toronto, Ontario, Canada; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8211192?gh_jid=8211192)
+🕐 Updated: 2026-10-16T09:57:33-04:00 | ID: 8211192
+
+#### 🔄 Principal Product Manager, Certificate Authority
+**Greenhouse** · cloudflare · Product
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8276299?gh_jid=8276299)
+🕐 Updated: 2026-10-16T09:54:53-04:00 | ID: 8276299
+
+#### 🔄 People Business Partner
+**Greenhouse** · datadog · People
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8234190/?gh_jid=8234190)
+🕐 Updated: 2026-10-16T09:50:06-04:00 | ID: 8234190
+
+#### 🔄 Senior Product Design Manager, Banking
+**Greenhouse** · gusto · Design
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8168903)
+🕐 Updated: 2026-10-16T09:49:52-04:00 | ID: 8168903
+
+#### 🔄 Finance Support Specialist
+**Greenhouse** · adyen · Support
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8239154)
+🕐 Updated: 2026-10-16T09:45:02-04:00 | ID: 8239154
+
+#### 🔄 Data Engineer
+**Greenhouse** · adyen · Data Analytics
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6720006)
+🕐 Updated: 2026-10-16T09:44:06-04:00 | ID: 6720006
+
+#### 🔄 Staff Product Manager, Community Builders
+**Greenhouse** · reddit · Consumer Product
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7996994)
+🕐 Updated: 2026-10-16T09:43:27-04:00 | ID: 7996994
+
+#### 🔄 Sales Engineer, Western Europe
+**Greenhouse** · fireblocks · Sales
+📍 København, Capital Region of Denmark, Denmark; London | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4685364006)
+🕐 Updated: 2026-10-16T09:40:30-04:00 | ID: 4685364006
+
+#### 🔄 Senior Software Engineer - Model Platform
+**Greenhouse** · abnormalsecurity · Message Security Detection
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7999302003?gh_jid=7999302003)
+🕐 Updated: 2026-10-16T09:40:20-04:00 | ID: 7999302003
+
+#### 🔄 Staff Product Manager, Moderation
+**Greenhouse** · reddit · Tech Admin
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8088710)
+🕐 Updated: 2026-10-16T09:37:51-04:00 | ID: 8088710
+
+#### 🔄 Analytics Engineer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282760)
+🕐 Updated: 2026-10-16T09:35:46-04:00 | ID: 8282760
+
+#### 🔄 Sales Engineer, Banking
+**Greenhouse** · fireblocks · Sales
+📍 Berlin, Berlin, Germany; København, Capital Region of Denmark, Denmark | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4684189006)
+🕐 Updated: 2026-10-16T09:35:15-04:00 | ID: 4684189006
+
+#### 🔄 Sr. People Partner
+**Greenhouse** · samsara · People Experience
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8263224?gh_jid=8263224)
+🕐 Updated: 2026-10-16T09:33:35-04:00 | ID: 8263224
+
+#### 🔄 Sales Engineer, Payments EMEA
+**Greenhouse** · fireblocks · Sales
+📍 København, Capital Region of Denmark, Denmark; London | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4683940006)
+🕐 Updated: 2026-10-16T09:31:33-04:00 | ID: 4683940006
+
+#### 🔄 Sr. Product Manager - Dashboards & Configuration (Integrity & Trust)
+**Greenhouse** · cloudflare · Product
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8239323?gh_jid=8239323)
+🕐 Updated: 2026-10-16T09:25:49-04:00 | ID: 8239323
+
+#### 🔄 Senior Engineering Manager - Workers KV
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7841019?gh_jid=7841019)
+🕐 Updated: 2026-10-16T09:25:36-04:00 | ID: 7841019
+
+#### 🔄 Health and Safety Manager
+**Greenhouse** · godaddy · Project/Program Management
+📍 Romania | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7983722003)
+🕐 Updated: 2026-10-16T09:20:35-04:00 | ID: 7983722003
+
+#### 🔄 Senior Business Analyst - Operations
+**Greenhouse** · adyen · Data Analytics
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7985544)
+🕐 Updated: 2026-10-16T09:04:41-04:00 | ID: 7985544
+
+#### 🔄 Principal Product Marketing Manager - Public Sector
+**Greenhouse** · samsara · Product Marketing
+📍 Remote - DC; Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8148044?gh_jid=8148044)
+🕐 Updated: 2026-10-16T09:04:24-04:00 | ID: 8148044
+
+#### 🔄 Senior Product Analyst
+**Greenhouse** · fivetran · Analytics Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8017414003)
+🕐 Updated: 2026-10-16T09:01:21-04:00 | ID: 8017414003
+
+#### 🔄 Senior Data Engineer
+**Greenhouse** · adyen · Data Analytics
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/6919020)
+🕐 Updated: 2026-10-16T08:54:26-04:00 | ID: 6919020
+
+#### 🔄 Senior Network Hardware Engineer
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174)
+🕐 Updated: 2026-10-16T08:54:20-04:00 | ID: 8147174
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15490 fetched, 250 updated, 76 cap-skipped, 0 alerts
+- **Lever**: 0 new, 37 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 60 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15587 fetched, 250 updated, 76 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-16 12:43 UTC
 
 ### Greenhouse
