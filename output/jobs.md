@@ -1,3 +1,27 @@
+## 📅 Run: 2026-10-17 18:27 UTC
+
+### Greenhouse
+
+#### 🔄 Software Engineer- SaaS O365
+**Greenhouse** · rubrik · Engineering
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407)
+🕐 Updated: 2026-10-17T13:54:21-04:00 | ID: 8256407
+
+#### 🔄 Account Executive, Commercial - Mexico
+**Greenhouse** · samsara · Mexico
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7516554?gh_jid=7516554)
+🕐 Updated: 2026-10-17T13:00:01-04:00 | ID: 7516554
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15555 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15657 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-17 16:08 UTC
 
 ### Greenhouse
