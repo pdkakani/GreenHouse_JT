@@ -323824,7 +323824,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8173658": {
-    "updated_at": "2026-10-02T11:30:00-04:00",
+    "updated_at": "2026-10-17T12:00:00-04:00",
     "title": "Enterprise Core Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -351520,7 +351520,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8203653": {
-    "updated_at": "2026-10-12T01:31:02-04:00",
+    "updated_at": "2026-10-17T11:28:28-04:00",
     "title": "Operations Program Manager",
     "company": "stripe",
     "ats": "greenhouse",
@@ -392200,8 +392200,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8271659": {
-    "updated_at": "2026-10-16T12:54:28-04:00",
-    "title": "Account Executive, Startups DACH",
+    "updated_at": "2026-10-17T08:57:15-04:00",
+    "title": "Account Executive, Funded Startups DACH",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -394213,6 +394213,14 @@
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8294496": {
+    "updated_at": "2026-10-17T02:33:01-04:00",
+    "title": "Trade Show Specialist (B2B)",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
     "alerted": false
   }
 }

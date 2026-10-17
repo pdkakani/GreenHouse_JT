@@ -1,3 +1,32 @@
+## 📅 Run: 2026-10-17 16:08 UTC
+
+### Greenhouse
+
+#### 🔄 Enterprise Core Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8173658?gh_jid=8173658)
+🕐 Updated: 2026-10-17T12:00:00-04:00 | ID: 8173658
+
+#### 🔄 Operations Program Manager
+**Greenhouse** · stripe · 4138 SDC - Tech Ops
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203653)
+🕐 Updated: 2026-10-17T11:28:28-04:00 | ID: 8203653
+
+#### 🔄 Account Executive, Funded Startups DACH
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Berlin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8271659)
+🕐 Updated: 2026-10-17T08:57:15-04:00 | ID: 8271659
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15557 fetched, 3 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15659 fetched, 3 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-17 12:57 UTC
 
 ### Greenhouse
