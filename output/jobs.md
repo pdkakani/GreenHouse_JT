@@ -1,3 +1,22 @@
+## 📅 Run: 2026-10-17 22:48 UTC
+
+### Greenhouse
+
+#### 🔄 Machine Learning Engineer - IV (Computer Vision)
+**Greenhouse** · jumio · Machine Learning
+📍 India (remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/jumio/jobs/4713139005)
+🕐 Updated: 2026-10-17T17:47:00-04:00 | ID: 4713139005
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15552 fetched, 1 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15654 fetched, 1 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-17 20:49 UTC
 
 ### Greenhouse
