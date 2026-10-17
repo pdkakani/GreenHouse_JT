@@ -1,3 +1,92 @@
+## 📅 Run: 2026-10-17 04:59 UTC
+
+### Greenhouse
+
+#### 🔄 Manager, Workplace
+**Greenhouse** · mongodb · Workplace
+📍 San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8230396)
+🕐 Updated: 2026-10-17T00:38:57-04:00 | ID: 8230396
+
+#### 🔄 Account Development Representative
+**Greenhouse** · mongodb · Sales Development
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7318558)
+🕐 Updated: 2026-10-17T00:38:43-04:00 | ID: 7318558
+
+#### 🔄 Account Development Representative
+**Greenhouse** · mongodb · Sales Development
+📍 Bengaluru | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7318466)
+🕐 Updated: 2026-10-17T00:38:43-04:00 | ID: 7318466
+
+#### 🔄 Account Development Representative, German Speaking
+**Greenhouse** · mongodb · Sales Development
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7337287)
+🕐 Updated: 2026-10-17T00:38:43-04:00 | ID: 7337287
+
+#### 🔄 Account Development Representative, Hebrew Speaking
+**Greenhouse** · mongodb · Sales Development
+📍 Tel Aviv | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7334938)
+🕐 Updated: 2026-10-17T00:38:43-04:00 | ID: 7334938
+
+#### 🔄 Account Development Representative, Italian Speaking
+**Greenhouse** · mongodb · Sales Development
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7338090)
+🕐 Updated: 2026-10-17T00:38:43-04:00 | ID: 7338090
+
+#### 🔄 Director, Partner Programs
+**Greenhouse** · mongodb · Partner Programs
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8077491)
+🕐 Updated: 2026-10-17T00:36:34-04:00 | ID: 8077491
+
+#### 🔄 Senior Enterprise Account Executive, Pub Sector
+**Greenhouse** · mongodb · Sales US Public Sector
+📍 Tysons; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8155641)
+🕐 Updated: 2026-10-17T00:36:21-04:00 | ID: 8155641
+
+#### 🆕 Software Engineer 1 - Cloud Infrastructure
+**Greenhouse** · abnormalsecurity · Platform & Infrastructure · 🎯 85%
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003)
+🕐 Updated: 2026-10-17T00:06:39-04:00 | ID: 8015179003
+
+#### 🔄 Applied AI Engineer, Enterprise Tech
+**Greenhouse** · anthropic · Applied AI
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5057647008)
+🕐 Updated: 2026-10-16T23:56:40-04:00 | ID: 5057647008
+
+#### 🔄 Staff Systems Engineer, Driving Behaviors
+**Greenhouse** · waymo · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8101187)
+🕐 Updated: 2026-10-16T22:21:16-04:00 | ID: 8101187
+
+#### 🔄 Staff Systems Test Engineer, Scenario Quality and Maintenance Systems
+**Greenhouse** · waymo · Scenarios (SQE)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8106385)
+🕐 Updated: 2026-10-16T22:21:03-04:00 | ID: 8106385
+
+#### 🔄 Senior Director, Quality Engineering – Performance, Scalability & Reliability
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8287689?gh_jid=8287689)
+🕐 Updated: 2026-10-16T21:55:08-04:00 | ID: 8287689
+
+#### 🔄 Manager, Field Engineering - MFG
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8612964002)
+🕐 Updated: 2026-10-16T21:01:35-04:00 | ID: 8612964002
+
+#### 🔄 Lead Production Control Scheduler
+**Greenhouse** · spacex · Precision Tube Fabrication Eng & Scheduling
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861237002?gh_jid=8861237002)
+🕐 Updated: 2026-10-16T20:44:14-04:00 | ID: 8861237002
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15560 fetched, 14 updated, 14 cap-skipped, 1 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 1 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15662 fetched, 14 updated, 15 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-17 00:39 UTC
 
 ### Greenhouse

@@ -10584,7 +10584,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5057647008": {
-    "updated_at": "2026-09-09T17:34:03-04:00",
+    "updated_at": "2026-10-16T23:56:40-04:00",
     "title": "Applied AI Engineer, Enterprise Tech",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -75096,7 +75096,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7337287": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:38:43-04:00",
     "title": "Account Development Representative, German Speaking",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -120808,7 +120808,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7334938": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:38:43-04:00",
     "title": "Account Development Representative, Hebrew Speaking",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -228976,7 +228976,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8612964002": {
-    "updated_at": "2026-10-06T06:38:45-04:00",
+    "updated_at": "2026-10-16T21:01:35-04:00",
     "title": "Manager, Field Engineering - MFG",
     "company": "databricks",
     "ats": "greenhouse",
@@ -257096,7 +257096,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7318466": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:38:43-04:00",
     "title": "Account Development Representative",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -262496,7 +262496,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8077491": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:36:34-04:00",
     "title": "Director, Partner Programs",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -263600,7 +263600,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7318558": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:38:43-04:00",
     "title": "Account Development Representative",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -267696,7 +267696,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7338090": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:38:43-04:00",
     "title": "Account Development Representative, Italian Speaking",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -277376,7 +277376,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8101187": {
-    "updated_at": "2026-10-09T17:36:54-04:00",
+    "updated_at": "2026-10-16T22:21:16-04:00",
     "title": "Staff Systems Engineer, Driving Behaviors",
     "company": "waymo",
     "ats": "greenhouse",
@@ -280536,7 +280536,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8106385": {
-    "updated_at": "2026-10-09T17:40:58-04:00",
+    "updated_at": "2026-10-16T22:21:03-04:00",
     "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
     "company": "waymo",
     "ats": "greenhouse",
@@ -350896,7 +350896,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8155641": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:36:21-04:00",
     "title": "Senior Enterprise Account Executive, Pub Sector",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -361440,7 +361440,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8230396": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-17T00:38:57-04:00",
     "title": "Manager, Workplace",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -373656,7 +373656,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8861237002": {
-    "updated_at": "2026-10-09T12:07:47-04:00",
+    "updated_at": "2026-10-16T20:44:14-04:00",
     "title": "Lead Production Control Scheduler",
     "company": "spacex",
     "ats": "greenhouse",
@@ -391576,7 +391576,7 @@
     "alerted": false
   },
   "greenhouse:okta:8287689": {
-    "updated_at": "2026-10-15T20:39:39-04:00",
+    "updated_at": "2026-10-16T21:55:08-04:00",
     "title": "Senior Director, Quality Engineering \u2013 Performance, Scalability & Reliability",
     "company": "okta",
     "ats": "greenhouse",
@@ -394069,6 +394069,134 @@
     "company": "leantaas",
     "ats": "lever",
     "source_slug": "leantaas",
+    "alerted": false
+  },
+  "greenhouse:lyft:8896654002": {
+    "updated_at": "2026-10-16T23:04:26-04:00",
+    "title": "Business Systems Engineer",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:lyft:8896666002": {
+    "updated_at": "2026-10-16T22:56:51-04:00",
+    "title": "UX Researcher",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:lyft:8896685002": {
+    "updated_at": "2026-10-16T22:54:56-04:00",
+    "title": "Data Analyst",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:lyft:8896679002": {
+    "updated_at": "2026-10-16T22:47:42-04:00",
+    "title": "Software Engineer",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:lyft:8896675002": {
+    "updated_at": "2026-10-16T22:39:11-04:00",
+    "title": "Data Scientist",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8896290002": {
+    "updated_at": "2026-10-16T22:12:56-04:00",
+    "title": "Manager, Customer Success",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8896660002": {
+    "updated_at": "2026-10-16T22:10:05-04:00",
+    "title": "Pilot",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:databricks:8860657002": {
+    "updated_at": "2026-10-16T21:46:10-04:00",
+    "title": "Sr. Public Relations Manager",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5453573008": {
+    "updated_at": "2026-10-16T21:30:30-04:00",
+    "title": "Policy Design Manager, Integrity and Authenticity",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5454800008": {
+    "updated_at": "2026-10-16T21:12:59-04:00",
+    "title": "Customer Success Manager, Enterprise Tech",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8876823002": {
+    "updated_at": "2026-10-16T20:41:24-04:00",
+    "title": "Public Sector Strategic Account Executive - Brazil",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8877428002": {
+    "updated_at": "2026-10-16T20:38:41-04:00",
+    "title": "Strategic Account Executive, Financial Services - Brazil",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5456016008": {
+    "updated_at": "2026-10-16T20:30:40-04:00",
+    "title": "Tabletop Exercise Lead, The Anthropic Institute",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8250300": {
+    "updated_at": "2026-10-16T20:19:52-04:00",
+    "title": "Senior Manager, Valuation",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:8015179003": {
+    "updated_at": "2026-10-17T00:06:39-04:00",
+    "title": "Software Engineer 1 - Cloud Infrastructure",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": true
+  },
+  "lever:teamsnap:4f98ad5c-024f-4c4c-96f9-df171909aa1f": {
+    "updated_at": "1792199809631",
+    "title": "Staff Software Engineer (Android)",
+    "company": "teamsnap",
+    "ats": "lever",
+    "source_slug": "teamsnap",
     "alerted": false
   }
 }
