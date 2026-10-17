@@ -1,3 +1,162 @@
+## 📅 Run: 2026-10-17 09:05 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Security Engineer - Enterprise Security
+**Greenhouse** · samsara · IT Security
+📍 London - UK2; Remote - London | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369)
+🕐 Updated: 2026-10-17T05:03:03-04:00 | ID: 8223369
+
+#### 🔄 Head of Global Campaigns
+**Greenhouse** · asana · Revenue Marketing
+📍 San Francisco | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8001349?gh_jid=8001349)
+🕐 Updated: 2026-10-17T05:02:45-04:00 | ID: 8001349
+
+#### 🔄 Account Executive - Commercial (MEA)
+**Greenhouse** · klaviyo · Sales
+📍 London, UK | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7994121003?gh_jid=7994121003)
+🕐 Updated: 2026-10-17T05:02:37-04:00 | ID: 7994121003
+
+#### 🔄 Senior Software Engineer - Data Platform
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7997137003?gh_jid=7997137003)
+🕐 Updated: 2026-10-17T05:02:37-04:00 | ID: 7997137003
+
+#### 🔄 Senior Software Engineer - Identity and Access Management
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7986459003?gh_jid=7986459003)
+🕐 Updated: 2026-10-17T05:02:36-04:00 | ID: 7986459003
+
+#### 🔄 Software Engineer II - Recommendations
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7855798003?gh_jid=7855798003)
+🕐 Updated: 2026-10-17T05:02:34-04:00 | ID: 7855798003
+
+#### 🔄 Software Engineer II, Test Frameworks & Tooling
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7855793003?gh_jid=7855793003)
+🕐 Updated: 2026-10-17T05:02:33-04:00 | ID: 7855793003
+
+#### 🔄 Senior Software Engineer, Customer Agent
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7780009003?gh_jid=7780009003)
+🕐 Updated: 2026-10-17T05:02:27-04:00 | ID: 7780009003
+
+#### 🔄 Senior Software Engineer, Platform Engineering
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7783904003?gh_jid=7783904003)
+🕐 Updated: 2026-10-17T05:02:26-04:00 | ID: 7783904003
+
+#### 🔄 Senior Software Engineer - Developer Infrastructure
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7711217003?gh_jid=7711217003)
+🕐 Updated: 2026-10-17T05:02:25-04:00 | ID: 7711217003
+
+#### 🔄 Senior Software Engineer - Infrastructure Security
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7777369003?gh_jid=7777369003)
+🕐 Updated: 2026-10-17T05:02:25-04:00 | ID: 7777369003
+
+#### 🔄 Senior Software Engineer - Customer Agent
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7695230003?gh_jid=7695230003)
+🕐 Updated: 2026-10-17T05:02:18-04:00 | ID: 7695230003
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 Dubai | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8243113)
+🕐 Updated: 2026-10-17T05:02:16-04:00 | ID: 8243113
+
+#### 🔄 Senior Software Engineer - Profiles, Lists and Segments
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7597868003?gh_jid=7597868003)
+🕐 Updated: 2026-10-17T05:02:15-04:00 | ID: 7597868003
+
+#### 🔄 Partner Sales Manager Singapore (South East Asia)
+**Greenhouse** · braze · Partnerships
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223954)
+🕐 Updated: 2026-10-17T05:02:13-04:00 | ID: 8223954
+
+#### 🔄 Senior Enterprise Customer Success Manager - UK
+**Greenhouse** · fastly · Customer Success Management
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=8280745)
+🕐 Updated: 2026-10-17T05:01:39-04:00 | ID: 8280745
+
+#### 🔄 Staff Software Engineer (Data Platform)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002)
+🕐 Updated: 2026-10-17T03:41:14-04:00 | ID: 7652016002
+
+#### 🔄 Senior Software Engineer - Ingestion
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002)
+🕐 Updated: 2026-10-17T03:41:00-04:00 | ID: 7934782002
+
+#### 🔄 Senior Software Engineer - Multi Cloud Efficiency
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002)
+🕐 Updated: 2026-10-17T03:40:57-04:00 | ID: 8602402002
+
+#### 🔄 Senior Staff Software Engineer- Networking
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002)
+🕐 Updated: 2026-10-17T03:40:52-04:00 | ID: 8433583002
+
+#### 🔄 Senior Engineering Manager - Backend
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002)
+🕐 Updated: 2026-10-17T03:40:46-04:00 | ID: 7495457002
+
+#### 🔄 Engineering Manager - Core Experiences
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002)
+🕐 Updated: 2026-10-17T03:40:39-04:00 | ID: 7006090002
+
+#### 🔄 Staff Software Engineer - Ingestion
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002)
+🕐 Updated: 2026-10-17T03:40:36-04:00 | ID: 8200692002
+
+#### 🔄 Staff Software Engineer - Databases
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002)
+🕐 Updated: 2026-10-17T03:40:33-04:00 | ID: 7601565002
+
+#### 🔄 Senior Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002)
+🕐 Updated: 2026-10-17T03:40:27-04:00 | ID: 8421894002
+
+#### 🔄 Senior Software Engineer - Data + AI Observability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002)
+🕐 Updated: 2026-10-17T03:40:25-04:00 | ID: 7897431002
+
+#### 🔄 Senior Software Engineer (Backend)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002)
+🕐 Updated: 2026-10-17T03:40:22-04:00 | ID: 6709301002
+
+#### 🔄 Senior Software Engineer (Infra)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002)
+🕐 Updated: 2026-10-17T03:40:19-04:00 | ID: 7619810002
+
+#### 🔄 Software Engineer (Backend - SDE 2)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002)
+🕐 Updated: 2026-10-17T03:33:08-04:00 | ID: 7955594002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15561 fetched, 29 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15663 fetched, 29 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-17 04:59 UTC
 
 ### Greenhouse
