@@ -1,3 +1,27 @@
+## 📅 Run: 2026-10-17 20:49 UTC
+
+### Greenhouse
+
+#### 🔄 Account Development Representative II
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8207926?gh_jid=8207926)
+🕐 Updated: 2026-10-17T15:45:00-04:00 | ID: 8207926
+
+#### 🔄 Account Development Representative - Canada
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8207928?gh_jid=8207928)
+🕐 Updated: 2026-10-17T15:30:00-04:00 | ID: 8207928
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15553 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15655 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-17 18:27 UTC
 
 ### Greenhouse
