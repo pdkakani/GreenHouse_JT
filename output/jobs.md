@@ -1,3 +1,27 @@
+## 📅 Run: 2026-10-18 21:29 UTC
+
+### Greenhouse
+
+#### 🔄 Machine Learning Engineer - IV (Computer Vision)
+**Greenhouse** · jumio · Machine Learning
+📍 India (remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/jumio/jobs/4713139005)
+🕐 Updated: 2026-10-18T16:10:54-04:00 | ID: 4713139005
+
+#### 🔄 Data Solutions & Validation Sr. Specialist
+**Greenhouse** · robinhood · Financial Crimes
+📍 Denver, CO; New York, NY; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8120681?t=gh_src=&gh_jid=8120681)
+🕐 Updated: 2026-10-18T15:30:00-04:00 | ID: 8120681
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15545 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15647 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-18 19:09 UTC
 
 ### Greenhouse
