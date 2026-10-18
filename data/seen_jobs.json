@@ -394326,5 +394326,21 @@
     "ats": "greenhouse",
     "source_slug": "databricks",
     "alerted": true
+  },
+  "greenhouse:gusto:8293217": {
+    "updated_at": "2026-10-18T18:38:08-04:00",
+    "title": "Tax Resolution Advocate",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5454535008": {
+    "updated_at": "2026-10-18T18:33:46-04:00",
+    "title": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
   }
 }
