@@ -264640,7 +264640,7 @@
     "alerted": false
   },
   "greenhouse:toast:8089144": {
-    "updated_at": "2026-10-16T10:44:03-04:00",
+    "updated_at": "2026-10-18T11:28:58-04:00",
     "title": "Language Partner, Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -349256,7 +349256,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8195432": {
-    "updated_at": "2026-10-03T09:45:00-04:00",
+    "updated_at": "2026-10-18T10:15:00-04:00",
     "title": "Enterprise Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -349744,7 +349744,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8210697": {
-    "updated_at": "2026-10-03T11:45:00-04:00",
+    "updated_at": "2026-10-18T12:00:01-04:00",
     "title": "Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -394261,6 +394261,14 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:anthropic:5456039008": {
+    "updated_at": "2026-10-18T10:11:38-04:00",
+    "title": "Principal Engineer Capacity/Compute",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }

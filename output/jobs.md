@@ -1,3 +1,37 @@
+## 📅 Run: 2026-10-18 16:54 UTC
+
+### Greenhouse
+
+#### 🔄 Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)
+**Greenhouse** · samsara · Platform
+📍 Remote - Poland | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8210697?gh_jid=8210697)
+🕐 Updated: 2026-10-18T12:00:01-04:00 | ID: 8210697
+
+#### 🔄 Language Partner, Spanish
+**Greenhouse** · toast · Sales : Strategic Cuisines Sales AEs
+📍 Remote | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8089144)
+🕐 Updated: 2026-10-18T11:28:58-04:00 | ID: 8089144
+
+#### 🔄 Enterprise Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8195432?gh_jid=8195432)
+🕐 Updated: 2026-10-18T10:15:00-04:00 | ID: 8195432
+
+#### 🆕 Principal Engineer Capacity/Compute
+**Greenhouse** · anthropic · Software Engineering - Infrastructure · 🎯 85%
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5456039008)
+🕐 Updated: 2026-10-18T10:11:38-04:00 | ID: 5456039008
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15547 fetched, 3 updated, 0 cap-skipped, 1 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15649 fetched, 3 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-18 13:33 UTC
 
 ### Greenhouse
