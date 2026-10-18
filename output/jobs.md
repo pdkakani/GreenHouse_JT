@@ -1,3 +1,37 @@
+## 📅 Run: 2026-10-18 19:09 UTC
+
+### Greenhouse
+
+#### 🔄 Delivery Solutions Architect - Public Sector
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8559315002)
+🕐 Updated: 2026-10-18T13:41:11-04:00 | ID: 8559315002
+
+#### 🆕 Delivery Solutions Architect - Public Sector (SLED)
+**Greenhouse** · databricks · Delivery Solutions Architects · 🎯 75%
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899465002)
+🕐 Updated: 2026-10-18T13:41:00-04:00 | ID: 8899465002
+
+#### 🆕 Delivery Solutions Architect - Public Sector (Federal)
+**Greenhouse** · databricks · Delivery Solutions Architects · 🎯 75%
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899464002)
+🕐 Updated: 2026-10-18T13:40:34-04:00 | ID: 8899464002
+
+#### 🆕 Delivery Solutions Architect - Public Sector (DOW, DHS, Intelligence Community)
+**Greenhouse** · databricks · Delivery Solutions Architects · 🎯 78%
+📍 Northeast - United States; Southwest - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899462002)
+🕐 Updated: 2026-10-18T13:40:22-04:00 | ID: 8899462002
+
+## ATS Summary
+- **Greenhouse**: 3 new, 15546 fetched, 1 updated, 4 cap-skipped, 3 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 3 new, 15648 fetched, 1 updated, 4 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-18 16:54 UTC
 
 ### Greenhouse

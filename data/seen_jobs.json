@@ -167968,7 +167968,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8559315002": {
-    "updated_at": "2026-10-06T06:25:42-04:00",
+    "updated_at": "2026-10-18T13:41:11-04:00",
     "title": "Delivery Solutions Architect - Public Sector",
     "company": "databricks",
     "ats": "greenhouse",
@@ -394269,6 +394269,62 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:databricks:8899461002": {
+    "updated_at": "2026-10-18T13:39:55-04:00",
+    "title": "Delivery Solutions Architect - Public Sector (DOJ)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8899463002": {
+    "updated_at": "2026-10-18T13:39:39-04:00",
+    "title": "Delivery Solutions Architect - Public Sector (Defense Industrial Base)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8299396": {
+    "updated_at": "2026-10-18T04:55:16-04:00",
+    "title": "Head of Homes Supply, Thailand & Vietnam",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8284597": {
+    "updated_at": "2026-10-18T03:25:55-04:00",
+    "title": "Director of Product, Growth",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:databricks:8899465002": {
+    "updated_at": "2026-10-18T13:41:00-04:00",
+    "title": "Delivery Solutions Architect - Public Sector (SLED)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": true
+  },
+  "greenhouse:databricks:8899464002": {
+    "updated_at": "2026-10-18T13:40:34-04:00",
+    "title": "Delivery Solutions Architect - Public Sector (Federal)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": true
+  },
+  "greenhouse:databricks:8899462002": {
+    "updated_at": "2026-10-18T13:40:22-04:00",
+    "title": "Delivery Solutions Architect - Public Sector (DOW, DHS, Intelligence Community)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
     "alerted": true
   }
 }
