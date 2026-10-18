@@ -278704,8 +278704,8 @@
     "alerted": false
   },
   "greenhouse:twilio:8108771": {
-    "updated_at": "2026-10-16T10:28:21-04:00",
-    "title": "DevOps Engineer (Observability)",
+    "updated_at": "2026-10-18T02:45:45-04:00",
+    "title": "Software Engineer (Observability)",
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
@@ -394230,5 +394230,37 @@
     "ats": "greenhouse",
     "source_slug": "formlabs",
     "alerted": false
+  },
+  "greenhouse:anthropic:5391356008": {
+    "updated_at": "2026-10-17T21:02:10-04:00",
+    "title": "Manager, Account Executive",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8294467": {
+    "updated_at": "2026-10-17T11:05:58-04:00",
+    "title": "Head of Customer Service",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:contentstack:8012786003": {
+    "updated_at": "2026-10-17T03:08:03-04:00",
+    "title": "Principal Engineer - DevOps",
+    "company": "contentstack",
+    "ats": "greenhouse",
+    "source_slug": "contentstack",
+    "alerted": false
+  },
+  "greenhouse:spacex:8899128002": {
+    "updated_at": "2026-10-18T03:26:24-04:00",
+    "title": "Application Software Engineer, Flight Software",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
   }
 }

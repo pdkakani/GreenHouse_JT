@@ -1,3 +1,27 @@
+## 📅 Run: 2026-10-18 09:33 UTC
+
+### Greenhouse
+
+#### 🆕 Application Software Engineer, Flight Software
+**Greenhouse** · spacex · Application Software · 🎯 75%
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002)
+🕐 Updated: 2026-10-18T03:26:24-04:00 | ID: 8899128002
+
+#### 🔄 Software Engineer (Observability)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8108771)
+🕐 Updated: 2026-10-18T02:45:45-04:00 | ID: 8108771
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15548 fetched, 1 updated, 3 cap-skipped, 1 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15650 fetched, 1 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-18 05:07 UTC
 
 ### Greenhouse
