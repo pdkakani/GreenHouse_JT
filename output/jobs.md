@@ -1,3 +1,307 @@
+## 📅 Run: 2026-10-19 06:50 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Business Operations Manager
+**Greenhouse** · samsara · Support
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8112696?gh_jid=8112696)
+🕐 Updated: 2026-10-19T02:05:39-04:00 | ID: 8112696
+
+#### 🔄 Account Development Representative Intern - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119)
+🕐 Updated: 2026-10-19T02:05:37-04:00 | ID: 8103119
+
+#### 🔄 Principal Product Manager - AI Agent Platform
+**Greenhouse** · payoneer · Core AI & AI Transformation
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8211169/?gh_jid=8211169)
+🕐 Updated: 2026-10-19T01:56:59-04:00 | ID: 8211169
+
+#### 🔄 Fraud Strategist
+**Greenhouse** · stripe · 3130 Credit Risk Strategy
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8195058)
+🕐 Updated: 2026-10-19T01:50:06-04:00 | ID: 8195058
+
+#### 🔄 Quality Insights Lead
+**Greenhouse** · airbnb · Community Support
+📍 Gurugram, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8275757?gh_jid=8275757)
+🕐 Updated: 2026-10-19T01:14:10-04:00 | ID: 8275757
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · mongodb · Customer Success Americas
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8060800)
+🕐 Updated: 2026-10-19T00:38:23-04:00 | ID: 8060800
+
+#### 🔄 Senior Manager, AI and People Transformation
+**Greenhouse** · mongodb · HR Operations
+📍 New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8227250)
+🕐 Updated: 2026-10-19T00:38:23-04:00 | ID: 8227250
+
+#### 🔄 Senior Manager, Brand Design
+**Greenhouse** · mongodb · Brand Creative
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8023944)
+🕐 Updated: 2026-10-19T00:38:23-04:00 | ID: 8023944
+
+#### 🔄 Senior Software Engineer, Storage Layer Services
+**Greenhouse** · mongodb · Durability and Availability
+📍 New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7947560)
+🕐 Updated: 2026-10-19T00:38:23-04:00 | ID: 7947560
+
+#### 🔄 Strategic Account Director
+**Greenhouse** · mongodb · Sales Growth NAMER
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7967394)
+🕐 Updated: 2026-10-19T00:38:23-04:00 | ID: 7967394
+
+#### 🔄 Enablement Delivery Specialist
+**Greenhouse** · mongodb · GTM Enablement
+📍 Austin; Chicago | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8013287)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 8013287
+
+#### 🔄 Inside Account Executive
+**Greenhouse** · mongodb · Inside Sales NAMER
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8021118)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 8021118
+
+#### 🔄 Legal Counsel, Procurement
+**Greenhouse** · mongodb · Legal & Risk Mgmt
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8257245)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 8257245
+
+#### 🔄 Legal Counsel, Procurement
+**Greenhouse** · mongodb · Legal & Risk Mgmt
+📍 Austin; New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8229636)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 8229636
+
+#### 🔄 Salesforce Engineer III, FedRAMP
+**Greenhouse** · mongodb · GTM Tech
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7948530)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 7948530
+
+#### 🔄 Senior Manager, GTM Customer Recruiting
+**Greenhouse** · mongodb · Recruiting
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8229901)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 8229901
+
+#### 🔄 Senior Manager, Recruiting Operations
+**Greenhouse** · mongodb · Recruiting
+📍 Austin; Chicago; New York City; Palo Alto; San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7782383)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 7782383
+
+#### 🔄 Site Reliability Engineer 3
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 7821316
+
+#### 🔄 Startup & Venture Ecosystem Lead
+**Greenhouse** · mongodb · Marketing Management
+📍 Los Angeles; New York City; Palo Alto; San Francisco; Seattle; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779540)
+🕐 Updated: 2026-10-19T00:38:22-04:00 | ID: 7779540
+
+#### 🔄 Compensation Manager, Customer
+**Greenhouse** · mongodb · Total Rewards
+📍 Atlanta; Austin; Baltimore; Boston; Chicago; Conshohocken; Dallas; Houston; Minneapolis; New York City; Pittsburgh; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8201245)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8201245
+
+#### 🔄 Enterprise Account Executive, Growth
+**Greenhouse** · mongodb · Sales Growth NAMER
+📍 Atlanta; Florida; North Carolina; South Carolina; Tennessee | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7031396)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 7031396
+
+#### 🔄 Manager, Solutions Architecture (Pre-Sales)
+**Greenhouse** · mongodb · Solutions Architecture, Growth NA
+📍 Austin; Dallas; Houston | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8229892)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8229892
+
+#### 🔄 Manager, Workplace
+**Greenhouse** · mongodb · Workplace
+📍 San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8230396)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8230396
+
+#### 🔄 Senior Compensation Manager, Sales
+**Greenhouse** · mongodb · Total Rewards
+📍 Atlanta; Austin; Baltimore; Boston; Chicago; Dallas; Denver; New York City; Philadelphia; United States; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8208271)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8208271
+
+#### 🔄 Senior HR Business Partner
+**Greenhouse** · mongodb · HR Business Partners
+📍 Austin; Boston; New York City; Philadelphia; Tysons; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8169006)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8169006
+
+#### 🔄 Senior Leadership Development Manager
+**Greenhouse** · mongodb · Learning & Development
+📍 Atlanta; Austin; Chicago; Dallas; Denver; Philadelphia; Raleigh | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8200824)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8200824
+
+#### 🔄 Senior Recruiter, Corporate
+**Greenhouse** · mongodb · People Team
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8231010)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8231010
+
+#### 🔄 Strategic Finance Analyst
+**Greenhouse** · mongodb · FP&A - G&A & Corporate
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8192216)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8192216
+
+#### 🔄 Vice President, Global Communications
+**Greenhouse** · mongodb · Global Communications
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8205340)
+🕐 Updated: 2026-10-19T00:38:21-04:00 | ID: 8205340
+
+#### 🔄 Senior Software Engineer, Identity & Access Management (FedRamp)
+**Greenhouse** · mongodb · Identity and Access Management
+📍 Austin; Boston; Chicago; New York City; Palo Alto; Philadelphia; San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8140620)
+🕐 Updated: 2026-10-19T00:38:20-04:00 | ID: 8140620
+
+#### 🔄 Sr. Product Manager, Driver Management
+**Greenhouse** · samsara · Safety
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7786156?gh_jid=7786156)
+🕐 Updated: 2026-10-19T00:34:59-04:00 | ID: 7786156
+
+#### 🔄 Senior Territory Account Executive - China
+**Greenhouse** · cloudflare · Mid Market
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8012884?gh_jid=8012884)
+🕐 Updated: 2026-10-19T00:30:46-04:00 | ID: 8012884
+
+#### 🔄 Solutions Architect (Pre-sales) - Utilities/Energy
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8657746002)
+🕐 Updated: 2026-10-18T23:49:30-04:00 | ID: 8657746002
+
+#### 🔄 Global SAP Consolidations Manager
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688875002)
+🕐 Updated: 2026-10-18T23:43:53-04:00 | ID: 8688875002
+
+#### 🔄 Software Engineer, Infrastructure
+**Greenhouse** · databricks · Infrastructure
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002)
+🕐 Updated: 2026-10-18T23:43:47-04:00 | ID: 8829029002
+
+#### 🔄 Sr Software Engineer - Agentic Applications (Full Stack)
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002)
+🕐 Updated: 2026-10-18T23:43:42-04:00 | ID: 8679982002
+
+#### 🔄 Regional Sales Director
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860219002)
+🕐 Updated: 2026-10-18T23:42:29-04:00 | ID: 8860219002
+
+#### 🔄 International Accounts Payable Manager
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8717004002)
+🕐 Updated: 2026-10-18T23:41:17-04:00 | ID: 8717004002
+
+#### 🔄 Senior Manager, Global Premier Support
+**Greenhouse** · databricks · Engineering
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8583146002)
+🕐 Updated: 2026-10-18T23:41:00-04:00 | ID: 8583146002
+
+#### 🔄 SAP Functional SME
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688851002)
+🕐 Updated: 2026-10-18T23:40:40-04:00 | ID: 8688851002
+
+#### 🔄 Senior SAP Developer
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002)
+🕐 Updated: 2026-10-18T23:40:20-04:00 | ID: 8679980002
+
+#### 🔄 Credit and Collections Manager
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8756138002)
+🕐 Updated: 2026-10-18T23:38:29-04:00 | ID: 8756138002
+
+#### 🔄 Finance Data and AI Lead
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002)
+🕐 Updated: 2026-10-18T23:37:57-04:00 | ID: 8604598002
+
+#### 🔄 Senior Engineering Manager - Backend
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002)
+🕐 Updated: 2026-10-18T23:23:10-04:00 | ID: 7495457002
+
+#### 🔄 Engineering Manager (Ingestion)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002)
+🕐 Updated: 2026-10-18T23:23:08-04:00 | ID: 8357216002
+
+#### 🔄 Engineering Manager - Core Experiences
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002)
+🕐 Updated: 2026-10-18T23:23:06-04:00 | ID: 7006090002
+
+#### 🔄 Senior Staff Software Engineer- Networking
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002)
+🕐 Updated: 2026-10-18T23:23:03-04:00 | ID: 8433583002
+
+#### 🔄 Senior Staff Software Engineer (Backend)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002)
+🕐 Updated: 2026-10-18T23:23:01-04:00 | ID: 7651326002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002)
+🕐 Updated: 2026-10-18T23:22:56-04:00 | ID: 8320183002
+
+#### 🔄 Senior Software Engineer - Data + AI Observability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002)
+🕐 Updated: 2026-10-18T23:22:51-04:00 | ID: 7897431002
+
+#### 🔄 Staff Software Engineer - Data Platform
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002)
+🕐 Updated: 2026-10-18T23:22:29-04:00 | ID: 7601572002
+
+#### 🔄 Staff Software Engineer - Databases
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002)
+🕐 Updated: 2026-10-18T23:22:27-04:00 | ID: 7601565002
+
+#### 🔄 Staff Software Engineer (Core Experiences)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002)
+🕐 Updated: 2026-10-18T23:22:24-04:00 | ID: 6716344002
+
+#### 🔄 Sales Engineer
+**Greenhouse** · datadog · Commercial & Mid-Market Sales Engineering
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8258855/?gh_jid=8258855)
+🕐 Updated: 2026-10-18T23:11:09-04:00 | ID: 8258855
+
+#### 🔄 Software Engineer, Developer Productivity
+**Greenhouse** · gleanwork · Engineering
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4614706005)
+🕐 Updated: 2026-10-18T22:32:34-04:00 | ID: 4614706005
+
+#### 🔄 Events Marketing Manager
+**Greenhouse** · samsara · Growth Marketing
+📍 CDMX3 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8162344?gh_jid=8162344)
+🕐 Updated: 2026-10-18T22:15:00-04:00 | ID: 8162344
+
+#### 🔄 Senior Manager of Success Architects
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8842171002)
+🕐 Updated: 2026-10-18T21:56:31-04:00 | ID: 8842171002
+
+#### 🔄 Sr. Specialist Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Melbourne, Australia; Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8625656002)
+🕐 Updated: 2026-10-18T21:44:06-04:00 | ID: 8625656002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15535 fetched, 58 updated, 14 cap-skipped, 0 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15637 fetched, 58 updated, 14 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-19 01:41 UTC
 
 ### Greenhouse
