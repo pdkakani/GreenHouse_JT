@@ -14952,7 +14952,7 @@
     "alerted": true
   },
   "greenhouse:fellow:5002209007": {
-    "updated_at": "2026-10-05T17:50:21-04:00",
+    "updated_at": "2026-10-19T23:44:10-04:00",
     "title": "Principal Product Manager",
     "company": "fellow",
     "ats": "greenhouse",
@@ -66408,7 +66408,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7786156": {
-    "updated_at": "2026-10-19T17:34:17-04:00",
+    "updated_at": "2026-10-20T03:04:44-04:00",
     "title": "Sr. Product Manager, Driver Management",
     "company": "samsara",
     "ats": "greenhouse",
@@ -75816,7 +75816,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7779540": {
-    "updated_at": "2026-10-19T00:38:22-04:00",
+    "updated_at": "2026-10-20T00:39:04-04:00",
     "title": "Startup & Venture Ecosystem Lead",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76808,7 +76808,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7613695": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-20T00:37:52-04:00",
     "title": "Software Engineer 2",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -178928,7 +178928,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:7702714": {
-    "updated_at": "2026-10-09T16:56:37-04:00",
+    "updated_at": "2026-10-20T01:09:41-04:00",
     "title": "Staff Software Engineer, Streaming Infrastructure",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -180776,8 +180776,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5161402008": {
-    "updated_at": "2026-08-21T12:50:02-04:00",
-    "title": "Data Scientist, Marketing",
+    "updated_at": "2026-10-20T02:57:56-04:00",
+    "title": "Data Scientist, Growth",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -209840,7 +209840,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7944264": {
-    "updated_at": "2026-10-19T19:03:53-04:00",
+    "updated_at": "2026-10-19T23:49:44-04:00",
     "title": "Principal Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -209848,7 +209848,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7944328": {
-    "updated_at": "2026-10-19T19:03:50-04:00",
+    "updated_at": "2026-10-19T23:49:41-04:00",
     "title": "Staff Software Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -248768,7 +248768,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8046751": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-20T00:38:17-04:00",
     "title": "Senior IT Specialist, Executive Technology",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -277552,7 +277552,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8099162": {
-    "updated_at": "2026-10-19T19:03:45-04:00",
+    "updated_at": "2026-10-19T23:49:38-04:00",
     "title": "Senior Software Engineer (L3)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -308576,7 +308576,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8146108": {
-    "updated_at": "2026-09-15T11:55:08-04:00",
+    "updated_at": "2026-10-19T23:40:47-04:00",
     "title": "Engineering Manager - Issuing",
     "company": "adyen",
     "ats": "greenhouse",
@@ -309880,7 +309880,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8082623": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-20T00:38:12-04:00",
     "title": "Senior Product Manager, Order to Cash",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -332256,7 +332256,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8168315": {
-    "updated_at": "2026-09-27T01:33:48-04:00",
+    "updated_at": "2026-10-20T00:41:39-04:00",
     "title": "Software Engineer Intern",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -341456,7 +341456,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8165656": {
-    "updated_at": "2026-09-29T20:00:54-04:00",
+    "updated_at": "2026-10-20T01:12:13-04:00",
     "title": "Senior Software Engineer, Storage",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -350968,7 +350968,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8214910": {
-    "updated_at": "2026-10-15T11:40:02-04:00",
+    "updated_at": "2026-10-19T23:50:36-04:00",
     "title": "Software Engineer, Ingestion Platform",
     "company": "reddit",
     "ats": "greenhouse",
@@ -380296,7 +380296,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8264146": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-20T00:38:11-04:00",
     "title": "Employer Brand Analyst",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -381888,8 +381888,8 @@
     "alerted": false
   },
   "greenhouse:gleanwork:4741742005": {
-    "updated_at": "2026-10-19T20:32:57-04:00",
-    "title": "Partner Sales Manager, London",
+    "updated_at": "2026-10-20T03:11:33-04:00",
+    "title": "Partner Sales Manager, EMEA",
     "company": "gleanwork",
     "ats": "greenhouse",
     "source_slug": "gleanwork",
@@ -382152,7 +382152,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:8258279": {
-    "updated_at": "2026-10-16T17:59:16-04:00",
+    "updated_at": "2026-10-20T00:38:51-04:00",
     "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -382504,8 +382504,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8078994": {
-    "updated_at": "2026-10-09T03:59:11-04:00",
-    "title": "Sales Manager, Enterprise Sales Division",
+    "updated_at": "2026-10-19T22:45:34-04:00",
+    "title": "Sales District Director, Enterprise Sales Division",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -389896,7 +389896,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:8008808003": {
-    "updated_at": "2026-10-15T04:26:16-04:00",
+    "updated_at": "2026-10-20T02:45:13-04:00",
     "title": "Marketing Manager - International Social Strategist",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -394056,7 +394056,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8205083": {
-    "updated_at": "2026-10-19T12:05:29-04:00",
+    "updated_at": "2026-10-19T22:04:15-04:00",
     "title": "Government Affairs Associate",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -395928,7 +395928,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6228263004": {
-    "updated_at": "2026-10-19T17:47:16-04:00",
+    "updated_at": "2026-10-20T01:44:47-04:00",
     "title": "Udemy- Senior Manager, Renewals, Americas",
     "company": "coursera",
     "ats": "greenhouse",
@@ -396432,7 +396432,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5267194007": {
-    "updated_at": "2026-10-19T19:21:39-04:00",
+    "updated_at": "2026-10-19T22:52:38-04:00",
     "title": "Product Design Mechanical Engineer",
     "company": "verkada",
     "ats": "greenhouse",
@@ -396440,7 +396440,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5267241007": {
-    "updated_at": "2026-10-19T19:21:23-04:00",
+    "updated_at": "2026-10-19T22:49:56-04:00",
     "title": "Supply Chain Specialist (Taiwan)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -396472,7 +396472,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8900209002": {
-    "updated_at": "2026-10-19T21:57:31-04:00",
+    "updated_at": "2026-10-19T22:44:38-04:00",
     "title": "Staff Engineer, Luxury",
     "company": "lyft",
     "ats": "greenhouse",
@@ -396485,6 +396485,78 @@
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
+    "alerted": true
+  },
+  "greenhouse:snorkelai:6229274004": {
+    "updated_at": "2026-10-20T01:05:03-04:00",
+    "title": "Engineering Manager, Federal & Regulated Infrastructure",
+    "company": "snorkelai",
+    "ats": "greenhouse",
+    "source_slug": "snorkelai",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8242235": {
+    "updated_at": "2026-10-20T00:51:46-04:00",
+    "title": "Senior Software Engineer, Streaming Infrastructure",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8283875": {
+    "updated_at": "2026-10-20T00:49:48-04:00",
+    "title": "Services Sales Manager, Professional Services, Sydney",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8300042": {
+    "updated_at": "2026-10-20T00:44:43-04:00",
+    "title": "Workday Analyst",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8300071": {
+    "updated_at": "2026-10-20T00:07:57-04:00",
+    "title": "Learning Partner",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:databricks:8882485002": {
+    "updated_at": "2026-10-19T23:44:59-04:00",
+    "title": "Solutions Engineer",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:adyen:8302558": {
+    "updated_at": "2026-10-19T23:40:42-04:00",
+    "title": "Engineering Manager - Financial Products",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:workato:8901398002": {
+    "updated_at": "2026-10-19T21:17:43-04:00",
+    "title": "Commercial Account Executive",
+    "company": "workato",
+    "ats": "greenhouse",
+    "source_slug": "workato",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5458044008": {
+    "updated_at": "2026-10-20T02:30:45-04:00",
+    "title": "Staff+ Software Engineer, VectorDB",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }

@@ -1,3 +1,147 @@
+## 📅 Run: 2026-10-20 07:14 UTC
+
+### Greenhouse
+
+#### 🔄 Partner Sales Manager, EMEA
+**Greenhouse** · gleanwork · Sales
+📍 Remote - Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4741742005)
+🕐 Updated: 2026-10-20T03:11:33-04:00 | ID: 4741742005
+
+#### 🔄 Sr. Product Manager, Driver Management
+**Greenhouse** · samsara · Safety
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7786156?gh_jid=7786156)
+🕐 Updated: 2026-10-20T03:04:44-04:00 | ID: 7786156
+
+#### 🔄 Data Scientist, Growth
+**Greenhouse** · anthropic · Data Science & Analytics
+📍 New York City, NY | Seattle, WA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5161402008)
+🕐 Updated: 2026-10-20T02:57:56-04:00 | ID: 5161402008
+
+#### 🔄 Marketing Manager - International Social Strategist
+**Greenhouse** · godaddy · Marketing
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8008808003)
+🕐 Updated: 2026-10-20T02:45:13-04:00 | ID: 8008808003
+
+#### 🆕 Staff+ Software Engineer, VectorDB
+**Greenhouse** · anthropic · Software Engineering - Infrastructure · 🎯 75%
+📍 New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5458044008)
+🕐 Updated: 2026-10-20T02:30:45-04:00 | ID: 5458044008
+
+#### 🔄 Udemy- Senior Manager, Renewals, Americas
+**Greenhouse** · coursera · Customer Success
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6228263004)
+🕐 Updated: 2026-10-20T01:44:47-04:00 | ID: 6228263004
+
+#### 🔄 Senior Software Engineer, Storage
+**Greenhouse** · airbnb · Software Engineering
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8165656?gh_jid=8165656)
+🕐 Updated: 2026-10-20T01:12:13-04:00 | ID: 8165656
+
+#### 🔄 Staff Software Engineer, Streaming Infrastructure
+**Greenhouse** · airbnb · Software Engineering
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7702714?gh_jid=7702714)
+🕐 Updated: 2026-10-20T01:09:41-04:00 | ID: 7702714
+
+#### 🔄 Software Engineer Intern
+**Greenhouse** · coinbase · Internships & Emerging Talent Positions
+📍 Hybrid - San Francisco, CA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315)
+🕐 Updated: 2026-10-20T00:41:39-04:00 | ID: 8168315
+
+#### 🔄 Startup & Venture Ecosystem Lead
+**Greenhouse** · mongodb · Marketing Management
+📍 Los Angeles; New York City; Palo Alto; San Francisco; Seattle; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7779540)
+🕐 Updated: 2026-10-20T00:39:04-04:00 | ID: 7779540
+
+#### 🔄 2027 - Software Engineer Intern, Dublin - 6 Month Internship
+**Greenhouse** · mongodb · Intern
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8258279)
+🕐 Updated: 2026-10-20T00:38:51-04:00 | ID: 8258279
+
+#### 🔄 Senior IT Specialist, Executive Technology
+**Greenhouse** · mongodb · Global Enterprise Technology (GET)
+📍 Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8046751)
+🕐 Updated: 2026-10-20T00:38:17-04:00 | ID: 8046751
+
+#### 🔄 Senior Product Manager, Order to Cash
+**Greenhouse** · mongodb · FIN Tech
+📍 Palo Alto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8082623)
+🕐 Updated: 2026-10-20T00:38:12-04:00 | ID: 8082623
+
+#### 🔄 Employer Brand Analyst
+**Greenhouse** · mongodb · Global Communications
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8264146)
+🕐 Updated: 2026-10-20T00:38:11-04:00 | ID: 8264146
+
+#### 🔄 Software Engineer 2
+**Greenhouse** · mongodb · Office of the CTO
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7613695)
+🕐 Updated: 2026-10-20T00:37:52-04:00 | ID: 7613695
+
+#### 🔄 Software Engineer, Ingestion Platform
+**Greenhouse** · reddit · Infrastructure
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8214910)
+🕐 Updated: 2026-10-19T23:50:36-04:00 | ID: 8214910
+
+#### 🔄 Principal Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7944264)
+🕐 Updated: 2026-10-19T23:49:44-04:00 | ID: 7944264
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7944328)
+🕐 Updated: 2026-10-19T23:49:41-04:00 | ID: 7944328
+
+#### 🔄 Senior Software Engineer (L3)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Canada; Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8099162)
+🕐 Updated: 2026-10-19T23:49:38-04:00 | ID: 8099162
+
+#### 🔄 Principal Product Manager
+**Greenhouse** · fellow · Hardware Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://fellowproducts.com/pages/careers?gh_jid=5002209007)
+🕐 Updated: 2026-10-19T23:44:10-04:00 | ID: 5002209007
+
+#### 🔄 Engineering Manager - Issuing
+**Greenhouse** · adyen · Development
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8146108)
+🕐 Updated: 2026-10-19T23:40:47-04:00 | ID: 8146108
+
+#### 🔄 Product Design Mechanical Engineer
+**Greenhouse** · verkada · Hardware Engineering
+📍 Taipei, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5267194007)
+🕐 Updated: 2026-10-19T22:52:38-04:00 | ID: 5267194007
+
+#### 🔄 Supply Chain Specialist (Taiwan)
+**Greenhouse** · verkada · Hardware Operations
+📍 Taipei, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5267241007)
+🕐 Updated: 2026-10-19T22:49:56-04:00 | ID: 5267241007
+
+#### 🔄 Sales District Director, Enterprise Sales Division
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8078994)
+🕐 Updated: 2026-10-19T22:45:34-04:00 | ID: 8078994
+
+#### 🔄 Staff Engineer, Luxury
+**Greenhouse** · lyft · Global Growth Tech
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8900209002?gh_jid=8900209002)
+🕐 Updated: 2026-10-19T22:44:38-04:00 | ID: 8900209002
+
+#### 🔄 Government Affairs Associate
+**Greenhouse** · robinhood · External Affairs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8205083?t=gh_src=&gh_jid=8205083)
+🕐 Updated: 2026-10-19T22:04:15-04:00 | ID: 8205083
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15514 fetched, 25 updated, 8 cap-skipped, 1 alerts
+- **Lever**: 0 new, 39 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 63 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15616 fetched, 25 updated, 8 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-20 01:58 UTC
 
 ### Greenhouse
