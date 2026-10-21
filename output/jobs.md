@@ -1,3 +1,192 @@
+## 📅 Run: 2026-10-21 07:34 UTC
+
+### Greenhouse
+
+#### 🔄 Sales Manager
+**Greenhouse** · flexport · Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8175845)
+🕐 Updated: 2026-10-21T03:28:39-04:00 | ID: 8175845
+
+#### 🔄 Campus Operations Manager
+**Greenhouse** · robinhood · Physical Security Workplace and Real Estate
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8302496?t=gh_src=&gh_jid=8302496)
+🕐 Updated: 2026-10-21T03:03:56-04:00 | ID: 8302496
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · robinhood · Brokerage Division
+📍 Menlo Park, CA; New York, NY; Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728)
+🕐 Updated: 2026-10-21T03:03:45-04:00 | ID: 8301728
+
+#### 🔄 Staff iOS Engineer, Trading Tools
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8302220?t=gh_src=&gh_jid=8302220)
+🕐 Updated: 2026-10-21T03:03:38-04:00 | ID: 8302220
+
+#### 🔄 Regional Vice President, Enterprise, Growth, UKI
+**Greenhouse** · mongodb · Sales Growth EMEA
+📍 London | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8280979)
+🕐 Updated: 2026-10-21T03:03:29-04:00 | ID: 8280979
+
+#### 🔄 Anthropic Fellows Program, AI Safety & Security
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183044008)
+🕐 Updated: 2026-10-21T03:03:14-04:00 | ID: 5183044008
+
+#### 🔄 Senior Security Engineer - Detection & Response
+**Greenhouse** · klaviyo · IT & Security
+📍 Denver, CO | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7991733003?gh_jid=7991733003)
+🕐 Updated: 2026-10-21T03:00:49-04:00 | ID: 7991733003
+
+#### 🔄 Senior Security Engineer - Detection & Response
+**Greenhouse** · klaviyo · IT & Security
+📍 San Francisco, CA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7991777003?gh_jid=7991777003)
+🕐 Updated: 2026-10-21T03:00:49-04:00 | ID: 7991777003
+
+#### 🔄 Senior Security Engineer - Detection & Response
+**Greenhouse** · klaviyo · IT & Security
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7989325003?gh_jid=7989325003)
+🕐 Updated: 2026-10-21T03:00:49-04:00 | ID: 7989325003
+
+#### 🔄 Senior Security Engineer - Detection and Response
+**Greenhouse** · klaviyo · IT & Security
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8039477003?gh_jid=8039477003)
+🕐 Updated: 2026-10-21T03:00:46-04:00 | ID: 8039477003
+
+#### 🔄 Senior Security Engineer - Detection and Response
+**Greenhouse** · klaviyo · IT & Security
+📍 San Francisco, CA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7661765003?gh_jid=7661765003)
+🕐 Updated: 2026-10-21T03:00:46-04:00 | ID: 7661765003
+
+#### 🔄 Senior Security Engineer - Detection and Response
+**Greenhouse** · klaviyo · IT & Security
+📍 Denver, CO | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7660012003?gh_jid=7660012003)
+🕐 Updated: 2026-10-21T03:00:46-04:00 | ID: 7660012003
+
+#### 🔄 Senior Security Engineer - Detection and Response
+**Greenhouse** · klaviyo · IT & Security
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7659972003?gh_jid=7659972003)
+🕐 Updated: 2026-10-21T03:00:46-04:00 | ID: 7659972003
+
+#### 🔄 Head of Tech Support EMEA
+**Greenhouse** · adyen · Support
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8138721)
+🕐 Updated: 2026-10-21T02:53:33-04:00 | ID: 8138721
+
+#### 🔄 Senior Data Analyst- Product
+**Greenhouse** · melio · Data
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://job-boards.greenhouse.io/melio/jobs/7820287003)
+🕐 Updated: 2026-10-21T02:52:05-04:00 | ID: 7820287003
+
+#### 🔄 Senior Data Analyst- Risk
+**Greenhouse** · melio · Data
+📍 Tel Aviv | 🔗 [Apply Here](https://job-boards.greenhouse.io/melio/jobs/7792385003)
+🕐 Updated: 2026-10-21T02:51:22-04:00 | ID: 7792385003
+
+#### 🔄 Sales Development Representative - Join Our Talent Community
+**Greenhouse** · okta · Sales Development-310
+📍 Sydney, Australia | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7936541?gh_jid=7936541)
+🕐 Updated: 2026-10-21T02:09:10-04:00 | ID: 7936541
+
+#### 🔄 Senior Digital Growth Manager, JAPAC
+**Greenhouse** · verkada · Growth
+📍 Sydney, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5140211007)
+🕐 Updated: 2026-10-21T02:08:22-04:00 | ID: 5140211007
+
+#### 🔄 Tax Manager, APAC
+**Greenhouse** · flexport · Finance
+📍 Shenzhen, China | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8190067)
+🕐 Updated: 2026-10-21T01:52:40-04:00 | ID: 8190067
+
+#### 🔄 IT Systems Engineer, Client Platform Engineer, ChromeOS
+**Greenhouse** · anthropic · Security
+📍 Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5456018008)
+🕐 Updated: 2026-10-21T01:52:27-04:00 | ID: 5456018008
+
+#### 🔄 Senior Backend Developer (C# or Java)
+**Greenhouse** · payoneer · R&D
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/6769427/?gh_jid=6769427)
+🕐 Updated: 2026-10-21T01:29:22-04:00 | ID: 6769427
+
+#### 🔄 Compensation and Analytics Intelligence Lead
+**Greenhouse** · databricks · People
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8627551002)
+🕐 Updated: 2026-10-21T01:23:34-04:00 | ID: 8627551002
+
+#### 🔄 R&D Compensation Business Partner
+**Greenhouse** · databricks · People
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8384388002)
+🕐 Updated: 2026-10-21T01:23:20-04:00 | ID: 8384388002
+
+#### 🔄 Market Manager
+**Greenhouse** · airbnb · Business Development
+📍 Portland, Oregon | 🔗 [Apply Here](https://careers.airbnb.com/positions/8282333?gh_jid=8282333)
+🕐 Updated: 2026-10-21T01:09:12-04:00 | ID: 8282333
+
+#### 🔄 Market Manager
+**Greenhouse** · airbnb · Business Development
+📍 Phoenix, Arizona | 🔗 [Apply Here](https://careers.airbnb.com/positions/8265896?gh_jid=8265896)
+🕐 Updated: 2026-10-21T01:08:55-04:00 | ID: 8265896
+
+#### 🔄 Complaints Analyst III
+**Greenhouse** · coinbase · Customer Experience
+📍 Hybrid - Luxembourg | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7182060?gh_jid=7182060)
+🕐 Updated: 2026-10-21T00:54:52-04:00 | ID: 7182060
+
+#### 🔄 Quality Insights Lead
+**Greenhouse** · airbnb · Community Support
+📍 Gurugram, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8275757?gh_jid=8275757)
+🕐 Updated: 2026-10-21T00:54:47-04:00 | ID: 8275757
+
+#### 🔄 Complaints Analyst III
+**Greenhouse** · coinbase · Customer Experience
+📍 London, UK | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8289787?gh_jid=8289787)
+🕐 Updated: 2026-10-20T23:55:02-04:00 | ID: 8289787
+
+#### 🔄 Complaints Analyst III
+**Greenhouse** · coinbase · Customer Experience
+📍 Remote - Australia | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7254275?gh_jid=7254275)
+🕐 Updated: 2026-10-20T23:48:41-04:00 | ID: 7254275
+
+#### 🔄 Software Engineer, Consumption Billing & Revenue Platform
+**Greenhouse** · gleanwork · Engineering
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4656281005)
+🕐 Updated: 2026-10-20T23:44:07-04:00 | ID: 4656281005
+
+#### 🔄 Senior Technical Program Manager - Security & Identity
+**Greenhouse** · newrelic · Telemetry Data Platform
+📍 Atlanta, Georgia, USA; Austin, Texas, USA; Boulder, Colorado, USA; Charleston, South Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Indianapolis, Indiana, USA; Las Vegas, Nevada, USA; Madison, Wisconsin, USA; Orlando, Florida, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Reno, Nevada, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5316503008)
+🕐 Updated: 2026-10-20T23:35:06-04:00 | ID: 5316503008
+
+#### 🔄 Regulatory Compliance Manager
+**Greenhouse** · coinbase · Legal & Compliance
+📍 Remote - Singapore | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8152576?gh_jid=8152576)
+🕐 Updated: 2026-10-20T22:41:13-04:00 | ID: 8152576
+
+#### 🔄 Senior Software Engineer (TS/SCI)
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Virginia | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8210915?gh_jid=8210915)
+🕐 Updated: 2026-10-20T22:40:56-04:00 | ID: 8210915
+
+#### 🔄 Software Engineer II, Developer Experience
+**Greenhouse** · toast · R & D : Cloud Service Infra : AI Foundations
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8245633)
+🕐 Updated: 2026-10-20T22:27:36-04:00 | ID: 8245633
+
+#### 🔄 Staff, Third Party Risk Management
+**Greenhouse** · okta · Sec - GRC-775
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8299845?gh_jid=8299845)
+🕐 Updated: 2026-10-20T22:12:00-04:00 | ID: 8299845
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15579 fetched, 35 updated, 13 cap-skipped, 0 alerts
+- **Lever**: 0 new, 37 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15683 fetched, 35 updated, 13 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-21 02:01 UTC
 
 ### Greenhouse
