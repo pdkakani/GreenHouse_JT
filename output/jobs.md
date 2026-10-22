@@ -1,3 +1,3964 @@
+## 📅 Run: 2026-10-22 14:47 UTC
+
+### Greenhouse
+
+#### 🔄 Principal Software Engineer - PAM
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8127234?gh_jid=8127234)
+🕐 Updated: 2026-10-22T10:46:42-04:00 | ID: 8127234
+
+#### 🔄 Business Development Representative (Austin)
+**Greenhouse** · fivetran · Sales Department
+📍 USA - Austin (dbt) | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7792160003)
+🕐 Updated: 2026-10-22T10:44:08-04:00 | ID: 7792160003
+
+#### 🔄 Associate Counsel, Employment
+**Greenhouse** · lyft · Legal
+📍 Washington, DC | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8863276002?gh_jid=8863276002)
+🕐 Updated: 2026-10-22T10:39:31-04:00 | ID: 8863276002
+
+#### 🆕 Associate Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations · 🎯 78%
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002)
+🕐 Updated: 2026-10-22T10:39:26-04:00 | ID: 8907988002
+
+#### 🔄 Account Executive, Mid Market (Southeast)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Atlanta, Georgia, United States; Remote - SC | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8304486?gh_jid=8304486)
+🕐 Updated: 2026-10-22T10:38:17-04:00 | ID: 8304486
+
+#### 🔄 Udemy- Senior Manager, Renewals, Americas
+**Greenhouse** · coursera · Customer Success
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6228263004)
+🕐 Updated: 2026-10-22T10:37:32-04:00 | ID: 6228263004
+
+#### 🔄 Data Engineer
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423)
+🕐 Updated: 2026-10-22T10:34:05-04:00 | ID: 8250423
+
+#### 🔄 Data Engineer
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959)
+🕐 Updated: 2026-10-22T10:34:05-04:00 | ID: 8141959
+
+#### 🔄 Software Engineer - Data Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)
+🕐 Updated: 2026-10-22T10:33:58-04:00 | ID: 7992889
+
+#### 🔄 Software Engineer - Data Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530)
+🕐 Updated: 2026-10-22T10:33:58-04:00 | ID: 7922530
+
+#### 🔄 Senior Network Engineer
+**Greenhouse** · twilio · IT
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: 2026-10-22T10:33:13-04:00 | ID: 7657993
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · twilio · Product Management
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7904293)
+🕐 Updated: 2026-10-22T10:33:02-04:00 | ID: 7904293
+
+#### 🔄 Applications Engineer 2
+**Greenhouse** · twilio · Sales Operations
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781659)
+🕐 Updated: 2026-10-22T10:32:55-04:00 | ID: 7781659
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7785025)
+🕐 Updated: 2026-10-22T10:32:48-04:00 | ID: 7785025
+
+#### 🔄 Demo Architect, EMEA
+**Greenhouse** · gitlab · SA
+📍 Remote Ireland; Remote, Germany; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860273002)
+🕐 Updated: 2026-10-22T10:32:43-04:00 | ID: 8860273002
+
+#### 🔄 Strategic Account Executive (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7865849)
+🕐 Updated: 2026-10-22T10:32:31-04:00 | ID: 7865849
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8015771)
+🕐 Updated: 2026-10-22T10:32:25-04:00 | ID: 8015771
+
+#### 🔄 Security Engineer, Incident Response
+**Greenhouse** · twilio · Security
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8023560)
+🕐 Updated: 2026-10-22T10:32:21-04:00 | ID: 8023560
+
+#### 🔄 Security Engineer, Incident Response
+**Greenhouse** · twilio · Security
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8055481)
+🕐 Updated: 2026-10-22T10:32:21-04:00 | ID: 8055481
+
+#### 🔄 Machine Learning Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7996774)
+🕐 Updated: 2026-10-22T10:32:16-04:00 | ID: 7996774
+
+#### 🔄 Presales Engineer (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8000178)
+🕐 Updated: 2026-10-22T10:32:12-04:00 | ID: 8000178
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8067909)
+🕐 Updated: 2026-10-22T10:31:49-04:00 | ID: 8067909
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8064090)
+🕐 Updated: 2026-10-22T10:31:46-04:00 | ID: 8064090
+
+#### 🔄 Senior Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8096642)
+🕐 Updated: 2026-10-22T10:31:42-04:00 | ID: 8096642
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8028958)
+🕐 Updated: 2026-10-22T10:31:40-04:00 | ID: 8028958
+
+#### 🔄 Fast Track Operations Specialist 2
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8097524)
+🕐 Updated: 2026-10-22T10:31:37-04:00 | ID: 8097524
+
+#### 🔄 Software Engineer (Observability)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8108771)
+🕐 Updated: 2026-10-22T10:30:50-04:00 | ID: 8108771
+
+#### 🔄 Strategic Account Excecutive
+**Greenhouse** · twilio · Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8076981)
+🕐 Updated: 2026-10-22T10:30:47-04:00 | ID: 8076981
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157509)
+🕐 Updated: 2026-10-22T10:30:43-04:00 | ID: 8157509
+
+#### 🔄 Senior Strategic Account Executive (French Speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157507)
+🕐 Updated: 2026-10-22T10:30:39-04:00 | ID: 8157507
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8071710)
+🕐 Updated: 2026-10-22T10:30:25-04:00 | ID: 8071710
+
+#### 🔄 Digital Sales Representative
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8168599)
+🕐 Updated: 2026-10-22T10:30:13-04:00 | ID: 8168599
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8160532)
+🕐 Updated: 2026-10-22T10:30:01-04:00 | ID: 8160532
+
+#### 🔄 New Business Account Executive
+**Greenhouse** · twilio · Sales Development
+📍 Remote - Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8125581)
+🕐 Updated: 2026-10-22T10:29:53-04:00 | ID: 8125581
+
+#### 🔄 Implementation Consultant, Commercial
+**Greenhouse** · brex · Sales
+📍 Vancouver, British Columbia, Canada | 🔗 [Apply Here](https://www.brex.com/careers/8536988002?gh_jid=8536988002)
+🕐 Updated: 2026-10-22T10:29:52-04:00 | ID: 8536988002
+
+#### 🔄 Phone Numbers Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8120421)
+🕐 Updated: 2026-10-22T10:29:49-04:00 | ID: 8120421
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Solutions Engineering
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8243073)
+🕐 Updated: 2026-10-22T10:29:45-04:00 | ID: 8243073
+
+#### 🔄 Solution Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8114393)
+🕐 Updated: 2026-10-22T10:29:42-04:00 | ID: 8114393
+
+#### 🔄 Staff Software Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8240288)
+🕐 Updated: 2026-10-22T10:29:37-04:00 | ID: 8240288
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8244723)
+🕐 Updated: 2026-10-22T10:29:30-04:00 | ID: 8244723
+
+#### 🔄 New Business Account Executive (German speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8143768)
+🕐 Updated: 2026-10-22T10:29:23-04:00 | ID: 8143768
+
+#### 🔄 Product Manager L2 (mid-level)
+**Greenhouse** · twilio · Product Management
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8136763)
+🕐 Updated: 2026-10-22T10:29:20-04:00 | ID: 8136763
+
+#### 🔄 Digital Marketing Manager
+**Greenhouse** · twilio · Marketing
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8176810)
+🕐 Updated: 2026-10-22T10:29:09-04:00 | ID: 8176810
+
+#### 🔄 Account Executive - Nordics (Hunter)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Sweden (Remote) | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8284974)
+🕐 Updated: 2026-10-22T10:28:59-04:00 | ID: 8284974
+
+#### 🔄 Implementation Consultant, Commercial
+**Greenhouse** · brex · Sales
+📍 Salt Lake City, Utah, United States | 🔗 [Apply Here](https://www.brex.com/careers/8536986002?gh_jid=8536986002)
+🕐 Updated: 2026-10-22T10:28:59-04:00 | ID: 8536986002
+
+#### 🔄 Senior International Payroll Analyst
+**Greenhouse** · twilio · Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8249285)
+🕐 Updated: 2026-10-22T10:28:52-04:00 | ID: 8249285
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8206834)
+🕐 Updated: 2026-10-22T10:28:47-04:00 | ID: 8206834
+
+#### 🔄 Staff, Escalations Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8207721)
+🕐 Updated: 2026-10-22T10:28:43-04:00 | ID: 8207721
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8204407)
+🕐 Updated: 2026-10-22T10:28:40-04:00 | ID: 8204407
+
+#### 🔄 Technical Account Manager 4
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8201630)
+🕐 Updated: 2026-10-22T10:28:24-04:00 | ID: 8201630
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261710)
+🕐 Updated: 2026-10-22T10:28:16-04:00 | ID: 8261710
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8207696)
+🕐 Updated: 2026-10-22T10:28:08-04:00 | ID: 8207696
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · twilio · Sales Development
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261528)
+🕐 Updated: 2026-10-22T10:28:04-04:00 | ID: 8261528
+
+#### 🔄 Presales Architect
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8262189)
+🕐 Updated: 2026-10-22T10:27:50-04:00 | ID: 8262189
+
+#### 🔄 Implementation Consultant, Commercial
+**Greenhouse** · brex · Sales
+📍 Seattle, Washington, United States | 🔗 [Apply Here](https://www.brex.com/careers/8536985002?gh_jid=8536985002)
+🕐 Updated: 2026-10-22T10:27:47-04:00 | ID: 8536985002
+
+#### 🔄 Payroll Tax and Compliance Analyst
+**Greenhouse** · twilio · Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8265268)
+🕐 Updated: 2026-10-22T10:27:42-04:00 | ID: 8265268
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8226571)
+🕐 Updated: 2026-10-22T10:27:37-04:00 | ID: 8226571
+
+#### 🔄 Staff Machine Learning Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258593)
+🕐 Updated: 2026-10-22T10:27:23-04:00 | ID: 8258593
+
+#### 🔄 Implementation Consultant, Commercial
+**Greenhouse** · brex · Sales
+📍 New York, New York, United States | 🔗 [Apply Here](https://www.brex.com/careers/8536983002?gh_jid=8536983002)
+🕐 Updated: 2026-10-22T10:27:23-04:00 | ID: 8536983002
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8178812)
+🕐 Updated: 2026-10-22T10:27:20-04:00 | ID: 8178812
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258962)
+🕐 Updated: 2026-10-22T10:27:05-04:00 | ID: 8258962
+
+#### 🔄 Compliance Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8197328)
+🕐 Updated: 2026-10-22T10:27:01-04:00 | ID: 8197328
+
+#### 🔄 Machine Learning Engineer (L3)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258587)
+🕐 Updated: 2026-10-22T10:26:58-04:00 | ID: 8258587
+
+#### 🔄 Billing Operations Analyst 1
+**Greenhouse** · twilio · Accounting
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261245)
+🕐 Updated: 2026-10-22T10:26:51-04:00 | ID: 8261245
+
+#### 🔄 Phone Numbers Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261277)
+🕐 Updated: 2026-10-22T10:26:44-04:00 | ID: 8261277
+
+#### 🔄 Fraud Specialist, Supplier Operations & Governance
+**Greenhouse** · twilio · Carrier Relations/Carrier Ops
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8292798)
+🕐 Updated: 2026-10-22T10:26:40-04:00 | ID: 8292798
+
+#### 🔄 Principal Presales Engineer, Product Specialist
+**Greenhouse** · twilio · Sales
+📍 Remote - Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8267928)
+🕐 Updated: 2026-10-22T10:26:32-04:00 | ID: 8267928
+
+#### 🔄 Senior Internal Auditor
+**Greenhouse** · twilio · Finance
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256912)
+🕐 Updated: 2026-10-22T10:26:26-04:00 | ID: 8256912
+
+#### 🔄 Inside Sales - Representative (Active) 2
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256373)
+🕐 Updated: 2026-10-22T10:26:20-04:00 | ID: 8256373
+
+#### 🔄 Implementation Consultant, Commercial
+**Greenhouse** · brex · Sales
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://www.brex.com/careers/8536968002?gh_jid=8536968002)
+🕐 Updated: 2026-10-22T10:26:15-04:00 | ID: 8536968002
+
+#### 🔄 People Generalist
+**Greenhouse** · twilio · People Team
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256431)
+🕐 Updated: 2026-10-22T10:26:04-04:00 | ID: 8256431
+
+#### 🔄 People Generalist
+**Greenhouse** · twilio · People Team
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256423)
+🕐 Updated: 2026-10-22T10:25:49-04:00 | ID: 8256423
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8247286)
+🕐 Updated: 2026-10-22T10:25:42-04:00 | ID: 8247286
+
+#### 🔄 Executive Business Partner
+**Greenhouse** · twilio · Administration
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8281950)
+🕐 Updated: 2026-10-22T10:25:25-04:00 | ID: 8281950
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8300856)
+🕐 Updated: 2026-10-22T10:25:05-04:00 | ID: 8300856
+
+#### 🔄 Principal Software Engineer in Test
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905)
+🕐 Updated: 2026-10-22T10:15:09-04:00 | ID: 8045905
+
+#### 🔄 AI Outcomes Manager, GSI
+**Greenhouse** · anthropic · Sales
+📍 San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4986159008)
+🕐 Updated: 2026-10-22T10:10:30-04:00 | ID: 4986159008
+
+#### 🔄 Account Executive, Product Sales - Link
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8040940)
+🕐 Updated: 2026-10-22T10:08:03-04:00 | ID: 8040940
+
+#### 🔄 Senior Software Engineer, Certificate Management
+**Greenhouse** · coinbase · Engineering - Security
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081)
+🕐 Updated: 2026-10-22T10:04:56-04:00 | ID: 8269081
+
+#### 🔄 Senior Software Engineer, Secrets Management
+**Greenhouse** · coinbase · Engineering - Security
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647)
+🕐 Updated: 2026-10-22T10:04:55-04:00 | ID: 8021647
+
+#### 🔄 Software Engineer
+**Greenhouse** · coinbase · Enterprise Applications
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605)
+🕐 Updated: 2026-10-22T10:04:44-04:00 | ID: 8003605
+
+#### 🔄 Welder - Level 4/5
+**Greenhouse** · spacex · Starship Pad Technicians - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8474671002?gh_jid=8474671002)
+🕐 Updated: 2026-10-22T10:04:37-04:00 | ID: 8474671002
+
+#### 🔄 Counsel, Product
+**Greenhouse** · fastly · Legal
+📍 San Francisco, CA | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=8160641)
+🕐 Updated: 2026-10-22T10:02:55-04:00 | ID: 8160641
+
+#### 🔄 Customer Solutions Architect, Manager
+**Greenhouse** · fivetran · Sales Department
+📍 Dublin, Dublin, Ireland, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7787887003)
+🕐 Updated: 2026-10-22T10:02:28-04:00 | ID: 7787887003
+
+#### 🔄 Contracts Administrator
+**Greenhouse** · fastly · Legal
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=8264992)
+🕐 Updated: 2026-10-22T10:02:26-04:00 | ID: 8264992
+
+#### 🔄 Technical Services Engineer(Shift: Monday - Friday 12:00 PM - 9:00 PM MDT)
+**Greenhouse** · purestorage · Services & Support
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8305763)
+🕐 Updated: 2026-10-22T10:00:11-04:00 | ID: 8305763
+
+#### 🔄 Manager II, Customer Care Tax
+**Greenhouse** · toast · Customer Success : Customer Care : Employee Cloud
+📍 Remote | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8279381)
+🕐 Updated: 2026-10-22T09:59:45-04:00 | ID: 8279381
+
+#### 🔄 Brand Marketing Manager
+**Greenhouse** · fastly · Corporate Marketing
+📍 Denver, CO; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=8278933)
+🕐 Updated: 2026-10-22T09:56:42-04:00 | ID: 8278933
+
+#### 🔄 Sr. Event Marketing Manager, Field Programming
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8638648002)
+🕐 Updated: 2026-10-22T09:53:54-04:00 | ID: 8638648002
+
+#### 🔄 Financial Crime Analyst
+**Greenhouse** · adyen · Merchant Operations
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8214603)
+🕐 Updated: 2026-10-22T09:51:09-04:00 | ID: 8214603
+
+#### 🔄 Account Executive, Commercial - Northern Bavaria Region
+**Greenhouse** · purestorage · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8261284)
+🕐 Updated: 2026-10-22T09:50:30-04:00 | ID: 8261284
+
+#### 🔄 Associate Principal Product Manager - Networks
+**Greenhouse** · celonis · Product
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7777102003?gh_jid=7777102003)
+🕐 Updated: 2026-10-22T09:45:53-04:00 | ID: 7777102003
+
+#### 🔄 Senior Software Engineer - Enterprise AI
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699)
+🕐 Updated: 2026-10-22T09:44:55-04:00 | ID: 8273699
+
+#### 🔄 Recruiter II - Technical Solutions
+**Greenhouse** · datadog · Business Recruiting
+📍 Dublin, Ireland; London, United Kingdom | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8171026/?gh_jid=8171026)
+🕐 Updated: 2026-10-22T09:40:31-04:00 | ID: 8171026
+
+#### 🔄 Head of Sales Strategy & Operations, Global Specialist & RX Sales
+**Greenhouse** · rubrik · Sales
+📍 Remote - United States | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8279161?gh_jid=8279161)
+🕐 Updated: 2026-10-22T09:35:33-04:00 | ID: 8279161
+
+#### 🔄 Regional Manager, Channel Central
+**Greenhouse** · rubrik · Sales
+📍 Remote - Central US | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8237291?gh_jid=8237291)
+🕐 Updated: 2026-10-22T09:35:16-04:00 | ID: 8237291
+
+#### 🔄 Channel/Partner Sales Engineer - Southeast
+**Greenhouse** · rubrik · Sales Engineering
+📍 Atlanta, GA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8220615?gh_jid=8220615)
+🕐 Updated: 2026-10-22T09:33:41-04:00 | ID: 8220615
+
+#### 🔄 Territory Account Executive - BW/Hessen
+**Greenhouse** · purestorage · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8256731)
+🕐 Updated: 2026-10-22T09:32:44-04:00 | ID: 8256731
+
+#### 🔄 Engineering Manager, Sandboxes
+**Greenhouse** · stripe · 8116 Developer Platform - Eng
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8301946)
+🕐 Updated: 2026-10-22T09:28:05-04:00 | ID: 8301946
+
+#### 🔄 Tech Lead Manager, Oracle ERP
+**Greenhouse** · airbnb · Software Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8102684?gh_jid=8102684)
+🕐 Updated: 2026-10-22T09:26:06-04:00 | ID: 8102684
+
+#### 🔄 Expert Regulatory Counsel, Europe
+**Greenhouse** · payoneer · Legal & Regulatory
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8200781/?gh_jid=8200781)
+🕐 Updated: 2026-10-22T09:24:47-04:00 | ID: 8200781
+
+#### 🔄 Senior Software Engineer - FullStack
+**Greenhouse** · godaddy · Engineering
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7623124003)
+🕐 Updated: 2026-10-22T09:21:14-04:00 | ID: 7623124003
+
+#### 🔄 Internal Control Specialist, Non-Financial Risk
+**Greenhouse** · adyen · Internal Control
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8102216)
+🕐 Updated: 2026-10-22T09:20:03-04:00 | ID: 8102216
+
+#### 🔄 Head of Supply Planning
+**Greenhouse** · formlabs · Operations
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8311383/apply/?gh_jid=8311383)
+🕐 Updated: 2026-10-22T09:19:22-04:00 | ID: 8311383
+
+#### 🔄 Backend / API Engineer, Radar
+**Greenhouse** · stripe · 8525 Radar - Eng
+📍 San Francisco, Seattle, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8301253)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8301253
+
+#### 🔄 Commercial Counsel, Sales
+**Greenhouse** · stripe · 6320 Commercial Legal
+📍 Remote, US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8286649)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8286649
+
+#### 🔄 Head of Key Accounts, Customer Success
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 U.S. | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8300616)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8300616
+
+#### 🔄 Indirect Tax (VAT/GST) Advisory Consultant
+**Greenhouse** · stripe · 6430 Tax
+📍 SEA, SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8282721)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8282721
+
+#### 🔄 Operations Program Manager, Consumer Support
+**Greenhouse** · stripe · 4123 Consumer Operations
+📍 NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8288334)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8288334
+
+#### 🔄 Product Designer, Risk
+**Greenhouse** · stripe · 8811 Product Design
+📍 US / Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8304725)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8304725
+
+#### 🔄 Product Manager, Radar
+**Greenhouse** · stripe · 8553 Radar - PM
+📍 San Francisco, Seattle New York, US - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8301646)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8301646
+
+#### 🔄 Product Manager, Radar - Fraud and Abuse Prevention
+**Greenhouse** · stripe · 8553 Radar - PM
+📍 San Francisco, Seattle, New York, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8306158)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8306158
+
+#### 🔄 Staff Software Engineer, Radar
+**Greenhouse** · stripe · 8525 Radar - Eng
+📍 San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8287912)
+🕐 Updated: 2026-10-22T09:17:13-04:00 | ID: 8287912
+
+#### 🔄 Account Executive, Platforms (Grower)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 Chicago, IL; New York, NY; San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8274920)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8274920
+
+#### 🔄 Account Executive, Product Sales - Payouts
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 New York or San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8258697)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8258697
+
+#### 🔄 Account Executive, Velocity Platforms (Hunter)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8304836)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8304836
+
+#### 🔄 Account Executive, Velocity Platforms (Hunter)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 Chicago, IL; New York, NY; San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267839)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8267839
+
+#### 🔄 Account Executive, Velocity Platforms (Hunter)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8304841)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8304841
+
+#### 🔄 Account Executive, Velocity Platforms (Hunter)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267841)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8267841
+
+#### 🔄 Credit Risk, Fraud Strategist
+**Greenhouse** · stripe · Global Operations
+📍 South San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267684)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8267684
+
+#### 🔄 Finance & Strategy, Corporate Finance Analyst
+**Greenhouse** · stripe · Global Operations
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8249865)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8249865
+
+#### 🔄 IT Support Engineer
+**Greenhouse** · stripe · 7312 CorpTech Customer Success
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8265151)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8265151
+
+#### 🔄 Marketing Operations Manager, AMER Events
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 US Remote; Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8250483)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8250483
+
+#### 🔄 Marketing Technology Program Manager
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8257939)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8257939
+
+#### 🔄 Partner Development Manager, Strategic Payment Partnerships
+**Greenhouse** · stripe · 3512 Strategic and Ecosystem Partnerships
+📍 US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8275513)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8275513
+
+#### 🔄 Partner Marketing Leader, Alliances & Channel
+**Greenhouse** · stripe · 2316 Marketing - Partner
+📍 Seattle or San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8257500)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8257500
+
+#### 🔄 Payments Fraud Investigator
+**Greenhouse** · stripe · 4896 Fraud Operations
+📍 Remote - US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8261213)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8261213
+
+#### 🔄 Product Manager, Sandboxes
+**Greenhouse** · stripe · 8116 Developer Platform - Eng
+📍 Seattle, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8275556)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8275556
+
+#### 🔄 Product Tax Specialist
+**Greenhouse** · stripe · 6430 Tax
+📍 San Francisco, Seattle, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8248088)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8248088
+
+#### 🔄 SaaS Platform and AI Partner Marketing Lead
+**Greenhouse** · stripe · 2316 Marketing - Partner
+📍 San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8248507)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8248507
+
+#### 🔄 Sales Development Representative (Spanish fluency)
+**Greenhouse** · stripe · 1132 AMER Sales Development Reps
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8248086)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8248086
+
+#### 🔄 Sales Manager, Startups - Hunter
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267829)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8267829
+
+#### 🔄 Social & Content Marketing, Stripe Crypto
+**Greenhouse** · stripe · 9004 Privy - S&M
+📍 NYC-Privy | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8246785)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8246785
+
+#### 🔄 Software Engineer
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267736)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8267736
+
+#### 🔄 Software Engineer
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8249901)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8249901
+
+#### 🔄 Software Engineer, Internal Identity
+**Greenhouse** · stripe · 8612 Security Infrastructure
+📍 na | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8265763)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8265763
+
+#### 🔄 Solutions Architect, AI
+**Greenhouse** · stripe · 1151 Solutions Architecture (AMER)
+📍 NYC, SF, or Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8248509)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8248509
+
+#### 🔄 SOX Business Controls Specialist
+**Greenhouse** · stripe · 6482 SOX
+📍 SEA, SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8274580)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8274580
+
+#### 🔄 Specialist Solutions Architecture, Link
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8279202)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8279202
+
+#### 🔄 Staff Product Designer, Checkout
+**Greenhouse** · stripe · 8811 Product Design
+📍 US / Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8268059)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8268059
+
+#### 🔄 Staff Software Engineer, Alloy Integrations
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8257935)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8257935
+
+#### 🔄 User Escalation Specialist
+**Greenhouse** · stripe · 4119 Product Support
+📍 Chicago, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8245638)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8245638
+
+#### 🔄 Workplace Design Coordinator
+**Greenhouse** · stripe · 6630 Real Estate
+📍 SF, NYC, SEA, TOR | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8275261)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8275261
+
+#### 🔄 Writer, Content Marketing
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 US Hybrid | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8265686)
+🕐 Updated: 2026-10-22T09:17:12-04:00 | ID: 8265686
+
+#### 🔄 Account Executive, AI Startups - Grower
+**Greenhouse** · stripe · 1653 Startups - Account Executives (NA)
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238731)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8238731
+
+#### 🔄 Account Executive, Product - Issuing & Treasury (Hunter)
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 US-San Francisco, US-New York, US-Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238098)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8238098
+
+#### 🔄 Account Executive, Startup Platforms (Grower)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8237540)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8237540
+
+#### 🔄 Comms Strategy & Operations Associate
+**Greenhouse** · stripe · 2413 Communications
+📍 NYC, SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241857)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8241857
+
+#### 🔄 Customer Success Manager, Revenue Suite
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8237366)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8237366
+
+#### 🔄 Engineering Manager, Mobile Development Productivity
+**Greenhouse** · stripe · 8126 Developer Infrastructure
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8229361)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8229361
+
+#### 🔄 Engineering Manager, Self Serve Direct Onboarding
+**Greenhouse** · stripe · 8216 Risk Onboarding and Trusted Users
+📍 New York City, San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238489)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8238489
+
+#### 🔄 Enterprise Account Executive, Privy
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8232743)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8232743
+
+#### 🔄 Enterprise Account Executive, Privy
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8232741)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8232741
+
+#### 🔄 Equity and Reporting Accountant
+**Greenhouse** · stripe · 6420 Accounting
+📍 San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8240148)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8240148
+
+#### 🔄 Finance & Strategy Analyst
+**Greenhouse** · stripe · 6441 Corporate F&S
+📍 SF, SEA, CHI, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231575)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8231575
+
+#### 🔄 Immigration Specialist
+**Greenhouse** · stripe · 6533 Global Mobility
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8244515)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8244515
+
+#### 🔄 Machine Learning Engineer, Growth Platform
+**Greenhouse** · stripe · 7112 Data Science
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8224915)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8224915
+
+#### 🔄 Machine Learning Engineer, Radar
+**Greenhouse** · stripe · 8525 Radar - Eng
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8243617)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8243617
+
+#### 🔄 M&A/Integration Accounting Lead
+**Greenhouse** · stripe · 6420 Accounting
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8237505)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8237505
+
+#### 🔄 Monetization and Contract Success (MACS) Specialist
+**Greenhouse** · stripe · 6426 Monetization Operations
+📍 SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8244505)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8244505
+
+#### 🔄 Offensive Security Engineer
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 US - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8233889
+
+#### 🔄 Partner Development Manager, Financial Partnership Capabilities
+**Greenhouse** · stripe · 3511 Payments Financial Partnerships
+📍 US-New York City; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238747)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8238747
+
+#### 🔄 Partner Solutions Engineer, Ecosystem
+**Greenhouse** · stripe · 3510 CBO Admin
+📍 US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8227563)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8227563
+
+#### 🔄 Pricing Activation Specialist
+**Greenhouse** · stripe · 6426 Monetization Operations
+📍 SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241855)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8241855
+
+#### 🔄 Product Counsel, Data Products
+**Greenhouse** · stripe · 6360 Product & Partnering Legal
+📍 US remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238100)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8238100
+
+#### 🔄 Product Manager, Ecosystem
+**Greenhouse** · stripe · 8571 Ecosystem Product
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8234705)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8234705
+
+#### 🔄 Product Support - Bridge
+**Greenhouse** · stripe · 4119 Product Support
+📍 New York, Seattle, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8245584)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8245584
+
+#### 🔄 Recruiting Coordinator (Fixed-Term Contract)
+**Greenhouse** · stripe · 6523 Recruiting Enablement
+📍 SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231145)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8231145
+
+#### 🔄 Renewals Analyst
+**Greenhouse** · stripe · 1341 Renewals
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8230306)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8230306
+
+#### 🔄 Security GRC Analyst/Program Manager, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8237244)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8237244
+
+#### 🔄 Security GRC Program Manager, Third Party Risk
+**Greenhouse** · stripe · 8614 Office of the CISO & Partnership
+📍 US - Hybrid | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241288)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8241288
+
+#### 🔄 Senior Software Engineer, Backend
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8230952)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8230952
+
+#### 🔄 Staff Machine Learning Engineer, Radar
+**Greenhouse** · stripe · 8525 Radar - Eng
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8243615)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8243615
+
+#### 🔄 Staff Product Manager, Accounting Products
+**Greenhouse** · stripe · 8412 Subscriptions
+📍 SF, SEA, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8234243)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8234243
+
+#### 🔄 Staff Product Manager, Agentic Commerce
+**Greenhouse** · stripe · 8510 Agentic Commerce
+📍 Seattle, San Francisco, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8226893)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8226893
+
+#### 🔄 State & Local Policy Manager
+**Greenhouse** · stripe · 6314 Public Policy
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8237242)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8237242
+
+#### 🔄 Technical Solutions Consultant, Crypto
+**Greenhouse** · stripe · 4119 Product Support
+📍 New York, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8275366)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8275366
+
+#### 🔄 University Recruiter (Fixed Term)
+**Greenhouse** · stripe · 6526 University Recruiting
+📍 San Francisco, New York, Seattle, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8226211)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8226211
+
+#### 🔄 User Risk Strategist
+**Greenhouse** · stripe · Global Operations
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8230758)
+🕐 Updated: 2026-10-22T09:17:11-04:00 | ID: 8230758
+
+#### 🔄 Account Executive - Bridge
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 SF, NYC, CHI, ATL, SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8215824)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8215824
+
+#### 🔄 Account Executive, Platforms - Hunter
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8222009)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8222009
+
+#### 🔄 Account Executive, Product (Payouts) - Hunter
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8196269)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8196269
+
+#### 🔄 Account Executive, Product Sales, Billing (Grower)
+**Greenhouse** · stripe · 1643 Product Sales - Billing
+📍 US-SF-HQ, US-SEA, US-CHI, US-NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8215758)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8215758
+
+#### 🔄 Administrative Business Partner, Office of the President
+**Greenhouse** · stripe · 6220 Executive Operations
+📍 NYC, SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209639)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8209639
+
+#### 🔄 AI Solutions Program Manager, Finance
+**Greenhouse** · stripe · 6425 Finance Operations
+📍 SEA, SF, NYC, CHI | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8221776)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8221776
+
+#### 🔄 Americas Field Marketing, AI
+**Greenhouse** · stripe · 2327 Metronome Product Marketing
+📍 South San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8222219)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8222219
+
+#### 🔄 Capital Markets, FX Specialist
+**Greenhouse** · stripe · 6410 Treasury Finance
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8206733)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8206733
+
+#### 🔄 Commercial Lead
+**Greenhouse** · stripe · 1510 Global Business Services
+📍 South San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8224617)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8224617
+
+#### 🔄 Credit Operations Manager
+**Greenhouse** · stripe · 4890 Credit Operations
+📍 Chicago, Atlanta, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8213951)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8213951
+
+#### 🔄 Customer Success Manager, Enterprise
+**Greenhouse** · stripe · Global Operations
+📍 Chicago, US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8208521)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8208521
+
+#### 🔄 Customer Success Manager, RFA
+**Greenhouse** · stripe · Global Operations
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194289)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8194289
+
+#### 🔄 Data Analyst, Intern
+**Greenhouse** · stripe · 5112 General University
+📍 New York, Seattle, South San Francisco HQ | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194291)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8194291
+
+#### 🔄 Data Scientist
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8222149)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8222149
+
+#### 🔄 Design Engineer, Expansion
+**Greenhouse** · stripe · 8813 Web Presence & Platform
+📍 US, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212314)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8212314
+
+#### 🔄 Editorial Director, Brand & Creative Partnerships
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 US: SF, NYC, Seattle and Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203216)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8203216
+
+#### 🔄 Engagement Manager, Professional Services
+**Greenhouse** · stripe · 1141 AMER Delivery
+📍 United States, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209649)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8209649
+
+#### 🔄 Events Manager, Event Technology and Registration
+**Greenhouse** · stripe · 2318 Corp Events
+📍 Remote US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8222212)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8222212
+
+#### 🔄 Fraud Architect
+**Greenhouse** · stripe · 4130 Technical Account Management, Support & Services - AMER
+📍 SF-HQ, Chicago, New York, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203220)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8203220
+
+#### 🔄 Frontend Engineer, Data Product Experiences
+**Greenhouse** · stripe · 8122 Data Foundations
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194606)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8194606
+
+#### 🔄 Full Stack Engineer, Builder Experience
+**Greenhouse** · stripe · 6490 BizOps and Compass
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8206731)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8206731
+
+#### 🔄 Full Stack Engineer, Enterprise Engineering
+**Greenhouse** · stripe · 8712 Enterprise Engine
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8214618)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8214618
+
+#### 🔄 Global Industry Lead, Healthcare
+**Greenhouse** · stripe · 1530 GTM Industries
+📍 San Francisco; New York City; Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8224607)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8224607
+
+#### 🔄 GTM Strategy & Operations Analyst
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 NYC, SF, Seattle, US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8201680)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8201680
+
+#### 🔄 Head of Product Sales, Payouts
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8204649)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8204649
+
+#### 🔄 Implementation Consultant, Professional Services
+**Greenhouse** · stripe · 1141 AMER Delivery
+📍 Chicago, Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203977)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8203977
+
+#### 🔄 Integration Engineer, Professional Services
+**Greenhouse** · stripe · 1141 AMER Delivery
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203973)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8203973
+
+#### 🔄 Large User Sales Managers, Platform Partnerships
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 New York, NY; Chicago, IL or San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209647)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8209647
+
+#### 🔄 Machine Learning Engineer, Link
+**Greenhouse** · stripe · 8570 Consumer Network - Eng
+📍 New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8197886)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8197886
+
+#### 🔄 Manager, Go-to-Market Enablement Business Partners
+**Greenhouse** · stripe · 1512 Global Sales Enablement
+📍 San Francisco; Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212674)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8212674
+
+#### 🔄 PhD Data Scientist, Intern
+**Greenhouse** · stripe · 5112 General University
+📍 New York, Seattle, South San Francisco HQ | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194283)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8194283
+
+#### 🔄 Product Manager - Developer Experience, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 San Francisco Or New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8204227)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8204227
+
+#### 🔄 Product Manager - Issuance, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 San Francisco Or New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8223723)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8223723
+
+#### 🔄 Program Manager, Deal Operations
+**Greenhouse** · stripe · 1510 Global Business Services
+📍 San Francisco, CA / Chicago, IL / Seattle, WA / NYC / Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209633)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8209633
+
+#### 🔄 Project Manager, Total Rewards
+**Greenhouse** · stripe · 6532 Benefits
+📍 CHI, ATL, US-REM | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8204652)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8204652
+
+#### 🔄 Proposal Lead
+**Greenhouse** · stripe · 1530 GTM Industries
+📍 Chicago; Atlanta | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8210228)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8210228
+
+#### 🔄 Sales Manager, Stripe Crypto Existing Business
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8210230)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8210230
+
+#### 🔄 Sales Strategy and Operations, Mergers and Acquisitions
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 South San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212667)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8212667
+
+#### 🔄 Senior Manager, Sales Development
+**Greenhouse** · stripe · 1130 Global Sales Development Mgrs
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8198330)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8198330
+
+#### 🔄 Senior Software Engineer, Product Velocity
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194328)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8194328
+
+#### 🔄 Software Engineer, Backend
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8198280)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8198280
+
+#### 🔄 Software Engineer, High Availability and Disaster Recovery
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8197135)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8197135
+
+#### 🔄 Software Engineer, Online Database Infrastructure
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8197891)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8197891
+
+#### 🔄 Software Engineer, Payins Card Networks
+**Greenhouse** · stripe · Global Operations
+📍 Seattle, WA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8198207)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8198207
+
+#### 🔄 Solutions Engineer, AI Build Team
+**Greenhouse** · stripe · 1650 AI GTM Strategy & Solutions
+📍 US-SF, US-NYC, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8198323)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8198323
+
+#### 🔄 Staff Product Manager, Payments Intelligence
+**Greenhouse** · stripe · 8552 PayIntel - PM
+📍 NYC, SF, Seattle, US - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209996)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8209996
+
+#### 🔄 Startups Sales Manager, Platform Partnerships
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 Chicago, IL; New York, NY; San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8210226)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8210226
+
+#### 🔄 Strategic Account Executive, AI Sales
+**Greenhouse** · stripe · 1654 Account Executives (AI)
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194397)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8194397
+
+#### 🔄 Strategic Accounts Sales Leader, AI GTM
+**Greenhouse** · stripe · 1650 AI GTM Strategy & Solutions
+📍 San Francisco; New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212325)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8212325
+
+#### 🔄 Strategy & Operations Business Partner, Customer Success
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 Chicago, US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8224620)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8224620
+
+#### 🔄 Strategy & Operations Business Partner, Solution Architecture
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 NYC, SF, Chicago, Seattle, US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8214620)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8214620
+
+#### 🔄 Strategy & Operations, Risk
+**Greenhouse** · stripe · 8573 Payments, Risk, and Support Admin
+📍 US-SF, US-SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8199596)
+🕐 Updated: 2026-10-22T09:17:10-04:00 | ID: 8199596
+
+#### 🔄 Abuse Investigator
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Seattle, San Francisco, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172510)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8172510
+
+#### 🔄 Abuse Research Engineer
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Remote from the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172503)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8172503
+
+#### 🔄 Account Executive - Enterprise, Growth
+**Greenhouse** · stripe · 1175 Enterprise - Account Executives (NA)
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8178881)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8178881
+
+#### 🔄 Account Executive Product - Fraud & Risk
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 Chicago, Seattle, NYC, San Francisco, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8181024)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8181024
+
+#### 🔄 Account Executive, Product - Issuing & Treasury (Grower)
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 US-San Francisco, US- New York, US-Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190044)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190044
+
+#### 🔄 Account Executive Product - Link
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 SF, NYC, CHI, SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8189798)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8189798
+
+#### 🔄 Account Executive, Product - Link: Bank Payments & Open Banking
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 SF, SEA, CHI, NYC, remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8289847)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8289847
+
+#### 🔄 Account Executive, Product - Local Payment Methods
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 US-CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190036)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190036
+
+#### 🔄 Account Executive, Product Sales - Billing
+**Greenhouse** · stripe · 1644 Product Sales - Prime Billing
+📍 New York, San Francisco, Seattle, Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190050)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190050
+
+#### 🔄 Account Executive, Product Sales - Crypto
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190046)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190046
+
+#### 🔄 Account Executive, Product Sales - Currency Management
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190416)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190416
+
+#### 🔄 Account Executive, Product Sales (Data)
+**Greenhouse** · stripe · 1641 Product Sales - RFA ex Billing
+📍 US-SF-HQ, US-NYC, US-CHI, US-SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190059)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190059
+
+#### 🔄 Account Executive, Product Sales, Metronome
+**Greenhouse** · stripe · 1644 Product Sales - Prime Billing
+📍 US-NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190042)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190042
+
+#### 🔄 Account Executive, Product Sales - Open Issuance
+**Greenhouse** · stripe · 8589 Bridge - S&M
+📍 CHI, SF,NYC, SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191708)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191708
+
+#### 🔄 Account Executive, Product Sales - Open Issuance
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 sf, nyc | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190057)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190057
+
+#### 🔄 Account Executive, Product Sales - Tax
+**Greenhouse** · stripe · 1641 Product Sales - RFA ex Billing
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190048)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190048
+
+#### 🔄 Critical Support Manager - Escalations
+**Greenhouse** · stripe · 4119 Product Support
+📍 Seattle or San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190032)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190032
+
+#### 🔄 Customer Success Manager, Enterprise
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 New York, NY; Seattle, WA; San Francisco, CA; Chicago, IL; Atlanta, GA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8178692)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8178692
+
+#### 🔄 Data Analyst, NYC
+**Greenhouse** · stripe · 7112 Data Science
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8189909)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8189909
+
+#### 🔄 Engineering Manager, Billing Products
+**Greenhouse** · stripe · 8412 Subscriptions
+📍 US-Remote, Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8180536)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8180536
+
+#### 🔄 Executive Advisory Programs Manager
+**Greenhouse** · stripe · 2325 Exec Marketing
+📍 South San Francisco HQ, New York, Remote US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8190030)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8190030
+
+#### 🔄 Fraud Operations Manager
+**Greenhouse** · stripe · 4896 Fraud Operations
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175832)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175832
+
+#### 🔄 Head of Events, Works in Progress
+**Greenhouse** · stripe · 2414 Works in Progress
+📍 SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8180845)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8180845
+
+#### 🔄 Integrated Marketing Lead, Cross Product
+**Greenhouse** · stripe · 2323 Campaigns and Strategy
+📍 Remote US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8187572)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8187572
+
+#### 🔄 Integration Engineer (Metronome)
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175647)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175647
+
+#### 🔄 Link Social Lead
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8187580)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8187580
+
+#### 🔄 Manager, Competitive Programs
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 NYC, Seattle, SF, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175671)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175671
+
+#### 🔄 Manager, Customer Success Enterprise
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 Atlanta, GA; Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8181032)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8181032
+
+#### 🔄 Manager, Customer Success Manager
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8181034)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8181034
+
+#### 🔄 Manager, Customer Success Platforms
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8181022)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8181022
+
+#### 🔄 Manager, Solutions Architecture - Enterprise (West)
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175633)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175633
+
+#### 🔄 Manager, Solutions Architecture - Platforms (Chicago)
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175667)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175667
+
+#### 🔄 Money Management Demand Generation Manager, Americas
+**Greenhouse** · stripe · 2311 Marketing - AMER
+📍 South San Francisco HQ, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8187278)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8187278
+
+#### 🔄 Partner Development Manager, AMER Bank Partnerships
+**Greenhouse** · stripe · 3515 Money Management Financial Partnerships
+📍 US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8187566)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8187566
+
+#### 🔄 Partner Development Manager, Ecosystem Partnerships
+**Greenhouse** · stripe · 3512 Strategic and Ecosystem Partnerships
+📍 Atlanta, Chicago, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8180254)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8180254
+
+#### 🔄 Partner Marketing Manager, Online & Regional Events
+**Greenhouse** · stripe · 2316 Marketing - Partner
+📍 Seattle or San Francisco or Chicago or New York City or US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175661)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175661
+
+#### 🔄 Partner Solutions Architecture Manager
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 NY, SF, Chicago, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175651)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175651
+
+#### 🔄 Pricing Strategist
+**Greenhouse** · stripe · 6447 Product Pricing
+📍 South San Francisco, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8187578)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8187578
+
+#### 🔄 Product Manager, Connected Account Onboarding Experiences
+**Greenhouse** · stripe · 8250 Connect - PM
+📍 San Francisco, New-York, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8186541)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8186541
+
+#### 🔄 Product Manager,  Startup Products
+**Greenhouse** · stripe · 3710 Startup Product
+📍 NYC, Chicago, Seattle, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176254)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8176254
+
+#### 🔄 Program Manager, Competitive Programs
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 SF, NYC, Seattle, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175673)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175673
+
+#### 🔄 Risk Operations Analyst - SSO
+**Greenhouse** · stripe · 3110 User Policy Operations
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175824)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175824
+
+#### 🔄 Sales Manager, Commercial (Grower)
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191722)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191722
+
+#### 🔄 Sales Manager, Commercial Grower (Healthcare)
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191710)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191710
+
+#### 🔄 Sales Manager, Commercial (Hunter)
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191716)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191716
+
+#### 🔄 Sales Manager, Enterprise - Growth
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 US-Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191714)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191714
+
+#### 🔄 Sales Manager, Enterprise Hunter - Public Sector
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 US-Remote, US-Chicago, US-New York, US-San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191718)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191718
+
+#### 🔄 Sales Manager, Key Accounts - Enterprise
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191720)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191720
+
+#### 🔄 Sales Manager, Product- Fraud & Risk
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 San Francisco, NYC, Seattle, Chicago, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8181036)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8181036
+
+#### 🔄 Sales Manager, Startups - Hunter
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191706)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8191706
+
+#### 🔄 Scale Partner Marketing Lead
+**Greenhouse** · stripe · 2316 Marketing - Partner
+📍 San Francisco, Seattle, New York, Chicago, Atlanta, Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175627)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175627
+
+#### 🔄 Security Engineer
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8174965)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8174965
+
+#### 🔄 Senior Brand Designer, Link
+**Greenhouse** · stripe · 8113 Brand Studio
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172672)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8172672
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · stripe · Global Operations
+📍 South San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175099)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8175099
+
+#### 🔄 Senior Software Engineer, Docs Product
+**Greenhouse** · stripe · Global Operations
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8177860)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8177860
+
+#### 🔄 Startup Partnerships - Y Combinator
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8181026)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8181026
+
+#### 🔄 U.S. Banking Regulatory Compliance Lead
+**Greenhouse** · stripe · 3311 FinCRO
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8188323)
+🕐 Updated: 2026-10-22T09:17:09-04:00 | ID: 8188323
+
+#### 🔄 Account Executive, SMB (Grower)
+**Greenhouse** · stripe · 1651 Velocity - Account Executives (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8156996)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8156996
+
+#### 🔄 Capital Markets Investments
+**Greenhouse** · stripe · Global Operations
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8164481)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8164481
+
+#### 🔄 Core Business Recruiter (Fixed Term Contract)
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8163187)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8163187
+
+#### 🔄 Design Recruiter
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8163193)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8163193
+
+#### 🔄 Engineering Manager, Checkout Optimization
+**Greenhouse** · stripe · 8582 Optimized Checkout - Eng
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8161567)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8161567
+
+#### 🔄 GTM Recruiting Manager
+**Greenhouse** · stripe · 6520 Recruiting
+📍 US-Remote, Chicago, Atlanta | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8158086)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8158086
+
+#### 🔄 Head of Private Equity and Advisory Partnerships
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 US-San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8165855)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8165855
+
+#### 🔄 Head of Sales, Billing
+**Greenhouse** · stripe · 1641 Product Sales - RFA ex Billing
+📍 New York, San Francisco, Chicago, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8156998)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8156998
+
+#### 🔄 Investigator
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172491)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8172491
+
+#### 🔄 Manager, Solutions Architecture- Enterprise Hunter
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8163542)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8163542
+
+#### 🔄 Partner Development Manager, AI Partnerships
+**Greenhouse** · stripe · 1630 Alliances & Channels
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8165269)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8165269
+
+#### 🔄 Partner Development Manager, Alliances and Channels
+**Greenhouse** · stripe · 1630 Alliances & Channels
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8165267)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8165267
+
+#### 🔄 Product Designer, Growth
+**Greenhouse** · stripe · Global Operations
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8164479)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8164479
+
+#### 🔄 Security Incident Response Manager, Abuse Operations
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Seattle, SF, NYC, Chicago, Atlanta, Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172497)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8172497
+
+#### 🔄 Staff Software Engineer, IAM Control Plane
+**Greenhouse** · stripe · 8551 OAP - Eng
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8163540)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8163540
+
+#### 🔄 Strategy & Operations Business Partner, Global Payments Performance
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8171928)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8171928
+
+#### 🔄 Strategy & Operations, Infrastructure
+**Greenhouse** · stripe · 8129 Global Networking
+📍 Remote US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8171095)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8171095
+
+#### 🔄 Technical Account Manager, Platform
+**Greenhouse** · stripe · 4130 Technical Account Management, Support & Services - AMER
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8160699)
+🕐 Updated: 2026-10-22T09:17:08-04:00 | ID: 8160699
+
+#### 🔄 Account Executive, AI Sales
+**Greenhouse** · stripe · 1654 Account Executives (AI)
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8138044)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8138044
+
+#### 🔄 Account Executive, Commercial (Grower)
+**Greenhouse** · stripe · 1651 Velocity - Account Executives (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8123027)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8123027
+
+#### 🔄 Account Executive, Startups (Grower)
+**Greenhouse** · stripe · 1653 Startups - Account Executives (NA)
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8128552)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8128552
+
+#### 🔄 Account Executive, Strategics
+**Greenhouse** · stripe · 1175 Enterprise - Account Executives (NA)
+📍 San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8110261)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8110261
+
+#### 🔄 AI Engineer
+**Greenhouse** · stripe · 1155 SA Transformation
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8144196)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8144196
+
+#### 🔄 Business Systems Architect (Tax)
+**Greenhouse** · stripe · Global Operations
+📍 South San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8145117)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8145117
+
+#### 🔄 Channel Sales Executive, SaaS Platforms
+**Greenhouse** · stripe · 1630 Alliances & Channels
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8126984)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8126984
+
+#### 🔄 Designer, Web Presence & Platform
+**Greenhouse** · stripe · 8815 WPP Growth
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130913)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8130913
+
+#### 🔄 Design Program Manager, Research Operations
+**Greenhouse** · stripe · 8810 Design
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8155390)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8155390
+
+#### 🔄 Engineering Manager, Infrastructure
+**Greenhouse** · stripe · 8125 Core Compute
+📍 Seattle, San Francisco, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8128496)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8128496
+
+#### 🔄 Engineering Manager of Managers, Service Infrastructure
+**Greenhouse** · stripe · 8186 Service Platform
+📍 Seattle, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8155381)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8155381
+
+#### 🔄 Fraud Strategist
+**Greenhouse** · stripe · 3134 Fraud Risk Strategy
+📍 LOCATION | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8112448)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8112448
+
+#### 🔄 Full Stack Engineer, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 San Francisco, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142764)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8142764
+
+#### 🔄 Full Stack Engineer, Enterprise & Ecosystem
+**Greenhouse** · stripe · 8571 Ecosystem Product
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8118929)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8118929
+
+#### 🔄 GTM Strategy & Operations Analyst
+**Greenhouse** · stripe · Global Operations
+📍 New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8145119)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8145119
+
+#### 🔄 Head of AEO & SEO
+**Greenhouse** · stripe · 2314 Performance Marketing
+📍 US Remote; Chicago, Atlanta, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8128634)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8128634
+
+#### 🔄 Head of Money Management, Finance & Strategy
+**Greenhouse** · stripe · 6453 MaaS F&S
+📍 Seattle, San Francisco, New York, Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8154531)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8154531
+
+#### 🔄 Manager, Risk Operations Technology Programs
+**Greenhouse** · stripe · 4892 Risk Operations Enablement
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8138302)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8138302
+
+#### 🔄 Manager, Technical Account Management
+**Greenhouse** · stripe · 4130 Technical Account Management, Support & Services - AMER
+📍 San Francisco or Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8152136)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8152136
+
+#### 🔄 Partner Development Manager, Global Financial Institutions & Stablecoins
+**Greenhouse** · stripe · 3515 Money Management Financial Partnerships
+📍 US-NYC; US-San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8143073)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8143073
+
+#### 🔄 Product Manager, Identity & Access Management
+**Greenhouse** · stripe · 8566 Developer Platform - PM
+📍 US-Remote, US-Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8165137)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8165137
+
+#### 🔄 Product Manager, Strategic Apps
+**Greenhouse** · stripe · 8803 Partner Products
+📍 Seattle, San Francisco, Chicago, | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8122188)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8122188
+
+#### 🔄 Product Support Specialist
+**Greenhouse** · stripe · 4119 Product Support
+📍 Chicago, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8148497)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8148497
+
+#### 🔄 Program Manager, GTM Planning
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 Chicago, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8147961)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8147961
+
+#### 🔄 Recruiting Project Manager
+**Greenhouse** · stripe · 6523 Recruiting Enablement
+📍 CHI, ATL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142077)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8142077
+
+#### 🔄 Sales Manager, SMB (Hunter)
+**Greenhouse** · stripe · 1170 GEO Sales HQ (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8112959)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8112959
+
+#### 🔄 Senior Brand Designer, Experiential
+**Greenhouse** · stripe · 8113 Brand Studio
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8131129)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8131129
+
+#### 🔄 Senior Workday Analyst, Payroll
+**Greenhouse** · stripe · 6513 People Systems & Solutions
+📍 US-REM | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8120501)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8120501
+
+#### 🔄 Software Engineer
+**Greenhouse** · stripe · Global Operations
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8137972)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8137972
+
+#### 🔄 Software Engineer, Early Career — Immediate Start
+**Greenhouse** · stripe · 5112 General University
+📍 San Francisco, Seattle, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212508)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8212508
+
+#### 🔄 Software Engineer, Intern (Summer or Winter)
+**Greenhouse** · stripe · 5112 General University
+📍 San Francisco, Seattle, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8128745)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8128745
+
+#### 🔄 Software Engineer, New Grad
+**Greenhouse** · stripe · 5112 General University
+📍 San Francisco, Seattle, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8128744)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8128744
+
+#### 🔄 Software Engineer, Revenue and Financial Automation
+**Greenhouse** · stripe · 8421 RevSuite Foundations
+📍 San Francisco, New York City, Seattle, Chicago, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8127182)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8127182
+
+#### 🔄 Solutions Architect, Enterprise (Presales)
+**Greenhouse** · stripe · 1151 Solutions Architecture (AMER)
+📍 San Francisco, CA, Chicago, IL, New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8144185)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8144185
+
+#### 🔄 Solutions Architect, SMB
+**Greenhouse** · stripe · 1151 Solutions Architecture (AMER)
+📍 Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8144256)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8144256
+
+#### 🔄 Solutions Consultant, Enterprise (Presales)
+**Greenhouse** · stripe · 1151 Solutions Architecture (AMER)
+📍 San Francisco, CA, Chicago, IL, New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8168151)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8168151
+
+#### 🔄 Specialist Solutions Architect, Data
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 SF, NY, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8144262)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8144262
+
+#### 🔄 Staff Machine Learning Engineer, Financial Connections
+**Greenhouse** · stripe · 8560 Bank Connections - Eng
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8148653)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8148653
+
+#### 🔄 Staff Product Manager, Mobile
+**Greenhouse** · stripe · 8569 MerchantXP - PM
+📍 New York City, Toronto, Chicago, or Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8140438)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8140438
+
+#### 🔄 Staff Program Manager, Event Design
+**Greenhouse** · stripe · 8113 Brand Studio
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8127894)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8127894
+
+#### 🔄 Staff Software Engineer, Link - Consumer Identity
+**Greenhouse** · stripe · 8560 Bank Connections - Eng
+📍 San Francisco, Seattle, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142952)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8142952
+
+#### 🔄 Staff Software Engineer, Link - Consumer Preference
+**Greenhouse** · stripe · 8560 Bank Connections - Eng
+📍 San Francisco, NYC, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8257354)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8257354
+
+#### 🔄 Strategic Business Performance, Central Strategy & Operations
+**Greenhouse** · stripe · 2226 Central Strategy & Operations
+📍 US-Chicago, US-Remote, US-Seattle, US-San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8155580)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8155580
+
+#### 🔄 Strategy & Transformation Advisor (Enterprise Commerce Architecture)
+**Greenhouse** · stripe · 1140 Professional Services
+📍 San Francisco or Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8139711)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8139711
+
+#### 🔄 Technical Account Manager, Billing
+**Greenhouse** · stripe · 4130 Technical Account Management, Support & Services - AMER
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142304)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8142304
+
+#### 🔄 Technical Recruiter (Fixed Term Contract)
+**Greenhouse** · stripe · 6520 Recruiting
+📍 SF, SEA, NYC, CHI, ATL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8154525)
+🕐 Updated: 2026-10-22T09:17:07-04:00 | ID: 8154525
+
+#### 🔄 Account Executive, Bridge
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 SF, NYC, SEA, CHI | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8077887)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8077887
+
+#### 🔄 Account Executive, Enterprise Platforms, Tier 2 Grower
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 New York, NY; San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8041894)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8041894
+
+#### 🔄 Account Executive, Product - Link
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 NYC, SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8049828)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8049828
+
+#### 🔄 Accounting AI Solutions Lead
+**Greenhouse** · stripe · 6420 Accounting
+📍 Seattle, San Francisco, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8103750)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8103750
+
+#### 🔄 Business Value Consultant
+**Greenhouse** · stripe · 1530 GTM Industries
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8097051)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8097051
+
+#### 🔄 Customer Success Manager, Radar
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 Chicago, IL; Atlanta, GA; San Francisco, CA; Seattle, WA; New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8049910)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8049910
+
+#### 🔄 Customer Success Manager, Revenue Suite
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 San Francisco, CA; Chicago, IL; Seattle, WA; New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8052814)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8052814
+
+#### 🔄 Engineering Manager, Machine Learning - Credit Risk
+**Greenhouse** · stripe · 8535 Risk Credit & Fraud
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8205280)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8205280
+
+#### 🔄 Engineering Manager, Machine Learning - Fraud Detection
+**Greenhouse** · stripe · 8535 Risk Credit & Fraud
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8069506)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8069506
+
+#### 🔄 Food Experience Manager
+**Greenhouse** · stripe · 6610 Food
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8083966)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8083966
+
+#### 🔄 Forward Deployed AI Accelerator, Marketing
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 Remote in the US, Remote in Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8055930)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8055930
+
+#### 🔄 High School Internship, Software Engineering (Summer 2027)
+**Greenhouse** · stripe · 5112 General University
+📍 Seattle, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241260)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8241260
+
+#### 🔄 Integrated Campaigns Manager
+**Greenhouse** · stripe · 2326 Bridge - Marketing
+📍 US; Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8248207)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8248207
+
+#### 🔄 Integrated Campaigns Manager - Stablecoins, Crypto, and Bridge
+**Greenhouse** · stripe · 2326 Bridge - Marketing
+📍 US, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8067276)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8067276
+
+#### 🔄 Integration Engineer, Metronome
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8080454)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8080454
+
+#### 🔄 Integration Engineer, Professional Services
+**Greenhouse** · stripe · 1141 AMER Delivery
+📍 Seattle, San Francisco, or New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8075570)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8075570
+
+#### 🔄 Lifecycle Marketing Manager, Capital
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 Remote, US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8082149)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8082149
+
+#### 🔄 Manager, Solution Architecture Platforms
+**Greenhouse** · stripe · 1151 Solutions Architecture (AMER)
+📍 South San Francisco, CA , New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8104302)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8104302
+
+#### 🔄 Partner Development Manager, Link - Payments Partnerships
+**Greenhouse** · stripe · 3513 Commerce and Data Partnerships
+📍 US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8090126)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8090126
+
+#### 🔄 Privacy Operations Program Manager
+**Greenhouse** · stripe · 6311 Data Protection & Privacy
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8053517)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8053517
+
+#### 🔄 Product Manager, Connect Growth & Monetization
+**Greenhouse** · stripe · 8250 Connect - PM
+📍 Seattle, New-York, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8195440)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8195440
+
+#### 🔄 Product Marketing Lead, Billing
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 US / Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8090203)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8090203
+
+#### 🔄 Product Marketing Manager, Startup Segment
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8097731)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8097731
+
+#### 🔄 Program Manager, Card Network Office (Card Networks)
+**Greenhouse** · stripe · 8548 Payins - Eng
+📍 US-SF, US-NYC, US-Seattle, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8081754)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8081754
+
+#### 🔄 Program Manager, GTM Strategic Programs
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 US-Remote, Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8042309)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8042309
+
+#### 🔄 Project Manager, Total Rewards
+**Greenhouse** · stripe · 6532 Benefits
+📍 CHI, ATL, US-REM | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8077547)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8077547
+
+#### 🔄 Sales Manager, Product - Issuing & Treasury
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 NYC, SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8070701)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8070701
+
+#### 🔄 Sales Strategy & Operations Business Partner
+**Greenhouse** · stripe · 1520 Sales Operations (SS&O)
+📍 (San Francisco, Chicago, NYC) | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8089882)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8089882
+
+#### 🔄 Security Engineer, Privy
+**Greenhouse** · stripe · 9001 Privy - R&D
+📍 NYC-Privy | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8073092)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8073092
+
+#### 🔄 Software Engineer, Vulnerability Management
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 US - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8089353)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8089353
+
+#### 🔄 Solutions Architect, Metronome (Startups)
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 US-NYC, US-SF, US-Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8072257)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8072257
+
+#### 🔄 Specialist Solutions Architect, Tax
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 Chicago, Atlanta, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8090244)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8090244
+
+#### 🔄 Staff Product Manager, Connect
+**Greenhouse** · stripe · 8250 Connect - PM
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8065034)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8065034
+
+#### 🔄 Staff Software Engineer, API Platform
+**Greenhouse** · stripe · 8186 Service Platform
+📍 San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8055701)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8055701
+
+#### 🔄 Staff Software Engineer, Dashboard Product
+**Greenhouse** · stripe · 8414 MerchantXP - Eng
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8076151)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8076151
+
+#### 🔄 Staff Software Engineer, Service Infrastructure
+**Greenhouse** · stripe · 8186 Service Platform
+📍 AMER | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8090141)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8090141
+
+#### 🔄 Strategy & Analytics Business Partner Analyst
+**Greenhouse** · stripe · 4176 Support S&A
+📍 US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8079783)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8079783
+
+#### 🔄 Strategy and Operations Lead, Deal Pricing
+**Greenhouse** · stripe · 6444 Deal Pricing
+📍 New York City, Washington DC, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8044391)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8044391
+
+#### 🔄 Strategy & Ops, Enterprise
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8053933)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8053933
+
+#### 🔄 Technical Solutions Engineering Manager
+**Greenhouse** · stripe · 4150 Technical Support
+📍 San Francisco or Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8079858)
+🕐 Updated: 2026-10-22T09:17:06-04:00 | ID: 8079858
+
+#### 🔄 Account Executive, Enterprise (Grower)
+**Greenhouse** · stripe · 1175 Enterprise - Account Executives (NA)
+📍 US-Remote-CA, US-San Francisco, US-Seattle, US-New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7993151)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7993151
+
+#### 🔄 Account Executive, Enterprise - Hunter
+**Greenhouse** · stripe · 1175 Enterprise - Account Executives (NA)
+📍 US-Chicago, US-New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7994330)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7994330
+
+#### 🔄 Account Executive, Enterprise Platforms, Hunter
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 New York, NY; San Francisco, CA; Seattle, WA; Chicago, IL | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7961609)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7961609
+
+#### 🔄 Account Executive, Product Sales, Metronome (Hunter)
+**Greenhouse** · stripe · 1645 Product Sales - Metronome
+📍 US-SF-HQ | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8029043)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8029043
+
+#### 🔄 Account Executive, Strategic Platform Partnerships
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 San Francisco, CA; New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8157577)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8157577
+
+#### 🔄 Brand Producer, Link
+**Greenhouse** · stripe · 8113 Brand Studio
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7991528)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7991528
+
+#### 🔄 Client Platform Security Engineer
+**Greenhouse** · stripe · 8612 Security Infrastructure
+📍 New York, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7982720
+
+#### 🔄 Deal Strategist
+**Greenhouse** · stripe · 1510 Global Business Services
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7958150)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7958150
+
+#### 🔄 Engineering Manager, AI Conversation Platform
+**Greenhouse** · stripe · 4145 Support Products - Eng
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7943804)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7943804
+
+#### 🔄 Engineering Manager, Forward Deployed (Privy)
+**Greenhouse** · stripe · 9001 Privy - R&D
+📍 NYC-Privy | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7947546)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7947546
+
+#### 🔄 Full Stack Engineer, Support Experience (Greater China Support)
+**Greenhouse** · stripe · 4145 Support Products - Eng
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8039548)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8039548
+
+#### 🔄 GTM Product Marketing Manager, Commerce Experiences
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7990812)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7990812
+
+#### 🔄 GTM Recruiter (Fixed Term)
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Chicago, Atlanta, US-Remote, Toro | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8016504)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8016504
+
+#### 🔄 Head of Market Intelligence, Product Marketing
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 SF, Seattle, NYC, Chicago, Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8036235)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8036235
+
+#### 🔄 Internal Audit Data Analytics Lead
+**Greenhouse** · stripe · 6480 Internal Audit
+📍 Toronto, New York, San Francisco, Atlanta, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8026689)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8026689
+
+#### 🔄 Machine Learning Engineer, Radar
+**Greenhouse** · stripe · 8217 Risk Engineering
+📍 Seattle, South San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7983456)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7983456
+
+#### 🔄 Manager, Global Sanctions
+**Greenhouse** · stripe · 4193 Financial Crimes Operations
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8014898)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8014898
+
+#### 🔄 Operations Insights, Tax
+**Greenhouse** · stripe · 5902 Tax Autofile
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7997542)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7997542
+
+#### 🔄 Partner Solutions Architect - Billing
+**Greenhouse** · stripe · 1160 Partner Solution Engineering
+📍 USA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7927330)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7927330
+
+#### 🔄 Product Designer - Dashboard
+**Greenhouse** · stripe · 8811 Product Design
+📍 US / Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7980578)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7980578
+
+#### 🔄 Product Designer, Internal Tools
+**Greenhouse** · stripe · 8811 Product Design
+📍 US / Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7954207)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7954207
+
+#### 🔄 Product Manager, Global Payouts
+**Greenhouse** · stripe · 8538 MMS APIs & Experiences - PM
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7994443)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7994443
+
+#### 🔄 Product Manager, Treasury for Platforms
+**Greenhouse** · stripe · 8543 Treasury - PM
+📍 Seattle, New-York, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7983856)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7983856
+
+#### 🔄 Product Marketing Manager, Market Intelligence
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 SF, Seattle, NYC, Chicago, Toronto, Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8014761)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8014761
+
+#### 🔄 Product Marketing Manager, Radar
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 SF, NYC, Seattle, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7961101)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7961101
+
+#### 🔄 Staff Product Designer, Risk
+**Greenhouse** · stripe · 8811 Product Design
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8031782)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8031782
+
+#### 🔄 Staff Product Manager, Billing
+**Greenhouse** · stripe · 8412 Subscriptions
+📍 SF, NY, SEA, Remote-US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7983725)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7983725
+
+#### 🔄 Staff Software Engineer, Machine Learning Platform
+**Greenhouse** · stripe · 8212 ML Foundations
+📍 San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7939868)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7939868
+
+#### 🔄 Staff Software Engineer, Payments Intelligence
+**Greenhouse** · stripe · 8511 PayIntel - Eng
+📍 Seattle, New York, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7986004)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7986004
+
+#### 🔄 Staff Software Engineer, Risk Data Engineering
+**Greenhouse** · stripe · 8122 Data Foundations
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8112043)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8112043
+
+#### 🔄 Technical Account Manager, AI User Segment
+**Greenhouse** · stripe · 4130 Technical Account Management, Support & Services - AMER
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7918088)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 7918088
+
+#### 🔄 Technical Program Manager, Link
+**Greenhouse** · stripe · 8570 Consumer Network - Eng
+📍 San Francisco, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8014533)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8014533
+
+#### 🔄 Technical Program Manager, Money-as-a-Service
+**Greenhouse** · stripe · 8539 MMS Product - Eng
+📍 Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8042055)
+🕐 Updated: 2026-10-22T09:17:05-04:00 | ID: 8042055
+
+#### 🔄 Account Executive, Enterprise Platforms (Grower)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 San Francisco, CA; Chicago, IL & New York, NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7576967)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7576967
+
+#### 🔄 Account Executive, Product Sales - Stablecoin Issuing
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 SF, NYC, remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7456716)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7456716
+
+#### 🔄 AEO and GEO Marketing Manager
+**Greenhouse** · stripe · 2314 Performance Marketing
+📍 Remote in the US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7844214)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7844214
+
+#### 🔄 Android Engineer, Terminal OS Platform
+**Greenhouse** · stripe · 8512 Terminal - Eng
+📍 San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7557403)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7557403
+
+#### 🔄 Backend Engineer, Developer & End-user Experience Platform
+**Greenhouse** · stripe · 8116 Developer Platform - Eng
+📍 SEA, SF, NY, Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7476555)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7476555
+
+#### 🔄 Cloud Security Engineer
+**Greenhouse** · stripe · 8614 Office of the CISO & Partnership
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7867389
+
+#### 🔄 Corporate Communications
+**Greenhouse** · stripe · 2413 Communications
+📍 DC, SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7827403)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7827403
+
+#### 🔄 Credit Risk Analyst Commercial Underwriter
+**Greenhouse** · stripe · 3130 Credit Risk Strategy
+📍 Chicago, US-Remote, Canada-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7540441)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7540441
+
+#### 🔄 Crypto Product Accounting
+**Greenhouse** · stripe · 6420 Accounting
+📍 San Francisco, Seattle, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7774312)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7774312
+
+#### 🔄 Data Science Manager, Finance and Strategy
+**Greenhouse** · stripe · 7112 Data Science
+📍 Seattle, WA OR New York, NY OR Remote North America | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7440963)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7440963
+
+#### 🔄 Engineering Manager, Data Transformation
+**Greenhouse** · stripe · 8122 Data Foundations
+📍 US-SEA, US-SF, US-NYC, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7688358)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7688358
+
+#### 🔄 Finance and Strategy Partner
+**Greenhouse** · stripe · 6441 Corporate F&S
+📍 San Francisco, New York City, Chicago, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7473983)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7473983
+
+#### 🔄 Forward Deployed AI Accelerator, Marketing
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 Seattle, San Francisco, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7747640)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7747640
+
+#### 🔄 Head of Platforms Solutions Architecture
+**Greenhouse** · stripe · 1151 Solutions Architecture (AMER)
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7915144)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7915144
+
+#### 🔄 Head of Specialist Solutions Architecture, Revenue (AMER)
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7523947)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7523947
+
+#### 🔄 Infrastructure Engineer, Privy
+**Greenhouse** · stripe · 9001 Privy - R&D
+📍 New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7462961)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7462961
+
+#### 🔄 Integration Engineer (Chicago)
+**Greenhouse** · stripe · 1141 AMER Delivery
+📍 Chicago, US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7819426)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7819426
+
+#### 🔄 Partner Development Manager, Global Strategic Alliances
+**Greenhouse** · stripe · 1630 Alliances & Channels
+📍 US-SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7461966)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7461966
+
+#### 🔄 People Consultant
+**Greenhouse** · stripe · 6515 People Consultants
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7866374)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7866374
+
+#### 🔄 People Partner, Technology
+**Greenhouse** · stripe · 6550 People Partners
+📍 San Francisco, Chicago, New York City or Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7466921)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7466921
+
+#### 🔄 Portfolio Pricing Strategist
+**Greenhouse** · stripe · 6447 Product Pricing
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7858811)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7858811
+
+#### 🔄 Pre-Sales Solutions Architect, Money Management
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 NYC, SF, Chi, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7370967)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7370967
+
+#### 🔄 Product Designer, Terminal
+**Greenhouse** · stripe · 8811 Product Design
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8282390)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 8282390
+
+#### 🔄 Product Lead, Support Experience
+**Greenhouse** · stripe · 4900 Support Eng & PM
+📍 Seattle, Washington, United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7869917)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7869917
+
+#### 🔄 Product Manager, Hardware
+**Greenhouse** · stripe · 8258 Terminal - PM
+📍 San Francisco, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7586413)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7586413
+
+#### 🔄 Product Manager, Link - Consumer
+**Greenhouse** · stripe · 8570 Consumer Network - Eng
+📍 SF, SEA, NY, Remote-US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7392697)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7392697
+
+#### 🔄 Product Manager: New Grad Accelerator
+**Greenhouse** · stripe · 5112 General University
+📍 San Francisco, New York City, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7737124)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7737124
+
+#### 🔄 Product Marketing, Data Products
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 US / Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7773461)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7773461
+
+#### 🔄 Security Engineer, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 SF, New York, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7776179)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7776179
+
+#### 🔄 Senior Designer, Brand Advertising
+**Greenhouse** · stripe · 8113 Brand Studio
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7793636)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7793636
+
+#### 🔄 Senior Product Manager, Enterprise
+**Greenhouse** · stripe · 8712 Enterprise Engine
+📍 San Francisco, Seattle, New York, Chicago, Atlanta, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7812856)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7812856
+
+#### 🔄 Senior Staff Software Engineer, Stripe Dashboard
+**Greenhouse** · stripe · 8414 MerchantXP - Eng
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7746721)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7746721
+
+#### 🔄 Specialist Solutions Architect, Billing
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7728618)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7728618
+
+#### 🔄 Specialist Solutions Architect, Radar (Fraud/Risk)
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 NY or SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7365914)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7365914
+
+#### 🔄 Staff Data Analyst
+**Greenhouse** · stripe · 7112 Data Science
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7921649)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7921649
+
+#### 🔄 Staff Product Manager, Dashboard
+**Greenhouse** · stripe · 8569 MerchantXP - PM
+📍 San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7913702)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7913702
+
+#### 🔄 Staff Product Manager, ML Foundations and GenAI
+**Greenhouse** · stripe · 8212 ML Foundations
+📍 Seattle, San Francisco, New York, US - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7517535)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7517535
+
+#### 🔄 Staff Product Manager, Sail Core
+**Greenhouse** · stripe · 8569 MerchantXP - PM
+📍 New York, US - Remote (East Coast), Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7913698)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7913698
+
+#### 🔄 Staff Software Engineer, Money Movement Platform
+**Greenhouse** · stripe · 8514 Connect - Eng
+📍 SEA, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8177513)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 8177513
+
+#### 🔄 Technical Solutions Engineer
+**Greenhouse** · stripe · 4150 Technical Support
+📍 Seattle, WA, Remote-US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7377101)
+🕐 Updated: 2026-10-22T09:17:04-04:00 | ID: 7377101
+
+#### 🔄 Account Executive, Commercial (Hunter)
+**Greenhouse** · stripe · 1651 Velocity - Account Executives (NA)
+📍 Chicago | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7277406)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7277406
+
+#### 🔄 Account Executive, Platforms (Hunter)
+**Greenhouse** · stripe · 1652 Platforms - Account Executives (NA)
+📍 Chicago, Illinois | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7298935)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7298935
+
+#### 🔄 Backend/API Engineer, Money as a Service
+**Greenhouse** · stripe · 8546 Treasury for Platforms - Eng
+📍 US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6176758)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 6176758
+
+#### 🔄 Backend Engineer, Core Technology
+**Greenhouse** · stripe · 8127 Core Infrastructure
+📍 US-Remote, Chicago, Seattle, San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6042172)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 6042172
+
+#### 🔄 Backend Engineer, Link
+**Greenhouse** · stripe · 8560 Bank Connections - Eng
+📍 NYC, Sea, SF, Tor | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8131144)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 8131144
+
+#### 🔄 Backend Engineer, Privy
+**Greenhouse** · stripe · 9001 Privy - R&D
+📍 NYC-Privy | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7235875)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7235875
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 Chicago, IL; Atlanta, GA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6558993)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 6558993
+
+#### 🔄 Data Scientist
+**Greenhouse** · stripe · 7112 Data Science
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=5601879)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 5601879
+
+#### 🔄 Forward Deployed Engineer, Privy
+**Greenhouse** · stripe · 9001 Privy - R&D
+📍 New York Privy HQ | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7230452)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7230452
+
+#### 🔄 Product Marketing Manager
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 San Francisco, New York, Seattle, Chicago, Remote, Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6348471)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 6348471
+
+#### 🔄 Product Marketing Manager, Payments
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 Remote in the US, Chicago, Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142770)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 8142770
+
+#### 🔄 Product Marketing Manager, Portfolio Pricing
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7832098)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7832098
+
+#### 🔄 Product Marketing Manager, Revenue suite
+**Greenhouse** · stripe · 2317 Marketing - PMM
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233263)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 8233263
+
+#### 🔄 Program Manager, Risk Operations
+**Greenhouse** · stripe · 4892 Risk Operations Enablement
+📍 United States | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8158082)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 8158082
+
+#### 🔄 Program Manager, Risk Ops Enablement
+**Greenhouse** · stripe · 4892 Risk Operations Enablement
+📍 US-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7214197)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7214197
+
+#### 🔄 Risk Operations Analyst
+**Greenhouse** · stripe · 4891 Partner Risk Operations
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7230921)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7230921
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · stripe · 1132 AMER Sales Development Reps
+📍 Chicago, Illinois | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6570253)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 6570253
+
+#### 🔄 Software Engineer, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 San Francisco, NY, Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7277110)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7277110
+
+#### 🔄 Software Engineer, Secrets Infrastructure
+**Greenhouse** · stripe · 8612 Security Infrastructure
+📍 na | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7396679)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7396679
+
+#### 🔄 Specialist Solutions Architect, Crypto & Stablecoins
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 US-NY | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7120766)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7120766
+
+#### 🔄 Staff Product Designer, Link
+**Greenhouse** · stripe · 8811 Product Design
+📍 NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7202630)
+🕐 Updated: 2026-10-22T09:17:03-04:00 | ID: 7202630
+
+#### 🔄 Account Executive, Bridge - Hunter
+**Greenhouse** · stripe · 8589 Bridge - S&M
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8299647)
+🕐 Updated: 2026-10-22T09:16:17-04:00 | ID: 8299647
+
+#### 🔄 Account Executive, Existing Business, French
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8286680)
+🕐 Updated: 2026-10-22T09:16:17-04:00 | ID: 8286680
+
+#### 🔄 Account Executive, SMB Commercial, Grower
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8286655)
+🕐 Updated: 2026-10-22T09:16:17-04:00 | ID: 8286655
+
+#### 🔄 Account Executive - Startup SaaS Platforms, Scaled UK Hunter
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8288876)
+🕐 Updated: 2026-10-22T09:16:17-04:00 | ID: 8288876
+
+#### 🔄 Account Executive, Enterprise Grower (Benelux)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Amsterdam | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267851)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8267851
+
+#### 🔄 Account Executive, Existing Business, Iberia
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241322)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8241322
+
+#### 🔄 Account Executive, Funded Startups
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241333)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8241333
+
+#### 🔄 Account Executive, Funded Startups DACH
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Berlin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8271659)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8271659
+
+#### 🔄 Account Executive, Platforms (Hunter)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8249652)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8249652
+
+#### 🔄 Account Executive - Platforms Hunter (French Fluency)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241292)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8241292
+
+#### 🔄 Account Executive, Platforms (Nordic Region)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241304)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8241304
+
+#### 🔄 Account Executive Product - Fraud & Risk
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8271657)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8271657
+
+#### 🔄 Account Executive, SMB Hunter (Central Eastern Europe)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8258364)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8258364
+
+#### 🔄 Account Executive, Velocity Scaled Grower (Italian or Spanish fluency)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241345)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8241345
+
+#### 🔄 Community Operations Specialist
+**Greenhouse** · stripe · 4119 Product Support
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8257185)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8257185
+
+#### 🔄 Country Manager, Israel
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Israel | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267857)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8267857
+
+#### 🔄 Employment Counsel, EMEA
+**Greenhouse** · stripe · 6340 Employment Legal
+📍 Dublin, London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8273855)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8273855
+
+#### 🔄 Engineering Manager - Support Experience
+**Greenhouse** · stripe · 4145 Support Products - Eng
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8264421)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8264421
+
+#### 🔄 Head of Technical Account Management, EMEA
+**Greenhouse** · stripe · 4147 Technical Account Management, Support & Services - EMEA
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8262029)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8262029
+
+#### 🔄 Integration Engineer
+**Greenhouse** · stripe · 1143 EMEA Delivery
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267102)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8267102
+
+#### 🔄 Junior Commercial Associate — Works in Progress
+**Greenhouse** · stripe · 2414 Works in Progress
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8241571)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8241571
+
+#### 🔄 Partner Development Manager
+**Greenhouse** · stripe · 1630 Alliances & Channels
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267519)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8267519
+
+#### 🔄 Partner Development Manager, International Bank Partnerships
+**Greenhouse** · stripe · 3515 Money Management Financial Partnerships
+📍 United Kingdom; Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8274773)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8274773
+
+#### 🔄 Product Manager, Foreign Exchange
+**Greenhouse** · stripe · 8538 MMS APIs & Experiences - PM
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231234)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8231234
+
+#### 🔄 Sales Development Representative (Polish Fluency)
+**Greenhouse** · stripe · 1133 EMEA Sales Development Reps
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8265128)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8265128
+
+#### 🔄 Security Engineer, New Grad
+**Greenhouse** · stripe · 5112 General University
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8257892)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8257892
+
+#### 🔄 Senior Staff Product Manager, Risk
+**Greenhouse** · stripe · 8260 Risk and Compliance Platform PM
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8264005)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8264005
+
+#### 🔄 Senior Staff Product Manager, Risk
+**Greenhouse** · stripe · 8260 Risk and Compliance Platform PM
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8273741)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8273741
+
+#### 🔄 Staff Software Engineer - Stripe Tax
+**Greenhouse** · stripe · 8596 Tax Products
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8274582)
+🕐 Updated: 2026-10-22T09:16:16-04:00 | ID: 8274582
+
+#### 🔄 Abuse Investigator
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172508)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8172508
+
+#### 🔄 Account Executive, DACH, Commercial (Existing Business)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin or Germany (Berlin or Remote) | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8201690)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8201690
+
+#### 🔄 Account Executive, Enterprise Hunter (French-speaking)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Paris | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8202836)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8202836
+
+#### 🔄 Account Executive, Product (Global Payouts - Hunter)
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 London OR Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8213481)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8213481
+
+#### 🔄 Account Executive Product - Issuing & Treasury
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 London OR Paris OR Germany | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203649)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8203649
+
+#### 🔄 Account Executive, Product (Payouts) - Hunter
+**Greenhouse** · stripe · 1642 Product Sales - MaaS
+📍 London, Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8196259)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8196259
+
+#### 🔄 Account Executive, Product Sales (Billing) - Grower
+**Greenhouse** · stripe · 1644 Product Sales - Prime Billing
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8211151)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8211151
+
+#### 🔄 Account Executive, Product Sales (Billing) - Hunter
+**Greenhouse** · stripe · 1644 Product Sales - Prime Billing
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8196254)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8196254
+
+#### 🔄 Account Executive, Product - Tax
+**Greenhouse** · stripe · 1641 Product Sales - RFA ex Billing
+📍 London OR Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8196288)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8196288
+
+#### 🔄 Account Executive, Retail (Grower)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8207708)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8207708
+
+#### 🔄 Account Executive, SMB Hunter (DACH)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8213057)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8213057
+
+#### 🔄 Account Executive - Velocity SMB Grower
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8195480)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8195480
+
+#### 🔄 Account Executive, Velocity SMB Hunter
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8195478)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8195478
+
+#### 🔄 Benefits Program Manager, EMEA
+**Greenhouse** · stripe · 6532 Benefits
+📍 Dublin, London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8202831)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8202831
+
+#### 🔄 EMEA Demand Generation, Platforms
+**Greenhouse** · stripe · 2312 Marketing - EMEA
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209626)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8209626
+
+#### 🔄 Engineering Manager - LPM Foundations
+**Greenhouse** · stripe · 8556 LPM Core - Eng
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8230300)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8230300
+
+#### 🔄 Enterprise Field Marketing Manager
+**Greenhouse** · stripe · 2312 Marketing - EMEA
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8224614)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8224614
+
+#### 🔄 Financial Crimes Investigator, Luxembourg
+**Greenhouse** · stripe · 3311 FinCRO
+📍 Luxembourg | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8220932)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8220932
+
+#### 🔄 Forward Deployed Security Engineer
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8181003)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8181003
+
+#### 🔄 Internal Audit - Regulatory Lead, EMEA
+**Greenhouse** · stripe · 6480 Internal Audit
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8205278)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8205278
+
+#### 🔄 Program Manager, Risk Operations GTM Enablement
+**Greenhouse** · stripe · 4892 Risk Operations Enablement
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209641)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8209641
+
+#### 🔄 Risk Partnerships Manager, Banks & Treasury
+**Greenhouse** · stripe · 6483 Risk Partnerships
+📍 London, Dublin, UK-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8178563)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8178563
+
+#### 🔄 Sales Manager, Enterprise CEE
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Warsaw, Poland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176724)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8176724
+
+#### 🔄 Sales Manager, Enterprise, DACH
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Germany | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176726)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8176726
+
+#### 🔄 Sales Manager, Enterprise (Grower)
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Paris | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176737)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8176737
+
+#### 🔄 Sales Manager, SMB
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176730)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8176730
+
+#### 🔄 Sales Manager, SMB, UKI
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176728)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8176728
+
+#### 🔄 Security Engineer, ACE
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8174984)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8174984
+
+#### 🔄 Security Engineer, Bridge
+**Greenhouse** · stripe · 8504 Bridge - R&D
+📍 Luxembourg | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209307)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8209307
+
+#### 🔄 Senior Sales Manager, Startups New Business, EMEA
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176733)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8176733
+
+#### 🔄 Software Engineer, Operator Tooling
+**Greenhouse** · stripe · 8134 Operations Platform
+📍 Bucharest | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8178879)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8178879
+
+#### 🔄 Software Engineer, Security Business Enablement
+**Greenhouse** · stripe · 8614 Office of the CISO & Partnership
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175656)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8175656
+
+#### 🔄 Software Engineer, Storage Integrations
+**Greenhouse** · stripe · 8546 Treasury for Platforms - Eng
+📍 Bucharest | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231178)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8231178
+
+#### 🔄 Software Engineer, Stripe Tax
+**Greenhouse** · stripe · 8596 Tax Products
+📍 Barcelona | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8232358)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8232358
+
+#### 🔄 Solutions Architect, Metronome (Startups)
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8179419)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8179419
+
+#### 🔄 Specialist Solutions Architect, Crypto
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 LOCATION | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8236491)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8236491
+
+#### 🔄 Specialist Solutions Architect, Money Management
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 AMER | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8223712)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8223712
+
+#### 🔄 Staff Security Engineer, Abuse Control
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8211180)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8211180
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · stripe · 8279 MaaS TPgM
+📍 Bucharest, Romania | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231202)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8231202
+
+#### 🔄 Workday Analyst
+**Greenhouse** · stripe · 6513 People Systems & Solutions
+📍 Dublin, IE | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8220938)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8220938
+
+#### 🔄 Workplace Project Manager
+**Greenhouse** · stripe · 6630 Real Estate
+📍 United Kingdom/Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8209637)
+🕐 Updated: 2026-10-22T09:16:15-04:00 | ID: 8209637
+
+#### 🔄 Abuse Investigator
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172487)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8172487
+
+#### 🔄 Account Executive, Enterprise Grower, Platforms (Israel)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Israel | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8129956)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8129956
+
+#### 🔄 Account Executive, Enterprise (Hunter)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8165275)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8165275
+
+#### 🔄 Account Executive, Existing Business (Central Eastern Europe)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Poland - Remote OR Romania - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8119697)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8119697
+
+#### 🔄 Account Executive, Funded Startups — Hunter, (Italian Speaker)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Milan OR Madrid | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8121419)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8121419
+
+#### 🔄 Account Executive, Hunter (Central Eastern Europe)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Poland - Remote OR Romania - Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130052)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130052
+
+#### 🔄 Account Executive, Platforms Hunter (German fluency)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8129702)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8129702
+
+#### 🔄 Account Executive, SMB Hunter (Central Eastern Europe)
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8129958)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8129958
+
+#### 🔄 Account Executive, Startups SaaS Platforms Grower
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin or London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8119498)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8119498
+
+#### 🔄 Account Executive, UK Commercial Hunter
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London or Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130729)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130729
+
+#### 🔄 Channel Sales Executive
+**Greenhouse** · stripe · 1630 Alliances & Channels
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8195584)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8195584
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8170772)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8170772
+
+#### 🔄 GTM Recruiter
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Dublin, London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8141450)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8141450
+
+#### 🔄 Incident Response Manager
+**Greenhouse** · stripe · 8112 Business Continuity & Reliability
+📍 Ireland, Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8167558)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8167558
+
+#### 🔄 Incident Response Manager - Abuse Operations
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172493)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8172493
+
+#### 🔄 Integration Engineer, Metronome
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8171222)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8171222
+
+#### 🔄 Marketing Operations Manager, EMEA Events
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172495)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8172495
+
+#### 🔄 Partner Development Manager
+**Greenhouse** · stripe · 3514 Global Expansion and LPM Partnerships
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8104427)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8104427
+
+#### 🔄 Product Manager, Support Platform
+**Greenhouse** · stripe · 4900 Support Eng & PM
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8143563)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8143563
+
+#### 🔄 Sales Manager, SoEU, SMB
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8141677)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8141677
+
+#### 🔄 Software Engineer, Intern
+**Greenhouse** · stripe · 5112 General University
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130867)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130867
+
+#### 🔄 Software Engineer, Intern
+**Greenhouse** · stripe · 5112 General University
+📍 Bucharest | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130807)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130807
+
+#### 🔄 Software Engineer, Intern (Summer or Winter)
+**Greenhouse** · stripe · 5112 General University
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8097801)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8097801
+
+#### 🔄 Software Engineer, New Grad
+**Greenhouse** · stripe · 5112 General University
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130930)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130930
+
+#### 🔄 Software Engineer, New Grad
+**Greenhouse** · stripe · 5112 General University
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130881)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130881
+
+#### 🔄 Software Engineer, New Grad
+**Greenhouse** · stripe · 5112 General University
+📍 Bucharest | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130922)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130922
+
+#### 🔄 Software Engineer, New Grad - Frontend
+**Greenhouse** · stripe · 5112 General University
+📍 Barcelona | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130927)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8130927
+
+#### 🔄 Solutions Architect, Commercial, UK/I
+**Greenhouse** · stripe · 1152 Solutions Architecture (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8144264)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8144264
+
+#### 🔄 Solutions Architect, (Italian fluency)
+**Greenhouse** · stripe · 1152 Solutions Architecture (EMEA)
+📍 LOCATION | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8144233)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8144233
+
+#### 🔄 Solutions Architect, Metronome (AI Native)
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8168813)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8168813
+
+#### 🔄 Solutions Architect, Platforms, UK
+**Greenhouse** · stripe · 1152 Solutions Architecture (EMEA)
+📍 LOCATION | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8147491)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8147491
+
+#### 🔄 Specialist Solutions Architect, Payments
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 London, Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8119967)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8119967
+
+#### 🔄 Staff Security Engineer, Abuse Control
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8174963)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8174963
+
+#### 🔄 Strategic Account Executive, Platforms
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8129954)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8129954
+
+#### 🔄 Workplace Operations Manager - Dublin
+**Greenhouse** · stripe · 6620 Workplace Services
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8120185)
+🕐 Updated: 2026-10-22T09:16:14-04:00 | ID: 8120185
+
+#### 🔄 Account Executive, Financial Services, Grower
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8048193)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8048193
+
+#### 🔄 Account Executive, hunter
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8079514)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8079514
+
+#### 🔄 Customer Funds Reconciliation Manager, Luxembourg
+**Greenhouse** · stripe · 8505 Bridge - G&A
+📍 Luxembourg | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7587353)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7587353
+
+#### 🔄 Customer Success Manager, Metronome
+**Greenhouse** · stripe · 1340 Customer Success Management
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8074199)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8074199
+
+#### 🔄 EMEA Global Strategic Alliances Lead-Accenture
+**Greenhouse** · stripe · 1630 Alliances & Channels
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7677136)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7677136
+
+#### 🔄 Enterprise Support Specialist
+**Greenhouse** · stripe · 4119 Product Support
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191248)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8191248
+
+#### 🔄 Field Marketing Manager, SMB and Mid-Market - EMEA
+**Greenhouse** · stripe · 2312 Marketing - EMEA
+📍 France | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7634113)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7634113
+
+#### 🔄 Incident Response Manager - Security
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8007205)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8007205
+
+#### 🔄 Internal Audit - Treasury
+**Greenhouse** · stripe · 6480 Internal Audit
+📍 Dublin OR London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7678541)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7678541
+
+#### 🔄 Manager, Global Sanctions
+**Greenhouse** · stripe · 3313 SDC - Financial Crimes
+📍 Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7896802)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7896802
+
+#### 🔄 Mobile Engineer, Treasury
+**Greenhouse** · stripe · 8546 Treasury for Platforms - Eng
+📍 United Kingdom | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7978915)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7978915
+
+#### 🔄 Payments Fraud Investigator
+**Greenhouse** · stripe · 4896 Fraud Operations
+📍 Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7554002)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7554002
+
+#### 🔄 Privacy Operations Program Manager
+**Greenhouse** · stripe · 6311 Data Protection & Privacy
+📍 Dublin, London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8094087)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8094087
+
+#### 🔄 Product Designer, Design Systems
+**Greenhouse** · stripe · 8811 Product Design
+📍 Spain | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7983076)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7983076
+
+#### 🔄 Product Designer, Global
+**Greenhouse** · stripe · 8811 Product Design
+📍 Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7861422)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7861422
+
+#### 🔄 Product Manager, E-Invoicing
+**Greenhouse** · stripe · 8415 RevSuite Central
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8041655)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8041655
+
+#### 🔄 Professional Services Account Executive
+**Greenhouse** · stripe · 1140 Professional Services
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8098866)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8098866
+
+#### 🔄 Program Manager, Professional Services
+**Greenhouse** · stripe · 1140 Professional Services
+📍 Dublin, London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8007692)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8007692
+
+#### 🔄 Public Sector Operations Lead, UK
+**Greenhouse** · stripe · 1530 GTM Industries
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8096121)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8096121
+
+#### 🔄 Risk Operations Analyst, Financial Crimes
+**Greenhouse** · stripe · 4193 Financial Crimes Operations
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7974211)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7974211
+
+#### 🔄 Sales Compensation Design Lead
+**Greenhouse** · stripe · 6452 Sales Comp
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7862938)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7862938
+
+#### 🔄 Senior Manager, Technical Program Management
+**Greenhouse** · stripe · 8259 Risk Tech Program Management & Other
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8007738)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8007738
+
+#### 🔄 Software Engineer, Connect Tax Reporting
+**Greenhouse** · stripe · 8514 Connect - Eng
+📍 Bucharest, Romania | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8078337)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8078337
+
+#### 🔄 Software Engineer, Stripe Tax
+**Greenhouse** · stripe · 8596 Tax Products
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8076626)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8076626
+
+#### 🔄 Solutions Architect, Enterprise, UK
+**Greenhouse** · stripe · 1150 Solutions Architecture
+📍 London, UK | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7882492)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7882492
+
+#### 🔄 Staff Backend Engineer - API Platform
+**Greenhouse** · stripe · 8186 Service Platform
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7716032)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7716032
+
+#### 🔄 Staff Backend Engineer - CI Services
+**Greenhouse** · stripe · 8126 Developer Infrastructure
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8089815)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8089815
+
+#### 🔄 Staff Backend Engineer, Data Platform
+**Greenhouse** · stripe · 8125 Core Compute
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8035723)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8035723
+
+#### 🔄 Staff Product Manager, Issuing
+**Greenhouse** · stripe · 8256 Issuing - PM
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8043083)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8043083
+
+#### 🔄 Staff Product Manager, Local Payment Methods Growth
+**Greenhouse** · stripe · 8555 Payments Globalization - PM
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7737526)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7737526
+
+#### 🔄 Staff Product Manager, Local Payment Methods Growth
+**Greenhouse** · stripe · 8555 Payments Globalization - PM
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142649)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8142649
+
+#### 🔄 Staff Product Manager, Stripe Tax
+**Greenhouse** · stripe · 8415 RevSuite Central
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8124304)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 8124304
+
+#### 🔄 Technical Support Engineer (EMEA), Metronome
+**Greenhouse** · stripe · 9014 Metronome - R&D
+📍 London, Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7737248)
+🕐 Updated: 2026-10-22T09:16:13-04:00 | ID: 7737248
+
+#### 🔄 Backend/API Engineer, Money as a Service (Product)
+**Greenhouse** · stripe · Tech
+📍 United Kingdom | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7369543)
+🕐 Updated: 2026-10-22T09:16:12-04:00 | ID: 7369543
+
+#### 🔄 Compliance Manager, User Enablement
+**Greenhouse** · stripe · 3311 FinCRO
+📍 Dublin OR London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7530580)
+🕐 Updated: 2026-10-22T09:16:12-04:00 | ID: 7530580
+
+#### 🔄 Full Stack Engineer, Money Movement
+**Greenhouse** · stripe · 8546 Treasury for Platforms - Eng
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8226261)
+🕐 Updated: 2026-10-22T09:16:12-04:00 | ID: 8226261
+
+#### 🔄 Software Engineer, Money Movement
+**Greenhouse** · stripe · 8546 Treasury for Platforms - Eng
+📍 London | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7208537)
+🕐 Updated: 2026-10-22T09:16:12-04:00 | ID: 7208537
+
+#### 🔄 Software Engineer, Payments and Risk
+**Greenhouse** · stripe · 8216 Risk Onboarding and Trusted Users
+📍 Dublin, Ireland | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6717520)
+🕐 Updated: 2026-10-22T09:16:12-04:00 | ID: 6717520
+
+#### 🔄 Account Executive, SMB Grower
+**Greenhouse** · stripe · 1175 Enterprise - Account Executives (NA)
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238741)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8238741
+
+#### 🔄 Account Executive, SMB Grower
+**Greenhouse** · stripe · 1175 Enterprise - Account Executives (NA)
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8238743)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8238743
+
+#### 🔄 Account Executive, SMB Grower (French speaking)
+**Greenhouse** · stripe · 1175 Enterprise - Account Executives (NA)
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8250479)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8250479
+
+#### 🔄 Android Engineer, Terminal - CA
+**Greenhouse** · stripe · 8512 Terminal - Eng
+📍 Toronto, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8274893)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8274893
+
+#### 🔄 Backend / API Engineer, Radar
+**Greenhouse** · stripe · 8525 Radar - Eng
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8301379)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8301379
+
+#### 🔄 Backend Engineer, Payments & Risk
+**Greenhouse** · stripe · 8535 Risk Credit & Fraud
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8260985)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8260985
+
+#### 🔄 Credit Risk Analyst, North American Underwriter
+**Greenhouse** · stripe · 3130 Credit Risk Strategy
+📍 Toronto, Remote-Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7612192)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 7612192
+
+#### 🔄 Data Analyst, Intern
+**Greenhouse** · stripe · 5112 General University
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194287)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8194287
+
+#### 🔄 Engineering Manager, Requirements Management (Risk)
+**Greenhouse** · stripe · 8217 Risk Engineering
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8124299)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8124299
+
+#### 🔄 Engineering Manager, Revenue Foundations
+**Greenhouse** · stripe · 8412 Subscriptions
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8165515)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8165515
+
+#### 🔄 Financial Connections TechOps Manager
+**Greenhouse** · stripe · 8560 Bank Connections - Eng
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8079918)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8079918
+
+#### 🔄 Full Stack Engineer, Enterprise Engineering
+**Greenhouse** · stripe · 8712 Enterprise Engine
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8214616)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8214616
+
+#### 🔄 Full Stack Engineer, Revenue
+**Greenhouse** · stripe · 8412 Subscriptions
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8234357)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8234357
+
+#### 🔄 Integration Engineer
+**Greenhouse** · stripe · 1141 AMER Delivery
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203975)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8203975
+
+#### 🔄 Machine Learning Engineer
+**Greenhouse** · stripe · 8212 ML Foundations
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8014859)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8014859
+
+#### 🔄 Manager, Technical Account Management
+**Greenhouse** · stripe · 4130 Technical Account Management, Support & Services - AMER
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8154304)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8154304
+
+#### 🔄 ML Engineer Manager, AI Conversation Platform
+**Greenhouse** · stripe · 4145 Support Products - Eng
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8022713)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8022713
+
+#### 🔄 People Consultant
+**Greenhouse** · stripe · 6515 People Consultants
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8262027)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8262027
+
+#### 🔄 PhD Data Scientist, Intern
+**Greenhouse** · stripe · 5112 General University
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8194285)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8194285
+
+#### 🔄 Software Engineer, Early Career — Immediate Start
+**Greenhouse** · stripe · 5112 General University
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212517)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8212517
+
+#### 🔄 Software Engineer, Intern (Summer or Winter)
+**Greenhouse** · stripe · 5112 General University
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130805)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8130805
+
+#### 🔄 Software Engineer, Metronome Infrastructure
+**Greenhouse** · stripe · 8421 RevSuite Foundations
+📍 Toronto, Vancouver, Canada-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231439)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8231439
+
+#### 🔄 Software Engineer, New Grad
+**Greenhouse** · stripe · 5112 General University
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8157838)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8157838
+
+#### 🔄 Staff Software Engineer, Deployment Platform
+**Greenhouse** · stripe · 8125 Core Compute
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8038771)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8038771
+
+#### 🔄 Staff Software Engineer, Risk Engineering
+**Greenhouse** · stripe · 8217 Risk Engineering
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8120494)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8120494
+
+#### 🔄 Technical Program Manager, Extensibility
+**Greenhouse** · stripe · 8414 MerchantXP - Eng
+📍 Remote US | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8114397)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8114397
+
+#### 🔄 UX Research Manager, Payments
+**Greenhouse** · stripe · 8812 UX Research
+📍 Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8165259)
+🕐 Updated: 2026-10-22T09:15:17-04:00 | ID: 8165259
+
+#### 🔄 Backend Engineer, Developer & End-user Experience Platform
+**Greenhouse** · stripe · 8551 OAP - Eng
+📍 Toronto Canada, San Francisco, Remote in US, Remote in Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7292520)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7292520
+
+#### 🔄 Backend Engineer, Developer SDKs
+**Greenhouse** · stripe · 8551 OAP - Eng
+📍 Toronto, NY, SEA, SF | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7557899)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7557899
+
+#### 🔄 Data Analyst
+**Greenhouse** · stripe · 7112 Data Science
+📍 Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=5416444)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 5416444
+
+#### 🔄 Data Scientist
+**Greenhouse** · stripe · 7112 Data Science
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=5895430)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 5895430
+
+#### 🔄 Data Scientist, Fraud
+**Greenhouse** · stripe · 7112 Data Science
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8113100)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 8113100
+
+#### 🔄 Engineering Manager, Terminal
+**Greenhouse** · stripe · 8512 Terminal - Eng
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7769005)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7769005
+
+#### 🔄 Frontend Engineer, Expansion
+**Greenhouse** · stripe · 8813 Web Presence & Platform
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7644950)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7644950
+
+#### 🔄 Full Stack Engineer, Developer & End User Experience Platform
+**Greenhouse** · stripe · 8916 Growth - Eng
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6567104)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 6567104
+
+#### 🔄 Full Stack Engineer, Link
+**Greenhouse** · stripe · 8560 Bank Connections - Eng
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6447175)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 6447175
+
+#### 🔄 Full Stack Engineer, Money as a Service
+**Greenhouse** · stripe · 8514 Connect - Eng
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=6606581)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 6606581
+
+#### 🔄 Full Stack Engineer, Web Presence and Platform
+**Greenhouse** · stripe · 8813 Web Presence & Platform
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7436086)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7436086
+
+#### 🔄 Internal Product Engineer, Developer Productivity AI
+**Greenhouse** · stripe · 8127 Core Infrastructure
+📍 Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7896151)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7896151
+
+#### 🔄 Product Designer, Connect Risk
+**Greenhouse** · stripe · 8811 Product Design
+📍 Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7663023)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7663023
+
+#### 🔄 Product Manager, Ecosystem Risk
+**Greenhouse** · stripe · 8260 Risk and Compliance Platform PM
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7984866)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7984866
+
+#### 🔄 Staff Software Engineer, Machine Learning Platform
+**Greenhouse** · stripe · 8212 ML Foundations
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7712852)
+🕐 Updated: 2026-10-22T09:15:16-04:00 | ID: 7712852
+
+#### 🔄 Manager, Customer Care
+**Greenhouse** · toast · Customer Success : Customer Care : POS
+📍 Bengaluru, Karnataka, India | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8288350)
+🕐 Updated: 2026-10-22T09:15:10-04:00 | ID: 8288350
+
+#### 🔄 Manager, SDR
+**Greenhouse** · coreweave · Global Field Organization
+📍 San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4701221006&board=coreweave&gh_jid=4701221006)
+🕐 Updated: 2026-10-22T09:14:12-04:00 | ID: 4701221006
+
+#### 🔄 Manager, Technical Support Engineering (Bare Metal)
+**Greenhouse** · coreweave · Global Field Organization - COR
+📍 San Francisco, CA / Seattle, WA / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4703537006&board=coreweave&gh_jid=4703537006)
+🕐 Updated: 2026-10-22T09:10:12-04:00 | ID: 4703537006
+
+#### 🔄 Senior Manager, Talent Operations
+**Greenhouse** · toast · G & A : Talent Operations
+📍 Boston, MA | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8264840)
+🕐 Updated: 2026-10-22T09:09:52-04:00 | ID: 8264840
+
+#### 🔄 FP&A Analyst R&D
+**Greenhouse** · datadog · Finance
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554)
+🕐 Updated: 2026-10-22T09:09:17-04:00 | ID: 8204554
+
+#### 🔄 Enterprise Account Executive -  Consumer and Distribution
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899915002)
+🕐 Updated: 2026-10-22T09:07:10-04:00 | ID: 8899915002
+
+#### 🔄 Director, Value Engineering (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8003211003?gh_jid=8003211003)
+🕐 Updated: 2026-10-22T09:01:54-04:00 | ID: 8003211003
+
+#### 🔄 Director, Management & Technology (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015588003?gh_jid=8015588003)
+🕐 Updated: 2026-10-22T09:01:53-04:00 | ID: 8015588003
+
+#### 🔄 Director, Business Transformation and Value Consulting (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8014940003?gh_jid=8014940003)
+🕐 Updated: 2026-10-22T09:01:51-04:00 | ID: 8014940003
+
+#### 🔄 Senior Value Engineer - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016659003?gh_jid=8016659003)
+🕐 Updated: 2026-10-22T09:01:36-04:00 | ID: 8016659003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016658003?gh_jid=8016658003)
+🕐 Updated: 2026-10-22T09:01:34-04:00 | ID: 8016658003
+
+#### 🔄 Senior Management & Technology Consultant - CPG/Retail - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016657003?gh_jid=8016657003)
+🕐 Updated: 2026-10-22T09:01:32-04:00 | ID: 8016657003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016417003?gh_jid=8016417003)
+🕐 Updated: 2026-10-22T09:01:31-04:00 | ID: 8016417003
+
+#### 🔄 Senior Value Engineer - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015579003?gh_jid=8015579003)
+🕐 Updated: 2026-10-22T08:58:04-04:00 | ID: 8015579003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015655003?gh_jid=8015655003)
+🕐 Updated: 2026-10-22T08:58:02-04:00 | ID: 8015655003
+
+#### 🔄 Senior Management & Technology Consultant - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015654003?gh_jid=8015654003)
+🕐 Updated: 2026-10-22T08:58:00-04:00 | ID: 8015654003
+
+#### 🔄 Senior Business Transformation & Process Optimisation Consultant - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015653003?gh_jid=8015653003)
+🕐 Updated: 2026-10-22T08:57:58-04:00 | ID: 8015653003
+
+#### 🔄 Senior Value Engineer - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825970003?gh_jid=7825970003)
+🕐 Updated: 2026-10-22T08:56:52-04:00 | ID: 7825970003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003)
+🕐 Updated: 2026-10-22T08:56:51-04:00 | ID: 7825969003
+
+#### 🔄 Senior Management & Technology Consultant  - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825968003?gh_jid=7825968003)
+🕐 Updated: 2026-10-22T08:56:49-04:00 | ID: 7825968003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003)
+🕐 Updated: 2026-10-22T08:56:47-04:00 | ID: 7817273003
+
+#### 🔄 Senior Value Engineer - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003)
+🕐 Updated: 2026-10-22T08:54:53-04:00 | ID: 7817387003
+
+#### 🔄 Senior Process Optimisation Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026747003?gh_jid=8026747003)
+🕐 Updated: 2026-10-22T08:54:52-04:00 | ID: 8026747003
+
+#### 🔄 Senior Management & Technology Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026730003?gh_jid=8026730003)
+🕐 Updated: 2026-10-22T08:54:50-04:00 | ID: 8026730003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003)
+🕐 Updated: 2026-10-22T08:54:49-04:00 | ID: 7826212003
+
+#### 🔄 Research Associate, Biology
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5285248008)
+🕐 Updated: 2026-10-22T08:53:49-04:00 | ID: 5285248008
+
+#### 🔄 Business Development Representative - German Speaking
+**Greenhouse** · fivetran · Sales/Business Development Team
+📍 Dublin, Dublin, Ireland, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7994703003)
+🕐 Updated: 2026-10-22T08:53:49-04:00 | ID: 7994703003
+
+#### 🔄 Sales Specialist - Security
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8303381&gh_jid=8303381)
+🕐 Updated: 2026-10-22T08:45:35-04:00 | ID: 8303381
+
+#### 🔄 Cloud Sales Specialist
+**Greenhouse** · purestorage · Sales
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8258686)
+🕐 Updated: 2026-10-22T08:40:08-04:00 | ID: 8258686
+
+#### 🔄 Staff Software Engineer (AI Fluent)
+**Greenhouse** · payoneer · Business Applications
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8104982/?gh_jid=8104982)
+🕐 Updated: 2026-10-22T08:33:03-04:00 | ID: 8104982
+
+#### 🔄 Senior Commercial Account Executive
+**Greenhouse** · cloudflare · Mid Market
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7478874?gh_jid=7478874)
+🕐 Updated: 2026-10-22T08:28:30-04:00 | ID: 7478874
+
+#### 🔄 Lead Client Partner, Global Strategic Accounts (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249469)
+🕐 Updated: 2026-10-22T08:17:02-04:00 | ID: 8249469
+
+#### 🔄 Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8017242)
+🕐 Updated: 2026-10-22T08:17:02-04:00 | ID: 8017242
+
+#### 🔄 Client Account Manager, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8049518)
+🕐 Updated: 2026-10-22T08:16:12-04:00 | ID: 8049518
+
+#### 🔄 Lead Client Partner, Large Customer Sales (Restaurants & Drinks)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8257083)
+🕐 Updated: 2026-10-22T08:16:12-04:00 | ID: 8257083
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Big Box Retail)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8140121)
+🕐 Updated: 2026-10-22T08:16:12-04:00 | ID: 8140121
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244090)
+🕐 Updated: 2026-10-22T08:16:12-04:00 | ID: 8244090
+
+#### 🔄 Analytics Engineer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282760)
+🕐 Updated: 2026-10-22T08:15:42-04:00 | ID: 8282760
+
+#### 🔄 Senior Client Partner, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8293700)
+🕐 Updated: 2026-10-22T08:15:42-04:00 | ID: 8293700
+
+#### 🔄 Strategic Finance Senior Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244067)
+🕐 Updated: 2026-10-22T08:15:42-04:00 | ID: 8244067
+
+#### 🔄 Group Product Manager, Finance Technology
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8075185)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8075185
+
+#### 🔄 Principal Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7330347)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 7330347
+
+#### 🔄 Principal Data Scientist, User Ecosystem
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8289345)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8289345
+
+#### 🔄 Senior Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301784)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8301784
+
+#### 🔄 Senior GTM Insights Automation Manager
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8077785)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8077785
+
+#### 🔄 Senior Litigation Paralegal
+**Greenhouse** · reddit · Legal
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8130697)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8130697
+
+#### 🔄 Technical Solutions Manager, App Ads
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282187)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8282187
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8188275)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8188275
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190627)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8190627
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - The Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190630)
+🕐 Updated: 2026-10-22T08:15:41-04:00 | ID: 8190630
+
+#### 🔄 Client Account Manager, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8303790)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8303790
+
+#### 🔄 Director, Intellectual Property
+**Greenhouse** · reddit · Legal
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8142128)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8142128
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8234154)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8234154
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8192369)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8192369
+
+#### 🔄 Lead Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301736)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8301736
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - British Columbia, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074860)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8074860
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074846)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8074846
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Financial Services)
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8288965)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8288965
+
+#### 🔄 Senior Frontend Engineer, Ads Creative
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8175520)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8175520
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8072076)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8072076
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8103609)
+🕐 Updated: 2026-10-22T08:15:40-04:00 | ID: 8103609
+
+#### 🔄 Engineering Manager, Knowledge Graph Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8256326)
+🕐 Updated: 2026-10-22T08:15:39-04:00 | ID: 8256326
+
+#### 🔄 Senior Business Analyst, Revenue Analytics
+**Greenhouse** · reddit · Sales
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8023563)
+🕐 Updated: 2026-10-22T08:15:39-04:00 | ID: 8023563
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8022260)
+🕐 Updated: 2026-10-22T08:15:39-04:00 | ID: 8022260
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954598)
+🕐 Updated: 2026-10-22T08:15:39-04:00 | ID: 7954598
+
+#### 🔄 Senior Program Manager, Business Process Transformation
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8010425)
+🕐 Updated: 2026-10-22T08:15:39-04:00 | ID: 8010425
+
+#### 🔄 Senior Staff Data Scientist, Consumer Relevance
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+🕐 Updated: 2026-10-22T08:15:39-04:00 | ID: 7974605
+
+#### 🔄 Staff Machine Learning Engineer, Ads Creative Effectiveness
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8250389)
+🕐 Updated: 2026-10-22T08:15:39-04:00 | ID: 8250389
+
+#### 🔄 Senior Product Manager, Go-To-Market Systems
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8212175)
+🕐 Updated: 2026-10-22T08:15:38-04:00 | ID: 8212175
+
+#### 🔄 Senior Software Engineer, Agentic Ads Experience
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7980795)
+🕐 Updated: 2026-10-22T08:15:38-04:00 | ID: 7980795
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7931000)
+🕐 Updated: 2026-10-22T08:15:38-04:00 | ID: 7931000
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7445240)
+🕐 Updated: 2026-10-22T08:15:38-04:00 | ID: 7445240
+
+#### 🔄 Staff Machine Learning Engineer, App Ads Modeling
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187652)
+🕐 Updated: 2026-10-22T08:15:38-04:00 | ID: 8187652
+
+#### 🔄 Staff Technical Product Manager, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954001)
+🕐 Updated: 2026-10-22T08:15:38-04:00 | ID: 7954001
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187521)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8187521
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249259)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8249259
+
+#### 🔄 Frontend Engineer, Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8194576)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8194576
+
+#### 🔄 Frontend Engineer, Ads Campaign Manager
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8240716)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8240716
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189899)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8189899
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189894)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8189894
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8186566)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8186566
+
+#### 🔄 Senior Client Account Manager, App Dev Enterprise
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8171546)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8171546
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8178085)
+🕐 Updated: 2026-10-22T08:15:37-04:00 | ID: 8178085
+
+#### 🔄 3rd Party Partnerships Manager - Signals
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8089959)
+🕐 Updated: 2026-10-22T08:15:36-04:00 | ID: 8089959
+
+#### 🔄 Senior Principal Program Manager, GTM Excellence
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8125836)
+🕐 Updated: 2026-10-22T08:15:36-04:00 | ID: 8125836
+
+#### 🔄 Senior Product Manager, Ads -  Shopping Catalogs
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8120503)
+🕐 Updated: 2026-10-22T08:15:36-04:00 | ID: 8120503
+
+#### 🔄 Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8157275)
+🕐 Updated: 2026-10-22T08:15:36-04:00 | ID: 8157275
+
+#### 🔄 Staff Android Engineer, Brand Ad Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8127002)
+🕐 Updated: 2026-10-22T08:15:36-04:00 | ID: 8127002
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721787)
+🕐 Updated: 2026-10-22T08:15:36-04:00 | ID: 7721787
+
+#### 🔄 Staff Product Manager, Ads Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8167412)
+🕐 Updated: 2026-10-22T08:15:36-04:00 | ID: 8167412
+
+#### 🔄 Senior Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8104403)
+🕐 Updated: 2026-10-22T08:15:35-04:00 | ID: 8104403
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721851)
+🕐 Updated: 2026-10-22T08:15:35-04:00 | ID: 7721851
+
+#### 🔄 Senior Community & Customer Marketing Specialist (Bókun)
+**Greenhouse** · tripadvisor · Marketing & Communication
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/tripadvisor/jobs/7380092)
+🕐 Updated: 2026-10-22T08:14:16-04:00 | ID: 7380092
+
+#### 🔄 Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8153017)
+🕐 Updated: 2026-10-22T08:13:53-04:00 | ID: 8153017
+
+#### 🔄 Senior Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8276095)
+🕐 Updated: 2026-10-22T08:13:53-04:00 | ID: 8276095
+
+#### 🔄 Sr. Sales Engineer - Rubrik Agent Cloud
+**Greenhouse** · rubrik · Sales Engineering
+📍 Colorado, Illinois | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096)
+🕐 Updated: 2026-10-22T08:13:37-04:00 | ID: 7472096
+
+#### 🔄 Internal Control Specialist - Finance
+**Greenhouse** · adyen · Internal Control
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8232627)
+🕐 Updated: 2026-10-22T08:06:23-04:00 | ID: 8232627
+
+#### 🔄 Sr. Product Manager II
+**Greenhouse** · smartsheet · Brandfolder
+📍 Bangalore, INDIA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8305872)
+🕐 Updated: 2026-10-22T08:04:26-04:00 | ID: 8305872
+
+#### 🔄 Product Manager, Coordinate
+**Greenhouse** · asana · Product Management
+📍 Warsaw | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8282574?gh_jid=8282574)
+🕐 Updated: 2026-10-22T07:52:06-04:00 | ID: 8282574
+
+#### 🔄 Product Manager, Command
+**Greenhouse** · asana · Product Management
+📍 Warsaw | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7586960?gh_jid=7586960)
+🕐 Updated: 2026-10-22T07:51:27-04:00 | ID: 7586960
+
+#### 🔄 Technical Services Engineer
+**Greenhouse** · mongodb · Technical Support APAC
+📍 Bengaluru | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8007613)
+🕐 Updated: 2026-10-22T07:49:03-04:00 | ID: 8007613
+
+#### 🔄 Senior Software Engineer, Agentic Discovery
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 In-Office | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8262000?gh_jid=8262000)
+🕐 Updated: 2026-10-22T07:29:21-04:00 | ID: 8262000
+
+#### 🔄 Software Engineer, Agentic Discovery
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 In-Office | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687)
+🕐 Updated: 2026-10-22T07:29:21-04:00 | ID: 8264687
+
+#### 🔄 Regional Facilities Manager - EMEA
+**Greenhouse** · godaddy · Facilities & Physical Security
+📍 Serbia | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8028612003)
+🕐 Updated: 2026-10-22T07:14:57-04:00 | ID: 8028612003
+
+#### 🔄 Manager II, Software Engineering
+**Greenhouse** · toast · R & D : Engineering : Payments
+📍 Bangalore, india | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8045807)
+🕐 Updated: 2026-10-22T07:06:55-04:00 | ID: 8045807
+
+#### 🔄 Associate Customer Success Manager - Boston
+**Greenhouse** · datadog · Commercial Customer Success
+📍 Boston, Massachusetts, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8301102/?gh_jid=8301102)
+🕐 Updated: 2026-10-22T07:02:04-04:00 | ID: 8301102
+
+#### 🔄 Senior Deal Desk Analyst - Dublin
+**Greenhouse** · datadog · Deal Desk
+📍 Amsterdam, The Netherlands; Dublin, Ireland | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8273655/?gh_jid=8273655)
+🕐 Updated: 2026-10-22T07:01:44-04:00 | ID: 8273655
+
+#### 🔄 Senior Software Engineer - Control Plane (Hosted Foundations / Applications)
+**Greenhouse** · elastic · Platform - Control Plane
+📍 Poland | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8274400&gh_jid=8274400)
+🕐 Updated: 2026-10-22T06:57:33-04:00 | ID: 8274400
+
+#### 🔄 Software Engineer II - Control Plane (Hosted Foundations / Applications)
+**Greenhouse** · elastic · Platform - Control Plane
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383)
+🕐 Updated: 2026-10-22T06:57:01-04:00 | ID: 8274383
+
+#### 🔄 Sales Development Representative - Italian and Spanish Speaker
+**Greenhouse** · fivetran · Sales/Business Development Team
+📍 IRL - Dublin (dbt) | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8040028003)
+🕐 Updated: 2026-10-22T06:55:58-04:00 | ID: 8040028003
+
+#### 🔄 Senior Customer Architect
+**Greenhouse** · elastic · Customer Architects - APJ
+📍 Singapore, SG | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8138584&gh_jid=8138584)
+🕐 Updated: 2026-10-22T06:46:45-04:00 | ID: 8138584
+
+#### 🔄 Senior Solution Architect, Mumbai
+**Greenhouse** · elastic · SA - APJ - India
+📍 Mumbai, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=7817945&gh_jid=7817945)
+🕐 Updated: 2026-10-22T06:41:40-04:00 | ID: 7817945
+
+#### 🔄 Sustainability Data, Reporting & Automation Sr Data Analyst
+**Greenhouse** · okta · CAO Org-120
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8300397?gh_jid=8300397)
+🕐 Updated: 2026-10-22T06:35:58-04:00 | ID: 8300397
+
+#### 🔄 Senior Specialist Solutions Engineer, Cloudflare One - Russian or Hebrew speaking
+**Greenhouse** · cloudflare · Partnerships
+📍 Distributed | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8264043?gh_jid=8264043)
+🕐 Updated: 2026-10-22T06:02:10-04:00 | ID: 8264043
+
+#### 🔄 Senior Site Reliability Engineer
+**Greenhouse** · godaddy · IT Ops
+📍 United Kingdom | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7882555003)
+🕐 Updated: 2026-10-22T05:49:22-04:00 | ID: 7882555003
+
+#### 🔄 Account Executive - Public Sector Germany - Police (Polizei)
+**Greenhouse** · celonis · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8040049003?gh_jid=8040049003)
+🕐 Updated: 2026-10-22T05:47:27-04:00 | ID: 8040049003
+
+#### 🔄 Account Executive - Public Sector Germany - Police (Polizei)
+**Greenhouse** · celonis · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015242003?gh_jid=8015242003)
+🕐 Updated: 2026-10-22T05:47:01-04:00 | ID: 8015242003
+
+### Ashby
+
+#### 🔄 Mid-Market Customer Success Manager - EMEA
+**Ashby** · Ashby · Customer Success
+📍 Remote - European Union; United Kingdom; Ireland; Netherlands; European Union | 🔗 [Apply Here](https://jobs.ashbyhq.com/Ashby/62d4f71e-f56c-447a-a965-a9c2ea8eac5e)
+🕐 Updated: 2026-10-22T13:06:02.787+00:00 | ID: 62d4f71e-f56c-447a-a965-a9c2ea8eac5e
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15578 fetched, 787 updated, 45 cap-skipped, 1 alerts
+- **Lever**: 0 new, 37 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 71 fetched, 1 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15686 fetched, 788 updated, 45 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-22 09:46 UTC
 
 ### Greenhouse
