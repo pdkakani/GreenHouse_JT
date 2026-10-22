@@ -1,3 +1,307 @@
+## 📅 Run: 2026-10-22 09:46 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Customer Engineer, Sweden
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7610071?gh_jid=7610071)
+🕐 Updated: 2026-10-22T05:45:54-04:00 | ID: 7610071
+
+#### 🔄 Account Development Representative - DACH
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Germany | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8260850?gh_jid=8260850)
+🕐 Updated: 2026-10-22T05:45:00-04:00 | ID: 8260850
+
+#### 🔄 Partner Strategy & Operations Manager - EMEA
+**Greenhouse** · okta · Business Operations-150
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8300291?gh_jid=8300291)
+🕐 Updated: 2026-10-22T05:42:12-04:00 | ID: 8300291
+
+#### 🔄 Forward Deployed Engineer, Professional Services
+**Greenhouse** · cloudflare · Professional Services
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8043287?gh_jid=8043287)
+🕐 Updated: 2026-10-22T05:39:33-04:00 | ID: 8043287
+
+#### 🔄 Forward Deployed Engineer, Professional Services
+**Greenhouse** · cloudflare · Professional Services
+📍 Distributed | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305)
+🕐 Updated: 2026-10-22T05:38:13-04:00 | ID: 8043305
+
+#### 🔄 Account Executive - Public Sector Germany - Defense (Bundeswehr)
+**Greenhouse** · celonis · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8040046003?gh_jid=8040046003)
+🕐 Updated: 2026-10-22T05:38:05-04:00 | ID: 8040046003
+
+#### 🔄 Customer Engineering Specialist - Network Services
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7525971?gh_jid=7525971)
+🕐 Updated: 2026-10-22T05:32:23-04:00 | ID: 7525971
+
+#### 🔄 Account Executive - Public Sector Germany - Defense (Bundeswehr)
+**Greenhouse** · celonis · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8039943003?gh_jid=8039943003)
+🕐 Updated: 2026-10-22T05:27:59-04:00 | ID: 8039943003
+
+#### 🔄 Partner Solutions Consultant (Japan)
+**Greenhouse** · newrelic · Technical Solution Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5456996008)
+🕐 Updated: 2026-10-22T04:56:19-04:00 | ID: 5456996008
+
+#### 🔄 Senior Solutions Engineer - Process Intelligence & Pre-Sales
+**Greenhouse** · celonis · Value Engineering
+📍 Copenhagen, Denmark | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016353003?gh_jid=8016353003)
+🕐 Updated: 2026-10-22T04:34:22-04:00 | ID: 8016353003
+
+#### 🔄 Senior Compliance Officer - Brand Integrity
+**Greenhouse** · adyen · Compliance
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8258725)
+🕐 Updated: 2026-10-22T04:32:51-04:00 | ID: 8258725
+
+#### 🔄 Sales District Director, Enterprise Sales Division
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8078994)
+🕐 Updated: 2026-10-22T04:25:29-04:00 | ID: 8078994
+
+#### 🔄 AI Success Manager (US East Customer Hours)
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4705011005)
+🕐 Updated: 2026-10-22T04:21:20-04:00 | ID: 4705011005
+
+#### 🔄 Offering Tools Finance Lead
+**Greenhouse** · purestorage · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8300513)
+🕐 Updated: 2026-10-22T03:58:05-04:00 | ID: 8300513
+
+#### 🔄 Staff Software Engineer, Exchange Platform
+**Greenhouse** · robinhood · Bitstamp - Engineering Division
+📍 London, UK | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8186166?t=gh_src=&gh_jid=8186166)
+🕐 Updated: 2026-10-22T03:41:38-04:00 | ID: 8186166
+
+#### 🔄 KYC Team Leader
+**Greenhouse** · payoneer · OPS CJ KYC
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7964256/?gh_jid=7964256)
+🕐 Updated: 2026-10-22T03:37:12-04:00 | ID: 7964256
+
+#### 🔄 Staff Product Security Engineer, Offensive Security
+**Greenhouse** · okta · Sec - Product Security-771
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8281124?gh_jid=8281124)
+🕐 Updated: 2026-10-22T03:30:12-04:00 | ID: 8281124
+
+#### 🔄 Enterprise Sales Manager, Platforms
+**Greenhouse** · adyen · Sales
+📍 Berlin; Munich | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8158624)
+🕐 Updated: 2026-10-22T03:27:31-04:00 | ID: 8158624
+
+#### 🔄 Director of Embedded Systems
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8112161/apply/?gh_jid=8112161)
+🕐 Updated: 2026-10-22T03:23:48-04:00 | ID: 8112161
+
+#### 🔄 Head of Cybernetics
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8002974/apply/?gh_jid=8002974)
+🕐 Updated: 2026-10-22T03:23:29-04:00 | ID: 8002974
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Bengaluru, Karnataka, India, APAC | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7917346003)
+🕐 Updated: 2026-10-22T03:19:33-04:00 | ID: 7917346003
+
+#### 🔄 Robotic Systems Integration Engineering Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8237585/apply/?gh_jid=8237585)
+🕐 Updated: 2026-10-22T03:17:53-04:00 | ID: 8237585
+
+#### 🔄 Startup Founder
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8212123/apply/?gh_jid=8212123)
+🕐 Updated: 2026-10-22T03:12:09-04:00 | ID: 8212123
+
+#### 🔄 Atlassian Administrator II
+**Greenhouse** · braze · Information Technology
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8302809)
+🕐 Updated: 2026-10-22T03:07:39-04:00 | ID: 8302809
+
+#### 🔄 R&D Insights and Operations - Growth
+**Greenhouse** · gusto · Insights & Operations
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8205633)
+🕐 Updated: 2026-10-22T03:02:53-04:00 | ID: 8205633
+
+#### 🔄 Industrial Designer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032)
+🕐 Updated: 2026-10-22T03:02:00-04:00 | ID: 8249032
+
+#### 🔄 Senior Industrial Designer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249021/apply/?gh_jid=8249021)
+🕐 Updated: 2026-10-22T03:00:53-04:00 | ID: 8249021
+
+#### 🔄 Mechanical Project Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8221617/apply/?gh_jid=8221617)
+🕐 Updated: 2026-10-22T02:55:01-04:00 | ID: 8221617
+
+#### 🔄 Senior Sales Engineer
+**Greenhouse** · rubrik · Sales Engineering
+📍 Mumbai | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8108586?gh_jid=8108586)
+🕐 Updated: 2026-10-22T02:18:59-04:00 | ID: 8108586
+
+#### 🔄 Senior Full Stack Software Developer - Observability
+**Greenhouse** · elastic · Obs - Application Observability
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8276131&gh_jid=8276131)
+🕐 Updated: 2026-10-22T02:13:44-04:00 | ID: 8276131
+
+#### 🔄 Senior Full Stack Software Developer - Observability
+**Greenhouse** · elastic · Obs - Application Observability
+📍 Portugal | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8276132&gh_jid=8276132)
+🕐 Updated: 2026-10-22T02:13:07-04:00 | ID: 8276132
+
+#### 🔄 Senior Full Stack Software Developer - Observability
+**Greenhouse** · elastic · Obs - Application Observability
+📍 Greece | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8276133&gh_jid=8276133)
+🕐 Updated: 2026-10-22T02:12:29-04:00 | ID: 8276133
+
+#### 🔄 Senior Full Stack Software Developer - Observability
+**Greenhouse** · elastic · Obs - Application Observability
+📍 Poland | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8276134&gh_jid=8276134)
+🕐 Updated: 2026-10-22T02:11:48-04:00 | ID: 8276134
+
+#### 🔄 Senior Full Stack Software Developer - Observability
+**Greenhouse** · elastic · Obs - Application Observability
+📍 Ireland | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8276135&gh_jid=8276135)
+🕐 Updated: 2026-10-22T02:11:05-04:00 | ID: 8276135
+
+#### 🔄 Senior Full Stack Software Developer - Observability
+**Greenhouse** · elastic · Obs - Application Observability
+📍 United Kingdom | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8276136&gh_jid=8276136)
+🕐 Updated: 2026-10-22T02:10:26-04:00 | ID: 8276136
+
+#### 🔄 R&D Reliability/Test Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241461/apply/?gh_jid=8241461)
+🕐 Updated: 2026-10-22T01:59:36-04:00 | ID: 8241461
+
+#### 🔄 Banking Ops Associate
+**Greenhouse** · payoneer · Banking and Payments
+📍 Hong Kong, Hong Kong | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8299486/?gh_jid=8299486)
+🕐 Updated: 2026-10-22T01:58:31-04:00 | ID: 8299486
+
+#### 🔄 Senior Embedded Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7527177/apply/?gh_jid=7527177)
+🕐 Updated: 2026-10-22T01:49:07-04:00 | ID: 7527177
+
+#### 🔄 Embedded Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7909577/apply/?gh_jid=7909577)
+🕐 Updated: 2026-10-22T01:48:48-04:00 | ID: 7909577
+
+#### 🔄 Senior Product Design Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249058/apply/?gh_jid=8249058)
+🕐 Updated: 2026-10-22T01:41:34-04:00 | ID: 8249058
+
+#### 🔄 Director, Partnerships
+**Greenhouse** · altruist · Client Development
+📍 Remote | 🔗 [Apply Here](https://altruist.com/join-altruist/6016663004?gh_jid=6016663004)
+🕐 Updated: 2026-10-22T01:40:12-04:00 | ID: 6016663004
+
+#### 🔄 Quality Assurance Engineer
+**Greenhouse** · gleanwork · QA
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4012824005)
+🕐 Updated: 2026-10-22T01:31:06-04:00 | ID: 4012824005
+
+#### 🔄 Sales Support Analyst (Tier 1)- AMERICAS
+**Greenhouse** · fastly · Sales Ops & Enablement
+📍 Pune, India | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7992339)
+🕐 Updated: 2026-10-22T01:24:06-04:00 | ID: 7992339
+
+#### 🔄 Senior Software Developer
+**Greenhouse** · elastic · Obs - Application Observability
+📍 Canada | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8130076&gh_jid=8130076)
+🕐 Updated: 2026-10-22T01:23:01-04:00 | ID: 8130076
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · elastic · Obs - Application Observability
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8069178&gh_jid=8069178)
+🕐 Updated: 2026-10-22T01:22:13-04:00 | ID: 8069178
+
+#### 🔄 Solutions Architect - Consumer Packaged Goods (CPG)
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Connecticut; Delaware; Florida; Maryland; New Jersey; Northeast - United States; Remote - Georgia; Remote - New York; Remote - North Carolina; Remote - Pennsylvania; Remote - Virginia; Remote - Washington D.C.; South Carolina; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8780675002)
+🕐 Updated: 2026-10-22T01:06:10-04:00 | ID: 8780675002
+
+#### 🔄 Senior Manager, Marketing Analytics
+**Greenhouse** · ripple · Marketing
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8257700?gh_jid=8257700)
+🕐 Updated: 2026-10-22T01:04:38-04:00 | ID: 8257700
+
+#### 🔄 Treasury Manager, Global Treasury Operations
+**Greenhouse** · ripple · Finance
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8267621?gh_jid=8267621)
+🕐 Updated: 2026-10-22T01:04:38-04:00 | ID: 8267621
+
+#### 🔄 Client Support Analyst
+**Greenhouse** · ripple · Client Support
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8142069?gh_jid=8142069)
+🕐 Updated: 2026-10-22T01:04:36-04:00 | ID: 8142069
+
+#### 🔄 Engineering Manager, Digital Assets
+**Greenhouse** · ripple · Engineering
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8129139?gh_jid=8129139)
+🕐 Updated: 2026-10-22T01:04:36-04:00 | ID: 8129139
+
+#### 🔄 Senior Deal Desk Manager
+**Greenhouse** · ripple · Sales
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8113601?gh_jid=8113601)
+🕐 Updated: 2026-10-22T01:04:35-04:00 | ID: 8113601
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · ripple · Engineering
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8106886?gh_jid=8106886)
+🕐 Updated: 2026-10-22T01:04:35-04:00 | ID: 8106886
+
+#### 🔄 Head of Managed Services
+**Greenhouse** · ripple · Service & Delivery
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8079242?gh_jid=8079242)
+🕐 Updated: 2026-10-22T01:04:34-04:00 | ID: 8079242
+
+#### 🔄 Senior Site Reliability Engineer, Observability
+**Greenhouse** · ripple · Engineering
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8052534?gh_jid=8052534)
+🕐 Updated: 2026-10-22T01:04:34-04:00 | ID: 8052534
+
+#### 🔄 Workplace Operations Specialist
+**Greenhouse** · ripple · Global Workplace
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8083601?gh_jid=8083601)
+🕐 Updated: 2026-10-22T01:04:34-04:00 | ID: 8083601
+
+#### 🔄 Senior Staff Security Engineer, Product Security
+**Greenhouse** · ripple · Engineering
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/7997267?gh_jid=7997267)
+🕐 Updated: 2026-10-22T01:04:32-04:00 | ID: 7997267
+
+#### 🔄 Senior 3D Printing R&D Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249055/apply/?gh_jid=8249055)
+🕐 Updated: 2026-10-22T01:01:37-04:00 | ID: 8249055
+
+#### 🔄 R&D Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249038/apply/?gh_jid=8249038)
+🕐 Updated: 2026-10-22T00:59:47-04:00 | ID: 8249038
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15569 fetched, 58 updated, 26 cap-skipped, 0 alerts
+- **Lever**: 0 new, 37 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 70 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15676 fetched, 58 updated, 26 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-22 04:46 UTC
 
 ### Greenhouse
