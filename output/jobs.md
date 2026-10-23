@@ -1,3 +1,142 @@
+## 📅 Run: 2026-10-23 05:22 UTC
+
+### Greenhouse
+
+#### 🔄 Principal BT Product Manager
+**Greenhouse** · okta · BT Go To Market Technology-173
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8188921?gh_jid=8188921)
+🕐 Updated: 2026-10-23T01:19:21-04:00 | ID: 8188921
+
+#### 🔄 Sales Compensation Manager
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8604610002)
+🕐 Updated: 2026-10-23T00:52:46-04:00 | ID: 8604610002
+
+#### 🔄 Senior Manager, Identity, Product Growth & Monetization
+**Greenhouse** · rubrik · Product
+📍 Palo Alto,CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8306452?gh_jid=8306452)
+🕐 Updated: 2026-10-23T00:26:05-04:00 | ID: 8306452
+
+#### 🔄 Senior Total Rewards Specialist
+**Greenhouse** · convera · Human Resources
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4948193101)
+🕐 Updated: 2026-10-23T00:22:28-04:00 | ID: 4948193101
+
+#### 🔄 Credit Risk Analyst Commercial Underwriter
+**Greenhouse** · stripe · 3130 Credit Risk Strategy
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8287916)
+🕐 Updated: 2026-10-22T23:37:44-04:00 | ID: 8287916
+
+#### 🔄 Software Engineer, New Grad
+**Greenhouse** · stripe · 5112 General University
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8160776)
+🕐 Updated: 2026-10-22T23:20:50-04:00 | ID: 8160776
+
+#### 🔄 Site Leader
+**Greenhouse** · flexport · Fulfillment
+📍 Dallas Warehouse | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8082850)
+🕐 Updated: 2026-10-22T22:56:03-04:00 | ID: 8082850
+
+#### 🔄 Software Engineer (Threat Intelligence), Cloudforce One
+**Greenhouse** · cloudflare · Security
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174)
+🕐 Updated: 2026-10-22T22:55:24-04:00 | ID: 7309174
+
+#### 🔄 Ocean Operations Associate
+**Greenhouse** · flexport · Ocean Gateway Operations
+📍 Taipei, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/7312100)
+🕐 Updated: 2026-10-22T22:48:15-04:00 | ID: 7312100
+
+#### 🔄 Software Engineer, Metronome Infrastructure
+**Greenhouse** · stripe · 8421 RevSuite Foundations
+📍 Toronto, Vancouver, Canada-Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8231439)
+🕐 Updated: 2026-10-22T22:20:06-04:00 | ID: 8231439
+
+#### 🔄 Staff Data Scientist (People Analytics & Insights)
+**Greenhouse** · robinhood · ENG Data Science
+📍 Bellevue, WA; Chicago, IL; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766)
+🕐 Updated: 2026-10-22T22:15:17-04:00 | ID: 8072766
+
+#### 🔄 Technical Program Manager, Vehicle Security
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA; Novi, MI, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8109523)
+🕐 Updated: 2026-10-22T22:02:54-04:00 | ID: 8109523
+
+#### 🔄 Lead Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895049002?gh_jid=8895049002)
+🕐 Updated: 2026-10-22T21:50:02-04:00 | ID: 8895049002
+
+#### 🔄 Lead Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Palo Alto
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876618002?gh_jid=8876618002)
+🕐 Updated: 2026-10-22T21:49:16-04:00 | ID: 8876618002
+
+#### 🔄 Account Executive Product - Global Selling
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 Sydney Or Melbourne | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8174141)
+🕐 Updated: 2026-10-22T21:46:42-04:00 | ID: 8174141
+
+#### 🔄 Real Estate Portfolio Manager
+**Greenhouse** · anthropic · People
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5106199008)
+🕐 Updated: 2026-10-22T21:32:17-04:00 | ID: 5106199008
+
+#### 🔄 Lead Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Memphis
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8873306002?gh_jid=8873306002)
+🕐 Updated: 2026-10-22T21:08:04-04:00 | ID: 8873306002
+
+#### 🔄 Senior Solutions Architect- Mumbai, India
+**Greenhouse** · elastic · SA - APJ - Management and Support
+📍 Mumbai, India | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8111756&gh_jid=8111756)
+🕐 Updated: 2026-10-22T20:54:36-04:00 | ID: 8111756
+
+#### 🔄 Product Manager, Agent Security & Governance
+**Greenhouse** · gleanwork · Product
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4694761005)
+🕐 Updated: 2026-10-22T20:53:47-04:00 | ID: 4694761005
+
+#### 🔄 AI Security Sales Executive (Toronto)
+**Greenhouse** · abnormalsecurity · Sales Management
+📍 Remote - Canada | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8039629003?gh_jid=8039629003)
+🕐 Updated: 2026-10-22T20:53:19-04:00 | ID: 8039629003
+
+#### 🔄 AI Security Sales Executive, TOLA
+**Greenhouse** · abnormalsecurity · Sales Management
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8039626003?gh_jid=8039626003)
+🕐 Updated: 2026-10-22T20:52:15-04:00 | ID: 8039626003
+
+#### 🔄 Product Manager, AI Quality
+**Greenhouse** · gleanwork · Product
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4694764005)
+🕐 Updated: 2026-10-22T20:51:54-04:00 | ID: 4694764005
+
+#### 🔄 Product Manager, Growth
+**Greenhouse** · gleanwork · Product
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4702367005)
+🕐 Updated: 2026-10-22T20:50:50-04:00 | ID: 4702367005
+
+#### 🔄 Product Manager, Growth
+**Greenhouse** · gleanwork · Product
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4702151005)
+🕐 Updated: 2026-10-22T20:50:47-04:00 | ID: 4702151005
+
+#### 🔄 Implementation Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8236004?gh_jid=8236004)
+🕐 Updated: 2026-10-22T20:45:00-04:00 | ID: 8236004
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15617 fetched, 25 updated, 14 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 69 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15722 fetched, 25 updated, 14 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-23 00:39 UTC
 
 ### Greenhouse
