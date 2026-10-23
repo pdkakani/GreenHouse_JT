@@ -1,3 +1,197 @@
+## 📅 Run: 2026-10-23 10:20 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8071710)
+🕐 Updated: 2026-10-23T06:18:23-04:00 | ID: 8071710
+
+#### 🔄 Staff Software Engineer, Identity Administration (Full Stack)
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7831189?gh_jid=7831189)
+🕐 Updated: 2026-10-23T06:07:33-04:00 | ID: 7831189
+
+#### 🔄 Software Engineer, Financial Business Insights
+**Greenhouse** · stripe · 7420 Finance Systems
+📍 Bengaluru, India | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7543868)
+🕐 Updated: 2026-10-23T06:06:36-04:00 | ID: 7543868
+
+#### 🔄 Senior Software Engineer - Distributed Systems (ODP Governance)
+**Greenhouse** · datadog · Dev Eng
+📍 Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8305790/?gh_jid=8305790)
+🕐 Updated: 2026-10-23T05:53:45-04:00 | ID: 8305790
+
+#### 🔄 Solutions Architect (PST/EST Customer hours)
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4434258005)
+🕐 Updated: 2026-10-23T05:42:48-04:00 | ID: 4434258005
+
+#### 🔄 Senior Solutions Engineer
+**Greenhouse** · smartsheet · Solutions Engineering
+📍 Munich, DE | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/7657178)
+🕐 Updated: 2026-10-23T05:23:34-04:00 | ID: 7657178
+
+#### 🔄 Senior Engineering Manager
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8037616?gh_jid=8037616)
+🕐 Updated: 2026-10-23T05:16:45-04:00 | ID: 8037616
+
+#### 🔄 Senior Customer Reliability Engineer
+**Greenhouse** · cloudflare · Customer Support
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
+🕐 Updated: 2026-10-23T05:10:38-04:00 | ID: 8018536
+
+#### 🔄 Commercial Account executive - Italian Speaking
+**Greenhouse** · coursera · Sales
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6226698004)
+🕐 Updated: 2026-10-23T04:59:11-04:00 | ID: 6226698004
+
+#### 🔄 Senior Project Manager, Professional Services
+**Greenhouse** · rubrik · Support
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8141404?gh_jid=8141404)
+🕐 Updated: 2026-10-23T04:57:40-04:00 | ID: 8141404
+
+#### 🔄 Programs & Business Operations Lead
+**Greenhouse** · airbnb · Business Operations/Analysis
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8095268?gh_jid=8095268)
+🕐 Updated: 2026-10-23T04:34:11-04:00 | ID: 8095268
+
+#### 🔄 Field Sales Representative (based in Brescia or Bergamo)
+**Greenhouse** · tripadvisor · Sales
+📍 Brescia or Bergamo | 🔗 [Apply Here](https://job-boards.greenhouse.io/tripadvisor/jobs/8102664)
+🕐 Updated: 2026-10-23T04:30:27-04:00 | ID: 8102664
+
+#### 🔄 Field Sales Representative - based in Cagliari
+**Greenhouse** · tripadvisor · Sales
+📍 Cagliari | 🔗 [Apply Here](https://job-boards.greenhouse.io/tripadvisor/jobs/8256265)
+🕐 Updated: 2026-10-23T04:28:22-04:00 | ID: 8256265
+
+#### 🔄 Senior Java Software Engineer – IBM Mainframe
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7922807)
+🕐 Updated: 2026-10-23T04:20:20-04:00 | ID: 7922807
+
+#### 🔄 Seller Systems Team Lead (Night Shift)
+**Greenhouse** · stripe · 4161 SDC - Internal Systems
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175820)
+🕐 Updated: 2026-10-23T04:16:08-04:00 | ID: 8175820
+
+#### 🔄 Software Engineering Manager - IAM Team - Control Plane - Platform
+**Greenhouse** · elastic · Platform - Control Plane
+📍 Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8301329&gh_jid=8301329)
+🕐 Updated: 2026-10-23T04:04:18-04:00 | ID: 8301329
+
+#### 🔄 Software Engineering Manager - IAM Team - Control Plane - Platform
+**Greenhouse** · elastic · Platform - Control Plane
+📍 Greece | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8314211&gh_jid=8314211)
+🕐 Updated: 2026-10-23T04:04:18-04:00 | ID: 8314211
+
+#### 🔄 Software Engineering Manager - IAM Team - Control Plane - Platform
+**Greenhouse** · elastic · Platform - Control Plane
+📍 Portugal | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8314209&gh_jid=8314209)
+🕐 Updated: 2026-10-23T04:04:18-04:00 | ID: 8314209
+
+#### 🔄 Senior Python Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8052996)
+🕐 Updated: 2026-10-23T03:52:16-04:00 | ID: 8052996
+
+#### 🔄 Senior DevOps Software Engineer – CI/CD Platform (H/F)
+**Greenhouse** · ivalua · IT
+📍 Massy - France | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8245351?gh_jid=8245351)
+🕐 Updated: 2026-10-23T03:34:29-04:00 | ID: 8245351
+
+#### 🔄 Technical Escalations Engineer II (Revenue and Cost Management) - APJ
+**Greenhouse** · datadog · Support Engineering
+📍 Seoul, South Korea; Sydney, Australia; Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8095826/?gh_jid=8095826)
+🕐 Updated: 2026-10-23T03:28:59-04:00 | ID: 8095826
+
+#### 🔄 Global Warehouse Strategy Manager
+**Greenhouse** · adyen · Supply Chain
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8258162)
+🕐 Updated: 2026-10-23T03:24:53-04:00 | ID: 8258162
+
+#### 🔄 Enterprise Account Manager
+**Greenhouse** · adyen · Account Management
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7342856)
+🕐 Updated: 2026-10-23T03:22:20-04:00 | ID: 7342856
+
+#### 🔄 Senior Financial Analyst
+**Greenhouse** · samsara · Finance and Strategy
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8187214?gh_jid=8187214)
+🕐 Updated: 2026-10-23T03:19:05-04:00 | ID: 8187214
+
+#### 🔄 Senior Financial Analyst
+**Greenhouse** · samsara · Finance and Strategy
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8156715?gh_jid=8156715)
+🕐 Updated: 2026-10-23T03:19:05-04:00 | ID: 8156715
+
+#### 🔄 Senior Software Engineer Backend, Database
+**Greenhouse** · squarespace · Engineering
+📍 Dublin | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=8174790)
+🕐 Updated: 2026-10-23T03:03:11-04:00 | ID: 8174790
+
+#### 🔄 Security Engineer - Incident Response
+**Greenhouse** · squarespace · Engineering
+📍 Dublin | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=8013777)
+🕐 Updated: 2026-10-23T03:03:10-04:00 | ID: 8013777
+
+#### 🔄 Database Engineering Team Manager
+**Greenhouse** · squarespace · Engineering
+📍 Dublin | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7962046)
+🕐 Updated: 2026-10-23T03:03:08-04:00 | ID: 7962046
+
+#### 🔄 Staff Software Engineer, Domains
+**Greenhouse** · squarespace · Domains & Applications
+📍 Aveiro | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=7760893)
+🕐 Updated: 2026-10-23T03:03:03-04:00 | ID: 7760893
+
+#### 🔄 Bilingual English and Spanish Member Loyalty Representative (R14305)
+**Greenhouse** · oportun · Business Operations
+📍 Aurora, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4743482005)
+🕐 Updated: 2026-10-23T03:02:25-04:00 | ID: 4743482005
+
+#### 🔄 Senior Executive Officer, ADGM
+**Greenhouse** · coinbase · International Expansion
+📍 Remote - Abu Dhabi | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8207217?gh_jid=8207217)
+🕐 Updated: 2026-10-23T03:01:26-04:00 | ID: 8207217
+
+#### 🔄 Operations Manager, ADGM
+**Greenhouse** · coinbase · International Expansion
+📍 Remote - Abu Dhabi | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8207241?gh_jid=8207241)
+🕐 Updated: 2026-10-23T03:00:47-04:00 | ID: 8207241
+
+#### 🔄 Staff Software Engineer, Android
+**Greenhouse** · toast · R & D : Engineering : Commerce
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7791886)
+🕐 Updated: 2026-10-23T02:41:59-04:00 | ID: 7791886
+
+#### 🔄 Principal Product Manager - AI Agent Platform
+**Greenhouse** · payoneer · Core AI & AI Transformation
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8211169/?gh_jid=8211169)
+🕐 Updated: 2026-10-23T02:32:32-04:00 | ID: 8211169
+
+#### 🔄 Software Engineer Intern
+**Greenhouse** · coinbase · Internships & Emerging Talent Positions
+📍 Hybrid - Singapore | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873)
+🕐 Updated: 2026-10-23T02:27:21-04:00 | ID: 8175873
+
+#### 🔄 Enterprise Account Executive (Korean Market)
+**Greenhouse** · asana · Sales Leadership
+📍 Singapore | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8279050?gh_jid=8279050)
+🕐 Updated: 2026-10-23T01:27:02-04:00 | ID: 8279050
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15606 fetched, 36 updated, 12 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 69 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15711 fetched, 36 updated, 12 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-23 05:22 UTC
 
 ### Greenhouse
