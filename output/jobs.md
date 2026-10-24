@@ -1,3 +1,122 @@
+## 📅 Run: 2026-10-24 05:19 UTC
+
+### Greenhouse
+
+#### 🔄 Senior SAP Developer
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002)
+🕐 Updated: 2026-10-24T01:05:50-04:00 | ID: 8679980002
+
+#### 🔄 SAP Functional SME
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688851002)
+🕐 Updated: 2026-10-24T01:05:46-04:00 | ID: 8688851002
+
+#### 🔄 Global SAP Consolidations Manager
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688875002)
+🕐 Updated: 2026-10-24T01:05:43-04:00 | ID: 8688875002
+
+#### 🔄 Senior Payroll Accountant
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8604591002)
+🕐 Updated: 2026-10-24T01:05:39-04:00 | ID: 8604591002
+
+#### 🔄 Sr Software Engineer - Agentic Applications (Full Stack)
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002)
+🕐 Updated: 2026-10-24T01:05:36-04:00 | ID: 8679982002
+
+#### 🔄 Staff Software Engineer - Databases
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002)
+🕐 Updated: 2026-10-24T01:05:33-04:00 | ID: 7601565002
+
+#### 🔄 Senior Staff Software Engineer (Backend)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002)
+🕐 Updated: 2026-10-24T01:05:30-04:00 | ID: 7651345002
+
+#### 🔄 Senior Software Engineer (Backend)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002)
+🕐 Updated: 2026-10-24T01:05:24-04:00 | ID: 6709301002
+
+#### 🔄 Senior Software Engineer (App-Framework)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002)
+🕐 Updated: 2026-10-24T01:05:22-04:00 | ID: 8210383002
+
+#### 🔄 Senior Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002)
+🕐 Updated: 2026-10-24T01:05:17-04:00 | ID: 8421894002
+
+#### 🔄 Senior Software Engineer - Data + AI Observability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002)
+🕐 Updated: 2026-10-24T01:04:57-04:00 | ID: 7897431002
+
+#### 🔄 Senior Engineering Manager - Backend
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002)
+🕐 Updated: 2026-10-24T01:04:51-04:00 | ID: 7495457002
+
+#### 🔄 Engineering Manager - Core Experiences
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002)
+🕐 Updated: 2026-10-24T01:04:48-04:00 | ID: 7006090002
+
+#### 🔄 Software Engineer, Infrastructure
+**Greenhouse** · databricks · Infrastructure
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002)
+🕐 Updated: 2026-10-24T00:58:36-04:00 | ID: 8829029002
+
+#### 🔄 Senior Site Reliability Engineer, Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Austin; New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7668289)
+🕐 Updated: 2026-10-24T00:38:39-04:00 | ID: 7668289
+
+#### 🔄 Senior Software Engineer (SRE), Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Austin; New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8274765)
+🕐 Updated: 2026-10-24T00:38:39-04:00 | ID: 8274765
+
+#### 🔄 Staff Site Reliability Engineer, Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 New York | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6982487)
+🕐 Updated: 2026-10-24T00:38:39-04:00 | ID: 6982487
+
+#### 🔄 Commercial & Mid-Market Sales Engineer
+**Greenhouse** · datadog · Commercial & Mid-Market Sales Engineering
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8131985/?gh_jid=8131985)
+🕐 Updated: 2026-10-24T00:28:29-04:00 | ID: 8131985
+
+#### 🔄 Commercial & Mid-Market Sales Engineer
+**Greenhouse** · datadog · Commercial & Mid-Market Sales Engineering
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8138342/?gh_jid=8138342)
+🕐 Updated: 2026-10-24T00:28:29-04:00 | ID: 8138342
+
+#### 🔄 Brand Success Manager
+**Greenhouse** · faire · Brand Success Management
+📍 New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8906280002?gh_jid=8906280002)
+🕐 Updated: 2026-10-24T00:08:09-04:00 | ID: 8906280002
+
+#### 🆕 Telecommunications Engineer
+**Greenhouse** · spacex · Information Technology - Network Infrastructure · 🎯 35%
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8913325002?gh_jid=8913325002)
+🕐 Updated: 2026-10-23T21:39:21-04:00 | ID: 8913325002
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15636 fetched, 20 updated, 3 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15739 fetched, 20 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-24 00:56 UTC
 
 ### Greenhouse
