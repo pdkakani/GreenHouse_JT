@@ -25336,7 +25336,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7747640": {
-    "updated_at": "2026-10-22T09:17:04-04:00",
+    "updated_at": "2026-10-24T15:25:15-04:00",
     "title": "Forward Deployed AI Accelerator, Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243056,7 +243056,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8055930": {
-    "updated_at": "2026-10-22T09:17:06-04:00",
+    "updated_at": "2026-10-24T15:26:07-04:00",
     "title": "Forward Deployed AI Accelerator, Marketing",
     "company": "stripe",
     "ats": "greenhouse",
@@ -307072,7 +307072,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8152061": {
-    "updated_at": "2026-10-20T17:00:55-04:00",
+    "updated_at": "2026-10-24T16:34:58-04:00",
     "title": "Senior Signal and Power Integrity Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -405221,6 +405221,14 @@
     "company": "reddit",
     "ats": "greenhouse",
     "source_slug": "reddit",
+    "alerted": true
+  },
+  "greenhouse:spacex:8906240002": {
+    "updated_at": "2026-10-24T15:38:04-04:00",
+    "title": "Pipefitter",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }

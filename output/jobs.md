@@ -1,3 +1,37 @@
+## 📅 Run: 2026-10-24 21:42 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Signal and Power Integrity Engineer
+**Greenhouse** · waymo · Signal (83K)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8152061)
+🕐 Updated: 2026-10-24T16:34:58-04:00 | ID: 8152061
+
+#### 🆕 Pipefitter
+**Greenhouse** · spacex · Launch Infrastructure - Starbase · 🎯 30%
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906240002?gh_jid=8906240002)
+🕐 Updated: 2026-10-24T15:38:04-04:00 | ID: 8906240002
+
+#### 🔄 Forward Deployed AI Accelerator, Marketing
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8055930)
+🕐 Updated: 2026-10-24T15:26:07-04:00 | ID: 8055930
+
+#### 🔄 Forward Deployed AI Accelerator, Marketing
+**Greenhouse** · stripe · 2315 Marketing - Marketing Operations
+📍 Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7747640)
+🕐 Updated: 2026-10-24T15:25:15-04:00 | ID: 7747640
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15636 fetched, 3 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15739 fetched, 3 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-24 16:57 UTC
 
 ### Greenhouse
