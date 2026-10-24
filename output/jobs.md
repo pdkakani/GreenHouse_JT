@@ -1,3 +1,92 @@
+## 📅 Run: 2026-10-24 09:41 UTC
+
+### Greenhouse
+
+#### 🔄 Lead, Operations & Growth
+**Greenhouse** · gemini · Regional Ops
+📍 Singapore, Singapore | 🔗 [Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8069402&gh_jid=8069402)
+🕐 Updated: 2026-10-24T03:50:21-04:00 | ID: 8069402
+
+#### 🔄 Fraud Operations Program Manager
+**Greenhouse** · robinhood · Customer Trust and Safety
+📍 Chicago, IL; Denver, CO; Lake Mary, FL; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8312485?t=gh_src=&gh_jid=8312485)
+🕐 Updated: 2026-10-24T03:48:27-04:00 | ID: 8312485
+
+#### 🔄 Senior Machine Learning Platform Engineer
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8035953003?gh_jid=8035953003)
+🕐 Updated: 2026-10-24T03:47:54-04:00 | ID: 8035953003
+
+#### 🔄 Senior Software Engineer - Data Automation
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8012938003?gh_jid=8012938003)
+🕐 Updated: 2026-10-24T03:47:53-04:00 | ID: 8012938003
+
+#### 🔄 Senior Software Engineer - Identity and Access Management
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7986459003?gh_jid=7986459003)
+🕐 Updated: 2026-10-24T03:47:52-04:00 | ID: 7986459003
+
+#### 🔄 Customer Support Specialist, Bilingual English & Japanese
+**Greenhouse** · klaviyo · Customer Support
+📍 Sydney, AU | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7798572003?gh_jid=7798572003)
+🕐 Updated: 2026-10-24T03:47:48-04:00 | ID: 7798572003
+
+#### 🔄 Senior Software Engineer, Customer Agent
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7780009003?gh_jid=7780009003)
+🕐 Updated: 2026-10-24T03:47:48-04:00 | ID: 7780009003
+
+#### 🔄 Senior Software Engineer, Platform Engineering
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7783904003?gh_jid=7783904003)
+🕐 Updated: 2026-10-24T03:47:47-04:00 | ID: 7783904003
+
+#### 🔄 Senior Software Engineer - Infrastructure Security
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7777369003?gh_jid=7777369003)
+🕐 Updated: 2026-10-24T03:47:46-04:00 | ID: 7777369003
+
+#### 🔄 Senior Software Engineer - Customer Agent
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7695230003?gh_jid=7695230003)
+🕐 Updated: 2026-10-24T03:47:43-04:00 | ID: 7695230003
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · klaviyo · Design
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7636105003?gh_jid=7636105003)
+🕐 Updated: 2026-10-24T03:47:41-04:00 | ID: 7636105003
+
+#### 🔄 Senior Software Engineer - Profiles, Lists and Segments
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7597868003?gh_jid=7597868003)
+🕐 Updated: 2026-10-24T03:47:40-04:00 | ID: 7597868003
+
+#### 🔄 Partner Account Manager - Buffalo NY
+**Greenhouse** · humaninterest · Sales
+📍 United States, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8193527)
+🕐 Updated: 2026-10-24T03:00:53-04:00 | ID: 8193527
+
+#### 🔄 Partner Account Manager - Queens
+**Greenhouse** · humaninterest · Sales
+📍 United States, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8165332)
+🕐 Updated: 2026-10-24T03:00:51-04:00 | ID: 8165332
+
+#### 🔄 Data Scientist, Growth
+**Greenhouse** · anthropic · Data Science & Analytics
+📍 New York City, NY | Seattle, WA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5161402008)
+🕐 Updated: 2026-10-24T02:38:13-04:00 | ID: 5161402008
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15636 fetched, 15 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15739 fetched, 15 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-24 05:19 UTC
 
 ### Greenhouse

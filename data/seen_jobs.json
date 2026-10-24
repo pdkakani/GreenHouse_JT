@@ -13120,7 +13120,7 @@
     "alerted": true
   },
   "greenhouse:klaviyo:7597868003": {
-    "updated_at": "2026-10-17T05:02:15-04:00",
+    "updated_at": "2026-10-24T03:47:40-04:00",
     "title": "Senior Software Engineer - Profiles, Lists and Segments",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -81840,7 +81840,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7636105003": {
-    "updated_at": "2026-10-01T03:02:38-04:00",
+    "updated_at": "2026-10-24T03:47:41-04:00",
     "title": "Senior Product Designer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -180776,7 +180776,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5161402008": {
-    "updated_at": "2026-10-20T02:57:56-04:00",
+    "updated_at": "2026-10-24T02:38:13-04:00",
     "title": "Data Scientist, Growth",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -189344,7 +189344,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7695230003": {
-    "updated_at": "2026-10-17T05:02:18-04:00",
+    "updated_at": "2026-10-24T03:47:43-04:00",
     "title": "Senior Software Engineer - Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -212520,7 +212520,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7777369003": {
-    "updated_at": "2026-10-17T05:02:25-04:00",
+    "updated_at": "2026-10-24T03:47:46-04:00",
     "title": "Senior Software Engineer - Infrastructure Security",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -217008,7 +217008,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7780009003": {
-    "updated_at": "2026-10-17T05:02:27-04:00",
+    "updated_at": "2026-10-24T03:47:48-04:00",
     "title": "Senior Software Engineer, Customer Agent",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -219184,7 +219184,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7783904003": {
-    "updated_at": "2026-10-17T05:02:26-04:00",
+    "updated_at": "2026-10-24T03:47:47-04:00",
     "title": "Senior Software Engineer, Platform Engineering",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -239680,7 +239680,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7798572003": {
-    "updated_at": "2026-10-19T03:02:43-04:00",
+    "updated_at": "2026-10-24T03:47:48-04:00",
     "title": "Customer Support Specialist, Bilingual English & Japanese",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -250424,7 +250424,7 @@
     "alerted": false
   },
   "greenhouse:gemini:8069402": {
-    "updated_at": "2026-10-02T14:40:35-04:00",
+    "updated_at": "2026-10-24T03:50:21-04:00",
     "title": "Lead, Operations & Growth",
     "company": "gemini",
     "ats": "greenhouse",
@@ -319808,7 +319808,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8165332": {
-    "updated_at": "2026-08-31T17:17:42-04:00",
+    "updated_at": "2026-10-24T03:00:51-04:00",
     "title": "Partner Account Manager - Queens",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -336808,7 +336808,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8193527": {
-    "updated_at": "2026-09-10T19:36:04-04:00",
+    "updated_at": "2026-10-24T03:00:53-04:00",
     "title": "Partner Account Manager - Buffalo NY",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -342312,7 +342312,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7986459003": {
-    "updated_at": "2026-10-17T05:02:36-04:00",
+    "updated_at": "2026-10-24T03:47:52-04:00",
     "title": "Senior Software Engineer - Identity and Access Management",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -395368,7 +395368,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:8012938003": {
-    "updated_at": "2026-10-19T11:41:26-04:00",
+    "updated_at": "2026-10-24T03:47:53-04:00",
     "title": "Senior Software Engineer - Data Automation",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -402328,7 +402328,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:8035953003": {
-    "updated_at": "2026-10-22T11:21:09-04:00",
+    "updated_at": "2026-10-24T03:47:54-04:00",
     "title": "Senior Machine Learning Platform Engineer",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -402392,7 +402392,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8312485": {
-    "updated_at": "2026-10-22T10:56:51-04:00",
+    "updated_at": "2026-10-24T03:48:27-04:00",
     "title": "Fraud Operations Program Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -405166,5 +405166,13 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:anthropic:5462881008": {
+    "updated_at": "2026-10-24T00:26:19-04:00",
+    "title": "Incident Manager, Safeguards",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
   }
 }
