@@ -1,3 +1,42 @@
+## 📅 Run: 2026-10-24 16:57 UTC
+
+### Greenhouse
+
+#### 🆕 Software Engineer, Ad Signals
+**Greenhouse** · reddit · Ads Product & Engineering · 🎯 85%
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8319655)
+🕐 Updated: 2026-10-24T12:34:49-04:00 | ID: 8319655
+
+#### 🔄 Partner Account Manager - Miami
+**Greenhouse** · humaninterest · Sales
+📍 United States, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8165317)
+🕐 Updated: 2026-10-24T12:02:56-04:00 | ID: 8165317
+
+#### 🔄 Staff Technical Program Manager, Commercialization
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, US; San Francisco, CA, US | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8248314)
+🕐 Updated: 2026-10-24T12:01:50-04:00 | ID: 8248314
+
+#### 🔄 Senior Product Manager, Domains
+**Greenhouse** · squarespace · Domains & Applications
+📍 New York City; Remote | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=8205261)
+🕐 Updated: 2026-10-24T11:57:00-04:00 | ID: 8205261
+
+#### 🔄 Senior Sales Development Representative (Korean speaking)
+**Greenhouse** · elastic · SDR - APJ
+📍 Singapore | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8168982&gh_jid=8168982)
+🕐 Updated: 2026-10-24T10:51:30-04:00 | ID: 8168982
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15636 fetched, 4 updated, 5 cap-skipped, 1 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15739 fetched, 4 updated, 5 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-24 13:35 UTC
 
 ### Greenhouse

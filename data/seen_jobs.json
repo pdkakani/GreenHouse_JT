@@ -319952,7 +319952,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8165317": {
-    "updated_at": "2026-08-31T15:55:58-04:00",
+    "updated_at": "2026-10-24T12:02:56-04:00",
     "title": "Partner Account Manager - Miami",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -320536,8 +320536,8 @@
     "alerted": false
   },
   "greenhouse:elastic:8168982": {
-    "updated_at": "2026-10-01T12:57:36-04:00",
-    "title": "Sales Development Representative - Korea (Singapore based)",
+    "updated_at": "2026-10-24T10:51:30-04:00",
+    "title": "Senior Sales Development Representative (Korean speaking)",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -347800,8 +347800,8 @@
     "alerted": false
   },
   "greenhouse:squarespace:8205261": {
-    "updated_at": "2026-09-17T14:39:57-04:00",
-    "title": "Staff Product Manager, Domains Growth",
+    "updated_at": "2026-10-24T11:57:00-04:00",
+    "title": "Senior Product Manager, Domains",
     "company": "squarespace",
     "ats": "greenhouse",
     "source_slug": "squarespace",
@@ -372400,8 +372400,8 @@
     "alerted": false
   },
   "greenhouse:waymo:8248314": {
-    "updated_at": "2026-10-22T16:45:02-04:00",
-    "title": "Senior Technical Program Manager, Commercialization",
+    "updated_at": "2026-10-24T12:01:50-04:00",
+    "title": "Staff Technical Program Manager, Commercialization",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
@@ -405174,5 +405174,53 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": false
+  },
+  "greenhouse:spacex:8908218002": {
+    "updated_at": "2026-10-24T10:39:14-04:00",
+    "title": "Sous Chef",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8908183002": {
+    "updated_at": "2026-10-24T10:38:43-04:00",
+    "title": "Hospitality Supervisor (Restaurants)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:adyen:8300220": {
+    "updated_at": "2026-10-24T03:29:53-04:00",
+    "title": "Operational Support Specialist",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5448366008": {
+    "updated_at": "2026-10-24T01:45:33-04:00",
+    "title": "Enterprise Account Executive - Manufacturing Industries, Taiwan",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5462761008": {
+    "updated_at": "2026-10-24T01:00:42-04:00",
+    "title": "Product Counsel",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:reddit:8319655": {
+    "updated_at": "2026-10-24T12:34:49-04:00",
+    "title": "Software Engineer, Ad Signals",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": true
   }
 }
