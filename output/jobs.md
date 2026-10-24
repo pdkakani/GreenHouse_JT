@@ -1,3 +1,532 @@
+## 📅 Run: 2026-10-24 00:56 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Mid Market (Northeast)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - NY; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609147?gh_jid=7609147)
+🕐 Updated: 2026-10-23T20:53:10-04:00 | ID: 7609147
+
+#### 🔄 Account Executive, Mid Market (West)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057)
+🕐 Updated: 2026-10-23T20:50:16-04:00 | ID: 7609057
+
+#### 🔄 Account Executive, Mid Market (Midwest)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - IN; Remote - MI | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8304611?gh_jid=8304611)
+🕐 Updated: 2026-10-23T20:40:11-04:00 | ID: 8304611
+
+#### 🔄 Software Engineer, Cloud Infrastructure
+**Greenhouse** · gleanwork · Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4709327005)
+🕐 Updated: 2026-10-23T20:37:02-04:00 | ID: 4709327005
+
+#### 🔄 Account Development Representative Intern - Phoenix
+**Greenhouse** · samsara · Account Development Representative
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799)
+🕐 Updated: 2026-10-23T20:32:47-04:00 | ID: 8099799
+
+#### 🔄 Digital Transformation Consultant (ISM/ESM)
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8259091?gh_jid=8259091)
+🕐 Updated: 2026-10-23T20:30:00-04:00 | ID: 8259091
+
+#### 🔄 Lead Client Partner, Global Strategic Accounts (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249469)
+🕐 Updated: 2026-10-23T20:23:30-04:00 | ID: 8249469
+
+#### 🔄 Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8017242)
+🕐 Updated: 2026-10-23T20:23:30-04:00 | ID: 8017242
+
+#### 🔄 Senior Client Partner, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8293700)
+🕐 Updated: 2026-10-23T20:22:49-04:00 | ID: 8293700
+
+#### 🔄 Analytics Engineer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282760)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8282760
+
+#### 🔄 Group Product Manager, Finance Technology
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8075185)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8075185
+
+#### 🔄 Principal Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7330347)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 7330347
+
+#### 🔄 Principal Data Scientist, User Ecosystem
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8289345)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8289345
+
+#### 🔄 Senior GTM Insights Automation Manager
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8077785)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8077785
+
+#### 🔄 Senior Litigation Paralegal
+**Greenhouse** · reddit · Legal
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8130697)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8130697
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval & Targeting
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8316086)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8316086
+
+#### 🔄 Strategic Finance Senior Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244067)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8244067
+
+#### 🔄 Technical Solutions Manager, App Ads
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282187)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8282187
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190627)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8190627
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8188275)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8188275
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - The Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190630)
+🕐 Updated: 2026-10-23T20:22:48-04:00 | ID: 8190630
+
+#### 🔄 Client Account Manager, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8303790)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8303790
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8192369)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8192369
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8234154)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8234154
+
+#### 🔄 Lead Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301736)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8301736
+
+#### 🔄 Lead Product Adoption Strategist, SMB
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8263435)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8263435
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - British Columbia, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074860)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8074860
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074846)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8074846
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Financial Services)
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8288965)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8288965
+
+#### 🔄 Senior Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301784)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8301784
+
+#### 🔄 Senior Frontend Engineer, Ads Creative
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8175520)
+🕐 Updated: 2026-10-23T20:22:47-04:00 | ID: 8175520
+
+#### 🔄 Client Account Manager, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8049518)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8049518
+
+#### 🔄 Director, Intellectual Property
+**Greenhouse** · reddit · Legal
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8142128)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8142128
+
+#### 🔄 Engineering Manager, Knowledge Graph Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8256326)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8256326
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954598)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 7954598
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8022260)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8022260
+
+#### 🔄 Senior Program Manager, Business Process Transformation
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8010425)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8010425
+
+#### 🔄 Senior Staff Data Scientist, Consumer Relevance
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 7974605
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8103609)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8103609
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8072076)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8072076
+
+#### 🔄 Staff Machine Learning Engineer, Ads Creative Effectiveness
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8250389)
+🕐 Updated: 2026-10-23T20:22:46-04:00 | ID: 8250389
+
+#### 🔄 Creative Strategist (M&E/Retail)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8191664)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 8191664
+
+#### 🔄 Lead Client Partner, Large Customer Sales (Restaurants & Drinks)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8257083)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 8257083
+
+#### 🔄 Senior Business Analyst, Revenue Analytics
+**Greenhouse** · reddit · Sales
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8023563)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 8023563
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244090)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 8244090
+
+#### 🔄 Senior Product Manager, Go-To-Market Systems
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8212175)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 8212175
+
+#### 🔄 Senior Software Engineer, Agentic Ads Experience
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7980795)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 7980795
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7445240)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 7445240
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7931000)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 7931000
+
+#### 🔄 Staff Technical Product Manager, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954001)
+🕐 Updated: 2026-10-23T20:22:45-04:00 | ID: 7954001
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187521)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8187521
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249259)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8249259
+
+#### 🔄 Frontend Engineer, Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8194576)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8194576
+
+#### 🔄 Frontend Engineer, Ads Campaign Manager
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8240716)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8240716
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189894)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8189894
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189899)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8189899
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8186566)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8186566
+
+#### 🔄 Staff Machine Learning Engineer, App Ads Modeling
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187652)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8187652
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8178085)
+🕐 Updated: 2026-10-23T20:22:44-04:00 | ID: 8178085
+
+#### 🔄 3rd Party Partnerships Manager - Signals
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8089959)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8089959
+
+#### 🔄 Senior Client Account Manager, App Dev Enterprise
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8171546)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8171546
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Big Box Retail)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8140121)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8140121
+
+#### 🔄 Senior Principal Program Manager, GTM Excellence
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8125836)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8125836
+
+#### 🔄 Senior Product Manager, Ads -  Shopping Catalogs
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8120503)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8120503
+
+#### 🔄 Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8157275)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8157275
+
+#### 🔄 Staff Android Engineer, Brand Ad Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8127002)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8127002
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721787)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 7721787
+
+#### 🔄 Staff Product Manager, Ads Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8167412)
+🕐 Updated: 2026-10-23T20:22:43-04:00 | ID: 8167412
+
+#### 🔄 Senior Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8104403)
+🕐 Updated: 2026-10-23T20:22:42-04:00 | ID: 8104403
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721851)
+🕐 Updated: 2026-10-23T20:22:42-04:00 | ID: 7721851
+
+#### 🔄 Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8153017)
+🕐 Updated: 2026-10-23T20:16:05-04:00 | ID: 8153017
+
+#### 🔄 Senior Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8276095)
+🕐 Updated: 2026-10-23T20:16:05-04:00 | ID: 8276095
+
+#### 🔄 Team Lead - Software Engineer
+**Greenhouse** · adyen · Development
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8264727)
+🕐 Updated: 2026-10-23T20:15:59-04:00 | ID: 8264727
+
+#### 🔄 2027 - Software Engineering Intern, AMER
+**Greenhouse** · mongodb · Intern
+📍 Austin; New York City; San Francisco | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8209134)
+🕐 Updated: 2026-10-23T20:00:06-04:00 | ID: 8209134
+
+#### 🔄 2027 - Summer Software Engineer Intern, Dublin
+**Greenhouse** · mongodb · PTO Interns
+📍 Dublin | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8267099)
+🕐 Updated: 2026-10-23T19:58:04-04:00 | ID: 8267099
+
+#### 🔄 Senior Technical Program Manager, Expansion Testing
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, US; San Francisco, CA, US | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8244452)
+🕐 Updated: 2026-10-23T19:52:42-04:00 | ID: 8244452
+
+#### 🔄 Senior Technical Program Manager, Fleet
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8304640)
+🕐 Updated: 2026-10-23T19:52:34-04:00 | ID: 8304640
+
+#### 🔄 Staff Technical Program Manager, Partner Trip Platform
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, US; San Francisco, CA, US | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8304776)
+🕐 Updated: 2026-10-23T19:51:57-04:00 | ID: 8304776
+
+#### 🔄 Staff Program Manager, International Expansion
+**Greenhouse** · waymo · Product (78L)
+📍 New York, NY, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8070184)
+🕐 Updated: 2026-10-23T19:50:13-04:00 | ID: 8070184
+
+#### 🔄 Staff Vehicle Controls Engineer, Steering
+**Greenhouse** · waymo · HW Systems (7SH)
+📍 Mountain View, Ca, USA;Novi, Mi, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7490150)
+🕐 Updated: 2026-10-23T19:47:07-04:00 | ID: 7490150
+
+#### 🔄 Select Major Account Executive (EST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - GA; Remote - NY; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7663706?gh_jid=7663706)
+🕐 Updated: 2026-10-23T19:42:38-04:00 | ID: 7663706
+
+#### 🔄 Senior Program Manager, Vehicle Platform Scaling
+**Greenhouse** · waymo · Product (78L)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8168543)
+🕐 Updated: 2026-10-23T19:41:34-04:00 | ID: 8168543
+
+#### 🔄 Solutions Architect - Public Sector
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8637758002)
+🕐 Updated: 2026-10-23T19:35:23-04:00 | ID: 8637758002
+
+#### 🔄 Product Manager (Technical), Product Support Experience
+**Greenhouse** · anthropic · Product Management, Support, & Operations
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5415822008)
+🕐 Updated: 2026-10-23T19:30:23-04:00 | ID: 5415822008
+
+#### 🔄 Senior Strategic Events Manager
+**Greenhouse** · abnormalsecurity · Strategic Events
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8005634003?gh_jid=8005634003)
+🕐 Updated: 2026-10-23T19:22:07-04:00 | ID: 8005634003
+
+#### 🔄 Design Studio Process Manager
+**Greenhouse** · waymo · GPS Offices/Labs/Mfg (69Z)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8077618)
+🕐 Updated: 2026-10-23T19:20:27-04:00 | ID: 8077618
+
+#### 🔄 Senior iOS Engineer, Crypto Perpetuals
+**Greenhouse** · robinhood · ENG Infrastructure
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388)
+🕐 Updated: 2026-10-23T19:19:56-04:00 | ID: 8289388
+
+#### 🔄 Senior Technical Product Marketing Manager
+**Greenhouse** · fivetran · Marketing Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8002744003)
+🕐 Updated: 2026-10-23T19:17:16-04:00 | ID: 8002744003
+
+#### 🔄 Senior Technical Product Marketing Manager
+**Greenhouse** · fivetran · Marketing Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7818292003)
+🕐 Updated: 2026-10-23T19:17:16-04:00 | ID: 7818292003
+
+#### 🔄 Compliance Advisory Lead
+**Greenhouse** · robinhood · Growth Acquisitions
+📍 Menlo Park, CA; New York, NY; Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8259035?t=gh_src=&gh_jid=8259035)
+🕐 Updated: 2026-10-23T19:14:18-04:00 | ID: 8259035
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · robinhood · Brokerage Division
+📍 Menlo Park, CA; New York, NY; Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728)
+🕐 Updated: 2026-10-23T19:12:00-04:00 | ID: 8301728
+
+#### 🔄 Staff Software Engineer, Backend Platform
+**Greenhouse** · robinhood · ENG Data and AI Platform Division
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107)
+🕐 Updated: 2026-10-23T19:10:56-04:00 | ID: 8266107
+
+#### 🔄 Senior Software Engineer, International
+**Greenhouse** · robinhood · Crypto Engineering
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8126312?t=gh_src=&gh_jid=8126312)
+🕐 Updated: 2026-10-23T19:10:03-04:00 | ID: 8126312
+
+#### 🔄 Core Enterprise Account Executive MST/PST - Remote
+**Greenhouse** · samsara · US Core
+📍 Remote - CA; Remote - GA; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612676?gh_jid=7612676)
+🕐 Updated: 2026-10-23T19:08:42-04:00 | ID: 7612676
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · robinhood · Customer Care
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8286878?t=gh_src=&gh_jid=8286878)
+🕐 Updated: 2026-10-23T19:06:16-04:00 | ID: 8286878
+
+#### 🔄 Fraud Investigations Analyst
+**Greenhouse** · robinhood · Customer Trust and Safety
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972)
+🕐 Updated: 2026-10-23T19:05:38-04:00 | ID: 8226972
+
+#### 🔄 Marketing Web Development Intern
+**Greenhouse** · ivalua · Marketing & Communications
+📍 New York City, NY - US | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8293704?gh_jid=8293704)
+🕐 Updated: 2026-10-23T19:02:24-04:00 | ID: 8293704
+
+#### 🔄 CS Forecasting and Demand Planning Analyst
+**Greenhouse** · airbnb · Community Support
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/7839229?gh_jid=7839229)
+🕐 Updated: 2026-10-23T19:01:16-04:00 | ID: 7839229
+
+#### 🔄 Software Architect, AI Systems and Platform
+**Greenhouse** · okta · Digital Workers-816
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8319085?gh_jid=8319085)
+🕐 Updated: 2026-10-23T18:52:38-04:00 | ID: 8319085
+
+#### 🔄 Social Media Manager, Growth Marketing
+**Greenhouse** · applovin · Growth Marketing
+📍 Los Angeles/Santa Monica, CA | 🔗 [Apply Here](https://boards.greenhouse.io/applovin/jobs/4681220006?gh_jid=4681220006)
+🕐 Updated: 2026-10-23T18:52:22-04:00 | ID: 4681220006
+
+#### 🔄 Manager, Sales Development
+**Greenhouse** · justworks · Sales
+📍 Phoenix, Arizona | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8301835?gh_jid=8301835)
+🕐 Updated: 2026-10-23T18:39:22-04:00 | ID: 8301835
+
+#### 🔄 Senior Manager, Technology Strategy & Planning
+**Greenhouse** · justworks · Product
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8022115?gh_jid=8022115)
+🕐 Updated: 2026-10-23T18:35:02-04:00 | ID: 8022115
+
+#### 🔄 Senior Software Engineer, Tech Foundations
+**Greenhouse** · airbnb · Software Engineering
+📍 USA | 🔗 [Apply Here](https://careers.airbnb.com/positions/8197715?gh_jid=8197715)
+🕐 Updated: 2026-10-23T18:28:08-04:00 | ID: 8197715
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15635 fetched, 103 updated, 20 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15738 fetched, 103 updated, 20 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-23 22:27 UTC
 
 ### Greenhouse
