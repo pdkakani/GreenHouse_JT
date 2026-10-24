@@ -1,3 +1,27 @@
+## 📅 Run: 2026-10-24 23:44 UTC
+
+### Greenhouse
+
+#### 🔄 Manager I, Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8068523?gh_jid=8068523)
+🕐 Updated: 2026-10-24T18:45:00-04:00 | ID: 8068523
+
+#### 🔄 Sr. IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843968002?gh_jid=8843968002)
+🕐 Updated: 2026-10-24T17:51:10-04:00 | ID: 8843968002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15636 fetched, 2 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15739 fetched, 2 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-24 21:42 UTC
 
 ### Greenhouse
