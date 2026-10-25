@@ -1,3 +1,22 @@
+## 📅 Run: 2026-10-25 16:38 UTC
+
+### Greenhouse
+
+#### 🔄 Sr. Software Engineer, Cloud Platform
+**Greenhouse** · samsara · Platform
+📍 Remote - London; United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387)
+🕐 Updated: 2026-10-25T10:45:00-04:00 | ID: 8042387
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15643 fetched, 1 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15746 fetched, 1 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-25 12:15 UTC
 
 ### Greenhouse
