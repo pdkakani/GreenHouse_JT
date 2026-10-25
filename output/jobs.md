@@ -1,3 +1,137 @@
+## 📅 Run: 2026-10-25 21:49 UTC
+
+### Greenhouse
+
+#### 🔄 Director, Value Engineering (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8003211003?gh_jid=8003211003)
+🕐 Updated: 2026-10-25T17:08:07-04:00 | ID: 8003211003
+
+#### 🔄 Director, Management & Technology (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015588003?gh_jid=8015588003)
+🕐 Updated: 2026-10-25T17:08:05-04:00 | ID: 8015588003
+
+#### 🔄 Director, Business Transformation and Value Consulting (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8014940003?gh_jid=8014940003)
+🕐 Updated: 2026-10-25T17:08:04-04:00 | ID: 8014940003
+
+#### 🔄 Senior Value Engineer - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016659003?gh_jid=8016659003)
+🕐 Updated: 2026-10-25T17:06:12-04:00 | ID: 8016659003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016658003?gh_jid=8016658003)
+🕐 Updated: 2026-10-25T17:06:10-04:00 | ID: 8016658003
+
+#### 🔄 Senior Management & Technology Consultant - CPG/Retail - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016657003?gh_jid=8016657003)
+🕐 Updated: 2026-10-25T17:06:09-04:00 | ID: 8016657003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016417003?gh_jid=8016417003)
+🕐 Updated: 2026-10-25T17:06:07-04:00 | ID: 8016417003
+
+#### 🆕 Materials R&D Specialist
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials · 🎯 35%
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815217002?gh_jid=8815217002)
+🕐 Updated: 2026-10-25T17:05:40-04:00 | ID: 8815217002
+
+#### 🔄 Senior Strategic Solutions Consultant (AI)
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7993836003?gh_jid=7993836003)
+🕐 Updated: 2026-10-25T17:05:08-04:00 | ID: 7993836003
+
+#### 🔄 Senior Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7996959003?gh_jid=7996959003)
+🕐 Updated: 2026-10-25T17:05:07-04:00 | ID: 7996959003
+
+#### 🔄 Senior Applied AI Solution Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825688003?gh_jid=7825688003)
+🕐 Updated: 2026-10-25T17:05:05-04:00 | ID: 7825688003
+
+#### 🔄 Senior AI Transformation & Innovation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003)
+🕐 Updated: 2026-10-25T17:05:04-04:00 | ID: 7993837003
+
+#### 🔄 Senior Value Engineer - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015579003?gh_jid=8015579003)
+🕐 Updated: 2026-10-25T17:04:51-04:00 | ID: 8015579003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015655003?gh_jid=8015655003)
+🕐 Updated: 2026-10-25T17:04:49-04:00 | ID: 8015655003
+
+#### 🔄 Senior Management & Technology Consultant - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015654003?gh_jid=8015654003)
+🕐 Updated: 2026-10-25T17:04:48-04:00 | ID: 8015654003
+
+#### 🔄 Senior Business Transformation & Process Optimisation Consultant - Aviation/Logistics
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015653003?gh_jid=8015653003)
+🕐 Updated: 2026-10-25T17:04:46-04:00 | ID: 8015653003
+
+#### 🔄 Senior Value Engineer - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825970003?gh_jid=7825970003)
+🕐 Updated: 2026-10-25T17:03:31-04:00 | ID: 7825970003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003)
+🕐 Updated: 2026-10-25T17:03:29-04:00 | ID: 7825969003
+
+#### 🔄 Senior Management & Technology Consultant  - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825968003?gh_jid=7825968003)
+🕐 Updated: 2026-10-25T17:03:27-04:00 | ID: 7825968003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003)
+🕐 Updated: 2026-10-25T17:03:26-04:00 | ID: 7817273003
+
+#### 🔄 Senior Value Engineer - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003)
+🕐 Updated: 2026-10-25T16:58:05-04:00 | ID: 7817387003
+
+#### 🔄 Senior Process Optimisation Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026747003?gh_jid=8026747003)
+🕐 Updated: 2026-10-25T16:58:03-04:00 | ID: 8026747003
+
+#### 🔄 Senior Management & Technology Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026730003?gh_jid=8026730003)
+🕐 Updated: 2026-10-25T16:58:01-04:00 | ID: 8026730003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003)
+🕐 Updated: 2026-10-25T16:57:59-04:00 | ID: 7826212003
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15632 fetched, 23 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15735 fetched, 23 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-25 19:15 UTC
 
 ### Greenhouse
