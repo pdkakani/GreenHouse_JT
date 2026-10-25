@@ -1,3 +1,22 @@
+## 📅 Run: 2026-10-25 19:15 UTC
+
+### Greenhouse
+
+#### 🔄 Enterprise Core Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8125426?gh_jid=8125426)
+🕐 Updated: 2026-10-25T13:30:00-04:00 | ID: 8125426
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15635 fetched, 1 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15738 fetched, 1 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-25 16:38 UTC
 
 ### Greenhouse
