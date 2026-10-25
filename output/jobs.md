@@ -1,3 +1,42 @@
+## 📅 Run: 2026-10-25 23:42 UTC
+
+### Greenhouse
+
+#### 🔄 Talent Acquisition Partner - Contract
+**Greenhouse** · toast · G & A : Recruiting
+📍 Sydney, Melbourne or Brisbane | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7289734)
+🕐 Updated: 2026-10-25T19:40:54-04:00 | ID: 7289734
+
+#### 🔄 GTM Talent Sourcer (Contract)
+**Greenhouse** · databricks · Recruiting
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002)
+🕐 Updated: 2026-10-25T18:49:20-04:00 | ID: 8546786002
+
+#### 🔄 Regional Director
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Washington, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7991106003)
+🕐 Updated: 2026-10-25T18:47:20-04:00 | ID: 7991106003
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · fivetran · Sales Department
+📍 Remote,  Minnesota, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7818401003)
+🕐 Updated: 2026-10-25T18:47:17-04:00 | ID: 7818401003
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7790795003)
+🕐 Updated: 2026-10-25T18:47:13-04:00 | ID: 7790795003
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15633 fetched, 5 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15736 fetched, 5 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-25 21:49 UTC
 
 ### Greenhouse
