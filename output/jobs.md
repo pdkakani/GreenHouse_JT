@@ -1,3 +1,32 @@
+## 📅 Run: 2026-10-25 06:51 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Scale (Thailand and Vietnam market)
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079466)
+🕐 Updated: 2026-10-25T00:15:02-04:00 | ID: 8079466
+
+#### 🔄 Incident Manager, Safeguards
+**Greenhouse** · anthropic · Safeguards (Trust & Safety)
+📍 Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5462881008)
+🕐 Updated: 2026-10-24T22:33:03-04:00 | ID: 5462881008
+
+#### 🔄 Talent Acquisition Partner - Contract
+**Greenhouse** · toast · G & A : Recruiting
+📍 Australia | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7289734)
+🕐 Updated: 2026-10-24T22:05:44-04:00 | ID: 7289734
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15641 fetched, 3 updated, 7 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15744 fetched, 3 updated, 7 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-25 01:40 UTC
 
 ### Greenhouse

@@ -258792,8 +258792,8 @@
     "alerted": false
   },
   "greenhouse:braze:8079466": {
-    "updated_at": "2026-10-23T11:05:23-04:00",
-    "title": "Account Executive, Scale (Thai Speaking)",
+    "updated_at": "2026-10-25T00:15:02-04:00",
+    "title": "Account Executive, Scale (Thailand and Vietnam market)",
     "company": "braze",
     "ats": "greenhouse",
     "source_slug": "braze",
@@ -400976,7 +400976,7 @@
     "alerted": false
   },
   "greenhouse:toast:7289734": {
-    "updated_at": "2026-10-23T16:21:07-04:00",
+    "updated_at": "2026-10-24T22:05:44-04:00",
     "title": "Talent Acquisition Partner - Contract",
     "company": "toast",
     "ats": "greenhouse",
@@ -405168,7 +405168,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5462881008": {
-    "updated_at": "2026-10-24T00:26:19-04:00",
+    "updated_at": "2026-10-24T22:33:03-04:00",
     "title": "Incident Manager, Safeguards",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -405230,5 +405230,61 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:brex:8914951002": {
+    "updated_at": "2026-10-24T23:16:59-04:00",
+    "title": "Director, Performance Marketing",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8914950002": {
+    "updated_at": "2026-10-24T23:16:57-04:00",
+    "title": "Director, Performance Marketing",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:brex:8899486002": {
+    "updated_at": "2026-10-24T23:16:54-04:00",
+    "title": "Director, Performance Marketing",
+    "company": "brex",
+    "ats": "greenhouse",
+    "source_slug": "brex",
+    "alerted": false
+  },
+  "greenhouse:checkr:8322655": {
+    "updated_at": "2026-10-24T23:02:41-04:00",
+    "title": "Director of Tax",
+    "company": "checkr",
+    "ats": "greenhouse",
+    "source_slug": "checkr",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5462893008": {
+    "updated_at": "2026-10-24T22:34:04-04:00",
+    "title": "Enforcement Analyst, Agentic Alignment",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:asana:8282522": {
+    "updated_at": "2026-10-24T12:11:49-04:00",
+    "title": "Corporate and Strategic Finance, FP&A",
+    "company": "asana",
+    "ats": "greenhouse",
+    "source_slug": "asana",
+    "alerted": false
+  },
+  "greenhouse:spacex:8889589002": {
+    "updated_at": "2026-10-24T10:53:31-04:00",
+    "title": "Lead Inventory Specialist (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
   }
 }
