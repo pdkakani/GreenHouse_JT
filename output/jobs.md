@@ -1,3 +1,77 @@
+## 📅 Run: 2026-10-26 07:00 UTC
+
+### Greenhouse
+
+#### 🔄 Manager, Account Management
+**Greenhouse** · flexport · Account Management
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/7971621)
+🕐 Updated: 2026-10-26T02:50:14-04:00 | ID: 7971621
+
+#### 🔄 Manager, Account Management
+**Greenhouse** · flexport · Account Management
+📍 Shanghai, China | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8201897)
+🕐 Updated: 2026-10-26T02:48:56-04:00 | ID: 8201897
+
+#### 🔄 Sales Manager
+**Greenhouse** · flexport · Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8175845)
+🕐 Updated: 2026-10-26T02:46:14-04:00 | ID: 8175845
+
+#### 🔄 Senior Manager, Accounts Payable & Freight Audit
+**Greenhouse** · flexport · Finance
+📍 Shenzhen, China | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8146839)
+🕐 Updated: 2026-10-26T02:42:02-04:00 | ID: 8146839
+
+#### 🔄 Operations Program Manager
+**Greenhouse** · stripe · 4138 SDC - Tech Ops
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203653)
+🕐 Updated: 2026-10-26T02:28:27-04:00 | ID: 8203653
+
+#### 🔄 Senior Partner Marketing Manager
+**Greenhouse** · datadog · Partner Marketing
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8139190/?gh_jid=8139190)
+🕐 Updated: 2026-10-26T02:08:57-04:00 | ID: 8139190
+
+#### 🔄 Business Development Representative - Bahasa Indonesia Speaking
+**Greenhouse** · cloudflare · BDR
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7167659?gh_jid=7167659)
+🕐 Updated: 2026-10-26T01:51:25-04:00 | ID: 7167659
+
+#### 🔄 Solutions Architect (PST Customer hours)
+**Greenhouse** · gleanwork · Customer Outcomes
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4434258005)
+🕐 Updated: 2026-10-26T01:45:49-04:00 | ID: 4434258005
+
+#### 🔄 Sales Engineer
+**Greenhouse** · datadog · Commercial & Mid-Market Sales Engineering
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8258855/?gh_jid=8258855)
+🕐 Updated: 2026-10-26T01:41:47-04:00 | ID: 8258855
+
+#### 🔄 Quality Insights Lead
+**Greenhouse** · airbnb · Community Support
+📍 Gurugram, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8275757?gh_jid=8275757)
+🕐 Updated: 2026-10-26T01:08:32-04:00 | ID: 8275757
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · toast · R & D : Engineering : Enterprise
+📍 Bangalore , Karnataka | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8311990)
+🕐 Updated: 2026-10-25T23:35:11-04:00 | ID: 8311990
+
+#### 🔄 Supervisor, Hotels
+**Greenhouse** · airbnb · Community Support
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8283730?gh_jid=8283730)
+🕐 Updated: 2026-10-25T22:51:09-04:00 | ID: 8283730
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15622 fetched, 12 updated, 13 cap-skipped, 0 alerts
+- **Lever**: 0 new, 36 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 67 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15725 fetched, 12 updated, 13 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-26 01:44 UTC
 
 ### Greenhouse
