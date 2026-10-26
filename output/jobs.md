@@ -1,3 +1,3222 @@
+## 📅 Run: 2026-10-26 19:56 UTC
+
+### Greenhouse
+
+#### 🆕 Specialist Seller - Enterprise Select - AI
+**Greenhouse** · samsara · Product Specialists · 🎯 40%
+📍 Remote - CA; Remote - NC | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325411?gh_jid=8325411)
+🕐 Updated: 2026-10-26T15:56:54-04:00 | ID: 8325411
+
+#### 🆕 Specialist Seller - Enterprise Select - AI
+**Greenhouse** · samsara · Product Specialists · 🎯 40%
+📍 Remote - CA; Remote - NY; Remote - OH; Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325410?gh_jid=8325410)
+🕐 Updated: 2026-10-26T15:56:42-04:00 | ID: 8325410
+
+#### 🔄 Director Product Manager, Commercial Banking
+**Greenhouse** · sofi · SFT Financial Services Product
+📍 CA - San Francisco; NY - New York City; WA - Seattle | 🔗 [Apply Here](https://sofi.com/careers/job/7894776003?gh_jid=7894776003)
+🕐 Updated: 2026-10-26T15:53:59-04:00 | ID: 7894776003
+
+#### 🔄 Customer Operations & Logistics Coordinator, Salt Lake City
+**Greenhouse** · verkada · Hardware Operations
+📍 Salt Lake City, UT United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5219108007)
+🕐 Updated: 2026-10-26T15:53:32-04:00 | ID: 5219108007
+
+#### 🔄 Senior Art Director, Demand Gen
+**Greenhouse** · okta · Brand & Creative-493
+📍 Bellevue, Washington; Chicago, Illinois; San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8262246?gh_jid=8262246)
+🕐 Updated: 2026-10-26T15:46:37-04:00 | ID: 8262246
+
+#### 🔄 Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure
+**Greenhouse** · databricks · Field Engineering - Other
+📍 France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910988002)
+🕐 Updated: 2026-10-26T15:44:46-04:00 | ID: 8910988002
+
+#### 🔄 Social Media Team Lead (Overnight)
+**Greenhouse** · lyft · Core Support Ops
+📍 Toronto, Canada | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8905092002?gh_jid=8905092002)
+🕐 Updated: 2026-10-26T15:43:16-04:00 | ID: 8905092002
+
+#### 🔄 Associate Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002)
+🕐 Updated: 2026-10-26T15:43:13-04:00 | ID: 8910846002
+
+#### 🔄 Associate Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002)
+🕐 Updated: 2026-10-26T15:42:52-04:00 | ID: 8907988002
+
+#### 🔄 Senior Manager, Regulatory Compliance and Licensing
+**Greenhouse** · justworks · Legal & Compliance
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8257440?gh_jid=8257440)
+🕐 Updated: 2026-10-26T15:41:13-04:00 | ID: 8257440
+
+#### 🔄 Senior Manager, People Operations Program Management
+**Greenhouse** · rubrik · People
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8304669?gh_jid=8304669)
+🕐 Updated: 2026-10-26T15:40:34-04:00 | ID: 8304669
+
+#### 🔄 Backend Engineer, Create: Repository Management
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8843512002)
+🕐 Updated: 2026-10-26T15:38:29-04:00 | ID: 8843512002
+
+#### 🔄 Machine Learning Engineer, Simulation Realism (World Model)
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=6688617)
+🕐 Updated: 2026-10-26T15:36:46-04:00 | ID: 6688617
+
+#### 🔄 HVAC Technician, Solar Cells (Starlink) - Day Shift
+**Greenhouse** · spacex · AI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8530746002?gh_jid=8530746002)
+🕐 Updated: 2026-10-26T15:34:53-04:00 | ID: 8530746002
+
+#### 🔄 Engineering Manager, AI
+**Greenhouse** · lattice · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://lattice.com/job?gh_jid=8614333002)
+🕐 Updated: 2026-10-26T15:33:43-04:00 | ID: 8614333002
+
+#### 🔄 Engineering Manager, AI
+**Greenhouse** · lattice · Engineering
+📍 Remote - Canada | 🔗 [Apply Here](https://lattice.com/job?gh_jid=8623297002)
+🕐 Updated: 2026-10-26T15:33:43-04:00 | ID: 8623297002
+
+#### 🔄 Senior Manager, Intelligence & Advocacy
+**Greenhouse** · airbnb · Trust and Safety
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8167113?gh_jid=8167113)
+🕐 Updated: 2026-10-26T15:32:29-04:00 | ID: 8167113
+
+#### 🔄 Scale Solution Engineer
+**Greenhouse** · databricks · Customer Success Operations
+📍 Heredia, Costa Rica | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8779031002)
+🕐 Updated: 2026-10-26T15:25:54-04:00 | ID: 8779031002
+
+#### 🔄 State Enterprise Account Executive - MD, PA, DE
+**Greenhouse** · verkada · Enterprise State
+📍 Washington, D.C. United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5199808007)
+🕐 Updated: 2026-10-26T15:24:23-04:00 | ID: 5199808007
+
+#### 🔄 Corporate FP&A Manager
+**Greenhouse** · coursera · Finance
+📍 Denver, Colorado | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6192106004)
+🕐 Updated: 2026-10-26T15:22:17-04:00 | ID: 6192106004
+
+#### 🔄 Mid-Market Account Manager. Mexico and Central America.
+**Greenhouse** · cloudflare · Field Sales
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8257165?gh_jid=8257165)
+🕐 Updated: 2026-10-26T15:20:38-04:00 | ID: 8257165
+
+#### 🔄 R&D Reliability/Test Engineer - June 2027 Grads
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241465/apply/?gh_jid=8241465)
+🕐 Updated: 2026-10-26T15:12:14-04:00 | ID: 8241465
+
+#### 🔄 R&D Reliability/Test Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241460/apply/?gh_jid=8241460)
+🕐 Updated: 2026-10-26T15:12:11-04:00 | ID: 8241460
+
+#### 🔄 Operations Controller
+**Greenhouse** · waymo · Ops General Pgm Mgmt (89M)
+📍 Tempe, AZ, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8244827)
+🕐 Updated: 2026-10-26T15:11:40-04:00 | ID: 8244827
+
+#### 🔄 Staff Web Engineer, Advisory Products
+**Greenhouse** · robinhood · Brokerage Engineering
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244)
+🕐 Updated: 2026-10-26T15:09:47-04:00 | ID: 8302244
+
+#### 🔄 Chief of Staff
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4710367006&board=coreweave&gh_jid=4710367006)
+🕐 Updated: 2026-10-26T15:06:48-04:00 | ID: 4710367006
+
+#### 🔄 Solutions Integration Engineer II
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615)
+🕐 Updated: 2026-10-26T15:05:16-04:00 | ID: 8141615
+
+#### 🔄 Senior Technical Instructor (US East)
+**Greenhouse** · fivetran · Professional Services Team
+📍 Remote, Maryland, United States; Remote, Massachusetts, United States, AMER; Remote, New Jersey, United States, AMER; Remote, New York, United States, AMER; Remote, Pennsylvania, United States, AMER; Remote, Virginia, United States, AMER; Remote, Washington DC, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8039497003)
+🕐 Updated: 2026-10-26T15:02:49-04:00 | ID: 8039497003
+
+#### 🔄 Senior Machine Learning Platform Engineer
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8035953003?gh_jid=8035953003)
+🕐 Updated: 2026-10-26T15:02:46-04:00 | ID: 8035953003
+
+#### 🔄 Senior Software Engineer - Data Automation
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8012938003?gh_jid=8012938003)
+🕐 Updated: 2026-10-26T15:02:45-04:00 | ID: 8012938003
+
+#### 🔄 Senior Software Engineer - Identity and Access Management
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7986459003?gh_jid=7986459003)
+🕐 Updated: 2026-10-26T15:02:43-04:00 | ID: 7986459003
+
+#### 🔄 Senior Software Engineer, Customer Agent
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7780009003?gh_jid=7780009003)
+🕐 Updated: 2026-10-26T15:02:40-04:00 | ID: 7780009003
+
+#### 🔄 Senior Software Engineer, Platform Engineering
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7783904003?gh_jid=7783904003)
+🕐 Updated: 2026-10-26T15:02:39-04:00 | ID: 7783904003
+
+#### 🔄 Senior Software Engineer - Infrastructure Security
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7777369003?gh_jid=7777369003)
+🕐 Updated: 2026-10-26T15:02:38-04:00 | ID: 7777369003
+
+#### 🔄 Senior Software Engineer - Customer Agent
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7695230003?gh_jid=7695230003)
+🕐 Updated: 2026-10-26T15:02:37-04:00 | ID: 7695230003
+
+#### 🔄 Senior Software Engineer - Profiles, Lists and Segments
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7597868003?gh_jid=7597868003)
+🕐 Updated: 2026-10-26T15:02:35-04:00 | ID: 7597868003
+
+#### 🔄 2027 Summer Intern, BS/MS, Software Engineering, Commercialization
+**Greenhouse** · waymo · CSI (7LV)
+📍 Warsaw, Poland | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8268204)
+🕐 Updated: 2026-10-26T15:01:27-04:00 | ID: 8268204
+
+#### 🔄 Senior Manager, Brand Design
+**Greenhouse** · mongodb · Brand Creative
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8023944)
+🕐 Updated: 2026-10-26T15:00:33-04:00 | ID: 8023944
+
+#### 🔄 Senior Data Scientist
+**Greenhouse** · doximity · Data
+📍 San Francisco, CA or Remote (U.S.) | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/8177741)
+🕐 Updated: 2026-10-26T14:54:04-04:00 | ID: 8177741
+
+#### 🔄 Senior Software Engineer, Data
+**Greenhouse** · doximity · Data
+📍 San Francisco, CA or Remote (U.S.) | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/8155070)
+🕐 Updated: 2026-10-26T14:53:40-04:00 | ID: 8155070
+
+#### 🔄 Account Development Representative II
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8094367?gh_jid=8094367)
+🕐 Updated: 2026-10-26T14:53:33-04:00 | ID: 8094367
+
+#### 🔄 Account Development Representative II - Phoenix
+**Greenhouse** · samsara · Account Development Representative
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8094314?gh_jid=8094314)
+🕐 Updated: 2026-10-26T14:53:28-04:00 | ID: 8094314
+
+#### 🔄 Data Scientist
+**Greenhouse** · doximity · Data
+📍 San Francisco, CA or Remote (U.S.) | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/7909273)
+🕐 Updated: 2026-10-26T14:53:20-04:00 | ID: 7909273
+
+#### 🔄 Commercial Data Scientist
+**Greenhouse** · doximity · Data
+📍 San Francisco, CA or Remote (U.S.) | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/8222144)
+🕐 Updated: 2026-10-26T14:53:00-04:00 | ID: 8222144
+
+#### 🔄 Staff Applied AI Engineer
+**Greenhouse** · doximity · Data
+📍 San Francisco, CA or Remote (U.S.) | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/8024477)
+🕐 Updated: 2026-10-26T14:52:39-04:00 | ID: 8024477
+
+#### 🔄 Sr. Statistician, Client Intelligence
+**Greenhouse** · doximity · Data
+📍 San Francisco, CA or Remote (U.S.) | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/8222141)
+🕐 Updated: 2026-10-26T14:52:08-04:00 | ID: 8222141
+
+#### 🔄 Director, Sales Development
+**Greenhouse** · smartsheet · Sales Development
+📍 Boston, MA, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8274616)
+🕐 Updated: 2026-10-26T14:51:12-04:00 | ID: 8274616
+
+#### 🔄 Senior Strategic Program Manager
+**Greenhouse** · coinbase · Customer Experience
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211)
+🕐 Updated: 2026-10-26T14:50:54-04:00 | ID: 8232211
+
+#### 🔄 Manager, Business Recruiting - GTM Ecosystems
+**Greenhouse** · datadog · Business Recruiting
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8306557/?gh_jid=8306557)
+🕐 Updated: 2026-10-26T14:46:49-04:00 | ID: 8306557
+
+#### 🔄 Senior Analyst, People Systems (Workday PATT)
+**Greenhouse** · justworks · People
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8292657?gh_jid=8292657)
+🕐 Updated: 2026-10-26T14:46:24-04:00 | ID: 8292657
+
+#### 🔄 Senior Analyst, People Systems (Workday HCM)
+**Greenhouse** · justworks · People
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8125531?gh_jid=8125531)
+🕐 Updated: 2026-10-26T14:45:39-04:00 | ID: 8125531
+
+#### 🔄 Staff Software Engineer, Payments Intelligence
+**Greenhouse** · stripe · 8511 PayIntel - Eng
+📍 New York, Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8260980)
+🕐 Updated: 2026-10-26T14:45:20-04:00 | ID: 8260980
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · robinhood · Brokerage Division
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728)
+🕐 Updated: 2026-10-26T14:44:13-04:00 | ID: 8301728
+
+#### 🔄 Senior Backend Software Engineer
+**Greenhouse** · godaddy · Engineering
+📍 Colombia | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7674575003)
+🕐 Updated: 2026-10-26T14:40:30-04:00 | ID: 7674575003
+
+#### 🔄 Growth Enterprise Account Executive
+**Greenhouse** · coursera · Sales
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6230301004)
+🕐 Updated: 2026-10-26T14:38:14-04:00 | ID: 6230301004
+
+#### 🔄 Software Engineer, Inference
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006)
+🕐 Updated: 2026-10-26T14:37:35-04:00 | ID: 4703438006
+
+#### 🔄 Senior Consulting Systems Engineer Germany, Strategic Accounts (Automotive and Manufacturing)
+**Greenhouse** · purestorage · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8280897)
+🕐 Updated: 2026-10-26T14:34:45-04:00 | ID: 8280897
+
+#### 🔄 Sr. RF Front-End Module Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8499101002?gh_jid=8499101002)
+🕐 Updated: 2026-10-26T14:34:36-04:00 | ID: 8499101002
+
+#### 🔄 Sr. RF Front-End Module Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8562302002?gh_jid=8562302002)
+🕐 Updated: 2026-10-26T14:34:36-04:00 | ID: 8562302002
+
+#### 🔄 Sr. RF Front-End Module Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8562301002?gh_jid=8562301002)
+🕐 Updated: 2026-10-26T14:34:36-04:00 | ID: 8562301002
+
+#### 🔄 Account Development Representative II - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8319771?gh_jid=8319771)
+🕐 Updated: 2026-10-26T14:33:01-04:00 | ID: 8319771
+
+#### 🔄 Senior Manager, Infrastructure Operations and Compliance
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8163076?gh_jid=8163076)
+🕐 Updated: 2026-10-26T14:32:38-04:00 | ID: 8163076
+
+#### 🔄 Staff Software Engineer, Product Data Platform
+**Greenhouse** · brex · Engineering
+📍 Seattle, Washington, United States | 🔗 [Apply Here](https://www.brex.com/careers/8430197002?gh_jid=8430197002)
+🕐 Updated: 2026-10-26T14:32:19-04:00 | ID: 8430197002
+
+#### 🔄 Staff Software Engineer, Product Data Platform
+**Greenhouse** · brex · Engineering
+📍 Vancouver, British Columbia, Canada | 🔗 [Apply Here](https://www.brex.com/careers/8430196002?gh_jid=8430196002)
+🕐 Updated: 2026-10-26T14:31:47-04:00 | ID: 8430196002
+
+#### 🔄 Staff Software Engineer, Product Data Platform
+**Greenhouse** · brex · Engineering
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://www.brex.com/careers/8430182002?gh_jid=8430182002)
+🕐 Updated: 2026-10-26T14:31:11-04:00 | ID: 8430182002
+
+#### 🔄 Principal Software Engineer - Agentic SOC
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8014855003)
+🕐 Updated: 2026-10-26T14:28:34-04:00 | ID: 8014855003
+
+#### 🔄 Product Support Specialist- Eastern Time Zone
+**Greenhouse** · huntress · Product Support
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8038105003)
+🕐 Updated: 2026-10-26T14:28:34-04:00 | ID: 8038105003
+
+#### 🔄 Senior IT Automation Engineer
+**Greenhouse** · huntress · Information Technology Operations
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8016075003)
+🕐 Updated: 2026-10-26T14:28:34-04:00 | ID: 8016075003
+
+#### 🔄 Senior Software Engineer- Agentic SOC
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8015561003)
+🕐 Updated: 2026-10-26T14:28:34-04:00 | ID: 8015561003
+
+#### 🔄 Director, Revenue Readiness
+**Greenhouse** · huntress · Sales Acceleration
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8011644003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8011644003
+
+#### 🔄 Equity Administrator
+**Greenhouse** · huntress · Legal
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8013609003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8013609003
+
+#### 🔄 Manager, Security Operations Center
+**Greenhouse** · huntress · Security Analysis
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8008358003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8008358003
+
+#### 🔄 Principal macOS Security Researcher
+**Greenhouse** · huntress · Product Research
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8014350003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8014350003
+
+#### 🔄 Principal Security Researcher - EDR (Windows)
+**Greenhouse** · huntress · Product Research
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7807467003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7807467003
+
+#### 🔄 Principal Software Engineer, SIEM (Ruby/Rails)
+**Greenhouse** · huntress · Product Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7776837003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7776837003
+
+#### 🔄 Reseller Sales Manager
+**Greenhouse** · huntress · Resellers & VARs
+📍 Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8003013003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8003013003
+
+#### 🔄 Sales Engineer II
+**Greenhouse** · huntress · Sales Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7974374003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7974374003
+
+#### 🔄 Security Operations Analyst
+**Greenhouse** · huntress · Security Analysis
+📍 Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7998473003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7998473003
+
+#### 🔄 Security Operations Analyst- Ireland
+**Greenhouse** · huntress · Security Analysis
+📍 Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7835871003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7835871003
+
+#### 🔄 Security Operations Analyst- UK
+**Greenhouse** · huntress · Security Analysis
+📍 United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7835873003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7835873003
+
+#### 🔄 Security Operations Analyst - West Coast Shift
+**Greenhouse** · huntress · Security Analysis
+📍 Remote US | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7743188003
+
+#### 🔄 Senior Detection Engineering & Threat Hunting Analyst
+**Greenhouse** · huntress · DE&TH
+📍 Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7998321003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7998321003
+
+#### 🔄 Senior Manager, Detection Engineering & Threat Hunting
+**Greenhouse** · huntress · DE&TH
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7728615003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7728615003
+
+#### 🔄 Senior Phishing Tradecraft Researcher
+**Greenhouse** · huntress · Product Research
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8014354003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8014354003
+
+#### 🔄 Senior Product Manager, SOC Experience
+**Greenhouse** · huntress · Product Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7995748003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7995748003
+
+#### 🔄 Senior Technical Recruiter
+**Greenhouse** · huntress · Recruiting
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8008772003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8008772003
+
+#### 🔄 Staff CSIRT Analyst
+**Greenhouse** · huntress · Adversary Informed Defense
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7991918003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7991918003
+
+#### 🔄 Staff Product Manager, Core Platform & UX
+**Greenhouse** · huntress · Product Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8014352003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8014352003
+
+#### 🔄 Staff Product Manager, SIEM
+**Greenhouse** · huntress · Product Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7663059003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7663059003
+
+#### 🔄 Staff Software Engineer  - Core Platform (Ruby/Rails)
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8002767003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8002767003
+
+#### 🔄 Staff Software Engineer - Detection Platform (GoLang)
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7977228003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7977228003
+
+#### 🔄 Staff Software Engineer-ESPM Platform (Ruby / Rails)
+**Greenhouse** · huntress · Product Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7774959003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7774959003
+
+#### 🔄 Staff Software Engineer - ISPM Platform (Ruby/Rails)
+**Greenhouse** · huntress · Product Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7774957003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7774957003
+
+#### 🔄 Staff Software Engineer - SOC Platform (Ruby/Rails)
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7998709003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 7998709003
+
+#### 🔄 Vice President, FP&A
+**Greenhouse** · huntress · Financial Planning & Analysis
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8011620003)
+🕐 Updated: 2026-10-26T14:28:33-04:00 | ID: 8011620003
+
+#### 🔄 Staff Software Engineer - Identity & Access Management
+**Greenhouse** · brex · Engineering
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://www.brex.com/careers/8859394002?gh_jid=8859394002)
+🕐 Updated: 2026-10-26T14:27:38-04:00 | ID: 8859394002
+
+#### 🔄 Staff Software Engineer - Identity & Access Management
+**Greenhouse** · brex · Engineering
+📍 Seattle, Washington, United States | 🔗 [Apply Here](https://www.brex.com/careers/8859393002?gh_jid=8859393002)
+🕐 Updated: 2026-10-26T14:27:12-04:00 | ID: 8859393002
+
+#### 🔄 Staff Software Engineer - Identity & Access Management
+**Greenhouse** · brex · Engineering
+📍 New York, New York, United States | 🔗 [Apply Here](https://www.brex.com/careers/8859337002?gh_jid=8859337002)
+🕐 Updated: 2026-10-26T14:26:47-04:00 | ID: 8859337002
+
+#### 🔄 Senior Product Manager, Secret Detection and Vulnerability Research
+**Greenhouse** · gitlab · Security & Compliance
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8697043002)
+🕐 Updated: 2026-10-26T14:25:22-04:00 | ID: 8697043002
+
+#### 🔄 Technical Support Engineer II - CoreWeave Forge
+**Greenhouse** · coreweave · Global Field Organization - COR
+📍 London, England | 🔗 [Apply Here](https://coreweave.com/careers/job?4610890006&board=coreweave&gh_jid=4610890006)
+🕐 Updated: 2026-10-26T14:25:06-04:00 | ID: 4610890006
+
+#### 🔄 Senior Director of Engineering, New Subjects
+**Greenhouse** · duolingo · Software Engineering
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8584465002?gh_jid=8584465002)
+🕐 Updated: 2026-10-26T14:24:41-04:00 | ID: 8584465002
+
+#### 🔄 Account Executive, Mid Market (Midwest)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609126?gh_jid=7609126)
+🕐 Updated: 2026-10-26T14:24:12-04:00 | ID: 7609126
+
+#### 🔄 Staff AI Research Engineer
+**Greenhouse** · duolingo · AI + Machine Learning Engineering
+📍 New York, NY; Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8610345002?gh_jid=8610345002)
+🕐 Updated: 2026-10-26T14:23:20-04:00 | ID: 8610345002
+
+#### 🔄 VP of Product, Growth and Monetization
+**Greenhouse** · duolingo · Product Management
+📍 New York, NY; Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8747077002?gh_jid=8747077002)
+🕐 Updated: 2026-10-26T14:21:41-04:00 | ID: 8747077002
+
+#### 🔄 Senior Product Manager, Growth
+**Greenhouse** · duolingo · Product Management
+📍 New York, NY; Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8747171002?gh_jid=8747171002)
+🕐 Updated: 2026-10-26T14:20:33-04:00 | ID: 8747171002
+
+#### 🔄 Senior/Software Engineer II, Android
+**Greenhouse** · duolingo · Software Engineering
+📍 New York, NY; Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002)
+🕐 Updated: 2026-10-26T14:19:20-04:00 | ID: 8628658002
+
+#### 🔄 Fraud Investigations Analyst
+**Greenhouse** · robinhood · Customer Trust and Safety
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972)
+🕐 Updated: 2026-10-26T14:18:00-04:00 | ID: 8226972
+
+#### 🔄 Principal Platform Security Engineer
+**Greenhouse** · upstart · Engineering Department
+📍 United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7593283)
+🕐 Updated: 2026-10-26T14:16:00-04:00 | ID: 7593283
+
+#### 🔄 Senior UX Researcher
+**Greenhouse** · fivetran · Product Department
+📍 Denver, Colorado, United States, AMER; Oakland, California, United States, AMER; USA - New York | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7990835003)
+🕐 Updated: 2026-10-26T14:13:13-04:00 | ID: 7990835003
+
+#### 🔄 Territory Account Executive, Retail - Austin East (Spanish/Bilingual)
+**Greenhouse** · toast · Sales : Retail Sales AEs
+📍 Austin, TX | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8161736)
+🕐 Updated: 2026-10-26T14:09:13-04:00 | ID: 8161736
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · fastly · APJ Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=6873321)
+🕐 Updated: 2026-10-26T14:03:00-04:00 | ID: 6873321
+
+#### 🔄 Machine Learning Engineer, Enterprise Brain
+**Greenhouse** · gleanwork · Engineering
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4744818005)
+🕐 Updated: 2026-10-26T14:00:44-04:00 | ID: 4744818005
+
+#### 🔄 Client Services Specialist, Prime
+**Greenhouse** · bitgo · Prime
+📍 New York, United States; Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8877400002)
+🕐 Updated: 2026-10-26T13:58:43-04:00 | ID: 8877400002
+
+#### 🔄 Principal TA Systems Architect
+**Greenhouse** · toast · G & A : HR Technology
+📍 Remote - US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8249036)
+🕐 Updated: 2026-10-26T13:52:45-04:00 | ID: 8249036
+
+#### 🔄 (New Grad) Account Development Representative II - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373)
+🕐 Updated: 2026-10-26T13:50:22-04:00 | ID: 8094373
+
+#### 🔄 Staff Software Engineer, Fraud
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7595407)
+🕐 Updated: 2026-10-26T13:49:33-04:00 | ID: 7595407
+
+#### 🔄 Account Executive, Enterprise (Chicago)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8180695)
+🕐 Updated: 2026-10-26T13:45:25-04:00 | ID: 8180695
+
+#### 🔄 Technical Support Engineer II -  CoreWeave Forge
+**Greenhouse** · coreweave · Global Field Organization - COR
+📍 Livingston, NJ / New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4711345006&board=coreweave&gh_jid=4711345006)
+🕐 Updated: 2026-10-26T13:38:25-04:00 | ID: 4711345006
+
+#### 🔄 Senior Software Engineer, MetalDev
+**Greenhouse** · coreweave · Technology
+📍 New York, NY / Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4681297006&board=coreweave&gh_jid=4681297006)
+🕐 Updated: 2026-10-26T13:36:47-04:00 | ID: 4681297006
+
+#### 🔄 Principal Software Engineer, Data Platform — Data Trust & AI Context
+**Greenhouse** · sofi · Data and AI Enablement
+📍 WA - Seattle; UT - Cottonwood Heights; CA - San Francisco | 🔗 [Apply Here](https://sofi.com/careers/job/8037984003?gh_jid=8037984003)
+🕐 Updated: 2026-10-26T13:34:17-04:00 | ID: 8037984003
+
+#### 🔄 Senior Staff Supply Chain Strategy Manager
+**Greenhouse** · checkr · Operations
+📍 Nashville, Tennessee, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/8133344)
+🕐 Updated: 2026-10-26T13:32:54-04:00 | ID: 8133344
+
+#### 🔄 Retail Account Executive (Toronto, ON)
+**Greenhouse** · toast · Sales : Retail Sales AEs
+📍 Toronto, ON | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8301665)
+🕐 Updated: 2026-10-26T13:31:36-04:00 | ID: 8301665
+
+#### 🔄 Sr. Regional Director, Enterprise (FedGov)
+**Greenhouse** · smartsheet · Enterprise Sales
+📍 Washington, D.C., USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8180767)
+🕐 Updated: 2026-10-26T13:30:47-04:00 | ID: 8180767
+
+#### 🔄 Account Executive, Portworx - Strategic Accounts - Telco (EMEA)
+**Greenhouse** · purestorage · Sales
+📍 Amsterdam, Netherlands; Munich, Germany; Paris, France; Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7597451)
+🕐 Updated: 2026-10-26T13:29:59-04:00 | ID: 7597451
+
+#### 🔄 Software Quality Operations Specialist
+**Greenhouse** · waymo · Triage (SQW)
+📍 Remote, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7456163)
+🕐 Updated: 2026-10-26T13:29:54-04:00 | ID: 7456163
+
+#### 🔄 Staff Firmware Engineer
+**Greenhouse** · samsara · Safety
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8081545?gh_jid=8081545)
+🕐 Updated: 2026-10-26T13:19:44-04:00 | ID: 8081545
+
+#### 🔄 Cloud Architect, Product Management
+**Greenhouse** · rubrik · Product
+📍 Seattle, WA (Remote) | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8314327?gh_jid=8314327)
+🕐 Updated: 2026-10-26T13:17:05-04:00 | ID: 8314327
+
+#### 🔄 Solutions Architect (Lakebase)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567985002)
+🕐 Updated: 2026-10-26T13:10:04-04:00 | ID: 8567985002
+
+#### 🔄 Customer Success Manager - Named Accounts
+**Greenhouse** · asana · Customer Success
+📍 Tokyo | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8201809?gh_jid=8201809)
+🕐 Updated: 2026-10-26T13:05:24-04:00 | ID: 8201809
+
+#### 🔄 Field Marketing Manager
+**Greenhouse** · asana · Revenue Marketing
+📍 New York City | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8237559?gh_jid=8237559)
+🕐 Updated: 2026-10-26T13:05:23-04:00 | ID: 8237559
+
+#### 🔄 Account Executive, FedCiv
+**Greenhouse** · cloudflare · Field Sales
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7695702?gh_jid=7695702)
+🕐 Updated: 2026-10-26T13:04:37-04:00 | ID: 7695702
+
+#### 🔄 Senior Product Manager - Financial Products
+**Greenhouse** · adyen · Product Management
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8280713)
+🕐 Updated: 2026-10-26T13:00:31-04:00 | ID: 8280713
+
+#### 🔄 Executive Assistant to the Chief Business Officer
+**Greenhouse** · dropbox · Sales Admin (Sub Team)
+📍 Remote - US: Select locations | 🔗 [Apply Here](https://jobs.dropbox.com/listing/8286535?gh_jid=8286535)
+🕐 Updated: 2026-10-26T12:59:03-04:00 | ID: 8286535
+
+#### 🔄 Business Development Representative, Auto Retail
+**Greenhouse** · upstart · Auto Department
+📍 Austin, TX, USA; United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8318333)
+🕐 Updated: 2026-10-26T12:54:46-04:00 | ID: 8318333
+
+#### 🔄 Strategic Core Account Executive - Retail
+**Greenhouse** · databricks · Enterprise Sales
+📍 Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8903091002)
+🕐 Updated: 2026-10-26T12:52:45-04:00 | ID: 8903091002
+
+#### 🔄 Staff Backend Engineer, User Safety
+**Greenhouse** · reddit · Safety - Tech & Ops
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8204924)
+🕐 Updated: 2026-10-26T12:51:51-04:00 | ID: 8204924
+
+#### 🔄 Principal Software Engineer, Capital Marketplace
+**Greenhouse** · upstart · Engineering Department
+📍 United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=6708637)
+🕐 Updated: 2026-10-26T12:50:22-04:00 | ID: 6708637
+
+#### 🔄 Senior Software Engineer, Marketplace Optimization
+**Greenhouse** · upstart · Engineering Department
+📍 United States | Remote | 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8056243)
+🕐 Updated: 2026-10-26T12:49:52-04:00 | ID: 8056243
+
+#### 🔄 Technical Accounting & Reporting Senior Manager
+**Greenhouse** · fivetran · Finance Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7875704003)
+🕐 Updated: 2026-10-26T12:47:41-04:00 | ID: 7875704003
+
+#### 🔄 Technical Accounting & Reporting Senior Manager
+**Greenhouse** · fivetran · Finance Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7977601003)
+🕐 Updated: 2026-10-26T12:47:41-04:00 | ID: 7977601003
+
+#### 🔄 Technical Accounting Senior Manager
+**Greenhouse** · fivetran · Finance Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8003707003)
+🕐 Updated: 2026-10-26T12:47:41-04:00 | ID: 8003707003
+
+#### 🔄 Technical Accounting Senior Manager
+**Greenhouse** · fivetran · Finance Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8003686003)
+🕐 Updated: 2026-10-26T12:47:41-04:00 | ID: 8003686003
+
+#### 🔄 Senior Staff Software Engineer
+**Greenhouse** · fivetran · Systems Engineering Department
+📍 Oakland, California, United States | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7818380003)
+🕐 Updated: 2026-10-26T12:47:39-04:00 | ID: 7818380003
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · yugabyte · Sales & Marketing
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/yugabyte/jobs/4683728006)
+🕐 Updated: 2026-10-26T12:35:42-04:00 | ID: 4683728006
+
+#### 🔄 Security Engineer - Incident Response
+**Greenhouse** · squarespace · Engineering
+📍 Dublin | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=8013777)
+🕐 Updated: 2026-10-26T12:32:47-04:00 | ID: 8013777
+
+#### 🔄 Software Engineer II
+**Greenhouse** · fivetran · Engineering Department
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7818394003)
+🕐 Updated: 2026-10-26T12:32:46-04:00 | ID: 7818394003
+
+#### 🔄 Technical Project Manager, Data Center Security
+**Greenhouse** · coreweave · Data Center - G&A
+📍 Las Vegas, NV | 🔗 [Apply Here](https://coreweave.com/careers/job?4722633006&board=coreweave&gh_jid=4722633006)
+🕐 Updated: 2026-10-26T12:27:10-04:00 | ID: 4722633006
+
+#### 🔄 Sr. Solutions Architect - Digital Native Business, Strategics
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Nevada; Remote - California; Remote - Colorado; Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8615045002)
+🕐 Updated: 2026-10-26T12:26:33-04:00 | ID: 8615045002
+
+#### 🔄 Account Servicing Associate
+**Greenhouse** · robinhood · Customer Care
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8319304?t=gh_src=&gh_jid=8319304)
+🕐 Updated: 2026-10-26T12:25:49-04:00 | ID: 8319304
+
+#### 🔄 Client Value Partner
+**Greenhouse** · celonis · Value Engineering
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7539067003?gh_jid=7539067003)
+🕐 Updated: 2026-10-26T12:25:42-04:00 | ID: 7539067003
+
+#### 🔄 Product Manager ll - Code Intelligence
+**Greenhouse** · datadog · Product Management
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8197852/?gh_jid=8197852)
+🕐 Updated: 2026-10-26T12:25:29-04:00 | ID: 8197852
+
+#### 🔄 Internal Communications, GTM
+**Greenhouse** · anthropic · Communications
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5442842008)
+🕐 Updated: 2026-10-26T12:25:04-04:00 | ID: 5442842008
+
+#### 🔄 Security Analyst
+**Greenhouse** · stripe · 8611 Security Analytics
+📍 US Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142302)
+🕐 Updated: 2026-10-26T12:25:02-04:00 | ID: 8142302
+
+#### 🔄 Technical Project Manager, Data Center Security
+**Greenhouse** · coreweave · Data Center - G&A
+📍 Livingston, NJ | 🔗 [Apply Here](https://coreweave.com/careers/job?4722379006&board=coreweave&gh_jid=4722379006)
+🕐 Updated: 2026-10-26T12:24:52-04:00 | ID: 4722379006
+
+#### 🔄 Critical Facilities Engineer
+**Greenhouse** · godaddy · Data Center
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7987643003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7987643003
+
+#### 🔄 Director Corporate Development
+**Greenhouse** · godaddy · Business Development
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7882531003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7882531003
+
+#### 🔄 Director Developer Platform Marketing and Growth
+**Greenhouse** · godaddy · Marketing
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7996280003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7996280003
+
+#### 🔄 Director Product Marketing Commerce Payments
+**Greenhouse** · godaddy · Marketing
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7993748003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7993748003
+
+#### 🔄 Global Adv Ops Hosting Specialist
+**Greenhouse** · godaddy · Care Technical Support
+📍 Romania | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7988197003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7988197003
+
+#### 🔄 Health and Safety Manager
+**Greenhouse** · godaddy · Project/Program Management
+📍 Romania | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7983722003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7983722003
+
+#### 🔄 Inside Sales Representative - Domain Sales (Mandarin/English)
+**Greenhouse** · godaddy · Aftermarket
+📍 China | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8036007003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8036007003
+
+#### 🔄 Manager, Data Centers
+**Greenhouse** · godaddy · Data Center
+📍 France | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7993855003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7993855003
+
+#### 🔄 Principal Engineer Cryptography
+**Greenhouse** · godaddy · Engineering
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=6646397003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 6646397003
+
+#### 🔄 Principal Product Manager - GoDaddy Capital
+**Greenhouse** · godaddy · Product Management
+📍 Ontario | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7523084003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7523084003
+
+#### 🔄 Regional Facilities Manager - EMEA
+**Greenhouse** · godaddy · Facilities & Physical Security
+📍 Serbia | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8028612003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8028612003
+
+#### 🔄 Revenue Accounting Manager
+**Greenhouse** · godaddy · Finance & Accounting
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8006349003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8006349003
+
+#### 🔄 Senior Ceph Storage Engineer- SRE
+**Greenhouse** · godaddy · IT Ops
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=6690965003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 6690965003
+
+#### 🔄 Senior Director Corporate Strategy
+**Greenhouse** · godaddy · Corporate
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7882533003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7882533003
+
+#### 🔄 Senior Engineer, Directory Services
+**Greenhouse** · godaddy · IT Ops
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7980663003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7980663003
+
+#### 🔄 Senior Manager - Business Analytics
+**Greenhouse** · godaddy · Business Analytics
+📍 Colombia | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7882541003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7882541003
+
+#### 🔄 Senior Manager - Product Marketing
+**Greenhouse** · godaddy · Marketing
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7993750003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7993750003
+
+#### 🔄 Senior Manager - Software Development
+**Greenhouse** · godaddy · ManagerCore
+📍 Gurugram, Haryana, India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8008792003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8008792003
+
+#### 🔄 Senior Product Manager
+**Greenhouse** · godaddy · Product Management
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8012565003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8012565003
+
+#### 🔄 Senior Security Engineer
+**Greenhouse** · godaddy · IT Ops
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7820547003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7820547003
+
+#### 🔄 Senior Site Reliability Engineer
+**Greenhouse** · godaddy · IT Ops
+📍 United Kingdom | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7882555003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7882555003
+
+#### 🔄 Senior Software Development Engineer
+**Greenhouse** · godaddy · Engineering
+📍 Colombia | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7753818003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7753818003
+
+#### 🔄 Senior Software Development Engineer
+**Greenhouse** · godaddy · Engineering
+📍 Canada | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8008790003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8008790003
+
+#### 🔄 Senior Software Engineer - FullStack
+**Greenhouse** · godaddy · Engineering
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7623124003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7623124003
+
+#### 🔄 Senior Tax Analyst
+**Greenhouse** · godaddy · Finance & Accounting
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8006347003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8006347003
+
+#### 🔄 Senior Technical Project Manager - Infosec
+**Greenhouse** · godaddy · Project/Program Management
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8008788003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8008788003
+
+#### 🔄 Site Reliability Engineer
+**Greenhouse** · godaddy · IT Ops
+📍 Romania | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7820533003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7820533003
+
+#### 🔄 Software Development Engineer - AI Services
+**Greenhouse** · godaddy · Engineering
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7836109003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7836109003
+
+#### 🔄 Staff Software Development Engineer
+**Greenhouse** · godaddy · Engineering
+📍 Canada | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=8012567003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 8012567003
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · godaddy · Engineering
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7882527003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7882527003
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · godaddy · Engineering
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7764894003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7764894003
+
+#### 🔄 Supervisor, Data Center
+**Greenhouse** · godaddy · Data Center
+📍 France | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7993742003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7993742003
+
+#### 🔄 Technical Support and Sales Rep
+**Greenhouse** · godaddy · Care Sales
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7983909003)
+🕐 Updated: 2026-10-26T12:22:36-04:00 | ID: 7983909003
+
+#### 🔄 Lead Machine Learning Engineer - ML Infrastructure
+**Greenhouse** · samsara · Safety AI
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7746586?gh_jid=7746586)
+🕐 Updated: 2026-10-26T12:20:43-04:00 | ID: 7746586
+
+#### 🔄 Lead Machine Learning Engineer - ML Infrastructure
+**Greenhouse** · samsara · Safety AI
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193)
+🕐 Updated: 2026-10-26T12:20:43-04:00 | ID: 7721193
+
+#### 🔄 Lead Product Manager, Engagement
+**Greenhouse** · lattice · Product
+📍 Remote - US | 🔗 [Apply Here](https://lattice.com/job?gh_jid=8875656002)
+🕐 Updated: 2026-10-26T12:20:33-04:00 | ID: 8875656002
+
+#### 🔄 Lead Product Manager, Engagement
+**Greenhouse** · lattice · Product
+📍 Remote - Canada | 🔗 [Apply Here](https://lattice.com/job?gh_jid=8841944002)
+🕐 Updated: 2026-10-26T12:20:31-04:00 | ID: 8841944002
+
+#### 🔄 Customer Success Associate - Boston
+**Greenhouse** · datadog · Commercial Customer Success
+📍 Boston, Massachusetts, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466)
+🕐 Updated: 2026-10-26T12:19:21-04:00 | ID: 7172466
+
+#### 🔄 Technical Services Engineer, Portworx (Shift: Monday - Friday from 9:00 AM - 6:00 PM PST)
+**Greenhouse** · purestorage · Services & Support
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8306078)
+🕐 Updated: 2026-10-26T12:14:22-04:00 | ID: 8306078
+
+#### 🔄 Engineering Manager, Workday
+**Greenhouse** · sofi · Information Technology
+📍 San Francisco, California | 🔗 [Apply Here](https://sofi.com/careers/job/8037980003?gh_jid=8037980003)
+🕐 Updated: 2026-10-26T12:06:31-04:00 | ID: 8037980003
+
+#### 🔄 Sr Staff Forward Deployed Engineer, Enterprise AI
+**Greenhouse** · sofi · Information Technology
+📍 WA - Seattle; CA - San Francisco; UT - Cottonwood Heights | 🔗 [Apply Here](https://sofi.com/careers/job/7996286003?gh_jid=7996286003)
+🕐 Updated: 2026-10-26T12:06:31-04:00 | ID: 7996286003
+
+#### 🔄 Staff Backend Engineer, Custody Core (Crypto Security)
+**Greenhouse** · sofi · Information Security
+📍 CA - San Francisco; WA - Seattle; NY - New York City; TX - Frisco; UT - Cottonwood Heights; MT - Helena; FL - Jacksonville | 🔗 [Apply Here](https://sofi.com/careers/job/7819801003?gh_jid=7819801003)
+🕐 Updated: 2026-10-26T12:06:31-04:00 | ID: 7819801003
+
+#### 🔄 Staff SRE- (Python, K8s, AWS, Terraform)
+**Greenhouse** · okta · Tech Ops-610
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8255902?gh_jid=8255902)
+🕐 Updated: 2026-10-26T12:02:23-04:00 | ID: 8255902
+
+#### 🔄 Staff Site Reliability Engineer - (Kubernetes, Terraform, AWS & Python)
+**Greenhouse** · okta · SW Eng - Infrastructure-672
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7307866?gh_jid=7307866)
+🕐 Updated: 2026-10-26T12:01:17-04:00 | ID: 7307866
+
+#### 🔄 Software Engineer, Product
+**Greenhouse** · descript · Engineering
+📍 San Francisco, CA or Remote, US | 🔗 [Apply Here](https://boards.greenhouse.io/descript/jobs/7986059003?gh_jid=7986059003)
+🕐 Updated: 2026-10-26T11:56:56-04:00 | ID: 7986059003
+
+#### 🔄 Deployment Engineer - London
+**Greenhouse** · celonis · Services
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037503003?gh_jid=8037503003)
+🕐 Updated: 2026-10-26T11:53:41-04:00 | ID: 8037503003
+
+#### 🔄 Consulting Field Solutions Architect, Cyber Resilience - SLED West
+**Greenhouse** · purestorage · Sales
+📍 Denver, Colorado; Los Angeles, California; Phoenix, Arizona; Salt Lake City, Utah; Santa Clara, California; Seattle, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8315041)
+🕐 Updated: 2026-10-26T11:49:47-04:00 | ID: 8315041
+
+#### 🔄 Senior Product Manager - US Public Sector
+**Greenhouse** · elastic · Platform - Control Plane
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8188365&gh_jid=8188365)
+🕐 Updated: 2026-10-26T11:48:23-04:00 | ID: 8188365
+
+#### 🔄 Staff Product Manager, AI Assistant
+**Greenhouse** · calendly · Product
+📍 San Francisco (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8728555002)
+🕐 Updated: 2026-10-26T11:34:16-04:00 | ID: 8728555002
+
+#### 🔄 Staff Product Manager, Engagement
+**Greenhouse** · calendly · Product
+📍 San Francisco (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8728557002)
+🕐 Updated: 2026-10-26T11:33:47-04:00 | ID: 8728557002
+
+#### 🔄 Regional Director
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Washington, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7991106003)
+🕐 Updated: 2026-10-26T11:32:46-04:00 | ID: 7991106003
+
+#### 🔄 Senior Commercial Partnerships Manager, Private Equity and Venture Capital
+**Greenhouse** · adyen · Partnerships
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7585767)
+🕐 Updated: 2026-10-26T11:30:33-04:00 | ID: 7585767
+
+#### 🔄 Industry Executive- Public Sector
+**Greenhouse** · databricks · Go To Market
+📍 Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438263002)
+🕐 Updated: 2026-10-26T11:26:58-04:00 | ID: 8438263002
+
+#### 🔄 Executive Assistant 3
+**Greenhouse** · twilio · Administration
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8281950)
+🕐 Updated: 2026-10-26T11:19:45-04:00 | ID: 8281950
+
+#### 🔄 Principal CRO and Web Analyst
+**Greenhouse** · datadog · Creative Marketing
+📍 New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8139161/?gh_jid=8139161)
+🕐 Updated: 2026-10-26T11:19:44-04:00 | ID: 8139161
+
+#### 🔄 Senior Accountant
+**Greenhouse** · carta · Accounting
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/8004094003)
+🕐 Updated: 2026-10-26T11:18:30-04:00 | ID: 8004094003
+
+#### 🔄 Senior Engineering Manager, Data Platform
+**Greenhouse** · duolingo · Software Engineering
+📍 New York, NY; Pittsburgh, PA | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8900546002?gh_jid=8900546002)
+🕐 Updated: 2026-10-26T11:16:41-04:00 | ID: 8900546002
+
+#### 🔄 Partner Development Manager, Banking
+**Greenhouse** · alloy · Sales
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8895502002&gh_jid=8895502002)
+🕐 Updated: 2026-10-26T11:08:08-04:00 | ID: 8895502002
+
+#### 🔄 Design Recruiter
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8163193)
+🕐 Updated: 2026-10-26T11:05:09-04:00 | ID: 8163193
+
+#### 🔄 Fraud Strategist
+**Greenhouse** · stripe · 3134 Fraud Risk Strategy
+📍 LOCATION | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8112448)
+🕐 Updated: 2026-10-26T11:04:50-04:00 | ID: 8112448
+
+#### 🔄 Risk Operations Analyst - SSO
+**Greenhouse** · stripe · 3110 User Policy Operations
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175824)
+🕐 Updated: 2026-10-26T11:04:20-04:00 | ID: 8175824
+
+#### 🔄 Risk Operations Analyst
+**Greenhouse** · stripe · 4891 Partner Risk Operations
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7230921)
+🕐 Updated: 2026-10-26T11:04:00-04:00 | ID: 7230921
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8169431?gh_jid=8169431)
+🕐 Updated: 2026-10-26T11:03:12-04:00 | ID: 8169431
+
+#### 🔄 GTM Recruiter (Fixed Term)
+**Greenhouse** · stripe · 6520 Recruiting
+📍 Chicago, Atlanta, US-Remote, Toro | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8016504)
+🕐 Updated: 2026-10-26T11:03:07-04:00 | ID: 8016504
+
+#### 🔄 Account Executive
+**Greenhouse** · braze · Sales
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8131994)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8131994
+
+#### 🔄 Account Executive
+**Greenhouse** · braze · Sales
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8131999)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8131999
+
+#### 🔄 Account Executive
+**Greenhouse** · braze · Sales
+📍 Munich | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8141353)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8141353
+
+#### 🔄 Account Executive
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8131983)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8131983
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · braze · Sales
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8232684)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8232684
+
+#### 🔄 Account Executive, Emerging Enterprise
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170786)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170786
+
+#### 🔄 Account Executive, Emerging Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8013433)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8013433
+
+#### 🔄 Account Executive, Emerging Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8013410)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8013410
+
+#### 🔄 Account Executive, Emerging Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8013411)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8013411
+
+#### 🔄 Account Executive, Emerging Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8013294)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8013294
+
+#### 🔄 Account Executive Enterprise
+**Greenhouse** · braze · Sales
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8088286)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8088286
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8072802)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8072802
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8186090)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8186090
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/7984560)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 7984560
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079453)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8079453
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079476)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8079476
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079491)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8079491
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Dubai | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8236472)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8236472
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8147280)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8147280
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8155340)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8155340
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8147282)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8147282
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8139393)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8139393
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8139390)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8139390
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8128818)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8128818
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Madrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8119341)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8119341
+
+#### 🔄 Account Executive, Enterprise - Financial Services
+**Greenhouse** · braze · Sales
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8284843)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8284843
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8159264)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8159264
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8159260)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8159260
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8146087)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8146087
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8159345)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8159345
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8073084)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8073084
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8078036)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8078036
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8078042)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8078042
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8078035)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8078035
+
+#### 🔄 Account Executive - Open Application
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/7954008)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 7954008
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8097434)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8097434
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8075042)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8075042
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8097449)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8097449
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8097447)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8097447
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039626)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039626
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039627)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039627
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039118)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039118
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039620)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039620
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8301790)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8301790
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8140251)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8140251
+
+#### 🔄 Account Executive, Scale, Financial Services
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8128627)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8128627
+
+#### 🔄 Account Executive, Scale, Financial Services
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8129303)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8129303
+
+#### 🔄 Account Executive, Scale, Financial Services
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8129299)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8129299
+
+#### 🔄 Account Executive, Scale, Financial Services
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8129309)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8129309
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8180540)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8180540
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8180530)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8180530
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8180534)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8180534
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8157337)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8157337
+
+#### 🔄 Account Executive, Scale - Mexico and Central America
+**Greenhouse** · braze · Sales
+📍 Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8167589)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8167589
+
+#### 🔄 Account Executive, Scale (Thailand and Vietnam market)
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079466)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8079466
+
+#### 🔄 Account Executive, SMB
+**Greenhouse** · braze · Sales
+📍 Dubai | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170904)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170904
+
+#### 🔄 Account Manager, Emerging Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8211991)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8211991
+
+#### 🔄 Account Manager, Emerging Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209139)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209139
+
+#### 🔄 Account Manager, Emerging Enterprise
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8212005)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8212005
+
+#### 🔄 Account Manager, Emerging Enterprise
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8212006)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8212006
+
+#### 🔄 Account Manager, Enterprise
+**Greenhouse** · braze · Sales
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8132272)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8132272
+
+#### 🔄 Account Manager, Enterprise
+**Greenhouse** · braze · Sales
+📍 Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8138346)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8138346
+
+#### 🔄 Account Manager, Scale
+**Greenhouse** · braze · Sales
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8131845)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8131845
+
+#### 🔄 APAC Communications Manager
+**Greenhouse** · braze · Marketing
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8034867)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8034867
+
+#### 🔄 Atlassian Administrator II
+**Greenhouse** · braze · Information Technology
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8302809)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8302809
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8154974)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8154974
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 Dubai | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8243113)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8243113
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8243115)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8243115
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8303843)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8303843
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8303845)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8303845
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8222430)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8222430
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8232749)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8232749
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8026505)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8026505
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8021977)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8021977
+
+#### 🔄 Business Development Representative, Enterprise
+**Greenhouse** · braze · Business Development
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8276040)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8276040
+
+#### 🔄 Customer Account Executive, Strategic Enterprise
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8285481)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8285481
+
+#### 🔄 Customer Account Executive, Strategic Enterprise
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8285499)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8285499
+
+#### 🔄 Customer Account Executive, Strategic Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8146089)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8146089
+
+#### 🔄 Customer Account Executive, Strategic Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8285494)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8285494
+
+#### 🔄 Customer Success Manager II
+**Greenhouse** · braze · Customer Experience
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8188661)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8188661
+
+#### 🔄 CX Operations Analyst
+**Greenhouse** · braze · GTM Operations
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8264994)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8264994
+
+#### 🔄 Data Scientist II (AI Deployment)
+**Greenhouse** · braze · Customer Experience
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/7668561)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 7668561
+
+#### 🔄 Deal Execution Analyst
+**Greenhouse** · braze · Finance
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8312678)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8312678
+
+#### 🔄 Digital Marketing Lead, Programmatic & Media
+**Greenhouse** · braze · Marketing
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8301722)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8301722
+
+#### 🔄 Director, Account Management, Sales SMB
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8185912)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8185912
+
+#### 🔄 Director, Applied AI Architects
+**Greenhouse** · braze · Growth
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8197642)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8197642
+
+#### 🔄 Director, Business Development JAPAC
+**Greenhouse** · braze · Business Development
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8130911)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8130911
+
+#### 🔄 Director, Customer Success, Enterprise
+**Greenhouse** · braze · Customer Experience
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8164560)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8164560
+
+#### 🔄 Director, Customer Success, Enterprise
+**Greenhouse** · braze · Customer Experience
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8162066)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8162066
+
+#### 🔄 Director, Customer Success, Enterprise
+**Greenhouse** · braze · Customer Experience
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8164569)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8164569
+
+#### 🔄 Director, Customer Success, Enterprise
+**Greenhouse** · braze · Customer Experience
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8164546)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8164546
+
+#### 🔄 Director, CX Business Systems
+**Greenhouse** · braze · Information Technology
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8049472)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8049472
+
+#### 🔄 Director, CX Business Systems
+**Greenhouse** · braze · Information Technology
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8060694)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8060694
+
+#### 🔄 Director, CX Business Systems
+**Greenhouse** · braze · Information Technology
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8060685)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8060685
+
+#### 🔄 Director, CX Business Systems
+**Greenhouse** · braze · Information Technology
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8052420)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8052420
+
+#### 🔄 Director, CX Business Systems
+**Greenhouse** · braze · Information Technology
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8060682)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8060682
+
+#### 🔄 Director, Lifecycle Marketing
+**Greenhouse** · braze · Marketing
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8240692)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8240692
+
+#### 🔄 Director, Lifecycle Marketing
+**Greenhouse** · braze · Marketing
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8226600)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8226600
+
+#### 🔄 Director, Lifecycle Marketing
+**Greenhouse** · braze · Marketing
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8240667)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8240667
+
+#### 🔄 Director, Lifecycle Marketing
+**Greenhouse** · braze · Marketing
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8240680)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8240680
+
+#### 🔄 Director Specialist Sales, AMER
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8220920)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8220920
+
+#### 🔄 Director Specialist Sales, AMER
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8220899)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8220899
+
+#### 🔄 Director Specialist Sales, AMER
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8214379)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8214379
+
+#### 🔄 Director Specialist Sales, AMER
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8211330)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8211330
+
+#### 🔄 Email Operations Principal
+**Greenhouse** · braze · Customer Experience
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223918)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8223918
+
+#### 🔄 Email Operations Principal
+**Greenhouse** · braze · Customer Experience
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223937)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8223937
+
+#### 🔄 Email Operations Principal
+**Greenhouse** · braze · Customer Experience
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223928)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8223928
+
+#### 🔄 Email Operations Principal
+**Greenhouse** · braze · Customer Experience
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8220722)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8220722
+
+#### 🔄 Engagement Manager, AI Deployment
+**Greenhouse** · braze · Customer Experience
+📍 Austin; Chicago; New York City; San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8233210)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8233210
+
+#### 🔄 Engagement Manager II
+**Greenhouse** · braze · Customer Experience
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8213083)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8213083
+
+#### 🔄 Engineering Manager, Landing Pages
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8171463)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8171463
+
+#### 🔄 Engineering Manager, Landing Pages
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8171061)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8171061
+
+#### 🔄 Engineering Manager, Landing Pages
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170902)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170902
+
+#### 🔄 Engineering Manager, Landing Pages
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8171062)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8171062
+
+#### 🔄 Engineering Manager, Landing Pages
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8171064)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8171064
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8303847)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8303847
+
+#### 🔄 Enterprise Account Executive, Brazil
+**Greenhouse** · braze · Sales
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8173666)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8173666
+
+#### 🔄 Enterprise Account Manager
+**Greenhouse** · braze · Sales
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8256683)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8256683
+
+#### 🔄 Enterprise Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8052314)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8052314
+
+#### 🔄 Executive Assistant
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8279315)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8279315
+
+#### 🔄 Executive Assistant, Legal
+**Greenhouse** · braze · Legal
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8114076)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8114076
+
+#### 🔄 Financial Analyst II, FP&A
+**Greenhouse** · braze · Finance
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8196046)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8196046
+
+#### 🔄 Financial Analyst II, FP&A
+**Greenhouse** · braze · Finance
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8196085)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8196085
+
+#### 🔄 Financial Analyst II, FP&A
+**Greenhouse** · braze · Finance
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8196080)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8196080
+
+#### 🔄 Financial Analyst II, FP&A
+**Greenhouse** · braze · Finance
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8196075)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8196075
+
+#### 🔄 Head of Legal Operations
+**Greenhouse** · braze · Legal
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8259692)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8259692
+
+#### 🔄 Intern, Software Engineering
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8301086)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8301086
+
+#### 🔄 IT Associate
+**Greenhouse** · braze · Engineering
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8010460)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8010460
+
+#### 🔄 Lead IAM Engineer
+**Greenhouse** · braze · Information Technology
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8177899)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8177899
+
+#### 🔄 Lead IAM Engineer
+**Greenhouse** · braze · Information Technology
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8191699)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8191699
+
+#### 🔄 Lead IAM Engineer
+**Greenhouse** · braze · Information Technology
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8205056)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8205056
+
+#### 🔄 Lead IAM Engineer
+**Greenhouse** · braze · Information Technology
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8205059)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8205059
+
+#### 🔄 Lead Product Manager, Banners & Content Cards
+**Greenhouse** · braze · Product
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209242)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209242
+
+#### 🔄 Lead Product Manager, Banners & Content Cards
+**Greenhouse** · braze · Product
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8194300)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8194300
+
+#### 🔄 Lead Product Manager, Banners & Content Cards
+**Greenhouse** · braze · Product
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8193400)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8193400
+
+#### 🔄 Lead Product Manager, Banners & Content Cards
+**Greenhouse** · braze · Product
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209238)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209238
+
+#### 🔄 Lead Product Manager, Banners & Content Cards
+**Greenhouse** · braze · Product
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209240)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209240
+
+#### 🔄 Lead Product Marketing, AI Decisioning Studio
+**Greenhouse** · braze · Marketing
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170850)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170850
+
+#### 🔄 Lead Product Marketing, AI Decisioning Studio
+**Greenhouse** · braze · Marketing
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170710)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170710
+
+#### 🔄 Lead Product Marketing, AI Decisioning Studio
+**Greenhouse** · braze · Marketing
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170821)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170821
+
+#### 🔄 Lead Product Marketing, AI Decisioning Studio
+**Greenhouse** · braze · Marketing
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170841)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170841
+
+#### 🔄 Lead Renewals Manager
+**Greenhouse** · braze · Finance
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8155668)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8155668
+
+#### 🔄 Lead Solutions Engineer, POC Operations
+**Greenhouse** · braze · Solutions Consulting
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8211807)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8211807
+
+#### 🔄 Lead Solutions Engineer, POC Operations
+**Greenhouse** · braze · Solutions Consulting
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8238106)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8238106
+
+#### 🔄 Lead Solutions Engineer, POC Operations
+**Greenhouse** · braze · Solutions Consulting
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8237697)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8237697
+
+#### 🔄 Lead Solutions Engineer, POC Operations
+**Greenhouse** · braze · Solutions Consulting
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8237686)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8237686
+
+#### 🔄 Lead System Administrator
+**Greenhouse** · braze · Information Technology
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8173848)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8173848
+
+#### 🔄 Lead, Technology Partners Product Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8089838)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8089838
+
+#### 🔄 Lead, Technology Partners Product Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8084140)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8084140
+
+#### 🔄 Lead, Technology Partners Product Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8089841)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8089841
+
+#### 🔄 Lifecycle Marketing Analyst, Prospect
+**Greenhouse** · braze · Marketing
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8105611)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8105611
+
+#### 🔄 Lifecycle Marketing Senior Specialist
+**Greenhouse** · braze · Marketing
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8096677)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8096677
+
+#### 🔄 Manager, Business Development
+**Greenhouse** · braze · Business Development
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8213913)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8213913
+
+#### 🔄 Manager, Customer Success
+**Greenhouse** · braze · Customer Experience
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8280791)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8280791
+
+#### 🔄 Partner Account Director
+**Greenhouse** · braze · Partnerships
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8286853)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8286853
+
+#### 🔄 Partner Account Director - Platinum Partner Development
+**Greenhouse** · braze · Partnerships
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8122381)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8122381
+
+#### 🔄 Partner Account Director - Platinum Partner Development
+**Greenhouse** · braze · Partnerships
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8110410)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8110410
+
+#### 🔄 Partner Account Director - Platinum Partner Development
+**Greenhouse** · braze · Partnerships
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8122380)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8122380
+
+#### 🔄 Partner Sales Director
+**Greenhouse** · braze · Partnerships
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8201264)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8201264
+
+#### 🔄 Partner Sales Director
+**Greenhouse** · braze · Partnerships
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274862)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274862
+
+#### 🔄 Partner Sales Director
+**Greenhouse** · braze · Partnerships
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274874)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274874
+
+#### 🔄 Partner Sales Director
+**Greenhouse** · braze · Partnerships
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274796)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274796
+
+#### 🔄 Partner Sales Director
+**Greenhouse** · braze · Partnerships
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8181443)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8181443
+
+#### 🔄 Partner Sales Manager Singapore (South East Asia)
+**Greenhouse** · braze · Partnerships
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223954)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8223954
+
+#### 🔄 People Solutions Generalist (12 month fixed term contract)
+**Greenhouse** · braze · People
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8264323)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8264323
+
+#### 🔄 Platform Software Engineer II
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8112110)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8112110
+
+#### 🔄 Principal, Strategic AI Sales
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8189634)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8189634
+
+#### 🔄 Principal, Strategic AI Sales
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8189655)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8189655
+
+#### 🔄 Principal, Strategic AI Sales
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8189650)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8189650
+
+#### 🔄 Principal, Strategic AI Sales
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8185916)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8185916
+
+#### 🔄 Recruiter / Talent Acquisition Partner
+**Greenhouse** · braze · People
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8201492)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8201492
+
+#### 🔄 Sales Director, Commercial
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8130222)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8130222
+
+#### 🔄 Sales Director, Enterprise
+**Greenhouse** · braze · Sales
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/7984582)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 7984582
+
+#### 🔄 Sales Director, Enterprise, ANZ
+**Greenhouse** · braze · Sales
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8131728)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8131728
+
+#### 🔄 Sales Director, Latam
+**Greenhouse** · braze · Sales
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8157434)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8157434
+
+#### 🔄 Sales Director, Retail & Consumer Goods
+**Greenhouse** · braze · Sales
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8248794)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8248794
+
+#### 🔄 Sales Director, Scale
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8275975)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8275975
+
+#### 🔄 Sales Director, South Korea
+**Greenhouse** · braze · Sales
+📍 Seoul | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8158102)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8158102
+
+#### 🔄 Sales Operations Systems and Data Lead
+**Greenhouse** · braze · GTM Operations
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8249906)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8249906
+
+#### 🔄 Sales Operations Systems and Data Lead
+**Greenhouse** · braze · GTM Operations
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8267729)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8267729
+
+#### 🔄 Senior Account Executive, Emerging Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8074838)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8074838
+
+#### 🔄 Senior Account Executive, Emerging Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8069434)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8069434
+
+#### 🔄 Senior Account Executive, Strategic Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8010543)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8010543
+
+#### 🔄 Senior Account Executive, Strategic Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8014513)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8014513
+
+#### 🔄 Senior Account Executive, Strategic Enterprise
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8014514)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8014514
+
+#### 🔄 Senior Account Executive, Strategic Enterprise MEGS
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8171477)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8171477
+
+#### 🔄 Senior Account Executive, Strategic Enterprise MEGS
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8140005)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8140005
+
+#### 🔄 Senior Account Executive, Strategic Enterprise MEGS
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8171465)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8171465
+
+#### 🔄 Senior Account Executive, Strategic Enterprise MEGS
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8171470)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8171470
+
+#### 🔄 Senior Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8242573)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8242573
+
+#### 🔄 Senior Business Development Respresentative - French Speaker
+**Greenhouse** · braze · Business Development
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274093)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274093
+
+#### 🔄 Senior Business Development Respresentative - Hebrew Speaker
+**Greenhouse** · braze · Business Development
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274247)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274247
+
+#### 🔄 Senior Business Development Respresentative - Spanish Speaker
+**Greenhouse** · braze · Business Development
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274237)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274237
+
+#### 🔄 Senior CSM, Financial Services
+**Greenhouse** · braze · Customer Experience
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8306881)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8306881
+
+#### 🔄 Senior CSM, Financial Services
+**Greenhouse** · braze · Customer Experience
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8306885)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8306885
+
+#### 🔄 Senior CSM, Financial Services
+**Greenhouse** · braze · Customer Experience
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8285446)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8285446
+
+#### 🔄 Senior CSM, Financial Services
+**Greenhouse** · braze · Customer Experience
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8306869)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8306869
+
+#### 🔄 Senior CSM, Media and Entertainment
+**Greenhouse** · braze · Customer Experience
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8315917)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8315917
+
+#### 🔄 Senior CSM, Media and Entertainment
+**Greenhouse** · braze · Customer Experience
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8315921)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8315921
+
+#### 🔄 Senior CSM, Media and Entertainment
+**Greenhouse** · braze · Customer Experience
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8285443)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8285443
+
+#### 🔄 Senior CSM, Media and Entertainment
+**Greenhouse** · braze · Customer Experience
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8315913)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8315913
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8155119)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8155119
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8195767)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8195767
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8177564)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8177564
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8155118)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8155118
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8155117)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8155117
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8142617)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8142617
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · braze · Customer Experience
+📍 Seoul | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8090590)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8090590
+
+#### 🔄 Senior Customer Success Manager (Thai Speaking)
+**Greenhouse** · braze · Customer Experience
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8161761)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8161761
+
+#### 🔄 Senior Database Administrator
+**Greenhouse** · braze · Engineering
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209268)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209268
+
+#### 🔄 Senior Delivery Manager
+**Greenhouse** · braze · Customer Experience
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8177660)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8177660
+
+#### 🔄 Senior Director, GTM Product Marketing
+**Greenhouse** · braze · Marketing
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8089828)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8089828
+
+#### 🔄 Senior Director, GTM Product Marketing
+**Greenhouse** · braze · Marketing
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8089827)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8089827
+
+#### 🔄 Senior Director, GTM Product Marketing
+**Greenhouse** · braze · Marketing
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8089479)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8089479
+
+#### 🔄 Senior Director, GTM Product Marketing
+**Greenhouse** · braze · Marketing
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8089829)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8089829
+
+#### 🔄 Senior Director, Marketing
+**Greenhouse** · braze · Marketing
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8212960)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8212960
+
+#### 🔄 Senior Email Deliverability Consultant
+**Greenhouse** · braze · Customer Experience
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8232845)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8232845
+
+#### 🔄 Senior Email Deliverability Consultant
+**Greenhouse** · braze · Customer Experience
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8225835)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8225835
+
+#### 🔄 Senior Email Deliverability Consultant
+**Greenhouse** · braze · Customer Experience
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8232844)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8232844
+
+#### 🔄 Senior Employer Brand & Employee Experience Specialist
+**Greenhouse** · braze · People
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8179676)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8179676
+
+#### 🔄 Senior Lead Field Architect
+**Greenhouse** · braze · Solutions Consulting
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039731)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039731
+
+#### 🔄 Senior Lead Field Architect
+**Greenhouse** · braze · Solutions Consulting
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039735)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039735
+
+#### 🔄 Senior Lead Field Architect
+**Greenhouse** · braze · Solutions Consulting
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039727)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039727
+
+#### 🔄 Senior Lead Field Architect
+**Greenhouse** · braze · Solutions Consulting
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039383)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039383
+
+#### 🔄 Senior Lead Systems Engineer
+**Greenhouse** · braze · Information Technology
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8109973)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8109973
+
+#### 🔄 Senior Lead Systems Engineer
+**Greenhouse** · braze · Information Technology
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8110018)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8110018
+
+#### 🔄 Senior Lead Systems Engineer, AI & Automation
+**Greenhouse** · braze · Information Technology
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8082030)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8082030
+
+#### 🔄 Senior Lead Systems Engineer, AI & Automation
+**Greenhouse** · braze · Information Technology
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8109995)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8109995
+
+#### 🔄 Senior Partner Account Director - Technology Partnerships - AWS
+**Greenhouse** · braze · Partnerships
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8115092)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8115092
+
+#### 🔄 Senior Partner Account Director - Technology Partnerships - AWS
+**Greenhouse** · braze · Partnerships
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8145908)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8145908
+
+#### 🔄 Senior Partner Account Director - Technology Partnerships - AWS
+**Greenhouse** · braze · Partnerships
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8145903)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8145903
+
+#### 🔄 Senior Partner Account Director - Technology Partnerships - AWS
+**Greenhouse** · braze · Partnerships
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8145911)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8145911
+
+#### 🔄 Senior Partner Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8139811)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8139811
+
+#### 🔄 Senior Partner Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8139640)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8139640
+
+#### 🔄 Senior Partner Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8144376)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8144376
+
+#### 🔄 Senior Partner Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8165281)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8165281
+
+#### 🔄 Senior Platform Software Engineer I
+**Greenhouse** · braze · Engineering
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8246027)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8246027
+
+#### 🔄 Senior Platform Software Engineer II
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039381)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8039381
+
+#### 🔄 Senior Product Designer, Data
+**Greenhouse** · braze · Product
+📍 Vancouver | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223381)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8223381
+
+#### 🔄 Senior Product Designer, Data
+**Greenhouse** · braze · Product
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8211012)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8211012
+
+#### 🔄 Senior Sales Operations Analyst
+**Greenhouse** · braze · GTM Operations
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8187014)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8187014
+
+#### 🔄 Senior Sales Operations Analyst
+**Greenhouse** · braze · GTM Operations
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8173850)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8173850
+
+#### 🔄 Senior Security Engineer, Enterprise Security
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8071700)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8071700
+
+#### 🔄 Senior Security Engineer, Enterprise Security
+**Greenhouse** · braze · Engineering
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/7963381)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 7963381
+
+#### 🔄 Senior Security Engineer, Enterprise Security
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8083534)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8083534
+
+#### 🔄 Senior Security Engineer, Enterprise Security
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8077458)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8077458
+
+#### 🔄 Senior Security Engineer, Enterprise Security
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8077456)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8077456
+
+#### 🔄 Senior Security Engineer, Enterprise Security
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8077454)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8077454
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8080170)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8080170
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · braze · Engineering
+📍 Atlanta | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8140267)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8140267
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8084146)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8084146
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · braze · Engineering
+📍 Boston | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8140264)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8140264
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8153924)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8153924
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8084145)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8084145
+
+#### 🔄 Senior Security Engineer II
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8084144)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8084144
+
+#### 🔄 Senior Site Reliability Engineer I
+**Greenhouse** · braze · Engineering
+📍 Vancouver | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8161897)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8161897
+
+#### 🔄 Senior Site Reliability Engineer I
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8161894)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8161894
+
+#### 🔄 Senior Site Reliability Engineer I
+**Greenhouse** · braze · Engineering
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8114074)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8114074
+
+#### 🔄 Senior Software Engineer I
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8226922)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8226922
+
+#### 🔄 Senior Software Engineer I
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8226920)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8226920
+
+#### 🔄 Senior Software Engineer I
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8207903)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8207903
+
+#### 🔄 Senior Software Engineer I
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8226919)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8226919
+
+#### 🔄 Senior Software Engineer I
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8226918)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8226918
+
+#### 🔄 Senior Software Engineer I
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8226604)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8226604
+
+#### 🔄 Senior Software Engineer I, Core Objects
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8247538)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8247538
+
+#### 🔄 Senior Software Engineer I, Email
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8226558)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8226558
+
+#### 🔄 Senior Software Engineer I, Email
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8214372)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8214372
+
+#### 🔄 Senior Software Engineer I, Email
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8214370)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8214370
+
+#### 🔄 Senior Software Engineer I, Email
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8214368)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8214368
+
+#### 🔄 Senior Software Engineer I, Email
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8214281)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8214281
+
+#### 🔄 Senior Software Engineer II, BrazeAI Operator
+**Greenhouse** · braze · Engineering
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/7947577)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 7947577
+
+#### 🔄 Senior Software Engineer II, Data Lakehouse
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8232097)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8232097
+
+#### 🔄 Senior Software Engineer II, Decisioning Studio Integrations Team
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8290020)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8290020
+
+#### 🔄 Senior Software Engineer II, Decisioning Studio Integrations Team
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8289921)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8289921
+
+#### 🔄 Senior Software Engineer II, Decisioning Studio Integrations Team
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8290003)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8290003
+
+#### 🔄 Senior Software Engineer II, Decisioning Studio Integrations Team
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8290011)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8290011
+
+#### 🔄 Senior Software Engineer II, Decisioning Studio Integrations Team
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8290016)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8290016
+
+#### 🔄 Senior Software Engineer I, Product Partnerships
+**Greenhouse** · braze · Engineering
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8191274)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8191274
+
+#### 🔄 Senior Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8246096)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8246096
+
+#### 🔄 Senior Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8264821)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8264821
+
+#### 🔄 Senior Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8264842)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8264842
+
+#### 🔄 Senior Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8243022)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8243022
+
+#### 🔄 Senior Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8264838)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8264838
+
+#### 🔄 Senior Staff Monetization and Pricing Strategist
+**Greenhouse** · braze · Growth
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8173613)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8173613
+
+#### 🔄 Senior Staff Monetization and Pricing Strategist
+**Greenhouse** · braze · Growth
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8192072)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8192072
+
+#### 🔄 Senior Technical Architect
+**Greenhouse** · braze · Customer Experience
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8304482)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8304482
+
+#### 🔄 Senior Technical Architect
+**Greenhouse** · braze · Customer Experience
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8262600)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8262600
+
+#### 🔄 Senior Technical Architect
+**Greenhouse** · braze · Customer Experience
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8264729)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8264729
+
+#### 🔄 Senior Technical Architect
+**Greenhouse** · braze · Customer Experience
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8304484)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8304484
+
+#### 🔄 Senior Technical Architect
+**Greenhouse** · braze · Customer Experience
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8304449)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8304449
+
+#### 🔄 Senior Technical Recruiter (6-month Fixed-Term Contract)
+**Greenhouse** · braze · People
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8191278)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8191278
+
+#### 🔄 Senior Technical Recruiter (6-month Fixed-Term Contract)
+**Greenhouse** · braze · People
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8315188)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8315188
+
+#### 🔄 Senior Technical Solutions Engineer
+**Greenhouse** · braze · Solutions Consulting
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8222735)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8222735
+
+#### 🔄 Senior Technical Support Specialist
+**Greenhouse** · braze · Customer Experience
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8045092)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8045092
+
+#### 🔄 Software Engineer II
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8220764)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8220764
+
+#### 🔄 Software Engineer II, Data Lakehouse
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8222294)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8222294
+
+#### 🔄 Software Engineer II, User Targeting
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8262294)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8262294
+
+#### 🔄 Software Engineer II, User Targeting
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8262953)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8262953
+
+#### 🔄 Software Engineer II, User Targeting
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8262966)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8262966
+
+#### 🔄 Software Engineer II, User Targeting
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8262968)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8262968
+
+#### 🔄 Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8201757)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8201757
+
+#### 🔄 Solutions Consultant
+**Greenhouse** · braze · Sales
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8045088)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8045088
+
+#### 🔄 Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8202088)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8202088
+
+#### 🔄 Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8201582)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8201582
+
+#### 🔄 Solutions Consultant
+**Greenhouse** · braze · Solutions Consulting
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8202078)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8202078
+
+#### 🔄 Solutions Consultant Sydney (ANZ)
+**Greenhouse** · braze · Solutions Consulting
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8222296)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8222296
+
+#### 🔄 Sr. Solution Consultant, Financial Services
+**Greenhouse** · braze · Solutions Consulting
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8243020)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8243020
+
+#### 🔄 Sr. Solution Consultant, Financial Services
+**Greenhouse** · braze · Solutions Consulting
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8257568)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8257568
+
+#### 🔄 Sr. Solution Consultant, Financial Services
+**Greenhouse** · braze · Solutions Consulting
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8257562)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8257562
+
+#### 🔄 Staff Applied Scientist
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170739)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170739
+
+#### 🔄 Staff Applied Scientist
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170743)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170743
+
+#### 🔄 Staff Applied Scientist
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8159431)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8159431
+
+#### 🔄 Staff Applied Scientist
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8170742)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8170742
+
+#### 🔄 Staff Machine Learning Engineer, ML Platform
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209425)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209425
+
+#### 🔄 Staff Machine Learning Engineer, ML Platform
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8195997)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8195997
+
+#### 🔄 Staff Machine Learning Engineer, ML Platform
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209438)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209438
+
+#### 🔄 Staff Machine Learning Engineer, ML Platform
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8209434)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8209434
+
+#### 🔄 Staff Software Engineer, User Targeting
+**Greenhouse** · braze · Engineering
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8238548)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8238548
+
+#### 🔄 Staff Software Engineer, User Targeting
+**Greenhouse** · braze · Engineering
+📍 Toronto | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8249767)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8249767
+
+#### 🔄 Staff Software Engineer, User Targeting
+**Greenhouse** · braze · Engineering
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8238544)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8238544
+
+#### 🔄 Staff Software Engineer, User Targeting
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8238534)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8238534
+
+#### 🔄 Staff Software Engineer, User Targeting
+**Greenhouse** · braze · Engineering
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8238546)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8238546
+
+#### 🔄 Support Engagement Lead
+**Greenhouse** · braze · Customer Experience
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8122824)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8122824
+
+#### 🔄 Systems Engineer II
+**Greenhouse** · braze · Information Technology
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8273690)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8273690
+
+#### 🔄 Talent Acquisition Operations Generalist
+**Greenhouse** · braze · People
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8248782)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8248782
+
+#### 🔄 Talent Development Operations & Program Specialist
+**Greenhouse** · braze · People
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8192090)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8192090
+
+#### 🔄 Talent Development Operations & Program Specialist
+**Greenhouse** · braze · People
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8233252)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8233252
+
+#### 🔄 Technical Architect
+**Greenhouse** · braze · Customer Experience
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8223809)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8223809
+
+#### 🔄 Technical Support Specialist
+**Greenhouse** · braze · Customer Experience
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8313344)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8313344
+
+#### 🔄 Technology Partners Product Marketing Manager
+**Greenhouse** · braze · Marketing
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8089842)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8089842
+
+#### 🔄 VP, Product Engineering
+**Greenhouse** · braze · Engineering
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8186643)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8186643
+
+#### 🔄 Web Marketing Program Coordinator
+**Greenhouse** · braze · Marketing
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274108)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274108
+
+#### 🔄 Web Marketing Program Coordinator
+**Greenhouse** · braze · Marketing
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274618)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274618
+
+#### 🔄 Web Marketing Program Coordinator
+**Greenhouse** · braze · Marketing
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274629)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274629
+
+#### 🔄 Web Marketing Program Coordinator
+**Greenhouse** · braze · Marketing
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8274636)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8274636
+
+#### 🔄 Workplace Experience Analyst
+**Greenhouse** · braze · People
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8300854)
+🕐 Updated: 2026-10-26T11:03:00-04:00 | ID: 8300854
+
+#### 🔄 Senior Manager, Event Operations
+**Greenhouse** · mongodb · Strategic Events
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8190019)
+🕐 Updated: 2026-10-26T11:00:23-04:00 | ID: 8190019
+
+#### 🔄 Production Director (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639961002?gh_jid=8639961002)
+🕐 Updated: 2026-10-26T10:57:38-04:00 | ID: 8639961002
+
+#### 🔄 Product Security Engineer
+**Greenhouse** · cloudflare · Security
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8102768?gh_jid=8102768)
+🕐 Updated: 2026-10-26T10:55:26-04:00 | ID: 8102768
+
+#### 🔄 Global HR Operations Specialist
+**Greenhouse** · payoneer · WFM
+📍 Buenos Aires, Argentina | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8273579/?gh_jid=8273579)
+🕐 Updated: 2026-10-26T10:54:17-04:00 | ID: 8273579
+
+#### 🔄 Senior Product Manager - Data, Machine Learning & GenAI Platform
+**Greenhouse** · adyen · Product Management
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8164042)
+🕐 Updated: 2026-10-26T10:48:20-04:00 | ID: 8164042
+
+#### 🔄 Senior Capture Manager
+**Greenhouse** · datadog · Channels & Alliances
+📍 District of Columbia, USA, Remote; Maryland, USA, Remote; New York, USA, Remote; Virginia, USA, Remote | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8113116/?gh_jid=8113116)
+🕐 Updated: 2026-10-26T10:47:12-04:00 | ID: 8113116
+
+#### 🔄 Senior Financial Analyst - Strategic GTM Finance
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8414474002)
+🕐 Updated: 2026-10-26T10:43:42-04:00 | ID: 8414474002
+
+#### 🔄 Director, Security Channels (North America)
+**Greenhouse** · datadog · Channels & Alliances
+📍 Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; Texas, USA, Remote | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985)
+🕐 Updated: 2026-10-26T10:41:52-04:00 | ID: 7984985
+
+#### 🔄 Senior Frontend Software Engineer, Consumer Engineering
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8147617)
+🕐 Updated: 2026-10-26T10:39:44-04:00 | ID: 8147617
+
+#### 🔄 Staff Software Engineer, iOS Platform
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8311209)
+🕐 Updated: 2026-10-26T10:39:19-04:00 | ID: 8311209
+
+#### 🔄 Senior iOS Engineer, Media Experience
+**Greenhouse** · reddit · Consumer Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8211850)
+🕐 Updated: 2026-10-26T10:38:23-04:00 | ID: 8211850
+
+#### 🔄 Senior iOS Software Engineer, Consumer Engineering
+**Greenhouse** · reddit · Consumer Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8263374)
+🕐 Updated: 2026-10-26T10:38:23-04:00 | ID: 8263374
+
+#### 🔄 Senior Android Software Engineer, Consumer Engineering
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8263407)
+🕐 Updated: 2026-10-26T10:37:50-04:00 | ID: 8263407
+
+#### 🔄 Senior Network Engineer
+**Greenhouse** · twilio · IT
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7657993)
+🕐 Updated: 2026-10-26T10:36:43-04:00 | ID: 7657993
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · twilio · Product Management
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7904293)
+🕐 Updated: 2026-10-26T10:36:33-04:00 | ID: 7904293
+
+#### 🔄 Applications Engineer 2
+**Greenhouse** · twilio · Sales Operations
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781659)
+🕐 Updated: 2026-10-26T10:36:24-04:00 | ID: 7781659
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7785025)
+🕐 Updated: 2026-10-26T10:36:20-04:00 | ID: 7785025
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8015771)
+🕐 Updated: 2026-10-26T10:36:05-04:00 | ID: 8015771
+
+#### 🔄 Strategic Account Executive (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7865849)
+🕐 Updated: 2026-10-26T10:36:01-04:00 | ID: 7865849
+
+#### 🔄 Security Engineer, Incident Response
+**Greenhouse** · twilio · Security
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8023560)
+🕐 Updated: 2026-10-26T10:35:51-04:00 | ID: 8023560
+
+#### 🔄 Security Engineer, Incident Response
+**Greenhouse** · twilio · Security
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8055481)
+🕐 Updated: 2026-10-26T10:35:51-04:00 | ID: 8055481
+
+#### 🔄 Machine Learning Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7996774)
+🕐 Updated: 2026-10-26T10:35:46-04:00 | ID: 7996774
+
+#### 🔄 Presales Engineer (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8000178)
+🕐 Updated: 2026-10-26T10:35:38-04:00 | ID: 8000178
+
+#### 🔄 Staff Software Engineer, DevPlatform
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8049901)
+🕐 Updated: 2026-10-26T10:35:34-04:00 | ID: 8049901
+
+#### 🔄 Solution Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8114393)
+🕐 Updated: 2026-10-26T10:35:08-04:00 | ID: 8114393
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8064090)
+🕐 Updated: 2026-10-26T10:34:59-04:00 | ID: 8064090
+
+#### 🔄 Fast Track Operations Specialist 2
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8097524)
+🕐 Updated: 2026-10-26T10:34:56-04:00 | ID: 8097524
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8028958)
+🕐 Updated: 2026-10-26T10:34:54-04:00 | ID: 8028958
+
+#### 🔄 Staff Software Engineer, Consumer Engineering
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8205702)
+🕐 Updated: 2026-10-26T10:34:41-04:00 | ID: 8205702
+
+#### 🔄 Senior Software Engineer, Consumer Engineering
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187247)
+🕐 Updated: 2026-10-26T10:34:21-04:00 | ID: 8187247
+
+#### 🔄 Software Engineer, Consumer Engineering
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8172457)
+🕐 Updated: 2026-10-26T10:34:03-04:00 | ID: 8172457
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8071710)
+🕐 Updated: 2026-10-26T10:33:58-04:00 | ID: 8071710
+
+#### 🔄 Software Engineer (Observability)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8108771)
+🕐 Updated: 2026-10-26T10:33:56-04:00 | ID: 8108771
+
+#### 🔄 Strategic Account Excecutive
+**Greenhouse** · twilio · Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8076981)
+🕐 Updated: 2026-10-26T10:33:53-04:00 | ID: 8076981
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157509)
+🕐 Updated: 2026-10-26T10:33:46-04:00 | ID: 8157509
+
+#### 🔄 Senior Strategic Account Executive (French Speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157507)
+🕐 Updated: 2026-10-26T10:33:43-04:00 | ID: 8157507
+
+#### 🔄 Digital Sales Representative
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8168599)
+🕐 Updated: 2026-10-26T10:33:20-04:00 | ID: 8168599
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8160532)
+🕐 Updated: 2026-10-26T10:33:12-04:00 | ID: 8160532
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Solutions Engineering
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8243073)
+🕐 Updated: 2026-10-26T10:33:09-04:00 | ID: 8243073
+
+#### 🔄 Staff Software Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8240288)
+🕐 Updated: 2026-10-26T10:33:04-04:00 | ID: 8240288
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8244723)
+🕐 Updated: 2026-10-26T10:32:56-04:00 | ID: 8244723
+
+#### 🔄 New Business Account Executive
+**Greenhouse** · twilio · Sales Development
+📍 Remote - Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8125581)
+🕐 Updated: 2026-10-26T10:32:47-04:00 | ID: 8125581
+
+#### 🔄 New Business Account Executive (German speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8143768)
+🕐 Updated: 2026-10-26T10:32:33-04:00 | ID: 8143768
+
+#### 🔄 Product Manager L2 (mid-level)
+**Greenhouse** · twilio · Product Management
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8136763)
+🕐 Updated: 2026-10-26T10:32:26-04:00 | ID: 8136763
+
+#### 🔄 Front End Software Engineer, Consumer Engineering
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8147559)
+🕐 Updated: 2026-10-26T10:32:24-04:00 | ID: 8147559
+
+#### 🔄 Front End Software Engineer, Media Player
+**Greenhouse** · reddit · Consumer Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8198102)
+🕐 Updated: 2026-10-26T10:32:24-04:00 | ID: 8198102
+
+#### 🔄 Digital Marketing Manager
+**Greenhouse** · twilio · Marketing
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8176810)
+🕐 Updated: 2026-10-26T10:32:17-04:00 | ID: 8176810
+
+#### 🔄 Inside Sales - Representative (Active) 2
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256373)
+🕐 Updated: 2026-10-26T10:32:05-04:00 | ID: 8256373
+
+#### 🔄 Senior International Payroll Analyst
+**Greenhouse** · twilio · Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8249285)
+🕐 Updated: 2026-10-26T10:32:02-04:00 | ID: 8249285
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8178812)
+🕐 Updated: 2026-10-26T10:31:59-04:00 | ID: 8178812
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8247286)
+🕐 Updated: 2026-10-26T10:31:50-04:00 | ID: 8247286
+
+#### 🔄 Software Development Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8170597)
+🕐 Updated: 2026-10-26T10:31:47-04:00 | ID: 8170597
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8206834)
+🕐 Updated: 2026-10-26T10:31:40-04:00 | ID: 8206834
+
+#### 🔄 Staff, Escalations Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8207721)
+🕐 Updated: 2026-10-26T10:31:37-04:00 | ID: 8207721
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8204407)
+🕐 Updated: 2026-10-26T10:31:33-04:00 | ID: 8204407
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261710)
+🕐 Updated: 2026-10-26T10:31:30-04:00 | ID: 8261710
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · twilio · Sales Development
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261528)
+🕐 Updated: 2026-10-26T10:31:23-04:00 | ID: 8261528
+
+#### 🔄 Presales Architect
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8262189)
+🕐 Updated: 2026-10-26T10:31:13-04:00 | ID: 8262189
+
+#### 🔄 Payroll Tax and Compliance Analyst
+**Greenhouse** · twilio · Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8265268)
+🕐 Updated: 2026-10-26T10:31:09-04:00 | ID: 8265268
+
+#### 🔄 Technical Account Manager 4
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8201630)
+🕐 Updated: 2026-10-26T10:31:04-04:00 | ID: 8201630
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8207696)
+🕐 Updated: 2026-10-26T10:30:52-04:00 | ID: 8207696
+
+#### 🔄 Staff Machine Learning Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258593)
+🕐 Updated: 2026-10-26T10:30:46-04:00 | ID: 8258593
+
+#### 🔄 Staff Machine Learning Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ontario, Canada (DNU) | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258589)
+🕐 Updated: 2026-10-26T10:30:39-04:00 | ID: 8258589
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8226571)
+🕐 Updated: 2026-10-26T10:30:31-04:00 | ID: 8226571
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258962)
+🕐 Updated: 2026-10-26T10:30:27-04:00 | ID: 8258962
+
+#### 🔄 Machine Learning Engineer (L3)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258587)
+🕐 Updated: 2026-10-26T10:30:20-04:00 | ID: 8258587
+
+#### 🔄 Billing Operations Analyst 1
+**Greenhouse** · twilio · Accounting
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261245)
+🕐 Updated: 2026-10-26T10:30:01-04:00 | ID: 8261245
+
+#### 🔄 Phone Numbers Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261277)
+🕐 Updated: 2026-10-26T10:29:53-04:00 | ID: 8261277
+
+#### 🔄 Compliance Operations Specialist 1
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8197328)
+🕐 Updated: 2026-10-26T10:29:50-04:00 | ID: 8197328
+
+#### 🔄 Fraud Specialist, Supplier Operations & Governance
+**Greenhouse** · twilio · Carrier Relations/Carrier Ops
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8292798)
+🕐 Updated: 2026-10-26T10:29:45-04:00 | ID: 8292798
+
+#### 🔄 Principal Presales Engineer, Product Specialist
+**Greenhouse** · twilio · Sales
+📍 Remote - Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8267928)
+🕐 Updated: 2026-10-26T10:29:38-04:00 | ID: 8267928
+
+#### 🔄 Senior Internal Auditor
+**Greenhouse** · twilio · Finance
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256912)
+🕐 Updated: 2026-10-26T10:29:32-04:00 | ID: 8256912
+
+#### 🔄 People Generalist
+**Greenhouse** · twilio · People Team
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256431)
+🕐 Updated: 2026-10-26T10:29:12-04:00 | ID: 8256431
+
+#### 🔄 Senior Field Marketing Manager - DACH
+**Greenhouse** · twilio · Marketing
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8306461)
+🕐 Updated: 2026-10-26T10:28:54-04:00 | ID: 8306461
+
+#### 🔄 Senior Field Marketing Manager - North
+**Greenhouse** · twilio · Marketing
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8306459)
+🕐 Updated: 2026-10-26T10:28:52-04:00 | ID: 8306459
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8280711)
+🕐 Updated: 2026-10-26T10:28:18-04:00 | ID: 8280711
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8300856)
+🕐 Updated: 2026-10-26T10:28:04-04:00 | ID: 8300856
+
+#### 🔄 Strategic Events Specialist, EMEA
+**Greenhouse** · abnormalsecurity · Strategic Events
+📍 Remote - UK | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8019603003?gh_jid=8019603003)
+🕐 Updated: 2026-10-26T10:27:04-04:00 | ID: 8019603003
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · contentful · Sales
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8278600)
+🕐 Updated: 2026-10-26T10:24:58-04:00 | ID: 8278600
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · contentful · Sales
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8278596)
+🕐 Updated: 2026-10-26T10:24:19-04:00 | ID: 8278596
+
+#### 🔄 IT Specialist
+**Greenhouse** · melio · Security
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/melio/jobs/7995568003)
+🕐 Updated: 2026-10-26T10:24:19-04:00 | ID: 7995568003
+
+#### 🔄 Engineering Manager, Marketing Engineering & AI Agents - Amplify
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8004625003?gh_jid=8004625003)
+🕐 Updated: 2026-10-26T10:15:55-04:00 | ID: 8004625003
+
+#### 🔄 Lead Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7997130003?gh_jid=7997130003)
+🕐 Updated: 2026-10-26T10:15:55-04:00 | ID: 7997130003
+
+#### 🔄 Lead Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7997129003?gh_jid=7997129003)
+🕐 Updated: 2026-10-26T10:15:54-04:00 | ID: 7997129003
+
+#### 🔄 Lead Software Engineer, CICD
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7990569003?gh_jid=7990569003)
+🕐 Updated: 2026-10-26T10:15:52-04:00 | ID: 7990569003
+
+#### 🔄 Lead Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7802701003?gh_jid=7802701003)
+🕐 Updated: 2026-10-26T10:15:51-04:00 | ID: 7802701003
+
+#### 🔄 Staff Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7993282003?gh_jid=7993282003)
+🕐 Updated: 2026-10-26T10:15:51-04:00 | ID: 7993282003
+
+## ATS Summary
+- **Greenhouse**: 2 new, 15628 fetched, 639 updated, 139 cap-skipped, 0 alerts
+- **Lever**: 0 new, 35 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 66 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 15729 fetched, 639 updated, 139 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-26 14:13 UTC
 
 ### Greenhouse
