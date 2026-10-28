@@ -1,3 +1,127 @@
+## 📅 Run: 2026-10-28 08:34 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Software Engineer - Platform and Infrastructure
+**Greenhouse** · samsara · Platform
+📍 Bengaluru - BLR1 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7266287?gh_jid=7266287)
+🕐 Updated: 2026-10-28T04:34:30-04:00 | ID: 7266287
+
+#### 🔄 Product Manager, Global Self-Serve Product
+**Greenhouse** · stripe · 8262 APAC - PM
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8267105)
+🕐 Updated: 2026-10-28T04:15:50-04:00 | ID: 8267105
+
+#### 🆕 Data Science Tech Lead Manager, Model Experience
+**Greenhouse** · anthropic · Data Science & Analytics · 🎯 75%
+📍 New York City, NY; San Francisco, CA; Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5197211008)
+🕐 Updated: 2026-10-28T04:11:41-04:00 | ID: 5197211008
+
+#### 🔄 Prospecting Program Manager (APJ)
+**Greenhouse** · databricks · Sales Development
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8582993002)
+🕐 Updated: 2026-10-28T04:06:12-04:00 | ID: 8582993002
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · toast · R & D : Engineering : Enterprise
+📍 Bengaluru , Karnataka , India | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8311988)
+🕐 Updated: 2026-10-28T04:02:54-04:00 | ID: 8311988
+
+#### 🔄 Sales Manager
+**Greenhouse** · flexport · Sales
+📍 Phnom Penh, Cambodia | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8172867)
+🕐 Updated: 2026-10-28T03:53:54-04:00 | ID: 8172867
+
+#### 🔄 Senior Associate, Trucking & Warehousing
+**Greenhouse** · flexport · Trucking
+📍 Hanoi, Vietnam; Ho Chi Minh City, Vietnam | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8210257)
+🕐 Updated: 2026-10-28T03:43:53-04:00 | ID: 8210257
+
+#### 🔄 Manager, Enterprise Implementation - Core
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Denver | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8305848?gh_jid=8305848)
+🕐 Updated: 2026-10-28T03:05:23-04:00 | ID: 8305848
+
+#### 🔄 Partner Program Manager
+**Greenhouse** · twilio · Marketing
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8287927)
+🕐 Updated: 2026-10-28T03:04:33-04:00 | ID: 8287927
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · mongodb · App Modernization ENG
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8323897)
+🕐 Updated: 2026-10-28T02:33:45-04:00 | ID: 8323897
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · convera · Data & Analytics
+📍 Pune | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/5001893101)
+🕐 Updated: 2026-10-28T02:12:07-04:00 | ID: 5001893101
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · okta · SW - Engineering Services-676
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827)
+🕐 Updated: 2026-10-28T01:49:55-04:00 | ID: 8263827
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8226209?gh_jid=8226209)
+🕐 Updated: 2026-10-28T01:49:33-04:00 | ID: 8226209
+
+#### 🔄 Sr. Manager, Partner Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Indirect
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8073294002)
+🕐 Updated: 2026-10-28T01:07:12-04:00 | ID: 8073294002
+
+#### 🔄 Financial Analyst
+**Greenhouse** · fellow · Finance
+📍 San Francisco, CA | 🔗 [Apply Here](https://fellowproducts.com/pages/careers?gh_jid=5275043007)
+🕐 Updated: 2026-10-28T00:53:17-04:00 | ID: 5275043007
+
+#### 🔄 Compliance Training Senior Analyst
+**Greenhouse** · payoneer · Compliance Governance office
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8255846/?gh_jid=8255846)
+🕐 Updated: 2026-10-28T00:47:09-04:00 | ID: 8255846
+
+#### 🔄 Senior Lead, AI Pricing & Margin Strategy
+**Greenhouse** · squarespace · Domains & Applications
+📍 New York City | 🔗 [Apply Here](http://www.squarespace.com/about/careers?gh_jid=8205265)
+🕐 Updated: 2026-10-28T00:44:46-04:00 | ID: 8205265
+
+#### 🔄 Strategic Events Manager
+**Greenhouse** · workato · Office of GTM
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8812446002#open-roles)
+🕐 Updated: 2026-10-28T00:16:04-04:00 | ID: 8812446002
+
+#### 🔄 Customer Resilience Manager
+**Greenhouse** · rubrik · Support
+📍 Mumbai | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8242348?gh_jid=8242348)
+🕐 Updated: 2026-10-28T00:01:24-04:00 | ID: 8242348
+
+#### 🔄 Senior Manager, Accounts Receivable, APAC
+**Greenhouse** · flexport · Finance
+📍 Shenzhen, China | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8233803)
+🕐 Updated: 2026-10-27T23:52:10-04:00 | ID: 8233803
+
+#### 🔄 Desktop Support Technician
+**Greenhouse** · newrelic · IT
+📍 San Francisco, California, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5444698008)
+🕐 Updated: 2026-10-27T23:45:30-04:00 | ID: 5444698008
+
+#### 🔄 Strategic Sourcing Manager
+**Greenhouse** · verkada · Spend Money Wisely
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5277593007)
+🕐 Updated: 2026-10-27T19:58:41-04:00 | ID: 5277593007
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15645 fetched, 21 updated, 20 cap-skipped, 1 alerts
+- **Lever**: 0 new, 34 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 66 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15745 fetched, 21 updated, 20 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-28 02:13 UTC
 
 ### Greenhouse
