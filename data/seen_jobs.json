@@ -327792,7 +327792,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8180204": {
-    "updated_at": "2026-10-31T10:48:43-04:00",
+    "updated_at": "2026-10-31T14:48:09-04:00",
     "title": "Senior Software Engineer (Full-Stack)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -363088,7 +363088,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8142528": {
-    "updated_at": "2026-10-31T10:48:24-04:00",
+    "updated_at": "2026-10-31T14:48:01-04:00",
     "title": "Manager, Liquidity Management",
     "company": "ripple",
     "ats": "greenhouse",
@@ -376944,7 +376944,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8260052": {
-    "updated_at": "2026-10-31T10:48:44-04:00",
+    "updated_at": "2026-10-31T14:49:04-04:00",
     "title": "Senior Identity Risk & Scam Analyst",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -377216,7 +377216,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8259801": {
-    "updated_at": "2026-10-31T10:48:55-04:00",
+    "updated_at": "2026-10-31T14:49:23-04:00",
     "title": "Staff Technical Program Manager, Consumer",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -388064,7 +388064,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8248663": {
-    "updated_at": "2026-10-31T10:49:13-04:00",
+    "updated_at": "2026-10-31T14:48:18-04:00",
     "title": "Senior Manager, Customer Partner Success",
     "company": "ripple",
     "ats": "greenhouse",
@@ -397064,7 +397064,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8180206": {
-    "updated_at": "2026-10-31T10:48:43-04:00",
+    "updated_at": "2026-10-31T14:48:09-04:00",
     "title": "Senior Software Engineer (Full-Stack)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -410024,7 +410024,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8325881": {
-    "updated_at": "2026-10-31T10:49:41-04:00",
+    "updated_at": "2026-10-31T14:48:29-04:00",
     "title": "Senior Software Engineer (.NET/C#)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -410032,7 +410032,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8325879": {
-    "updated_at": "2026-10-31T10:49:41-04:00",
+    "updated_at": "2026-10-31T14:48:29-04:00",
     "title": "Senior Software Engineer (.NET/C#)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -415686,5 +415686,29 @@
     "ats": "greenhouse",
     "source_slug": "spacex",
     "alerted": true
+  },
+  "greenhouse:coinbase:8334761": {
+    "updated_at": "2026-10-31T13:54:26-04:00",
+    "title": "Customer Success Team Agent II",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:databricks:8926307002": {
+    "updated_at": "2026-10-31T10:14:54-04:00",
+    "title": "Sr. Solutions Architect (Energy)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:convera:4901913101": {
+    "updated_at": "2026-10-31T03:21:18-04:00",
+    "title": "Senior Software Engineer",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
   }
 }
