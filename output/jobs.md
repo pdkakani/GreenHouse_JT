@@ -1,3 +1,67 @@
+## 📅 Run: 2026-10-31 22:27 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Technical Program Manager, Consumer
+**Greenhouse** · coinbase · Program Management
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801)
+🕐 Updated: 2026-10-31T18:20:24-04:00 | ID: 8259801
+
+#### 🔄 Senior Identity Risk & Scam Analyst
+**Greenhouse** · coinbase · Risk & Fraud
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8260052?gh_jid=8260052)
+🕐 Updated: 2026-10-31T18:20:06-04:00 | ID: 8260052
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325879?gh_jid=8325879)
+🕐 Updated: 2026-10-31T18:19:19-04:00 | ID: 8325879
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881)
+🕐 Updated: 2026-10-31T18:19:19-04:00 | ID: 8325881
+
+#### 🔄 Senior Manager, Customer Partner Success
+**Greenhouse** · ripple · Customer Success
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8248663?gh_jid=8248663)
+🕐 Updated: 2026-10-31T18:19:02-04:00 | ID: 8248663
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180206?gh_jid=8180206)
+🕐 Updated: 2026-10-31T18:18:51-04:00 | ID: 8180206
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204)
+🕐 Updated: 2026-10-31T18:18:51-04:00 | ID: 8180204
+
+#### 🔄 Manager, Liquidity Management
+**Greenhouse** · ripple · Ripple Trading and Markets
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8142528?gh_jid=8142528)
+🕐 Updated: 2026-10-31T18:18:41-04:00 | ID: 8142528
+
+#### 🔄 Staff Security Compliance Analyst
+**Greenhouse** · okta · Sec - GRC-775
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8333434?gh_jid=8333434)
+🕐 Updated: 2026-10-31T17:59:18-04:00 | ID: 8333434
+
+#### 🔄 Communications Manager, The Anthropic Institute
+**Greenhouse** · anthropic · Communications
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5461534008)
+🕐 Updated: 2026-10-31T15:08:20-04:00 | ID: 5461534008
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15704 fetched, 10 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 33 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 74 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15811 fetched, 10 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-10-31 19:02 UTC
 
 ### Greenhouse
