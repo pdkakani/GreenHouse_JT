@@ -1,3 +1,642 @@
+## 📅 Run: 2026-11-01 07:46 UTC
+
+### Greenhouse
+
+#### 🔄 Solutions Architect Spain
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Madrid | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921587002)
+🕐 Updated: 2026-11-01T02:37:12-05:00 | ID: 8921587002
+
+#### 🔄 Solutions Architect Israel
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Israel | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921585002)
+🕐 Updated: 2026-11-01T02:37:11-05:00 | ID: 8921585002
+
+#### 🔄 Solutions Architect Digital Natives & Scaleups Italy
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921583002)
+🕐 Updated: 2026-11-01T02:37:09-05:00 | ID: 8921583002
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002)
+🕐 Updated: 2026-11-01T02:37:07-05:00 | ID: 8921476002
+
+#### 🔄 Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910988002)
+🕐 Updated: 2026-11-01T02:37:06-05:00 | ID: 8910988002
+
+#### 🔄 Senior Product Specialist Partner Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Indirect
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8895472002)
+🕐 Updated: 2026-11-01T02:36:59-05:00 | ID: 8895472002
+
+#### 🔄 Solutions Architect Greenfield Enterprise France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885047002)
+🕐 Updated: 2026-11-01T02:36:57-05:00 | ID: 8885047002
+
+#### 🔄 Sr. Solutions Architect France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885041002)
+🕐 Updated: 2026-11-01T02:36:56-05:00 | ID: 8885041002
+
+#### 🔄 Senior Engagement Manager, Forward Deployed Engineering
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002)
+🕐 Updated: 2026-11-01T02:36:55-05:00 | ID: 8884904002
+
+#### 🔄 Technical Program Manager, Forward Deployed Engineering
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002)
+🕐 Updated: 2026-11-01T02:36:53-05:00 | ID: 8884751002
+
+#### 🔄 Forward Deployed Engineering - Architect
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002)
+🕐 Updated: 2026-11-01T02:36:50-05:00 | ID: 8856501002
+
+#### 🔄 Sr. Specialist Solutions Architect -AI&ML Engineer
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Israel | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002)
+🕐 Updated: 2026-11-01T02:36:47-05:00 | ID: 8784103002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002)
+🕐 Updated: 2026-11-01T02:36:41-05:00 | ID: 8720254002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002)
+🕐 Updated: 2026-11-01T02:36:41-05:00 | ID: 8720252002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002)
+🕐 Updated: 2026-11-01T02:36:41-05:00 | ID: 8720251002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002)
+🕐 Updated: 2026-11-01T02:36:41-05:00 | ID: 8704938002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Berlin, Germany; Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720253002)
+🕐 Updated: 2026-11-01T02:36:41-05:00 | ID: 8720253002
+
+#### 🔄 Solutions Architect, EMEA Startups — France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8675572002)
+🕐 Updated: 2026-11-01T02:36:38-05:00 | ID: 8675572002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8675570002)
+🕐 Updated: 2026-11-01T02:36:37-05:00 | ID: 8675570002
+
+#### 🔄 Solutions Architect (Portuguese Speaking) Madrid Spain
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Madrid | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8675568002)
+🕐 Updated: 2026-11-01T02:36:35-05:00 | ID: 8675568002
+
+#### 🔄 Forward Deployed Engineering - Senior Architect
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002)
+🕐 Updated: 2026-11-01T02:36:33-05:00 | ID: 8656202002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8575046002)
+🕐 Updated: 2026-11-01T02:36:29-05:00 | ID: 8575046002
+
+#### 🔄 Manager, Delivery Solutions Architects
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Madrid; Milan, Italy; Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8545248002)
+🕐 Updated: 2026-11-01T02:36:26-05:00 | ID: 8545248002
+
+#### 🔄 Sr. Manager, Field Engineering Qatar&Africa
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom; Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8535812002)
+🕐 Updated: 2026-11-01T02:36:24-05:00 | ID: 8535812002
+
+#### 🔄 Manager, Field Engineering France  - Specialist Solutions Architects
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002)
+🕐 Updated: 2026-11-01T02:36:22-05:00 | ID: 8517065002
+
+#### 🔄 Manager, Field Engineering France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8491126002)
+🕐 Updated: 2026-11-01T02:36:18-05:00 | ID: 8491126002
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002)
+🕐 Updated: 2026-11-01T02:36:16-05:00 | ID: 8462016002
+
+#### 🔄 Manager, Field Engineering Italy
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8374096002)
+🕐 Updated: 2026-11-01T02:36:11-05:00 | ID: 8374096002
+
+#### 🔄 Staff Technical Program Manager, Consumer
+**Greenhouse** · coinbase · Program Management
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801)
+🕐 Updated: 2026-11-01T02:35:26-05:00 | ID: 8259801
+
+#### 🔄 Senior Identity Risk & Scam Analyst
+**Greenhouse** · coinbase · Risk & Fraud
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8260052?gh_jid=8260052)
+🕐 Updated: 2026-11-01T02:35:03-05:00 | ID: 8260052
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325879?gh_jid=8325879)
+🕐 Updated: 2026-11-01T02:34:38-05:00 | ID: 8325879
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881)
+🕐 Updated: 2026-11-01T02:34:38-05:00 | ID: 8325881
+
+#### 🔄 Senior Manager, Customer Partner Success
+**Greenhouse** · ripple · Customer Success
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8248663?gh_jid=8248663)
+🕐 Updated: 2026-11-01T02:34:28-05:00 | ID: 8248663
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180206?gh_jid=8180206)
+🕐 Updated: 2026-11-01T02:34:20-05:00 | ID: 8180206
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204)
+🕐 Updated: 2026-11-01T02:34:20-05:00 | ID: 8180204
+
+#### 🔄 Manager, Liquidity Management
+**Greenhouse** · ripple · Ripple Trading and Markets
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8142528?gh_jid=8142528)
+🕐 Updated: 2026-11-01T02:34:10-05:00 | ID: 8142528
+
+#### 🔄 Enterprise Account Executive, SLED
+**Greenhouse** · asana · Vertical Sales
+📍 US - Remote West | 🔗 [Apply Here](https://www.asana.com/jobs/apply/7392983?gh_jid=7392983)
+🕐 Updated: 2026-11-01T02:10:03-05:00 | ID: 7392983
+
+#### 🔄 Manager, Customer Success
+**Greenhouse** · braze · Customer Experience
+📍 Tokyo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8280791)
+🕐 Updated: 2026-11-01T02:06:56-05:00 | ID: 8280791
+
+#### 🔄 Sales Director, Retail & Consumer Goods
+**Greenhouse** · braze · Sales
+📍 Berlin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8248794)
+🕐 Updated: 2026-11-01T02:06:52-05:00 | ID: 8248794
+
+#### 🔄 Software Engineer II
+**Greenhouse** · ripple · Engineering
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8241603?gh_jid=8241603)
+🕐 Updated: 2026-11-01T02:06:27-05:00 | ID: 8241603
+
+#### 🔄 Regional Director
+**Greenhouse** · fivetran · Sales Department
+📍 Remote, Washington, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7991106003)
+🕐 Updated: 2026-11-01T02:04:26-05:00 | ID: 7991106003
+
+#### 🔄 Renewals Associate
+**Greenhouse** · airtable · Customer Success & Services
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8905022002)
+🕐 Updated: 2026-11-01T02:03:39-05:00 | ID: 8905022002
+
+#### 🔄 Account Executive - Commercial
+**Greenhouse** · klaviyo · Sales
+📍 London, UK | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/8010402003?gh_jid=8010402003)
+🕐 Updated: 2026-11-01T02:01:45-05:00 | ID: 8010402003
+
+#### 🔄 Account Executive - Commercial (MEA)
+**Greenhouse** · klaviyo · Sales
+📍 London, UK | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7994121003?gh_jid=7994121003)
+🕐 Updated: 2026-11-01T02:01:43-05:00 | ID: 7994121003
+
+#### 🔄 Hunter Account Executive - Indonesia
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8878066002)
+🕐 Updated: 2026-11-01T01:23:24-04:00 | ID: 8878066002
+
+#### 🔄 Core Enterprise Account Executive TOLA
+**Greenhouse** · samsara · US Core
+📍 Remote - LA; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7679053?gh_jid=7679053)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7679053
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · samsara · US Enterprise Sales
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8042135?gh_jid=8042135)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 8042135
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - TX; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8170578?gh_jid=8170578)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 8170578
+
+#### 🔄 Enterprise Core Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7423809?gh_jid=7423809)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7423809
+
+#### 🔄 Enterprise Core Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - AZ | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8186048?gh_jid=8186048)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 8186048
+
+#### 🔄 Mid-Market Account Executive - Public Sector
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - CO; Remote - ID; Remote - MT; Remote - OR; Remote - US; Remote - WA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612559?gh_jid=7612559)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7612559
+
+#### 🔄 Public Sector Major Account Executive
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612978?gh_jid=7612978)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7612978
+
+#### 🔄 Sales Engineer - Mid Market - Southeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8148274?gh_jid=8148274)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 8148274
+
+#### 🔄 Sales Engineer, Mid Market - TOLA
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848459?gh_jid=7848459)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7848459
+
+#### 🔄 Sales Engineer - Mid Market - West
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8148328?gh_jid=8148328)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 8148328
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8095469?gh_jid=8095469)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 8095469
+
+#### 🔄 Select Major Account Executive (CST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - Chicago; Remote - IA; Remote - MI | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7818248?gh_jid=7818248)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7818248
+
+#### 🔄 Select Major Account Executive (EST)
+**Greenhouse** · samsara · US Enterprise Sales
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7663706?gh_jid=7663706)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7663706
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - Chicago | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7961462?gh_jid=7961462)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7961462
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7961464?gh_jid=7961464)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7961464
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - LA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7961471?gh_jid=7961471)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7961471
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7961459?gh_jid=7961459)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7961459
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - NY | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7961186?gh_jid=7961186)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7961186
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7922805?gh_jid=7922805)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 7922805
+
+#### 🔄 Specialist Seller, Enterprise Core (Tracking Label)
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8202872?gh_jid=8202872)
+🕐 Updated: 2026-11-01T01:00:01-04:00 | ID: 8202872
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · samsara · US Commercial AE1
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8162034?gh_jid=8162034)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8162034
+
+#### 🔄 Account Executive, Commercial ( West)
+**Greenhouse** · samsara · US Commercial AE1
+📍 Remote - AZ; Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8162024?gh_jid=8162024)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8162024
+
+#### 🔄 Account Executive, Commercial ( West)
+**Greenhouse** · samsara · US Commercial AE1
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8162025?gh_jid=8162025)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8162025
+
+#### 🔄 Account Executive, Mid Market (Midwest)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609126?gh_jid=7609126)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7609126
+
+#### 🔄 Account Executive, Mid Market (Northeast)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - NY; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609147?gh_jid=7609147)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7609147
+
+#### 🔄 Account Executive, Mid Market (Southeast)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609156?gh_jid=7609156)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7609156
+
+#### 🔄 Account Executive, Mid Market (TOLA)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - TX; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7608969?gh_jid=7608969)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7608969
+
+#### 🔄 Account Executive, Mid Market (West)
+**Greenhouse** · samsara · US Mid Market AE2
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7609057
+
+#### 🔄 Enterprise Account Executive - Public Sector, West
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - AZ; Remote - CA; Remote - CO | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7954575?gh_jid=7954575)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7954575
+
+#### 🔄 Mid-Market Account Executive - Public Sector  (Northeast)
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - CT; Remote - NY; Remote - PA; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8205132?gh_jid=8205132)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8205132
+
+#### 🔄 Mid-Market Account Executive - Public Sector  (Southeast)
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - DC; Remote - FL; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8205120?gh_jid=8205120)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8205120
+
+#### 🔄 Mid-Market Account Executive - Public Sector  (TOLA)
+**Greenhouse** · samsara · US Public Sector
+📍 Remote - LA; Remote - OK; Remote - TX; Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8198243?gh_jid=8198243)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8198243
+
+#### 🔄 Sales Engineer, Mid Market - Midwest
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8148303?gh_jid=8148303)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8148303
+
+#### 🔄 Sales Engineer, Mid Market - Northeast
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7848428?gh_jid=7848428)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7848428
+
+#### 🔄 Senior Enterprise Implementation Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8121968?gh_jid=8121968)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8121968
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - MA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7961449?gh_jid=7961449)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7961449
+
+#### 🔄 Specialist Seller - Connected Maintenance - Public Sector
+**Greenhouse** · samsara · Product Specialists
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7961458?gh_jid=7961458)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 7961458
+
+#### 🔄 Specialist Seller - Tracking Label - Select Enterprise
+**Greenhouse** · samsara · Product Specialists
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8202839?gh_jid=8202839)
+🕐 Updated: 2026-11-01T01:00:00-04:00 | ID: 8202839
+
+#### 🔄 Strategic Core Account Executive - Vietnam (Singapore Based)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8880406002)
+🕐 Updated: 2026-11-01T00:41:02-04:00 | ID: 8880406002
+
+#### 🔄 Senior Solutions Architect (Search Specialist)
+**Greenhouse** · mongodb · Solutions Architecture
+📍 Barcelona; Dublin; London | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8248829)
+🕐 Updated: 2026-11-01T00:37:23-04:00 | ID: 8248829
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · mongodb · Sales Growth EMEA
+📍 London | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8260947)
+🕐 Updated: 2026-11-01T00:37:17-04:00 | ID: 8260947
+
+#### 🔄 Core Account Executive - Vietnam
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438948002)
+🕐 Updated: 2026-11-01T00:31:29-04:00 | ID: 8438948002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8303847)
+🕐 Updated: 2026-11-01T00:07:14-04:00 | ID: 8303847
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8301790)
+🕐 Updated: 2026-11-01T00:07:12-04:00 | ID: 8301790
+
+#### 🔄 Account Executive, Enterprise - Financial Services
+**Greenhouse** · braze · Sales
+📍 Sydney | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8284843)
+🕐 Updated: 2026-11-01T00:07:04-04:00 | ID: 8284843
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Dubai | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8236472)
+🕐 Updated: 2026-11-01T00:06:58-04:00 | ID: 8236472
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8186090)
+🕐 Updated: 2026-11-01T00:06:51-04:00 | ID: 8186090
+
+#### 🔄 Account Executive, Scale - Mexico and Central America
+**Greenhouse** · braze · Sales
+📍 Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8167589)
+🕐 Updated: 2026-11-01T00:06:48-04:00 | ID: 8167589
+
+#### 🔄 Enterprise Account Executive, Brazil
+**Greenhouse** · braze · Sales
+📍 São Paulo | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8173666)
+🕐 Updated: 2026-11-01T00:06:46-04:00 | ID: 8173666
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8180530)
+🕐 Updated: 2026-11-01T00:06:41-04:00 | ID: 8180530
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8157337)
+🕐 Updated: 2026-11-01T00:06:41-04:00 | ID: 8157337
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8180540)
+🕐 Updated: 2026-11-01T00:06:41-04:00 | ID: 8180540
+
+#### 🔄 Account Executive, Scale, MEGS
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8180534)
+🕐 Updated: 2026-11-01T00:06:41-04:00 | ID: 8180534
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8147282)
+🕐 Updated: 2026-11-01T00:06:38-04:00 | ID: 8147282
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8147280)
+🕐 Updated: 2026-11-01T00:06:36-04:00 | ID: 8147280
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8159264)
+🕐 Updated: 2026-11-01T00:06:29-04:00 | ID: 8159264
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8159345)
+🕐 Updated: 2026-11-01T00:06:29-04:00 | ID: 8159345
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8146087)
+🕐 Updated: 2026-11-01T00:06:29-04:00 | ID: 8146087
+
+#### 🔄 Account Executive, Enterprise, Financial Services
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8159260)
+🕐 Updated: 2026-11-01T00:06:29-04:00 | ID: 8159260
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8155340)
+🕐 Updated: 2026-11-01T00:06:16-04:00 | ID: 8155340
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8139393)
+🕐 Updated: 2026-11-01T00:06:16-04:00 | ID: 8139393
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8139390)
+🕐 Updated: 2026-11-01T00:06:16-04:00 | ID: 8139390
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8128818)
+🕐 Updated: 2026-11-01T00:06:16-04:00 | ID: 8128818
+
+#### 🔄 Account Executive, Scale (Thailand and Vietnam market)
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079466)
+🕐 Updated: 2026-11-01T00:06:06-04:00 | ID: 8079466
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8097434)
+🕐 Updated: 2026-11-01T00:05:56-04:00 | ID: 8097434
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8097449)
+🕐 Updated: 2026-11-01T00:05:56-04:00 | ID: 8097449
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8097447)
+🕐 Updated: 2026-11-01T00:05:56-04:00 | ID: 8097447
+
+#### 🔄 Account Executive, Retail Scale
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8075042)
+🕐 Updated: 2026-11-01T00:05:56-04:00 | ID: 8075042
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8072802)
+🕐 Updated: 2026-11-01T00:05:53-04:00 | ID: 8072802
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079491)
+🕐 Updated: 2026-11-01T00:05:53-04:00 | ID: 8079491
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079476)
+🕐 Updated: 2026-11-01T00:05:53-04:00 | ID: 8079476
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079453)
+🕐 Updated: 2026-11-01T00:05:53-04:00 | ID: 8079453
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8078042)
+🕐 Updated: 2026-11-01T00:05:43-04:00 | ID: 8078042
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8073084)
+🕐 Updated: 2026-11-01T00:05:43-04:00 | ID: 8073084
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8078036)
+🕐 Updated: 2026-11-01T00:05:43-04:00 | ID: 8078036
+
+#### 🔄 Account Executive, Enterprise Retail
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8078035)
+🕐 Updated: 2026-11-01T00:05:43-04:00 | ID: 8078035
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 New York City | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039626)
+🕐 Updated: 2026-11-01T00:05:35-04:00 | ID: 8039626
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039627)
+🕐 Updated: 2026-11-01T00:05:35-04:00 | ID: 8039627
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039118)
+🕐 Updated: 2026-11-01T00:05:35-04:00 | ID: 8039118
+
+#### 🔄 Account Executive, Scale
+**Greenhouse** · braze · Sales
+📍 Austin | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8039620)
+🕐 Updated: 2026-11-01T00:05:35-04:00 | ID: 8039620
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15721 fetched, 125 updated, 3 cap-skipped, 0 alerts
+- **Lever**: 0 new, 33 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 74 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15828 fetched, 125 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-01 01:20 UTC
 
 ### Greenhouse
