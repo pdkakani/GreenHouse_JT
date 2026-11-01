@@ -327792,7 +327792,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8180204": {
-    "updated_at": "2026-11-01T14:05:26-05:00",
+    "updated_at": "2026-11-01T17:35:08-05:00",
     "title": "Senior Software Engineer (Full-Stack)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -347728,7 +347728,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8207928": {
-    "updated_at": "2026-10-30T11:51:44-04:00",
+    "updated_at": "2026-11-01T15:00:00-05:00",
     "title": "Account Development Representative - Canada",
     "company": "samsara",
     "ats": "greenhouse",
@@ -363088,7 +363088,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8142528": {
-    "updated_at": "2026-11-01T14:05:11-05:00",
+    "updated_at": "2026-11-01T17:34:58-05:00",
     "title": "Manager, Liquidity Management",
     "company": "ripple",
     "ats": "greenhouse",
@@ -376944,7 +376944,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8260052": {
-    "updated_at": "2026-11-01T14:07:14-05:00",
+    "updated_at": "2026-11-01T17:36:34-05:00",
     "title": "Senior Identity Risk & Scam Analyst",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -377216,7 +377216,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8259801": {
-    "updated_at": "2026-11-01T14:07:22-05:00",
+    "updated_at": "2026-11-01T17:37:05-05:00",
     "title": "Staff Technical Program Manager, Consumer",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -388064,7 +388064,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8248663": {
-    "updated_at": "2026-11-01T14:05:36-05:00",
+    "updated_at": "2026-11-01T17:35:18-05:00",
     "title": "Senior Manager, Customer Partner Success",
     "company": "ripple",
     "ats": "greenhouse",
@@ -397064,7 +397064,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8180206": {
-    "updated_at": "2026-11-01T14:05:26-05:00",
+    "updated_at": "2026-11-01T17:35:08-05:00",
     "title": "Senior Software Engineer (Full-Stack)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -410024,7 +410024,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8325881": {
-    "updated_at": "2026-11-01T14:06:01-05:00",
+    "updated_at": "2026-11-01T17:35:33-05:00",
     "title": "Senior Software Engineer (.NET/C#)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -410032,7 +410032,7 @@
     "alerted": false
   },
   "greenhouse:ripple:8325879": {
-    "updated_at": "2026-11-01T14:06:01-05:00",
+    "updated_at": "2026-11-01T17:35:33-05:00",
     "title": "Senior Software Engineer (.NET/C#)",
     "company": "ripple",
     "ats": "greenhouse",
@@ -415778,6 +415778,14 @@
   "greenhouse:databricks:8910854002": {
     "updated_at": "2026-11-01T00:39:12-04:00",
     "title": "Strategic Core Account Executive - FSI",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:databricks:8880398002": {
+    "updated_at": "2026-11-01T10:48:47-05:00",
+    "title": "Account Executive - Digital Native",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",

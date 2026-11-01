@@ -1,3 +1,62 @@
+## 📅 Run: 2026-11-01 22:49 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Technical Program Manager, Consumer
+**Greenhouse** · coinbase · Program Management
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801)
+🕐 Updated: 2026-11-01T17:37:05-05:00 | ID: 8259801
+
+#### 🔄 Senior Identity Risk & Scam Analyst
+**Greenhouse** · coinbase · Risk & Fraud
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8260052?gh_jid=8260052)
+🕐 Updated: 2026-11-01T17:36:34-05:00 | ID: 8260052
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325879?gh_jid=8325879)
+🕐 Updated: 2026-11-01T17:35:33-05:00 | ID: 8325879
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881)
+🕐 Updated: 2026-11-01T17:35:33-05:00 | ID: 8325881
+
+#### 🔄 Senior Manager, Customer Partner Success
+**Greenhouse** · ripple · Customer Success
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8248663?gh_jid=8248663)
+🕐 Updated: 2026-11-01T17:35:18-05:00 | ID: 8248663
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180206?gh_jid=8180206)
+🕐 Updated: 2026-11-01T17:35:08-05:00 | ID: 8180206
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204)
+🕐 Updated: 2026-11-01T17:35:08-05:00 | ID: 8180204
+
+#### 🔄 Manager, Liquidity Management
+**Greenhouse** · ripple · Ripple Trading and Markets
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8142528?gh_jid=8142528)
+🕐 Updated: 2026-11-01T17:34:58-05:00 | ID: 8142528
+
+#### 🔄 Account Development Representative - Canada
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Quebec | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8207928?gh_jid=8207928)
+🕐 Updated: 2026-11-01T15:00:00-05:00 | ID: 8207928
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15720 fetched, 9 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 32 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 74 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15826 fetched, 9 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-01 19:12 UTC
 
 ### Greenhouse
