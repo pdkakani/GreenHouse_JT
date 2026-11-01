@@ -1,3 +1,182 @@
+## 📅 Run: 2026-11-01 19:12 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Technical Program Manager, Consumer
+**Greenhouse** · coinbase · Program Management
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801)
+🕐 Updated: 2026-11-01T14:07:22-05:00 | ID: 8259801
+
+#### 🔄 Senior Identity Risk & Scam Analyst
+**Greenhouse** · coinbase · Risk & Fraud
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8260052?gh_jid=8260052)
+🕐 Updated: 2026-11-01T14:07:14-05:00 | ID: 8260052
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325879?gh_jid=8325879)
+🕐 Updated: 2026-11-01T14:06:01-05:00 | ID: 8325879
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881)
+🕐 Updated: 2026-11-01T14:06:01-05:00 | ID: 8325881
+
+#### 🔄 Senior Manager, Customer Partner Success
+**Greenhouse** · ripple · Customer Success
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8248663?gh_jid=8248663)
+🕐 Updated: 2026-11-01T14:05:36-05:00 | ID: 8248663
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180206?gh_jid=8180206)
+🕐 Updated: 2026-11-01T14:05:26-05:00 | ID: 8180206
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204)
+🕐 Updated: 2026-11-01T14:05:26-05:00 | ID: 8180204
+
+#### 🔄 Manager, Liquidity Management
+**Greenhouse** · ripple · Ripple Trading and Markets
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8142528?gh_jid=8142528)
+🕐 Updated: 2026-11-01T14:05:11-05:00 | ID: 8142528
+
+#### 🔄 Director of Product, Onboarding
+**Greenhouse** · payoneer · CLM
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8284597/?gh_jid=8284597)
+🕐 Updated: 2026-11-01T12:41:14-05:00 | ID: 8284597
+
+#### 🔄 Account Executive, Commercial - Mexico
+**Greenhouse** · samsara · Mexico
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7516554?gh_jid=7516554)
+🕐 Updated: 2026-11-01T12:30:00-05:00 | ID: 7516554
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · circleci · Design
+📍 San Francisco | 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8560754002/?gh_jid=8560754002)
+🕐 Updated: 2026-11-01T11:38:07-05:00 | ID: 8560754002
+
+#### 🔄 Enterprise Core Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8173658?gh_jid=8173658)
+🕐 Updated: 2026-11-01T11:30:00-05:00 | ID: 8173658
+
+#### 🔄 Director, Value Engineering (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8003211003?gh_jid=8003211003)
+🕐 Updated: 2026-11-01T10:45:37-05:00 | ID: 8003211003
+
+#### 🔄 Director, Management & Technology (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015588003?gh_jid=8015588003)
+🕐 Updated: 2026-11-01T10:45:36-05:00 | ID: 8015588003
+
+#### 🔄 Director, Business Transformation and Value Consulting (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8014940003?gh_jid=8014940003)
+🕐 Updated: 2026-11-01T10:45:34-05:00 | ID: 8014940003
+
+#### 🔄 Senior Value Engineer - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016659003?gh_jid=8016659003)
+🕐 Updated: 2026-11-01T10:45:18-05:00 | ID: 8016659003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016658003?gh_jid=8016658003)
+🕐 Updated: 2026-11-01T10:45:16-05:00 | ID: 8016658003
+
+#### 🔄 Senior Management & Technology Consultant - CPG/Retail - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016657003?gh_jid=8016657003)
+🕐 Updated: 2026-11-01T10:45:15-05:00 | ID: 8016657003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016417003?gh_jid=8016417003)
+🕐 Updated: 2026-11-01T10:45:13-05:00 | ID: 8016417003
+
+#### 🔄 Customer Success Renewal Specialist (Remote Eligible - Costa Rica)
+**Greenhouse** · smartsheet · Customer Success
+📍 San Jose, CR | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8243401)
+🕐 Updated: 2026-11-01T10:22:41-05:00 | ID: 8243401
+
+#### 🔄 Senior Strategic Solutions Consultant (AI)
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7993836003?gh_jid=7993836003)
+🕐 Updated: 2026-11-01T10:19:53-05:00 | ID: 7993836003
+
+#### 🔄 Senior Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7996959003?gh_jid=7996959003)
+🕐 Updated: 2026-11-01T10:19:51-05:00 | ID: 7996959003
+
+#### 🔄 Senior Applied AI Solution Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825688003?gh_jid=7825688003)
+🕐 Updated: 2026-11-01T10:19:50-05:00 | ID: 7825688003
+
+#### 🔄 Senior AI Transformation & Innovation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003)
+🕐 Updated: 2026-11-01T10:19:48-05:00 | ID: 7993837003
+
+#### 🔄 Senior Value Engineer - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825970003?gh_jid=7825970003)
+🕐 Updated: 2026-11-01T10:08:44-05:00 | ID: 7825970003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003)
+🕐 Updated: 2026-11-01T10:08:42-05:00 | ID: 7825969003
+
+#### 🔄 Senior Management & Technology Consultant  - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825968003?gh_jid=7825968003)
+🕐 Updated: 2026-11-01T10:08:41-05:00 | ID: 7825968003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003)
+🕐 Updated: 2026-11-01T10:08:39-05:00 | ID: 7817273003
+
+#### 🔄 Senior Value Engineer - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003)
+🕐 Updated: 2026-11-01T09:58:27-05:00 | ID: 7817387003
+
+#### 🔄 Senior Process Optimisation Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026747003?gh_jid=8026747003)
+🕐 Updated: 2026-11-01T09:58:25-05:00 | ID: 8026747003
+
+#### 🔄 Senior Management & Technology Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026730003?gh_jid=8026730003)
+🕐 Updated: 2026-11-01T09:58:24-05:00 | ID: 8026730003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003)
+🕐 Updated: 2026-11-01T09:58:22-05:00 | ID: 7826212003
+
+#### 🔄 Specialist Solutions Architect - AI/ML
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785057002)
+🕐 Updated: 2026-11-01T09:54:30-05:00 | ID: 8785057002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15722 fetched, 33 updated, 5 cap-skipped, 0 alerts
+- **Lever**: 0 new, 33 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 74 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15829 fetched, 33 updated, 5 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-01 14:39 UTC
 
 ### Greenhouse
