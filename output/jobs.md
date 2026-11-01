@@ -1,3 +1,2732 @@
+## 📅 Run: 2026-11-01 14:39 UTC
+
+### Greenhouse
+
+#### 🔄 Staff Technical Program Manager, Consumer
+**Greenhouse** · coinbase · Program Management
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801)
+🕐 Updated: 2026-11-01T09:35:33-05:00 | ID: 8259801
+
+#### 🔄 Senior Identity Risk & Scam Analyst
+**Greenhouse** · coinbase · Risk & Fraud
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8260052?gh_jid=8260052)
+🕐 Updated: 2026-11-01T09:35:26-05:00 | ID: 8260052
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325879?gh_jid=8325879)
+🕐 Updated: 2026-11-01T09:35:08-05:00 | ID: 8325879
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881)
+🕐 Updated: 2026-11-01T09:35:08-05:00 | ID: 8325881
+
+#### 🔄 Senior Manager, Customer Partner Success
+**Greenhouse** · ripple · Customer Success
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8248663?gh_jid=8248663)
+🕐 Updated: 2026-11-01T09:34:54-05:00 | ID: 8248663
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180206?gh_jid=8180206)
+🕐 Updated: 2026-11-01T09:34:45-05:00 | ID: 8180206
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204)
+🕐 Updated: 2026-11-01T09:34:45-05:00 | ID: 8180204
+
+#### 🔄 Manager, Liquidity Management
+**Greenhouse** · ripple · Ripple Trading and Markets
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8142528?gh_jid=8142528)
+🕐 Updated: 2026-11-01T09:34:37-05:00 | ID: 8142528
+
+#### 🔄 Lead Client Partner, Global Strategic Accounts (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249469)
+🕐 Updated: 2026-11-01T07:16:26-05:00 | ID: 8249469
+
+#### 🔄 Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8017242)
+🕐 Updated: 2026-11-01T07:16:26-05:00 | ID: 8017242
+
+#### 🔄 Client Account Manager, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8049518)
+🕐 Updated: 2026-11-01T07:16:24-05:00 | ID: 8049518
+
+#### 🔄 Lead Client Partner, Large Customer Sales (Restaurants & Drinks)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8257083)
+🕐 Updated: 2026-11-01T07:16:24-05:00 | ID: 8257083
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Big Box Retail)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8140121)
+🕐 Updated: 2026-11-01T07:16:24-05:00 | ID: 8140121
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244090)
+🕐 Updated: 2026-11-01T07:16:24-05:00 | ID: 8244090
+
+#### 🔄 Senior Client Partner, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8293700)
+🕐 Updated: 2026-11-01T07:16:05-05:00 | ID: 8293700
+
+#### 🔄 Analytics Engineer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282760)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8282760
+
+#### 🔄 Associate General Counsel, Ads Product
+**Greenhouse** · reddit · Legal
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8148089)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8148089
+
+#### 🔄 Client Partner, Mid-Market Sales (B2B Services - Acquisitions)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8329278)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8329278
+
+#### 🔄 Group Product Manager, Finance Technology
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8075185)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8075185
+
+#### 🔄 Machine Learning Engineering Manager -  Core Ads Ranking
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8319536)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8319536
+
+#### 🔄 Principal Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7330347)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 7330347
+
+#### 🔄 Principal Data Scientist, User Ecosystem
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8289345)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8289345
+
+#### 🔄 Revenue Strategy & Operations Partner
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8289304)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8289304
+
+#### 🔄 Software Engineer, Ad Signals
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8319655)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8319655
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval & Targeting
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8316086)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8316086
+
+#### 🔄 Strategic Finance Senior Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8244067)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8244067
+
+#### 🔄 Technical Solutions Manager, App Ads
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282187)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8282187
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - The Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190630)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8190630
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8190627)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8190627
+
+#### 🔄 Trust and Safety Policy, Ads Policy,  Lead (Europe)
+**Greenhouse** · reddit · Legal
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8188275)
+🕐 Updated: 2026-11-01T07:16:04-05:00 | ID: 8188275
+
+#### 🔄 Client Account Manager, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8303790)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8303790
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8234154)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8234154
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8192369)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8192369
+
+#### 🔄 Lead Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301736)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8301736
+
+#### 🔄 Lead Product Adoption Strategist, SMB
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8263435)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8263435
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074846)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8074846
+
+#### 🔄 Senior, Business Risk & AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - British Columbia, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8074860)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8074860
+
+#### 🔄 Senior Client Account Manager, Large Customer Sales (Financial Services)
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8288965)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8288965
+
+#### 🔄 Senior Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301784)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8301784
+
+#### 🔄 Senior Frontend Engineer, Ads Creative
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8175520)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8175520
+
+#### 🔄 Senior Frontend Engineer, Ads Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8287466)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8287466
+
+#### 🔄 Senior GTM Insights Automation Manager
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8077785)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8077785
+
+#### 🔄 Staff Machine Learning Engineer, Ads Forecasting & Scenarios
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8334138)
+🕐 Updated: 2026-11-01T07:16:03-05:00 | ID: 8334138
+
+#### 🔄 Director, Intellectual Property
+**Greenhouse** · reddit · Legal
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8142128)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8142128
+
+#### 🔄 Engineering Manager, Knowledge Graph Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8256326)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8256326
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8022260)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8022260
+
+#### 🔄 Senior Business Engineer - Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954598)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 7954598
+
+#### 🔄 Senior Machine Learning Engineer, Ads Forecasting & Scenarios
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8029120)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8029120
+
+#### 🔄 Senior Program Manager, Business Process Transformation
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8010425)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8010425
+
+#### 🔄 Senior Staff Data Scientist, Consumer Relevance
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 7974605
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8072076)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8072076
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8103609)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8103609
+
+#### 🔄 Staff Machine Learning Engineer, Ads Creative Effectiveness
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8250389)
+🕐 Updated: 2026-11-01T07:16:02-05:00 | ID: 8250389
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249259)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 8249259
+
+#### 🔄 Creative Strategist (M&E/Retail)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8191664)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 8191664
+
+#### 🔄 Senior Business Analyst, Revenue Analytics
+**Greenhouse** · reddit · Sales
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8023563)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 8023563
+
+#### 🔄 Senior Product Manager, Go-To-Market Systems
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8212175)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 8212175
+
+#### 🔄 Senior Software Engineer, Agentic Ads Experience
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7980795)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 7980795
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7931000)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 7931000
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7445240)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 7445240
+
+#### 🔄 Staff Machine Learning Engineer, App Ads Modeling
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187652)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 8187652
+
+#### 🔄 Staff Technical Product Manager, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7954001)
+🕐 Updated: 2026-11-01T07:16:01-05:00 | ID: 7954001
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187521)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8187521
+
+#### 🔄 Frontend Engineer, Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8194576)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8194576
+
+#### 🔄 Frontend Engineer, Ads Campaign Manager
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8240716)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8240716
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189899)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8189899
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8189894)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8189894
+
+#### 🔄 Global Indirect Tax Manager
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8186566)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8186566
+
+#### 🔄 Senior Client Account Manager, App Dev Enterprise
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8171546)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8171546
+
+#### 🔄 Senior Principal Program Manager, GTM Excellence
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8125836)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8125836
+
+#### 🔄 Senior Product Manager, Ads -  Shopping Catalogs
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8120503)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8120503
+
+#### 🔄 Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8157275)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8157275
+
+#### 🔄 Staff Android Engineer, Brand Ad Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8127002)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8127002
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8178085)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8178085
+
+#### 🔄 Staff Product Manager, Ads Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8167412)
+🕐 Updated: 2026-11-01T07:16:00-05:00 | ID: 8167412
+
+#### 🔄 Senior Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8104403)
+🕐 Updated: 2026-11-01T07:15:59-05:00 | ID: 8104403
+
+#### 🔄 Senior Data Scientist - Consumer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8126946)
+🕐 Updated: 2026-11-01T07:15:59-05:00 | ID: 8126946
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721851)
+🕐 Updated: 2026-11-01T07:15:59-05:00 | ID: 7721851
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721787)
+🕐 Updated: 2026-11-01T07:15:59-05:00 | ID: 7721787
+
+#### 🔄 Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8153017)
+🕐 Updated: 2026-11-01T07:14:46-05:00 | ID: 8153017
+
+#### 🔄 Senior Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8276095)
+🕐 Updated: 2026-11-01T07:14:46-05:00 | ID: 8276095
+
+#### 🔄 パートナーセールスマネージャー
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8138523)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8138523
+
+#### 🔄 Account Executive, AI/HPC, Neo / Sovereign Cloud (EMEA)
+**Greenhouse** · purestorage · Sales
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8088895)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8088895
+
+#### 🔄 Account Executive, Air Force
+**Greenhouse** · purestorage · Sales
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8303174)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8303174
+
+#### 🔄 Account Executive, Commercial
+**Greenhouse** · purestorage · Sales
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8222531)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8222531
+
+#### 🔄 Account Executive, Commercial (Houston)
+**Greenhouse** · purestorage · Sales
+📍 Houston, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8260286)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8260286
+
+#### 🔄 Account Executive, Commercial - Northern Bavaria Region
+**Greenhouse** · purestorage · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8261284)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8261284
+
+#### 🔄 Account Executive, Commercial (NYC)
+**Greenhouse** · purestorage · Sales
+📍 New York, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8279370)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8279370
+
+#### 🔄 Account Executive, Commercial (Upstate New York)
+**Greenhouse** · purestorage · Sales
+📍 Remote, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8145906)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8145906
+
+#### 🔄 Account Executive, Emerging (SocialInfra accounts), Japan
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7464039)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7464039
+
+#### 🔄 Account Executive, Enterprise (Chicago)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8180695)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8180695
+
+#### 🔄 Account Executive, Enterprise (Cincinnati)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Ohio | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8325134)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8325134
+
+#### 🔄 Account Executive, Enterprise (Denmark)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Denmark | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8179428)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8179428
+
+#### 🔄 Account Executive, Enterprise (São Paulo, Brazil)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8273884)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8273884
+
+#### 🔄 Account Executive, Federal
+**Greenhouse** · purestorage · Sales
+📍 Remote, Australian Capital Territory, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8068920)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8068920
+
+#### 🔄 Account Executive, Federal (Intelligence Community)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Virginia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8226648)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8226648
+
+#### 🔄 Account Executive, FSI, South Africa
+**Greenhouse** · purestorage · Sales
+📍 Johannesburg, South Africa | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8119401)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8119401
+
+#### 🔄 Account Executive, Healthcare (Sweden)
+**Greenhouse** · purestorage · Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8237404)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8237404
+
+#### 🔄 Account Executive, Higher Education (MI/OH)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Michigan; Remote, Ohio | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8234310)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8234310
+
+#### 🔄 Account Executive, Higher Education (Northeast)
+**Greenhouse** · purestorage · Sales
+📍 Remote, New Jersey; Remote, New York; Remote, Pennsylvania | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8208399)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8208399
+
+#### 🔄 Account Executive, Higher Education (Rockies)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Colorado; Remote, Wyoming | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8282194)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8282194
+
+#### 🔄 Account Executive, Higher Education (Texas)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8234322)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8234322
+
+#### 🔄 Account Executive, Hong Kong
+**Greenhouse** · purestorage · Sales
+📍 Admiralty, Hong Kong | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8232423)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8232423
+
+#### 🔄 Account Executive, Portworx - Strategic Accounts - Telco (EMEA)
+**Greenhouse** · purestorage · Sales
+📍 Amsterdam, Netherlands; Munich, Germany; Paris, France; Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7597451)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7597451
+
+#### 🔄 Account Executive, Public Sector (中央省庁)
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7457367)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7457367
+
+#### 🔄 Account Executive, Scale AI Solutions (Saudi Arabia or UAE)
+**Greenhouse** · purestorage · Sales
+📍 Dubai, UAE | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8264092)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8264092
+
+#### 🔄 Account Executive, SLED (Chicago)
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8281752)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8281752
+
+#### 🔄 Account Executive, SLED (CO/WY)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Colorado | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8257814)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8257814
+
+#### 🔄 Account Executive, SLED (Maryland)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Maryland | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8312594)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8312594
+
+#### 🔄 Account Executive, SLED (TOLA)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Arkansas; Remote, Oklahoma | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8103422)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8103422
+
+#### 🔄 Account Executive, Taiwan
+**Greenhouse** · purestorage · Sales
+📍 Taipei City, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7418412)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7418412
+
+#### 🔄 Acquisition Administrator (Bangalore)
+**Greenhouse** · purestorage · Administration
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8305829)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8305829
+
+#### 🔄 Administrative Assistant
+**Greenhouse** · purestorage · Administration
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7616957)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7616957
+
+#### 🔄 Advanced Services Manager, EMEA
+**Greenhouse** · purestorage · Services & Support
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8333681)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8333681
+
+#### 🔄 AI Enablement Engineer
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8331163)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8331163
+
+#### 🔄 AI Engineering Manager
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8023967)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8023967
+
+#### 🔄 AI/HPC/NeoCloud Pre-Sales System Engineer UAE
+**Greenhouse** · purestorage · Sales
+📍 Dubai, UAE | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8001588)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8001588
+
+#### 🔄 AI Partner Ecosystem Manager (EMEA)
+**Greenhouse** · purestorage · Sales
+📍 Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8213139)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8213139
+
+#### 🔄 AI Software Engineer, Security
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7681034)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7681034
+
+#### 🔄 AI Transformation Coordinator
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8060240)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8060240
+
+#### 🔄 Alliance Marketing Manager, Artificial Intelligence
+**Greenhouse** · purestorage · Marketing
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8214921)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8214921
+
+#### 🔄 Application Engineer (AI Automation)
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8002123)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8002123
+
+#### 🔄 Associate Value Consultant
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois; Raleigh, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8264507)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8264507
+
+#### 🔄 Backend Engineer, Secrets Management (C++/Java)
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8096068)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8096068
+
+#### 🔄 Business Development Manager, Hyperscale Line of Business
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8126913)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8126913
+
+#### 🔄 Business Intelligence Analyst
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8129789)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8129789
+
+#### 🔄 Business Operations Manager, Product Tools
+**Greenhouse** · purestorage · Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8243117)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8243117
+
+#### 🔄 Business Process Manager, Partner Ecosystem
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8310732)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8310732
+
+#### 🔄 C++ Engineer, File
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8138627)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8138627
+
+#### 🔄 Client Technical Sales Engineer - Germany, Strategic Accounts (Automotive and Manufacturing)
+**Greenhouse** · purestorage · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8280897)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8280897
+
+#### 🔄 Cloud Native Architect, Portworx - North Central
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois; Cincinnati, Ohio; Columbus, Ohio; Detroit, Michigan; Minneapolis, Minnesota | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8250384)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8250384
+
+#### 🔄 Cloud Native Architect, Portworx - NY/NJ
+**Greenhouse** · purestorage · Sales
+📍 New York, New York; Newark, New Jersey | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8092046)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8092046
+
+#### 🔄 Cloud Native Escalation Engineer
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8239156)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8239156
+
+#### 🔄 Cloud Native Senior Architect (UAE)
+**Greenhouse** · purestorage · Services & Support
+📍 Dubai, UAE | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8267672)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8267672
+
+#### 🔄 Cloud Native Technical Services Engineer
+**Greenhouse** · purestorage · Services & Support
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8169141)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8169141
+
+#### 🔄 Cloud Native Technical Services Engineer
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8108379)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8108379
+
+#### 🔄 Cloud Sales Specialist
+**Greenhouse** · purestorage · Sales
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8258686)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8258686
+
+#### 🔄 Consulting Field Solutions Architect - AI/Analytics - North Central Enterprise
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois; Detroit, Michigan; Indianapolis, Indiana; Kansas City, Kansas; Minneapolis, Minnesota; St. Louis, Missouri | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8244462)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8244462
+
+#### 🔄 Consulting Field Solutions Architect, Cyber Resilience - Public Sector
+**Greenhouse** · purestorage · Sales
+📍 Atlanta, Georgia; Austin, Texas; Baltimore, Maryland; Chicago, Illinois; Dallas, Texas; Houston, Texas; Orlando, Florida; Philadelphia, Pennsylvania; Raleigh, North Carolina; Remote, Washington D.C. | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8263153)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8263153
+
+#### 🔄 Consulting Field Solutions Architect, Cyber Resilience - SLED West
+**Greenhouse** · purestorage · Sales
+📍 Denver, Colorado; Los Angeles, California; Phoenix, Arizona; Salt Lake City, Utah; Santa Clara, California; Seattle, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8315041)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8315041
+
+#### 🔄 Consulting National Partner Technical Manager
+**Greenhouse** · purestorage · Sales
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8265486)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8265486
+
+#### 🔄 Consulting Pre-Sales Systems Engineer, Strategics - NYC
+**Greenhouse** · purestorage · Sales
+📍 New York, New York; Newark, New Jersey | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8326085)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8326085
+
+#### 🔄 Consulting Systems Engineer Data Intelligence
+**Greenhouse** · purestorage · Sales
+📍 Melbourne, Australia; Perth, Australia; Sydney, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8317428)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8317428
+
+#### 🔄 Customer Experience Marketing Manager
+**Greenhouse** · purestorage · Services & Support
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8325728)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8325728
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · purestorage · Services & Support
+📍 Lehi, Utah; Raleigh, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8282893)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8282893
+
+#### 🔄 Customer Success Manager - Commercial Segment
+**Greenhouse** · purestorage · Services & Support
+📍 Lehi, Utah; Raleigh, North Carolina; Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8310782)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8310782
+
+#### 🔄 Data Engineer - Data Platform & AI Enablement
+**Greenhouse** · purestorage · Operations
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8261038)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8261038
+
+#### 🔄 Datapath Engineer, Portworx
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8186404)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8186404
+
+#### 🔄 Data Scientist Engineer, Digital Experience
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8237850)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8237850
+
+#### 🔄 Data Steward, Master Data Management, Supply Chain
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8027649)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8027649
+
+#### 🔄 Deal Pricing Strategy & Monetization Analyst - Southern Europe
+**Greenhouse** · purestorage · Finance
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8319039)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8319039
+
+#### 🔄 Designated Services Engineer
+**Greenhouse** · purestorage · Services & Support
+📍 Melbourne, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8275582)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8275582
+
+#### 🔄 Designated Services Engineer, Flash Array
+**Greenhouse** · purestorage · Services & Support
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8185876)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8185876
+
+#### 🔄 DevOps Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8179659)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8179659
+
+#### 🔄 Director, Free Cash Flow & Working Capital Planning
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8157843)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8157843
+
+#### 🔄 Director, Global Benefits
+**Greenhouse** · purestorage · Human Resources
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8203026)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8203026
+
+#### 🔄 Director, Global Logistics & Trade Compliance
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8240526)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8240526
+
+#### 🔄 Director, HR + Legal Technology & Transformation
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8238507)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8238507
+
+#### 🔄 Director of Product Management, Security
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8096795)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8096795
+
+#### 🔄 Director of Software Engineering, CPBU
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8329238)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8329238
+
+#### 🔄 Director, Partner Execution Office
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8310410)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8310410
+
+#### 🔄 Director, Partner Experience
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8310695)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8310695
+
+#### 🔄 Director, Storylabs
+**Greenhouse** · purestorage · Marketing
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8261960)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8261960
+
+#### 🔄 Director, Strategy and Business Operations
+**Greenhouse** · purestorage · Administration
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8157325)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8157325
+
+#### 🔄 Director, Strategy & Corporate Development
+**Greenhouse** · purestorage · Growth & Strategy
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8138463)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8138463
+
+#### 🔄 DRAM Hardware Engineer, Systems
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8180242)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8180242
+
+#### 🔄 EMEA Benefits Specialist
+**Greenhouse** · purestorage · Human Resources
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8172994)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8172994
+
+#### 🔄 Engineering Manager, File
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8176314)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8176314
+
+#### 🔄 Engineering Manager - Flash Array
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8176535)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8176535
+
+#### 🔄 Engineering Manager - Flash Array
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8174566)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8174566
+
+#### 🔄 Engineering Manager, Flash Blade
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8141031)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8141031
+
+#### 🔄 Engineering Manager || Join the PURE Talent Community
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8108440)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8108440
+
+#### 🔄 Engineering Manager, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8207138)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8207138
+
+#### 🔄 Engineering Manager, Quantum Security
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8303406)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8303406
+
+#### 🔄 Engineering Operations Program Manager
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8039678)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8039678
+
+#### 🔄 Enterprise Account Executive - Financial Services FSI
+**Greenhouse** · purestorage · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8273996)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8273996
+
+#### 🔄 Enterprise Account Executive - Manufacturing
+**Greenhouse** · purestorage · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8239197)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8239197
+
+#### 🔄 Escalation Manager
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8203265)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8203265
+
+#### 🔄 Finance Manager, FP&A
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8289570)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8289570
+
+#### 🔄 Finance Manager, Inventory Management
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8165471)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8165471
+
+#### 🔄 Finance Manager, Product Cost
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8165463)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8165463
+
+#### 🔄 Forward Deployed Engineering, Portworx
+**Greenhouse** · purestorage · Engineering
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8113513)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8113513
+
+#### 🔄 FP&A Finance Manager
+**Greenhouse** · purestorage · Finance
+📍 Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8139654)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8139654
+
+#### 🔄 Fullstack Software Engineer, AI Infra
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8166226)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8166226
+
+#### 🔄 Global Account Manager | EMEA Strategic Manufacturing - Automotive
+**Greenhouse** · purestorage · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8279101)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8279101
+
+#### 🔄 Global Account Manager, Strategics/FSI (New York)
+**Greenhouse** · purestorage · Sales
+📍 Remote, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8176846)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8176846
+
+#### 🔄 Global Capacity & Resilience Program Manager
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8240856)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8240856
+
+#### 🔄 Global Strategic Account Service Director
+**Greenhouse** · purestorage · Services & Support
+📍 New York, New York; Raleigh, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8331091)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8331091
+
+#### 🔄 Golang Engineer, 1touch
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8245915)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8245915
+
+#### 🔄 GTM Integration Developer - Boomi
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8108426)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8108426
+
+#### 🔄 GTM Solutions Lead
+**Greenhouse** · purestorage · Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8202884)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8202884
+
+#### 🔄 Hardware Debug and Validation Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7985282)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7985282
+
+#### 🔄 Hardware Design Engineer, Systems
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8180150)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8180150
+
+#### 🔄 Hardware Engineering Manager
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8232431)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8232431
+
+#### 🔄 Hardware Engineer - MTS3
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8168120)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8168120
+
+#### 🔄 Hardware Lead Engineer, Hyperscale Line of Business
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8212246)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8212246
+
+#### 🔄 Hardware Technical Program Manager, Hyperscale Line of Business
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8099572)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8099572
+
+#### 🔄 Healthcare & Life Sciences Principal, EMEA
+**Greenhouse** · purestorage · Sales
+📍 Amsterdam, Netherlands; Munich, Germany; Paris, France; Remote, Switzerland; Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8074336)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8074336
+
+#### 🔄 HR Business Process Excellence Manager
+**Greenhouse** · purestorage · Human Resources
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8283927)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8283927
+
+#### 🔄 Inside Partner Account Manager
+**Greenhouse** · purestorage · Sales
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8276091)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8276091
+
+#### 🔄 Inside Partner Account Manager
+**Greenhouse** · purestorage · Sales
+📍 Sydney, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8280335)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8280335
+
+#### 🔄 Inside Sales Representative - Emerging Sales team
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8212900)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8212900
+
+#### 🔄 Internal Audit Manager
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8027655)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8027655
+
+#### 🔄 IT Functional Analyst, Finance Systems (SAP Accounts Receivable)
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8054368)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8054368
+
+#### 🔄 Java Software Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8094262)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8094262
+
+#### 🔄 Lead Developer, Portworx Backup
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8023892)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8023892
+
+#### 🔄 Lead-to-Order Process Architect
+**Greenhouse** · purestorage · Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8301580)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8301580
+
+#### 🔄 Learning Partner
+**Greenhouse** · purestorage
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8300071)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8300071
+
+#### 🔄 Learning Partner, EMEA
+**Greenhouse** · purestorage · Human Resources
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8302819)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8302819
+
+#### 🔄 Lifecycle Account Manager
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8180347)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8180347
+
+#### 🔄 Linux Kernel Software Engineer - Systems Engineering
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/6676814)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 6676814
+
+#### 🔄 Linux Kernel Software Engineer - Systems Engineering
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8214712)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8214712
+
+#### 🔄 Manager, Commercial Operations & Governance
+**Greenhouse** · purestorage · Finance
+📍 Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8190929)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8190929
+
+#### 🔄 Manager, System Engineering (Presales), Iberia (Madrid-based)
+**Greenhouse** · purestorage · Sales
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8319769)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8319769
+
+#### 🔄 Manufacturing Engineering Manager
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Houston, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8120049)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8120049
+
+#### 🔄 Member of Technical Staff, Backend Engineering (Go, Kubernetes) - Portworx Enterprise
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8300135)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8300135
+
+#### 🔄 Member of Technical Staff - DevOps
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8210546)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8210546
+
+#### 🔄 Member of Technical Staff, DFS
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8210205)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8210205
+
+#### 🔄 Member of Technical Staff- Firmware Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8312377)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8312377
+
+#### 🔄 Member of Technical Staff - FlashArray
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8170836)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8170836
+
+#### 🔄 Member of Technical Staff - FlashArray
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8226182)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8226182
+
+#### 🔄 Member of Technical Staff - FlashArray
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8170887)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8170887
+
+#### 🔄 Member of Technical Staff - FlashArray
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8226163)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8226163
+
+#### 🔄 Member of Technical Staff - Fullstack
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8212843)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8212843
+
+#### 🔄 Member of Technical Staff, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8207176)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8207176
+
+#### 🔄 Member of Technical Staff, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8207255)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8207255
+
+#### 🔄 Member of Technical Staff, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8207184)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8207184
+
+#### 🔄 Member of Technical Staff, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8266627)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8266627
+
+#### 🔄 Member of Technical Staff, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8049018)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8049018
+
+#### 🔄 Member of Technical Staff, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8210151)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8210151
+
+#### 🔄 Member of Technical Staff - Lead Release Engineer (Production Engineering)
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8184679)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8184679
+
+#### 🔄 Member of Technical Staff - Platform Engineering
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8276105)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8276105
+
+#### 🔄 Member Of Technical Staff, Portworx - Backend Engineering Lead (Go, Kubernetes)
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8143681)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8143681
+
+#### 🔄 Member of Technical Staff, Portworx - Backend (Go, Kubernetes)
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8317409)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8317409
+
+#### 🔄 Member of Technical Staff - Portworx Enterprise
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8124408)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8124408
+
+#### 🔄 Member of Technical Staff- Quality Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8190560)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8190560
+
+#### 🔄 Member of Technical Staff - SSD Firmware Development Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Zhubei City, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8121047)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8121047
+
+#### 🔄 MFG Test Development Software Engineer
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8244460)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8244460
+
+#### 🔄 MTS-Exa
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8131754)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8131754
+
+#### 🔄 MTS-Exa
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8131772)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8131772
+
+#### 🔄 MTS - Performance Engineering
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8169046)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8169046
+
+#### 🔄 MTS - Performance Engineering
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8242551)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8242551
+
+#### 🔄 MTS - VIFA
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8034917)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8034917
+
+#### 🔄 NAND Supply Planning & Operations Manager
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8167529)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8167529
+
+#### 🔄 National Partner Manager, CDW Southeast
+**Greenhouse** · purestorage · Sales
+📍 Atlanta, Georgia; Raleigh, North Carolina; Tampa, Florida | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8250420)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8250420
+
+#### 🔄 National Partner Manager, Singapore
+**Greenhouse** · purestorage · Sales
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8276043)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8276043
+
+#### 🔄 OEM Solution Architect
+**Greenhouse** · purestorage · Product Management
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8239357)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8239357
+
+#### 🔄 Offering Tools Finance Lead
+**Greenhouse** · purestorage · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8300513)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8300513
+
+#### 🔄 Offering Tools Finance Lead
+**Greenhouse** · purestorage · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8281811)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8281811
+
+#### 🔄 Operational Excellence Technical Program Manager, Security
+**Greenhouse** · purestorage · IT
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8114100)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8114100
+
+#### 🔄 Operations Program Manager
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8147679)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8147679
+
+#### 🔄 Partner Account Manager
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8138504)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8138504
+
+#### 🔄 Partner Account Manager - Bay Area
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8289985)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8289985
+
+#### 🔄 Partner Account Manager - Indiana and Ohio
+**Greenhouse** · purestorage · Sales
+📍 Remote, Indiana; Remote, Ohio | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8303263)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8303263
+
+#### 🔄 Partner Account Manager - Los Angeles
+**Greenhouse** · purestorage · Sales
+📍 Los Angeles, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8290018)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8290018
+
+#### 🔄 Partner Account Manager - Toronto
+**Greenhouse** · purestorage · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8267376)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8267376
+
+#### 🔄 Platform Services Engineer, Advanced Services (Professional Services)
+**Greenhouse** · purestorage · Services & Support
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8191524)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8191524
+
+#### 🔄 PLM Developer
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8159882)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8159882
+
+#### 🔄 Portworx Delivery Architect
+**Greenhouse** · purestorage · Services & Support
+📍 Sydney, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8098340)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8098340
+
+#### 🔄 Power Integrity Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7902141)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7902141
+
+#### 🔄 Presales Consultant Data Intelligence
+**Greenhouse** · purestorage · Sales
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8096029)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8096029
+
+#### 🔄 Pre-Sales System Engineer, Air Force (VA/MD/DC)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Maryland; Remote, Virginia; Remote, Washington D.C. | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8246329)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8246329
+
+#### 🔄 Presales System Engineer, Territory - PACA (Remote: Marseille or Aix-based)
+**Greenhouse** · purestorage · Sales
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8245581)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8245581
+
+#### 🔄 Pre-Sales Systems Engineer, Enterprise (UK)
+**Greenhouse** · purestorage · Sales
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8104898)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8104898
+
+#### 🔄 Principal, Business Development: Insurance
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois; New York, New York; Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8285291)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8285291
+
+#### 🔄 Principal Business Development Manager, Strategic Healthcare and Life Sciences Partnerships
+**Greenhouse** · purestorage · Growth & Strategy
+📍 Chicago, Illinois; New York, New York; Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8265574)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8265574
+
+#### 🔄 Principal Business Systems Analyst
+**Greenhouse** · purestorage · IT
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8225996)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8225996
+
+#### 🔄 Principal Hardware Systems Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8155369)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8155369
+
+#### 🔄 Principal Pricing Strategy Manager
+**Greenhouse** · purestorage · Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8243222)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8243222
+
+#### 🔄 Principal Product Manager, Commercial Systems
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7940253)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7940253
+
+#### 🔄 Principal Product Manager, EXA
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8070140)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8070140
+
+#### 🔄 Principal Product Manager, Systems FlashBlade
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8153316)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8153316
+
+#### 🔄 Principal Services Solutions Architect - Cloud Native & Kubernetes
+**Greenhouse** · purestorage · Services & Support
+📍 Raleigh, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8185793)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8185793
+
+#### 🔄 Principal Services Solutions Consultant, Americas WWSA
+**Greenhouse** · purestorage · Services & Support
+📍 New York, New York; Pittsburgh, Pennsylvania | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8164160)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8164160
+
+#### 🔄 Principal Solutions Architect, Technology Alliances
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8244584)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8244584
+
+#### 🔄 Principal Technical Product Manager, Hyperscale Line of Business
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8064601)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8064601
+
+#### 🔄 Product Engineer, NPI
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8241414)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8241414
+
+#### 🔄 Product Management Director, Subsystems
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7650454)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7650454
+
+#### 🔄 Professional Services Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8035152)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8035152
+
+#### 🔄 Program Manager, Global Sales Organization, PMO
+**Greenhouse** · purestorage · Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8212617)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8212617
+
+#### 🔄 Program Manager, Global Supply Chain Network Design
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8275524)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8275524
+
+#### 🔄 Program Manager, Talent Management
+**Greenhouse** · purestorage · Human Resources
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8283872)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8283872
+
+#### 🔄 Program Manager, Talent Management
+**Greenhouse** · purestorage · Human Resources
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8283884)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8283884
+
+#### 🔄 Python Software Engineer - Infrastructure & Platform
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8336876)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8336876
+
+#### 🔄 Quality Engineering Manager - FlashArray
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8194679)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8194679
+
+#### 🔄 Quality Systems Engineer - FlashBlade and FlashArray
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8210922)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8210922
+
+#### 🔄 Recruiting Coordinator (12 month contract) In Person - Santa Clara, CA
+**Greenhouse** · purestorage · Human Resources
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7270980)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7270980
+
+#### 🔄 Recruiting Coordinator (12 months contract)
+**Greenhouse** · purestorage · Human Resources
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/6952672)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 6952672
+
+#### 🔄 Regional AI Business Lead
+**Greenhouse** · purestorage · Sales
+📍 Remote, California; Remote, Illinois; Remote, New York; Remote, Texas; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8146194)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8146194
+
+#### 🔄 Sales Development Manager (DACH)
+**Greenhouse** · purestorage · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8140273)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8140273
+
+#### 🔄 Sales District Director, Enterprise Sales Division
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8078994)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8078994
+
+#### 🔄 Salesforce Developer
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8210473)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8210473
+
+#### 🔄 Sales/GTM Sourcer (Contract)
+**Greenhouse** · purestorage · Human Resources
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8334476)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8334476
+
+#### 🔄 Sales Operations Business Partner, Commercial
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8327227)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8327227
+
+#### 🔄 Sales Operations Business Partner, EMEA Strategic Accounts
+**Greenhouse** · purestorage · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8318250)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8318250
+
+#### 🔄 Sales Operations Business Partner, Enterprise
+**Greenhouse** · purestorage · Sales
+📍 New York, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8318747)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8318747
+
+#### 🔄 Sales Operations Business Partner - Italy & Iberia
+**Greenhouse** · purestorage · Sales
+📍 Milan, Italy | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8255669)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8255669
+
+#### 🔄 Sales Operations Business Partner (METCA)
+**Greenhouse** · purestorage · Sales
+📍 Istanbul, Turkey; Johannesburg, South Africa; Warsaw, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8237778)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8237778
+
+#### 🔄 Sales Operations Business Partner, Singapore & ASEAN
+**Greenhouse** · purestorage · Sales
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8242274)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8242274
+
+#### 🔄 Sales Operations Manager, SDR
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8259305)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8259305
+
+#### 🔄 Sales Recruiter
+**Greenhouse** · purestorage · Human Resources
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8280337)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8280337
+
+#### 🔄 Sales Recruiter
+**Greenhouse** · purestorage · Human Resources
+📍 Singapore, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8275915)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8275915
+
+#### 🔄 SAP Functional Analyst, Asset Accounting
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7782472)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7782472
+
+#### 🔄 SAP Supply Chain Analytics Lead - SCM
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8155875)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8155875
+
+#### 🔄 SAP Supply Chain Network Lead
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8155910)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8155910
+
+#### 🔄 SDET, Portworx
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8130085)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8130085
+
+#### 🔄 Security Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8191920)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8191920
+
+#### 🔄 SE Manager/Pre Sales, Enterprise (Tokyo, Japan)
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8055027)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8055027
+
+#### 🔄 Senior AI Engineer, Agentic AI for Finance
+**Greenhouse** · purestorage · Finance
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8330273)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8330273
+
+#### 🔄 Senior AI Knowledge Graph Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7823868)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7823868
+
+#### 🔄 Senior Analyst - Data & Analytics
+**Greenhouse** · purestorage · Finance
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8255397)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8255397
+
+#### 🔄 Senior Analyst Relations Manager
+**Greenhouse** · purestorage · Marketing
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8314244)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8314244
+
+#### 🔄 Senior Business Systems Analyst, Legal Operations
+**Greenhouse** · purestorage · Legal
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7654941)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7654941
+
+#### 🔄 Senior Collections Analyst
+**Greenhouse** · purestorage · Finance
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8162823)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8162823
+
+#### 🔄 Senior Commercial Strategy & Transformation Manager
+**Greenhouse** · purestorage · Growth & Strategy
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8078793)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8078793
+
+#### 🔄 Senior Embedded Software Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8310688)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8310688
+
+#### 🔄 Senior Engineering Manager, SSD Firmware
+**Greenhouse** · purestorage · Engineering
+📍 Zhubei City, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8121752)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8121752
+
+#### 🔄 Senior Finance Manager
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8267807)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8267807
+
+#### 🔄 Senior Full Stack Software Engineer, Digital Experience
+**Greenhouse** · purestorage · Engineering
+📍 Bellevue, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7899524)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7899524
+
+#### 🔄 Senior Global Marketing Manager: Managed Service Providers
+**Greenhouse** · purestorage · Marketing
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8186529)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8186529
+
+#### 🔄 Senior Hardware Design Engineer, Systems Engineering
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8241511)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8241511
+
+#### 🔄 Senior Insurance Manager
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8274208)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8274208
+
+#### 🔄 Senior Internal Audit Manager
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8274283)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8274283
+
+#### 🔄 Senior Java Software Engineer – IBM Mainframe
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7922807)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7922807
+
+#### 🔄 Senior Manager, Component Engineering
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8231511)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8231511
+
+#### 🔄 Senior Manager, Data Mobility Delivery (EMEA & APJ)
+**Greenhouse** · purestorage · Services & Support
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8288693)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8288693
+
+#### 🔄 Senior Manager, Direct Flash Module Operations Engineering
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Remote, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7829609)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7829609
+
+#### 🔄 Senior Manager, External Reporting
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8234240)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8234240
+
+#### 🔄 Senior Manager, Master Data Management & Data Governance
+**Greenhouse** · purestorage · Finance
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8204203)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8204203
+
+#### 🔄 Senior Manager, Security Operations - Detection Engineering & Incident Response
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8191934)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8191934
+
+#### 🔄 Senior Manager, Strategy & Corporate Development
+**Greenhouse** · purestorage · Growth & Strategy
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8076161)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8076161
+
+#### 🔄 Senior Marketing Operations Manager, Operational Design
+**Greenhouse** · purestorage · Marketing
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8222075)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8222075
+
+#### 🔄 Senior MDM Product Data Analyst (Bangalore, in-person)
+**Greenhouse** · purestorage · Finance
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8212868)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8212868
+
+#### 🔄 Senior Partner Program Governance Manager
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7938769)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7938769
+
+#### 🔄 Senior Payment Application Analyst
+**Greenhouse** · purestorage · Finance
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8155551)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8155551
+
+#### 🔄 Senior PCIe Hardware System Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Zhubei City, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8007293)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8007293
+
+#### 🔄 Senior Pre-Sales System Engineer (Albany)
+**Greenhouse** · purestorage · Sales
+📍 Remote, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8331385)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8331385
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Commercial - CT/NY
+**Greenhouse** · purestorage · Sales
+📍 New York, New York; Newark, New Jersey; Remote, Connecticut | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8316067)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8316067
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Commercial - Wisconsin
+**Greenhouse** · purestorage · Sales
+📍 Remote, Wisconsin | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8279218)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8279218
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Enterprise - Massachusetts
+**Greenhouse** · purestorage · Sales
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8265207)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8265207
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Enterprise - Philadelphia
+**Greenhouse** · purestorage · Sales
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8249402)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8249402
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Everpure Resilience
+**Greenhouse** · purestorage · Sales
+📍 Remote, Arizona; Remote, California; Remote, Colorado; Remote, Missouri; Remote, Oklahoma; Remote, Oregon; Remote, Utah; Remote, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8123184)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8123184
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Higher Education (IN/MI)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Indiana; Remote, Michigan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8334312)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8334312
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Higher Education (Mid-Atlantic)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Maryland; Remote, Virginia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8213676)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8213676
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Higher Education (Northeast)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Massachusetts; Remote, New York; Remote, Pennsylvania | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8213679)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8213679
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Higher Education (Texas)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8334904)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8334904
+
+#### 🔄 Senior Pre-Sales Systems Engineer, Ottawa
+**Greenhouse** · purestorage · Sales
+📍 Remote, Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8060834)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8060834
+
+#### 🔄 Senior Pre-Sales Systems Engineer, SLED (California)
+**Greenhouse** · purestorage · Sales
+📍 Remote, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8210911)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8210911
+
+#### 🔄 Senior Pre-Sales Systems Engineer, SLED (NorCal)
+**Greenhouse** · purestorage · Sales
+📍 Remote, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8098840)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8098840
+
+#### 🔄 Senior Pre-Sales Systems Engineer, SLED (OH)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Ohio | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8265636)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8265636
+
+#### 🔄 Senior Product Manager – AI & Workflow Automation, Pure1
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8047506)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8047506
+
+#### 🔄 Senior Product Manager, Data Management
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7986182)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7986182
+
+#### 🔄 Senior Product Marketing Manager, Data Intelligence
+**Greenhouse** · purestorage · Marketing
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8114972)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8114972
+
+#### 🔄 Senior Project Manager, ELOB
+**Greenhouse** · purestorage · Engineering
+📍 New York, New York; Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8335687)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8335687
+
+#### 🔄 Senior Python Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8052996)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8052996
+
+#### 🔄 Senior Sales Operations Manager, Federal Sector
+**Greenhouse** · purestorage · Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8205325)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8205325
+
+#### 🔄 Senior Security Engineer,Detection & Incident Response
+**Greenhouse** · purestorage · IT
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8225837)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8225837
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8179433)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8179433
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8179437)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8179437
+
+#### 🔄 Senior Security Operations Manager
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8186238)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8186238
+
+#### 🔄 Senior Services Solutions Architect – AI, Advanced Services
+**Greenhouse** · purestorage · Services & Support
+📍 New York, New York; Raleigh, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8276302)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8276302
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8247780)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8247780
+
+#### 🔄 Senior Software Engineer, Backend (Java)
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8096073)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8096073
+
+#### 🔄 Senior Software Engineer, Datapath
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7702100)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7702100
+
+#### 🔄 Senior Software Engineer – Go / Cloud Platform
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8190691)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8190691
+
+#### 🔄 Senior Software Engineer, Hyperscale Build Infrastructure
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8268406)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8268406
+
+#### 🔄 Senior Solutions Architect, Managed Service Providers
+**Greenhouse** · purestorage · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8184947)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8184947
+
+#### 🔄 Senior Solutions Architect, MSP
+**Greenhouse** · purestorage · Sales
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8207629)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8207629
+
+#### 🔄 Senior Strategic ABM  Manager
+**Greenhouse** · purestorage · Marketing
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8211122)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8211122
+
+#### 🔄 Senior Strategic Program Manager, Advanced Services
+**Greenhouse** · purestorage · Services & Support
+📍 New York, New York; Raleigh, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8278586)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8278586
+
+#### 🔄 Senior System Engineer (Korea)
+**Greenhouse** · purestorage · Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8168484)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8168484
+
+#### 🔄 Senior Systems Engineer (Austria)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Austria | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8179372)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8179372
+
+#### 🔄 Senior Systems Engineer, Enterprise (Netherlands)
+**Greenhouse** · purestorage · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8074476)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8074476
+
+#### 🔄 Senior Systems Engineer (Pre-Sales), Public Sector: Defence and Defence Industrial Base (UK&I)
+**Greenhouse** · purestorage · Sales
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8104916)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8104916
+
+#### 🔄 Senior System Software Engineer – Golang / Java | Distributed Systems
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8245580)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8245580
+
+#### 🔄 Senior System Software Manager
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8099710)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8099710
+
+#### 🔄 Senior Technical Architect
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8163911)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8163911
+
+#### 🔄 Senior Technical Design Architect
+**Greenhouse** · purestorage · Services & Support
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8190484)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8190484
+
+#### 🔄 Senior Technical Evangelist, AI
+**Greenhouse** · purestorage · Marketing
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7117974)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7117974
+
+#### 🔄 Senior Technical Proposal Writer
+**Greenhouse** · purestorage · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8279766)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8279766
+
+#### 🔄 Service Account Manager / Product Advisor
+**Greenhouse** · purestorage · Services & Support
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8090534)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8090534
+
+#### 🔄 Signal Integrity Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8301223)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8301223
+
+#### 🔄 Signal Integrity Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Zhubei City, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8248646)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8248646
+
+#### 🔄 Signal Integrity Hardware Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7528412)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7528412
+
+#### 🔄 Site Reliability Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8288873)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8288873
+
+#### 🔄 SKU Solution Architect
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8024797)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8024797
+
+#### 🔄 Software Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8102970)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8102970
+
+#### 🔄 Software Engineer, Backend (Java)
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8096074)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8096074
+
+#### 🔄 Software Engineer, FlashBlade
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8300541)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8300541
+
+#### 🔄 Software Engineer Grad 2027
+**Greenhouse** · purestorage · University
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8249851)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8249851
+
+#### 🔄 Software Engineering Manager
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/6862405)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 6862405
+
+#### 🔄 Software Engineering Manager, Hyperscale Line of Business
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8305419)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8305419
+
+#### 🔄 Software Engineer Intern (Summer 2027)
+**Greenhouse** · purestorage · University
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8249749)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8249749
+
+#### 🔄 Software Engineer, Janus team, DDX
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8161535)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8161535
+
+#### 🔄 Software Engineer, (Java/Python) Backend Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8162326)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8162326
+
+#### 🔄 Software Quality Engineer, Hyperscale Line of Business
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8168627)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8168627
+
+#### 🔄 Solution Architect SCM - SAP S/4HANA Supply Chain Management (SCM)
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8054497)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8054497
+
+#### 🔄 Sr. Business Partner, Sales Operations
+**Greenhouse** · purestorage · Sales
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8225833)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8225833
+
+#### 🔄 Sr. Demand Planning Manager
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8306839)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8306839
+
+#### 🔄 Sr. Director, Evergreen Subscription Sales (EMEA)
+**Greenhouse** · purestorage · Sales
+📍 Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8289574)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8289574
+
+#### 🔄 Sr. Escalation Engineer
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8113757)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8113757
+
+#### 🔄 Sr. Java/Kotlin Software Engineer, Everpure Resilience
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8170335)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8170335
+
+#### 🔄 Sr. Java SW Engineer, Data Management team
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8170808)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8170808
+
+#### 🔄 Sr. Manager, Customer Success - Data Management
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8027636)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8027636
+
+#### 🔄 Sr. Product Manager, FlashArray Foundation
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8153050)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8153050
+
+#### 🔄 Sr. Solutions Architect - Storage Hardware & Networking
+**Greenhouse** · purestorage · Product Management
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8282728)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8282728
+
+#### 🔄 Sr. SSD Firmware Architect
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7714281)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7714281
+
+#### 🔄 Staff AI & Automation Data Analyst
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8129785)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8129785
+
+#### 🔄 Staff AI Engineer, Agentic AI for Finance
+**Greenhouse** · purestorage · Finance
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8330271)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8330271
+
+#### 🔄 Staff Security Operations Engineer
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8186109)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8186109
+
+#### 🔄 Storage Server & Engineering, Senior Technical Program Manager
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8103260)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8103260
+
+#### 🔄 Strategy & Operations Director, Global Supply Chain Operations
+**Greenhouse** · purestorage · Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8302662)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8302662
+
+#### 🔄 Subscription Services Representative (Renewals) - France
+**Greenhouse** · purestorage · Sales
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8025654)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8025654
+
+#### 🔄 Subscription Services Representative (Tokyo)
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8232341)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8232341
+
+#### 🔄 Sustainability Reporting Manager
+**Greenhouse** · purestorage · Legal
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8275423)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8275423
+
+#### 🔄 System Engineering Manager, SLED (West)
+**Greenhouse** · purestorage · Sales
+📍 Remote, California; Remote, Colorado; Remote, Oregon; Remote, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8234147)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8234147
+
+#### 🔄 System Engineer, Queensland
+**Greenhouse** · purestorage · Sales
+📍 Remote, Queensland, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8210093)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8210093
+
+#### 🔄 Systems Engineer
+**Greenhouse** · purestorage · Sales
+📍 Remote, Malaysia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8172524)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8172524
+
+#### 🔄 System Software Engineer, Cloud (C++/Python)
+**Greenhouse** · purestorage · Engineering
+📍 Prague, Czech Republic | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8096230)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8096230
+
+#### 🔄 System Test Enablement Manager
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8120026)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8120026
+
+#### 🔄 Talent Acquisition Sourcer
+**Greenhouse** · purestorage · Human Resources
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7606566)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 7606566
+
+#### 🔄 Technical Design Architect
+**Greenhouse** · purestorage · Services & Support
+📍 Melbourne, Australia; Sydney, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8138540)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8138540
+
+#### 🔄 Technical Leader & CTO, National Security
+**Greenhouse** · purestorage · Sales
+📍 Remote, Maryland; Remote, Virginia; Remote, Washington D.C. | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8201637)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8201637
+
+#### 🔄 Technical Lead, Flashblade//EXA
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8155627)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8155627
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8304567)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8304567
+
+#### 🔄 Technical Program Manager, MFG Test Engineering
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8260070)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8260070
+
+#### 🔄 Technical Recruiter
+**Greenhouse** · purestorage · Human Resources
+📍 Hsinchu, Taiwan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8323425)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8323425
+
+#### 🔄 Technical Services Engineer, FlashBlade (AP)
+**Greenhouse** · purestorage · Services & Support
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8315241)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8315241
+
+#### 🔄 Technical Services Engineer, FlashBlade (YK)
+**Greenhouse** · purestorage · Services & Support
+📍 Dublin, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8314940)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8314940
+
+#### 🔄 Technical Services Engineer, Portworx (Shift: Monday - Friday from 9:00 AM - 6:00 PM PST)
+**Greenhouse** · purestorage · Services & Support
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8306078)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8306078
+
+#### 🔄 Technical Services Engineer Representative
+**Greenhouse** · purestorage · Services & Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8129753)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8129753
+
+#### 🔄 Technical Services Engineer(Shift: Monday - Friday 12:00 PM - 9:00 PM MDT)
+**Greenhouse** · purestorage · Services & Support
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8305763)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8305763
+
+#### 🔄 Technical Services Engineer (Shift: Monday - Friday, 3:00 PM - 12:00 AM MDT)
+**Greenhouse** · purestorage · Services & Support
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8305745)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8305745
+
+#### 🔄 Territory Account Executive - Bay Area
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8189952)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8189952
+
+#### 🔄 Territory Account Executive - BW/Hessen
+**Greenhouse** · purestorage · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8256731)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8256731
+
+#### 🔄 Territory Account Executive - Central Region, Ohio and West Virginia
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois; Remote, Ohio; Remote, West Virginia | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8209899)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8209899
+
+#### 🔄 Territory Account Executive NRW
+**Greenhouse** · purestorage · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8264045)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8264045
+
+#### 🔄 Treasury Manager
+**Greenhouse** · purestorage · Finance
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8184588)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8184588
+
+#### 🔄 Web Experience Strategy & Program Manager
+**Greenhouse** · purestorage · Marketing
+📍 Raleigh, North Carolina; Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8275346)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8275346
+
+#### 🔄 Workday Analyst
+**Greenhouse** · purestorage · IT
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8300042)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8300042
+
+#### 🔄 Workplace Investigator (EMEA)
+**Greenhouse** · purestorage · Legal
+📍 Staines, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8245996)
+🕐 Updated: 2026-11-01T03:54:00-05:00 | ID: 8245996
+
+#### 🔄 Account Executive
+**Greenhouse** · payoneer · GTM EMEA
+📍 London, UK | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8327063/?gh_jid=8327063)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8327063
+
+#### 🔄 AML Leader
+**Greenhouse** · payoneer · CN License OPR
+📍 Guangzhou, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8165969/?gh_jid=8165969)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8165969
+
+#### 🔄 Application Security Engineer
+**Greenhouse** · payoneer · IT & Security
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8261034/?gh_jid=8261034)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8261034
+
+#### 🔄 Architect - Backend
+**Greenhouse** · payoneer · Enterprise Marketplaces
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7699189/?gh_jid=7699189)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7699189
+
+#### 🔄 Automation Engineer
+**Greenhouse** · payoneer · CN License R&D
+📍 Guangzhou, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8185468/?gh_jid=8185468)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8185468
+
+#### 🔄 Backend Engineer
+**Greenhouse** · payoneer · CLM
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8255852/?gh_jid=8255852)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8255852
+
+#### 🔄 Backend Engineer (C# and .Net)
+**Greenhouse** · payoneer · Platform Engineering
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7085678/?gh_jid=7085678)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7085678
+
+#### 🔄 Banking Ops Associate
+**Greenhouse** · payoneer · Banking and Payments
+📍 Hong Kong, Hong Kong | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8299486/?gh_jid=8299486)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8299486
+
+#### 🔄 Business Development Manager
+**Greenhouse** · payoneer · GTM EMEA
+📍 London, UK | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8172890/?gh_jid=8172890)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8172890
+
+#### 🔄 Business Operations Intern
+**Greenhouse** · payoneer · Global Enterprise
+📍 Shenzhen, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8151961/?gh_jid=8151961)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8151961
+
+#### 🔄 Compliance Officer
+**Greenhouse** · payoneer · Regulatory Compliance
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8264699/?gh_jid=8264699)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8264699
+
+#### 🔄 Compliance Training Senior Analyst
+**Greenhouse** · payoneer · Compliance Governance office
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8255846/?gh_jid=8255846)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8255846
+
+#### 🔄 Customer Lifecycle Program Manager
+**Greenhouse** · payoneer · Customer Growth
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7935957/?gh_jid=7935957)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7935957
+
+#### 🔄 Customer Onboarding Manager, APAC (1 year contract) - JP Speaking
+**Greenhouse** · payoneer · GTM APAC
+📍 Seoul, South Korea | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8263831/?gh_jid=8263831)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8263831
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · payoneer · GTM NA
+📍 Remote, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8273584/?gh_jid=8273584)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8273584
+
+#### 🔄 Customer Success Manager - Enterprise
+**Greenhouse** · payoneer · GTM China
+📍 Shenzhen, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8087730/?gh_jid=8087730)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8087730
+
+#### 🔄 Customer Success Manager / Senior Customer Success Manager
+**Greenhouse** · payoneer · GTM APAC
+📍 Manila, Philippines | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8263829/?gh_jid=8263829)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8263829
+
+#### 🔄 Director, Corporate Strategy
+**Greenhouse** · payoneer · Corporate Strategy
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8236582/?gh_jid=8236582)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8236582
+
+#### 🔄 Director of Product, Growth
+**Greenhouse** · payoneer · CLM
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8284597/?gh_jid=8284597)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8284597
+
+#### 🔄 Director, Portfolio Risk Management, Working Capital
+**Greenhouse** · payoneer · Commercial Excellence
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8262850/?gh_jid=8262850)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8262850
+
+#### 🔄 Finance Analyst (Financial Reporting)
+**Greenhouse** · payoneer · Finance
+📍 Hong Kong, Hong Kong | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8222758/?gh_jid=8222758)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8222758
+
+#### 🔄 Finance Transformation Specialist
+**Greenhouse** · payoneer · Reconciliation
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8284796/?gh_jid=8284796)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8284796
+
+#### 🔄 Global Director, Total Rewards
+**Greenhouse** · payoneer · People
+📍 New York, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8288796/?gh_jid=8288796)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8288796
+
+#### 🔄 Global GTM & Sales Program Manager
+**Greenhouse** · payoneer · Acquisition
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8131892/?gh_jid=8131892)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8131892
+
+#### 🔄 Global HR Operations Specialist
+**Greenhouse** · payoneer · WFM
+📍 Buenos Aires, Argentina | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8273579/?gh_jid=8273579)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8273579
+
+#### 🔄 Global HR Operations Specialist - Europe
+**Greenhouse** · payoneer · WFM
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8131730/?gh_jid=8131730)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8131730
+
+#### 🔄 GRC Security Specialist
+**Greenhouse** · payoneer · IT & Security
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8211074/?gh_jid=8211074)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8211074
+
+#### 🔄 GTM Lead - Stablecoin
+**Greenhouse** · payoneer · Finance
+📍 New York, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8024668/?gh_jid=8024668)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8024668
+
+#### 🔄 Head of Product, PAYO Digital Bank - Stablecoin
+**Greenhouse** · payoneer · Stablecoin
+📍 Remote, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8210296/?gh_jid=8210296)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8210296
+
+#### 🔄 Indirect Tax Manager
+**Greenhouse** · payoneer · Finance
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8299484/?gh_jid=8299484)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8299484
+
+#### 🔄 Integration Engineer
+**Greenhouse** · payoneer · Enterprise Marketplaces
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8284892/?gh_jid=8284892)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8284892
+
+#### 🔄 Internal Audit Senior Manager
+**Greenhouse** · payoneer · Internal Audit
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8242461/?gh_jid=8242461)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8242461
+
+#### 🔄 KYC Representative (APAC)
+**Greenhouse** · payoneer · OPS CJ KYC
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7929712/?gh_jid=7929712)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7929712
+
+#### 🔄 KYC Team Leader
+**Greenhouse** · payoneer · OPS CJ KYC
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7964256/?gh_jid=7964256)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7964256
+
+#### 🔄 Lead, Data & AI Solutions – Enterprise Risk
+**Greenhouse** · payoneer · Legal & Regulatory
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8273615/?gh_jid=8273615)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8273615
+
+#### 🔄 Legal Counsel - Employment (APAC & MEA)
+**Greenhouse** · payoneer · WFM Legal
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8236588/?gh_jid=8236588)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8236588
+
+#### 🔄 Manager, Sales Development
+**Greenhouse** · payoneer · GTM EMEA
+📍 Remote, Poland | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8168991/?gh_jid=8168991)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8168991
+
+#### 🔄 Manager, Sales Development
+**Greenhouse** · payoneer · GTM EMEA
+📍 Kyiv, Ukraine | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8226549/?gh_jid=8226549)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8226549
+
+#### 🔄 MarTech & AI Enablement Manager, Greater China
+**Greenhouse** · payoneer · GTM China
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8027893/?gh_jid=8027893)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8027893
+
+#### 🔄 Mid Market Sales Managerr, APAC (1 year contract) - JP Speaking
+**Greenhouse** · payoneer · GTM APAC
+📍 Seoul, South Korea | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8276315/?gh_jid=8276315)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8276315
+
+#### 🔄 Onboarding Specialist
+**Greenhouse** · payoneer · GTM EMEA
+📍 Remote, Poland | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8190810/?gh_jid=8190810)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8190810
+
+#### 🔄 Operations Business Partner
+**Greenhouse** · payoneer · OPS CJ COE & Management
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8280993/?gh_jid=8280993)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8280993
+
+#### 🔄 Operations Director, PPG
+**Greenhouse** · payoneer · CN License OPR
+📍 Guangzhou, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8151949/?gh_jid=8151949)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8151949
+
+#### 🔄 Ops Program Manager
+**Greenhouse** · payoneer · OPS CJ COE & Management
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8242337/?gh_jid=8242337)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8242337
+
+#### 🔄 Partnership Manager - German/French/Italian/Spanish Speaker
+**Greenhouse** · payoneer · GTM EMEA
+📍 London, UK | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8127636/?gh_jid=8127636)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8127636
+
+#### 🔄 Payroll Analyst - Europe
+**Greenhouse** · payoneer · WFM
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8273582/?gh_jid=8273582)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8273582
+
+#### 🔄 Principal Engineer
+**Greenhouse** · payoneer · Business Applications
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8211155/?gh_jid=8211155)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8211155
+
+#### 🔄 Principal Mobile Engineer
+**Greenhouse** · payoneer · Core Platforms & Data
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8043207/?gh_jid=8043207)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8043207
+
+#### 🔄 Principal Product Manager
+**Greenhouse** · payoneer · Platform Management
+📍 Buenos Aires, Argentina | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8111593/?gh_jid=8111593)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8111593
+
+#### 🔄 Principal Product Manager - AI Agent Platform
+**Greenhouse** · payoneer · Core AI & AI Transformation
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8211169/?gh_jid=8211169)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8211169
+
+#### 🔄 Principal Software Engineer — Customer Lifecycle Management (CLM)
+**Greenhouse** · payoneer · CLM
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8305409/?gh_jid=8305409)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8305409
+
+#### 🔄 Product Analyst
+**Greenhouse** · payoneer · Data & Analytics
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7988148/?gh_jid=7988148)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7988148
+
+#### 🔄 R&D Team Lead
+**Greenhouse** · payoneer · CLM
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8273779/?gh_jid=8273779)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8273779
+
+#### 🔄 R&D Team Lead
+**Greenhouse** · payoneer · Business Applications
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8019863/?gh_jid=8019863)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8019863
+
+#### 🔄 Reconciliation Infrastructure Associate
+**Greenhouse** · payoneer · Reconciliation
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8208199/?gh_jid=8208199)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8208199
+
+#### 🔄 Regional Customer Success Operations Manager
+**Greenhouse** · payoneer · Customer Growth
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8087776/?gh_jid=8087776)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8087776
+
+#### 🔄 RFP & Solutions Manager
+**Greenhouse** · payoneer · Enterprise Marketplaces
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8239190/?gh_jid=8239190)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8239190
+
+#### 🔄 Risk Management Manager
+**Greenhouse** · payoneer · CN License OPR
+📍 Guangzhou, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8245600/?gh_jid=8245600)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8245600
+
+#### 🔄 Salesforce Engineer
+**Greenhouse** · payoneer · IT & Information Systems
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8166030/?gh_jid=8166030)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8166030
+
+#### 🔄 Sales Intern - Business Development Team
+**Greenhouse** · payoneer · GTM China
+📍 Shenzhen, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8324393/?gh_jid=8324393)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8324393
+
+#### 🔄 Senior AI-Native Engineer
+**Greenhouse** · payoneer · Business Applications
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7431102/?gh_jid=7431102)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7431102
+
+#### 🔄 Senior Applications & Integrations Engineer
+**Greenhouse** · payoneer · IT & Information Systems
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8303989/?gh_jid=8303989)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8303989
+
+#### 🔄 Senior Backend developer
+**Greenhouse** · payoneer · Business Applications
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7067510/?gh_jid=7067510)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7067510
+
+#### 🔄 Senior Backend Engineer
+**Greenhouse** · payoneer · Business Applications
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7431091/?gh_jid=7431091)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7431091
+
+#### 🔄 Senior Backend Engineer
+**Greenhouse** · payoneer · Money Movement Platform
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7431120/?gh_jid=7431120)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7431120
+
+#### 🔄 Senior Business Development Manager
+**Greenhouse** · payoneer · GTM LATAM
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8246739/?gh_jid=8246739)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8246739
+
+#### 🔄 Senior Business Development Manager
+**Greenhouse** · payoneer · GTM APAC
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8226199/?gh_jid=8226199)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8226199
+
+#### 🔄 Senior Business Development Manager
+**Greenhouse** · payoneer · GTM LATAM
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8229933/?gh_jid=8229933)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8229933
+
+#### 🔄 Senior Customer Experience Manager
+**Greenhouse** · payoneer · WFM
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8051540/?gh_jid=8051540)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8051540
+
+#### 🔄 Senior Customer Success Manager - Enterprise
+**Greenhouse** · payoneer · GTM China
+📍 Shenzhen, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8324383/?gh_jid=8324383)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8324383
+
+#### 🔄 Senior Data Product Manager
+**Greenhouse** · payoneer · Core Platforms & Data
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8258564/?gh_jid=8258564)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8258564
+
+#### 🔄 Senior Data Scientist
+**Greenhouse** · payoneer · Core Platforms & Data
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8211149/?gh_jid=8211149)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8211149
+
+#### 🔄 Senior DevOps Delivery Engineer, Delivery
+**Greenhouse** · payoneer · Platform Engineering
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7256653/?gh_jid=7256653)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7256653
+
+#### 🔄 Senior DevSecOps Engineer
+**Greenhouse** · payoneer · Platform Engineering
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8015580/?gh_jid=8015580)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8015580
+
+#### 🔄 Senior Director, Customer Success – LATAM
+**Greenhouse** · payoneer · GTM LATAM
+📍 Buenos Aires, Argentina | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8013204/?gh_jid=8013204)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8013204
+
+#### 🔄 Senior Director, Customer Success – LATAM
+**Greenhouse** · payoneer · GTM LATAM
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8242778/?gh_jid=8242778)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8242778
+
+#### 🔄 Senior Domain Operations Lead, Business Applications
+**Greenhouse** · payoneer · Platform Management
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8185354/?gh_jid=8185354)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8185354
+
+#### 🔄 Senior Domain Ops Lead, Core AI
+**Greenhouse** · payoneer · Platform Management
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8261036/?gh_jid=8261036)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8261036
+
+#### 🔄 Senior Frontend Engineer
+**Greenhouse** · payoneer · CLM
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8255848/?gh_jid=8255848)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8255848
+
+#### 🔄 Senior Manager, Market Development
+**Greenhouse** · payoneer · Global Enterprise
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8144160/?gh_jid=8144160)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8144160
+
+#### 🔄 Senior Manager, Talent Development
+**Greenhouse** · payoneer · People
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8012974/?gh_jid=8012974)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8012974
+
+#### 🔄 Senior Product Manager – MCP/API Platform
+**Greenhouse** · payoneer · Business Applications
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7566798/?gh_jid=7566798)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7566798
+
+#### 🔄 Senior Product Manager - Mobile App
+**Greenhouse** · payoneer · Business Applications
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7361831/?gh_jid=7361831)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7361831
+
+#### 🔄 Senior Product Manager
+**Greenhouse** · payoneer · Product
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/3999096/?gh_jid=3999096)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 3999096
+
+#### 🔄 Senior Product Researcher
+**Greenhouse** · payoneer · Product Guild & Design
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7988144/?gh_jid=7988144)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7988144
+
+#### 🔄 Senior Regulatory Counsel, Europe
+**Greenhouse** · payoneer · Legal & Regulatory
+📍 London, UK | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8312432/?gh_jid=8312432)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8312432
+
+#### 🔄 Senior Regulatory Counsel, Europe
+**Greenhouse** · payoneer · Legal & Regulatory
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8200781/?gh_jid=8200781)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8200781
+
+#### 🔄 Senior Sales Manager, Enterprise
+**Greenhouse** · payoneer · Global Enterprise
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8025538/?gh_jid=8025538)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8025538
+
+#### 🔄 Senior Solutions & Implementation Manager
+**Greenhouse** · payoneer · Enterprise Marketplaces
+📍 Remote, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8261053/?gh_jid=8261053)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8261053
+
+#### 🔄 Senior Staff Engineer - Stablecoin
+**Greenhouse** · payoneer · Stablecoin
+📍 Remote, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8190850/?gh_jid=8190850)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8190850
+
+#### 🔄 Senior Tax Manager
+**Greenhouse** · payoneer · Finance
+📍 New York, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7818136/?gh_jid=7818136)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7818136
+
+#### 🔄 Senior Technical Salesforce Project Manager
+**Greenhouse** · payoneer · IT & Information Systems
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8188579/?gh_jid=8188579)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8188579
+
+#### 🔄 Solutions & Implementation Manager
+**Greenhouse** · payoneer · Enterprise Marketplaces
+📍 Remote, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8267574/?gh_jid=8267574)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8267574
+
+#### 🔄 Staff Software Engineer (AI Fluent)
+**Greenhouse** · payoneer · Business Applications
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8104982/?gh_jid=8104982)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8104982
+
+#### 🔄 Strategic Account Director
+**Greenhouse** · payoneer · GTM EMEA
+📍 London, UK | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8155963/?gh_jid=8155963)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8155963
+
+#### 🔄 Supervisor
+**Greenhouse** · payoneer · OPS CJ Enablement
+📍 Bangalore, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8185487/?gh_jid=8185487)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8185487
+
+#### 🔄 Talent Acquisition Partner
+**Greenhouse** · payoneer · People
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8187959/?gh_jid=8187959)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8187959
+
+#### 🔄 Team Lead R&D, Monetization
+**Greenhouse** · payoneer · Business Applications
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7709761/?gh_jid=7709761)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7709761
+
+#### 🔄 Team Manager, Chargebacks & Payment Disputes
+**Greenhouse** · payoneer · Banking and Payments
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8101108/?gh_jid=8101108)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8101108
+
+#### 🔄 Tech Lead
+**Greenhouse** · payoneer · Business Applications
+📍 Gurugram, India | 🔗 [Apply Here](https://www.payoneer.com/careers/position/7431085/?gh_jid=7431085)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 7431085
+
+#### 🔄 Technical Integration Specialist
+**Greenhouse** · payoneer · Checkout
+📍 Shanghai, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8051536/?gh_jid=8051536)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8051536
+
+#### 🔄 Treasurer, PAYO Digital Bank
+**Greenhouse** · payoneer · Stablecoin
+📍 New York, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8210294/?gh_jid=8210294)
+🕐 Updated: 2026-11-01T03:27:11-05:00 | ID: 8210294
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15718 fetched, 543 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 33 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 74 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15825 fetched, 543 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-01 07:46 UTC
 
 ### Greenhouse
