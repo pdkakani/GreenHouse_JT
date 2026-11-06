@@ -1,3 +1,3509 @@
+## 📅 Run: 2026-11-06 23:21 UTC
+
+### Greenhouse
+
+#### 🆕 Senior Systems Engineer, Vehicle Security
+**Greenhouse** · waymo · HW Systems (7SH) · 🎯 40%
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8360600)
+🕐 Updated: 2026-11-06T18:18:42-05:00 | ID: 8360600
+
+#### 🆕 Environmental Health & Safety Engineer (Satellites)
+**Greenhouse** · spacex · EHS - Redmond · 🎯 35%
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932797002?gh_jid=8932797002)
+🕐 Updated: 2026-11-06T18:17:39-05:00 | ID: 8932797002
+
+#### 🔄 Staff, Digital Marketing Strategist
+**Greenhouse** · justworks · Marketing
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8285466?gh_jid=8285466)
+🕐 Updated: 2026-11-06T18:13:06-05:00 | ID: 8285466
+
+#### 🔄 Senior Collections Analyst
+**Greenhouse** · purestorage · Finance
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8162823)
+🕐 Updated: 2026-11-06T18:10:59-05:00 | ID: 8162823
+
+#### 🔄 Associate Technical Services Engineer
+**Greenhouse** · mongodb · Technical Support AMER
+📍 Toronto | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8234520)
+🕐 Updated: 2026-11-06T17:55:46-05:00 | ID: 8234520
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Novi Sad, South Bačka, Serbia, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8179022003)
+🕐 Updated: 2026-11-06T17:54:26-05:00 | ID: 8179022003
+
+#### 🔄 Lead Full Stack Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Novi Sad, South Bačka, Serbia, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8195548003)
+🕐 Updated: 2026-11-06T17:53:49-05:00 | ID: 8195548003
+
+#### 🔄 Staff Site Reliability Engineer, Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Austin; Boston; Chicago; Dallas; Denver; New York; San Francisco; Seattle; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=6982487)
+🕐 Updated: 2026-11-06T17:50:52-05:00 | ID: 6982487
+
+#### 🔄 Senior Site Reliability Engineer, Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Austin; Boston; Chicago; Dallas; Denver; New York City; San Francisco; Seattle; United States; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7668289)
+🕐 Updated: 2026-11-06T17:49:29-05:00 | ID: 7668289
+
+#### 🔄 Senior Software Engineer (SRE), Infrastructure Security
+**Greenhouse** · mongodb · Site Reliability Engineering
+📍 Austin; Boston; Chicago; Dallas; Denver; New York City; San Francisco; Seattle; United States; Washington DC | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8274765)
+🕐 Updated: 2026-11-06T17:48:19-05:00 | ID: 8274765
+
+#### 🔄 Software Engineer II, Earnings
+**Greenhouse** · toast · R & D : Engineering : Team
+📍 Toronto, CAN | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8147829)
+🕐 Updated: 2026-11-06T17:41:39-05:00 | ID: 8147829
+
+#### 🔄 Software Engineer, Perception Scaling Evaluation
+**Greenhouse** · waymo · Driver Intelligence (7LT)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7449712)
+🕐 Updated: 2026-11-06T17:29:52-05:00 | ID: 7449712
+
+#### 🔄 Repair Coordinator
+**Greenhouse** · lyft · AV & Fleet Operations
+📍 Nashville, TN | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8599054002?gh_jid=8599054002)
+🕐 Updated: 2026-11-06T17:29:12-05:00 | ID: 8599054002
+
+#### 🔄 Lifecycle Account Manager
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8180347)
+🕐 Updated: 2026-11-06T17:26:17-05:00 | ID: 8180347
+
+#### 🔄 Product Manager, Ad Formats
+**Greenhouse** · instacart · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8281407)
+🕐 Updated: 2026-11-06T17:17:30-05:00 | ID: 8281407
+
+#### 🔄 Product Manager, Ad Formats
+**Greenhouse** · instacart · Product Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8281405)
+🕐 Updated: 2026-11-06T17:17:17-05:00 | ID: 8281405
+
+#### 🔄 CX Business Intelligence Analyst
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO - Hybrid; New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8119978)
+🕐 Updated: 2026-11-06T17:15:54-05:00 | ID: 8119978
+
+#### 🔄 Treasury Manager, Global Treasury Operations
+**Greenhouse** · ripple · Finance
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8267588?gh_jid=8267588)
+🕐 Updated: 2026-11-06T17:12:47-05:00 | ID: 8267588
+
+#### 🔄 Gestionnaire, Soutien Premium
+**Greenhouse** · airbnb · Community Support
+📍 Canada | 🔗 [Apply Here](https://careers.airbnb.com/positions/7862110?gh_jid=7862110)
+🕐 Updated: 2026-11-06T17:06:32-05:00 | ID: 7862110
+
+#### 🔄 Manager, Premium Support
+**Greenhouse** · airbnb · Community Support
+📍 Canada | 🔗 [Apply Here](https://careers.airbnb.com/positions/7862109?gh_jid=7862109)
+🕐 Updated: 2026-11-06T17:06:27-05:00 | ID: 7862109
+
+#### 🔄 Manager, Commercial Insights and Strategy
+**Greenhouse** · doximity · Sales & Client Success
+📍 Remote, U.S. (New York or New Jersey Strongly Preferred) | 🔗 [Apply Here](https://job-boards.greenhouse.io/doximity/jobs/8337921)
+🕐 Updated: 2026-11-06T17:04:58-05:00 | ID: 8337921
+
+#### 🔄 Corporate Development Director
+**Greenhouse** · gitlab · Corporate Affairs
+📍 Remote Ireland; Remote, France; Remote, Germany; Remote, Israel; Remote, Netherlands; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8872259002)
+🕐 Updated: 2026-11-06T17:03:40-05:00 | ID: 8872259002
+
+#### 🔄 Senior Security Engineer, Incident Response
+**Greenhouse** · twilio · People Team
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8065040)
+🕐 Updated: 2026-11-06T17:03:07-05:00 | ID: 8065040
+
+#### 🔄 Senior Data Analyst (Auth0)
+**Greenhouse** · okta · Self Service-393
+📍 Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288)
+🕐 Updated: 2026-11-06T17:02:02-05:00 | ID: 8304288
+
+#### 🔄 Senior Data Scientist, Product
+**Greenhouse** · robinhood · Growth and Marketing - Data Science Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8080893?t=gh_src=&gh_jid=8080893)
+🕐 Updated: 2026-11-06T17:01:43-05:00 | ID: 8080893
+
+#### 🔄 Senior Manager, Solutions Engineering
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8338105)
+🕐 Updated: 2026-11-06T17:01:42-05:00 | ID: 8338105
+
+#### 🔄 Senior Manager, Solutions Engineering
+**Greenhouse** · intercom · Customer Success & Solutions
+📍 NYC, Remote; San Francisco, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8155204)
+🕐 Updated: 2026-11-06T17:01:24-05:00 | ID: 8155204
+
+#### 🔄 Learning & Education Specialist
+**Greenhouse** · anthropic · Product Management, Support, & Operations
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5462661008)
+🕐 Updated: 2026-11-06T17:01:03-05:00 | ID: 5462661008
+
+#### 🔄 Senior Site Reliability Engineer
+**Greenhouse** · altruist · Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6183630004?gh_jid=6183630004)
+🕐 Updated: 2026-11-06T16:58:24-05:00 | ID: 6183630004
+
+#### 🔄 Senior Site Reliability Engineer
+**Greenhouse** · altruist · Engineering
+📍 Los Angeles, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6183629004?gh_jid=6183629004)
+🕐 Updated: 2026-11-06T16:58:22-05:00 | ID: 6183629004
+
+#### 🔄 Senior Engineer, Storage (File)
+**Greenhouse** · coreweave · Technology
+📍 San Francisco, CA / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4714818006&board=coreweave&gh_jid=4714818006)
+🕐 Updated: 2026-11-06T16:50:52-05:00 | ID: 4714818006
+
+#### 🔄 Senior Professional Services Consultant
+**Greenhouse** · pagerduty · Customer Success
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/pagerduty/jobs/6248591004)
+🕐 Updated: 2026-11-06T16:40:51-05:00 | ID: 6248591004
+
+#### 🔄 Director, Mid-Market Sales - Canada
+**Greenhouse** · samsara · Canada
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7547204?gh_jid=7547204)
+🕐 Updated: 2026-11-06T16:32:29-05:00 | ID: 7547204
+
+#### 🔄 Product Counsel
+**Greenhouse** · checkr · Legal & Compliance
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/8306246)
+🕐 Updated: 2026-11-06T16:26:43-05:00 | ID: 8306246
+
+#### 🔄 Principal Security GRC Manager, Legal Assurance (USA)
+**Greenhouse** · gitlab · Security Assurance
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8927630002)
+🕐 Updated: 2026-11-06T16:24:39-05:00 | ID: 8927630002
+
+#### 🔄 Customer Experience Associate, Pathway
+**Greenhouse** · robinhood · Customer Care
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8329280?t=gh_src=&gh_jid=8329280)
+🕐 Updated: 2026-11-06T16:23:14-05:00 | ID: 8329280
+
+#### 🔄 VP, Engineering
+**Greenhouse** · yugabyte · Technology
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/yugabyte/jobs/4727253006)
+🕐 Updated: 2026-11-06T16:21:14-05:00 | ID: 4727253006
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931062002?gh_jid=8931062002)
+🕐 Updated: 2026-11-06T16:21:13-05:00 | ID: 8931062002
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928694002?gh_jid=8928694002)
+🕐 Updated: 2026-11-06T16:21:13-05:00 | ID: 8928694002
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8706220002?gh_jid=8706220002)
+🕐 Updated: 2026-11-06T16:21:13-05:00 | ID: 8706220002
+
+#### 🔄 Enterprise FP&A Lead
+**Greenhouse** · coursera · Finance
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6238594004)
+🕐 Updated: 2026-11-06T16:19:47-05:00 | ID: 6238594004
+
+#### 🔄 Staff Software Engineer, Identity & Access Management
+**Greenhouse** · reddit · Infrastructure
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8031491)
+🕐 Updated: 2026-11-06T16:16:34-05:00 | ID: 8031491
+
+#### 🔄 Senior Services Sales Executive, Strategic Accounts — Americas West
+**Greenhouse** · elastic · Consulting - AMER
+📍 Colorado, United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8282227&gh_jid=8282227)
+🕐 Updated: 2026-11-06T16:15:04-05:00 | ID: 8282227
+
+#### 🔄 Corporate FP&A Manager
+**Greenhouse** · coursera · Finance
+📍 Denver, Colorado | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6192106004)
+🕐 Updated: 2026-11-06T16:14:01-05:00 | ID: 6192106004
+
+#### 🔄 Sourcing Manager, Construction (Starship)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910152002?gh_jid=8910152002)
+🕐 Updated: 2026-11-06T16:09:52-05:00 | ID: 8910152002
+
+#### 🔄 Principal Product Manager, Ads Quality
+**Greenhouse** · instacart · Product Management
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8356128)
+🕐 Updated: 2026-11-06T16:09:48-05:00 | ID: 8356128
+
+#### 🔄 Principal Product Manager, Ads Quality
+**Greenhouse** · instacart · Product Management
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8356130)
+🕐 Updated: 2026-11-06T16:09:48-05:00 | ID: 8356130
+
+#### 🔄 HR Consultant, International
+**Greenhouse** · justworks · Customer Success, International Products
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8156489?gh_jid=8156489)
+🕐 Updated: 2026-11-06T16:01:42-05:00 | ID: 8156489
+
+#### 🔄 Business Control Manager
+**Greenhouse** · chime · Corporate Compliance
+📍 Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8853166002?gh_jid=8853166002)
+🕐 Updated: 2026-11-06T16:01:04-05:00 | ID: 8853166002
+
+#### 🔄 Senior Customer Engineer - Montreal, QC
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Distributed | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8335624?gh_jid=8335624)
+🕐 Updated: 2026-11-06T15:58:07-05:00 | ID: 8335624
+
+#### 🔄 Senior Customer Engineer - Toronto, Canada
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8226556?gh_jid=8226556)
+🕐 Updated: 2026-11-06T15:57:26-05:00 | ID: 8226556
+
+#### 🔄 Principal Customer Engineer - Toronto Canada
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8223319?gh_jid=8223319)
+🕐 Updated: 2026-11-06T15:56:45-05:00 | ID: 8223319
+
+#### 🔄 Director, Global People Analytics
+**Greenhouse** · toast · G & A : People Insights
+📍 Remote, United States | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8346005)
+🕐 Updated: 2026-11-06T15:53:24-05:00 | ID: 8346005
+
+#### 🔄 Senior Solutions Consultant
+**Greenhouse** · payoneer · Enterprise Marketplaces
+📍 Remote, US | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8261053/?gh_jid=8261053)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8261053
+
+#### 🔄 1st Shift Production Specialist
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8203818/apply/?gh_jid=8203818)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8203818
+
+#### 🔄 2nd Shift Production Specialist
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8203819/apply/?gh_jid=8203819)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8203819
+
+#### 🔄 3D Digital Manufacturing Technician
+**Greenhouse** · formlabs · Product
+📍 Billerica, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7996435/apply/?gh_jid=7996435)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7996435
+
+#### 🔄 3D Print Optimization Engineer
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8331423/apply/?gh_jid=8331423)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8331423
+
+#### 🔄 3D Print Optimization Engineer
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8331435/apply/?gh_jid=8331435)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8331435
+
+#### 🔄 3D Print Optimization Engineer - June 2027 New Grads
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8331440/apply/?gh_jid=8331440)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8331440
+
+#### 🔄 3D Print Optimization Engineer - June 2027 New Grads
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8331442/apply/?gh_jid=8331442)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8331442
+
+#### 🔄 3D Print Production Associate
+**Greenhouse** · formlabs · Form Now
+📍 Billerica, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8119602/apply/?gh_jid=8119602)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8119602
+
+#### 🔄 3D Print Production Associate - 2nd Shift
+**Greenhouse** · formlabs · Form Now
+📍 Billerica, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8246892/apply/?gh_jid=8246892)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8246892
+
+#### 🔄 3D Print Technician
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241507/apply/?gh_jid=8241507)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241507
+
+#### 🔄 3D Print Technician
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241508/apply/?gh_jid=8241508)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241508
+
+#### 🔄 Accounting & Operations Staff
+**Greenhouse** · formlabs · Finance
+📍 Millbury, Ohio | 🔗 [Apply Here](https://careers.formlabs.com/job/8314995/apply/?gh_jid=8314995)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8314995
+
+#### 🔄 Addetto/a al Servizio Clienti - Trasferimento a Budapest
+**Greenhouse** · formlabs · Global Services
+📍 Naples, Napoli, Italy | 🔗 [Apply Here](https://careers.formlabs.com/job/8220261/apply/?gh_jid=8220261)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8220261
+
+#### 🔄 Addetto/a al Servizio Clienti - Trasferimento a Budapest
+**Greenhouse** · formlabs · Global Services
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8220243/apply/?gh_jid=8220243)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8220243
+
+#### 🔄 Assistant General Counsel, Intellectual Property
+**Greenhouse** · formlabs · Legal
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8349748/apply/?gh_jid=8349748)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8349748
+
+#### 🔄 Associate, Performance Marketing
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8248490/apply/?gh_jid=8248490)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8248490
+
+#### 🔄 Business Recruiter
+**Greenhouse** · formlabs · People & Culture
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7272892/apply/?gh_jid=7272892)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7272892
+
+#### 🔄 Chief Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA, United States | 🔗 [Apply Here](https://careers.formlabs.com/job/8337943/apply/?gh_jid=8337943)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8337943
+
+#### 🔄 China Sourcing Lead
+**Greenhouse** · formlabs · Operations
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/7981591/apply/?gh_jid=7981591)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7981591
+
+#### 🔄 Customer Support Representative
+**Greenhouse** · formlabs · Global Services
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/8089674/apply/?gh_jid=8089674)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8089674
+
+#### 🔄 Data Engineer
+**Greenhouse** · formlabs · Systems
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8262437/apply/?gh_jid=8262437)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8262437
+
+#### 🔄 Director, Embedded Systems
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8267681/apply/?gh_jid=8267681)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8267681
+
+#### 🔄 Director of Embedded Systems
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8112161/apply/?gh_jid=8112161)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8112161
+
+#### 🔄 Director, Strategic Finance
+**Greenhouse** · formlabs · Finance
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8074469/apply/?gh_jid=8074469)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8074469
+
+#### 🔄 EE Lead
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/7584706/apply/?gh_jid=7584706)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7584706
+
+#### 🔄 Electrical Engineer - Entry Level
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8331686
+
+#### 🔄 Electrical Engineering Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8148283
+
+#### 🔄 Electrical Engineering Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8237575/apply/?gh_jid=8237575)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8237575
+
+#### 🔄 Electrical Engineer (Shenzhen)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Shenzhen, China | 🔗 [Apply Here](https://careers.formlabs.com/job/6234186/apply/?gh_jid=6234186)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 6234186
+
+#### 🔄 Embedded Software Engineer - Entry Level
+**Greenhouse** · formlabs · Software Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7909577/apply/?gh_jid=7909577)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7909577
+
+#### 🔄 Embedded Software Engineering Manager
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8267674/apply/?gh_jid=8267674)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8267674
+
+#### 🔄 Embedded Software Engineering Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8306387/apply/?gh_jid=8306387)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8306387
+
+#### 🔄 Engineering Technician
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8327414/apply/?gh_jid=8327414)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8327414
+
+#### 🔄 Event Marketing Manager
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8294497/apply/?gh_jid=8294497)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8294497
+
+#### 🔄 Field Marketing Specialist (Events)
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8303442/apply/?gh_jid=8303442)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8303442
+
+#### 🔄 Field Service Engineer - Boston
+**Greenhouse** · formlabs · Global Services
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8214439/apply/?gh_jid=8214439)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8214439
+
+#### 🔄 Field Service Engineer - Denver
+**Greenhouse** · formlabs · Global Services
+📍 Denver, CO | 🔗 [Apply Here](https://careers.formlabs.com/job/8214447/apply/?gh_jid=8214447)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8214447
+
+#### 🔄 Field Service Engineer - Newark
+**Greenhouse** · formlabs · Global Services
+📍 Newark, NJ | 🔗 [Apply Here](https://careers.formlabs.com/job/8214416/apply/?gh_jid=8214416)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8214416
+
+#### 🔄 Field Service Engineer - Orlando
+**Greenhouse** · formlabs · Global Services
+📍 Orlando, FL | 🔗 [Apply Here](https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8214452
+
+#### 🔄 Field Service Technician - Boston
+**Greenhouse** · formlabs · Global Services
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8214446/apply/?gh_jid=8214446)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8214446
+
+#### 🔄 Field Service Technician - Denver
+**Greenhouse** · formlabs · Global Services
+📍 Denver, CO | 🔗 [Apply Here](https://careers.formlabs.com/job/8214450/apply/?gh_jid=8214450)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8214450
+
+#### 🔄 Field Service Technician/Engineer
+**Greenhouse** · formlabs · Global Services
+📍 Milan, Italy | 🔗 [Apply Here](https://careers.formlabs.com/job/8355846/apply/?gh_jid=8355846)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8355846
+
+#### 🔄 Field Service Technician - Newark
+**Greenhouse** · formlabs · Global Services
+📍 Newark, NJ | 🔗 [Apply Here](https://careers.formlabs.com/job/8076134/apply/?gh_jid=8076134)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8076134
+
+#### 🔄 Field Service Technician - Orlando
+**Greenhouse** · formlabs · Global Services
+📍 Orlando, FL | 🔗 [Apply Here](https://careers.formlabs.com/job/8214451/apply/?gh_jid=8214451)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8214451
+
+#### 🔄 Field Service Technician - Remote, Milan
+**Greenhouse** · formlabs · Global Services
+📍 Milan, Italy | 🔗 [Apply Here](https://careers.formlabs.com/job/8237218/apply/?gh_jid=8237218)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8237218
+
+#### 🔄 Finance & Operations Staff
+**Greenhouse** · formlabs · Finance
+📍 Millbury, Ohio | 🔗 [Apply Here](https://careers.formlabs.com/job/8097508/apply/?gh_jid=8097508)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8097508
+
+#### 🔄 Finance Systems Engineer
+**Greenhouse** · formlabs · Systems
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8239336/apply/?gh_jid=8239336)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8239336
+
+#### 🔄 FN - 3D Printing Floor Team Lead
+**Greenhouse** · formlabs · Form Now
+📍 Billerica, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8048289/apply/?gh_jid=8048289)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8048289
+
+#### 🔄 FN - Assistente de Produção de Impressão 3D
+**Greenhouse** · formlabs · Form Now
+📍 Billerica, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7867593/apply/?gh_jid=7867593)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7867593
+
+#### 🔄 Founding Marketer, Form Now
+**Greenhouse** · formlabs · Global Marketing
+📍 Billerica, Massachusetts | 🔗 [Apply Here](https://careers.formlabs.com/job/8330665/apply/?gh_jid=8330665)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8330665
+
+#### 🔄 FP&A Analyst
+**Greenhouse** · formlabs · Finance
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8074475/apply/?gh_jid=8074475)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8074475
+
+#### 🔄 French speaking Technical Sales Representative
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8336915/apply/?gh_jid=8336915)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8336915
+
+#### 🔄 Fulfillment Coordinator - May 2027 Graduates
+**Greenhouse** · formlabs · Operations
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249635/apply/?gh_jid=8249635)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249635
+
+#### 🔄 German speaking Technical Sales Representative
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8176339/apply/?gh_jid=8176339)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8176339
+
+#### 🔄 Global Operations Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8263054/apply/?gh_jid=8263054)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8263054
+
+#### 🔄 Global Sourcing Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8161780/apply/?gh_jid=8161780)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8161780
+
+#### 🔄 Global Sourcing Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8281472/apply/?gh_jid=8281472)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8281472
+
+#### 🔄 Global Supply Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8281471/apply/?gh_jid=8281471)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8281471
+
+#### 🔄 Global Supply Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/6649014/apply/?gh_jid=6649014)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 6649014
+
+#### 🔄 Go to Market Recruiter
+**Greenhouse** · formlabs · People & Culture
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7272904/apply/?gh_jid=7272904)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7272904
+
+#### 🔄 Growth Marketing Lead, Form Now
+**Greenhouse** · formlabs · Global Marketing
+📍 Billerica, Massachusetts | 🔗 [Apply Here](https://careers.formlabs.com/job/8330664/apply/?gh_jid=8330664)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8330664
+
+#### 🔄 Growth Marketing Specialist, Form Now
+**Greenhouse** · formlabs · Global Marketing
+📍 Billerica, Massachusetts | 🔗 [Apply Here](https://careers.formlabs.com/job/8330666/apply/?gh_jid=8330666)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8330666
+
+#### 🔄 Hardware R&D Engineering Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8172226
+
+#### 🔄 Hardware Systems Integration Intern (Summer 2027)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8212683
+
+#### 🔄 Hardware Systems Integration Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8172004
+
+#### 🔄 Hardware Test Engineering Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8196515
+
+#### 🔄 Head of Customer Service
+**Greenhouse** · formlabs · Global Services
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8294467/apply/?gh_jid=8294467)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8294467
+
+#### 🔄 Head of Cybernetics
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8002974/apply/?gh_jid=8002974)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8002974
+
+#### 🔄 Head of Cybernetics
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8267680/apply/?gh_jid=8267680)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8267680
+
+#### 🔄 Head of FP&A and Strategic Finance
+**Greenhouse** · formlabs · Finance
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8084250/apply/?gh_jid=8084250)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8084250
+
+#### 🔄 Head of Hardware Product - SLS
+**Greenhouse** · formlabs · Product
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8267824/apply/?gh_jid=8267824)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8267824
+
+#### 🔄 Head of Information Technology (IT)
+**Greenhouse** · formlabs · Systems
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8289955/apply/?gh_jid=8289955)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8289955
+
+#### 🔄 Head of Intellectual Property
+**Greenhouse** · formlabs · Legal
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8349743/apply/?gh_jid=8349743)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8349743
+
+#### 🔄 Head of Manufacturing Engineering
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8203847/apply/?gh_jid=8203847)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8203847
+
+#### 🔄 Head of Software Product Management
+**Greenhouse** · formlabs · Product
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8273112/apply/?gh_jid=8273112)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8273112
+
+#### 🔄 Head of Supply Planning
+**Greenhouse** · formlabs · Operations
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8311383/apply/?gh_jid=8311383)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8311383
+
+#### 🔄 Head of Technical Operations (TechOps)
+**Greenhouse** · formlabs · Systems
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8301504/apply/?gh_jid=8301504)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8301504
+
+#### 🔄 Industrial Designer - Entry Level
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249032
+
+#### 🔄 Industrial Designer (Shenzhen)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Asia Pacific | 🔗 [Apply Here](https://careers.formlabs.com/job/6200835/apply/?gh_jid=6200835)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 6200835
+
+#### 🔄 Industrial Design Fellowship
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8028577/apply/?gh_jid=8028577)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8028577
+
+#### 🔄 Industrial Design Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8172232
+
+#### 🔄 Key Account Manager - Japan
+**Greenhouse** · formlabs · Global Sales
+📍 Tokyo | 🔗 [Apply Here](https://careers.formlabs.com/job/8239164/apply/?gh_jid=8239164)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8239164
+
+#### 🔄 Lead Embedded Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8267740/apply/?gh_jid=8267740)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8267740
+
+#### 🔄 Lead Full Stack Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest | 🔗 [Apply Here](https://careers.formlabs.com/job/8059408/apply/?gh_jid=8059408)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8059408
+
+#### 🔄 Lead, Internal Audit
+**Greenhouse** · formlabs · Finance
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8279105/apply/?gh_jid=8279105)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8279105
+
+#### 🔄 Legal Intern (Summer 2027)
+**Greenhouse** · formlabs · Legal
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8319490/apply/?gh_jid=8319490)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8319490
+
+#### 🔄 Makerspace Fellow (Winter/Spring 2027)
+**Greenhouse** · formlabs · People & Culture
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8315981/apply/?gh_jid=8315981)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8315981
+
+#### 🔄 Makerspace Fellow (Winter/Spring 2027)
+**Greenhouse** · formlabs · People & Culture
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/8328598/apply/?gh_jid=8328598)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8328598
+
+#### 🔄 Manager, Google Ads
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8247036/apply/?gh_jid=8247036)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8247036
+
+#### 🔄 Manager, Paid Media
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8247045/apply/?gh_jid=8247045)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8247045
+
+#### 🔄 Manager, Performance Marketing
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8247039/apply/?gh_jid=8247039)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8247039
+
+#### 🔄 Manufacturing Engineer
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249899/apply/?gh_jid=8249899)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249899
+
+#### 🔄 Manufacturing Engineering Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8161817
+
+#### 🔄 Manufacturing Engineer - May 2027 Graduates
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8250319/apply/?gh_jid=8250319)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8250319
+
+#### 🔄 Manufacturing Maintenance Technician
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8353982/apply/?gh_jid=8353982)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8353982
+
+#### 🔄 Manufacturing Ops Leader
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/7684675/apply/?gh_jid=7684675)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7684675
+
+#### 🔄 Manufacturing Test Engineer
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8318822/apply/?gh_jid=8318822)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8318822
+
+#### 🔄 Manufacturing Test Software Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8256004
+
+#### 🔄 Marketing Strategy MBA Intern (Summer 2027)
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8319365/apply/?gh_jid=8319365)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8319365
+
+#### 🔄 Material Handler 1st Shift and 2nd Shift
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/7984928/apply/?gh_jid=7984928)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7984928
+
+#### 🔄 Materials Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8199092/apply/?gh_jid=8199092)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8199092
+
+#### 🔄 Materials Manufacturing Innovation Engineer
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8282331/apply/?gh_jid=8282331)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8282331
+
+#### 🔄 Materials Program Manager
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8335124/apply/?gh_jid=8335124)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8335124
+
+#### 🔄 Materials Program Manager
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8334912/apply/?gh_jid=8334912)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8334912
+
+#### 🔄 Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241526/apply/?gh_jid=8241526)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241526
+
+#### 🔄 Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241527/apply/?gh_jid=8241527)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241527
+
+#### 🔄 Materials Scientist - June 2027 Grads
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241540/apply/?gh_jid=8241540)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241540
+
+#### 🔄 Materials Scientist - June 2027 Grads
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241539/apply/?gh_jid=8241539)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241539
+
+#### 🔄 Materials Scientist - Photopolymer Development
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241529/apply/?gh_jid=8241529)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241529
+
+#### 🔄 Materials Scientist - Photopolymer Development
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241528/apply/?gh_jid=8241528)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241528
+
+#### 🔄 Mechanical Engineer - Entry Level
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241493/apply/?gh_jid=8241493)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241493
+
+#### 🔄 Mechanical Engineering Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8130829
+
+#### 🔄 Mechanical Engineering Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8237436/apply/?gh_jid=8237436)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8237436
+
+#### 🔄 Mechanical Engineer - Shenzhen
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Asia Pacific | 🔗 [Apply Here](https://careers.formlabs.com/job/5825194/apply/?gh_jid=5825194)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 5825194
+
+#### 🔄 Mechanical Project Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8335610/apply/?gh_jid=8335610)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8335610
+
+#### 🔄 MechE Lead
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/7584700/apply/?gh_jid=7584700)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7584700
+
+#### 🔄 NPI Operations Program Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8103603/apply/?gh_jid=8103603)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8103603
+
+#### 🔄 NPI Program Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/8119195/apply/?gh_jid=8119195)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8119195
+
+#### 🔄 Operational Excellence Lead
+**Greenhouse** · formlabs · Manufacturing
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7391183/apply/?gh_jid=7391183)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7391183
+
+#### 🔄 Operational Excellence Lead
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7391184/apply/?gh_jid=7391184)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7391184
+
+#### 🔄 Operations & Manufacturing Recruiter
+**Greenhouse** · formlabs · People & Culture
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8224316/apply/?gh_jid=8224316)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8224316
+
+#### 🔄 Operations Program Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/6683259/apply/?gh_jid=6683259)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 6683259
+
+#### 🔄 Packaging Specialist
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8289584/apply/?gh_jid=8289584)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8289584
+
+#### 🔄 Packaging Specialist - 1st Shift
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8347776/apply/?gh_jid=8347776)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8347776
+
+#### 🔄 Packaging Specialist - 2nd Shift
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8265659/apply/?gh_jid=8265659)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8265659
+
+#### 🔄 Principal Embedded Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7710896/apply/?gh_jid=7710896)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7710896
+
+#### 🔄 Print Optimization Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8172256/apply/?gh_jid=8172256)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8172256
+
+#### 🔄 Print Process Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8199269
+
+#### 🔄 Print Production Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Global Sales
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8337242/apply/?gh_jid=8337242)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8337242
+
+#### 🔄 Print Production Specialist
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8265603/apply/?gh_jid=8265603)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8265603
+
+#### 🔄 Process Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/6814095/apply/?gh_jid=6814095)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 6814095
+
+#### 🔄 Production Equipment Maintenance Technician
+**Greenhouse** · formlabs · Form Now
+📍 Billerica, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7984685/apply/?gh_jid=7984685)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7984685
+
+#### 🔄 Product Manager, Hardware
+**Greenhouse** · formlabs · Product
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8333766/apply/?gh_jid=8333766)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8333766
+
+#### 🔄 Product Manager, Software
+**Greenhouse** · formlabs · Product
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8281689/apply/?gh_jid=8281689)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8281689
+
+#### 🔄 Product Marketing Manager
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8248497/apply/?gh_jid=8248497)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8248497
+
+#### 🔄 Product Startup Founder
+**Greenhouse** · formlabs · Product
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8319517/apply/?gh_jid=8319517)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8319517
+
+#### 🔄 Product Support Specialist (3D Printing)
+**Greenhouse** · formlabs · Global Services
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/8089668/apply/?gh_jid=8089668)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8089668
+
+#### 🔄 Quality Engineer
+**Greenhouse** · formlabs · Manufacturing
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/7159633/apply/?gh_jid=7159633)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7159633
+
+#### 🔄 R&D Engineer - Entry Level
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249038/apply/?gh_jid=8249038)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249038
+
+#### 🔄 R&D Reliability/Test Engineer - Entry Level
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241461/apply/?gh_jid=8241461)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241461
+
+#### 🔄 Recruiting Coordinator
+**Greenhouse** · formlabs · People & Culture
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8226247/apply/?gh_jid=8226247)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8226247
+
+#### 🔄 Recruitment Intern
+**Greenhouse** · formlabs · People & Culture
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8300782/apply/?gh_jid=8300782)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8300782
+
+#### 🔄 Robotic Systems Integration Engineer - Entry Level (SLA & SLS)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241436/apply/?gh_jid=8241436)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241436
+
+#### 🔄 Robotic Systems Integration Engineering Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8237585/apply/?gh_jid=8237585)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8237585
+
+#### 🔄 Robotic Systems Integration Manager
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8267689/apply/?gh_jid=8267689)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8267689
+
+#### 🔄 Sales Manager - Japan
+**Greenhouse** · formlabs · Global Sales
+📍 Japan | 🔗 [Apply Here](https://careers.formlabs.com/job/8239170/apply/?gh_jid=8239170)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8239170
+
+#### 🔄 Sales Recruiter
+**Greenhouse** · formlabs · People & Culture
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7272893/apply/?gh_jid=7272893)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7272893
+
+#### 🔄 Senior 3D Printing R&D Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249055/apply/?gh_jid=8249055)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249055
+
+#### 🔄 Senior 3D Print Optimization Engineer
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8331438/apply/?gh_jid=8331438)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8331438
+
+#### 🔄 Senior 3D Print Optimization Engineer
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8331439/apply/?gh_jid=8331439)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8331439
+
+#### 🔄 Senior Advanced Manufacturing Engineer
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8329544/apply/?gh_jid=8329544)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8329544
+
+#### 🔄 Senior Advanced Manufacturing Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8299862/apply/?gh_jid=8299862)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8299862
+
+#### 🔄 Senior Build Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8237292/apply/?gh_jid=8237292)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8237292
+
+#### 🔄 Senior C++ Software Engineer, 3D Desktop Application
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8347388/apply/?gh_jid=8347388)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8347388
+
+#### 🔄 Senior Data Engineer
+**Greenhouse** · formlabs · Systems
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8262990/apply/?gh_jid=8262990)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8262990
+
+#### 🔄 Senior DevOps Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8337358/apply/?gh_jid=8337358)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8337358
+
+#### 🔄 Senior DevOps Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8302880/apply/?gh_jid=8302880)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8302880
+
+#### 🔄 Senior Electrical Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8306766/apply/?gh_jid=8306766)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8306766
+
+#### 🔄 Senior Embedded Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7527177/apply/?gh_jid=7527177)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7527177
+
+#### 🔄 Senior Events Marketing Specialist
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8260824/apply/?gh_jid=8260824)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8260824
+
+#### 🔄 Senior Full Stack Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest | 🔗 [Apply Here](https://careers.formlabs.com/job/8032332/apply/?gh_jid=8032332)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8032332
+
+#### 🔄 Senior Growth Marketing Manager
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8070239/apply/?gh_jid=8070239)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8070239
+
+#### 🔄 Senior Growth Marketing Manager
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8083368/apply/?gh_jid=8083368)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8083368
+
+#### 🔄 Senior Industrial Designer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249021/apply/?gh_jid=8249021)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249021
+
+#### 🔄 Senior Legal Counsel, Intellectual Property
+**Greenhouse** · formlabs · Legal
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249177/apply/?gh_jid=8249177)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249177
+
+#### 🔄 Senior Manager, Digital Strategy
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8188473/apply/?gh_jid=8188473)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8188473
+
+#### 🔄 Senior Manager, Global Amazon Marketplace
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8248498/apply/?gh_jid=8248498)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8248498
+
+#### 🔄 Senior Manager, Growth Strategy
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8188481/apply/?gh_jid=8188481)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8188481
+
+#### 🔄 Senior Manager, Marketing Strategy & Growth Initiatives
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8247129/apply/?gh_jid=8247129)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8247129
+
+#### 🔄 Senior Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241532/apply/?gh_jid=8241532)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241532
+
+#### 🔄 Senior Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241531/apply/?gh_jid=8241531)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241531
+
+#### 🔄 Senior Mechanical Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8334558/apply/?gh_jid=8334558)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8334558
+
+#### 🔄 Senior Mechanical Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8334567/apply/?gh_jid=8334567)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8334567
+
+#### 🔄 Senior Product Design Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249058/apply/?gh_jid=8249058)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249058
+
+#### 🔄 Senior Product Manager, Hardware
+**Greenhouse** · formlabs · Product
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8318323/apply/?gh_jid=8318323)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8318323
+
+#### 🔄 Senior Product Manager, Software
+**Greenhouse** · formlabs · Product
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8330945/apply/?gh_jid=8330945)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8330945
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8070550/apply/?gh_jid=8070550)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8070550
+
+#### 🔄 Senior Public Relations Manager
+**Greenhouse** · formlabs · Global Marketing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8301106/apply/?gh_jid=8301106)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8301106
+
+#### 🔄 Senior R&D Reliability/Test Engineer
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8311915/apply/?gh_jid=8311915)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8311915
+
+#### 🔄 Senior Robotic Systems Integration Engineer (SLA & SLS)
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241445/apply/?gh_jid=8241445)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241445
+
+#### 🔄 Senior SLS Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241534/apply/?gh_jid=8241534)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241534
+
+#### 🔄 Senior SLS Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241533/apply/?gh_jid=8241533)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241533
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8207651/apply/?gh_jid=8207651)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8207651
+
+#### 🔄 Senior Software Engineer, API & Automation
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8316018/apply/?gh_jid=8316018)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8316018
+
+#### 🔄 Senior Technical Program Manager
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249067/apply/?gh_jid=8249067)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249067
+
+#### 🔄 Senior Technical Recruiter
+**Greenhouse** · formlabs · People & Culture
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8224352/apply/?gh_jid=8224352)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8224352
+
+#### 🔄 Services Engineer
+**Greenhouse** · formlabs · Global Services
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8113715/apply/?gh_jid=8113715)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8113715
+
+#### 🔄 SLS Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241538/apply/?gh_jid=8241538)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241538
+
+#### 🔄 SLS Materials Scientist
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241535/apply/?gh_jid=8241535)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241535
+
+#### 🔄 SLS Materials Scientist - June 2027 Grads
+**Greenhouse** · formlabs · Materials Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241541/apply/?gh_jid=8241541)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241541
+
+#### 🔄 SLS Materials Scientist - June 2027 Grads
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8241542/apply/?gh_jid=8241542)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8241542
+
+#### 🔄 Social Media and Community Operations Specialist
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8347438/apply/?gh_jid=8347438)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8347438
+
+#### 🔄 Software Engineer, API & Automation
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8312364/apply/?gh_jid=8312364)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8312364
+
+#### 🔄 Software Engineer, Business Systems
+**Greenhouse** · formlabs · Systems
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7506561/apply/?gh_jid=7506561)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7506561
+
+#### 🔄 Software Engineer, Form Now
+**Greenhouse** · formlabs · Software Engineering
+📍 Billerica, Massachusetts, United States | 🔗 [Apply Here](https://careers.formlabs.com/job/8042078/apply/?gh_jid=8042078)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8042078
+
+#### 🔄 Software Engineering Lead
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/7584710/apply/?gh_jid=7584710)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7584710
+
+#### 🔄 Software Engineer Intern (Full stack)
+**Greenhouse** · formlabs · Form Now
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8260955
+
+#### 🔄 Software Engineer - Print Pipeline
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/7536038/apply/?gh_jid=7536038)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7536038
+
+#### 🔄 Software Engineer, Test Infrastructure & Reliability
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8078997/apply/?gh_jid=8078997)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8078997
+
+#### 🔄 Sourcing Program Management Intern (Winter/Spring 2027)
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8262987/apply/?gh_jid=8262987)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8262987
+
+#### 🔄 Startup Founder
+**Greenhouse** · formlabs · Operations
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8261342/apply/?gh_jid=8261342)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8261342
+
+#### 🔄 Startup Founder
+**Greenhouse** · formlabs · Software Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8261373/apply/?gh_jid=8261373)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8261373
+
+#### 🔄 Startup Founder
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8212123/apply/?gh_jid=8212123)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8212123
+
+#### 🔄 Startup Founder
+**Greenhouse** · formlabs · Materials Engineering
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8261337/apply/?gh_jid=8261337)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8261337
+
+#### 🔄 Startup Founder - China
+**Greenhouse** · formlabs · Product
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/5643284/apply/?gh_jid=5643284)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 5643284
+
+#### 🔄 Strategy & Operations Analyst
+**Greenhouse** · formlabs · Systems
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8311099/apply/?gh_jid=8311099)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8311099
+
+#### 🔄 Supplier Industrialization Engineer - Core Technologies
+**Greenhouse** · formlabs · Manufacturing
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8281470/apply/?gh_jid=8281470)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8281470
+
+#### 🔄 Talent Acquisition Intern
+**Greenhouse** · formlabs · People & Culture
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8347347/apply/?gh_jid=8347347)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8347347
+
+#### 🔄 Technical Program Manager - Entry Level
+**Greenhouse** · formlabs · Hardware Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8249069/apply/?gh_jid=8249069)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8249069
+
+#### 🔄 Technical Recruiter
+**Greenhouse** · formlabs · People & Culture
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8224344/apply/?gh_jid=8224344)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8224344
+
+#### 🔄 Technical Sales Consultant - French Speaking
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8336917/apply/?gh_jid=8336917)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8336917
+
+#### 🔄 Technical Sales Consultant - German Speaking
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8129972/apply/?gh_jid=8129972)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8129972
+
+#### 🔄 Technical Sales Consultant - Italian Speaking
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8244217/apply/?gh_jid=8244217)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8244217
+
+#### 🔄 Technical Sales Representative
+**Greenhouse** · formlabs · Global Sales
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/7711953/apply/?gh_jid=7711953)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7711953
+
+#### 🔄 Technical Sales Representative
+**Greenhouse** · formlabs · Global Sales
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8282460/apply/?gh_jid=8282460)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8282460
+
+#### 🔄 Technical Sales Representative (December 2026 Grad)
+**Greenhouse** · formlabs · Global Sales
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/8250096/apply/?gh_jid=8250096)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8250096
+
+#### 🔄 Technical Sales Representative (December 2026 Grad)
+**Greenhouse** · formlabs · Global Sales
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8306083/apply/?gh_jid=8306083)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8306083
+
+#### 🔄 Technical Sales Representative - French Speaking
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/7989288/apply/?gh_jid=7989288)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7989288
+
+#### 🔄 Technical Sales Representative - French Speaking (fresh grads)
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8336919/apply/?gh_jid=8336919)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8336919
+
+#### 🔄 Technical Sales Representative - German Speaking
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/7988991/apply/?gh_jid=7988991)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7988991
+
+#### 🔄 Technical Sales Representative - Italian Speaking
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8000746/apply/?gh_jid=8000746)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8000746
+
+#### 🔄 Technical Sales Representative - Italian Speaking (fresh grads)
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8247546/apply/?gh_jid=8247546)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8247546
+
+#### 🔄 Technical Sales Representative (May 2027 Grad)
+**Greenhouse** · formlabs · Global Sales
+📍 Milwaukee, Wisconsin | 🔗 [Apply Here](https://careers.formlabs.com/job/8250084/apply/?gh_jid=8250084)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8250084
+
+#### 🔄 Technical Sales Representative - Spanish Speaking
+**Greenhouse** · formlabs · Global Sales
+📍 Berlin, Germany | 🔗 [Apply Here](https://careers.formlabs.com/job/8130001/apply/?gh_jid=8130001)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8130001
+
+#### 🔄 Technical Services Agent
+**Greenhouse** · formlabs · Global Services
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/7990864/apply/?gh_jid=7990864)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 7990864
+
+#### 🔄 Technical Support Engineer
+**Greenhouse** · formlabs · Global Services
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/8167039/apply/?gh_jid=8167039)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8167039
+
+#### 🔄 Technical Support Specialist
+**Greenhouse** · formlabs · Global Services
+📍 Milwaukee, WI | 🔗 [Apply Here](https://careers.formlabs.com/job/8167038/apply/?gh_jid=8167038)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8167038
+
+#### 🔄 Technical Support Specialist - French speaking
+**Greenhouse** · formlabs · Global Services
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8180697
+
+#### 🔄 Technical Support Specialist - German speaking
+**Greenhouse** · formlabs · Global Services
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8220010/apply/?gh_jid=8220010)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8220010
+
+#### 🔄 Technical Support Specialist - Italian speaking
+**Greenhouse** · formlabs · Global Services
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8220159/apply/?gh_jid=8220159)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8220159
+
+#### 🔄 Technical Support Specialist - Italian speaking (fresh STEM grads)
+**Greenhouse** · formlabs · Global Services
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8333741/apply/?gh_jid=8333741)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8333741
+
+#### 🔄 Technical Support Specialist - Relocation to Budapest
+**Greenhouse** · formlabs · Global Services
+📍 Catania, Catania, Italy | 🔗 [Apply Here](https://careers.formlabs.com/job/8220259/apply/?gh_jid=8220259)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8220259
+
+#### 🔄 Test Tooling Engineer
+**Greenhouse** · formlabs · Software Engineering
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8237289/apply/?gh_jid=8237289)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8237289
+
+#### 🔄 Trade Show Specialist (B2B)
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8294496/apply/?gh_jid=8294496)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8294496
+
+#### 🔄 Vice President of Operations
+**Greenhouse** · formlabs · Operations
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8311528/apply/?gh_jid=8311528)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8311528
+
+#### 🔄 Warehouse Associate
+**Greenhouse** · formlabs · Operations
+📍 Perrysburg, OH | 🔗 [Apply Here](https://careers.formlabs.com/job/8013441/apply/?gh_jid=8013441)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8013441
+
+#### 🔄 Website Content Operations Specialist
+**Greenhouse** · formlabs · Global Marketing
+📍 Budapest, Hungary | 🔗 [Apply Here](https://careers.formlabs.com/job/8288770/apply/?gh_jid=8288770)
+🕐 Updated: 2026-11-06T15:46:35-05:00 | ID: 8288770
+
+#### 🔄 Product Compliance Officer, Growth
+**Greenhouse** · adyen · Compliance
+📍 New York; San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8356380)
+🕐 Updated: 2026-11-06T15:44:12-05:00 | ID: 8356380
+
+#### 🔄 Channel Account Manager II, Service Providers
+**Greenhouse** · huntress · Account Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8043307003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8043307003
+
+#### 🔄 Channel Account Manager I, Service Providers
+**Greenhouse** · huntress · Account Management
+📍 Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8108716003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8108716003
+
+#### 🔄 Channel Account Manager I, Service Providers
+**Greenhouse** · huntress · Account Management
+📍 United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8108714003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8108714003
+
+#### 🔄 Community Lead & Field
+**Greenhouse** · huntress · Community
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8084895003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8084895003
+
+#### 🔄 Competitive Intelligence Strategist
+**Greenhouse** · huntress · Product Marketing
+📍 United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8045076003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8045076003
+
+#### 🔄 Competitive Intelligence Strategist
+**Greenhouse** · huntress · Product Marketing
+📍 Remote Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8045078003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8045078003
+
+#### 🔄 Manager, Channel Account Management, Service Providers
+**Greenhouse** · huntress · Account Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8035065003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8035065003
+
+#### 🔄 Manager, Security Operations Center
+**Greenhouse** · huntress · Security Analysis
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8008358003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8008358003
+
+#### 🔄 Manager, Security Operations Center
+**Greenhouse** · huntress · Security Analysis
+📍 Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8074058003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8074058003
+
+#### 🔄 National Reseller Sales Manager - CDW
+**Greenhouse** · huntress · Resellers & VARs
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8085247003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8085247003
+
+#### 🔄 Principal Product Marketing Manager - Managed EDR
+**Greenhouse** · huntress · Product Marketing
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8042270003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8042270003
+
+#### 🔄 Principal Product Marketing Manager - OIS
+**Greenhouse** · huntress · Product Marketing
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8047703003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8047703003
+
+#### 🔄 Principal Security Researcher - EDR (Windows)
+**Greenhouse** · huntress · Product Research
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7807467003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7807467003
+
+#### 🔄 Principal Software Engineer - Agentic SOC
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8014855003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8014855003
+
+#### 🔄 Principal Software Engineer, SIEM (Ruby/Rails)
+**Greenhouse** · huntress · Product Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7776837003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7776837003
+
+#### 🔄 Sales Operations Specialist
+**Greenhouse** · huntress · Revenue Operations
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8044553003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8044553003
+
+#### 🔄 Security Operations Analyst
+**Greenhouse** · huntress · Security Analysis
+📍 Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8039749003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8039749003
+
+#### 🔄 Security Operations Analyst - West Coast Shift
+**Greenhouse** · huntress · Security Analysis
+📍 Remote US | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7743188003
+
+#### 🔄 Senior Channel Marketing Manager, EMEA
+**Greenhouse** · huntress · Partner Marketing
+📍 Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8044549003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8044549003
+
+#### 🔄 Senior Channel Marketing Manager, EMEA
+**Greenhouse** · huntress · Partner Marketing
+📍 United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8044547003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8044547003
+
+#### 🔄 Senior Lifecycle Programs Strategist
+**Greenhouse** · huntress · Revenue Operations
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8044559003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8044559003
+
+#### 🔄 Senior Manager, Detection Engineering & Threat Hunting
+**Greenhouse** · huntress · DE&TH
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7728615003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7728615003
+
+#### 🔄 Senior Phishing Tradecraft Researcher
+**Greenhouse** · huntress · Product Research
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8014354003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8014354003
+
+#### 🔄 Senior Product Manager, SOC Experience
+**Greenhouse** · huntress · Product Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7995748003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7995748003
+
+#### 🔄 Senior Regional Marketing Manager (Mid-Market)
+**Greenhouse** · huntress · Field Marketing
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8077559003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8077559003
+
+#### 🔄 Senior Salesforce Developer
+**Greenhouse** · huntress · Business Applications
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8044664003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8044664003
+
+#### 🔄 Senior Software Engineer- Agentic SOC
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8015561003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8015561003
+
+#### 🔄 Staff CSIRT Analyst
+**Greenhouse** · huntress · Adversary Informed Defense
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7991918003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7991918003
+
+#### 🔄 Staff Database Reliability Engineer (DBRE)
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8040554003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8040554003
+
+#### 🔄 Staff Product Manager, Core Platform & UX
+**Greenhouse** · huntress · Product Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8014352003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8014352003
+
+#### 🔄 Staff Product Manager, SIEM
+**Greenhouse** · huntress · Product Management
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7663059003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7663059003
+
+#### 🔄 Staff Software Engineer  - Core Platform (Ruby/Rails)
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8002767003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8002767003
+
+#### 🔄 Staff Software Engineer-ESPM Platform (Ruby / Rails)
+**Greenhouse** · huntress · Product Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7774959003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7774959003
+
+#### 🔄 Staff Software Engineer - ISPM Platform (Ruby/Rails)
+**Greenhouse** · huntress · Product Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7774957003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7774957003
+
+#### 🔄 Staff Software Engineer - SOC Platform (Ruby/Rails)
+**Greenhouse** · huntress · Platform Engineering
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7998709003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 7998709003
+
+#### 🔄 Worldwide Channel Programs, Enablement & Portal Manager
+**Greenhouse** · huntress · Partner Marketing
+📍 United States of America | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8043313003)
+🕐 Updated: 2026-11-06T15:34:51-05:00 | ID: 8043313003
+
+#### 🔄 Sales Development Representative - Service Provider - Ireland
+**Greenhouse** · huntress · Sales Development
+📍 Remote Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/6485868003)
+🕐 Updated: 2026-11-06T15:34:50-05:00 | ID: 6485868003
+
+#### 🔄 Sales Development Representative - Service Provider - UK
+**Greenhouse** · huntress · Sales Development
+📍 Remote UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/6485866003)
+🕐 Updated: 2026-11-06T15:34:50-05:00 | ID: 6485866003
+
+#### 🔄 Security Operations Analyst- Ireland
+**Greenhouse** · huntress · Security Analysis
+📍 Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7835871003)
+🕐 Updated: 2026-11-06T15:34:50-05:00 | ID: 7835871003
+
+#### 🔄 Security Operations Analyst- UK
+**Greenhouse** · huntress · Security Analysis
+📍 United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7835873003)
+🕐 Updated: 2026-11-06T15:34:50-05:00 | ID: 7835873003
+
+#### 🔄 Senior Detection Engineering & Threat Hunting Analyst
+**Greenhouse** · huntress · DE&TH
+📍 Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7998321003)
+🕐 Updated: 2026-11-06T15:34:50-05:00 | ID: 7998321003
+
+#### 🔄 International Growth Marketing Manager
+**Greenhouse** · faire · Marketing
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8929343002?gh_jid=8929343002)
+🕐 Updated: 2026-11-06T15:34:01-05:00 | ID: 8929343002
+
+#### 🔄 Senior Supply Planning Manager - US
+**Greenhouse** · samsara · Planning
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8328373?gh_jid=8328373)
+🕐 Updated: 2026-11-06T15:32:43-05:00 | ID: 8328373
+
+#### 🔄 Sr. Software Engineer II, DevEx
+**Greenhouse** · samsara · Platform
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131)
+🕐 Updated: 2026-11-06T15:32:35-05:00 | ID: 8237131
+
+#### 🔄 Software and AI Engineer
+**Greenhouse** · coreweave · Information Technology
+📍 Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4719916006&board=coreweave&gh_jid=4719916006)
+🕐 Updated: 2026-11-06T15:30:42-05:00 | ID: 4719916006
+
+#### 🔄 Customer Enablement Manager
+**Greenhouse** · asana · Professional Services & Paid Support
+📍 Remote | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8275101?gh_jid=8275101)
+🕐 Updated: 2026-11-06T15:26:11-05:00 | ID: 8275101
+
+#### 🔄 AI Transformation Owner, CRO
+**Greenhouse** · gitlab · Enablement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8638232002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8638232002
+
+#### 🔄 Associate Renewals Manager - France
+**Greenhouse** · gitlab · Renewals
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8923757002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8923757002
+
+#### 🔄 Associate Renewals Manager, SMB
+**Greenhouse** · gitlab · Renewals
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8857185002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8857185002
+
+#### 🔄 Backend Engineer, GitLab Orbit
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8771512002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8771512002
+
+#### 🔄 Backend Engineer (Python),AI Engineering: Agent Foundations
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada; Remote, Poland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8704363002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8704363002
+
+#### 🔄 Backend Engineer (Ruby), Create: Change Record
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Poland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8891301002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8891301002
+
+#### 🔄 Backend Engineer (Ruby), Plan: Spec-Driven Development
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8749950002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8749950002
+
+#### 🔄 Backend Engineer (Ruby), Plan: Spec-Driven Development
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8682860002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8682860002
+
+#### 🔄 Backend Engineer, Source Code: Repository Services (Ruby)
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8912709002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8912709002
+
+#### 🔄 Backend Engineer, Source Code: Repository Services (Ruby)
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8922427002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8922427002
+
+#### 🔄 Benefits Analyst
+**Greenhouse** · gitlab · Total Rewards
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8864819002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8864819002
+
+#### 🔄 Business Development Representative
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, Ireland; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8532274002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8532274002
+
+#### 🔄 Business Development Representative
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, North America | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8532272002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8532272002
+
+#### 🔄 Business Development Representative, German Speaking
+**Greenhouse** · gitlab · Sales Development
+📍 Remote Ireland; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8872457002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8872457002
+
+#### 🔄 Business Development Representative, Spanish Speaking
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8882367002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8882367002
+
+#### 🔄 Candidate Experience Specialist, Contractor
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8782471002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8782471002
+
+#### 🔄 Cloud Platform Engineer
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8889193002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8889193002
+
+#### 🔄 Commercial Account Executive - Australia
+**Greenhouse** · gitlab · APAC - Commercial
+📍 Remote, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8887265002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8887265002
+
+#### 🔄 Commercial Account Executive - Mid-Market, Canada
+**Greenhouse** · gitlab · AMER - Commercial
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8891673002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8891673002
+
+#### 🔄 Commercial Account Executive - Mid-Market, East
+**Greenhouse** · gitlab · AMER - Commercial
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8790102002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8790102002
+
+#### 🔄 Commercial Account Executive, Named - West
+**Greenhouse** · gitlab · AMER - Commercial
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8592555002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8592555002
+
+#### 🔄 Commercial Account Executive, Netherlands
+**Greenhouse** · gitlab · EMEA - Commercial
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8921443002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8921443002
+
+#### 🔄 Commercial Account Executive - South Korea
+**Greenhouse** · gitlab · APAC - Commercial
+📍 Remote, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8887241002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8887241002
+
+#### 🔄 Contract Talent Acquisition Sourcer, Sales (APJ)
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, Australia; Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8904961002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8904961002
+
+#### 🔄 Customer Experience Enablement Lead
+**Greenhouse** · gitlab · Enablement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8920912002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8920912002
+
+#### 🔄 Customer Success Architect
+**Greenhouse** · gitlab · Customer Success Architecture
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8877426002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8877426002
+
+#### 🔄 Customer Success Architect, Japan
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8880999002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8880999002
+
+#### 🔄 Customer Success Engineer
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8931347002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8931347002
+
+#### 🔄 Customer Success Manager - East
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, North America | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8533016002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8533016002
+
+#### 🔄 Data Scientist, Enterprise Analytics
+**Greenhouse** · gitlab · Data
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8922013002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8922013002
+
+#### 🔄 Demo Architect, EMEA
+**Greenhouse** · gitlab · SA
+📍 Remote, Germany; Remote, Poland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860273002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860273002
+
+#### 🔄 Director, Analytics Engineering
+**Greenhouse** · gitlab · Data
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8883003002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8883003002
+
+#### 🔄 Director, Data Science
+**Greenhouse** · gitlab · Data
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8931768002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8931768002
+
+#### 🔄 Director, FP&A
+**Greenhouse** · gitlab · FP&A
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8827981002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8827981002
+
+#### 🔄 Director, Global People Operations & Compliance
+**Greenhouse** · gitlab · People Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8872500002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8872500002
+
+#### 🔄 Director of Engineering, Database Excellence
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8853843002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8853843002
+
+#### 🔄 Director of Engineering, Dedicated Infrastructure & Platforms
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8883597002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8883597002
+
+#### 🔄 Director of Product Management, Agentic Software Delivery
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8806017002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8806017002
+
+#### 🔄 Director of Product Management, Platforms
+**Greenhouse** · gitlab · Platforms
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8893054002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8893054002
+
+#### 🔄 Director of Recruiting, Engineering & IT, Bangalore India
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8726744002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8726744002
+
+#### 🔄 Director, Social Media
+**Greenhouse** · gitlab · Communications
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8792475002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8792475002
+
+#### 🔄 Director, Support (Bengaluru)
+**Greenhouse** · gitlab · Customer Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8629019002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8629019002
+
+#### 🔄 Distinguished Engineer, Core DevOps
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8831350002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8831350002
+
+#### 🔄 Ecosystem Operations Specialist
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8907694002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8907694002
+
+#### 🔄 Engineering Manager
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8799044002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8799044002
+
+#### 🔄 Engineering Manager, Architecture Engineering: Async
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Remote, Poland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8921380002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8921380002
+
+#### 🔄 Engineering Manager, Build
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8586667002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8586667002
+
+#### 🔄 Engineering Manager, Dedicated Integrations
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8636648002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8636648002
+
+#### 🔄 Engineering Manager, Switchboard
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8586632002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8586632002
+
+#### 🔄 Engineering Manager, Tenant Scale: Gitaly
+**Greenhouse** · gitlab · Tenant Scale Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8899972002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8899972002
+
+#### 🔄 Enterprise Account Executive - Singapore
+**Greenhouse** · gitlab · APAC - Enterprise
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8640151002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8640151002
+
+#### 🔄 Enterprise Account Executive - South Korea
+**Greenhouse** · gitlab · APAC - Enterprise
+📍 Remote, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8887322002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8887322002
+
+#### 🔄 Field CTO
+**Greenhouse** · gitlab · SA
+📍 Remote, Australia; Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8884627002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8884627002
+
+#### 🔄 Forward Deployed Engineer - EMEA
+**Greenhouse** · gitlab · Customer Experience
+📍 Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8522265002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8522265002
+
+#### 🔄 Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8698330002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8698330002
+
+#### 🔄 Incident & Escalation Lead- Enterprise Customers
+**Greenhouse** · gitlab · ASE
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8923121002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8923121002
+
+#### 🔄 Incident & Escalation Lead- Enterprise Customers
+**Greenhouse** · gitlab · ASE
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8924841002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8924841002
+
+#### 🔄 Intermediate Backend Engineer, Authorization
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8905402002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8905402002
+
+#### 🔄 Intermediate Backend Engineer, India
+**Greenhouse** · gitlab · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8775507002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8775507002
+
+#### 🔄 Intermediate Backend Engineer, Pipeline Authoring
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8773028002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8773028002
+
+#### 🔄 Intermediate Backend Engineer , Security Factory
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8890971002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8890971002
+
+#### 🔄 Intermediate Data Engineer
+**Greenhouse** · gitlab · Data
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8924923002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8924923002
+
+#### 🔄 Intermediate Fullstack Engineer (Ruby/Vue.js), Growth
+**Greenhouse** · gitlab · Monetization Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8911684002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8911684002
+
+#### 🔄 Intermediate Fullstack Engineer (Ruby/Vue.js), Growth
+**Greenhouse** · gitlab · Monetization Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8891836002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8891836002
+
+#### 🔄 Intermediate Fullstack Engineer, Subscription Lifecycle
+**Greenhouse** · gitlab · Monetization Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8922249002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8922249002
+
+#### 🔄 Intermediate Software Engineer, Security Factory: Vulnerability Management
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Israel; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8688078002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8688078002
+
+#### 🔄 Intermediate Support Engineer (SHIFT)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8684061002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8684061002
+
+#### 🔄 Lead Customer Advocacy Manager, APJ
+**Greenhouse** · gitlab · Digital Marketing
+📍 Remote, Australia; Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8891827002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8891827002
+
+#### 🔄 Lead Investor Relations
+**Greenhouse** · gitlab · Office of CFO
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8895451002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8895451002
+
+#### 🔄 Lead Journey Architect
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8929004002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8929004002
+
+#### 🔄 Lead Legal Counsel, Corporate
+**Greenhouse** · gitlab · Legal
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8842630002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8842630002
+
+#### 🔄 Lead SEC Analyst
+**Greenhouse** · gitlab · FP&A
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8633807002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8633807002
+
+#### 🔄 Major Account Executive
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860093002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860093002
+
+#### 🔄 Major Account Executive, Financial Services - US East
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8897527002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8897527002
+
+#### 🔄 Major Account Executive, France
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860287002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860287002
+
+#### 🔄 Major Account Executive Netherlands
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860275002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860275002
+
+#### 🔄 Major Account Executive, UK Public Sector
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860271002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860271002
+
+#### 🔄 Major Account Manager, Sweden
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860281002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860281002
+
+#### 🔄 Manager, Assigned Support Engineering (EMEA)
+**Greenhouse** · gitlab · ASE
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8861795002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8861795002
+
+#### 🔄 Manager, Customer Success
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8896290002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8896290002
+
+#### 🔄 Manager, Customer Success Engineering
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8856724002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8856724002
+
+#### 🔄 Manager, Customer Success Manager (PubSec)
+**Greenhouse** · gitlab · Customer Success - PubSec
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8929477002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8929477002
+
+#### 🔄 Manager, Professional Services Engineers, EMEA
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8916753002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8916753002
+
+#### 🔄 Manager, Renewals
+**Greenhouse** · gitlab · Renewals
+📍 Remote Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8885535002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8885535002
+
+#### 🔄 Manager, Sales Recruiting (AMER)
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8922862002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8922862002
+
+#### 🔄 Manager, Sales Recruiting (APJ)
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, Australia; Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8922872002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8922872002
+
+#### 🔄 Manager/Senior Manager, Solution Architects - San Francisco
+**Greenhouse** · gitlab · SA
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8396674002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8396674002
+
+#### 🔄 Manager, Support Engineering (AMER)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8877510002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8877510002
+
+#### 🔄 Migration Engineer - GitLab Dedicated
+**Greenhouse** · gitlab · Dedicated Migrations
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8710061002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8710061002
+
+#### 🔄 New Business Account Executive - East
+**Greenhouse** · gitlab · New Business - AMER
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8928280002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8928280002
+
+#### 🔄 People Systems Engineer
+**Greenhouse** · gitlab · People Technology
+📍 Bangalore, India; Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8861748002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8861748002
+
+#### 🔄 People Technology Analyst - Workday
+**Greenhouse** · gitlab · People Technology
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8861782002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8861782002
+
+#### 🔄 Pipeline Programs Manager
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8864903002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8864903002
+
+#### 🔄 Principal Engineer, Duo Agent Platform
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, Canada; Remote, Poland; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8786095002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8786095002
+
+#### 🔄 Principal Engineer, Monetization Engineering
+**Greenhouse** · gitlab · Monetization Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8895468002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8895468002
+
+#### 🔄 Principal Executive Recruiter
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8924789002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8924789002
+
+#### 🔄 Principal Product Manager, AI Software Factory
+**Greenhouse** · gitlab · AI
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8658878002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8658878002
+
+#### 🔄 Principal Product Marketing Manager, Competitive
+**Greenhouse** · gitlab · Product Marketing
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859224002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8859224002
+
+#### 🔄 Principal Security Researcher
+**Greenhouse** · gitlab · Product Security
+📍 Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8731718002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8731718002
+
+#### 🔄 Principal Technical Program Manager
+**Greenhouse** · gitlab · Office of the CTO
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8693068002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8693068002
+
+#### 🔄 Principal Technical Program Manager
+**Greenhouse** · gitlab · Office of the CTO
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8784056002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8784056002
+
+#### 🔄 Professional Services Technical Architect - West
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8857335002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8857335002
+
+#### 🔄 Public Sector Account Executive, Canada - Local Governments
+**Greenhouse** · gitlab · AMER - Commercial
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8891730002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8891730002
+
+#### 🔄 Public Sector Enablement Lead
+**Greenhouse** · gitlab · Enablement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8814596002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8814596002
+
+#### 🔄 Public Sector Strategic Account Executive - Brazil
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8876823002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8876823002
+
+#### 🔄 Public Sector Strategic Account Executive, DoW
+**Greenhouse** · gitlab · PubSec - FED
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8737840002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8737840002
+
+#### 🔄 Recruiter, GTM (EMEA)
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, Netherlands; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8912969002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8912969002
+
+#### 🔄 Recruiter, R&D
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8869167002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8869167002
+
+#### 🔄 Recruiter,  Sales (AMER)
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8869149002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8869149002
+
+#### 🔄 Recruiter, Sales (APJ)
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote, Australia; Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8913412002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8913412002
+
+#### 🔄 Regional Director - Public Sector, UK/I
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8883078002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8883078002
+
+#### 🔄 Regional Sales Director
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860219002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860219002
+
+#### 🔄 Regional Sales Director, Commercial - LATAM
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8875275002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8875275002
+
+#### 🔄 Regional Sales Director, Financial Services - NYC
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8895702002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8895702002
+
+#### 🔄 Regional Sales Director - France
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860248002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860248002
+
+#### 🔄 Regional Sales Director, National Security Group
+**Greenhouse** · gitlab · PubSec - FED
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8858174002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8858174002
+
+#### 🔄 Renewals Manager EMEA
+**Greenhouse** · gitlab · Renewals
+📍 Remote Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8885115002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8885115002
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, North America | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8530337002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8530337002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · gitlab · EMEA - Commercial
+📍 Remote, Austria | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860193002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860193002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · gitlab · EMEA - Commercial
+📍 Remote, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860183002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860183002
+
+#### 🔄 Senior Assigned Support Engineer (AMER)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8709925002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8709925002
+
+#### 🔄 Senior Assigned Support Engineer-(Designated / Premier Support)
+**Greenhouse** · gitlab · ASE
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8918853002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8918853002
+
+#### 🔄 Senior Assigned Support Engineer (EMEA)
+**Greenhouse** · gitlab · ASE
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8701290002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8701290002
+
+#### 🔄 Senior Backend Engineer, AI Engineering: Chat
+**Greenhouse** · gitlab · AI Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8621733002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8621733002
+
+#### 🔄 Senior Backend Engineer, Cloud Cost & Capacity
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8800507002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8800507002
+
+#### 🔄 Senior Backend Engineer, Core DevOps
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8689243002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8689243002
+
+#### 🔄 Senior Backend Engineer, Database Excellence (Ruby)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8778943002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8778943002
+
+#### 🔄 Senior Backend Engineer, Development Health
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8928675002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8928675002
+
+#### 🔄 Senior Backend Engineer, India
+**Greenhouse** · gitlab · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8716143002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8716143002
+
+#### 🔄 Senior Backend Engineer, Platform Enablement
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8750842002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8750842002
+
+#### 🔄 Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8867725002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8867725002
+
+#### 🔄 Senior Backend Engineer, Trusted Agentic Development
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8760233002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8760233002
+
+#### 🔄 Senior Compensation Manager
+**Greenhouse** · gitlab · Total Rewards
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8918216002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8918216002
+
+#### 🔄 Senior Contracts Manager, Commercial (EMEA)
+**Greenhouse** · gitlab · Legal
+📍 Remote Ireland; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8811842002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8811842002
+
+#### 🔄 Senior Customer Success Architect, CEUR
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Austria; Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8844846002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8844846002
+
+#### 🔄 Senior Customer Success Architect - Singapore
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8648304002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8648304002
+
+#### 🔄 Senior Customer Success Engineer, Japan
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8808549002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8808549002
+
+#### 🔄 Senior CX Platform Engineer
+**Greenhouse** · gitlab · Practice Management
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8871406002
+
+#### 🔄 Senior Developer Advocate
+**Greenhouse** · gitlab · Developer Relations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8838202002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8838202002
+
+#### 🔄 Senior Director, Global SME Solutions Architecture
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8862046002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8862046002
+
+#### 🔄 Senior Distribution Engineer, Gitlab: Build
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8802261002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8802261002
+
+#### 🔄 Senior Ecosystem Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8907680002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8907680002
+
+#### 🔄 Senior Ecosystems Sales Manager: Scale, India
+**Greenhouse** · gitlab · Alliances and Channel
+📍 Remote, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8926435002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8926435002
+
+#### 🔄 Senior Engagement Manager, PS Sales - DACH
+**Greenhouse** · gitlab · Practice Management
+📍 Remote, Austria; Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8725981002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8725981002
+
+#### 🔄 Senior Engagement Manager, PS Sales - EMEA
+**Greenhouse** · gitlab · Practice Management
+📍 Remote Ireland; Remote, Germany; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8911335002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8911335002
+
+#### 🔄 Senior Executive Assistant
+**Greenhouse** · gitlab · Sales Development
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8919962002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8919962002
+
+#### 🔄 Senior Frontend Engineer
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8826920002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8826920002
+
+#### 🔄 Senior Journey Architect
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8927560002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8927560002
+
+#### 🔄 Senior Manager, Data Science
+**Greenhouse** · gitlab · Data
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8922062002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8922062002
+
+#### 🔄 Senior Manager of Success Architects
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8842171002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8842171002
+
+#### 🔄 Senior Manager - Solutions Architecture SME
+**Greenhouse** · gitlab · SA
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859960002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8859960002
+
+#### 🔄 Senior Manager, Total Rewards Operations
+**Greenhouse** · gitlab · Total Rewards
+📍 Remote, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8909192002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8909192002
+
+#### 🔄 Senior Partner Solutions Manager, Strategic Partnerships
+**Greenhouse** · gitlab · Corporate Affairs
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8863314002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8863314002
+
+#### 🔄 Senior People Business Partner, Engineering
+**Greenhouse** · gitlab · People Business Partners
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8882519002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8882519002
+
+#### 🔄 Senior Product Manager, Agentic Source Code
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, Canada; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8597805002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8597805002
+
+#### 🔄 Senior Product Manager, Billing Engine & Platforms Monetization
+**Greenhouse** · gitlab · Monetization & Analytics
+📍 Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8845483002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8845483002
+
+#### 🔄 Senior Product Manager, CRM & GTM Systems
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8855883002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8855883002
+
+#### 🔄 Senior Product Manager - Data Integrations
+**Greenhouse** · gitlab · Core DevOps
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8905040002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8905040002
+
+#### 🔄 Senior Product Manager, Secret Detection and Vulnerability Research
+**Greenhouse** · gitlab · Security & Compliance
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8697043002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8697043002
+
+#### 🔄 Senior Product Manager, Switchboard
+**Greenhouse** · gitlab · Platforms
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8894806002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8894806002
+
+#### 🔄 Senior Professional Services Engineer, Japan
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859657002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8859657002
+
+#### 🔄 Senior Professional Services Engineer - PubSec - DC Metro
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8838331002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8838331002
+
+#### 🔄 Senior Professional Services Engineer - PubSec - DC Metro
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8838394002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8838394002
+
+#### 🔄 Senior Professional Services Project Manager (EMEA)
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8622433002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8622433002
+
+#### 🔄 Senior Professional Services Technical Architect - Security
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8795736002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8795736002
+
+#### 🔄 Senior Program Manager, Enterprise Technology and AI
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8687246002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8687246002
+
+#### 🔄 Senior Release Engineer
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8730125002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8730125002
+
+#### 🔄 Senior Renewals Manager, Public Sector
+**Greenhouse** · gitlab · Renewals - PubSec
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8929514002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8929514002
+
+#### 🔄 Senior Security Risk Engineer
+**Greenhouse** · gitlab · Security Assurance
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8846304002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8846304002
+
+#### 🔄 Senior Security Technical Program Manager, Fraud & Abuse
+**Greenhouse** · gitlab · Security Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8928711002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8928711002
+
+#### 🔄 Senior Software Engineer, Security Factory: Code Security
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8738179002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8738179002
+
+#### 🔄 Senior Software Engineer, SSCS : Authentication
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8878486002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8878486002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · gitlab · SA
+📍 Remote, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8783485002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8783485002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · gitlab · SA
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8731996002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8731996002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · gitlab · SA
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8880947002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8880947002
+
+#### 🔄 Senior Solutions Architect - East Enterprise team
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8906915002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8906915002
+
+#### 🔄 Senior Solutions Architect - Japan
+**Greenhouse** · gitlab · SA
+📍 Remote, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8890389002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8890389002
+
+#### 🔄 Senior Solutions Architect Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8770661002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8770661002
+
+#### 🔄 Senior Solutions Architect (Singapore)
+**Greenhouse** · gitlab · SA
+📍 Remote, Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8627768002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8627768002
+
+#### 🔄 Senior Solutions Architect- Sydney
+**Greenhouse** · gitlab · SA
+📍 Remote, Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8826637002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8826637002
+
+#### 🔄 Senior Solutions Architect - UAE
+**Greenhouse** · gitlab · SA
+📍 Remote, UAE | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8894457002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8894457002
+
+#### 🔄 Senior Strategic Account Executive - California
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8742248002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8742248002
+
+#### 🔄 Senior Support Engineer
+**Greenhouse** · gitlab · Customer Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8692874002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8692874002
+
+#### 🔄 Senior Support Engineer
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8692880002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8692880002
+
+#### 🔄 Senior Talent Brand Manager
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote; Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8753656002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8753656002
+
+#### 🔄 Senior Website Manager, about.gitlab.com
+**Greenhouse** · gitlab · Digital Experience
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8928762002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8928762002
+
+#### 🔄 Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8623389002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8623389002
+
+#### 🔄 Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8773546002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8773546002
+
+#### 🔄 Software Engineer, Delivery : Release
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8916232002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8916232002
+
+#### 🔄 Solutions Architect - SLED (East)
+**Greenhouse** · gitlab · Solutions Architecture - PubSec
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8907111002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8907111002
+
+#### 🔄 Solutions Architect - SLED (West)
+**Greenhouse** · gitlab · Solutions Architecture - PubSec
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8907130002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8907130002
+
+#### 🔄 Sr. Manager, Solutions Architect - SMB
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8886626002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8886626002
+
+#### 🔄 Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8646544002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8646544002
+
+#### 🔄 Staff Backend Engineer, Database Automation (Go)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8770702002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8770702002
+
+#### 🔄 Staff Backend Engineer, Developer Experience
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United Kingdom; Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8490477002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8490477002
+
+#### 🔄 Staff Backend Engineer, India
+**Greenhouse** · gitlab · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8775136002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8775136002
+
+#### 🔄 Staff Corporate Security Engineer
+**Greenhouse** · gitlab · Corporate Security
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8734888002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8734888002
+
+#### 🔄 Staff Data Analyst
+**Greenhouse** · gitlab · Customer Support
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8827370002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8827370002
+
+#### 🔄 Staff Frontend Engineer
+**Greenhouse** · gitlab · DevOps Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8826965002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8826965002
+
+#### 🔄 Staff Fullstack Engineer, Data Products (Golang / Node)
+**Greenhouse** · gitlab · Data Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8845277002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8845277002
+
+#### 🔄 Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase
+**Greenhouse** · gitlab · Monetization Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8739391002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8739391002
+
+#### 🔄 Staff Global Partner Programs Manager
+**Greenhouse** · gitlab · Alliances and Channel
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8907028002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8907028002
+
+#### 🔄 Staff Product Manager, Agentic Planning
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8909618002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8909618002
+
+#### 🔄 Staff Product Manager, Agentic Test Intelligence
+**Greenhouse** · gitlab · Core DevOps
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8871820002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8871820002
+
+#### 🔄 Staff Product Manager,  RevOps & Finance Systems
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8612937002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8612937002
+
+#### 🔄 Staff Product Manager, Tenant Scale
+**Greenhouse** · gitlab · Platforms
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8919537002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8919537002
+
+#### 🔄 Staff Product Security Architect
+**Greenhouse** · gitlab · Product Security
+📍 Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8815140002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8815140002
+
+#### 🔄 Staff Professional Services Operations Manager
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8691770002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8691770002
+
+#### 🔄 Staff Program Manager, CCO Programs
+**Greenhouse** · gitlab · Field Operations
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8822279002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8822279002
+
+#### 🔄 Staff Regional Marketing Manager, West
+**Greenhouse** · gitlab · Regional Marketing
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8920177002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8920177002
+
+#### 🔄 Staff Security Governance Engineer, Policies & Standards
+**Greenhouse** · gitlab · Security Assurance
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8846277002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8846277002
+
+#### 🔄 Staff Site Reliability Engineer, Environment Automation
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8800489002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8800489002
+
+#### 🔄 Staff Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)
+**Greenhouse** · gitlab · Data Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8615268002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8615268002
+
+#### 🔄 Staff Software Engineer - NLP
+**Greenhouse** · gitlab · Architecture Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8781299002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8781299002
+
+#### 🔄 Staff Software Engineer, Security Factory: Static Analysis
+**Greenhouse** · gitlab · Sec Engineering
+📍 Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8693563002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8693563002
+
+#### 🔄 Staff Software Engineer, Security Foundations
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8632446002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8632446002
+
+#### 🔄 Staff Solutions Architect, AI Subject Matter Expert
+**Greenhouse** · gitlab · SA
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8886426002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8886426002
+
+#### 🔄 Staff Solutions Architect, AI Subject Matter Expert
+**Greenhouse** · gitlab · SA
+📍 Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860196002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860196002
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860106002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860106002
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860127002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860127002
+
+#### 🔄 Strategic Account Executive - AI, San Francisco
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8895523002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8895523002
+
+#### 🔄 Strategic Account Executive - Brazil
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8877434002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8877434002
+
+#### 🔄 Strategic Account Executive - Chicago
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8895511002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8895511002
+
+#### 🔄 Strategic Account Executive, Financial Services - Brazil
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8877428002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8877428002
+
+#### 🔄 Strategic Account Executive, Financial Services - US East
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8897529002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8897529002
+
+#### 🔄 Strategic Account Executive, France
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8868220002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8868220002
+
+#### 🔄 Strategic Account Executive - India
+**Greenhouse** · gitlab · APAC - Enterprise
+📍 Remote, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8887401002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8887401002
+
+#### 🔄 Strategic Account Executive - MENA
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, KSA; Remote, UAE | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8637995002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8637995002
+
+#### 🔄 Strategic Account Executive, Northeast
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8858197002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8858197002
+
+#### 🔄 Strategic Account Executive, Poland
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Poland | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8789017002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8789017002
+
+#### 🔄 Strategic Account Executive, Poland
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8675560002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8675560002
+
+#### 🔄 Strategic Account Executive - Public Sector
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860142002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860142002
+
+#### 🔄 Strategic Account Executive - Public Sector
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860134002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8860134002
+
+#### 🔄 Strategic Account Executive - San Francisco
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8691382002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8691382002
+
+#### 🔄 Strategic Account Executive - Seattle
+**Greenhouse** · gitlab · AMER - Enterprise
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8706202002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8706202002
+
+#### 🔄 Strategic Partnerships Director
+**Greenhouse** · gitlab · Corporate Affairs
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8615811002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8615811002
+
+#### 🔄 Support Engineer (AMER)
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8654230002
+
+#### 🔄 Support Engineer, U.S. Government Support (SHIFT)
+**Greenhouse** · gitlab · PubSec Customer Support
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8859063002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8859063002
+
+#### 🔄 Talent Brand Manager
+**Greenhouse** · gitlab · Talent Acquisition
+📍 Remote; Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8753664002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8753664002
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · gitlab · Office of the CTO
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8784185002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8784185002
+
+#### 🔄 Tech Operations Specialist
+**Greenhouse** · gitlab · Enablement
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8638246002)
+🕐 Updated: 2026-11-06T15:25:07-05:00 | ID: 8638246002
+
+#### 🔄 Senior Diagnostics Engineer
+**Greenhouse** · waymo · HW Systems (7SH)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8353664)
+🕐 Updated: 2026-11-06T15:17:02-05:00 | ID: 8353664
+
+#### 🔄 Full Stack Software Engineer, Credit Cards & Banking
+**Greenhouse** · robinhood · Money Engineering
+📍 Bellevue, WA; Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723)
+🕐 Updated: 2026-11-06T15:16:46-05:00 | ID: 8008723
+
+#### 🔄 Senior Engineering Manager - Notebook Dataplane
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002)
+🕐 Updated: 2026-11-06T15:15:06-05:00 | ID: 8190108002
+
+#### 🔄 Director, Payroll
+**Greenhouse** · smartsheet · Payroll
+📍 Bellevue, WA, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8357651)
+🕐 Updated: 2026-11-06T15:14:00-05:00 | ID: 8357651
+
+#### 🔄 Strategy & Program Manager
+**Greenhouse** · adyen · Strategy & Execution
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8164533)
+🕐 Updated: 2026-11-06T15:11:47-05:00 | ID: 8164533
+
+#### 🔄 Automation & Controls Specialist, Launch Pad (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8916251002?gh_jid=8916251002)
+🕐 Updated: 2026-11-06T15:09:13-05:00 | ID: 8916251002
+
+#### 🔄 Automation & Controls Specialist
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904957002?gh_jid=8904957002)
+🕐 Updated: 2026-11-06T15:09:11-05:00 | ID: 8904957002
+
+#### 🔄 Enterprise Solutions Engineer - German Speaking
+**Greenhouse** · verkada · Solutions Engineering
+📍 Vienna, Austria | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5236674007)
+🕐 Updated: 2026-11-06T14:58:00-05:00 | ID: 5236674007
+
+#### 🔄 Customer Experience Associate, Prediction Markets
+**Greenhouse** · robinhood · Customer Care
+📍 Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278)
+🕐 Updated: 2026-11-06T14:55:50-05:00 | ID: 8356278
+
+#### 🔄 Sr. Product Marketing Manager / Lead Product Marketing Manager, Alarms
+**Greenhouse** · verkada · Product Marketing
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5120893007)
+🕐 Updated: 2026-11-06T14:54:47-05:00 | ID: 5120893007
+
+#### 🔄 Systems Engineer, Growth Engineering
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8175620?gh_jid=8175620)
+🕐 Updated: 2026-11-06T14:42:20-05:00 | ID: 8175620
+
+#### 🔄 Customer Success Team Agent II
+**Greenhouse** · coinbase · Customer Experience
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8334761?gh_jid=8334761)
+🕐 Updated: 2026-11-06T14:42:08-05:00 | ID: 8334761
+
+#### 🔄 Customer Success Team Agent II
+**Greenhouse** · coinbase · Customer Experience
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8334752?gh_jid=8334752)
+🕐 Updated: 2026-11-06T14:41:42-05:00 | ID: 8334752
+
+#### 🔄 Sr. Customer Success Strategy Manager, New Products
+**Greenhouse** · samsara · Customer Success
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8300580?gh_jid=8300580)
+🕐 Updated: 2026-11-06T14:40:46-05:00 | ID: 8300580
+
+#### 🔄 Manager, Customer Success Account Management
+**Greenhouse** · samsara · Customer Success
+📍 Remote - CA; Remote - IL; Remote - TX; Remote - WA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8232209?gh_jid=8232209)
+🕐 Updated: 2026-11-06T14:35:12-05:00 | ID: 8232209
+
+#### 🔄 Senior Customer Engineer - Vancouver BC
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Distributed | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8327965?gh_jid=8327965)
+🕐 Updated: 2026-11-06T14:32:54-05:00 | ID: 8327965
+
+#### 🔄 Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8924839002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8924839002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Sydney, Australia | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8924712002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8924712002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8924701002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8924701002
+
+#### 🔄 Principal Product Manager (Web Experience)
+**Greenhouse** · workato · Product & Engineering
+📍 Denver, Colorado | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8919945002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8919945002
+
+#### 🔄 Senior Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8924845002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8924845002
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · workato · Developer Products and AI Labs
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8930400002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8930400002
+
+#### 🔄 Senior Software Engineer (GOlang, Engine)
+**Greenhouse** · workato · Product & Engineering
+📍 Yerevan, Armenia | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8929808002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8929808002
+
+#### 🔄 Senior Software Engineer (GOlang, Engine)
+**Greenhouse** · workato · Product & Engineering
+📍 Barcelona, Spain; Madrid, Spain | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8929800002#open-roles)
+🕐 Updated: 2026-11-06T14:32:26-05:00 | ID: 8929800002
+
+#### 🔄 Account Manager
+**Greenhouse** · workato · Sales and Customer Success
+📍 New York, New York | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8731391002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8731391002
+
+#### 🔄 Accounts and Billing Specialist
+**Greenhouse** · workato · Finance, Legal and Procurement
+📍 Alabang, Philippines | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8595288002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8595288002
+
+#### 🔄 Analytics Engineer
+**Greenhouse** · workato · Product & Engineering
+📍 Singapore | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8870119002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8870119002
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8901398002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8901398002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Sydney, Australia | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8716940002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8716940002
+
+#### 🔄 Enterprise Development Representative
+**Greenhouse** · workato · Sales and Customer Success
+📍 Dublin, Ireland | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8904556002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8904556002
+
+#### 🔄 Field Chief Technology Officer
+**Greenhouse** · workato · Sales and Customer Success
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8612995002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8612995002
+
+#### 🔄 Global Account Director
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8720210002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8720210002
+
+#### 🔄 Intern, Business Technology
+**Greenhouse** · workato · Business Technology
+📍 Singapore | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8644024002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8644024002
+
+#### 🔄 Partner Sales Manager
+**Greenhouse** · workato · Sales and Customer Success
+📍 Seoul, South Korea | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8568182002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8568182002
+
+#### 🔄 Partner Sales Manager
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8627710002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8627710002
+
+#### 🔄 Product Support Account Manager
+**Greenhouse** · workato · Operations
+📍 Alabang, Philippines | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8879654002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8879654002
+
+#### 🔄 Product Support Analyst
+**Greenhouse** · workato · Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8904785002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8904785002
+
+#### 🔄 Senior Embedded Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Denver, Colorado | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8619377002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8619377002
+
+#### 🔄 Senior Embedded Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8893688002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8893688002
+
+#### 🔄 Senior Enterprise Customer Success Manager
+**Greenhouse** · workato · Sales and Customer Success
+📍 Sydney, Australia | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8561575002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8561575002
+
+#### 🔄 Senior Field Marketing Manager
+**Greenhouse** · workato · Office of GTM
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8860927002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8860927002
+
+#### 🔄 Senior Infrastructure Engineer (PostgreSQL DBA)
+**Greenhouse** · workato · Product & Engineering
+📍 Lisbon, Portugal; Porto, Portugal | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8842213002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8842213002
+
+#### 🔄 Senior Infrastructure Engineer (PostgreSQL DBA)
+**Greenhouse** · workato · Product & Engineering
+📍 Sofia, Bulgaria | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8842212002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8842212002
+
+#### 🔄 Senior Infrastructure Engineer (PostgreSQL DBA)
+**Greenhouse** · workato · Product & Engineering
+📍 Barcelona, Spain; Madrid, Spain | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8766560002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8766560002
+
+#### 🔄 Senior Infrastructure Engineer (PostgreSQL DBA)
+**Greenhouse** · workato · Product & Engineering
+📍 Berlin, Germany; Frankfurt, Germany; Munich, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8842211002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8842211002
+
+#### 🔄 Senior Manager, Professional Services
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8820164002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8820164002
+
+#### 🔄 Senior Product Manager (Enterprise MCP/AI Control Plane)
+**Greenhouse** · workato · Product & Engineering
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8676108002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8676108002
+
+#### 🔄 Senior Software Engineer (GOlang, Engine)
+**Greenhouse** · workato · Product & Engineering
+📍 Berlin, Germany; Frankfurt, Germany; Munich, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8929803002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8929803002
+
+#### 🔄 Strategic Events Manager
+**Greenhouse** · workato · Office of GTM
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8812446002#open-roles)
+🕐 Updated: 2026-11-06T14:32:25-05:00 | ID: 8812446002
+
+#### 🔄 Chief Strategic Architect
+**Greenhouse** · workato · Sales and Customer Success
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8687306002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8687306002
+
+#### 🔄 Chief Strategic Architect
+**Greenhouse** · workato · Sales and Customer Success
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8619069002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8619069002
+
+#### 🔄 Director of Product Data and Analytics
+**Greenhouse** · workato · Product & Engineering
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8392595002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8392595002
+
+#### 🔄 Director, Product Management (Platform, Security & Enterprise Readiness)
+**Greenhouse** · workato · Product & Engineering
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8497003002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8497003002
+
+#### 🔄 Engineering Manager - Data processing Engines
+**Greenhouse** · workato · Product & Engineering
+📍 Sofia, Bulgaria | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8863222002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8863222002
+
+#### 🔄 Engineering Manager - Data processing Engines
+**Greenhouse** · workato · Product & Engineering
+📍 Barcelona, Spain; Madrid, Spain | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8422463002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8422463002
+
+#### 🔄 Engineering Manager - Data processing Engines
+**Greenhouse** · workato · Product & Engineering
+📍 Lisbon, Portugal; Porto, Portugal | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8863246002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8863246002
+
+#### 🔄 Engineering Manager - Data processing Engines
+**Greenhouse** · workato · Product & Engineering
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8863232002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8863232002
+
+#### 🔄 Engineering Manager - Data processing Engines
+**Greenhouse** · workato · Product & Engineering
+📍 Tbilisi, Georgia | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8863231002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8863231002
+
+#### 🔄 Engineering Manager - Data processing Engines
+**Greenhouse** · workato · Product & Engineering
+📍 Berlin, Germany; Frankfurt, Germany; Munich, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8863220002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8863220002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 Singapore | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8204080002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8204080002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · workato · Sales and Customer Success
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8555874002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8555874002
+
+#### 🔄 Presales Solutions Architect
+**Greenhouse** · workato · Sales and Customer Success
+📍 Boston, Massachusetts; New York, New York | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8561580002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8561580002
+
+#### 🔄 Senior ABM & Demand Generation Manager
+**Greenhouse** · workato · Office of GTM
+📍 San Francisco, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8790899002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8790899002
+
+#### 🔄 Senior Infrastructure Engineer (AI Lab)
+**Greenhouse** · workato · Product & Engineering
+📍 Singapore | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8288630002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8288630002
+
+#### 🔄 Senior Rust Developer
+**Greenhouse** · workato · Product & Engineering
+📍 Frankfurt, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8509059002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8509059002
+
+#### 🔄 Senior Rust Developer
+**Greenhouse** · workato · Product & Engineering
+📍 Lisbon, Portugal | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8509064002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8509064002
+
+#### 🔄 Senior Rust Developer
+**Greenhouse** · workato · Product & Engineering
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8509061002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8509061002
+
+#### 🔄 Senior Rust Developer
+**Greenhouse** · workato · Product & Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8509060002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8509060002
+
+#### 🔄 Senior Rust Developer
+**Greenhouse** · workato · Product & Engineering
+📍 Berlin, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8509058002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8509058002
+
+#### 🔄 Senior Rust Developer
+**Greenhouse** · workato · Product & Engineering
+📍 Barcelona, Spain | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8483618002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8483618002
+
+#### 🔄 Senior Software Engineer (Golang - Platform team)
+**Greenhouse** · workato · Product & Engineering
+📍 Singapore | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8499680002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8499680002
+
+#### 🔄 Staff Product Manager (AI-Powered Developer Experience)
+**Greenhouse** · workato · Product & Engineering
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8154474002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8154474002
+
+#### 🔄 Staff Product Manager (Build Experience - Agentic)
+**Greenhouse** · workato · Product & Engineering
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8326092002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8326092002
+
+#### 🔄 Staff Product Manager (Enterprise & AI Governance)
+**Greenhouse** · workato · Product & Engineering
+📍 Palo Alto, California | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8116160002#open-roles)
+🕐 Updated: 2026-11-06T14:32:24-05:00 | ID: 8116160002
+
+#### 🔄 Senior Customer Engineer - Vancouver, BC
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736)
+🕐 Updated: 2026-11-06T14:31:33-05:00 | ID: 8223736
+
+#### 🔄 Staff Software Engineer, Collision Avoidance Testing
+**Greenhouse** · waymo · Systems (78I)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8110366)
+🕐 Updated: 2026-11-06T14:29:45-05:00 | ID: 8110366
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - British Columbia, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8103609)
+🕐 Updated: 2026-11-06T14:29:43-05:00 | ID: 8103609
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8072076)
+🕐 Updated: 2026-11-06T14:29:41-05:00 | ID: 8072076
+
+#### 🔄 Software Engineer - Query Execution
+**Greenhouse** · dremio · Engineering
+📍 Portugal - Remote | 🔗 [Apply Here](https://www.dremio.com/careers/job-postings/?gh_jid=8005826003)
+🕐 Updated: 2026-11-06T14:28:32-05:00 | ID: 8005826003
+
+#### 🔄 Mobile Software Engineering Intern 2027
+**Greenhouse** · verkada · Software - Early Careers
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5219131007)
+🕐 Updated: 2026-11-06T14:25:07-05:00 | ID: 5219131007
+
+#### 🔄 SAP Plan to Forecast Lead, SCM
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8155895)
+🕐 Updated: 2026-11-06T14:24:48-05:00 | ID: 8155895
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Novi Sad, South Bačka, Serbia, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8196257003)
+🕐 Updated: 2026-11-06T14:24:46-05:00 | ID: 8196257003
+
+#### 🔄 Strategic Cuisines Account Executive - Bilingual Spanish - Sacramento, CA
+**Greenhouse** · toast · Sales : Strategic Cuisines Sales AEs
+📍 Sacramento, CA | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8354020)
+🕐 Updated: 2026-11-06T14:24:38-05:00 | ID: 8354020
+
+#### 🔄 Senior Full Stack Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Novi Sad, South Bačka, Serbia, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8196546003)
+🕐 Updated: 2026-11-06T14:24:08-05:00 | ID: 8196546003
+
+#### 🔄 Marketing Lead, Claude Frontier Academy
+**Greenhouse** · anthropic · Marketing & Brand
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5467561008)
+🕐 Updated: 2026-11-06T14:23:38-05:00 | ID: 5467561008
+
+#### 🔄 Senior Product Designer, T&E
+**Greenhouse** · brex · Design
+📍 United States | 🔗 [Apply Here](https://www.brex.com/careers/8919847002?gh_jid=8919847002)
+🕐 Updated: 2026-11-06T14:21:19-05:00 | ID: 8919847002
+
+#### 🔄 Security Software Engineering Intern 2027
+**Greenhouse** · verkada · Software - Early Careers
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5213881007)
+🕐 Updated: 2026-11-06T14:21:13-05:00 | ID: 5213881007
+
+#### 🔄 Backend Software Engineering Intern 2027
+**Greenhouse** · verkada · Software - Early Careers
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5210813007)
+🕐 Updated: 2026-11-06T14:21:10-05:00 | ID: 5210813007
+
+#### 🔄 Embedded Software Engineering Intern 2027
+**Greenhouse** · verkada · Software - Early Careers
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5211595007)
+🕐 Updated: 2026-11-06T14:21:08-05:00 | ID: 5211595007
+
+#### 🔄 Frontend Software Engineering Intern 2027
+**Greenhouse** · verkada · Software - Early Careers
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5210942007)
+🕐 Updated: 2026-11-06T14:21:05-05:00 | ID: 5210942007
+
+#### 🔄 GTM AI Engineer
+**Greenhouse** · everlaw · Sales
+📍 Oakland, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4709372006)
+🕐 Updated: 2026-11-06T14:20:02-05:00 | ID: 4709372006
+
+#### 🔄 Enterprise Account Executive (State, Local, and Education) - Northeast
+**Greenhouse** · everlaw · Sales
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4712137006)
+🕐 Updated: 2026-11-06T14:15:56-05:00 | ID: 4712137006
+
+#### 🔄 Staff Software Engineer, AI Runtime
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002)
+🕐 Updated: 2026-11-06T14:15:09-05:00 | ID: 8582271002
+
+#### 🔄 Staff Software Engineer- Foundation Model Inference
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002)
+🕐 Updated: 2026-11-06T14:15:02-05:00 | ID: 8649279002
+
+#### 🔄 Staff Backend Software Engineer- (AI Platform)
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002)
+🕐 Updated: 2026-11-06T14:14:40-05:00 | ID: 8367021002
+
+#### 🔄 Enterprise Account Executive (State, Local, and Education) -  Great Lakes & Upper Midwest
+**Greenhouse** · everlaw · Sales
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4711023006)
+🕐 Updated: 2026-11-06T14:13:39-05:00 | ID: 4711023006
+
+#### 🔄 Senior Engineering Manager, dbt Engine
+**Greenhouse** · fivetran · Engineering Department
+📍 Ontario, Canada | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8013527003)
+🕐 Updated: 2026-11-06T14:12:48-05:00 | ID: 8013527003
+
+#### 🔄 Senior Engineering Manager, dbt Engine
+**Greenhouse** · fivetran · Engineering Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8013525003)
+🕐 Updated: 2026-11-06T14:12:38-05:00 | ID: 8013525003
+
+#### 🔄 Senior Engineering Manager, dbt Engine
+**Greenhouse** · fivetran · Engineering Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7818376003)
+🕐 Updated: 2026-11-06T14:12:30-05:00 | ID: 7818376003
+
+#### 🔄 Staff Product Designer - Okta Identity Governance
+**Greenhouse** · okta · Product Design & UXR-650
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8247059?gh_jid=8247059)
+🕐 Updated: 2026-11-06T14:08:44-05:00 | ID: 8247059
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · datadog · Enterprise Sales
+📍 Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote | 🔗 [Apply Here](https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736)
+🕐 Updated: 2026-11-06T14:07:29-05:00 | ID: 6522736
+
+#### 🔄 Inventory Specialist - Multiple Shifts
+**Greenhouse** · spacex · Materials Management - Hawthorne Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8530056002?gh_jid=8530056002)
+🕐 Updated: 2026-11-06T13:56:51-05:00 | ID: 8530056002
+
+#### 🔄 Senior Director of Performance Marketing
+**Greenhouse** · duolingo · Marketing and Communications
+📍 New York, NY | 🔗 [Apply Here](https://careers.duolingo.com/jobs/8895215002?gh_jid=8895215002)
+🕐 Updated: 2026-11-06T13:51:55-05:00 | ID: 8895215002
+
+#### 🔄 Senior Software Engineer - Network Connectivity (Go/Rust)
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013)
+🕐 Updated: 2026-11-06T13:48:44-05:00 | ID: 7793013
+
+#### 🔄 Senior Software Engineer - Egress (Go/Rust)
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793)
+🕐 Updated: 2026-11-06T13:48:31-05:00 | ID: 7463793
+
+#### 🔄 Senior Engineering Manager — Network Connectivity
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8185723?gh_jid=8185723)
+🕐 Updated: 2026-11-06T13:47:52-05:00 | ID: 8185723
+
+#### 🔄 Security Architect - U.S. Public Sector
+**Greenhouse** · okta · Security-783
+📍 Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602)
+🕐 Updated: 2026-11-06T13:36:13-05:00 | ID: 8332602
+
+#### 🔄 Senior Accounting Manager
+**Greenhouse** · twilio · Accounting
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261247)
+🕐 Updated: 2026-11-06T13:32:34-05:00 | ID: 8261247
+
+#### 🔄 Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce
+**Greenhouse** · adyen · Commercial Business Development
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8041204)
+🕐 Updated: 2026-11-06T13:32:19-05:00 | ID: 8041204
+
+#### 🔄 Data Center Technician - Ellendale, ND
+**Greenhouse** · coreweave · Data Center - COR
+📍 Ellendale, ND | 🔗 [Apply Here](https://coreweave.com/careers/job?4579319006&board=coreweave&gh_jid=4579319006)
+🕐 Updated: 2026-11-06T13:29:11-05:00 | ID: 4579319006
+
+#### 🔄 Data Center Technician – Express Your Interest
+**Greenhouse** · coreweave · Data Center - COR
+📍 Multiple U.S. Data Center Locations | 🔗 [Apply Here](https://coreweave.com/careers/job?4652977006&board=coreweave&gh_jid=4652977006)
+🕐 Updated: 2026-11-06T13:29:11-05:00 | ID: 4652977006
+
+#### 🔄 Regional Director - U.S. Midwest Data Center Operations
+**Greenhouse** · coreweave · Data Center - COR
+📍 Caledonia, MI / Cincinnati, OH / Columbus, OH / Hammond, IN / Sandusky, OH | 🔗 [Apply Here](https://coreweave.com/careers/job?4723568006&board=coreweave&gh_jid=4723568006)
+🕐 Updated: 2026-11-06T13:29:11-05:00 | ID: 4723568006
+
+#### 🔄 Product Designer II
+**Greenhouse** · fivetran · Product Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8040639003)
+🕐 Updated: 2026-11-06T13:26:38-05:00 | ID: 8040639003
+
+#### 🔄 Program Manager, Commercial Solutions
+**Greenhouse** · stripe · 1510 Global Business Services
+📍 Remote/Hybrid | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8224617)
+🕐 Updated: 2026-11-06T13:24:28-05:00 | ID: 8224617
+
+#### 🔄 Security Operations Engineer I
+**Greenhouse** · samsara · IT Security
+📍 Remote - CA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8353283?gh_jid=8353283)
+🕐 Updated: 2026-11-06T13:24:18-05:00 | ID: 8353283
+
+#### 🔄 Customer Support Specialist, Clerky
+**Greenhouse** · stripe · 9017 Clerky - S&O
+📍 Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8275558)
+🕐 Updated: 2026-11-06T13:22:58-05:00 | ID: 8275558
+
+#### 🔄 Director, Enterprise Sales (SLED)
+**Greenhouse** · datadog · Enterprise Sales
+📍 District of Columbia, USA, Remote; Georgia, USA, Remote; North Carolina, USA, Remote | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8314112/?gh_jid=8314112)
+🕐 Updated: 2026-11-06T13:18:44-05:00 | ID: 8314112
+
+#### 🔄 Agency Partner Manager
+**Greenhouse** · reddit · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8337323)
+🕐 Updated: 2026-11-06T05:38:51-05:00 | ID: 8337323
+
+### Ashby
+
+#### 🆕 Head of Platform & Infrastructure Engineering
+**Ashby** · Ashby · Engineering · 🎯 78%
+📍 Remote - US; Austin; Los Angeles; Seattle; New York; San Francisco; Chicago; United States | 🔗 [Apply Here](https://jobs.ashbyhq.com/Ashby/5d4863d7-e1d9-4f4e-aed4-79d558185ac9)
+🕐 Updated: 2026-11-06T18:31:51.791+00:00 | ID: 5d4863d7-e1d9-4f4e-aed4-79d558185ac9
+
+## ATS Summary
+- **Greenhouse**: 2 new, 15709 fetched, 695 updated, 129 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 1 new, 73 fetched, 0 updated, 3 cap-skipped, 1 alerts
+
+- **Run total**: 3 new, 15812 fetched, 695 updated, 132 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-06 18:16 UTC
 
 ### Greenhouse
