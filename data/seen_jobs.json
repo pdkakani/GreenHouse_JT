@@ -174096,7 +174096,7 @@
     "alerted": false
   },
   "greenhouse:circleci:8560754002": {
-    "updated_at": "2026-11-04T07:46:53-05:00",
+    "updated_at": "2026-11-07T10:36:38-05:00",
     "title": "Lead Product Designer",
     "company": "circleci",
     "ats": "greenhouse",
@@ -372960,7 +372960,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8247346": {
-    "updated_at": "2026-11-05T12:12:56-05:00",
+    "updated_at": "2026-11-07T06:01:05-05:00",
     "title": "Recruiting Coordinator",
     "company": "datadog",
     "ats": "greenhouse",
@@ -427360,7 +427360,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5474544008": {
-    "updated_at": "2026-11-06T14:32:16-05:00",
+    "updated_at": "2026-11-07T07:19:35-05:00",
     "title": "Political Economist, Rule of Law",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -427890,6 +427890,22 @@
   "greenhouse:datadog:8350101": {
     "updated_at": "2026-11-06T20:19:55-05:00",
     "title": "Senior Video Editor",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:databricks:8811059002": {
+    "updated_at": "2026-11-07T02:00:25-05:00",
+    "title": "Tech Sourcer (Contract)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:datadog:8354556": {
+    "updated_at": "2026-11-06T23:29:49-05:00",
+    "title": "Commercial Account Executive",
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",

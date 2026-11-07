@@ -1,3 +1,32 @@
+## 📅 Run: 2026-11-07 15:55 UTC
+
+### Greenhouse
+
+#### 🔄 Lead Product Designer
+**Greenhouse** · circleci · Design
+📍 San Francisco, CA | 🔗 [Apply Here](http://www.circleci.com/careers/jobs/8560754002/?gh_jid=8560754002)
+🕐 Updated: 2026-11-07T10:36:38-05:00 | ID: 8560754002
+
+#### 🔄 Political Economist, Rule of Law
+**Greenhouse** · anthropic · Public Benefit
+📍 San Francisco, CA | New York City, NY; Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5474544008)
+🕐 Updated: 2026-11-07T07:19:35-05:00 | ID: 5474544008
+
+#### 🔄 Recruiting Coordinator
+**Greenhouse** · datadog · People
+📍 Boston, Massachusetts, USA; New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346)
+🕐 Updated: 2026-11-07T06:01:05-05:00 | ID: 8247346
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15714 fetched, 3 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15818 fetched, 3 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-07 09:43 UTC
 
 ### Greenhouse
