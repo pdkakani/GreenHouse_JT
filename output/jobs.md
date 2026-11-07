@@ -1,3 +1,27 @@
+## 📅 Run: 2026-11-07 19:47 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8311584?gh_jid=8311584)
+🕐 Updated: 2026-11-07T14:00:00-05:00 | ID: 8311584
+
+#### 🔄 Manager, Applied AI Architecture, Enterprise Tech
+**Greenhouse** · anthropic · Applied AI
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5444482008)
+🕐 Updated: 2026-11-07T12:22:35-05:00 | ID: 5444482008
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15715 fetched, 2 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15819 fetched, 2 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-07 15:55 UTC
 
 ### Greenhouse

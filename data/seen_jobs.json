@@ -379488,7 +379488,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5444482008": {
-    "updated_at": "2026-10-13T13:11:31-04:00",
+    "updated_at": "2026-11-07T12:22:35-05:00",
     "title": "Manager, Applied AI Architecture, Enterprise Tech",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -404120,7 +404120,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8311584": {
-    "updated_at": "2026-11-03T18:13:21-05:00",
+    "updated_at": "2026-11-07T14:00:00-05:00",
     "title": "Senior Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -427909,6 +427909,22 @@
     "company": "datadog",
     "ats": "greenhouse",
     "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:elastic:8362973": {
+    "updated_at": "2026-11-07T09:24:51-05:00",
+    "title": "Senior Support Engineer",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:databricks:7647294002": {
+    "updated_at": "2026-11-07T03:50:11-05:00",
+    "title": "Senior Software Engineer - Backend Infrastructure",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
     "alerted": false
   }
 }
