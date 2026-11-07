@@ -1,3 +1,27 @@
+## 📅 Run: 2026-11-07 23:17 UTC
+
+### Greenhouse
+
+#### 🆕 Senior Staff Technical Program Manager, New Product Programs
+**Greenhouse** · waymo · Product (78L) · 🎯 40%
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8357613)
+🕐 Updated: 2026-11-07T17:19:07-05:00 | ID: 8357613
+
+#### 🔄 Strategic Sales Account Manager
+**Greenhouse** · fastly · APJ Sales
+📍 Pune, India | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=8184616)
+🕐 Updated: 2026-11-07T15:28:56-05:00 | ID: 8184616
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15715 fetched, 1 updated, 3 cap-skipped, 0 alerts
+- **Lever**: 0 new, 31 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15819 fetched, 1 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-07 19:47 UTC
 
 ### Greenhouse

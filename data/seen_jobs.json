@@ -330792,7 +330792,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8184616": {
-    "updated_at": "2026-10-22T15:18:25-04:00",
+    "updated_at": "2026-11-07T15:28:56-05:00",
     "title": "Strategic Sales Account Manager",
     "company": "fastly",
     "ats": "greenhouse",
@@ -427926,5 +427926,37 @@
     "ats": "greenhouse",
     "source_slug": "databricks",
     "alerted": false
+  },
+  "greenhouse:stripe:8250475": {
+    "updated_at": "2026-11-07T14:50:24-05:00",
+    "title": "Account Executive, SMB Grower (French speaking)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:spacex:8893331002": {
+    "updated_at": "2026-11-07T13:58:05-05:00",
+    "title": "Inventory Specialist",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:elastic:8346174": {
+    "updated_at": "2026-11-07T09:25:20-05:00",
+    "title": "Senior Support Engineer",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:waymo:8357613": {
+    "updated_at": "2026-11-07T17:19:07-05:00",
+    "title": "Senior Staff Technical Program Manager, New Product Programs",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": true
   }
 }
