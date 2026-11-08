@@ -289816,8 +289816,8 @@
     "alerted": false
   },
   "greenhouse:rubrik:8122039": {
-    "updated_at": "2026-11-03T16:29:46-05:00",
-    "title": "AI Product Sales Manager",
+    "updated_at": "2026-11-08T15:05:51-05:00",
+    "title": "Account Executive - Rubrik Agent Cloud",
     "company": "rubrik",
     "ats": "greenhouse",
     "source_slug": "rubrik",
@@ -399232,7 +399232,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8303047": {
-    "updated_at": "2026-10-21T03:55:01-04:00",
+    "updated_at": "2026-11-08T12:35:37-05:00",
     "title": "Product Manager, LATAM (Miami or San Francisco)",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -406656,7 +406656,7 @@
     "alerted": false
   },
   "greenhouse:coinbase:8311341": {
-    "updated_at": "2026-11-05T12:56:00-05:00",
+    "updated_at": "2026-11-08T11:31:58-05:00",
     "title": "Product Manager II, Wallets and DeFi",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -425056,7 +425056,7 @@
     "alerted": true
   },
   "greenhouse:coinbase:8356838": {
-    "updated_at": "2026-11-05T18:23:23-05:00",
+    "updated_at": "2026-11-08T11:32:03-05:00",
     "title": "Payments Infrastructure Product Manager",
     "company": "coinbase",
     "ats": "greenhouse",
@@ -427989,6 +427989,46 @@
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",
+    "alerted": true
+  },
+  "greenhouse:toast:8363046": {
+    "updated_at": "2026-11-08T09:16:41-05:00",
+    "title": "Solutions Lead, International Upmarket",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:spacex:8934430002": {
+    "updated_at": "2026-11-07T22:55:52-05:00",
+    "title": "Talent Sourcer - Temporary",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:datadog:8351509": {
+    "updated_at": "2026-11-07T19:36:15-05:00",
+    "title": "Technical Escalations Engineer 2 (Web Platform)",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5459191008": {
+    "updated_at": "2026-11-08T14:15:37-05:00",
+    "title": "Research Engineer, Cybersecurity RL",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:spacex:8934055002": {
+    "updated_at": "2026-11-08T12:59:41-05:00",
+    "title": "Telecommunications Engineer, Fiber",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }

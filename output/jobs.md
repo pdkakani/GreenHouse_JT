@@ -1,3 +1,47 @@
+## 📅 Run: 2026-11-08 20:27 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive - Rubrik Agent Cloud
+**Greenhouse** · rubrik · Sales
+📍 Southeast, U.S. | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8122039?gh_jid=8122039)
+🕐 Updated: 2026-11-08T15:05:51-05:00 | ID: 8122039
+
+#### 🆕 Research Engineer, Cybersecurity RL
+**Greenhouse** · anthropic · AI Research & Engineering · 🎯 75%
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5459191008)
+🕐 Updated: 2026-11-08T14:15:37-05:00 | ID: 5459191008
+
+#### 🆕 Telecommunications Engineer, Fiber
+**Greenhouse** · spacex · Information Technology - Network Infrastructure · 🎯 35%
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934055002?gh_jid=8934055002)
+🕐 Updated: 2026-11-08T12:59:41-05:00 | ID: 8934055002
+
+#### 🔄 Product Manager, LATAM (Miami or San Francisco)
+**Greenhouse** · airbnb · Product Management
+📍 Miami, San Francisco | 🔗 [Apply Here](https://careers.airbnb.com/positions/8303047?gh_jid=8303047)
+🕐 Updated: 2026-11-08T12:35:37-05:00 | ID: 8303047
+
+#### 🔄 Payments Infrastructure Product Manager
+**Greenhouse** · coinbase · Product
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8356838?gh_jid=8356838)
+🕐 Updated: 2026-11-08T11:32:03-05:00 | ID: 8356838
+
+#### 🔄 Product Manager II, Wallets and DeFi
+**Greenhouse** · coinbase · Product
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341)
+🕐 Updated: 2026-11-08T11:31:58-05:00 | ID: 8311341
+
+## ATS Summary
+- **Greenhouse**: 2 new, 15711 fetched, 4 updated, 3 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 15814 fetched, 4 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-08 16:11 UTC
 
 ### Greenhouse
