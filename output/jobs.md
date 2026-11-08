@@ -1,3 +1,37 @@
+## 📅 Run: 2026-11-08 23:53 UTC
+
+### Greenhouse
+
+#### 🔄 Manager I, Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8068523?gh_jid=8068523)
+🕐 Updated: 2026-11-08T18:15:00-05:00 | ID: 8068523
+
+#### 🆕 Principal Site Reliability Engineer (Vehicle Engineering)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI · 🎯 75%
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934560002?gh_jid=8934560002)
+🕐 Updated: 2026-11-08T17:55:12-05:00 | ID: 8934560002
+
+#### 🔄 Principal Product Manager - Accounting Platform (Product Minded Auditor)
+**Greenhouse** · bitgo · Product
+📍 New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8931375002)
+🕐 Updated: 2026-11-08T17:14:10-05:00 | ID: 8931375002
+
+#### 🔄 Principal Product Manager - Accounting Platform (Product Minded Auditor)
+**Greenhouse** · bitgo · Product
+📍 Palo Alto, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8931374002)
+🕐 Updated: 2026-11-08T17:13:38-05:00 | ID: 8931374002
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15710 fetched, 3 updated, 0 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15813 fetched, 3 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-08 20:27 UTC
 
 ### Greenhouse
