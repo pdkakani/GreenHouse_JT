@@ -1,3 +1,22 @@
+## 📅 Run: 2026-11-08 16:11 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, SMB
+**Greenhouse** · stripe · 1185 Account Executives (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8322584)
+🕐 Updated: 2026-11-08T10:45:09-05:00 | ID: 8322584
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15712 fetched, 1 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15815 fetched, 1 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-08 09:28 UTC
 
 ### Greenhouse
