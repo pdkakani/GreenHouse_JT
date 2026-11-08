@@ -1,3 +1,62 @@
+## 📅 Run: 2026-11-08 09:28 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · robinhood · Customer Care
+📍 New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8286878?t=gh_src=&gh_jid=8286878)
+🕐 Updated: 2026-11-08T03:04:55-05:00 | ID: 8286878
+
+#### 🔄 Customer Experience Manager, Executive Office
+**Greenhouse** · robinhood · Customer Care
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8248165?t=gh_src=&gh_jid=8248165)
+🕐 Updated: 2026-11-08T03:04:53-05:00 | ID: 8248165
+
+#### 🔄 Customer Care, Program Manager
+**Greenhouse** · robinhood · Brokerage Operations - RHF
+📍 Chicago, IL; Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8167971?t=gh_src=&gh_jid=8167971)
+🕐 Updated: 2026-11-08T03:04:47-05:00 | ID: 8167971
+
+#### 🔄 Customer Experience Manager, Robinhood Concierge
+**Greenhouse** · robinhood · Customer Care
+📍 Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8162169?t=gh_src=&gh_jid=8162169)
+🕐 Updated: 2026-11-08T03:04:45-05:00 | ID: 8162169
+
+#### 🔄 Manager, Global BPO Management
+**Greenhouse** · robinhood · Customer Care
+📍 Chicago, IL; Denver, CO; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8074884?t=gh_src=&gh_jid=8074884)
+🕐 Updated: 2026-11-08T03:04:43-05:00 | ID: 8074884
+
+#### 🔄 Engineering Manager - Core Experiences
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002)
+🕐 Updated: 2026-11-08T02:10:34-05:00 | ID: 7006090002
+
+#### 🔄 Engineering Manager (Ingestion)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002)
+🕐 Updated: 2026-11-08T02:10:31-05:00 | ID: 8357216002
+
+#### 🔄 Senior Software Engineer (Infra)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002)
+🕐 Updated: 2026-11-08T00:45:22-05:00 | ID: 7619810002
+
+#### 🔄 Senior Software Engineer (App-Framework)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002)
+🕐 Updated: 2026-11-08T00:45:20-05:00 | ID: 8210383002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15714 fetched, 9 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15817 fetched, 9 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-08 02:36 UTC
 
 ### Greenhouse
