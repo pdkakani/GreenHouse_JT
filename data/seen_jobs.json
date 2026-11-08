@@ -381528,7 +381528,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8259091": {
-    "updated_at": "2026-11-04T08:49:43-05:00",
+    "updated_at": "2026-11-07T20:00:00-05:00",
     "title": "Digital Transformation Consultant (ISM/ESM)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -427954,6 +427954,38 @@
   "greenhouse:waymo:8357613": {
     "updated_at": "2026-11-07T17:19:07-05:00",
     "title": "Senior Staff Technical Program Manager, New Product Programs",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": true
+  },
+  "greenhouse:spacex:8934413002": {
+    "updated_at": "2026-11-07T16:15:06-05:00",
+    "title": "Production Coordinator",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8893290002": {
+    "updated_at": "2026-11-07T16:06:04-05:00",
+    "title": "Internal Fleet Driver",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:waymo:8363213": {
+    "updated_at": "2026-11-07T21:33:00-05:00",
+    "title": "Staff Systems Engineer, Driving Behaviors",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": true
+  },
+  "greenhouse:waymo:8363212": {
+    "updated_at": "2026-11-07T21:30:50-05:00",
+    "title": "Senior Signal and Power Integrity Engineer",
     "company": "waymo",
     "ats": "greenhouse",
     "source_slug": "waymo",

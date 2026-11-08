@@ -1,3 +1,32 @@
+## 📅 Run: 2026-11-08 02:36 UTC
+
+### Greenhouse
+
+#### 🆕 Staff Systems Engineer, Driving Behaviors
+**Greenhouse** · waymo · Systems (78I) · 🎯 75%
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8363213)
+🕐 Updated: 2026-11-07T21:33:00-05:00 | ID: 8363213
+
+#### 🆕 Senior Signal and Power Integrity Engineer
+**Greenhouse** · waymo · Signal (83K) · 🎯 30%
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8363212)
+🕐 Updated: 2026-11-07T21:30:50-05:00 | ID: 8363212
+
+#### 🔄 Digital Transformation Consultant (ISM/ESM)
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8259091?gh_jid=8259091)
+🕐 Updated: 2026-11-07T20:00:00-05:00 | ID: 8259091
+
+## ATS Summary
+- **Greenhouse**: 2 new, 15716 fetched, 1 updated, 2 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 15819 fetched, 1 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-07 23:17 UTC
 
 ### Greenhouse
