@@ -7664,7 +7664,7 @@
     "alerted": true
   },
   "greenhouse:stripe:7524334": {
-    "updated_at": "2026-08-18T17:38:40-04:00",
+    "updated_at": "2026-11-08T20:03:19-05:00",
     "title": "Business Development Manager, Agentic Commerce",
     "company": "stripe",
     "ats": "greenhouse",
@@ -8400,7 +8400,7 @@
     "alerted": true
   },
   "greenhouse:adyen:7540715": {
-    "updated_at": "2026-07-08T16:35:50-04:00",
+    "updated_at": "2026-11-08T22:21:31-05:00",
     "title": "Enterprise Business Development Representative",
     "company": "adyen",
     "ats": "greenhouse",
@@ -158032,7 +158032,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8546780002": {
-    "updated_at": "2026-11-06T19:09:10-05:00",
+    "updated_at": "2026-11-08T22:32:22-05:00",
     "title": "Hardware Reliability Technician, Root Cause (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -355632,7 +355632,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8210323": {
-    "updated_at": "2026-11-05T12:12:56-05:00",
+    "updated_at": "2026-11-08T20:48:25-05:00",
     "title": "Regional Director - Enterprise Sales",
     "company": "datadog",
     "ats": "greenhouse",
@@ -355640,7 +355640,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8210153": {
-    "updated_at": "2026-11-05T12:12:56-05:00",
+    "updated_at": "2026-11-08T20:45:55-05:00",
     "title": "Regional Director - Enterprise Sales",
     "company": "datadog",
     "ats": "greenhouse",
@@ -384352,7 +384352,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8179979": {
-    "updated_at": "2026-11-04T16:39:12-05:00",
+    "updated_at": "2026-11-08T22:46:36-05:00",
     "title": "Indirect Tax Senior Manager",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -419224,7 +419224,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8350853": {
-    "updated_at": "2026-11-03T16:00:50-05:00",
+    "updated_at": "2026-11-08T19:25:20-05:00",
     "title": "Cloud Native Architect, Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -421384,7 +421384,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8352551": {
-    "updated_at": "2026-11-04T09:14:01-05:00",
+    "updated_at": "2026-11-08T19:26:26-05:00",
     "title": "Account Executive, Cloud & Data Services",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -423744,7 +423744,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6235217004": {
-    "updated_at": "2026-11-05T10:48:24-05:00",
+    "updated_at": "2026-11-08T20:48:47-05:00",
     "title": "Benefits Analyst",
     "company": "coursera",
     "ats": "greenhouse",
@@ -428034,6 +428034,214 @@
   "greenhouse:spacex:8934560002": {
     "updated_at": "2026-11-08T17:55:12-05:00",
     "title": "Principal Site Reliability Engineer (Vehicle Engineering)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:huntress:8196002003": {
+    "updated_at": "2026-11-08T22:21:09-05:00",
+    "title": "Channel Account Manager II",
+    "company": "huntress",
+    "ats": "greenhouse",
+    "source_slug": "huntress",
+    "alerted": false
+  },
+  "greenhouse:spacex:8932471002": {
+    "updated_at": "2026-11-08T22:21:06-05:00",
+    "title": "Hardware Reliability Technician (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:twilio:8362926": {
+    "updated_at": "2026-11-08T22:20:16-05:00",
+    "title": "Senior Manager, Strategic Accounts",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:stripe:8354754": {
+    "updated_at": "2026-11-08T22:19:31-05:00",
+    "title": "Solutions Architect (Japan)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:huntress:8196004003": {
+    "updated_at": "2026-11-08T22:16:57-05:00",
+    "title": "Channel Account Manager I",
+    "company": "huntress",
+    "ats": "greenhouse",
+    "source_slug": "huntress",
+    "alerted": false
+  },
+  "greenhouse:spacex:8932765002": {
+    "updated_at": "2026-11-08T21:56:10-05:00",
+    "title": "Lead Electrical Hardware Reliability Engineer (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8932795002": {
+    "updated_at": "2026-11-08T21:52:04-05:00",
+    "title": "Mechanical Engineer, Hardware Reliability (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8931042002": {
+    "updated_at": "2026-11-08T21:50:40-05:00",
+    "title": "Optical Test Engineer, AI Satellites (Starmind)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8931110002": {
+    "updated_at": "2026-11-08T21:48:04-05:00",
+    "title": "Power Electronics Engineer, AI Satellites (Starmind)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8932776002": {
+    "updated_at": "2026-11-08T21:46:37-05:00",
+    "title": "Sr. Electrical Engineer, Hardware Reliability (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8932403002": {
+    "updated_at": "2026-11-08T21:40:23-05:00",
+    "title": "Electrical Engineer, Hardware Reliability (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:waymo:8346963": {
+    "updated_at": "2026-11-08T21:29:51-05:00",
+    "title": "Security Operations Technical Program Manager",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:databricks:7827370002": {
+    "updated_at": "2026-11-08T21:19:58-05:00",
+    "title": "Evergreen Solutions Architect",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8933992002": {
+    "updated_at": "2026-11-08T21:13:52-05:00",
+    "title": "Manager, Supplier Development Engineering",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:applovin:4728117006": {
+    "updated_at": "2026-11-08T21:05:31-05:00",
+    "title": "Account Executive",
+    "company": "applovin",
+    "ats": "greenhouse",
+    "source_slug": "applovin",
+    "alerted": false
+  },
+  "greenhouse:applovin:4728116006": {
+    "updated_at": "2026-11-08T20:56:12-05:00",
+    "title": "Growth and CRM Analyst",
+    "company": "applovin",
+    "ats": "greenhouse",
+    "source_slug": "applovin",
+    "alerted": false
+  },
+  "greenhouse:spacex:8934570002": {
+    "updated_at": "2026-11-08T20:48:11-05:00",
+    "title": "Sr. Full Stack Engineer, Fight Software",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8934569002": {
+    "updated_at": "2026-11-08T20:30:36-05:00",
+    "title": "Sr. Full Stack Software Engineer, Manufacturing Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8934568002": {
+    "updated_at": "2026-11-08T20:29:53-05:00",
+    "title": "Sr. Full Stack Software Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8934567002": {
+    "updated_at": "2026-11-08T20:29:14-05:00",
+    "title": "Full Stack Software Engineer, Manufacturing Systems",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:waymo:8364459": {
+    "updated_at": "2026-11-08T20:22:27-05:00",
+    "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:spacex:8934566002": {
+    "updated_at": "2026-11-08T20:18:42-05:00",
+    "title": "Full Stack Software Engineer, Internal Platforms",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8934563002": {
+    "updated_at": "2026-11-08T20:15:11-05:00",
+    "title": "Full Stack Software Engineer, Internal Platforms",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:datadog:8334640": {
+    "updated_at": "2026-11-08T19:25:02-05:00",
+    "title": "Senior Sales Engineer",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:elastic:8352728": {
+    "updated_at": "2026-11-08T14:40:09-05:00",
+    "title": "Consulting Architect - Search",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:spacex:8930403002": {
+    "updated_at": "2026-11-08T22:39:15-05:00",
+    "title": "Electrical Hardware Engineer, AI Satellites (Starmind)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",

@@ -1,3 +1,67 @@
+## 📅 Run: 2026-11-09 04:00 UTC
+
+### Greenhouse
+
+#### 🔄 Indirect Tax Senior Manager
+**Greenhouse** · robinhood · Tax
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8179979?t=gh_src=&gh_jid=8179979)
+🕐 Updated: 2026-11-08T22:46:36-05:00 | ID: 8179979
+
+#### 🆕 Electrical Hardware Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads · 🎯 35%
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930403002?gh_jid=8930403002)
+🕐 Updated: 2026-11-08T22:39:15-05:00 | ID: 8930403002
+
+#### 🔄 Hardware Reliability Technician, Root Cause (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8546780002?gh_jid=8546780002)
+🕐 Updated: 2026-11-08T22:32:22-05:00 | ID: 8546780002
+
+#### 🔄 Enterprise Business Development Representative
+**Greenhouse** · adyen · Sales
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7540715)
+🕐 Updated: 2026-11-08T22:21:31-05:00 | ID: 7540715
+
+#### 🔄 Benefits Analyst
+**Greenhouse** · coursera · People
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6235217004)
+🕐 Updated: 2026-11-08T20:48:47-05:00 | ID: 6235217004
+
+#### 🔄 Regional Director - Enterprise Sales
+**Greenhouse** · datadog · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8210323/?gh_jid=8210323)
+🕐 Updated: 2026-11-08T20:48:25-05:00 | ID: 8210323
+
+#### 🔄 Regional Director - Enterprise Sales
+**Greenhouse** · datadog · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8210153/?gh_jid=8210153)
+🕐 Updated: 2026-11-08T20:45:55-05:00 | ID: 8210153
+
+#### 🔄 Business Development Manager, Agentic Commerce
+**Greenhouse** · stripe · 1650 AI GTM Strategy & Solutions
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7524334)
+🕐 Updated: 2026-11-08T20:03:19-05:00 | ID: 7524334
+
+#### 🔄 Account Executive, Cloud & Data Services
+**Greenhouse** · purestorage · Sales
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8352551)
+🕐 Updated: 2026-11-08T19:26:26-05:00 | ID: 8352551
+
+#### 🔄 Cloud Native Architect, Portworx
+**Greenhouse** · purestorage · Sales
+📍 Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8350853)
+🕐 Updated: 2026-11-08T19:25:20-05:00 | ID: 8350853
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15721 fetched, 9 updated, 25 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 73 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15824 fetched, 9 updated, 25 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-08 23:53 UTC
 
 ### Greenhouse
