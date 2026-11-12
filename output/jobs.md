@@ -1,3 +1,392 @@
+## 📅 Run: 2026-11-12 02:38 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Manager, Accounts Receivable & Billing
+**Greenhouse** · fivetran · Finance Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7885690003)
+🕐 Updated: 2026-11-11T21:30:47-05:00 | ID: 7885690003
+
+#### 🔄 Senior Marketing Specialist
+**Greenhouse** · starburst · Marketing
+📍 London, UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5470378008)
+🕐 Updated: 2026-11-11T21:27:37-05:00 | ID: 5470378008
+
+#### 🔄 Signal Integrity Hardware Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7528412)
+🕐 Updated: 2026-11-11T21:15:58-05:00 | ID: 7528412
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · snorkelai · 312 - Engineering
+📍 United States (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/6254291004)
+🕐 Updated: 2026-11-11T21:09:25-05:00 | ID: 6254291004
+
+#### 🔄 Senior Program Manager, Data Center Delivery & Site Readiness
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8187634?gh_jid=8187634)
+🕐 Updated: 2026-11-11T20:42:56-05:00 | ID: 8187634
+
+#### 🔄 Sales Strategy and Operations Manager
+**Greenhouse** · verkada · Strategy/Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5038150007)
+🕐 Updated: 2026-11-11T20:41:05-05:00 | ID: 5038150007
+
+#### 🔄 Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183053008)
+🕐 Updated: 2026-11-11T20:39:58-05:00 | ID: 5183053008
+
+#### 🔄 Anthropic Fellows Program, ML Systems & Reinforcement Learning
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183051008)
+🕐 Updated: 2026-11-11T20:39:45-05:00 | ID: 5183051008
+
+#### 🔄 Anthropic Fellows Program, AI Safety & Security
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5183044008)
+🕐 Updated: 2026-11-11T20:39:10-05:00 | ID: 5183044008
+
+#### 🔄 Server Test Engineer
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8360488)
+🕐 Updated: 2026-11-11T20:34:52-05:00 | ID: 8360488
+
+#### 🔄 Channel Sales Manager, Southern Europe
+**Greenhouse** · verkada · Channel
+📍 Italy | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5148663007)
+🕐 Updated: 2026-11-11T20:25:35-05:00 | ID: 5148663007
+
+#### 🔄 Sr. Designated Support Engineer - Spark
+**Greenhouse** · databricks · Support
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002)
+🕐 Updated: 2026-11-11T20:20:50-05:00 | ID: 8907735002
+
+#### 🔄 Sr. Designated Support Engineer - Spark
+**Greenhouse** · databricks · Support
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8661520002)
+🕐 Updated: 2026-11-11T20:20:45-05:00 | ID: 8661520002
+
+#### 🔄 Specialist Solutions Architect, Crypto and Stablecoins
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8352154)
+🕐 Updated: 2026-11-11T20:20:28-05:00 | ID: 8352154
+
+#### 🔄 Sales Development Representative (AAE), Phoenix
+**Greenhouse** · verkada · Sales Development
+📍 Tempe, AZ United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4135267007)
+🕐 Updated: 2026-11-11T20:13:49-05:00 | ID: 4135267007
+
+#### 🔄 Engineering Manager, Marketing Technology
+**Greenhouse** · airbnb · Software Engineering
+📍 United States - Remote | 🔗 [Apply Here](https://careers.airbnb.com/positions/8374941?gh_jid=8374941)
+🕐 Updated: 2026-11-11T20:11:05-05:00 | ID: 8374941
+
+#### 🔄 Utilities Program Manager, AMER
+**Greenhouse** · waymo · GPS Offices/Labs/Mfg (69Z)
+📍 Remote, USA, Washington,  DC, USA, New York, New York, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8348307)
+🕐 Updated: 2026-11-11T19:57:17-05:00 | ID: 8348307
+
+#### 🔄 Senior Data Scientist, Product
+**Greenhouse** · robinhood · Growth and Marketing - Data Science Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8080893?t=gh_src=&gh_jid=8080893)
+🕐 Updated: 2026-11-11T19:49:38-05:00 | ID: 8080893
+
+#### 🔄 Director, Channel Sales EMEA
+**Greenhouse** · verkada · Channel
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5221766007)
+🕐 Updated: 2026-11-11T19:46:42-05:00 | ID: 5221766007
+
+#### 🔄 Revenue Enablement Manager
+**Greenhouse** · databricks · Education & Training
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8931269002)
+🕐 Updated: 2026-11-11T19:35:45-05:00 | ID: 8931269002
+
+#### 🔄 Senior Software Engineer, Storage Layer Services
+**Greenhouse** · mongodb · Durability and Availability
+📍 New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7947560)
+🕐 Updated: 2026-11-11T19:23:54-05:00 | ID: 7947560
+
+#### 🔄 Principal Product Manager, HR Experiences
+**Greenhouse** · gusto · Product Management
+📍 New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8260099)
+🕐 Updated: 2026-11-11T19:16:23-05:00 | ID: 8260099
+
+#### 🔄 Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)
+**Greenhouse** · samsara · Platform
+📍 Remote - Poland | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8210697?gh_jid=8210697)
+🕐 Updated: 2026-11-11T19:14:04-05:00 | ID: 8210697
+
+#### 🔄 Staff Software Engineer, Job Seeker Apps
+**Greenhouse** · ziprecruiter · 710 Tech
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/8360716)
+🕐 Updated: 2026-11-11T19:07:19-05:00 | ID: 8360716
+
+#### 🔄 Sr Designated Support Engineer
+**Greenhouse** · databricks · Engineering
+📍 New York; Plano, Texas; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002)
+🕐 Updated: 2026-11-11T18:59:37-05:00 | ID: 7839474002
+
+#### 🔄 Partner Account Manager - Spokane
+**Greenhouse** · humaninterest · Sales
+📍 Spokane, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8373766)
+🕐 Updated: 2026-11-11T18:46:16-05:00 | ID: 8373766
+
+#### 🔄 Fraud Operations Analyst, Bridge (CDMX)
+**Greenhouse** · stripe · 4899 SDC - Bridge RiskOps
+📍 Mexico City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8168550)
+🕐 Updated: 2026-11-11T18:38:31-05:00 | ID: 8168550
+
+#### 🔄 Installation Coordinator
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8263226?gh_jid=8263226)
+🕐 Updated: 2026-11-11T18:23:19-05:00 | ID: 8263226
+
+#### 🔄 Mid Market Account Executive - Bay Area, CA
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8314855&gh_jid=8314855)
+🕐 Updated: 2026-11-11T18:02:07-05:00 | ID: 8314855
+
+#### 🔄 Mid Market Account Executive, Pursuit
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8048319&gh_jid=8048319)
+🕐 Updated: 2026-11-11T18:02:07-05:00 | ID: 8048319
+
+#### 🔄 Mid Market Account Executive, Southeast (Expand)
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8314795&gh_jid=8314795)
+🕐 Updated: 2026-11-11T18:02:07-05:00 | ID: 8314795
+
+#### 🔄 Mid Market Account Executive - West
+**Greenhouse** · elastic · Sales - AMER MidMarket
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8314830&gh_jid=8314830)
+🕐 Updated: 2026-11-11T18:02:07-05:00 | ID: 8314830
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · samsara · Support
+📍 Remote - Calgary; Remote - Canada; Remote - Edmonton; Remote - Montreal; Remote - Toronto; Remote - Vancouver | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8282635?gh_jid=8282635)
+🕐 Updated: 2026-11-11T18:00:01-05:00 | ID: 8282635
+
+#### 🔄 Specialist Solutions Architect - AI/ML (Healthcare & Life Sciences)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8717331002)
+🕐 Updated: 2026-11-11T17:43:36-05:00 | ID: 8717331002
+
+#### 🔄 Sr. Technical Program Manager
+**Greenhouse** · cloudflare · Security
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8248873?gh_jid=8248873)
+🕐 Updated: 2026-11-11T17:31:49-05:00 | ID: 8248873
+
+#### 🔄 Technical Support Engineer, Triage & Discovery
+**Greenhouse** · alloy · Technical Solutions
+📍 Remote | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8509359002&gh_jid=8509359002)
+🕐 Updated: 2026-11-11T17:31:46-05:00 | ID: 8509359002
+
+#### 🔄 Strategic Partner Development Manager, Banking
+**Greenhouse** · alloy · Sales
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8895682002&gh_jid=8895682002)
+🕐 Updated: 2026-11-11T17:31:15-05:00 | ID: 8895682002
+
+#### 🔄 Principal Product Manager - Hardware POS
+**Greenhouse** · godaddy · Product Management
+📍 United States | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7993752003)
+🕐 Updated: 2026-11-11T17:30:21-05:00 | ID: 7993752003
+
+#### 🔄 Senior Technical Success Manager
+**Greenhouse** · alloy · Technical Solutions
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8828020002&gh_jid=8828020002)
+🕐 Updated: 2026-11-11T17:30:18-05:00 | ID: 8828020002
+
+#### 🔄 Technical Support Engineer I - Mexico
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694)
+🕐 Updated: 2026-11-11T17:30:00-05:00 | ID: 8112694
+
+#### 🔄 Senior Technical Partner Manager
+**Greenhouse** · alloy · Technical Solutions
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8603583002&gh_jid=8603583002)
+🕐 Updated: 2026-11-11T17:29:48-05:00 | ID: 8603583002
+
+#### 🔄 Senior Solutions Engineer
+**Greenhouse** · alloy · Technical Solutions
+📍 Remote, United States | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8733608002&gh_jid=8733608002)
+🕐 Updated: 2026-11-11T17:29:11-05:00 | ID: 8733608002
+
+#### 🔄 Senior Solutions Architect - Transaction Monitoring
+**Greenhouse** · alloy · Technical Solutions
+📍 Remote | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8927882002&gh_jid=8927882002)
+🕐 Updated: 2026-11-11T17:27:32-05:00 | ID: 8927882002
+
+#### 🔄 Senior Solutions Architect - IAM
+**Greenhouse** · alloy · Technical Solutions
+📍 Remote | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8927887002&gh_jid=8927887002)
+🕐 Updated: 2026-11-11T17:27:15-05:00 | ID: 8927887002
+
+#### 🔄 Senior Software Engineer II, Frontend Platform
+**Greenhouse** · alloy · Engineering
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8636096002&gh_jid=8636096002)
+🕐 Updated: 2026-11-11T17:26:40-05:00 | ID: 8636096002
+
+#### 🔄 Senior Software Engineer, Product
+**Greenhouse** · alloy · Engineering
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8687389002&gh_jid=8687389002)
+🕐 Updated: 2026-11-11T17:26:09-05:00 | ID: 8687389002
+
+#### 🔄 Senior Revenue Operations Analyst
+**Greenhouse** · alloy · Operations
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8783122002&gh_jid=8783122002)
+🕐 Updated: 2026-11-11T17:25:32-05:00 | ID: 8783122002
+
+#### 🔄 Senior Product Designer
+**Greenhouse** · alloy · Product
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8903977002&gh_jid=8903977002)
+🕐 Updated: 2026-11-11T17:24:58-05:00 | ID: 8903977002
+
+#### 🔄 Senior Machine Learning Engineer
+**Greenhouse** · alloy · Engineering
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8495229002&gh_jid=8495229002)
+🕐 Updated: 2026-11-11T17:24:29-05:00 | ID: 8495229002
+
+#### 🔄 Senior IT Security Engineer
+**Greenhouse** · alloy · Infrastructure & Security
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8922335002&gh_jid=8922335002)
+🕐 Updated: 2026-11-11T17:23:54-05:00 | ID: 8922335002
+
+#### 🔄 Senior Analytics Engineer
+**Greenhouse** · alloy · Engineering
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8612698002&gh_jid=8612698002)
+🕐 Updated: 2026-11-11T17:23:23-05:00 | ID: 8612698002
+
+#### 🔄 Sales Manager, Fintech
+**Greenhouse** · alloy · Sales
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8932448002&gh_jid=8932448002)
+🕐 Updated: 2026-11-11T17:22:40-05:00 | ID: 8932448002
+
+#### 🔄 Software Engineer, Intern (Summer)
+**Greenhouse** · stripe · 5112 General University
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8130805)
+🕐 Updated: 2026-11-11T17:22:06-05:00 | ID: 8130805
+
+#### 🔄 People Operations Engineer
+**Greenhouse** · alloy · People
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8846379002&gh_jid=8846379002)
+🕐 Updated: 2026-11-11T17:20:34-05:00 | ID: 8846379002
+
+#### 🔄 Partner Development Manager, Banking
+**Greenhouse** · alloy · Sales
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8895502002&gh_jid=8895502002)
+🕐 Updated: 2026-11-11T17:20:08-05:00 | ID: 8895502002
+
+#### 🔄 Solutions Architect - Manufacturing
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Remote - Illinois; Remote - Michigan; Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8661758002)
+🕐 Updated: 2026-11-11T17:19:51-05:00 | ID: 8661758002
+
+#### 🔄 Lead Site Reliability Engineer
+**Greenhouse** · alloy · Engineering
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8494881002&gh_jid=8494881002)
+🕐 Updated: 2026-11-11T17:19:40-05:00 | ID: 8494881002
+
+#### 🔄 Lead Full Stack Engineer, Partner Ecosystem
+**Greenhouse** · alloy · Engineering
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8617057002&gh_jid=8617057002)
+🕐 Updated: 2026-11-11T17:19:08-05:00 | ID: 8617057002
+
+#### 🔄 GTM Systems Administrator
+**Greenhouse** · alloy · Operations
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8783164002&gh_jid=8783164002)
+🕐 Updated: 2026-11-11T17:17:29-05:00 | ID: 8783164002
+
+#### 🔄 Software Engineer, Intern (Summer)
+**Greenhouse** · stripe · 5112 General University
+📍 San Francisco, Seattle, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8128745)
+🕐 Updated: 2026-11-11T17:17:25-05:00 | ID: 8128745
+
+#### 🔄 Account Development Representative Intern - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119)
+🕐 Updated: 2026-11-11T17:17:20-05:00 | ID: 8103119
+
+#### 🔄 Account Development Representative Intern - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373)
+🕐 Updated: 2026-11-11T17:17:20-05:00 | ID: 8325373
+
+#### 🔄 Account Development Representative Intern - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057)
+🕐 Updated: 2026-11-11T17:17:20-05:00 | ID: 8325057
+
+#### 🔄 Founding Forward Deployed Engineer
+**Greenhouse** · alloy · Engineering
+📍 New York City, Remote | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8610085002&gh_jid=8610085002)
+🕐 Updated: 2026-11-11T17:17:02-05:00 | ID: 8610085002
+
+#### 🔄 Global Design & Project Manager
+**Greenhouse** · asana · Workplace
+📍 San Francisco | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8227150?gh_jid=8227150)
+🕐 Updated: 2026-11-11T17:16:54-05:00 | ID: 8227150
+
+#### 🔄 Director of Operations (Product, Engineering & Technical Solutions)
+**Greenhouse** · alloy · Operations
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8904540002&gh_jid=8904540002)
+🕐 Updated: 2026-11-11T17:15:17-05:00 | ID: 8904540002
+
+#### 🔄 Technical Program Manager, Hardware Modules
+**Greenhouse** · waymo · Other SDS Systems (77O)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8360841)
+🕐 Updated: 2026-11-11T17:14:22-05:00 | ID: 8360841
+
+#### 🔄 Deal Desk Analyst
+**Greenhouse** · alloy · Operations
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8912963002&gh_jid=8912963002)
+🕐 Updated: 2026-11-11T17:14:17-05:00 | ID: 8912963002
+
+#### 🔄 Staff Software Technical Program Manager, OEM Software
+**Greenhouse** · waymo · Other SDS Systems (77O)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8360738)
+🕐 Updated: 2026-11-11T17:14:05-05:00 | ID: 8360738
+
+#### 🔄 Channel Operations Manager
+**Greenhouse** · alloy · Sales
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8691237002&gh_jid=8691237002)
+🕐 Updated: 2026-11-11T17:13:44-05:00 | ID: 8691237002
+
+#### 🔄 Account Executive, Banking & Credit Unions
+**Greenhouse** · alloy · Sales
+📍 Remote | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8726449002&gh_jid=8726449002)
+🕐 Updated: 2026-11-11T17:12:31-05:00 | ID: 8726449002
+
+#### 🔄 Customer Success Manager, Enterprise (Canada)
+**Greenhouse** · abnormalsecurity · CSM & Renewals
+📍 Remote - Canada | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7989489003?gh_jid=7989489003)
+🕐 Updated: 2026-11-11T17:10:31-05:00 | ID: 7989489003
+
+#### 🔄 Senior Collections Analyst
+**Greenhouse** · purestorage · Finance
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8162823)
+🕐 Updated: 2026-11-11T17:08:03-05:00 | ID: 8162823
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · alloy · Sales
+📍 Remote | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=7656028002&gh_jid=7656028002)
+🕐 Updated: 2026-11-11T17:04:35-05:00 | ID: 7656028002
+
+#### 🔄 Engineering Manager, Data Platform
+**Greenhouse** · alloy · Engineering
+📍 New York City | 🔗 [Apply Here](https://www.alloy.com/about/jobs/detail?gh_jid=8935003002&gh_jid=8935003002)
+🕐 Updated: 2026-11-11T17:01:31-05:00 | ID: 8935003002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15840 fetched, 75 updated, 30 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 75 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15945 fetched, 75 updated, 30 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-11 21:54 UTC
 
 ### Greenhouse
