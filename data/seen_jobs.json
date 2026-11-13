@@ -1512,7 +1512,7 @@
     "alerted": true
   },
   "greenhouse:cloudflare:7302931": {
-    "updated_at": "2026-11-09T19:03:42-05:00",
+    "updated_at": "2026-11-13T05:43:38-05:00",
     "title": "Software Engineer, Deploy at Scale",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -28904,7 +28904,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7627728003": {
-    "updated_at": "2026-10-22T12:50:11-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Business Development Representative (SaaS Sales)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -28912,7 +28912,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7627752003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Business Development Representative (SaaS Sales)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -28928,7 +28928,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7478077003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner (CVP) - Oil & Gas Industry",
     "company": "celonis",
     "ats": "greenhouse",
@@ -28944,7 +28944,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7539033003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
     "company": "celonis",
     "ats": "greenhouse",
@@ -28952,7 +28952,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7545451003": {
-    "updated_at": "2026-10-29T08:32:53-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner  - Utilities & Energy",
     "company": "celonis",
     "ats": "greenhouse",
@@ -58560,8 +58560,8 @@
     "alerted": false
   },
   "greenhouse:elastic:7821378": {
-    "updated_at": "2026-10-07T09:44:20-04:00",
-    "title": "Enterprise Account Executive (FSI) - Mumbai",
+    "updated_at": "2026-11-13T01:17:01-05:00",
+    "title": "Enterprise Account Executive (BFSI)",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -58680,7 +58680,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635542003": {
-    "updated_at": "2026-10-26T07:28:29-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -59992,7 +59992,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635342003": {
-    "updated_at": "2026-11-05T00:06:47-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer -CPGR / CMT - NAM",
     "company": "celonis",
     "ats": "greenhouse",
@@ -63824,7 +63824,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4086589007": {
-    "updated_at": "2026-09-10T17:49:30-04:00",
+    "updated_at": "2026-11-13T00:16:53-05:00",
     "title": "Account Executive, Sydney",
     "company": "verkada",
     "ats": "greenhouse",
@@ -81136,7 +81136,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7618692003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -81792,7 +81792,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7686200003": {
-    "updated_at": "2026-11-04T11:58:58-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Deployment Engineer - Public Sector",
     "company": "celonis",
     "ats": "greenhouse",
@@ -94760,7 +94760,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7548628003": {
-    "updated_at": "2026-10-20T11:04:24-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -96360,7 +96360,7 @@
     "alerted": false
   },
   "greenhouse:workato:8288630002": {
-    "updated_at": "2026-11-12T09:44:34-05:00",
+    "updated_at": "2026-11-13T01:25:47-05:00",
     "title": "Senior Infrastructure Engineer (AI Lab)",
     "company": "workato",
     "ats": "greenhouse",
@@ -103352,7 +103352,7 @@
     "alerted": false
   },
   "greenhouse:celonis:6672115003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead AI Deployment Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -105216,7 +105216,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7539067003": {
-    "updated_at": "2026-10-26T12:25:42-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner",
     "company": "celonis",
     "ats": "greenhouse",
@@ -123472,7 +123472,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7711288003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -123480,7 +123480,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7618724003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -127472,7 +127472,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7618718003": {
-    "updated_at": "2026-11-12T06:38:11-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - CPG",
     "company": "celonis",
     "ats": "greenhouse",
@@ -132056,7 +132056,7 @@
     "alerted": false
   },
   "greenhouse:dropbox:7758123": {
-    "updated_at": "2026-06-12T10:56:26-04:00",
+    "updated_at": "2026-11-13T03:28:16-05:00",
     "title": "Infrastructure Software Engineer",
     "company": "dropbox",
     "ats": "greenhouse",
@@ -134648,7 +134648,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7714633003": {
-    "updated_at": "2026-10-12T06:40:55-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Enterprise Account Executive Benelux - High Tech/Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -142680,7 +142680,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635314003": {
-    "updated_at": "2026-10-27T06:25:34-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer-EAM - NAM",
     "company": "celonis",
     "ats": "greenhouse",
@@ -142976,7 +142976,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635374003": {
-    "updated_at": "2026-11-04T08:13:09-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Applied Value Engineer-Scale-NAM",
     "company": "celonis",
     "ats": "greenhouse",
@@ -145064,7 +145064,7 @@
     "alerted": false
   },
   "greenhouse:celonis:6318670003": {
-    "updated_at": "2026-11-04T23:58:27-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer | HLS- DACH",
     "company": "celonis",
     "ats": "greenhouse",
@@ -149552,7 +149552,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7650598003": {
-    "updated_at": "2026-11-05T00:16:59-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Applied Value Engineer | Healthcare & Lifesciences",
     "company": "celonis",
     "ats": "greenhouse",
@@ -150152,7 +150152,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7725802003": {
-    "updated_at": "2026-11-04T12:59:05-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -150384,7 +150384,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7725740003": {
-    "updated_at": "2026-10-14T06:58:45-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner - Pharmaceuticals",
     "company": "celonis",
     "ats": "greenhouse",
@@ -152904,7 +152904,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7727306003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -156208,7 +156208,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635358003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Manager, Value Engineering",
     "company": "celonis",
     "ats": "greenhouse",
@@ -162312,7 +162312,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7735295003": {
-    "updated_at": "2026-10-30T08:46:45-04:00",
+    "updated_at": "2026-11-13T04:12:17-05:00",
     "title": "Staff Product Manager, Connectors",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -166296,7 +166296,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7741095003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Director, Professional Services",
     "company": "celonis",
     "ats": "greenhouse",
@@ -171000,7 +171000,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7940253": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T02:43:13-05:00",
     "title": "Principal Product Manager, Commercial Systems",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -175176,7 +175176,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7959705": {
-    "updated_at": "2026-11-05T12:12:56-05:00",
+    "updated_at": "2026-11-13T07:27:09-05:00",
     "title": "Manager I, Engineering - Husky",
     "company": "datadog",
     "ats": "greenhouse",
@@ -176584,7 +176584,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7732281003": {
-    "updated_at": "2026-11-09T02:47:06-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -187976,7 +187976,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7742440003": {
-    "updated_at": "2026-11-11T09:20:07-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Public Sector - Security Cleared",
     "company": "celonis",
     "ats": "greenhouse",
@@ -188000,7 +188000,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7742453003": {
-    "updated_at": "2026-11-04T03:45:17-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "AI & Value Transformation Consultant (Supply Chain & Manufacturing)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -188024,7 +188024,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7742470003": {
-    "updated_at": "2026-11-10T06:23:36-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -189624,7 +189624,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7742457003": {
-    "updated_at": "2026-10-29T11:59:56-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "AI and Value Transformation Consultant - Defence & Government - SC cleared",
     "company": "celonis",
     "ats": "greenhouse",
@@ -189640,7 +189640,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7742474003": {
-    "updated_at": "2026-11-10T06:23:36-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "AI and Value Transformation Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -191752,7 +191752,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7765909003": {
-    "updated_at": "2026-10-20T11:03:38-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Banking",
     "company": "celonis",
     "ats": "greenhouse",
@@ -197000,7 +197000,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7754695003": {
-    "updated_at": "2026-11-12T03:28:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Manager of Global Cyber Defense",
     "company": "celonis",
     "ats": "greenhouse",
@@ -201288,7 +201288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7822470": {
-    "updated_at": "2026-11-11T15:17:09-05:00",
+    "updated_at": "2026-11-13T06:16:45-05:00",
     "title": "Senior Training Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -206728,7 +206728,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7627681003": {
-    "updated_at": "2026-11-06T06:48:56-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Deployment Engineer - Galaxy Graduate Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -207368,7 +207368,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7627711003": {
-    "updated_at": "2026-10-28T08:06:23-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Deployment Engineer - Galaxy Graduate Program (German/French/Italian speaking)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -207376,7 +207376,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7627719003": {
-    "updated_at": "2026-10-28T08:06:12-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Deployment Engineer - Galaxy Graduate Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -216624,7 +216624,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7778135003": {
-    "updated_at": "2026-10-06T14:49:04-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Account Executive - Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -222648,7 +222648,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7784391003": {
-    "updated_at": "2026-11-05T05:18:32-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate (AI) Solution Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -223664,7 +223664,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8027649": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T02:38:17-05:00",
     "title": "Data Steward, Master Data Management, Supply Chain",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -224488,7 +224488,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7777102003": {
-    "updated_at": "2026-10-22T09:45:53-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Principal Product Manager - Networks",
     "company": "celonis",
     "ats": "greenhouse",
@@ -224576,7 +224576,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7788552003": {
-    "updated_at": "2026-11-12T03:28:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Solutions Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -224832,7 +224832,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7784638003": {
-    "updated_at": "2026-11-12T03:28:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Solutions Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -224856,7 +224856,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7773228003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "GSI Partner Lead EMEA",
     "company": "celonis",
     "ats": "greenhouse",
@@ -226080,7 +226080,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7765659003": {
-    "updated_at": "2026-10-20T10:43:11-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Applied AI Engineer - Technology Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -227264,7 +227264,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7767090003": {
-    "updated_at": "2026-10-07T04:30:14-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Intern AI & Management Consulting (Value Engineering)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -230912,7 +230912,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635190003": {
-    "updated_at": "2026-11-06T00:54:37-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer- CPGR/CMT-NAM",
     "company": "celonis",
     "ats": "greenhouse",
@@ -233192,7 +233192,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8047506": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T02:39:04-05:00",
     "title": "Senior Product Manager \u2013 AI & Workflow Automation, Pure1",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -235472,7 +235472,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7798683003": {
-    "updated_at": "2026-10-29T12:36:57-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - (Banking)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -240552,7 +240552,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7800529003": {
-    "updated_at": "2026-11-03T09:45:46-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -243600,7 +243600,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7778127003": {
-    "updated_at": "2026-10-06T14:48:26-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Account Executive - Energy",
     "company": "celonis",
     "ats": "greenhouse",
@@ -245600,8 +245600,8 @@
     "alerted": false
   },
   "greenhouse:adyen:8041307": {
-    "updated_at": "2026-10-15T06:12:27-04:00",
-    "title": "Senior Backend Engineer (Java)",
+    "updated_at": "2026-11-13T01:12:27-05:00",
+    "title": "Backend Engineer (Java)",
     "company": "adyen",
     "ats": "greenhouse",
     "source_slug": "adyen",
@@ -245832,7 +245832,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7790947003": {
-    "updated_at": "2026-10-22T16:34:02-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead - Data Partnerships Business Development",
     "company": "celonis",
     "ats": "greenhouse",
@@ -246768,7 +246768,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7799840003": {
-    "updated_at": "2026-10-06T14:49:28-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Account Executive - Federal",
     "company": "celonis",
     "ats": "greenhouse",
@@ -248248,7 +248248,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7683444003": {
-    "updated_at": "2026-11-05T12:55:18-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior/ Lead Data & AI Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -248256,7 +248256,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7683435003": {
-    "updated_at": "2026-11-11T10:53:41-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -248832,7 +248832,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7802410003": {
-    "updated_at": "2026-10-13T01:42:32-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Cloud Economics Specialist",
     "company": "celonis",
     "ats": "greenhouse",
@@ -250288,7 +250288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8052685": {
-    "updated_at": "2026-11-06T13:02:26-05:00",
+    "updated_at": "2026-11-13T06:45:00-05:00",
     "title": "Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -252416,7 +252416,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7800552003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -252968,7 +252968,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7800008003": {
-    "updated_at": "2026-10-07T15:46:29-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer \u2013 Automotive Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -255880,7 +255880,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8054368": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T02:43:59-05:00",
     "title": "IT Functional Analyst, Finance Systems (SAP Accounts Receivable)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -258064,7 +258064,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7812863003": {
-    "updated_at": "2026-10-06T14:51:39-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Director - Financial Services",
     "company": "celonis",
     "ats": "greenhouse",
@@ -258888,7 +258888,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8080828": {
-    "updated_at": "2026-11-10T18:20:51-05:00",
+    "updated_at": "2026-11-13T03:47:04-05:00",
     "title": "Senior Partner Sales Manager - Southeast Asia and India",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -261768,7 +261768,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8078793": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T02:42:04-05:00",
     "title": "Senior Commercial Strategy & Transformation Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -262968,7 +262968,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7800476003": {
-    "updated_at": "2026-10-19T05:16:12-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -263512,7 +263512,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7813096003": {
-    "updated_at": "2026-11-12T12:08:09-05:00",
+    "updated_at": "2026-11-13T05:33:39-05:00",
     "title": "Working Student Legal Operations and Technology",
     "company": "celonis",
     "ats": "greenhouse",
@@ -263672,7 +263672,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8080780": {
-    "updated_at": "2026-11-09T19:03:42-05:00",
+    "updated_at": "2026-11-13T04:51:33-05:00",
     "title": "Senior Software Engineer, Cloudflare Queues",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -266536,7 +266536,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7819753003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -266552,7 +266552,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7819752003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -267608,7 +267608,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7775183003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer |  DACH | Logistics",
     "company": "celonis",
     "ats": "greenhouse",
@@ -269080,7 +269080,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817311003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Public Sector",
     "company": "celonis",
     "ats": "greenhouse",
@@ -270296,7 +270296,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817254003": {
-    "updated_at": "2026-10-06T13:22:19-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer \u2013 Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -272592,7 +272592,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817387003": {
-    "updated_at": "2026-11-12T02:35:32-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Growth & Scale Accounts",
     "company": "celonis",
     "ats": "greenhouse",
@@ -274200,7 +274200,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8102794": {
-    "updated_at": "2026-11-05T12:12:56-05:00",
+    "updated_at": "2026-11-13T07:27:09-05:00",
     "title": "Manager I, Engineering - Sensitive Data Scanner",
     "company": "datadog",
     "ats": "greenhouse",
@@ -276208,7 +276208,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7825970003": {
-    "updated_at": "2026-11-12T02:36:01-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -276216,7 +276216,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7825969003": {
-    "updated_at": "2026-11-12T02:35:59-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -276360,7 +276360,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7826212003": {
-    "updated_at": "2026-11-12T02:35:27-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts",
     "company": "celonis",
     "ats": "greenhouse",
@@ -277136,7 +277136,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817305003": {
-    "updated_at": "2026-10-05T02:59:35-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Public Sector",
     "company": "celonis",
     "ats": "greenhouse",
@@ -279456,7 +279456,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817377003": {
-    "updated_at": "2026-11-03T09:43:49-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -280944,7 +280944,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7830985003": {
-    "updated_at": "2026-10-19T05:16:12-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -284824,7 +284824,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7825731003": {
-    "updated_at": "2026-11-11T03:07:06-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - Brazil Market",
     "company": "celonis",
     "ats": "greenhouse",
@@ -285536,7 +285536,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7823937003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Public Sector",
     "company": "celonis",
     "ats": "greenhouse",
@@ -287352,7 +287352,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8688836002": {
-    "updated_at": "2026-09-02T04:29:24-04:00",
+    "updated_at": "2026-11-13T05:54:38-05:00",
     "title": "Alliance Director",
     "company": "databricks",
     "ats": "greenhouse",
@@ -291912,7 +291912,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:8119225": {
-    "updated_at": "2026-09-09T07:40:15-04:00",
+    "updated_at": "2026-11-13T01:05:51-05:00",
     "title": "Commercial Program Manager",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -291928,7 +291928,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7802389003": {
-    "updated_at": "2026-10-20T08:51:50-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Finance Business Partner (Marketing & Eco-Systems)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -293376,7 +293376,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635174003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Applied Value Engineer - CPGR /CMT -NAM",
     "company": "celonis",
     "ats": "greenhouse",
@@ -293520,7 +293520,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7853245003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Training Specialist",
     "company": "celonis",
     "ats": "greenhouse",
@@ -294152,7 +294152,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7825688003": {
-    "updated_at": "2026-11-12T02:39:26-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied AI Solution Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -296096,7 +296096,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7886119003": {
-    "updated_at": "2026-11-03T09:45:23-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner",
     "company": "celonis",
     "ats": "greenhouse",
@@ -297848,7 +297848,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885808003": {
-    "updated_at": "2026-11-11T07:06:06-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Full stack AI Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -298048,7 +298048,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817395003": {
-    "updated_at": "2026-11-06T03:17:44-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner - Public Sector - Security Cleared",
     "company": "celonis",
     "ats": "greenhouse",
@@ -300336,7 +300336,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885753003": {
-    "updated_at": "2026-11-11T09:39:58-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
     "company": "celonis",
     "ats": "greenhouse",
@@ -305168,7 +305168,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:8131892": {
-    "updated_at": "2026-11-12T00:58:06-05:00",
+    "updated_at": "2026-11-13T03:03:06-05:00",
     "title": "Sales Specialist, B2B Payments & Cards",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -305256,7 +305256,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7926567003": {
-    "updated_at": "2026-11-11T10:53:44-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -305672,7 +305672,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7853433003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Product Marketing Manager - CIO & Technology Partnerships",
     "company": "celonis",
     "ats": "greenhouse",
@@ -305736,7 +305736,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7928952003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Architect - AI",
     "company": "celonis",
     "ats": "greenhouse",
@@ -307208,7 +307208,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8146053": {
-    "updated_at": "2026-11-06T11:24:52-05:00",
+    "updated_at": "2026-11-13T06:03:56-05:00",
     "title": "Global Partnerships Lead \u2014 Greater China, Hong Kong & Singapore",
     "company": "stripe",
     "ats": "greenhouse",
@@ -307712,7 +307712,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7962340003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Intern Technology & Management Consulting (Value Engineering)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -308720,7 +308720,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7853304003": {
-    "updated_at": "2026-11-03T09:53:59-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Account-Based Marketing (ABM) Manager",
     "company": "celonis",
     "ats": "greenhouse",
@@ -309904,7 +309904,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7972958003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Enterprise AI Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -309920,7 +309920,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7974122003": {
-    "updated_at": "2026-10-20T11:04:24-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -309928,7 +309928,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7539051003": {
-    "updated_at": "2026-10-20T11:04:24-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -310160,7 +310160,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7974130003": {
-    "updated_at": "2026-10-20T11:04:24-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -313480,7 +313480,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8138463": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T02:42:37-05:00",
     "title": "Director, Strategy & Corporate Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -313488,7 +313488,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8076161": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T02:41:29-05:00",
     "title": "Senior Manager, Strategy & Corporate Development",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -315072,7 +315072,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7979056003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Applied (AI) Value Engineer (UK) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -315080,7 +315080,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885824003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate (AI) Solution Consultant (UK) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -315160,7 +315160,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7958952003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -318424,7 +318424,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7981557003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate (AI) Solution Consultant (Nordics) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -318432,7 +318432,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885913003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -318488,7 +318488,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7886054003": {
-    "updated_at": "2026-11-12T05:44:52-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Staff Product Analytics Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -320656,7 +320656,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8165014": {
-    "updated_at": "2026-10-22T13:40:32-04:00",
+    "updated_at": "2026-11-13T00:14:32-05:00",
     "title": "2027 Summer Intern, MBA, Operations Planning",
     "company": "waymo",
     "ats": "greenhouse",
@@ -323136,7 +323136,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7977884003": {
-    "updated_at": "2026-11-11T11:38:34-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Field Marketing Intern",
     "company": "celonis",
     "ats": "greenhouse",
@@ -323168,7 +323168,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7984249003": {
-    "updated_at": "2026-11-12T17:08:44-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Application Product Manager - Supply Chain - Procurement",
     "company": "celonis",
     "ats": "greenhouse",
@@ -323176,7 +323176,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885800003": {
-    "updated_at": "2026-11-12T17:08:44-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Application Product Manager - Supply Chain - Procurement",
     "company": "celonis",
     "ats": "greenhouse",
@@ -323224,7 +323224,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7828623003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "IT Service Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -325096,7 +325096,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8138540": {
-    "updated_at": "2026-11-04T00:28:49-05:00",
+    "updated_at": "2026-11-13T00:32:10-05:00",
     "title": "Technical Design Architect",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -325504,7 +325504,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817391003": {
-    "updated_at": "2026-11-05T03:59:48-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner (Supply Chain  & Manufacturing)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -325616,7 +325616,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7822051003": {
-    "updated_at": "2026-10-22T16:33:36-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead - Cloud & AI Partnerships Business Development",
     "company": "celonis",
     "ats": "greenhouse",
@@ -326512,7 +326512,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8177646": {
-    "updated_at": "2026-11-11T15:17:09-05:00",
+    "updated_at": "2026-11-13T06:16:45-05:00",
     "title": "Senior Scaled Customer Education Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -326520,7 +326520,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8177633": {
-    "updated_at": "2026-11-11T15:17:09-05:00",
+    "updated_at": "2026-11-13T06:16:45-05:00",
     "title": "Senior Product Training Specialist",
     "company": "samsara",
     "ats": "greenhouse",
@@ -327528,7 +327528,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7986246003": {
-    "updated_at": "2026-10-28T05:29:39-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Sales Director Italy",
     "company": "celonis",
     "ats": "greenhouse",
@@ -330792,7 +330792,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8184616": {
-    "updated_at": "2026-11-07T15:28:56-05:00",
+    "updated_at": "2026-11-13T04:07:24-05:00",
     "title": "Strategic Sales Account Manager",
     "company": "fastly",
     "ats": "greenhouse",
@@ -332864,7 +332864,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7989093003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Software Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -332896,7 +332896,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7786762003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Applied (AI) Value Engineer (Japan) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -333288,7 +333288,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7988718003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Sales Director Nordics",
     "company": "celonis",
     "ats": "greenhouse",
@@ -333640,7 +333640,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8178593": {
-    "updated_at": "2026-11-09T19:03:42-05:00",
+    "updated_at": "2026-11-13T05:41:52-05:00",
     "title": "Senior Software Engineer, Deploy at Scale",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -334576,7 +334576,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8171546": {
-    "updated_at": "2026-11-06T07:21:59-05:00",
+    "updated_at": "2026-11-13T07:05:31-05:00",
     "title": "Senior Client Account Manager, App Dev Enterprise",
     "company": "reddit",
     "ats": "greenhouse",
@@ -334888,7 +334888,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7775171003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner - (Insurance / Service Industries)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -335464,7 +335464,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7815061003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -336048,7 +336048,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8169431": {
-    "updated_at": "2026-10-30T11:45:15-04:00",
+    "updated_at": "2026-11-13T02:30:00-05:00",
     "title": "Technical Account Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -338120,7 +338120,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817246003": {
-    "updated_at": "2026-10-20T10:41:40-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - Insurance",
     "company": "celonis",
     "ats": "greenhouse",
@@ -340016,7 +340016,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7993837003": {
-    "updated_at": "2026-11-12T02:39:24-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior AI Transformation & Innovation Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -340024,7 +340024,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7993836003": {
-    "updated_at": "2026-11-12T02:39:29-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Strategic Presales and Solutions Consultant (AI)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -341888,7 +341888,7 @@
     "alerted": false
   },
   "greenhouse:toast:8184675": {
-    "updated_at": "2026-10-30T07:33:43-04:00",
+    "updated_at": "2026-11-13T06:11:48-05:00",
     "title": "Senior Software Engineer, Care Automation",
     "company": "toast",
     "ats": "greenhouse",
@@ -343064,7 +343064,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7995461003": {
-    "updated_at": "2026-11-03T09:44:35-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -344208,7 +344208,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7996959003": {
-    "updated_at": "2026-11-12T02:39:27-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -348944,7 +348944,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7997660003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Head of GTM Strategy and Planning",
     "company": "celonis",
     "ats": "greenhouse",
@@ -349184,7 +349184,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7997659003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Head of GTM Strategy and Planning",
     "company": "celonis",
     "ats": "greenhouse",
@@ -350000,7 +350000,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7997661003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Head of GTM Strategy and Planning",
     "company": "celonis",
     "ats": "greenhouse",
@@ -353656,7 +353656,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7980155003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Software Engineer - Query Engine & Database Systems",
     "company": "celonis",
     "ats": "greenhouse",
@@ -354024,7 +354024,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8002500003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Strategic Account Executive - Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -354032,7 +354032,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7988891003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Strategic Account Executive - Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -354096,7 +354096,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8002490003": {
-    "updated_at": "2026-10-27T07:42:35-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "AI Product Engineer (Demo)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -354104,7 +354104,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7989839003": {
-    "updated_at": "2026-10-27T07:42:35-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "AI Product Manager (Demo)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -354192,7 +354192,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8000343003": {
-    "updated_at": "2026-10-01T06:17:58-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Software Engineer - Engine Orchestration",
     "company": "celonis",
     "ats": "greenhouse",
@@ -354432,7 +354432,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7995509003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -358304,7 +358304,7 @@
     "alerted": false
   },
   "greenhouse:celonis:6647315003": {
-    "updated_at": "2026-10-29T01:41:46-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Customer Support Engineer - Level 2",
     "company": "celonis",
     "ats": "greenhouse",
@@ -359944,7 +359944,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8230294": {
-    "updated_at": "2026-10-29T10:42:09-04:00",
+    "updated_at": "2026-11-13T01:37:39-05:00",
     "title": "Legal Operations Team Lead",
     "company": "stripe",
     "ats": "greenhouse",
@@ -360144,7 +360144,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7742439003": {
-    "updated_at": "2026-11-11T09:20:07-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Public Sector",
     "company": "celonis",
     "ats": "greenhouse",
@@ -360360,7 +360360,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8212868": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T03:23:29-05:00",
     "title": "Senior MDM Product Data Analyst (Bangalore, in-person)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -361608,7 +361608,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7817279003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Field CTO",
     "company": "celonis",
     "ats": "greenhouse",
@@ -362048,7 +362048,7 @@
     "alerted": true
   },
   "greenhouse:celonis:7997059003": {
-    "updated_at": "2026-09-30T08:39:15-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "(Senior) Backend Software Engineer (Java) - Metadata Platform DB",
     "company": "celonis",
     "ats": "greenhouse",
@@ -364136,7 +364136,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7800468003": {
-    "updated_at": "2026-10-14T03:50:13-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect - AI & SAP Integrations",
     "company": "celonis",
     "ats": "greenhouse",
@@ -364320,7 +364320,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7627708003": {
-    "updated_at": "2026-11-06T06:48:58-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Deployment Engineer - Galaxy Graduate Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -364584,7 +364584,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8007052003": {
-    "updated_at": "2026-11-12T03:28:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Head of IT Platform & Infrastructure",
     "company": "celonis",
     "ats": "greenhouse",
@@ -367480,7 +367480,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8007977003": {
-    "updated_at": "2026-11-10T15:34:25-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior/ Lead AI Deployment Engineer - Supply Chain",
     "company": "celonis",
     "ats": "greenhouse",
@@ -367488,7 +367488,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8007989003": {
-    "updated_at": "2026-11-03T13:47:06-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Data & AI Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -367736,7 +367736,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8002804003": {
-    "updated_at": "2026-10-06T14:50:28-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Director - Strategic Life Sciences Account",
     "company": "celonis",
     "ats": "greenhouse",
@@ -368944,8 +368944,8 @@
     "alerted": false
   },
   "greenhouse:stripe:8232358": {
-    "updated_at": "2026-10-29T10:42:09-04:00",
-    "title": "Software Engineer, Stripe Tax",
+    "updated_at": "2026-11-13T05:43:43-05:00",
+    "title": "Full-Stack Engineer, Stripe Tax",
     "company": "stripe",
     "ats": "greenhouse",
     "source_slug": "stripe",
@@ -370200,7 +370200,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885816003": {
-    "updated_at": "2026-10-01T17:55:40-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -370496,7 +370496,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885881003": {
-    "updated_at": "2026-10-01T15:13:25-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -370848,7 +370848,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7995501003": {
-    "updated_at": "2026-10-05T02:59:20-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -375680,7 +375680,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7884206003": {
-    "updated_at": "2026-11-12T03:28:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Sr. Frontend Engineer - Process Modeling Team",
     "company": "celonis",
     "ats": "greenhouse",
@@ -375752,7 +375752,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7885993003": {
-    "updated_at": "2026-10-23T11:57:25-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Applied (AI) Value Engineer (Scale EMEA/French-Speaking) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -375760,7 +375760,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8014300003": {
-    "updated_at": "2026-10-23T11:56:42-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate (AI) Solution Consultant (Scale EMEA/French-Speaking) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -375840,7 +375840,7 @@
     "alerted": false
   },
   "greenhouse:coursera:6212857004": {
-    "updated_at": "2026-10-16T10:46:19-04:00",
+    "updated_at": "2026-11-13T00:16:51-05:00",
     "title": "LLMops Engineer",
     "company": "coursera",
     "ats": "greenhouse",
@@ -375856,7 +375856,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8014940003": {
-    "updated_at": "2026-11-09T07:36:23-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Director, Business Transformation and Value Consulting (DACH) - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -375912,7 +375912,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8003211003": {
-    "updated_at": "2026-11-09T07:37:11-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Director, Value Engineering (DACH) - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -377688,7 +377688,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8153017": {
-    "updated_at": "2026-11-06T07:20:34-05:00",
+    "updated_at": "2026-11-13T07:05:31-05:00",
     "title": "Account Executive, Mid-Market (DACH)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -378544,7 +378544,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8015588003": {
-    "updated_at": "2026-11-09T07:37:00-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Director, Management & Technology (DACH) - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -378872,7 +378872,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8000413003": {
-    "updated_at": "2026-10-07T07:46:04-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Chief Of Staff",
     "company": "celonis",
     "ats": "greenhouse",
@@ -380280,7 +380280,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016353003": {
-    "updated_at": "2026-10-27T04:21:27-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Solutions Engineer - Process Intelligence & Pre-Sales",
     "company": "celonis",
     "ats": "greenhouse",
@@ -380632,7 +380632,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016417003": {
-    "updated_at": "2026-11-12T02:40:16-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -380640,7 +380640,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016657003": {
-    "updated_at": "2026-11-12T02:40:18-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Management & Technology Consultant - CPG/Retail - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -380648,7 +380648,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016658003": {
-    "updated_at": "2026-11-12T02:40:21-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -380656,7 +380656,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016659003": {
-    "updated_at": "2026-11-12T02:40:23-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -383496,7 +383496,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016849003": {
-    "updated_at": "2026-10-30T17:02:01-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Finance Business Partner",
     "company": "celonis",
     "ats": "greenhouse",
@@ -383504,7 +383504,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8015447003": {
-    "updated_at": "2026-10-30T17:02:00-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Finance Business Partner",
     "company": "celonis",
     "ats": "greenhouse",
@@ -384760,7 +384760,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8026747003": {
-    "updated_at": "2026-11-12T02:35:30-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Process Optimisation Consultant - Growth & Scale Accounts",
     "company": "celonis",
     "ats": "greenhouse",
@@ -384768,7 +384768,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8026730003": {
-    "updated_at": "2026-11-12T02:35:29-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Management & Technology Consultant - Growth & Scale Accounts",
     "company": "celonis",
     "ats": "greenhouse",
@@ -385296,7 +385296,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8186689": {
-    "updated_at": "2026-10-30T11:06:13-04:00",
+    "updated_at": "2026-11-13T03:04:30-05:00",
     "title": "Customer Experience Manager, Trump Accounts",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -386040,7 +386040,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8030594003": {
-    "updated_at": "2026-10-27T04:21:27-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - AI & Process Optimization",
     "company": "celonis",
     "ats": "greenhouse",
@@ -386120,7 +386120,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016429003": {
-    "updated_at": "2026-11-12T02:39:07-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Supply Chain",
     "company": "celonis",
     "ats": "greenhouse",
@@ -386136,7 +386136,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8276095": {
-    "updated_at": "2026-11-06T07:20:34-05:00",
+    "updated_at": "2026-11-13T07:05:31-05:00",
     "title": "Senior Account Executive, Mid-Market (DACH)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -386288,7 +386288,7 @@
     "alerted": false
   },
   "greenhouse:toast:8259363": {
-    "updated_at": "2026-10-21T06:22:43-04:00",
+    "updated_at": "2026-11-13T06:12:24-05:00",
     "title": "Product Designer",
     "company": "toast",
     "ats": "greenhouse",
@@ -386336,7 +386336,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8004218003": {
-    "updated_at": "2026-10-21T05:06:33-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "(Strategic) Account Executive - Retail / CPG",
     "company": "celonis",
     "ats": "greenhouse",
@@ -386440,7 +386440,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016497003": {
-    "updated_at": "2026-10-23T08:42:18-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Insurance",
     "company": "celonis",
     "ats": "greenhouse",
@@ -387864,8 +387864,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:8273582": {
-    "updated_at": "2026-11-01T03:27:11-05:00",
-    "title": "Payroll Analyst - Europe",
+    "updated_at": "2026-11-13T02:34:03-05:00",
+    "title": "Payroll Analyst",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -388256,7 +388256,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8032606003": {
-    "updated_at": "2026-10-14T04:20:43-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Project Manager",
     "company": "celonis",
     "ats": "greenhouse",
@@ -390072,7 +390072,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8032218003": {
-    "updated_at": "2026-10-30T09:06:42-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Enterprise Account Executive CPG / Retail / Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -390176,7 +390176,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8240000": {
-    "updated_at": "2026-10-15T06:35:01-04:00",
+    "updated_at": "2026-11-13T06:39:06-05:00",
     "title": "Senior Developer Advocate",
     "company": "elastic",
     "ats": "greenhouse",
@@ -390616,7 +390616,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8281363": {
-    "updated_at": "2026-10-20T15:23:30-04:00",
+    "updated_at": "2026-11-13T00:34:17-05:00",
     "title": "Staff Product Designer",
     "company": "gusto",
     "ats": "greenhouse",
@@ -394288,8 +394288,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8299396": {
-    "updated_at": "2026-11-10T17:52:22-05:00",
-    "title": "Head of Homes Supply, Thailand & Vietnam",
+    "updated_at": "2026-11-13T00:08:57-05:00",
+    "title": "Manager, Homes Supply, Thailand & Vietnam",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -394912,7 +394912,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8293700": {
-    "updated_at": "2026-11-06T07:22:06-05:00",
+    "updated_at": "2026-11-13T07:05:32-05:00",
     "title": "Senior Client Partner, Mid-Market Sales (Goods)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -395312,7 +395312,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8014366003": {
-    "updated_at": "2026-10-21T14:56:16-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Intern Applied AI Solution Consulting (Italy)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -395488,7 +395488,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7995431003": {
-    "updated_at": "2026-11-04T03:47:26-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - Banking",
     "company": "celonis",
     "ats": "greenhouse",
@@ -396144,7 +396144,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016485003": {
-    "updated_at": "2026-11-04T03:41:32-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -396576,7 +396576,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8038816003": {
-    "updated_at": "2026-10-20T08:15:14-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Strategic Account Executive - Transportation & Logistics",
     "company": "celonis",
     "ats": "greenhouse",
@@ -396592,7 +396592,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8009490003": {
-    "updated_at": "2026-10-20T08:09:46-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Strategic Account Executive - Transportation & Logistics",
     "company": "celonis",
     "ats": "greenhouse",
@@ -397240,7 +397240,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016341003": {
-    "updated_at": "2026-11-04T03:46:56-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - Asset & Wealth Management",
     "company": "celonis",
     "ats": "greenhouse",
@@ -397336,7 +397336,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8008440003": {
-    "updated_at": "2026-10-21T23:04:48-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - Asset & Wealth Management",
     "company": "celonis",
     "ats": "greenhouse",
@@ -397592,7 +397592,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7802378003": {
-    "updated_at": "2026-11-04T03:44:38-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Finance Business Partner (Services & Value Engineering)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -398024,7 +398024,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8303790": {
-    "updated_at": "2026-11-06T07:22:02-05:00",
+    "updated_at": "2026-11-13T07:05:31-05:00",
     "title": "Client Account Manager, Mid-Market Sales (Goods)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -399024,7 +399024,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8015242003": {
-    "updated_at": "2026-10-22T05:47:01-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Account Executive - Public Sector Germany - Police (Polizei)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -399032,7 +399032,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8039943003": {
-    "updated_at": "2026-10-22T05:27:59-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Account Executive - Public Sector Germany - Defense (Bundeswehr)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -399472,7 +399472,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8040049003": {
-    "updated_at": "2026-10-22T05:47:27-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Account Executive - Public Sector Germany - Police (Polizei)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -399784,7 +399784,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7925721003": {
-    "updated_at": "2026-10-21T10:25:03-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "AI & Management Consulting Intern (Value Engineering - DACH Market)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -399800,7 +399800,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8040046003": {
-    "updated_at": "2026-10-22T05:38:05-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Account Executive - Public Sector Germany - Defense (Bundeswehr)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -401184,7 +401184,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037367003": {
-    "updated_at": "2026-10-26T04:46:03-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -401704,7 +401704,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016645003": {
-    "updated_at": "2026-11-10T13:28:48-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Applied AI Value Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -401816,7 +401816,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8041920003": {
-    "updated_at": "2026-10-27T05:55:52-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Solutions Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -401824,7 +401824,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037540003": {
-    "updated_at": "2026-10-27T05:55:52-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Solutions Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -402376,7 +402376,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8312713": {
-    "updated_at": "2026-11-10T17:52:22-05:00",
+    "updated_at": "2026-11-13T06:52:39-05:00",
     "title": "Systems Engineer, Tech Foundations (Jira cloud)",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -402896,7 +402896,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016588003": {
-    "updated_at": "2026-11-10T13:31:47-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior AI Applied Value Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -403744,7 +403744,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037003003": {
-    "updated_at": "2026-11-11T14:17:08-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - Life Sciences",
     "company": "celonis",
     "ats": "greenhouse",
@@ -403784,7 +403784,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8038997003": {
-    "updated_at": "2026-10-23T08:52:45-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -405344,7 +405344,7 @@
     "alerted": true
   },
   "greenhouse:celonis:8036907003": {
-    "updated_at": "2026-11-04T03:40:08-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -405488,7 +405488,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8042510003": {
-    "updated_at": "2026-11-04T03:40:47-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -405664,7 +405664,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037503003": {
-    "updated_at": "2026-11-04T03:39:08-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Deployment Engineer - London",
     "company": "celonis",
     "ats": "greenhouse",
@@ -405680,7 +405680,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8300382": {
-    "updated_at": "2026-11-04T02:14:24-05:00",
+    "updated_at": "2026-11-13T06:10:34-05:00",
     "title": "Support Specialist, R1",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -406240,7 +406240,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037768003": {
-    "updated_at": "2026-11-04T10:41:17-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Account Executive (Top Talent Sales Program - Lunar) NORDICS",
     "company": "celonis",
     "ats": "greenhouse",
@@ -406256,7 +406256,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037736003": {
-    "updated_at": "2026-11-04T03:38:30-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Account Executive (Top Talent Sales Program - Lunar) NORDICS",
     "company": "celonis",
     "ats": "greenhouse",
@@ -406280,7 +406280,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037803003": {
-    "updated_at": "2026-10-27T06:30:07-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Account Executive (Top Talent Sales Program - Lunar) UK",
     "company": "celonis",
     "ats": "greenhouse",
@@ -406640,7 +406640,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037511003": {
-    "updated_at": "2026-11-12T03:28:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Solutions Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -407744,7 +407744,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037525003": {
-    "updated_at": "2026-10-27T07:14:34-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Solutions Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -409920,7 +409920,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7665962003": {
-    "updated_at": "2026-10-28T12:23:56-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Deployment Engineer - Galaxy Graduate Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -410000,7 +410000,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016373003": {
-    "updated_at": "2026-10-28T05:40:16-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer FSI",
     "company": "celonis",
     "ats": "greenhouse",
@@ -411056,7 +411056,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8046331003": {
-    "updated_at": "2026-11-03T16:17:16-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Strategy & Operations Graduated Internship (12 months)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -411488,7 +411488,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8899597002": {
-    "updated_at": "2026-10-28T22:25:50-04:00",
+    "updated_at": "2026-11-13T00:50:37-05:00",
     "title": "Sr. Solutions Engineer (Greater China)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -411720,7 +411720,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016357003": {
-    "updated_at": "2026-10-29T06:03:38-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer Automotive & Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -411736,8 +411736,8 @@
     "alerted": false
   },
   "greenhouse:applovin:4725684006": {
-    "updated_at": "2026-11-05T14:45:29-05:00",
-    "title": "Product Manager",
+    "updated_at": "2026-11-13T00:57:43-05:00",
+    "title": "Product Marketing Manager",
     "company": "applovin",
     "ats": "greenhouse",
     "source_slug": "applovin",
@@ -411808,8 +411808,8 @@
     "alerted": false
   },
   "greenhouse:okta:8317558": {
-    "updated_at": "2026-11-03T09:30:28-05:00",
-    "title": "Sr Customer Success Manager",
+    "updated_at": "2026-11-13T06:36:55-05:00",
+    "title": "Customer Success Manager",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -411832,7 +411832,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8068099003": {
-    "updated_at": "2026-10-29T04:07:27-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Applied Value Engineer - AI & Process Intelligence Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -411848,7 +411848,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8067893003": {
-    "updated_at": "2026-11-03T05:52:30-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Applied Value Engineer - AI and Pre-Sales Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -412040,7 +412040,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7995493003": {
-    "updated_at": "2026-10-29T13:03:54-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Client Value Partner - Digital Technology",
     "company": "celonis",
     "ats": "greenhouse",
@@ -412184,7 +412184,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037780003": {
-    "updated_at": "2026-11-05T05:47:59-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Account Executive (Top Talent Sales Program - Lunar) BENELUX",
     "company": "celonis",
     "ats": "greenhouse",
@@ -412496,7 +412496,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8044261003": {
-    "updated_at": "2026-10-29T09:49:35-04:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Global Benefits Specialist",
     "company": "celonis",
     "ats": "greenhouse",
@@ -412560,7 +412560,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8042640003": {
-    "updated_at": "2026-11-03T07:11:01-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Enterprise Account Executive Public Sector",
     "company": "celonis",
     "ats": "greenhouse",
@@ -414824,7 +414824,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8336757": {
-    "updated_at": "2026-11-05T12:12:56-05:00",
+    "updated_at": "2026-11-13T07:08:40-05:00",
     "title": "Senior Commercial Account Executive (UKI)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -416432,7 +416432,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8036958003": {
-    "updated_at": "2026-11-02T11:44:32-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "(Senior) Software Engineer - Data Core",
     "company": "celonis",
     "ats": "greenhouse",
@@ -417240,7 +417240,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8037359003": {
-    "updated_at": "2026-11-02T03:42:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Project Manager",
     "company": "celonis",
     "ats": "greenhouse",
@@ -418800,7 +418800,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8156996003": {
-    "updated_at": "2026-11-03T07:53:38-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Intern Strategic Program Management",
     "company": "celonis",
     "ats": "greenhouse",
@@ -418808,7 +418808,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8156989003": {
-    "updated_at": "2026-11-03T07:53:36-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Intern Strategic Program Management",
     "company": "celonis",
     "ats": "greenhouse",
@@ -420256,7 +420256,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8179618003": {
-    "updated_at": "2026-11-03T19:49:04-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Account Executive",
     "company": "celonis",
     "ats": "greenhouse",
@@ -420568,7 +420568,7 @@
     "alerted": true
   },
   "greenhouse:celonis:8173334003": {
-    "updated_at": "2026-11-04T11:43:48-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Project Manager",
     "company": "celonis",
     "ats": "greenhouse",
@@ -421008,7 +421008,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8173282003": {
-    "updated_at": "2026-11-04T11:57:13-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Deployment Engineer - Financial Services",
     "company": "celonis",
     "ats": "greenhouse",
@@ -421016,7 +421016,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8173273003": {
-    "updated_at": "2026-11-12T10:45:40-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Deployment Engineer - Hi Tech",
     "company": "celonis",
     "ats": "greenhouse",
@@ -421024,7 +421024,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8173340003": {
-    "updated_at": "2026-11-04T11:56:54-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Deployment Engineer - Health and Life Sciences",
     "company": "celonis",
     "ats": "greenhouse",
@@ -421032,7 +421032,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7815115003": {
-    "updated_at": "2026-11-04T11:50:12-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Architect",
     "company": "celonis",
     "ats": "greenhouse",
@@ -421040,7 +421040,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8173249003": {
-    "updated_at": "2026-11-04T12:52:24-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Architect - AI",
     "company": "celonis",
     "ats": "greenhouse",
@@ -421072,7 +421072,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8173263003": {
-    "updated_at": "2026-11-10T14:30:50-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Project Manager",
     "company": "celonis",
     "ats": "greenhouse",
@@ -421808,7 +421808,7 @@
     "alerted": true
   },
   "greenhouse:celonis:8173230003": {
-    "updated_at": "2026-11-04T12:05:36-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -422096,7 +422096,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8196239003": {
-    "updated_at": "2026-11-12T02:35:55-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Management & Technology Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -422104,7 +422104,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8196236003": {
-    "updated_at": "2026-11-12T02:35:53-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -422224,7 +422224,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7539041003": {
-    "updated_at": "2026-11-04T16:31:26-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - CGPR",
     "company": "celonis",
     "ats": "greenhouse",
@@ -422640,7 +422640,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8173186003": {
-    "updated_at": "2026-11-04T12:43:00-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Deployment Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -422824,7 +422824,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8350687": {
-    "updated_at": "2026-11-12T16:59:24-05:00",
+    "updated_at": "2026-11-13T07:17:01-05:00",
     "title": "2027 Summer Intern, MS/PhD, Depot Automation",
     "company": "waymo",
     "ats": "greenhouse",
@@ -423208,7 +423208,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7852906003": {
-    "updated_at": "2026-11-05T00:20:42-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Applied Value Engineer (Hi-tech)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -423360,8 +423360,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8317537": {
-    "updated_at": "2026-11-09T19:43:46-05:00",
-    "title": "Pre-sales Solution Architect System Integrators (Tokyo)",
+    "updated_at": "2026-11-13T06:09:44-05:00",
+    "title": "Pre-sales Solution Architect System Integrators (Tokyo, Japanese speaking)",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -423848,7 +423848,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8078124003": {
-    "updated_at": "2026-11-05T10:16:16-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Intern CCO Enablement & Programs",
     "company": "celonis",
     "ats": "greenhouse",
@@ -424000,7 +424000,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8173111003": {
-    "updated_at": "2026-11-05T06:59:24-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -424008,7 +424008,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8005086003": {
-    "updated_at": "2026-11-05T06:33:43-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Executive Assistant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -424016,7 +424016,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8005089003": {
-    "updated_at": "2026-11-05T06:32:01-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Executive Assistant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -425968,7 +425968,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8353156": {
-    "updated_at": "2026-11-09T18:46:50-05:00",
+    "updated_at": "2026-11-13T03:36:15-05:00",
     "title": "Customer Success Account Manager, Mid-Market",
     "company": "samsara",
     "ats": "greenhouse",
@@ -426032,7 +426032,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8359294": {
-    "updated_at": "2026-11-09T19:02:14-05:00",
+    "updated_at": "2026-11-13T03:34:16-05:00",
     "title": "Customer Success Account Manager, Digital - French",
     "company": "samsara",
     "ats": "greenhouse",
@@ -426040,7 +426040,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8353158": {
-    "updated_at": "2026-11-09T19:02:14-05:00",
+    "updated_at": "2026-11-13T03:34:13-05:00",
     "title": "Customer Success Account Manager, Digital - French",
     "company": "samsara",
     "ats": "greenhouse",
@@ -427176,7 +427176,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8360267": {
-    "updated_at": "2026-11-06T15:27:40-05:00",
+    "updated_at": "2026-11-13T07:05:32-05:00",
     "title": "Senior Client Partner, Mid-Market Sales (Goods)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -427904,7 +427904,7 @@
     "alerted": false
   },
   "greenhouse:datadog:8354556": {
-    "updated_at": "2026-11-10T20:12:55-05:00",
+    "updated_at": "2026-11-12T23:36:15-05:00",
     "title": "Commercial Account Executive (Singapore & Philippines Market)",
     "company": "datadog",
     "ats": "greenhouse",
@@ -428344,7 +428344,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8317920": {
-    "updated_at": "2026-11-10T04:14:38-05:00",
+    "updated_at": "2026-11-13T07:33:31-05:00",
     "title": "Inside Sales Representative",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -428576,7 +428576,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8348700": {
-    "updated_at": "2026-11-12T16:59:24-05:00",
+    "updated_at": "2026-11-13T07:19:21-05:00",
     "title": "Program Manager, Systems, Tools & BI Enablement",
     "company": "waymo",
     "ats": "greenhouse",
@@ -429392,7 +429392,7 @@
     "alerted": false
   },
   "greenhouse:toast:8349001": {
-    "updated_at": "2026-11-09T12:06:24-05:00",
+    "updated_at": "2026-11-13T06:12:08-05:00",
     "title": "Product Manager",
     "company": "toast",
     "ats": "greenhouse",
@@ -429456,7 +429456,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8198943003": {
-    "updated_at": "2026-11-12T02:40:15-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Forward Deployed Engineer - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -429528,7 +429528,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8199112003": {
-    "updated_at": "2026-11-09T11:18:38-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Applied (AI) Value Engineer (DACH) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -429536,7 +429536,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8199108003": {
-    "updated_at": "2026-11-09T11:18:34-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate (AI) Solution Consultant - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -429544,7 +429544,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7986218003": {
-    "updated_at": "2026-11-09T11:16:11-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Applied (AI) Value Engineer (DACH) - Orbit Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -429848,7 +429848,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8198857003": {
-    "updated_at": "2026-11-12T02:35:57-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Presales and Solution Consultant - Manufacturing/Production",
     "company": "celonis",
     "ats": "greenhouse",
@@ -429856,7 +429856,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8198853003": {
-    "updated_at": "2026-11-12T02:40:20-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Presales and Solution Engineer - CPG/Retail",
     "company": "celonis",
     "ats": "greenhouse",
@@ -430424,7 +430424,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8198760003": {
-    "updated_at": "2026-11-10T04:13:53-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
     "company": "celonis",
     "ats": "greenhouse",
@@ -430448,7 +430448,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8200179003": {
-    "updated_at": "2026-11-10T03:51:53-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Deployment Engineer - Galaxy Graduate Program (Spanish/Portuguese speaking)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -430488,7 +430488,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8200166003": {
-    "updated_at": "2026-11-12T02:36:44-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Forward Deployed Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -430496,7 +430496,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8016333003": {
-    "updated_at": "2026-11-12T02:36:45-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Presales and Solution Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -430512,7 +430512,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8200164003": {
-    "updated_at": "2026-11-12T02:39:06-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Process Intelligence and Supply Chain Transformation Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -430520,7 +430520,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8200163003": {
-    "updated_at": "2026-11-12T02:39:03-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Management & Technology Consultant - Supply Chain",
     "company": "celonis",
     "ats": "greenhouse",
@@ -430528,7 +430528,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8200162003": {
-    "updated_at": "2026-11-12T02:39:01-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Digital Transformation & Process Optimisation Consultant",
     "company": "celonis",
     "ats": "greenhouse",
@@ -431584,7 +431584,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8190831003": {
-    "updated_at": "2026-11-10T10:38:07-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Software Engineer - Infrastructure",
     "company": "celonis",
     "ats": "greenhouse",
@@ -431592,7 +431592,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8190822003": {
-    "updated_at": "2026-11-10T10:35:36-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Software Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -432384,7 +432384,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8372525": {
-    "updated_at": "2026-11-10T15:51:54-05:00",
+    "updated_at": "2026-11-13T07:05:31-05:00",
     "title": "Senior Manager, Mid-Market Sales (Signature Goods)",
     "company": "reddit",
     "ats": "greenhouse",
@@ -432656,7 +432656,7 @@
     "alerted": false
   },
   "greenhouse:celonis:7635158003": {
-    "updated_at": "2026-11-10T23:44:55-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Applied Value Engineer",
     "company": "celonis",
     "ats": "greenhouse",
@@ -432992,7 +432992,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201411003": {
-    "updated_at": "2026-11-11T09:57:59-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433000,7 +433000,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201407003": {
-    "updated_at": "2026-11-11T09:56:52-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433008,7 +433008,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201403003": {
-    "updated_at": "2026-11-11T09:55:54-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433016,7 +433016,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201398003": {
-    "updated_at": "2026-11-11T09:55:51-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433048,7 +433048,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201397003": {
-    "updated_at": "2026-11-11T09:53:14-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433056,7 +433056,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201393003": {
-    "updated_at": "2026-11-11T09:51:35-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433064,7 +433064,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201390003": {
-    "updated_at": "2026-11-11T09:51:11-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433072,7 +433072,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201389003": {
-    "updated_at": "2026-11-11T09:50:45-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433080,7 +433080,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201382003": {
-    "updated_at": "2026-11-11T09:42:09-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433088,7 +433088,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8378837": {
-    "updated_at": "2026-11-11T09:39:10-05:00",
+    "updated_at": "2026-11-13T03:26:08-05:00",
     "title": "Global Operations Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -433104,7 +433104,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201377003": {
-    "updated_at": "2026-11-11T09:37:57-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433120,7 +433120,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201374003": {
-    "updated_at": "2026-11-11T09:36:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433176,8 +433176,8 @@
     "alerted": false
   },
   "greenhouse:celonis:8200231003": {
-    "updated_at": "2026-11-11T09:14:08-05:00",
-    "title": "Senior Applied Value Engineer",
+    "updated_at": "2026-11-13T04:05:26-05:00",
+    "title": "Senior Applied Value Engineer - AI Process Optimisation & Pre-Sales",
     "company": "celonis",
     "ats": "greenhouse",
     "source_slug": "celonis",
@@ -433464,7 +433464,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8197525003": {
-    "updated_at": "2026-11-11T05:26:17-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Enterprise Account Executive MEA Oil & Energy",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433752,7 +433752,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8348363": {
-    "updated_at": "2026-11-12T16:59:24-05:00",
+    "updated_at": "2026-11-13T07:18:39-05:00",
     "title": "Global Vendor Operations Manager",
     "company": "waymo",
     "ats": "greenhouse",
@@ -433784,7 +433784,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201666003": {
-    "updated_at": "2026-11-11T14:29:20-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Solution Consultant - Chemicals & Energy",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433800,7 +433800,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201665003": {
-    "updated_at": "2026-11-11T14:26:18-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Value Engineer - Chemical & Energy",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433808,7 +433808,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201664003": {
-    "updated_at": "2026-11-11T14:23:54-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Solution Consultant - Life Sciences",
     "company": "celonis",
     "ats": "greenhouse",
@@ -433816,7 +433816,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201662003": {
-    "updated_at": "2026-11-11T14:20:45-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead Process Intelligence & Supply Chain Transformation Consultant - Life Sciences",
     "company": "celonis",
     "ats": "greenhouse",
@@ -434776,7 +434776,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201889003": {
-    "updated_at": "2026-11-12T03:40:32-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect (Germany), German speaking",
     "company": "celonis",
     "ats": "greenhouse",
@@ -434784,7 +434784,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201888003": {
-    "updated_at": "2026-11-12T03:40:09-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect (Germany), German speaking",
     "company": "celonis",
     "ats": "greenhouse",
@@ -434792,7 +434792,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201887003": {
-    "updated_at": "2026-11-12T03:39:43-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect (Germany), German speaking",
     "company": "celonis",
     "ats": "greenhouse",
@@ -434800,7 +434800,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201886003": {
-    "updated_at": "2026-11-12T03:39:15-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect (Germany), German speaking",
     "company": "celonis",
     "ats": "greenhouse",
@@ -434808,7 +434808,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201885003": {
-    "updated_at": "2026-11-12T03:38:37-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Principal Enterprise Architect (Germany), German speaking",
     "company": "celonis",
     "ats": "greenhouse",
@@ -434832,8 +434832,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8276078": {
-    "updated_at": "2026-11-12T02:51:34-05:00",
-    "title": "Managed Service Provider Sales, ASEAN-Greater China",
+    "updated_at": "2026-11-13T00:20:04-05:00",
+    "title": "Managed Service Provider Sales, Singapore",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -434856,8 +434856,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8382294": {
-    "updated_at": "2026-11-12T02:13:11-05:00",
-    "title": "Member of Technical Staff",
+    "updated_at": "2026-11-13T03:27:27-05:00",
+    "title": "Member of Technical Staff, Flash Array (Files)",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -434912,7 +434912,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8378849": {
-    "updated_at": "2026-11-12T00:57:40-05:00",
+    "updated_at": "2026-11-13T03:24:32-05:00",
     "title": "Named Account Executive, Thailand",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -435528,7 +435528,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8379685": {
-    "updated_at": "2026-11-12T11:42:52-05:00",
+    "updated_at": "2026-11-13T03:04:43-05:00",
     "title": "Accounts Receivable Operations Analyst",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -435584,7 +435584,7 @@
     "alerted": false
   },
   "greenhouse:fastly:8370658": {
-    "updated_at": "2026-11-12T11:11:30-05:00",
+    "updated_at": "2026-11-13T03:07:04-05:00",
     "title": "Senior Channel Account Manager",
     "company": "fastly",
     "ats": "greenhouse",
@@ -435720,7 +435720,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202452003": {
-    "updated_at": "2026-11-12T10:37:22-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Consultant - FSI",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435728,7 +435728,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202459003": {
-    "updated_at": "2026-11-12T10:37:19-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Transformation Consultant - FSI",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435736,7 +435736,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202458003": {
-    "updated_at": "2026-11-12T10:37:11-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Solution Engineer - FSI",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435752,7 +435752,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202447003": {
-    "updated_at": "2026-11-12T10:34:39-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Value Consultant Automotive & Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435760,7 +435760,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202450003": {
-    "updated_at": "2026-11-12T10:34:36-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Solution Engineer Automotive & Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435768,7 +435768,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202451003": {
-    "updated_at": "2026-11-12T10:34:32-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Senior Business Transformation Consultant - Automotive & Manufacturing",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435776,7 +435776,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202449003": {
-    "updated_at": "2026-11-12T10:34:05-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Technology Consultant - Galaxy Graduate Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435808,7 +435808,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202446003": {
-    "updated_at": "2026-11-12T10:32:43-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Associate Technology Consultant - Galaxy Graduate Program",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435816,7 +435816,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202424003": {
-    "updated_at": "2026-11-12T10:23:37-05:00",
+    "updated_at": "2026-11-13T05:34:48-05:00",
     "title": "Senior Value Consultant Iberia & Latam",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435824,7 +435824,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202425003": {
-    "updated_at": "2026-11-12T10:23:34-05:00",
+    "updated_at": "2026-11-13T05:34:37-05:00",
     "title": "Senior Solution Engineer Iberia & Latam",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435832,7 +435832,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8202426003": {
-    "updated_at": "2026-11-12T10:23:32-05:00",
+    "updated_at": "2026-11-13T05:34:29-05:00",
     "title": "Senior Business Transformation Consultant Iberia & Latam",
     "company": "celonis",
     "ats": "greenhouse",
@@ -435840,7 +435840,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8175506003": {
-    "updated_at": "2026-11-12T10:20:50-05:00",
+    "updated_at": "2026-11-13T05:34:57-05:00",
     "title": "Senior Value Engineer Iberia & Latam",
     "company": "celonis",
     "ats": "greenhouse",
@@ -436008,8 +436008,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:8355355": {
-    "updated_at": "2026-11-12T07:56:55-05:00",
-    "title": "Member of Technical Staff - Backend (EXA)",
+    "updated_at": "2026-11-13T01:38:22-05:00",
+    "title": "Member of Technical Staff 3 - Backend (EXA)",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -436048,7 +436048,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8382564": {
-    "updated_at": "2026-11-12T07:06:39-05:00",
+    "updated_at": "2026-11-13T05:44:17-05:00",
     "title": "Team Lead, Global Alliance Partnerships",
     "company": "adyen",
     "ats": "greenhouse",
@@ -436056,7 +436056,7 @@
     "alerted": false
   },
   "greenhouse:celonis:8201989003": {
-    "updated_at": "2026-11-12T06:53:49-05:00",
+    "updated_at": "2026-11-13T04:05:26-05:00",
     "title": "Lead AI & Value Transformation Consultant - CPG",
     "company": "celonis",
     "ats": "greenhouse",
@@ -436768,7 +436768,7 @@
     "alerted": false
   },
   "greenhouse:robinhood:8205711": {
-    "updated_at": "2026-11-12T15:46:44-05:00",
+    "updated_at": "2026-11-13T03:04:33-05:00",
     "title": "Customer Experience Team Lead, Money",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -436824,7 +436824,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8935220002": {
-    "updated_at": "2026-11-12T15:27:20-05:00",
+    "updated_at": "2026-11-12T15:28:04-05:00",
     "title": "Construction Surveyor",
     "company": "spacex",
     "ats": "greenhouse",
@@ -437064,7 +437064,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8334550": {
-    "updated_at": "2026-11-12T22:52:38-05:00",
+    "updated_at": "2026-11-13T00:22:50-05:00",
     "title": "Demand Generation Manager, Startups, APAC",
     "company": "stripe",
     "ats": "greenhouse",
@@ -437341,6 +437341,214 @@
     "company": "abnormalsecurity",
     "ats": "greenhouse",
     "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:celonis:8203121003": {
+    "updated_at": "2026-11-13T06:20:46-05:00",
+    "title": "Associate Technology Consultant - Galaxy Graduate Program",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8385243": {
+    "updated_at": "2026-11-13T05:48:02-05:00",
+    "title": "Technical Support Specialist - German speaking (fresh STEM grads)",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:databricks:8937807002": {
+    "updated_at": "2026-11-13T05:47:08-05:00",
+    "title": "Engineering Manager - Developer Ecosystem",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8385242": {
+    "updated_at": "2026-11-13T05:43:39-05:00",
+    "title": "Technical Support Specialist - French speaking (fresh STEM grads)",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:databricks:8940907002": {
+    "updated_at": "2026-11-13T05:42:55-05:00",
+    "title": "Sr. Engineering Manager - Developer Ecosystem",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:elastic:7673061": {
+    "updated_at": "2026-11-13T05:27:11-05:00",
+    "title": "Customer Architect - Barcelona",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:8203078003": {
+    "updated_at": "2026-11-13T05:17:07-05:00",
+    "title": "Sales Development Representative, German Speaking",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:8203077003": {
+    "updated_at": "2026-11-13T05:16:09-05:00",
+    "title": "Sales Development Representative, Dutch Speaking",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:stripe:8368656": {
+    "updated_at": "2026-11-13T05:16:09-05:00",
+    "title": "Technical Solutions Engineer",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:datadog:8385205": {
+    "updated_at": "2026-11-13T05:06:42-05:00",
+    "title": "Staff Research Scientist - Foundation & World Models",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:datadog:8385200": {
+    "updated_at": "2026-11-13T05:03:17-05:00",
+    "title": "Staff Research Scientist - Post-Training for Observability Native Models",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:stripe:8338845": {
+    "updated_at": "2026-11-13T04:59:32-05:00",
+    "title": "Solution Architect, Metronome (AI Native)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:lyft:8940409002": {
+    "updated_at": "2026-11-13T04:59:14-05:00",
+    "title": "Data Engineer, Marketplace",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:stripe:8338839": {
+    "updated_at": "2026-11-13T04:43:56-05:00",
+    "title": "Solutions Architect, Metronome (Startups)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:celonis:7991058003": {
+    "updated_at": "2026-11-13T04:05:26-05:00",
+    "title": "Solutions Architect",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:databricks:8910838002": {
+    "updated_at": "2026-11-13T03:52:41-05:00",
+    "title": "Account Executive - Enterprise Core",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:formlabs:8385124": {
+    "updated_at": "2026-11-13T03:44:20-05:00",
+    "title": "Senior C++ Software Engineer, 3D Desktop Application",
+    "company": "formlabs",
+    "ats": "greenhouse",
+    "source_slug": "formlabs",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:8201719003": {
+    "updated_at": "2026-11-13T03:06:44-05:00",
+    "title": "Partner Account Manager, Mid Enterprise",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8382332": {
+    "updated_at": "2026-11-13T01:49:29-05:00",
+    "title": "Product Manager I",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8382331": {
+    "updated_at": "2026-11-13T01:47:58-05:00",
+    "title": "Product Manager I",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8359179": {
+    "updated_at": "2026-11-13T00:37:56-05:00",
+    "title": "Senior Technical Program Manager - Infrastructure",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:spacex:8940775002": {
+    "updated_at": "2026-11-13T00:30:03-05:00",
+    "title": "Sr. Launch Engineer, Propellant Systems (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8895877002": {
+    "updated_at": "2026-11-13T00:30:01-05:00",
+    "title": "Sr. Launch Engineer, Propellant Generation (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8376867": {
+    "updated_at": "2026-11-12T23:23:43-05:00",
+    "title": "Senior Response Engineer - Cloudflare Managed Defense Center (CMDC)",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:verkada:5197606007": {
+    "updated_at": "2026-11-12T23:22:41-05:00",
+    "title": "Strategic Account Executive, Federal Government (Australia)",
+    "company": "verkada",
+    "ats": "greenhouse",
+    "source_slug": "verkada",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5479890008": {
+    "updated_at": "2026-11-12T23:21:30-05:00",
+    "title": "External Affairs, Southeast Asia",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": false
   }
 }
