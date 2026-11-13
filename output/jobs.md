@@ -1,3 +1,222 @@
+## 📅 Run: 2026-11-13 04:31 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Large Users Platforms (China Cross Border)
+**Greenhouse** · stripe · 1195 Account Executives (APAC)
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8349777)
+🕐 Updated: 2026-11-12T23:31:19-05:00 | ID: 8349777
+
+#### 🔄 Account Executive, Cross Border China
+**Greenhouse** · stripe · 1195 Account Executives (APAC)
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7893199)
+🕐 Updated: 2026-11-12T23:25:48-05:00 | ID: 7893199
+
+#### 🔄 Engineering Manager, Tech Foundations
+**Greenhouse** · airbnb · Software Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8288417?gh_jid=8288417)
+🕐 Updated: 2026-11-12T23:09:55-05:00 | ID: 8288417
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · datadog · Sales Development
+📍 Bangalore, India | 🔗 [Apply Here](https://careers.datadoghq.com/detail/7531575/?gh_jid=7531575)
+🕐 Updated: 2026-11-12T22:58:24-05:00 | ID: 7531575
+
+#### 🔄 Director, Site Reliability Engineering
+**Greenhouse** · okta · SW Eng - Infrastructure-672
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8155879?gh_jid=8155879)
+🕐 Updated: 2026-11-12T22:47:05-05:00 | ID: 8155879
+
+#### 🔄 Global Supply Manager
+**Greenhouse** · formlabs · Manufacturing
+📍 Shenzhen | 🔗 [Apply Here](https://careers.formlabs.com/job/6649014/apply/?gh_jid=6649014)
+🕐 Updated: 2026-11-12T22:36:58-05:00 | ID: 6649014
+
+#### 🔄 Head of Sales, India
+**Greenhouse** · mixpanel · Revenue
+📍 Bengaluru, Karnataka, India (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8080826)
+🕐 Updated: 2026-11-12T22:01:22-05:00 | ID: 8080826
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8358094)
+🕐 Updated: 2026-11-12T21:58:06-05:00 | ID: 8358094
+
+#### 🔄 Director, Web Marketing
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8638642002)
+🕐 Updated: 2026-11-12T21:50:07-05:00 | ID: 8638642002
+
+#### 🔄 Communications Lead (Hawthorne)
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8544768002?gh_jid=8544768002)
+🕐 Updated: 2026-11-12T21:34:45-05:00 | ID: 8544768002
+
+#### 🔄 Account Executive, Product Sales - Link
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8040940)
+🕐 Updated: 2026-11-12T21:32:30-05:00 | ID: 8040940
+
+#### 🔄 Sr. IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8757406002?gh_jid=8757406002)
+🕐 Updated: 2026-11-12T21:24:49-05:00 | ID: 8757406002
+
+#### 🔄 Senior Manager, AV Operations & Events
+**Greenhouse** · okta · BT Workplace Technology-140
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8351083?gh_jid=8351083)
+🕐 Updated: 2026-11-12T21:17:46-05:00 | ID: 8351083
+
+#### 🔄 Business Development Representative (Denver)
+**Greenhouse** · fivetran · Sales Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7981621003)
+🕐 Updated: 2026-11-12T20:51:43-05:00 | ID: 7981621003
+
+#### 🔄 (Sr) Associate / Manager, Strategic Finance & Business Operations
+**Greenhouse** · verkada · Finance
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5231662007)
+🕐 Updated: 2026-11-12T20:48:46-05:00 | ID: 5231662007
+
+#### 🔄 Financial Analyst
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917583002?gh_jid=8917583002)
+🕐 Updated: 2026-11-12T20:44:12-05:00 | ID: 8917583002
+
+#### 🔄 Customer Solutions Architect (Denver)
+**Greenhouse** · fivetran · Customer Solutions Group Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8047327003)
+🕐 Updated: 2026-11-12T20:37:52-05:00 | ID: 8047327003
+
+#### 🔄 Customer Solutions Architect (NYC)
+**Greenhouse** · fivetran · Customer Solutions Group Department
+📍 USA - New York (dbt) | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8047340003)
+🕐 Updated: 2026-11-12T20:37:35-05:00 | ID: 8047340003
+
+#### 🔄 Customer Solutions Architect (Austin)
+**Greenhouse** · fivetran · Customer Solutions Group Department
+📍 USA - Austin (dbt) | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7796439003)
+🕐 Updated: 2026-11-12T20:36:00-05:00 | ID: 7796439003
+
+#### 🔄 Account Development Representative - Canada
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Quebec | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8332753?gh_jid=8332753)
+🕐 Updated: 2026-11-12T20:30:00-05:00 | ID: 8332753
+
+#### 🔄 Account Development Representative II - Toronto
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Ontario | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8332749?gh_jid=8332749)
+🕐 Updated: 2026-11-12T20:30:00-05:00 | ID: 8332749
+
+#### 🔄 IT Support Technician (Help Desk)
+**Greenhouse** · spacex · Information Technology - Services
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927727002?gh_jid=8927727002)
+🕐 Updated: 2026-11-12T20:27:35-05:00 | ID: 8927727002
+
+#### 🔄 Senior Vice President, Global Partner Ecosystem
+**Greenhouse** · mongodb · SI Partners
+📍 United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8379840)
+🕐 Updated: 2026-11-12T20:18:02-05:00 | ID: 8379840
+
+#### 🔄 Hardware Reliability Engineer (Build Reliability)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856708002?gh_jid=8856708002)
+🕐 Updated: 2026-11-12T20:04:27-05:00 | ID: 8856708002
+
+#### 🔄 Electrical Engineer, Hardware Reliability (Build Reliability)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8903622002?gh_jid=8903622002)
+🕐 Updated: 2026-11-12T20:04:04-05:00 | ID: 8903622002
+
+#### 🔄 Credit Operations Analyst
+**Greenhouse** · stripe · 4890 Credit Operations
+📍 Chicago, IL; Atlanta, GA; Toronto, Canada | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8354560)
+🕐 Updated: 2026-11-12T19:51:54-05:00 | ID: 8354560
+
+#### 🔄 Forward Deployed Engineer (FDE) - Professional Services
+**Greenhouse** · cloudflare · Professional Services
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075)
+🕐 Updated: 2026-11-12T19:47:26-05:00 | ID: 7572075
+
+#### 🔄 Partner Account Manager - Cleveland
+**Greenhouse** · humaninterest · Sales
+📍 Cleveland, OH | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8360410)
+🕐 Updated: 2026-11-12T19:46:13-05:00 | ID: 8360410
+
+#### 🔄 Forward Deployed Product Manager
+**Greenhouse** · sendbird · Product
+📍 San Mateo, California, United States | 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8293482002)
+🕐 Updated: 2026-11-12T19:40:09-05:00 | ID: 8293482002
+
+#### 🔄 Warehouse and Logistics Capability Manager
+**Greenhouse** · anthropic · Software Engineering - Infrastructure
+📍 Dublin, IE | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5416696008)
+🕐 Updated: 2026-11-12T19:37:26-05:00 | ID: 5416696008
+
+#### 🔄 Senior Software Engineer II
+**Greenhouse** · ziprecruiter · 710 Tech
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/ziprecruiter/jobs/5167480)
+🕐 Updated: 2026-11-12T19:30:19-05:00 | ID: 5167480
+
+#### 🔄 Senior Staff Software Engineer, Tech Foundations
+**Greenhouse** · airbnb · Software Engineering
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8187190?gh_jid=8187190)
+🕐 Updated: 2026-11-12T19:26:39-05:00 | ID: 8187190
+
+#### 🔄 Senior Product Counsel
+**Greenhouse** · verkada · Legal
+📍 Austin, TX United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5082756007)
+🕐 Updated: 2026-11-12T19:15:19-05:00 | ID: 5082756007
+
+#### 🔄 Senior Product Counsel
+**Greenhouse** · verkada · Legal
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5082376007)
+🕐 Updated: 2026-11-12T19:15:16-05:00 | ID: 5082376007
+
+#### 🔄 Sr. Content Developer
+**Greenhouse** · samsara · Support
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7951885?gh_jid=7951885)
+🕐 Updated: 2026-11-12T19:15:02-05:00 | ID: 7951885
+
+#### 🔄 Sr. Engagement Manager (Service Sales Executive)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922943002)
+🕐 Updated: 2026-11-12T19:13:25-05:00 | ID: 8922943002
+
+#### 🔄 Associate Creative Director, Digital Design
+**Greenhouse** · samsara · Corporate Marketing
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8250008?gh_jid=8250008)
+🕐 Updated: 2026-11-12T19:01:58-05:00 | ID: 8250008
+
+#### 🔄 Associate Creative Director, Digital Design
+**Greenhouse** · samsara · Corporate Marketing
+📍 Remote - SF Bay Area | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8205153?gh_jid=8205153)
+🕐 Updated: 2026-11-12T19:01:58-05:00 | ID: 8205153
+
+#### 🔄 Compliance Specialist
+**Greenhouse** · sofi · Compliance
+📍 United States | 🔗 [Apply Here](https://sofi.com/careers/job/8200863003?gh_jid=8200863003)
+🕐 Updated: 2026-11-12T19:01:36-05:00 | ID: 8200863003
+
+#### 🔄 Staff Frontend Engineer - Design Systems
+**Greenhouse** · verkada · Core Services
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5233100007)
+🕐 Updated: 2026-11-12T18:56:16-05:00 | ID: 5233100007
+
+#### 🔄 Sr. Commercial Counsel
+**Greenhouse** · dialpad · 620 - Legal
+📍 Buenos Aires, Argentina | 🔗 [Apply Here](https://job-boards.greenhouse.io/dialpad/jobs/8936931002)
+🕐 Updated: 2026-11-12T18:48:44-05:00 | ID: 8936931002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15819 fetched, 41 updated, 36 cap-skipped, 0 alerts
+- **Lever**: 0 new, 29 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 72 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15920 fetched, 41 updated, 36 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-12 23:46 UTC
 
 ### Greenhouse
