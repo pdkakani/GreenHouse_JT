@@ -236808,8 +236808,8 @@
     "alerted": false
   },
   "greenhouse:spacex:8625574002": {
-    "updated_at": "2026-11-13T14:54:33-05:00",
-    "title": "Hardware Reliability Engineer (Starshield)",
+    "updated_at": "2026-11-13T19:56:06-05:00",
+    "title": "Electrical Engineer, Hardware Reliability (Starshield)",
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
@@ -271168,8 +271168,8 @@
     "alerted": false
   },
   "greenhouse:coreweave:4663228006": {
-    "updated_at": "2026-09-06T00:36:01-04:00",
-    "title": "Applied AI Engineer, Inference",
+    "updated_at": "2026-11-13T21:33:48-05:00",
+    "title": "Senior Deployment Engineer - LLM Inference & Optimization",
     "company": "coreweave",
     "ats": "greenhouse",
     "source_slug": "coreweave",
@@ -332760,7 +332760,7 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8179387": {
-    "updated_at": "2026-11-09T19:03:42-05:00",
+    "updated_at": "2026-11-14T02:15:15-05:00",
     "title": "Principal Solutions Architect, APJC (Developer Platform) - Mandarin Speaking",
     "company": "cloudflare",
     "ats": "greenhouse",
@@ -382136,7 +382136,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8250420": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T22:19:18-05:00",
     "title": "National Partner Manager, CDW Southeast",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -391592,7 +391592,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8267376": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T22:08:19-05:00",
     "title": "Partner Account Manager - Toronto",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -411152,7 +411152,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8303263": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T22:12:04-05:00",
     "title": "Partner Account Manager - Indiana and Ohio",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -413424,7 +413424,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8289985": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T22:15:13-05:00",
     "title": "Partner Account Manager - Bay Area",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -413432,7 +413432,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8290018": {
-    "updated_at": "2026-11-01T03:54:00-05:00",
+    "updated_at": "2026-11-13T22:05:40-05:00",
     "title": "Partner Account Manager - Los Angeles",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -425560,7 +425560,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8335741": {
-    "updated_at": "2026-11-12T02:48:48-05:00",
+    "updated_at": "2026-11-13T22:24:53-05:00",
     "title": "Inside Partner Account Manager - Santa Clara",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -425592,7 +425592,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8351551": {
-    "updated_at": "2026-11-05T21:32:26-05:00",
+    "updated_at": "2026-11-13T22:22:58-05:00",
     "title": "Manager, National Partner Sales (CDW)",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -430016,7 +430016,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5477746008": {
-    "updated_at": "2026-11-13T12:35:50-05:00",
+    "updated_at": "2026-11-13T21:48:38-05:00",
     "title": "Staff+ Software Engineer, Claude Design",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -434496,7 +434496,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8374913": {
-    "updated_at": "2026-11-12T11:58:15-05:00",
+    "updated_at": "2026-11-13T21:23:50-05:00",
     "title": "Sr. Manager, Agents",
     "company": "samsara",
     "ats": "greenhouse",
@@ -437696,7 +437696,7 @@
     "alerted": false
   },
   "greenhouse:snorkelai:6260926004": {
-    "updated_at": "2026-11-13T18:09:10-05:00",
+    "updated_at": "2026-11-13T20:31:29-05:00",
     "title": "Research Scientist, Open Benchmarks Red Team",
     "company": "snorkelai",
     "ats": "greenhouse",
@@ -439286,5 +439286,85 @@
     "ats": "ashby",
     "source_slug": "Ashby",
     "alerted": false
+  },
+  "greenhouse:toast:8368740": {
+    "updated_at": "2026-11-13T21:21:48-05:00",
+    "title": "Principal Machine Learning Engineer, Vision AI",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:spacex:8943819002": {
+    "updated_at": "2026-11-13T21:09:09-05:00",
+    "title": "Sr. Materials Engineer, Polymer Development",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8940770002": {
+    "updated_at": "2026-11-13T20:50:49-05:00",
+    "title": "Sr. Operations Engineer, Blades and Vanes Foundry",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8357686": {
+    "updated_at": "2026-11-13T20:24:08-05:00",
+    "title": "Principal Sofware Engineer, Applied AI",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:spacex:8943811002": {
+    "updated_at": "2026-11-13T19:58:38-05:00",
+    "title": "Lead Electrical Engineer, Hardware Reliability (Starshield)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:flexport:8386969": {
+    "updated_at": "2026-11-13T19:20:32-05:00",
+    "title": "Sales Manager",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "source_slug": "flexport",
+    "alerted": false
+  },
+  "greenhouse:robinhood:8379461": {
+    "updated_at": "2026-11-13T19:08:02-05:00",
+    "title": "Director and Associate General Counsel, Banking and Credit Cards",
+    "company": "robinhood",
+    "ats": "greenhouse",
+    "source_slug": "robinhood",
+    "alerted": false
+  },
+  "greenhouse:newrelic:5479131008": {
+    "updated_at": "2026-11-13T19:01:28-05:00",
+    "title": "Senior Account Executive - Public Sector (SLED West)",
+    "company": "newrelic",
+    "ats": "greenhouse",
+    "source_slug": "newrelic",
+    "alerted": false
+  },
+  "greenhouse:toast:8368738": {
+    "updated_at": "2026-11-13T21:31:51-05:00",
+    "title": "Staff Machine Learning Engineer - Vision AI",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": true
+  },
+  "ashby:Ashby:9225e1fa-66aa-45d2-bf92-2ac653744434": {
+    "updated_at": "2026-11-13T21:20:12.162+00:00",
+    "title": "Senior Security Platform Engineer - Secure Delivery",
+    "company": "Ashby",
+    "ats": "ashby",
+    "source_slug": "Ashby",
+    "alerted": true
   }
 }

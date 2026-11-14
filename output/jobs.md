@@ -1,3 +1,94 @@
+## 📅 Run: 2026-11-14 07:16 UTC
+
+### Greenhouse
+
+#### 🔄 Principal Solutions Architect, APJC (Developer Platform) - Mandarin Speaking
+**Greenhouse** · cloudflare · Developer Relations
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387)
+🕐 Updated: 2026-11-14T02:15:15-05:00 | ID: 8179387
+
+#### 🔄 Inside Partner Account Manager - Santa Clara
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8335741)
+🕐 Updated: 2026-11-13T22:24:53-05:00 | ID: 8335741
+
+#### 🔄 Manager, National Partner Sales (CDW)
+**Greenhouse** · purestorage · Sales
+📍 Chicago, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8351551)
+🕐 Updated: 2026-11-13T22:22:58-05:00 | ID: 8351551
+
+#### 🔄 National Partner Manager, CDW Southeast
+**Greenhouse** · purestorage · Sales
+📍 Atlanta, Georgia; Raleigh, North Carolina; Tampa, Florida | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8250420)
+🕐 Updated: 2026-11-13T22:19:18-05:00 | ID: 8250420
+
+#### 🔄 Partner Account Manager - Bay Area
+**Greenhouse** · purestorage · Sales
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8289985)
+🕐 Updated: 2026-11-13T22:15:13-05:00 | ID: 8289985
+
+#### 🔄 Partner Account Manager - Indiana and Ohio
+**Greenhouse** · purestorage · Sales
+📍 Remote, Indiana; Remote, Ohio | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8303263)
+🕐 Updated: 2026-11-13T22:12:04-05:00 | ID: 8303263
+
+#### 🔄 Partner Account Manager - Toronto
+**Greenhouse** · purestorage · Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8267376)
+🕐 Updated: 2026-11-13T22:08:19-05:00 | ID: 8267376
+
+#### 🔄 Partner Account Manager - Los Angeles
+**Greenhouse** · purestorage · Sales
+📍 Los Angeles, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8290018)
+🕐 Updated: 2026-11-13T22:05:40-05:00 | ID: 8290018
+
+#### 🔄 Staff+ Software Engineer, Claude Design
+**Greenhouse** · anthropic · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5477746008)
+🕐 Updated: 2026-11-13T21:48:38-05:00 | ID: 5477746008
+
+#### 🔄 Senior Deployment Engineer - LLM Inference & Optimization
+**Greenhouse** · coreweave · Technology
+📍 Bellevue, WA/ San Francisco, CA/  Sunnyvale, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4663228006&board=coreweave&gh_jid=4663228006)
+🕐 Updated: 2026-11-13T21:33:48-05:00 | ID: 4663228006
+
+#### 🆕 Staff Machine Learning Engineer - Vision AI
+**Greenhouse** · toast · R & D : Engineering : Commerce · 🎯 75%
+📍 Remote, US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8368738)
+🕐 Updated: 2026-11-13T21:31:51-05:00 | ID: 8368738
+
+#### 🔄 Sr. Manager, Agents
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8374913?gh_jid=8374913)
+🕐 Updated: 2026-11-13T21:23:50-05:00 | ID: 8374913
+
+#### 🔄 Research Scientist, Open Benchmarks Red Team
+**Greenhouse** · snorkelai · 316 - Research
+📍 New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/6260926004)
+🕐 Updated: 2026-11-13T20:31:29-05:00 | ID: 6260926004
+
+#### 🔄 Electrical Engineer, Hardware Reliability (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8625574002?gh_jid=8625574002)
+🕐 Updated: 2026-11-13T19:56:06-05:00 | ID: 8625574002
+
+### Ashby
+
+#### 🆕 Senior Security Platform Engineer - Secure Delivery
+**Ashby** · Ashby · Security & IT · 🎯 78%
+📍 Remote - US; Remote - Canada; United States | 🔗 [Apply Here](https://jobs.ashbyhq.com/Ashby/9225e1fa-66aa-45d2-bf92-2ac653744434)
+🕐 Updated: 2026-11-13T21:20:12.162+00:00 | ID: 9225e1fa-66aa-45d2-bf92-2ac653744434
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15708 fetched, 13 updated, 8 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 1 new, 76 fetched, 0 updated, 0 cap-skipped, 1 alerts
+
+- **Run total**: 2 new, 15814 fetched, 13 updated, 8 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-14 00:52 UTC
 
 ### Greenhouse
