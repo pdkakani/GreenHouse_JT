@@ -367656,7 +367656,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8231364": {
-    "updated_at": "2026-11-04T09:08:58-05:00",
+    "updated_at": "2026-11-14T16:15:00-05:00",
     "title": "Enablement Consultant",
     "company": "samsara",
     "ats": "greenhouse",
@@ -412696,7 +412696,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8331163": {
-    "updated_at": "2026-11-13T16:52:56-05:00",
+    "updated_at": "2026-11-14T14:34:32-05:00",
     "title": "AI Enablement Engineer",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -417320,7 +417320,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8345546": {
-    "updated_at": "2026-11-13T14:01:34-05:00",
+    "updated_at": "2026-11-14T15:01:54-05:00",
     "title": "Contribution Trade Ops Associate I",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -439413,6 +439413,22 @@
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
+    "alerted": true
+  },
+  "greenhouse:samsara:8387002": {
+    "updated_at": "2026-11-14T12:29:17-05:00",
+    "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5469291008": {
+    "updated_at": "2026-11-14T15:19:44-05:00",
+    "title": "Engineering Manager, Billing Platform",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
     "alerted": true
   }
 }

@@ -1,3 +1,37 @@
+## 📅 Run: 2026-11-14 23:12 UTC
+
+### Greenhouse
+
+#### 🔄 Enablement Consultant
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8231364?gh_jid=8231364)
+🕐 Updated: 2026-11-14T16:15:00-05:00 | ID: 8231364
+
+#### 🆕 Engineering Manager, Billing Platform
+**Greenhouse** · anthropic · Engineering & Design - Product · 🎯 75%
+📍 San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5469291008)
+🕐 Updated: 2026-11-14T15:19:44-05:00 | ID: 5469291008
+
+#### 🔄 Contribution Trade Ops Associate I
+**Greenhouse** · humaninterest · Customer Success and Operations
+📍 United States, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8345546)
+🕐 Updated: 2026-11-14T15:01:54-05:00 | ID: 8345546
+
+#### 🔄 AI Enablement Engineer
+**Greenhouse** · purestorage · IT
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8331163)
+🕐 Updated: 2026-11-14T14:34:32-05:00 | ID: 8331163
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15713 fetched, 3 updated, 1 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15819 fetched, 3 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-14 19:20 UTC
 
 ### Greenhouse
