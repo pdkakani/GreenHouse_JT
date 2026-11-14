@@ -24936,7 +24936,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8487145002": {
-    "updated_at": "2026-11-13T19:23:42-05:00",
+    "updated_at": "2026-11-14T11:04:16-05:00",
     "title": "Principal Product Marketing Manager, Application Development",
     "company": "databricks",
     "ats": "greenhouse",
@@ -200208,7 +200208,7 @@
     "alerted": false
   },
   "greenhouse:klaviyo:7728815003": {
-    "updated_at": "2026-10-31T03:48:30-04:00",
+    "updated_at": "2026-11-14T09:45:52-05:00",
     "title": "Lead Product Manager, Core Data",
     "company": "klaviyo",
     "ats": "greenhouse",
@@ -313992,7 +313992,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5407184008": {
-    "updated_at": "2026-09-25T14:49:57-04:00",
+    "updated_at": "2026-11-14T09:59:23-05:00",
     "title": "Corporate Counsel, M&A",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -326280,7 +326280,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8173977": {
-    "updated_at": "2026-11-12T16:59:24-05:00",
+    "updated_at": "2026-11-14T11:20:38-05:00",
     "title": "Senior Software Engineer, Compute Software",
     "company": "waymo",
     "ats": "greenhouse",
@@ -400280,7 +400280,7 @@
     "alerted": false
   },
   "greenhouse:oportun:4746016005": {
-    "updated_at": "2026-10-30T18:46:06-04:00",
+    "updated_at": "2026-11-14T10:15:42-05:00",
     "title": "Bilingual English and Spanish Member Loyalty Representative (R14339)",
     "company": "oportun",
     "ats": "greenhouse",
@@ -408896,7 +408896,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:8314244": {
-    "updated_at": "2026-11-12T02:45:49-05:00",
+    "updated_at": "2026-11-14T13:42:53-05:00",
     "title": "Senior Analyst Relations Manager",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -415624,8 +415624,8 @@
     "alerted": false
   },
   "greenhouse:anthropic:5464234008": {
-    "updated_at": "2026-11-04T12:43:44-05:00",
-    "title": "Data Engineer, GTM Systems",
+    "updated_at": "2026-11-14T10:17:41-05:00",
+    "title": "Data Foundations, GTM Systems",
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
@@ -425512,7 +425512,7 @@
     "alerted": false
   },
   "greenhouse:braze:8358094": {
-    "updated_at": "2026-11-12T21:58:06-05:00",
+    "updated_at": "2026-11-14T09:46:34-05:00",
     "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -427400,7 +427400,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8350346": {
-    "updated_at": "2026-11-13T16:42:24-05:00",
+    "updated_at": "2026-11-14T09:47:11-05:00",
     "title": "HR Consultant, Ask An Expert",
     "company": "gusto",
     "ats": "greenhouse",
@@ -439374,5 +439374,45 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": false
+  },
+  "greenhouse:samsara:8374911": {
+    "updated_at": "2026-11-14T12:29:14-05:00",
+    "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:intercom:8383344": {
+    "updated_at": "2026-11-14T06:47:36-05:00",
+    "title": "Sales Development Representative",
+    "company": "intercom",
+    "ats": "greenhouse",
+    "source_slug": "intercom",
+    "alerted": false
+  },
+  "greenhouse:celonis:8037428003": {
+    "updated_at": "2026-11-14T04:07:50-05:00",
+    "title": "Lead Project Manager",
+    "company": "celonis",
+    "ats": "greenhouse",
+    "source_slug": "celonis",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5462511008": {
+    "updated_at": "2026-11-14T01:29:25-05:00",
+    "title": "Corporate Counsel, Public Reporting",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:samsara:8223641": {
+    "updated_at": "2026-11-14T12:32:27-05:00",
+    "title": "Sr Software Engineer I/II, Operational AI",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": true
   }
 }

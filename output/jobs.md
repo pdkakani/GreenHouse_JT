@@ -1,3 +1,67 @@
+## 📅 Run: 2026-11-14 19:20 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Analyst Relations Manager
+**Greenhouse** · purestorage · Marketing
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8314244)
+🕐 Updated: 2026-11-14T13:42:53-05:00 | ID: 8314244
+
+#### 🆕 Sr Software Engineer I/II, Operational AI
+**Greenhouse** · samsara · Safety · 🎯 85%
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641)
+🕐 Updated: 2026-11-14T12:32:27-05:00 | ID: 8223641
+
+#### 🔄 Senior Software Engineer, Compute Software
+**Greenhouse** · waymo · Compute (7LR)
+📍 Bangalore, Karnataka, India | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8173977)
+🕐 Updated: 2026-11-14T11:20:38-05:00 | ID: 8173977
+
+#### 🔄 Principal Product Marketing Manager, Application Development
+**Greenhouse** · databricks · Marketing
+📍 West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487145002)
+🕐 Updated: 2026-11-14T11:04:16-05:00 | ID: 8487145002
+
+#### 🔄 Data Foundations, GTM Systems
+**Greenhouse** · anthropic · Engineering & Design - Product
+📍 San Francisco, CA | New York City, NY; Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5464234008)
+🕐 Updated: 2026-11-14T10:17:41-05:00 | ID: 5464234008
+
+#### 🔄 Bilingual English and Spanish Member Loyalty Representative (R14339)
+**Greenhouse** · oportun · Business Operations
+📍 Las Vegas, NV | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4746016005)
+🕐 Updated: 2026-11-14T10:15:42-05:00 | ID: 4746016005
+
+#### 🔄 Corporate Counsel, M&A
+**Greenhouse** · anthropic · Legal
+📍 San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5407184008)
+🕐 Updated: 2026-11-14T09:59:23-05:00 | ID: 5407184008
+
+#### 🔄 HR Consultant, Ask An Expert
+**Greenhouse** · gusto · Customer Experience
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8350346)
+🕐 Updated: 2026-11-14T09:47:11-05:00 | ID: 8350346
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8358094)
+🕐 Updated: 2026-11-14T09:46:34-05:00 | ID: 8358094
+
+#### 🔄 Lead Product Manager, Core Data
+**Greenhouse** · klaviyo · Product
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7728815003?gh_jid=7728815003)
+🕐 Updated: 2026-11-14T09:45:52-05:00 | ID: 7728815003
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15711 fetched, 9 updated, 4 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15817 fetched, 9 updated, 4 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-14 14:22 UTC
 
 ### Greenhouse
