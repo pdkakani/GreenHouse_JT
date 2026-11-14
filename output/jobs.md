@@ -1,3 +1,137 @@
+## 📅 Run: 2026-11-14 14:22 UTC
+
+### Greenhouse
+
+#### 🔄 Sales Engineering Manager Select - UK&I
+**Greenhouse** · samsara · Sales Engineering
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8336436?gh_jid=8336436)
+🕐 Updated: 2026-11-14T06:15:00-05:00 | ID: 8336436
+
+#### 🔄 Manager, Account Management - Adyen for Platforms
+**Greenhouse** · adyen · Account Management
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8287713)
+🕐 Updated: 2026-11-14T03:17:09-05:00 | ID: 8287713
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325879?gh_jid=8325879)
+🕐 Updated: 2026-11-14T03:01:51-05:00 | ID: 8325879
+
+#### 🔄 Senior Software Engineer (.NET/C#)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881)
+🕐 Updated: 2026-11-14T03:01:51-05:00 | ID: 8325881
+
+#### 🔄 Account Manager
+**Greenhouse** · ripple · Sales
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8304345?gh_jid=8304345)
+🕐 Updated: 2026-11-14T03:01:46-05:00 | ID: 8304345
+
+#### 🔄 Senior Manager, Customer Partner Success
+**Greenhouse** · ripple · Customer Success
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8248663?gh_jid=8248663)
+🕐 Updated: 2026-11-14T03:01:39-05:00 | ID: 8248663
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180206?gh_jid=8180206)
+🕐 Updated: 2026-11-14T03:01:26-05:00 | ID: 8180206
+
+#### 🔄 Senior Software Engineer (Full-Stack)
+**Greenhouse** · ripple · Engineering
+📍 Dublin, Ireland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204)
+🕐 Updated: 2026-11-14T03:01:26-05:00 | ID: 8180204
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, Illinois, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8204008003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8204008003
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8203266003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8203266003
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8204003003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8204003003
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, New York, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8203996003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8203996003
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, Washington, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8204005003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8204005003
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, Georgia, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8204010003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8204010003
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, Massachusetts, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8204001003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8204001003
+
+#### 🔄 Senior Partner Operations Manager
+**Greenhouse** · fivetran · Strategy & Operations Department
+📍 Remote, Texas, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8203989003)
+🕐 Updated: 2026-11-14T03:00:38-05:00 | ID: 8203989003
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Remote, New York, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8034257003)
+🕐 Updated: 2026-11-14T03:00:34-05:00 | ID: 8034257003
+
+#### 🔄 Senior Software Engineer
+**Greenhouse** · fivetran · Engineering Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8007249003)
+🕐 Updated: 2026-11-14T03:00:31-05:00 | ID: 8007249003
+
+#### 🔄 Senior Software Engineer - Orchestration
+**Greenhouse** · fivetran · Engineering Department
+📍 USA - Austin (dbt) | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8017186003)
+🕐 Updated: 2026-11-14T03:00:29-05:00 | ID: 8017186003
+
+#### 🔄 Senior Software Engineer - Orchestration
+**Greenhouse** · fivetran · Engineering Department
+📍 Ontario, Canada | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7980977003)
+🕐 Updated: 2026-11-14T03:00:28-05:00 | ID: 7980977003
+
+#### 🔄 Senior Software Engineer - Orchestration
+**Greenhouse** · fivetran · Engineering Department
+📍 Oakland, California, United States | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8003725003)
+🕐 Updated: 2026-11-14T03:00:28-05:00 | ID: 8003725003
+
+#### 🔄 Senior Software Engineer - Orchestration
+**Greenhouse** · fivetran · Engineering Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8003720003)
+🕐 Updated: 2026-11-14T03:00:28-05:00 | ID: 8003720003
+
+#### 🔄 Senior Product Manager - Adapters
+**Greenhouse** · fivetran · Product Department
+📍 Oakland, California, United States | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7818286003)
+🕐 Updated: 2026-11-14T03:00:22-05:00 | ID: 7818286003
+
+#### 🔄 Senior Solutions Architect, APJC (Developer Platform) - India Market
+**Greenhouse** · cloudflare · Developer Relations
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8169689?gh_jid=8169689)
+🕐 Updated: 2026-11-14T02:43:52-05:00 | ID: 8169689
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15709 fetched, 24 updated, 1 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15815 fetched, 24 updated, 1 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-14 07:16 UTC
 
 ### Greenhouse
