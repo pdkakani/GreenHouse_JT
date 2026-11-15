@@ -1,3 +1,57 @@
+## 📅 Run: 2026-11-15 02:39 UTC
+
+### Greenhouse
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002)
+🕐 Updated: 2026-11-14T19:37:28-05:00 | ID: 8658740002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658744002?gh_jid=8658744002)
+🕐 Updated: 2026-11-14T19:37:28-05:00 | ID: 8658744002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658743002?gh_jid=8658743002)
+🕐 Updated: 2026-11-14T19:37:28-05:00 | ID: 8658743002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658742002?gh_jid=8658742002)
+🕐 Updated: 2026-11-14T19:37:28-05:00 | ID: 8658742002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002)
+🕐 Updated: 2026-11-14T19:37:28-05:00 | ID: 8658738002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002)
+🕐 Updated: 2026-11-14T19:37:28-05:00 | ID: 8658737002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002)
+🕐 Updated: 2026-11-14T19:37:28-05:00 | ID: 8658628002
+
+#### 🔄 Account Development Representative II
+**Greenhouse** · samsara · Account Development Representative
+📍 Remote - Canada; Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8207926?gh_jid=8207926)
+🕐 Updated: 2026-11-14T18:45:00-05:00 | ID: 8207926
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15708 fetched, 8 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15814 fetched, 8 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-14 23:12 UTC
 
 ### Greenhouse
