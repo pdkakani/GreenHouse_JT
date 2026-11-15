@@ -120360,7 +120360,7 @@
     "alerted": false
   },
   "ashby:Ashby:ac5a2281-806d-4aed-b742-69527b3e4575": {
-    "updated_at": "2026-10-30T19:54:42.925+00:00",
+    "updated_at": "2026-11-15T17:59:58.993+00:00",
     "title": "Sales Leader, Enterprise - Americas",
     "company": "Ashby",
     "ats": "ashby",
@@ -391520,7 +391520,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5432425008": {
-    "updated_at": "2026-10-15T18:02:22-04:00",
+    "updated_at": "2026-11-15T15:36:17-05:00",
     "title": "Risk & Insurance Specialist",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -418160,7 +418160,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5468875008": {
-    "updated_at": "2026-11-02T22:33:12-05:00",
+    "updated_at": "2026-11-15T16:08:01-05:00",
     "title": "Data Center Strategic Sourcing Lead - Construction",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -439502,5 +439502,45 @@
     "ats": "greenhouse",
     "source_slug": "gitlab",
     "alerted": false
+  },
+  "greenhouse:circleci:8932689002": {
+    "updated_at": "2026-11-15T11:37:23-05:00",
+    "title": "Executive Business Partner, GTM",
+    "company": "circleci",
+    "ats": "greenhouse",
+    "source_slug": "circleci",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8367390": {
+    "updated_at": "2026-11-15T08:28:01-05:00",
+    "title": "Sales Transformation Lead International, Specialist Sales",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8344470": {
+    "updated_at": "2026-11-15T06:17:38-05:00",
+    "title": "Senior Fullstack Engineer (AI Fluent)",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:samsara:8214590": {
+    "updated_at": "2026-11-15T13:48:56-05:00",
+    "title": "Product Design (Mechanical Engineering) Co-Op",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": true
+  },
+  "greenhouse:samsara:8375354": {
+    "updated_at": "2026-11-15T13:16:11-05:00",
+    "title": "Senior Manager, Engineering Program Management",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": true
   }
 }

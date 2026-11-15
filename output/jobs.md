@@ -1,3 +1,44 @@
+## 📅 Run: 2026-11-15 21:19 UTC
+
+### Greenhouse
+
+#### 🔄 Data Center Strategic Sourcing Lead - Construction
+**Greenhouse** · anthropic · Compute
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5468875008)
+🕐 Updated: 2026-11-15T16:08:01-05:00 | ID: 5468875008
+
+#### 🔄 Risk & Insurance Specialist
+**Greenhouse** · anthropic · Finance
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5432425008)
+🕐 Updated: 2026-11-15T15:36:17-05:00 | ID: 5432425008
+
+#### 🆕 Product Design (Mechanical Engineering) Co-Op
+**Greenhouse** · samsara · Hardware Engineering · 🎯 35%
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590)
+🕐 Updated: 2026-11-15T13:48:56-05:00 | ID: 8214590
+
+#### 🆕 Senior Manager, Engineering Program Management
+**Greenhouse** · samsara · Hardware Engineering · 🎯 75%
+📍 San Francisco - SF9 | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8375354?gh_jid=8375354)
+🕐 Updated: 2026-11-15T13:16:11-05:00 | ID: 8375354
+
+### Ashby
+
+#### 🔄 Sales Leader, Enterprise - Americas
+**Ashby** · Ashby · Sales
+📍 Remote - US; Austin; Boulder; Los Angeles; Portland; Atlanta; Salt Lake City; Boston; Remote - Canada; Seattle; New York; San Francisco; Vancouver; Denver; United States | 🔗 [Apply Here](https://jobs.ashbyhq.com/Ashby/ac5a2281-806d-4aed-b742-69527b3e4575)
+🕐 Updated: 2026-11-15T17:59:58.993+00:00 | ID: ac5a2281-806d-4aed-b742-69527b3e4575
+
+## ATS Summary
+- **Greenhouse**: 2 new, 15701 fetched, 2 updated, 3 cap-skipped, 1 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 77 fetched, 1 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 2 new, 15808 fetched, 3 updated, 3 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-15 16:43 UTC
 
 ### Greenhouse
