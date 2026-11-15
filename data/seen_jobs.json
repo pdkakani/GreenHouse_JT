@@ -55176,7 +55176,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7619810002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:36:55-05:00",
     "title": "Senior Software Engineer (Infra)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -58880,7 +58880,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7651345002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:37:30-05:00",
     "title": "Senior Staff Software Engineer (Backend)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -89568,7 +89568,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8294304002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:34:41-05:00",
     "title": "Senior Software Engineer (App-Framework)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90240,7 +90240,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7897431002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:36:38-05:00",
     "title": "Senior Software Engineer - Data + AI Observability",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90296,7 +90296,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8320187002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:36:27-05:00",
     "title": "Staff Software Engineer - Backend",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90336,7 +90336,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7647369002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:30:10-05:00",
     "title": "Senior Software Engineer (Data Platform)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90448,7 +90448,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7652016002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:30:20-05:00",
     "title": "Staff Software Engineer (Data Platform)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90648,7 +90648,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8357216002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:30:38-05:00",
     "title": "Engineering Manager (Ingestion)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90720,7 +90720,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8210383002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:37:00-05:00",
     "title": "Senior Software Engineer (App-Framework)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90728,7 +90728,7 @@
     "alerted": false
   },
   "greenhouse:databricks:6709301002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:36:53-05:00",
     "title": "Senior Software Engineer (Backend)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -90744,7 +90744,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7601565002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:37:27-05:00",
     "title": "Staff Software Engineer - Databases",
     "company": "databricks",
     "ats": "greenhouse",
@@ -131656,7 +131656,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7006090002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:30:40-05:00",
     "title": "Engineering Manager - Core Experiences",
     "company": "databricks",
     "ats": "greenhouse",
@@ -300408,7 +300408,7 @@
     "alerted": false
   },
   "greenhouse:gitlab:8725981002": {
-    "updated_at": "2026-11-06T15:25:07-05:00",
+    "updated_at": "2026-11-15T03:21:07-05:00",
     "title": "Senior Engagement Manager, PS Sales - DACH",
     "company": "gitlab",
     "ats": "greenhouse",
@@ -327456,7 +327456,7 @@
     "alerted": false
   },
   "greenhouse:databricks:7651346002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-14T23:37:28-05:00",
     "title": "Staff Software Engineer",
     "company": "databricks",
     "ats": "greenhouse",
@@ -439430,5 +439430,53 @@
     "ats": "greenhouse",
     "source_slug": "anthropic",
     "alerted": true
+  },
+  "greenhouse:gitlab:8937797002": {
+    "updated_at": "2026-11-15T02:56:39-05:00",
+    "title": "Customer Success Architect, NEUR",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:databricks:8944097002": {
+    "updated_at": "2026-11-14T23:36:01-05:00",
+    "title": "Staff Software Engineer (App-Framework)",
+    "company": "databricks",
+    "ats": "greenhouse",
+    "source_slug": "databricks",
+    "alerted": false
+  },
+  "greenhouse:spacex:8943586002": {
+    "updated_at": "2026-11-14T21:59:43-05:00",
+    "title": "Full Stack Software Engineer (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8943684002": {
+    "updated_at": "2026-11-14T21:58:00-05:00",
+    "title": "Sr. Full Stack Software Engineer (Starlink)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8943425002": {
+    "updated_at": "2026-11-14T15:16:04-05:00",
+    "title": "TIG Welder (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:samsara:8387609": {
+    "updated_at": "2026-11-14T12:33:06-05:00",
+    "title": "Sr Software Engineer I/II, Operational AI",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
   }
 }

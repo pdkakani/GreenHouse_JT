@@ -1,3 +1,87 @@
+## 📅 Run: 2026-11-15 09:54 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Engagement Manager, PS Sales - DACH
+**Greenhouse** · gitlab · Practice Management
+📍 Remote, Austria; Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8725981002)
+🕐 Updated: 2026-11-15T03:21:07-05:00 | ID: 8725981002
+
+#### 🔄 Senior Staff Software Engineer (Backend)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002)
+🕐 Updated: 2026-11-14T23:37:30-05:00 | ID: 7651345002
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002)
+🕐 Updated: 2026-11-14T23:37:28-05:00 | ID: 7651346002
+
+#### 🔄 Staff Software Engineer - Databases
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002)
+🕐 Updated: 2026-11-14T23:37:27-05:00 | ID: 7601565002
+
+#### 🔄 Senior Software Engineer (App-Framework)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002)
+🕐 Updated: 2026-11-14T23:37:00-05:00 | ID: 8210383002
+
+#### 🔄 Senior Software Engineer (Infra)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002)
+🕐 Updated: 2026-11-14T23:36:55-05:00 | ID: 7619810002
+
+#### 🔄 Senior Software Engineer (Backend)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002)
+🕐 Updated: 2026-11-14T23:36:53-05:00 | ID: 6709301002
+
+#### 🔄 Senior Software Engineer - Data + AI Observability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002)
+🕐 Updated: 2026-11-14T23:36:38-05:00 | ID: 7897431002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002)
+🕐 Updated: 2026-11-14T23:36:27-05:00 | ID: 8320187002
+
+#### 🔄 Senior Software Engineer (App-Framework)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002)
+🕐 Updated: 2026-11-14T23:34:41-05:00 | ID: 8294304002
+
+#### 🔄 Engineering Manager - Core Experiences
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002)
+🕐 Updated: 2026-11-14T23:30:40-05:00 | ID: 7006090002
+
+#### 🔄 Engineering Manager (Ingestion)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002)
+🕐 Updated: 2026-11-14T23:30:38-05:00 | ID: 8357216002
+
+#### 🔄 Staff Software Engineer (Data Platform)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002)
+🕐 Updated: 2026-11-14T23:30:20-05:00 | ID: 7652016002
+
+#### 🔄 Senior Software Engineer (Data Platform)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002)
+🕐 Updated: 2026-11-14T23:30:10-05:00 | ID: 7647369002
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15710 fetched, 14 updated, 6 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15816 fetched, 14 updated, 6 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-15 02:39 UTC
 
 ### Greenhouse
