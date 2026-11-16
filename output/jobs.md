@@ -1,3 +1,97 @@
+## 📅 Run: 2026-11-16 08:00 UTC
+
+### Greenhouse
+
+#### 🔄 Ocean Operations Associate
+**Greenhouse** · flexport · Ocean Gateway Operations
+📍 Bangkok, Thailand | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/7273081)
+🕐 Updated: 2026-11-16T02:46:57-05:00 | ID: 7273081
+
+#### 🔄 Member of Technical Staff, Flash Array (Files)
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8382294)
+🕐 Updated: 2026-11-16T02:13:29-05:00 | ID: 8382294
+
+#### 🔄 Solutions Engineer, London
+**Greenhouse** · gleanwork · Sales
+📍 London, UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4729652005)
+🕐 Updated: 2026-11-16T01:40:06-05:00 | ID: 4729652005
+
+#### 🔄 Strategic Account Executive, UKI
+**Greenhouse** · gleanwork · Sales
+📍 London, UK | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4702767005)
+🕐 Updated: 2026-11-16T01:35:27-05:00 | ID: 4702767005
+
+#### 🔄 Forward Deployed Engineer (Full-stack)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002)
+🕐 Updated: 2026-11-16T01:17:21-05:00 | ID: 8741922002
+
+#### 🔄 Sr. Forward Deployed Engineer (Full-stack)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8741925002)
+🕐 Updated: 2026-11-16T01:16:34-05:00 | ID: 8741925002
+
+#### 🔄 Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)
+**Greenhouse** · samsara · Platform
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8387002?gh_jid=8387002)
+🕐 Updated: 2026-11-16T01:05:05-05:00 | ID: 8387002
+
+#### 🔄 Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)
+**Greenhouse** · samsara · Platform
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8374911?gh_jid=8374911)
+🕐 Updated: 2026-11-16T01:04:39-05:00 | ID: 8374911
+
+#### 🔄 Member of Technical Staff, Kernel
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8049018)
+🕐 Updated: 2026-11-16T00:49:08-05:00 | ID: 8049018
+
+#### 🔄 Product Support Account Manager
+**Greenhouse** · workato · Operations
+📍 Alabang, Philippines | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8879654002#open-roles)
+🕐 Updated: 2026-11-15T23:40:25-05:00 | ID: 8879654002
+
+#### 🔄 Integration Reliability Engineer, Technical Operations
+**Greenhouse** · stripe · 8278 MaaS APAC
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8282171)
+🕐 Updated: 2026-11-15T21:50:30-05:00 | ID: 8282171
+
+#### 🔄 Implementation Engineer
+**Greenhouse** · adyen · Professional Services
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8370587)
+🕐 Updated: 2026-11-15T21:15:06-05:00 | ID: 8370587
+
+#### 🔄 Senior Web Program Manager
+**Greenhouse** · samsara · CMO Strategic Initiatives
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8179593?gh_jid=8179593)
+🕐 Updated: 2026-11-15T21:02:14-05:00 | ID: 8179593
+
+#### 🔄 People Analytics AI Engineer
+**Greenhouse** · samsara · People Experience
+📍 Remote - Seattle | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719)
+🕐 Updated: 2026-11-15T20:49:52-05:00 | ID: 7858719
+
+#### 🔄 Sr. Business Partner, Sales Operations
+**Greenhouse** · purestorage · Sales
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8225833)
+🕐 Updated: 2026-11-15T20:35:55-05:00 | ID: 8225833
+
+#### 🔄 Underwriter
+**Greenhouse** · hometap · Investment Operations
+📍 Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/hometap/jobs/5169564007)
+🕐 Updated: 2026-11-15T20:21:34-05:00 | ID: 5169564007
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15684 fetched, 16 updated, 22 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 77 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15791 fetched, 16 updated, 22 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-16 01:14 UTC
 
 ### Greenhouse
