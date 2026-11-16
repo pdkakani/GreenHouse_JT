@@ -218944,7 +218944,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4692028006": {
-    "updated_at": "2026-11-04T18:33:14-05:00",
+    "updated_at": "2026-11-15T19:07:56-05:00",
     "title": "Senior Software Engineer II, Applied Training",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -315496,7 +315496,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5405548008": {
-    "updated_at": "2026-08-27T19:20:31-04:00",
+    "updated_at": "2026-11-15T19:40:19-05:00",
     "title": "Engineering Manager, Hardware Platform Security",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -377552,7 +377552,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8440940002": {
-    "updated_at": "2026-11-13T15:13:15-05:00",
+    "updated_at": "2026-11-15T20:06:33-05:00",
     "title": "Enterprise Account Executive - Hunter (New Logo)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -427752,7 +427752,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5468901008": {
-    "updated_at": "2026-11-06T19:04:03-05:00",
+    "updated_at": "2026-11-15T18:34:51-05:00",
     "title": "Staff+ Software Engineer, STEM",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -438248,8 +438248,8 @@
     "alerted": false
   },
   "greenhouse:elastic:8377579": {
-    "updated_at": "2026-11-13T10:35:51-05:00",
-    "title": "Regional Services Partner",
+    "updated_at": "2026-11-15T17:12:19-05:00",
+    "title": "Senior Principal Regional Services Partner",
     "company": "elastic",
     "ats": "greenhouse",
     "source_slug": "elastic",
@@ -439542,5 +439542,21 @@
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": true
+  },
+  "greenhouse:mongodb:8385636": {
+    "updated_at": "2026-11-15T16:20:31-05:00",
+    "title": "Candidate Experience Coordinator",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8383151": {
+    "updated_at": "2026-11-15T15:06:42-05:00",
+    "title": "Associate Systems Engineer, Excellence Center, (Prague)",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
   }
 }

@@ -1,3 +1,42 @@
+## 📅 Run: 2026-11-16 01:14 UTC
+
+### Greenhouse
+
+#### 🔄 Enterprise Account Executive - Hunter (New Logo)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8440940002)
+🕐 Updated: 2026-11-15T20:06:33-05:00 | ID: 8440940002
+
+#### 🔄 Engineering Manager, Hardware Platform Security
+**Greenhouse** · anthropic · Security
+📍 San Francisco, CA | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5405548008)
+🕐 Updated: 2026-11-15T19:40:19-05:00 | ID: 5405548008
+
+#### 🔄 Senior Software Engineer II, Applied Training
+**Greenhouse** · coreweave · Technology
+📍 Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4692028006&board=coreweave&gh_jid=4692028006)
+🕐 Updated: 2026-11-15T19:07:56-05:00 | ID: 4692028006
+
+#### 🔄 Staff+ Software Engineer, STEM
+**Greenhouse** · anthropic · AI Research & Engineering
+📍 San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5468901008)
+🕐 Updated: 2026-11-15T18:34:51-05:00 | ID: 5468901008
+
+#### 🔄 Senior Principal Regional Services Partner
+**Greenhouse** · elastic · Consulting - APJ
+📍 Singapore | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8377579&gh_jid=8377579)
+🕐 Updated: 2026-11-15T17:12:19-05:00 | ID: 8377579
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15698 fetched, 5 updated, 2 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 77 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15805 fetched, 5 updated, 2 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-15 21:19 UTC
 
 ### Greenhouse
