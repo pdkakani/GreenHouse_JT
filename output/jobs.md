@@ -1,3 +1,627 @@
+## 📅 Run: 2026-11-17 10:11 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Fullstack Engineer (AI Fluent)
+**Greenhouse** · payoneer · Product Compliance
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8344470/?gh_jid=8344470)
+🕐 Updated: 2026-11-17T05:11:29-05:00 | ID: 8344470
+
+#### 🔄 Technical Account Manager, German Speaking
+**Greenhouse** · stripe · 4147 Technical Account Management, Support & Services - EMEA
+📍 Berlin, Germany | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8368645)
+🕐 Updated: 2026-11-17T05:06:16-05:00 | ID: 8368645
+
+#### 🔄 Applied Value Engineer-Scale-NAM
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635374003?gh_jid=7635374003)
+🕐 Updated: 2026-11-17T04:49:32-05:00 | ID: 7635374003
+
+#### 🔄 Turkish speaking Account Development Representative, UAE
+**Greenhouse** · coursera · Sales
+📍 United Arab Emirates | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6250589004)
+🕐 Updated: 2026-11-17T04:39:40-05:00 | ID: 6250589004
+
+#### 🔄 Business Systems Analyst 3
+**Greenhouse** · mongodb · FIN Tech
+📍 Bengaluru; Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8327106)
+🕐 Updated: 2026-11-17T04:36:45-05:00 | ID: 8327106
+
+#### 🔄 Senior Product Manager, New Database Product
+**Greenhouse** · cloudflare · Emerging Technology and Incubation
+📍 Hybrid; In-Office | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8365223?gh_jid=8365223)
+🕐 Updated: 2026-11-17T04:33:27-05:00 | ID: 8365223
+
+#### 🔄 Technical Solutions Engineer
+**Greenhouse** · stripe · 4150 Technical Support
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8368656)
+🕐 Updated: 2026-11-17T04:28:02-05:00 | ID: 8368656
+
+#### 🔄 Senior Partner Account Manager
+**Greenhouse** · samsara · Partner Sales
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8359154?gh_jid=8359154)
+🕐 Updated: 2026-11-17T04:06:57-05:00 | ID: 8359154
+
+#### 🔄 Strategy & Analytics Senior Lead - Multiple Openings
+**Greenhouse** · faire · Strategy & Analytics
+📍 New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8396231002?gh_jid=8396231002)
+🕐 Updated: 2026-11-17T04:04:17-05:00 | ID: 8396231002
+
+#### 🔄 Strategy & Analytics Lead - Multiple Openings
+**Greenhouse** · faire · Strategy & Analytics
+📍 New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8623235002?gh_jid=8623235002)
+🕐 Updated: 2026-11-17T04:03:42-05:00 | ID: 8623235002
+
+#### 🔄 Operations Director, PPG
+**Greenhouse** · payoneer · CN License OPR
+📍 Guangzhou, China | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8151949/?gh_jid=8151949)
+🕐 Updated: 2026-11-17T03:42:30-05:00 | ID: 8151949
+
+#### 🔄 Intern, Data Engineering
+**Greenhouse** · workato · Business Technology
+📍 Singapore | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8731177002#open-roles)
+🕐 Updated: 2026-11-17T03:41:28-05:00 | ID: 8731177002
+
+#### 🔄 Solutions Architect - Digital Native Business (Geo)
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Connecticut; Remote - Massachusetts; Remote - New York; Remote - Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8904745002)
+🕐 Updated: 2026-11-17T03:39:39-05:00 | ID: 8904745002
+
+#### 🔄 Sr. Solutions Architect - AI Natives Business
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893720002)
+🕐 Updated: 2026-11-17T03:39:38-05:00 | ID: 8893720002
+
+#### 🔄 Manager, Field Engineering - Strategic Digital Native Business
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8859577002)
+🕐 Updated: 2026-11-17T03:39:31-05:00 | ID: 8859577002
+
+#### 🔄 Solutions Architect - Digital Native Business (Healthtech)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8782711002)
+🕐 Updated: 2026-11-17T03:39:19-05:00 | ID: 8782711002
+
+#### 🔄 Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8756686002)
+🕐 Updated: 2026-11-17T03:39:14-05:00 | ID: 8756686002
+
+#### 🔄 Delivery Solutions Architect - Digital Native Business
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8736473002)
+🕐 Updated: 2026-11-17T03:39:11-05:00 | ID: 8736473002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Northeast - United States; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002)
+🕐 Updated: 2026-11-17T03:39:00-05:00 | ID: 8643895002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002)
+🕐 Updated: 2026-11-17T03:39:00-05:00 | ID: 8647669002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002)
+🕐 Updated: 2026-11-17T03:39:00-05:00 | ID: 8647670002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Denver, Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002)
+🕐 Updated: 2026-11-17T03:39:00-05:00 | ID: 8647675002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002)
+🕐 Updated: 2026-11-17T03:39:00-05:00 | ID: 8647677002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002)
+🕐 Updated: 2026-11-17T03:39:00-05:00 | ID: 8647668002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Central - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002)
+🕐 Updated: 2026-11-17T03:39:00-05:00 | ID: 8647667002
+
+#### 🔄 Solutions Architect - Digital Native Business, Named Accounts
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Nevada; Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569640002)
+🕐 Updated: 2026-11-17T03:38:57-05:00 | ID: 8569640002
+
+#### 🔄 Sr. Solutions Architect - Digital Native Business (Strategic Accounts)
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567963002)
+🕐 Updated: 2026-11-17T03:38:55-05:00 | ID: 8567963002
+
+#### 🔄 Solutions Architect - Strategic High Tech
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8563159002)
+🕐 Updated: 2026-11-17T03:38:54-05:00 | ID: 8563159002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647743002)
+🕐 Updated: 2026-11-17T03:38:51-05:00 | ID: 8647743002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002)
+🕐 Updated: 2026-11-17T03:38:51-05:00 | ID: 8807049002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002)
+🕐 Updated: 2026-11-17T03:38:51-05:00 | ID: 8807063002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002)
+🕐 Updated: 2026-11-17T03:38:51-05:00 | ID: 8807081002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002)
+🕐 Updated: 2026-11-17T03:38:51-05:00 | ID: 8807033002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002)
+🕐 Updated: 2026-11-17T03:38:51-05:00 | ID: 8488399002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002)
+🕐 Updated: 2026-11-17T03:38:49-05:00 | ID: 8494155002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002)
+🕐 Updated: 2026-11-17T03:38:49-05:00 | ID: 8494154002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002)
+🕐 Updated: 2026-11-17T03:38:49-05:00 | ID: 8341313002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002)
+🕐 Updated: 2026-11-17T03:38:49-05:00 | ID: 8494156002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461220002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461219002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8494153002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Los Angeles, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461168002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461163002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Denver, Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461243002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461251002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Raleigh, North Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461258002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461226002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461222002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461239002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461241002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461218002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002)
+🕐 Updated: 2026-11-17T03:38:47-05:00 | ID: 8461193002
+
+#### 🔄 Account Executive, Scale (Thailand market)
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8079466)
+🕐 Updated: 2026-11-17T03:37:00-05:00 | ID: 8079466
+
+#### 🔄 Business Development Representative - French Speaking
+**Greenhouse** · cloudflare · BDR
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8169264?gh_jid=8169264)
+🕐 Updated: 2026-11-17T03:34:26-05:00 | ID: 8169264
+
+#### 🔄 Data Analyst
+**Greenhouse** · stripe · 7112 Data Science
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8230296)
+🕐 Updated: 2026-11-17T03:23:49-05:00 | ID: 8230296
+
+#### 🔄 Principal Executive Communications Manager, Chief Product & Technology Officer
+**Greenhouse** · twilio · Marketing
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8208337)
+🕐 Updated: 2026-11-17T03:17:04-05:00 | ID: 8208337
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8028958)
+🕐 Updated: 2026-11-17T03:09:48-05:00 | ID: 8028958
+
+#### 🔄 Fast Track Operations Specialist 2
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8097524)
+🕐 Updated: 2026-11-17T03:09:45-05:00 | ID: 8097524
+
+#### 🔄 Strategic Account Excecutive
+**Greenhouse** · twilio · Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8076981)
+🕐 Updated: 2026-11-17T03:09:42-05:00 | ID: 8076981
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8206834)
+🕐 Updated: 2026-11-17T03:09:34-05:00 | ID: 8206834
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8201498)
+🕐 Updated: 2026-11-17T03:09:23-05:00 | ID: 8201498
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8226571)
+🕐 Updated: 2026-11-17T03:09:19-05:00 | ID: 8226571
+
+#### 🔄 Senior Accounting Manager
+**Greenhouse** · twilio · Accounting
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261247)
+🕐 Updated: 2026-11-17T03:09:14-05:00 | ID: 8261247
+
+#### 🔄 Director, LATAM Carrier Relations
+**Greenhouse** · twilio · Business Operations
+📍 Remote - Brazil; Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8175075)
+🕐 Updated: 2026-11-17T03:09:11-05:00 | ID: 8175075
+
+#### 🔄 Billing Operations Analyst 1
+**Greenhouse** · twilio · Accounting
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261245)
+🕐 Updated: 2026-11-17T03:09:04-05:00 | ID: 8261245
+
+#### 🔄 Principal Presales Engineer, Product Specialist
+**Greenhouse** · twilio · Sales
+📍 Remote - Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8267928)
+🕐 Updated: 2026-11-17T03:08:56-05:00 | ID: 8267928
+
+#### 🔄 Executive Assistant 3
+**Greenhouse** · twilio · Administration
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8281950)
+🕐 Updated: 2026-11-17T03:08:50-05:00 | ID: 8281950
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8280711)
+🕐 Updated: 2026-11-17T03:08:46-05:00 | ID: 8280711
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8300856)
+🕐 Updated: 2026-11-17T03:08:44-05:00 | ID: 8300856
+
+#### 🔄 Personalized Support Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8366792)
+🕐 Updated: 2026-11-17T03:08:37-05:00 | ID: 8366792
+
+#### 🔄 Compliance Operations Specialist
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8312421)
+🕐 Updated: 2026-11-17T03:08:18-05:00 | ID: 8312421
+
+#### 🔄 Payroll Analyst II (US and Mexico Payroll)
+**Greenhouse** · twilio · Finance
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8324448)
+🕐 Updated: 2026-11-17T03:08:14-05:00 | ID: 8324448
+
+#### 🔄 Supervisor, Billing Operations
+**Greenhouse** · twilio · Finance
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8324446)
+🕐 Updated: 2026-11-17T03:08:10-05:00 | ID: 8324446
+
+#### 🔄 Payroll Analyst II (Colombia and LATAM Payroll)
+**Greenhouse** · twilio · Finance
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8324443)
+🕐 Updated: 2026-11-17T03:08:03-05:00 | ID: 8324443
+
+#### 🔄 New Business Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8327527)
+🕐 Updated: 2026-11-17T03:07:52-05:00 | ID: 8327527
+
+#### 🔄 Senior Solutions Architect, APJC (Developer Platform) - India Market
+**Greenhouse** · cloudflare · Developer Relations
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8169689?gh_jid=8169689)
+🕐 Updated: 2026-11-17T03:03:05-05:00 | ID: 8169689
+
+#### 🔄 Senior Sales Engineer, France
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8382746?gh_jid=8382746)
+🕐 Updated: 2026-11-17T03:02:43-05:00 | ID: 8382746
+
+#### 🔄 Data Engineer - E2
+**Greenhouse** · bitgo · Engineering
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8362058002)
+🕐 Updated: 2026-11-17T03:02:22-05:00 | ID: 8362058002
+
+#### 🔄 Lead Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7997130003?gh_jid=7997130003)
+🕐 Updated: 2026-11-17T03:00:56-05:00 | ID: 7997130003
+
+#### 🔄 Lead Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7997129003?gh_jid=7997129003)
+🕐 Updated: 2026-11-17T03:00:55-05:00 | ID: 7997129003
+
+#### 🔄 Lead Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7802701003?gh_jid=7802701003)
+🕐 Updated: 2026-11-17T03:00:53-05:00 | ID: 7802701003
+
+#### 🔄 Staff Engineer, Applied AI (Customer Agent)
+**Greenhouse** · klaviyo · Engineering
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7993282003?gh_jid=7993282003)
+🕐 Updated: 2026-11-17T03:00:53-05:00 | ID: 7993282003
+
+#### 🔄 Payroll Manager, APAC
+**Greenhouse** · flexport · People
+📍 Hong Kong; Shenzhen, China | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8269181)
+🕐 Updated: 2026-11-17T02:35:43-05:00 | ID: 8269181
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · okta · Sales Development-310
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8302473?gh_jid=8302473)
+🕐 Updated: 2026-11-17T02:16:24-05:00 | ID: 8302473
+
+#### 🔄 Account Executive, Ripple Treasury (German Speaking)
+**Greenhouse** · ripple · Sales
+📍 Geneva, Switzerland | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8358426?gh_jid=8358426)
+🕐 Updated: 2026-11-17T02:10:50-05:00 | ID: 8358426
+
+#### 🔄 Account Executive, Ripple Treasury
+**Greenhouse** · ripple · Sales
+📍 London, UK | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8358370?gh_jid=8358370)
+🕐 Updated: 2026-11-17T02:10:30-05:00 | ID: 8358370
+
+#### 🔄 Partner Sales Manager
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8627710002#open-roles)
+🕐 Updated: 2026-11-17T01:45:56-05:00 | ID: 8627710002
+
+#### 🔄 Storage GSI Solution Architect (Japanese speaking)
+**Greenhouse** · purestorage · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8317537)
+🕐 Updated: 2026-11-17T01:45:34-05:00 | ID: 8317537
+
+#### 🔄 Global Account Director
+**Greenhouse** · workato · Sales and Customer Success
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8720210002#open-roles)
+🕐 Updated: 2026-11-17T01:10:39-05:00 | ID: 8720210002
+
+#### 🔄 Engineering Manager, ChatBots and AI
+**Greenhouse** · workato · Product & Engineering
+📍 Berlin, Germany; Frankfurt, Germany; Munich, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8941624002#open-roles)
+🕐 Updated: 2026-11-17T01:08:29-05:00 | ID: 8941624002
+
+#### 🔄 Engineering Manager, ChatBots and AI
+**Greenhouse** · workato · Product & Engineering
+📍 Barcelona, Spain; Madrid, Spain | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8721911002#open-roles)
+🕐 Updated: 2026-11-17T01:07:19-05:00 | ID: 8721911002
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · braze · Sales
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8358094)
+🕐 Updated: 2026-11-17T00:44:44-05:00 | ID: 8358094
+
+#### 🔄 Lead, Customer Success Operations Analyst
+**Greenhouse** · rubrik · Support
+📍 Palo Alto, CA | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8140173?gh_jid=8140173)
+🕐 Updated: 2026-11-17T00:43:09-05:00 | ID: 8140173
+
+#### 🔄 Deployment Strategist
+**Greenhouse** · databricks · Professional Services Operations
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922945002)
+🕐 Updated: 2026-11-17T00:41:37-05:00 | ID: 8922945002
+
+#### 🔄 Staff Site Reliability Engineer, Security- GCP
+**Greenhouse** · okta · Security Engineering-695
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/6671260?gh_jid=6671260)
+🕐 Updated: 2026-11-17T00:41:12-05:00 | ID: 6671260
+
+#### 🔄 Partner Program Manager, APJ
+**Greenhouse** · okta · Partner Success-240
+📍 Bengaluru | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8245298?gh_jid=8245298)
+🕐 Updated: 2026-11-17T00:33:48-05:00 | ID: 8245298
+
+#### 🔄 Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence
+**Greenhouse** · anthropic · Safeguards (Trust & Safety)
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5440535008)
+🕐 Updated: 2026-11-17T00:27:46-05:00 | ID: 5440535008
+
+#### 🔄 Senior Collections Analyst
+**Greenhouse** · purestorage · Finance
+📍 Lehi, Utah | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8162823)
+🕐 Updated: 2026-11-17T00:16:05-05:00 | ID: 8162823
+
+#### 🔄 Senior Backend Engineer, Development Health
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8928675002)
+🕐 Updated: 2026-11-17T00:14:31-05:00 | ID: 8928675002
+
+#### 🔄 Senior Technical Program Manager, Hardware Modules
+**Greenhouse** · waymo · Other SDS Systems (77O)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8360841)
+🕐 Updated: 2026-11-17T00:13:53-05:00 | ID: 8360841
+
+#### 🔄 Staff Tech Lead Software Engineer, Vehicle Realism Platform
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8209835)
+🕐 Updated: 2026-11-17T00:13:01-05:00 | ID: 8209835
+
+#### 🔄 Staff Tech Lead Manager, Machine Learning Engineering, Simulator Evaluation
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View, California, United States; San Francisco, California, United States. | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8209790)
+🕐 Updated: 2026-11-17T00:12:31-05:00 | ID: 8209790
+
+#### 🔄 Program Manager, Global Capacity & Resilience
+**Greenhouse** · purestorage · Supply Chain Operations
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8240856)
+🕐 Updated: 2026-11-17T00:11:30-05:00 | ID: 8240856
+
+#### 🔄 Staff Tech Lead Software Engineer, Vehicle Realism Platform
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View, CA, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7540809)
+🕐 Updated: 2026-11-17T00:11:25-05:00 | ID: 7540809
+
+#### 🔄 Senior Staff Tech Lead Manager, Simulator Efficiency
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View, California, United States; San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7540248)
+🕐 Updated: 2026-11-17T00:10:30-05:00 | ID: 7540248
+
+#### 🔄 Staff Software Engineer, Simulator Platform
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7222566)
+🕐 Updated: 2026-11-17T00:10:03-05:00 | ID: 7222566
+
+#### 🔄 Senior Software Engineer, Simulator Orchestration
+**Greenhouse** · waymo · Simulation (7XW)
+📍 Mountain View, California, United States; San Francisco, California, United States | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7978589)
+🕐 Updated: 2026-11-17T00:09:40-05:00 | ID: 7978589
+
+#### 🔄 Field Marketing Specialist
+**Greenhouse** · purestorage · Marketing
+📍 Santa Clara, California; Seattle, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8351437)
+🕐 Updated: 2026-11-17T00:09:23-05:00 | ID: 8351437
+
+#### 🔄 Safeguards Enforcement Analyst, Bio Harms
+**Greenhouse** · anthropic · Safeguards (Trust & Safety)
+📍 San Francisco, CA | New York City, NY | Washington, DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5319696008)
+🕐 Updated: 2026-11-17T00:08:49-05:00 | ID: 5319696008
+
+#### 🔄 Manager, Business Development - French Speaking
+**Greenhouse** · braze · Business Development
+📍 Paris | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8355269)
+🕐 Updated: 2026-11-17T00:01:29-05:00 | ID: 8355269
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8303845)
+🕐 Updated: 2026-11-17T00:01:26-05:00 | ID: 8303845
+
+#### 🔄 Business Development Representative
+**Greenhouse** · braze · Business Development
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8303843)
+🕐 Updated: 2026-11-17T00:01:23-05:00 | ID: 8303843
+
+#### 🔄 Corporate Paralegal
+**Greenhouse** · gusto · Legal & Compliance
+📍 New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8232302)
+🕐 Updated: 2026-11-16T23:19:20-05:00 | ID: 8232302
+
+#### 🔄 Engineering Manager - Issuing
+**Greenhouse** · adyen · Development
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8146108)
+🕐 Updated: 2026-11-16T22:44:15-05:00 | ID: 8146108
+
+#### 🔄 Engineering Manager - Financial Products
+**Greenhouse** · adyen · Development
+📍 Chicago | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8302558)
+🕐 Updated: 2026-11-16T22:44:12-05:00 | ID: 8302558
+
+#### 🔄 Security Architect - U.S. Public Sector
+**Greenhouse** · okta · Security-783
+📍 Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602)
+🕐 Updated: 2026-11-16T22:30:55-05:00 | ID: 8332602
+
+#### 🔄 Account Executive, Enterprise (Chicago)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8180695)
+🕐 Updated: 2026-11-16T21:35:57-05:00 | ID: 8180695
+
+#### 🔄 Territory Account Executive - Brisbane
+**Greenhouse** · toast · Sales : International : Horizon 2
+📍 Brisbane, Australia | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=7371232)
+🕐 Updated: 2026-11-16T21:33:06-05:00 | ID: 7371232
+
+#### 🔄 Product Support Analyst
+**Greenhouse** · workato · Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8904785002#open-roles)
+🕐 Updated: 2026-11-16T21:04:49-05:00 | ID: 8904785002
+
+#### 🔄 Principal Product Manager (Web Experience)
+**Greenhouse** · workato · Product & Engineering
+📍 Denver, Colorado | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8919945002#open-roles)
+🕐 Updated: 2026-11-16T21:02:48-05:00 | ID: 8919945002
+
+#### 🔄 Senior Infrastructure Engineer
+**Greenhouse** · mercury · Engineering
+📍 San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/mercury/jobs/6221407004)
+🕐 Updated: 2026-11-16T20:58:45-05:00 | ID: 6221407004
+
+#### 🔄 Product Manager II, Payment Experiences
+**Greenhouse** · coinbase · Product
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842)
+🕐 Updated: 2026-11-16T19:01:32-05:00 | ID: 8356842
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15625 fetched, 122 updated, 32 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 77 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15732 fetched, 122 updated, 32 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-17 01:57 UTC
 
 ### Greenhouse
