@@ -1,3 +1,7079 @@
+## 📅 Run: 2026-11-19 00:09 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Systems Engineer, Network On-Ramps
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8164724?gh_jid=8164724)
+🕐 Updated: 2026-11-18T19:02:50-05:00 | ID: 8164724
+
+#### 🔄 Senior Sales Engineer, France
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8382746?gh_jid=8382746)
+🕐 Updated: 2026-11-18T18:47:11-05:00 | ID: 8382746
+
+#### 🔄 Staff Product Designer
+**Greenhouse** · twilio · Twilio.org
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8310632)
+🕐 Updated: 2026-11-18T18:41:30-05:00 | ID: 8310632
+
+#### 🔄 Senior Software Engineer, Care Automation
+**Greenhouse** · toast · R & D : BTT : Operations, Sales & Marketing Engineering
+📍 Remote, USA | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8152954)
+🕐 Updated: 2026-11-18T18:39:35-05:00 | ID: 8152954
+
+#### 🔄 Senior Product Manager
+**Greenhouse** · twilio · Product Management
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8247185)
+🕐 Updated: 2026-11-18T18:35:06-05:00 | ID: 8247185
+
+#### 🔄 Sales Development Representative (SDR) Brand/Retailer
+**Greenhouse** · faire · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://boards.greenhouse.io/faire/jobs/8947932002?gh_jid=8947932002)
+🕐 Updated: 2026-11-18T18:34:53-05:00 | ID: 8947932002
+
+#### 🔄 Staff Technical Recruiter
+**Greenhouse** · verkada · Software Recruiting
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5253495007)
+🕐 Updated: 2026-11-18T18:32:53-05:00 | ID: 5253495007
+
+#### 🔄 Senior Analytics Engineer
+**Greenhouse** · twilio · Ops (Fraud, Compliance, Biz, Prod, Analyst)
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8044650)
+🕐 Updated: 2026-11-18T18:29:53-05:00 | ID: 8044650
+
+#### 🔄 Senior Business Development Manager, Transit & Healthcare
+**Greenhouse** · lyft · Lyft Business
+📍 New York, NY | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8938627002?gh_jid=8938627002)
+🕐 Updated: 2026-11-18T18:27:46-05:00 | ID: 8938627002
+
+#### 🔄 Senior Business Development Manager, Transit & Healthcare
+**Greenhouse** · lyft · Lyft Business
+📍 San Francisco, CA | 🔗 [Apply Here](https://app.careerpuck.com/job-board/lyft/job/8938558002?gh_jid=8938558002)
+🕐 Updated: 2026-11-18T18:27:44-05:00 | ID: 8938558002
+
+#### 🔄 Principal Product Manager
+**Greenhouse** · twilio · Product Management
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8236862)
+🕐 Updated: 2026-11-18T18:25:00-05:00 | ID: 8236862
+
+#### 🔄 Revenue Technical Accounting Manager
+**Greenhouse** · fivetran · Finance Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8202963003)
+🕐 Updated: 2026-11-18T18:22:50-05:00 | ID: 8202963003
+
+#### 🔄 Senior Employer Brand Program Manager, Events and Partnerships
+**Greenhouse** · adyen · People
+📍 San Francisco | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8049101)
+🕐 Updated: 2026-11-18T18:12:28-05:00 | ID: 8049101
+
+#### 🔄 IT Operations Specialist I
+**Greenhouse** · cloudflare · Information Technology
+📍 In-Office | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8281074?gh_jid=8281074)
+🕐 Updated: 2026-11-18T18:09:56-05:00 | ID: 8281074
+
+#### 🔄 Bilingual English and Spanish Member Loyalty Representative (R14364)
+**Greenhouse** · oportun · Business Operations
+📍 Houston, TX | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4754779005)
+🕐 Updated: 2026-11-18T18:05:47-05:00 | ID: 4754779005
+
+#### 🔄 Director, Product Security, PSIRT
+**Greenhouse** · okta · Sec - Product Security-771
+📍 Bellevue, Washington; San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373)
+🕐 Updated: 2026-11-18T18:01:17-05:00 | ID: 8383373
+
+#### 🔄 Data Scientist
+**Greenhouse** · stripe · 7112 Data Science
+📍 Toronto | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=5895430)
+🕐 Updated: 2026-11-18T17:57:17-05:00 | ID: 5895430
+
+#### 🔄 Data Scientist
+**Greenhouse** · stripe · 7112 Data Science
+📍 N/A | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=5601879)
+🕐 Updated: 2026-11-18T17:55:12-05:00 | ID: 5601879
+
+#### 🔄 Senior Product Manager - UI Platform
+**Greenhouse** · okta · Product Management-810
+📍 New York, New York; Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8022482?gh_jid=8022482)
+🕐 Updated: 2026-11-18T17:51:44-05:00 | ID: 8022482
+
+#### 🔄 デリバリーソリューションアーキテクト
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8805655002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8805655002
+
+#### 🔄 Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Bengaluru, India; Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6918763002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6918763002
+
+#### 🔄 Account Executive, Commercial - Hunter
+**Greenhouse** · databricks · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8758263002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8758263002
+
+#### 🔄 Account Executive - Digital Native
+**Greenhouse** · databricks · Enterprise Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8880398002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8880398002
+
+#### 🔄 Account Executive - Enterprise Core
+**Greenhouse** · databricks · Enterprise Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910838002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910838002
+
+#### 🔄 Account Executive - Singapore
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8874579002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8874579002
+
+#### 🔄 Account Executive - Strategic Core
+**Greenhouse** · databricks · Enterprise Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8880402002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8880402002
+
+#### 🔄 Accounting Data & Technology Manager
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688861002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8688861002
+
+#### 🔄 Accounting Manager, Accounts Receivable
+**Greenhouse** · databricks · Finance
+📍 California; New York; Remote - Colorado; Remote - Georgia; Remote - Ohio; Remote - Oregon; Remote - Pennsylvania; Remote - Texas; Remote - Washington; Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8756154002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8756154002
+
+#### 🔄 AI Automation Engineer
+**Greenhouse** · databricks · Infrastructure
+📍 Costa Rica | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8829033002
+
+#### 🔄 AI Engineer - FDE (Forward Deployed Engineer)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8574655002
+
+#### 🔄 AI Engineer – Forward Deployed Engineering (AI FDE)
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8546367002
+
+#### 🔄 AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8760167002
+
+#### 🔄 AI Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8927179002
+
+#### 🔄 AI Forward Deployed Engineer - France
+**Greenhouse** · databricks · Professional Services Operations
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8929894002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8929894002
+
+#### 🔄 AI Forward Deployed Engineer - Germany
+**Greenhouse** · databricks · Professional Services Operations
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8930374002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8930374002
+
+#### 🔄 AI Forward Deployed Engineer - Netherlands
+**Greenhouse** · databricks · Professional Services Operations
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8930378002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8930378002
+
+#### 🔄 AI Forward Deployed Engineer - Sweden
+**Greenhouse** · databricks · Professional Services Operations
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8930381002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8930381002
+
+#### 🔄 AI Sales Director
+**Greenhouse** · databricks · HQ Management
+📍 San Francisco, California; United States; West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8824171002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8824171002
+
+#### 🔄 AI Transformation Leader
+**Greenhouse** · databricks · Go To Market
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7803651002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7803651002
+
+#### 🔄 Alliance Director
+**Greenhouse** · databricks · Business Development
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688836002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8688836002
+
+#### 🔄 Analyst Relations Manager
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860646002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860646002
+
+#### 🔄 APJ Manufacturing & Automotive Industry GTM Leader
+**Greenhouse** · databricks · Go To Market
+📍 Seoul, South Korea; Singapore; Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8495065002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8495065002
+
+#### 🔄 Applied AI Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8933544002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8933544002
+
+#### 🔄 Applied AI Engineer
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8091041002
+
+#### 🔄 Business Development Lead, VC/PE
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 New York City, New York; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8475477002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8475477002
+
+#### 🔄 Business Development Representative
+**Greenhouse** · databricks · Sales Development
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8423165002
+
+#### 🔄 Business Development Representative
+**Greenhouse** · databricks · Sales Development
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423167002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8423167002
+
+#### 🔄 Business Development Representative (German-speaking, DACH)
+**Greenhouse** · databricks · Sales Development
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8924302002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8924302002
+
+#### 🔄 Chief of Staff to the CMO
+**Greenhouse** · databricks · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8788190002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8788190002
+
+#### 🔄 Core Account Executive - Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 Melbourne, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8441865002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8441865002
+
+#### 🔄 Core Account Executive - Vietnam
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438948002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8438948002
+
+#### 🔄 Corporate FP&A Manager
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8936978002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8936978002
+
+#### 🔄 Credit and Collections Manager
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8756138002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8756138002
+
+#### 🔄 Customer Enablement Architect
+**Greenhouse** · databricks · Education & Training
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8593373002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8593373002
+
+#### 🔄 Customer Enablement Architect (Capability Engineering & AI Adoption)
+**Greenhouse** · databricks · Education & Training
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8792853002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8792853002
+
+#### 🔄 CustomerLake Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8882986002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8882986002
+
+#### 🔄 Customer Marketing Manager, Americas
+**Greenhouse** · databricks · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860643002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860643002
+
+#### 🔄 Data+AI Workforce Transformation Practitioner — Customer Delivery
+**Greenhouse** · databricks · Education & Training
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8859666002
+
+#### 🔄 Data Science Intern (2027 Start)
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6866538002
+
+#### 🔄 Delivery Partner Manager, FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 Northeast - United States; San Francisco, California; Seattle, Washington; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8920618002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8920618002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8907990002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8907990002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Melbourne, Australia; Queensland, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735820002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8735820002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Invested DSA
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8675566002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8675566002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8902815002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8902815002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Atlanta, Georgia; Remote - Colorado; Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735545002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8735545002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860663002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860663002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Brisbane, Australia; Melbourne, Australia; Western Australia, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476496002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8476496002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8813844002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8813844002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Invested DSA
+📍 Munich, Germany; Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870718002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870718002
+
+#### 🔄 Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8742059002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8742059002
+
+#### 🔄 Delivery Solutions Architect - Digital Native Business
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8736473002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8736473002
+
+#### 🔄 Delivery Solutions Architect - Financial Services
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735549002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8735549002
+
+#### 🔄 Delivery Solutions Architect - Healthcare & Life Sciences
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735551002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8735551002
+
+#### 🔄 Delivery Solutions Architect - High-Tech & Manufacturing
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8549046002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8549046002
+
+#### 🔄 Delivery Solutions Architect - Oil & Gas
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8687483002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8687483002
+
+#### 🔄 Delivery Solutions Architect - Public Sector
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8559315002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8559315002
+
+#### 🔄 Delivery Solutions Architect - Public Sector (Defense Industrial Base)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899463002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899463002
+
+#### 🔄 Delivery Solutions Architect - Public Sector (DOJ)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Alabama | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899461002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899461002
+
+#### 🔄 Delivery Solutions Architect - Public Sector (DOW, DHS, Intelligence Community)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Northeast - United States; Southwest - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899462002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899462002
+
+#### 🔄 Delivery Solutions Architect - Public Sector (Federal)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899464002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899464002
+
+#### 🔄 Delivery Solutions Architect - Public Sector (SLED)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899465002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899465002
+
+#### 🔄 Delivery Solutions Architect - Startups & Emerging Enterprise
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Remote - California; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - New York; Remote - Oregon; Remote - Texas; Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8549248002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8549248002
+
+#### 🔄 Deployment Strategist
+**Greenhouse** · databricks · Professional Services Operations
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922945002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922945002
+
+#### 🔄 Deployment Strategist
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8463063002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8463063002
+
+#### 🔄 Deployment Strategist
+**Greenhouse** · databricks · Professional Services Operations
+📍 India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8630011002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8630011002
+
+#### 🔄 Deployment Strategist
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8637736002
+
+#### 🔄 Deputy Facility Security Officer
+**Greenhouse** · databricks · Administration
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8811713002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8811713002
+
+#### 🔄 Digital Native Account Executive, Thailand
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8878095002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8878095002
+
+#### 🔄 Digital Native Hunter Account Executive
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8644183002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8644183002
+
+#### 🔄 Digital Natives Hunter Account Executive, Nordics
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8863018002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8863018002
+
+#### 🔄 Director, Delivery Solutions Architects - Public Sector
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8739519002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8739519002
+
+#### 🔄 Director, Enterprise
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8603672002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8603672002
+
+#### 🔄 Director, Enterprise (NSW)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8939231002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8939231002
+
+#### 🔄 Director, Enterprise Sales, Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 Ottawa, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8882379002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8882379002
+
+#### 🔄 Director, Event Techology
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860669002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860669002
+
+#### 🔄 Director, Field Engineering
+**Greenhouse** · databricks · Field Engineering - Other
+📍 United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7879725002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7879725002
+
+#### 🔄 Director, Field Engineering
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8397552002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8397552002
+
+#### 🔄 Director, Field Engineering
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8397558002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8397558002
+
+#### 🔄 Director, Field Engineering Emerging Enterprises & Startups
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8662803002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8662803002
+
+#### 🔄 Director, Lakebase Sales Specialist- Financial Services
+**Greenhouse** · databricks · HQ Management
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569608002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569608002
+
+#### 🔄 Director, Lakebase Sales Specialists (Central region)
+**Greenhouse** · databricks · HQ Management
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567843002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8567843002
+
+#### 🔄 Director, Marketing Strategy and AI Transformation
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735590002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8735590002
+
+#### 🔄 Director of Engineering
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7896551002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7896551002
+
+#### 🔄 Director of Engineering - Databricks Commercialization & Marketplace
+**Greenhouse** · databricks · Engineering
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8932679002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8932679002
+
+#### 🔄 Director of Engineering (Data Infrastructure)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8290810002
+
+#### 🔄 Director, Order to Revenue Compliance
+**Greenhouse** · databricks · Finance
+📍 Central - United States; West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8604585002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8604585002
+
+#### 🔄 Director, People M&A
+**Greenhouse** · databricks · People
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8637368002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8637368002
+
+#### 🔄 Director, Revenue Assurance & Ireland Country Lead
+**Greenhouse** · databricks · Finance
+📍 Ireland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8788172002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8788172002
+
+#### 🔄 Director, Strategic Partnerships
+**Greenhouse** · databricks · Business Strategy and Ops
+📍 New York City, New York; San Francisco, California; Seattle, Washington; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7795026002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7795026002
+
+#### 🔄 Director, Strategic Programs & Operations, CAO
+**Greenhouse** · databricks · Finance
+📍 West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922718002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922718002
+
+#### 🔄 Director, Technical Marketing
+**Greenhouse** · databricks · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860667002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860667002
+
+#### 🔄 Director, Travel & Expense
+**Greenhouse** · databricks · Exec Finance
+📍 San Francisco, California; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8582308002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8582308002
+
+#### 🔄 Director, Web Marketing
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8638642002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8638642002
+
+#### 🔄 Emerging Enterprise Account Executive
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7716357002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7716357002
+
+#### 🔄 Emerging Enterprise Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8194916002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8194916002
+
+#### 🔄 Emerging Enterprise Account Executive, France
+**Greenhouse** · databricks · Enterprise Sales
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8908544002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8908544002
+
+#### 🔄 Emerging Enterprise Core Account Executive
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 Calgary, Canada; Montréal, Canada; Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8906591002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8906591002
+
+#### 🔄 Engagement Manager
+**Greenhouse** · databricks · Professional Services Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8501186002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8501186002
+
+#### 🔄 Engineering Manager, App Traffic
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8786930002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8786930002
+
+#### 🔄 Engineering Manager - Backend
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7439442002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7439442002
+
+#### 🔄 Engineering Manager - Compute Infra
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6736119002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6736119002
+
+#### 🔄 Engineering Manager, CustomerLake Profile Agents
+**Greenhouse** · databricks · Engineering
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8709386002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8709386002
+
+#### 🔄 Engineering Manager - Databricks SQL Control Plane
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8472398002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8472398002
+
+#### 🔄 Engineering Manager - Developer Ecosystem
+**Greenhouse** · databricks · Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8937807002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8937807002
+
+#### 🔄 Engineering Manager - Notebook Dataplane
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8940488002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8940488002
+
+#### 🔄 Engineering Manager, Serverless Compute Platform
+**Greenhouse** · databricks · Engineering
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8603361002
+
+#### 🔄 Engineering Manager - Streaming
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8324875002
+
+#### 🔄 Engineering Manager - UI Platform
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8013809002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910840002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910840002
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8920011002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8920011002
+
+#### 🔄 Enterprise Account Executive, Benelux
+**Greenhouse** · databricks · Enterprise Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8589349002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8589349002
+
+#### 🔄 Enterprise Account Executive - China
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - China | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8844022002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8844022002
+
+#### 🔄 Enterprise Account Executive - China
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8813191002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8813191002
+
+#### 🔄 Enterprise Account Executive -  Consumer and Distribution
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899915002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899915002
+
+#### 🔄 Enterprise Account Executive - CPG
+**Greenhouse** · databricks · Enterprise Sales
+📍 Northeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870938002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870938002
+
+#### 🔄 Enterprise Account Executive, Federal Civilian
+**Greenhouse** · databricks · Public Sector Sales
+📍 Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8816440002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8816440002
+
+#### 🔄 Enterprise Account Executive, Federal Financials
+**Greenhouse** · databricks · Public Sector Sales
+📍 Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870724002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870724002
+
+#### 🔄 Enterprise Account Executive - Gaming
+**Greenhouse** · databricks · Enterprise Sales
+📍 Nevada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8588516002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8588516002
+
+#### 🔄 Enterprise Account Executive, Healthcare
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - New York; Remote - North Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8925467002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8925467002
+
+#### 🔄 Enterprise Account Executive, Healthcare
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Missouri; Remote - New York; Remote - Ohio; Remote - Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8871484002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8871484002
+
+#### 🔄 Enterprise Account Executive, Healthcare
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8925472002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8925472002
+
+#### 🔄 Enterprise Account Executive - Hunter (New Logo)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8440940002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8440940002
+
+#### 🔄 Enterprise Account Executive - Hunter (New Logo)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910864002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910864002
+
+#### 🔄 Enterprise Account Executive, Middle-East and Africa
+**Greenhouse** · databricks · Enterprise Sales
+📍 United Arab Emirates | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8452487002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8452487002
+
+#### 🔄 Enterprise Account Executive, Nordics
+**Greenhouse** · databricks · Enterprise Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8736885002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8736885002
+
+#### 🔄 Enterprise Account Executive - Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8440922002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8440922002
+
+#### 🔄 Enterprise Account Executive - Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8206138002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8206138002
+
+#### 🔄 Enterprise Account Executive - Retail
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8582321002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8582321002
+
+#### 🔄 Enterprise Account Executive - Telecommunications
+**Greenhouse** · databricks · Enterprise Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8808527002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8808527002
+
+#### 🔄 Enterprise Account Executive - UK Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8700398002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8700398002
+
+#### 🔄 Enterprise Account Executive – Utilities
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8737171002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8737171002
+
+#### 🔄 Enterprise Core Account Executive, Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 British Columbia, Canada; Calgary, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8582323002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8582323002
+
+#### 🔄 Enterprise Hunter Account Executive, FSI/ DIB
+**Greenhouse** · databricks · Public Sector Sales
+📍 Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870726002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870726002
+
+#### 🔄 Enterprise Hunter Account Executive, Nordics
+**Greenhouse** · databricks · Enterprise Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8855879002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8855879002
+
+#### 🔄 Enterprise Sales Director, Retail
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8902290002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8902290002
+
+#### 🔄 Enterprise Sales Director,  Utilities & Telco
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8394014002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8394014002
+
+#### 🔄 Evergreen - AI Engineer, AI FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8878946002
+
+#### 🔄 Evergreen - FDE Brazil
+**Greenhouse** · databricks · Field Engineering
+📍 Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8638732002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8638732002
+
+#### 🔄 Evergreen Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7827370002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7827370002
+
+#### 🔄 Executive Assistant
+**Greenhouse** · databricks · HQ Management
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8701067002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8701067002
+
+#### 🔄 Field CTO - America Industries
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8306218002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8306218002
+
+#### 🔄 Field Enablement Manager, Emerging Business & LATAM
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8701065002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8701065002
+
+#### 🔄 Field Engineering Manager, Specialist Solutions Architects
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785065002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785065002
+
+#### 🔄 Field Engineering Manager, Specialist Solutions Architects - Nordics
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8677627002
+
+#### 🔄 Field Technical Program/Project Manager
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8598531002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8598531002
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8462016002
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8921476002
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8540455002
+
+#### 🔄 Forward Deployed Engineer - Emerging Enterprise & DNB
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8439047002
+
+#### 🔄 Forward Deployed Engineer (FDE) - Public Sector
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8611108002
+
+#### 🔄 Forward Deployed Engineer (Full-stack)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8741922002
+
+#### 🔄 Forward Deployed Engineering Manager
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910850002
+
+#### 🔄 Forward Deployed Engineering - Senior Architect
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8656202002
+
+#### 🔄 Genie Global Sales Leader
+**Greenhouse** · databricks · Exec Sales
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8821955002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8821955002
+
+#### 🔄 Genie Sales Director (AI/BI)
+**Greenhouse** · databricks · HQ Management
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8824175002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8824175002
+
+#### 🔄 Geo Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Illinois; Remote - New York; Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893596002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8893596002
+
+#### 🔄 Geo Core Account Executive - Digital Natives
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8937118002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8937118002
+
+#### 🔄 Geo Core Account Executive-FINS
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8932854002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8932854002
+
+#### 🔄 Global SAP Consolidations Manager
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688875002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8688875002
+
+#### 🔄 Global Workplace Services Manager, Events & Experiences
+**Greenhouse** · databricks · Facilities
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8603392002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8603392002
+
+#### 🔄 GTM Motions & Skills Enablement Lead
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843892002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8843892002
+
+#### 🔄 GTM Product Enablement Lead
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8824179002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8824179002
+
+#### 🔄 GTM Recruiter
+**Greenhouse** · databricks · Recruiting
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8937106002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8937106002
+
+#### 🔄 GTM Strategy Manager
+**Greenhouse** · databricks · Sales Operations
+📍 Remote - California; San Francisco, California; USCA | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8792458002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8792458002
+
+#### 🔄 GTM Talent Sourcer (Contract)
+**Greenhouse** · databricks · Recruiting
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8546786002
+
+#### 🔄 GTM Talent Sourcer (Contract)
+**Greenhouse** · databricks · Recruiting
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200547002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8200547002
+
+#### 🔄 GTM Talent Sourcer (Contract)
+**Greenhouse** · databricks · Recruiting
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8937105002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8937105002
+
+#### 🔄 Head of EMEA Financial Services GTM
+**Greenhouse** · databricks · Exec Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8501026002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8501026002
+
+#### 🔄 Head of Marketing - Japan
+**Greenhouse** · databricks · Marketing
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493722002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8493722002
+
+#### 🔄 Hunter Account Executive - Indonesia
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8878066002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8878066002
+
+#### 🔄 Hunter Account Executive - Philippines
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7856268002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7856268002
+
+#### 🔄 Incident Manager
+**Greenhouse** · databricks · Support
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8407869002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8407869002
+
+#### 🔄 Lakebase Associate Director- Financial Services
+**Greenhouse** · databricks · HQ Management
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8571578002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8571578002
+
+#### 🔄 Lakebase Associate Director, Healthcare & Life Sciences
+**Greenhouse** · databricks · HQ Management
+📍 Central - United States; Northeast - United States; Southeast - United States; United States; West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569461002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569461002
+
+#### 🔄 Lakebase Associate Director - Retail
+**Greenhouse** · databricks · HQ Management
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569436002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569436002
+
+#### 🔄 Lakebase Associate Director Specialist-Manufacturing
+**Greenhouse** · databricks · HQ Management
+📍 Atlanta, Georgia; Chicago, Illinois; Florida, United States; Kansas; New York City, New York; Remote - Illinois; Remote - Michigan; Remote - Ohio; Remote - Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569498002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569498002
+
+#### 🔄 Lakebase Associate Director Specialist-MFG
+**Greenhouse** · databricks · HQ Management
+📍 Remote - Georgia; Remote - Texas; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569506002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569506002
+
+#### 🔄 Lakebase Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569554002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569554002
+
+#### 🔄 Lakebase Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569574002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569574002
+
+#### 🔄 Lakebase Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569403002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569403002
+
+#### 🔄 Lakebase Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 Herzliya, Israel | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569558002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569558002
+
+#### 🔄 Lakebase Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569594002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569594002
+
+#### 🔄 Lakebase Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569453002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569453002
+
+#### 🔄 Lakebase Sales Specialist
+**Greenhouse** · databricks · HQ Management
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569533002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569533002
+
+#### 🔄 Lakebase Sales Specialist, Associate Director (Germany)
+**Greenhouse** · databricks · HQ Management
+📍 Hesse, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569510002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569510002
+
+#### 🔄 Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)
+**Greenhouse** · databricks · HQ Management
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569514002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569514002
+
+#### 🔄 Lakebase Sales Specialist, Benelux
+**Greenhouse** · databricks · HQ Management
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569528002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569528002
+
+#### 🔄 Lakebase Sales Specialist (Enterprise UKI)
+**Greenhouse** · databricks · HQ Management
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569535002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569535002
+
+#### 🔄 Lakebase Sales Specialist (Greater China Region)
+**Greenhouse** · databricks · HQ Management
+📍 China | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8924844002
+
+#### 🔄 Lakebase Sales Specialist (Greater China Region)
+**Greenhouse** · databricks · HQ Management
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569578002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569578002
+
+#### 🔄 Lakebase Sales Specialist - MEA
+**Greenhouse** · databricks · HQ Management
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569562002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569562002
+
+#### 🔄 Lakebase Sales Specialist, Nordics
+**Greenhouse** · databricks · HQ Management
+📍 Remote - Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569526002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569526002
+
+#### 🔄 Lakebase Specialist Sales
+**Greenhouse** · databricks · HQ Management
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569566002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569566002
+
+#### 🔄 Lead Counsel,  Strategic Alliances
+**Greenhouse** · databricks · Legal
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922115002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922115002
+
+#### 🔄 Lead Engagement Manager, FDE - DNB
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8423291002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8423291002
+
+#### 🔄 Lead Engagement Manager, FDE - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Central - United States; Northeast - United States; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438803002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8438803002
+
+#### 🔄 Lead Field Technical Program Manager, FDE - Retail, Consumer Goods, Travel, Transportation & Hospitality
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8538884002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8538884002
+
+#### 🔄 Lead Learning Technical Enablement Specialist
+**Greenhouse** · databricks · Education & Training
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8780470002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8780470002
+
+#### 🔄 Lead Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8768956002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8768956002
+
+#### 🔄 Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Remote - France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8892970002
+
+#### 🔄 Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Remote - Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8892968002
+
+#### 🔄 Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Remote - Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8892971002
+
+#### 🔄 Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8403943002
+
+#### 🔄 Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8892965002
+
+#### 🔄 Lead Solutions Architect – MedTech (Strategic Account)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885043002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885043002
+
+#### 🔄 Lead Technical Enablement Specialist, Field Capability & Readiness
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8548502002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8548502002
+
+#### 🔄 Legal Counsel, EMEA Commercial
+**Greenhouse** · databricks · Legal
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8564394002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8564394002
+
+#### 🔄 Manager, Delivery Solutions Architects
+**Greenhouse** · databricks · Field Engineering - FE Invested DSA
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8801844002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8801844002
+
+#### 🔄 Manager, Delivery Solutions Architects
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Central - United States; Northeast - United States; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8926037002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8926037002
+
+#### 🔄 Manager, Delivery Solutions Architects - Financial Services
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Illinois; Massachusetts; New York; Texas; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8821959002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8821959002
+
+#### 🔄 Manager, Delivery Solutions Architects - Healthcare & Life Sciences (HLS)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8896139002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8896139002
+
+#### 🔄 Manager, Delivery Solutions Architects - Toronto, ON
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8563185002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8563185002
+
+#### 🔄 Manager, Developer Relations - Open Source
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8716713002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8716713002
+
+#### 🔄 Manager, Developer Relations - Open Source
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8716189002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8716189002
+
+#### 🔄 Manager, Engineering - AI/BI
+**Greenhouse** · databricks · Engineering
+📍 Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8176503002
+
+#### 🔄 Manager, Field Engineering
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8736498002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8736498002
+
+#### 🔄 Manager, Field Engineering - Financial Services Industry
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8557075002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8557075002
+
+#### 🔄 Manager, Field Engineering France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8491126002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8491126002
+
+#### 🔄 Manager, Field Engineering France  - Specialist Solutions Architects
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8517065002
+
+#### 🔄 Manager, Field Engineering - Global Telecommunications
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8755470002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8755470002
+
+#### 🔄 Manager, Field Engineering - Global Telecommunications
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476403002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8476403002
+
+#### 🔄 Manager, Field Engineering Italy
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8374096002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8374096002
+
+#### 🔄 Manager, Field Engineering (Launchpad Program)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8857696002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8857696002
+
+#### 🔄 Manager, Field Engineering - MFG
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8612964002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8612964002
+
+#### 🔄 Manager, Field Engineering (Specialist) - HCLS
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Northeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8614656002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8614656002
+
+#### 🔄 Manager, Field Engineering - Strategic Digital Native Business
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8859577002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8859577002
+
+#### 🔄 Manager, Forward Deployed Engineering
+**Greenhouse** · databricks · Professional Services Operations
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899736002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899736002
+
+#### 🔄 Manager, Forward Deployed Engineering
+**Greenhouse** · databricks · Professional Services Operations
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8445817002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8445817002
+
+#### 🔄 Manager, Forward Deployed Engineering
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8503068002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8503068002
+
+#### 🔄 Manager, Marketing Insights & Operations — EMEA
+**Greenhouse** · databricks · Marketing
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735547002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8735547002
+
+#### 🔄 Manager, Sales Development - Public Sector
+**Greenhouse** · databricks · Sales Development
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8886386002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8886386002
+
+#### 🔄 Manager/Sr. Manager, AI Forward Deployed Engineering
+**Greenhouse** · databricks · Professional Services Operations
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8630019002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8630019002
+
+#### 🔄 Manager, Technical Solutions Spark
+**Greenhouse** · databricks · Support
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8619213002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8619213002
+
+#### 🔄 Named Account Executive, Health Insurance
+**Greenhouse** · databricks · Enterprise Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8883465002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8883465002
+
+#### 🔄 Named Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8920452002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8920452002
+
+#### 🔄 Named Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8906055002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8906055002
+
+#### 🔄 Named Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8903962002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8903962002
+
+#### 🔄 Named Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Calgary, Canada; Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8693555002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8693555002
+
+#### 🔄 Named Core Account Executive, Finland
+**Greenhouse** · databricks · Enterprise Sales
+📍 Finland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8536434002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8536434002
+
+#### 🔄 Named Core Account Executive, Gaming
+**Greenhouse** · databricks · Enterprise Sales
+📍 Los Angeles, California; Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8933257002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8933257002
+
+#### 🔄 Named Core Account Executive- Media
+**Greenhouse** · databricks · Enterprise Sales
+📍 Los Angeles, California; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8937973002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8937973002
+
+#### 🔄 Named Core Account Executive-Oil & Gas
+**Greenhouse** · databricks · Enterprise Sales
+📍 Houston, Texas; Oklahoma | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8925470002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8925470002
+
+#### 🔄 Named Core Account Executive - Retail
+**Greenhouse** · databricks · Enterprise Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8700402002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8700402002
+
+#### 🔄 Named Core Account Executive - Thailand
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8783602002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8783602002
+
+#### 🔄 Named Enterprise Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8536436002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8536436002
+
+#### 🔄 Named Hunter Account Executive - Digital Natives
+**Greenhouse** · databricks · Enterprise Sales
+📍 Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; Los Angeles, California; New York City, New York; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8871486002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8871486002
+
+#### 🔄 Named Hunter Account Executive - Singapore
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8916466002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8916466002
+
+#### 🔄 Named Hunter Enterprise Account Executive, Healthcare
+**Greenhouse** · databricks · Enterprise Sales
+📍 Northeast - United States; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829296002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8829296002
+
+#### 🔄 New Business Enterprise Account Executive (Public Sector)
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899931002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899931002
+
+#### 🔄 P2P Data & Automation Lead
+**Greenhouse** · databricks · Finance
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8633071002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8633071002
+
+#### 🔄 Partner Enablement Operations Manager
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 Bengaluru, India; Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8644000002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8644000002
+
+#### 🔄 Partner Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785221002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785221002
+
+#### 🔄 Pre-sales Engineering Manager (Retail & CPG)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8936411002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8936411002
+
+#### 🔄 Pre-sales Engineering Manager (Retail & CPG) x2 New roles
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8686919002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8686919002
+
+#### 🔄 Principal Brand Content & AI Search Visibility
+**Greenhouse** · databricks · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860653002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860653002
+
+#### 🔄 Principal Demand Generation Manager, Campaign Development
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8407917002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8407917002
+
+#### 🔄 Principal Engineer, Authentication
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8400559002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8400559002
+
+#### 🔄 Principal Engineer, Authentication
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8400563002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8400563002
+
+#### 🔄 Principal Engineer, Compute Fleet Management
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8334738002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8334738002
+
+#### 🔄 Principal Engineer - Privacy
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7274488002
+
+#### 🔄 Principal Engineer - Privacy
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8224828002
+
+#### 🔄 Principal Engineer - Privacy
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7274875002
+
+#### 🔄 Principal Engineer - Privacy
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7274619002
+
+#### 🔄 Principal Product Marketing Manager, Application Development
+**Greenhouse** · databricks · Marketing
+📍 West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487145002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8487145002
+
+#### 🔄 Principal Security Field Engineer
+**Greenhouse** · databricks · Security
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8612863002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8612863002
+
+#### 🔄 Product Design Intern (2027 Start)
+**Greenhouse** · databricks · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8787352002
+
+#### 🔄 Product Design New Grad (2027 Start)
+**Greenhouse** · databricks · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8843577002
+
+#### 🔄 Product Finance Director, AI Products & GPU Investment Strategy
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8823189002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8823189002
+
+#### 🔄 Product Finance Director, R&D Capital Allocation & Engineering Operations
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8823193002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8823193002
+
+#### 🔄 Product Finance Senior Manager, Cloud Platform Costs & Operations
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8823191002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8823191002
+
+#### 🔄 Product Management Intern (2027) - Amsterdam
+**Greenhouse** · databricks · University Recruiting - Product
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8133715002
+
+#### 🔄 Product Management Intern (2027) - Belgrade
+**Greenhouse** · databricks · University Recruiting - Product
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8863328002
+
+#### 🔄 Product Management Intern (2027) - Berlin
+**Greenhouse** · databricks · University Recruiting - Product
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8145776002
+
+#### 🔄 Product Management Intern (Summer 2027)
+**Greenhouse** · databricks · University Recruiting - Product
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6883068002
+
+#### 🔄 Product Manager, New Grad (2027) - Amsterdam
+**Greenhouse** · databricks · University Recruiting - Product
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8133727002
+
+#### 🔄 Product Manager, New Grad (2027) - Belgrade
+**Greenhouse** · databricks · University Recruiting - Product
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8863326002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8863326002
+
+#### 🔄 Product Manager, New Grad (2027) - Berlin
+**Greenhouse** · databricks · University Recruiting - Product
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8145800002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8145800002
+
+#### 🔄 Program Manager, Public Sector (Commercial Legal)
+**Greenhouse** · databricks · Legal
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8802705002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8802705002
+
+#### 🔄 Public Sector Field Enablement Manager
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 Northeast - United States; Southeast - United States; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8824166002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8824166002
+
+#### 🔄 Recruiter (Contract)
+**Greenhouse** · databricks · Recruiting
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8771702002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8771702002
+
+#### 🔄 Retail & Consumer Goods APAC Leader
+**Greenhouse** · databricks · Go To Market
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8495067002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8495067002
+
+#### 🔄 Revenue Enablement Manager
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8931269002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8931269002
+
+#### 🔄 Revenue Operations Manager
+**Greenhouse** · databricks · Finance
+📍 West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922724002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922724002
+
+#### 🔄 Sales Leader, Commercial
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8936930002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8936930002
+
+#### 🔄 Sales Leader, VC-Backed Startups
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 Chicago, Illinois; New York City, New York; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8506402002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8506402002
+
+#### 🔄 Sales Specialist - Lakebase
+**Greenhouse** · databricks · HQ Management
+📍 Bengaluru, India; Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8477547002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8477547002
+
+#### 🔄 SAP Functional SME
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8688851002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8688851002
+
+#### 🔄 SAP Functional SME
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679970002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8679970002
+
+#### 🔄 SAP Technical Lead
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679972002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8679972002
+
+#### 🔄 Scaled Engagement Manager
+**Greenhouse** · databricks · Go To Market
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8856932002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8856932002
+
+#### 🔄 Senior AI Engineer - FDE (Forward Deployed Engineer)
+**Greenhouse** · databricks · Field Engineering - Indirect
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569392002
+
+#### 🔄 Senior Applied ML Engineer - ML4Sys
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8656900002
+
+#### 🔄 Senior Compensation Manager, GTM
+**Greenhouse** · databricks · People
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8627549002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8627549002
+
+#### 🔄 Senior Customer Enablement AI Programs Manager
+**Greenhouse** · databricks · Education & Training
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8194599002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8194599002
+
+#### 🔄 Senior Data Scientist
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5634684002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5634684002
+
+#### 🔄 Senior Delivery Partner Manager, Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8931716002
+
+#### 🔄 Senior Delivery Partner Manager, Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8933236002
+
+#### 🔄 Senior Engagement Manager, Forward Deployed Engineering
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8884904002
+
+#### 🔄 Senior Engineering Manager - Backend
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7495457002
+
+#### 🔄 Senior Engineering Manager - Enzyme
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8109902002
+
+#### 🔄 Senior Engineering Manager for Self-Serve (Learning)
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7987657002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7987657002
+
+#### 🔄 Senior Engineering Manager for Workspace Platform
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7987658002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7987658002
+
+#### 🔄 Senior Engineering Manager - Notebook Dataplane
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8190108002
+
+#### 🔄 Senior Field Technical Program Manager, FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8554840002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8554840002
+
+#### 🔄 Senior Financial Analyst - Strategic GTM Finance
+**Greenhouse** · databricks · Finance
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8414474002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8414474002
+
+#### 🔄 Senior Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8927390002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8927390002
+
+#### 🔄 Senior Forward Deployed Engineer (Full Stack Engineers)
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8916552002
+
+#### 🔄 Senior Forward Deployed Engineer, Sr FDE (L5)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8876680002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8876680002
+
+#### 🔄 Senior Manager, AI Forward Deployed Engineering - London
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8793863002
+
+#### 🔄 Senior Manager Compensation R&D
+**Greenhouse** · databricks · People
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8384388002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8384388002
+
+#### 🔄 Senior Manager, Field Engineering Enablement – Scaled Programs and Field Capability
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843888002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8843888002
+
+#### 🔄 Senior Manager, Global Premier Support
+**Greenhouse** · databricks · Engineering
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8583146002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8583146002
+
+#### 🔄 Senior Manager, Global Premier Support
+**Greenhouse** · databricks · Support
+📍 Mountain View, California; Plano, Texas; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8422798002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8422798002
+
+#### 🔄 Senior Manager, Infrastructure Data Science
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7641390002
+
+#### 🔄 Senior Manager, Infrastructure Data Science
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7734812002
+
+#### 🔄 Senior Manager - Technical Solutions (Big Data / AI)
+**Greenhouse** · databricks · Support
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8407895002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8407895002
+
+#### 🔄 Senior ML & AI Technical Solutions Engineer
+**Greenhouse** · databricks · Support
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7845325002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7845325002
+
+#### 🔄 Senior Payroll Accountant
+**Greenhouse** · databricks · Finance
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8604591002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8604591002
+
+#### 🔄 Senior Production Engineer - Realtime Products
+**Greenhouse** · databricks · Support
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8407875002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8407875002
+
+#### 🔄 Senior Product Specialist Partner Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Indirect
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8895472002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8895472002
+
+#### 🔄 Senior SAP Developer
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8679980002
+
+#### 🔄 Senior Scale Solution Engineer
+**Greenhouse** · databricks · Customer Success Operations
+📍 Heredia, Costa Rica | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8779018002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8779018002
+
+#### 🔄 Senior Scale Solution Engineer (Korean-speaking; English required)
+**Greenhouse** · databricks · Customer Success Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8779026002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8779026002
+
+#### 🔄 Senior Software Engineer - Access Management
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8931033002
+
+#### 🔄 Senior Software Engineer, AI Native Web Platform
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8635216002
+
+#### 🔄 Senior Software Engineer (App-Framework)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8294304002
+
+#### 🔄 Senior Software Engineer (App-Framework)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8210383002
+
+#### 🔄 Senior Software Engineer  - Application Traffic team
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8183195002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 4799387002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6544435002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6779084002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7477087002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8320183002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8093295002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8029671002
+
+#### 🔄 Senior Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012803002
+
+#### 🔄 Senior Software Engineer (Backend)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6709301002
+
+#### 🔄 Senior Software Engineer (Backend) - AI/ML Environments
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8233899002
+
+#### 🔄 Senior Software Engineer - Backend Infrastructure
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7647294002
+
+#### 🔄 Senior Software Engineer, Compute Infrastructure
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8806934002
+
+#### 🔄 Senior Software Engineer - Data + AI Observability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7897431002
+
+#### 🔄 Senior Software Engineer - Database Engine Internals
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6544383002
+
+#### 🔄 Senior Software Engineer - Database Engine Internals
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012809002
+
+#### 🔄 Senior Software Engineer - Database Engine Internals
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5048461002
+
+#### 🔄 Senior Software Engineer (Data Platform)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7647369002
+
+#### 🔄 Senior Software Engineer, Digital Employee Experience
+**Greenhouse** · databricks · Infrastructure
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8829053002
+
+#### 🔄 Senior Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6544325002
+
+#### 🔄 Senior Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 4513122002
+
+#### 🔄 Senior Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6936994002
+
+#### 🔄 Senior Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012800002
+
+#### 🔄 Senior Software Engineer - Fullstack
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8099342002
+
+#### 🔄 Senior Software Engineer - Fullstack
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5445641002
+
+#### 🔄 Senior Software Engineer - Fullstack
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6544403002
+
+#### 🔄 Senior Software Engineer - Fullstack
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8029679002
+
+#### 🔄 Senior Software Engineer - Fullstack
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7898766002
+
+#### 🔄 Senior Software Engineer (Infra)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7619810002
+
+#### 🔄 Senior Software Engineer - Infrastructure and Tools
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6318503002
+
+#### 🔄 Senior Software Engineer - Ingestion
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7934782002
+
+#### 🔄 Senior Software Engineer - Multi Cloud Efficiency
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8602402002
+
+#### 🔄 Senior Software Engineer- Networking
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7647353002
+
+#### 🔄 Senior Software Frontend Engineer – Dashboards
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8230883002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8230883002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8652984002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8652984002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8661245002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8661245002
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Austin, Texas; Chicago, Illinois; Dallas, Texas; Phoenix, Arizona; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8819053002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8819053002
+
+#### 🔄 Senior Solutions Architect (Banking, Financial Services)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8682362002
+
+#### 🔄 Senior Solutions Architect - Digital Natives
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Finland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8905967002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8905967002
+
+#### 🔄 Senior Solutions Architect - Digital Natives
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885049002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885049002
+
+#### 🔄 Senior Solutions Architect - DNB Named B2B accounts
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Central - United States; Northeast - United States; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893776002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8893776002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8704938002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8720254002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8720252002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8720251002
+
+#### 🔄 Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Berlin, Germany; Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720253002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8720253002
+
+#### 🔄 Senior Solutions Architect - Lakebase
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8932964002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8932964002
+
+#### 🔄 Senior Solutions Architect - Lakebase
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567991002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8567991002
+
+#### 🔄 Senior Solutions Architect (Lakebase)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8568023002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8568023002
+
+#### 🔄 Senior Solutions Architect (Pre-sales) - Life Sciences
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8867686002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8867686002
+
+#### 🔄 Senior Solutions Architect - Retail / CPG x3 new roles
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8936408002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8936408002
+
+#### 🔄 Senior Solutions Architect (Transport)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7642125002
+
+#### 🔄 Senior Specialist Solutions Architect (AI/ML)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8615245002
+
+#### 🔄 Senior Staff Software Engineer, AI Runtime
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8909305002
+
+#### 🔄 Senior Staff Software Engineer - App and Partner Ecosystem
+**Greenhouse** · databricks · Engineering
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7807722002
+
+#### 🔄 Senior Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8421894002
+
+#### 🔄 Senior Staff Software Engineer (Backend)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7651345002
+
+#### 🔄 Senior Staff Software Engineer (Backend)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7651326002
+
+#### 🔄 Senior Staff Software Engineer - Delta
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7319791002
+
+#### 🔄 Senior Staff Software Engineer - Delta
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8303020002
+
+#### 🔄 Senior Staff Software Engineer - Delta
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8303017002
+
+#### 🔄 Senior Staff Software Engineer - Delta
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8303015002
+
+#### 🔄 Senior Staff Software Engineer - Delta
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Aarhus, Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8303014002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8303014002
+
+#### 🔄 Senior Staff Software Engineer - Enzyme
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7934466002
+
+#### 🔄 Senior Staff Software Engineer - IAM
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7274557002
+
+#### 🔄 Senior Staff Software Engineer - IAM
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7274563002
+
+#### 🔄 Senior Staff Software Engineer - Lakeflow Pipelines Datasets
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8493002002
+
+#### 🔄 Senior Staff Software Engineer- Networking
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8433583002
+
+#### 🔄 Senior Staff Software Engineer- Search Quality
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8439350002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8439350002
+
+#### 🔄 Senior Staff Software Engineer - Security Infrastructure
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7274902002
+
+#### 🔄 Senior Staff Software Engineer - Security Infrastructure
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7274908002
+
+#### 🔄 Senior Strategy & Execution Manager, India GTM
+**Greenhouse** · databricks · Sales Operations
+📍 Bengaluru, India; Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8928346002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8928346002
+
+#### 🔄 Senior Support Engineer (GovOps)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 McLean, Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8798215002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8798215002
+
+#### 🔄 Senior Technical Solutions Engineer (Platform)
+**Greenhouse** · databricks · Support
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8041698002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8041698002
+
+#### 🔄 Senior Technical Solutions Engineer (Platform)
+**Greenhouse** · databricks · Support
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7845320002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7845320002
+
+#### 🔄 Skills Systems Architect
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8824173002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8824173002
+
+#### 🔄 Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8029666002
+
+#### 🔄 Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Aarhus, Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7737233002
+
+#### 🔄 Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012650002
+
+#### 🔄 Software Engineer - Database Engine Internals
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012658002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012658002
+
+#### 🔄 Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012691002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012691002
+
+#### 🔄 Software Engineer, Infrastructure
+**Greenhouse** · databricks · Infrastructure
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8829039002
+
+#### 🔄 Software Engineering Intern (2027)
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6865687002
+
+#### 🔄 Software Engineering Intern (2027 Start) - Aarhus
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Aarhus, Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8133710002
+
+#### 🔄 Software Engineering Intern (2027 Start) - Amsterdam
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6866534002
+
+#### 🔄 Software Engineering Intern (2027 Start) - Belgrade
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7640764002
+
+#### 🔄 Software Engineering Intern (2027 Start) - Berlin
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6866531002
+
+#### 🔄 Software Engineering Intern (2027 Start) - London
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8847738002
+
+#### 🔄 Software Engineer - New Grad (2027 Start) - Aarhus
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Aarhus, Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8133691002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8133691002
+
+#### 🔄 Software Engineer - New Grad (2027 Start) - Amsterdam
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6866549002
+
+#### 🔄 Software Engineer - New Grad (2027 Start) - Berlin
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6886281002
+
+#### 🔄 Software Engineer - New Grad (2027 Start) - London
+**Greenhouse** · databricks · University Recruiting - Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8847747002
+
+#### 🔄 Software Engineer, Web Products
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8635225002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Arizona; California; Utah | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8605160002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8605160002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8795446002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8795446002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8874892002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8874892002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5898477002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5898477002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering
+📍 Mexico City | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7896350002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7896350002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8877962002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8877962002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8934786002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8934786002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885035002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885035002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Auckland, New Zealand | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8603684002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8603684002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8607718002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8607718002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8608603002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8608603002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Queensland, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8437008002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8437008002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Melbourne, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785049002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785049002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Germany; Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8919008002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8919008002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8783421002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8783421002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 British Columbia, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910860002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910860002
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6356702002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6356702002
+
+#### 🔄 Solutions Architect - Adtech
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893716002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8893716002
+
+#### 🔄 Solutions Architect - Agencies
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Northeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8909208002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8909208002
+
+#### 🔄 Solutions Architect - Banking and Capital Markets (FINS)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 New Jersey; New York City, New York; Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885039002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885039002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment and Games
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 New Jersey | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8755492002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8755492002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment and Games
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569633002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569633002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment and Games
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Denver, Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8900134002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8900134002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment and Games
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Northeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8755474002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8755474002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment and Games
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487768002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8487768002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment and Games
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8755476002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment and Games
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8755482002
+
+#### 🔄 Solutions Architect - Communications, Media, Entertainment & Gaming
+**Greenhouse** · databricks · Field Engineering
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6117756002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6117756002
+
+#### 🔄 Solutions Architect - Consumer Packaged Goods (CPG)
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Connecticut; Delaware; Florida; Maryland; New Jersey; Northeast - United States; Remote - Georgia; Remote - New York; Remote - North Carolina; Remote - Pennsylvania; Remote - Virginia; Remote - Washington D.C.; South Carolina; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8780675002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8780675002
+
+#### 🔄 Solutions Architect - Core FSI
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8637781002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8637781002
+
+#### 🔄 Solutions Architect - CPG and Manufacturing
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8755662002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8755662002
+
+#### 🔄 Solutions Architect - Digital Native Business (DNB)
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8938652002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8938652002
+
+#### 🔄 Solutions Architect - Digital Native Business (Geo)
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Connecticut; Remote - Massachusetts; Remote - New York; Remote - Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8904745002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8904745002
+
+#### 🔄 Solutions Architect - Digital Native Business (Healthtech)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8782711002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8782711002
+
+#### 🔄 Solutions Architect - Digital Native Business, Named Accounts
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Nevada; Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8569640002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8569640002
+
+#### 🔄 Solutions Architect - Digital Natives and Startups
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Berlin, Germany; Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8917711002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8917711002
+
+#### 🔄 Solutions Architect Digital Natives & Scaleups Italy
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921583002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8921583002
+
+#### 🔄 Solutions Architect – Digital Sovereignty
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8932117002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8932117002
+
+#### 🔄 Solutions Architect - Emerging Enterprise
+**Greenhouse** · databricks · Field Engineering
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6328361002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6328361002
+
+#### 🔄 Solutions Architect - Emerging Enterprise (Startups)
+**Greenhouse** · databricks · Field Engineering
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6328388002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6328388002
+
+#### 🔄 Solutions Architect - Financial Services (Banking and Payments)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Atlanta, Georgia; Chicago, Illinois; Dallas, Texas; Denver, Colorado; New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8637768002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8637768002
+
+#### 🔄 Solutions Architect - Financial Services (Hunter)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Georgia; Illinois; Massachusetts; New Jersey; New York; North Carolina; Texas; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8884587002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8884587002
+
+#### 🔄 Solutions Architect - Financial Services & Insurance
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8771056002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8771056002
+
+#### 🔄 Solutions Architect - Financial Services (Wealth and Asset Management)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Massachusetts; New Jersey; New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8920872002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8920872002
+
+#### 🔄 Solutions Architect - FSI
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8876388002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8876388002
+
+#### 🔄 Solutions Architect (Genie)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Bengaluru, India; Delhi, India; India; Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8657549002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8657549002
+
+#### 🔄 Solutions Architect Greenfield Enterprise France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885047002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885047002
+
+#### 🔄 Solutions Architect - Healthcare/Life Sciences Team (HLS)
+**Greenhouse** · databricks · Field Engineering
+📍 Remote - Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8085877002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8085877002
+
+#### 🔄 Solutions Architect - Healthcare/Life Sciences Team (HLS)
+**Greenhouse** · databricks · Field Engineering
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8231231002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8231231002
+
+#### 🔄 Solutions Architect Israel
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Israel | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921585002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8921585002
+
+#### 🔄 Solutions Architect - Lakebase
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8568015002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8568015002
+
+#### 🔄 Solutions Architect - Lakebase
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567993002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8567993002
+
+#### 🔄 Solutions Architect (Lakebase)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567985002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8567985002
+
+#### 🔄 Solutions Architect - Manufacturing
+**Greenhouse** · databricks · Field Engineering
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6545547002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6545547002
+
+#### 🔄 Solutions Architect - Manufacturing
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Remote - Illinois; Remote - Michigan; Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8661758002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8661758002
+
+#### 🔄 Solutions Architect (Media, Entertainment and Agencies) x2 New roles
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8733726002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8733726002
+
+#### 🔄 Solutions Architect - MFG - West
+**Greenhouse** · databricks · Field Engineering
+📍 Calgary, Canada; Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8876599002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8876599002
+
+#### 🔄 Solutions Architect (Pre-sales) - Benelux Strategic Accounts
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8733334002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8733334002
+
+#### 🔄 Solutions Architect (Pre-sales) – Manufacturing & Automotive
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785053002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785053002
+
+#### 🔄 Solutions Architect - Public Sector
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8929593002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8929593002
+
+#### 🔄 Solutions Architect - Public Sector
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Delhi, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438777002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8438777002
+
+#### 🔄 Solutions Architect - Public Sector (DoW - 4th Estate)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8415025002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8415025002
+
+#### 🔄 Solutions Architect- Public Sector (Federal Healthcare)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Maryland; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893782002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8893782002
+
+#### 🔄 Solutions Architect - Retail
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Chicago, Illinois; Florida; Northeast - United States; Remote - Georgia; Remote - Massachusetts; Remote - New York; Southeast - United States; Tennessee | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893728002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8893728002
+
+#### 🔄 Solutions Architect - Retail
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Arkansas; Remote - Illinois; Remote - Ohio | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8920805002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8920805002
+
+#### 🔄 Solutions Architect - Retail, Consumer Goods, Travel & Hospitality
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Central - United States; Northeast - United States; Remote - New York; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8615016002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8615016002
+
+#### 🔄 Solutions Architect - Retail, Travel & Hospitality
+**Greenhouse** · databricks · Field Engineering
+📍 Atlanta, Georgia; Central - United States; Remote - North Carolina; West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6049142002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6049142002
+
+#### 🔄 Solutions Architect Spain
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Madrid | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8921587002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8921587002
+
+#### 🔄 Solutions Architect - Strategic High Tech
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8563159002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8563159002
+
+#### 🔄 Solutions Architect - Telco
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8880391002
+
+#### 🔄 Solutions Architect - Telco
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Denver, Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8929038002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8929038002
+
+#### 🔄 Solutions Architect - Travel, Transport, Hospitality & Logistics
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8936413002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8936413002
+
+#### 🔄 Solutions Architect UAE
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Dubai, United Arab Emirates | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785294002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785294002
+
+#### 🔄 Solutions Engineer
+**Greenhouse** · databricks · Field Engineering
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8882485002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8882485002
+
+#### 🔄 Solutions Engineer
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8886944002
+
+#### 🔄 Specialist Solutions Architect - AI/ML
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785057002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785057002
+
+#### 🔄 Specialist Solutions Architect - AI/ML
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8585164002
+
+#### 🔄 Specialist Solutions Architect - AI/ML
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8593505002
+
+#### 🔄 Specialist Solutions Architect - AI/ML (Healthcare & Life Sciences)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8717331002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8717331002
+
+#### 🔄 Specialist Solutions Architect - Azure Infrastructure & AI Platform
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8739507002
+
+#### 🔄 Specialist Solutions Architect - Data Engineering
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870159002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870159002
+
+#### 🔄 Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8692962002
+
+#### 🔄 Specialist Solutions Architect (Data Warehousing)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8855171002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8855171002
+
+#### 🔄 Specialist Solutions Architect - Security
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785061002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785061002
+
+#### 🔄 Specialist Solutions Architect (Security)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785055002
+
+#### 🔄 Sr. Automation Engineer - IT Asset Management
+**Greenhouse** · databricks · Infrastructure
+📍 Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829047002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8829047002
+
+#### 🔄 Sr. Counsel, Channel & Partners
+**Greenhouse** · databricks · Legal
+📍 Bellevue, Washington; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8802708002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8802708002
+
+#### 🔄 Sr. Counsel, Commercial (Healthcare & Life Sciences)
+**Greenhouse** · databricks · Legal
+📍 Chicago, Illinois; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8570009002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8570009002
+
+#### 🔄 Sr. Counsel, Competition
+**Greenhouse** · databricks · Legal
+📍 Bellevue, Washington; Seattle, Washington; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8459031002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8459031002
+
+#### 🔄 Sr. Counsel, Employment
+**Greenhouse** · databricks · Legal
+📍 Bellevue, Washington; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922120002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922120002
+
+#### 🔄 Sr. Counsel, Privacy Compliance
+**Greenhouse** · databricks · Legal
+📍 Bellevue, Washington; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; Seattle, Washington; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8645429002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8645429002
+
+#### 🔄 Sr. Counsel, Product
+**Greenhouse** · databricks · Legal
+📍 Bellevue, Washington; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922118002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922118002
+
+#### 🔄 Sr. Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8849858002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8849858002
+
+#### 🔄 Sr. Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8583353002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8583353002
+
+#### 🔄 Sr. Delivery Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Invested DSA
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870714002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870714002
+
+#### 🔄 Sr. Delivery Solutions Architect (Greater China Region)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8735828002
+
+#### 🔄 Sr. Deployment Strategist
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922951002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922951002
+
+#### 🔄 Sr. Deployment Strategist
+**Greenhouse** · databricks · Professional Services Operations
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922941002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922941002
+
+#### 🔄 Sr. Deployment Strategist, FDE - Communications, Media, Entertainment & Gaming
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8687867002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8687867002
+
+#### 🔄 Sr. Deployment Strategist, FDE - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8687863002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8687863002
+
+#### 🔄 Sr. Deployment Strategist, FDE - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia; Boston, Massachusetts; Chicago, Illinois; New York City, New York; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8687869002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8687869002
+
+#### 🔄 Sr. Deployment Strategist, FDE - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8687873002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8687873002
+
+#### 🔄 Sr. Deployment Strategist, FDE - Manufacturing & High-Tech
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8687861002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8687861002
+
+#### 🔄 Sr. Deployment Strategist, FDE - Public Sector
+**Greenhouse** · databricks · Professional Services Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8687865002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8687865002
+
+#### 🔄 Sr. Designated Support Engineer
+**Greenhouse** · databricks · Support
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8817828002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8817828002
+
+#### 🔄 Sr Designated Support Engineer
+**Greenhouse** · databricks · Engineering
+📍 New York; Plano, Texas; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7839474002
+
+#### 🔄 Sr. Designated Support Engineer
+**Greenhouse** · databricks · Support
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8125173002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8125173002
+
+#### 🔄 Sr. Designated Support Engineer - Spark
+**Greenhouse** · databricks · Support
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8661520002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8661520002
+
+#### 🔄 Sr. Designated Support Engineer - Spark
+**Greenhouse** · databricks · Support
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8907735002
+
+#### 🔄 Sr. Developer Advocate, AI and Machine Learning
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8716192002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8716192002
+
+#### 🔄 Sr. Developer Advocate, Open Source — Omnigent
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8716730002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8716730002
+
+#### 🔄 Sr. Developer Advocate, Open Source — Omnigent
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8716187002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8716187002
+
+#### 🔄 Sr. Director, Americas Field Marketing
+**Greenhouse** · databricks · Exec Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8636157002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8636157002
+
+#### 🔄 Sr. Engagement Manager
+**Greenhouse** · databricks · Professional Services Operations
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8469396002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8469396002
+
+#### 🔄 Sr. Engagement Manager, FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8829903002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8829903002
+
+#### 🔄 Sr. Engagement Manager, FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 Munich, Germany; Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885045002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885045002
+
+#### 🔄 Sr. Engagement Manager, FDE - LATAM
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - Mexico | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8530605002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8530605002
+
+#### 🔄 Sr. Engagement Manager, Forward Deployed Engineering - Public Sector
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - Virginia; Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8490644002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8490644002
+
+#### 🔄 Sr. Engagement Manager (Service Sales Executive)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922943002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922943002
+
+#### 🔄 Sr. Engineering Manager - Agentic Service Platform
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8510921002
+
+#### 🔄 Sr. Engineering Manager - Developer Ecosystem
+**Greenhouse** · databricks · Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8940907002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8940907002
+
+#### 🔄 Sr. Engineering Manager - Pipelines Engine
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8467083002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8467083002
+
+#### 🔄 Sr. Executive Assistant
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8487325002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8487325002
+
+#### 🔄 Sr. Field Technical Program Manager, FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8586857002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8586857002
+
+#### 🔄 Sr. Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8739484002
+
+#### 🔄 Sr. Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8820652002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8820652002
+
+#### 🔄 Sr. Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8657065002
+
+#### 🔄 Sr. Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8739458002
+
+#### 🔄 Sr. Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8739462002
+
+#### 🔄 Sr. Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8739465002
+
+#### 🔄 Sr. Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8739474002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461218002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461251002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461193002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Los Angeles, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461168002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461163002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Raleigh, North Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461258002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461241002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461219002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461220002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461222002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494153002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461226002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Denver, Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461243002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8461239002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8807033002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647743002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8647743002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8807049002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8807063002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8807081002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Digital Native Business
+**Greenhouse** · databricks · Professional Services Operations
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8488399002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592928002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Central - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8438791002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592952002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Charlotte, North Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592951002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592942002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592939002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592938002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592908002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Financial Services
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8592937002
+
+#### 🔄 Sr. Forward Deployed Engineer - FDE (Fullstack)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Belgrade, Serbia; Munich, Germany; Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8782216002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8782216002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494142002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8371312002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494148002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Atlanta, Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494146002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494145002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494144002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494143002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494156002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8341313002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Boston, Massachusetts | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494154002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Manufacturing
+**Greenhouse** · databricks · Professional Services Operations
+📍 Philadelphia, Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8494155002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Public Sector
+**Greenhouse** · databricks · Professional Services Operations
+📍 Alabama; Chicago, Illinois; Columbus, Ohio; Connecticut; Florida; Indiana; Maryland; New Jersey; Remote - Arizona; Remote - California; Remote - Colorado; Remote - Georgia; Remote - Illinois; Remote - Massachusetts; Remote - Missouri; Remote - New York; Remote - North Carolina; Remote - Ohio; Remote - Pennsylvania; Remote - Texas; Remote - Virginia; Remote - Washington D.C.; San Diego, California; South Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8657488002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Public Sector/National Security
+**Greenhouse** · databricks · Professional Services Operations
+📍 Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8657478002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8657478002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Chicago, Illinois | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8647669002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Dallas, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8647670002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Denver, Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8647675002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8647677002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Central - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8647667002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Northeast - United States; Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8643895002
+
+#### 🔄 Sr. Forward Deployed Engineer (FDE) - Retail
+**Greenhouse** · databricks · Professional Services Operations
+📍 Austin, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8647668002
+
+#### 🔄 Sr. Forward Deployed Engineer (Full-stack)
+**Greenhouse** · databricks · Professional Services Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8741925002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8741925002
+
+#### 🔄 Sr. Forward Deployed Engineer - Public Sector
+**Greenhouse** · databricks · Professional Services Operations
+📍 Alabama; Berkeley, California; Connecticut; Kansas City, Missouri; Maryland; New Hampshire; New Jersey; North Carolina; Remote - California; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - Missouri; Remote - New York; Remote - Pennsylvania; Remote - Virginia; Remote - Washington; Remote - Washington D.C.; Rhode Island; San Diego, California; South Carolina | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8823788002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8823788002
+
+#### 🔄 Sr. Industry Marketing Manager, Manufacturing & Supply Chain
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8702736002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8702736002
+
+#### 🔄 Sr. Industry Marketing Manager, Startups
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8638650002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8638650002
+
+#### 🔄 Sr. IT Site Reliability Software Engineer
+**Greenhouse** · databricks · Infrastructure
+📍 Costa Rica | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8493168002
+
+#### 🔄 Sr. Legal Counsel, International Public Sector Compliance
+**Greenhouse** · databricks · Legal
+📍 Ireland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8750820002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8750820002
+
+#### 🔄 Sr. Manager – Data & AI Support Engineering
+**Greenhouse** · databricks · Support
+📍 Plano, Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7914730002
+
+#### 🔄 Sr. Manager, Engineering - AI/BI
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8862144002
+
+#### 🔄 Sr. Manager, Engineering  Configuration Platform Team
+**Greenhouse** · databricks · Engineering
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567602002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8567602002
+
+#### 🔄 Sr. Manager, Engineering - Search
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7959180002
+
+#### 🔄 Sr. Manager, Field Engineering
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Chicago, Illinois; Connecticut; New Jersey; Remote - New York; Remote - Washington D.C.; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8732052002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8732052002
+
+#### 🔄 Sr. Manager, Field Engineering
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8736179002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8736179002
+
+#### 🔄 Sr. Manager, Field Engineering
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8682223002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8682223002
+
+#### 🔄 Sr.Manager Field Engineering, Digital Natives & Emerging Enterprise France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8693190002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8693190002
+
+#### 🔄 Sr. Manager, Field Engineering - Financial Services (Hunter)
+**Greenhouse** · databricks · Field Engineering
+📍 Georgia; Illinois; New York; North Carolina; Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7762173002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7762173002
+
+#### 🔄 Sr. Manager, Field Engineering - Sports
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Northeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8716314002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8716314002
+
+#### 🔄 Sr. Manager, Field Engineering - Telco
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8612968002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8612968002
+
+#### 🔄 Sr. Manager, Order to Revenue IT Compliance
+**Greenhouse** · databricks · Finance
+📍 Central - United States; West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8756136002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8756136002
+
+#### 🔄 Sr. Manager, Order to Revenue Process Compliance
+**Greenhouse** · databricks · Finance
+📍 Central - United States; West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8756150002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8756150002
+
+#### 🔄 Sr. Manager, Sales Development
+**Greenhouse** · databricks · Sales Development
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8741927002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8741927002
+
+#### 🔄 Sr. Manager, Sales Development
+**Greenhouse** · databricks · Sales Development
+📍 Seoul, South Korea | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8839016002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8839016002
+
+#### 🔄 Sr. Manager, Security — Continuous Monitoring v 2.0
+**Greenhouse** · databricks · Security
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8470847002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8470847002
+
+#### 🔄 Sr. Partner Marketing Manager, AWS & AI Partners
+**Greenhouse** · databricks · Marketing
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860665002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860665002
+
+#### 🔄 Sr. Partner Solutions Architect - Customer Lake & Lakewatch
+**Greenhouse** · databricks · Field Engineering - Other
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8807797002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8807797002
+
+#### 🔄 Sr Platform Monitoring Engineer
+**Greenhouse** · databricks · Support
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8407913002
+
+#### 🔄 Sr. Product Designer
+**Greenhouse** · databricks · Product
+📍 Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8923866002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8923866002
+
+#### 🔄 Sr. Product Designer, AI/BI
+**Greenhouse** · databricks · Product
+📍 Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8429978002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8429978002
+
+#### 🔄 Sr Production Engineer- Public Sector
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8517577002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8517577002
+
+#### 🔄 Sr. Product Manager, Compute Platform
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8200462002
+
+#### 🔄 Sr. Product Manager, Compute Platform
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8200284002
+
+#### 🔄 Sr. Product Manager, Databricks AI
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8136071002
+
+#### 🔄 Sr. Product Manager, Databricks AI
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8136204002
+
+#### 🔄 Sr. Product Manager, Databricks Free Edition
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8235785002
+
+#### 🔄 Sr. Product Manager, Databricks Free Edition
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7680573002
+
+#### 🔄 Sr. Product Manager, Databricks Repos
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8326570002
+
+#### 🔄 Sr. Product Manager, Databricks Repos
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8326513002
+
+#### 🔄 Sr. Product Manager, Data Engineering
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6322654002
+
+#### 🔄 Sr. Product Manager, Data Governance
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7863365002
+
+#### 🔄 Sr. Product Manager, Data Governance
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7863522002
+
+#### 🔄 Sr Product Manager, Employee Experience
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8203285002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8203285002
+
+#### 🔄 Sr. Product Manager, Lakebase/Lakehouse
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8811265002
+
+#### 🔄 Sr. Product Manager, Lakebase/Lakehouse
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8876675002
+
+#### 🔄 Sr. Product Manager, Lakeflow
+**Greenhouse** · databricks · Product
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8186386002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8186386002
+
+#### 🔄 Sr. Product Marketing Manager, Lakewatch & Agentic Apps
+**Greenhouse** · databricks · Marketing
+📍 West Coast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493857002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8493857002
+
+#### 🔄 Sr. Public Relations Manager
+**Greenhouse** · databricks · Marketing
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8860657002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8860657002
+
+#### 🔄 Sr. Recruiter, GTM – Field Engineering (Contract)
+**Greenhouse** · databricks · Recruiting
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8587088002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8587088002
+
+#### 🔄 Sr. Regional Marketing Manager - UKI
+**Greenhouse** · databricks · Marketing
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8943064002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8943064002
+
+#### 🔄 Sr. Research Scientist - Agent Flywheel
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8940421002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8940421002
+
+#### 🔄 Sr. Security Engineer, Enterprise Security
+**Greenhouse** · databricks · Security
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8841962002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8841962002
+
+#### 🔄 Sr Software Engineer, Agentic Applications
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8220814002
+
+#### 🔄 Sr Software Engineer - Agentic Applications (Full Stack)
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8679982002
+
+#### 🔄 Sr. Software Engineer - AI Gateway
+**Greenhouse** · databricks · Engineering
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8379331002
+
+#### 🔄 Sr Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7955601002
+
+#### 🔄 Sr. Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Aarhus, Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7643201002
+
+#### 🔄 Sr Software Engineer- Customer Experience Intelligence (CXI)
+**Greenhouse** · databricks · Support
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8416951002
+
+#### 🔄 Sr Software Engineer- CXI
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8617901002
+
+#### 🔄 Sr. Software Engineer- Databricks AI
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8924868002
+
+#### 🔄 Sr Software Engineer, Infrastructure
+**Greenhouse** · databricks · Infrastructure
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8493170002
+
+#### 🔄 Sr. Software Engineer - Ingestion Core team
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8815669002
+
+#### 🔄 Sr Software Engineer-Networking
+**Greenhouse** · databricks · Engineering
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8211450002
+
+#### 🔄 Sr Software Engineer-Networking
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8211452002
+
+#### 🔄 Sr. Software Engineer - Observability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7925560002
+
+#### 🔄 Sr Software Engineer -Public Sector
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 McLean, Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8512856002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8512856002
+
+#### 🔄 Sr. Software Engineer - Storage I/O
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7477627002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7477627002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8789428002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8789428002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Auckland, New Zealand | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8785045002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8785045002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8753679002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8753679002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Milan, Italy | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8675570002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8675570002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Queensland, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8537033002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8537033002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476064002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8476064002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720995002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8720995002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Northeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8632383002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8632383002
+
+#### 🔄 Sr. Solutions Architect
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8859538002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8859538002
+
+#### 🔄 Sr. Solutions Architect - AI Natives Business
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893720002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8893720002
+
+#### 🔄 Sr. Solutions Architect - Automotive
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8721003002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8721003002
+
+#### 🔄 Sr. Solutions Architect (CustomerLake)
+**Greenhouse** · databricks · Field Engineering - Unassigned and Exec
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8762366002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8762366002
+
+#### 🔄 Sr. Solutions Architect, Customer Lake
+**Greenhouse** · databricks · Field Engineering - Other
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8762360002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8762360002
+
+#### 🔄 Sr. Solutions Architect - Digital Native Business (Strategic Accounts)
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Remote - California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567963002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8567963002
+
+#### 🔄 Sr. Solutions Architect (Energy)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8926307002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8926307002
+
+#### 🔄 Sr. Solutions Architect - Financial Services (Banking and Payments)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Connecticut; Massachusetts; New York; North Carolina; St. Louis, Missouri; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8480642002
+
+#### 🔄 Sr. Solutions Architect - Financial Services (Hunter)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Georgia; Illinois; Massachusetts; New York; North Carolina; Texas; Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8567961002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8567961002
+
+#### 🔄 Sr. Solutions Architect - Financial Services (Strategic Banking)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 Massachusetts; New Jersey; New York; North Carolina; Pennsylvania | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8948988002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8948988002
+
+#### 🔄 Sr. Solutions Architect France
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885041002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885041002
+
+#### 🔄 Sr. Solutions Architect - FSI
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8720999002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8720999002
+
+#### 🔄 Sr. Solutions Architect (Greater China)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8849932002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8849932002
+
+#### 🔄 Sr. Solutions Architect (Lakebase)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8568025002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8568025002
+
+#### 🔄 Sr. Solutions Architect - Oil, Gas, and Energy
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8522046002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8522046002
+
+#### 🔄 Sr. Solutions Architect - Retail, Travel & Hospitality
+**Greenhouse** · databricks · Field Engineering
+📍 Atlanta, Georgia; Chicago, Illinois; Dallas, Texas; Phoenix, Arizona; Portland, Oregon; Remote - California; Remote - North Carolina; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8221491002
+
+#### 🔄 Sr. Solutions Architect - Teleco
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8747038002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8747038002
+
+#### 🔄 Sr. Solutions Architect - Travel and Hospitality
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Austin, Texas; Chicago, Illinois; Dallas, Texas; Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8886517002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8886517002
+
+#### 🔄 Sr. Solutions Engineer
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 Chicago, Illinois; Remote - California; Remote - New York; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8918565002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8918565002
+
+#### 🔄 Sr. Solutions Engineer
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8783420002
+
+#### 🔄 Sr. Solutions Engineer
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8609866002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8609866002
+
+#### 🔄 Sr. Solutions Engineer
+**Greenhouse** · databricks · Field Engineering - FE Direct Enterprise
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8925851002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8925851002
+
+#### 🔄 Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)
+**Greenhouse** · databricks · Field Engineering - FE Direct Emerging
+📍 Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8756686002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8756686002
+
+#### 🔄 Sr. Solutions Engineer (Greater China)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899597002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899597002
+
+#### 🔄 Sr. Solutions Engineer - Hunter (New Logo)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8929603002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8929603002
+
+#### 🔄 Sr. Specialist Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8927382002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8927382002
+
+#### 🔄 Sr. Specialist Solutions Architect
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Melbourne, Australia; Sydney, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8625656002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8625656002
+
+#### 🔄 Sr. Specialist Solutions Architect (AI/ML)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8762362002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8762362002
+
+#### 🔄 Sr. Specialist Solutions Architect -AI&ML Engineer
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Israel | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8784103002
+
+#### 🔄 Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure
+**Greenhouse** · databricks · Field Engineering - Other
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910988002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910988002
+
+#### 🔄 Sr. Staff Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8555674002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8555674002
+
+#### 🔄 Sr. Staff Fullstack Engineer, Agentic Applications
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220902002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8220902002
+
+#### 🔄 Sr. Staff Global Customer Enablement Partnership Lead
+**Greenhouse** · databricks · Education & Training
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8780673002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8780673002
+
+#### 🔄 Sr Staff Production Engineer- Public Sector
+**Greenhouse** · databricks · Engineering
+📍 Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8519396002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8519396002
+
+#### 🔄 Sr. Staff Security Software Engineer - Agentic Security Engineering
+**Greenhouse** · databricks · Security
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8612865002
+
+#### 🔄 Sr. Staff Software Engineer, Agentic Applications
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8927749002
+
+#### 🔄 Sr. Staff Software Engineer, Agentic Applications
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8635182002
+
+#### 🔄 Sr Staff Software Engineer (Backend)
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7630152002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7630152002
+
+#### 🔄 Sr. Staff Software Engineer - Managed Tables
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8555864002
+
+#### 🔄 Sr.Staff Software Engineer- Network Platform
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8462811002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8462811002
+
+#### 🔄 Sr. Staff Software Engineer — Observability, Insights & Governance
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8575248002
+
+#### 🔄 Sr. Staff Software Engineer — Observability, Insights & Governance
+**Greenhouse** · databricks · Engineering
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8575251002
+
+#### 🔄 Sr. Staff Software Engineer - Unity Catalog Data Governance
+**Greenhouse** · databricks · Exec Engineering
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7993609002
+
+#### 🔄 Sr Staff Strategic Product Operations Manager
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8524420002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8524420002
+
+#### 🔄 Sr Staff Strategic Product Operations Manager
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8524422002
+
+#### 🔄 Sr. Staff Technical Program Manager - Reliability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8445428002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8445428002
+
+#### 🔄 Sr. Staff Technical Program Manager - Reliability
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8445423002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8445423002
+
+#### 🔄 Sr Staff Technical Program Manager- Security
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8818577002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8818577002
+
+#### 🔄 Sr Staff Technical Program Manager- Security
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8818416002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8818416002
+
+#### 🔄 Sr. Strategy & Operations Program Lead, Accenture Business Group
+**Greenhouse** · databricks · Business Development
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8439170002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8439170002
+
+#### 🔄 Sr. Technical Program Manager, FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 USCA | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8927394002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8927394002
+
+#### 🔄 Sr. Technical Program Manager, FDE
+**Greenhouse** · databricks · Professional Services Operations
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922954002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922954002
+
+#### 🔄 Sr. Technical Program Manager, FDE - LATAM
+**Greenhouse** · databricks · Professional Services Operations
+📍 USCA | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8684079002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8684079002
+
+#### 🔄 Sr Technical Solutions Engineering
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 McLean, Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8589172002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8589172002
+
+#### 🔄 Sr. Technical Solutions Engineer - Platform (Support)
+**Greenhouse** · databricks · Support
+📍 Tokyo, Japan | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8337391002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8337391002
+
+#### 🔄 Sr. Technology Partner Director, Product Partnerships
+**Greenhouse** · databricks · Product
+📍 Remote - California; Remote - New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8922572002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8922572002
+
+#### 🔄 Sr. Technology Partner Director, Security & Observability ISV Partnerships
+**Greenhouse** · databricks · Product
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8936511002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8936511002
+
+#### 🔄 Sr Video Producer
+**Greenhouse** · databricks · Infrastructure
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8816442002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8816442002
+
+#### 🔄 Staff Backend Software Engineer- (AI Platform)
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8367021002
+
+#### 🔄 Staff Backline Engineer – ML/AI
+**Greenhouse** · databricks · Support
+📍 Bellevue, Washington; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7872746002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7872746002
+
+#### 🔄 Staff Data Scientist
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5507088002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5507088002
+
+#### 🔄 Staff Data Scientist - Infrastructure
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7069793002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7069793002
+
+#### 🔄 Staff Data Scientist - Trust and Safety
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8178287002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8178287002
+
+#### 🔄 Staff Enterprise Security Engineer
+**Greenhouse** · databricks · Security
+📍 Remote - California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8479031002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8479031002
+
+#### 🔄 Staff Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Remote - India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8530855002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8530855002
+
+#### 🔄 Staff Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Berlin, Germany; Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8653264002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8653264002
+
+#### 🔄 Staff Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 USCA | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893780002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8893780002
+
+#### 🔄 Staff Fullstack Engineer
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6704975002
+
+#### 🔄 Staff Fullstack Engineer, Agentic Applications
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220836002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8220836002
+
+#### 🔄 Staff Fullstack Engineer, Agentic Applications
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8220840002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8220840002
+
+#### 🔄 Staff Machine Learning Engineer
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8401114002
+
+#### 🔄 Staff Machine Learning Engineer, CustomerLake (ML/LLM)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8923831002
+
+#### 🔄 Staff Partner Engineer, Azure
+**Greenhouse** · databricks · Product
+📍 New York City, New York; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8508943002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8508943002
+
+#### 🔄 Staff People Partner, Corporate Functions
+**Greenhouse** · databricks · People
+📍 Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8869088002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8869088002
+
+#### 🔄 Staff Product Designer, Agentic Coding
+**Greenhouse** · databricks · Product
+📍 Mountain View, California; San Francisco, California; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8854693002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8854693002
+
+#### 🔄 Staff Product Designer, AI Products
+**Greenhouse** · databricks · Product
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8584704002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8584704002
+
+#### 🔄 Staff Production Engineer- Public Sector
+**Greenhouse** · databricks · Engineering
+📍 Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8519350002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8519350002
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · databricks · Product
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7649411002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7649411002
+
+#### 🔄 Staff Product Manager
+**Greenhouse** · databricks · Product
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7649409002
+
+#### 🔄 Staff Product Manager, Agentic AI Applications
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8560772002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8560772002
+
+#### 🔄 Staff Product Manager, SAP
+**Greenhouse** · databricks · Integration, Data, Engineering and Applications
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679974002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8679974002
+
+#### 🔄 Staff Product Manager, Security
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7110499002
+
+#### 🔄 Staff Product Manager, Security
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7110509002
+
+#### 🔄 Staff Product Manager, Serverless Workspaces
+**Greenhouse** · databricks · Product
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8427954002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8427954002
+
+#### 🔄 Staff Product Manager, Serverless Workspaces
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8420607002
+
+#### 🔄 Staff Product Manager, US Public Sector
+**Greenhouse** · databricks · Product
+📍 Remote - Virginia; Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8831555002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8831555002
+
+#### 🔄 Staff Security Assurance Engineer
+**Greenhouse** · databricks · Security
+📍 Remote - Washington D.C.; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8430837002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8430837002
+
+#### 🔄 Staff Security Engineer, Incident Response
+**Greenhouse** · databricks · Security
+📍 Belgium; Croatia; Finland; Ireland; Israel; Norway; Portugal; Remote - Denmark; Remote - France; Remote - Germany; Remote - Italy; Remote - Netherlands; Remote - Spain; Remote - Sweden; Remote - United Kingdom; Saudi Arabia; Serbia; Sweden; Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8612868002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8612868002
+
+#### 🔄 Staff Security Engineer, Incident Response
+**Greenhouse** · databricks · Security
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8841960002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8841960002
+
+#### 🔄 Staff Software Engineer
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7651346002
+
+#### 🔄 Staff Software Engineer, Ads Measurement & Orchestration
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8760165002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8760165002
+
+#### 🔄 Staff Software Engineer - AI Gateway
+**Greenhouse** · databricks · Engineering
+📍 New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8468436002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8468436002
+
+#### 🔄 Staff Software Engineer - AI Research Infrastructure
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8552484002
+
+#### 🔄 Staff Software Engineer, AI Runtime
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8582271002
+
+#### 🔄 Staff Software Engineer (App-Framework)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8944097002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8944097002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6779233002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6544443002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8320187002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Berlin, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7984907002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6779232002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8029674002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5408888002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012814002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8093293002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8374611002
+
+#### 🔄 Staff Software Engineer - Backend
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Aarhus, Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7642799002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7642799002
+
+#### 🔄 Staff Software Engineer - Customer Engagement & Docs Platform
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8032546002
+
+#### 🔄 Staff Software Engineer – Customer Experience Intelligence
+**Greenhouse** · databricks · Support
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8416959002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8416959002
+
+#### 🔄 Staff Software Engineer- CXI
+**Greenhouse** · databricks · Support
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8584144002
+
+#### 🔄 Staff Software Engineer - Database Engine Internals
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6544386002
+
+#### 🔄 Staff Software Engineer - Database Engine Internals
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5646866002
+
+#### 🔄 Staff Software Engineer - Database Engine Internals
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012818002
+
+#### 🔄 Staff Software Engineer - Databases
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7601565002
+
+#### 🔄 Staff Software Engineer- Databricks AI
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8926498002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8926498002
+
+#### 🔄 Staff Software Engineer, Data Collection (Tags & SDKs)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8760176002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8760176002
+
+#### 🔄 Staff Software Engineer - Data Platform
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7601572002
+
+#### 🔄 Staff Software Engineer (Data Platform)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7652016002
+
+#### 🔄 Staff Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6937001002
+
+#### 🔄 Staff Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Belgrade, Serbia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8012831002
+
+#### 🔄 Staff Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 5646855002
+
+#### 🔄 Staff Software Engineer - Distributed Data Systems
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 6544364002
+
+#### 🔄 Staff Software Engineer- Foundation Model Inference
+**Greenhouse** · databricks · Engineering
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8649279002
+
+#### 🔄 Staff Software Engineer - Frontend (NYC)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8384595002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8384595002
+
+#### 🔄 Staff Software Engineer - Fullstack
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Vancouver, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8099343002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8099343002
+
+#### 🔄 Staff Software Engineer, Fullstack - AI Product (NYC)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8509534002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8509534002
+
+#### 🔄 Staff Software Engineer - GenAI inference
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8202698002
+
+#### 🔄 Staff Software Engineer – Genie One Mobile & Desktop
+**Greenhouse** · databricks · Engineering
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8692516002
+
+#### 🔄 Staff Software Engineer - IAM
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7994801002
+
+#### 🔄 Staff Software Engineer - IAM
+**Greenhouse** · databricks · Executive Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7994790002
+
+#### 🔄 Staff Software Engineer - Ingestion
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8200692002
+
+#### 🔄 Staff Software Engineer - Ingestion
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8201686002
+
+#### 🔄 Staff Software Engineer, Lakeflow Pipelines DR
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8798198002
+
+#### 🔄 Staff Software Engineer (Money)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7654349002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7654349002
+
+#### 🔄 Staff Software Engineer - Money Team
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7111068002
+
+#### 🔄 Staff Software Engineer - Multi Cloud Efficiency
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8593107002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8593107002
+
+#### 🔄 Staff Software Engineer- Networking
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7648669002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7648669002
+
+#### 🔄 Staff Software Engineer  - Partner Ecosystem
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8476582002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8476582002
+
+#### 🔄 Staff Software Engineer- Public Sector
+**Greenhouse** · databricks · Engineering
+📍 Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8517555002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8517555002
+
+#### 🔄 Staff Software Engineer, Sales Data & Agents
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 New York City, New York | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8760171002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8760171002
+
+#### 🔄 Staff Software Engineer - Search Platform
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7841778002
+
+#### 🔄 Staff Software Engineer- Search Quality
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8439348002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8439348002
+
+#### 🔄 Staff Software Engineer, Search Quality
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8295792002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8295792002
+
+#### 🔄 Staff Software Engineer  (Search Ranking)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7958688002
+
+#### 🔄 Staff Software Engineer - Security Infrastructure
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7994770002
+
+#### 🔄 Staff Software Engineer - Security Infrastructure
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7994759002
+
+#### 🔄 Staff Software Engineer - Storage I/O
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7477633002
+
+#### 🔄 Staff Software Engineer - Streaming
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8663972002
+
+#### 🔄 Staff Software Engineer, Technical Lead, Lakebase Manager (LBM)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8639477002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8639477002
+
+#### 🔄 Staff Software Engineer - User Activation
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7979523002
+
+#### 🔄 Staff Systems Development Engineer (GovOps)
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 McLean, Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8798217002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8798217002
+
+#### 🔄 Staff Technical Instructor
+**Greenhouse** · databricks · Education & Training
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8931267002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8931267002
+
+#### 🔄 Staff Technical Program Manager - Cleared/Security
+**Greenhouse** · databricks · Security
+📍 McLean, Virginia; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8493148002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8493148002
+
+#### 🔄 Staff Technical Program Manager- Platform Features
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8521198002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8521198002
+
+#### 🔄 Staff Technical Program Manager- Security
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8864285002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8864285002
+
+#### 🔄 Staff Technical Program Manager- Security
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8864290002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8864290002
+
+#### 🔄 Staff Technical Solution Engineering
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 McLean, Virginia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8589169002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8589169002
+
+#### 🔄 Staff Technical Solutions Engineer, Data & AI
+**Greenhouse** · databricks · Support
+📍 Sao Paulo, Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8920303002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8920303002
+
+#### 🔄 Staff Technical Solutions Engineer (Platform)
+**Greenhouse** · databricks · Support
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=7845334002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 7845334002
+
+#### 🔄 Staff Unified Communications Engineer
+**Greenhouse** · databricks · Infrastructure
+📍 San Francisco, California; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8816437002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8816437002
+
+#### 🔄 Startup Account Executive
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 Chicago, Illinois; Denver, Colorado; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8103500002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8103500002
+
+#### 🔄 Startup Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899929002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899929002
+
+#### 🔄 Startup Hunter Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8899923002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8899923002
+
+#### 🔄 Startup Hunter Account Executive
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 Ontario, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8643831002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8643831002
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · databricks
+📍 San Francisco, California; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8815165002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8815165002
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Melbourne, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8929492002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8929492002
+
+#### 🔄 Strategic Account Executive - Banking
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8845180002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8845180002
+
+#### 🔄 Strategic Account Executive - Consumer Goods Industry
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8622413002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8622413002
+
+#### 🔄 Strategic Account Executive, Energy
+**Greenhouse** · databricks · Enterprise Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8905729002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8905729002
+
+#### 🔄 Strategic Account Executive, Life Science
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8626215002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8626215002
+
+#### 🔄 Strategic Account Executive, Medtech
+**Greenhouse** · databricks · Enterprise Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8905737002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8905737002
+
+#### 🔄 Strategic  Account Executive, Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 Montréal, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8652590002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8652590002
+
+#### 🔄 Strategic Account Executive, Space Force
+**Greenhouse** · databricks · Public Sector Sales
+📍 Remote - California; Remote - Colorado | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8871482002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8871482002
+
+#### 🔄 Strategic Account Executive, Telco
+**Greenhouse** · databricks · Enterprise Sales
+📍 Finland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8931581002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8931581002
+
+#### 🔄 Strategic Account Executive, Transportation and Logistics
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8736883002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8736883002
+
+#### 🔄 Strategic Account Executive - Travel, Transport and Logistics
+**Greenhouse** · databricks · Enterprise Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8879338002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8879338002
+
+#### 🔄 Strategic Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Madrid | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8883463002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8883463002
+
+#### 🔄 Strategic Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8628029002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8628029002
+
+#### 🔄 Strategic Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Los Angeles, California; San Francisco, California; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8929498002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8929498002
+
+#### 🔄 Strategic Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Virginia; Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8902939002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8902939002
+
+#### 🔄 Strategic Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Herzliya, Israel | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8878722002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8878722002
+
+#### 🔄 Strategic Core Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8895633002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8895633002
+
+#### 🔄 Strategic Core Account Executive
+**Greenhouse** · databricks · Sales
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8766584002
+
+#### 🔄 Strategic Core Account Executive - Automotive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Baden-Württemberg, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8903089002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8903089002
+
+#### 🔄 Strategic Core Account Executive - Automotive/OEM
+**Greenhouse** · databricks · Enterprise Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8656210002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8656210002
+
+#### 🔄 Strategic Core Account Executive - CMEG - Telco
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Georgia; Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8431459002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8431459002
+
+#### 🔄 Strategic Core Account Executive - Conglomerates
+**Greenhouse** · databricks · Enterprise Sales
+📍 Bengaluru, India; Mumbai, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8826668002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8826668002
+
+#### 🔄 Strategic Core Account Executive - CPG
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Georgia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8871488002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8871488002
+
+#### 🔄 Strategic Core Account Executive, Federal System Integrators
+**Greenhouse** · databricks · Public Sector Sales
+📍 Remote - Washington D.C. | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8193165002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8193165002
+
+#### 🔄 Strategic Core Account Executive - FSI
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910854002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910854002
+
+#### 🔄 Strategic Core Account Executive, FSI
+**Greenhouse** · databricks · Enterprise Sales
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8883827002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8883827002
+
+#### 🔄 Strategic Core Account Executive - Insurance
+**Greenhouse** · databricks · Enterprise Sales
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8903095002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8903095002
+
+#### 🔄 Strategic Core Account Executive - Insurance, m/f/d
+**Greenhouse** · databricks · Commercial & Mid-Market Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8353246002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8353246002
+
+#### 🔄 Strategic Core Account Executive - Life Sciences
+**Greenhouse** · databricks · Enterprise Sales
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8888920002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8888920002
+
+#### 🔄 Strategic Core Account Executive- Oil & Gas
+**Greenhouse** · databricks · Enterprise Sales
+📍 Austin, Texas; Dallas, Texas; Houston, Texas; United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8929384002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8929384002
+
+#### 🔄 Strategic Core Account Executive, Petrobras (Rio de Janeiro)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Brazil | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8906872002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8906872002
+
+#### 🔄 Strategic Core Account Executive - Public Sector
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910842002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8910842002
+
+#### 🔄 Strategic Core Account Executive - Retail
+**Greenhouse** · databricks · Enterprise Sales
+📍 Baden-Württemberg, Germany | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8903091002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8903091002
+
+#### 🔄 Strategic Core Account Executive - Retail
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Ohio | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8458710002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8458710002
+
+#### 🔄 Strategic Core Account Executive (Retail)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8895631002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8895631002
+
+#### 🔄 Strategic Core Account Executive - Telco
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8931264002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8931264002
+
+#### 🔄 Strategic Core Account Executive (Telco)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8912711002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8912711002
+
+#### 🔄 Strategic Core Account Executive - Vietnam (Singapore Based)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8880406002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8880406002
+
+#### 🔄 Strategic DNB Hunter Account Executive (China)
+**Greenhouse** · databricks · Enterprise Sales
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8585188002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8585188002
+
+#### 🔄 Strategic DNB Hunter Account Executive (China)
+**Greenhouse** · databricks · Enterprise Sales
+📍 China | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8644185002
+
+#### 🔄 Strategic Enterprise Account Executive - Airlines
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Texas | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870940002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870940002
+
+#### 🔄 Strategic Enterprise Account Executive, Healthcare
+**Greenhouse** · databricks · Enterprise Sales
+📍 Southeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870716002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870716002
+
+#### 🔄 Strategic Enterprise Account Executive, Life Sciences
+**Greenhouse** · databricks · Enterprise Sales
+📍 Northeast - United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8870720002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8870720002
+
+#### 🔄 Strategic Enterprise Account Executive, Media
+**Greenhouse** · databricks · Enterprise Sales
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8905733002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8905733002
+
+#### 🔄 Strategic Hunter Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Paris, France | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8737167002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8737167002
+
+#### 🔄 Strategic Hunter Account Executive
+**Greenhouse** · databricks · Enterprise Sales
+📍 Australian Capital Territory, Australia | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8880400002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8880400002
+
+#### 🔄 Strategy & Execution Manager - Deal Desk Transformation
+**Greenhouse** · databricks · Deal Desk
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8762400002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8762400002
+
+#### 🔄 Strategy & Operations Manager - Demand Gen Programs (APJ)
+**Greenhouse** · databricks · Sales Development
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8582993002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8582993002
+
+#### 🔄 Systems PhD - Software Engineer
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Bellevue, Washington; Seattle, Washington | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8482086002
+
+#### 🔄 Systems PhD - Software Engineer
+**Greenhouse** · databricks · Engineering - Pipeline
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8482037002
+
+#### 🔄 Tax Data & Technology Manager
+**Greenhouse** · databricks · Finance
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8679978002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8679978002
+
+#### 🔄 Team Lead, Executive Support
+**Greenhouse** · databricks · Corporate Operations
+📍 Costa Rica | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885966002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885966002
+
+#### 🔄 Team Lead - Platform Monitoring Engineer
+**Greenhouse** · databricks · Support
+📍 Bengaluru, India | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8788176002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8788176002
+
+#### 🔄 Tech Lead Manager - Lakebase
+**Greenhouse** · databricks · Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8651161002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8651161002
+
+#### 🔄 Technical Business Development Manager, Startup & VC Ecosystem
+**Greenhouse** · databricks · Product
+📍 San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8885667002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8885667002
+
+#### 🔄 Technical Enablement Specialist  - Field Engineering Onboarding
+**Greenhouse** · databricks · Field Engineering - Enablement
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8824168002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8824168002
+
+#### 🔄 Technical Program Manager
+**Greenhouse** · databricks · Professional Services Operations
+📍 Auckland, New Zealand | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8578144002)
+🕐 Updated: 2026-11-18T17:50:10-05:00 | ID: 8578144002
+
+#### 🔄 Lead Brand Designer, Web
+**Greenhouse** · checkr · Marketing
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/8232233)
+🕐 Updated: 2026-11-18T17:32:25-05:00 | ID: 8232233
+
+#### 🔄 Sr. Manager, Procure to Pay
+**Greenhouse** · samsara · Corporate Accounting
+📍 Remote - US | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8351204?gh_jid=8351204)
+🕐 Updated: 2026-11-18T17:30:00-05:00 | ID: 8351204
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · rubrik · Sales
+📍 Arizona | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.7980440?gh_jid=7980440)
+🕐 Updated: 2026-11-18T17:29:16-05:00 | ID: 7980440
+
+#### 🔄 Senior Analyst, Workday Integrations
+**Greenhouse** · justworks · People
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8324732?gh_jid=8324732)
+🕐 Updated: 2026-11-18T17:28:47-05:00 | ID: 8324732
+
+#### 🔄 Enterprise Implementation Consultant - Public Sector
+**Greenhouse** · samsara · Customer Success
+📍 Remote - GA | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8360093?gh_jid=8360093)
+🕐 Updated: 2026-11-18T17:27:51-05:00 | ID: 8360093
+
+#### 🔄 Enterprise Implementation Consultant - Public Sector
+**Greenhouse** · samsara · Customer Success
+📍 Remote - UT | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710)
+🕐 Updated: 2026-11-18T17:27:51-05:00 | ID: 8304710
+
+#### 🔄 Enterprise Implementation Consultant - Public Sector
+**Greenhouse** · samsara · Customer Success
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8372624?gh_jid=8372624)
+🕐 Updated: 2026-11-18T17:27:51-05:00 | ID: 8372624
+
+#### 🔄 Sr. Manager, Procure to Pay
+**Greenhouse** · samsara · Corporate Accounting
+📍 Remote - Toronto | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8263264?gh_jid=8263264)
+🕐 Updated: 2026-11-18T17:27:47-05:00 | ID: 8263264
+
+#### 🔄 Account Development Representative Intern - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119)
+🕐 Updated: 2026-11-18T17:27:38-05:00 | ID: 8103119
+
+#### 🔄 Account Development Representative Intern - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373)
+🕐 Updated: 2026-11-18T17:27:38-05:00 | ID: 8325373
+
+#### 🔄 Account Development Representative Intern - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057)
+🕐 Updated: 2026-11-18T17:27:38-05:00 | ID: 8325057
+
+#### 🔄 Account Development Representative Intern - Phoenix
+**Greenhouse** · samsara · Account Development Representative
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784)
+🕐 Updated: 2026-11-18T17:27:36-05:00 | ID: 8319784
+
+#### 🔄 Account Development Representative Intern - Phoenix
+**Greenhouse** · samsara · Account Development Representative
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056)
+🕐 Updated: 2026-11-18T17:27:36-05:00 | ID: 8325056
+
+#### 🔄 Account Development Representative Intern - Phoenix
+**Greenhouse** · samsara · Account Development Representative
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371)
+🕐 Updated: 2026-11-18T17:27:36-05:00 | ID: 8325371
+
+#### 🔄 Account Development Representative Intern - Phoenix
+**Greenhouse** · samsara · Account Development Representative
+📍 Phoenix, Arizona, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799)
+🕐 Updated: 2026-11-18T17:27:36-05:00 | ID: 8099799
+
+#### 🔄 Corporate FP&A Manager
+**Greenhouse** · coursera · Finance
+📍 United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/coursera/jobs/6192106004)
+🕐 Updated: 2026-11-18T17:26:43-05:00 | ID: 6192106004
+
+#### 🔄 Senior Analyst, People Systems (Workday PATT)
+**Greenhouse** · justworks · People
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8292657?gh_jid=8292657)
+🕐 Updated: 2026-11-18T17:25:59-05:00 | ID: 8292657
+
+#### 🔄 Manager, People Systems (Workday)
+**Greenhouse** · justworks · People
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8278345?gh_jid=8278345)
+🕐 Updated: 2026-11-18T17:24:38-05:00 | ID: 8278345
+
+#### 🔄 Business Development Manager - FX/Cross Border Payments
+**Greenhouse** · convera · Sales - Enterprise & Mid Market
+📍 Toronto | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/5041606101)
+🕐 Updated: 2026-11-18T17:20:35-05:00 | ID: 5041606101
+
+#### 🔄 Business Development Manager - FX/Cross Border Payments
+**Greenhouse** · convera · Sales - Enterprise & Mid Market
+📍 Vancouver | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/4957490101)
+🕐 Updated: 2026-11-18T17:20:25-05:00 | ID: 4957490101
+
+#### 🔄 Account Executive, Enterprise (Walmart)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8396316)
+🕐 Updated: 2026-11-18T17:16:54-05:00 | ID: 8396316
+
+#### 🔄 Senior Product Manager, Verifications
+**Greenhouse** · checkr · Product
+📍 Denver, Colorado, United States; San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/8397792)
+🕐 Updated: 2026-11-18T17:11:32-05:00 | ID: 8397792
+
+#### 🔄 Strategic Sales Engineer, Rockies
+**Greenhouse** · rubrik · Sales Engineering
+📍 Colorado or Utah | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8335801?gh_jid=8335801)
+🕐 Updated: 2026-11-18T17:03:10-05:00 | ID: 8335801
+
+#### 🔄 Head of Americas Internal Audit
+**Greenhouse** · stripe · 6480 Internal Audit
+📍 SF, NYC | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8387804)
+🕐 Updated: 2026-11-18T16:57:23-05:00 | ID: 8387804
+
+#### 🔄 Risk and Recovery Contact Operations Manager
+**Greenhouse** · branch · Risk Analytics
+📍 Remote, US | 🔗 [Apply Here](https://job-boards.greenhouse.io/branch/jobs/8207574003)
+🕐 Updated: 2026-11-18T16:55:23-05:00 | ID: 8207574003
+
+#### 🔄 Enterprise Architect - Toronto, Canada
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Distributed | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8319377?gh_jid=8319377)
+🕐 Updated: 2026-11-18T16:53:11-05:00 | ID: 8319377
+
+#### 🔄 Technical Customer Support Associate - Product Support Operations (CDMX)
+**Greenhouse** · stripe · 4128 SDC - Product Support
+📍 MX- Mexico City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7981587)
+🕐 Updated: 2026-11-18T16:50:07-05:00 | ID: 7981587
+
+#### 🔄 Machine Learning Engineer, Transaction Risk
+**Greenhouse** · stripe · 7112 Data Science
+📍 Seattle, New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8187574)
+🕐 Updated: 2026-11-18T16:44:54-05:00 | ID: 8187574
+
+#### 🔄 Machine Learning Engineer, Link
+**Greenhouse** · stripe · 8570 Consumer Network - Eng
+📍 New York City | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8197886)
+🕐 Updated: 2026-11-18T16:43:48-05:00 | ID: 8197886
+
+#### 🔄 Machine Learning Engineer, Growth Platform
+**Greenhouse** · stripe · 7112 Data Science
+📍 San Francisco | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8224915)
+🕐 Updated: 2026-11-18T16:42:46-05:00 | ID: 8224915
+
+#### 🔄 Machine Learning Engineer, Radar
+**Greenhouse** · stripe · 8525 Radar - Eng
+📍 Seattle | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8243617)
+🕐 Updated: 2026-11-18T16:41:16-05:00 | ID: 8243617
+
+#### 🔄 Engineering Manager, Federal & Regulated Infrastructure
+**Greenhouse** · snorkelai · 312 - Engineering
+📍 San Francisco, CA (Hybrid); United States (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/6229274004)
+🕐 Updated: 2026-11-18T16:35:14-05:00 | ID: 6229274004
+
+#### 🔄 Engineering Manager, Data Delivery
+**Greenhouse** · snorkelai · 310 - DaaS FDE
+📍 New York City, NY (Hybrid); San Francisco, CA (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/6254371004)
+🕐 Updated: 2026-11-18T16:31:48-05:00 | ID: 6254371004
+
+#### 🔄 Staff Product Designer
+**Greenhouse** · okta · Product Design & UXR-650
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8351641?gh_jid=8351641)
+🕐 Updated: 2026-11-18T16:22:43-05:00 | ID: 8351641
+
+#### 🔄 Research Scientist - Frontier Benchmarks
+**Greenhouse** · snorkelai · 316 - Research
+📍 New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | 🔗 [Apply Here](https://job-boards.greenhouse.io/snorkelai/jobs/6009489004)
+🕐 Updated: 2026-11-18T16:22:43-05:00 | ID: 6009489004
+
+#### 🔄 Staff Software Engineer, MacOS
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8237681?gh_jid=8237681)
+🕐 Updated: 2026-11-18T16:22:40-05:00 | ID: 8237681
+
+#### 🔄 Manager, Product Design - Okta Research & Development
+**Greenhouse** · okta · Product Design & UXR-650
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8319247?gh_jid=8319247)
+🕐 Updated: 2026-11-18T16:22:38-05:00 | ID: 8319247
+
+#### 🔄 Staff Product Designer - UI Platform
+**Greenhouse** · okta · Product Design & UXR-650
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116)
+🕐 Updated: 2026-11-18T16:22:36-05:00 | ID: 8326116
+
+#### 🔄 Senior Technical Writer
+**Greenhouse** · okta · Developer Relations-490
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8250518?gh_jid=8250518)
+🕐 Updated: 2026-11-18T16:22:34-05:00 | ID: 8250518
+
+#### 🔄 Senior Software Engineer in Test
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8301847?gh_jid=8301847)
+🕐 Updated: 2026-11-18T16:22:32-05:00 | ID: 8301847
+
+#### 🔄 Senior iOS Engineer, Crypto Trading
+**Greenhouse** · robinhood · ENG Infrastructure
+📍 Toronto, Canada | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701)
+🕐 Updated: 2026-11-18T16:22:29-05:00 | ID: 8319701
+
+#### 🔄 Senior Full-Stack Engineer, Builder Platform
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8359853?gh_jid=8359853)
+🕐 Updated: 2026-11-18T16:22:27-05:00 | ID: 8359853
+
+#### 🔄 Staff UX Designer
+**Greenhouse** · okta · Product Design & UXR-650
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8232605?gh_jid=8232605)
+🕐 Updated: 2026-11-18T16:22:20-05:00 | ID: 8232605
+
+#### 🔄 Staff Software Engineer - Core Identity
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8262963?gh_jid=8262963)
+🕐 Updated: 2026-11-18T16:22:17-05:00 | ID: 8262963
+
+#### 🔄 Senior Product Designer - Enterprise Security
+**Greenhouse** · okta · Product Design & UXR-650
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8311018?gh_jid=8311018)
+🕐 Updated: 2026-11-18T16:22:15-05:00 | ID: 8311018
+
+#### 🔄 Staff Software Engineer, Identity Threat Protection
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7233187?gh_jid=7233187)
+🕐 Updated: 2026-11-18T16:22:03-05:00 | ID: 7233187
+
+#### 🔄 Staff Product Manager - Okta Identity Governance
+**Greenhouse** · okta · Product Management-810
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8248427?gh_jid=8248427)
+🕐 Updated: 2026-11-18T16:22:00-05:00 | ID: 8248427
+
+#### 🔄 Staff Software Engineer - UI Platform
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 San Francisco, California; Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8211380?gh_jid=8211380)
+🕐 Updated: 2026-11-18T16:21:56-05:00 | ID: 8211380
+
+#### 🔄 Senior Software Engineer in Test, Android
+**Greenhouse** · okta · Engineering Quality-630
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8287671?gh_jid=8287671)
+🕐 Updated: 2026-11-18T16:21:54-05:00 | ID: 8287671
+
+#### 🔄 Senior Software Engineer, Performance ( Toronto)
+**Greenhouse** · okta · SW Eng - Infrastructure-672
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8329646?gh_jid=8329646)
+🕐 Updated: 2026-11-18T16:21:52-05:00 | ID: 8329646
+
+#### 🔄 Senior Software Engineer in Test, UI Platform
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Toronto, Ontario, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8071448?gh_jid=8071448)
+🕐 Updated: 2026-11-18T16:21:49-05:00 | ID: 8071448
+
+#### 🔄 Senior iOS Engineer, Crypto Trading
+**Greenhouse** · robinhood · ENG Infrastructure
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388)
+🕐 Updated: 2026-11-18T16:21:11-05:00 | ID: 8289388
+
+#### 🔄 Staff Brand Designer
+**Greenhouse** · gusto · Design
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7584417)
+🕐 Updated: 2026-11-18T16:15:41-05:00 | ID: 7584417
+
+#### 🔄 Account Executive, Mid-Enterprise
+**Greenhouse** · klaviyo · Sales
+📍 Boston, MA | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7624146003?gh_jid=7624146003)
+🕐 Updated: 2026-11-18T16:15:21-05:00 | ID: 7624146003
+
+#### 🔄 Senior ML Engineer (R14284)
+**Greenhouse** · oportun · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4739781005)
+🕐 Updated: 2026-11-18T16:13:14-05:00 | ID: 4739781005
+
+#### 🔄 Treasury Manager
+**Greenhouse** · flexport · Finance
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8282867)
+🕐 Updated: 2026-11-18T16:10:00-05:00 | ID: 8282867
+
+#### 🔄 Principal Product Marketing Manager, Enterprise Context
+**Greenhouse** · gleanwork · Marketing
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4736358005)
+🕐 Updated: 2026-11-18T16:08:59-05:00 | ID: 4736358005
+
+#### 🔄 Principal Product Marketing Manager, Enterprise Context
+**Greenhouse** · gleanwork · Marketing
+📍 Mountain View, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4736348005)
+🕐 Updated: 2026-11-18T16:08:57-05:00 | ID: 4736348005
+
+#### 🔄 Community Engagement Manager, Data Centers (West Texas)
+**Greenhouse** · anthropic · Public Policy
+📍 Austin, TX | Remote-Friendly, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5391983008)
+🕐 Updated: 2026-11-18T16:02:56-05:00 | ID: 5391983008
+
+#### 🔄 Staff Technical Product Manager, Runtimes
+**Greenhouse** · fastly · Product Management
+📍 New York City, NY | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=8079946)
+🕐 Updated: 2026-11-18T16:02:21-05:00 | ID: 8079946
+
+#### 🔄 Senior Sales Engineer, Commercial
+**Greenhouse** · fivetran · Sales Department
+📍 Dublin, Dublin, Ireland, EMEA | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7735023003)
+🕐 Updated: 2026-11-18T16:00:55-05:00 | ID: 7735023003
+
+#### 🔄 Senior Sales Engineer, Commercial
+**Greenhouse** · fivetran · Sales Department
+📍 London, England, United Kingdom | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=7820250003)
+🕐 Updated: 2026-11-18T16:00:55-05:00 | ID: 7820250003
+
+#### 🔄 Account Executive, Enterprise
+**Greenhouse** · intercom · Sales
+📍 Chicago, Illinois; San Francisco, California; USA, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8356698)
+🕐 Updated: 2026-11-18T15:56:52-05:00 | ID: 8356698
+
+#### 🔄 Clearing Risk Analyst
+**Greenhouse** · coinbase · Risk & Fraud
+📍 Remote - USA | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356)
+🕐 Updated: 2026-11-18T15:51:14-05:00 | ID: 8131356
+
+#### 🔄 Staff Motion & Brand Designer
+**Greenhouse** · gusto · Design
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7728150)
+🕐 Updated: 2026-11-18T15:50:35-05:00 | ID: 7728150
+
+#### 🔄 Customer Support Advocate, Employees
+**Greenhouse** · justworks · Customer Success
+📍 Tampa, Florida | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/5891994?gh_jid=5891994)
+🕐 Updated: 2026-11-18T15:49:53-05:00 | ID: 5891994
+
+#### 🔄 Software Engineer
+**Greenhouse** · celonis · Engineering
+📍 Cambridge, US, Massachusetts | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003)
+🕐 Updated: 2026-11-18T15:49:31-05:00 | ID: 8190822003
+
+#### 🔄 Field Marketing Manager, Central
+**Greenhouse** · gleanwork · Marketing
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4755120005)
+🕐 Updated: 2026-11-18T15:49:23-05:00 | ID: 4755120005
+
+#### 🔄 Software Engineer - Infrastructure
+**Greenhouse** · celonis · Engineering
+📍 Cambridge, US, Massachusetts | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003)
+🕐 Updated: 2026-11-18T15:49:02-05:00 | ID: 8190831003
+
+#### 🔄 Software Engineer, Secure Devices
+**Greenhouse** · stripe · 8612 Security Infrastructure
+📍 New York, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: 2026-11-18T15:45:21-05:00 | ID: 7982720
+
+#### 🔄 Sales Development Representative
+**Greenhouse** · abnormalsecurity · Sales Development
+📍 Remote - USA | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003)
+🕐 Updated: 2026-11-18T15:39:57-05:00 | ID: 7730831003
+
+#### 🔄 Executive Recruiter
+**Greenhouse** · datadog · Business Recruiting
+📍 Dublin, Ireland; London, United Kingdom | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8331059/?gh_jid=8331059)
+🕐 Updated: 2026-11-18T15:37:30-05:00 | ID: 8331059
+
+#### 🔄 Executive Recruiter
+**Greenhouse** · datadog · Business Recruiting
+📍 Boston, Massachusetts, USA; New York, New York, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8223733/?gh_jid=8223733)
+🕐 Updated: 2026-11-18T15:37:15-05:00 | ID: 8223733
+
+#### 🔄 Senior NAM Payroll Specialist
+**Greenhouse** · toast · G & A : Total Rewards and Operations
+📍 Chennai | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8311872)
+🕐 Updated: 2026-11-18T15:34:32-05:00 | ID: 8311872
+
+#### 🔄 Senior Technical Solutions Engineer, Streaming Media
+**Greenhouse** · fastly · Cloud Engineering - COR
+📍 Denver, CO; San Francisco, CA | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7733190)
+🕐 Updated: 2026-11-18T15:34:24-05:00 | ID: 7733190
+
+#### 🔄 Account Executive, Mid-Enterprise
+**Greenhouse** · klaviyo · Sales
+📍 Denver, CO | 🔗 [Apply Here](https://www.klaviyo.com/careers/jobs/7624149003?gh_jid=7624149003)
+🕐 Updated: 2026-11-18T15:31:22-05:00 | ID: 7624149003
+
+#### 🔄 Engineering Manager, Security Infrastructure
+**Greenhouse** · coreweave · Technology
+📍 New York, NY / Sunnyvale, CA / Bellevue,WA / San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4729255006&board=coreweave&gh_jid=4729255006)
+🕐 Updated: 2026-11-18T15:29:30-05:00 | ID: 4729255006
+
+#### 🔄 Accounts Receivable Collections Analyst
+**Greenhouse** · flexport · Finance
+📍 Guadalajara, Mexico; Mexico City | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8394473)
+🕐 Updated: 2026-11-18T15:25:47-05:00 | ID: 8394473
+
+#### 🔄 Staff Software Engineer - Okta Identity Governance
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Bellevue, WA, United States; New York, New York, United States; Washington D.C. | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676)
+🕐 Updated: 2026-11-18T15:24:32-05:00 | ID: 8396676
+
+#### 🔄 Staff Software Engineer - Okta Identity Governance
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 San Francisco, CA, United States | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8373834?gh_jid=8373834)
+🕐 Updated: 2026-11-18T15:19:49-05:00 | ID: 8373834
+
+#### 🔄 Technical Sales Solutions Specialist
+**Greenhouse** · formlabs · Global Sales
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8386629/apply/?gh_jid=8386629)
+🕐 Updated: 2026-11-18T15:15:54-05:00 | ID: 8386629
+
+#### 🔄 Technical Sales Representative (0-5 years experience)
+**Greenhouse** · formlabs · Global Sales
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8394714/apply/?gh_jid=8394714)
+🕐 Updated: 2026-11-18T15:15:33-05:00 | ID: 8394714
+
+#### 🔄 Sales Representative
+**Greenhouse** · formlabs · Global Sales
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8394739/apply/?gh_jid=8394739)
+🕐 Updated: 2026-11-18T15:15:17-05:00 | ID: 8394739
+
+#### 🔄 Technical Sales Representative
+**Greenhouse** · formlabs · Global Sales
+📍 Somerville, MA | 🔗 [Apply Here](https://careers.formlabs.com/job/8282460/apply/?gh_jid=8282460)
+🕐 Updated: 2026-11-18T15:15:08-05:00 | ID: 8282460
+
+#### 🔄 Transport Technician
+**Greenhouse** · spacex · Texas - Flight Hardware Logistics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8708617002?gh_jid=8708617002)
+🕐 Updated: 2026-11-18T15:12:40-05:00 | ID: 8708617002
+
+#### 🔄 Senior Security Engineer, Networking
+**Greenhouse** · coreweave · Technology
+📍 Bellevue, WA / Sunnyvale, CA / New York, NY / Livingston, NJ / San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4717280006&board=coreweave&gh_jid=4717280006)
+🕐 Updated: 2026-11-18T15:04:03-05:00 | ID: 4717280006
+
+#### 🔄 Staff Security Engineer, Detection Engineering
+**Greenhouse** · coreweave · Technology
+📍 Bellevue, WA / Sunnyvale, CA / New York, NY / Livingston, NJ / San Francisco, CA | 🔗 [Apply Here](https://coreweave.com/careers/job?4727345006&board=coreweave&gh_jid=4727345006)
+🕐 Updated: 2026-11-18T15:03:16-05:00 | ID: 4727345006
+
+#### 🔄 Solutions Architect
+**Greenhouse** · checkr · Implementations
+📍 Denver, Colorado, United States; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/checkr/jobs/8310728)
+🕐 Updated: 2026-11-18T15:03:14-05:00 | ID: 8310728
+
+#### 🔄 Analytics Engineer, HR Analytics
+**Greenhouse** · elastic · HR Systems & Analytics
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449)
+🕐 Updated: 2026-11-18T15:02:22-05:00 | ID: 8244449
+
+#### 🔄 Senior Manager, Employee Relations & Performance
+**Greenhouse** · toast · G & A : People Success
+📍 Remote - US | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8371628)
+🕐 Updated: 2026-11-18T15:01:28-05:00 | ID: 8371628
+
+#### 🔄 Sr Software Engineer, Cribl AI
+**Greenhouse** · cribl · Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://cribl.io/job-detail/?gh_jid=6133820004)
+🕐 Updated: 2026-11-18T14:58:26-05:00 | ID: 6133820004
+
+#### 🔄 Senior Manager, GTM Customer Recruiting
+**Greenhouse** · mongodb · Recruiting
+📍 New York City | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8229901)
+🕐 Updated: 2026-11-18T14:58:01-05:00 | ID: 8229901
+
+#### 🔄 Marketing Strategy Insights Lead
+**Greenhouse** · fivetran · Marketing Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8042288003)
+🕐 Updated: 2026-11-18T14:56:56-05:00 | ID: 8042288003
+
+#### 🔄 Marketing Strategy Insights Lead
+**Greenhouse** · fivetran · Marketing Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8026985003)
+🕐 Updated: 2026-11-18T14:56:53-05:00 | ID: 8026985003
+
+#### 🔄 Staff Data Analyst (Contract)
+**Greenhouse** · sofi · Engineering: Contract
+📍 CA - San Francisco HQ; NY - New York City | 🔗 [Apply Here](https://sofi.com/careers/job/8044835003?gh_jid=8044835003)
+🕐 Updated: 2026-11-18T14:55:11-05:00 | ID: 8044835003
+
+#### 🔄 Senior Software Engineer, Data Platform
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Washington D.C.; Washington, District of Columbia, United States | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8239380?gh_jid=8239380)
+🕐 Updated: 2026-11-18T14:54:25-05:00 | ID: 8239380
+
+#### 🔄 Pre-Sales Solutions Architect, Money Management
+**Greenhouse** · stripe · 1154 Specialized Solutions Architecture
+📍 NYC, SF, Chi, Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7370967)
+🕐 Updated: 2026-11-18T14:52:55-05:00 | ID: 7370967
+
+#### 🔄 Senior Customer Engineer - Vancouver, BC
+**Greenhouse** · cloudflare · Solution Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736)
+🕐 Updated: 2026-11-18T14:52:33-05:00 | ID: 8223736
+
+#### 🔄 Learning Partner, Data Center Operations
+**Greenhouse** · coreweave · People
+📍 Dallas, TX / Livingston, NJ | 🔗 [Apply Here](https://coreweave.com/careers/job?4689900006&board=coreweave&gh_jid=4689900006)
+🕐 Updated: 2026-11-18T14:50:04-05:00 | ID: 4689900006
+
+#### 🔄 Spécialiste en configuration de solutions
+**Greenhouse** · ivalua · Pre-Sales & Solution Consulting
+📍 Montreal, Quebec - Canada | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8384564?gh_jid=8384564)
+🕐 Updated: 2026-11-18T14:48:46-05:00 | ID: 8384564
+
+#### 🔄 Product Manager, API Platform
+**Greenhouse** · airbnb · Product Management
+📍 San Francisco, CA | 🔗 [Apply Here](https://careers.airbnb.com/positions/8262207?gh_jid=8262207)
+🕐 Updated: 2026-11-18T14:47:14-05:00 | ID: 8262207
+
+#### 🔄 Product Manager, Social Features
+**Greenhouse** · airbnb · Product Management
+📍 San Francisco, CA | 🔗 [Apply Here](https://careers.airbnb.com/positions/8282322?gh_jid=8282322)
+🕐 Updated: 2026-11-18T14:45:52-05:00 | ID: 8282322
+
+#### 🔄 Bilingual CX Specialist (French)
+**Greenhouse** · instacart · Care Customer Experience
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8257641)
+🕐 Updated: 2026-11-18T14:45:06-05:00 | ID: 8257641
+
+#### 🔄 Engineering Manager, Object Storage Data Plane
+**Greenhouse** · coreweave · Technology
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4709354006&board=coreweave&gh_jid=4709354006)
+🕐 Updated: 2026-11-18T14:44:16-05:00 | ID: 4709354006
+
+#### 🔄 Staff, Fullstack Software Engineer (P4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8393931)
+🕐 Updated: 2026-11-18T14:42:28-05:00 | ID: 8393931
+
+#### 🔄 Senior Software Engineer, Agent Gateway
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Toronto, ON, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8211926?gh_jid=8211926)
+🕐 Updated: 2026-11-18T14:41:41-05:00 | ID: 8211926
+
+#### 🔄 Territory Account Executive, SMB - Newark, NJ
+**Greenhouse** · toast · Sales : SMB Field Sales AEs
+📍 Newark, New Jersey | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8282196)
+🕐 Updated: 2026-11-18T14:38:54-05:00 | ID: 8282196
+
+#### 🔄 Cloud Platform Engineer
+**Greenhouse** · gitlab · Platforms Engineering
+📍 Remote, Canada; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8889193002)
+🕐 Updated: 2026-11-18T14:30:11-05:00 | ID: 8889193002
+
+#### 🔄 Senior Financial Systems Analyst
+**Greenhouse** · justworks · Corporate & Finance
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8265404?gh_jid=8265404)
+🕐 Updated: 2026-11-18T14:29:45-05:00 | ID: 8265404
+
+#### 🔄 Sales Engineering Intern (London), Summer 2027
+**Greenhouse** · rubrik · Sales Engineering
+📍 London, England, UK | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8351223?gh_jid=8351223)
+🕐 Updated: 2026-11-18T14:26:58-05:00 | ID: 8351223
+
+#### 🔄 Senior Cloud Native Architect
+**Greenhouse** · purestorage · Services & Support
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8383632)
+🕐 Updated: 2026-11-18T14:26:01-05:00 | ID: 8383632
+
+#### 🔄 Account Solutions Architect - Greenfield
+**Greenhouse** · coreweave · Global Field Organization
+📍 San Francisco, CA / Boston, MA | 🔗 [Apply Here](https://coreweave.com/careers/job?4701473006&board=coreweave&gh_jid=4701473006)
+🕐 Updated: 2026-11-18T14:24:58-05:00 | ID: 4701473006
+
+#### 🔄 Machine Learning Engineer, Assistance Engineering
+**Greenhouse** · airbnb · Software Engineering
+📍 Remote-USA | 🔗 [Apply Here](https://careers.airbnb.com/positions/7826337?gh_jid=7826337)
+🕐 Updated: 2026-11-18T14:24:14-05:00 | ID: 7826337
+
+#### 🔄 Enterprise Development Representative
+**Greenhouse** · verkada · Sales Development
+📍 Austin, TX United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4140679007)
+🕐 Updated: 2026-11-18T14:18:25-05:00 | ID: 4140679007
+
+#### 🔄 Senior Data Scientist, Lending
+**Greenhouse** · chime · Data Analytics
+📍 San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8612037002?gh_jid=8612037002)
+🕐 Updated: 2026-11-18T14:13:28-05:00 | ID: 8612037002
+
+#### 🔄 Senior Counsel, Commercial Leasing and Real Estate
+**Greenhouse** · coreweave · Legal & Government Affairs
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX | 🔗 [Apply Here](https://coreweave.com/careers/job?4728693006&board=coreweave&gh_jid=4728693006)
+🕐 Updated: 2026-11-18T14:12:40-05:00 | ID: 4728693006
+
+#### 🔄 Senior Machine Learning Engineer, Assistance Engineering
+**Greenhouse** · airbnb · Software Engineering
+📍 Remote-USA | 🔗 [Apply Here](https://careers.airbnb.com/positions/8014904?gh_jid=8014904)
+🕐 Updated: 2026-11-18T14:11:07-05:00 | ID: 8014904
+
+#### 🔄 Risk Operations Analyst - Restricted Business Operations
+**Greenhouse** · stripe · 3110 User Policy Operations
+📍 Remote | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8175824)
+🕐 Updated: 2026-11-18T14:09:18-05:00 | ID: 8175824
+
+#### 🔄 Sales Development Representative, Latin America
+**Greenhouse** · okta · Sales Development-310
+📍 Washington D.C. | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7013739?gh_jid=7013739)
+🕐 Updated: 2026-11-18T14:03:19-05:00 | ID: 7013739
+
+#### 🔄 Sales Support - Financial Institutions
+**Greenhouse** · convera · Sales - Banks & Financial Technology
+📍 Work From Home - Canada; Work From Home - USA | 🔗 [Apply Here](https://job-boards.eu.greenhouse.io/convera/jobs/5008084101)
+🕐 Updated: 2026-11-18T14:02:53-05:00 | ID: 5008084101
+
+#### 🔄 Sales Engineering Intern, Summer 2027
+**Greenhouse** · rubrik · Sales Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8268237?gh_jid=8268237)
+🕐 Updated: 2026-11-18T14:02:09-05:00 | ID: 8268237
+
+#### 🔄 Sr. Customer Account Executive, Mexico and Central America
+**Greenhouse** · braze · Sales
+📍 Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/braze/jobs/8365280)
+🕐 Updated: 2026-11-18T14:00:44-05:00 | ID: 8365280
+
+#### 🔄 Partner and Vendor Safety Audit Logistics Remediation Program Manager
+**Greenhouse** · waymo · PVEO (KPL)
+📍 Remote, US, Atlanta, GA, USA, Austin, TX, USA, Chicago, IL, USA,  Dallas, TX, USA, Houston, TX, USA, Los Angeles, CA, USA, Miami, FL, USA,  Nashville, TN, USA,  Orlando, FL, USA, Phoenix, AZ, USA,  San Antonio, TX, USA, San Francisco Bay Area, CA, USA, Seattle, WA, USA, New York City, NY, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8047200)
+🕐 Updated: 2026-11-18T13:54:25-05:00 | ID: 8047200
+
+#### 🔄 Critical Situation Manager
+**Greenhouse** · mongodb · Technical Support Escalation Management
+📍 Hawaii | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8170620)
+🕐 Updated: 2026-11-18T13:54:09-05:00 | ID: 8170620
+
+#### 🔄 Account Executive - Rubrik Agent Cloud
+**Greenhouse** · rubrik · Sales
+📍 Southeast, U.S. | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8122039?gh_jid=8122039)
+🕐 Updated: 2026-11-18T13:52:31-05:00 | ID: 8122039
+
+#### 🔄 Senior Customer Success Associate
+**Greenhouse** · instacart · Retail Business Development
+📍 United States - Remote | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8374889)
+🕐 Updated: 2026-11-18T13:52:15-05:00 | ID: 8374889
+
+#### 🔄 Sr. Application Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928938002?gh_jid=8928938002)
+🕐 Updated: 2026-11-18T13:47:52-05:00 | ID: 8928938002
+
+#### 🔄 Sr. Full Stack Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934568002?gh_jid=8934568002)
+🕐 Updated: 2026-11-18T13:47:52-05:00 | ID: 8934568002
+
+#### 🔄 Sr. Full Stack Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934569002?gh_jid=8934569002)
+🕐 Updated: 2026-11-18T13:47:52-05:00 | ID: 8934569002
+
+#### 🔄 Sr. Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928979002?gh_jid=8928979002)
+🕐 Updated: 2026-11-18T13:47:52-05:00 | ID: 8928979002
+
+#### 🔄 Systems Engineer, MAPS
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7742773?gh_jid=7742773)
+🕐 Updated: 2026-11-18T13:46:48-05:00 | ID: 7742773
+
+#### 🔄 People Tech Business Systems Analyst
+**Greenhouse** · gusto · People
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8257482)
+🕐 Updated: 2026-11-18T13:46:43-05:00 | ID: 8257482
+
+#### 🔄 Principal Software Engineer I - Platform Billing Core
+**Greenhouse** · elastic · Platform - Management Experience
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817)
+🕐 Updated: 2026-11-18T13:44:54-05:00 | ID: 8245817
+
+#### 🔄 Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+**Greenhouse** · cloudflare · Engineering
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801)
+🕐 Updated: 2026-11-18T13:44:51-05:00 | ID: 7462801
+
+#### 🔄 Senior Internal Auditor
+**Greenhouse** · twilio · Finance
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256912)
+🕐 Updated: 2026-11-18T13:41:50-05:00 | ID: 8256912
+
+#### 🔄 Senior Internal Auditor
+**Greenhouse** · twilio · Finance
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256427)
+🕐 Updated: 2026-11-18T13:41:30-05:00 | ID: 8256427
+
+#### 🔄 Senior Product Marketing Manager
+**Greenhouse** · justworks · Marketing
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8334069?gh_jid=8334069)
+🕐 Updated: 2026-11-18T13:39:22-05:00 | ID: 8334069
+
+#### 🔄 Senior Product Marketing Manager, Monetization Go-to-Market
+**Greenhouse** · justworks · Marketing
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8393792?gh_jid=8393792)
+🕐 Updated: 2026-11-18T13:38:47-05:00 | ID: 8393792
+
+#### 🔄 Senior Product Marketing Manager, Growth
+**Greenhouse** · justworks · Marketing
+📍 New York, New York | 🔗 [Apply Here](https://boards.greenhouse.io/justworks/jobs/8264370?gh_jid=8264370)
+🕐 Updated: 2026-11-18T13:38:02-05:00 | ID: 8264370
+
+#### 🔄 Staff Product Manager, AI
+**Greenhouse** · robinhood · ENG Data and AI Platform Division
+📍 Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8241579?t=gh_src=&gh_jid=8241579)
+🕐 Updated: 2026-11-18T13:37:17-05:00 | ID: 8241579
+
+#### 🔄 Channel Partnerships Manager, Investor Ecosystems (VC & PE)
+**Greenhouse** · gusto · Channel Partnerships
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8353774)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8353774
+
+#### 🔄 Corporate Paralegal
+**Greenhouse** · gusto · Legal & Compliance
+📍 New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8232302)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8232302
+
+#### 🔄 Data Scientist, Risk
+**Greenhouse** · gusto · Data
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7656216)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7656216
+
+#### 🔄 Enhanced Due Diligence Investigations Analyst
+**Greenhouse** · gusto · Legal & Compliance
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8275011)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8275011
+
+#### 🔄 Enterprise Application AI Engineer
+**Greenhouse** · gusto · Security
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7369003)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7369003
+
+#### 🔄 Expansion Account Executive
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8092462)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8092462
+
+#### 🔄 Expansion AE, Gusto Pro
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8374008)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8374008
+
+#### 🔄 Forward Deployed Solutions Engineer
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8248374)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8248374
+
+#### 🔄 Future Opportunities: Early Career Sales Talent
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8001931)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8001931
+
+#### 🔄 Future Opportunities: Franchise Sales
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8373808)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8373808
+
+#### 🔄 Future Opportunities: Partner Sales (CPA & Accounting Firm Experience)
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7773805)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7773805
+
+#### 🔄 Future Opportunities: Retirement Client Relationship Manager
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO - Hybrid; New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7984008)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7984008
+
+#### 🔄 Future Opportunities: Sales Onboarding Advocate
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8227773)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8227773
+
+#### 🔄 Head of Gusto Controls
+**Greenhouse** · gusto · Finance & BizOps
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8282084)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8282084
+
+#### 🔄 Head of Marketing - Symmetry
+**Greenhouse** · gusto · Symmetry
+📍 Denver, CO - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8224182)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8224182
+
+#### 🔄 Head of Product, New Customer Experience
+**Greenhouse** · gusto · Product Management
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8144242)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8144242
+
+#### 🔄 IT Internal Controls
+**Greenhouse** · gusto · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7905578)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7905578
+
+#### 🔄 Lead CX Business Intelligence Analyst
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO - Hybrid; New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8263050)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8263050
+
+#### 🔄 Lead Sales Engineer
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8346975)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8346975
+
+#### 🔄 Manager, Account Executive Platform Sales
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8268021)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8268021
+
+#### 🔄 Manager of Health Insurance Renewals Team
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8078212)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8078212
+
+#### 🔄 Partner Manager, Franchise
+**Greenhouse** · gusto · Channel Partnerships
+📍 Denver, CO - Hybrid; New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8347750)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8347750
+
+#### 🔄 Payment Operations Manager
+**Greenhouse** · gusto · Product Management
+📍 New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8022501)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8022501
+
+#### 🔄 PEO Sales, Account Executive
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8353794)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8353794
+
+#### 🔄 Premier Account Partner
+**Greenhouse** · gusto · Customer Experience
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8203030)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8203030
+
+#### 🔄 Principal Product Manager, Business Money – SMB Banking
+**Greenhouse** · gusto · Product Management
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8168848)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8168848
+
+#### 🔄 Principal Product Manager, HR Experiences
+**Greenhouse** · gusto · Product Management
+📍 New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8260099)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8260099
+
+#### 🔄 Principal Product Manager, Payroll Platform
+**Greenhouse** · gusto · Product Management
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8142163)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8142163
+
+#### 🔄 Principal Product Manager, Pricing & Packaging
+**Greenhouse** · gusto · Product Management
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8346795)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8346795
+
+#### 🔄 Product Counsel - HR Products
+**Greenhouse** · gusto · Legal & Compliance
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8274972)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8274972
+
+#### 🔄 Product Marketing Leader - Innovation & Experimentation
+**Greenhouse** · gusto · Marketing
+📍 Atlanta, GA - Hybrid; Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8148547)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8148547
+
+#### 🔄 R&D Insights and Operations - Growth
+**Greenhouse** · gusto · Insights & Operations
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8205633)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8205633
+
+#### 🔄 Recruiting Operations and Transformation Lead
+**Greenhouse** · gusto · People
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8209666)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8209666
+
+#### 🔄 Sales Engineer
+**Greenhouse** · gusto · Sales
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8346979)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8346979
+
+#### 🔄 Security Operations Analyst
+**Greenhouse** · gusto · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8348189)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8348189
+
+#### 🔄 Senior Commercial Lines Account Manager
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8257865)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8257865
+
+#### 🔄 Senior Data Science Manager, Growth
+**Greenhouse** · gusto · Data
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7357545)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7357545
+
+#### 🔄 Senior L&D Specialist
+**Greenhouse** · gusto · Customer Experience
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8128422)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8128422
+
+#### 🔄 Senior Manager, Head of Sales Data Science & Analytics
+**Greenhouse** · gusto · Data
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7283301)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7283301
+
+#### 🔄 Senior Performance Marketing Manager, Paid Social
+**Greenhouse** · gusto · Marketing
+📍 Atlanta, GA - Hybrid; Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8356810)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8356810
+
+#### 🔄 Senior Product Counsel - HR Products
+**Greenhouse** · gusto · Legal & Compliance
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8260696)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8260696
+
+#### 🔄 Senior Product Counsel, Payroll and Fintech
+**Greenhouse** · gusto · Legal & Compliance
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8304582)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8304582
+
+#### 🔄 Senior Product Design Manager, Payroll
+**Greenhouse** · gusto · Design
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7254336)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7254336
+
+#### 🔄 Senior Product Manager, Tax Payments and Filing
+**Greenhouse** · gusto · Product Management
+📍 New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7674093)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7674093
+
+#### 🔄 Senior Staff Engineer, Expansion Experiences
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8244981)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8244981
+
+#### 🔄 Senior Staff Engineer, Tax Platform
+**Greenhouse** · gusto · Engineering
+📍 Atlanta, GA - Hybrid; Austin, TX - Remote; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8013480)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8013480
+
+#### 🔄 Senior Staff Product Designer, Finance
+**Greenhouse** · gusto · Design
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/6625049)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 6625049
+
+#### 🔄 Senior Staff Software Engineer, Benefits
+**Greenhouse** · gusto · Engineering
+📍 New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8204399)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8204399
+
+#### 🔄 Senior Staff Software Engineer, Gusto Agent & Partner Experiences (API)
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8168216)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8168216
+
+#### 🔄 Senior Staff Software Engineer, Money Group
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7654934)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7654934
+
+#### 🔄 Senior Staff Software Engineer, Pricing and Packaging
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7942791)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7942791
+
+#### 🔄 Senior Talent Development Leader, Talent Acceleration Products
+**Greenhouse** · gusto · People
+📍 Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8353775)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8353775
+
+#### 🔄 Software Engineer,  Financial Data & Payments
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8360497)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8360497
+
+#### 🔄 Sr. Sales Operations Analyst
+**Greenhouse** · gusto · Revenue Operations
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8212233)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8212233
+
+#### 🔄 Staff Machine Learning Engineer - Risk
+**Greenhouse** · gusto · Data
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7168696)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7168696
+
+#### 🔄 Staff Product Designer
+**Greenhouse** · gusto · Design
+📍 Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8281363)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8281363
+
+#### 🔄 Staff Product Mobile Engineer, Business Money
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8192093)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8192093
+
+#### 🔄 Staff Product Software Engineer, Consumer Money
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8168064)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8168064
+
+#### 🔄 Staff Recruiter, Design & Specialized Tech
+**Greenhouse** · gusto · People
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8279911)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8279911
+
+#### 🔄 Staff Software Engineer, Cloud Infrastructure
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8250243)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8250243
+
+#### 🔄 Staff Software Engineer, Core AI Platforms
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7760341)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7760341
+
+#### 🔄 Staff Software Engineer, Core Products
+**Greenhouse** · gusto · Engineering
+📍 New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8008696)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8008696
+
+#### 🔄 Staff Software Engineer, Expansion Experiences
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8244957)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8244957
+
+#### 🔄 Staff Software Engineer, Gustie Assist
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8095028)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8095028
+
+#### 🔄 Staff Software Engineer, HR Experience
+**Greenhouse** · gusto · Engineering
+📍 New York, NY - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8039525)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8039525
+
+#### 🔄 Staff Software Engineer, Invoicing and Billing
+**Greenhouse** · gusto · Security
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8204403)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8204403
+
+#### 🔄 Staff Software Engineer, Payroll Platform
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7441084)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7441084
+
+#### 🔄 Staff Software Engineer, Pricing and Packaging Engineering
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7943169)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7943169
+
+#### 🔄 Staff Software Engineer, Retirement AI
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO;San Francisco, CA;New York, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7986047)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7986047
+
+#### 🔄 Staff Software Engineer, Solo
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8208422)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8208422
+
+#### 🔄 Staff Software Engineer, Tax Accounts
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8039516)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8039516
+
+#### 🔄 Staff Software Engineer, Tax Experiences
+**Greenhouse** · gusto · Engineering
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7918214)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7918214
+
+#### 🔄 Staff Software Engineer, Unified Services Platform
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8144140)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8144140
+
+#### 🔄 Summer Opportunities - Retirement Sales AE
+**Greenhouse** · gusto · Sales
+📍 Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7833882)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 7833882
+
+#### 🔄 Tax Resolution Advocate
+**Greenhouse** · gusto · Customer Experience
+📍 Denver, CO - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8293217)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8293217
+
+#### 🔄 Workday System Developer
+**Greenhouse** · gusto · People
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8257486)
+🕐 Updated: 2026-11-18T13:37:01-05:00 | ID: 8257486
+
+#### 🔄 Principal Security Operations Analyst
+**Greenhouse** · huntress · Security Analysis
+📍 Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/8206921003)
+🕐 Updated: 2026-11-18T13:34:14-05:00 | ID: 8206921003
+
+#### 🔄 Release Engineer, Salesforce
+**Greenhouse** · gitlab · Enterprise Applications
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8730125002)
+🕐 Updated: 2026-11-18T13:26:19-05:00 | ID: 8730125002
+
+#### 🔄 Security Architect - U.S. Public Sector
+**Greenhouse** · okta · Security-783
+📍 Washington, District of Columbia, United States | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602)
+🕐 Updated: 2026-11-18T13:23:37-05:00 | ID: 8332602
+
+#### 🔄 Technical Recruiter
+**Greenhouse** · starburst · Recruiting
+📍 Boston, MA | 🔗 [Apply Here](https://job-boards.greenhouse.io/starburst/jobs/5477204008)
+🕐 Updated: 2026-11-18T13:22:59-05:00 | ID: 5477204008
+
+#### 🔄 Solution Consultant
+**Greenhouse** · ivalua · Pre-Sales & Solution Consulting
+📍 Redwood City, CA | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8191617?gh_jid=8191617)
+🕐 Updated: 2026-11-18T13:22:08-05:00 | ID: 8191617
+
+#### 🔄 Customer Success Architect, France
+**Greenhouse** · gitlab · Customer Success Architecture
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8937803002)
+🕐 Updated: 2026-11-18T13:20:44-05:00 | ID: 8937803002
+
+#### 🔄 Employee Relations Business Partner
+**Greenhouse** · robinhood · People Relations and Operations
+📍 Chicago, IL; Westlake, TX | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8051290?t=gh_src=&gh_jid=8051290)
+🕐 Updated: 2026-11-18T13:19:21-05:00 | ID: 8051290
+
+#### 🔄 Business Development Manager, Retail
+**Greenhouse** · toast · Sales : Retail Sales Management
+📍 Remote | 🔗 [Apply Here](https://careers.toasttab.com/jobs?gh_jid=8250182)
+🕐 Updated: 2026-11-18T13:18:06-05:00 | ID: 8250182
+
+#### 🔄 Applied AI Architect, Beneficial Deployments (Global & Public Health)
+**Greenhouse** · anthropic · Applied AI
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5471361008)
+🕐 Updated: 2026-11-18T13:18:03-05:00 | ID: 5471361008
+
+#### 🔄 Chief Strategic Architect
+**Greenhouse** · workato · Sales and Customer Success
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8687306002#open-roles)
+🕐 Updated: 2026-11-18T13:16:53-05:00 | ID: 8687306002
+
+#### 🔄 Program Manager, ISV Ecosystem
+**Greenhouse** · okta · Cloudmaker-698
+📍 Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8155421?gh_jid=8155421)
+🕐 Updated: 2026-11-18T13:16:14-05:00 | ID: 8155421
+
+#### 🔄 Tax Associate
+**Greenhouse** · carta · Tax
+📍 Sandy, UT | 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/6652048003)
+🕐 Updated: 2026-11-18T13:14:53-05:00 | ID: 6652048003
+
+#### 🔄 Chief Strategic Architect
+**Greenhouse** · workato · Sales and Customer Success
+📍 London, United Kingdom | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8619069002#open-roles)
+🕐 Updated: 2026-11-18T13:14:50-05:00 | ID: 8619069002
+
+#### 🔄 Senior Manager, Supply Chain Protection & Loss Intelligence
+**Greenhouse** · flexport · Compliance
+📍 Chicago Warehouse; Phillipsburg Warehouse | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8331539)
+🕐 Updated: 2026-11-18T13:14:31-05:00 | ID: 8331539
+
+#### 🔄 Senior Manager, Supply Chain Protection & Loss Intelligence
+**Greenhouse** · flexport · Compliance
+📍 Atlanta Warehouse; Dallas Warehouse; Miami, Florida, United States; Pleasant Prairie, Wisconsin, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8001973)
+🕐 Updated: 2026-11-18T13:14:31-05:00 | ID: 8001973
+
+#### 🔄 Tax Associate
+**Greenhouse** · carta · Tax
+📍 New York, NY; Santa Clara, CA; Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/carta/jobs/8208432003)
+🕐 Updated: 2026-11-18T13:14:09-05:00 | ID: 8208432003
+
+#### 🔄 Senior Manager, Business Technology Enablement
+**Greenhouse** · airbnb · Engineering & Technology
+📍 United States | 🔗 [Apply Here](https://careers.airbnb.com/positions/8354382?gh_jid=8354382)
+🕐 Updated: 2026-11-18T13:09:53-05:00 | ID: 8354382
+
+#### 🔄 Account Executive - Cross Industries
+**Greenhouse** · celonis · Sales
+📍 Remote, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8208041003
+
+#### 🔄 Account Executive - Cross Industries
+**Greenhouse** · celonis · Sales
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8042632003?gh_jid=8042632003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8042632003
+
+#### 🔄 Account Executive - Energy
+**Greenhouse** · celonis · Sales
+📍 Remote, US, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7778127003?gh_jid=7778127003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7778127003
+
+#### 🔄 Account Executive - Federal
+**Greenhouse** · celonis · Sales
+📍 Remote, US, Washington DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7799840003?gh_jid=7799840003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7799840003
+
+#### 🔄 Account Executive - Public Sector Germany - Defense (Bundeswehr)
+**Greenhouse** · celonis · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8040046003?gh_jid=8040046003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8040046003
+
+#### 🔄 Account Executive - Public Sector Germany - Defense (Bundeswehr)
+**Greenhouse** · celonis · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8039943003?gh_jid=8039943003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8039943003
+
+#### 🔄 Account Executive - Public Sector Germany - Police (Polizei)
+**Greenhouse** · celonis · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8040049003?gh_jid=8040049003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8040049003
+
+#### 🔄 Account Executive - Public Sector Germany - Police (Polizei)
+**Greenhouse** · celonis · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015242003?gh_jid=8015242003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8015242003
+
+#### 🔄 Account Executive - Retail
+**Greenhouse** · celonis · Sales
+📍 Remote, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7778135003?gh_jid=7778135003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7778135003
+
+#### 🔄 AI and Value Transformation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7742474003?gh_jid=7742474003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7742474003
+
+#### 🔄 AI and Value Transformation Consultant - Defence & Government - SC cleared
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7742457003?gh_jid=7742457003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7742457003
+
+#### 🔄 AI & Management Consulting Intern (Value Engineering - DACH Market)
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7925721003
+
+#### 🔄 AI & Value Transformation Consultant (Supply Chain & Manufacturing)
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7742453003?gh_jid=7742453003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7742453003
+
+#### 🔄 Applied AI Engineer - Technology Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7765659003
+
+#### 🔄 Applied AI Value Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016645003?gh_jid=8016645003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016645003
+
+#### 🔄 Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016485003?gh_jid=8016485003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016485003
+
+#### 🔄 Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7958952003?gh_jid=7958952003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7958952003
+
+#### 🔄 Applied Value Engineer - AI and Pre-Sales Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8067893003?gh_jid=8067893003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8067893003
+
+#### 🔄 Applied Value Engineer-Scale-NAM
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635374003?gh_jid=7635374003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7635374003
+
+#### 🔄 Associate Account Executive (Top Talent Sales Program - Lunar) BENELUX
+**Greenhouse** · celonis · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037780003?gh_jid=8037780003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037780003
+
+#### 🔄 Associate Account Executive (Top Talent Sales Program - Lunar) NORDICS
+**Greenhouse** · celonis · Sales
+📍 Copenhagen, Denmark | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037768003?gh_jid=8037768003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037768003
+
+#### 🔄 Associate Account Executive (Top Talent Sales Program - Lunar) NORDICS
+**Greenhouse** · celonis · Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037736003?gh_jid=8037736003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037736003
+
+#### 🔄 Associate Account Executive (Top Talent Sales Program - Lunar) UK
+**Greenhouse** · celonis · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037803003?gh_jid=8037803003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037803003
+
+#### 🔄 Associate (AI) Solution Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7784391003?gh_jid=7784391003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7784391003
+
+#### 🔄 Associate (AI) Solution Consultant (Nordics) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7981557003?gh_jid=7981557003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7981557003
+
+#### 🔄 Associate (AI) Solution Consultant - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8199108003?gh_jid=8199108003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8199108003
+
+#### 🔄 Associate (AI) Solution Consultant (Scale EMEA/French-Speaking) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8014300003?gh_jid=8014300003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8014300003
+
+#### 🔄 Associate Applied (AI) Value Engineer (APAC) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7995509003?gh_jid=7995509003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7995509003
+
+#### 🔄 Associate Applied (AI) Value Engineer (DACH) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7986218003?gh_jid=7986218003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7986218003
+
+#### 🔄 Associate Applied (AI) Value Engineer (DACH) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8199112003?gh_jid=8199112003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8199112003
+
+#### 🔄 Associate Applied (AI) Value Engineer (Japan) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7786762003?gh_jid=7786762003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7786762003
+
+#### 🔄 Associate Applied (AI) Value Engineer (Nordics) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885913003?gh_jid=7885913003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7885913003
+
+#### 🔄 Associate Applied (AI) Value Engineer (Scale EMEA/French-Speaking) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885993003?gh_jid=7885993003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7885993003
+
+#### 🔄 Associate Deployment Engineer - Galaxy Graduate Program
+**Greenhouse** · celonis · Services
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7627681003
+
+#### 🔄 Associate Deployment Engineer - Galaxy Graduate Program
+**Greenhouse** · celonis · Services
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7627708003
+
+#### 🔄 Associate Deployment Engineer - Galaxy Graduate Program
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7627719003
+
+#### 🔄 Associate Deployment Engineer - Galaxy Graduate Program (German/French/Italian/Portuguese Speaking)
+**Greenhouse** · celonis · Services
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7627711003
+
+#### 🔄 Associate Principal Product Manager - Networks
+**Greenhouse** · celonis · Product
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7777102003?gh_jid=7777102003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7777102003
+
+#### 🔄 Associate Technology Consultant - Galaxy Graduate Program
+**Greenhouse** · celonis · Services
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8203121003?gh_jid=8203121003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8203121003
+
+#### 🔄 Associate Technology Consultant - Galaxy Graduate Program
+**Greenhouse** · celonis · Services
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202446003
+
+#### 🔄 Associate Technology Consultant - Galaxy Graduate Program
+**Greenhouse** · celonis · Services
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202449003
+
+#### 🔄 Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885881003?gh_jid=7885881003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7885881003
+
+#### 🔄 Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885816003?gh_jid=7885816003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7885816003
+
+#### 🔄 Business Development Representative (SaaS Sales)
+**Greenhouse** · celonis · Business Development
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627728003?gh_jid=7627728003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7627728003
+
+#### 🔄 Business Development Representative (SaaS Sales)
+**Greenhouse** · celonis · Business Development
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7627752003?gh_jid=7627752003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7627752003
+
+#### 🔄 Chief Of Staff
+**Greenhouse** · celonis · Corporate
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8000413003?gh_jid=8000413003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8000413003
+
+#### 🔄 Client Director - Financial Services
+**Greenhouse** · celonis · Sales
+📍 Remote, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7812863003?gh_jid=7812863003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7812863003
+
+#### 🔄 Client Director - Strategic Life Sciences Account
+**Greenhouse** · celonis · Sales
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8002804003?gh_jid=8002804003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8002804003
+
+#### 🔄 Client Value Partner
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, US, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7886119003?gh_jid=7886119003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7886119003
+
+#### 🔄 Client Value Partner
+**Greenhouse** · celonis · Value Engineering
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7539067003?gh_jid=7539067003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7539067003
+
+#### 🔄 Client Value Partner (CVP) - Oil & Gas Industry
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, US, Texas | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7478077003?gh_jid=7478077003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7478077003
+
+#### 🔄 Client Value Partner (CVP) - Utilities & Energy Industry
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, US, Ohio | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7539033003?gh_jid=7539033003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7539033003
+
+#### 🔄 Client Value Partner - Digital Technology
+**Greenhouse** · celonis · Value Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7995493003?gh_jid=7995493003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7995493003
+
+#### 🔄 Client Value Partner - (Insurance / Service Industries)
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7775171003?gh_jid=7775171003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7775171003
+
+#### 🔄 Client Value Partner - Pharmaceuticals
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7725740003?gh_jid=7725740003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7725740003
+
+#### 🔄 Client Value Partner - Public Sector - Security Cleared
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817395003?gh_jid=7817395003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817395003
+
+#### 🔄 Client Value Partner (Supply Chain  & Manufacturing)
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817391003?gh_jid=7817391003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817391003
+
+#### 🔄 Client Value Partner  - Utilities & Energy
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7545451003?gh_jid=7545451003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7545451003
+
+#### 🔄 Customer Support Engineer - Level 2
+**Greenhouse** · celonis · Services
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6647315003?gh_jid=6647315003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 6647315003
+
+#### 🔄 Deployment Engineer - London
+**Greenhouse** · celonis · Services
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037503003?gh_jid=8037503003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037503003
+
+#### 🔄 Director, Business Transformation and Value Consulting (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8014940003?gh_jid=8014940003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8014940003
+
+#### 🔄 Director, Management & Technology (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015588003?gh_jid=8015588003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8015588003
+
+#### 🔄 Director, Value Engineering (DACH) - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8003211003?gh_jid=8003211003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8003211003
+
+#### 🔄 Enterprise Account Executive Benelux - High Tech/Manufacturing
+**Greenhouse** · celonis · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7714633003?gh_jid=7714633003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7714633003
+
+#### 🔄 Enterprise Account Executive CPG / Retail / Manufacturing
+**Greenhouse** · celonis · Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8032218003?gh_jid=8032218003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8032218003
+
+#### 🔄 Enterprise Account Executive FSI Benelux
+**Greenhouse** · celonis · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8203338003?gh_jid=8203338003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8203338003
+
+#### 🔄 Enterprise Account Executive MEA Oil & Energy
+**Greenhouse** · celonis · Sales
+📍 Dubai, United Arab Emirates | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8197525003?gh_jid=8197525003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8197525003
+
+#### 🔄 Enterprise Account Executive Public Sector
+**Greenhouse** · celonis · Sales
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8042640003?gh_jid=8042640003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8042640003
+
+#### 🔄 Enterprise AI Consultant
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7972958003?gh_jid=7972958003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7972958003
+
+#### 🔄 Executive Assistant
+**Greenhouse** · celonis · Corporate
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8005089003?gh_jid=8005089003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8005089003
+
+#### 🔄 Executive Assistant
+**Greenhouse** · celonis · Corporate
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8005086003?gh_jid=8005086003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8005086003
+
+#### 🔄 Field CTO
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817279003?gh_jid=7817279003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817279003
+
+#### 🔄 Field Marketing Intern
+**Greenhouse** · celonis · Marketing
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7977884003
+
+#### 🔄 Finance Business Partner
+**Greenhouse** · celonis · Finance
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8015447003?gh_jid=8015447003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8015447003
+
+#### 🔄 Finance Business Partner
+**Greenhouse** · celonis · Finance
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016849003?gh_jid=8016849003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016849003
+
+#### 🔄 Forward Deployed Engineer - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8198943003?gh_jid=8198943003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8198943003
+
+#### 🔄 Full stack AI Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7885808003
+
+#### 🔄 Head of GTM Strategy and Planning
+**Greenhouse** · celonis · Corporate
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7997661003?gh_jid=7997661003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7997661003
+
+#### 🔄 Head of GTM Strategy and Planning
+**Greenhouse** · celonis · Corporate
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7997660003?gh_jid=7997660003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7997660003
+
+#### 🔄 Head of GTM Strategy and Planning
+**Greenhouse** · celonis · Corporate
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7997659003?gh_jid=7997659003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7997659003
+
+#### 🔄 Head of IT Platform & Infrastructure
+**Greenhouse** · celonis · Corporate
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8007052003?gh_jid=8007052003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8007052003
+
+#### 🔄 Intern AI & Management Consulting (Value Engineering)
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7767090003?gh_jid=7767090003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7767090003
+
+#### 🔄 Intern CCO Enablement & Programs
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8078124003?gh_jid=8078124003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8078124003
+
+#### 🔄 Intern Strategic Program Management
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8156996003?gh_jid=8156996003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8156996003
+
+#### 🔄 Intern Strategic Program Management
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8156989003?gh_jid=8156989003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8156989003
+
+#### 🔄 Intern Technology & Management Consulting (Value Engineering)
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7962340003?gh_jid=7962340003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7962340003
+
+#### 🔄 IT Service Engineer
+**Greenhouse** · celonis · Corporate
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7828623003?gh_jid=7828623003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7828623003
+
+#### 🔄 Lead AI Deployment Architect
+**Greenhouse** · celonis · Services
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6672115003?gh_jid=6672115003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 6672115003
+
+#### 🔄 Lead AI & Value Transformation Consultant - CPG
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201989003?gh_jid=8201989003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201989003
+
+#### 🔄 Lead Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, United Arab Emirates | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7800552003?gh_jid=7800552003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7800552003
+
+#### 🔄 Lead Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7725802003?gh_jid=7725802003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7725802003
+
+#### 🔄 Lead Applied Value Engineer - AI & Process Intelligence Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, United Arab Emirates | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8068099003?gh_jid=8068099003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8068099003
+
+#### 🔄 Lead Applied Value Engineer - CPGR /CMT -NAM
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635174003?gh_jid=7635174003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7635174003
+
+#### 🔄 Lead Applied Value Engineer | Healthcare & Lifesciences
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7650598003?gh_jid=7650598003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7650598003
+
+#### 🔄 Lead Applied Value Engineer (Hi-tech)
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7852906003?gh_jid=7852906003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7852906003
+
+#### 🔄 Lead - Cloud & AI Partnerships Business Development
+**Greenhouse** · celonis · Corporate
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7822051003?gh_jid=7822051003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7822051003
+
+#### 🔄 Lead Cloud Economics Specialist
+**Greenhouse** · celonis · Finance
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7802410003?gh_jid=7802410003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7802410003
+
+#### 🔄 Lead - Data Partnerships Business Development
+**Greenhouse** · celonis · Corporate
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7790947003?gh_jid=7790947003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7790947003
+
+#### 🔄 Lead Deployment Architect
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7727306003?gh_jid=7727306003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7727306003
+
+#### 🔄 Lead Deployment Architect - AI
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7928952003?gh_jid=7928952003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7928952003
+
+#### 🔄 Lead Deployment Architect - AI
+**Greenhouse** · celonis · Services
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173249003?gh_jid=8173249003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173249003
+
+#### 🔄 Lead Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173186003?gh_jid=8173186003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173186003
+
+#### 🔄 Lead Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173230003?gh_jid=8173230003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173230003
+
+#### 🔄 Lead Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7815061003?gh_jid=7815061003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7815061003
+
+#### 🔄 Lead Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7683435003?gh_jid=7683435003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7683435003
+
+#### 🔄 Lead Finance Business Partner (Marketing & Eco-Systems)
+**Greenhouse** · celonis · Finance
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7802389003?gh_jid=7802389003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7802389003
+
+#### 🔄 Lead Finance Business Partner (Services & Value Engineering)
+**Greenhouse** · celonis · Finance
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7802378003?gh_jid=7802378003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7802378003
+
+#### 🔄 Lead Process Intelligence & Supply Chain Transformation Consultant - Life Sciences
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201662003?gh_jid=8201662003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201662003
+
+#### 🔄 Lead Product Incubation Specialist
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173377003?gh_jid=8173377003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173377003
+
+#### 🔄 Lead Product Incubation Specialist
+**Greenhouse** · celonis · Services
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173376003?gh_jid=8173376003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173376003
+
+#### 🔄 Lead Product Incubation Specialist
+**Greenhouse** · celonis · Services
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173380003?gh_jid=8173380003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173380003
+
+#### 🔄 Lead Project Manager
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037359003?gh_jid=8037359003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037359003
+
+#### 🔄 Lead Project Manager
+**Greenhouse** · celonis · Services
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037428003?gh_jid=8037428003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037428003
+
+#### 🔄 Lead Project Manager
+**Greenhouse** · celonis · Services
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8032606003?gh_jid=8032606003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8032606003
+
+#### 🔄 Lead Project Manager
+**Greenhouse** · celonis · Services
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173263003?gh_jid=8173263003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173263003
+
+#### 🔄 Lead Project Manager
+**Greenhouse** · celonis · Services
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173334003?gh_jid=8173334003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173334003
+
+#### 🔄 Lead Solution Consultant - Chemicals & Energy
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201666003?gh_jid=8201666003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201666003
+
+#### 🔄 Lead Solution Consultant - Life Sciences
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201664003?gh_jid=8201664003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201664003
+
+#### 🔄 Lead Solutions Architect
+**Greenhouse** · celonis · Services
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7788552003?gh_jid=7788552003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7788552003
+
+#### 🔄 Lead Solutions Architect
+**Greenhouse** · celonis · Services
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037525003?gh_jid=8037525003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037525003
+
+#### 🔄 Lead Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7800529003?gh_jid=7800529003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7800529003
+
+#### 🔄 Lead Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173111003?gh_jid=8173111003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173111003
+
+#### 🔄 Lead Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Seoul, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7732281003?gh_jid=7732281003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7732281003
+
+#### 🔄 Lead Value Engineer - Asset & Wealth Management
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8008440003?gh_jid=8008440003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8008440003
+
+#### 🔄 Lead Value Engineer - Banking
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7995431003?gh_jid=7995431003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7995431003
+
+#### 🔄 Lead Value Engineer - Brazil Market
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825731003?gh_jid=7825731003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7825731003
+
+#### 🔄 Lead Value Engineer - Chemical & Energy
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201665003?gh_jid=8201665003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201665003
+
+#### 🔄 Lead Value Engineer — Consumer Packaged Goods (CPG)
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7539041003?gh_jid=7539041003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7539041003
+
+#### 🔄 Lead Value Engineer - CPG
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7618718003?gh_jid=7618718003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7618718003
+
+#### 🔄 Lead Value Engineer - Insurance
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817246003?gh_jid=7817246003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817246003
+
+#### 🔄 Lead Value Engineer - Life Sciences
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037003003?gh_jid=8037003003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037003003
+
+#### 🔄 Manager of Global Cyber Defense
+**Greenhouse** · celonis · Information Security
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7754695003?gh_jid=7754695003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7754695003
+
+#### 🔄 Manager, Value Engineering
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635358003?gh_jid=7635358003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7635358003
+
+#### 🔄 Principal Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8042510003?gh_jid=8042510003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8042510003
+
+#### 🔄 Principal Enterprise Account Executive
+**Greenhouse** · celonis · Sales
+📍 Seoul, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8179618003?gh_jid=8179618003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8179618003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7819753003?gh_jid=7819753003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7819753003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Milan, Italy | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7974122003?gh_jid=7974122003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7974122003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7974130003?gh_jid=7974130003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7974130003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8205462003?gh_jid=8205462003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8205462003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7800476003?gh_jid=7800476003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7800476003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7539051003?gh_jid=7539051003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7539051003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7548628003?gh_jid=7548628003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7548628003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Copenhagen, Denmark | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7830985003?gh_jid=7830985003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7830985003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7618692003?gh_jid=7618692003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7618692003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7618724003?gh_jid=7618724003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7618724003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, US, Washington | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7819752003?gh_jid=7819752003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7819752003
+
+#### 🔄 Principal Enterprise Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7711288003?gh_jid=7711288003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7711288003
+
+#### 🔄 Principal Enterprise Architect - AI & SAP Integrations
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7800468003?gh_jid=7800468003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7800468003
+
+#### 🔄 Sales Director Italy
+**Greenhouse** · celonis · Sales
+📍 Milan, Italy | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7986246003?gh_jid=7986246003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7986246003
+
+#### 🔄 Sales Director Nordics
+**Greenhouse** · celonis · Sales
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7988718003?gh_jid=7988718003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7988718003
+
+#### 🔄 Senior Account-Based Marketing (ABM) Manager
+**Greenhouse** · celonis · Corporate
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7853304003?gh_jid=7853304003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7853304003
+
+#### 🔄 Senior AI Applied Value Architect
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016588003?gh_jid=8016588003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016588003
+
+#### 🔄 Senior AI Transformation & Innovation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8203723003
+
+#### 🔄 Senior Application Product Manager - Supply Chain - Procurement
+**Greenhouse** · celonis · Product Business Apps
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7984249003?gh_jid=7984249003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7984249003
+
+#### 🔄 Senior Application Product Manager - Supply Chain - Procurement
+**Greenhouse** · celonis · Product Business Apps
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885800003?gh_jid=7885800003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7885800003
+
+#### 🔄 Senior Applied AI Solution Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8204700003?gh_jid=8204700003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8204700003
+
+#### 🔄 Senior Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8204698003?gh_jid=8204698003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8204698003
+
+#### 🔄 Senior Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7995461003?gh_jid=7995461003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7995461003
+
+#### 🔄 Senior Applied Value Engineer - AI Process Optimisation & Pre-Sales
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200231003?gh_jid=8200231003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8200231003
+
+#### 🔄 Senior Applied Value Engineer – Automotive Manufacturing
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7800008003?gh_jid=7800008003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7800008003
+
+#### 🔄 Senior Applied Value Engineer -CPGR / CMT - NAM
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635342003?gh_jid=7635342003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7635342003
+
+#### 🔄 Senior Applied Value Engineer -CPGR/CMT - NAM
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635158003?gh_jid=7635158003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7635158003
+
+#### 🔄 Senior Applied Value Engineer- CPGR/CMT-NAM
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635190003?gh_jid=7635190003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7635190003
+
+#### 🔄 Senior Applied Value Engineer-EAM - NAM
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7635314003?gh_jid=7635314003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7635314003
+
+#### 🔄 Senior Applied Value Engineer | HLS- DACH
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/6318670003?gh_jid=6318670003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 6318670003
+
+#### 🔄 Senior Business Transformation Consultant - Automotive & Manufacturing
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202451003?gh_jid=8202451003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202451003
+
+#### 🔄 Senior Business Transformation Consultant Iberia & Latam
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202426003?gh_jid=8202426003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202426003
+
+#### 🔄 Senior Data & AI Consultant
+**Greenhouse** · celonis · Services
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8007989003?gh_jid=8007989003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8007989003
+
+#### 🔄 Senior Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8207711003?gh_jid=8207711003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8207711003
+
+#### 🔄 Senior Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037367003?gh_jid=8037367003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037367003
+
+#### 🔄 Senior Deployment Engineer
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7926567003?gh_jid=7926567003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7926567003
+
+#### 🔄 Senior Deployment Engineer - Financial Services
+**Greenhouse** · celonis · Services
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173282003?gh_jid=8173282003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173282003
+
+#### 🔄 Senior Deployment Engineer - Health and Life Sciences
+**Greenhouse** · celonis · Services
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173340003?gh_jid=8173340003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173340003
+
+#### 🔄 Senior Deployment Engineer - Hi Tech
+**Greenhouse** · celonis · Services
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8173273003?gh_jid=8173273003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8173273003
+
+#### 🔄 Senior Deployment Engineer - Public Sector
+**Greenhouse** · celonis · Services
+📍 Remote, US, Washington DC | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7686200003?gh_jid=7686200003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7686200003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200162003?gh_jid=8200162003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8200162003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016417003?gh_jid=8016417003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016417003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7826212003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8196236003?gh_jid=8196236003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8196236003
+
+#### 🔄 Senior Director, Professional Services
+**Greenhouse** · celonis · Services
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7741095003?gh_jid=7741095003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7741095003
+
+#### 🔄 Senior Forward Deployed Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200166003?gh_jid=8200166003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8200166003
+
+#### 🔄 Senior/ Lead AI Deployment Engineer - Supply Chain
+**Greenhouse** · celonis · Services
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8007977003?gh_jid=8007977003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8007977003
+
+#### 🔄 Senior/ Lead Data & AI Consultant
+**Greenhouse** · celonis · Services
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7683444003?gh_jid=7683444003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7683444003
+
+#### 🔄 Senior Management & Technology Consultant - CPG/Retail - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016657003?gh_jid=8016657003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016657003
+
+#### 🔄 Senior Management & Technology Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026730003?gh_jid=8026730003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8026730003
+
+#### 🔄 Senior Management & Technology Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8196239003?gh_jid=8196239003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8196239003
+
+#### 🔄 Senior Management & Technology Consultant - Supply Chain
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200163003?gh_jid=8200163003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8200163003
+
+#### 🔄 Senior Presales and Solution Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016333003?gh_jid=8016333003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016333003
+
+#### 🔄 Senior Presales and Solution Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8198857003?gh_jid=8198857003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8198857003
+
+#### 🔄 Senior Presales and Solution Engineer - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8198853003?gh_jid=8198853003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8198853003
+
+#### 🔄 Senior Process Intelligence and Supply Chain Transformation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200164003?gh_jid=8200164003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8200164003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016658003?gh_jid=8016658003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016658003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7825969003
+
+#### 🔄 Senior Process Optimisation Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026747003?gh_jid=8026747003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8026747003
+
+#### 🔄 Senior Product Marketing Manager - CIO & Technology Partnerships
+**Greenhouse** · celonis · Corporate
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7853433003?gh_jid=7853433003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7853433003
+
+#### 🔄 Senior Software Engineer - Engine Orchestration
+**Greenhouse** · celonis · Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8000343003?gh_jid=8000343003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8000343003
+
+#### 🔄 Senior Software Engineer - Query Engine & Database Systems
+**Greenhouse** · celonis · Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7980155003?gh_jid=7980155003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7980155003
+
+#### 🔄 Senior Solution Engineer Automotive & Manufacturing
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202450003?gh_jid=8202450003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202450003
+
+#### 🔄 Senior Solution Engineer - FSI
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202458003?gh_jid=8202458003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202458003
+
+#### 🔄 Senior Solution Engineer Iberia & Latam
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202425003?gh_jid=8202425003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202425003
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · celonis · Services
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7784638003?gh_jid=7784638003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7784638003
+
+#### 🔄 Senior Solutions Architect
+**Greenhouse** · celonis · Services
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037511003?gh_jid=8037511003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037511003
+
+#### 🔄 Senior Solutions Engineer - Process Intelligence & Pre-Sales
+**Greenhouse** · celonis · Value Engineering
+📍 Copenhagen, Denmark | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016353003?gh_jid=8016353003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016353003
+
+#### 🔄 Senior Strategic Presales and Solutions Consultant (AI)
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8204701003?gh_jid=8204701003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8204701003
+
+#### 🔄 Senior Training Specialist
+**Greenhouse** · celonis · Services
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7853245003?gh_jid=7853245003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7853245003
+
+#### 🔄 Senior Transformation Consultant - FSI
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202459003?gh_jid=8202459003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202459003
+
+#### 🔄 Senior Value Consultant Automotive & Manufacturing
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202447003?gh_jid=8202447003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202447003
+
+#### 🔄 Senior Value Consultant - FSI
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202452003?gh_jid=8202452003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202452003
+
+#### 🔄 Senior Value Consultant Iberia & Latam
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8202424003?gh_jid=8202424003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8202424003
+
+#### 🔄 Senior Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7742470003?gh_jid=7742470003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7742470003
+
+#### 🔄 Senior Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817377003?gh_jid=7817377003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817377003
+
+#### 🔄 Senior Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8204772003?gh_jid=8204772003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8204772003
+
+#### 🔄 Senior Value Engineer - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201407003?gh_jid=8201407003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201407003
+
+#### 🔄 Senior Value Engineer - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Copenhagen, Denmark | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8030594003?gh_jid=8030594003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8030594003
+
+#### 🔄 Senior Value Engineer - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201374003?gh_jid=8201374003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201374003
+
+#### 🔄 Senior Value Engineer - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, Portugal | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201375003?gh_jid=8201375003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201375003
+
+#### 🔄 Senior Value Engineer - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201377003?gh_jid=8201377003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201377003
+
+#### 🔄 Senior Value Engineer - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, Finland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201379003?gh_jid=8201379003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201379003
+
+#### 🔄 Senior Value Engineer - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201411003?gh_jid=8201411003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201411003
+
+#### 🔄 Senior Value Engineer - Asset & Wealth Management
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016341003?gh_jid=8016341003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016341003
+
+#### 🔄 Senior Value Engineer Automotive & Manufacturing
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016357003?gh_jid=8016357003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016357003
+
+#### 🔄 Senior Value Engineer - Banking
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7765909003?gh_jid=7765909003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7765909003
+
+#### 🔄 Senior Value Engineer - (Banking)
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7798683003?gh_jid=7798683003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7798683003
+
+#### 🔄 Senior Value Engineer - CPG/Retail
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016659003?gh_jid=8016659003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016659003
+
+#### 🔄 Senior Value Engineer FSI
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016373003?gh_jid=8016373003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016373003
+
+#### 🔄 Senior Value Engineer - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817387003
+
+#### 🔄 Senior Value Engineer Iberia & Latam
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8175506003?gh_jid=8175506003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8175506003
+
+#### 🔄 Senior Value Engineer - Insurance
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016497003?gh_jid=8016497003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016497003
+
+#### 🔄 Senior Value Engineer – Manufacturing
+**Greenhouse** · celonis · Value Engineering
+📍 Chicago, US, Illinois | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817254003?gh_jid=7817254003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817254003
+
+#### 🔄 Senior Value Engineer - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825970003?gh_jid=7825970003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7825970003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201397003?gh_jid=8201397003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201397003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201398003?gh_jid=8201398003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201398003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, Belgium | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201403003?gh_jid=8201403003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201403003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, Portugal | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201389003?gh_jid=8201389003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201389003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201382003?gh_jid=8201382003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201382003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, Finland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201393003?gh_jid=8201393003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201393003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization
+**Greenhouse** · celonis · Value Engineering
+📍 Copenhagen, Denmark | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885753003?gh_jid=7885753003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7885753003
+
+#### 🔄 Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)
+**Greenhouse** · celonis · Value Engineering
+📍 Stockholm, Sweden | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8201390003?gh_jid=8201390003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8201390003
+
+#### 🔄 Senior Value Engineer - Public Sector
+**Greenhouse** · celonis · Value Engineering
+📍 Remote, US, Virginia | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7823937003?gh_jid=7823937003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7823937003
+
+#### 🔄 Senior Value Engineer - Public Sector
+**Greenhouse** · celonis · Value Engineering
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817305003?gh_jid=7817305003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817305003
+
+#### 🔄 Senior Value Engineer - Public Sector
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7742439003?gh_jid=7742439003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7742439003
+
+#### 🔄 Senior Value Engineer - Public Sector
+**Greenhouse** · celonis · Value Engineering
+📍 Redwood City, US, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817311003?gh_jid=7817311003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7817311003
+
+#### 🔄 Senior Value Engineer - Public Sector - Security Cleared
+**Greenhouse** · celonis · Value Engineering
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7742440003?gh_jid=7742440003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7742440003
+
+#### 🔄 Senior Value Engineer - Supply Chain
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016429003?gh_jid=8016429003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8016429003
+
+#### 🔄 Solutions Architect
+**Greenhouse** · celonis · Services
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7991058003?gh_jid=7991058003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7991058003
+
+#### 🔄 Solutions Architect
+**Greenhouse** · celonis · Services
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8037540003?gh_jid=8037540003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8037540003
+
+#### 🔄 Solutions Architect
+**Greenhouse** · celonis · Services
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8041920003?gh_jid=8041920003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8041920003
+
+#### 🔄 Sr. Frontend Engineer - Process Modeling Team
+**Greenhouse** · celonis · Engineering
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7884206003?gh_jid=7884206003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7884206003
+
+#### 🔄 Staff Product Analytics Engineer
+**Greenhouse** · celonis · Corporate
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7886054003?gh_jid=7886054003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7886054003
+
+#### 🔄 Strategic Account Executive - Manufacturing
+**Greenhouse** · celonis · Sales
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7988891003?gh_jid=7988891003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7988891003
+
+#### 🔄 Strategic Account Executive - Manufacturing
+**Greenhouse** · celonis · Sales
+📍 Remote, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8002500003?gh_jid=8002500003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8002500003
+
+#### 🔄 (Strategic) Account Executive - Retail / CPG
+**Greenhouse** · celonis · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8004218003?gh_jid=8004218003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8004218003
+
+#### 🔄 Strategic Account Executive - Transportation & Logistics
+**Greenhouse** · celonis · Sales
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8009490003?gh_jid=8009490003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8009490003
+
+#### 🔄 Strategic Account Executive - Transportation & Logistics
+**Greenhouse** · celonis · Sales
+📍 Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8038816003?gh_jid=8038816003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8038816003
+
+#### 🔄 Strategy & Operations Graduated Internship (12 months)
+**Greenhouse** · celonis · Corporate
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8046331003?gh_jid=8046331003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8046331003
+
+#### 🔄 Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern
+**Greenhouse** · celonis · Value Engineering
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8198760003
+
+#### 🔄 Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Tokyo, Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8036907003?gh_jid=8036907003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8036907003
+
+#### 🔄 Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Zürich, Switzerland | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8038997003?gh_jid=8038997003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 8038997003
+
+#### 🔄 Working Student Legal Operations and Technology
+**Greenhouse** · celonis · Legal
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7813096003?gh_jid=7813096003)
+🕐 Updated: 2026-11-18T13:05:52-05:00 | ID: 7813096003
+
+#### 🔄 Software Engineer, (P2)
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8131089)
+🕐 Updated: 2026-11-18T13:05:23-05:00 | ID: 8131089
+
+#### 🔄 Senior Data Engineer, Cloudforce One
+**Greenhouse** · cloudflare · Security
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8395358?gh_jid=8395358)
+🕐 Updated: 2026-11-18T13:04:41-05:00 | ID: 8395358
+
+#### 🔄 Senior Manager, HR Business Partner, Sales & Prime Brokerage
+**Greenhouse** · ripple · People Operations
+📍 New York, NY, United States | 🔗 [Apply Here](https://ripple.com/careers/all-jobs/job/8396624?gh_jid=8396624)
+🕐 Updated: 2026-11-18T13:04:32-05:00 | ID: 8396624
+
+#### 🔄 Customer Marketing Lead, Startups Program
+**Greenhouse** · anthropic · Marketing & Brand
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5477150008)
+🕐 Updated: 2026-11-18T13:02:14-05:00 | ID: 5477150008
+
+#### 🔄 Staff Mobile Software Engineer (P4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8067027)
+🕐 Updated: 2026-11-18T13:01:13-05:00 | ID: 8067027
+
+### Ashby
+
+#### 🔄 Integrations Lead, Partnerships - AMER
+**Ashby** · Ashby · Marketing
+📍 Remote - US; United States | 🔗 [Apply Here](https://jobs.ashbyhq.com/Ashby/c372f239-6d41-4027-a216-24ea43def55f)
+🕐 Updated: 2026-11-17T20:19:29.958+00:00 | ID: c372f239-6d41-4027-a216-24ea43def55f
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15677 fetched, 1411 updated, 120 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 79 fetched, 1 updated, 1 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15784 fetched, 1412 updated, 121 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-18 18:00 UTC
 
 ### Greenhouse
