@@ -1,3 +1,187 @@
+## 📅 Run: 2026-11-21 09:01 UTC
+
+### Greenhouse
+
+#### 🔄 Senior AI Engineer - Enterprise Agentic Systems
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8318044?gh_jid=8318044)
+🕐 Updated: 2026-11-21T03:52:23-05:00 | ID: 8318044
+
+#### 🔄 Senior AI Engineer - Enterprise Agentic Systems
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bangalore, India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808)
+🕐 Updated: 2026-11-21T03:51:59-05:00 | ID: 8273808
+
+#### 🔄 Senior AI Engineer - Enterprise Agentic Systems
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8273717?gh_jid=8273717)
+🕐 Updated: 2026-11-21T03:48:09-05:00 | ID: 8273717
+
+#### 🔄 Senior AI Engineer - Enterprise Agentic Systems
+**Greenhouse** · rubrik · Information Technology & Services
+📍 Bangalore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8273834?gh_jid=8273834)
+🕐 Updated: 2026-11-21T03:47:11-05:00 | ID: 8273834
+
+#### 🔄 Senior Escalations Manager
+**Greenhouse** · fivetran · Customer Support Department
+📍 Denver, Colorado, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8206214003)
+🕐 Updated: 2026-11-21T03:00:20-05:00 | ID: 8206214003
+
+#### 🔄 Senior Escalations Manager
+**Greenhouse** · fivetran · Customer Support Department
+📍 Oakland, California, United States, AMER | 🔗 [Apply Here](https://www.fivetran.com/careers/job?gh_jid=8204083003)
+🕐 Updated: 2026-11-21T03:00:20-05:00 | ID: 8204083003
+
+#### 🆕 Reliability Engineering and Quality Manager
+**Greenhouse** · verkada · Hardware Operations · 🎯 40%
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5300741007)
+🕐 Updated: 2026-11-21T01:03:35-05:00 | ID: 5300741007
+
+#### 🔄 Senior Manager, Customer Support
+**Greenhouse** · contentful · Customer Experience
+📍 Denver, Colorado, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8385284)
+🕐 Updated: 2026-11-21T01:02:18-05:00 | ID: 8385284
+
+#### 🔄 Solution Engineer
+**Greenhouse** · contentful · Sales
+📍 Dallas, Texas, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8383644)
+🕐 Updated: 2026-11-21T01:01:29-05:00 | ID: 8383644
+
+#### 🔄 Solution Engineer
+**Greenhouse** · contentful · Sales
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8383638)
+🕐 Updated: 2026-11-21T01:01:07-05:00 | ID: 8383638
+
+#### 🔄 Solution Engineer
+**Greenhouse** · contentful · Sales
+📍 Austin, Texas, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8383636)
+🕐 Updated: 2026-11-21T01:00:38-05:00 | ID: 8383636
+
+#### 🔄 Solution Engineer
+**Greenhouse** · contentful · Sales
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8383603)
+🕐 Updated: 2026-11-21T01:00:17-05:00 | ID: 8383603
+
+#### 🔄 Senior Solution Engineer
+**Greenhouse** · contentful · Sales
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8383695)
+🕐 Updated: 2026-11-21T00:59:03-05:00 | ID: 8383695
+
+#### 🔄 Senior Solution Engineer
+**Greenhouse** · contentful · Sales
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8383692)
+🕐 Updated: 2026-11-21T00:58:34-05:00 | ID: 8383692
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · contentful · Customer Experience
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8385618)
+🕐 Updated: 2026-11-21T00:57:07-05:00 | ID: 8385618
+
+#### 🔄 Mid Market Account Executive
+**Greenhouse** · contentful · Sales
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8386353)
+🕐 Updated: 2026-11-21T00:54:02-05:00 | ID: 8386353
+
+#### 🔄 Mid Market Account Executive
+**Greenhouse** · contentful · Sales
+📍 Dallas, Texas, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8259346)
+🕐 Updated: 2026-11-21T00:53:54-05:00 | ID: 8259346
+
+#### 🔄 Mid Market Account Executive
+**Greenhouse** · contentful · Sales
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8259341)
+🕐 Updated: 2026-11-21T00:53:43-05:00 | ID: 8259341
+
+#### 🔄 Mid Market Account Executive
+**Greenhouse** · contentful · Sales
+📍 Denver, Colorado, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8241814)
+🕐 Updated: 2026-11-21T00:53:27-05:00 | ID: 8241814
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · contentful · Sales
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8328259)
+🕐 Updated: 2026-11-21T00:52:51-05:00 | ID: 8328259
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · contentful · Sales
+📍 San Francisco, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8328031)
+🕐 Updated: 2026-11-21T00:52:44-05:00 | ID: 8328031
+
+#### 🔄 Customer Success Manager, LATAM
+**Greenhouse** · contentful · Customer Experience
+📍 Mexico City, Cuidad de México, Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8386908)
+🕐 Updated: 2026-11-21T00:52:17-05:00 | ID: 8386908
+
+#### 🔄 Customer Success Manager, LATAM
+**Greenhouse** · contentful · Customer Experience
+📍 Austin, Texas, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8386901)
+🕐 Updated: 2026-11-21T00:52:00-05:00 | ID: 8386901
+
+#### 🔄 Customer Success Manager, LATAM
+**Greenhouse** · contentful · Customer Experience
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8385607)
+🕐 Updated: 2026-11-21T00:51:52-05:00 | ID: 8385607
+
+#### 🔄 Customer Success Manager, LATAM
+**Greenhouse** · contentful · Customer Experience
+📍 Denver, Colorado, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8385473)
+🕐 Updated: 2026-11-21T00:51:43-05:00 | ID: 8385473
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · contentful · Customer Experience
+📍 New York, New York, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8393390)
+🕐 Updated: 2026-11-21T00:51:02-05:00 | ID: 8393390
+
+#### 🔄 Customer Success Manager
+**Greenhouse** · contentful · Customer Experience
+📍 Denver, Colorado, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/8393388)
+🕐 Updated: 2026-11-21T00:50:52-05:00 | ID: 8393388
+
+#### 🔄 Senior Sales Engineer, France
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8382746?gh_jid=8382746)
+🕐 Updated: 2026-11-21T00:48:32-05:00 | ID: 8382746
+
+#### 🔄 Staff Software Engineer - Identity and Threat Protection
+**Greenhouse** · okta · SW Eng - Core Identity-670
+📍 Toronto, ON, Canada | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7233187?gh_jid=7233187)
+🕐 Updated: 2026-11-21T00:16:25-05:00 | ID: 7233187
+
+#### 🔄 Machine Learning Engineer, Enterprise Brain
+**Greenhouse** · gleanwork · Engineering
+📍 Mountain View, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4744818005)
+🕐 Updated: 2026-11-20T23:42:51-05:00 | ID: 4744818005
+
+#### 🔄 Machine Learning Engineer, Search Quality
+**Greenhouse** · gleanwork · Engineering
+📍 Mountain View, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005)
+🕐 Updated: 2026-11-20T23:42:14-05:00 | ID: 4006735005
+
+#### 🔄 Machine Learning Engineer, Assistant Quality
+**Greenhouse** · gleanwork · Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4711484005)
+🕐 Updated: 2026-11-20T23:41:20-05:00 | ID: 4711484005
+
+#### 🔄 Product Designer, Growth
+**Greenhouse** · chime · Product Design
+📍 New York, NY, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002)
+🕐 Updated: 2026-11-20T21:05:15-05:00 | ID: 8342899002
+
+#### 🔄 Staff Technical Program Manager, Growth
+**Greenhouse** · mongodb · Observability & Adoption Engineering
+📍 New York City; United States | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8355201)
+🕐 Updated: 2026-11-20T12:30:25-05:00 | ID: 8355201
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15704 fetched, 33 updated, 8 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 1 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15808 fetched, 33 updated, 9 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-21 01:45 UTC
 
 ### Greenhouse
