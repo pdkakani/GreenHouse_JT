@@ -1,3 +1,47 @@
+## 📅 Run: 2026-11-21 21:54 UTC
+
+### Greenhouse
+
+#### 🆕 Sr. Sourcing Specialist (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations · 🎯 35%
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957226002?gh_jid=8957226002)
+🕐 Updated: 2026-11-21T16:53:11-05:00 | ID: 8957226002
+
+#### 🆕 Sr. Sourcing Specialist (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations · 🎯 35%
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957211002?gh_jid=8957211002)
+🕐 Updated: 2026-11-21T16:53:09-05:00 | ID: 8957211002
+
+#### 🆕 GNC Engineer (Starship)
+**Greenhouse** · spacex · Starship GNC · 🎯 40%
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947625002?gh_jid=8947625002)
+🕐 Updated: 2026-11-21T16:52:05-05:00 | ID: 8947625002
+
+#### 🔄 Payments Performance Strategist, Fraud
+**Greenhouse** · stripe · 1342 Payment Performance
+📍 San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8374754)
+🕐 Updated: 2026-11-21T16:11:40-05:00 | ID: 8374754
+
+#### 🔄 Director, Field Marketing - Americas
+**Greenhouse** · newrelic · Corporate Marketing
+📍 Atlanta, Georgia, USA; Austin, Texas, USA; Chicago, Illinois, USA; Dallas, Texas, USA; Jersey City, New Jersey, USA; Los Angeles, California, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Sacramento, California, USA; Salt Lake City, Utah, USA; San Diego, California, USA; Seattle, Washington, USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/newrelic/jobs/5368778008)
+🕐 Updated: 2026-11-21T16:04:42-05:00 | ID: 5368778008
+
+#### 🔄 Security Operations Engineer
+**Greenhouse** · samsara · IT Security
+📍 London, England, United Kingdom; Remote - London; Remote - UK | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8355097?gh_jid=8355097)
+🕐 Updated: 2026-11-21T12:30:00-05:00 | ID: 8355097
+
+## ATS Summary
+- **Greenhouse**: 3 new, 15740 fetched, 3 updated, 24 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 3 new, 15844 fetched, 3 updated, 24 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-21 16:45 UTC
 
 ### Greenhouse

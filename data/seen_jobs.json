@@ -275272,7 +275272,7 @@
     "alerted": false
   },
   "greenhouse:newrelic:5368778008": {
-    "updated_at": "2026-11-13T14:29:52-05:00",
+    "updated_at": "2026-11-21T16:04:42-05:00",
     "title": "Director, Field Marketing - Americas",
     "company": "newrelic",
     "ats": "greenhouse",
@@ -425792,7 +425792,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8355097": {
-    "updated_at": "2026-11-06T12:10:28-05:00",
+    "updated_at": "2026-11-21T12:30:00-05:00",
     "title": "Security Operations Engineer",
     "company": "samsara",
     "ats": "greenhouse",
@@ -446128,7 +446128,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8374754": {
-    "updated_at": "2026-11-19T12:12:32-05:00",
+    "updated_at": "2026-11-21T16:11:40-05:00",
     "title": "Payments Performance Strategist, Fraud",
     "company": "stripe",
     "ats": "greenhouse",
@@ -452237,6 +452237,222 @@
     "company": "anthropic",
     "ats": "greenhouse",
     "source_slug": "anthropic",
+    "alerted": true
+  },
+  "greenhouse:spacex:8957169002": {
+    "updated_at": "2026-11-21T16:50:21-05:00",
+    "title": "Supplier Quality Specialist (SpaceXSI)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8952875002": {
+    "updated_at": "2026-11-21T15:22:05-05:00",
+    "title": "SPMT Operator - Transport (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8952834002": {
+    "updated_at": "2026-11-21T15:22:04-05:00",
+    "title": "Critical Lift Technician - Transport (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8952902002": {
+    "updated_at": "2026-11-21T15:17:05-05:00",
+    "title": "Critical Lift & Transport Engineer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957359002": {
+    "updated_at": "2026-11-21T15:16:05-05:00",
+    "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957350002": {
+    "updated_at": "2026-11-21T15:16:05-05:00",
+    "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957360002": {
+    "updated_at": "2026-11-21T15:16:05-05:00",
+    "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957229002": {
+    "updated_at": "2026-11-21T15:03:05-05:00",
+    "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957217002": {
+    "updated_at": "2026-11-21T15:03:04-05:00",
+    "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957661002": {
+    "updated_at": "2026-11-21T14:10:05-05:00",
+    "title": "Supplier Development Engineer, Electrical (SpaceXSI)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8949186002": {
+    "updated_at": "2026-11-21T13:33:05-05:00",
+    "title": "Sourcing Manager (Compute Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8949190002": {
+    "updated_at": "2026-11-21T13:33:05-05:00",
+    "title": "Sourcing Manager (Compute Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957885002": {
+    "updated_at": "2026-11-21T13:29:46-05:00",
+    "title": "Electrical Design Engineer (Starfall Avionics)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957252002": {
+    "updated_at": "2026-11-21T13:24:05-05:00",
+    "title": "Sourcing Manager (Network Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8949272002": {
+    "updated_at": "2026-11-21T13:24:05-05:00",
+    "title": "Sourcing Manager (Network Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957873002": {
+    "updated_at": "2026-11-21T13:20:10-05:00",
+    "title": "New Graduate Engineer, Electrical (Starfall)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957870002": {
+    "updated_at": "2026-11-21T13:09:32-05:00",
+    "title": "Sr. Electrical Systems Engineer (Falcon & Dragon)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957868002": {
+    "updated_at": "2026-11-21T13:09:30-05:00",
+    "title": "Sr. Avionics Systems Engineer (Falcon & Dragon)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8406944": {
+    "updated_at": "2026-11-21T12:47:15-05:00",
+    "title": "Senior Platform Engineer, Replicate",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957867002": {
+    "updated_at": "2026-11-21T12:25:41-05:00",
+    "title": "Electrical Systems Engineer (Special Programs)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957866002": {
+    "updated_at": "2026-11-21T12:23:25-05:00",
+    "title": "Electrical Systems Engineer (Falcon & Dragon)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957582002": {
+    "updated_at": "2026-11-21T12:21:05-05:00",
+    "title": "Sr. Design Reliability Engineer (Falcon & Dragon)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:adyen:8192010": {
+    "updated_at": "2026-11-21T11:16:23-05:00",
+    "title": "Senior Account Executive, Services & Industries",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:adyen:8408480": {
+    "updated_at": "2026-11-21T11:16:23-05:00",
+    "title": "Senior Account Executive, Services & Industries",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:spacex:8957226002": {
+    "updated_at": "2026-11-21T16:53:11-05:00",
+    "title": "Sr. Sourcing Specialist (Network Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8957211002": {
+    "updated_at": "2026-11-21T16:53:09-05:00",
+    "title": "Sr. Sourcing Specialist (Network Infrastructure)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:spacex:8947625002": {
+    "updated_at": "2026-11-21T16:52:05-05:00",
+    "title": "GNC Engineer (Starship)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": true
   }
 }
