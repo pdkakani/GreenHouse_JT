@@ -404120,7 +404120,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8311584": {
-    "updated_at": "2026-11-07T14:00:00-05:00",
+    "updated_at": "2026-11-22T14:30:00-05:00",
     "title": "Senior Customer Success Manager",
     "company": "samsara",
     "ats": "greenhouse",
@@ -452510,5 +452510,37 @@
     "ats": "greenhouse",
     "source_slug": "coreweave",
     "alerted": true
+  },
+  "greenhouse:anthropic:5491578008": {
+    "updated_at": "2026-11-22T14:40:48-05:00",
+    "title": "Head of Campaign Operations",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5491575008": {
+    "updated_at": "2026-11-22T14:38:51-05:00",
+    "title": "Campaign Manager",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:payoneer:8392388": {
+    "updated_at": "2026-11-22T07:34:20-05:00",
+    "title": "Software Developer, Payobrain",
+    "company": "payoneer",
+    "ats": "greenhouse",
+    "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:fireblocks:4352196006": {
+    "updated_at": "2026-11-22T07:28:57-05:00",
+    "title": "SecOps Expert",
+    "company": "fireblocks",
+    "ats": "greenhouse",
+    "source_slug": "fireblocks",
+    "alerted": false
   }
 }

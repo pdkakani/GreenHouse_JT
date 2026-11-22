@@ -1,3 +1,22 @@
+## 📅 Run: 2026-11-22 22:27 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Customer Success Manager
+**Greenhouse** · samsara · Customer Success
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8311584?gh_jid=8311584)
+🕐 Updated: 2026-11-22T14:30:00-05:00 | ID: 8311584
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15749 fetched, 1 updated, 4 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15853 fetched, 1 updated, 4 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-22 17:07 UTC
 
 ### Greenhouse
