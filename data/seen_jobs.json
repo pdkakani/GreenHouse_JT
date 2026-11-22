@@ -58920,7 +58920,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4655907006": {
-    "updated_at": "2026-10-01T11:21:36-04:00",
+    "updated_at": "2026-11-22T07:29:29-05:00",
     "title": "Security Operations Team Lead",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -78824,7 +78824,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4620939006": {
-    "updated_at": "2026-04-14T09:30:00-04:00",
+    "updated_at": "2026-11-22T07:25:54-05:00",
     "title": "GRC Operations Specialist",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -164168,8 +164168,8 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4681268006": {
-    "updated_at": "2026-09-23T12:55:08-04:00",
-    "title": "Senior SecOps Expert",
+    "updated_at": "2026-11-22T07:26:30-05:00",
+    "title": "SecOps Expert",
     "company": "fireblocks",
     "ats": "greenhouse",
     "source_slug": "fireblocks",
@@ -274240,7 +274240,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4701826006": {
-    "updated_at": "2026-09-23T12:55:08-04:00",
+    "updated_at": "2026-11-22T07:29:52-05:00",
     "title": "Information Security Engineer",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -344496,7 +344496,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4713012006": {
-    "updated_at": "2026-09-23T12:55:08-04:00",
+    "updated_at": "2026-11-22T07:24:37-05:00",
     "title": "AI Security Engineer",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -344504,7 +344504,7 @@
     "alerted": false
   },
   "greenhouse:fireblocks:4713010006": {
-    "updated_at": "2026-09-23T12:55:08-04:00",
+    "updated_at": "2026-11-22T07:25:11-05:00",
     "title": "Director, Security Engineering",
     "company": "fireblocks",
     "ats": "greenhouse",
@@ -364120,7 +364120,7 @@
     "alerted": false
   },
   "greenhouse:payoneer:8211169": {
-    "updated_at": "2026-11-19T09:29:44-05:00",
+    "updated_at": "2026-11-22T07:26:48-05:00",
     "title": "Principal Product Manager - AI Agent Platform",
     "company": "payoneer",
     "ats": "greenhouse",
@@ -388072,7 +388072,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8278729": {
-    "updated_at": "2026-11-10T17:52:22-05:00",
+    "updated_at": "2026-11-22T11:53:47-05:00",
     "title": "Senior Analyst, France & Netherlands (12 Month Fixed-Term Contract)",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -406288,8 +406288,8 @@
     "alerted": false
   },
   "greenhouse:databricks:8916552002": {
-    "updated_at": "2026-11-19T16:47:39-05:00",
-    "title": "Senior Forward Deployed Engineer (Full Stack Engineers)",
+    "updated_at": "2026-11-22T09:11:35-05:00",
+    "title": "Senior Forward Deployed Engineer (Full Stack Engineer)",
     "company": "databricks",
     "ats": "greenhouse",
     "source_slug": "databricks",
@@ -440024,8 +440024,8 @@
     "alerted": false
   },
   "greenhouse:payoneer:8382958": {
-    "updated_at": "2026-11-19T09:29:44-05:00",
-    "title": "Senior Product Manager (Security) - Temporary",
+    "updated_at": "2026-11-22T08:23:10-05:00",
+    "title": "Senior Product Manager - Security (replacement)",
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
@@ -452453,6 +452453,62 @@
     "company": "spacex",
     "ats": "greenhouse",
     "source_slug": "spacex",
+    "alerted": true
+  },
+  "greenhouse:coreweave:4730716006": {
+    "updated_at": "2026-11-22T07:21:00-05:00",
+    "title": "Senior Technical Program Manager, Product Security",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4730698006": {
+    "updated_at": "2026-11-22T07:19:31-05:00",
+    "title": "Senior Technical Program Manager, Production IAM",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4730695006": {
+    "updated_at": "2026-11-22T07:17:03-05:00",
+    "title": "Technical Program Manager, Cloud Security",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4730711006": {
+    "updated_at": "2026-11-22T07:15:10-05:00",
+    "title": "Senior Technical Program Manager, Assurance Engineering",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4730704006": {
+    "updated_at": "2026-11-22T07:10:37-05:00",
+    "title": "Senior Technical Program Manager, Security Program Operations",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
+    "alerted": false
+  },
+  "greenhouse:okta:8360107": {
+    "updated_at": "2026-11-22T04:02:00-05:00",
+    "title": "Senior Engineer, Core Service Interfaces (Auth0)",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:coreweave:4730726006": {
+    "updated_at": "2026-11-22T07:22:44-05:00",
+    "title": "Senior Technical Program Manager, Security Risk and M&A Security",
+    "company": "coreweave",
+    "ats": "greenhouse",
+    "source_slug": "coreweave",
     "alerted": true
   }
 }

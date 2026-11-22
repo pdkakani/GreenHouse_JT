@@ -1,3 +1,72 @@
+## 📅 Run: 2026-11-22 17:07 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Analyst, France & Netherlands (12 Month Fixed-Term Contract)
+**Greenhouse** · airbnb · Financial Planning and Analysis
+📍 Paris, France | 🔗 [Apply Here](https://careers.airbnb.com/positions/8278729?gh_jid=8278729)
+🕐 Updated: 2026-11-22T11:53:47-05:00 | ID: 8278729
+
+#### 🔄 Senior Forward Deployed Engineer (Full Stack Engineer)
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002)
+🕐 Updated: 2026-11-22T09:11:35-05:00 | ID: 8916552002
+
+#### 🔄 Senior Product Manager - Security (replacement)
+**Greenhouse** · payoneer · Product Compliance
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8382958/?gh_jid=8382958)
+🕐 Updated: 2026-11-22T08:23:10-05:00 | ID: 8382958
+
+#### 🔄 Information Security Engineer
+**Greenhouse** · fireblocks · Security
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4701826006)
+🕐 Updated: 2026-11-22T07:29:52-05:00 | ID: 4701826006
+
+#### 🔄 Security Operations Team Lead
+**Greenhouse** · fireblocks · Security
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4655907006)
+🕐 Updated: 2026-11-22T07:29:29-05:00 | ID: 4655907006
+
+#### 🔄 Principal Product Manager - AI Agent Platform
+**Greenhouse** · payoneer · Core AI & AI Transformation
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8211169/?gh_jid=8211169)
+🕐 Updated: 2026-11-22T07:26:48-05:00 | ID: 8211169
+
+#### 🔄 SecOps Expert
+**Greenhouse** · fireblocks · Security
+📍 Singapore | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4681268006)
+🕐 Updated: 2026-11-22T07:26:30-05:00 | ID: 4681268006
+
+#### 🔄 GRC Operations Specialist
+**Greenhouse** · fireblocks · Security
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4620939006)
+🕐 Updated: 2026-11-22T07:25:54-05:00 | ID: 4620939006
+
+#### 🔄 Director, Security Engineering
+**Greenhouse** · fireblocks · Security
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4713010006)
+🕐 Updated: 2026-11-22T07:25:11-05:00 | ID: 4713010006
+
+#### 🔄 AI Security Engineer
+**Greenhouse** · fireblocks · Security
+📍 Tel Aviv-Yafo, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4713012006)
+🕐 Updated: 2026-11-22T07:24:37-05:00 | ID: 4713012006
+
+#### 🆕 Senior Technical Program Manager, Security Risk and M&A Security
+**Greenhouse** · coreweave · Technology · 🎯 75%
+📍 New York, NY | 🔗 [Apply Here](https://coreweave.com/careers/job?4730726006&board=coreweave&gh_jid=4730726006)
+🕐 Updated: 2026-11-22T07:22:44-05:00 | ID: 4730726006
+
+## ATS Summary
+- **Greenhouse**: 1 new, 15746 fetched, 10 updated, 6 cap-skipped, 1 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 1 new, 15850 fetched, 10 updated, 6 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-22 09:11 UTC
 
 ### Greenhouse
