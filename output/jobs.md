@@ -1,3 +1,37 @@
+## 📅 Run: 2026-11-22 09:11 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Software Engineer - Core Identity (Auth0)
+**Greenhouse** · okta · Emerging Tech-694
+📍 Dublin | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8382952?gh_jid=8382952)
+🕐 Updated: 2026-11-22T04:01:11-05:00 | ID: 8382952
+
+#### 🔄 Staff Product Security Engineer, PSIRT
+**Greenhouse** · okta · Sec - Product Security-771
+📍 Dublin | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8087739?gh_jid=8087739)
+🕐 Updated: 2026-11-22T04:00:05-05:00 | ID: 8087739
+
+#### 🔄 Manager, Corporate Communications
+**Greenhouse** · chime · External Communications
+📍 New York, NY, USA; San Francisco, CA, USA | 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8881989002?gh_jid=8881989002)
+🕐 Updated: 2026-11-22T03:00:58-05:00 | ID: 8881989002
+
+#### 🔄 Principal Solutions Architect, APJC (Developer Platform) - Mandarin Speaking
+**Greenhouse** · cloudflare · Developer Relations
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387)
+🕐 Updated: 2026-11-21T22:50:50-05:00 | ID: 8179387
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15738 fetched, 4 updated, 0 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15842 fetched, 4 updated, 0 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-22 01:50 UTC
 
 ### Greenhouse
