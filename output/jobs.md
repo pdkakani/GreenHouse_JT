@@ -1,3 +1,447 @@
+## 📅 Run: 2026-11-23 11:52 UTC
+
+### Greenhouse
+
+#### 🔄 Sales Specialist SaaS
+**Greenhouse** · rubrik · Sales
+📍 Paris, France | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8365286?gh_jid=8365286)
+🕐 Updated: 2026-11-23T06:40:37-05:00 | ID: 8365286
+
+#### 🔄 Sales Specialist - Cloud
+**Greenhouse** · rubrik · Sales
+📍 Paris, France | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8385230?gh_jid=8385230)
+🕐 Updated: 2026-11-23T06:34:37-05:00 | ID: 8385230
+
+#### 🔄 Enterprise Account Executive
+**Greenhouse** · abnormalsecurity · Enterprise
+📍 Remote - Sweden | 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7767163003?gh_jid=7767163003)
+🕐 Updated: 2026-11-23T06:31:25-05:00 | ID: 7767163003
+
+#### 🔄 Data Scientist
+**Greenhouse** · stripe · 7112 Data Science
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8043052)
+🕐 Updated: 2026-11-23T06:29:51-05:00 | ID: 8043052
+
+#### 🔄 AE Sales Specialist (SAAS) - UK
+**Greenhouse** · rubrik · Sales
+📍 London | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8355979?gh_jid=8355979)
+🕐 Updated: 2026-11-23T06:28:40-05:00 | ID: 8355979
+
+#### 🔄 Regional Sales Director - France
+**Greenhouse** · gitlab · EMEA - Enterprise
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8860248002)
+🕐 Updated: 2026-11-23T05:53:18-05:00 | ID: 8860248002
+
+#### 🔄 Recruiter, Commercial (12-Month Contract)
+**Greenhouse** · airbnb · Recruiting
+📍 Sydney, Australia | 🔗 [Apply Here](https://careers.airbnb.com/positions/8377478?gh_jid=8377478)
+🕐 Updated: 2026-11-23T05:49:50-05:00 | ID: 8377478
+
+#### 🔄 Recruiter, Commercial (12-Month Contract)
+**Greenhouse** · airbnb · Recruiting
+📍 Tokyo, Japan | 🔗 [Apply Here](https://careers.airbnb.com/positions/8377745?gh_jid=8377745)
+🕐 Updated: 2026-11-23T05:46:42-05:00 | ID: 8377745
+
+#### 🔄 Staff Forward Deployed Engineer, EMEA
+**Greenhouse** · gitlab · Customer Experience
+📍 Remote Ireland; Remote, Austria; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8936153002)
+🕐 Updated: 2026-11-23T05:34:01-05:00 | ID: 8936153002
+
+#### 🔄 Senior Engagement Manager - Professional Services Sales,  EMEA
+**Greenhouse** · gitlab · Practice Management
+📍 Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8937862002)
+🕐 Updated: 2026-11-23T05:33:38-05:00 | ID: 8937862002
+
+#### 🔄 Senior Customer Success Architect, CEUR
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Austria; Remote, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8844846002)
+🕐 Updated: 2026-11-23T05:33:22-05:00 | ID: 8844846002
+
+#### 🔄 Manager, Professional Services Engineers, EMEA
+**Greenhouse** · gitlab · Consulting Delivery
+📍 Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8916753002)
+🕐 Updated: 2026-11-23T05:32:55-05:00 | ID: 8916753002
+
+#### 🔄 Customer Success Engineer, EMEA
+**Greenhouse** · gitlab · Customer Success
+📍 Remote, Israel | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8937825002)
+🕐 Updated: 2026-11-23T05:32:39-05:00 | ID: 8937825002
+
+#### 🔄 Customer Success Architect, France
+**Greenhouse** · gitlab · Customer Success Architecture
+📍 Remote, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8937803002)
+🕐 Updated: 2026-11-23T05:32:21-05:00 | ID: 8937803002
+
+#### 🔄 Customer Success Architect, NEUR
+**Greenhouse** · gitlab · Customer Success Architecture
+📍 Remote, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8937797002)
+🕐 Updated: 2026-11-23T05:32:05-05:00 | ID: 8937797002
+
+#### 🔄 Senior Systems Engineer (Austria)
+**Greenhouse** · purestorage · Sales
+📍 Remote, Austria | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8179372)
+🕐 Updated: 2026-11-23T05:25:14-05:00 | ID: 8179372
+
+#### 🔄 Monetization Operations Analyst
+**Greenhouse** · stripe · 4202 BFin - FinOps (SDC)
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8247120)
+🕐 Updated: 2026-11-23T05:24:23-05:00 | ID: 8247120
+
+#### 🔄 Backend Engineer (Java)
+**Greenhouse** · adyen · Development
+📍 Bengaluru | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8041307)
+🕐 Updated: 2026-11-23T05:21:29-05:00 | ID: 8041307
+
+#### 🔄 Recruitment Manager - GTM Sales
+**Greenhouse** · axiom · People (HR)
+📍 Chicago, Illinois, United States | 🔗 [Apply Here](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8934723002&gh_jid=8934723002)
+🕐 Updated: 2026-11-23T05:16:39-05:00 | ID: 8934723002
+
+#### 🔄 Senior Compliance Lead - Cities, EMEA
+**Greenhouse** · airbnb · Business Operations/Analysis
+📍 Brussels | 🔗 [Apply Here](https://careers.airbnb.com/positions/8318155?gh_jid=8318155)
+🕐 Updated: 2026-11-23T04:55:42-05:00 | ID: 8318155
+
+#### 🔄 Senior Compliance Lead - Cities, EMEA
+**Greenhouse** · airbnb · Business Operations/Analysis
+📍 Dublin, Ireland | 🔗 [Apply Here](https://careers.airbnb.com/positions/8318152?gh_jid=8318152)
+🕐 Updated: 2026-11-23T04:55:32-05:00 | ID: 8318152
+
+#### 🔄 Senior Compliance Lead - Cities, EMEA
+**Greenhouse** · airbnb · Business Operations/Analysis
+📍 London, United Kingdom | 🔗 [Apply Here](https://careers.airbnb.com/positions/8318103?gh_jid=8318103)
+🕐 Updated: 2026-11-23T04:55:22-05:00 | ID: 8318103
+
+#### 🔄 Sales Development Representative (German speaking)
+**Greenhouse** · elastic · SDR - EMEA
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8121463&gh_jid=8121463)
+🕐 Updated: 2026-11-23T04:53:57-05:00 | ID: 8121463
+
+#### 🔄 Enterprise Account Executive, Public Sector South - UK
+**Greenhouse** · verkada · International
+📍 London | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5300387007)
+🕐 Updated: 2026-11-23T04:50:57-05:00 | ID: 5300387007
+
+#### 🔄 Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 New York, US, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885816003?gh_jid=7885816003)
+🕐 Updated: 2026-11-23T04:50:47-05:00 | ID: 7885816003
+
+#### 🔄 Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+**Greenhouse** · celonis · Value Engineering
+📍 Raleigh, US, North Carolina | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7885881003?gh_jid=7885881003)
+🕐 Updated: 2026-11-23T04:49:12-05:00 | ID: 7885881003
+
+#### 🔄 Senior Channel Account Manager
+**Greenhouse** · fastly · APJ Sales
+📍 Pune, India | 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=8370658)
+🕐 Updated: 2026-11-23T04:46:18-05:00 | ID: 8370658
+
+#### 🔄 Enterprise Account Executive, Public Sector North - UK
+**Greenhouse** · verkada · International
+📍 Manchester | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5297849007)
+🕐 Updated: 2026-11-23T04:29:04-05:00 | ID: 5297849007
+
+#### 🔄 Manager,  Commercial Sales Engineering
+**Greenhouse** · datadog · Commercial & Mid-Market Sales Engineering
+📍 Boston, Massachusetts, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8403219/?gh_jid=8403219)
+🕐 Updated: 2026-11-23T04:27:06-05:00 | ID: 8403219
+
+#### 🔄 Forward Deployed Engineer
+**Greenhouse** · intercom · R&D
+📍 New York, New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8405770)
+🕐 Updated: 2026-11-23T04:24:31-05:00 | ID: 8405770
+
+#### 🔄 Operations Program Manager
+**Greenhouse** · stripe · 4138 SDC - Tech Ops
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8203653)
+🕐 Updated: 2026-11-23T04:15:21-05:00 | ID: 8203653
+
+#### 🔄 Staff Engineer - Business Systems (Integrations)
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7778981)
+🕐 Updated: 2026-11-23T04:06:00-05:00 | ID: 7778981
+
+#### 🔄 Technical Staff Engineer - Salesforce
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8122748)
+🕐 Updated: 2026-11-23T04:04:22-05:00 | ID: 8122748
+
+#### 🔄 Senior Salesforce Developer
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8008794)
+🕐 Updated: 2026-11-23T04:03:08-05:00 | ID: 8008794
+
+#### 🔄 Salesforce Technical Lead
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8018420)
+🕐 Updated: 2026-11-23T04:01:45-05:00 | ID: 8018420
+
+#### 🔄 Salesforce Developer III
+**Greenhouse** · mongodb · GTM Tech
+📍 Gurugram | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8122751)
+🕐 Updated: 2026-11-23T04:00:15-05:00 | ID: 8122751
+
+#### 🔄 Machine Learning Engineer 2
+**Greenhouse** · twilio · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8240487)
+🕐 Updated: 2026-11-23T03:58:24-05:00 | ID: 8240487
+
+#### 🔄 Software Engineer (L3)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8065032)
+🕐 Updated: 2026-11-23T03:55:42-05:00 | ID: 8065032
+
+#### 🔄 Sr. Delivery Solutions Architect
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8849858002)
+🕐 Updated: 2026-11-23T03:37:45-05:00 | ID: 8849858002
+
+#### 🔄 Sr. Delivery Solutions Architect (Greater China Region)
+**Greenhouse** · databricks · Delivery Solutions Architects
+📍 Singapore | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002)
+🕐 Updated: 2026-11-23T03:37:45-05:00 | ID: 8735828002
+
+#### 🔄 Account Development Representative II
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8094367?gh_jid=8094367)
+🕐 Updated: 2026-11-23T03:32:30-05:00 | ID: 8094367
+
+#### 🔄 Account Development Representative II - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8319771?gh_jid=8319771)
+🕐 Updated: 2026-11-23T03:32:30-05:00 | ID: 8319771
+
+#### 🔄 Account Development Representative II - Atlanta
+**Greenhouse** · samsara · Account Development Representative
+📍 Atlanta, Georgia, United States | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8325046?gh_jid=8325046)
+🕐 Updated: 2026-11-23T03:32:30-05:00 | ID: 8325046
+
+#### 🔄 Software Engineer, Early Career — Immediate Start
+**Greenhouse** · stripe · 5112 General University
+📍 San Francisco, Seattle, New York | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8212508)
+🕐 Updated: 2026-11-23T03:26:39-05:00 | ID: 8212508
+
+#### 🔄 Sales Account Executive
+**Greenhouse** · ivalua · Account Executive / Account Management
+📍 Pune, Maharashtra, India | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8395629?gh_jid=8395629)
+🕐 Updated: 2026-11-23T03:17:30-05:00 | ID: 8395629
+
+#### 🔄 SecOps Expert
+**Greenhouse** · fireblocks · Security
+📍 New York | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4352196006)
+🕐 Updated: 2026-11-23T03:04:49-05:00 | ID: 4352196006
+
+#### 🔄 Solution Configurator Specialist
+**Greenhouse** · ivalua · Pre-Sales & Solution Consulting
+📍 Pune, Maharashtra, India | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/8232480?gh_jid=8232480)
+🕐 Updated: 2026-11-23T03:04:24-05:00 | ID: 8232480
+
+#### 🔄 Head of Gusto Controls
+**Greenhouse** · gusto · Finance & BizOps
+📍 San Francisco, CA - Hybrid | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8282084)
+🕐 Updated: 2026-11-23T03:02:32-05:00 | ID: 8282084
+
+#### 🔄 Member of Technical Staff- Quality Engineer
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8190560)
+🕐 Updated: 2026-11-23T03:02:20-05:00 | ID: 8190560
+
+#### 🔄 Senior Outbound Strategist
+**Greenhouse** · mixpanel · Revenue
+📍 Singapore (Hybrid) | 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8222194)
+🕐 Updated: 2026-11-23T03:02:18-05:00 | ID: 8222194
+
+#### 🔄 Workday Extend Developer
+**Greenhouse** · okta · BT People Legal and Finance Technology-155
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169)
+🕐 Updated: 2026-11-23T03:02:10-05:00 | ID: 8195169
+
+#### 🔄 Senior Strategic Presales and Solutions Consultant (AI)
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8204701003?gh_jid=8204701003)
+🕐 Updated: 2026-11-23T02:45:50-05:00 | ID: 8204701003
+
+#### 🔄 Senior Applied Value Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8204698003?gh_jid=8204698003)
+🕐 Updated: 2026-11-23T02:45:49-05:00 | ID: 8204698003
+
+#### 🔄 Senior Applied AI Solution Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8204700003?gh_jid=8204700003)
+🕐 Updated: 2026-11-23T02:45:47-05:00 | ID: 8204700003
+
+#### 🔄 Senior AI Transformation & Innovation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003)
+🕐 Updated: 2026-11-23T02:45:45-05:00 | ID: 8203723003
+
+#### 🔄 Senior Value Engineer - Supply Chain
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016429003?gh_jid=8016429003)
+🕐 Updated: 2026-11-23T02:39:53-05:00 | ID: 8016429003
+
+#### 🔄 Senior Process Intelligence and Supply Chain Transformation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200164003?gh_jid=8200164003)
+🕐 Updated: 2026-11-23T02:39:51-05:00 | ID: 8200164003
+
+#### 🔄 Senior Management & Technology Consultant - Supply Chain
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200163003?gh_jid=8200163003)
+🕐 Updated: 2026-11-23T02:39:50-05:00 | ID: 8200163003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200162003?gh_jid=8200162003)
+🕐 Updated: 2026-11-23T02:39:49-05:00 | ID: 8200162003
+
+#### 🔄 Senior Presales and Solution Consultant
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8016333003?gh_jid=8016333003)
+🕐 Updated: 2026-11-23T02:39:10-05:00 | ID: 8016333003
+
+#### 🔄 Senior Forward Deployed Engineer
+**Greenhouse** · celonis · Value Engineering
+📍 Paris, France | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8200166003?gh_jid=8200166003)
+🕐 Updated: 2026-11-23T02:39:08-05:00 | ID: 8200166003
+
+#### 🔄 Senior Value Engineer - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825970003?gh_jid=7825970003)
+🕐 Updated: 2026-11-23T02:16:14-05:00 | ID: 7825970003
+
+#### 🔄 Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003)
+🕐 Updated: 2026-11-23T02:16:12-05:00 | ID: 7825969003
+
+#### 🔄 Senior Presales and Solution Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8198857003?gh_jid=8198857003)
+🕐 Updated: 2026-11-23T02:16:11-05:00 | ID: 8198857003
+
+#### 🔄 Senior Management & Technology Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8196239003?gh_jid=8196239003)
+🕐 Updated: 2026-11-23T02:16:09-05:00 | ID: 8196239003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8196236003?gh_jid=8196236003)
+🕐 Updated: 2026-11-23T02:16:07-05:00 | ID: 8196236003
+
+#### 🔄 Senior Value Engineer - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003)
+🕐 Updated: 2026-11-23T02:11:58-05:00 | ID: 7817387003
+
+#### 🔄 Senior Process Optimisation Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026747003?gh_jid=8026747003)
+🕐 Updated: 2026-11-23T02:11:56-05:00 | ID: 8026747003
+
+#### 🔄 Senior Management & Technology Consultant - Growth & Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/8026730003?gh_jid=8026730003)
+🕐 Updated: 2026-11-23T02:11:55-05:00 | ID: 8026730003
+
+#### 🔄 Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts
+**Greenhouse** · celonis · Value Engineering
+📍 Munich, Germany | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003)
+🕐 Updated: 2026-11-23T02:11:53-05:00 | ID: 7826212003
+
+#### 🔄 Web Production Specialist (Hybrid)
+**Greenhouse** · smartsheet · Marketing
+📍 Bangalore, INDIA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8398690)
+🕐 Updated: 2026-11-23T01:52:19-05:00 | ID: 8398690
+
+#### 🔄 Senior Support Specialist, Premium
+**Greenhouse** · airbnb · Community Support
+📍 Gurugram, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8225578?gh_jid=8225578)
+🕐 Updated: 2026-11-23T01:45:54-05:00 | ID: 8225578
+
+#### 🔄 Lead Applied Value Engineer (Hi-tech)
+**Greenhouse** · celonis · Value Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7852906003?gh_jid=7852906003)
+🕐 Updated: 2026-11-23T01:36:43-05:00 | ID: 7852906003
+
+#### 🔄 Director of Product Management - MIS
+**Greenhouse** · payoneer · Product Compliance
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8355118/?gh_jid=8355118)
+🕐 Updated: 2026-11-23T01:33:14-05:00 | ID: 8355118
+
+#### 🔄 Solutions Architect - Thai Speaking
+**Greenhouse** · mongodb · Scaled Solutions Architecture
+📍 Singapore | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8333381)
+🕐 Updated: 2026-11-23T01:28:46-05:00 | ID: 8333381
+
+#### 🔄 Staff FullStack Engineer
+**Greenhouse** · okta · BT Go To Market Technology-173
+📍 Bengaluru, India | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8242227?gh_jid=8242227)
+🕐 Updated: 2026-11-23T01:22:03-05:00 | ID: 8242227
+
+#### 🔄 Senior Solutions Architect (Public Sector)
+**Greenhouse** · mongodb · Solutions Architecture, APAC
+📍 Singapore | 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8331146)
+🕐 Updated: 2026-11-23T00:48:29-05:00 | ID: 8331146
+
+#### 🔄 Software Developer, Payobrain
+**Greenhouse** · payoneer · Core AI & AI Transformation
+📍 Herzliya, Tel Aviv District, Israel | 🔗 [Apply Here](https://www.payoneer.com/careers/position/8392388/?gh_jid=8392388)
+🕐 Updated: 2026-11-23T00:44:52-05:00 | ID: 8392388
+
+#### 🔄 Sr. Customer Trainer (Hybrid)
+**Greenhouse** · smartsheet · Customer Success
+📍 Bangalore, INDIA | 🔗 [Apply Here](https://job-boards.greenhouse.io/smartsheet/jobs/8370779)
+🕐 Updated: 2026-11-23T00:40:55-05:00 | ID: 8370779
+
+#### 🔄 Senior CDD Risk Analyst, Onboarding
+**Greenhouse** · adyen · Merchant Operations
+📍 Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8258553)
+🕐 Updated: 2026-11-23T00:39:51-05:00 | ID: 8258553
+
+#### 🔄 Public Relations Executive, APJC
+**Greenhouse** · cloudflare · Communications
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8384969?gh_jid=8384969)
+🕐 Updated: 2026-11-23T00:20:58-05:00 | ID: 8384969
+
+#### 🔄 Operations Team Lead (SDC)
+**Greenhouse** · stripe · 4137 SDC - Legal Operations
+📍 Bengaluru | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8230294)
+🕐 Updated: 2026-11-23T00:18:09-05:00 | ID: 8230294
+
+#### 🔄 Senior Manager - Software Development (Machine Learning)
+**Greenhouse** · godaddy · ManagerCore
+📍 India | 🔗 [Apply Here](https://careers.godaddy/jobs?gh_jid=7753783003)
+🕐 Updated: 2026-11-23T00:05:21-05:00 | ID: 7753783003
+
+#### 🔄 Engineering Manager, SSCS: Supply Chain
+**Greenhouse** · gitlab · Sec Engineering
+📍 Bangalore, India; Remote Ireland; Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8478405002)
+🕐 Updated: 2026-11-23T00:00:24-05:00 | ID: 8478405002
+
+#### 🔄 Sales Engineer, Banking
+**Greenhouse** · fireblocks · Sales
+📍 Singapore | 🔗 [Apply Here](https://www.fireblocks.com/careers/position?gh_jid=4727541006)
+🕐 Updated: 2026-11-22T23:14:57-05:00 | ID: 4727541006
+
+#### 🔄 Senior Product Manager-Identity Resilience
+**Greenhouse** · rubrik · Product
+📍 Israel | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8398158?gh_jid=8398158)
+🕐 Updated: 2026-11-22T22:24:27-05:00 | ID: 8398158
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15748 fetched, 86 updated, 40 cap-skipped, 0 alerts
+- **Lever**: 0 new, 28 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 76 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15852 fetched, 86 updated, 40 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-23 02:57 UTC
 
 ### Greenhouse
