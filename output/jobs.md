@@ -1,3 +1,14787 @@
+## 📅 Run: 2026-11-26 03:33 UTC
+
+### Greenhouse
+
+#### 🔄 Account Executive, Radar (Mandarin-speaking)
+**Greenhouse** · stripe · 1640 Product Sales - Payments
+📍 Singapore | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8355357)
+🕐 Updated: 2026-11-25T22:25:23-05:00 | ID: 8355357
+
+#### 🔄 Senior Territory Account Executive (Pittsburgh)
+**Greenhouse** · cloudflare · Mid Market
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8202081?gh_jid=8202081)
+🕐 Updated: 2026-11-25T21:43:33-05:00 | ID: 8202081
+
+#### 🔄 Senior Named Account Executive- Phoenix
+**Greenhouse** · cloudflare · Sales
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8211796?gh_jid=8211796)
+🕐 Updated: 2026-11-25T21:40:30-05:00 | ID: 8211796
+
+#### 🔄 Senior Commercial Account Executive (Los Angeles)
+**Greenhouse** · cloudflare · Mid Market
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8406159?gh_jid=8406159)
+🕐 Updated: 2026-11-25T21:03:24-05:00 | ID: 8406159
+
+#### 🔄 Senior Commercial Account Executive (New York City)
+**Greenhouse** · cloudflare · Mid Market
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8406156?gh_jid=8406156)
+🕐 Updated: 2026-11-25T21:03:24-05:00 | ID: 8406156
+
+#### 🔄 Senior Commercial Account Executive (Salt Lake City, Denver or Phoenix)
+**Greenhouse** · cloudflare · Mid Market
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8403466?gh_jid=8403466)
+🕐 Updated: 2026-11-25T21:03:24-05:00 | ID: 8403466
+
+#### 🔄 Senior Support Engineer
+**Greenhouse** · gitlab · Customer Support
+📍 Remote, South Korea | 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8692880002)
+🕐 Updated: 2026-11-25T20:33:55-05:00 | ID: 8692880002
+
+#### 🔄 AI Automation Engineer
+**Greenhouse** · everlaw · IT
+📍 Oakland, California, United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4724960006)
+🕐 Updated: 2026-11-25T20:33:25-05:00 | ID: 4724960006
+
+#### 🔄 Bilingual English and Spanish Store Team Leader (R14379)
+**Greenhouse** · oportun · Business Operations
+📍 San Diego, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4757784005)
+🕐 Updated: 2026-11-25T20:25:45-05:00 | ID: 4757784005
+
+#### 🔄 Bilingual English and Spanish Store Team Leader (R14376)
+**Greenhouse** · oportun · Business Operations
+📍 Pomona, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4757528005)
+🕐 Updated: 2026-11-25T20:24:02-05:00 | ID: 4757528005
+
+#### 🔄 Staff Software Engineer, Applied AI
+**Greenhouse** · okta · Digital Workers-816
+📍 San Francisco, California | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8281941?gh_jid=8281941)
+🕐 Updated: 2026-11-25T20:01:37-05:00 | ID: 8281941
+
+#### 🔄 Sr. Product Marketing Manager / Lead Product Marketing Manager, Alarms
+**Greenhouse** · verkada · Product Marketing
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5120893007)
+🕐 Updated: 2026-11-25T19:34:10-05:00 | ID: 5120893007
+
+#### 🔄 Lead Client Partner, Large Customer Sales (Tech / AI)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8396679)
+🕐 Updated: 2026-11-25T19:24:14-05:00 | ID: 8396679
+
+#### 🔄 Analytics Engineer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282760)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8282760
+
+#### 🔄 Associate General Counsel, Ads Product
+**Greenhouse** · reddit · Legal
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8148089)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8148089
+
+#### 🔄 Group Product Manager, Finance Technology
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8075185)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8075185
+
+#### 🔄 Principal Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7330347)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 7330347
+
+#### 🔄 Principal Data Scientist, User Ecosystem
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8289345)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8289345
+
+#### 🔄 Revenue Strategy & Operations Partner
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8289304)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8289304
+
+#### 🔄 Senior Client Partner, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8293700)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8293700
+
+#### 🔄 Senior Client Partner, Mid-Market Sales (Goods)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8360267)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8360267
+
+#### 🔄 Senior Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301784)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8301784
+
+#### 🔄 Senior Frontend Engineer, Ads Formats
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8287466)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8287466
+
+#### 🔄 Senior Staff Applied Scientist, Science Platform
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8282748)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8282748
+
+#### 🔄 Senior Staff Machine Learning Engineer, Ads Ranking
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8368600)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8368600
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval & Targeting
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8316086)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8316086
+
+#### 🔄 Staff Product Manager, Agentic Ads Buying
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8400056)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8400056
+
+#### 🔄 Staff Product Manager, Agentic Ads Buying
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8407162)
+🕐 Updated: 2026-11-25T19:24:07-05:00 | ID: 8407162
+
+#### 🔄 Director, Intellectual Property
+**Greenhouse** · reddit · Legal
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8142128)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8142128
+
+#### 🔄 Engineering Manager, Knowledge Graph Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8256326)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8256326
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8234154)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8234154
+
+#### 🔄 International Payroll Analyst
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8192369)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8192369
+
+#### 🔄 Lead Forward Deployed Engineer (AI Enablement)
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8301736)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8301736
+
+#### 🔄 Lead Product Adoption Strategist, SMB
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8263435)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8263435
+
+#### 🔄 Senior Frontend Engineer, Ads Creative
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8175520)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8175520
+
+#### 🔄 Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8359289)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8359289
+
+#### 🔄 Senior Staff Data Scientist, Consumer Relevance
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 7974605
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8072076)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8072076
+
+#### 🔄 Staff Data Scientist - Ads Measurement, Signals, Privacy
+**Greenhouse** · reddit · Data Science
+📍 Remote - British Columbia, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8103609)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8103609
+
+#### 🔄 Staff Machine Learning Engineer, Ads Forecasting & Scenarios
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8334138)
+🕐 Updated: 2026-11-25T19:24:06-05:00 | ID: 8334138
+
+#### 🔄 Client Account Manager, Large Customer Sales (Tech)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8049518)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8049518
+
+#### 🔄 Creative Strategist (M&E/Retail)
+**Greenhouse** · reddit · Sales
+📍 Los Angeles, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8191664)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8191664
+
+#### 🔄 Manager, Business Risk and AI Automation
+**Greenhouse** · reddit · Finance & Accounting
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8395504)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8395504
+
+#### 🔄 Senior Machine Learning Engineer, Ads Forecasting & Scenarios
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8029120)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8029120
+
+#### 🔄 Senior Product Manager, Go-To-Market Systems
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8212175)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8212175
+
+#### 🔄 Senior Program Manager, Business Process Transformation
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8010425)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8010425
+
+#### 🔄 Senior Software Engineer, Agentic Ads Experience
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7980795)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 7980795
+
+#### 🔄 Senior Software Engineer, AI & Science Platform
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8411613)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8411613
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7445240)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 7445240
+
+#### 🔄 Staff Data Scientist, Marketing
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7931000)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 7931000
+
+#### 🔄 Staff Machine Learning Engineer, Ads Creative Effectiveness
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8250389)
+🕐 Updated: 2026-11-25T19:24:05-05:00 | ID: 8250389
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8187521)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8187521
+
+#### 🔄 Chief of Staff, Global Sales
+**Greenhouse** · reddit · Sales
+📍 London, United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8249259)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8249259
+
+#### 🔄 Frontend Engineer, Ads
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8194576)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8194576
+
+#### 🔄 Frontend Engineer, Ads Campaign Manager
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8240716)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8240716
+
+#### 🔄 Senior Client Account Manager, App Dev Enterprise
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8171546)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8171546
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Big Box Retail)
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8140121)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8140121
+
+#### 🔄 Senior Data Scientist - Consumer
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8126946)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8126946
+
+#### 🔄 Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8157275)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8157275
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721787)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 7721787
+
+#### 🔄 Staff Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - Ontario, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/7721851)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 7721851
+
+#### 🔄 Staff Machine Learning Engineer, Retrieval
+**Greenhouse** · reddit · Ads Product & Engineering
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8178085)
+🕐 Updated: 2026-11-25T19:24:04-05:00 | ID: 8178085
+
+#### 🔄 Client Account Manager, Large Customer Sales (Big Box Retail)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8337440)
+🕐 Updated: 2026-11-25T19:24:03-05:00 | ID: 8337440
+
+#### 🔄 Senior Client Partner, Large Customer Sales (Retail)
+**Greenhouse** · reddit · Sales
+📍 Chicago, IL | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8407605)
+🕐 Updated: 2026-11-25T19:24:03-05:00 | ID: 8407605
+
+#### 🔄 Senior Data Scientist, Ads
+**Greenhouse** · reddit · Data Science
+📍 Remote - United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8104403)
+🕐 Updated: 2026-11-25T19:24:03-05:00 | ID: 8104403
+
+#### 🔄 Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8153017)
+🕐 Updated: 2026-11-25T19:22:49-05:00 | ID: 8153017
+
+#### 🔄 Senior Account Executive, Mid-Market (DACH)
+**Greenhouse** · reddit · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8276095)
+🕐 Updated: 2026-11-25T19:22:49-05:00 | ID: 8276095
+
+#### 🔄 Senior Client Account Manager, Mid-Market (Goods - Shopping)
+**Greenhouse** · reddit · Sales
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8351484)
+🕐 Updated: 2026-11-25T19:22:49-05:00 | ID: 8351484
+
+#### 🔄 Senior Manager, Mid-Market Sales (Signature Goods)
+**Greenhouse** · reddit · Sales
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/reddit/jobs/8372525)
+🕐 Updated: 2026-11-25T19:22:49-05:00 | ID: 8372525
+
+#### 🔄 Senior Back End Engineer, Data
+**Greenhouse** · altruist · Engineering
+📍 Los Angeles, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6220944004?gh_jid=6220944004)
+🕐 Updated: 2026-11-25T19:22:19-05:00 | ID: 6220944004
+
+#### 🔄 Senior Back End Engineer, Data
+**Greenhouse** · altruist · Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6206027004?gh_jid=6206027004)
+🕐 Updated: 2026-11-25T19:22:17-05:00 | ID: 6206027004
+
+#### 🔄 Business Development Representative - Korea
+**Greenhouse** · cloudflare · BDR
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8275611?gh_jid=8275611)
+🕐 Updated: 2026-11-25T19:16:05-05:00 | ID: 8275611
+
+#### 🔄 Enterprise Account Executive, Montreal
+**Greenhouse** · verkada · Enterprise CORP
+📍 Montreal, Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5264933007)
+🕐 Updated: 2026-11-25T19:14:06-05:00 | ID: 5264933007
+
+#### 🔄 Senior Salesforce Developer
+**Greenhouse** · instacart · IT
+📍 Canada - Remote (ON, AB, BC, or NS Only) | 🔗 [Apply Here](https://instacart.careers/job/?gh_jid=8415370)
+🕐 Updated: 2026-11-25T19:06:50-05:00 | ID: 8415370
+
+#### 🔄 Principal SSD Performance Architect
+**Greenhouse** · purestorage · Engineering
+📍 Santa Clara, California | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/7714281)
+🕐 Updated: 2026-11-25T18:57:11-05:00 | ID: 7714281
+
+#### 🔄 Member of Technical Staff
+**Greenhouse** · purestorage · Engineering
+📍 Bangalore, India | 🔗 [Apply Here](https://job-boards.greenhouse.io/purestorage/jobs/8095855)
+🕐 Updated: 2026-11-25T18:55:04-05:00 | ID: 8095855
+
+#### 🔄 Enterprise Solutions Engineer - German Speaking
+**Greenhouse** · verkada · Solutions Engineering
+📍 Vienna, Austria | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5236674007)
+🕐 Updated: 2026-11-25T18:50:46-05:00 | ID: 5236674007
+
+#### 🔄 People Operations Specialist, Japanese Speaker (12-months contract)
+**Greenhouse** · cloudflare · People & Places
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680)
+🕐 Updated: 2026-11-25T18:37:58-05:00 | ID: 8354680
+
+#### 🔄 HR Operations Specialist, Japanese Speaker (12-months contract)
+**Greenhouse** · cloudflare · People & Places
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678)
+🕐 Updated: 2026-11-25T18:37:28-05:00 | ID: 8354678
+
+#### 🔄 Senior Specialist Field Engineer - AI Training and HPC
+**Greenhouse** · coreweave · Global Field Organization - T&I
+📍 Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 🔗 [Apply Here](https://coreweave.com/careers/job?4412177006&board=coreweave&gh_jid=4412177006)
+🕐 Updated: 2026-11-25T18:30:45-05:00 | ID: 4412177006
+
+#### 🔄 Autonomous Vehicles (AVs), Ride-Hail Market Operations Manager - San Francisco
+**Greenhouse** · waymo · RHO - Market Mgmt (GWE)
+📍 San Francisco, CA USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=7851972)
+🕐 Updated: 2026-11-25T18:23:41-05:00 | ID: 7851972
+
+#### 🔄 Head of Content Design
+**Greenhouse** · asana · Product Design
+📍 Vancouver, BC | 🔗 [Apply Here](https://www.asana.com/jobs/apply/8367544?gh_jid=8367544)
+🕐 Updated: 2026-11-25T18:13:02-05:00 | ID: 8367544
+
+#### 🔄 Director of Risk, Brokerage
+**Greenhouse** · robinhood · Brokerage Risk Strategy
+📍 Chicago, IL | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8259772?t=gh_src=&gh_jid=8259772)
+🕐 Updated: 2026-11-25T18:01:46-05:00 | ID: 8259772
+
+#### 🔄 Commercial Account Executive
+**Greenhouse** · samsara · Canada
+📍 Remote - Canada | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/7612493?gh_jid=7612493)
+🕐 Updated: 2026-11-25T18:00:01-05:00 | ID: 7612493
+
+#### 🔄 Accountant
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643277002?gh_jid=8643277002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643277002
+
+#### 🔄 Accountant, SI Operations
+**Greenhouse** · spacex · Finance
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8786430002?gh_jid=8786430002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8786430002
+
+#### 🔄 Account Executive, Geo Enterprise
+**Greenhouse** · spacex · Sales
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934419002?gh_jid=8934419002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934419002
+
+#### 🔄 Accounts Payable Manager
+**Greenhouse** · spacex · Finance
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927122002?gh_jid=8927122002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927122002
+
+#### 🔄 Accounts Payable Specialist
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904563002?gh_jid=8904563002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904563002
+
+#### 🔄 Additive Manufacturing Engineer (Raptor)
+**Greenhouse** · spacex · Raptor Additive - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816517002?gh_jid=8816517002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816517002
+
+#### 🔄 Additive Manufacturing Specialist (Starlink Development)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694545002?gh_jid=8694545002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694545002
+
+#### 🔄 Additive Technician (Raptor)
+**Greenhouse** · spacex · Raptor Additive - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942659002?gh_jid=8942659002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942659002
+
+#### 🔄 Aerodynamics Engineer (Starship)
+**Greenhouse** · spacex · Starship Analysis
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945991002?gh_jid=8945991002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945991002
+
+#### 🔄 Aerospace Software Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939698002?gh_jid=8939698002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939698002
+
+#### 🔄 AI Security Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880570002?gh_jid=8880570002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880570002
+
+#### 🔄 AI Security Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880556002?gh_jid=8880556002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880556002
+
+#### 🔄 AI Software Engineer (Vehicle Engineering)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910071002
+
+#### 🔄 AMS Verification Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8742211002?gh_jid=8742211002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8742211002
+
+#### 🔄 AMS Verification Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8742411002?gh_jid=8742411002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8742411002
+
+#### 🔄 Antenna Engineer - Parabolic & Waveguide (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692102002?gh_jid=8692102002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692102002
+
+#### 🔄 Antenna Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692241002?gh_jid=8692241002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692241002
+
+#### 🔄 Antenna Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621989002?gh_jid=8621989002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621989002
+
+#### 🔄 Antenna Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8587170002?gh_jid=8587170002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8587170002
+
+#### 🔄 Application Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643772002?gh_jid=8643772002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643772002
+
+#### 🔄 Application Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611189002?gh_jid=8611189002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611189002
+
+#### 🔄 Application Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675909002?gh_jid=8675909002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675909002
+
+#### 🔄 Application Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611118002?gh_jid=8611118002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611118002
+
+#### 🔄 Application Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696154002?gh_jid=8696154002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696154002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658743002?gh_jid=8658743002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658743002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658737002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658744002?gh_jid=8658744002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658744002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658742002?gh_jid=8658742002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658742002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658628002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658738002
+
+#### 🔄 Application Software Engineer, Applied AI
+**Greenhouse** · spacex · Application Software
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658740002
+
+#### 🔄 Application Software Engineer, Employee Experience
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8873383002
+
+#### 🔄 Application Software Engineer, Flight Software
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8899128002
+
+#### 🔄 Application Software Engineer, Internal Systems
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8785507002?gh_jid=8785507002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8785507002
+
+#### 🔄 Application Software Engineer, Launch Software
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8915956002
+
+#### 🔄 Application Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861910002?gh_jid=8861910002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861910002
+
+#### 🔄 Application Software Engineer - Memphis
+**Greenhouse** · spacex · Application Software
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611191002
+
+#### 🔄 Application Software Engineer, Spaceport Experience
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632106002
+
+#### 🔄 Apprentice Controls Technician
+**Greenhouse** · spacex · Texas - Control Systems
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676188002?gh_jid=8676188002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676188002
+
+#### 🔄 Apprentice Fabrication Technician - 2nd Shift
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8685947002?gh_jid=8685947002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8685947002
+
+#### 🔄 Apprentice Welder
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880245002?gh_jid=8880245002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880245002
+
+#### 🔄 Apprentice Weld Support Technician
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922265002?gh_jid=8922265002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922265002
+
+#### 🔄 Architectural Designer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8616347002?gh_jid=8616347002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8616347002
+
+#### 🔄 Architectural Project Manager
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8592302002?gh_jid=8592302002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8592302002
+
+#### 🔄 Ark Vessel Assistant Engineer
+**Greenhouse** · spacex · Marine Ops - West
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886434002?gh_jid=8886434002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886434002
+
+#### 🔄 ASIC Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882616002?gh_jid=8882616002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882616002
+
+#### 🔄 ASIC/SOC DFT Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686195002?gh_jid=8686195002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686195002
+
+#### 🔄 ASIC/SOC DFT Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686199002?gh_jid=8686199002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686199002
+
+#### 🔄 Assembly Engineering Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V5 Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886488002?gh_jid=8886488002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886488002
+
+#### 🔄 Assembly Technician (Starship)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927729002?gh_jid=8927729002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927729002
+
+#### 🔄 Automated Welding Technician (Starship)
+**Greenhouse** · spacex · Barrel Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639955002?gh_jid=8639955002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639955002
+
+#### 🔄 Automation and Controls Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727884002?gh_jid=8727884002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727884002
+
+#### 🔄 Automation and Controls Engineer, Gateways (Starlink)
+**Greenhouse** · spacex · Starlink Gateway Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814584002?gh_jid=8814584002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814584002
+
+#### 🔄 Automation and Test Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676210002?gh_jid=8676210002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676210002
+
+#### 🔄 Automation Build Engineer, Development (Starlink)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696881002?gh_jid=8696881002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696881002
+
+#### 🔄 Automation & Controls Engineer, Assembly Manufacturing (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V5 Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922445002?gh_jid=8922445002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922445002
+
+#### 🔄 Automation & Controls Engineer (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8911675002?gh_jid=8911675002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8911675002
+
+#### 🔄 Automation & Controls Engineer, Infrastructure & Utility (Starship)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727906002?gh_jid=8727906002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727906002
+
+#### 🔄 Automation & Controls Engineer, Insource Manufacturing (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612924002?gh_jid=8612924002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612924002
+
+#### 🔄 Automation & Controls Engineer, Launch Hardware Production (Starship)
+**Greenhouse** · spacex · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901369002?gh_jid=8901369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901369002
+
+#### 🔄 Automation & Controls Engineer, Launch Pad (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8761271002?gh_jid=8761271002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8761271002
+
+#### 🔄 Automation & Controls Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904356002?gh_jid=8904356002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904356002
+
+#### 🔄 Automation & Controls Engineer (Raptor Manufacturing Systems)
+**Greenhouse** · spacex · Raptor Tooling and Automation Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617201002?gh_jid=8617201002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617201002
+
+#### 🔄 Automation & Controls Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922021002?gh_jid=8922021002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922021002
+
+#### 🔄 Automation & Controls Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676957002?gh_jid=8676957002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676957002
+
+#### 🔄 Automation & Controls Engineer (Starlink Optical Products)
+**Greenhouse** · spacex · Starlink Satellite Optics Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893540002?gh_jid=8893540002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893540002
+
+#### 🔄 Automation & Controls Specialist
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904957002?gh_jid=8904957002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904957002
+
+#### 🔄 Automation & Controls Specialist, Assembly Manufacturing (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V5 Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922592002?gh_jid=8922592002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922592002
+
+#### 🔄 Automation & Controls Specialist, Infrastructure & Utility (Starship) - Level 4/5
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8730117002?gh_jid=8730117002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8730117002
+
+#### 🔄 Automation & Controls Specialist, Launch Pad (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8916251002?gh_jid=8916251002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8916251002
+
+#### 🔄 Automation & Controls Specialist, PCB Manufacturing (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8560090002?gh_jid=8560090002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8560090002
+
+#### 🔄 Automation & Controls Specialist, Solar Cell Manufacturing (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635208002?gh_jid=8635208002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635208002
+
+#### 🔄 Automation & Controls Specialist (Starlink Development)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8546178002?gh_jid=8546178002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8546178002
+
+#### 🔄 Automation & Controls Specialist (Starship)
+**Greenhouse** · spacex · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949853002?gh_jid=8949853002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949853002
+
+#### 🔄 Automation & Controls Specialist (Starship) - Night Shift
+**Greenhouse** · spacex · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949884002?gh_jid=8949884002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949884002
+
+#### 🔄 Automation & Controls Specialist, Tool & Die - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8585039002?gh_jid=8585039002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8585039002
+
+#### 🔄 Automation & Controls Technician
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933907002?gh_jid=8933907002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933907002
+
+#### 🔄 Automation Engineer, Blades and Vanes Foundry
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8877232002?gh_jid=8877232002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8877232002
+
+#### 🔄 Aviation Certification Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Aviation Reliability
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8737619002?gh_jid=8737619002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8737619002
+
+#### 🔄 Aviation Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646256002?gh_jid=8646256002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646256002
+
+#### 🔄 Avionics Build Specialist (Starship)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917528002?gh_jid=8917528002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917528002
+
+#### 🔄 Avionics Development Specialist
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748897002?gh_jid=8748897002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748897002
+
+#### 🔄 Avionics Development Technician
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748902002?gh_jid=8748902002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748902002
+
+#### 🔄 Avionics Development Technician (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909110002?gh_jid=8909110002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909110002
+
+#### 🔄 Avionics Harness Technician (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612875002?gh_jid=8612875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612875002
+
+#### 🔄 Avionics Integration & Test Engineer, HASS (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945243002?gh_jid=8945243002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945243002
+
+#### 🔄 Avionics Integration & Test Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945224002?gh_jid=8945224002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945224002
+
+#### 🔄 Avionics Manufacturing Engineer
+**Greenhouse** · spacex · Avionics Manufacturing & Test Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784827002?gh_jid=8784827002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784827002
+
+#### 🔄 Avionics Manufacturing Engineer (PCBA)
+**Greenhouse** · spacex · Avionics Manufacturing & Test Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784191002?gh_jid=8784191002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784191002
+
+#### 🔄 Avionics Production Supervisor, Sensors (Falcon)
+**Greenhouse** · spacex · Avionics Sensors
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944950002?gh_jid=8944950002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944950002
+
+#### 🔄 Avionics System Engineer, HITL (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748882002?gh_jid=8748882002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748882002
+
+#### 🔄 Avionics Systems Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805284002?gh_jid=8805284002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805284002
+
+#### 🔄 Avionics Systems Engineer (Special Programs)
+**Greenhouse** · spacex · Falcon and Dragon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929143002?gh_jid=8929143002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929143002
+
+#### 🔄 Avionics Systems Engineer (Special Programs) - Top Secret Clearance
+**Greenhouse** · spacex · Falcon and Dragon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929464002?gh_jid=8929464002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929464002
+
+#### 🔄 Avionics Systems Engineer (Starship)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8739392002?gh_jid=8739392002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8739392002
+
+#### 🔄 Avionics Technician (Falcon & Dragon)
+**Greenhouse** · spacex · Avionics Electromechanical
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8651062002?gh_jid=8651062002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8651062002
+
+#### 🔄 Avionics Test Engineer (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815132002?gh_jid=8815132002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815132002
+
+#### 🔄 Avionics Test Engineer (Starship)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8706413002?gh_jid=8706413002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8706413002
+
+#### 🔄 Avionics Test Technician (Space Simulation Test Lab) - 2nd Shift
+**Greenhouse** · spacex · Avionics Testing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8889105002?gh_jid=8889105002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8889105002
+
+#### 🔄 Avionics Test Technician, Starbase Vibe Test Lab
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924420002?gh_jid=8924420002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924420002
+
+#### 🔄 AV Technician
+**Greenhouse** · spacex · Information Technology - Services
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882556002?gh_jid=8882556002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882556002
+
+#### 🔄 Backend Software Engineer, GNC (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8753321002?gh_jid=8753321002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8753321002
+
+#### 🔄 Barista
+**Greenhouse** · spacex · Food Services - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8626596002?gh_jid=8626596002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8626596002
+
+#### 🔄 Barista - Temporary (Bastrop)
+**Greenhouse** · spacex · Food Services - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907784002?gh_jid=8907784002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907784002
+
+#### 🔄 Barista - Temporary (Cape Canaveral)
+**Greenhouse** · spacex · Food Services - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654606002?gh_jid=8654606002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654606002
+
+#### 🔄 Barista - Temporary (Starbase)
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929618002?gh_jid=8929618002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929618002
+
+#### 🔄 Bastrop Campus Planning Manager
+**Greenhouse** · spacex · Starlink Production Bastrop - Ops. Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962157002?gh_jid=8962157002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962157002
+
+#### 🔄 Bastrop Site Expansion Manager
+**Greenhouse** · spacex · Starlink Production Bastrop - Ops. Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962158002?gh_jid=8962158002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962158002
+
+#### 🔄 Battery Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8795614002?gh_jid=8795614002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8795614002
+
+#### 🔄 Battery Test Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943765002?gh_jid=8943765002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943765002
+
+#### 🔄 BAW Device Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728515002?gh_jid=8728515002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728515002
+
+#### 🔄 BAW Filter Design Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8662103002?gh_jid=8662103002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8662103002
+
+#### 🔄 Benefits Analyst
+**Greenhouse** · spacex · Total Rewards
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8877827002?gh_jid=8877827002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8877827002
+
+#### 🔄 Benefits Analyst (Workers Compensation)
+**Greenhouse** · spacex · Total Rewards
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8877821002?gh_jid=8877821002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8877821002
+
+#### 🔄 Benefits Coordinator
+**Greenhouse** · spacex · Total Rewards
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8779775002?gh_jid=8779775002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8779775002
+
+#### 🔄 Benefits Coordinator
+**Greenhouse** · spacex · Total Rewards
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8877846002?gh_jid=8877846002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8877846002
+
+#### 🔄 BIM Manager
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939832002?gh_jid=8939832002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939832002
+
+#### 🔄 BIM Specialist - Mechanical Systems Modeling (Starbase)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924989002?gh_jid=8924989002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924989002
+
+#### 🔄 BIM Specialist (Starbase)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920909002?gh_jid=8920909002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920909002
+
+#### 🔄 Boilermaker
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927747002?gh_jid=8927747002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927747002
+
+#### 🔄 Build Coordinator (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8673107002?gh_jid=8673107002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8673107002
+
+#### 🔄 Build Engineer, COPVS (Starship)
+**Greenhouse** · spacex · Starship COPV Engineering
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633051002?gh_jid=8633051002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633051002
+
+#### 🔄 Build Engineer (Crew Starship)
+**Greenhouse** · spacex · Crew Starship
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8841987002?gh_jid=8841987002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8841987002
+
+#### 🔄 Build Engineer (Crew Starship)
+**Greenhouse** · spacex · Crew Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8841997002?gh_jid=8841997002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8841997002
+
+#### 🔄 Build Engineer (Enterprise Products)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8743243002?gh_jid=8743243002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8743243002
+
+#### 🔄 Build Engineer (Starship)
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8553649002?gh_jid=8553649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8553649002
+
+#### 🔄 Build Engineer (Starship Mechanisms)
+**Greenhouse** · spacex · Starship Mechanisms Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728763002?gh_jid=8728763002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728763002
+
+#### 🔄 Build Engineer (Starship) - Nights
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563891002?gh_jid=8563891002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563891002
+
+#### 🔄 Build Engineer (Super Heavy Booster)
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563890002?gh_jid=8563890002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563890002
+
+#### 🔄 Build Reliability Engineer (Falcon/Dragon)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8738577002?gh_jid=8738577002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8738577002
+
+#### 🔄 Build Reliability Engineer (Starship)
+**Greenhouse** · spacex · Starship Build Reliability Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8737677002?gh_jid=8737677002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8737677002
+
+#### 🔄 Build Reliability Engineer (Starship Valves & Components)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639275002?gh_jid=8639275002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639275002
+
+#### 🔄 Build Specialist, Barrel Production (Starship)
+**Greenhouse** · spacex · Barrel Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686807002?gh_jid=8686807002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686807002
+
+#### 🔄 Build Specialist (Booster Structures Engineering)
+**Greenhouse** · spacex · Booster Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949413002?gh_jid=8949413002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949413002
+
+#### 🔄 Build Supervisor (Starship)
+**Greenhouse** · spacex · Sheet Metal Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928266002?gh_jid=8928266002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928266002
+
+#### 🔄 Build Supervisor (Starship) - 2nd Shift
+**Greenhouse** · spacex · Booster Structures Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8582792002?gh_jid=8582792002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8582792002
+
+#### 🔄 Build Supervisor (Starship Booster Structures Manufacturing)
+**Greenhouse** · spacex · Booster Structures Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8678710002?gh_jid=8678710002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8678710002
+
+#### 🔄 Business Analyst (Customer Success)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641231002
+
+#### 🔄 Business Analyst (Customer Success)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641250002
+
+#### 🔄 Business Analyst (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681172002?gh_jid=8681172002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681172002
+
+#### 🔄 Business Analyst (Starlink Market Analysis)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657082002?gh_jid=8657082002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657082002
+
+#### 🔄 Business Development Manager, Retail Channel (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871789002?gh_jid=8871789002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871789002
+
+#### 🔄 Business Development Manager, Retail Channel (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871799002?gh_jid=8871799002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871799002
+
+#### 🔄 Business Development Manager, US & Canada (Starlink Product Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675308002?gh_jid=8675308002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675308002
+
+#### 🔄 Business Development Manager, US & Canada (Starlink Product Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675212002?gh_jid=8675212002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675212002
+
+#### 🔄 Business Operations Analyst, Aviation (Starlink)
+**Greenhouse** · spacex · Starlink Aviation Sales & Customer Success
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948347002?gh_jid=8948347002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948347002
+
+#### 🔄 Business Operations Analyst (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8760771002?gh_jid=8760771002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8760771002
+
+#### 🔄 Business Operations Manager (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857387002?gh_jid=8857387002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857387002
+
+#### 🔄 Business Operations Manager (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857423002?gh_jid=8857423002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857423002
+
+#### 🔄 Business Operations Manager (Starlink Platform Integrity)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956438002?gh_jid=8956438002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956438002
+
+#### 🔄 Business Operations Manager (Starlink Platform Integrity)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956417002?gh_jid=8956417002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956417002
+
+#### 🔄 CAD Drafter
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8729951002?gh_jid=8729951002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8729951002
+
+#### 🔄 CAM Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8603028002?gh_jid=8603028002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8603028002
+
+#### 🔄 Campus Infrastructure Project Manager
+**Greenhouse** · spacex · Starlink Production Bastrop - Ops. Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962160002?gh_jid=8962160002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962160002
+
+#### 🔄 Certified Welding Inspector, NDE (Launch)
+**Greenhouse** · spacex · Launch NDE - East
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955872002?gh_jid=8955872002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955872002
+
+#### 🔄 Chemical Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8562076002?gh_jid=8562076002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8562076002
+
+#### 🔄 Chemical Process Engineer (Starship Launch Systems)
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8682883002?gh_jid=8682883002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8682883002
+
+#### 🔄 Chemical Process Specialist, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8560018002?gh_jid=8560018002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8560018002
+
+#### 🔄 Chemical Texturing Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653788002?gh_jid=8653788002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653788002
+
+#### 🔄 Civil Engineer, Land Development (Starbase Infrastructure - Louisiana)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814619002?gh_jid=8814619002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814619002
+
+#### 🔄 Civil Engineer, Land Development (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731020002?gh_jid=8731020002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731020002
+
+#### 🔄 Civil Engineer, Land Development (Starship Infrastructure)
+**Greenhouse** · spacex · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8673971002?gh_jid=8673971002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8673971002
+
+#### 🔄 Civil Engineer, Land Development (Starship Launch Pad)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935927002?gh_jid=8935927002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935927002
+
+#### 🔄 Civil Engineer, Land Development (Starship Launch Pad)
+**Greenhouse** · spacex · Starship Pad Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609445002?gh_jid=8609445002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609445002
+
+#### 🔄 Civil Engineer, Site Development
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938191002?gh_jid=8938191002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938191002
+
+#### 🔄 Civil Engineer, Site Development
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938131002?gh_jid=8938131002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938131002
+
+#### 🔄 Civil Engineer, Site Development
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938174002?gh_jid=8938174002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938174002
+
+#### 🔄 Civil Engineer, Site Development
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938178002?gh_jid=8938178002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938178002
+
+#### 🔄 Civil Engineer, Starbase Infrastructure (Starship)
+**Greenhouse** · spacex · Civil Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8583754002?gh_jid=8583754002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8583754002
+
+#### 🔄 Civil Engineer, Water Resources
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827637002?gh_jid=8827637002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827637002
+
+#### 🔄 Civil/Structural Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672666002?gh_jid=8672666002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672666002
+
+#### 🔄 CMF Designer - Color, Material, and Finish (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570197002?gh_jid=8570197002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570197002
+
+#### 🔄 CMM Inspector (Starship)
+**Greenhouse** · spacex · Starbase Supply Chain Reliability
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703558002?gh_jid=8703558002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703558002
+
+#### 🔄 CMM Programmer (Starship)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961339002?gh_jid=8961339002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961339002
+
+#### 🔄 CMM Programmer (Tool & Die) - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8953987002?gh_jid=8953987002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8953987002
+
+#### 🔄 CMM Source Inspector
+**Greenhouse** · spacex · Supplier Inspection Programs
+📍 Remote - TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8887128002?gh_jid=8887128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8887128002
+
+#### 🔄 CMM Source Inspector
+**Greenhouse** · spacex · Supplier Inspection Programs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871075002?gh_jid=8871075002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871075002
+
+#### 🔄 CNC Lathe Machinist (Starship)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8680028002?gh_jid=8680028002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8680028002
+
+#### 🔄 CNC Machinist (Falcon)
+**Greenhouse** · spacex · Machining - Central Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8772284002?gh_jid=8772284002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8772284002
+
+#### 🔄 CNC Machinist (Raptor)
+**Greenhouse** · spacex · Raptor Machining - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675289002?gh_jid=8675289002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675289002
+
+#### 🔄 CNC Machinist (Raptor) - 2nd Shift
+**Greenhouse** · spacex · Raptor Machining - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675313002?gh_jid=8675313002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675313002
+
+#### 🔄 CNC Machinist (Raptor Combustion Devices & Valves)
+**Greenhouse** · spacex · Raptor Combustion Devices - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643907002?gh_jid=8643907002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643907002
+
+#### 🔄 CNC Machinist (Raptor Combustion Devices & Valves) - 2nd Shift
+**Greenhouse** · spacex · Raptor Combustion Devices - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8780323002?gh_jid=8780323002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8780323002
+
+#### 🔄 CNC Machinist (Raptor) - Level 4/5
+**Greenhouse** · spacex · Raptor Machining - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912189002?gh_jid=8912189002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912189002
+
+#### 🔄 CNC Machinist (Starlink) - 2nd Shift - Level 4/5
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8580498002?gh_jid=8580498002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8580498002
+
+#### 🔄 CNC Machinist (Starship)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8663204002?gh_jid=8663204002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8663204002
+
+#### 🔄 CNC Machinist (Starship Components) - Level 4/5
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565816002?gh_jid=8565816002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565816002
+
+#### 🔄 CNC Machinist, Tool & Die - Level 4/5
+**Greenhouse** · spacex · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8803200002?gh_jid=8803200002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8803200002
+
+#### 🔄 CNC Machinist, Tool & Die (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621901002?gh_jid=8621901002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621901002
+
+#### 🔄 CNC Maintenance Technician
+**Greenhouse** · spacex · Ground Reliability - Asset Maintenance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8747429002?gh_jid=8747429002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8747429002
+
+#### 🔄 CNC Programmer, Development (Starlink)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697078002?gh_jid=8697078002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697078002
+
+#### 🔄 CNC Programmer, NX CAM (IGT Blades & Vanes) - Level 4/5
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8743358002?gh_jid=8743358002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8743358002
+
+#### 🔄 CNC Programmer (Starship Components) - Level 4/5
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939390002?gh_jid=8939390002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939390002
+
+#### 🔄 CNC Programmer (Starship Components) - Level 4/5 (2nd Shift)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8581415002?gh_jid=8581415002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8581415002
+
+#### 🔄 CNC Specialist (NX CAM) - Blades & Vanes
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784820002?gh_jid=8784820002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784820002
+
+#### 🔄 Commercial Counsel, Starlink
+**Greenhouse** · spacex · Legal
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8786612002?gh_jid=8786612002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8786612002
+
+#### 🔄 Commercial Plumber - 2nd Shift (Service & Repair)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612522002?gh_jid=8612522002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612522002
+
+#### 🔄 Communications Lead
+**Greenhouse** · spacex · Marketing & Communications
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926138002?gh_jid=8926138002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926138002
+
+#### 🔄 Communications Lead
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942087002?gh_jid=8942087002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942087002
+
+#### 🔄 Communications Lead
+**Greenhouse** · spacex · Marketing & Communications
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926132002?gh_jid=8926132002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926132002
+
+#### 🔄 Communications Manager, Aviation
+**Greenhouse** · spacex · Marketing & Communications
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955884002?gh_jid=8955884002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955884002
+
+#### 🔄 Communications Manager, Land Mobility
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955890002?gh_jid=8955890002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955890002
+
+#### 🔄 Communications Manager, Supercompute
+**Greenhouse** · spacex · Marketing & Communications
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8960594002?gh_jid=8960594002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8960594002
+
+#### 🔄 Composites Lamination Technician
+**Greenhouse** · spacex · Lamination
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815859002?gh_jid=8815859002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815859002
+
+#### 🔄 Composites Technician (COPV)
+**Greenhouse** · spacex · Westminster COPV Production
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876266002?gh_jid=8876266002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8876266002
+
+#### 🔄 Compressed Air Technician (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605112002?gh_jid=8605112002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605112002
+
+#### 🔄 COMSEC Analyst
+**Greenhouse** · spacex · Government Security Programs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935139002?gh_jid=8935139002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935139002
+
+#### 🔄 Construction Engineer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700199002?gh_jid=8700199002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700199002
+
+#### 🔄 Construction Foreman
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846223002?gh_jid=8846223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846223002
+
+#### 🔄 Construction Project Engineer (MEP)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8811665002?gh_jid=8811665002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8811665002
+
+#### 🔄 Construction Project Manager
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8734214002?gh_jid=8734214002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8734214002
+
+#### 🔄 Construction Project Manager, Critical Lift (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612800002?gh_jid=8612800002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612800002
+
+#### 🔄 Construction Project Manager, Critical Transport (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932465002?gh_jid=8932465002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932465002
+
+#### 🔄 Construction Project Manager, Launch Pad Fabrication (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934150002?gh_jid=8934150002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934150002
+
+#### 🔄 Construction Project Manager, MEP
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8900849002?gh_jid=8900849002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8900849002
+
+#### 🔄 Construction Project Manager, Residential (Starbase Development)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882074002?gh_jid=8882074002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882074002
+
+#### 🔄 Construction Project Manager, Starbase Infrastructure
+**Greenhouse** · spacex · Civil Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727965002?gh_jid=8727965002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727965002
+
+#### 🔄 Construction Project Manager (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565650002?gh_jid=8565650002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565650002
+
+#### 🔄 Construction Project Manager (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565644002?gh_jid=8565644002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565644002
+
+#### 🔄 Construction Project Manager (Starlink)
+**Greenhouse** · spacex · Facilities - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654508002?gh_jid=8654508002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654508002
+
+#### 🔄 Construction Project Manager (Starship Launch Pad)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935932002?gh_jid=8935932002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935932002
+
+#### 🔄 Construction Project Manager (Starship Launch Pads)
+**Greenhouse** · spacex · Starship Pad Technicians - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8685087002?gh_jid=8685087002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8685087002
+
+#### 🔄 Construction Safety Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8863775002?gh_jid=8863775002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8863775002
+
+#### 🔄 Construction Safety Engineer (AI Supercomputer)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838006002?gh_jid=8838006002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838006002
+
+#### 🔄 Construction Superintendent
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8651400002?gh_jid=8651400002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8651400002
+
+#### 🔄 Construction Superintendent
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720164002?gh_jid=8720164002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720164002
+
+#### 🔄 Construction Superintendent
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912724002?gh_jid=8912724002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912724002
+
+#### 🔄 Construction Superintendent
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769143002?gh_jid=8769143002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769143002
+
+#### 🔄 Construction Superintendent
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8734515002?gh_jid=8734515002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8734515002
+
+#### 🔄 Construction Superintendent
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609140002?gh_jid=8609140002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609140002
+
+#### 🔄 Construction Superintendent (Night Shift)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720160002?gh_jid=8720160002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720160002
+
+#### 🔄 Construction Superintendent (Starship Pad Build)
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8797742002?gh_jid=8797742002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8797742002
+
+#### 🔄 Construction Superintendent (Starship Pad Build)
+**Greenhouse** · spacex · Starship Pad Technicians - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8693196002?gh_jid=8693196002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8693196002
+
+#### 🔄 Construction Supervisor
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842704002?gh_jid=8842704002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842704002
+
+#### 🔄 Construction Supervisor, Electrical
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843089002?gh_jid=8843089002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843089002
+
+#### 🔄 Construction Supervisor, Facilities
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843104002?gh_jid=8843104002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843104002
+
+#### 🔄 Construction Supervisor, Fluid Systems
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843124002?gh_jid=8843124002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843124002
+
+#### 🔄 Construction Supervisor, Mechanical
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843096002?gh_jid=8843096002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843096002
+
+#### 🔄 Construction Supervisor, MEP
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842882002?gh_jid=8842882002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842882002
+
+#### 🔄 Construction Supervisor, Power Systems
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843098002?gh_jid=8843098002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843098002
+
+#### 🔄 Construction Surveyor
+**Greenhouse** · spacex · Civil Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935220002?gh_jid=8935220002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935220002
+
+#### 🔄 Construction Technician
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8767281002?gh_jid=8767281002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8767281002
+
+#### 🔄 Construction Technician - Residential & Commercial Office Interiors (Starbase)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8785079002?gh_jid=8785079002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8785079002
+
+#### 🔄 Construction Technician, Starbase Infrastructure
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846172002?gh_jid=8846172002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846172002
+
+#### 🔄 Construction Technician - Temporary
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864165002?gh_jid=8864165002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864165002
+
+#### 🔄 Contractor Onboarding Coordinator
+**Greenhouse** · spacex · Starship Pad Technicians - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948240002?gh_jid=8948240002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948240002
+
+#### 🔄 Contractor Service Administrator (Facilities)
+**Greenhouse** · spacex · Facilities Infrastructure Ops - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8648204002?gh_jid=8648204002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8648204002
+
+#### 🔄 Contracts Director
+**Greenhouse** · spacex · Legal
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950666002?gh_jid=8950666002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950666002
+
+#### 🔄 Contracts Director
+**Greenhouse** · spacex · Legal
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950662002?gh_jid=8950662002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950662002
+
+#### 🔄 Contracts Manager
+**Greenhouse** · spacex · Legal
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950651002?gh_jid=8950651002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950651002
+
+#### 🔄 Contracts Manager
+**Greenhouse** · spacex · Legal
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950661002?gh_jid=8950661002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950661002
+
+#### 🔄 Controls Technician
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8875773002?gh_jid=8875773002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8875773002
+
+#### 🔄 Controls Technician - 2nd Shift
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910911002?gh_jid=8910911002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910911002
+
+#### 🔄 Controls Technician (Starship) - Level 4/5
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937276002?gh_jid=8937276002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937276002
+
+#### 🔄 Controls Technician (Starship) - Level 4/5 - Night Shift
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940638002?gh_jid=8940638002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940638002
+
+#### 🔄 Cook
+**Greenhouse** · spacex · Food Services - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8763998002?gh_jid=8763998002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8763998002
+
+#### 🔄 Cook
+**Greenhouse** · spacex · Food Services - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949443002?gh_jid=8949443002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949443002
+
+#### 🔄 Cook
+**Greenhouse** · spacex · Food Services - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932393002?gh_jid=8932393002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932393002
+
+#### 🔄 Cook - Temporary
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948323002?gh_jid=8948323002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948323002
+
+#### 🔄 Cook - Temporary (Cape Canaveral)
+**Greenhouse** · spacex · Food Services - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927788002?gh_jid=8927788002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927788002
+
+#### 🔄 Corporate Counsel, Strategic Investments
+**Greenhouse** · spacex · Legal
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8660710002?gh_jid=8660710002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8660710002
+
+#### 🔄 Corrosion Control Technician
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8885514002?gh_jid=8885514002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8885514002
+
+#### 🔄 Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886919002?gh_jid=8886919002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886919002
+
+#### 🔄 Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886922002?gh_jid=8886922002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886922002
+
+#### 🔄 Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886924002?gh_jid=8886924002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886924002
+
+#### 🔄 Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886923002?gh_jid=8886923002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886923002
+
+#### 🔄 Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886925002?gh_jid=8886925002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886925002
+
+#### 🔄 Crane Technician (Maintenance & Service)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859103002?gh_jid=8859103002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859103002
+
+#### 🔄 Critical Lift Technician - Transport (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952834002?gh_jid=8952834002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952834002
+
+#### 🔄 Critical Lift & Transport Engineer (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952902002?gh_jid=8952902002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952902002
+
+#### 🔄 Critical Lift & Transport Engineer (Starship)
+**Greenhouse** · spacex · Launch Critical Lift & Transport
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882432002?gh_jid=8882432002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882432002
+
+#### 🔄 Critical Lift & Transport Technician (Crane Operations) - Day Shift
+**Greenhouse** · spacex · Launch Critical Lift & Transport
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950339002?gh_jid=8950339002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950339002
+
+#### 🔄 Critical Lift & Transport Technician (Crane Operations) - Night Shift
+**Greenhouse** · spacex · Launch Critical Lift & Transport
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950367002?gh_jid=8950367002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950367002
+
+#### 🔄 Critical Lift & Transport Technician (Falcon 9)
+**Greenhouse** · spacex · Falcon Operations West
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945913002?gh_jid=8945913002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945913002
+
+#### 🔄 Critical Lift & Transport Technician (Launch)
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758624002?gh_jid=8758624002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758624002
+
+#### 🔄 Critical Lift & Transport Technician (Transport Operations) - Day Shift
+**Greenhouse** · spacex · Launch Critical Lift & Transport
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950357002?gh_jid=8950357002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950357002
+
+#### 🔄 Critical Lift & Transport Technician (Transport Operations) - Night Shift
+**Greenhouse** · spacex · Launch Critical Lift & Transport
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950369002?gh_jid=8950369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950369002
+
+#### 🔄 CVD Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919767002?gh_jid=8919767002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919767002
+
+#### 🔄 CWI, NDE (Launch)
+**Greenhouse** · spacex · Launch NDE - East
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955877002?gh_jid=8955877002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955877002
+
+#### 🔄 Dangerous Goods Lead
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698642002?gh_jid=8698642002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698642002
+
+#### 🔄 Dangerous Goods Lead
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698627002?gh_jid=8698627002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698627002
+
+#### 🔄 Dangerous Goods Lead
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698643002?gh_jid=8698643002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698643002
+
+#### 🔄 Dangerous Goods Lead
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698644002?gh_jid=8698644002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698644002
+
+#### 🔄 Database Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931068002?gh_jid=8931068002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931068002
+
+#### 🔄 Database Reliability Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748833002?gh_jid=8748833002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748833002
+
+#### 🔄 Data Center Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927645002?gh_jid=8927645002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927645002
+
+#### 🔄 Data Center Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827845002?gh_jid=8827845002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827845002
+
+#### 🔄 Data Center Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931226002?gh_jid=8931226002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931226002
+
+#### 🔄 Data Center Facilities Specialist
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782746002?gh_jid=8782746002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782746002
+
+#### 🔄 Data Center Facilities Technician
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782372002?gh_jid=8782372002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782372002
+
+#### 🔄 Data Center Safety Engineer (Automation)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8660139002?gh_jid=8660139002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8660139002
+
+#### 🔄 Data Center Safety Engineer (Electrical)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727446002?gh_jid=8727446002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727446002
+
+#### 🔄 Data Center Technician
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919885002?gh_jid=8919885002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919885002
+
+#### 🔄 Data Center Technician
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861870002?gh_jid=8861870002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861870002
+
+#### 🔄 Data Center Technician (TS/SCI)
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926143002?gh_jid=8926143002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926143002
+
+#### 🔄 Data & Control Systems Technician (Starship Launch Hardware) - Level 4/5
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633150002?gh_jid=8633150002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633150002
+
+#### 🔄 Data Engineer, Application Software
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957969002?gh_jid=8957969002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957969002
+
+#### 🔄 Data Engineer, Ground Network Engineering (Gateway)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784022002?gh_jid=8784022002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784022002
+
+#### 🔄 Data Engineer, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957339002?gh_jid=8957339002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957339002
+
+#### 🔄 Data Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920514002
+
+#### 🔄 Data Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8626535002?gh_jid=8626535002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8626535002
+
+#### 🔄 Data Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8626500002?gh_jid=8626500002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8626500002
+
+#### 🔄 Data Engineer (Starlink Go-To-Market)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8637472002?gh_jid=8637472002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8637472002
+
+#### 🔄 Data Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694609002
+
+#### 🔄 Data Engineer (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938027002?gh_jid=8938027002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938027002
+
+#### 🔄 Data Infrastructure Operations Manager (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703559002?gh_jid=8703559002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703559002
+
+#### 🔄 Data Infrastructure Operations Specialist II (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931292002?gh_jid=8931292002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931292002
+
+#### 🔄 Data Infrastructure Operations Specialist II (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944752002?gh_jid=8944752002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944752002
+
+#### 🔄 Deburr Technician (Machining)
+**Greenhouse** · spacex · Machining - Central Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8772025002?gh_jid=8772025002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8772025002
+
+#### 🔄 Deburr Technician, Machining (Starship)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8680153002?gh_jid=8680153002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8680153002
+
+#### 🔄 Delivery Systems Specialist - Driver
+**Greenhouse** · spacex · Materials Management - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675197002?gh_jid=8675197002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675197002
+
+#### 🔄 Design Criteria Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8721103002?gh_jid=8721103002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8721103002
+
+#### 🔄 Design Criteria Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933949002?gh_jid=8933949002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933949002
+
+#### 🔄 Design Criteria Engineer (Starship)
+**Greenhouse** · spacex · Starship Build Reliability Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8760091002?gh_jid=8760091002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8760091002
+
+#### 🔄 Design Reliability Engineer (Crew Starship)
+**Greenhouse** · spacex · Crew Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842018002?gh_jid=8842018002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842018002
+
+#### 🔄 Design Reliability Engineer (Crew Starship)
+**Greenhouse** · spacex · Crew Starship
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842004002?gh_jid=8842004002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842004002
+
+#### 🔄 Design Reliability Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8682164002?gh_jid=8682164002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8682164002
+
+#### 🔄 Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632894002?gh_jid=8632894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632894002
+
+#### 🔄 Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632967002?gh_jid=8632967002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632967002
+
+#### 🔄 Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632395002?gh_jid=8632395002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632395002
+
+#### 🔄 Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632971002?gh_jid=8632971002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632971002
+
+#### 🔄 Development Lead
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938082002?gh_jid=8938082002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938082002
+
+#### 🔄 Development Lead
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938107002?gh_jid=8938107002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938107002
+
+#### 🔄 Development Lead
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938110002?gh_jid=8938110002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938110002
+
+#### 🔄 Development Lead
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938108002?gh_jid=8938108002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938108002
+
+#### 🔄 Development Technician (Starlink)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696914002?gh_jid=8696914002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696914002
+
+#### 🔄 Development Test Engineer, Battery (Starship Electronics)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647452002
+
+#### 🔄 Development Test Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831170002?gh_jid=8831170002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831170002
+
+#### 🔄 Development Test Specialist, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8902776002?gh_jid=8902776002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8902776002
+
+#### 🔄 Development Test Technician - 2nd Shift
+**Greenhouse** · spacex · Starship Structural Test - Techs
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627395002?gh_jid=8627395002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627395002
+
+#### 🔄 Development Test Technician, Mechanical
+**Greenhouse** · spacex · Texas - Development Test Technicians
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922618002?gh_jid=8922618002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922618002
+
+#### 🔄 Development Test Technician (Starship Mechanisms) - Level 4/5
+**Greenhouse** · spacex · Hawthorne - Development Test
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856522002?gh_jid=8856522002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8856522002
+
+#### 🔄 Diamond Turning Machinist (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928905002?gh_jid=8928905002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928905002
+
+#### 🔄 Diamond Turning Machinist (Starlink) - Level 4/5
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928920002?gh_jid=8928920002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928920002
+
+#### 🔄 Diamond Turning Technician (Starlink) - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8582763002?gh_jid=8582763002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8582763002
+
+#### 🔄 Digital Paid Media Lead
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944900002?gh_jid=8944900002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944900002
+
+#### 🔄 Dimensional Inspector (CMM Programmer)
+**Greenhouse** · spacex · Supplier Inspection Programs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8741932002?gh_jid=8741932002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8741932002
+
+#### 🔄 Dimensional Inspector - Supply Chain
+**Greenhouse** · spacex · Supplier Inspection Programs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815844002?gh_jid=8815844002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815844002
+
+#### 🔄 Dimensional Inspector - Supply Chain (Starship)
+**Greenhouse** · spacex · Starbase Supply Chain Reliability
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633899002?gh_jid=8633899002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633899002
+
+#### 🔄 Director, Facilities (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958921002?gh_jid=8958921002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958921002
+
+#### 🔄 Director, Materials Management (Starbase Infrastructure - Louisiana)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936748002?gh_jid=8936748002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936748002
+
+#### 🔄 Director, Starlink Production (Assembly)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly & Packout
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8870838002?gh_jid=8870838002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8870838002
+
+#### 🔄 Dynamics Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8806124002?gh_jid=8806124002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8806124002
+
+#### 🔄 Dynamics Engineer (Starship)
+**Greenhouse** · spacex · Starship Analysis
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8869718002?gh_jid=8869718002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8869718002
+
+#### 🔄 EDA Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632993002?gh_jid=8632993002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632993002
+
+#### 🔄 EDA Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632982002?gh_jid=8632982002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632982002
+
+#### 🔄 EEE Component Reliability Engineer
+**Greenhouse** · spacex · Starlink Satellite Reliability
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8834054002?gh_jid=8834054002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8834054002
+
+#### 🔄 Electrical Design Engineer (Falcon & Dragon Avionics)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8629130002?gh_jid=8629130002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8629130002
+
+#### 🔄 Electrical Design Engineer, Gateways & Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700387002?gh_jid=8700387002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700387002
+
+#### 🔄 Electrical Design Engineer – Raptor 3D Printers
+**Greenhouse** · spacex · Raptor Tooling and Automation Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8839360002?gh_jid=8839360002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8839360002
+
+#### 🔄 Electrical Design Engineer, Satellites Payload (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8682184002?gh_jid=8682184002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8682184002
+
+#### 🔄 Electrical Design Engineer (Starfall Avionics)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957885002?gh_jid=8957885002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957885002
+
+#### 🔄 Electrical Design Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563212002?gh_jid=8563212002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563212002
+
+#### 🔄 Electrical Design Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676042002?gh_jid=8676042002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676042002
+
+#### 🔄 Electrical Designer (Construction)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727981002?gh_jid=8727981002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727981002
+
+#### 🔄 Electrical Engineer, Battery (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8825367002?gh_jid=8825367002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8825367002
+
+#### 🔄 Electrical Engineer - Energy & Generation
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647939002?gh_jid=8647939002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647939002
+
+#### 🔄 Electrical Engineer, Energy Infrastructure & Generation
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8658859002?gh_jid=8658859002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8658859002
+
+#### 🔄 Electrical Engineer (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686707002
+
+#### 🔄 Electrical Engineer, Facilities
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8951756002?gh_jid=8951756002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8951756002
+
+#### 🔄 Electrical Engineer, Hardware Reliability (Build Reliability)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8903622002?gh_jid=8903622002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8903622002
+
+#### 🔄 Electrical Engineer, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932403002?gh_jid=8932403002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932403002
+
+#### 🔄 Electrical Engineer, Hardware Reliability (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945259002?gh_jid=8945259002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945259002
+
+#### 🔄 Electrical Engineer - Instrumentation and Controls
+**Greenhouse** · spacex · Texas - Test Equipment Engineers
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621275002?gh_jid=8621275002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621275002
+
+#### 🔄 Electrical Engineer, Launch Infrastructure (Starship)
+**Greenhouse** · spacex · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8737393002?gh_jid=8737393002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8737393002
+
+#### 🔄 Electrical Engineer, Launch Pad (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8752568002?gh_jid=8752568002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8752568002
+
+#### 🔄 Electrical Engineer, Launch Pad (Starship)
+**Greenhouse** · spacex · Starship Pad Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564730002?gh_jid=8564730002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564730002
+
+#### 🔄 Electrical Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943531002?gh_jid=8943531002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943531002
+
+#### 🔄 Electrical Engineer (Power Systems)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609188002?gh_jid=8609188002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609188002
+
+#### 🔄 Electrical Engineer, Power Systems (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952151002?gh_jid=8952151002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952151002
+
+#### 🔄 Electrical Engineer, Radiation Effects
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726512002?gh_jid=8726512002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726512002
+
+#### 🔄 Electrical Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928704002?gh_jid=8928704002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928704002
+
+#### 🔄 Electrical Engineer, Sensors (Starship Avionics)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727526002?gh_jid=8727526002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727526002
+
+#### 🔄 Electrical Engineer, Silicon Reliability Test (Starlink)
+**Greenhouse** · spacex · Starlink Process Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701462002?gh_jid=8701462002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701462002
+
+#### 🔄 Electrical Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882529002?gh_jid=8882529002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882529002
+
+#### 🔄 Electrical Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8593382002?gh_jid=8593382002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8593382002
+
+#### 🔄 Electrical Hardware Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930403002?gh_jid=8930403002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930403002
+
+#### 🔄 Electrical Hardware Engineer - Optics, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8747673002?gh_jid=8747673002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8747673002
+
+#### 🔄 Electrical Hardware Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928696002?gh_jid=8928696002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928696002
+
+#### 🔄 Electrical Integration Engineer (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8828678002?gh_jid=8828678002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8828678002
+
+#### 🔄 Electrical Lineman, Medium Voltage (Starship)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909022002?gh_jid=8909022002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909022002
+
+#### 🔄 Electrical On-orbit Reliability Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8747041002?gh_jid=8747041002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8747041002
+
+#### 🔄 Electrical Safety Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925461002?gh_jid=8925461002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925461002
+
+#### 🔄 Electrical Safety Engineer
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925359002?gh_jid=8925359002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925359002
+
+#### 🔄 Electrical Systems Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957866002?gh_jid=8957866002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957866002
+
+#### 🔄 Electrical Systems Engineer (Special Programs)
+**Greenhouse** · spacex · Falcon and Dragon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957867002?gh_jid=8957867002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957867002
+
+#### 🔄 Electrical Test and Reliability Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8659087002?gh_jid=8659087002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8659087002
+
+#### 🔄 Electrical Test Development Engineer, Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700262002?gh_jid=8700262002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700262002
+
+#### 🔄 Electrical Test Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857314002?gh_jid=8857314002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857314002
+
+#### 🔄 Electrical Test Engineering Manager
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831208002?gh_jid=8831208002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831208002
+
+#### 🔄 Electrical Training Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Training
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735328002?gh_jid=8735328002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735328002
+
+#### 🔄 Electrician
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672648002?gh_jid=8672648002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672648002
+
+#### 🔄 Electrician, Facilities (Multiple Shifts)
+**Greenhouse** · spacex · Facilities Infrastructure Ops - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8747636002?gh_jid=8747636002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8747636002
+
+#### 🔄 Electrician - Level 4/5
+**Greenhouse** · spacex · High Power Electricians
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814686002?gh_jid=8814686002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814686002
+
+#### 🔄 Electrician, Medium Voltage (Starship)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788213002?gh_jid=8788213002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788213002
+
+#### 🔄 Electrician, Solar Cells (Starlink) - Day Shift
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910020002?gh_jid=8910020002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910020002
+
+#### 🔄 Electrician (Starlink)
+**Greenhouse** · spacex · Facilities - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657722002?gh_jid=8657722002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657722002
+
+#### 🔄 Electrician (Starship)
+**Greenhouse** · spacex · High Power Electricians
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788661002?gh_jid=8788661002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788661002
+
+#### 🔄 Electrician (Starship Launch Pad)
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937186002?gh_jid=8937186002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937186002
+
+#### 🔄 Electrician (Starship Launch Pad) - Night Shift
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937192002?gh_jid=8937192002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937192002
+
+#### 🔄 Electrician, Starship Launch Pad - Night Shift
+**Greenhouse** · spacex · Starship Pad Technicians - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617097002?gh_jid=8617097002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617097002
+
+#### 🔄 Electrician (Starship) - Temporary
+**Greenhouse** · spacex · High Power Electricians
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8817884002?gh_jid=8817884002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8817884002
+
+#### 🔄 Electric Propulsion Engineer, Avionics (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8828206002?gh_jid=8828206002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8828206002
+
+#### 🔄 Electric Propulsion Engineer, Mechanical - (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925513002?gh_jid=8925513002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925513002
+
+#### 🔄 Electric Propulsion Engineer, Mechanical (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8650130002?gh_jid=8650130002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8650130002
+
+#### 🔄 Electromagnetic Effects Engineer (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731514002?gh_jid=8731514002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731514002
+
+#### 🔄 Electromagnetic Effects Test Engineer
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8586528002?gh_jid=8586528002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8586528002
+
+#### 🔄 Electromagnetic Effects Test Engineer (Automotive/Satellite EMC)
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8721179002?gh_jid=8721179002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8721179002
+
+#### 🔄 Electro-Mechanical Build & Test Technician (Starship Avionics)
+**Greenhouse** · spacex · Starship Electronics Production - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8806154002?gh_jid=8806154002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8806154002
+
+#### 🔄 Electromechanical Technician (Starshield) - 2nd Shift
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922912002?gh_jid=8922912002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922912002
+
+#### 🔄 Electromechanical Technician (Starshield) - Level 4/5
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569969002?gh_jid=8569969002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569969002
+
+#### 🔄 Electron Beam Welder (Raptor Combustion Devices) - 2nd Shift
+**Greenhouse** · spacex · Raptor Combustion Devices - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8802771002?gh_jid=8802771002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8802771002
+
+#### 🔄 Electronic Design Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928709002?gh_jid=8928709002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928709002
+
+#### 🔄 Electronics Technician (Falcon Test)
+**Greenhouse** · spacex · Texas - Falcon Test Technicians
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8733796002?gh_jid=8733796002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8733796002
+
+#### 🔄 Electronics Test Technician (Electromagnetic Effects)
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784105002?gh_jid=8784105002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784105002
+
+#### 🔄 Elevator Mechanic
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818417002?gh_jid=8818417002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818417002
+
+#### 🔄 Elevator Mechanic - Level 4/5
+**Greenhouse** · spacex · Production Facilities - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934425002?gh_jid=8934425002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934425002
+
+#### 🔄 Embedded Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719857002?gh_jid=8719857002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719857002
+
+#### 🔄 Embedded Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719863002?gh_jid=8719863002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719863002
+
+#### 🔄 Embedded Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719858002?gh_jid=8719858002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719858002
+
+#### 🔄 Embedded Software Engineer, Data Center Engineering (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871006002
+
+#### 🔄 Embedded Software Engineer, Laser Mesh Routing (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852118002?gh_jid=8852118002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852118002
+
+#### 🔄 Embedded Software Engineer, Laser Mesh Routing (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852117002?gh_jid=8852117002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852117002
+
+#### 🔄 Embedded Software Engineer, Laser Mesh Routing (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8849599002?gh_jid=8849599002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8849599002
+
+#### 🔄 Embedded Software Engineer, OS/Platform  (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8752935002?gh_jid=8752935002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8752935002
+
+#### 🔄 Embedded Software Engineer, Platform (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880385002?gh_jid=8880385002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880385002
+
+#### 🔄 Embedded Software Engineer, Satellite Antenna (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925605002
+
+#### 🔄 Embedded Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8706480002
+
+#### 🔄 Embedded Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8960569002?gh_jid=8960569002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8960569002
+
+#### 🔄 EMC/EMI Test Specialist (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735415002?gh_jid=8735415002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735415002
+
+#### 🔄 EMC/EMI Test Technician (2nd Shift)
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726284002?gh_jid=8726284002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726284002
+
+#### 🔄 Engineering Manager, Wastewater Treatment & Ultrapure Water (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694710002?gh_jid=8694710002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694710002
+
+#### 🔄 Engineering Technician (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938639002?gh_jid=8938639002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938639002
+
+#### 🔄 Enterprise Account Manager (Aviation)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8561581002?gh_jid=8561581002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8561581002
+
+#### 🔄 Entry-Level Production Technician, PCBA
+**Greenhouse** · spacex · Starlink Production - SMT
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657538002
+
+#### 🔄 Environmental Engineer
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949358002?gh_jid=8949358002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949358002
+
+#### 🔄 Environmental Engineer (AI Supercomputer)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639498002?gh_jid=8639498002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639498002
+
+#### 🔄 Environmental Engineer (Compliance)
+**Greenhouse** · spacex · EHS - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931171002?gh_jid=8931171002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931171002
+
+#### 🔄 Environmental Engineer, Compliance/ Air
+**Greenhouse** · spacex · EHS - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8853840002?gh_jid=8853840002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8853840002
+
+#### 🔄 Environmental Engineer, Compliance/Air Programs
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829347002?gh_jid=8829347002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829347002
+
+#### 🔄 Environmental Engineer, Compliance/Air Programs
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8702120002?gh_jid=8702120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8702120002
+
+#### 🔄 Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771538002?gh_jid=8771538002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771538002
+
+#### 🔄 Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933589002?gh_jid=8933589002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933589002
+
+#### 🔄 Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716875002?gh_jid=8716875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716875002
+
+#### 🔄 Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831624002?gh_jid=8831624002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831624002
+
+#### 🔄 Environmental Health & Safety Engineer (AI Supercomputer)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861009002?gh_jid=8861009002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861009002
+
+#### 🔄 Environmental Health & Safety Engineer (Civil)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8763932002?gh_jid=8763932002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8763932002
+
+#### 🔄 Environmental Health & Safety Engineer (Construction)
+**Greenhouse** · spacex · EHS - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8860889002?gh_jid=8860889002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8860889002
+
+#### 🔄 Environmental Health & Safety Engineer (Construction Safety)
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8779722002?gh_jid=8779722002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8779722002
+
+#### 🔄 Environmental Health & Safety Engineer, Construction (Starlink)
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8614340002?gh_jid=8614340002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8614340002
+
+#### 🔄 Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838073002?gh_jid=8838073002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838073002
+
+#### 🔄 Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838083002?gh_jid=8838083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838083002
+
+#### 🔄 Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838078002?gh_jid=8838078002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838078002
+
+#### 🔄 Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838032002?gh_jid=8838032002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838032002
+
+#### 🔄 Environmental Health & Safety Engineer (Satellites)
+**Greenhouse** · spacex · EHS - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932797002?gh_jid=8932797002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932797002
+
+#### 🔄 Environmental Health & Safety Engineer (Satellites)
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716124002?gh_jid=8716124002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716124002
+
+#### 🔄 Environmental Health & Safety Specialist
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8840793002?gh_jid=8840793002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8840793002
+
+#### 🔄 Environmental Health & Safety Specialist (AI Supercomputer)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652202002?gh_jid=8652202002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652202002
+
+#### 🔄 Environmental Health & Safety Specialist (Falcon/Dragon)
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627375002?gh_jid=8627375002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627375002
+
+#### 🔄 Environmental Health & Safety Specialist (Paramedic)
+**Greenhouse** · spacex · EHS - East Coast Recovery
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8773582002?gh_jid=8773582002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8773582002
+
+#### 🔄 Environmental Health & Safety Specialist (Paramedic)
+**Greenhouse** · spacex · EHS - West Coast Recovery
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8908926002?gh_jid=8908926002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8908926002
+
+#### 🔄 Environmental Health & Safety Specialist (Raptor/Starship)
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8875624002?gh_jid=8875624002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8875624002
+
+#### 🔄 Environmental Health & Safety Specialist (Satellites)
+**Greenhouse** · spacex · EHS - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573853002?gh_jid=8573853002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573853002
+
+#### 🔄 Environmental Health & Safety Specialist (Satellites)
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8755730002?gh_jid=8755730002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8755730002
+
+#### 🔄 Environmental Health & Safety Technician
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627488002?gh_jid=8627488002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627488002
+
+#### 🔄 Environmental Health & Safety Technician
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952349002?gh_jid=8952349002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952349002
+
+#### 🔄 Environmental Health & Safety Technician
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698363002?gh_jid=8698363002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698363002
+
+#### 🔄 Environmental Health & Safety Technician
+**Greenhouse** · spacex · EHS - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827034002?gh_jid=8827034002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827034002
+
+#### 🔄 Environmental Health & Safety Technician (AI Supercomputer)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652223002?gh_jid=8652223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652223002
+
+#### 🔄 Environmental Specialist
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8589035002?gh_jid=8589035002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8589035002
+
+#### 🔄 Environmental Specialist
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935845002?gh_jid=8935845002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935845002
+
+#### 🔄 Environmental Technician
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926102002?gh_jid=8926102002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926102002
+
+#### 🔄 Environmental Technician
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8908223002?gh_jid=8908223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8908223002
+
+#### 🔄 Environmental & Thermal Control Engineer (Dragon)
+**Greenhouse** · spacex · Dragon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904042002?gh_jid=8904042002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904042002
+
+#### 🔄 Equipment Engineering Manager - Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646660002?gh_jid=8646660002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646660002
+
+#### 🔄 Equipment Engineer, Solar Cell Metallization (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932277002?gh_jid=8932277002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932277002
+
+#### 🔄 Equipment Engineer, Wet Process (Solar Cells)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932274002?gh_jid=8932274002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932274002
+
+#### 🔄 Equipment Maintenance Technician
+**Greenhouse** · spacex · Ground Reliability - Asset Maintenance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8739460002?gh_jid=8739460002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8739460002
+
+#### 🔄 Equipment Maintenance Technician, Silicon Assembly (Starlink)
+**Greenhouse** · spacex · Starlink Production - Silicon Packaging
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8504224002?gh_jid=8504224002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8504224002
+
+#### 🔄 Equipment Maintenance Technician (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639487002?gh_jid=8639487002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639487002
+
+#### 🔄 Equipment Maintenance Technician (Starship)
+**Greenhouse** · spacex · Starship Production Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565657002?gh_jid=8565657002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565657002
+
+#### 🔄 Equipment Maintenance Technician (Starship) - Level 4/5
+**Greenhouse** · spacex · Starship Production Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565654002?gh_jid=8565654002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565654002
+
+#### 🔄 Equipment Operator (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8628397002?gh_jid=8628397002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8628397002
+
+#### 🔄 Equipment Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8546260002?gh_jid=8546260002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8546260002
+
+#### 🔄 Equipment Reliability Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8884186002?gh_jid=8884186002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8884186002
+
+#### 🔄 Equipment Reliability Engineer (Starship)
+**Greenhouse** · spacex · Starship Production Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8783271002?gh_jid=8783271002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8783271002
+
+#### 🔄 Events Lead
+**Greenhouse** · spacex · Events
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8884334002?gh_jid=8884334002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8884334002
+
+#### 🔄 Events Lead
+**Greenhouse** · spacex · Events
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929013002?gh_jid=8929013002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929013002
+
+#### 🔄 Executive Assistant
+**Greenhouse** · spacex · Supercompute Core
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937207002?gh_jid=8937207002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937207002
+
+#### 🔄 Executive IT Support Specialist
+**Greenhouse** · spacex · Information Technology - Services
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617198002?gh_jid=8617198002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617198002
+
+#### 🔄 Executive IT Support Specialist
+**Greenhouse** · spacex · Information Technology - Services
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8908024002?gh_jid=8908024002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8908024002
+
+#### 🔄 External Fleet Manager (Starbase)
+**Greenhouse** · spacex · Starship Fleet Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925699002?gh_jid=8925699002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925699002
+
+#### 🔄 Fabrication Technician
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924830002?gh_jid=8924830002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924830002
+
+#### 🔄 Fabrication Technician - 2nd Shift
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939739002?gh_jid=8939739002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939739002
+
+#### 🔄 Fabrication Technician - 2nd Shift
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8644982002?gh_jid=8644982002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8644982002
+
+#### 🔄 Fabrication Technician (Falcon Operations West) - 1st Shift
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886509002?gh_jid=8886509002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886509002
+
+#### 🔄 Fabrication Technician (Fluid Systems) - Multiple Shifts
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8756189002?gh_jid=8756189002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8756189002
+
+#### 🔄 Fabrication Technician (Panel Systems) - Multiple Shifts
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8779919002?gh_jid=8779919002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8779919002
+
+#### 🔄 Fabrication Technician (Panel Systems) - Multiple Shifts - Level 4/5
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805416002?gh_jid=8805416002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805416002
+
+#### 🔄 Facilities Electrical Engineer
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950263002?gh_jid=8950263002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950263002
+
+#### 🔄 Facilities Engineer, MEP
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8580838002?gh_jid=8580838002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8580838002
+
+#### 🔄 Facilities Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886427002?gh_jid=8886427002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886427002
+
+#### 🔄 Facilities Maintenance Technician, Solar Cells (Starlink) - Day Shift
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912970002?gh_jid=8912970002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912970002
+
+#### 🔄 Facilities Mechanical Specialist
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8756157002?gh_jid=8756157002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8756157002
+
+#### 🔄 Facilities Mechanical Specialist
+**Greenhouse** · spacex · Texas - Facilities
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927128002?gh_jid=8927128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927128002
+
+#### 🔄 Facilities Operations Engineer (Starlink)
+**Greenhouse** · spacex · Facilities - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635006002?gh_jid=8635006002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635006002
+
+#### 🔄 Facilities Specialist
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727564002?gh_jid=8727564002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727564002
+
+#### 🔄 Facilities Specialist, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895622002?gh_jid=8895622002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895622002
+
+#### 🔄 Facilities Technician
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8760867002?gh_jid=8760867002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8760867002
+
+#### 🔄 Facilities Technician
+**Greenhouse** · spacex · Texas - Facilities
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949810002?gh_jid=8949810002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949810002
+
+#### 🔄 Facilities Technician Level 4/5 - Temporary
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8878058002?gh_jid=8878058002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8878058002
+
+#### 🔄 Facilities Technician, Mechanical (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696942002?gh_jid=8696942002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696942002
+
+#### 🔄 Facilities Technician (Multiple Shifts) - Temporary
+**Greenhouse** · spacex · Facilities Infrastructure Ops - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940101002?gh_jid=8940101002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940101002
+
+#### 🔄 Facilities Technician (Starlink/Akoustis) - Day Shift
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8870690002?gh_jid=8870690002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8870690002
+
+#### 🔄 Facilities Technician (Starlink/Akoustis) - Night Shift
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8574251002?gh_jid=8574251002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8574251002
+
+#### 🔄 Facilities Technician - Temporary
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703599002?gh_jid=8703599002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703599002
+
+#### 🔄 Facilities Technician - Temporary
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8792136002?gh_jid=8792136002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8792136002
+
+#### 🔄 Factory Build Engineer (Starlink Production)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612903002?gh_jid=8612903002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612903002
+
+#### 🔄 Factory Engineer (Starlink Production)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612094002?gh_jid=8612094002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612094002
+
+#### 🔄 Factory Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8574053002?gh_jid=8574053002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8574053002
+
+#### 🔄 Fiber Supervisor
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932644002?gh_jid=8932644002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932644002
+
+#### 🔄 Fiber Supervisor
+**Greenhouse** · spacex · Information Technology - Business
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919697002?gh_jid=8919697002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919697002
+
+#### 🔄 Field Engineer (Gas/Steam Turbines)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904637002?gh_jid=8904637002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904637002
+
+#### 🔄 Field Operations Manager, Starlink
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920044002?gh_jid=8920044002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920044002
+
+#### 🔄 Finance Manager
+**Greenhouse** · spacex · Finance
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895420002?gh_jid=8895420002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895420002
+
+#### 🔄 Finance Manager
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8888860002?gh_jid=8888860002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8888860002
+
+#### 🔄 Financial Analyst
+**Greenhouse** · spacex · Finance
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918421002?gh_jid=8918421002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918421002
+
+#### 🔄 Financial Analyst
+**Greenhouse** · spacex · Finance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940627002?gh_jid=8940627002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940627002
+
+#### 🔄 Financial Analyst
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917583002?gh_jid=8917583002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917583002
+
+#### 🔄 Fire Protection Engineer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686319002?gh_jid=8686319002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686319002
+
+#### 🔄 Fire Protection Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731073002?gh_jid=8731073002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731073002
+
+#### 🔄 Fire Protection Engineer
+**Greenhouse** · spacex · Facilities Infrastructure Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958369002?gh_jid=8958369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958369002
+
+#### 🔄 Fire Protection Specialist (Facilities Infrastructure)
+**Greenhouse** · spacex · Facilities Infrastructure Ops - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901606002?gh_jid=8901606002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901606002
+
+#### 🔄 Fire Safety & Emergency Response Technician
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8908239002?gh_jid=8908239002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8908239002
+
+#### 🔄 Fleet Maintenance Technician
+**Greenhouse** · spacex · Facilities Infrastructure Ops - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910225002?gh_jid=8910225002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910225002
+
+#### 🔄 Fleet Maintenance Technician (Starship)
+**Greenhouse** · spacex · Starship Fleet Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565741002?gh_jid=8565741002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565741002
+
+#### 🔄 Fleet Maintenance Technician (Starship) - Level 4/5
+**Greenhouse** · spacex · Starship Fleet Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565743002?gh_jid=8565743002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565743002
+
+#### 🔄 Flight Reliability Engineer, System Safety (Starship)
+**Greenhouse** · spacex · Starship Flight Reliability
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961646002?gh_jid=8961646002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961646002
+
+#### 🔄 Flight Software Infrastructure Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692260002
+
+#### 🔄 Fluids Engineer (Starship)
+**Greenhouse** · spacex · Starship Production Fluids Systems
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563304002?gh_jid=8563304002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563304002
+
+#### 🔄 Fluid Systems Engineer, Production (Starship)
+**Greenhouse** · spacex · Ship Prop Systems Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906243002?gh_jid=8906243002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8906243002
+
+#### 🔄 Fluid Systems Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672670002?gh_jid=8672670002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672670002
+
+#### 🔄 Fluid Systems Engineer, Starlink Infrastructure
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926072002?gh_jid=8926072002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926072002
+
+#### 🔄 Food Service Attendant
+**Greenhouse** · spacex · Food Services - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8825676002?gh_jid=8825676002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8825676002
+
+#### 🔄 Food Service Specialist
+**Greenhouse** · spacex · Food Services - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876611002?gh_jid=8876611002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8876611002
+
+#### 🔄 Food Services Specialist - Restaurants
+**Greenhouse** · spacex · Food Services - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719800002?gh_jid=8719800002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719800002
+
+#### 🔄 Food Services Specialist - Stocking
+**Greenhouse** · spacex · Food Services - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8625551002?gh_jid=8625551002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8625551002
+
+#### 🔄 Food Services Specialist - Temporary
+**Greenhouse** · spacex · Food Services - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8802237002?gh_jid=8802237002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8802237002
+
+#### 🔄 Food Services Specialist - Temporary
+**Greenhouse** · spacex · Food Services - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584666002?gh_jid=8584666002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584666002
+
+#### 🔄 Food Services Specialist - Temporary (Starbase)
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901582002?gh_jid=8901582002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901582002
+
+#### 🔄 FPGA/ASIC Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858650002?gh_jid=8858650002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858650002
+
+#### 🔄 FPGA/ASIC Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858634002?gh_jid=8858634002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858634002
+
+#### 🔄 FPGA Engineer (Raptor)
+**Greenhouse** · spacex · Raptor Software - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8963020002?gh_jid=8963020002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8963020002
+
+#### 🔄 FPGA Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8868592002?gh_jid=8868592002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8868592002
+
+#### 🔄 Friction Stir Welding Technician (Falcon)
+**Greenhouse** · spacex · Tank Weldment
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8723290002?gh_jid=8723290002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8723290002
+
+#### 🔄 Fueling Facilities Technician (Starship)
+**Greenhouse** · spacex · Starship Fleet Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8826324002?gh_jid=8826324002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8826324002
+
+#### 🔄 Fulfillment Buyer
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950350002?gh_jid=8950350002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950350002
+
+#### 🔄 Fulfillment Buyer, Infrastructure (Supercomputer)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910445002?gh_jid=8910445002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910445002
+
+#### 🔄 Fulfillment Buyer (Starship)
+**Greenhouse** · spacex · Starship Indirect Purchasing
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8702782002?gh_jid=8702782002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8702782002
+
+#### 🔄 Fulfillment Buyer (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909594002?gh_jid=8909594002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909594002
+
+#### 🔄 Fulfillment Coordinator (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652425002?gh_jid=8652425002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652425002
+
+#### 🔄 Full-Stack Data Scientist, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782080002?gh_jid=8782080002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782080002
+
+#### 🔄 Full Stack Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675232002?gh_jid=8675232002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675232002
+
+#### 🔄 Full Stack Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701392002?gh_jid=8701392002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701392002
+
+#### 🔄 Full Stack Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8710146002?gh_jid=8710146002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8710146002
+
+#### 🔄 Full Stack Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681166002?gh_jid=8681166002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681166002
+
+#### 🔄 Full Stack Engineer, Employee Experience
+**Greenhouse** · spacex · Application Software
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8763492002?gh_jid=8763492002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8763492002
+
+#### 🔄 Full Stack Engineer, Flight Software
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769729002
+
+#### 🔄 Full Stack Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784864002?gh_jid=8784864002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784864002
+
+#### 🔄 Full Stack Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8837547002?gh_jid=8837547002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8837547002
+
+#### 🔄 Full Stack Software Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639573002?gh_jid=8639573002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639573002
+
+#### 🔄 Full Stack Software Engineer, Application Software - Memphis
+**Greenhouse** · spacex · Application Software
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8648213002
+
+#### 🔄 Full Stack Software Engineer (Build Reliability)
+**Greenhouse** · spacex · Process Development
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955898002?gh_jid=8955898002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955898002
+
+#### 🔄 Full Stack Software Engineer (Components)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8839057002
+
+#### 🔄 Full Stack Software Engineer, Data Platform (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8746439002
+
+#### 🔄 Full Stack Software Engineer, Data (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656465002
+
+#### 🔄 Full Stack Software Engineer, Developer Systems
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8763489002
+
+#### 🔄 Full Stack Software Engineer, Flight Software
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784863002
+
+#### 🔄 Full Stack Software Engineer, Internal Platforms
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934563002
+
+#### 🔄 Full Stack Software Engineer, Internal Platforms
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934566002?gh_jid=8934566002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934566002
+
+#### 🔄 Full Stack Software Engineer, Internal Systems
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8741940002
+
+#### 🔄 Full Stack Software Engineer, Internal Systems - Memphis
+**Greenhouse** · spacex · Application Software
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686286002
+
+#### 🔄 Full Stack Software Engineer, Launch Software
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8849598002?gh_jid=8849598002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8849598002
+
+#### 🔄 Full Stack Software Engineer, Launch Software
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893016002?gh_jid=8893016002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893016002
+
+#### 🔄 Full Stack Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703540002?gh_jid=8703540002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703540002
+
+#### 🔄 Full Stack Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8848609002?gh_jid=8848609002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8848609002
+
+#### 🔄 Full Stack Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934567002?gh_jid=8934567002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934567002
+
+#### 🔄 Full Stack Software Engineer, Operations Software (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8722645002?gh_jid=8722645002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8722645002
+
+#### 🔄 Full Stack Software Engineer, Platform
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859566002?gh_jid=8859566002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859566002
+
+#### 🔄 Full Stack Software Engineer - Simulation & Flight Systems
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731959002
+
+#### 🔄 Full Stack Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943586002
+
+#### 🔄 Full Stack Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8610872002
+
+#### 🔄 Gas & Chemical Technician, Solar Cells (Starlink) - Day Shift
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922466002?gh_jid=8922466002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922466002
+
+#### 🔄 Gateway Operations Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959486002?gh_jid=8959486002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959486002
+
+#### 🔄 Gateway Site Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Gateway Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8577167002?gh_jid=8577167002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8577167002
+
+#### 🔄 Global GTM Strategy Lead (Starlink)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957456002?gh_jid=8957456002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957456002
+
+#### 🔄 Global Logistics Lead (Dangerous Goods)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698647002?gh_jid=8698647002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698647002
+
+#### 🔄 Global Logistics Lead (Dangerous Goods)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698645002?gh_jid=8698645002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698645002
+
+#### 🔄 Global Logistics Lead (Dangerous Goods)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698646002?gh_jid=8698646002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698646002
+
+#### 🔄 Global Logistics Lead (Dangerous Goods)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698648002?gh_jid=8698648002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698648002
+
+#### 🔄 Global Logistics Lead (Starlink)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948744002?gh_jid=8948744002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948744002
+
+#### 🔄 Global Logistics Specialist, Carrier Management (Starlink)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854381002?gh_jid=8854381002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854381002
+
+#### 🔄 Global Logistics Specialist, Carrier Management (Starlink)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854382002?gh_jid=8854382002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854382002
+
+#### 🔄 Global Logistics Specialist, Carrier Management (Starlink)
+**Greenhouse** · spacex · Logistics - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854376002?gh_jid=8854376002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854376002
+
+#### 🔄 Global Operations Engineer (Product & Change Management)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642532002?gh_jid=8642532002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642532002
+
+#### 🔄 Global Operations Engineer (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8680030002?gh_jid=8680030002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8680030002
+
+#### 🔄 Global Operations Engineer (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687316002?gh_jid=8687316002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687316002
+
+#### 🔄 Global Operations Lead (Tax Technology)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8644743002?gh_jid=8644743002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8644743002
+
+#### 🔄 Global Supply Manager, Capital Equipment & Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8682682002?gh_jid=8682682002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8682682002
+
+#### 🔄 Global Supply Manager, Capital Equipment & Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895603002?gh_jid=8895603002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895603002
+
+#### 🔄 Global Supply Manager, Capital Equipment & Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766882002?gh_jid=8766882002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766882002
+
+#### 🔄 Global Supply Manager, Capital Equipment & Construction (Starship)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893593002?gh_jid=8893593002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893593002
+
+#### 🔄 Global Supply Manager, Capital Equipment (Terafab)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931129002?gh_jid=8931129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931129002
+
+#### 🔄 Global Supply Manager, Capital Equipment, Wastewater (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8877130002?gh_jid=8877130002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8877130002
+
+#### 🔄 Global Supply Manager (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948930002?gh_jid=8948930002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948930002
+
+#### 🔄 Global Supply Manager (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948896002?gh_jid=8948896002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948896002
+
+#### 🔄 Global Supply Manager, Contract Manufacturing (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8767389002?gh_jid=8767389002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8767389002
+
+#### 🔄 Global Supply Manager, Custom Silicon and Semiconductor (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939749002?gh_jid=8939749002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939749002
+
+#### 🔄 Global Supply Manager, Data Center Cooling Equipment
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952365002?gh_jid=8952365002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952365002
+
+#### 🔄 Global Supply Manager, Data Center Cooling Equipment
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8946924002?gh_jid=8946924002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8946924002
+
+#### 🔄 Global Supply Manager, Data Center Cooling Equipment
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Seattle, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952362002?gh_jid=8952362002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952362002
+
+#### 🔄 Global Supply Manager, Datacenter Cooling Equipment (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929081002?gh_jid=8929081002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929081002
+
+#### 🔄 Global Supply Manager (EPC)
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950905002?gh_jid=8950905002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950905002
+
+#### 🔄 Global Supply Manager (Falcon/Dragon/Starfall)
+**Greenhouse** · spacex · Falcon Mechs and Valves Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807656002?gh_jid=8807656002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807656002
+
+#### 🔄 Global Supply Manager, Fleet, Waste, and Facilities
+**Greenhouse** · spacex · Purchasing
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920541002?gh_jid=8920541002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920541002
+
+#### 🔄 Global Supply Manager, Ground Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink - Ground Infrastructure Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8604026002?gh_jid=8604026002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8604026002
+
+#### 🔄 Global Supply Manager, Harness (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880515002?gh_jid=8880515002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880515002
+
+#### 🔄 Global Supply Manager (Industrial Gases Sourcing & Logistics)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957521002?gh_jid=8957521002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957521002
+
+#### 🔄 Global Supply Manager, Infrastructure (Supercomputer)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8916227002?gh_jid=8916227002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8916227002
+
+#### 🔄 Global Supply Manager, Logistics
+**Greenhouse** · spacex · Purchasing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919875002?gh_jid=8919875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919875002
+
+#### 🔄 Global Supply Manager, Logistics
+**Greenhouse** · spacex · Purchasing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919850002?gh_jid=8919850002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919850002
+
+#### 🔄 Global Supply Manager, Mechanical (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766988002?gh_jid=8766988002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766988002
+
+#### 🔄 Global Supply Manager (Natural Gas Origination)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935861002?gh_jid=8935861002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935861002
+
+#### 🔄 Global Supply Manager (Natural Gas Origination)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935880002?gh_jid=8935880002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935880002
+
+#### 🔄 Global Supply Manager (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949128002?gh_jid=8949128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949128002
+
+#### 🔄 Global Supply Manager (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949120002?gh_jid=8949120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949120002
+
+#### 🔄 Global Supply Manager PCB/PCBA (Starship Electronics)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927553002?gh_jid=8927553002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927553002
+
+#### 🔄 Global Supply Manager (Power Generation)
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949379002?gh_jid=8949379002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949379002
+
+#### 🔄 Global Supply Manager (Raptor)
+**Greenhouse** · spacex · Raptor Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8659658002?gh_jid=8659658002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8659658002
+
+#### 🔄 Global Supply Manager, Raw Materials (Raptor)
+**Greenhouse** · spacex · Raptor Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8649185002?gh_jid=8649185002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8649185002
+
+#### 🔄 Global Supply Manager, Semiconductor Electronic Components (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8953720002?gh_jid=8953720002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8953720002
+
+#### 🔄 Global Supply Manager, Semiconductor Electronic Components (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8879223002?gh_jid=8879223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8879223002
+
+#### 🔄 Global Supply Manager, Software
+**Greenhouse** · spacex · Purchasing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893008002?gh_jid=8893008002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893008002
+
+#### 🔄 Global Supply Manager (SpaceXSI Power Generation)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8916019002?gh_jid=8916019002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8916019002
+
+#### 🔄 Global Supply Manager (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956929002?gh_jid=8956929002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956929002
+
+#### 🔄 Global Supply Manager (Starship Electronics)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927541002?gh_jid=8927541002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927541002
+
+#### 🔄 Global Supply Manager, Utilities & Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929760002?gh_jid=8929760002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929760002
+
+#### 🔄 GNC Engineer, ADCS (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8755408002?gh_jid=8755408002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8755408002
+
+#### 🔄 GNC Engineer, ADCS (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8749175002?gh_jid=8749175002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8749175002
+
+#### 🔄 GNC Engineer, Attitude Determination and Optical Navigation (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8722945002?gh_jid=8722945002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8722945002
+
+#### 🔄 GNC Engineer, Beam Planning (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564124002?gh_jid=8564124002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564124002
+
+#### 🔄 GNC Engineer, Collision Avoidance (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8923946002?gh_jid=8923946002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8923946002
+
+#### 🔄 GNC Engineer (Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933642002?gh_jid=8933642002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933642002
+
+#### 🔄 GNC Engineer - Embedded Controls, AI Satellites (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8677846002
+
+#### 🔄 GNC Engineer - Embedded Controls (Starlink)
+**Greenhouse** · spacex · Mesh Optical
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784235002?gh_jid=8784235002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784235002
+
+#### 🔄 GNC Engineer (Falcon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937245002?gh_jid=8937245002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937245002
+
+#### 🔄 GNC Engineer, Fleet Management (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564126002?gh_jid=8564126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564126002
+
+#### 🔄 GNC Engineer, Orbit Determination/Stargaze (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8751036002?gh_jid=8751036002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8751036002
+
+#### 🔄 GNC Engineer, Phased Array Devices (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8749195002?gh_jid=8749195002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8749195002
+
+#### 🔄 GNC Engineer, Satellite Power Systems (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950343002?gh_jid=8950343002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950343002
+
+#### 🔄 GNC Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8665541002?gh_jid=8665541002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8665541002
+
+#### 🔄 GNC Engineer, Starlink Controls (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8755423002?gh_jid=8755423002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8755423002
+
+#### 🔄 GNC Engineer (Starship)
+**Greenhouse** · spacex · Starship GNC
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947625002?gh_jid=8947625002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947625002
+
+#### 🔄 Government Affairs Director, X
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8707392002?gh_jid=8707392002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8707392002
+
+#### 🔄 Government Affairs Manager
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Remote - AZ | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935081002?gh_jid=8935081002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935081002
+
+#### 🔄 Government Affairs Manager (Super Intelligence)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940623002?gh_jid=8940623002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940623002
+
+#### 🔄 Government Program Development Manager (Federal Civil Agencies)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647718002?gh_jid=8647718002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647718002
+
+#### 🔄 Government Project Engineer
+**Greenhouse** · spacex · Falcon and Dragon Engineering & Product Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643863002?gh_jid=8643863002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643863002
+
+#### 🔄 Graphic Designer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570230002?gh_jid=8570230002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570230002
+
+#### 🔄 Ground Network Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Remote - WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8743269002?gh_jid=8743269002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8743269002
+
+#### 🔄 Ground Network Specialist (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933970002?gh_jid=8933970002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933970002
+
+#### 🔄 Ground Systems Engineer, Asset Engineering
+**Greenhouse** · spacex · Ground Reliability - Asset Maintenance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931372002?gh_jid=8931372002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931372002
+
+#### 🔄 GSOC Operator
+**Greenhouse** · spacex · Security - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935091002?gh_jid=8935091002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935091002
+
+#### 🔄 GSOC Operator (Night Shift)
+**Greenhouse** · spacex · Security - Corporate
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8960579002?gh_jid=8960579002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8960579002
+
+#### 🔄 Hardware Development Engineer, Failure Analysis (Gateway)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698331002?gh_jid=8698331002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698331002
+
+#### 🔄 Hardware Development Engineer, Gateway Failure Analysis (Starlink)
+**Greenhouse** · spacex · Starlink Gateway Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8730253002?gh_jid=8730253002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8730253002
+
+#### 🔄 Hardware Development Engineer- Microelectronics
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8613971002?gh_jid=8613971002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8613971002
+
+#### 🔄 Hardware Development Engineer, PCBA Manufacturing (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8755479002?gh_jid=8755479002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8755479002
+
+#### 🔄 Hardware Development Engineer, PCBA Manufacturing (STARLINK)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8702819002?gh_jid=8702819002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8702819002
+
+#### 🔄 Hardware Development Engineer, PCBA Manufacturing (STARLINK)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909193002?gh_jid=8909193002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909193002
+
+#### 🔄 Hardware Engineer, Gateways & Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700410002?gh_jid=8700410002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700410002
+
+#### 🔄 Hardware Reliability Engineer (Build Reliability)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856708002?gh_jid=8856708002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8856708002
+
+#### 🔄 Hardware Reliability Engineer, Components (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696659002?gh_jid=8696659002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696659002
+
+#### 🔄 Hardware Reliability Engineer, Electrical (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945251002?gh_jid=8945251002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945251002
+
+#### 🔄 Hardware Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956696002?gh_jid=8956696002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956696002
+
+#### 🔄 Hardware Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Reliability
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656524002?gh_jid=8656524002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656524002
+
+#### 🔄 Hardware Reliability Engineer (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Reliability
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731179002?gh_jid=8731179002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731179002
+
+#### 🔄 Hardware Reliability Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932696002?gh_jid=8932696002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932696002
+
+#### 🔄 Hardware Reliability Specialist (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Reliability
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805813002?gh_jid=8805813002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805813002
+
+#### 🔄 Hardware Reliability Technician, Microelectronics Test (Starlink)
+**Greenhouse** · spacex · Starlink Process Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701727002?gh_jid=8701727002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701727002
+
+#### 🔄 Hardware Reliability Technician (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932471002?gh_jid=8932471002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932471002
+
+#### 🔄 Hardware Test Automation Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945159002?gh_jid=8945159002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945159002
+
+#### 🔄 Hardware Test Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565090002?gh_jid=8565090002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565090002
+
+#### 🔄 Hardware Test Specialist, Failure Analysis (Gateway)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698311002?gh_jid=8698311002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698311002
+
+#### 🔄 Harness Design Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924817002?gh_jid=8924817002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924817002
+
+#### 🔄 Harness Design Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635886002?gh_jid=8635886002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635886002
+
+#### 🔄 Harness Engineering Specialist (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635913002?gh_jid=8635913002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635913002
+
+#### 🔄 Heavy Equipment Operator
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925952002?gh_jid=8925952002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925952002
+
+#### 🔄 High Performance Computing Systems Engineer (HPC)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942392002?gh_jid=8942392002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942392002
+
+#### 🔄 High-Speed Electro-Optical IC Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642065002?gh_jid=8642065002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642065002
+
+#### 🔄 High-Speed Electro-Optical IC Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8889891002?gh_jid=8889891002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8889891002
+
+#### 🔄 Hospitality Specialist (Starbase)
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927791002?gh_jid=8927791002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927791002
+
+#### 🔄 Hospitality Supervisor (Restaurants)
+**Greenhouse** · spacex · Food Services - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8908183002?gh_jid=8908183002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8908183002
+
+#### 🔄 HR Business Partner (Employee Relations)
+**Greenhouse** · spacex · Human Resources
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8581427002?gh_jid=8581427002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8581427002
+
+#### 🔄 HR Business Partner (Employee Relations)
+**Greenhouse** · spacex · Human Resources
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8790633002?gh_jid=8790633002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8790633002
+
+#### 🔄 HR Coordinator
+**Greenhouse** · spacex · Human Resources
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8779717002?gh_jid=8779717002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8779717002
+
+#### 🔄 HR Generalist
+**Greenhouse** · spacex · Human Resources
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943824002?gh_jid=8943824002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943824002
+
+#### 🔄 HR Generalist
+**Greenhouse** · spacex · Human Resources
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788674002?gh_jid=8788674002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788674002
+
+#### 🔄 HR Generalist
+**Greenhouse** · spacex · Human Resources
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943821002?gh_jid=8943821002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943821002
+
+#### 🔄 HRIS Compliance Analyst
+**Greenhouse** · spacex · Human Resources
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901124002?gh_jid=8901124002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901124002
+
+#### 🔄 HR Projects Manager
+**Greenhouse** · spacex · Human Resources
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857280002?gh_jid=8857280002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857280002
+
+#### 🔄 HR Projects Manager
+**Greenhouse** · spacex · Human Resources
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857194002?gh_jid=8857194002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857194002
+
+#### 🔄 Human Resources Coordinator (Employee Relations)
+**Greenhouse** · spacex · Human Resources
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924741002?gh_jid=8924741002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924741002
+
+#### 🔄 Human Resources Coordinator (Employee Relations)
+**Greenhouse** · spacex · Human Resources
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924743002?gh_jid=8924743002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924743002
+
+#### 🔄 Human Resources Coordinator (Employee Relations)
+**Greenhouse** · spacex · Human Resources
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657726002?gh_jid=8657726002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657726002
+
+#### 🔄 HVAC Controls Engineer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932850002?gh_jid=8932850002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932850002
+
+#### 🔄 HVAC Design Engineer (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919878002?gh_jid=8919878002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919878002
+
+#### 🔄 HVAC Programmer
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814662002?gh_jid=8814662002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814662002
+
+#### 🔄 HVAC Supervisor (Starship)
+**Greenhouse** · spacex · Production Facilities - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8614735002?gh_jid=8614735002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8614735002
+
+#### 🔄 HVAC Technician
+**Greenhouse** · spacex · Production Facilities - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934427002?gh_jid=8934427002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934427002
+
+#### 🔄 HVAC Technician
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815459002?gh_jid=8815459002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815459002
+
+#### 🔄 HVAC Technician - 2nd Shift
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605108002?gh_jid=8605108002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605108002
+
+#### 🔄 HVAC Technician (Facilities) - 1st Shift
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8765632002?gh_jid=8765632002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8765632002
+
+#### 🔄 HVAC Technician - Level 4/5 (Starlink)
+**Greenhouse** · spacex · Facilities - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8576014002?gh_jid=8576014002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8576014002
+
+#### 🔄 HVAC Technician (Night Shift) - Temporary
+**Greenhouse** · spacex · Facilities Infrastructure Ops - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8916040002?gh_jid=8916040002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8916040002
+
+#### 🔄 HVAC Technician, Solar Cells (Starlink) - Day Shift
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917850002?gh_jid=8917850002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917850002
+
+#### 🔄 HVAC Technician (Starlink) - Level 4/5
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696950002?gh_jid=8696950002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696950002
+
+#### 🔄 Industrial Controls Technician
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8546215002?gh_jid=8546215002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8546215002
+
+#### 🔄 Industrial Designer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570369002
+
+#### 🔄 Industrial Gases Technician
+**Greenhouse** · spacex · Test Engineering and Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8790208002?gh_jid=8790208002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8790208002
+
+#### 🔄 Industrial Hygienist
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573472002?gh_jid=8573472002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573472002
+
+#### 🔄 Industrial Paint Technician (Starship Launch Hardware)
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8879389002?gh_jid=8879389002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8879389002
+
+#### 🔄 Industrial Security Analyst (MDSO)
+**Greenhouse** · spacex · Government Security Programs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876676002?gh_jid=8876676002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8876676002
+
+#### 🔄 Infrastructure Engineer
+**Greenhouse** · spacex · Starlink Gateway Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8604308002?gh_jid=8604308002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8604308002
+
+#### 🔄 Infrastructure Engineer (Enterprise Products)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927289002?gh_jid=8927289002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927289002
+
+#### 🔄 Injection Molding Technician - 2nd Shift
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. IMM & Stamping
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8601649002?gh_jid=8601649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8601649002
+
+#### 🔄 Insider Risk Analyst
+**Greenhouse** · spacex · Investigations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886724002?gh_jid=8886724002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886724002
+
+#### 🔄 Insider Threat Analyst
+**Greenhouse** · spacex · Investigations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886723002?gh_jid=8886723002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886723002
+
+#### 🔄 Insider Threat Program Analyst
+**Greenhouse** · spacex · Investigations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886722002?gh_jid=8886722002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886722002
+
+#### 🔄 Instrumentation & Controls Technician
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918473002?gh_jid=8918473002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918473002
+
+#### 🔄 Instrumentation & Controls Technician
+**Greenhouse** · spacex · Texas - Development Test Technicians
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927548002?gh_jid=8927548002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927548002
+
+#### 🔄 Instrumentation & Controls Technician, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687256002?gh_jid=8687256002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687256002
+
+#### 🔄 Instrumentation & Controls Technician, Water Treatment (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656129002?gh_jid=8656129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656129002
+
+#### 🔄 Instrumentation Fitter - 2nd Shift
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939800002?gh_jid=8939800002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939800002
+
+#### 🔄 Integration Engineer, Heatshield (Starship)
+**Greenhouse** · spacex · Thermal Hardware Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931462002?gh_jid=8931462002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931462002
+
+#### 🔄 Integration Engineer (Starship)
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8576029002?gh_jid=8576029002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8576029002
+
+#### 🔄 Integration Engineer (Super Heavy Booster)
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8567325002?gh_jid=8567325002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8567325002
+
+#### 🔄 Integration Specialist (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945669002?gh_jid=8945669002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945669002
+
+#### 🔄 Integration Specialist (Starlink Aviation) - 2nd Shift
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937225002?gh_jid=8937225002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937225002
+
+#### 🔄 IntegrationTechnician (COPV)
+**Greenhouse** · spacex · Westminster COPV Production
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929009002?gh_jid=8929009002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929009002
+
+#### 🔄 Integration Technician (F9 Booster & Fairings) - Multiple Shifts
+**Greenhouse** · spacex · West Coast Recovery Technicians
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843148002?gh_jid=8843148002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843148002
+
+#### 🔄 Integration Technician (Fairings) - Multiple Shifts
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8946482002?gh_jid=8946482002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8946482002
+
+#### 🔄 Integration Technician (Falcon)
+**Greenhouse** · spacex · Stage 2 Integration
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8723296002?gh_jid=8723296002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8723296002
+
+#### 🔄 Integration Technician (Falcon Operations) - Multiple Shifts
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8946193002?gh_jid=8946193002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8946193002
+
+#### 🔄 Integration Technician, Mission Management
+**Greenhouse** · spacex · Gov't & Commercial Mission Management
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8783966002?gh_jid=8783966002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8783966002
+
+#### 🔄 Integration Technician (Payloads) - Multiple Shifts
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815286002?gh_jid=8815286002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815286002
+
+#### 🔄 Integration Technician (Starship)
+**Greenhouse** · spacex · Ship Final Integration
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8742514002?gh_jid=8742514002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8742514002
+
+#### 🔄 Integration Technician (Starship) - A&P
+**Greenhouse** · spacex · Ship Final Integration
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8892051002?gh_jid=8892051002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8892051002
+
+#### 🔄 Integration & Test Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727656002
+
+#### 🔄 Integration & Test Engineer (Bus & Payload Sub-Assemblies)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950289002?gh_jid=8950289002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950289002
+
+#### 🔄 Integration & Test Engineer (Fairings)
+**Greenhouse** · spacex · Falcon Integration West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609453002?gh_jid=8609453002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609453002
+
+#### 🔄 Integration & Test Engineer (Falcon)
+**Greenhouse** · spacex · Falcon Integration West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771149002
+
+#### 🔄 Integration & Test Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843919002?gh_jid=8843919002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843919002
+
+#### 🔄 Integration & Test Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945237002?gh_jid=8945237002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945237002
+
+#### 🔄 Integration & Test Engineer (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8629248002?gh_jid=8629248002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8629248002
+
+#### 🔄 Integration & Test Engineer (Starlink Propulsion)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945735002?gh_jid=8945735002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945735002
+
+#### 🔄 Integration & Test Engineer (Starship)
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8553658002?gh_jid=8553658002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8553658002
+
+#### 🔄 Integration & Test Specialist (Bus & Payload Sub-Assemblies) - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950317002?gh_jid=8950317002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950317002
+
+#### 🔄 Integration & Test Specialist (Starlink Propulsion) - 1st Shift
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703160002?gh_jid=8703160002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703160002
+
+#### 🔄 Integration & Test Specialist (Starlink Satellite Integration)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950337002?gh_jid=8950337002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950337002
+
+#### 🔄 Intelligence Analyst
+**Greenhouse** · spacex · Investigations
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856707002?gh_jid=8856707002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8856707002
+
+#### 🔄 Intelligence Analyst
+**Greenhouse** · spacex · Investigations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8853781002?gh_jid=8853781002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8853781002
+
+#### 🔄 Internal Communications Manager
+**Greenhouse** · spacex · Human Resources
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8779826002?gh_jid=8779826002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8779826002
+
+#### 🔄 Internal Communications Manager
+**Greenhouse** · spacex · Human Resources
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8779846002?gh_jid=8779846002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8779846002
+
+#### 🔄 Internal Fleet Driver
+**Greenhouse** · spacex · Materials Management - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893290002?gh_jid=8893290002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893290002
+
+#### 🔄 Internal Fleet Driver (Starship)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8801460002?gh_jid=8801460002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8801460002
+
+#### 🔄 International Infrastructure Operations Specialist (Starlink)
+**Greenhouse** · spacex · Starlink - Ground Infrastructure Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766913002?gh_jid=8766913002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766913002
+
+#### 🔄 Inventory Control Analyst, Maintenance (Starlink)
+**Greenhouse** · spacex · Starlink Materials Management - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643531002?gh_jid=8643531002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643531002
+
+#### 🔄 Inventory Control Clerk
+**Greenhouse** · spacex · Texas - Supply Chain
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8879784002?gh_jid=8879784002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8879784002
+
+#### 🔄 Inventory Control Clerk - 2nd Shift
+**Greenhouse** · spacex · Texas - Supply Chain
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623034002?gh_jid=8623034002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623034002
+
+#### 🔄 Inventory Specialist
+**Greenhouse** · spacex · Materials Management - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893331002?gh_jid=8893331002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893331002
+
+#### 🔄 Inventory Specialist (COPVS)
+**Greenhouse** · spacex · Westminster COPV Production
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8860129002?gh_jid=8860129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8860129002
+
+#### 🔄 Inventory Specialist, Maintenance (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Maint.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696983002?gh_jid=8696983002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696983002
+
+#### 🔄 Inventory Specialist - Multiple Shifts
+**Greenhouse** · spacex · Materials Management - Hawthorne Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943143002?gh_jid=8943143002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943143002
+
+#### 🔄 Inventory Specialist (Raptor) - 1st Shift
+**Greenhouse** · spacex · Raptor Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686223002?gh_jid=8686223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686223002
+
+#### 🔄 Inventory Specialist (Starlink)
+**Greenhouse** · spacex · Materials Management - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8885633002?gh_jid=8885633002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8885633002
+
+#### 🔄 Inventory Specialist (Starlink)
+**Greenhouse** · spacex · Materials Management - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886084002?gh_jid=8886084002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886084002
+
+#### 🔄 Inventory Specialist (Starlink) - Weekend Shift
+**Greenhouse** · spacex · Materials Management - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692214002?gh_jid=8692214002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692214002
+
+#### 🔄 Inventory Specialist (Starship)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939982002?gh_jid=8939982002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939982002
+
+#### 🔄 Investigations Analyst
+**Greenhouse** · spacex · Investigations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846741002?gh_jid=8846741002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846741002
+
+#### 🔄 Ironworker
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925825002?gh_jid=8925825002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925825002
+
+#### 🔄 IT Infrastructure Engineer, Virtualization & Storage
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8875925002?gh_jid=8875925002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8875925002
+
+#### 🔄 IT Licensing Technician
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788062002?gh_jid=8788062002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788062002
+
+#### 🔄 IT Linux Systems Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930419002?gh_jid=8930419002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930419002
+
+#### 🔄 IT Network Administrator
+**Greenhouse** · spacex · Security Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924408002?gh_jid=8924408002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924408002
+
+#### 🔄 IT Network Administrator
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859658002?gh_jid=8859658002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859658002
+
+#### 🔄 IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859573002?gh_jid=8859573002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859573002
+
+#### 🔄 IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924393002?gh_jid=8924393002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924393002
+
+#### 🔄 IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922064002?gh_jid=8922064002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922064002
+
+#### 🔄 IT Network Engineer (OT)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859652002?gh_jid=8859652002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859652002
+
+#### 🔄 IT Network Infrastructure Engineer, Launch
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933928002?gh_jid=8933928002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933928002
+
+#### 🔄 IT Network Infrastructure Engineer, Outside Plant
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815068002?gh_jid=8815068002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815068002
+
+#### 🔄 IT Network Infrastructure Engineer, Outside Plant
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932628002?gh_jid=8932628002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932628002
+
+#### 🔄 IT Network Infrastructure Engineer, Outside Plant
+**Greenhouse** · spacex · Information Technology - Business
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8869044002?gh_jid=8869044002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8869044002
+
+#### 🔄 IT Network Infrastructure Specialist
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8751830002?gh_jid=8751830002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8751830002
+
+#### 🔄 IT Network Infrastructure Specialist
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948810002?gh_jid=8948810002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948810002
+
+#### 🔄 IT Network Infrastructure Technician
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827863002?gh_jid=8827863002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827863002
+
+#### 🔄 IT Network Infrastructure Technician
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959118002?gh_jid=8959118002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959118002
+
+#### 🔄 IT Network Infrastructure Technician
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918407002?gh_jid=8918407002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918407002
+
+#### 🔄 IT Network Infrastructure Technician
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935402002?gh_jid=8935402002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935402002
+
+#### 🔄 IT Network Infrastructure Technician (Night Shift)
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920839002?gh_jid=8920839002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920839002
+
+#### 🔄 IT NOC Technician
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925803002?gh_jid=8925803002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925803002
+
+#### 🔄 IT Operations Engineer
+**Greenhouse** · spacex · Information Technology - Business
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8684618002?gh_jid=8684618002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8684618002
+
+#### 🔄 IT Security Engineer - Top Secret Clearance
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784792002?gh_jid=8784792002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784792002
+
+#### 🔄 IT Storage Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927701002?gh_jid=8927701002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927701002
+
+#### 🔄 IT Storage Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687953002?gh_jid=8687953002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687953002
+
+#### 🔄 IT Support Technician
+**Greenhouse** · spacex · Information Technology - Services
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942665002?gh_jid=8942665002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942665002
+
+#### 🔄 IT Support Technician
+**Greenhouse** · spacex · Information Technology - Services
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924774002?gh_jid=8924774002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924774002
+
+#### 🔄 IT Support Technician (Help Desk)
+**Greenhouse** · spacex · Information Technology - Services
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957538002?gh_jid=8957538002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957538002
+
+#### 🔄 IT Support Technician (Logistics)
+**Greenhouse** · spacex · Information Technology - Services
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959533002?gh_jid=8959533002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959533002
+
+#### 🔄 IT Systems Administrator, Launch
+**Greenhouse** · spacex · Information Technology - Business
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945925002?gh_jid=8945925002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945925002
+
+#### 🔄 IT Systems Administrator, Launch
+**Greenhouse** · spacex · Information Technology - Business
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698618002?gh_jid=8698618002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698618002
+
+#### 🔄 IT Systems Administrator, Manufacturing
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815130002?gh_jid=8815130002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815130002
+
+#### 🔄 IT Systems Administrator, Test Operations (2nd Shift)
+**Greenhouse** · spacex · Information Technology - Business
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854361002?gh_jid=8854361002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854361002
+
+#### 🔄 IT Systems Administrator (Top Secret Clearance)
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932865002?gh_jid=8932865002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932865002
+
+#### 🔄 IT Systems Engineer, Propellant Generation & Industrial Systems
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815160002?gh_jid=8815160002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815160002
+
+#### 🔄 IT Systems Engineer, Requirements and Interfaces - Mission Systems
+**Greenhouse** · spacex · Information Technology - Business
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948601002?gh_jid=8948601002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948601002
+
+#### 🔄 IT Windows System Engineer - Top Secret Clearance
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8877633002?gh_jid=8877633002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8877633002
+
+#### 🔄 IT Windows Systems Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924702002?gh_jid=8924702002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924702002
+
+#### 🔄 IT Windows Systems Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924734002?gh_jid=8924734002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924734002
+
+#### 🔄 IT Windows Systems Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927740002?gh_jid=8927740002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927740002
+
+#### 🔄 IT Wireless Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859575002?gh_jid=8859575002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859575002
+
+#### 🔄 IT Wireless Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924320002?gh_jid=8924320002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924320002
+
+#### 🔄 Journeyman Electrician (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696995002?gh_jid=8696995002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696995002
+
+#### 🔄 Jr. Sous Chef
+**Greenhouse** · spacex · Food Services - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8875741002?gh_jid=8875741002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8875741002
+
+#### 🔄 Jr. Sous Chef (Sushi)
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8903153002?gh_jid=8903153002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8903153002
+
+#### 🔄 Jr. Sous Chef - Temporary
+**Greenhouse** · spacex · Food Services - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8631545002?gh_jid=8631545002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8631545002
+
+#### 🔄 Jr. Sous Chef - Temporary
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627591002?gh_jid=8627591002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627591002
+
+#### 🔄 Kiln Technician, Thermal Hardware (Starship)
+**Greenhouse** · spacex · Thermal Hardware Production
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571876002?gh_jid=8571876002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571876002
+
+#### 🔄 Kubernetes Platform Infrastructure Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573281002?gh_jid=8573281002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573281002
+
+#### 🔄 Laser Tracker Toolmaker (Starship)
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827461002?gh_jid=8827461002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827461002
+
+#### 🔄 Laser Tracker Toolmaker (Starship Launch Hardware)
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766934002?gh_jid=8766934002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766934002
+
+#### 🔄 Laser Tracker Toolmaker (Starship Launch Hardware)
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917517002?gh_jid=8917517002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917517002
+
+#### 🔄 Laser Tracker Toolmaker (Starship) - Night Shift
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929573002?gh_jid=8929573002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929573002
+
+#### 🔄 Launch Engineer, Control & Flight Operations (Falcon Launch Ops)
+**Greenhouse** · spacex · Falcon Launch Ops
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922688002?gh_jid=8922688002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922688002
+
+#### 🔄 Launch Engineer, Dragon
+**Greenhouse** · spacex · Dragon Integration
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8723922002?gh_jid=8723922002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8723922002
+
+#### 🔄 Launch Engineer, Falcon Engineering
+**Greenhouse** · spacex · Falcon Integration West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624730002?gh_jid=8624730002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624730002
+
+#### 🔄 Launch Engineer, Fluid Systems (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935948002?gh_jid=8935948002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935948002
+
+#### 🔄 Launch Engineer, Ground Support Equipment (Falcon)
+**Greenhouse** · spacex · Falcon Integration West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675103002?gh_jid=8675103002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675103002
+
+#### 🔄 Launch Engineer, Spacecraft Integration (Payloads)
+**Greenhouse** · spacex · Falcon Integration West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8622779002?gh_jid=8622779002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8622779002
+
+#### 🔄 Launch Operations Engineer (Starship)
+**Greenhouse** · spacex · Starship Launch and Test Ops Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907760002?gh_jid=8907760002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907760002
+
+#### 🔄 Launch Operations Engineer (Starship)
+**Greenhouse** · spacex · Starship Launch and Test Ops Engineering
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8810833002?gh_jid=8810833002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8810833002
+
+#### 🔄 Launch Pad Engineer, Fluid Systems
+**Greenhouse** · spacex · Cape - Pad Engineering
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912649002?gh_jid=8912649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912649002
+
+#### 🔄 Launch Pad Engineer, Fluid Systems (Falcon 9)
+**Greenhouse** · spacex · Vandenberg - Pad Engineering
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924273002?gh_jid=8924273002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924273002
+
+#### 🔄 Launch Pad Technician (Fabrication)
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827362002?gh_jid=8827362002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827362002
+
+#### 🔄 Launch Pad Technician (Starship)
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8903119002?gh_jid=8903119002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8903119002
+
+#### 🔄 Launch Pad Technician (Starship) - Multiple Shifts
+**Greenhouse** · spacex · Starship Pad Technicians - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8601388002?gh_jid=8601388002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8601388002
+
+#### 🔄 Launch Reliability Engineer
+**Greenhouse** · spacex · Launch Reliability - West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8785548002?gh_jid=8785548002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8785548002
+
+#### 🔄 Launch Reliability Engineer (Starship)
+**Greenhouse** · spacex · Launch Reliability - East
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8953433002?gh_jid=8953433002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8953433002
+
+#### 🔄 Launch & Test Engineer, Fluids (Starship)
+**Greenhouse** · spacex · Starship Pad Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842822002?gh_jid=8842822002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842822002
+
+#### 🔄 Lead Avionics Integration & Test Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818984002?gh_jid=8818984002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818984002
+
+#### 🔄 Lead Avionics Test Engineer (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788215002?gh_jid=8788215002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788215002
+
+#### 🔄 Lead Development Test Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831263002?gh_jid=8831263002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831263002
+
+#### 🔄 Lead Development Test Technician (Starship Structural Test) - 1st Shift
+**Greenhouse** · spacex · Starship Structural Test - Techs
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8746215002?gh_jid=8746215002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8746215002
+
+#### 🔄 Lead Electrical Engineer, Hardware Reliability (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945275002?gh_jid=8945275002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945275002
+
+#### 🔄 Lead Electrical Hardware Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932765002?gh_jid=8932765002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932765002
+
+#### 🔄 Lead Electrical Hardware Reliability Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945271002?gh_jid=8945271002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945271002
+
+#### 🔄 Lead Electrical Test Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831286002?gh_jid=8831286002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831286002
+
+#### 🔄 Lead Environmental Health & Safety Engineer, Construction Safety
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8685361002?gh_jid=8685361002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8685361002
+
+#### 🔄 Lead Facilities Maintenance Technician, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8954360002?gh_jid=8954360002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8954360002
+
+#### 🔄 Lead, Fulfillment Purchasing
+**Greenhouse** · spacex · Purchasing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957044002?gh_jid=8957044002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957044002
+
+#### 🔄 Lead Full Stack Engineer, Starship Manufacturing (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641549002?gh_jid=8641549002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641549002
+
+#### 🔄 Lead Hardware Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8722642002?gh_jid=8722642002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8722642002
+
+#### 🔄 Lead Hardware Reliability Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909941002?gh_jid=8909941002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909941002
+
+#### 🔄 Lead Integration & Test Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653850002?gh_jid=8653850002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653850002
+
+#### 🔄 Lead Inventory Specialist (Starship) - Multiple Shifts
+**Greenhouse** · spacex · Materials Management - Starship - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928959002?gh_jid=8928959002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928959002
+
+#### 🔄 Lead IT Network Infrastructure Technician (Night Shift)
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952948002?gh_jid=8952948002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952948002
+
+#### 🔄 Lead Maintenance Technician, Silicon Packaging (Starlink)
+**Greenhouse** · spacex · Starlink Production - Silicon Packaging
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945065002?gh_jid=8945065002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945065002
+
+#### 🔄 Lead Manufacturing Engineer, Mesh Optical (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8923484002?gh_jid=8923484002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8923484002
+
+#### 🔄 Lead Manufacturing Engineer (Starlink PCBA)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8722917002?gh_jid=8722917002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8722917002
+
+#### 🔄 Lead Mechanical Engineer, MEP
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653471002?gh_jid=8653471002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653471002
+
+#### 🔄 Lead Mechanical Engineer (Starship)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627660002?gh_jid=8627660002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627660002
+
+#### 🔄 Lead Mechanical Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8523847002?gh_jid=8523847002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8523847002
+
+#### 🔄 Lead MEP Design Engineer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933529002?gh_jid=8933529002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933529002
+
+#### 🔄 Lead Network Infrastructure Technician
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918523002?gh_jid=8918523002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918523002
+
+#### 🔄 Lead Operations Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904640002?gh_jid=8904640002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904640002
+
+#### 🔄 Lead Operations Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904642002?gh_jid=8904642002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904642002
+
+#### 🔄 Lead Operations Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904641002?gh_jid=8904641002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904641002
+
+#### 🔄 Lead Operations Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904638002?gh_jid=8904638002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904638002
+
+#### 🔄 Lead Operations Engineer, Data Center Facilities (SpaceXSI)
+**Greenhouse** · spacex · Physical Infra
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950833002?gh_jid=8950833002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950833002
+
+#### 🔄 Lead Operations Engineer, Global (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949032002?gh_jid=8949032002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949032002
+
+#### 🔄 Lead PCB Designer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940602002?gh_jid=8940602002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940602002
+
+#### 🔄 Lead Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895049002?gh_jid=8895049002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895049002
+
+#### 🔄 Lead Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Memphis
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8873306002?gh_jid=8873306002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8873306002
+
+#### 🔄 Lead Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Corporate
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876618002?gh_jid=8876618002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8876618002
+
+#### 🔄 Lead Physical Security Hardware Specialist (Central Texas)
+**Greenhouse** · spacex · Security - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943809002?gh_jid=8943809002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943809002
+
+#### 🔄 Lead Physical Security Hardware Specialist (East Coast & International)
+**Greenhouse** · spacex · Security - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943369002?gh_jid=8943369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943369002
+
+#### 🔄 Lead Power Systems Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8648919002?gh_jid=8648919002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8648919002
+
+#### 🔄 Lead Production Control Scheduler
+**Greenhouse** · spacex · Precision Tube Fabrication Eng & Scheduling
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861237002?gh_jid=8861237002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861237002
+
+#### 🔄 Lead Production Technician, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8883356002?gh_jid=8883356002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8883356002
+
+#### 🔄 Lead Receiving Specialist - 2nd Shift
+**Greenhouse** · spacex · Materials Management - Hawthorne Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956768002?gh_jid=8956768002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956768002
+
+#### 🔄 Lead Security Officer
+**Greenhouse** · spacex · Security - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8889168002?gh_jid=8889168002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8889168002
+
+#### 🔄 Lead Security Officer
+**Greenhouse** · spacex · Security - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8622984002?gh_jid=8622984002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8622984002
+
+#### 🔄 Lead Security Officer
+**Greenhouse** · spacex · Security - Palo Alto
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8649378002?gh_jid=8649378002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8649378002
+
+#### 🔄 Lead Security Officer - Memphis
+**Greenhouse** · spacex · Security - Memphis
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627069002?gh_jid=8627069002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627069002
+
+#### 🔄 Lead Software Engineer, Application Software (Manufacturing)
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612703002?gh_jid=8612703002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612703002
+
+#### 🔄 Lead Software Engineer, Application Software (Procurement)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907619002?gh_jid=8907619002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907619002
+
+#### 🔄 Lead Software Engineer, Components Test (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827702002?gh_jid=8827702002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827702002
+
+#### 🔄 Lead Software Engineer (Full Stack) - Build Reliability
+**Greenhouse** · spacex · Process Development
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8555708002?gh_jid=8555708002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8555708002
+
+#### 🔄 Lead Software Engineer (Full Stack) - Build Reliability
+**Greenhouse** · spacex · Process Development
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955900002?gh_jid=8955900002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955900002
+
+#### 🔄 Lead Software Engineer, Starship Manufacturing (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8651026002?gh_jid=8651026002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8651026002
+
+#### 🔄 Lead Structural Engineer (MEP Design)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927481002?gh_jid=8927481002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927481002
+
+#### 🔄 Lead Structural Welder - Night Shift
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8800760002?gh_jid=8800760002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8800760002
+
+#### 🔄 Lead Supplier Development Engineer (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956570002?gh_jid=8956570002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956570002
+
+#### 🔄 Lead Supplier Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8589950002?gh_jid=8589950002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8589950002
+
+#### 🔄 Lead Supplier Quality Specialist (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956590002?gh_jid=8956590002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956590002
+
+#### 🔄 Lead Supply Chain Planner, Memphis Operations
+**Greenhouse** · spacex · Starlink - Supply Chain Planning
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950921002?gh_jid=8950921002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950921002
+
+#### 🔄 Lead Video & Voice Systems Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909451002?gh_jid=8909451002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909451002
+
+#### 🔄 Lead Welder, Pipe (Starship Launch Fabrication)
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929515002?gh_jid=8929515002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929515002
+
+#### 🔄 Lead Welder, Pipe (Starship Launch Fabrication) - 2nd Shift
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929560002?gh_jid=8929560002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929560002
+
+#### 🔄 Lead Welder (Starship Launch Hardware) - Multiple Shifts
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8755734002?gh_jid=8755734002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8755734002
+
+#### 🔄 Learning Guide
+**Greenhouse** · spacex · Boca Chica Ad Astra School Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859695002?gh_jid=8859695002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859695002
+
+#### 🔄 LNG Pipeline Engineer (Starship)
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933294002?gh_jid=8933294002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933294002
+
+#### 🔄 Loads and Dynamics Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917595002?gh_jid=8917595002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917595002
+
+#### 🔄 Loads & Dynamics Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696568002?gh_jid=8696568002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696568002
+
+#### 🔄 Loads & Dynamics Engineer (Starshield)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933985002?gh_jid=8933985002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933985002
+
+#### 🔄 Logistician (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8820871002?gh_jid=8820871002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8820871002
+
+#### 🔄 Logistics Technician
+**Greenhouse** · spacex · Texas - Supply Chain
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624109002?gh_jid=8624109002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624109002
+
+#### 🔄 Machine Maintenance Engineer, Tool & Die
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829632002?gh_jid=8829632002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829632002
+
+#### 🔄 Machine Maintenance Supervisor (Starlink) - Multiple Shifts
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly & Packout
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8659214002?gh_jid=8659214002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8659214002
+
+#### 🔄 Machine Maintenance Technician
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8628432002?gh_jid=8628432002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8628432002
+
+#### 🔄 Machine Maintenance Technician (CNC) - Level 4/5
+**Greenhouse** · spacex · Ground Reliability - Asset Maintenance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8739399002?gh_jid=8739399002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8739399002
+
+#### 🔄 Machine Maintenance Technician, PCB (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8614571002?gh_jid=8614571002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8614571002
+
+#### 🔄 Machine Maintenance Technician (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Maint.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697040002?gh_jid=8697040002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697040002
+
+#### 🔄 Machine Operator (COPV)
+**Greenhouse** · spacex · Westminster COPV Production
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931357002?gh_jid=8931357002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931357002
+
+#### 🔄 Machine Operator (Falcon)
+**Greenhouse** · spacex · Tank Weldment
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912983002?gh_jid=8912983002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912983002
+
+#### 🔄 Machining Technician (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8622997002?gh_jid=8622997002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8622997002
+
+#### 🔄 Machining Technician (Starlink) - Entry Level
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700616002?gh_jid=8700616002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700616002
+
+#### 🔄 Machinist
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8820685002?gh_jid=8820685002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8820685002
+
+#### 🔄 Machinist
+**Greenhouse** · spacex · Vandenberg Fabrication Engineering
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8651057002?gh_jid=8651057002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8651057002
+
+#### 🔄 Machinist - Level 4
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8820660002?gh_jid=8820660002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8820660002
+
+#### 🔄 Machinist (Starlink Development) 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957584002?gh_jid=8957584002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957584002
+
+#### 🔄 Maintenance Engineer, High Pressure Die Casting (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697058002?gh_jid=8697058002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697058002
+
+#### 🔄 Maintenance Engineering Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907587002?gh_jid=8907587002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907587002
+
+#### 🔄 Maintenance Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943580002?gh_jid=8943580002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943580002
+
+#### 🔄 Maintenance & Reliability Engineer
+**Greenhouse** · spacex · Ground Reliability - Asset Maintenance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950837002?gh_jid=8950837002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950837002
+
+#### 🔄 Maintenance Supervisor (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569287002?gh_jid=8569287002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569287002
+
+#### 🔄 Maintenance Supervisor (Starlink) - Night Shift
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569294002?gh_jid=8569294002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569294002
+
+#### 🔄 Maintenance Technician
+**Greenhouse** · spacex · Texas - Flight Hardware Logistics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8736999002?gh_jid=8736999002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8736999002
+
+#### 🔄 Maintenance Technician
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8615844002?gh_jid=8615844002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8615844002
+
+#### 🔄 Maintenance Technician - Level 4/5
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8875460002?gh_jid=8875460002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8875460002
+
+#### 🔄 Maintenance Technician (Starlink) - Level 4/5
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8628379002?gh_jid=8628379002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8628379002
+
+#### 🔄 Manager, Accounting
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950585002?gh_jid=8950585002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950585002
+
+#### 🔄 Manager, Automation & Controls Engineering (Power Generation & Utilities)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642058002?gh_jid=8642058002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642058002
+
+#### 🔄 Manager, Benefits
+**Greenhouse** · spacex · Total Rewards
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731940002?gh_jid=8731940002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731940002
+
+#### 🔄 Manager, Critical Lift (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8722562002?gh_jid=8722562002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8722562002
+
+#### 🔄 Manager, Environmental Health & Safety
+**Greenhouse** · spacex · EHS - Starbase
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940343002?gh_jid=8940343002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940343002
+
+#### 🔄 Manager, Environmental Health & Safety
+**Greenhouse** · spacex · EHS - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8837996002?gh_jid=8837996002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8837996002
+
+#### 🔄 Manager, Environmental Health & Safety - Memphis
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594433002?gh_jid=8594433002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594433002
+
+#### 🔄 Manager, Facilities Operations (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8634692002?gh_jid=8634692002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8634692002
+
+#### 🔄 Manager, Facilities (Starbase)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907632002?gh_jid=8907632002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907632002
+
+#### 🔄 Manager, Graphic Design
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950204002?gh_jid=8950204002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950204002
+
+#### 🔄 Manager, Indirect Tax
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617345002?gh_jid=8617345002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617345002
+
+#### 🔄 Manager, IT Infrastructure (Storage, Compute, & Virtualization)
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8787749002?gh_jid=8787749002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8787749002
+
+#### 🔄 Manager, Machine Maintenance - Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632240002?gh_jid=8632240002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632240002
+
+#### 🔄 Manager, Maintenance Operations (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Maint.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8600812002?gh_jid=8600812002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8600812002
+
+#### 🔄 Manager, Material Flow Engineering (Hawthorne)
+**Greenhouse** · spacex · Materials Management - Hawthorne Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8578128002?gh_jid=8578128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8578128002
+
+#### 🔄 Manager, Materials Management (Starship)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932812002?gh_jid=8932812002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932812002
+
+#### 🔄 Manager, Materials Management (Starship)
+**Greenhouse** · spacex · Materials Management - Hawthorne Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643976002?gh_jid=8643976002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643976002
+
+#### 🔄 Manager, Mechanical Engineering (Infrastructure)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8946415002?gh_jid=8946415002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8946415002
+
+#### 🔄 Manager, Mechanical Engineering (Starship Avionics)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8531644002?gh_jid=8531644002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8531644002
+
+#### 🔄 Manager, MEP Engineering
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895444002?gh_jid=8895444002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895444002
+
+#### 🔄 Manager, Power Generation
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827657002?gh_jid=8827657002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827657002
+
+#### 🔄 Manager, Production (Precision Tube Fabrication)
+**Greenhouse** · spacex · Precision Tube Fabrication
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857462002?gh_jid=8857462002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857462002
+
+#### 🔄 Manager, Semiconductor Sourcing (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8923594002?gh_jid=8923594002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8923594002
+
+#### 🔄 Manager, Semiconductor Sourcing (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8923523002?gh_jid=8923523002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8923523002
+
+#### 🔄 Manager, Site Civil Engineering
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895070002?gh_jid=8895070002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895070002
+
+#### 🔄 Manager, Software Engineering, Finance (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8885762002?gh_jid=8885762002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8885762002
+
+#### 🔄 Manager, Software Engineering, People (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8885791002?gh_jid=8885791002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8885791002
+
+#### 🔄 Manager, Starlink Customer Success (Americas)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864929002?gh_jid=8864929002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864929002
+
+#### 🔄 Manager, Starlink Customer Success (Americas)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864948002?gh_jid=8864948002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864948002
+
+#### 🔄 Manager, Starlink Customer Success (Americas)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864946002?gh_jid=8864946002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864946002
+
+#### 🔄 Manager, Starlink Customer Success (Asia-Pacific & Oceania)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864987002?gh_jid=8864987002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864987002
+
+#### 🔄 Manager, Starlink Customer Success (Asia-Pacific & Oceania)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864983002?gh_jid=8864983002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864983002
+
+#### 🔄 Manager, Starlink Customer Success (Asia-Pacific & Oceania)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864990002?gh_jid=8864990002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864990002
+
+#### 🔄 Manager, Starlink Customer Success (Europe, Middle East & Africa)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864979002?gh_jid=8864979002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864979002
+
+#### 🔄 Manager, Starlink Customer Success (Europe, Middle East & Africa)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864980002?gh_jid=8864980002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864980002
+
+#### 🔄 Manager, Starlink Customer Success (Europe, Middle East & Africa)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864966002?gh_jid=8864966002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864966002
+
+#### 🔄 Manager, Starlink Engineering (Starlink PCBA SMT)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8820982002?gh_jid=8820982002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8820982002
+
+#### 🔄 Manager, Starlink Enterprise Sales
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716323002?gh_jid=8716323002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716323002
+
+#### 🔄 Manager, Starlink Enterprise Sales
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Remote - IL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8746325002?gh_jid=8746325002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8746325002
+
+#### 🔄 Manager, Starlink Enterprise Sales
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8746323002?gh_jid=8746323002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8746323002
+
+#### 🔄 Manager, Starlink Enterprise Sales
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8746321002?gh_jid=8746321002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8746321002
+
+#### 🔄 Manager, Starlink Enterprise Sales
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8746320002?gh_jid=8746320002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8746320002
+
+#### 🔄 Manager, Starlink Manufacturing Engineering
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925993002?gh_jid=8925993002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925993002
+
+#### 🔄 Manager, Starshield Supply Chain
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901133002?gh_jid=8901133002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901133002
+
+#### 🔄 Manager, Starship Build
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8555720002?gh_jid=8555720002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8555720002
+
+#### 🔄 Manager, Starship Indirect Supply Chain
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605169002?gh_jid=8605169002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605169002
+
+#### 🔄 Manager, Supercompute Operations
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945284002?gh_jid=8945284002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945284002
+
+#### 🔄 Manager, Supplier Development Engineering
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933992002?gh_jid=8933992002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933992002
+
+#### 🔄 Manager, Supplier Development Engineering (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928945002?gh_jid=8928945002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928945002
+
+#### 🔄 Manager, Supply Chain (Balance of Plant Sourcing)
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948492002?gh_jid=8948492002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948492002
+
+#### 🔄 Manager, Supply Chain (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948866002?gh_jid=8948866002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948866002
+
+#### 🔄 Manager, Supply Chain (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948824002?gh_jid=8948824002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948824002
+
+#### 🔄 Manager, Supply Chain (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952148002?gh_jid=8952148002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952148002
+
+#### 🔄 Manager, Supply Chain - Datacenter Compute Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929152002?gh_jid=8929152002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929152002
+
+#### 🔄 Manager, Supply Chain - Datacenter Compute Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929156002?gh_jid=8929156002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929156002
+
+#### 🔄 Manager, Supply Chain (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950942002?gh_jid=8950942002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950942002
+
+#### 🔄 Manager, Supply Chain (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952123002?gh_jid=8952123002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952123002
+
+#### 🔄 Manager, Supply Chain (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949091002?gh_jid=8949091002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949091002
+
+#### 🔄 Manager, Supply Chain - New Supercomputer Deployment
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Remote, United States | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952112002?gh_jid=8952112002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952112002
+
+#### 🔄 Manager, Supply Chain (Starship)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893698002?gh_jid=8893698002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893698002
+
+#### 🔄 Manager, Supply Chain (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920890002?gh_jid=8920890002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920890002
+
+#### 🔄 Manager, Technical Training
+**Greenhouse** · spacex · Technical Training and Compliance
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8821302002?gh_jid=8821302002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8821302002
+
+#### 🔄 Manager, Vehicle Engineer (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8894654002?gh_jid=8894654002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8894654002
+
+#### 🔄 Manufacturing Automation Engineer, Chamber and Nozzle (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8817807002?gh_jid=8817807002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8817807002
+
+#### 🔄 Manufacturing Automation Engineer, Solar (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917526002?gh_jid=8917526002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917526002
+
+#### 🔄 Manufacturing Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697063002?gh_jid=8697063002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697063002
+
+#### 🔄 Manufacturing Engineer, Blades and Vanes
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8770229002?gh_jid=8770229002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8770229002
+
+#### 🔄 Manufacturing Engineer, Chamber and Nozzle (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8803023002?gh_jid=8803023002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8803023002
+
+#### 🔄 Manufacturing Engineer, Components Test
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8884017002?gh_jid=8884017002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8884017002
+
+#### 🔄 Manufacturing Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8601813002?gh_jid=8601813002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8601813002
+
+#### 🔄 Manufacturing Engineering Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V5 Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886499002?gh_jid=8886499002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886499002
+
+#### 🔄 Manufacturing Engineer, Injection Molding (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858665002?gh_jid=8858665002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858665002
+
+#### 🔄 Manufacturing Engineer, Inspection (Starship Machining)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8849297002?gh_jid=8849297002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8849297002
+
+#### 🔄 Manufacturing Engineer, Machine Shop (Starship)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623357002?gh_jid=8623357002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623357002
+
+#### 🔄 Manufacturing Engineer (Machining)
+**Greenhouse** · spacex · Machining - Central Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8742759002?gh_jid=8742759002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8742759002
+
+#### 🔄 Manufacturing Engineer, Machining (Starship)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939418002?gh_jid=8939418002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939418002
+
+#### 🔄 Manufacturing Engineer, Optical Fiber (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943354002?gh_jid=8943354002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943354002
+
+#### 🔄 Manufacturing Engineer, PCBA, Computer Engineering (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944674002?gh_jid=8944674002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944674002
+
+#### 🔄 Manufacturing Engineer, PCBA (Starlink)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950229002?gh_jid=8950229002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950229002
+
+#### 🔄 Manufacturing Engineer, PCBA (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758461002?gh_jid=8758461002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758461002
+
+#### 🔄 Manufacturing Engineer, PCBA (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815104002?gh_jid=8815104002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815104002
+
+#### 🔄 Manufacturing Engineer (Raptor Combustion Devices Machining)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927499002?gh_jid=8927499002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927499002
+
+#### 🔄 Manufacturing Engineer (Raptor Final Assembly & Tube Shop)
+**Greenhouse** · spacex · Raptor Final Assembly - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896018002?gh_jid=8896018002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896018002
+
+#### 🔄 Manufacturing Engineer, Raptor Turbomachinery
+**Greenhouse** · spacex · Raptor Turbomachinery - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748535002?gh_jid=8748535002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748535002
+
+#### 🔄 Manufacturing Engineer (Raptor Turbomachinery Machining)
+**Greenhouse** · spacex · Raptor Turbomachinery - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876413002?gh_jid=8876413002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8876413002
+
+#### 🔄 Manufacturing Engineer (Raptor Valves Machining)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8679026002?gh_jid=8679026002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8679026002
+
+#### 🔄 Manufacturing Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919834002?gh_jid=8919834002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919834002
+
+#### 🔄 Manufacturing Engineer, Solar (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8678343002?gh_jid=8678343002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8678343002
+
+#### 🔄 Manufacturing Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8755455002?gh_jid=8755455002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8755455002
+
+#### 🔄 Manufacturing Engineer (Starlink)  - 2nd Shift
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919236002?gh_jid=8919236002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919236002
+
+#### 🔄 Manufacturing Engineer (Starlink Development)
+**Greenhouse** · spacex · Starlink Engineering Bastrop - Dev Ops
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934049002?gh_jid=8934049002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934049002
+
+#### 🔄 Manufacturing Engineer (Starship Components Operations)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939815002?gh_jid=8939815002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939815002
+
+#### 🔄 Manufacturing Engineer (Starship Machining Operations)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8848875002?gh_jid=8848875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8848875002
+
+#### 🔄 Manufacturing Engineer - Supplier Development, Optics & Optomechanical Systems (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827682002?gh_jid=8827682002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827682002
+
+#### 🔄 Manufacturing Engineer - Supplier Development (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8753263002?gh_jid=8753263002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8753263002
+
+#### 🔄 Manufacturing Engineer - Supplier Development (Starlink Gateway)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8597930002?gh_jid=8597930002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8597930002
+
+#### 🔄 Manufacturing Engineer, Supply Chain (Starship)
+**Greenhouse** · spacex · Starbase Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8767419002?gh_jid=8767419002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8767419002
+
+#### 🔄 Manufacturing Engineer, Tool & Die Machining
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831656002?gh_jid=8831656002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831656002
+
+#### 🔄 Manufacturing Engineer, Tool & Die Machining - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8574353002?gh_jid=8574353002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8574353002
+
+#### 🔄 Manufacturing Integration Engineer (Starship)
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584156002?gh_jid=8584156002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584156002
+
+#### 🔄 Manufacturing Specialist - 2nd Shift
+**Greenhouse** · spacex · Starlink Production - SMT
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942962002?gh_jid=8942962002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942962002
+
+#### 🔄 Manufacturing Specialist (Optical Production) - Both Shifts
+**Greenhouse** · spacex · Starlink Satellite Optics Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931181002?gh_jid=8931181002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931181002
+
+#### 🔄 Manufacturing Specialist, PCBA (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917862002?gh_jid=8917862002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917862002
+
+#### 🔄 Manufacturing Specialist (Satellite Transceiver) - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8583058002?gh_jid=8583058002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8583058002
+
+#### 🔄 Manufacturing Specialist, Silicon Assembly (Starlink)
+**Greenhouse** · spacex · Starlink Production - Silicon Packaging
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929444002?gh_jid=8929444002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929444002
+
+#### 🔄 Manufacturing Specialist, Solar (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945166002?gh_jid=8945166002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945166002
+
+#### 🔄 Manufacturing Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V5 Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886523002?gh_jid=8886523002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886523002
+
+#### 🔄 Manufacturing Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V5 Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886035002?gh_jid=8886035002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886035002
+
+#### 🔄 Manufacturing Specialist (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8600120002?gh_jid=8600120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8600120002
+
+#### 🔄 Manufacturing Technician
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701771002?gh_jid=8701771002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701771002
+
+#### 🔄 Market Analysis Lead (Starlink)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694468002?gh_jid=8694468002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694468002
+
+#### 🔄 Master Electrician
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784933002?gh_jid=8784933002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784933002
+
+#### 🔄 Master Scheduler - Top Secret Clearance
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959511002?gh_jid=8959511002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959511002
+
+#### 🔄 Material Flow Analyst (Starship)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876661002?gh_jid=8876661002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8876661002
+
+#### 🔄 Material Flow Engineer
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807509002?gh_jid=8807509002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807509002
+
+#### 🔄 Material Flow Engineer
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784757002?gh_jid=8784757002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784757002
+
+#### 🔄 Material Flow Engineer (Raptor Operations Engineering)
+**Greenhouse** · spacex · Raptor Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827933002?gh_jid=8827933002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827933002
+
+#### 🔄 Material Flow Technician - 1st Shift
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924768002?gh_jid=8924768002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924768002
+
+#### 🔄 Material Flow Technician (Starship)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896042002?gh_jid=8896042002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896042002
+
+#### 🔄 Material Handler (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8868876002?gh_jid=8868876002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8868876002
+
+#### 🔄 Material Preparation Technician - 2nd Shift
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956440002?gh_jid=8956440002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956440002
+
+#### 🔄 Materials Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8645074002?gh_jid=8645074002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8645074002
+
+#### 🔄 Materials Engineer, Metals Joining (Starmind)
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944799002?gh_jid=8944799002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944799002
+
+#### 🔄 Materials Engineer, Metals (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8795738002?gh_jid=8795738002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8795738002
+
+#### 🔄 Materials Engineer, Metals (Starship)
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935623002?gh_jid=8935623002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935623002
+
+#### 🔄 Materials Engineer, Metals (Starship)
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8572162002?gh_jid=8572162002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8572162002
+
+#### 🔄 Materials Engineer, Polymer Development
+**Greenhouse** · spacex · Materials Engineering - Development Application
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727431002?gh_jid=8727431002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727431002
+
+#### 🔄 Materials Engineer, Polymers (Dragon)
+**Greenhouse** · spacex · Materials Engineering - Falcon/Dragon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886404002?gh_jid=8886404002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886404002
+
+#### 🔄 Materials Engineer, Solar Cell Characterization
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8753733002?gh_jid=8753733002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8753733002
+
+#### 🔄 Materials Engineer (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675226002?gh_jid=8675226002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675226002
+
+#### 🔄 Materials Engineer, Thin Films
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8839590002?gh_jid=8839590002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8839590002
+
+#### 🔄 Materials R&D Technician, Silicon Crystal Growth
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8637606002?gh_jid=8637606002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8637606002
+
+#### 🔄 Materials R&D Technician, Silicon Wafer Engineering
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8795529002?gh_jid=8795529002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8795529002
+
+#### 🔄 Materials R&D Technician, Solar Cell Characterization
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8753709002?gh_jid=8753709002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8753709002
+
+#### 🔄 Materials R&D Technician (Starship)
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827848002?gh_jid=8827848002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827848002
+
+#### 🔄 Materials Technician, Glue Factory (Starship) - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Development Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949355002?gh_jid=8949355002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949355002
+
+#### 🔄 Material Transfer Driver - 2nd Shift
+**Greenhouse** · spacex · Materials Management - Hawthorne Falcon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8607174002?gh_jid=8607174002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8607174002
+
+#### 🔄 Material Transfer Driver - Weekend Shift
+**Greenhouse** · spacex · Materials Management - Hawthorne Falcon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901356002?gh_jid=8901356002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901356002
+
+#### 🔄 Mechanical Design Engineer, Consumer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948563002?gh_jid=8948563002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948563002
+
+#### 🔄 Mechanical Design Engineer (Falcon)
+**Greenhouse** · spacex · Falcon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681151002?gh_jid=8681151002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681151002
+
+#### 🔄 Mechanical Design Engineer, Gateways (Starlink)
+**Greenhouse** · spacex · Starlink Gateway Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947952002?gh_jid=8947952002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947952002
+
+#### 🔄 Mechanical Design Engineer, Payloads (Falcon)
+**Greenhouse** · spacex · Falcon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950291002?gh_jid=8950291002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950291002
+
+#### 🔄 Mechanical Design Engineer, PCB (STARLINK)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8602985002?gh_jid=8602985002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8602985002
+
+#### 🔄 Mechanical Design Engineer, Production (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652488002?gh_jid=8652488002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652488002
+
+#### 🔄 Mechanical Design Engineer (Raptor Engine Systems)
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920445002?gh_jid=8920445002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920445002
+
+#### 🔄 Mechanical Design Engineer (Starfall)
+**Greenhouse** · spacex · Starfall Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8626590002?gh_jid=8626590002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8626590002
+
+#### 🔄 Mechanical Design Engineer (Starship Components)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952403002?gh_jid=8952403002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952403002
+
+#### 🔄 Mechanical Design Engineer, Starship Material Flow (Starbase)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924330002?gh_jid=8924330002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924330002
+
+#### 🔄 Mechanical Designer, Automation & Controls (Starship Launch Pad)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8767266002?gh_jid=8767266002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8767266002
+
+#### 🔄 Mechanical Development Test Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697586002?gh_jid=8697586002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697586002
+
+#### 🔄 Mechanical Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8648969002?gh_jid=8648969002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8648969002
+
+#### 🔄 Mechanical Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642529002?gh_jid=8642529002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642529002
+
+#### 🔄 Mechanical Engineer, Aviation Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Aviation Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735363002?gh_jid=8735363002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735363002
+
+#### 🔄 Mechanical Engineer, Aviation Integration (Starlink)
+**Greenhouse** · spacex · Starlink Aviation Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8737666002?gh_jid=8737666002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8737666002
+
+#### 🔄 Mechanical Engineer - Battery Pack, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716210002?gh_jid=8716210002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716210002
+
+#### 🔄 Mechanical Engineer, Cabin Structures (Crew Starship)
+**Greenhouse** · spacex · Crew Starship
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716953002?gh_jid=8716953002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716953002
+
+#### 🔄 Mechanical Engineer (Data Center MEP Systems)
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623383002?gh_jid=8623383002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623383002
+
+#### 🔄 Mechanical Engineer (Dragon)
+**Greenhouse** · spacex · Dragon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8649465002?gh_jid=8649465002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8649465002
+
+#### 🔄 Mechanical Engineer, Electro-Mechanical (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920975002?gh_jid=8920975002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920975002
+
+#### 🔄 Mechanical Engineer (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910221002?gh_jid=8910221002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910221002
+
+#### 🔄 Mechanical Engineer, Flight Termination System (Starship)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8604710002?gh_jid=8604710002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8604710002
+
+#### 🔄 Mechanical Engineer (Gas/Steam Turbines)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623145002?gh_jid=8623145002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623145002
+
+#### 🔄 Mechanical Engineer, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932795002?gh_jid=8932795002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932795002
+
+#### 🔄 Mechanical Engineer, Heatshield (Starship)
+**Greenhouse** · spacex · Thermal Hardware Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8603366002?gh_jid=8603366002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8603366002
+
+#### 🔄 Mechanical Engineer, HVAC (Facilities)
+**Greenhouse** · spacex · Facilities Infrastructure Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893292002?gh_jid=8893292002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893292002
+
+#### 🔄 Mechanical Engineering Manager, Fluids Systems
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949448002?gh_jid=8949448002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949448002
+
+#### 🔄 Mechanical Engineer, Insource Manufacturing (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931157002?gh_jid=8931157002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931157002
+
+#### 🔄 Mechanical Engineer, Launch Mount/Tower (Starship)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935935002?gh_jid=8935935002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935935002
+
+#### 🔄 Mechanical Engineer, Machine Design (Starship)
+**Greenhouse** · spacex · Starship Tooling Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8559200002?gh_jid=8559200002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8559200002
+
+#### 🔄 Mechanical Engineer, Mechanisms (Crew Starship)
+**Greenhouse** · spacex · Crew Starship
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692371002?gh_jid=8692371002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692371002
+
+#### 🔄 Mechanical Engineer, Non-Destructive Evaluation
+**Greenhouse** · spacex · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949422002?gh_jid=8949422002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949422002
+
+#### 🔄 Mechanical Engineer, Operations (Starship)
+**Greenhouse** · spacex · Booster Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8885852002?gh_jid=8885852002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8885852002
+
+#### 🔄 Mechanical Engineer - Optical, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8747961002?gh_jid=8747961002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8747961002
+
+#### 🔄 Mechanical Engineer, Optical & Space Lasers Manufacturing (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594150002?gh_jid=8594150002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594150002
+
+#### 🔄 Mechanical Engineer, Precision Machining (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929257002?gh_jid=8929257002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929257002
+
+#### 🔄 Mechanical Engineer, Printer Design & Manufacturing (Raptor)
+**Greenhouse** · spacex · Raptor Tooling and Automation Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8607193002?gh_jid=8607193002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8607193002
+
+#### 🔄 Mechanical  Engineer, Production Operations (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931455002?gh_jid=8931455002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931455002
+
+#### 🔄 Mechanical Engineer, Satellite Harnessing (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924813002?gh_jid=8924813002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924813002
+
+#### 🔄 Mechanical Engineer - Satellite Payload (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924826002?gh_jid=8924826002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924826002
+
+#### 🔄 Mechanical Engineer - Satellite Solar Array (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692296002?gh_jid=8692296002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692296002
+
+#### 🔄 Mechanical Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924800002?gh_jid=8924800002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924800002
+
+#### 🔄 Mechanical Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672706002?gh_jid=8672706002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672706002
+
+#### 🔄 Mechanical Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8900388002?gh_jid=8900388002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8900388002
+
+#### 🔄 Mechanical Engineer (Starship)
+**Greenhouse** · spacex · Booster Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8626648002?gh_jid=8626648002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8626648002
+
+#### 🔄 Mechanical Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727087002?gh_jid=8727087002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727087002
+
+#### 🔄 Mechanical Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728568002?gh_jid=8728568002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728568002
+
+#### 🔄 Mechanical Engineer (Starship Components Manufacturing)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8661010002?gh_jid=8661010002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8661010002
+
+#### 🔄 Mechanical Engineer, Starship Launch Hardware
+**Greenhouse** · spacex · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782441002?gh_jid=8782441002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782441002
+
+#### 🔄 Mechanical Engineer, Starship Tooling
+**Greenhouse** · spacex · Starship Tooling Engineering
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920387002?gh_jid=8920387002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920387002
+
+#### 🔄 Mechanical Engineer (Structures), Starship Infrastructure
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617175002?gh_jid=8617175002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617175002
+
+#### 🔄 Mechanical Engineer - Tooling/Controls, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8732313002?gh_jid=8732313002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8732313002
+
+#### 🔄 Mechanical Engineer, Tower & Launch Mount (Starship)
+**Greenhouse** · spacex · Starship Pad Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8869115002?gh_jid=8869115002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8869115002
+
+#### 🔄 Mechanical Facilities Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831357002?gh_jid=8831357002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831357002
+
+#### 🔄 Mechanical Hardware Test Engineer - Failure Analysis (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8867581002?gh_jid=8867581002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8867581002
+
+#### 🔄 Mechanical Integration and Test Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8628799002?gh_jid=8628799002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8628799002
+
+#### 🔄 Mechanical Integration & Test Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8780331002?gh_jid=8780331002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8780331002
+
+#### 🔄 Mechanical Integration & Test Engineer, User Products (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8884556002?gh_jid=8884556002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8884556002
+
+#### 🔄 Mechanical Process Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943622002?gh_jid=8943622002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943622002
+
+#### 🔄 Mechanical Specialist, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8560034002?gh_jid=8560034002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8560034002
+
+#### 🔄 Mechanical Technician
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935718002?gh_jid=8935718002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935718002
+
+#### 🔄 Mechanical Technician (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8604948002?gh_jid=8604948002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8604948002
+
+#### 🔄 Mechanical Technician, Facilities (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8853299002?gh_jid=8853299002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8853299002
+
+#### 🔄 Mechanisms Engineer (Starship)
+**Greenhouse** · spacex · Starship Mechanisms Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569011002?gh_jid=8569011002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569011002
+
+#### 🔄 MEP/Construction Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720155002?gh_jid=8720155002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720155002
+
+#### 🔄 MEP Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647904002?gh_jid=8647904002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647904002
+
+#### 🔄 Metal Spinning Technician, COPV (Falcon)
+**Greenhouse** · spacex · Formed Structures
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926171002?gh_jid=8926171002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926171002
+
+#### 🔄 Meteorologist (Launch Operations)
+**Greenhouse** · spacex · Falcon Launch Ops
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907598002?gh_jid=8907598002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907598002
+
+#### 🔄 Microelectronics Process Engineer (Optical Products)
+**Greenhouse** · spacex · Starlink Satellite Optics Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893521002?gh_jid=8893521002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893521002
+
+#### 🔄 Millwright (Gas/Steam Turbines)
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805414002?gh_jid=8805414002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805414002
+
+#### 🔄 Millwright (Launch Hardware) - Day Shift
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766973002?gh_jid=8766973002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766973002
+
+#### 🔄 Millwright (Launch Hardware) - Night Shift
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928313002?gh_jid=8928313002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928313002
+
+#### 🔄 Mission Integration Engineer, AI (Starshield) - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569184002?gh_jid=8569184002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569184002
+
+#### 🔄 Mission Integration Engineer, Mission and Ground Systems (Starshield)
+**Greenhouse** · spacex · Starshield Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886347002?gh_jid=8886347002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886347002
+
+#### 🔄 Mission Integration Engineer, Mission and Ground Systems - Top Secret Clearance
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8908846002?gh_jid=8908846002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8908846002
+
+#### 🔄 Mission Integration Engineer (Security Products) - Top Secret Clearance
+**Greenhouse** · spacex · Starshield Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8780622002?gh_jid=8780622002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8780622002
+
+#### 🔄 Mission Integration Engineer, SI (Starshield) - Secret Clearance
+**Greenhouse** · spacex · Starshield SI Missions
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949424002?gh_jid=8949424002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949424002
+
+#### 🔄 Mission Integration Engineer, Special Programs
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8783846002?gh_jid=8783846002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8783846002
+
+#### 🔄 Mission Integration Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771734002?gh_jid=8771734002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771734002
+
+#### 🔄 Mission Manager (Starshield)
+**Greenhouse** · spacex · Starshield Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882101002?gh_jid=8882101002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882101002
+
+#### 🔄 Mixologist
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8684276002?gh_jid=8684276002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8684276002
+
+#### 🔄 Motion Graphics Producer
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942070002?gh_jid=8942070002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942070002
+
+#### 🔄 NDE Inspector, Certified Welding Inspector (CWI)
+**Greenhouse** · spacex · Starship NDE - Launch
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8557560002?gh_jid=8557560002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8557560002
+
+#### 🔄 NDE Inspector (Starship)
+**Greenhouse** · spacex · Starship NDE - Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565363002?gh_jid=8565363002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565363002
+
+#### 🔄 NDE Inspector (Starship) - Digital Radiography
+**Greenhouse** · spacex · Starship NDE - Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8628661002?gh_jid=8628661002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8628661002
+
+#### 🔄 NDE Inspector (Starship) - Phased Array
+**Greenhouse** · spacex · Starship NDE - Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8628664002?gh_jid=8628664002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8628664002
+
+#### 🔄 NDE Inspector Trainee (Starship) - Temporary
+**Greenhouse** · spacex · Starship NDE - Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731136002?gh_jid=8731136002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731136002
+
+#### 🔄 NDE Level II Inspector, Certified Welding Inspector (Starship Mechanisms) - 1st Shift
+**Greenhouse** · spacex · Starship Mechanisms Technicians
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594822002?gh_jid=8594822002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594822002
+
+#### 🔄 NDE Level II Inspector - Multiple Shifts
+**Greenhouse** · spacex · NonDestructive Evaluation - Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748892002?gh_jid=8748892002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748892002
+
+#### 🔄 NDE Level II Inspector (Starship Mechanisms)
+**Greenhouse** · spacex · Starship Mechanisms Technicians
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594811002?gh_jid=8594811002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594811002
+
+#### 🔄 NDE Level II Inspector (Starship Mechanisms) - Split Shift
+**Greenhouse** · spacex · Starship Mechanisms Technicians
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594825002?gh_jid=8594825002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594825002
+
+#### 🔄 Network Connectivity Engineer, Fiber Optic Layout (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932728002?gh_jid=8932728002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932728002
+
+#### 🔄 Network Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808182002?gh_jid=8808182002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808182002
+
+#### 🔄 Network Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808150002?gh_jid=8808150002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808150002
+
+#### 🔄 Network Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808184002?gh_jid=8808184002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808184002
+
+#### 🔄 Network Engineer (Enterprise Product Development)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943806002?gh_jid=8943806002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943806002
+
+#### 🔄 Network Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784089002?gh_jid=8784089002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784089002
+
+#### 🔄 Network Engineer (Starlink Community Gateway)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927070002?gh_jid=8927070002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927070002
+
+#### 🔄 Network Engineer (Starlink Maritime)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927107002?gh_jid=8927107002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927107002
+
+#### 🔄 Network Operations Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571363002?gh_jid=8571363002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571363002
+
+#### 🔄 Network Security Administrator
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959583002?gh_jid=8959583002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959583002
+
+#### 🔄 Network Security Administrator
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959579002?gh_jid=8959579002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959579002
+
+#### 🔄 Network Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959589002?gh_jid=8959589002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959589002
+
+#### 🔄 Network Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959563002?gh_jid=8959563002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959563002
+
+#### 🔄 Network Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893736002?gh_jid=8893736002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893736002
+
+#### 🔄 New Graduate Engineer, Aerospace Software (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939697002
+
+#### 🔄 New Graduate Engineer, Civil/Structural (Starship)
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731991002
+
+#### 🔄 New Graduate Engineer, Electrical - '26/'27 (Starlink)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696469002
+
+#### 🔄 New Graduate Engineer, Electrical - '26/'27 (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696490002
+
+#### 🔄 New Graduate Engineer, Electrical - Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931507002?gh_jid=8931507002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931507002
+
+#### 🔄 New Graduate Engineer, Electrical (Starfall)
+**Greenhouse** · spacex · Special Programs Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957873002
+
+#### 🔄 New Graduate Engineer, Electrical (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8900641002
+
+#### 🔄 New Graduate Engineer, Electrical (Starship)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8729124002
+
+#### 🔄 New Graduate Engineer, GNC- '26/'27 (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696105002
+
+#### 🔄 New Graduate Engineer, Infrastructure
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893406002
+
+#### 🔄 New Graduate Engineer, Launch & Test (Starship)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8578087002
+
+#### 🔄 New Graduate Engineer, Manufacturing (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8752547002
+
+#### 🔄 New Graduate Engineer, Manufacturing (Starship)
+**Greenhouse** · spacex · Booster Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8729120002
+
+#### 🔄 New Graduate Engineer, Mechanical
+**Greenhouse** · spacex · Texas - Test Equipment Engineers
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933711002
+
+#### 🔄 New Graduate Engineer, Mechanical - '26/'27 (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696986002
+
+#### 🔄 New Graduate Engineer, Mechanical - '26/'27 (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930094002?gh_jid=8930094002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930094002
+
+#### 🔄 New Graduate Engineer, Mechanical (Cape Canaveral)
+**Greenhouse** · spacex · Launch
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8622574002
+
+#### 🔄 New Graduate Engineer, Mechanical Design (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766964002
+
+#### 🔄 New Graduate Engineer, Mechanical - Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931509002?gh_jid=8931509002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931509002
+
+#### 🔄 New Graduate Engineer, Mechanical (Starship)
+**Greenhouse** · spacex · Booster Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8729117002
+
+#### 🔄 New Graduate Engineer, Power Generation (Starship)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8803009002
+
+#### 🔄 New Graduate Engineer, Propulsion (Raptor)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957363002
+
+#### 🔄 New Graduate Engineer, Propulsion (Starship)
+**Greenhouse** · spacex · Ship Prop Systems Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8729085002
+
+#### 🔄 New Graduate Engineer, Security Software (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8802882002
+
+#### 🔄 New Graduate Engineer, Security Software (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8802897002
+
+#### 🔄 New Graduate Engineer, Software  - '26/'27  (Starlink)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696097002
+
+#### 🔄 New Graduate Engineer, Software - '26/'27 (Starlink)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696080002
+
+#### 🔄 New Graduate Engineer, Software - '26/'27 (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696058002
+
+#### 🔄 New Graduate Engineer, Software (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8730567002
+
+#### 🔄 New Graduate Engineer, Software Security - '26/'27 (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696156002
+
+#### 🔄 New Graduate Engineer, Software Security - '26/'27 (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8724316002
+
+#### 🔄 New Graduate Engineer, Software Security - '26/'27 (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696158002
+
+#### 🔄 New Graduate Engineer, Software Security - '26/'27 (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696143002
+
+#### 🔄 New Graduate Engineer, Software (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854394002
+
+#### 🔄 New Graduate Engineer, Software (Starship)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8729121002
+
+#### 🔄 New Graduate Engineer, Software (Starship)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8743362002
+
+#### 🔄 New Graduate Engineer, Starship Components
+**Greenhouse** · spacex · Starship Components Design
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8783046002
+
+#### 🔄 Office Manager
+**Greenhouse** · spacex · Supercompute Core
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959554002?gh_jid=8959554002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959554002
+
+#### 🔄 Offline Paid Media Lead
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944894002?gh_jid=8944894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944894002
+
+#### 🔄 Onboarding Specialist
+**Greenhouse** · spacex · Human Resources
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784479002?gh_jid=8784479002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784479002
+
+#### 🔄 Onboarding Specialist
+**Greenhouse** · spacex · Human Resources
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784247002?gh_jid=8784247002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784247002
+
+#### 🔄 Operations Analyst, Reliability (Starship)
+**Greenhouse** · spacex · Starship Build Reliability Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8463192002?gh_jid=8463192002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8463192002
+
+#### 🔄 Operations Construction Specialist (Starship)
+**Greenhouse** · spacex · Starship Mechanisms Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8819079002?gh_jid=8819079002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8819079002
+
+#### 🔄 Operations Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864584002?gh_jid=8864584002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864584002
+
+#### 🔄 Operations Engineer
+**Greenhouse** · spacex · Texas - Supply Chain
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8821458002?gh_jid=8821458002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8821458002
+
+#### 🔄 Operations Engineer, Applied AI (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652299002?gh_jid=8652299002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652299002
+
+#### 🔄 Operations Engineer, Applied AI (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652304002?gh_jid=8652304002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652304002
+
+#### 🔄 Operations Engineer, Applied AI (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652301002?gh_jid=8652301002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652301002
+
+#### 🔄 Operations Engineer, Applied AI (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652229002
+
+#### 🔄 Operations Engineer, Applied AI (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652236002?gh_jid=8652236002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652236002
+
+#### 🔄 Operations Engineer, Applied AI (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652296002?gh_jid=8652296002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652296002
+
+#### 🔄 Operations Engineer, Applied AI (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652235002?gh_jid=8652235002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652235002
+
+#### 🔄 Operations Engineer, Environmental Health & Safety (Terafab)
+**Greenhouse** · spacex · EHS - McGregor
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843439002?gh_jid=8843439002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843439002
+
+#### 🔄 Operations Engineer, Facilities (Starlink)
+**Greenhouse** · spacex · Facilities - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8634955002?gh_jid=8634955002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8634955002
+
+#### 🔄 Operations Engineering Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907665002?gh_jid=8907665002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907665002
+
+#### 🔄 Operations Engineer (Material Flow)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808240002?gh_jid=8808240002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808240002
+
+#### 🔄 Operations Engineer, Paid Media (Starlink)
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949311002?gh_jid=8949311002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949311002
+
+#### 🔄 Operations Engineer (Production)
+**Greenhouse** · spacex · Industrial Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8629084002?gh_jid=8629084002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8629084002
+
+#### 🔄 Operations Engineer (Raptor)
+**Greenhouse** · spacex · Raptor Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687584002?gh_jid=8687584002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687584002
+
+#### 🔄 Operations Engineer (Space Planning)
+**Greenhouse** · spacex · Corporate Operations Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945694002?gh_jid=8945694002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945694002
+
+#### 🔄 Operations Engineer, Starbase Infrastructure
+**Greenhouse** · spacex · Civil Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8780717002?gh_jid=8780717002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8780717002
+
+#### 🔄 Operations Engineer (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Reliability
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697065002?gh_jid=8697065002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697065002
+
+#### 🔄 Operations Engineer (Starlink Production)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8587084002?gh_jid=8587084002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8587084002
+
+#### 🔄 Operations Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8832165002?gh_jid=8832165002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8832165002
+
+#### 🔄 Operations Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927627002?gh_jid=8927627002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927627002
+
+#### 🔄 Operations Engineer (Starshield Products)
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901184002?gh_jid=8901184002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901184002
+
+#### 🔄 Operations Engineer (Starshield Products)
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901179002?gh_jid=8901179002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901179002
+
+#### 🔄 Operations Engineer (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944940002?gh_jid=8944940002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944940002
+
+#### 🔄 Operations Engineer (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944812002?gh_jid=8944812002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944812002
+
+#### 🔄 Operations Engineer (Starship)
+**Greenhouse** · spacex · Starship Mechanisms Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8597967002?gh_jid=8597967002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8597967002
+
+#### 🔄 Operations Engineer (Starship Machining)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8848873002?gh_jid=8848873002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8848873002
+
+#### 🔄 Operations Engineer, Starship Production (Starbase)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931410002?gh_jid=8931410002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931410002
+
+#### 🔄 Operations Engineer (Starship Supply Chain)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8883775002?gh_jid=8883775002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8883775002
+
+#### 🔄 Operations Engineer, Supply Chain (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Ops Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940404002?gh_jid=8940404002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940404002
+
+#### 🔄 Operations Engineer, Supply Chain (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Ops Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940419002?gh_jid=8940419002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940419002
+
+#### 🔄 Operations & Maintenance Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907751002?gh_jid=8907751002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907751002
+
+#### 🔄 Operations Specialist (Starship)
+**Greenhouse** · spacex · Starship Mechanisms Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642283002?gh_jid=8642283002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642283002
+
+#### 🔄 Optical Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924822002?gh_jid=8924822002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924822002
+
+#### 🔄 Optical Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748856002?gh_jid=8748856002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748856002
+
+#### 🔄 Optical Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696622002?gh_jid=8696622002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696622002
+
+#### 🔄 Optical Test Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931042002?gh_jid=8931042002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931042002
+
+#### 🔄 Optical Test Engineer (Integration & Test)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605055002?gh_jid=8605055002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605055002
+
+#### 🔄 Optical Transceiver Engineer - High Speed Links, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8677827002?gh_jid=8677827002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8677827002
+
+#### 🔄 Orbital Tube Welder, Manifolds (Falcon)
+**Greenhouse** · spacex · Hawthorne COPV Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880095002?gh_jid=8880095002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880095002
+
+#### 🔄 OS/Platform Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8752620002?gh_jid=8752620002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8752620002
+
+#### 🔄 OT Network Engineer
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934043002?gh_jid=8934043002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934043002
+
+#### 🔄 OT Network Engineer, Mission Systems
+**Greenhouse** · spacex · Information Technology - Business
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8679658002?gh_jid=8679658002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8679658002
+
+#### 🔄 OT Network Engineer, Mission Systems
+**Greenhouse** · spacex · Information Technology - Business
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925985002?gh_jid=8925985002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925985002
+
+#### 🔄 OT Systems Engineer
+**Greenhouse** · spacex · Information Technology - Business
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940768002?gh_jid=8940768002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940768002
+
+#### 🔄 OT Systems Engineer, Mission Systems
+**Greenhouse** · spacex · Information Technology - Business
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8679947002?gh_jid=8679947002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8679947002
+
+#### 🔄 Paint Technician (Falcon)
+**Greenhouse** · spacex · Tank Weldment
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940810002?gh_jid=8940810002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940810002
+
+#### 🔄 Parachute Rigger & Quality Specialist (Starfall)
+**Greenhouse** · spacex · Bloomfield Technicians
+📍 Bloomfield, CT | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805288002?gh_jid=8805288002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805288002
+
+#### 🔄 PCB Designer (Starlink)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918169002?gh_jid=8918169002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918169002
+
+#### 🔄 PCB Designer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584326002?gh_jid=8584326002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584326002
+
+#### 🔄 PCB Designer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931209002?gh_jid=8931209002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931209002
+
+#### 🔄 PCB Designer (Starmind)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8888740002?gh_jid=8888740002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8888740002
+
+#### 🔄 PCB Designer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676063002
+
+#### 🔄 PCB Designer (Starship)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726924002?gh_jid=8726924002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726924002
+
+#### 🔄 PCB Manufacturing Engineer
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8811663002?gh_jid=8811663002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8811663002
+
+#### 🔄 PCB Process Technician (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8671126002?gh_jid=8671126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8671126002
+
+#### 🔄 PCB Reliability Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569054002?gh_jid=8569054002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569054002
+
+#### 🔄 PCB Technician (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8615802002?gh_jid=8615802002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8615802002
+
+#### 🔄 PECVD Process Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8888684002?gh_jid=8888684002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8888684002
+
+#### 🔄 Photonics Engineer - Fiber Amplifiers, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8867559002?gh_jid=8867559002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8867559002
+
+#### 🔄 Physical Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8795576002?gh_jid=8795576002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8795576002
+
+#### 🔄 Physical Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8800765002?gh_jid=8800765002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8800765002
+
+#### 🔄 Physical Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8800800002?gh_jid=8800800002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8800800002
+
+#### 🔄 Physical Security Hardware Manager
+**Greenhouse** · spacex · Security - Palo Alto
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8960581002?gh_jid=8960581002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8960581002
+
+#### 🔄 Physical Security Hardware Manager
+**Greenhouse** · spacex · Security - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8960894002?gh_jid=8960894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8960894002
+
+#### 🔄 Physical Security Hardware Specialist - Memphis
+**Greenhouse** · spacex · Security - Memphis
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8743978002?gh_jid=8743978002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8743978002
+
+#### 🔄 Physical Security Specialist
+**Greenhouse** · spacex · Security - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782684002?gh_jid=8782684002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782684002
+
+#### 🔄 Pipefitter
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906240002?gh_jid=8906240002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8906240002
+
+#### 🔄 Pipe Welder, Stage 0 Ground Fabriciation (Starship) - Night Shift
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831369002?gh_jid=8831369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831369002
+
+#### 🔄 Pipe Welder (Starship)
+**Greenhouse** · spacex · Prop Systems Production - Booster
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8770430002?gh_jid=8770430002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8770430002
+
+#### 🔄 Piping Technician (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB/PLP Wastewater
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672255002?gh_jid=8672255002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672255002
+
+#### 🔄 Platform Engineer, Flight Software (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692268002
+
+#### 🔄 Platform Integrity Manager (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956456002?gh_jid=8956456002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956456002
+
+#### 🔄 Platform Integrity Manager (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956457002?gh_jid=8956457002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956457002
+
+#### 🔄 PLP/SiP Maintenance Technician (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Maintenance
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8614601002?gh_jid=8614601002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8614601002
+
+#### 🔄 Plumber
+**Greenhouse** · spacex · Group_Starship Launch and Test
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8884012002?gh_jid=8884012002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8884012002
+
+#### 🔄 Plumber - Level 4/5
+**Greenhouse** · spacex · Production Facilities - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654480002?gh_jid=8654480002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654480002
+
+#### 🔄 Plumbing Technician - 2nd Shift (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605109002?gh_jid=8605109002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605109002
+
+#### 🔄 Porter
+**Greenhouse** · spacex · Food Services - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947942002?gh_jid=8947942002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947942002
+
+#### 🔄 Porter
+**Greenhouse** · spacex · Food Services - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8785541002?gh_jid=8785541002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8785541002
+
+#### 🔄 Porter
+**Greenhouse** · spacex · Food Services - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627255002?gh_jid=8627255002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627255002
+
+#### 🔄 Porter (McGregor)
+**Greenhouse** · spacex · Food Services - Texas
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8738298002?gh_jid=8738298002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8738298002
+
+#### 🔄 Porter - Temporary
+**Greenhouse** · spacex · Food Services - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8762670002?gh_jid=8762670002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8762670002
+
+#### 🔄 Porter - Temporary
+**Greenhouse** · spacex · Food Services - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8695469002?gh_jid=8695469002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8695469002
+
+#### 🔄 Porter - Temporary (Starbase)
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882893002?gh_jid=8882893002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882893002
+
+#### 🔄 Power Electronics Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931110002?gh_jid=8931110002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931110002
+
+#### 🔄 Power Electronics Engineer, Consumer Hardware & Gateways (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8855894002?gh_jid=8855894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8855894002
+
+#### 🔄 Power Electronics Engineer - High Voltage (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8921006002?gh_jid=8921006002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8921006002
+
+#### 🔄 Power Electronics Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788378002?gh_jid=8788378002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788378002
+
+#### 🔄 Power Electronics Engineer (Starship)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692894002?gh_jid=8692894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692894002
+
+#### 🔄 Power Generation Engineer
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944934002?gh_jid=8944934002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944934002
+
+#### 🔄 Power Plant Engineer
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623199002?gh_jid=8623199002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623199002
+
+#### 🔄 Power Plant Maintenance Specialist
+**Greenhouse** · spacex · Spaceport Utilities Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922902002?gh_jid=8922902002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922902002
+
+#### 🔄 Power Plant Operator (Starbase)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859216002?gh_jid=8859216002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859216002
+
+#### 🔄 Power Projects Development Lead
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928573002?gh_jid=8928573002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928573002
+
+#### 🔄 Power Projects Development Lead
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928676002?gh_jid=8928676002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928676002
+
+#### 🔄 Power Systems Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731134002?gh_jid=8731134002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731134002
+
+#### 🔄 Power Systems Engineer
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942436002?gh_jid=8942436002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942436002
+
+#### 🔄 Power Systems Engineer, Launch Pad (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8916039002?gh_jid=8916039002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8916039002
+
+#### 🔄 Power Systems Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627222002?gh_jid=8627222002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627222002
+
+#### 🔄 Power Systems Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627410002?gh_jid=8627410002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627410002
+
+#### 🔄 Precision Inspector (Machining)
+**Greenhouse** · spacex · Machining - Quality Assurance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771989002?gh_jid=8771989002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771989002
+
+#### 🔄 Precision Inspector (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769646002?gh_jid=8769646002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769646002
+
+#### 🔄 Precision Inspector (Starship)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961464002?gh_jid=8961464002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961464002
+
+#### 🔄 Principal Adversarial Emulation Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945917002?gh_jid=8945917002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945917002
+
+#### 🔄 Principal Adversarial Emulation Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945920002?gh_jid=8945920002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945920002
+
+#### 🔄 Principal Cybersecurity Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8821448002?gh_jid=8821448002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8821448002
+
+#### 🔄 Principal DFT Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654614002?gh_jid=8654614002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654614002
+
+#### 🔄 Principal DFT Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654612002?gh_jid=8654612002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654612002
+
+#### 🔄 Principal DFT Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654609002?gh_jid=8654609002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654609002
+
+#### 🔄 Principal Electrical Design Engineer, Gateways & Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700422002?gh_jid=8700422002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700422002
+
+#### 🔄 Principal Electrical Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816454002?gh_jid=8816454002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816454002
+
+#### 🔄 Principal Electrical Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703623002?gh_jid=8703623002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703623002
+
+#### 🔄 Principal Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8690980002?gh_jid=8690980002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8690980002
+
+#### 🔄 Principal Hardware Engineer, Gateways & Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700449002?gh_jid=8700449002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700449002
+
+#### 🔄 Principal Incident Response Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945922002?gh_jid=8945922002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945922002
+
+#### 🔄 Principal Incident Response Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945921002?gh_jid=8945921002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945921002
+
+#### 🔄 Principal Mechanical Engineer (Starship)
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882551002?gh_jid=8882551002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882551002
+
+#### 🔄 Principal Network Engineer (Starlink Ground Network)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569736002?gh_jid=8569736002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569736002
+
+#### 🔄 Principal Offensive Security Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8821415002?gh_jid=8821415002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8821415002
+
+#### 🔄 Principal Offensive Security Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945761002?gh_jid=8945761002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945761002
+
+#### 🔄 Principal Operations Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8885678002?gh_jid=8885678002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8885678002
+
+#### 🔄 Principal Optical Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748880002?gh_jid=8748880002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748880002
+
+#### 🔄 Principal Propulsion Software Engineer
+**Greenhouse** · spacex · Starship Analysis
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958739002?gh_jid=8958739002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958739002
+
+#### 🔄 Principal RF Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940617002?gh_jid=8940617002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940617002
+
+#### 🔄 Principal RFIC Engineer (Starshield Silicon)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8717631002?gh_jid=8717631002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8717631002
+
+#### 🔄 Principal RFIC Engineer (Starshield Silicon)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829642002?gh_jid=8829642002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829642002
+
+#### 🔄 Principal RF Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8650021002?gh_jid=8650021002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8650021002
+
+#### 🔄 Principal Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940266002?gh_jid=8940266002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940266002
+
+#### 🔄 Principal Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940257002?gh_jid=8940257002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940257002
+
+#### 🔄 Principal Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940270002?gh_jid=8940270002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940270002
+
+#### 🔄 Principal Software Engineer, Continuous Integration (Starship)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8533847002?gh_jid=8533847002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8533847002
+
+#### 🔄 Principal Software Engineer, Continuous Integration (Starship)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8533843002?gh_jid=8533843002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8533843002
+
+#### 🔄 Principal Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940176002?gh_jid=8940176002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940176002
+
+#### 🔄 Principal Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939867002?gh_jid=8939867002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939867002
+
+#### 🔄 Principal Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940206002?gh_jid=8940206002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940206002
+
+#### 🔄 Principal Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940205002?gh_jid=8940205002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940205002
+
+#### 🔄 Principal Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940195002?gh_jid=8940195002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940195002
+
+#### 🔄 Principal Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940164002?gh_jid=8940164002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940164002
+
+#### 🔄 Principal Software Engineer, Power Optimization (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8832619002?gh_jid=8832619002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8832619002
+
+#### 🔄 Principal Superintelligence (SI) Engineer, Special Programs
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942933002?gh_jid=8942933002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942933002
+
+#### 🔄 Principal Superintelligence (SI) Engineer, Special Programs
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947668002?gh_jid=8947668002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947668002
+
+#### 🔄 Principal Superintelligence (SI) Engineer, Special Programs
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947654002?gh_jid=8947654002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947654002
+
+#### 🔄 Principal Test Engineer, Compute Payload (Starmind)
+**Greenhouse** · spacex · Supercompute Rack Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8905802002?gh_jid=8905802002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8905802002
+
+#### 🔄 Principal Water Treatment Engineer, Solar Cell Factory
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8557138002?gh_jid=8557138002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8557138002
+
+#### 🔄 Principal Wi-Fi Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564810002?gh_jid=8564810002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564810002
+
+#### 🔄 Process Controls Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672728002?gh_jid=8672728002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672728002
+
+#### 🔄 Process Development Engineer
+**Greenhouse** · spacex · Process Development
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955792002?gh_jid=8955792002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955792002
+
+#### 🔄 Process Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8954083002?gh_jid=8954083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8954083002
+
+#### 🔄 Process Engineer, Gold-To-Gold Interconnect & Flip Chip Assembly (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925695002?gh_jid=8925695002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925695002
+
+#### 🔄 Process Engineer, Industrial Water Treatment (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8586083002?gh_jid=8586083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8586083002
+
+#### 🔄 Process Engineer (Starlink/Akoustis) - Day Shift
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8891413002?gh_jid=8891413002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8891413002
+
+#### 🔄 Process Engineer (Starlink/Akoustis) - Night Shift
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8891635002?gh_jid=8891635002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8891635002
+
+#### 🔄 Process Engineer (Starship)
+**Greenhouse** · spacex · Starship Build Reliability Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8737683002?gh_jid=8737683002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8737683002
+
+#### 🔄 Process Engineer, Wafer Preparation & Assembly (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925444002?gh_jid=8925444002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925444002
+
+#### 🔄 Process Operator Specialist
+**Greenhouse** · spacex · Spaceport Utilities Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771732002?gh_jid=8771732002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771732002
+
+#### 🔄 Process Operator Specialist, Air Separation Unit (Starship)
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932422002?gh_jid=8932422002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932422002
+
+#### 🔄 Process Operator Specialist, Air Separation Unit (Starship) - Level 4/5
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8770402002?gh_jid=8770402002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8770402002
+
+#### 🔄 Process Operator Specialist, Air Separation Unit (Starship) - Level 4/5 - Night Shift
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943271002?gh_jid=8943271002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943271002
+
+#### 🔄 Process Operator Specialist, Air Separation Unit (Starship) - Night Shift
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940772002?gh_jid=8940772002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940772002
+
+#### 🔄 Process Operator Specialist - Level 4/5
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735909002?gh_jid=8735909002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735909002
+
+#### 🔄 Process Planner
+**Greenhouse** · spacex · Texas - Supply Chain
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8821514002?gh_jid=8821514002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8821514002
+
+#### 🔄 Process Safety Engineer
+**Greenhouse** · spacex · EHS - Starbase
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925572002?gh_jid=8925572002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925572002
+
+#### 🔄 Process Safety Engineer (Mechanical)
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700050002?gh_jid=8700050002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700050002
+
+#### 🔄 Process Safety Engineer (Power Plant)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861202002?gh_jid=8861202002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861202002
+
+#### 🔄 Process Specialist, Vendor Management (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886444002?gh_jid=8886444002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886444002
+
+#### 🔄 Process Specialist, Vendor Management (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886412002?gh_jid=8886412002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886412002
+
+#### 🔄 Process Technician, Injection Molding (Starlink) - 2nd shift
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. IMM & Stamping
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8601643002?gh_jid=8601643002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8601643002
+
+#### 🔄 Product Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8545873002?gh_jid=8545873002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8545873002
+
+#### 🔄 Product Growth Lead (Starlink)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958643002?gh_jid=8958643002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958643002
+
+#### 🔄 Product Growth Lead (Starlink)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958660002?gh_jid=8958660002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958660002
+
+#### 🔄 Product Growth Lead (Starlink)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958664002?gh_jid=8958664002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958664002
+
+#### 🔄 Production Associate (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8626973002?gh_jid=8626973002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8626973002
+
+#### 🔄 Production Control Scheduler (Falcon)
+**Greenhouse** · spacex · Precision Tube Fabrication
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8717607002?gh_jid=8717607002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8717607002
+
+#### 🔄 Production Control Scheduler (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934074002?gh_jid=8934074002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934074002
+
+#### 🔄 Production Control Scheduler (Starship Launch Hardware)
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925801002?gh_jid=8925801002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925801002
+
+#### 🔄 Production Coordinator
+**Greenhouse** · spacex · Materials Management - Vandenberg
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934413002?gh_jid=8934413002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934413002
+
+#### 🔄 Production Coordinator (Components)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961601002?gh_jid=8961601002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961601002
+
+#### 🔄 Production Coordinator (Falcon)
+**Greenhouse** · spacex · Avionics SOP
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735022002?gh_jid=8735022002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735022002
+
+#### 🔄 Production Coordinator (Fleet Maintenance)
+**Greenhouse** · spacex · Starship Fleet Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917154002?gh_jid=8917154002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917154002
+
+#### 🔄 Production Coordinator, Heatshield (Starship) - Night Shift
+**Greenhouse** · spacex · Starbase Thermal Hardware - Installation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568855002?gh_jid=8568855002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8568855002
+
+#### 🔄 Production Coordinator - Multiple Shifts
+**Greenhouse** · spacex · Materials Management - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922345002?gh_jid=8922345002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922345002
+
+#### 🔄 Production Coordinator, Silicon Assembly (Starlink)
+**Greenhouse** · spacex · Starlink Production - Silicon Packaging
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926839002?gh_jid=8926839002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926839002
+
+#### 🔄 Production Coordinator (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904372002?gh_jid=8904372002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904372002
+
+#### 🔄 Production Coordinator (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956906002?gh_jid=8956906002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956906002
+
+#### 🔄 Production Coordinator (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8892605002?gh_jid=8892605002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8892605002
+
+#### 🔄 Production Development Technician (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950782002?gh_jid=8950782002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950782002
+
+#### 🔄 Production Director (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639961002?gh_jid=8639961002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639961002
+
+#### 🔄 Production Engineer (Starship Electronics)
+**Greenhouse** · spacex · Starship Electronics Production - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703535002?gh_jid=8703535002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703535002
+
+#### 🔄 Production Machinist (Starlink) - 1st Shift
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8629250002?gh_jid=8629250002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8629250002
+
+#### 🔄 Production Machinist (Starlink) - 1st Shift - Level 4/5
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929297002?gh_jid=8929297002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929297002
+
+#### 🔄 Production Machinist (Starlink) - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8629252002?gh_jid=8629252002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8629252002
+
+#### 🔄 Production Machinist (Starlink) - 2nd Shift - Level 4/5
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929326002?gh_jid=8929326002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929326002
+
+#### 🔄 Production Manager, Blades and Vanes Foundry
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788207002?gh_jid=8788207002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788207002
+
+#### 🔄 Production Manager - Starlink Insourcing (Injection Molding)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. IMM & Stamping
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926818002?gh_jid=8926818002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926818002
+
+#### 🔄 Production Operations Engineer (Starship)
+**Greenhouse** · spacex · Ship Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627635002?gh_jid=8627635002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627635002
+
+#### 🔄 Production Project Engineer (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8592321002?gh_jid=8592321002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8592321002
+
+#### 🔄 Production Reliability Engineer (Starship Electronics)
+**Greenhouse** · spacex · Starship Electronics Production - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611123002?gh_jid=8611123002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611123002
+
+#### 🔄 Production Scheduler, Precision Machining (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8604712002?gh_jid=8604712002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8604712002
+
+#### 🔄 Production Scheduler (SMT & Microelectronics)
+**Greenhouse** · spacex · Starlink Production - SMT
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912402002?gh_jid=8912402002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912402002
+
+#### 🔄 Production Scheduler (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934076002?gh_jid=8934076002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934076002
+
+#### 🔄 Production Scheduler (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694690002?gh_jid=8694690002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694690002
+
+#### 🔄 Production Scheduler, Starship
+**Greenhouse** · spacex · Booster Structures Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8581270002?gh_jid=8581270002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8581270002
+
+#### 🔄 Production Scheduler (Starship Mechanisms)
+**Greenhouse** · spacex · Starship Mechanisms Technicians
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646129002?gh_jid=8646129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646129002
+
+#### 🔄 Production Shift Supervisor (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8574247002?gh_jid=8574247002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8574247002
+
+#### 🔄 Production Supervisor - Assembly & SMT (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly & Packout
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672275002?gh_jid=8672275002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672275002
+
+#### 🔄 Production Supervisor, Injection Molding - Night Shift (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. IMM & Stamping
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584481002?gh_jid=8584481002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584481002
+
+#### 🔄 Production Supervisor, Injection Molding (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. IMM & Stamping
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584468002?gh_jid=8584468002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584468002
+
+#### 🔄 Production Supervisor, Silicon Assembly (Starlink)
+**Greenhouse** · spacex · Starlink Production - Silicon Packaging
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8730721002?gh_jid=8730721002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8730721002
+
+#### 🔄 Production Supervisor (Starlink) - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703191002?gh_jid=8703191002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703191002
+
+#### 🔄 Production Supervisor (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952241002?gh_jid=8952241002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952241002
+
+#### 🔄 Production Supervisor, TWTA
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922867002?gh_jid=8922867002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922867002
+
+#### 🔄 Production Technician
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692396002?gh_jid=8692396002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692396002
+
+#### 🔄 Production Technician, Gateways (Starlink)
+**Greenhouse** · spacex · Starlink Gateway Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952119002?gh_jid=8952119002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952119002
+
+#### 🔄 Production Technician (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624122002?gh_jid=8624122002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624122002
+
+#### 🔄 Production Technician (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924225002?gh_jid=8924225002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924225002
+
+#### 🔄 Production Test Technician (Falcon & Dragon)
+**Greenhouse** · spacex · Mfg Eng - Composites Assembly
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857499002?gh_jid=8857499002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857499002
+
+#### 🔄 Production Test Technician (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909171002?gh_jid=8909171002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909171002
+
+#### 🔄 Product Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719859002?gh_jid=8719859002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719859002
+
+#### 🔄 Product Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719864002?gh_jid=8719864002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719864002
+
+#### 🔄 Product Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719856002?gh_jid=8719856002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719856002
+
+#### 🔄 Product Security Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8738670002?gh_jid=8738670002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8738670002
+
+#### 🔄 Product Security Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8738708002?gh_jid=8738708002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8738708002
+
+#### 🔄 Project Controls Engineer, Starship Infrastructure
+**Greenhouse** · spacex · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838385002?gh_jid=8838385002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838385002
+
+#### 🔄 Project Engineer, Civil
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909953002?gh_jid=8909953002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909953002
+
+#### 🔄 Project Engineer, Electrical
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909976002?gh_jid=8909976002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909976002
+
+#### 🔄 Project Engineer, MEP
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909954002?gh_jid=8909954002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909954002
+
+#### 🔄 Project Engineer, Power Generation
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909967002?gh_jid=8909967002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909967002
+
+#### 🔄 Project Engineer (Starship)
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609102002?gh_jid=8609102002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609102002
+
+#### 🔄 Project Engineer, Structural
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909965002?gh_jid=8909965002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909965002
+
+#### 🔄 Project Manager, Tooling (Starship)
+**Greenhouse** · spacex · Starship Tooling Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8777657002?gh_jid=8777657002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8777657002
+
+#### 🔄 Propellant Scheduler
+**Greenhouse** · spacex · Starship Launch and Test Ops Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907799002?gh_jid=8907799002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907799002
+
+#### 🔄 Proposal Specialist
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8575267002?gh_jid=8575267002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8575267002
+
+#### 🔄 Propulsion Analyst, Chamber and Nozzle (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935834002?gh_jid=8935834002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935834002
+
+#### 🔄 Propulsion Analyst, Structures (Raptor)
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961622002?gh_jid=8961622002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961622002
+
+#### 🔄 Propulsion Analyst, Turbomachinery (Raptor)
+**Greenhouse** · spacex · Raptor Turbomachinery - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731594002?gh_jid=8731594002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731594002
+
+#### 🔄 Propulsion Build Engineer (Starship)
+**Greenhouse** · spacex · Ship Prop Systems Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8721585002?gh_jid=8721585002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8721585002
+
+#### 🔄 Propulsion Design Engineer (Raptor Engine Systems)
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8834249002?gh_jid=8834249002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8834249002
+
+#### 🔄 Propulsion Engineer, Avionics Manufacturing (Raptor)
+**Greenhouse** · spacex · Raptor Avionics - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933942002?gh_jid=8933942002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933942002
+
+#### 🔄 Propulsion Engineer, Chamber and Nozzle Manufacturing (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8817976002?gh_jid=8817976002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8817976002
+
+#### 🔄 Propulsion Engineer, Chamber and Nozzle (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627675002?gh_jid=8627675002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627675002
+
+#### 🔄 Propulsion Engineer, Combustion Devices Manufacturing (Raptor)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766418002?gh_jid=8766418002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766418002
+
+#### 🔄 Propulsion Engineer, Components Manufacturing Fabrication (Raptor)
+**Greenhouse** · spacex · Raptor Avionics - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959423002?gh_jid=8959423002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959423002
+
+#### 🔄 Propulsion Engineer, Components Manufacturing (Raptor)
+**Greenhouse** · spacex · Raptor Components - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933926002?gh_jid=8933926002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933926002
+
+#### 🔄 Propulsion Engineer (Dragon)
+**Greenhouse** · spacex · Dragon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904025002?gh_jid=8904025002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904025002
+
+#### 🔄 Propulsion Engineer (Falcon Flight Operations)
+**Greenhouse** · spacex · Merlin and Flight Ops Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8789900002?gh_jid=8789900002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8789900002
+
+#### 🔄 Propulsion Engineer, Foundry (Raptor)
+**Greenhouse** · spacex · Raptor Foundry - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948664002?gh_jid=8948664002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948664002
+
+#### 🔄 Propulsion Engineer (Merlin Hardware Development)
+**Greenhouse** · spacex · Merlin and Flight Ops Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632389002?gh_jid=8632389002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632389002
+
+#### 🔄 Propulsion Engineer, Non-Destructive Evaluation (Raptor)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895969002?gh_jid=8895969002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895969002
+
+#### 🔄 Propulsion Engineer, Propulsion Simulation & Data Analysis
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696839002?gh_jid=8696839002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696839002
+
+#### 🔄 Propulsion Engineer (Raptor Combustion Devices)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654572002?gh_jid=8654572002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654572002
+
+#### 🔄 Propulsion Engineer (Raptor Components)
+**Greenhouse** · spacex · Raptor Components - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961642002?gh_jid=8961642002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961642002
+
+#### 🔄 Propulsion Engineer (Raptor Final Assembly & Tube Shop)
+**Greenhouse** · spacex · Raptor Final Assembly - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895875002?gh_jid=8895875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895875002
+
+#### 🔄 Propulsion Engineer (Raptor Flight)
+**Greenhouse** · spacex · Raptor Flight Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8665252002?gh_jid=8665252002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8665252002
+
+#### 🔄 Propulsion Engineer (Raptor Integration)
+**Greenhouse** · spacex · Raptor Fleet Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935878002?gh_jid=8935878002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935878002
+
+#### 🔄 Propulsion Engineer (Raptor Test)
+**Greenhouse** · spacex · Raptor Test Operations
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920150002?gh_jid=8920150002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920150002
+
+#### 🔄 Propulsion Engineer, Stage Systems (Starship)
+**Greenhouse** · spacex · Ship Prop Systems Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901004002?gh_jid=8901004002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901004002
+
+#### 🔄 Propulsion Engineer (Starship)
+**Greenhouse** · spacex · Ship Prop Systems Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8756340002?gh_jid=8756340002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8756340002
+
+#### 🔄 Propulsion Engineer, Thermal & Fluid Analysis (Starship)
+**Greenhouse** · spacex · Starship Analysis
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947790002?gh_jid=8947790002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947790002
+
+#### 🔄 Propulsion Fluids Analyst (Raptor Systems Engineering)
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605143002?gh_jid=8605143002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605143002
+
+#### 🔄 Propulsion R&D Technician (Raptor)
+**Greenhouse** · spacex · Raptor Propulsion R&D
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653823002?gh_jid=8653823002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653823002
+
+#### 🔄 Propulsion Software Engineer (Falcon Engineering)
+**Greenhouse** · spacex · Falcon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927858002?gh_jid=8927858002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927858002
+
+#### 🔄 Propulsion Technician (Dragon)
+**Greenhouse** · spacex · Dragon Production - Fluid Systems
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962886002?gh_jid=8962886002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962886002
+
+#### 🔄 Propulsion Technician (Falcon)
+**Greenhouse** · spacex · Precision Tube Fabrication
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681185002?gh_jid=8681185002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681185002
+
+#### 🔄 Propulsion Technician (Raptor)
+**Greenhouse** · spacex · Raptor Combustion Devices - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8872030002?gh_jid=8872030002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8872030002
+
+#### 🔄 Propulsion Technician (Raptor) - 2nd Shift
+**Greenhouse** · spacex · Raptor Combustion Devices - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893666002?gh_jid=8893666002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893666002
+
+#### 🔄 Propulsion Technician (Raptor Avionics)
+**Greenhouse** · spacex · Raptor Avionics - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904632002?gh_jid=8904632002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904632002
+
+#### 🔄 Propulsion Technician, Raptor Chamber and Nozzle Assembly
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8567163002?gh_jid=8567163002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8567163002
+
+#### 🔄 Propulsion Technician - Raptor Chamber & Nozzle Assembly & Final Assembly - 2nd Shift
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621675002?gh_jid=8621675002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621675002
+
+#### 🔄 Propulsion Technician - Raptor Chamber & Nozzle Assembly & Final Assembly, Level 4/5 - 2nd Shift
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701011002?gh_jid=8701011002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701011002
+
+#### 🔄 Propulsion Technician (Raptor Engine Shop), Level 4/5 - Night Shift
+**Greenhouse** · spacex · Raptor Test Operations
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922771002?gh_jid=8922771002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922771002
+
+#### 🔄 Propulsion Technician (Raptor Flight) – 2nd Shift
+**Greenhouse** · spacex · Raptor Flight Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932356002?gh_jid=8932356002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932356002
+
+#### 🔄 Propulsion Technician (Raptor Flight), Level 4/5 – 2nd Shift
+**Greenhouse** · spacex · Raptor Flight Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932373002?gh_jid=8932373002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932373002
+
+#### 🔄 Propulsion Technician (Raptor Foundry)
+**Greenhouse** · spacex · Raptor Foundry - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942648002?gh_jid=8942648002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942648002
+
+#### 🔄 Propulsion Technician (Raptor Manufacturing Systems)
+**Greenhouse** · spacex · Raptor Propulsion R&D
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694849002?gh_jid=8694849002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694849002
+
+#### 🔄 Propulsion Technician (Raptor Operations)
+**Greenhouse** · spacex · Raptor Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949011002?gh_jid=8949011002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949011002
+
+#### 🔄 Propulsion Technician (Raptor Production Machining)
+**Greenhouse** · spacex · Raptor Machining - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814833002?gh_jid=8814833002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814833002
+
+#### 🔄 Propulsion Technician (Raptor Production Machining) - 2nd Shift
+**Greenhouse** · spacex · Raptor Machining - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814888002?gh_jid=8814888002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814888002
+
+#### 🔄 Propulsion Technician (Raptor Test) - Night Shift
+**Greenhouse** · spacex · Raptor Fleet Operations
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922758002?gh_jid=8922758002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922758002
+
+#### 🔄 Propulsion Technician (Raptor Turbopump Assembly)
+**Greenhouse** · spacex · Raptor Turbomachinery - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8674850002?gh_jid=8674850002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8674850002
+
+#### 🔄 Propulsion Technician (Starship)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728750002?gh_jid=8728750002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728750002
+
+#### 🔄 Propulsion Technician (Starship)
+**Greenhouse** · spacex · Ship Final Integration
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8742535002?gh_jid=8742535002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8742535002
+
+#### 🔄 Propulsion Technician (Starship) - 2nd Shift
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8581359002?gh_jid=8581359002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8581359002
+
+#### 🔄 Propulsion Technician (Starship) - Level 4/5
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8872876002?gh_jid=8872876002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8872876002
+
+#### 🔄 Propulsion Test Engineer (Raptor Components)
+**Greenhouse** · spacex · Raptor Components - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8900987002?gh_jid=8900987002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8900987002
+
+#### 🔄 Propulsion Thermal Analyst (Raptor Combustion Devices)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624447002?gh_jid=8624447002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624447002
+
+#### 🔄 PVD Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920741002?gh_jid=8920741002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920741002
+
+#### 🔄 Quality Inspector (Aviation Supply Chain)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623403002?gh_jid=8623403002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623403002
+
+#### 🔄 Quality Inspector, Data Center (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8872084002?gh_jid=8872084002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8872084002
+
+#### 🔄 Quality Inspector (Falcon & Dragon)
+**Greenhouse** · spacex · Quality Assurance - Tube Shop
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8613004002?gh_jid=8613004002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8613004002
+
+#### 🔄 Quality Inspector, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647490002?gh_jid=8647490002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647490002
+
+#### 🔄 Quality Inspector (Starfall)
+**Greenhouse** · spacex · Bloomfield Technicians
+📍 Bloomfield, CT | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805290002?gh_jid=8805290002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805290002
+
+#### 🔄 Quality Inspector (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623557002?gh_jid=8623557002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623557002
+
+#### 🔄 Quality Inspector - Starlink Aviation
+**Greenhouse** · spacex · Starlink Aviation Reliability
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944093002?gh_jid=8944093002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944093002
+
+#### 🔄 Quality Inspector (Starship) - 2nd Shift
+**Greenhouse** · spacex · BR - Valves and Dragon Precision Inspection
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639251002?gh_jid=8639251002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639251002
+
+#### 🔄 Quality Inspector (Supply Chain)
+**Greenhouse** · spacex · Starbase Supply Chain Reliability
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8721126002?gh_jid=8721126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8721126002
+
+#### 🔄 Quality Inspector - Supply Chain Avionics
+**Greenhouse** · spacex · Supplier Inspection Programs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8741929002?gh_jid=8741929002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8741929002
+
+#### 🔄 Quality Specialist, Precision Machining (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611035002?gh_jid=8611035002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611035002
+
+#### 🔄 Quality Specialist, Precision Machining (Starlink) - Level 4/5
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611231002?gh_jid=8611231002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611231002
+
+#### 🔄 Quality Specialist (Starship)
+**Greenhouse** · spacex · Starship Metrology
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769707002?gh_jid=8769707002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769707002
+
+#### 🔄 Quality Specialist (West Coast Launch & Recovery) - 1st Shift
+**Greenhouse** · spacex · Launch Quality - West
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896192002?gh_jid=8896192002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896192002
+
+#### 🔄 Rack Design Engineer (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895441002?gh_jid=8895441002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895441002
+
+#### 🔄 Radiation Effects Engineer
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605049002?gh_jid=8605049002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605049002
+
+#### 🔄 Raptor Manufacturing Specialist (Maintenance)
+**Greenhouse** · spacex · Raptor Maintenance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928854002?gh_jid=8928854002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928854002
+
+#### 🔄 Receiving Inspector (Starfall)
+**Greenhouse** · spacex · Bloomfield Technicians
+📍 Bloomfield, CT | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805292002?gh_jid=8805292002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805292002
+
+#### 🔄 Receiving Specialist - Multiple Shifts
+**Greenhouse** · spacex · Materials Management - Hawthorne Falcon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703513002?gh_jid=8703513002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703513002
+
+#### 🔄 Recovery Engineer (F9 Booster & Fairings)
+**Greenhouse** · spacex · West Coast Recovery Engineering
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8790117002?gh_jid=8790117002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8790117002
+
+#### 🔄 Recovery Engineer (Starship Range Ops)
+**Greenhouse** · spacex · Starship Range Ops
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922378002?gh_jid=8922378002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922378002
+
+#### 🔄 Recovery Technician, Falcon (Long Beach)
+**Greenhouse** · spacex · West Coast Recovery Technicians
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944596002?gh_jid=8944596002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944596002
+
+#### 🔄 Recruiter, Go-To-Market (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864582002?gh_jid=8864582002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864582002
+
+#### 🔄 Recruiter, Go-To-Market (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864549002?gh_jid=8864549002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864549002
+
+#### 🔄 Recruiter, High Volume Manufacturing (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864552002?gh_jid=8864552002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864552002
+
+#### 🔄 Recruiter, High Volume Manufacturing (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864583002?gh_jid=8864583002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864583002
+
+#### 🔄 Recruiting Coordinator (Bastrop)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949490002?gh_jid=8949490002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949490002
+
+#### 🔄 Recruiting Coordinator (Cape Canaveral)
+**Greenhouse** · spacex · Recruiting
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958539002?gh_jid=8958539002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958539002
+
+#### 🔄 Recruiting Coordinator (Hawthorne)
+**Greenhouse** · spacex · Recruiting
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949469002?gh_jid=8949469002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949469002
+
+#### 🔄 Recruiting Coordinator (Starbase)
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8650128002?gh_jid=8650128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8650128002
+
+#### 🔄 Recruiting Coordinator (Starbase)
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950938002?gh_jid=8950938002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950938002
+
+#### 🔄 Recruiting Coordinator (Starbase) - Temporary
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8892830002?gh_jid=8892830002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8892830002
+
+#### 🔄 Recruiting Coordinator (Starbase) - Temporary
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8884628002?gh_jid=8884628002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8884628002
+
+#### 🔄 Recruiting Specialist
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8796069002?gh_jid=8796069002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8796069002
+
+#### 🔄 Regulatory Affairs Engineer
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934255002?gh_jid=8934255002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934255002
+
+#### 🔄 Regulatory Affairs Engineer (Starship)
+**Greenhouse** · spacex · Starship Flight Reliability
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957654002?gh_jid=8957654002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957654002
+
+#### 🔄 Reliability Engineer
+**Greenhouse** · spacex · Starlink Satellite Reliability
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8833870002?gh_jid=8833870002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8833870002
+
+#### 🔄 Reliability Engineer, Satellite Systems (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8652841002?gh_jid=8652841002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8652841002
+
+#### 🔄 RF Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621995002?gh_jid=8621995002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621995002
+
+#### 🔄 RF Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676060002?gh_jid=8676060002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676060002
+
+#### 🔄 RF Engineer (Starship)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8595129002?gh_jid=8595129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8595129002
+
+#### 🔄 RFIC Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642909002?gh_jid=8642909002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642909002
+
+#### 🔄 RFIC Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642045002?gh_jid=8642045002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642045002
+
+#### 🔄 RFIC Layout Designer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642048002?gh_jid=8642048002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642048002
+
+#### 🔄 RFIC Layout Designer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642052002?gh_jid=8642052002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642052002
+
+#### 🔄 RFIC Layout Designer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642055002?gh_jid=8642055002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642055002
+
+#### 🔄 RFIC Layout Designer (Starshield Silicon)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633381002?gh_jid=8633381002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633381002
+
+#### 🔄 RF/Microwave Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642056002?gh_jid=8642056002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642056002
+
+#### 🔄 RF/Microwave Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928728002?gh_jid=8928728002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928728002
+
+#### 🔄 RF Silicon Software Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856971002?gh_jid=8856971002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8856971002
+
+#### 🔄 RF Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624761002
+
+#### 🔄 RF Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937195002
+
+#### 🔄 RF Systems Analysis Engineer, Regulatory (Starlink)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8691059002?gh_jid=8691059002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8691059002
+
+#### 🔄 RF Test Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624152002?gh_jid=8624152002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624152002
+
+#### 🔄 Rigger (Critical Movement Team) - 2nd Shift
+**Greenhouse** · spacex · Vertical Barrel Integration
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896689002?gh_jid=8896689002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896689002
+
+#### 🔄 Sales Enablement Manager (Starlink)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635268002?gh_jid=8635268002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635268002
+
+#### 🔄 Sales Enablement Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657786002?gh_jid=8657786002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657786002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816968002?gh_jid=8816968002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816968002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816965002?gh_jid=8816965002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816965002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816969002?gh_jid=8816969002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816969002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816956002?gh_jid=8816956002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816956002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816970002?gh_jid=8816970002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816970002
+
+#### 🔄 Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816966002?gh_jid=8816966002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816966002
+
+#### 🔄 Sales Operations Lead (Enablement)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657734002?gh_jid=8657734002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657734002
+
+#### 🔄 Sales Operations Manager (Enablement)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633582002?gh_jid=8633582002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633582002
+
+#### 🔄 Sales Operations Manager (Starlink Channel Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8645990002?gh_jid=8645990002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8645990002
+
+#### 🔄 Sales Operations Manager (Starlink Channel Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646352002?gh_jid=8646352002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646352002
+
+#### 🔄 Sales Operations Manager (Starlink Local Sales)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935350002?gh_jid=8935350002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935350002
+
+#### 🔄 Satellite On-Orbit Operations Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8706537002
+
+#### 🔄 Satellite Policy Associate (Starlink Regulatory Affairs)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8691084002?gh_jid=8691084002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8691084002
+
+#### 🔄 Satellite Policy Manager (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8691128002?gh_jid=8691128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8691128002
+
+#### 🔄 Satellite Policy Manager (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8691166002?gh_jid=8691166002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8691166002
+
+#### 🔄 Satellite Systems Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8751097002
+
+#### 🔄 Screen Printing Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653801002?gh_jid=8653801002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653801002
+
+#### 🔄 Security Analyst (Threat Detection)
+**Greenhouse** · spacex · Security Operations
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959550002?gh_jid=8959550002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959550002
+
+#### 🔄 Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893742002?gh_jid=8893742002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893742002
+
+#### 🔄 Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8567571002?gh_jid=8567571002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8567571002
+
+#### 🔄 Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893743002?gh_jid=8893743002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893743002
+
+#### 🔄 Security Engineer (Blue Team)
+**Greenhouse** · spacex · Security Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611050002?gh_jid=8611050002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611050002
+
+#### 🔄 Security Engineer (Blue Team)
+**Greenhouse** · spacex · Security Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611223002?gh_jid=8611223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611223002
+
+#### 🔄 Security Engineer (Detection Engineering)
+**Greenhouse** · spacex · Security Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8650242002?gh_jid=8650242002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8650242002
+
+#### 🔄 Security Engineer (Detection Engineering)
+**Greenhouse** · spacex · Security Operations
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959556002?gh_jid=8959556002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959556002
+
+#### 🔄 Security Engineer (Infrastructure)
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893745002?gh_jid=8893745002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893745002
+
+#### 🔄 Security Engineer (OT)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893744002?gh_jid=8893744002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893744002
+
+#### 🔄 Security Engineer (OT)
+**Greenhouse** · spacex · Security Engineering
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854691002?gh_jid=8854691002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854691002
+
+#### 🔄 Security Engineer (Red Team)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8847094002?gh_jid=8847094002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8847094002
+
+#### 🔄 Security Engineer (Software)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893740002?gh_jid=8893740002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893740002
+
+#### 🔄 Security Engineer (Software)
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893741002?gh_jid=8893741002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893741002
+
+#### 🔄 Security Engineer (Vulnerability Management)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843974002?gh_jid=8843974002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843974002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8862389002?gh_jid=8862389002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8862389002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958871002?gh_jid=8958871002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958871002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8869040002?gh_jid=8869040002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8869040002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - McGregor
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904735002?gh_jid=8904735002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904735002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Redmond
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8960535002?gh_jid=8960535002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8960535002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910176002?gh_jid=8910176002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910176002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8600048002?gh_jid=8600048002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8600048002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Bastrop
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8684152002?gh_jid=8684152002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8684152002
+
+#### 🔄 Security Officer 3
+**Greenhouse** · spacex · Security - Palo Alto
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8649254002?gh_jid=8649254002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8649254002
+
+#### 🔄 Security Officer 3 - Memphis
+**Greenhouse** · spacex · Security - Memphis
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635128002?gh_jid=8635128002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635128002
+
+#### 🔄 Security Operations Analyst
+**Greenhouse** · spacex · Security - Corporate
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955902002?gh_jid=8955902002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955902002
+
+#### 🔄 Security Operator 3
+**Greenhouse** · spacex · Security - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935843002?gh_jid=8935843002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935843002
+
+#### 🔄 Security Protective Operations Center Operator (Night Shift)
+**Greenhouse** · spacex · Security - Corporate
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955909002?gh_jid=8955909002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955909002
+
+#### 🔄 Security Protective Operations Center Operator (Night Shift)
+**Greenhouse** · spacex · Security - Corporate
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955906002?gh_jid=8955906002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955906002
+
+#### 🔄 Security Protective Operations Center Operator (Night Shift)
+**Greenhouse** · spacex · Security - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917480002?gh_jid=8917480002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917480002
+
+#### 🔄 Security Software Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719865002
+
+#### 🔄 Security Software Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719860002
+
+#### 🔄 Security Software Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719854002
+
+#### 🔄 Security Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8795658002?gh_jid=8795658002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8795658002
+
+#### 🔄 Security Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8795665002?gh_jid=8795665002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8795665002
+
+#### 🔄 Security Software Engineer - Top Secret Clearance
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564158002?gh_jid=8564158002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564158002
+
+#### 🔄 Senior Manager, Business Operations - Retail Channel Management
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924036002?gh_jid=8924036002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924036002
+
+#### 🔄 Senior Manufacturing Engineer, Injection Molding (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942670002?gh_jid=8942670002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942670002
+
+#### 🔄 Senior Manufacturing Engineer, PCBA (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933372002?gh_jid=8933372002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933372002
+
+#### 🔄 Senior Proposal Specialist
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766144002?gh_jid=8766144002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766144002
+
+#### 🔄 Sensors Development Engineer (Starship)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948662002?gh_jid=8948662002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948662002
+
+#### 🔄 Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934135002?gh_jid=8934135002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934135002
+
+#### 🔄 Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934140002?gh_jid=8934140002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934140002
+
+#### 🔄 Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934139002?gh_jid=8934139002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934139002
+
+#### 🔄 Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934113002?gh_jid=8934113002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934113002
+
+#### 🔄 Sheet Metal Technician (Starship)
+**Greenhouse** · spacex · Sheet Metal Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8673635002?gh_jid=8673635002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8673635002
+
+#### 🔄 Shipping Specialist (Logistics HT) - 1st Shift
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934072002?gh_jid=8934072002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934072002
+
+#### 🔄 Shuttle Driver (Starlink)
+**Greenhouse** · spacex · Facilities - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675334002?gh_jid=8675334002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675334002
+
+#### 🔄 Shuttle Driver (Starlink)
+**Greenhouse** · spacex · Facilities - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675331002?gh_jid=8675331002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675331002
+
+#### 🔄 Signal Integrity Engineer - Serdes, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698729002
+
+#### 🔄 Signal Integrity Engineer - Serdes, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698740002?gh_jid=8698740002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698740002
+
+#### 🔄 Silicon Packaging Technician, Silicon Assembly (Starlink)
+**Greenhouse** · spacex · Starlink Production - Silicon Packaging
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609256002?gh_jid=8609256002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609256002
+
+#### 🔄 Silicon Photonics Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893579002?gh_jid=8893579002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893579002
+
+#### 🔄 Silicon Photonics Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642064002?gh_jid=8642064002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642064002
+
+#### 🔄 Simulation Software Engineer (Vehicle Engineering)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829312002?gh_jid=8829312002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829312002
+
+#### 🔄 Site Reliability Engineer
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930443002?gh_jid=8930443002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930443002
+
+#### 🔄 Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829681002?gh_jid=8829681002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829681002
+
+#### 🔄 Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807795002?gh_jid=8807795002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807795002
+
+#### 🔄 Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807783002?gh_jid=8807783002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807783002
+
+#### 🔄 Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807493002?gh_jid=8807493002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807493002
+
+#### 🔄 Site Reliability Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929638002?gh_jid=8929638002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929638002
+
+#### 🔄 Site Reliability Engineer, Data Center Infrastructure
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880672002?gh_jid=8880672002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880672002
+
+#### 🔄 Site Reliability Engineer, GNC (Falcon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944232002?gh_jid=8944232002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944232002
+
+#### 🔄 Site Reliability Engineer (High Performance Computing)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831632002?gh_jid=8831632002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831632002
+
+#### 🔄 Site Reliability Engineer — HPC & Automation (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8614963002?gh_jid=8614963002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8614963002
+
+#### 🔄 Site Reliability Engineer (Infrastructure, Virtualization, & Compute)
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931114002?gh_jid=8931114002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931114002
+
+#### 🔄 Site Reliability Engineer, Kubernetes
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930994002?gh_jid=8930994002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930994002
+
+#### 🔄 Site Reliability Engineer, Kubernetes Platform (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8597455002?gh_jid=8597455002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8597455002
+
+#### 🔄 Site Reliability Engineer, Kubernetes Platform (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8597472002?gh_jid=8597472002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8597472002
+
+#### 🔄 Site Reliability Engineer, Kubernetes Platform (Top Secret Clearance)
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843951002?gh_jid=8843951002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843951002
+
+#### 🔄 Site Reliability Engineer, Platform Infrastructure
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8776746002?gh_jid=8776746002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8776746002
+
+#### 🔄 Site Reliability Engineer (Raptor)
+**Greenhouse** · spacex · Raptor Software - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633999002?gh_jid=8633999002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633999002
+
+#### 🔄 Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932368002?gh_jid=8932368002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932368002
+
+#### 🔄 Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932369002?gh_jid=8932369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932369002
+
+#### 🔄 Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886620002?gh_jid=8886620002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886620002
+
+#### 🔄 Site Reliability Engineer (Top Secret Clearance)
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8601223002?gh_jid=8601223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8601223002
+
+#### 🔄 SMT Production Technician
+**Greenhouse** · spacex · Starlink Production - SMT
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657511002?gh_jid=8657511002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657511002
+
+#### 🔄 SMT Rework Technician - Multiple Shifts (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. SMT
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882425002?gh_jid=8882425002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882425002
+
+#### 🔄 SMT Specialist
+**Greenhouse** · spacex · Starlink Production - SMT
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8900309002?gh_jid=8900309002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8900309002
+
+#### 🔄 SMT Specialist - 2nd Shift
+**Greenhouse** · spacex · Starlink Production - SMT
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943112002?gh_jid=8943112002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943112002
+
+#### 🔄 Soft Goods Technician, Cutting (Starfall)
+**Greenhouse** · spacex · Bloomfield Technicians
+📍 Bloomfield, CT | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805304002?gh_jid=8805304002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805304002
+
+#### 🔄 Soft Goods Technician, Sewer (Starfall)
+**Greenhouse** · spacex · Bloomfield Technicians
+📍 Bloomfield, CT | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805302002?gh_jid=8805302002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805302002
+
+#### 🔄 Software Development Test Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675233002?gh_jid=8675233002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675233002
+
+#### 🔄 Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8763487002?gh_jid=8763487002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8763487002
+
+#### 🔄 Software Engineer
+**Greenhouse** · spacex · Texas - Test Equipment Engineers
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563110002?gh_jid=8563110002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563110002
+
+#### 🔄 Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726545002?gh_jid=8726545002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726545002
+
+#### 🔄 Software Engineer (AI Data Engineering)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880868002?gh_jid=8880868002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880868002
+
+#### 🔄 Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861900002?gh_jid=8861900002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861900002
+
+#### 🔄 Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861903002?gh_jid=8861903002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861903002
+
+#### 🔄 Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861902002?gh_jid=8861902002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861902002
+
+#### 🔄 Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861901002?gh_jid=8861901002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861901002
+
+#### 🔄 Software Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676015002
+
+#### 🔄 Software Engineer, Alerts (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948735002?gh_jid=8948735002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948735002
+
+#### 🔄 Software Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731256002?gh_jid=8731256002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731256002
+
+#### 🔄 Software Engineer, Application Software - Memphis
+**Greenhouse** · spacex · Application Software
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8763491002?gh_jid=8763491002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8763491002
+
+#### 🔄 Software Engineer, Applied AI (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8637712002
+
+#### 🔄 Software Engineer, Backend (C/C++)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672397002?gh_jid=8672397002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672397002
+
+#### 🔄 Software Engineer, Backend (Python/C++)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8845089002?gh_jid=8845089002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8845089002
+
+#### 🔄 Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656579002?gh_jid=8656579002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656579002
+
+#### 🔄 Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632172002
+
+#### 🔄 Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8756159002?gh_jid=8756159002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8756159002
+
+#### 🔄 Software Engineer, C++ (Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8601802002
+
+#### 🔄 Software Engineer, Collision Avoidance (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Development
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8749208002?gh_jid=8749208002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8749208002
+
+#### 🔄 Software Engineer (Components)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842775002?gh_jid=8842775002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842775002
+
+#### 🔄 Software Engineer, Components (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8625617002?gh_jid=8625617002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8625617002
+
+#### 🔄 Software Engineer, Components Test (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8625615002?gh_jid=8625615002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8625615002
+
+#### 🔄 Software Engineer (Controls Software)
+**Greenhouse** · spacex · Texas - Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8822280002
+
+#### 🔄 Software Engineer, C++ (Raptor)
+**Greenhouse** · spacex · Raptor Software - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8598038002?gh_jid=8598038002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8598038002
+
+#### 🔄 Software Engineer, C++ (Simulations)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829309002?gh_jid=8829309002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829309002
+
+#### 🔄 Software Engineer, C++ Simulations (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8682197002?gh_jid=8682197002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8682197002
+
+#### 🔄 Software Engineer, Data (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8631217002
+
+#### 🔄 Software Engineer, Data - Top Secret Clearance (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8640537002?gh_jid=8640537002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8640537002
+
+#### 🔄 Software Engineer, Design Engineering (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8637713002?gh_jid=8637713002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8637713002
+
+#### 🔄 Software Engineer, Design Software (Starship)
+**Greenhouse** · spacex · Design Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949395002?gh_jid=8949395002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949395002
+
+#### 🔄 Software Engineer, Design Software (Starship)
+**Greenhouse** · spacex · Design Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950626002?gh_jid=8950626002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950626002
+
+#### 🔄 Software Engineer, Development Test (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943795002?gh_jid=8943795002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943795002
+
+#### 🔄 Software Engineer, DevOps (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573204002?gh_jid=8573204002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573204002
+
+#### 🔄 Software Engineer, Embedded Software (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8752598002?gh_jid=8752598002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8752598002
+
+#### 🔄 Software Engineer, Flight Software C++ (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8593183002?gh_jid=8593183002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8593183002
+
+#### 🔄 Software Engineer, Flight Software (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8752581002
+
+#### 🔄 Software Engineer, Full Stack (Data & Video Analysis)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927919002
+
+#### 🔄 Software Engineer, Ground Network (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958880002?gh_jid=8958880002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958880002
+
+#### 🔄 Software Engineer, Hardware Test & Automation (Starlink)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565155002?gh_jid=8565155002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565155002
+
+#### 🔄 Software Engineer, Hardware Test & Automation (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8574243002
+
+#### 🔄 Software Engineer, High Performance Computing
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621463002
+
+#### 🔄 Software Engineer, HITL - Top Secret Clearance
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8749210002?gh_jid=8749210002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8749210002
+
+#### 🔄 Software Engineer, Inference (AI Data Engineering)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8717350002
+
+#### 🔄 Software Engineer, Internal Applications
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8812137002?gh_jid=8812137002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8812137002
+
+#### 🔄 Software Engineer, Linux Kernel (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852121002?gh_jid=8852121002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852121002
+
+#### 🔄 Software Engineer, Linux Kernel (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852114002?gh_jid=8852114002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852114002
+
+#### 🔄 Software Engineer, Linux Kernel (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852119002?gh_jid=8852119002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852119002
+
+#### 🔄 Software Engineer, Manufacturing
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928919002?gh_jid=8928919002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928919002
+
+#### 🔄 Software Engineer, Manufacturing Infrastructure
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8848613002?gh_jid=8848613002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8848613002
+
+#### 🔄 Software Engineer, Mobile Apps (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8637756002?gh_jid=8637756002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8637756002
+
+#### 🔄 Software Engineer, Network Observability (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8577262002?gh_jid=8577262002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8577262002
+
+#### 🔄 Software Engineer, Platform / Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632322002?gh_jid=8632322002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632322002
+
+#### 🔄 Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940469002?gh_jid=8940469002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940469002
+
+#### 🔄 Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940459002
+
+#### 🔄 Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940465002
+
+#### 🔄 Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940468002
+
+#### 🔄 Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940470002?gh_jid=8940470002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940470002
+
+#### 🔄 Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940471002?gh_jid=8940471002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940471002
+
+#### 🔄 Software Engineer, Power Optimization (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647459002?gh_jid=8647459002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647459002
+
+#### 🔄 Software Engineer, Product Development (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621621002?gh_jid=8621621002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621621002
+
+#### 🔄 Software Engineer, Propulsion Simulation & Data Analysis
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8581299002
+
+#### 🔄 Software Engineer, Satellite Systems (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621508002?gh_jid=8621508002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621508002
+
+#### 🔄 Software Engineer, Simulation
+**Greenhouse** · spacex · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8695142002?gh_jid=8695142002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8695142002
+
+#### 🔄 Software Engineer - Simulation & Flight Systems
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735368002
+
+#### 🔄 Software Engineer, Simulations (Vehicle Engineering)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829307002?gh_jid=8829307002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829307002
+
+#### 🔄 Software Engineer (Special Projects) - Top Secret Clearance
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568970002?gh_jid=8568970002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8568970002
+
+#### 🔄 Software Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642274002?gh_jid=8642274002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642274002
+
+#### 🔄 Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922361002?gh_jid=8922361002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922361002
+
+#### 🔄 Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Production - SMT
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584271002?gh_jid=8584271002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584271002
+
+#### 🔄 Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8706510002?gh_jid=8706510002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8706510002
+
+#### 🔄 Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569790002?gh_jid=8569790002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569790002
+
+#### 🔄 Software Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis
+📍 Canandaigua, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696779002?gh_jid=8696779002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696779002
+
+#### 🔄 Software Engineer (Starlink Enterprise)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927257002
+
+#### 🔄 Software Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8568939002
+
+#### 🔄 Software Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8567634002?gh_jid=8567634002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8567634002
+
+#### 🔄 Software Engineer, Starlink UX (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8637755002?gh_jid=8637755002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8637755002
+
+#### 🔄 Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605075002
+
+#### 🔄 Software Engineer (Starshield) - Top Secret Clearance
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621649002?gh_jid=8621649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621649002
+
+#### 🔄 Software Engineer (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937029002?gh_jid=8937029002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937029002
+
+#### 🔄 Software Engineer (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949363002?gh_jid=8949363002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949363002
+
+#### 🔄 Software Engineer (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937000002?gh_jid=8937000002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937000002
+
+#### 🔄 Software Engineer, Supercomputer Network (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852113002?gh_jid=8852113002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852113002
+
+#### 🔄 Software Engineer, Supercomputer Network (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Bellevue, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852123002?gh_jid=8852123002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852123002
+
+#### 🔄 Software Engineer, Supercomputer Network (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8852122002?gh_jid=8852122002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8852122002
+
+#### 🔄 Software Engineer, Telemetry (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8631930002
+
+#### 🔄 Software Engineer, Telemetry (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656526002?gh_jid=8656526002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656526002
+
+#### 🔄 Software Engineer, Telemetry - Top Secret Clearance (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918317002?gh_jid=8918317002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918317002
+
+#### 🔄 Software Engineer, Telemetry - Top Secret Clearance (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656274002?gh_jid=8656274002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656274002
+
+#### 🔄 Software Engineer, Test Engineering and Operations
+**Greenhouse** · spacex · Test Engineering and Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8796056002?gh_jid=8796056002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8796056002
+
+#### 🔄 Software Engineer, Test Infrastructure (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8585072002?gh_jid=8585072002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8585072002
+
+#### 🔄 Software Engineer, Test Infrastructure (C/C++)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8637049002?gh_jid=8637049002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8637049002
+
+#### 🔄 Software Engineer (Thermal & Fluid Analysis)
+**Greenhouse** · spacex · Starship Analysis
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8562437002
+
+#### 🔄 Software Engineer, Tracking (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8749199002?gh_jid=8749199002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8749199002
+
+#### 🔄 Software Engineer, Vehicle Operations (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609228002
+
+#### 🔄 Software Engineer, Wireless Validation (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943817002
+
+#### 🔄 Software Infrastructure Engineer, Flight Software (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Flight Software
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692270002
+
+#### 🔄 Software Infrastructure Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584920002
+
+#### 🔄 Software Infrastructure Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573279002?gh_jid=8573279002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573279002
+
+#### 🔄 Sourcing Manager, AI Satellite Electronics (Starmind)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880564002?gh_jid=8880564002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880564002
+
+#### 🔄 Sourcing Manager, AI Satellite Electronics (Starmind)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932746002?gh_jid=8932746002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932746002
+
+#### 🔄 Sourcing Manager, Behind-the-meter (BTM) Transmission (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929164002?gh_jid=8929164002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929164002
+
+#### 🔄 Sourcing Manager, Board Mechanicals, Connectors (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771500002?gh_jid=8771500002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771500002
+
+#### 🔄 Sourcing Manager, CapEx (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8767245002?gh_jid=8767245002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8767245002
+
+#### 🔄 Sourcing Manager, Capital Equipment & Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919012002?gh_jid=8919012002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919012002
+
+#### 🔄 Sourcing Manager, Capital Equipment & Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8767370002?gh_jid=8767370002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8767370002
+
+#### 🔄 Sourcing Manager, Capital Equipment & Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952904002?gh_jid=8952904002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952904002
+
+#### 🔄 Sourcing Manager, Capital Equipment & Construction (Starship)
+**Greenhouse** · spacex · Starship Indirect Purchasing
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886131002?gh_jid=8886131002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886131002
+
+#### 🔄 Sourcing Manager, Capital Equipment & Construction (Starship)
+**Greenhouse** · spacex · Starship Indirect Purchasing
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886271002?gh_jid=8886271002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886271002
+
+#### 🔄 Sourcing Manager, Capital Equipment, Construction, & Wastewater Treatment (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646570002?gh_jid=8646570002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646570002
+
+#### 🔄 Sourcing Manager (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949190002?gh_jid=8949190002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949190002
+
+#### 🔄 Sourcing Manager (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949186002?gh_jid=8949186002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949186002
+
+#### 🔄 Sourcing Manager, Connectors (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932750002?gh_jid=8932750002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932750002
+
+#### 🔄 Sourcing Manager, Connectors (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932763002?gh_jid=8932763002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932763002
+
+#### 🔄 Sourcing Manager, Contract Manufacturing (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8767420002?gh_jid=8767420002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8767420002
+
+#### 🔄 Sourcing Manager (Cryogenics Capital & Equipment)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957522002?gh_jid=8957522002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957522002
+
+#### 🔄 Sourcing Manager, Data Center Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895546002?gh_jid=8895546002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895546002
+
+#### 🔄 Sourcing Manager, Data Center Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769732002?gh_jid=8769732002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769732002
+
+#### 🔄 Sourcing Manager, Electro Mechanical Commodities (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936737002?gh_jid=8936737002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936737002
+
+#### 🔄 Sourcing Manager, Electro Mechanical Commodities (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936756002?gh_jid=8936756002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936756002
+
+#### 🔄 Sourcing Manager, Electro Mechanical Commodities (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936754002?gh_jid=8936754002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936754002
+
+#### 🔄 Sourcing Manager, Electronics (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928285002?gh_jid=8928285002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928285002
+
+#### 🔄 Sourcing Manager, Electronics (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928213002?gh_jid=8928213002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928213002
+
+#### 🔄 Sourcing Manager, Electronics (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929356002?gh_jid=8929356002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929356002
+
+#### 🔄 Sourcing Manager, Electronics (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920722002?gh_jid=8920722002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920722002
+
+#### 🔄 Sourcing Manager (Falcon 9)
+**Greenhouse** · spacex · Falcon Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859513002?gh_jid=8859513002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859513002
+
+#### 🔄 Sourcing Manager (Falcon, Dragon, Starfall)
+**Greenhouse** · spacex · Falcon Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944096002?gh_jid=8944096002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944096002
+
+#### 🔄 Sourcing Manager, Ground Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink - Ground Infrastructure Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929322002?gh_jid=8929322002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929322002
+
+#### 🔄 Sourcing Manager, Indirect (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929269002?gh_jid=8929269002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929269002
+
+#### 🔄 Sourcing Manager, Infrastructure (Supercomputer)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910152002?gh_jid=8910152002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910152002
+
+#### 🔄 Sourcing Manager (Launch Vehicle Electronic Systems)
+**Greenhouse** · spacex · Falcon Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815043002?gh_jid=8815043002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815043002
+
+#### 🔄 Sourcing Manager, Mechanical & Optical Commodities (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932743002?gh_jid=8932743002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932743002
+
+#### 🔄 Sourcing Manager, Mechanical & Optical Commodities (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563611002?gh_jid=8563611002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563611002
+
+#### 🔄 Sourcing Manager, Mechanical (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928973002?gh_jid=8928973002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928973002
+
+#### 🔄 Sourcing Manager, Mechanical (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719850002?gh_jid=8719850002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719850002
+
+#### 🔄 Sourcing Manager (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957252002?gh_jid=8957252002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957252002
+
+#### 🔄 Sourcing Manager (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949272002?gh_jid=8949272002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949272002
+
+#### 🔄 Sourcing Manager, PCB (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8840602002?gh_jid=8840602002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8840602002
+
+#### 🔄 Sourcing Manager, PCB (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8840543002?gh_jid=8840543002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8840543002
+
+#### 🔄 Sourcing Manager, PCB (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8840572002?gh_jid=8840572002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8840572002
+
+#### 🔄 Sourcing Manager (Power Generation)
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949370002?gh_jid=8949370002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949370002
+
+#### 🔄 Sourcing Manager, Power Plant Equipment (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632295002?gh_jid=8632295002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632295002
+
+#### 🔄 Sourcing Manager, Rack Components, Cooling/Mechanicals (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771550002?gh_jid=8771550002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771550002
+
+#### 🔄 Sourcing Manager, Rack Components, Electronics (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771528002?gh_jid=8771528002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771528002
+
+#### 🔄 Sourcing Manager (Raptor)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8870976002?gh_jid=8870976002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8870976002
+
+#### 🔄 Sourcing Manager, Raw Materials (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919024002?gh_jid=8919024002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919024002
+
+#### 🔄 Sourcing Manager, Server Mechanicals, Cooling (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771514002?gh_jid=8771514002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771514002
+
+#### 🔄 Sourcing Manager, Software & Services
+**Greenhouse** · spacex · Purchasing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857452002?gh_jid=8857452002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857452002
+
+#### 🔄 Sourcing Manager (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943086002?gh_jid=8943086002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943086002
+
+#### 🔄 Sourcing Manager (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703131002?gh_jid=8703131002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703131002
+
+#### 🔄 Sourcing Manager (Starship)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861486002?gh_jid=8861486002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861486002
+
+#### 🔄 Sourcing Manager (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703511002?gh_jid=8703511002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703511002
+
+#### 🔄 Sourcing Manager (Starship Launch Pad)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8753317002?gh_jid=8753317002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8753317002
+
+#### 🔄 Sourcing Specialist - CapEx (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8804276002?gh_jid=8804276002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8804276002
+
+#### 🔄 Sourcing Specialist - CapEx (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694750002?gh_jid=8694750002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694750002
+
+#### 🔄 Sourcing Specialist (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952158002?gh_jid=8952158002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952158002
+
+#### 🔄 Sourcing Specialist (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949110002?gh_jid=8949110002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949110002
+
+#### 🔄 Sourcing Specialist, Construction
+**Greenhouse** · spacex · Supply Chain Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886649002?gh_jid=8886649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886649002
+
+#### 🔄 Sourcing Specialist, Construction
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8885950002?gh_jid=8885950002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8885950002
+
+#### 🔄 Sourcing Specialist, Construction
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886060002?gh_jid=8886060002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886060002
+
+#### 🔄 Sourcing Specialist, Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895669002?gh_jid=8895669002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895669002
+
+#### 🔄 Sourcing Specialist, Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8786527002?gh_jid=8786527002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8786527002
+
+#### 🔄 Sourcing Specialist, Contracts (Starlink)
+**Greenhouse** · spacex · Starlink - Ground Infrastructure Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929235002?gh_jid=8929235002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929235002
+
+#### 🔄 Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936793002?gh_jid=8936793002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936793002
+
+#### 🔄 Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936797002?gh_jid=8936797002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936797002
+
+#### 🔄 Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936780002?gh_jid=8936780002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936780002
+
+#### 🔄 Sourcing Specialist, Electronics (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8868943002?gh_jid=8868943002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8868943002
+
+#### 🔄 Sourcing Specialist, Indirect
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857290002?gh_jid=8857290002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857290002
+
+#### 🔄 Sourcing Specialist, Infrastructure (Supercomputer)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910434002?gh_jid=8910434002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910434002
+
+#### 🔄 Sourcing Specialist, LNG Capital
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720189002?gh_jid=8720189002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720189002
+
+#### 🔄 Sourcing Specialist, LNG Capital
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686804002?gh_jid=8686804002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686804002
+
+#### 🔄 Sourcing Specialist, Mechanical & Optical Commodities (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687373002?gh_jid=8687373002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687373002
+
+#### 🔄 Sourcing Specialist, Mechanical & Optical Commodities (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563613002?gh_jid=8563613002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563613002
+
+#### 🔄 Sourcing Specialist, Mechanical (Starship)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943227002?gh_jid=8943227002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943227002
+
+#### 🔄 Sourcing Specialist, Natural Gas
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686805002?gh_jid=8686805002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686805002
+
+#### 🔄 Sourcing Specialist, Natural Gas
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720190002?gh_jid=8720190002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720190002
+
+#### 🔄 Sourcing Specialist (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952164002?gh_jid=8952164002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952164002
+
+#### 🔄 Sourcing Specialist (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949135002?gh_jid=8949135002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949135002
+
+#### 🔄 Sourcing Specialist, OPEX (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808110002?gh_jid=8808110002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808110002
+
+#### 🔄 Sourcing Specialist (Raptor)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943221002?gh_jid=8943221002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943221002
+
+#### 🔄 Sourcing Specialist, Solar (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929034002?gh_jid=8929034002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929034002
+
+#### 🔄 Sourcing Specialist (SpaceXSI Power Generation)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920862002?gh_jid=8920862002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920862002
+
+#### 🔄 Sourcing Specialist (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8868624002?gh_jid=8868624002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8868624002
+
+#### 🔄 Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698015002?gh_jid=8698015002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698015002
+
+#### 🔄 Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943224002?gh_jid=8943224002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943224002
+
+#### 🔄 Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943214002?gh_jid=8943214002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943214002
+
+#### 🔄 Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928714002?gh_jid=8928714002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928714002
+
+#### 🔄 Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931060002?gh_jid=8931060002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931060002
+
+#### 🔄 Sourcing Specialist (Starship Launch Pad)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935200002?gh_jid=8935200002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935200002
+
+#### 🔄 Sourcing Specialist, Supply Chain (Launch Site)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8798196002?gh_jid=8798196002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8798196002
+
+#### 🔄 Space Lasers Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924818002?gh_jid=8924818002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924818002
+
+#### 🔄 Space Operations Engineer (Ground Operator Training)
+**Greenhouse** · spacex · Space Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8889422002?gh_jid=8889422002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8889422002
+
+#### 🔄 Space Operations Software Engineer
+**Greenhouse** · spacex · Space Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931476002?gh_jid=8931476002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931476002
+
+#### 🔄 Spaceport Designer, Interior Design
+**Greenhouse** · spacex · Spaceport Development
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675927002?gh_jid=8675927002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675927002
+
+#### 🔄 Spaceport Operations Specialist (Transportation)
+**Greenhouse** · spacex · Starbase Spaceport - Transportation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703609002?gh_jid=8703609002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703609002
+
+#### 🔄 Spatial Interior Designer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918126002?gh_jid=8918126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918126002
+
+#### 🔄 Splunk Engineer
+**Greenhouse** · spacex · Security Operations
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925456002?gh_jid=8925456002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925456002
+
+#### 🔄 Splunk Engineer
+**Greenhouse** · spacex · Security Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846233002?gh_jid=8846233002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846233002
+
+#### 🔄 Splunk Engineer
+**Greenhouse** · spacex · Security Operations
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925450002?gh_jid=8925450002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925450002
+
+#### 🔄 Splunk Engineer
+**Greenhouse** · spacex · Security Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925449002?gh_jid=8925449002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925449002
+
+#### 🔄 Splunk Engineer
+**Greenhouse** · spacex · Security Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925448002?gh_jid=8925448002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925448002
+
+#### 🔄 SPMT Operator - Transport (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952875002?gh_jid=8952875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952875002
+
+#### 🔄 Spring 2027 Business Operations Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621770002
+
+#### 🔄 Spring 2027 Civil Engineering Internship
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8636143002
+
+#### 🔄 Spring 2027 Engineering Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8616338002
+
+#### 🔄 Spring 2027 Graduate Engineer Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621749002
+
+#### 🔄 Spring 2027 Silicon Engineering Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8636134002
+
+#### 🔄 Spring 2027 Software Engineering Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621756002
+
+#### 🔄 Sr. 3GPP RAN Standardization Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile - Partnerships and Integration
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633803002?gh_jid=8633803002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633803002
+
+#### 🔄 Sr. Accountant
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8890012002?gh_jid=8890012002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8890012002
+
+#### 🔄 Sr. Accountant, SI Operations
+**Greenhouse** · spacex · Finance
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8786229002?gh_jid=8786229002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8786229002
+
+#### 🔄 Sr. Adversarial Emulation Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945752002?gh_jid=8945752002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945752002
+
+#### 🔄 Sr. Adversarial Emulation Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945753002?gh_jid=8945753002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945753002
+
+#### 🔄 Sr. Aerodynamics Engineer (Starship)
+**Greenhouse** · spacex · Starship GNC
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947956002?gh_jid=8947956002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947956002
+
+#### 🔄 Sr. Aerospace Software Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939701002?gh_jid=8939701002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939701002
+
+#### 🔄 Sr. AI Security Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880628002?gh_jid=8880628002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880628002
+
+#### 🔄 Sr. AI Security Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880656002?gh_jid=8880656002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880656002
+
+#### 🔄 Sr. Antenna Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925583002?gh_jid=8925583002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925583002
+
+#### 🔄 Sr. Antenna Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700473002?gh_jid=8700473002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700473002
+
+#### 🔄 Sr. Application Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594168002?gh_jid=8594168002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594168002
+
+#### 🔄 Sr. Application Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611181002?gh_jid=8611181002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611181002
+
+#### 🔄 Sr. Application Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928938002?gh_jid=8928938002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928938002
+
+#### 🔄 Sr. Architectural Project Manager (Starbase Development)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720187002?gh_jid=8720187002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720187002
+
+#### 🔄 Sr. ASIC Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858547002?gh_jid=8858547002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858547002
+
+#### 🔄 Sr. ASIC Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858529002?gh_jid=8858529002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858529002
+
+#### 🔄 Sr. ASIC Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858548002?gh_jid=8858548002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858548002
+
+#### 🔄 Sr. ASIC Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858549002?gh_jid=8858549002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858549002
+
+#### 🔄 Sr. ASIC Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633042002?gh_jid=8633042002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633042002
+
+#### 🔄 Sr. ASIC Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633021002?gh_jid=8633021002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633021002
+
+#### 🔄 Sr. ASIC Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633043002?gh_jid=8633043002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633043002
+
+#### 🔄 Sr. ASIC Design Verification Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633040002?gh_jid=8633040002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633040002
+
+#### 🔄 Sr. ASIC DFT Engineer (Silicon)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571283002?gh_jid=8571283002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571283002
+
+#### 🔄 Sr. ASIC DFT Engineer (Silicon)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571293002?gh_jid=8571293002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571293002
+
+#### 🔄 Sr. ASIC DFT Engineer (Silicon)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571294002?gh_jid=8571294002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571294002
+
+#### 🔄 Sr. Automation and Controls Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692083002?gh_jid=8692083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692083002
+
+#### 🔄 Sr. Automation & Controls Engineer, Assembly Manufacturing (Starlink)
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly Eng.
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643431002?gh_jid=8643431002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643431002
+
+#### 🔄 Sr. Automation & Controls Engineer (Asset Engineering)
+**Greenhouse** · spacex · Ground Reliability - Asset Maintenance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906742002?gh_jid=8906742002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8906742002
+
+#### 🔄 Sr. Automation & Controls Engineer (Components)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939448002?gh_jid=8939448002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939448002
+
+#### 🔄 Sr. Automation & Controls Engineer, Infrastructure & Utility (Starship)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8743394002?gh_jid=8743394002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8743394002
+
+#### 🔄 Sr. Automation & Controls Engineer, Insource Manufacturing (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932871002?gh_jid=8932871002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932871002
+
+#### 🔄 Sr. Automation & Controls Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904394002?gh_jid=8904394002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904394002
+
+#### 🔄 Sr. Automation & Controls Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922140002?gh_jid=8922140002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922140002
+
+#### 🔄 Sr. Automation & Controls Engineer (Starship)
+**Greenhouse** · spacex · Starship Launch Hardware Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635589002?gh_jid=8635589002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635589002
+
+#### 🔄 Sr. Automation Engineer, Blades and Vanes Foundry
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8877229002?gh_jid=8877229002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8877229002
+
+#### 🔄 Sr. Aviation Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Aviation Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647153002?gh_jid=8647153002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647153002
+
+#### 🔄 Sr. Avionics Systems Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957868002?gh_jid=8957868002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957868002
+
+#### 🔄 Sr. Avionics Systems Engineer (Special Programs)
+**Greenhouse** · spacex · Falcon and Dragon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929172002?gh_jid=8929172002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929172002
+
+#### 🔄 Sr. Avionics Systems Engineer (Special Programs) - Top Secret Clearance
+**Greenhouse** · spacex · Falcon and Dragon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929466002?gh_jid=8929466002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929466002
+
+#### 🔄 Sr. Avionics Test Engineer (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945292002?gh_jid=8945292002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945292002
+
+#### 🔄 Sr. BAW Device Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728528002?gh_jid=8728528002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728528002
+
+#### 🔄 Sr. BAW Filter Design Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8662062002?gh_jid=8662062002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8662062002
+
+#### 🔄 Sr. BIM Specialist
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8628873002?gh_jid=8628873002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8628873002
+
+#### 🔄 Sr. BIM Specialist (Starbase)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936479002?gh_jid=8936479002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936479002
+
+#### 🔄 Sr. Business Analyst (Customer Success)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641254002?gh_jid=8641254002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641254002
+
+#### 🔄 Sr. Business Analyst (Customer Success)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641308002?gh_jid=8641308002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641308002
+
+#### 🔄 Sr. Business Analyst (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8651232002?gh_jid=8651232002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8651232002
+
+#### 🔄 Sr. Business Analyst (Starlink Enterprise)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8579649002?gh_jid=8579649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8579649002
+
+#### 🔄 Sr. Business Analyst (Starlink Platform Integrity)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956523002?gh_jid=8956523002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956523002
+
+#### 🔄 Sr. Business Analyst (Starlink Platform Integrity)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956532002?gh_jid=8956532002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956532002
+
+#### 🔄 Sr. Business Analyst, Workforce Planning (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639120002?gh_jid=8639120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639120002
+
+#### 🔄 Sr. Business Analyst, Workforce Planning (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639095002?gh_jid=8639095002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639095002
+
+#### 🔄 Sr. Business Development Manager, US & Canada (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924727002?gh_jid=8924727002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924727002
+
+#### 🔄 Sr. Business Operations Manager (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871575002?gh_jid=8871575002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871575002
+
+#### 🔄 Sr. Business Operations Manager (Starlink Growth)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871636002?gh_jid=8871636002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871636002
+
+#### 🔄 Sr. Chemical Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906129002?gh_jid=8906129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8906129002
+
+#### 🔄 Sr. Chemical Texturing Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653944002?gh_jid=8653944002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653944002
+
+#### 🔄 Sr. Civil Engineer, Land Development (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571999002?gh_jid=8571999002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571999002
+
+#### 🔄 Sr. Civil Engineer, Offsite Infrastructure (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8954237002?gh_jid=8954237002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8954237002
+
+#### 🔄 Sr. Compensation Analyst
+**Greenhouse** · spacex · Total Rewards
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672198002?gh_jid=8672198002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672198002
+
+#### 🔄 Sr. COMSEC Analyst
+**Greenhouse** · spacex · Government Security Programs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935161002?gh_jid=8935161002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935161002
+
+#### 🔄 Sr. Construction Engineer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8952228002?gh_jid=8952228002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8952228002
+
+#### 🔄 Sr. Construction Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906631002?gh_jid=8906631002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8906631002
+
+#### 🔄 Sr. Construction Project Manager
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731104002?gh_jid=8731104002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731104002
+
+#### 🔄 Sr. Construction Project Manager
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8834059002?gh_jid=8834059002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8834059002
+
+#### 🔄 Sr. Construction Project Manager
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8780761002?gh_jid=8780761002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8780761002
+
+#### 🔄 Sr. Construction Project Manager
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8734530002?gh_jid=8734530002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8734530002
+
+#### 🔄 Sr. Construction Project Manager, Residential (Starbase Development)
+**Greenhouse** · spacex · Starbase Spaceport - Facilities
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8878018002?gh_jid=8878018002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8878018002
+
+#### 🔄 Sr. Construction Project Manager (Starship Infrastructure - Louisiana)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814705002?gh_jid=8814705002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814705002
+
+#### 🔄 Sr. Construction Safety Engineer
+**Greenhouse** · spacex · EHS - Starbase
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882178002?gh_jid=8882178002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882178002
+
+#### 🔄 Sr. Construction Safety Engineer (Terafab)
+**Greenhouse** · spacex · EHS - Starbase
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8821026002?gh_jid=8821026002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8821026002
+
+#### 🔄 Sr. Construction Superintendent
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8834081002?gh_jid=8834081002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8834081002
+
+#### 🔄 Sr. Construction Superintendent, Starbase Infrastructure
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815831002?gh_jid=8815831002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815831002
+
+#### 🔄 Sr. Construction Superintendent - Texas Construction Projects
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8734120002?gh_jid=8734120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8734120002
+
+#### 🔄 Sr. Core Integration Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile - Partnerships and Integration
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901331002?gh_jid=8901331002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901331002
+
+#### 🔄 Sr. Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886929002?gh_jid=8886929002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886929002
+
+#### 🔄 Sr. Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886926002?gh_jid=8886926002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886926002
+
+#### 🔄 Sr. Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621050002?gh_jid=8621050002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621050002
+
+#### 🔄 Sr. Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886930002?gh_jid=8886930002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886930002
+
+#### 🔄 Sr. Counsel, Labor & Employment Litigation
+**Greenhouse** · spacex · Legal
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886927002?gh_jid=8886927002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886927002
+
+#### 🔄 Sr. CVD Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919891002?gh_jid=8919891002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919891002
+
+#### 🔄 Sr. Cyber Assurance Analyst, Finance
+**Greenhouse** · spacex · Information Assurance
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692443002?gh_jid=8692443002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692443002
+
+#### 🔄 Sr. Cyber Assurance Analyst, Finance
+**Greenhouse** · spacex · Information Assurance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688114002?gh_jid=8688114002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688114002
+
+#### 🔄 Sr. Cyber Assurance Analyst, Starlink
+**Greenhouse** · spacex · Information Assurance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8603677002?gh_jid=8603677002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8603677002
+
+#### 🔄 Sr. Cyber Assurance Analyst, Starlink
+**Greenhouse** · spacex · Information Assurance
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8601804002?gh_jid=8601804002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8601804002
+
+#### 🔄 Sr. Cybersecurity Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865055002?gh_jid=8865055002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865055002
+
+#### 🔄 Sr. Cybersecurity Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865114002?gh_jid=8865114002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865114002
+
+#### 🔄 Sr. Data Center Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846102002?gh_jid=8846102002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846102002
+
+#### 🔄 Sr. Design Criteria Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8614287002?gh_jid=8614287002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8614287002
+
+#### 🔄 Sr. Design Reliability Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957582002?gh_jid=8957582002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957582002
+
+#### 🔄 Sr. Device Physics Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8917749002?gh_jid=8917749002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8917749002
+
+#### 🔄 Sr. DSP Systems Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703186002?gh_jid=8703186002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703186002
+
+#### 🔄 Sr. DSP Systems Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700965002?gh_jid=8700965002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700965002
+
+#### 🔄 Sr. Electrical Commissioning Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948031002?gh_jid=8948031002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948031002
+
+#### 🔄 Sr. Electrical Construction Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945169002?gh_jid=8945169002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945169002
+
+#### 🔄 Sr. Electrical Construction Project Engineer
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8780733002?gh_jid=8780733002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8780733002
+
+#### 🔄 Sr. Electrical Design Engineer, Gateways & Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700489002?gh_jid=8700489002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700489002
+
+#### 🔄 Sr. Electrical Design Engineer, Laser Powder Bed Fusion Printers (Raptor)
+**Greenhouse** · spacex · Raptor Tooling and Automation Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8717268002?gh_jid=8717268002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8717268002
+
+#### 🔄 Sr. Electrical Design Engineer (PE)
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912759002?gh_jid=8912759002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912759002
+
+#### 🔄 Sr. Electrical Design Engineer, Raptor 3D Printers
+**Greenhouse** · spacex · Raptor Tooling and Automation Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838413002?gh_jid=8838413002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838413002
+
+#### 🔄 Sr. Electrical Design Engineer, Satellites Payload (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627689002?gh_jid=8627689002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627689002
+
+#### 🔄 Sr. Electrical Design Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703636002?gh_jid=8703636002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703636002
+
+#### 🔄 Sr. Electrical Design Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937178002?gh_jid=8937178002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937178002
+
+#### 🔄 Sr. Electrical Engineer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943799002?gh_jid=8943799002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943799002
+
+#### 🔄 Sr. Electrical Engineer, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932776002?gh_jid=8932776002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932776002
+
+#### 🔄 Sr. Electrical Engineer, Hardware Reliability (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945309002?gh_jid=8945309002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945309002
+
+#### 🔄 Sr. Electrical Engineer (Power Systems)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609219002?gh_jid=8609219002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609219002
+
+#### 🔄 Sr. Electrical Hardware Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931127002?gh_jid=8931127002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931127002
+
+#### 🔄 Sr. Electrical Systems Engineer (Falcon & Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957870002?gh_jid=8957870002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957870002
+
+#### 🔄 Sr. Electrical Test Development Engineer, Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700278002?gh_jid=8700278002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700278002
+
+#### 🔄 Sr. Electrical Test Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930991002?gh_jid=8930991002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930991002
+
+#### 🔄 Sr. Electromagnetic Effects Engineer (Lightning Effects)
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8909945002?gh_jid=8909945002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8909945002
+
+#### 🔄 Sr. Embedded Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815806002?gh_jid=8815806002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815806002
+
+#### 🔄 Sr. Embedded Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815810002?gh_jid=8815810002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815810002
+
+#### 🔄 Sr. Embedded Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815809002?gh_jid=8815809002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815809002
+
+#### 🔄 Sr. Embedded Software Engineer, OS/Platform (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8567575002?gh_jid=8567575002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8567575002
+
+#### 🔄 Sr. Embedded Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716175002?gh_jid=8716175002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716175002
+
+#### 🔄 Sr. Engineering Commissioning Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906503002?gh_jid=8906503002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8906503002
+
+#### 🔄 Sr. Engineering Construction Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924777002?gh_jid=8924777002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924777002
+
+#### 🔄 Sr. Enterprise Account Manager, Aviation
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646087002?gh_jid=8646087002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646087002
+
+#### 🔄 Sr. Environmental Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584360002?gh_jid=8584360002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584360002
+
+#### 🔄 Sr. Environmental Engineer
+**Greenhouse** · spacex · EHS - Starbase
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882126002?gh_jid=8882126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882126002
+
+#### 🔄 Sr. Environmental Engineer
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654301002?gh_jid=8654301002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654301002
+
+#### 🔄 Sr. Environmental Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584338002?gh_jid=8584338002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584338002
+
+#### 🔄 Sr. Environmental Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584358002?gh_jid=8584358002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584358002
+
+#### 🔄 Sr. Environmental Engineer
+**Greenhouse** · spacex · EHS - Starbase
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818987002?gh_jid=8818987002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818987002
+
+#### 🔄 Sr. Environmental Engineer (AI Supercomputer)
+**Greenhouse** · spacex · EHS - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771139002?gh_jid=8771139002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771139002
+
+#### 🔄 Sr. Environmental Engineer, Business Operations
+**Greenhouse** · spacex · EHS - McGregor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871086002?gh_jid=8871086002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871086002
+
+#### 🔄 Sr. Environmental Engineer, Business Operations
+**Greenhouse** · spacex · EHS - McGregor
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871084002?gh_jid=8871084002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871084002
+
+#### 🔄 Sr. Environmental Engineer, Business Operations
+**Greenhouse** · spacex · EHS - McGregor
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871088002?gh_jid=8871088002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871088002
+
+#### 🔄 Sr. Environmental Engineer, Business Operations
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854297002?gh_jid=8854297002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854297002
+
+#### 🔄 Sr. Environmental Engineer, Business Operations
+**Greenhouse** · spacex · EHS - McGregor
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871085002?gh_jid=8871085002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871085002
+
+#### 🔄 Sr. Environmental Engineer, Wetlands & Regulatory Compliance
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933837002?gh_jid=8933837002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933837002
+
+#### 🔄 Sr. Environmental Engineer, Wetlands & Regulatory Compliance
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8933851002?gh_jid=8933851002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8933851002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782248002?gh_jid=8782248002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782248002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716903002?gh_jid=8716903002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716903002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940493002?gh_jid=8940493002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940493002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8717302002?gh_jid=8717302002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8717302002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8863844002?gh_jid=8863844002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8863844002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716787002?gh_jid=8716787002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716787002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838219002?gh_jid=8838219002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838219002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838092002?gh_jid=8838092002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838092002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838211002?gh_jid=8838211002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838211002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, Contractor Management
+**Greenhouse** · spacex · EHS - McGregor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838213002?gh_jid=8838213002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838213002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, EHS Training Programs
+**Greenhouse** · spacex · EHS - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846255002?gh_jid=8846255002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846255002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, EHS Training Programs
+**Greenhouse** · spacex · EHS - McGregor
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871079002?gh_jid=8871079002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871079002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, EHS Training Programs
+**Greenhouse** · spacex · EHS - McGregor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871078002?gh_jid=8871078002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871078002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer, EHS Training Programs
+**Greenhouse** · spacex · EHS - McGregor
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871071002?gh_jid=8871071002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871071002
+
+#### 🔄 Sr. Environmental Health & Safety Engineer (Raptor/Starship)
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700149002?gh_jid=8700149002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700149002
+
+#### 🔄 Sr. Environmental Regulatory Engineer, Air Permitting
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932782002?gh_jid=8932782002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932782002
+
+#### 🔄 Sr. Environmental Regulatory Engineer, Air Permitting
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932780002?gh_jid=8932780002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932780002
+
+#### 🔄 Sr. Environmental Regulatory Engineer, Air Permitting
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932774002?gh_jid=8932774002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932774002
+
+#### 🔄 Sr. Equipment Reliability Engineer (Starship)
+**Greenhouse** · spacex · Starship Production Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563302002?gh_jid=8563302002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563302002
+
+#### 🔄 Sr. Facilities Assurance Analyst, Data Centers
+**Greenhouse** · spacex · Information Assurance
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857071002?gh_jid=8857071002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857071002
+
+#### 🔄 Sr. Facilities Specialist
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727922002?gh_jid=8727922002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727922002
+
+#### 🔄 Sr. Failure Analysis Engineer, Microelectronics (Starlink)
+**Greenhouse** · spacex · Starlink Process Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769926002?gh_jid=8769926002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769926002
+
+#### 🔄 Sr. Fire Protection Engineer
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871065002?gh_jid=8871065002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871065002
+
+#### 🔄 Sr. Fire Protection Engineer
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932291002?gh_jid=8932291002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932291002
+
+#### 🔄 Sr. Fluids Systems Engineer, Production (Starship)
+**Greenhouse** · spacex · Starship Tooling Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918369002?gh_jid=8918369002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918369002
+
+#### 🔄 Sr. Fluid Systems Engineer, Solar Cell Factory
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919873002?gh_jid=8919873002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919873002
+
+#### 🔄 Sr. Full Stack Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8650986002?gh_jid=8650986002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8650986002
+
+#### 🔄 Sr. Full Stack Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594457002?gh_jid=8594457002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594457002
+
+#### 🔄 Sr. Full Stack Engineer, Developer Systems
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769502002?gh_jid=8769502002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769502002
+
+#### 🔄 Sr. Full Stack Engineer, Employee Experience
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8649509002?gh_jid=8649509002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8649509002
+
+#### 🔄 Sr. Full Stack Engineer, Fight Software
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934570002?gh_jid=8934570002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934570002
+
+#### 🔄 Sr. Full Stack Engineer, Finance
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692498002?gh_jid=8692498002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692498002
+
+#### 🔄 Sr. Full Stack Engineer, Internal Systems
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675900002?gh_jid=8675900002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675900002
+
+#### 🔄 Sr. Full Stack Engineer, Launch Software
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931276002?gh_jid=8931276002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931276002
+
+#### 🔄 Sr. Full Stack Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8650989002?gh_jid=8650989002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8650989002
+
+#### 🔄 Sr. Full Stack Engineer, Platform Systems
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8837679002?gh_jid=8837679002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8837679002
+
+#### 🔄 Sr. Full Stack Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934568002?gh_jid=8934568002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934568002
+
+#### 🔄 Sr. Full Stack Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784865002?gh_jid=8784865002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784865002
+
+#### 🔄 Sr. Full Stack Software Engineer (Components)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8840486002?gh_jid=8840486002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8840486002
+
+#### 🔄 Sr. Full Stack Software Engineer, Manufacturing Systems
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934569002?gh_jid=8934569002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934569002
+
+#### 🔄 Sr. Full Stack Software Engineer, Operations Software (Starlink)
+**Greenhouse** · spacex · Starlink Constellation Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948754002?gh_jid=8948754002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948754002
+
+#### 🔄 Sr. Full Stack Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Consumer Platform Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943684002?gh_jid=8943684002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943684002
+
+#### 🔄 Sr. Gateway Site Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Gateway Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8577318002?gh_jid=8577318002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8577318002
+
+#### 🔄 Sr. Global Operations Engineer (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8679984002?gh_jid=8679984002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8679984002
+
+#### 🔄 Sr. Global Supply Manager
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Remote - TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961432002?gh_jid=8961432002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961432002
+
+#### 🔄 Sr. Global Supply Manager, Capital Equipment & Construction (Starlink)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766356002?gh_jid=8766356002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766356002
+
+#### 🔄 Sr. Global Supply Manager, Capital Equipment (Terafab)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929088002?gh_jid=8929088002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929088002
+
+#### 🔄 Sr. Global Supply Manager, Construction (Terafab)
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8761380002?gh_jid=8761380002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8761380002
+
+#### 🔄 Sr. Global Supply Manager, Datacenter Memory and Storage (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8845088002?gh_jid=8845088002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8845088002
+
+#### 🔄 Sr. Global Supply Manager, Datacenter Memory and Storage (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8845090002?gh_jid=8845090002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8845090002
+
+#### 🔄 Sr. Global Supply Manager (Falcon/Dragon/Starfall)
+**Greenhouse** · spacex · Falcon Mechs and Valves Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939948002?gh_jid=8939948002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939948002
+
+#### 🔄 Sr. Global Supply Manager (Launch Vehicle Electronic Systems)
+**Greenhouse** · spacex · Supply Chain Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942771002?gh_jid=8942771002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942771002
+
+#### 🔄 Sr. Global Supply Manager, Semiconductor Electronic Components (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880079002?gh_jid=8880079002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880079002
+
+#### 🔄 Sr. Global Supply Manager, Semiconductor Electronic Components (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956599002?gh_jid=8956599002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956599002
+
+#### 🔄 Sr. Global Supply Manager, Semiconductor Intellectual Property
+**Greenhouse** · spacex · Starlink - Mech. And Non-Electronic Sourcing
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8610224002?gh_jid=8610224002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8610224002
+
+#### 🔄 Sr. GNC Engineer, Controls (Starship)
+**Greenhouse** · spacex · Starship GNC
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947999002?gh_jid=8947999002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947999002
+
+#### 🔄 Sr. GNC Engineer (Starship)
+**Greenhouse** · spacex · Starship GNC
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947975002?gh_jid=8947975002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947975002
+
+#### 🔄 Sr. Government Affairs Manager
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896630002?gh_jid=8896630002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896630002
+
+#### 🔄 Sr. Government Affairs Manager (National Security)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8820963002?gh_jid=8820963002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8820963002
+
+#### 🔄 Sr. Government Affairs Manager (National Security/ Appropriations)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935882002?gh_jid=8935882002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935882002
+
+#### 🔄 Sr. Graphic Designer, Marketing & Communications
+**Greenhouse** · spacex · Marketing & Communications
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731862002?gh_jid=8731862002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731862002
+
+#### 🔄 Sr. Hardware Design Engineer - Electrical, Satellites Payload (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627691002?gh_jid=8627691002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627691002
+
+#### 🔄 Sr. Hardware Development Engineer, Gateways & Customer Hardware (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700513002?gh_jid=8700513002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700513002
+
+#### 🔄 Sr. Hardware / Infrastructure Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573251002?gh_jid=8573251002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573251002
+
+#### 🔄 Sr. Hardware Reliability Engineer (Build Reliability)
+**Greenhouse** · spacex · Build Reliability - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856747002?gh_jid=8856747002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8856747002
+
+#### 🔄 Sr. Hardware Reliability Engineer, Electrical (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945304002?gh_jid=8945304002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945304002
+
+#### 🔄 Sr. Hardware Reliability Engineer (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Aviation Reliability
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726332002?gh_jid=8726332002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726332002
+
+#### 🔄 Sr. High Performance Computing (HPC) Systems Engineer
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831452002?gh_jid=8831452002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831452002
+
+#### 🔄 Sr. High-Speed Electro-Optical IC Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642117002?gh_jid=8642117002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642117002
+
+#### 🔄 Sr. High-Speed Electro-Optical IC Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8890398002?gh_jid=8890398002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8890398002
+
+#### 🔄 Sr. HPC  Systems Engineer (High Performance Computing)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831610002?gh_jid=8831610002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831610002
+
+#### 🔄 Sr. Human Resources Investigator
+**Greenhouse** · spacex · Human Resources
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681187002?gh_jid=8681187002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681187002
+
+#### 🔄 Sr. Human Resources Investigator
+**Greenhouse** · spacex · Human Resources
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681182002?gh_jid=8681182002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681182002
+
+#### 🔄 Sr. HVAC Design Engineer
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8579763002?gh_jid=8579763002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8579763002
+
+#### 🔄 Sr. IC Package Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912202002?gh_jid=8912202002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912202002
+
+#### 🔄 Sr. IC Package Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912180002?gh_jid=8912180002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912180002
+
+#### 🔄 Sr. IC Packaging Test Engineer, Silicon Technology (Starlink)
+**Greenhouse** · spacex · Starlink Process Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701719002?gh_jid=8701719002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701719002
+
+#### 🔄 Sr. Incident Response Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945756002?gh_jid=8945756002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945756002
+
+#### 🔄 Sr. Incident Response Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945746002?gh_jid=8945746002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945746002
+
+#### 🔄 Sr. Industrial Hygienist
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570047002?gh_jid=8570047002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570047002
+
+#### 🔄 Sr. Industrial Hygienist
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694897002?gh_jid=8694897002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694897002
+
+#### 🔄 Sr. Industrial Hygienist
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570049002?gh_jid=8570049002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570049002
+
+#### 🔄 Sr. Industrial Hygienist
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570048002?gh_jid=8570048002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570048002
+
+#### 🔄 Sr. Industrial Hygienist
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570042002?gh_jid=8570042002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570042002
+
+#### 🔄 Sr. Industrial Security Analyst (MDSO)
+**Greenhouse** · spacex · Government Security Programs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871809002?gh_jid=8871809002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871809002
+
+#### 🔄 Sr. IT Network Automation Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859569002?gh_jid=8859569002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859569002
+
+#### 🔄 Sr. IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8797934002?gh_jid=8797934002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8797934002
+
+#### 🔄 Sr. IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843968002?gh_jid=8843968002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843968002
+
+#### 🔄 Sr. IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8757406002?gh_jid=8757406002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8757406002
+
+#### 🔄 Sr. IT Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859564002?gh_jid=8859564002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859564002
+
+#### 🔄 Sr. IT Network Engineer (OT)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859650002?gh_jid=8859650002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859650002
+
+#### 🔄 Sr. IT Systems Administrator, IT Applications
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920125002?gh_jid=8920125002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920125002
+
+#### 🔄 Sr. IT Systems Administrator, IT Applications
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641301002?gh_jid=8641301002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641301002
+
+#### 🔄 Sr. IT Systems Administrator, IT Applications
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818157002?gh_jid=8818157002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818157002
+
+#### 🔄 Sr. IT Systems Administrator, IT Applications
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8638708002?gh_jid=8638708002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8638708002
+
+#### 🔄 Sr. IT Systems Administrator, IT Applications
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641290002?gh_jid=8641290002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641290002
+
+#### 🔄 Sr. IT Systems Administrator, Launch
+**Greenhouse** · spacex · Information Technology - Business
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948898002?gh_jid=8948898002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948898002
+
+#### 🔄 Sr. IT Systems Administrator, Mission Systems
+**Greenhouse** · spacex · Information Technology - Business
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843923002?gh_jid=8843923002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843923002
+
+#### 🔄 Sr. IT Systems Engineer, DevOps
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846406002?gh_jid=8846406002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846406002
+
+#### 🔄 Sr. IT Windows Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927199002?gh_jid=8927199002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927199002
+
+#### 🔄 Sr. IT Windows Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924747002?gh_jid=8924747002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924747002
+
+#### 🔄 Sr. IT Wireless Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818989002?gh_jid=8818989002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818989002
+
+#### 🔄 Sr. IT Wireless Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924353002?gh_jid=8924353002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924353002
+
+#### 🔄 Sr. IT Wireless Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831488002?gh_jid=8831488002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831488002
+
+#### 🔄 Sr. IT Wireless Network Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843966002?gh_jid=8843966002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843966002
+
+#### 🔄 Sr. Kubernetes Platform Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573253002?gh_jid=8573253002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573253002
+
+#### 🔄 Sr. Launch Engineer, Propellant Generation (Starship)
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8895877002?gh_jid=8895877002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8895877002
+
+#### 🔄 Sr. Launch Engineer, Propellant Systems (Starship)
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940775002?gh_jid=8940775002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940775002
+
+#### 🔄 Sr. Launch Engineer, Stage 0 Propellant Generation (Starship)
+**Greenhouse** · spacex · Propellant Generation - Starbase
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8622341002?gh_jid=8622341002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8622341002
+
+#### 🔄 Sr. Launch Reliability Engineer (Launch Pads & Recovery)
+**Greenhouse** · spacex · Launch Reliability - East
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788058002?gh_jid=8788058002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788058002
+
+#### 🔄 Sr. Logistician (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8826316002?gh_jid=8826316002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8826316002
+
+#### 🔄 Sr Manager, Enterprise Customer Experience (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949724002?gh_jid=8949724002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949724002
+
+#### 🔄 Sr. Manager, Environmental Health and Safety
+**Greenhouse** · spacex · EHS - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935292002?gh_jid=8935292002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935292002
+
+#### 🔄 Sr. Manager, Environmental Health & Safety
+**Greenhouse** · spacex · EHS - Memphis
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922877002?gh_jid=8922877002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922877002
+
+#### 🔄 Sr. Manager, Environmental Health & Safety
+**Greenhouse** · spacex · EHS - Starbase
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818982002?gh_jid=8818982002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818982002
+
+#### 🔄 Sr. Manager, Environmental Health & Safety
+**Greenhouse** · spacex · EHS - Starbase
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882063002?gh_jid=8882063002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882063002
+
+#### 🔄 Sr. Manager, Facility Integration (Regulatory)
+**Greenhouse** · spacex · Launch Spaceport Integration
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886874002?gh_jid=8886874002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886874002
+
+#### 🔄 Sr. Manager, Finance
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8795854002?gh_jid=8795854002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8795854002
+
+#### 🔄 Sr. Manager, Indirect Tax
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8715792002?gh_jid=8715792002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8715792002
+
+#### 🔄 Sr. Manager, IT Systems Engineering
+**Greenhouse** · spacex · Information Technology - Business
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945889002?gh_jid=8945889002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945889002
+
+#### 🔄 Sr. Manager, Payroll
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8680649002?gh_jid=8680649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8680649002
+
+#### 🔄 Sr. Manager, Power Plant (Starship)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8721106002?gh_jid=8721106002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8721106002
+
+#### 🔄 Sr. Manager, Product Growth Strategy (Starlink)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856816002?gh_jid=8856816002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8856816002
+
+#### 🔄 Sr. Manager, Purchasing
+**Greenhouse** · spacex · Purchasing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8856840002?gh_jid=8856840002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8856840002
+
+#### 🔄 Sr. Manager, Security
+**Greenhouse** · spacex · Security - Memphis
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948494002?gh_jid=8948494002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948494002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (Civilian Government Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784808002?gh_jid=8784808002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784808002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (Civilian Government Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784807002?gh_jid=8784807002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784807002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (Civilian Government Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784806002?gh_jid=8784806002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784806002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (Civilian Government Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784651002?gh_jid=8784651002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784651002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (State & Local Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784828002?gh_jid=8784828002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784828002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (State & Local Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728755002?gh_jid=8728755002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728755002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (State & Local Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784829002?gh_jid=8784829002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784829002
+
+#### 🔄 Sr. Manager, Starlink Enterprise Accounts (State & Local Programs)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784830002?gh_jid=8784830002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784830002
+
+#### 🔄 Sr. Manager, Supply Chain - Datacenter Compute Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8648026002?gh_jid=8648026002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8648026002
+
+#### 🔄 Sr. Manager, Supply Chain - Datacenter Compute Infrastructure (Starlink)
+**Greenhouse** · spacex · Starlink - Electronic Sourcing
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646604002?gh_jid=8646604002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646604002
+
+#### 🔄 Sr. Manager, Supply Chain (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957350002?gh_jid=8957350002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957350002
+
+#### 🔄 Sr. Manager, Supply Chain (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957359002?gh_jid=8957359002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957359002
+
+#### 🔄 Sr. Manager, Supply Chain (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957360002?gh_jid=8957360002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957360002
+
+#### 🔄 Sr. Manufacturing Engineer, Blades and Vanes
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8770206002?gh_jid=8770206002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8770206002
+
+#### 🔄 Sr. Manufacturing Engineer, Machining (Starship)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939465002?gh_jid=8939465002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939465002
+
+#### 🔄 Sr. Manufacturing Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919856002?gh_jid=8919856002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919856002
+
+#### 🔄 Sr. Manufacturing Engineer (Starship Components Operations)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939959002?gh_jid=8939959002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939959002
+
+#### 🔄 Sr. Manufacturing Engineer (Starship Machining Operations)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8849296002?gh_jid=8849296002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8849296002
+
+#### 🔄 Sr. Manufacturing Engineer, Tool & Die Machining - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8574359002?gh_jid=8574359002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8574359002
+
+#### 🔄 Sr. Manufacturing Engineer, Tool & Die Machining (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612932002?gh_jid=8612932002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612932002
+
+#### 🔄 Sr. Market Access & Development Manager (Africa)
+**Greenhouse** · spacex · Starlink - Market Access
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896166002?gh_jid=8896166002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896166002
+
+#### 🔄 Sr. Materials Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8645172002?gh_jid=8645172002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8645172002
+
+#### 🔄 Sr. Materials Engineer, Blades and Vanes R&D
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814500002?gh_jid=8814500002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814500002
+
+#### 🔄 Sr. Materials Engineer, Corrosion Control and Fluid Compatibility (Starmind)
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886354002?gh_jid=8886354002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886354002
+
+#### 🔄 Sr. Materials Engineer, Metals (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8796044002?gh_jid=8796044002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8796044002
+
+#### 🔄 Sr. Materials Engineer, Metals (Starship)
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617050002?gh_jid=8617050002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617050002
+
+#### 🔄 Sr. Materials Engineer, Metals (Starship)
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935636002?gh_jid=8935636002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935636002
+
+#### 🔄 Sr. Materials Engineer, Polymer Development
+**Greenhouse** · spacex · Materials Engineering - Development Application
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943819002?gh_jid=8943819002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943819002
+
+#### 🔄 Sr. Materials Engineer, Thin Films
+**Greenhouse** · spacex · Materials Engineering - Starlink Materials
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8837198002?gh_jid=8837198002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8837198002
+
+#### 🔄 Sr. Materials Engineer, Vehicle Refurbishment
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8869722002?gh_jid=8869722002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8869722002
+
+#### 🔄 Sr. Mechanical Commissioning Manager (Power Plant)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948035002?gh_jid=8948035002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948035002
+
+#### 🔄 Sr. Mechanical Design Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8906023002?gh_jid=8906023002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8906023002
+
+#### 🔄 Sr. Mechanical Design Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936924002?gh_jid=8936924002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936924002
+
+#### 🔄 Sr. Mechanical Design Engineer (Starfall)
+**Greenhouse** · spacex · Starfall Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735057002?gh_jid=8735057002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735057002
+
+#### 🔄 Sr. Mechanical Design Engineer (Starship Components)
+**Greenhouse** · spacex · Starship Components Design
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939996002?gh_jid=8939996002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939996002
+
+#### 🔄 Sr. Mechanical Design Engineer (Starship Components)
+**Greenhouse** · spacex · Starship Components Design
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8606391002?gh_jid=8606391002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8606391002
+
+#### 🔄 Sr. Mechanical Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642545002?gh_jid=8642545002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642545002
+
+#### 🔄 Sr. Mechanical Engineer (Data Center MEP Systems)
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8836922002?gh_jid=8836922002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8836922002
+
+#### 🔄 Sr. Mechanical Engineer, Flight Termination System (Starship)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8604752002?gh_jid=8604752002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8604752002
+
+#### 🔄 Sr. Mechanical Engineer, Flight Termination System (Starship)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940019002?gh_jid=8940019002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940019002
+
+#### 🔄 Sr. Mechanical Engineer (Gas/Steam Turbines)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829704002?gh_jid=8829704002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829704002
+
+#### 🔄 Sr. Mechanical Engineer (HVAC)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8579761002?gh_jid=8579761002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8579761002
+
+#### 🔄 Sr. Mechanical Engineer, Infrastructure
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8735901002?gh_jid=8735901002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8735901002
+
+#### 🔄 Sr. Mechanical Engineer, Insource Manufacturing (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932874002?gh_jid=8932874002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932874002
+
+#### 🔄 Sr. Mechanical Engineer (MEP/Construction)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8729104002?gh_jid=8729104002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8729104002
+
+#### 🔄 Sr. Mechanical Engineer, Operations (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703208002?gh_jid=8703208002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703208002
+
+#### 🔄 Sr. Mechanical Engineer, Optical Production (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Optics Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948567002?gh_jid=8948567002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948567002
+
+#### 🔄 Sr. Mechanical Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928856002?gh_jid=8928856002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928856002
+
+#### 🔄 Sr. Mechanical Engineer, Solar Cell Factory
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919797002?gh_jid=8919797002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919797002
+
+#### 🔄 Sr. Mechanical Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944230002?gh_jid=8944230002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944230002
+
+#### 🔄 Sr. Mechanical Engineer (Starship Avionics)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8456811002?gh_jid=8456811002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8456811002
+
+#### 🔄 Sr. Mechanical Process Engineer, PCB (Starlink/Starmind)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8905936002?gh_jid=8905936002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8905936002
+
+#### 🔄 Sr. Mission Integration Engineer, Mission and Ground Systems - Top Secret Clearance
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8908887002?gh_jid=8908887002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8908887002
+
+#### 🔄 Sr. MMIC Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642074002?gh_jid=8642074002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642074002
+
+#### 🔄 Sr. Network Edge Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784066002?gh_jid=8784066002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784066002
+
+#### 🔄 Sr. Network Engineer
+**Greenhouse** · spacex · Starship Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692506002?gh_jid=8692506002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692506002
+
+#### 🔄 Sr. Network Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808186002?gh_jid=8808186002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808186002
+
+#### 🔄 Sr. Network Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808192002?gh_jid=8808192002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808192002
+
+#### 🔄 Sr. Network Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829677002?gh_jid=8829677002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829677002
+
+#### 🔄 Sr. Network Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8808194002?gh_jid=8808194002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8808194002
+
+#### 🔄 Sr. Network Engineer (Enterprise Product Development)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943829002?gh_jid=8943829002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943829002
+
+#### 🔄 Sr. Network Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609670002?gh_jid=8609670002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609670002
+
+#### 🔄 Sr. Network Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609666002?gh_jid=8609666002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609666002
+
+#### 🔄 Sr. Network Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8806384002?gh_jid=8806384002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8806384002
+
+#### 🔄 Sr. Network Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893738002?gh_jid=8893738002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893738002
+
+#### 🔄 Sr. Network Security Engineer
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893739002?gh_jid=8893739002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893739002
+
+#### 🔄 Sr. Network Security Engineer (Firewalls)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8958832002?gh_jid=8958832002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8958832002
+
+#### 🔄 Sr. Network Security Engineer (VPN)
+**Greenhouse** · spacex · Security Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627634002?gh_jid=8627634002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627634002
+
+#### 🔄 Sr. Network Security Engineer (VPN)
+**Greenhouse** · spacex · Security Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627630002?gh_jid=8627630002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627630002
+
+#### 🔄 Sr. Network Security Engineer (VPN)
+**Greenhouse** · spacex · Security Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8626661002?gh_jid=8626661002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8626661002
+
+#### 🔄 Sr. Network Security Engineer (VPN)
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627633002?gh_jid=8627633002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627633002
+
+#### 🔄 Sr. Offensive Security Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945741002?gh_jid=8945741002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945741002
+
+#### 🔄 Sr. Offensive Security Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945762002?gh_jid=8945762002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945762002
+
+#### 🔄 Sr. Operations Engineer, Blades and Vanes Foundry
+**Greenhouse** · spacex · Materials Engineering - Core
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865223002?gh_jid=8865223002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865223002
+
+#### 🔄 Sr. Operations Engineer, Genetec
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957465002?gh_jid=8957465002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957465002
+
+#### 🔄 Sr. Operations Engineer, Security Hardware
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950526002?gh_jid=8950526002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950526002
+
+#### 🔄 Sr. Operations Engineer (Starship Machining)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8848876002?gh_jid=8848876002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8848876002
+
+#### 🔄 Sr. Operations Engineer, Starship Production (Starbase)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624742002?gh_jid=8624742002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624742002
+
+#### 🔄 Sr. Optical Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748858002?gh_jid=8748858002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748858002
+
+#### 🔄 Sr. Optical Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8859402002?gh_jid=8859402002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8859402002
+
+#### 🔄 Sr. Optical Network Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784050002?gh_jid=8784050002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784050002
+
+#### 🔄 Sr. Optical Transceiver Engineer - High Speed Links, Satelites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8826314002?gh_jid=8826314002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8826314002
+
+#### 🔄 Sr. OT Systems Engineer, Propellant Generation & Industrial Systems
+**Greenhouse** · spacex · Information Technology - Business
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949432002?gh_jid=8949432002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949432002
+
+#### 🔄 Sr. Packaging Engineer - Thermal Materials, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8645200002?gh_jid=8645200002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8645200002
+
+#### 🔄 Sr. Partnerships Manager (Starlink Business Aviation)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657724002?gh_jid=8657724002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657724002
+
+#### 🔄 Sr. Partnerships Manager (Starlink Business Aviation)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8721074002?gh_jid=8721074002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8721074002
+
+#### 🔄 Sr. PCB Designer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8662843002?gh_jid=8662843002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8662843002
+
+#### 🔄 Sr. PCB Designer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931232002?gh_jid=8931232002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931232002
+
+#### 🔄 Sr. PCB Designer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8941867002?gh_jid=8941867002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8941867002
+
+#### 🔄 Sr. PCB Designer (Starship)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726753002?gh_jid=8726753002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726753002
+
+#### 🔄 Sr. PDK Engineer (Starlink/Akoustis)
+**Greenhouse** · spacex · Akoustis - Starlink
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697121002?gh_jid=8697121002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697121002
+
+#### 🔄 Sr. Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Palo Alto
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694862002?gh_jid=8694862002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694862002
+
+#### 🔄 Sr. Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Corporate
+📍 Pecan Island, LA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943802002?gh_jid=8943802002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943802002
+
+#### 🔄 Sr. Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - Vandenberg
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926159002?gh_jid=8926159002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926159002
+
+#### 🔄 Sr. Physical Security Hardware Specialist
+**Greenhouse** · spacex · Security - McGregor
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8888957002?gh_jid=8888957002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8888957002
+
+#### 🔄 Sr. Platform Integrity Analyst (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956534002?gh_jid=8956534002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956534002
+
+#### 🔄 Sr. Platform Integrity Analyst (Starlink)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8956538002?gh_jid=8956538002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8956538002
+
+#### 🔄 Sr. Power Electronics Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930478002?gh_jid=8930478002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930478002
+
+#### 🔄 Sr. Power Electronics Engineer - High Voltage, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929061002?gh_jid=8929061002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929061002
+
+#### 🔄 Sr. Power Electronics Engineer (Starship)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692896002?gh_jid=8692896002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692896002
+
+#### 🔄 Sr. Power Plant Engineer
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8814718002?gh_jid=8814718002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8814718002
+
+#### 🔄 Sr. Power Systems Engineer (Facilities)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950615002?gh_jid=8950615002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950615002
+
+#### 🔄 Sr. Power Systems Engineer (Starship)
+**Greenhouse** · spacex · High Power Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8631444002?gh_jid=8631444002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8631444002
+
+#### 🔄 Sr. Process Controls Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922126002?gh_jid=8922126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922126002
+
+#### 🔄 Sr. Process Engineer, Industrial Water Treatment (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8588146002?gh_jid=8588146002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8588146002
+
+#### 🔄 Sr. Process Engineer - Wafer Level Assembly, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8645265002?gh_jid=8645265002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8645265002
+
+#### 🔄 Sr. Process Safety Engineer
+**Greenhouse** · spacex · EHS - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907774002?gh_jid=8907774002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907774002
+
+#### 🔄 Sr. Production Reliability Engineer (Starship Electronics)
+**Greenhouse** · spacex · Starship Electronics Production - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936449002?gh_jid=8936449002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936449002
+
+#### 🔄 Sr. Product Sales Manager (High Speed Connectivity)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687838002?gh_jid=8687838002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687838002
+
+#### 🔄 Sr. Product Sales Manager (High Speed Connectivity)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688017002?gh_jid=8688017002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688017002
+
+#### 🔄 Sr. Product Sales Manager (High Speed Connectivity)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688018002?gh_jid=8688018002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688018002
+
+#### 🔄 Sr. Product Sales Manager (High Speed Connectivity)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688019002?gh_jid=8688019002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688019002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Aviaiton)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686301002?gh_jid=8686301002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686301002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687994002?gh_jid=8687994002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687994002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687992002?gh_jid=8687992002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687992002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687987002?gh_jid=8687987002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687987002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Fixed Site)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686539002?gh_jid=8686539002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686539002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Fixed Site)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688007002?gh_jid=8688007002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688007002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Fixed Site)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688012002?gh_jid=8688012002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688012002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Fixed Site)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688016002?gh_jid=8688016002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688016002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Maritime)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688005002?gh_jid=8688005002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688005002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Maritime)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8688001002?gh_jid=8688001002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8688001002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Maritime)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687996002?gh_jid=8687996002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687996002
+
+#### 🔄 Sr. Product Sales Manager (Starlink Maritime)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686339002?gh_jid=8686339002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686339002
+
+#### 🔄 Sr. Product Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815815002?gh_jid=8815815002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815815002
+
+#### 🔄 Sr. Product Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815816002?gh_jid=8815816002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815816002
+
+#### 🔄 Sr. Product Security Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815817002?gh_jid=8815817002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815817002
+
+#### 🔄 Sr. Professional Geologist
+**Greenhouse** · spacex · EHS - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675304002?gh_jid=8675304002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675304002
+
+#### 🔄 Sr. Propulsion Analyst, Chamber and Nozzle (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703248002?gh_jid=8703248002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703248002
+
+#### 🔄 Sr. Propulsion Analyst, Structures (Raptor)
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961632002?gh_jid=8961632002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961632002
+
+#### 🔄 Sr. Propulsion Engineer (Raptor Combustion Devices)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654586002?gh_jid=8654586002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654586002
+
+#### 🔄 Sr. Propulsion Engineer (Raptor Flight)
+**Greenhouse** · spacex · Raptor Flight Operations
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8665258002?gh_jid=8665258002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8665258002
+
+#### 🔄 Sr. Propulsion Engineer (Starship)
+**Greenhouse** · spacex · Booster Prop Systems Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8721899002?gh_jid=8721899002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8721899002
+
+#### 🔄 Sr. Propulsion Fluids Analyst (Raptor Systems Engineering)
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605151002?gh_jid=8605151002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605151002
+
+#### 🔄 Sr. Radiation Effects Engineer
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727578002?gh_jid=8727578002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727578002
+
+#### 🔄 Sr. Radiation Effects Engineer
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727601002?gh_jid=8727601002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727601002
+
+#### 🔄 Sr. RAN Software Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8673035002?gh_jid=8673035002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8673035002
+
+#### 🔄 Sr. RAN Software Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8672784002?gh_jid=8672784002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8672784002
+
+#### 🔄 Sr. Real Estate Analyst
+**Greenhouse** · spacex · Real Estate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932126002?gh_jid=8932126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932126002
+
+#### 🔄 Sr. Real Estate Analyst
+**Greenhouse** · spacex · Real Estate
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568912002?gh_jid=8568912002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8568912002
+
+#### 🔄 Sr. Recruiter, Go-To-Market (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864869002?gh_jid=8864869002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864869002
+
+#### 🔄 Sr. Recruiter, Go-To-Market (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864877002?gh_jid=8864877002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864877002
+
+#### 🔄 Sr. Recruiter, High Volume Manufacturing (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864879002?gh_jid=8864879002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864879002
+
+#### 🔄 Sr. Recruiter, High Volume Manufacturing (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864873002?gh_jid=8864873002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864873002
+
+#### 🔄 Sr. Regulatory Affairs Engineer
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934259002?gh_jid=8934259002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934259002
+
+#### 🔄 Sr. Regulatory Counsel, Data Center Power & Utilities
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936576002?gh_jid=8936576002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936576002
+
+#### 🔄 Sr. Regulatory Counsel, Data Center Power & Utilities
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936577002?gh_jid=8936577002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936577002
+
+#### 🔄 Sr. Regulatory Counsel, Data Center Power & Utilities
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936575002?gh_jid=8936575002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936575002
+
+#### 🔄 Sr. Regulatory Counsel, Data Center Power & Utilities
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936558002?gh_jid=8936558002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936558002
+
+#### 🔄 Sr. Responsible Engineer - Turbomachinery (Starship)
+**Greenhouse** · spacex · Mars Development Engineering
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642250002?gh_jid=8642250002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642250002
+
+#### 🔄 Sr. RF Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621992002?gh_jid=8621992002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621992002
+
+#### 🔄 Sr. RF Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940613002?gh_jid=8940613002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940613002
+
+#### 🔄 Sr. RFIC Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642078002?gh_jid=8642078002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642078002
+
+#### 🔄 Sr. RFIC Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642084002?gh_jid=8642084002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642084002
+
+#### 🔄 Sr. RFIC Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642083002?gh_jid=8642083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642083002
+
+#### 🔄 Sr. RFIC Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8567083002?gh_jid=8567083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8567083002
+
+#### 🔄 Sr. RFIC Layout Designer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642096002?gh_jid=8642096002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642096002
+
+#### 🔄 Sr. RFIC Layout Designer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642095002?gh_jid=8642095002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642095002
+
+#### 🔄 Sr. RFIC Layout Designer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642092002
+
+#### 🔄 Sr. RFIC Layout Designer (Starshield Silicon)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8633426002?gh_jid=8633426002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8633426002
+
+#### 🔄 Sr. RF/Microwave Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642097002?gh_jid=8642097002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642097002
+
+#### 🔄 Sr. RF/Microwave Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929027002?gh_jid=8929027002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929027002
+
+#### 🔄 Sr. RF Silicon Software Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842894002?gh_jid=8842894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842894002
+
+#### 🔄 Sr. RF Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624890002?gh_jid=8624890002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624890002
+
+#### 🔄 Sr. RF Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573920002?gh_jid=8573920002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573920002
+
+#### 🔄 Sr. RF Systems Analysis Engineer, Regulatory (Starlink)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687990002?gh_jid=8687990002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687990002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8566839002?gh_jid=8566839002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8566839002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Remote - FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8748871002?gh_jid=8748871002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8748871002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642279002?gh_jid=8642279002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642279002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642280002?gh_jid=8642280002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642280002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642281002?gh_jid=8642281002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642281002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642282002?gh_jid=8642282002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642282002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716209002?gh_jid=8716209002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716209002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Remote - TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701938002?gh_jid=8701938002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701938002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Remote - MI | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8566905002?gh_jid=8566905002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8566905002
+
+#### 🔄 Sr. Sales Manager (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Remote - CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8689192002?gh_jid=8689192002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8689192002
+
+#### 🔄 Sr. Sales Manager, SLED (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962381002?gh_jid=8962381002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962381002
+
+#### 🔄 Sr. Sales Manager, SLED (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962384002?gh_jid=8962384002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962384002
+
+#### 🔄 Sr. Sales Manager, SLED (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962386002?gh_jid=8962386002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962386002
+
+#### 🔄 Sr. Sales Manager, SLED (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962383002?gh_jid=8962383002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962383002
+
+#### 🔄 Sr. Sales Manager, SLED (Global Starlink Enterprise Sales)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962360002?gh_jid=8962360002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962360002
+
+#### 🔄 Sr. Satellite Policy Associate (Starlink Regulatory Affairs)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8750691002?gh_jid=8750691002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8750691002
+
+#### 🔄 Sr. Satellite Policy Manager (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Regulatory
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624755002?gh_jid=8624755002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624755002
+
+#### 🔄 Sr. Scheduler (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8788235002?gh_jid=8788235002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8788235002
+
+#### 🔄 Sr. Screen Printing Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653957002?gh_jid=8653957002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653957002
+
+#### 🔄 Sr. Security Analyst
+**Greenhouse** · spacex · Security Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8822829002?gh_jid=8822829002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8822829002
+
+#### 🔄 Sr. Security Analyst (Threat Detection)
+**Greenhouse** · spacex · Security Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893750002?gh_jid=8893750002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893750002
+
+#### 🔄 Sr. Security Analyst (Threat Detection)
+**Greenhouse** · spacex · Security Operations
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959552002?gh_jid=8959552002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959552002
+
+#### 🔄 Sr. Security Engineer (Detection Engineering)
+**Greenhouse** · spacex · Security Operations
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959558002?gh_jid=8959558002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959558002
+
+#### 🔄 Sr. Security Engineer (Infrastructure)
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893748002?gh_jid=8893748002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893748002
+
+#### 🔄 Sr. Security Engineer (Vulnerability Management)
+**Greenhouse** · spacex · Security Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950499002?gh_jid=8950499002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950499002
+
+#### 🔄 Sr. Security Software Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815812002?gh_jid=8815812002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815812002
+
+#### 🔄 Sr. Security Software Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815814002?gh_jid=8815814002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815814002
+
+#### 🔄 Sr. Security Software Engineer (Starlink)
+**Greenhouse** · spacex · Product Security - Starlink
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815813002?gh_jid=8815813002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815813002
+
+#### 🔄 Sr. Security Software Enginer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8738721002?gh_jid=8738721002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8738721002
+
+#### 🔄 Sr. Security Software Enginer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8738736002?gh_jid=8738736002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8738736002
+
+#### 🔄 Sr. Sensor Development Engineer (Starship)
+**Greenhouse** · spacex · Starship Electronics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571785002?gh_jid=8571785002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571785002
+
+#### 🔄 Sr. Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935645002?gh_jid=8935645002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935645002
+
+#### 🔄 Sr. Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935639002?gh_jid=8935639002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935639002
+
+#### 🔄 Sr. Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935643002?gh_jid=8935643002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935643002
+
+#### 🔄 Sr. Server Hardware Systems Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935627002?gh_jid=8935627002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935627002
+
+#### 🔄 Sr. Signal Integrity Engineer - Serdes, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627692002?gh_jid=8627692002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627692002
+
+#### 🔄 Sr. Silicon Photonics Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893577002?gh_jid=8893577002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893577002
+
+#### 🔄 Sr. Silicon Photonics Design Engineer (RFIC Engineering)
+**Greenhouse** · spacex · RFIC Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642116002?gh_jid=8642116002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642116002
+
+#### 🔄 Sr. Simulation Software Engineer (Vehicle Engineering)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829326002?gh_jid=8829326002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829326002
+
+#### 🔄 Sr. SI/PI Engineer - Serdes, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Payload Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8627694002?gh_jid=8627694002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8627694002
+
+#### 🔄 Sr. Site Reliability Engineer
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928311002?gh_jid=8928311002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928311002
+
+#### 🔄 Sr. Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807840002?gh_jid=8807840002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807840002
+
+#### 🔄 Sr. Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807844002?gh_jid=8807844002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807844002
+
+#### 🔄 Sr. Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829684002?gh_jid=8829684002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829684002
+
+#### 🔄 Sr. Site Reliability Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8807816002?gh_jid=8807816002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8807816002
+
+#### 🔄 Sr. Site Reliability Engineer (Application Software)
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611174002?gh_jid=8611174002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611174002
+
+#### 🔄 Sr. Site Reliability Engineer, Data Center Infrastructure
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882642002?gh_jid=8882642002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882642002
+
+#### 🔄 Sr. Site Reliability Engineer, Infrastructure
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928312002?gh_jid=8928312002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928312002
+
+#### 🔄 Sr. Site Reliability Engineer, Platform Infrastructure
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880755002?gh_jid=8880755002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880755002
+
+#### 🔄 Sr. Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654199002?gh_jid=8654199002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654199002
+
+#### 🔄 Sr. Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639503002?gh_jid=8639503002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639503002
+
+#### 🔄 Sr. Site Reliability Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8654200002?gh_jid=8654200002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8654200002
+
+#### 🔄 Sr. Site Reliability Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8597497002?gh_jid=8597497002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8597497002
+
+#### 🔄 Sr. Site Reliability Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8597536002?gh_jid=8597536002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8597536002
+
+#### 🔄 Sr. Site Reliability Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8597547002?gh_jid=8597547002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8597547002
+
+#### 🔄 Sr. Site Reliability Engineer - Top Secret Clearance (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8640515002?gh_jid=8640515002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8640515002
+
+#### 🔄 Sr. Site Reliability Engineer - Top Secret Clearance (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701706002?gh_jid=8701706002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701706002
+
+#### 🔄 Sr. SOC/ASIC Physical Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564781002?gh_jid=8564781002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564781002
+
+#### 🔄 Sr. SOC/ASIC Physical Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564795002?gh_jid=8564795002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564795002
+
+#### 🔄 Sr. SOC/ASIC Physical Design Engineer (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8564796002?gh_jid=8564796002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8564796002
+
+#### 🔄 Sr. Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726252002?gh_jid=8726252002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726252002
+
+#### 🔄 Sr. Software Engineer
+**Greenhouse** · spacex · Application Software
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928979002?gh_jid=8928979002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928979002
+
+#### 🔄 Sr. Software Engineer, Additive Manufacturing (Raptor)
+**Greenhouse** · spacex · Raptor Software - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8843293002?gh_jid=8843293002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8843293002
+
+#### 🔄 Sr. Software Engineer (AI Data Engineering)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880858002?gh_jid=8880858002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880858002
+
+#### 🔄 Sr. Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861768002?gh_jid=8861768002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861768002
+
+#### 🔄 Sr. Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861767002?gh_jid=8861767002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861767002
+
+#### 🔄 Sr. Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861764002?gh_jid=8861764002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861764002
+
+#### 🔄 Sr. Software Engineer, AI Infrastructure (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861751002?gh_jid=8861751002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861751002
+
+#### 🔄 Sr. Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940248002?gh_jid=8940248002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940248002
+
+#### 🔄 Sr. Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940244002?gh_jid=8940244002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940244002
+
+#### 🔄 Sr. Software Engineer, CDN (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940235002?gh_jid=8940235002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940235002
+
+#### 🔄 Sr. Software Engineer, C++ (Dragon)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8602061002?gh_jid=8602061002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8602061002
+
+#### 🔄 Sr. Software Engineer (Components)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842950002?gh_jid=8842950002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842950002
+
+#### 🔄 Sr. Software Engineer, Components Test (Starshield)
+**Greenhouse** · spacex · Components Test - Starshield
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568934002?gh_jid=8568934002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8568934002
+
+#### 🔄 Sr. Software Engineer, Computer Vision
+**Greenhouse** · spacex · NonDestructive Evaluation - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959528002?gh_jid=8959528002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959528002
+
+#### 🔄 Sr. Software Engineer, C++ (Simulations)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829330002?gh_jid=8829330002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829330002
+
+#### 🔄 Sr. Software Engineer, Data Platform (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8750881002?gh_jid=8750881002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8750881002
+
+#### 🔄 Sr. Software Engineer, Data (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8750868002?gh_jid=8750868002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8750868002
+
+#### 🔄 Sr. Software Engineer, DevOps (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8576894002?gh_jid=8576894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8576894002
+
+#### 🔄 Sr. Software Engineer, Full Stack (Data & Video Analysis)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927923002?gh_jid=8927923002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927923002
+
+#### 🔄 Sr. Software Engineer, HITL - Top Secret Clearance
+**Greenhouse** · spacex · Special Programs Missions
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8749217002?gh_jid=8749217002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8749217002
+
+#### 🔄 Sr. Software Engineer, Network Observability (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871849002?gh_jid=8871849002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871849002
+
+#### 🔄 Sr. Software Engineer, Platform
+**Greenhouse** · spacex · Application Software
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8860711002?gh_jid=8860711002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8860711002
+
+#### 🔄 Sr. Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940438002?gh_jid=8940438002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940438002
+
+#### 🔄 Sr. Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Sunnyvale, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940441002?gh_jid=8940441002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940441002
+
+#### 🔄 Sr. Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940442002?gh_jid=8940442002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940442002
+
+#### 🔄 Sr. Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940444002?gh_jid=8940444002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940444002
+
+#### 🔄 Sr. Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940443002?gh_jid=8940443002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940443002
+
+#### 🔄 Sr. Software Engineer (Platform Team)
+**Greenhouse** · spacex · Starship Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940083002?gh_jid=8940083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940083002
+
+#### 🔄 Sr. Software Engineer, Propulsion Simulation & Data Analysis (Raptor)
+**Greenhouse** · spacex · Raptor Systems - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8581310002?gh_jid=8581310002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8581310002
+
+#### 🔄 Sr. Software Engineer, Simulations (Vehicle Engineering)
+**Greenhouse** · spacex · Vehicle Engineering Software & AI
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8829320002?gh_jid=8829320002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8829320002
+
+#### 🔄 Sr. Software Engineer (Special Projects) - Top Secret Clearance
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568980002?gh_jid=8568980002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8568980002
+
+#### 🔄 Sr. Software Engineer (Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642277002?gh_jid=8642277002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642277002
+
+#### 🔄 Sr. Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924709002?gh_jid=8924709002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924709002
+
+#### 🔄 Sr. Software Engineer (Starlink Enterprise)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927341002?gh_jid=8927341002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927341002
+
+#### 🔄 Sr. Software Engineer (Starlink Ground Network)
+**Greenhouse** · spacex · Starlink Ground Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961082002?gh_jid=8961082002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961082002
+
+#### 🔄 Sr. Software Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935801002?gh_jid=8935801002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935801002
+
+#### 🔄 Sr. Software Engineer (Starlink Mobile)
+**Greenhouse** · spacex · Starlink Mobile Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935776002?gh_jid=8935776002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935776002
+
+#### 🔄 Sr. Software Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8684403002?gh_jid=8684403002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8684403002
+
+#### 🔄 Sr. Software Engineer, Telemetry (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656520002?gh_jid=8656520002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656520002
+
+#### 🔄 Sr. Software Engineer, Telemetry (Starlink)
+**Greenhouse** · spacex · Starlink Network Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8631952002?gh_jid=8631952002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8631952002
+
+#### 🔄 Sr. Software Infrastructure Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Site Reliability Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573254002?gh_jid=8573254002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573254002
+
+#### 🔄 Sr. Sourcing Specialist (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957229002?gh_jid=8957229002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957229002
+
+#### 🔄 Sr. Sourcing Specialist (Compute Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957217002?gh_jid=8957217002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957217002
+
+#### 🔄 Sr. Sourcing Specialist, Construction
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886301002?gh_jid=8886301002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886301002
+
+#### 🔄 Sr. Sourcing Specialist, Construction
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886091002?gh_jid=8886091002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886091002
+
+#### 🔄 Sr. Sourcing Specialist, Construction
+**Greenhouse** · spacex · Supply Chain Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854007002?gh_jid=8854007002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854007002
+
+#### 🔄 Sr. Sourcing Specialist, Electronics (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8920761002?gh_jid=8920761002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8920761002
+
+#### 🔄 Sr. Sourcing Specialist, Indirect
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8854388002?gh_jid=8854388002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8854388002
+
+#### 🔄 Sr. Sourcing Specialist, Infrastructure (Supercomputer)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8910455002?gh_jid=8910455002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8910455002
+
+#### 🔄 Sr. Sourcing Specialist, Mechanical (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8692434002?gh_jid=8692434002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8692434002
+
+#### 🔄 Sr. Sourcing Specialist (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957211002?gh_jid=8957211002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957211002
+
+#### 🔄 Sr. Sourcing Specialist (Network Infrastructure)
+**Greenhouse** · spacex · Supercompute and Operations
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957226002?gh_jid=8957226002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957226002
+
+#### 🔄 Sr. Sourcing Specialist (PCB/PCBA)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943099002?gh_jid=8943099002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943099002
+
+#### 🔄 Sr. Sourcing Specialist (PCB/PCBA)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8864349002?gh_jid=8864349002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8864349002
+
+#### 🔄 Sr. Sourcing Specialist, PCB/PCBA (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719838002?gh_jid=8719838002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719838002
+
+#### 🔄 Sr. Sourcing Specialist (Power Generation)
+**Greenhouse** · spacex · Starbase Supercompute
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949365002?gh_jid=8949365002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949365002
+
+#### 🔄 Sr. Sourcing Specialist (Raptor)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871004002?gh_jid=8871004002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871004002
+
+#### 🔄 Sr. Sourcing Specialist (SpaceXSI Power Generation)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929162002?gh_jid=8929162002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929162002
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931062002?gh_jid=8931062002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931062002
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928694002?gh_jid=8928694002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928694002
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8706220002?gh_jid=8706220002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8706220002
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8593375002?gh_jid=8593375002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8593375002
+
+#### 🔄 Sr. Sourcing Specialist (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943109002?gh_jid=8943109002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943109002
+
+#### 🔄 Sr. Sourcing Specialist (Starship Launch Pad)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935168002?gh_jid=8935168002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935168002
+
+#### 🔄 Sr. Sourcing Specialist (Starship Pad)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8730689002?gh_jid=8730689002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8730689002
+
+#### 🔄 Sr. Space Lasers Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925539002?gh_jid=8925539002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925539002
+
+#### 🔄 Sr. Structural Analyst (Raptor Combustion Devices)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959224002?gh_jid=8959224002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959224002
+
+#### 🔄 Sr. Structural Engineer (Starship Launch Pad )
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573859002?gh_jid=8573859002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573859002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Special Programs
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943755002?gh_jid=8943755002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943755002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Special Programs
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947907002?gh_jid=8947907002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947907002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943309002?gh_jid=8943309002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943309002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947837002?gh_jid=8947837002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947837002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947834002?gh_jid=8947834002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947834002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947898002?gh_jid=8947898002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947898002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943628002?gh_jid=8943628002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943628002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947894002?gh_jid=8947894002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947894002
+
+#### 🔄 Sr. Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949394002?gh_jid=8949394002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949394002
+
+#### 🔄 Sr. Supplier Development Engineer
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912121002?gh_jid=8912121002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912121002
+
+#### 🔄 Sr. Supplier Development Engineer, Data Center (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8642976002?gh_jid=8642976002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8642976002
+
+#### 🔄 Sr. Supplier Development Engineer, Data Center (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8645827002?gh_jid=8645827002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8645827002
+
+#### 🔄 Sr. Supplier Development Engineer, Data Center (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653632002?gh_jid=8653632002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653632002
+
+#### 🔄 Sr. Supplier Development Engineer, Fabrications (Launch Site)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Remote - TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961516002?gh_jid=8961516002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961516002
+
+#### 🔄 Sr. Supplier Development Engineer, Fluid Systems (Launch Site)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Remote - TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8961530002?gh_jid=8961530002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8961530002
+
+#### 🔄 Sr. Supplier Development Engineer, Mechanical Metrology (Starlink)
+**Greenhouse** · spacex · Starlink Product Supply Chain Reliability
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8622760002?gh_jid=8622760002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8622760002
+
+#### 🔄 Sr. Supplier Development Engineer (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893479002?gh_jid=8893479002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893479002
+
+#### 🔄 Sr. Supplier Development Engineer (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8586113002?gh_jid=8586113002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8586113002
+
+#### 🔄 Sr. Supplier Quality Specialist, Data Center (Starlink) - Memphis
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8653649002?gh_jid=8653649002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8653649002
+
+#### 🔄 Sr. Supply Chain Planner (Launch Vehicle Electronic Systems)
+**Greenhouse** · spacex · Falcon Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643675002?gh_jid=8643675002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643675002
+
+#### 🔄 Sr. Supply Chain Planner (Raptor)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871026002?gh_jid=8871026002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871026002
+
+#### 🔄 Sr. Supply Chain Planner, SpaceXSI
+**Greenhouse** · spacex · Starlink - Supply Chain Planning
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8606899002?gh_jid=8606899002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8606899002
+
+#### 🔄 Sr. Supply Chain Planner, SpaceXSI
+**Greenhouse** · spacex · Starlink - Supply Chain Planning
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842011002?gh_jid=8842011002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842011002
+
+#### 🔄 Sr. Supply Chain Planner (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927064002?gh_jid=8927064002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927064002
+
+#### 🔄 Sr. Supply Chain Planner (Starship)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8490731002?gh_jid=8490731002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8490731002
+
+#### 🔄 Sr. Supply Chain Planner (Starship)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8857350002?gh_jid=8857350002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8857350002
+
+#### 🔄 Sr. Supply Chain Planner (Starship)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861819002?gh_jid=8861819002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861819002
+
+#### 🔄 Sr. Talent Sourcer (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907768002?gh_jid=8907768002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907768002
+
+#### 🔄 Sr. Talent Sourcer (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907759002?gh_jid=8907759002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907759002
+
+#### 🔄 Sr. Tax Analyst
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8890001002?gh_jid=8890001002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8890001002
+
+#### 🔄 Sr. Technical Business Development Manager (Starlink)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570129002?gh_jid=8570129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570129002
+
+#### 🔄 Sr. Technical Business Development Manager (Starlink)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8570105002?gh_jid=8570105002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8570105002
+
+#### 🔄 Sr. Technical Operations Engineer, Customer Experience (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948784002?gh_jid=8948784002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948784002
+
+#### 🔄 Sr. Technical Project Lead (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8610397002?gh_jid=8610397002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8610397002
+
+#### 🔄 Sr. Technical Project Lead (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Irvine, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8610399002?gh_jid=8610399002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8610399002
+
+#### 🔄 Sr. Technical Project Lead (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8610398002?gh_jid=8610398002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8610398002
+
+#### 🔄 Sr. Technical Project Lead (Silicon Engineering)
+**Greenhouse** · spacex · Silicon Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8610400002?gh_jid=8610400002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8610400002
+
+#### 🔄 Sr. Technical Recruiter
+**Greenhouse** · spacex · Recruiting
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639395002?gh_jid=8639395002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639395002
+
+#### 🔄 Sr. Technical Recruiter (Starbase)
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681168002?gh_jid=8681168002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681168002
+
+#### 🔄 Sr. Technical Recruiter (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694879002?gh_jid=8694879002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694879002
+
+#### 🔄 Sr. Technical Recruiter (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694846002?gh_jid=8694846002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694846002
+
+#### 🔄 Sr. Technical Sales Architect (Starlink)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8803653002?gh_jid=8803653002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8803653002
+
+#### 🔄 Sr. Thermal Engineer - Fluids Analysis, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647020002?gh_jid=8647020002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647020002
+
+#### 🔄 Sr. Thermal Engineer - Spacecraft Analysis, AI Satellites (Starmind)
+**Greenhouse** · spacex · Mesh Optical
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647000002?gh_jid=8647000002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647000002
+
+#### 🔄 Sr. Thermal Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924499002?gh_jid=8924499002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924499002
+
+#### 🔄 Sr. Tooling Designer, Injection Molding
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926166002?gh_jid=8926166002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926166002
+
+#### 🔄 Sr. Tooling Designer, Investment Casting
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818102002?gh_jid=8818102002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818102002
+
+#### 🔄 Sr. Tooling Engineer, Plastic Injection Molding (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8574347002?gh_jid=8574347002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8574347002
+
+#### 🔄 Sr. Trajectory Analysis Engineer (Starship)
+**Greenhouse** · spacex · Starship GNC
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584829002?gh_jid=8584829002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584829002
+
+#### 🔄 Sr. Trajectory Analysis Engineer (Starship)
+**Greenhouse** · spacex · Starship GNC
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8584754002?gh_jid=8584754002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8584754002
+
+#### 🔄 Sr. Transmission & Generation Planning Engineer (PE)
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935339002?gh_jid=8935339002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935339002
+
+#### 🔄 Sr. Transmission & Generation Planning Engineer (PE)
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935337002?gh_jid=8935337002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935337002
+
+#### 🔄 Sr. Transmission & Generation Planning Engineer (PE)
+**Greenhouse** · spacex · Legal and Environmental Operations - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8912807002?gh_jid=8912807002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8912807002
+
+#### 🔄 Sr. Treasury Analyst
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8643595002?gh_jid=8643595002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8643595002
+
+#### 🔄 Sr. Water Treatment Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8558147002?gh_jid=8558147002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8558147002
+
+#### 🔄 Sr. Welding Engineer
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8616920002?gh_jid=8616920002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8616920002
+
+#### 🔄 Sr. Wet Process Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700413002?gh_jid=8700413002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700413002
+
+#### 🔄 Sr. Wi-Fi Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716120002?gh_jid=8716120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716120002
+
+#### 🔄 Sr. Wi-Fi Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716131002?gh_jid=8716131002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716131002
+
+#### 🔄 Starlink Account Manager (Canadian Federal)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727059002?gh_jid=8727059002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727059002
+
+#### 🔄 Starlink Account Manager (Canadian Federal)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727400002?gh_jid=8727400002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727400002
+
+#### 🔄 Starlink Account Manager (State & Local Government)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727043002?gh_jid=8727043002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727043002
+
+#### 🔄 Starlink Account Manager (State & Local Government)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727052002?gh_jid=8727052002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727052002
+
+#### 🔄 Starlink Account Manager (US Federal)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675298002?gh_jid=8675298002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675298002
+
+#### 🔄 Starlink Account Manager (US Federal)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675291002?gh_jid=8675291002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675291002
+
+#### 🔄 Starlink Assembly Technician
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686885002?gh_jid=8686885002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686885002
+
+#### 🔄 Starlink Aviation Integration Technician
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686209002?gh_jid=8686209002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686209002
+
+#### 🔄 Starlink Aviation Production Technician (Entry Level, Temporary)
+**Greenhouse** · spacex · Starlink Aviation Production - Redmond
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928271002?gh_jid=8928271002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928271002
+
+#### 🔄 Starlink Aviation Specialist
+**Greenhouse** · spacex · Starlink Aviation Reliability
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8737007002?gh_jid=8737007002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8737007002
+
+#### 🔄 Starlink Communications Manager (Campaign Management)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8875162002?gh_jid=8875162002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8875162002
+
+#### 🔄 Starlink Communications Manager (Consumer Lifecycle)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782703002?gh_jid=8782703002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782703002
+
+#### 🔄 Starlink Communications Manager (Customer Knowledge)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886635002?gh_jid=8886635002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886635002
+
+#### 🔄 Starlink Customer Success Manager, Africa
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865070002?gh_jid=8865070002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865070002
+
+#### 🔄 Starlink Customer Success Manager, Africa
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865090002?gh_jid=8865090002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865090002
+
+#### 🔄 Starlink Customer Success Manager, Africa
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865091002?gh_jid=8865091002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865091002
+
+#### 🔄 Starlink Customer Success Manager (Land Mobile)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758583002?gh_jid=8758583002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758583002
+
+#### 🔄 Starlink Customer Success Manager (Land Mobile)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758582002?gh_jid=8758582002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758582002
+
+#### 🔄 Starlink Customer Success Manager (Land Mobile)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758566002?gh_jid=8758566002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758566002
+
+#### 🔄 Starlink Customer Success Manager (Latam Backhaul)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758599002?gh_jid=8758599002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758599002
+
+#### 🔄 Starlink Customer Success Manager (Latam Backhaul)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758598002?gh_jid=8758598002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758598002
+
+#### 🔄 Starlink Customer Success Manager (Latam Backhaul)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758585002?gh_jid=8758585002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758585002
+
+#### 🔄 Starlink Customer Success Manager, Latin America
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865037002?gh_jid=8865037002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865037002
+
+#### 🔄 Starlink Customer Success Manager, Latin America
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865038002?gh_jid=8865038002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865038002
+
+#### 🔄 Starlink Customer Success Manager, Latin America
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8865012002?gh_jid=8865012002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8865012002
+
+#### 🔄 Starlink Customer Success Manager (Transit)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8758321002?gh_jid=8758321002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8758321002
+
+#### 🔄 Starlink Customer Success Specialist
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928458002?gh_jid=8928458002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928458002
+
+#### 🔄 Starlink Customer Success Specialist (Brazil)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922855002?gh_jid=8922855002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922855002
+
+#### 🔄 Starlink Customer Success Specialist (Latin America)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922875002?gh_jid=8922875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922875002
+
+#### 🔄 Starlink Enterprise Account Director, Aviation
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617157002?gh_jid=8617157002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617157002
+
+#### 🔄 Starlink Enterprise Account Director, Aviation
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617165002?gh_jid=8617165002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617165002
+
+#### 🔄 Starlink Enterprise Account Director, Aviation
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617163002?gh_jid=8617163002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617163002
+
+#### 🔄 Starlink Enterprise Account Director, Aviation
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617164002?gh_jid=8617164002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617164002
+
+#### 🔄 Starlink Enterprise Account Lead (Aviation)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924103002?gh_jid=8924103002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924103002
+
+#### 🔄 Starlink Enterprise Account Manager (Fixed-Site)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720507002?gh_jid=8720507002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720507002
+
+#### 🔄 Starlink Enterprise Account Manager, Latin America
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8720436002?gh_jid=8720436002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8720436002
+
+#### 🔄 Starlink Enterprise Account Specialist (Aviation)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924491002?gh_jid=8924491002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924491002
+
+#### 🔄 Starlink Enterprise Customer Success Lead
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8816262002?gh_jid=8816262002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8816262002
+
+#### 🔄 Starlink Enterprise Sales Director (North America)
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784375002?gh_jid=8784375002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784375002
+
+#### 🔄 Starlink Enterprise Sales Director, SLED
+**Greenhouse** · spacex · Starlink Enterprise Sales & Account Management
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8683596002?gh_jid=8683596002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8683596002
+
+#### 🔄 Starlink Global Operations Lead
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818080002?gh_jid=8818080002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818080002
+
+#### 🔄 Starlink Global Operations Manager (Country Launch)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8820969002?gh_jid=8820969002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8820969002
+
+#### 🔄 Starlink Global Operations Manager (Country Launch)
+**Greenhouse** · spacex · Starlink - Global Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8820957002?gh_jid=8820957002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8820957002
+
+#### 🔄 Starlink Growth Lead, Midwest
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - OH | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594668002?gh_jid=8594668002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594668002
+
+#### 🔄 Starlink Growth Lead, US Northeast
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - PA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703151002?gh_jid=8703151002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703151002
+
+#### 🔄 Starlink Growth Lead, US Northeast
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703146002?gh_jid=8703146002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703146002
+
+#### 🔄 Starlink Growth Lead, US South
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703162002?gh_jid=8703162002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703162002
+
+#### 🔄 Starlink Growth Lead, US South
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703207002?gh_jid=8703207002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703207002
+
+#### 🔄 Starlink Growth Lead, US South
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - NC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703196002?gh_jid=8703196002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703196002
+
+#### 🔄 Starlink Growth Lead, US West
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - CO | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8681154002?gh_jid=8681154002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8681154002
+
+#### 🔄 Starlink Growth Lead, US West
+**Greenhouse** · spacex · Starlink Consumer
+📍 Remote - CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703129002?gh_jid=8703129002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703129002
+
+#### 🔄 Starlink Lifecycle Marketing Manager (Global)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896168002?gh_jid=8896168002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896168002
+
+#### 🔄 Starlink Lifecycle Marketing Manager (LatAm)
+**Greenhouse** · spacex · Starlink Consumer
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8896157002?gh_jid=8896157002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8896157002
+
+#### 🔄 Starlink Omnichannel Marketing Manager, Regional/International
+**Greenhouse** · spacex · Starlink Consumer
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907797002?gh_jid=8907797002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907797002
+
+#### 🔄 Starlink Production Associate
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly & Packout
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922761002?gh_jid=8922761002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922761002
+
+#### 🔄 Starlink Production Associate
+**Greenhouse** · spacex · Starlink Prod Bastrop - V4/Ent. Assembly & Packout
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697970002?gh_jid=8697970002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697970002
+
+#### 🔄 Starlink Production Technician
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646214002?gh_jid=8646214002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646214002
+
+#### 🔄 Starlink Production Technician - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647896002?gh_jid=8647896002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647896002
+
+#### 🔄 Starlink Production Technician - Entry Level
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647897002?gh_jid=8647897002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647897002
+
+#### 🔄 Starlink Production Technician - Machining
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623022002?gh_jid=8623022002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623022002
+
+#### 🔄 Starlink Specialist, Tool and Die Machining
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8579720002?gh_jid=8579720002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8579720002
+
+#### 🔄 Starlink Specialist, Tool and Die Machining - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8585048002?gh_jid=8585048002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8585048002
+
+#### 🔄 Starship Engineer
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919699002?gh_jid=8919699002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919699002
+
+#### 🔄 Starship Engineer, FOD Control
+**Greenhouse** · spacex · Starship Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8689262002?gh_jid=8689262002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8689262002
+
+#### 🔄 State and Local Global Government Affairs Manager (North/Mid Atlantic)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 New York City, NY | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8911266002?gh_jid=8911266002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8911266002
+
+#### 🔄 State and Local Government Affairs Manager (Central)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Austin, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8911773002?gh_jid=8911773002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8911773002
+
+#### 🔄 State and Local Government Affairs Manager (North/Mid Atlantic)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8911185002?gh_jid=8911185002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8911185002
+
+#### 🔄 State and Local Government Affairs Manager (West)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8911291002?gh_jid=8911291002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8911291002
+
+#### 🔄 State and Local Government Affairs Manager (West)
+**Greenhouse** · spacex · Global Business & Government Affairs
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8911288002?gh_jid=8911288002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8911288002
+
+#### 🔄 Structural Analyst (Raptor Combustion Devices)
+**Greenhouse** · spacex · Raptor Combustion Devices - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8679371002?gh_jid=8679371002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8679371002
+
+#### 🔄 Structural Engineer (Critical Infrastructure)
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8595083002?gh_jid=8595083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8595083002
+
+#### 🔄 Structural Engineer, Launch Infrastructure (Starship)
+**Greenhouse** · spacex · Starship Launch Infrastructure - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8737416002?gh_jid=8737416002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8737416002
+
+#### 🔄 Structural Engineer, Launch Pad (Starship)
+**Greenhouse** · spacex · Launch Mechanisms and Structures Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8573793002?gh_jid=8573793002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8573793002
+
+#### 🔄 Structural Engineer (Starlink)
+**Greenhouse** · spacex · Texas - Construction Projects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731140002?gh_jid=8731140002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731140002
+
+#### 🔄 Structural Engineer (Starship Infrastructure)
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8790404002?gh_jid=8790404002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8790404002
+
+#### 🔄 Structural Engineer, Starship Tower
+**Greenhouse** · spacex · Starship Pad Engineering - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919976002?gh_jid=8919976002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919976002
+
+#### 🔄 Structural Test Engineer (Starship)
+**Greenhouse** · spacex · Starship Structural Test
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782041002?gh_jid=8782041002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782041002
+
+#### 🔄 Structural Welder, Ground Support Equipment (Starship) - Night Shift
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924815002?gh_jid=8924815002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924815002
+
+#### 🔄 Structural Welder, Massey's Test Site (Starship) - Night Shift
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924811002?gh_jid=8924811002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924811002
+
+#### 🔄 Structural Welder, Stage 0 Ground Fabrication (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924820002?gh_jid=8924820002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924820002
+
+#### 🔄 Structures Design Engineer (Starship)
+**Greenhouse** · spacex · Vehicle Design
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8931443002?gh_jid=8931443002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8931443002
+
+#### 🔄 Structures Technician (Composites)
+**Greenhouse** · spacex · Composites Assembly and Integration
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955803002?gh_jid=8955803002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955803002
+
+#### 🔄 Structures Technician (Dragon)
+**Greenhouse** · spacex · Dragon Production - Mechanical Subassemblies
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8612998002?gh_jid=8612998002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8612998002
+
+#### 🔄 Structures Technician (Falcon)
+**Greenhouse** · spacex · Vertical Barrel Integration
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8723267002?gh_jid=8723267002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8723267002
+
+#### 🔄 Structures Technician (Falcon Integration West) - 1st Shift
+**Greenhouse** · spacex · Falcon Integration West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8955926002?gh_jid=8955926002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8955926002
+
+#### 🔄 Structures Technician (Machining)
+**Greenhouse** · spacex · Machining - Panel Shop
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8631589002?gh_jid=8631589002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8631589002
+
+#### 🔄 Summer 2027 Business Operations Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621771002
+
+#### 🔄 Summer 2027 Civil Engineering Internship
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8636144002
+
+#### 🔄 Summer 2027 Engineering Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621740002
+
+#### 🔄 Summer 2027 Graduate Engineer Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621753002
+
+#### 🔄 Summer 2027 Silicon Engineering Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621763002
+
+#### 🔄 Summer 2027 Software Engineering Internship/Co-op
+**Greenhouse** · spacex · Internships
+📍 Flexible - Any SpaceX Site | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621757002
+
+#### 🔄 Supercompute Operations Technician
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945140002?gh_jid=8945140002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945140002
+
+#### 🔄 Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8941647002?gh_jid=8941647002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8941647002
+
+#### 🔄 Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945874002?gh_jid=8945874002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945874002
+
+#### 🔄 Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945916002?gh_jid=8945916002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945916002
+
+#### 🔄 Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Washington, DC | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8942121002?gh_jid=8942121002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8942121002
+
+#### 🔄 Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947472002?gh_jid=8947472002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947472002
+
+#### 🔄 Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947462002?gh_jid=8947462002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947462002
+
+#### 🔄 Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance
+**Greenhouse** · spacex · Starshield SI Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8947451002?gh_jid=8947451002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8947451002
+
+#### 🔄 Supervisor, Critical Transport (Starship)
+**Greenhouse** · spacex · Starship Critical Lift & Transport
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676528002?gh_jid=8676528002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676528002
+
+#### 🔄 Supervisor, Distribution Center - (Materials Management)
+**Greenhouse** · spacex · Materials Management - Hawthorne Falcon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8641512002?gh_jid=8641512002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8641512002
+
+#### 🔄 Supervisor, Distribution Center - (Materials Management)
+**Greenhouse** · spacex · Materials Management - Hawthorne Falcon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8635083002?gh_jid=8635083002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8635083002
+
+#### 🔄 Supervisor, Environmental Health & Safety (Recovery)
+**Greenhouse** · spacex · EHS - West Coast Recovery
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8905871002?gh_jid=8905871002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8905871002
+
+#### 🔄 Supervisor, Equipment Maintenance (Starship) - Night Shift
+**Greenhouse** · spacex · Starship Production Maintenance
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8770390002?gh_jid=8770390002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8770390002
+
+#### 🔄 Supervisor, Facilities - 2nd Shift
+**Greenhouse** · spacex · Facilities - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8801224002?gh_jid=8801224002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8801224002
+
+#### 🔄 Supervisor, Facilities Maintenance, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656828002?gh_jid=8656828002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656828002
+
+#### 🔄 Supervisor, Facilities (Starlink) - Split Shift
+**Greenhouse** · spacex · Starlink Production Bastrop - Facilities
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8546298002?gh_jid=8546298002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8546298002
+
+#### 🔄 Supervisor, Falcon Payloads (Falcon Operations West) - 3rd Shift
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950845002?gh_jid=8950845002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950845002
+
+#### 🔄 Supervisor, Fulfillment Center - Materials Management
+**Greenhouse** · spacex · Materials Management - Hawthorne Dragon
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8644008002?gh_jid=8644008002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8644008002
+
+#### 🔄 Supervisor, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932719002?gh_jid=8932719002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932719002
+
+#### 🔄 Supervisor, Heatshield Materials Management (Starship)
+**Greenhouse** · spacex · Starbase Thermal Hardware - Installation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639279002?gh_jid=8639279002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639279002
+
+#### 🔄 Supervisor, Hospitality
+**Greenhouse** · spacex · Food Services - Redmond
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8876415002?gh_jid=8876415002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8876415002
+
+#### 🔄 Supervisor, IT Data Center
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949430002?gh_jid=8949430002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949430002
+
+#### 🔄 Supervisor, IT Network Infrastructure
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932324002?gh_jid=8932324002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932324002
+
+#### 🔄 Supervisor, IT Network Infrastructure - 1st Shift
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818961002?gh_jid=8818961002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818961002
+
+#### 🔄 Supervisor, IT Network Infrastructure - 2nd Shift
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8818980002?gh_jid=8818980002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8818980002
+
+#### 🔄 Supervisor, Logistics (Materials Management) - 3rd Shift
+**Greenhouse** · spacex · Materials Management - Starship - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8882439002?gh_jid=8882439002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8882439002
+
+#### 🔄 Supervisor, Logistics - Shipping & Outsourcing (Materials Management)
+**Greenhouse** · spacex · Starship Vehicle Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943044002?gh_jid=8943044002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943044002
+
+#### 🔄 Supervisor, Machining (Starship Components)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8939530002?gh_jid=8939530002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8939530002
+
+#### 🔄 Supervisor, Materials Management (Starlink)
+**Greenhouse** · spacex · Starlink Materials Management - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8869050002?gh_jid=8869050002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8869050002
+
+#### 🔄 Supervisor, Materials Management (Starlink) - Night Shift
+**Greenhouse** · spacex · Starlink Materials Management - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8571670002?gh_jid=8571670002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8571670002
+
+#### 🔄 Supervisor, Materials Management (Starship)
+**Greenhouse** · spacex · Materials Management - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929977002?gh_jid=8929977002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929977002
+
+#### 🔄 Supervisor, NDE Operations (Starship)
+**Greenhouse** · spacex · Launch Fabrication Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769675002?gh_jid=8769675002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769675002
+
+#### 🔄 Supervisor, NDE Operations (Starship)
+**Greenhouse** · spacex · Starship NDE - Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8578079002?gh_jid=8578079002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8578079002
+
+#### 🔄 Supervisor, NDE Operations (Starship) - Nights
+**Greenhouse** · spacex · Starship NDE - Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8580469002?gh_jid=8580469002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8580469002
+
+#### 🔄 Supervisor, Porter (Starbase)
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948219002?gh_jid=8948219002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948219002
+
+#### 🔄 Supervisor, Power Generation Fluid Systems
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8819014002?gh_jid=8819014002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8819014002
+
+#### 🔄 Supervisor, Precision Machining - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Machining
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8828001002?gh_jid=8828001002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8828001002
+
+#### 🔄 Supervisor, Production (COPVS) - 2nd Shift
+**Greenhouse** · spacex · Westminster COPV Production
+📍 Westminster, MD | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929486002?gh_jid=8929486002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929486002
+
+#### 🔄 Supervisor, Production (Orbital Tube Welder)
+**Greenhouse** · spacex · Precision Tube Fabrication
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8873396002?gh_jid=8873396002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8873396002
+
+#### 🔄 Supervisor, Production Scheduling (Starship)
+**Greenhouse** · spacex · Starship Operations Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936899002?gh_jid=8936899002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936899002
+
+#### 🔄 Supervisor, Production (Tube Shop)
+**Greenhouse** · spacex · Precision Tube Fabrication
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904011002?gh_jid=8904011002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904011002
+
+#### 🔄 Supervisor, Quality Assurance (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8926096002?gh_jid=8926096002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8926096002
+
+#### 🔄 Supervisor, Recovery Operations (West Coast Recovery) - 2nd Shift
+**Greenhouse** · spacex · West Coast Recovery Technicians
+📍 Long Beach, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831562002?gh_jid=8831562002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831562002
+
+#### 🔄 Supervisor, Security
+**Greenhouse** · spacex · Security - Palo Alto
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928943002?gh_jid=8928943002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928943002
+
+#### 🔄 Supervisor, Spaceport Operations
+**Greenhouse** · spacex · Starbase Spaceport - Core
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8709382002?gh_jid=8709382002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8709382002
+
+#### 🔄 Supervisor, Spaceport Operations (Transportation)
+**Greenhouse** · spacex · Starbase Spaceport - Transportation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924641002?gh_jid=8924641002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924641002
+
+#### 🔄 Supervisor, Starship Heatshield - Night Shift
+**Greenhouse** · spacex · Starbase Thermal Hardware - Installation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8636229002?gh_jid=8636229002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8636229002
+
+#### 🔄 Supervisor, Supercompute Operations
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945300002?gh_jid=8945300002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945300002
+
+#### 🔄 Supervisor, Tool & Die - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959546002?gh_jid=8959546002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959546002
+
+#### 🔄 Supervisor, Welding (Starship) - Day Shift
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8660042002?gh_jid=8660042002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8660042002
+
+#### 🔄 Supervisor, Welding (Starship) - Night Shift
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815715002?gh_jid=8815715002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815715002
+
+#### 🔄 Supplier Development Engineer
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8765925002?gh_jid=8765925002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8765925002
+
+#### 🔄 Supplier Development Engineer, Electrical (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957661002?gh_jid=8957661002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957661002
+
+#### 🔄 Supplier Development Engineer, Electrical (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8827724002?gh_jid=8827724002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8827724002
+
+#### 🔄 Supplier Development Engineer, Electrical (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8682205002?gh_jid=8682205002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8682205002
+
+#### 🔄 Supplier Development Engineer, Hardware & Fasteners (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687756002?gh_jid=8687756002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687756002
+
+#### 🔄 Supplier Development Engineer, Hardware & Fasteners (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945875002?gh_jid=8945875002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945875002
+
+#### 🔄 Supplier Development Engineer, Harnessing (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8834233002?gh_jid=8834233002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8834233002
+
+#### 🔄 Supplier Development Engineer, Harnessing (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8568157002?gh_jid=8568157002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8568157002
+
+#### 🔄 Supplier Development Engineer, Manufacturing (Electronics)
+**Greenhouse** · spacex · Falcon Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8946484002?gh_jid=8946484002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8946484002
+
+#### 🔄 Supplier Development Engineer, Manufacturing (Falcon & Dragon)
+**Greenhouse** · spacex · Supply Chain Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8646249002?gh_jid=8646249002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8646249002
+
+#### 🔄 Supplier Development Engineer, Manufacturing (Raptor)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871031002?gh_jid=8871031002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871031002
+
+#### 🔄 Supplier Development Engineer, Manufacturing (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8687744002?gh_jid=8687744002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8687744002
+
+#### 🔄 Supplier Development Engineer (Materials Engineering)
+**Greenhouse** · spacex · Starbase Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8831236002?gh_jid=8831236002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8831236002
+
+#### 🔄 Supplier Development Engineer, Materials & Metals (Starship)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815035002?gh_jid=8815035002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815035002
+
+#### 🔄 Supplier Development Engineer, Materials & Special Processes (Falcon & Dragon)
+**Greenhouse** · spacex · Supply Chain Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8644020002?gh_jid=8644020002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8644020002
+
+#### 🔄 Supplier Development Engineer (Mechanical Engineering)
+**Greenhouse** · spacex · Starbase Supply Chain
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8710126002?gh_jid=8710126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8710126002
+
+#### 🔄 Supplier Development Engineer, Mechanical (Falcon & Dragon)
+**Greenhouse** · spacex · Supply Chain Management
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8644018002?gh_jid=8644018002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8644018002
+
+#### 🔄 Supplier Development Engineer, Mechanical (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957263002?gh_jid=8957263002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957263002
+
+#### 🔄 Supplier Development Engineer, PCBA (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8834213002?gh_jid=8834213002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8834213002
+
+#### 🔄 Supplier Development Engineer (PCB/PCBA)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8700554002?gh_jid=8700554002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8700554002
+
+#### 🔄 Supplier Development Engineer, PCB/PCBA (Starshield)
+**Greenhouse** · spacex · Starshield - Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8719843002?gh_jid=8719843002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8719843002
+
+#### 🔄 Supplier Development Engineer, PCB (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731214002?gh_jid=8731214002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731214002
+
+#### 🔄 Supplier Development Engineer, Silicon & Packaging (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8834217002?gh_jid=8834217002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8834217002
+
+#### 🔄 Supplier Development Engineer, SMT (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8802686002?gh_jid=8802686002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8802686002
+
+#### 🔄 Supplier Quality Specialist, Data Center (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944849002?gh_jid=8944849002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944849002
+
+#### 🔄 Supplier Quality Specialist III, Data Center (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944832002?gh_jid=8944832002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944832002
+
+#### 🔄 Supplier Quality Specialist (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957169002?gh_jid=8957169002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957169002
+
+#### 🔄 Supplier Quality Specialist (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8594614002?gh_jid=8594614002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8594614002
+
+#### 🔄 Supplier Quality Specialist (Starlink Aviation)
+**Greenhouse** · spacex · Starlink - Supply Chain Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8747668002?gh_jid=8747668002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8747668002
+
+#### 🔄 Supplier Quality Specialist (Starship)
+**Greenhouse** · spacex · Starbase Supply Chain Reliability
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893314002?gh_jid=8893314002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893314002
+
+#### 🔄 Supplier Quality Specialist (Starship Supply Chain)
+**Greenhouse** · spacex · Starship Components Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8901576002?gh_jid=8901576002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8901576002
+
+#### 🔄 Supply Chain Planner (Falcon, Dragon, & Starfall)
+**Greenhouse** · spacex · Dragon Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647431002?gh_jid=8647431002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647431002
+
+#### 🔄 Supply Chain Planner (IT)
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935330002?gh_jid=8935330002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935330002
+
+#### 🔄 Supply Chain Planner (Launch Site)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8804201002?gh_jid=8804201002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8804201002
+
+#### 🔄 Supply Chain Planner, PCB (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Planning
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8684327002?gh_jid=8684327002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8684327002
+
+#### 🔄 Supply Chain Planner (Raptor)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8873401002?gh_jid=8873401002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8873401002
+
+#### 🔄 Supply Chain Planner (SpaceXSI)
+**Greenhouse** · spacex · Starlink - Supply Chain Planning
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8696459002?gh_jid=8696459002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8696459002
+
+#### 🔄 Supply Chain Planner (Starship)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8900551002?gh_jid=8900551002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8900551002
+
+#### 🔄 Supply Chain Planner (Starship)
+**Greenhouse** · spacex · Starship Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8873393002?gh_jid=8873393002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8873393002
+
+#### 🔄 Supply Chain Planning Manager (Falcon, Dragon, & Starfall)
+**Greenhouse** · spacex · Dragon Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8647305002?gh_jid=8647305002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8647305002
+
+#### 🔄 Supply Chain Planning Manager (Launch Vehicle Electronic Systems)
+**Greenhouse** · spacex · Falcon Avionics Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8649468002?gh_jid=8649468002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8649468002
+
+#### 🔄 Supply Chain Planning Manager (LNG Capital & Production)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935871002?gh_jid=8935871002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935871002
+
+#### 🔄 Supply Chain Planning Manager (LNG Capital & Production)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8935888002?gh_jid=8935888002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8935888002
+
+#### 🔄 Supply Chain Planning Manager (Raptor)
+**Greenhouse** · spacex · Raptor Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703538002?gh_jid=8703538002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703538002
+
+#### 🔄 Supply Chain Planning Manager (Starship)
+**Greenhouse** · spacex · Starship Indirect Purchasing
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8560881002?gh_jid=8560881002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8560881002
+
+#### 🔄 Supply Chain Planning Manager (Starship)
+**Greenhouse** · spacex · Raptor Supply Chain
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8871021002?gh_jid=8871021002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8871021002
+
+#### 🔄 Supply Chain Planning Manager, xAI (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Planning
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8842009002?gh_jid=8842009002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8842009002
+
+#### 🔄 Supply Chain Planning Manager, xAI (Starlink)
+**Greenhouse** · spacex · Starlink - Supply Chain Planning
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8769734002?gh_jid=8769734002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8769734002
+
+#### 🔄 Supply Chain Reliability Engineer
+**Greenhouse** · spacex · Supplier Quality
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8790007002?gh_jid=8790007002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8790007002
+
+#### 🔄 Support Technician (Starship) - Temporary
+**Greenhouse** · spacex · Sheet Metal Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928211002?gh_jid=8928211002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928211002
+
+#### 🔄 Surveillance Operator
+**Greenhouse** · spacex · Security - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8783945002?gh_jid=8783945002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8783945002
+
+#### 🔄 Sushi Cook - Temporary
+**Greenhouse** · spacex · Food Services - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8903474002?gh_jid=8903474002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8903474002
+
+#### 🔄 Talent Sourcer, SG&A
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930513002?gh_jid=8930513002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930513002
+
+#### 🔄 Talent Sourcer, SG&A
+**Greenhouse** · spacex · Recruiting
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930966002?gh_jid=8930966002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930966002
+
+#### 🔄 Talent Sourcer (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907749002?gh_jid=8907749002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907749002
+
+#### 🔄 Talent Sourcer (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907678002?gh_jid=8907678002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907678002
+
+#### 🔄 Talent Sourcer - Temporary
+**Greenhouse** · spacex · Recruiting
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934430002?gh_jid=8934430002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934430002
+
+#### 🔄 Talent Sourcer - Temporary
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632303002?gh_jid=8632303002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632303002
+
+#### 🔄 Talent Sourcer - Temporary
+**Greenhouse** · spacex · Recruiting
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676530002?gh_jid=8676530002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676530002
+
+#### 🔄 Tax Analyst
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8770641002?gh_jid=8770641002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8770641002
+
+#### 🔄 Tax Manager
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8753580002?gh_jid=8753580002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8753580002
+
+#### 🔄 Teacher
+**Greenhouse** · spacex · Boca Chica Ad Astra School Operations
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8862213002?gh_jid=8862213002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8862213002
+
+#### 🔄 Technical Operations Engineer, Customer Excellence (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948776002?gh_jid=8948776002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948776002
+
+#### 🔄 Technical Operations Engineer, Customer Excellence (Starlink)
+**Greenhouse** · spacex · Starlink Customer Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8948769002?gh_jid=8948769002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8948769002
+
+#### 🔄 Technical Recruiter
+**Greenhouse** · spacex · Recruiting
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639384002?gh_jid=8639384002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639384002
+
+#### 🔄 Technical Recruiter (Cape Canaveral)
+**Greenhouse** · spacex · Recruiting
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8959015002?gh_jid=8959015002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8959015002
+
+#### 🔄 Technical Recruiter, Environmental Health & Safety
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922623002?gh_jid=8922623002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922623002
+
+#### 🔄 Technical Recruiter, IT
+**Greenhouse** · spacex · Recruiting
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8938238002?gh_jid=8938238002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8938238002
+
+#### 🔄 Technical Recruiter, IT
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922622002?gh_jid=8922622002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922622002
+
+#### 🔄 Technical Recruiter (McGregor)
+**Greenhouse** · spacex · Recruiting
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8675110002?gh_jid=8675110002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8675110002
+
+#### 🔄 Technical Recruiter, Security
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8902884002?gh_jid=8902884002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8902884002
+
+#### 🔄 Technical Recruiter, SG&A
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8883358002?gh_jid=8883358002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8883358002
+
+#### 🔄 Technical Recruiter, SG&A
+**Greenhouse** · spacex · Recruiting
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880126002?gh_jid=8880126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880126002
+
+#### 🔄 Technical Recruiter, SG&A
+**Greenhouse** · spacex · Recruiting
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928299002?gh_jid=8928299002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928299002
+
+#### 🔄 Technical Recruiter, SG&A
+**Greenhouse** · spacex · Recruiting
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8928300002?gh_jid=8928300002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8928300002
+
+#### 🔄 Technical Recruiter (Starbase)
+**Greenhouse** · spacex · Recruiting
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8607020002?gh_jid=8607020002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8607020002
+
+#### 🔄 Technical Recruiter (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694882002?gh_jid=8694882002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694882002
+
+#### 🔄 Technical Recruiter (Starlink)
+**Greenhouse** · spacex · Recruiting
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694852002?gh_jid=8694852002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694852002
+
+#### 🔄 Technical Site Planning Manager
+**Greenhouse** · spacex · Starlink Production Bastrop - Ops. Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8962149002?gh_jid=8962149002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8962149002
+
+#### 🔄 Technical Trainer, CNC Machining (Starship Components)
+**Greenhouse** · spacex · Starship Components Machining
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8605834002?gh_jid=8605834002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8605834002
+
+#### 🔄 Technical Trainer, EHS (Starship)
+**Greenhouse** · spacex · Starship Technical Training
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907769002?gh_jid=8907769002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907769002
+
+#### 🔄 Technical Trainer, Electrical (Starship)
+**Greenhouse** · spacex · Starship Technical Training
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8817966002?gh_jid=8817966002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8817966002
+
+#### 🔄 Technical Trainer II, Equipment and Safety
+**Greenhouse** · spacex · Technical Training and Compliance
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957490002?gh_jid=8957490002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957490002
+
+#### 🔄 Technical Trainer II, Operations Safety
+**Greenhouse** · spacex · Technical Training and Compliance
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8957492002?gh_jid=8957492002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8957492002
+
+#### 🔄 Technical Trainer, Starlink Satellite Production
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8949196002?gh_jid=8949196002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8949196002
+
+#### 🔄 Technical Training Specialist (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - Training
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8661853002?gh_jid=8661853002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8661853002
+
+#### 🔄 Technical Translator (Chinese) - Production Support
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8880861002?gh_jid=8880861002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8880861002
+
+#### 🔄 Telecommunications Engineer
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8913325002?gh_jid=8913325002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8913325002
+
+#### 🔄 Telecommunications Engineer
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8632953002?gh_jid=8632953002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8632953002
+
+#### 🔄 Telecommunications Engineer, Fiber
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950910002?gh_jid=8950910002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950910002
+
+#### 🔄 Telecommunications Engineer, Fiber
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 College Station, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8934055002?gh_jid=8934055002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8934055002
+
+#### 🔄 Telecommunications Technician
+**Greenhouse** · spacex · Information Technology - Network Infrastructure
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924119002?gh_jid=8924119002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924119002
+
+#### 🔄 Test Engineer, Avionics (Starship)
+**Greenhouse** · spacex · Starship Avionics Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8582141002?gh_jid=8582141002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8582141002
+
+#### 🔄 Test Engineer (Avionics Test Lab)
+**Greenhouse** · spacex · Avionics Manufacturing & Test Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8784692002?gh_jid=8784692002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8784692002
+
+#### 🔄 Test Engineer, Compute Payload (Starmind)
+**Greenhouse** · spacex · Supercompute Rack Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8851669002?gh_jid=8851669002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8851669002
+
+#### 🔄 Test Engineer (Dragon)
+**Greenhouse** · spacex · Dragon Integration
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8723913002?gh_jid=8723913002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8723913002
+
+#### 🔄 Test Engineer (Dragon)
+**Greenhouse** · spacex · Texas - Development Test
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922066002?gh_jid=8922066002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922066002
+
+#### 🔄 Test Engineer - Electric Propulsion, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8929324002?gh_jid=8929324002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8929324002
+
+#### 🔄 Test Engineer (Falcon Test)
+**Greenhouse** · spacex · Texas - Falcon Test Operations
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8951723002?gh_jid=8951723002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8951723002
+
+#### 🔄 Test Engineer, Powertrain Components (Starship)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716126002?gh_jid=8716126002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716126002
+
+#### 🔄 Test Engineer, Propulsion Components (Starship)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716101002?gh_jid=8716101002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716101002
+
+#### 🔄 Test Engineer (Starship Development)
+**Greenhouse** · spacex · Texas - Development Test
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8747613002?gh_jid=8747613002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8747613002
+
+#### 🔄 Test Equipment Technician - 2nd Shift
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8940527002?gh_jid=8940527002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8940527002
+
+#### 🔄 Test Operations Technician (Falcon Test)
+**Greenhouse** · spacex · Texas - Falcon Test Technicians
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8858869002?gh_jid=8858869002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8858869002
+
+#### 🔄 Test Specialist, Avionics (Starshield)
+**Greenhouse** · spacex · Starshield Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8904061002?gh_jid=8904061002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8904061002
+
+#### 🔄 Test Specialist (Composites)
+**Greenhouse** · spacex · Composites Testing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8805286002?gh_jid=8805286002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8805286002
+
+#### 🔄 Test Specialist, Factory Automation (Starlink)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8698365002?gh_jid=8698365002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8698365002
+
+#### 🔄 Test Specialist (Falcon Operations) - Multiple Shifts
+**Greenhouse** · spacex · Falcon Operations West
+📍 Vandenberg, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8927568002?gh_jid=8927568002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8927568002
+
+#### 🔄 Test Specialist - Hardware in the Loop, Satellites (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639553002?gh_jid=8639553002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639553002
+
+#### 🔄 Test Specialist - Multiple Shifts (Components)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8638571002?gh_jid=8638571002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8638571002
+
+#### 🔄 Test Specialist - Multiple Shifts (Components) - Level 4/5
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8930375002?gh_jid=8930375002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8930375002
+
+#### 🔄 Test Specialist, Production Checkouts (Starship)
+**Greenhouse** · spacex · Ship Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727985002?gh_jid=8727985002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727985002
+
+#### 🔄 Test Specialist (Starlink) - 2nd Shift
+**Greenhouse** · spacex · Starlink Satellite Production
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8579599002?gh_jid=8579599002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8579599002
+
+#### 🔄 Test Specialist (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8733400002?gh_jid=8733400002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8733400002
+
+#### 🔄 Test Specialist (Starship Avionics)
+**Greenhouse** · spacex · Components Test - Starship
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8838387002?gh_jid=8838387002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8838387002
+
+#### 🔄 Test Stand Design & Build Engineer (Structures/Fluid Systems)
+**Greenhouse** · spacex · Texas - Test Equipment Engineers
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8817336002
+
+#### 🔄 Test Stand Maintenance Technician
+**Greenhouse** · spacex · Texas - Test Infrastructure Maintenance
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922236002?gh_jid=8922236002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922236002
+
+#### 🔄 Test Stand Maintenance Technician - 2nd Shift
+**Greenhouse** · spacex · Texas - Test Infrastructure Maintenance
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8752881002?gh_jid=8752881002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8752881002
+
+#### 🔄 Test Technician (Falcon)
+**Greenhouse** · spacex · Merlin Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8801541002?gh_jid=8801541002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8801541002
+
+#### 🔄 Test Technician, Hardware-in-the-Loop (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8686122002?gh_jid=8686122002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8686122002
+
+#### 🔄 Test Technician, Silicon Assembly (Starlink)
+**Greenhouse** · spacex · Starlink Production - Silicon Packaging
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8922492002?gh_jid=8922492002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8922492002
+
+#### 🔄 Test Technician (Starlink)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8703142002?gh_jid=8703142002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8703142002
+
+#### 🔄 Test Technician (Starlink)
+**Greenhouse** · spacex · Starlink Satellite Integration and Test
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8611086002?gh_jid=8611086002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8611086002
+
+#### 🔄 Test Technician (Starlink Aviation)
+**Greenhouse** · spacex · Starlink Satellite PCB Production Engineering
+📍 Woodinville, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8733461002?gh_jid=8733461002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8733461002
+
+#### 🔄 Thermal Control and Life Support Hardware Engineer (Crew Starship)
+**Greenhouse** · spacex · Crew Starship
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716925002?gh_jid=8716925002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716925002
+
+#### 🔄 Thermal Development Technician, Heat Shield (Starship) - Multiple Shifts
+**Greenhouse** · spacex · Thermal Hardware Production
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8936913002?gh_jid=8936913002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8936913002
+
+#### 🔄 Thermal Development Technician, Robotic Welding (Starship)
+**Greenhouse** · spacex · Starbase Thermal Hardware - Installation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8771466002?gh_jid=8771466002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8771466002
+
+#### 🔄 Thermal Development Technician (Starship)
+**Greenhouse** · spacex · Starbase Thermal Hardware - Installation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716279002?gh_jid=8716279002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716279002
+
+#### 🔄 Thermal Development Technician (Starship) - Temporary
+**Greenhouse** · spacex · Starbase Thermal Hardware - Installation
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8723384002?gh_jid=8723384002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8723384002
+
+#### 🔄 Thermal Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728358002?gh_jid=8728358002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728358002
+
+#### 🔄 Thermal Engineer (Falcon, Dragon, & Starfall)
+**Greenhouse** · spacex · Falcon and Dragon Avionics & Software Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8665783002?gh_jid=8665783002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8665783002
+
+#### 🔄 Thermal Engineer, Satellites (Starlink)
+**Greenhouse** · spacex · Satellite Bus Engineering
+📍 Redmond, WA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8925479002?gh_jid=8925479002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8925479002
+
+#### 🔄 Thermal Engineer (Starshield)
+**Greenhouse** · spacex · Starshield Hardware Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8907194002?gh_jid=8907194002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8907194002
+
+#### 🔄 Thermal Hardware Engineer (Starship Heat Shield)
+**Greenhouse** · spacex · Thermal Hardware Engineering
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8622390002?gh_jid=8622390002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8622390002
+
+#### 🔄 Thermal Hardware Specialist, Kiln - Level 4/5
+**Greenhouse** · spacex · Thermal Hardware Production
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8868927002?gh_jid=8868927002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8868927002
+
+#### 🔄 Thermal Mechanical Test Engineer, Silicon Packaging (Starlink)
+**Greenhouse** · spacex · Starlink Process Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8613825002?gh_jid=8613825002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8613825002
+
+#### 🔄 TIG Welder, Chamber and Nozzle (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8569279002?gh_jid=8569279002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8569279002
+
+#### 🔄 TIG Welder, Chamber and Nozzle (Raptor) - 2nd Shift
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8621590002?gh_jid=8621590002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8621590002
+
+#### 🔄 TIG Welder, Combustion Devices (RAPTOR)
+**Greenhouse** · spacex · Raptor Combustion Devices - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716296002?gh_jid=8716296002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716296002
+
+#### 🔄 TIG Welder, Combustion Devices (Raptor) - 2nd Shift
+**Greenhouse** · spacex · Raptor Combustion Devices - Production
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893683002?gh_jid=8893683002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893683002
+
+#### 🔄 TIG Welder (Falcon)
+**Greenhouse** · spacex · Merlin Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694175002?gh_jid=8694175002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694175002
+
+#### 🔄 TIG Welder (Starship)
+**Greenhouse** · spacex · Starship Structures Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8943425002?gh_jid=8943425002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8943425002
+
+#### 🔄 TIG Welder (Starship)
+**Greenhouse** · spacex · Starship Components Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8950789002?gh_jid=8950789002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8950789002
+
+#### 🔄 TIG Welder (Starship)
+**Greenhouse** · spacex · Starship Mechanisms Technicians
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8565833002?gh_jid=8565833002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8565833002
+
+#### 🔄 TIG Welder (Starship)
+**Greenhouse** · spacex · Starship Structures
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8718807002?gh_jid=8718807002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8718807002
+
+#### 🔄 TIG Welder (Starship) - 2nd Shift
+**Greenhouse** · spacex · Starship Mechanisms Technicians
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8639190002?gh_jid=8639190002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8639190002
+
+#### 🔄 TIG Welder (Starship Booster Structures Manufacturing)
+**Greenhouse** · spacex · Booster Structures Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8846432002?gh_jid=8846432002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8846432002
+
+#### 🔄 TIG Welder (Starship Electronics)
+**Greenhouse** · spacex · Starship Electronics Production - Hawthorne
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8806190002?gh_jid=8806190002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8806190002
+
+#### 🔄 TIG Welder (Starship) - Level 4/5
+**Greenhouse** · spacex · Starship Mechanisms Technicians
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8676435002?gh_jid=8676435002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8676435002
+
+#### 🔄 TIG Welder (Starship) - Level 4/5
+**Greenhouse** · spacex · Starship Structures
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8755683002?gh_jid=8755683002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8755683002
+
+#### 🔄 Tool Crib Attendant
+**Greenhouse** · spacex · Booster Final Integration
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8806112002?gh_jid=8806112002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8806112002
+
+#### 🔄 Tool Crib Attendant (Starship) - Night Shift
+**Greenhouse** · spacex · Launch Pad Technicians - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8937263002?gh_jid=8937263002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8937263002
+
+#### 🔄 Tool & Die Specialist - 2nd Shift
+**Greenhouse** · spacex · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8739396002?gh_jid=8739396002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8739396002
+
+#### 🔄 Tool & Die Specialist - Level 4/5 (2nd Shift)
+**Greenhouse** · spacex · Materials Engineering - Starlink Operations - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8609480002?gh_jid=8609480002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8609480002
+
+#### 🔄 Tooling Design Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919792002?gh_jid=8919792002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919792002
+
+#### 🔄 Tooling Engineer, AI Satellites (Starmind)
+**Greenhouse** · spacex · Starmind - Compute and Payloads
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8727903002?gh_jid=8727903002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8727903002
+
+#### 🔄 Tooling Engineer, Plastic Injection Molding (Starlink)
+**Greenhouse** · spacex · Materials Engineering - Starlink Mfg - BA
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924763002?gh_jid=8924763002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924763002
+
+#### 🔄 Tooling Engineer, Starship Components (Materials Engineering)
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8918376002?gh_jid=8918376002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8918376002
+
+#### 🔄 Toolmaker, R&D (Raptor)
+**Greenhouse** · spacex · Raptor Propulsion R&D
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8657657002?gh_jid=8657657002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8657657002
+
+#### 🔄 Trader, Natural Gas (Supply Chain)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8731013002?gh_jid=8731013002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8731013002
+
+#### 🔄 Trader, Natural Gas (Supply Chain)
+**Greenhouse** · spacex · Supply Chain - Launch and Infrastructure
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8730731002?gh_jid=8730731002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8730731002
+
+#### 🔄 Trajectory Analysis Engineer (Starship)
+**Greenhouse** · spacex · Starship GNC
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8624547002?gh_jid=8624547002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8624547002
+
+#### 🔄 Transport Technician
+**Greenhouse** · spacex · Texas - Flight Hardware Logistics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8708617002?gh_jid=8708617002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8708617002
+
+#### 🔄 Transport Technician
+**Greenhouse** · spacex · Texas - Flight Hardware Logistics
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8945317002?gh_jid=8945317002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8945317002
+
+#### 🔄 Treasury Analyst
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8716662002?gh_jid=8716662002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8716662002
+
+#### 🔄 Treasury Analyst
+**Greenhouse** · spacex · Finance
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8861956002?gh_jid=8861956002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8861956002
+
+#### 🔄 Tube Bender (Falcon)
+**Greenhouse** · spacex · Precision Tube Fabrication
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8944916002?gh_jid=8944916002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8944916002
+
+#### 🔄 Tube Bender (Starship)
+**Greenhouse** · spacex · Sheet Metal Production
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8545772002?gh_jid=8545772002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8545772002
+
+#### 🔄 Turbomachinery Engineer (Raptor)
+**Greenhouse** · spacex · Raptor Tube Shop - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8572153002?gh_jid=8572153002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8572153002
+
+#### 🔄 Utility Operator Specialist - Level 4/5
+**Greenhouse** · spacex · Launch Infrastructure - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8766891002?gh_jid=8766891002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8766891002
+
+#### 🔄 Video & Voice Systems Administrator
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8791800002?gh_jid=8791800002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8791800002
+
+#### 🔄 Voice Systems Engineer
+**Greenhouse** · spacex · Information Technology - Corporate
+📍 Memphis, TN | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8919948002?gh_jid=8919948002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8919948002
+
+#### 🔄 Warehouse Associate (Starlink)
+**Greenhouse** · spacex · Starlink Materials Management - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8697995002?gh_jid=8697995002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8697995002
+
+#### 🔄 Water Treatment Engineer, Solar Cell Factory (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8550390002?gh_jid=8550390002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8550390002
+
+#### 🔄 Water Treatment Engineer (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8586076002?gh_jid=8586076002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8586076002
+
+#### 🔄 Water Treatment Technician, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Production
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8883343002?gh_jid=8883343002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8883343002
+
+#### 🔄 Water Treatment Technician, UPW & Wastewater (Starlink)
+**Greenhouse** · spacex · Starlink Production Bastrop - PCB Operations
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8656099002?gh_jid=8656099002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8656099002
+
+#### 🔄 Welder - 2nd Shift
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8726028002?gh_jid=8726028002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8726028002
+
+#### 🔄 Welder (Starship)
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924791002?gh_jid=8924791002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924791002
+
+#### 🔄 Welder (Starship Launch Hardware) - Night Shift
+**Greenhouse** · spacex · Starship Launch Hardware Fabrication - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8815174002?gh_jid=8815174002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8815174002
+
+#### 🔄 Welder, Starship Launch Pad
+**Greenhouse** · spacex · Starship Pad Technicians - Cape
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8623625002?gh_jid=8623625002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8623625002
+
+#### 🔄 Welder (Starship) - Night Shift
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8924802002?gh_jid=8924802002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8924802002
+
+#### 🔄 Welder (Starship) – Temporary
+**Greenhouse** · spacex · Starship Technical Training
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8694671002?gh_jid=8694671002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8694671002
+
+#### 🔄 Welding Automation Engineer, Chamber and Nozzle (Raptor)
+**Greenhouse** · spacex · Raptor Chamber and Nozzle - Engineering
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8817992002?gh_jid=8817992002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8817992002
+
+#### 🔄 Welding Build Engineer (Starship)
+**Greenhouse** · spacex · Booster Integration Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8563892002?gh_jid=8563892002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8563892002
+
+#### 🔄 Welding Engineer
+**Greenhouse** · spacex · Materials Engineering - Starship/Raptor
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8617003002?gh_jid=8617003002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8617003002
+
+#### 🔄 Welding Engineer (Starship)
+**Greenhouse** · spacex · Structures Build Engineering
+📍 Cape Canaveral, FL | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8869697002?gh_jid=8869697002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8869697002
+
+#### 🔄 Welding Engineer (Starship)
+**Greenhouse** · spacex · Structures Build Engineering
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8782120002?gh_jid=8782120002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8782120002
+
+#### 🔄 Welding Inspector Specialist
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8916241002?gh_jid=8916241002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8916241002
+
+#### 🔄 Welding Inspector Specialist - Night Shift
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8893038002?gh_jid=8893038002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8893038002
+
+#### 🔄 Welding Supervisor (Super Heavy Booster)
+**Greenhouse** · spacex · Booster Structures Manufacturing
+📍 Hawthorne, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8582736002?gh_jid=8582736002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8582736002
+
+#### 🔄 Welding Technical Trainer
+**Greenhouse** · spacex · Launch Fluids Engineering - Starbase
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8886432002?gh_jid=8886432002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8886432002
+
+#### 🔄 Welding Technical Trainer, GTAW (Starship)
+**Greenhouse** · spacex · Starship Technical Training
+📍 Starbase, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8674753002?gh_jid=8674753002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8674753002
+
+#### 🔄 Weld Support Technician
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8701283002?gh_jid=8701283002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8701283002
+
+#### 🔄 Weld Support Technician - 2nd Shift
+**Greenhouse** · spacex · Texas - Fabrication
+📍 McGregor, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8728563002?gh_jid=8728563002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8728563002
+
+#### 🔄 Wet Etch Equipment Engineer, Solar Cells (Starlink)
+**Greenhouse** · spacex · SI Satellite Solar Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932275002?gh_jid=8932275002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932275002
+
+#### 🔄 Wi-Fi Engineer, Hardware Reliability (Starlink)
+**Greenhouse** · spacex · Starlink Reliability - Bastrop
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8932736002?gh_jid=8932736002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8932736002
+
+#### 🔄 Wifi & RF Compliance Test Engineer (Starlink)
+**Greenhouse** · spacex · Radiation and Electromagnetic Effects
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8892607002?gh_jid=8892607002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8892607002
+
+#### 🔄 Wi-Fi Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Bastrop, TX | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8715500002?gh_jid=8715500002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8715500002
+
+#### 🔄 Wi-Fi Software Engineer (Starlink)
+**Greenhouse** · spacex · Starlink Product Engineering
+📍 Palo Alto, CA | 🔗 [Apply Here](https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002)
+🕐 Updated: 2026-11-25T17:55:59-05:00 | ID: 8715832002
+
+#### 🔄 Senior Software Engineer - Storage Engine, Database Internals - Elasticsearch
+**Greenhouse** · elastic · Platform - Elasticsearch
+📍 United States | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8066491&gh_jid=8066491)
+🕐 Updated: 2026-11-25T17:53:48-05:00 | ID: 8066491
+
+#### 🔄 Senior Back End Engineer, Platform
+**Greenhouse** · altruist · Engineering
+📍 San Francisco, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6183619004?gh_jid=6183619004)
+🕐 Updated: 2026-11-25T17:51:01-05:00 | ID: 6183619004
+
+#### 🔄 Senior Back End Engineer, Platform
+**Greenhouse** · altruist · Engineering
+📍 Los Angeles, CA | 🔗 [Apply Here](https://altruist.com/join-altruist/6183618004?gh_jid=6183618004)
+🕐 Updated: 2026-11-25T17:50:59-05:00 | ID: 6183618004
+
+#### 🔄 Senior Associate, Pricing & Commercial Operations
+**Greenhouse** · verkada · Pricing and Commercial Operations
+📍 San Mateo, CA United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5265168007)
+🕐 Updated: 2026-11-25T17:43:22-05:00 | ID: 5265168007
+
+#### 🔄 Senior Associate, Pricing & Commercial Operations
+**Greenhouse** · verkada · Pricing and Commercial Operations
+📍 New York City, NY United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5274927007)
+🕐 Updated: 2026-11-25T17:43:22-05:00 | ID: 5274927007
+
+#### 🔄 Senior Security Solutions Architect- SIEM
+**Greenhouse** · elastic · SA - EMEA - SIEM
+📍 The Netherlands | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8156268&gh_jid=8156268)
+🕐 Updated: 2026-11-25T17:25:52-05:00 | ID: 8156268
+
+#### 🔄 Staff Security Detection Engineer
+**Greenhouse** · databricks · Security
+📍 Mountain View, California; San Francisco, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8184634002)
+🕐 Updated: 2026-11-25T17:25:48-05:00 | ID: 8184634002
+
+#### 🔄 Sr. Sales Strategy Manager
+**Greenhouse** · samsara · Sales Business Operations
+📍 Remote - AZ; Remote - FL; Remote - GA; Remote - NC; Remote - NV; Remote - PA; Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8404531?gh_jid=8404531)
+🕐 Updated: 2026-11-25T17:16:27-05:00 | ID: 8404531
+
+#### 🔄 Senior Software Engineer, Data Platform
+**Greenhouse** · humaninterest · Engineering
+📍 United States, Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/8240178)
+🕐 Updated: 2026-11-25T17:15:09-05:00 | ID: 8240178
+
+#### 🔄 Senior Security Engineer, Detection & Response
+**Greenhouse** · robinhood · Security Division
+📍 Bellevue, WA; Denver, CO; Menlo Park, CA | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8202863?t=gh_src=&gh_jid=8202863)
+🕐 Updated: 2026-11-25T17:02:51-05:00 | ID: 8202863
+
+#### 🔄 Enterprise Account Executive, México
+**Greenhouse** · verkada · Global
+📍 Mexico City, Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4140723007)
+🕐 Updated: 2026-11-25T16:54:46-05:00 | ID: 4140723007
+
+#### 🔄 Systems Engineer - Database Platform
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016)
+🕐 Updated: 2026-11-25T16:53:05-05:00 | ID: 8158016
+
+#### 🔄 Security Engineer Intern
+**Greenhouse** · coinbase · Internships & Emerging Talent Positions
+📍 Hybrid - New York, NY | 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869)
+🕐 Updated: 2026-11-25T16:43:19-05:00 | ID: 8415869
+
+#### 🔄 Site Reliability Engineer
+**Greenhouse** · gusto · Engineering
+📍 Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8394537)
+🕐 Updated: 2026-11-25T16:42:26-05:00 | ID: 8394537
+
+#### 🔄 Head of Federal Channel
+**Greenhouse** · verkada · Channel
+📍 Washington, D.C. United States | 🔗 [Apply Here](https://job-boards.greenhouse.io/verkada/jobs/5207125007)
+🕐 Updated: 2026-11-25T16:35:52-05:00 | ID: 5207125007
+
+#### 🔄 Staff Security Engineer, Risk Engineering
+**Greenhouse** · anthropic · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5250052008)
+🕐 Updated: 2026-11-25T16:31:33-05:00 | ID: 5250052008
+
+#### 🔄 Data Center Site Selection - Hyperscale
+**Greenhouse** · cloudflare · Infrastructure
+📍 Hybrid | 🔗 [Apply Here](https://boards.greenhouse.io/cloudflare/jobs/8234130?gh_jid=8234130)
+🕐 Updated: 2026-11-25T16:29:23-05:00 | ID: 8234130
+
+#### 🔄 Senior Web Engineer, Profile & Community
+**Greenhouse** · airbnb · Software Engineering
+📍 Remote, USA | 🔗 [Apply Here](https://careers.airbnb.com/positions/8412312?gh_jid=8412312)
+🕐 Updated: 2026-11-25T16:24:06-05:00 | ID: 8412312
+
+#### 🔄 Senior Physical Security Operations Manager
+**Greenhouse** · robinhood · Physical Security Workplace and Real Estate
+📍 Menlo Park, CA; New York, NY | 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8259652?t=gh_src=&gh_jid=8259652)
+🕐 Updated: 2026-11-25T16:12:55-05:00 | ID: 8259652
+
+#### 🔄 Stripe Crypto Account Executive - Grower
+**Greenhouse** · stripe · 8589 Bridge - S&M
+📍 CHI, SF,NYC, SEA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8191708)
+🕐 Updated: 2026-11-25T16:12:24-05:00 | ID: 8191708
+
+#### 🔄 Director, New Vertical Sales - Auto Loans (Remote)
+**Greenhouse** · flex · Business Development
+📍 USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4742649005)
+🕐 Updated: 2026-11-25T16:12:08-05:00 | ID: 4742649005
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15783 fetched, 2954 updated, 71 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 79 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15892 fetched, 2954 updated, 71 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-25 21:12 UTC
 
 ### Greenhouse
