@@ -1,3 +1,542 @@
+## 📅 Run: 2026-11-27 22:40 UTC
+
+### Greenhouse
+
+#### 🆕 Software Engineer
+**Greenhouse** · stripe · Global Operations · 🎯 85%
+📍 South San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8421452)
+🕐 Updated: 2026-11-27T17:00:54-05:00 | ID: 8421452
+
+#### 🔄 Enterprise Customer Success Manager - Public Sector
+**Greenhouse** · samsara · Customer Success
+📍 Remote - AZ; Remote - Dallas; Remote - FL; Remote - GA; Remote - Houston; Remote - PA; Remote - TX | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8029099?gh_jid=8029099)
+🕐 Updated: 2026-11-27T16:46:53-05:00 | ID: 8029099
+
+#### 🔄 Core Account Executive - France
+**Greenhouse** · samsara · EU Sales
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8395112?gh_jid=8395112)
+🕐 Updated: 2026-11-27T16:03:51-05:00 | ID: 8395112
+
+#### 🆕 Software Engineer
+**Greenhouse** · stripe · Global Operations · 🎯 85%
+📍 South San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8421434)
+🕐 Updated: 2026-11-27T15:33:03-05:00 | ID: 8421434
+
+#### 🆕 Software Engineer, Backend
+**Greenhouse** · stripe · Global Operations · 🎯 85%
+📍 South San Francisco, CA | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8421387)
+🕐 Updated: 2026-11-27T15:24:56-05:00 | ID: 8421387
+
+#### 🔄 Senior Sales Engineer, France
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - France | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8382746?gh_jid=8382746)
+🕐 Updated: 2026-11-27T15:18:25-05:00 | ID: 8382746
+
+#### 🔄 Strategic Account Executive, Transportation and Logistics
+**Greenhouse** · databricks · Enterprise Sales
+📍 Remote - Denmark | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8736883002)
+🕐 Updated: 2026-11-27T14:50:38-05:00 | ID: 8736883002
+
+#### 🔄 Enterprise Account Executive, Benelux
+**Greenhouse** · databricks · Enterprise Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8589349002)
+🕐 Updated: 2026-11-27T14:50:34-05:00 | ID: 8589349002
+
+#### 🔄 Senior Strategy & Operations Manager - Revenue Optimization
+**Greenhouse** · adyen · Strategy & Execution
+📍 Amsterdam; Chicago; New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8113927)
+🕐 Updated: 2026-11-27T14:27:59-05:00 | ID: 8113927
+
+#### 🔄 Staff Technical Program Manager (R14286)
+**Greenhouse** · oportun · Engineering
+📍 Remote - US | 🔗 [Apply Here](https://job-boards.greenhouse.io/oportun/jobs/4739783005)
+🕐 Updated: 2026-11-27T14:25:24-05:00 | ID: 4739783005
+
+#### 🔄 Zoning Manager, US
+**Greenhouse** · waymo · GPS Offices/Labs/Mfg (69Z)
+📍 New York City, NY, USA; Washington, D.C., USA; Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8351324)
+🕐 Updated: 2026-11-27T13:47:54-05:00 | ID: 8351324
+
+#### 🔄 Associate Forward Deployed Engineer
+**Greenhouse** · databricks · Professional Services Operations
+📍 Mountain View, California | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002)
+🕐 Updated: 2026-11-27T13:32:40-05:00 | ID: 8910846002
+
+#### 🔄 Sales Manager, SMB, UKI
+**Greenhouse** · stripe · 1180 GEO Sales HQ (EMEA)
+📍 Dublin | 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8176728)
+🕐 Updated: 2026-11-27T12:50:07-05:00 | ID: 8176728
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · samsara · IT Security
+📍 Remote - Poland | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8281650?gh_jid=8281650)
+🕐 Updated: 2026-11-27T12:45:00-05:00 | ID: 8281650
+
+#### 🔄 Senior Security Operations Engineer
+**Greenhouse** · samsara · IT Security
+📍 Remote - Netherlands | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8281636?gh_jid=8281636)
+🕐 Updated: 2026-11-27T12:45:00-05:00 | ID: 8281636
+
+#### 🔄 Senior Software Engineer (GOlang, Engine)
+**Greenhouse** · workato · Product & Engineering
+📍 Barcelona, Spain; Madrid, Spain | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8929800002#open-roles)
+🕐 Updated: 2026-11-27T12:32:14-05:00 | ID: 8929800002
+
+#### 🔄 Senior Software Engineer (GOlang, Engine)
+**Greenhouse** · workato · Product & Engineering
+📍 Berlin, Germany; Frankfurt, Germany; Munich, Germany | 🔗 [Apply Here](https://www.workato.com/careers?gh_jid=8929803002#open-roles)
+🕐 Updated: 2026-11-27T12:32:12-05:00 | ID: 8929803002
+
+#### 🔄 Sales Specialist - Cloud
+**Greenhouse** · rubrik · Sales
+📍 Paris, France | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8385230?gh_jid=8385230)
+🕐 Updated: 2026-11-27T12:18:24-05:00 | ID: 8385230
+
+#### 🔄 AE Sales Specialist (SAAS)
+**Greenhouse** · rubrik · Sales
+📍 Dubai, UAE | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8355036?gh_jid=8355036)
+🕐 Updated: 2026-11-27T12:15:28-05:00 | ID: 8355036
+
+#### 🔄 Sales Specialist SaaS
+**Greenhouse** · rubrik · Sales
+📍 Paris, France | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8365286?gh_jid=8365286)
+🕐 Updated: 2026-11-27T12:15:13-05:00 | ID: 8365286
+
+#### 🔄 AE Sales Specialist (SAAS) - Netherlands
+**Greenhouse** · rubrik · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8356001?gh_jid=8356001)
+🕐 Updated: 2026-11-27T12:14:58-05:00 | ID: 8356001
+
+#### 🔄 AE Sales Specialist (SAAS) - UK
+**Greenhouse** · rubrik · Sales
+📍 London | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8355979?gh_jid=8355979)
+🕐 Updated: 2026-11-27T12:14:42-05:00 | ID: 8355979
+
+#### 🔄 AE Sales Specialist (Cloud)
+**Greenhouse** · rubrik · Sales
+📍 Amsterdam, North Holland, Netherlands | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8396001?gh_jid=8396001)
+🕐 Updated: 2026-11-27T12:14:30-05:00 | ID: 8396001
+
+#### 🔄 Manager, Inside Sales
+**Greenhouse** · samsara · Mexico
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8318831?gh_jid=8318831)
+🕐 Updated: 2026-11-27T12:00:09-05:00 | ID: 8318831
+
+#### 🔄 GTM Forward Deployed Engineer
+**Greenhouse** · adyen · Infrastructure
+📍 New York | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/7939712)
+🕐 Updated: 2026-11-27T11:48:13-05:00 | ID: 7939712
+
+#### 🔄 Senior Sales Engineer, DACH
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - Germany | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8359152?gh_jid=8359152)
+🕐 Updated: 2026-11-27T11:26:18-05:00 | ID: 8359152
+
+#### 🔄 Senior Security Analyst - GRC
+**Greenhouse** · ivalua · Information Security
+📍 Massy - France | 🔗 [Apply Here](https://boards.greenhouse.io/ivalua/jobs/7164654?gh_jid=7164654)
+🕐 Updated: 2026-11-27T11:23:07-05:00 | ID: 7164654
+
+#### 🔄 Architect, Finance Technology
+**Greenhouse** · okta · BT People Legal and Finance Technology-155
+📍 Bengaluru | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8411574?gh_jid=8411574)
+🕐 Updated: 2026-11-27T11:16:03-05:00 | ID: 8411574
+
+#### 🔄 Inside Account Executive (French speaking)
+**Greenhouse** · elastic · Sales - EMEA - North
+📍 Barcelona, Spain | 🔗 [Apply Here](https://jobs.elastic.co/jobs?gh_jid=8067200&gh_jid=8067200)
+🕐 Updated: 2026-11-27T11:06:36-05:00 | ID: 8067200
+
+#### 🔄 Senior Customer Success Engineer, Japan
+**Greenhouse** · rubrik · Support
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8143267?gh_jid=8143267)
+🕐 Updated: 2026-11-27T10:57:15-05:00 | ID: 8143267
+
+#### 🔄 Senior Global Account Manager - GSI, Singapore
+**Greenhouse** · rubrik · Sales
+📍 Singapore | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8385224?gh_jid=8385224)
+🕐 Updated: 2026-11-27T10:53:03-05:00 | ID: 8385224
+
+#### 🔄 Sr. Solutions Architect - Public Sector (Manufacturing / Supply Chain)
+**Greenhouse** · databricks · Field Engineering - FE Direct Regulated
+📍 United States | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8893767002)
+🕐 Updated: 2026-11-27T10:44:53-05:00 | ID: 8893767002
+
+#### 🔄 Channels Development Manager, India
+**Greenhouse** · rubrik · Sales
+📍 India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8382786?gh_jid=8382786)
+🕐 Updated: 2026-11-27T10:41:48-05:00 | ID: 8382786
+
+#### 🔄 Senior Specialist Solutions Engineer (Security, Networking, Cloud Platform)
+**Greenhouse** · databricks · Field Engineering - Other
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8657553002)
+🕐 Updated: 2026-11-27T10:41:07-05:00 | ID: 8657553002
+
+#### 🔄 Applications Engineer 2
+**Greenhouse** · twilio · Sales Operations
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7781659)
+🕐 Updated: 2026-11-27T10:30:38-05:00 | ID: 7781659
+
+#### 🔄 Strategic Account Executive (German Speaking)
+**Greenhouse** · twilio · Sales
+📍 Remote - Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7865849)
+🕐 Updated: 2026-11-27T10:30:07-05:00 | ID: 7865849
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8028958)
+🕐 Updated: 2026-11-27T10:29:59-05:00 | ID: 8028958
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8028473)
+🕐 Updated: 2026-11-27T10:29:54-05:00 | ID: 8028473
+
+#### 🔄 Security Engineer, Incident Response
+**Greenhouse** · twilio · Security
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8055481)
+🕐 Updated: 2026-11-27T10:29:48-05:00 | ID: 8055481
+
+#### 🔄 Strategic Account Excecutive
+**Greenhouse** · twilio · Sales
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8076981)
+🕐 Updated: 2026-11-27T10:29:39-05:00 | ID: 8076981
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157509)
+🕐 Updated: 2026-11-27T10:29:31-05:00 | ID: 8157509
+
+#### 🔄 Senior Strategic Account Executive (French Speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8157507)
+🕐 Updated: 2026-11-27T10:29:28-05:00 | ID: 8157507
+
+#### 🔄 New Business Account Executive
+**Greenhouse** · twilio · Sales Development
+📍 Remote - Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8125581)
+🕐 Updated: 2026-11-27T10:29:25-05:00 | ID: 8125581
+
+#### 🔄 Solution Engineer
+**Greenhouse** · twilio · Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8114393)
+🕐 Updated: 2026-11-27T10:29:14-05:00 | ID: 8114393
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8160532)
+🕐 Updated: 2026-11-27T10:29:11-05:00 | ID: 8160532
+
+#### 🔄 New Business Account Executive (German speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8143768)
+🕐 Updated: 2026-11-27T10:29:08-05:00 | ID: 8143768
+
+#### 🔄 Sales Development Representative 2
+**Greenhouse** · twilio · Sales
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8112239)
+🕐 Updated: 2026-11-27T10:28:38-05:00 | ID: 8112239
+
+#### 🔄 DevOps Engineer (Observability)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8108771)
+🕐 Updated: 2026-11-27T10:28:32-05:00 | ID: 8108771
+
+#### 🔄 Staff Machine Learning Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258593)
+🕐 Updated: 2026-11-27T10:28:23-05:00 | ID: 8258593
+
+#### 🔄 Staff Machine Learning Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ontario, Canada (DNU) | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258589)
+🕐 Updated: 2026-11-27T10:28:17-05:00 | ID: 8258589
+
+#### 🔄 Machine Learning Engineer (L3)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258587)
+🕐 Updated: 2026-11-27T10:28:07-05:00 | ID: 8258587
+
+#### 🔄 Payroll Tax and Compliance Analyst
+**Greenhouse** · twilio · Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8265268)
+🕐 Updated: 2026-11-27T10:27:58-05:00 | ID: 8265268
+
+#### 🔄 Presales Engineer
+**Greenhouse** · twilio · Solutions Engineering
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8243073)
+🕐 Updated: 2026-11-27T10:27:55-05:00 | ID: 8243073
+
+#### 🔄 Staff Software Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8240288)
+🕐 Updated: 2026-11-27T10:27:52-05:00 | ID: 8240288
+
+#### 🔄 Billing Operations Analyst 1
+**Greenhouse** · twilio · Accounting
+📍 Remote - Mexico | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261245)
+🕐 Updated: 2026-11-27T10:27:43-05:00 | ID: 8261245
+
+#### 🔄 Onboarding Operations Specialist 1
+**Greenhouse** · twilio · Service Operations
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8261279)
+🕐 Updated: 2026-11-27T10:27:40-05:00 | ID: 8261279
+
+#### 🔄 Principal Presales Engineer, Product Specialist
+**Greenhouse** · twilio · Sales
+📍 Remote - Brazil | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8267928)
+🕐 Updated: 2026-11-27T10:27:28-05:00 | ID: 8267928
+
+#### 🔄 Senior Internal Auditor
+**Greenhouse** · twilio · Finance
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8256912)
+🕐 Updated: 2026-11-27T10:27:26-05:00 | ID: 8256912
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Enterprise Sales
+📍 Remote - Japan | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8350289)
+🕐 Updated: 2026-11-27T10:27:18-05:00 | ID: 8350289
+
+#### 🔄 Staff Machine Learning Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ontario, Canada (DNU) | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258581)
+🕐 Updated: 2026-11-27T10:27:11-05:00 | ID: 8258581
+
+#### 🔄 Senior Field Marketing Manager - DACH
+**Greenhouse** · twilio · Marketing
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8306461)
+🕐 Updated: 2026-11-27T10:27:09-05:00 | ID: 8306461
+
+#### 🔄 Senior Field Marketing Manager - North
+**Greenhouse** · twilio · Marketing
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8306459)
+🕐 Updated: 2026-11-27T10:26:59-05:00 | ID: 8306459
+
+#### 🔄 Software Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8258573)
+🕐 Updated: 2026-11-27T10:26:54-05:00 | ID: 8258573
+
+#### 🔄 Senior International Payroll Analyst
+**Greenhouse** · twilio · Accounting
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8249285)
+🕐 Updated: 2026-11-27T10:26:30-05:00 | ID: 8249285
+
+#### 🔄 Executive Assistant 3
+**Greenhouse** · twilio · Administration
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8281950)
+🕐 Updated: 2026-11-27T10:26:26-05:00 | ID: 8281950
+
+#### 🔄 Technical Support Expert 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8280711)
+🕐 Updated: 2026-11-27T10:26:21-05:00 | ID: 8280711
+
+#### 🔄 Phone Number specialist 1
+**Greenhouse** · twilio · Business Operations
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8334053)
+🕐 Updated: 2026-11-27T10:26:02-05:00 | ID: 8334053
+
+#### 🔄 Strategic Account Executive
+**Greenhouse** · twilio · Enterprise Sales
+📍 Remote - Australia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8330326)
+🕐 Updated: 2026-11-27T10:25:56-05:00 | ID: 8330326
+
+#### 🔄 Phone Number specialist 1
+**Greenhouse** · twilio · Service Operations
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8346263)
+🕐 Updated: 2026-11-27T10:25:40-05:00 | ID: 8346263
+
+#### 🔄 Personalized Support Engineer
+**Greenhouse** · twilio · Customer Support
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8213730)
+🕐 Updated: 2026-11-27T10:25:29-05:00 | ID: 8213730
+
+#### 🔄 Staff, Software Engineer (L4)
+**Greenhouse** · twilio · Engineering
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8319434)
+🕐 Updated: 2026-11-27T10:25:05-05:00 | ID: 8319434
+
+#### 🔄 Presales Architect
+**Greenhouse** · twilio · Enterprise Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8405829)
+🕐 Updated: 2026-11-27T10:25:02-05:00 | ID: 8405829
+
+#### 🔄 Strategic Account Executive 3 (Central EMEA)
+**Greenhouse** · twilio · Sales
+📍 Remote - UK, Spain, Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8405815)
+🕐 Updated: 2026-11-27T10:24:59-05:00 | ID: 8405815
+
+#### 🔄 Software Engineer (L2) Supernetwork
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8405809)
+🕐 Updated: 2026-11-27T10:24:53-05:00 | ID: 8405809
+
+#### 🔄 Software Engineer (L2) SuperNetwork
+**Greenhouse** · twilio · Engineering
+📍 Remote - Estonia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8405807)
+🕐 Updated: 2026-11-27T10:24:50-05:00 | ID: 8405807
+
+#### 🔄 Presales Architect
+**Greenhouse** · twilio · Enterprise Sales
+📍 Remote - Singapore | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8405801)
+🕐 Updated: 2026-11-27T10:24:47-05:00 | ID: 8405801
+
+#### 🔄 Senior HR Partner
+**Greenhouse** · twilio · People Team
+📍 Remote - Canada | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8393935)
+🕐 Updated: 2026-11-27T10:24:41-05:00 | ID: 8393935
+
+#### 🔄 New Business Account Executive (Hebrew speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8394776)
+🕐 Updated: 2026-11-27T10:24:35-05:00 | ID: 8394776
+
+#### 🔄 Personalized Support Engineer 2
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8406763)
+🕐 Updated: 2026-11-27T10:24:25-05:00 | ID: 8406763
+
+#### 🔄 Personalized Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8406761)
+🕐 Updated: 2026-11-27T10:24:23-05:00 | ID: 8406761
+
+#### 🔄 Technical Account Manager 3
+**Greenhouse** · twilio · Services
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8406753)
+🕐 Updated: 2026-11-27T10:24:05-05:00 | ID: 8406753
+
+#### 🔄 Phone Numbers Operations Specialist 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8355801)
+🕐 Updated: 2026-11-27T10:23:52-05:00 | ID: 8355801
+
+#### 🔄 Technical Account Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8379039)
+🕐 Updated: 2026-11-27T10:23:49-05:00 | ID: 8379039
+
+#### 🔄 Personalized Support Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8366792)
+🕐 Updated: 2026-11-27T10:23:46-05:00 | ID: 8366792
+
+#### 🔄 Technical Support Engineer 2
+**Greenhouse** · twilio · Customer Support
+📍 Remote - Colombia | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8383319)
+🕐 Updated: 2026-11-27T10:23:34-05:00 | ID: 8383319
+
+#### 🔄 Staff Data Engineer
+**Greenhouse** · twilio · Engineering
+📍 Remote - Ireland | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8393933)
+🕐 Updated: 2026-11-27T10:23:26-05:00 | ID: 8393933
+
+#### 🔄 New Business Account Executive (French speaker)
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8394774)
+🕐 Updated: 2026-11-27T10:23:24-05:00 | ID: 8394774
+
+#### 🔄 New Business Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8385420)
+🕐 Updated: 2026-11-27T10:23:15-05:00 | ID: 8385420
+
+#### 🔄 Staff, Technical Account Manager
+**Greenhouse** · twilio · Customer Support
+📍 Remote - India | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8385881)
+🕐 Updated: 2026-11-27T10:23:12-05:00 | ID: 8385881
+
+#### 🔄 New Business Account Executive
+**Greenhouse** · twilio · Sales
+📍 Remote - United Kingdom | 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/8383015)
+🕐 Updated: 2026-11-27T10:23:02-05:00 | ID: 8383015
+
+#### 🔄 Head of Tech Support EMEA
+**Greenhouse** · adyen · Support
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8138721)
+🕐 Updated: 2026-11-27T10:09:25-05:00 | ID: 8138721
+
+#### 🔄 Sales Specialist Unstructured Data, India
+**Greenhouse** · rubrik · Sales
+📍 India/ASEAN | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8345590?gh_jid=8345590)
+🕐 Updated: 2026-11-27T10:04:40-05:00 | ID: 8345590
+
+#### 🔄 Software Engineer (Full-Stack)
+**Greenhouse** · adyen · Development
+📍 Amsterdam | 🔗 [Apply Here](https://job-boards.greenhouse.io/adyen/jobs/8105757)
+🕐 Updated: 2026-11-27T09:56:21-05:00 | ID: 8105757
+
+#### 🔄 Sales Specialist SaaS, India
+**Greenhouse** · rubrik · Sales
+📍 India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8336677?gh_jid=8336677)
+🕐 Updated: 2026-11-27T09:51:39-05:00 | ID: 8336677
+
+#### 🔄 Sales Specialist SaaS, Japan
+**Greenhouse** · rubrik · Sales
+📍 Tokyo, Japan | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8336565?gh_jid=8336565)
+🕐 Updated: 2026-11-27T09:50:43-05:00 | ID: 8336565
+
+#### 🔄 Sales Specialist Identity, India
+**Greenhouse** · rubrik · Sales
+📍 India | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8385257?gh_jid=8385257)
+🕐 Updated: 2026-11-27T09:46:10-05:00 | ID: 8385257
+
+#### 🔄 Sales Specialist Identity, Australia
+**Greenhouse** · rubrik · Sales
+📍 Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8385249?gh_jid=8385249)
+🕐 Updated: 2026-11-27T09:41:59-05:00 | ID: 8385249
+
+#### 🔄 Forward Deployed Software Engineering Manager
+**Greenhouse** · databricks · Professional Services Operations
+📍 London, United Kingdom | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002)
+🕐 Updated: 2026-11-27T09:41:14-05:00 | ID: 8910850002
+
+#### 🔄 Sales Specialist SaaS, Australia
+**Greenhouse** · rubrik · Sales
+📍 Australia | 🔗 [Apply Here](https://www.rubrik.com/company/careers/departments/job.8336535?gh_jid=8336535)
+🕐 Updated: 2026-11-27T09:40:46-05:00 | ID: 8336535
+
+#### 🔄 Lead Finance Business Partner (Services & Value Engineering)
+**Greenhouse** · celonis · Finance
+📍 Madrid, Spain | 🔗 [Apply Here](https://job-boards.greenhouse.io/celonis/jobs/7802378003?gh_jid=7802378003)
+🕐 Updated: 2026-11-27T09:33:30-05:00 | ID: 7802378003
+
+#### 🔄 Manager,  Commercial Sales Engineering
+**Greenhouse** · datadog · Commercial & Mid-Market Sales Engineering
+📍 Boston, Massachusetts, USA | 🔗 [Apply Here](https://careers.datadoghq.com/detail/8403219/?gh_jid=8403219)
+🕐 Updated: 2026-11-27T09:32:16-05:00 | ID: 8403219
+
+#### 🔄 Senior Key Accounts Manager
+**Greenhouse** · airbnb · Sales
+📍 Amsterdam, Netherlands | 🔗 [Apply Here](https://careers.airbnb.com/positions/8383090?gh_jid=8383090)
+🕐 Updated: 2026-11-27T09:32:12-05:00 | ID: 8383090
+
+#### 🔄 Senior Key Accounts Manager
+**Greenhouse** · airbnb · Sales
+📍 Paris, France | 🔗 [Apply Here](https://careers.airbnb.com/positions/8383084?gh_jid=8383084)
+🕐 Updated: 2026-11-27T09:29:44-05:00 | ID: 8383084
+
+#### 🔄 Manager, Mid-Market Sales Engineering-Mexico
+**Greenhouse** · samsara · Sales Engineering
+📍 Remote - Mexico | 🔗 [Apply Here](https://www.samsara.com/company/careers/roles/8386022?gh_jid=8386022)
+🕐 Updated: 2026-11-27T09:23:42-05:00 | ID: 8386022
+
+#### 🔄 Senior Support Specialist, Premium
+**Greenhouse** · airbnb · Community Support
+📍 Gurugram, India | 🔗 [Apply Here](https://careers.airbnb.com/positions/8225578?gh_jid=8225578)
+🕐 Updated: 2026-11-27T09:19:21-05:00 | ID: 8225578
+
+## ATS Summary
+- **Greenhouse**: 3 new, 15779 fetched, 102 updated, 34 cap-skipped, 3 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 79 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 3 new, 15888 fetched, 102 updated, 34 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-27 14:06 UTC
 
 ### Greenhouse
