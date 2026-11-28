@@ -69160,7 +69160,7 @@
     "alerted": false
   },
   "greenhouse:databricks:5898477002": {
-    "updated_at": "2026-11-19T08:02:56-05:00",
+    "updated_at": "2026-11-28T15:02:36-05:00",
     "title": "Solutions Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -252144,7 +252144,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:7429337002": {
-    "updated_at": "2026-11-27T05:39:58-05:00",
+    "updated_at": "2026-11-28T09:51:49-05:00",
     "title": "Technical Support Engineer - AMER",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -287096,7 +287096,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5382744008": {
-    "updated_at": "2026-08-21T12:50:48-04:00",
+    "updated_at": "2026-11-28T09:36:24-05:00",
     "title": "Infrastructure Capacity Planner, Demand Planning",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -287152,7 +287152,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5382750008": {
-    "updated_at": "2026-08-21T12:50:48-04:00",
+    "updated_at": "2026-11-28T09:37:00-05:00",
     "title": "AI Infrastructure Operations, Demand Planning",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -396024,7 +396024,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8301900": {
-    "updated_at": "2026-11-12T16:59:24-05:00",
+    "updated_at": "2026-11-28T09:52:50-05:00",
     "title": "Staff ML Accelerator Architect",
     "company": "waymo",
     "ats": "greenhouse",
@@ -401248,8 +401248,8 @@
     "alerted": false
   },
   "greenhouse:okta:7780376": {
-    "updated_at": "2026-10-22T03:41:58-04:00",
-    "title": "Senior Software Engineer - Java",
+    "updated_at": "2026-11-28T10:37:07-05:00",
+    "title": "Senior Software Engineer - (Java & System design)",
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
@@ -436000,7 +436000,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8380173": {
-    "updated_at": "2026-11-12T16:59:24-05:00",
+    "updated_at": "2026-11-28T09:52:41-05:00",
     "title": "Senior Signal Integrity and Power Integrity Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -450296,7 +450296,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5490978008": {
-    "updated_at": "2026-11-20T13:05:21-05:00",
+    "updated_at": "2026-11-28T09:35:46-05:00",
     "title": "Principal Engineer Capacity/Compute",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -450312,7 +450312,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5490976008": {
-    "updated_at": "2026-11-20T13:05:11-05:00",
+    "updated_at": "2026-11-28T09:35:03-05:00",
     "title": "Principal Engineer Capacity/Compute",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -450320,7 +450320,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5490974008": {
-    "updated_at": "2026-11-20T13:04:58-05:00",
+    "updated_at": "2026-11-28T09:34:19-05:00",
     "title": "Principal Engineer Capacity/Compute",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -454488,7 +454488,7 @@
     "alerted": true
   },
   "greenhouse:flex:4758115005": {
-    "updated_at": "2026-11-25T16:06:07-05:00",
+    "updated_at": "2026-11-28T15:48:03-05:00",
     "title": "Senior Strategic Account Manager",
     "company": "flex",
     "ats": "greenhouse",
@@ -460094,5 +460094,77 @@
     "ats": "greenhouse",
     "source_slug": "stripe",
     "alerted": true
+  },
+  "greenhouse:elastic:8423008": {
+    "updated_at": "2026-11-28T14:29:18-05:00",
+    "title": "Senior Software Engineer - Serverless - Platform Control Plane",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8274558": {
+    "updated_at": "2026-11-28T14:29:16-05:00",
+    "title": "Senior Software Engineer - Serverless - Platform Control Plane",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:okta:8411945": {
+    "updated_at": "2026-11-28T12:03:56-05:00",
+    "title": "Sr. Director, Finance, Legal & People Business Systems",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:elastic:8274523": {
+    "updated_at": "2026-11-28T11:51:35-05:00",
+    "title": "Senior Software Engineer - Serverless - Platform Control Plane",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8422866": {
+    "updated_at": "2026-11-28T11:51:33-05:00",
+    "title": "Senior Software Developer - Serverless - Platform Control Plane",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:waymo:8422771": {
+    "updated_at": "2026-11-28T10:01:30-05:00",
+    "title": "Senior Systems Engineer, Vehicle Security",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:datadog:8421876": {
+    "updated_at": "2026-11-27T23:19:28-05:00",
+    "title": "Strategic Account Executive",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:spacex:8964443002": {
+    "updated_at": "2026-11-27T20:25:08-05:00",
+    "title": "Starlink Aviation Integration Technician - 2nd Shift",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8963786002": {
+    "updated_at": "2026-11-27T18:05:12-05:00",
+    "title": "Data Scientist, Enterprise Analytics",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
   }
 }

@@ -1,3 +1,72 @@
+## 📅 Run: 2026-11-28 20:53 UTC
+
+### Greenhouse
+
+#### 🔄 Senior Strategic Account Manager
+**Greenhouse** · flex · Business Development
+📍 USA | 🔗 [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4758115005)
+🕐 Updated: 2026-11-28T15:48:03-05:00 | ID: 4758115005
+
+#### 🔄 Solutions Architect
+**Greenhouse** · databricks · Field Engineering
+📍 Toronto, Canada | 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=5898477002)
+🕐 Updated: 2026-11-28T15:02:36-05:00 | ID: 5898477002
+
+#### 🔄 Senior Software Engineer - (Java & System design)
+**Greenhouse** · okta · SW Eng - Applications-674
+📍 Bengaluru | 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7780376?gh_jid=7780376)
+🕐 Updated: 2026-11-28T10:37:07-05:00 | ID: 7780376
+
+#### 🔄 Staff ML Accelerator Architect
+**Greenhouse** · waymo · Compute (7LR)
+📍 Mountain View, CA, USA; New York, New York, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8301900)
+🕐 Updated: 2026-11-28T09:52:50-05:00 | ID: 8301900
+
+#### 🔄 Senior Signal Integrity and Power Integrity Engineer
+**Greenhouse** · waymo · Signal (83K)
+📍 Mountain View, CA, USA | 🔗 [Apply Here](https://careers.withwaymo.com/jobs?gh_jid=8380173)
+🕐 Updated: 2026-11-28T09:52:41-05:00 | ID: 8380173
+
+#### 🔄 Technical Support Engineer - AMER
+**Greenhouse** · bitgo · Operations
+📍 India | 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/7429337002)
+🕐 Updated: 2026-11-28T09:51:49-05:00 | ID: 7429337002
+
+#### 🔄 AI Infrastructure Operations, Demand Planning
+**Greenhouse** · anthropic · Software Engineering - Infrastructure
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5382750008)
+🕐 Updated: 2026-11-28T09:37:00-05:00 | ID: 5382750008
+
+#### 🔄 Infrastructure Capacity Planner, Demand Planning
+**Greenhouse** · anthropic · Software Engineering - Infrastructure
+📍 San Francisco, CA | New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5382744008)
+🕐 Updated: 2026-11-28T09:36:24-05:00 | ID: 5382744008
+
+#### 🔄 Principal Engineer Capacity/Compute
+**Greenhouse** · anthropic · Software Engineering - Infrastructure
+📍 Seattle, WA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5490978008)
+🕐 Updated: 2026-11-28T09:35:46-05:00 | ID: 5490978008
+
+#### 🔄 Principal Engineer Capacity/Compute
+**Greenhouse** · anthropic · Software Engineering - Infrastructure
+📍 New York City, NY | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5490976008)
+🕐 Updated: 2026-11-28T09:35:03-05:00 | ID: 5490976008
+
+#### 🔄 Principal Engineer Capacity/Compute
+**Greenhouse** · anthropic · Software Engineering - Infrastructure
+📍 San Francisco, CA | 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5490974008)
+🕐 Updated: 2026-11-28T09:34:19-05:00 | ID: 5490974008
+
+## ATS Summary
+- **Greenhouse**: 0 new, 15792 fetched, 11 updated, 9 cap-skipped, 0 alerts
+- **Lever**: 0 new, 30 fetched, 0 updated, 0 cap-skipped, 0 alerts
+- **Ashby**: 0 new, 79 fetched, 0 updated, 0 cap-skipped, 0 alerts
+
+- **Run total**: 0 new, 15901 fetched, 11 updated, 9 cap-skipped
+
+
+---
+
 ## 📅 Run: 2026-11-28 13:03 UTC
 
 ### Greenhouse
